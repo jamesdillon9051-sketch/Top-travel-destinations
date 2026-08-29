@@ -1,10 +1,9 @@
 /**
  * Every link on the site goes through `url()`.
  *
- * GitHub Pages serves this project from a sub-path
- * (https://<user>.github.io/Top-travel-destinations-/), so no template may emit
- * a bare root-absolute href. Setting BASE_PATH=/ produces a build that can be
- * served straight out of docs/ for local preview.
+ * The site is served from the domain root, so every generated href, asset
+ * link and image src is root-relative (starts with `/`). Set BASE_PATH to
+ * override this at build time — e.g. for previewing under a sub-path.
  */
 
 let basePath = '/';
@@ -21,7 +20,7 @@ export function getBasePath() {
   return basePath;
 }
 
-/** Site-relative URL. `url('france/paris')` → `/Top-travel-destinations-/france/paris/`. */
+/** Site-relative URL. `url('france/paris')` → `/france/paris/`. */
 export function url(path = '') {
   const clean = String(path).replace(/^\/+/, '');
   if (!clean) return basePath;
