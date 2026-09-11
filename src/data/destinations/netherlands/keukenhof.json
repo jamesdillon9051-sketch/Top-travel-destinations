@@ -1,0 +1,353 @@
+{
+  "slug": "keukenhof",
+  "name": "Keukenhof & the Bollenstreek",
+  "country": "netherlands",
+  "region": "South Holland (Lisse)",
+  "categories": ["nature", "scenic", "seasonal"],
+  "tagline": "The world's largest flower garden, open only about eight weeks a year, surrounded by a patchwork of commercial bulb fields turned solid blocks of colour each spring.",
+  "highlight": "A path through Keukenhof's historic woodland suddenly opening onto a river of thousands of tulips in a single colour, planted fresh every autumn for exactly this moment.",
+  "shortDescription": "The world's largest flower garden, open only in spring, surrounded by the Bollenstreek's commercial tulip fields at their genuine, uncropped scale.",
+  "metaDescription": "A Keukenhof travel guide: the gardens, the surrounding tulip fields, the flower parade, when to go and a practical day-trip itinerary.",
+  "suggestedStay": "Half a day to a full day (seasonal, roughly mid-March to mid-May only)",
+  "nearestAirport": "Amsterdam Schiphol (AMS), about 30 minutes away",
+  "knownFor": "Tulip fields, the Keukenhof gardens, the Bloemencorso flower parade",
+  "budget": "€60–110 per day, mid-range (day-trip from Amsterdam or Leiden)",
+  "goodFor": "Photography, flowers, a genuinely spectacular spring day trip",
+  "coords": { "lat": 52.2734, "lng": 4.5470 },
+  "image": {
+    "file": "File:Red and yellow tulips from Keukenhof, The Netherlands.jpg",
+    "alt": "Rows of red and yellow tulips in bloom at Keukenhof gardens"
+  },
+  "intro": [
+    "Keukenhof is genuinely the world's largest flower garden, planting over seven million bulbs fresh every autumn so that roughly 800 tulip varieties, alongside daffodils, hyacinths and other spring bulbs, bloom in careful, deliberate sequence across 32 hectares of historic parkland for about eight weeks each spring — and then the garden closes for the rest of the year.",
+    "The garden itself, designed as an English landscape park in 1857 by Jan David Zocher Jr., sits inside the Bollenstreek, the 'bulb region' stretching along the coast between Haarlem and Leiden, where commercial growers plant the fields that supply much of the world's tulip bulbs. Keukenhof is the curated, walkable showcase; the surrounding fields are the genuine working landscape, visible for kilometres in solid blocks of colour from the roads and cycle paths around Lisse.",
+    "Because Keukenhof only opens for a fixed spring window, timing is genuinely the whole story here — get the dates right and it is one of the most photographed sights in Europe; visit outside the season and there is comparatively little to see at all."
+  ],
+  "whyVisit": {
+    "intro": "Keukenhof's case is a genuinely unmatched concentration of spring bulb flowers, in a historic garden setting surrounded by the working fields that supply them.",
+    "points": [
+      {
+        "title": "It's genuinely the world's largest flower garden",
+        "text": "Over seven million bulbs, planted fresh each autumn, bloom across 32 hectares of historic parkland for a single spring window."
+      },
+      {
+        "title": "The surrounding fields are genuinely the real thing",
+        "text": "Unlike a purely curated garden, Keukenhof sits inside a genuine commercial bulb-growing region, visible at full scale from the surrounding roads and cycle paths."
+      },
+      {
+        "title": "The garden design is genuinely historic in its own right",
+        "text": "Jan David Zocher Jr.'s 1857 English landscape design still shapes the park's paths and woodland setting today."
+      },
+      {
+        "title": "It's a genuinely easy day trip",
+        "text": "Direct tourist buses run from Amsterdam and Schiphol Airport in season, no car required."
+      },
+      {
+        "title": "The Bloemencorso adds a genuine annual spectacle",
+        "text": "A flower parade of elaborately decorated floats passes through the Bollenstreek each April, timed to overlap with the garden's opening."
+      }
+    ]
+  },
+  "attractionsIntro": "Keukenhof's essential sights are the garden itself and the working bulb-growing landscape immediately around it.",
+  "attractions": [
+    {
+      "name": "The Keukenhof flower displays",
+      "image": {
+        "file": "File:Red and yellow tulips from Keukenhof, The Netherlands.jpg",
+        "alt": "Rows of red and yellow tulips in bloom at Keukenhof gardens"
+      },
+      "text": "Over seven million bulbs, replanted fresh every autumn, bloom in carefully sequenced colour across the garden's 32 hectares, with different sections peaking at slightly different points through the roughly eight-week season.",
+      "tip": "Bloom timing varies within the season — daffodils and early tulips lead, with peak tulip colour usually mid-April."
+    },
+    {
+      "name": "The historic windmill",
+      "image": {
+        "file": "File:Keukenhof windmill.jpg",
+        "alt": "A traditional windmill overlooking the tulip fields at Keukenhof"
+      },
+      "text": "A traditional Dutch windmill at the edge of the garden, genuinely offering the classic postcard combination of mill and tulip fields, with a viewing platform looking out over the surrounding Bollenstreek.",
+      "tip": "Climb the windmill's platform for the best overview of both the garden and the working fields beyond its boundary."
+    },
+    {
+      "name": "Kasteel Keukenhof",
+      "image": {
+        "file": "File:Kasteel De Keukenhof - Lisse - 20414840 - RCE.jpg",
+        "alt": "Kasteel Keukenhof, the historic castle at the heart of the gardens"
+      },
+      "text": "A genuinely historic castle at the centre of the grounds, its estate dating back to the 15th century, long before the surrounding bulb garden was ever planted.",
+      "tip": "The castle's own grounds and gardens are worth a slower look, genuinely distinct from the main bulb displays nearby."
+    },
+    {
+      "name": "The Bollenstreek bulb fields",
+      "image": {
+        "file": "File:Tulip field in Holland.jpg",
+        "alt": "Rows of brightly coloured tulips stretching across a field in the Bollenstreek"
+      },
+      "text": "The commercial growing region surrounding Keukenhof, its fields genuinely stretching to the horizon in solid blocks of single-colour tulips, visible from the roads and cycle paths around Lisse, Sassenheim and Noordwijk.",
+      "tip": "A short cycle or drive outside the garden itself gives a genuinely different sense of scale from the curated displays inside."
+    },
+    {
+      "name": "Museum de Zwarte Tulp",
+      "image": {
+        "file": "File:Museum De Zwarte Tulp - Lisse.jpg",
+        "alt": "Museum de Zwarte Tulp, the bulb-growing history museum in Lisse"
+      },
+      "text": "A small museum in nearby Lisse genuinely dedicated to the region's bulb-growing history, including the story of 'tulip mania', the speculative 17th-century bulb trade that briefly made single tulip bulbs worth more than houses.",
+      "tip": "A genuinely worthwhile rainy-day or off-season stop for context the garden itself doesn't provide."
+    },
+    {
+      "name": "The themed flower pavilions",
+      "image": {
+        "file": "File:Tulips and tree at Keukenhof gardens.jpg",
+        "alt": "Flower displays inside one of Keukenhof's indoor pavilions"
+      },
+      "text": "Several indoor exhibition halls genuinely extend the garden's displays with arranged cut-flower shows and themed exhibitions, useful shelter on a rainy day without losing the flowers themselves.",
+      "tip": "The pavilions rotate their exhibitions through the season — worth a look even for visitors focused mainly on the outdoor gardens."
+    }
+  ],
+  "thingsToDoIntro": "Keukenhof rewards genuinely getting out into the wider bulb-growing landscape, not just the garden's paths.",
+  "thingsToDo": [
+    {
+      "title": "Cycle through the surrounding bulb fields",
+      "image": {
+        "file": "File:Tulip field in Holland.jpg",
+        "alt": "Cycling paths running alongside tulip fields near Keukenhof"
+      },
+      "text": "Dedicated cycle paths genuinely wind through the working fields around Lisse, Sassenheim and Noordwijk, giving a scale and perspective the garden alone can't.",
+      "tip": "Bike rental is available right at Keukenhof's entrance — a genuinely popular way to extend a visit beyond the garden itself."
+    },
+    {
+      "title": "See the Bloemencorso flower parade",
+      "image": {
+        "file": "File:00 6650 Niederlande - Blumencorso (Bloemencorso Bollenstreek).jpg",
+        "alt": "An elaborately decorated flower float at the Bloemencorso Bollenstreek parade"
+      },
+      "text": "An annual parade of elaborately flower-covered floats genuinely passes through the Bollenstreek each April, timed to overlap with Keukenhof's opening season.",
+      "tip": "Check the current year's exact parade date and route well ahead — it runs on a single specific day, not throughout the season."
+    },
+    {
+      "title": "Photograph the windmill among the tulips",
+      "image": {
+        "file": "File:Keukenhof windmill.jpg",
+        "alt": "The windmill at Keukenhof surrounded by blooming tulip fields"
+      },
+      "text": "The combination of windmill and tulip fields is genuinely the classic Dutch postcard image, and Keukenhof's own mill delivers it without needing to travel elsewhere.",
+      "tip": "Morning light, before the garden gets busy, genuinely gives the best photos with the fewest people in frame."
+    },
+    {
+      "title": "Take a canal boat through the gardens",
+      "text": "Small boats genuinely run through some of Keukenhof's waterways in season, offering a lower, different vantage point on the flower displays than walking alone.",
+      "tip": "Boat tours run seasonally and can queue up on busy days — check current availability at the entrance."
+    },
+    {
+      "title": "Buy export-certified bulbs to take home",
+      "text": "Several stands at Keukenhof and in the surrounding towns genuinely sell bulbs with export certification, letting visitors legally bring tulip bulbs back through customs.",
+      "tip": "Check your home country's import rules before buying — certification requirements do vary."
+    },
+    {
+      "title": "Visit Kasteel Keukenhof's grounds",
+      "image": {
+        "file": "File:Kasteel De Keukenhof - Lisse - 20414840 - RCE.jpg",
+        "alt": "The grounds of Kasteel Keukenhof castle within the gardens"
+      },
+      "text": "The historic castle's own gardens genuinely predate the bulb displays by centuries, a quieter counterpoint to the main garden's crowds.",
+      "tip": "Worth a slower loop specifically for visitors who've already seen the main tulip displays and want a change of pace."
+    }
+  ],
+  "foodIntro": "Food at Keukenhof and in the surrounding Bollenstreek towns runs on the same genuine Dutch classics found across the country.",
+  "foods": [
+    {
+      "name": "Stroopwafel",
+      "image": {
+        "file": "File:Stroopwafels 01.jpg",
+        "alt": "Stroopwafels, thin waffles filled with caramel syrup"
+      },
+      "text": "Two thin waffles sandwiching a genuinely gooey caramel syrup filling, sold fresh and warm from stalls inside the garden.",
+      "whereToTry": "Food stalls throughout the Keukenhof grounds."
+    },
+    {
+      "name": "Poffertjes",
+      "image": {
+        "file": "File:Poffertjes 001.jpg",
+        "alt": "Poffertjes, small fluffy Dutch pancakes, dusted with powdered sugar"
+      },
+      "text": "Small, fluffy mini pancakes, genuinely a beloved Dutch treat, traditionally dusted with powdered sugar and a knob of butter.",
+      "whereToTry": "Café stands inside the garden and in nearby Lisse."
+    },
+    {
+      "name": "Bitterballen",
+      "image": {
+        "file": "File:Bitterballen with Dijon mustard - Taproom ‘t Blauwe Theehuis 2024-11-26.jpg",
+        "alt": "A plate of bitterballen, deep-fried Dutch meat croquettes, with mustard"
+      },
+      "text": "Deep-fried, breadcrumbed balls of a genuinely rich beef ragout, the classic accompaniment to a beer at any of the garden's cafés.",
+      "whereToTry": "Café pavilions within Keukenhof."
+    },
+    {
+      "name": "Gouda cheese",
+      "image": {
+        "file": "File:WikiCheese - Gouda jeune 04.jpg",
+        "alt": "Wheels of Gouda cheese on display"
+      },
+      "text": "The Netherlands' most famous export, genuinely widely sold in nearby Lisse and a natural souvenir to pair with a tulip-season visit.",
+      "whereToTry": "Shops in Lisse and around Keukenhof's entrance."
+    },
+    {
+      "name": "Haring (raw herring)",
+      "image": {
+        "file": "File:Haring met ui.jpg",
+        "alt": "Raw Dutch herring served with chopped onion"
+      },
+      "text": "Lightly cured raw herring, traditionally eaten by the tail with chopped onion — a genuine Dutch institution found at stalls in the nearby towns.",
+      "whereToTry": "Herring stalls in Lisse and the surrounding Bollenstreek towns."
+    },
+    {
+      "name": "Patat (Dutch fries)",
+      "image": {
+        "file": "File:Fries 2.jpg",
+        "alt": "A portion of Dutch fries (patat) in a paper cone"
+      },
+      "text": "Twice-fried potato chips served in a paper cone, genuinely defined by the sauce — mayonnaise, not ketchup, is the default order.",
+      "whereToTry": "Friteries in Lisse and food stands around Keukenhof."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors genuinely see Keukenhof as a day trip rather than staying overnight nearby, basing themselves in Amsterdam or Leiden instead.",
+    "areas": [
+      {
+        "name": "Amsterdam",
+        "bestFor": "Combining Keukenhof with a wider Netherlands trip",
+        "text": "About 30–40 minutes away with direct tourist buses in season — genuinely the most common base."
+      },
+      {
+        "name": "Leiden",
+        "bestFor": "A closer, quieter base",
+        "text": "A genuinely pleasant university city about 20 minutes from Keukenhof, with its own worthwhile old town."
+      },
+      {
+        "name": "Lisse itself",
+        "bestFor": "The shortest possible commute to the gardens",
+        "text": "A handful of small hotels and B&Bs in the town immediately surrounding Keukenhof, genuinely useful for an early-morning entry."
+      }
+    ],
+    "budget": [
+      { "label": "Keukenhof entry ticket", "value": "About €22, book online in advance" },
+      { "label": "Return bus from Amsterdam (combi-ticket)", "value": "About €35–40" },
+      { "label": "Bike rental at the entrance", "value": "€10–15 per day" },
+      { "label": "Lunch at a garden café", "value": "€12–20" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Keukenhof has no train station of its own, but direct tourist buses in season make it genuinely easy to reach without a car.",
+    "options": [
+      {
+        "mode": "Direct bus from Amsterdam or Schiphol",
+        "text": "Dedicated Keukenhof Express buses run directly from [[amsterdam|Amsterdam]] and Schiphol Airport during the season, taking about 30–40 minutes.",
+        "detail": "Combined bus-and-entry tickets, bought online ahead, are genuinely the simplest way to visit without a car."
+      },
+      {
+        "mode": "Bus from Leiden",
+        "text": "Regular buses connect Leiden's train station to Keukenhof in about 20 minutes.",
+        "detail": "Leiden itself connects easily by train to Amsterdam, Rotterdam and The Hague, making it a genuinely convenient transfer point."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Driving gives the most flexibility for exploring the wider Bollenstreek bulb fields beyond the garden itself.",
+        "detail": "Parking is available on site, though it fills early on the busiest spring weekends."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Keukenhof's garden itself is entirely walkable; the surrounding bulb fields are best explored by bike or car.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The full garden is comfortably covered on foot within a few hours, with clearly marked paths through all the main displays.",
+        "detail": "Paths can get genuinely crowded at midday on the busiest spring weekends — early or late visits are noticeably quieter."
+      },
+      {
+        "mode": "Cycling",
+        "text": "Rental bikes at the entrance are genuinely the best way to see the surrounding commercial bulb fields beyond the garden's boundary.",
+        "detail": "Dedicated cycle paths run throughout the Bollenstreek region around Lisse, Sassenheim and Noordwijk."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "Mid-March to mid-May only — Keukenhof closes for the rest of the year",
+    "summary": "Timing here is genuinely the entire story: the garden opens for a fixed roughly eight-week window each spring and closes completely the rest of the year.",
+    "seasons": [
+      {
+        "season": "Late March–early April",
+        "rating": "good",
+        "text": "Daffodils and early tulips lead the display, genuinely worthwhile though not yet at full tulip colour."
+      },
+      {
+        "season": "Mid-April",
+        "rating": "best",
+        "text": "Peak tulip bloom across most of the garden and the surrounding fields — genuinely the single best and busiest window of the year."
+      },
+      {
+        "season": "Late April–mid-May",
+        "rating": "good",
+        "text": "Later-blooming varieties take over as early tulips fade, still genuinely worthwhile with noticeably thinner crowds."
+      },
+      {
+        "season": "Mid-May–March",
+        "rating": "avoid",
+        "text": "Keukenhof is genuinely closed for the rest of the year — there is comparatively little to see at the site outside the open season."
+      }
+    ],
+    "avoid": "Don't plan a visit outside the published opening dates — check the current season's exact dates well ahead, since they shift slightly year to year with the weather."
+  },
+  "itinerary": {
+    "title": "One day at Keukenhof and the Bollenstreek",
+    "intro": "The garden and surrounding fields cover the essentials comfortably within a single day trip.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The gardens and the working fields",
+        "summary": "The complete essential visit, garden and countryside combined.",
+        "morning": "Arrive early at Keukenhof to see the main displays before the midday crowds.",
+        "afternoon": "Rent a bike and ride out into the surrounding bulb fields around Lisse.",
+        "evening": "Return to Amsterdam or Leiden for the night."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on timing and booking that make a real difference to a Keukenhof trip.",
+  "tips": [
+    "Check the current season's exact opening dates before planning — Keukenhof is only open roughly mid-March to mid-May, and dates shift slightly each year.",
+    "Book entry tickets, and ideally a combined bus ticket, online well ahead — this is genuinely the single busiest short-season attraction in the Netherlands.",
+    "Arrive right at opening time for noticeably quieter paths — the garden fills up considerably by mid-morning.",
+    "Check a current bloom forecast if a specific flower or colour matters to you, since different varieties peak at different points in the season.",
+    "Rent a bike at the entrance to see the surrounding working bulb fields, not just the curated garden.",
+    "Check the current year's Bloemencorso parade date if you want to combine your visit with the flower parade."
+  ],
+  "faq": [
+    {
+      "q": "When is Keukenhof open?",
+      "a": "Only for about eight weeks each spring, roughly mid-March to mid-May, with exact dates shifting slightly year to year. It is genuinely closed the rest of the year, so checking current dates before planning a trip is essential."
+    },
+    {
+      "q": "How many days do you need at Keukenhof?",
+      "a": "Half a day covers the garden itself; a full day allows time to also cycle out into the surrounding Bollenstreek bulb fields, which are genuinely worth seeing at their uncropped, working scale."
+    },
+    {
+      "q": "Is Keukenhof worth visiting outside tulip season?",
+      "a": "No — the garden closes completely outside its roughly eight-week spring window, and there is comparatively little to see at the site itself the rest of the year."
+    },
+    {
+      "q": "Do you need a car to visit Keukenhof?",
+      "a": "No — direct tourist buses run from Amsterdam and Schiphol Airport throughout the season, and combined bus-and-entry tickets are widely available online."
+    },
+    {
+      "q": "What is the Bloemencorso?",
+      "a": "An annual flower parade of elaborately decorated floats that passes through the Bollenstreek region each April, timed to overlap with Keukenhof's opening season — check the current year's specific date, since it runs on a single day."
+    },
+    {
+      "q": "Can I bring tulip bulbs home from Keukenhof?",
+      "a": "Yes, generally — several stands at the garden and in nearby towns sell bulbs with export certification for international travel, though it's worth checking your home country's specific import rules beforehand."
+    }
+  ],
+  "related": ["amsterdam", "zaanse-schans", "delft"],
+  "relatedArticles": ["best-time-southern-europe", "underrated-destinations"]
+}

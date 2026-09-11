@@ -1,0 +1,399 @@
+{
+  "slug": "netherlands",
+  "name": "Netherlands",
+  "continent": "Western Europe",
+  "countryCode": "NL",
+  "tagline": "A country genuinely built below sea level, its canal-ringed capital, tulip fields and windmill-dotted polders covering a nation you can cross by train in under three hours.",
+  "cardDescription": "Amsterdam's canal houses, Kinderdijk's UNESCO windmills, Delft's blue-and-white pottery, and tulip fields stretching to the horizon each spring.",
+  "metaDescription": "A complete Netherlands travel guide: the 10 best places to visit, trains, cycling, food, costs and a practical two-week itinerary.",
+  "image": {
+    "file": "File:Amsterdam Canals (Ank Kumar) 06.jpg",
+    "alt": "Gabled canal houses lining a tree-shaded Amsterdam canal"
+  },
+  "destinations": [
+    "amsterdam",
+    "rotterdam",
+    "the-hague",
+    "utrecht",
+    "delft",
+    "keukenhof",
+    "giethoorn",
+    "zaanse-schans",
+    "maastricht",
+    "kinderdijk"
+  ],
+  "intro": [
+    "The Netherlands is a genuinely small, flat, and famously engineered country — roughly a quarter of it sits below sea level, held back by a centuries-old system of dikes, polders and pumping windmills that the Dutch built out of sheer necessity. That same engineering instinct shaped Amsterdam's concentric canal rings, a 17th-century masterplan now a UNESCO World Heritage Site, and it still shows in a rail network and cycling infrastructure that make getting around the country genuinely effortless.",
+    "Beyond Amsterdam, the case for the Netherlands is how much variety fits into such a compact area: Rotterdam's bombed-and-rebuilt skyline of experimental modern architecture, Utrecht's canals sitting a level below street traffic rather than beside it, Delft's blue-and-white pottery tradition and Vermeer's old streets, and a UNESCO windmill landscape at Kinderdijk that looks genuinely unchanged since the 18th century.",
+    "Spring adds a layer most visitors plan entire trips around — the Keukenhof gardens and the surrounding bulb fields turn parts of the country into solid blocks of tulip colour for about six weeks each year. A well-developed train network and the world's most bike-friendly infrastructure make combining several of these destinations in one trip genuinely straightforward, even without a car."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit — though Giethoorn and Maastricht reward a second trip just as much as a first.",
+  "thingsToDoIntro": "The experiences that recur across the country and that make a Netherlands trip feel like more than a checklist of canal photos and stroopwafels.",
+  "thingsToDo": [
+    {
+      "title": "Cycle everywhere",
+      "image": {
+        "file": "File:Cycling Amsterdam 03.jpg",
+        "alt": "Cyclists riding a dedicated bike lane through central Amsterdam"
+      },
+      "text": "Genuinely the best way to experience any Dutch city, on a country with more bikes than people and dedicated cycle paths running virtually everywhere.",
+      "tip": "Rent from a station-based bike-share or a local shop rather than a tourist-priced kiosk, and always stay out of the red-paved bike lanes if walking."
+    },
+    {
+      "title": "Ride a canal boat",
+      "image": {
+        "file": "File:Canal tour boat @ Amsterdam (18674169225).jpg",
+        "alt": "A canal tour boat passing beneath a bridge in Amsterdam"
+      },
+      "text": "Amsterdam's and Utrecht's canals are genuinely best seen from the water, at a completely different perspective from the bridges and towpaths above.",
+      "tip": "An early morning or evening cruise avoids the midday crowds and gives noticeably better light for photos."
+    },
+    {
+      "title": "Visit a working windmill",
+      "image": {
+        "file": "File:The windmills of Kinderdijk.JPG",
+        "alt": "Traditional windmills standing along a canal at Kinderdijk"
+      },
+      "text": "Kinderdijk's UNESCO-listed windmills and the historic village at Zaanse Schans both offer a genuinely close look at the pumps and machinery that kept the Netherlands dry for centuries.",
+      "tip": "Some windmills at both sites are open to walk inside on set days — check current opening schedules before visiting."
+    },
+    {
+      "title": "See the tulip fields in bloom",
+      "image": {
+        "file": "File:Tulip field in Holland.jpg",
+        "alt": "Rows of brightly coloured tulips stretching across a Dutch field"
+      },
+      "text": "For roughly six weeks each spring, the bulb fields around Keukenhof turn into genuinely solid blocks of colour, one of the most photographed agricultural sights in Europe.",
+      "tip": "Bloom dates shift year to year with the weather — check a current bloom forecast before booking a specific date."
+    },
+    {
+      "title": "Try Dutch cheese at a historic market",
+      "image": {
+        "file": "File:Cheese market in Alkmaar-0419.jpg",
+        "alt": "Traditional cheese carriers and a crowd at the historic Alkmaar cheese market"
+      },
+      "text": "Alkmaar's cheese market, running since 1593, genuinely re-enacts the traditional trading ritual each week in season, with cheese carriers in period dress and guild colours.",
+      "tip": "The market runs Friday mornings in season only — check current dates before planning a special trip."
+    },
+    {
+      "title": "Go museum-hopping in Amsterdam",
+      "image": {
+        "file": "File:Glass-roofed interior courtyard of the Rijksmuseum Amsterdam (1).jpg",
+        "alt": "The glass-roofed atrium of the Rijksmuseum in Amsterdam"
+      },
+      "text": "The Rijksmuseum, Van Gogh Museum and Anne Frank House sit within walking distance of each other, a genuinely dense concentration of world-class collections for a city this size.",
+      "tip": "Book timed tickets online well ahead for all three — same-day entry is rarely possible in high season."
+    }
+  ],
+  "foodIntro": "Dutch food's reputation abroad rarely does justice to a genuinely serious cheese, herring and street-snack culture found at every price point.",
+  "foods": [
+    {
+      "name": "Stroopwafel",
+      "image": {
+        "file": "File:Stroopwafels 01.jpg",
+        "alt": "Stroopwafels, thin waffles filled with caramel syrup, stacked on a plate"
+      },
+      "text": "Two thin waffles sandwiching a genuinely gooey caramel syrup filling, traditionally warmed by balancing one atop a hot cup of coffee or tea.",
+      "whereToTry": "Street stalls selling them fresh and warm, especially at markets — genuinely better than the packaged supermarket version."
+    },
+    {
+      "name": "Bitterballen",
+      "image": {
+        "file": "File:Bitterballen with Dijon mustard - Taproom ‘t Blauwe Theehuis 2024-11-26.jpg",
+        "alt": "A plate of bitterballen, deep-fried Dutch meat croquettes, served with mustard"
+      },
+      "text": "Deep-fried, breadcrumbed balls of a genuinely rich beef ragout, a classic Dutch bar snack served with mustard for dipping alongside a beer.",
+      "whereToTry": "Brown cafés (traditional Dutch pubs) nationwide — a plate of bitterballen with beer is a genuine national ritual."
+    },
+    {
+      "name": "Gouda cheese",
+      "image": {
+        "file": "File:WikiCheese - Gouda jeune 04.jpg",
+        "alt": "Wheels of Gouda cheese on display"
+      },
+      "text": "The Netherlands' most famous export, genuinely ranging from mild young wheels to deeply savoury, crystalline aged versions matured for years.",
+      "whereToTry": "Cheese shops and markets nationwide, with a tasting at the source genuinely worthwhile in Gouda itself."
+    },
+    {
+      "name": "Haring (raw herring)",
+      "image": {
+        "file": "File:Haring met ui.jpg",
+        "alt": "Raw Dutch herring served with chopped onion"
+      },
+      "text": "Lightly cured raw herring, traditionally eaten holding it by the tail and tipping your head back, chopped onion and pickles on the side — a genuine Dutch institution that surprises most first-time visitors.",
+      "whereToTry": "Herring stalls (haringkar) found on street corners in every Dutch city, especially around Amsterdam's canals."
+    },
+    {
+      "name": "Patat (Dutch fries)",
+      "image": {
+        "file": "File:Fries 2.jpg",
+        "alt": "A portion of Dutch fries (patat) served in a paper cone"
+      },
+      "text": "Twice-fried potato chips served in a paper cone, genuinely defined by the sauce rather than the fries themselves — mayonnaise is the default, not ketchup.",
+      "whereToTry": "Independent friteries (frituur) nationwide, genuinely better than any chain."
+    },
+    {
+      "name": "Stamppot",
+      "image": {
+        "file": "File:Boerenkool stamppot.jpg",
+        "alt": "Boerenkool stamppot, mashed potato with kale, served with smoked sausage"
+      },
+      "text": "Mashed potato stamped together with a vegetable — kale is the classic version — and served with rookworst, a genuinely hearty Dutch comfort dish built for winter.",
+      "whereToTry": "Traditional Dutch restaurants nationwide, especially welcome in the colder months."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. The Netherlands is straightforward and exceptionally well organised to travel in, with cycling etiquette and Sunday closures the two practicalities that most often catch visitors out.",
+  "practical": {
+    "capital": "Amsterdam (the seat of government is The Hague)",
+    "language": "Dutch nationally, with exceptionally high English fluency virtually everywhere, including rural areas.",
+    "currency": "Euro (€, EUR)",
+    "money": "Genuinely card-first — many smaller shops and even some markets no longer accept cash at all. A contactless card covers almost every purchase.",
+    "visa": "Visa-free entry for up to 90 days within a 180-day period for many nationalities including the US, Canada, Australia and UK, under the Schengen Area's common rules.",
+    "plugs": "Type C and F (Europlug/Schuko), 230 V, 50 Hz — standard continental European two-pin plugs.",
+    "emergency": "112 for all emergencies, nationwide.",
+    "tipping": "Not obligatory but genuinely appreciated. Rounding up or adding roughly 5–10% for good restaurant service is standard practice.",
+    "safety": "Very safe overall, consistently ranked among Europe's safest countries. Bicycle theft is the most common issue for visitors — always use a proper lock.",
+    "connectivity": "Excellent 4G and 5G coverage nationwide, with an EU roaming agreement or local SIM covering most visitor needs easily.",
+    "timeZone": "Central European Time (UTC+1) in winter, Central European Summer Time (UTC+2) from late March to late October.",
+    "budget": [
+      { "label": "Backpacker", "value": "€60–90 per day — hostels, casual meals, regional trains" },
+      { "label": "Mid-range", "value": "€110–180 per day — 3-star hotels, restaurant dinners, museum entries" },
+      { "label": "Comfortable", "value": "€220–350+ per day — boutique hotels, fine dining, private tours" }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–May for tulip season, or June–September for the warmest, longest days",
+    "summary": "The Netherlands is genuinely workable year-round, but the specific window for bulb season versus warm-weather sightseeing is worth planning around deliberately.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "The tulip fields and Keukenhof are at their genuine best, with mild temperatures — this is the single most popular window and books up accordingly."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Long daylight hours, the warmest weather, and outdoor café and canal-side culture in full swing — also the busiest and most expensive season in Amsterdam."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Mild and noticeably quieter than summer, with good light for photography and thinning crowds at the major museums."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "shoulder",
+        "text": "Cold, grey and often windy, though canal-side Christmas markets and, in a genuine cold snap, ice skating on frozen canals offer real winter charm."
+      }
+    ],
+    "avoid": "Book Keukenhof and central Amsterdam accommodation many months ahead for the April–May tulip season — this is genuinely the busiest and most tightly booked window of the year."
+  },
+  "tripDuration": {
+    "headline": "7–10 days for a first trip",
+    "summary": "The Netherlands' compact size and excellent train network make an ambitious multi-city itinerary genuinely workable without a car.",
+    "options": [
+      {
+        "length": "3–4 days",
+        "text": "Amsterdam alone fills three or four days comfortably, with an easy day trip to Zaanse Schans or Kinderdijk.",
+        "detail": "A short trip is better spent deeply in Amsterdam than spread thin across the country."
+      },
+      {
+        "length": "7–9 days",
+        "text": "Amsterdam, Utrecht and Delft or The Hague, connected by train — a well-rounded first trip covering the classic Randstad cities.",
+        "detail": "Add Kinderdijk or Zaanse Schans as an easy day trip from any of these bases."
+      },
+      {
+        "length": "10–14 days",
+        "text": "The itinerary on this page: Amsterdam, Zaanse Schans, Utrecht, Delft, The Hague, Rotterdam and Kinderdijk, with a tulip-season detour to Keukenhof.",
+        "detail": "Enough time to add Giethoorn or Maastricht for a genuinely different side of the country."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Add Maastricht and Giethoorn in full, both genuinely worth a dedicated day or two rather than a rushed add-on.",
+        "detail": "A slower pace through the smaller Randstad towns is where a second Netherlands trip belongs."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "The Netherlands' train network connects every destination in this guide well, and cycling covers the rest — a car is genuinely unnecessary for most itineraries.",
+    "options": [
+      {
+        "mode": "Intercity trains (NS)",
+        "text": "Fast, frequent and reliable trains connect [[amsterdam|Amsterdam]], [[rotterdam|Rotterdam]], [[the-hague|The Hague]], [[utrecht|Utrecht]] and [[delft|Delft]] in well under an hour each.",
+        "detail": "An OV-chipkaart or contactless bank card covers trains, trams, buses and metros nationwide — no separate tickets needed."
+      },
+      {
+        "mode": "Cycling",
+        "text": "Genuinely the best way to get around any Dutch city, with dedicated, well-signed cycle paths connecting neighbourhoods and even nearby towns.",
+        "detail": "Bike rental is available everywhere; most Dutch cities are flat and compact enough to cross by bike in 20–30 minutes."
+      },
+      {
+        "mode": "Trams, metro and buses",
+        "text": "Comprehensive city networks in [[amsterdam|Amsterdam]], [[rotterdam|Rotterdam]] and [[the-hague|The Hague]] cover anywhere cycling or walking doesn't.",
+        "detail": "Amsterdam's free ferries across the IJ river are a genuinely good way to see the harbour for the price of a regular transit fare."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Useful mainly for reaching [[giethoorn|Giethoorn]] efficiently or touring the countryside at a flexible pace — not needed for the main cities.",
+        "detail": "Driving and parking in central Amsterdam is genuinely more hassle than it's worth; leave the car at the edge of the city if you have one."
+      },
+      {
+        "mode": "Regional trains and buses",
+        "text": "Reach [[kinderdijk|Kinderdijk]], [[zaanse-schans|Zaanse Schans]] and [[keukenhof|Keukenhof]] reliably from Amsterdam or Rotterdam, all easy day trips without a car.",
+        "detail": "Dedicated tourist buses to Keukenhof run direct from Amsterdam and Schiphol Airport during bloom season."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Dutch culture is shaped by a genuine tradition of directness, egalitarianism and practical, unshowy efficiency, with cycling etiquette a real everyday concern for visitors.",
+    "etiquette": [
+      {
+        "title": "Dutch directness is genuine, not rudeness",
+        "text": "Blunt, direct communication is a real cultural norm here — visitors used to more indirect cultures sometimes misread it as unfriendliness, when it usually isn't."
+      },
+      {
+        "title": "Never walk in the bike lanes",
+        "text": "The red-paved cycle paths are genuinely serious infrastructure carrying fast-moving commuter traffic — stepping into one without looking is a real safety risk."
+      },
+      {
+        "title": "Splitting the bill is completely normal",
+        "text": "'Going Dutch' genuinely originates here — splitting a restaurant bill evenly among a group is standard practice, not considered awkward or cheap."
+      },
+      {
+        "title": "Punctuality matters",
+        "text": "Being on time for both social plans and reservations is genuinely expected — arriving significantly late without notice is considered impolite."
+      },
+      {
+        "title": "'Coffeeshop' and 'café' mean different things",
+        "text": "A coffeeshop sells cannabis; a café or 'koffiehuis' serves regular coffee — genuinely worth knowing before you walk in expecting a cappuccino."
+      },
+      {
+        "title": "Many shops close early on Sundays",
+        "text": "Sunday trading hours are genuinely more limited outside central Amsterdam — check opening times before planning a Sunday shopping trip in smaller towns."
+      }
+    ],
+    "dos": [
+      "Learn a few basic Dutch phrases — genuinely appreciated even though almost everyone speaks fluent English.",
+      "Rent a bike and use it — it's the single best way to experience any Dutch city like a local.",
+      "Book major museums and Keukenhof online well ahead, particularly in spring and summer.",
+      "Carry a physical or contactless card — some smaller vendors no longer accept cash at all."
+    ],
+    "donts": [
+      "Don't walk or stand in the bike lanes — they carry genuine, fast-moving traffic.",
+      "Don't assume a 'coffeeshop' sells coffee — it doesn't, in the conventional sense.",
+      "Don't expect long, lingering restaurant service — Dutch dining tends to be efficient rather than leisurely.",
+      "Don't rent a car for Amsterdam itself — parking is scarce and expensive, and it's genuinely unnecessary."
+    ]
+  },
+  "itinerary": {
+    "title": "Ten days in the Netherlands",
+    "intro": "Amsterdam as a base for the north, then south through the Randstad's other great cities. Covers seven of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Amsterdam",
+        "morning": "Land and take the train into the city centre.",
+        "afternoon": "A first walk along the canal rings and through the Jordaan.",
+        "evening": "Dinner at a brown café, with bitterballen and a Dutch beer."
+      },
+      {
+        "day": 2,
+        "title": "Amsterdam's museums",
+        "morning": "The Rijksmuseum.",
+        "afternoon": "The Van Gogh Museum or the Anne Frank House (book ahead).",
+        "evening": "A canal boat cruise at sunset."
+      },
+      {
+        "day": 3,
+        "title": "Zaanse Schans day trip",
+        "morning": "Train or bus to the windmill village at Zaanse Schans.",
+        "afternoon": "Wooden shoe and cheese demonstrations, then back to Amsterdam.",
+        "evening": "A final Amsterdam dinner in De Pijp."
+      },
+      {
+        "day": 4,
+        "title": "To Utrecht",
+        "morning": "Train to Utrecht.",
+        "afternoon": "Climb the Dom Tower and walk the wharf-level canals.",
+        "evening": "Dinner on the Oudegracht's lower canal-level terraces."
+      },
+      {
+        "day": 5,
+        "title": "To Delft",
+        "morning": "Train to Delft.",
+        "afternoon": "The old town, a Delftware workshop, and Vermeer's former neighbourhood.",
+        "evening": "Dinner in Delft's market square."
+      },
+      {
+        "day": 6,
+        "title": "To The Hague",
+        "morning": "Train to The Hague.",
+        "afternoon": "The Mauritshuis and the Binnenhof.",
+        "evening": "Sunset at Scheveningen beach."
+      },
+      {
+        "day": 7,
+        "title": "To Rotterdam",
+        "morning": "Train to Rotterdam.",
+        "afternoon": "The Cube Houses, Markthal and the harbour skyline.",
+        "evening": "Dinner in the Witte de Withstraat district."
+      },
+      {
+        "day": 8,
+        "title": "Kinderdijk",
+        "morning": "A short trip to the UNESCO windmills at Kinderdijk.",
+        "afternoon": "Walk or cycle the polder paths among the mills.",
+        "evening": "Return to Rotterdam for a final dinner."
+      },
+      {
+        "day": 9,
+        "title": "Free day or tulip detour",
+        "morning": "In season, a trip to Keukenhof and the bulb fields.",
+        "afternoon": "Otherwise, a slower second look at Amsterdam or Utrecht.",
+        "evening": "Pack for departure."
+      },
+      {
+        "day": 10,
+        "title": "Depart",
+        "morning": "Final shopping or a last canal walk.",
+        "afternoon": "Train back to Amsterdam and on to the airport.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, timing and transport that make a real difference to a Netherlands trip.",
+  "tips": [
+    "Book Keukenhof, the Anne Frank House and other major sights online well ahead — same-day entry is rarely available in season.",
+    "Get an OV-chipkaart or use a contactless bank card for all public transport — it covers trains, trams, buses and metros nationwide.",
+    "Rent a bike for at least one day — it's genuinely the best way to experience any Dutch city.",
+    "Check tulip bloom forecasts before booking a specific Keukenhof date, since timing shifts with the weather each year.",
+    "Carry a card rather than relying on cash — many smaller vendors no longer accept it at all.",
+    "Pack for rain in any season — Dutch weather is genuinely changeable regardless of month."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the Netherlands?",
+      "a": "A week covers Amsterdam plus two or three nearby cities comfortably. Ten to fourteen days allows the fuller Randstad route in this guide, plus Kinderdijk and a tulip-season detour to Keukenhof."
+    },
+    {
+      "q": "Is the Netherlands expensive to visit?",
+      "a": "Moderately, by Western European standards — comparable to Germany or France and less expensive than Switzerland or the Nordic countries. Amsterdam itself runs higher than the rest of the country."
+    },
+    {
+      "q": "Do you need a car in the Netherlands?",
+      "a": "No — the train network connects every major destination in this guide efficiently, and cycling or walking covers city-centre distances. A car is mainly useful for reaching Giethoorn or touring the countryside at a flexible pace."
+    },
+    {
+      "q": "When do the tulips bloom in the Netherlands?",
+      "a": "Roughly mid-March to mid-May, peaking in April, though exact dates shift year to year with the weather. Keukenhof publishes a current bloom forecast each season — check it before booking a specific date."
+    },
+    {
+      "q": "Is Amsterdam safe for visitors?",
+      "a": "Yes, genuinely very safe by international standards. The main practical risk is bicycle theft, plus the usual pickpocketing vigilance needed in any crowded tourist area."
+    },
+    {
+      "q": "What is the best way to get around Dutch cities?",
+      "a": "By bicycle, genuinely — the Netherlands has the world's best cycling infrastructure, and renting a bike for at least a day is one of the best ways to experience any Dutch city like a local."
+    }
+  ]
+}
