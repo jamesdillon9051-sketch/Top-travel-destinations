@@ -159,6 +159,12 @@ async function main() {
   // Stops GitHub Pages running the output through Jekyll.
   await writeFile(path.join(OUT, '.nojekyll'), '', 'utf8');
 
+  // docs/ is wiped and rebuilt every run, so the custom-domain file has to be
+  // regenerated here too, or it silently disappears on the next deploy.
+  if (site.customDomain) {
+    await writeFile(path.join(OUT, 'CNAME'), `${site.customDomain}\n`, 'utf8');
+  }
+
   const destinationPages = pages.filter((p) => /^[a-z-]+\/[a-z0-9-]+$/.test(p.sitePath)).length;
   console.log(`Built ${pages.length} pages into docs/`);
   console.log(
