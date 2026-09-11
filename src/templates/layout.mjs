@@ -180,6 +180,7 @@ export function layout({
 ${GA_SCRIPT.toString()}
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-adsense-account" content="ca-pub-6702932117468670">
 <title>${esc(fullTitle)}</title>
 <meta name="description" content="${esc(description)}">
 <link rel="canonical" href="${esc(absolute(pagePath))}">
