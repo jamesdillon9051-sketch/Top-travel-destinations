@@ -45,6 +45,11 @@ const AD_BODY_UNIT = raw(
 <script src="https://www.highrevenueformat.com/e5e12097b37149fe8822713da3308db8/invoke.js"></script>`
 );
 
+/** Third Adsterra loader, requested at the very end of <body> rather than in <head>. */
+const AD_FOOT_SCRIPT = raw(
+  `<script src="https://pl31286362.profitableratecpmnetwork.com/a0/57/15/a0571520bc7ad1a461a91e384b0d2bd8.js"></script>`
+);
+
 function header(activePath) {
   return html`
     <a class="skip-link" href="#main">Skip to content</a>
@@ -187,6 +192,7 @@ ${content.toString()}
 ${showAds ? `<div class="wrap"><div class="ad-slot"><p class="ad-slot__label">Advertisement</p>${AD_BODY_UNIT.toString()}</div></div>` : ''}
 ${footer(site).toString()}
 <script src="${esc(url('assets/site.js'))}" defer></script>
+${showAds ? AD_FOOT_SCRIPT.toString() : ''}
 </body>
 </html>
 `;
