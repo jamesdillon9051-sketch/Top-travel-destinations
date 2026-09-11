@@ -99,9 +99,9 @@ export function renderPrivacyPolicy({ site }) {
         ${breadcrumbs([{ label: 'Home', href: '' }, { label: 'Privacy Policy' }])}
         <h1 class="page-head__title">Privacy Policy</h1>
         <p class="page-head__lead">
-          The short version: this site doesn't have accounts, doesn't use cookies, doesn't run
-          analytics, and doesn't load anything from a third-party server. The long version is
-          below. Last updated ${updated}.
+          The short version: this site has no accounts and sets no cookies of its own, but it
+          does run third-party advertising, which does. The full breakdown, including exactly
+          what that means, is below. Last updated ${updated}.
         </p>
       </div>
     </div>
@@ -109,17 +109,34 @@ export function renderPrivacyPolicy({ site }) {
     ${section({
       id: 'what-we-collect',
       eyebrow: 'Data collection',
-      title: 'What this site collects: nothing, directly',
+      title: 'What this site itself collects: nothing',
       body: prose([
         `${site.title} has no user accounts, no sign-up forms, no comment sections and no
          newsletter. There is nothing to fill in and nothing personal to submit, so nothing
          personal is stored by the site itself.`,
-        `The site does not run any analytics or advertising scripts, does not set any cookies of
-         its own, and does not use browser storage to track you across visits. Every stylesheet,
-         script, font and image on this site is served from this same domain — none of it is
-         pulled from Google Fonts, an ad network, a tracking pixel or any other third-party
-         server. If you check your browser's network tab, that is verifiably true rather than a
-         claim you have to take on faith.`
+        `This site runs no analytics of its own and sets no cookies of its own. Every stylesheet,
+         script, font and image the site itself needs is served from this same domain — the one
+         exception is the advertising described in the next section, which is a genuinely
+         separate, third-party thing rather than something this site's own code does.`
+      ])
+    })}
+
+    ${section({
+      id: 'advertising',
+      eyebrow: 'Advertising',
+      title: 'Advertising',
+      tone: 'section--tint',
+      body: prose([
+        raw(`${esc(site.title)} carries advertising served by
+         <a href="https://adsterra.com/" rel="noopener">Adsterra</a>, a third-party ad network.
+         Adsterra's own scripts load on every page except this one and the
+         <a href="${url('about')}">About</a> page, and — like effectively any ad network — they
+         may set their own cookies and use similar technologies to measure ad performance and
+         limit how often you see the same ad. That data collection belongs to Adsterra, governed
+         by Adsterra's own privacy policy, not by anything this site's code configures.`),
+        `One of the ad formats in use is a popunder, which can open a new browser tab or window
+         in the background as you browse. If that happens, closing the extra tab is all it takes
+         — it doesn't affect anything on this site itself.`
       ])
     })}
 
@@ -189,7 +206,7 @@ export function renderPrivacyPolicy({ site }) {
   return layout({
     site,
     title: 'Privacy Policy',
-    description: `Privacy policy for ${site.title}: no accounts, no cookies, no analytics, no third-party trackers — everything the site loads is served from its own domain.`,
+    description: `Privacy policy for ${site.title}: no accounts, no analytics and no cookies of our own — the one exception is third-party advertising, covered in full below.`,
     path: 'privacy-policy',
     bodyClass: 'page-simple',
     schema: [

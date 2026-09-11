@@ -10,6 +10,41 @@ const NAV = [
   { label: 'Articles', href: 'articles' }
 ];
 
+/** Pages that stay ad-free: the About page and the Privacy Policy that
+ * describes exactly what does and doesn't load third-party scripts. */
+const AD_EXCLUDED_PATHS = new Set(['about', 'privacy-policy']);
+
+/**
+ * Adsterra loader scripts. Both are self-injecting (a popunder and a
+ * native-banner loader that fills its own container after load), so <head>
+ * is a valid, safe position for them.
+ */
+const AD_HEAD_SCRIPTS = raw(
+  `<script src="https://pl31286361.profitableratecpmnetwork.com/6f/d5/21/6fd5210f9be3c3988ea3d5858a80db68.js"></script>
+<script async="async" data-cfasync="false" src="https://pl31286363.profitableratecpmnetwork.com/af79caaa649003d8682ac5e1559b9f08/invoke.js"></script>`
+);
+
+/**
+ * The native-banner's render target, plus the 300x250 banner unit. Both need
+ * a genuine position in <body>: a bare <div> is invalid inside <head>, and
+ * the banner script below renders via document.write exactly where its own
+ * <script> tag sits — in <head> that would be silently broken, not just
+ * misplaced, so both live in the ad slot in <body> instead.
+ */
+const AD_BODY_UNIT = raw(
+  `<div id="container-af79caaa649003d8682ac5e1559b9f08"></div>
+<script>
+  atOptions = {
+    'key' : 'e5e12097b37149fe8822713da3308db8',
+    'format' : 'iframe',
+    'height' : 250,
+    'width' : 300,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highrevenueformat.com/e5e12097b37149fe8822713da3308db8/invoke.js"></script>`
+);
+
 function header(activePath) {
   return html`
     <a class="skip-link" href="#main">Skip to content</a>
@@ -117,6 +152,7 @@ export function layout({
 }) {
   const fullTitle = pagePath === '' ? `${site.title} — ${site.tagline}` : `${title} | ${site.title}`;
   const ogImage = image?.src ? absolute(image.src) : absolute(site.hero?.card || '');
+  const showAds = !AD_EXCLUDED_PATHS.has(pagePath);
 
   return `<!doctype html>
 <html lang="en">
@@ -141,12 +177,14 @@ export function layout({
 <link rel="icon" href="${FAVICON}">
 <link rel="stylesheet" href="${esc(url('assets/site.css'))}">
 ${schema.map((item) => ldScript(item).toString()).join('\n')}
+${showAds ? AD_HEAD_SCRIPTS.toString() : ''}
 </head>
 <body class="${esc(bodyClass)}">
 ${header(pagePath).toString()}
 <main id="main">
 ${content.toString()}
 </main>
+${showAds ? `<div class="wrap"><div class="ad-slot"><p class="ad-slot__label">Advertisement</p>${AD_BODY_UNIT.toString()}</div></div>` : ''}
 ${footer(site).toString()}
 <script src="${esc(url('assets/site.js'))}" defer></script>
 </body>
