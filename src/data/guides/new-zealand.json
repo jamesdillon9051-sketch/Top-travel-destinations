@@ -1,0 +1,153 @@
+{
+  "country": "new-zealand",
+  "title": "The Complete New Zealand Travel Guide",
+  "subtitle": "Fjords, glaciers, geothermal fields and Maori culture across two dramatic islands",
+  "summary": "How to plan a New Zealand trip: which island to prioritise, how to get around by car and domestic flight, when to go, what it costs, and a practical eighteen-day itinerary.",
+  "readingTime": "13 min read",
+  "updated": "2026",
+  "sections": [
+    {
+      "id": "how-new-zealand-divides",
+      "title": "How New Zealand divides",
+      "navLabel": "The islands",
+      "body": [
+        "New Zealand splits cleanly into two main islands with genuinely distinct characters, and treating them as a single undifferentiated trip is the most common mistake first-time visitors make in planning.",
+        "**The North Island.** [[auckland|Auckland]], the country's largest city, [[wellington|Wellington]], the capital, [[rotorua|Rotorua]]'s geothermal fields and Maori cultural centres, [[tongariro|Tongariro]] National Park's volcanic alpine crossing, and the [[bay-of-islands|Bay of Islands]] in the far north.",
+        "**The South Island.** [[christchurch|Christchurch]], the gateway city, [[queenstown|Queenstown]]'s adventure sports and lake scenery, [[milford-sound|Milford Sound]]'s fjords, [[franz-josef-glacier|Franz Josef and Fox Glacier]] on the West Coast, and [[abel-tasman|Abel Tasman National Park]]'s coastal walks.",
+        "**Getting between them.** The Interislander ferry crosses Cook Strait between Wellington and Picton, a genuinely scenic journey through the Marlborough Sounds; a domestic flight is faster if time is tight."
+      ],
+      "note": "The South Island holds most of the dramatic mountain and fjord scenery that dominates New Zealand's international image; the North Island holds most of the population and the strongest Maori cultural experiences. A first trip of two weeks or more genuinely benefits from covering both rather than choosing just one."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If this is your first trip",
+          "text": "[[auckland]], [[rotorua]] and [[queenstown]], connected by domestic flight or a long drive. It covers a major city, genuine Maori cultural experiences and the country's adventure-sports capital without attempting the full length of both islands."
+        },
+        {
+          "title": "If you want the classic fjord and mountain scenery",
+          "text": "[[milford-sound|Milford Sound]] and [[queenstown|Queenstown]], genuinely the most photographed landscapes in the country, both reachable from a single South Island base."
+        },
+        {
+          "title": "If you want real Maori culture",
+          "text": "[[rotorua|Rotorua]], home to the country's most established Maori cultural centres, hangi feasts and haka performances."
+        },
+        {
+          "title": "If you want a serious hike",
+          "text": "[[tongariro|Tongariro]]'s Alpine Crossing, one of the world's great single-day hikes across active volcanic terrain."
+        },
+        {
+          "title": "If you want glaciers and coastal walks",
+          "text": "[[franz-josef-glacier|Franz Josef and Fox Glacier]] on the West Coast, or [[abel-tasman|Abel Tasman]] National Park's beaches and coastal track further north."
+        },
+        {
+          "title": "If you want a quieter, sailing-focused trip",
+          "text": "The [[bay-of-islands|Bay of Islands]] in the far north, genuinely New Zealand's founding site and a beautiful, less-rushed alternative to the South Island's bigger-name sights."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around: driving, flying, and one common mistake",
+      "navLabel": "Getting around",
+      "body": [
+        "New Zealand's road network genuinely connects everywhere in this guide, but distances and winding mountain roads take longer than a map suggests.",
+        "**Rent a car for real flexibility.** It's genuinely the standard way to see the country — [[queenstown|Queenstown]], [[milford-sound|Milford Sound]] and the [[franz-josef-glacier|glaciers]] all reward being able to stop and set your own pace.",
+        "**Don't underestimate driving times.** A route that looks like two hours on a map can genuinely take three or four on narrow, winding South Island roads — build in real buffer time.",
+        "**Fly between islands, or the main hubs, on a tighter schedule.** Domestic flights between [[auckland|Auckland]], [[wellington|Wellington]] and [[queenstown|Queenstown]] save genuinely significant time on an 18-day or shorter trip.",
+        "**Book the Interislander ferry ahead in summer.** Vehicle space across Cook Strait genuinely sells out in the December–February peak.",
+        "**Consider a guided tour if mountain roads feel daunting.** Multi-day coach tours cover the highlights without requiring you to drive unfamiliar terrain yourself."
+      ],
+      "note": "Book your last inter-city leg back to Auckland or Christchurch with real slack before an international departure — winding roads and changeable weather can genuinely add hours to a planned journey."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "New Zealand's seasons run opposite the Northern Hemisphere's, which makes 'the best time' more about specific activities than any universal answer. Two windows generally work best: **December to February** and **March to May**.",
+        "**Summer** brings the warmest, most reliable weather for hiking, the Great Walks and beaches — also genuinely the busiest and most expensive season, particularly around Queenstown and Milford Sound.",
+        "**Autumn**, especially March and April, offers mild, settled weather and genuinely spectacular colour in Central Otago's vineyards, with noticeably thinner crowds than summer.",
+        "**Winter** stays cold, especially in the South Island, but is genuinely excellent for skiing around Queenstown and Wanaka, while the North Island remains comparatively mild.",
+        "**Spring**, particularly October and November, brings lambing season and increasingly mild weather, though mountain conditions remain genuinely unpredictable this early in the season."
+      ],
+      "note": "Book Great Walks huts, Milford Sound cruises and Queenstown accommodation many months ahead for the December–February peak — this is genuinely the busiest and most tightly booked window of the year."
+    },
+    {
+      "id": "money",
+      "title": "Costs and what you must book",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Mid-range travel in New Zealand runs roughly **NZ$220–350 per person per day**, with a rental car and accommodation the two biggest costs. Backpacking works at NZ$100–150; comfortable travel with lodges and guided tours runs NZ$450–700+.",
+        "**Rent your car and book accommodation well ahead for summer.** Popular routes and towns genuinely sell out months in advance during the December–February peak.",
+        "**Book ahead, without exception:** Great Walks huts, Milford Sound cruises, Hobbiton tickets, and Interislander ferry vehicle space for summer travel.",
+        "**Budget realistically for adventure activities.** Bungee jumping, skydiving and glacier walks all carry genuinely significant price tags — decide priorities ahead rather than trying to do everything.",
+        "**Small savings that add up:** cooking your own food from supermarkets, camping or hostels over hotels, and travelling in March–May rather than peak summer for meaningfully lower prices."
+      ]
+    },
+    {
+      "id": "etiquette",
+      "title": "Culture, Maori heritage and how outdoor safety actually works",
+      "navLabel": "Etiquette",
+      "body": [
+        "New Zealand culture is shaped by a genuine, living Maori heritage alongside a relaxed, outdoorsy national character, with a handful of broadly shared norms holding nationwide.",
+        "**Maori culture deserves genuine, informed respect.** A hangi feast or haka performance at a proper cultural centre is a real encounter with a living tradition, not a costume show.",
+        "**New Zealanders are genuinely informal.** First names and a relaxed, direct manner are the norm in almost every context, from restaurants to business.",
+        "**Take mountain and coastal weather seriously.** Conditions genuinely change fast — check forecasts before any hike, and never underestimate an alpine crossing or coastal track.",
+        "**Tipping isn't customary.** Menu prices already reflect fair wages, and leaving a tip can genuinely seem unusual to service staff.",
+        "Finally, take **biosecurity rules** seriously at the border — declare all food, plants and outdoor equipment, and clean hiking boots before arrival, since New Zealand's controls are genuinely strict."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Four routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "Ten days: the South Island loop",
+          "text": "[[christchurch|Christchurch]], [[queenstown|Queenstown]], [[milford-sound|Milford Sound]] and the [[franz-josef-glacier|glaciers]], the single most popular South Island route and still the right choice for a first, shorter trip.",
+          "tip": "Book Milford Sound cruise tickets and a glacier walk slot online well ahead, especially in summer."
+        },
+        {
+          "title": "Eighteen days: north and south",
+          "text": "The itinerary on the [[c:new-zealand|New Zealand country page]]: [[auckland]], [[rotorua]], [[wellington]], then [[christchurch]], [[queenstown]], [[milford-sound|Milford Sound]] and the [[franz-josef-glacier|glaciers]]. Adds genuine Maori cultural depth and the capital to the classic South Island route.",
+          "tip": "Fly between the islands rather than driving and ferrying the full length, to keep this itinerary realistic in the time available."
+        },
+        {
+          "title": "A week focused on Maori culture and the North Island",
+          "text": "[[auckland|Auckland]], [[rotorua|Rotorua]] and [[tongariro|Tongariro]], covering the country's major city, its strongest Maori cultural centres and one of the world's great day hikes.",
+          "tip": "Book a proper marae-based cultural experience in Rotorua rather than a generic hotel dinner show."
+        },
+        {
+          "title": "A quieter week in the far north",
+          "text": "The [[bay-of-islands|Bay of Islands]] as a self-contained trip of sailing, history and beaches, genuinely distinct enough from the more-visited South Island route to justify dedicated time.",
+          "tip": "Combine with a visit to the Waitangi Treaty Grounds for real historical context alongside the sailing and beaches."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in New Zealand?",
+      "a": "Two weeks covers one island properly. Eighteen days to three weeks allows the fuller North-and-South itinerary in this guide, covering both the country's major cities and its most dramatic natural scenery."
+    },
+    {
+      "q": "What's the best first-time New Zealand itinerary?",
+      "a": "Auckland, Rotorua and Queenstown, connected by domestic flight — it covers a major city, genuine Maori cultural experiences and the country's adventure-sports capital without attempting the full length of both islands in too little time."
+    },
+    {
+      "q": "Do you need a car in New Zealand?",
+      "a": "Genuinely, yes, for most itineraries. Public transport between towns is limited, and a rental car gives the flexibility needed to reach Milford Sound, the glaciers and smaller towns on your own schedule."
+    },
+    {
+      "q": "Should I fly or drive between the North and South Islands?",
+      "a": "The Interislander ferry across Cook Strait is genuinely scenic and worth doing at least once, but a domestic flight saves considerable time — on an 18-day or shorter trip, flying between the islands is usually the better trade-off."
+    }
+  ]
+}

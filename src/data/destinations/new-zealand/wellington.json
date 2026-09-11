@@ -1,0 +1,375 @@
+{
+  "slug": "wellington",
+  "name": "Wellington",
+  "country": "new-zealand",
+  "region": "North Island",
+  "categories": ["capital-city", "major-city", "culture-arts", "nature-wildlife"],
+  "tagline": "A genuinely compact, hilly capital wedged between harbour and wind-scoured hills, its café culture and film industry punching well above its small size.",
+  "highlight": "A native bird calling from the bush at Zealandia at dusk, inside a predator-fenced sanctuary a ten-minute drive from Parliament.",
+  "shortDescription": "New Zealand's compact, hilly capital, its café culture, film industry and predator-free wildlife sanctuary packed into a genuinely walkable harbour city.",
+  "metaDescription": "A Wellington travel guide: Te Papa, the Cable Car, Zealandia, Weta Workshop, when to go and a practical two-day itinerary.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Wellington Airport (WLG)",
+  "knownFor": "Te Papa, the Cable Car, Weta Workshop, a strong café culture",
+  "budget": "NZ$170–300 per day, mid-range",
+  "goodFor": "Museums, film history, an easy Cook Strait gateway",
+  "coords": { "lat": -41.2865, "lng": 174.7762 },
+  "image": {
+    "file": "File:Lambton Harbour and the Wellington Waterfront.jpg",
+    "alt": "Wellington's waterfront along Lambton Harbour, backed by hillside houses"
+  },
+  "intro": [
+    "Wellington is genuinely one of the most compact national capitals anywhere, its city centre squeezed onto a narrow strip of flat land between a sheltered harbour and steep, wind-scoured hills — a geography that has kept the city walkable and dense rather than sprawling, even as it grew into New Zealand's political and cultural centre.",
+    "That compactness has produced a genuinely outsized café and arts culture for a city this size: Wellington regularly claims some of the best coffee anywhere in the world, and Peter Jackson's Weta Workshop turned the city into a real centre of the global film industry, its effects and props work visible in Wellington Airport's own Lord of the Rings-themed displays.",
+    "Wellington is also genuinely serious about conservation — Zealandia, a predator-fenced valley reserve barely ten minutes from Parliament, has helped native bird populations recover within city limits in a way few other capitals anywhere can claim."
+  ],
+  "whyVisit": {
+    "intro": "Wellington's case is a genuinely compact, walkable capital with outsized museums, café culture and film history for its size.",
+    "points": [
+      {
+        "title": "Te Papa is genuinely one of the world's best national museums",
+        "text": "Free entry and a genuinely engaging mix of Maori taonga, natural history and interactive exhibits make it easy to lose half a day here."
+      },
+      {
+        "title": "The café culture is genuinely world class",
+        "text": "Wellington regularly ranks among the best coffee cities anywhere, a real point of local pride rather than marketing."
+      },
+      {
+        "title": "Weta Workshop makes the film history genuinely tangible",
+        "text": "Peter Jackson's effects studio turned Wellington into a real global film hub, and workshop tours show the actual craft behind it."
+      },
+      {
+        "title": "Zealandia is genuinely unlike anything in most other capitals",
+        "text": "A predator-fenced valley reserve minutes from Parliament has helped native bird species recover within the city itself."
+      },
+      {
+        "title": "It's genuinely walkable and compact",
+        "text": "Most of the city's key sights sit within a easy walk of each other, a real contrast to more sprawling capitals."
+      }
+    ]
+  },
+  "attractionsIntro": "Wellington's essential sights fit within a genuinely compact, walkable harbourside centre.",
+  "attractions": [
+    {
+      "name": "Te Papa Tongarewa",
+      "image": {
+        "file": "File:Wellington pirogues du Musée Te Papa Tongarewa (2).jpg",
+        "alt": "A traditional Maori waka (canoe) on display at Te Papa Tongarewa museum"
+      },
+      "text": "New Zealand's national museum, genuinely free to enter, its collection spanning Maori taonga (treasures), natural history and interactive exhibits across six floors.",
+      "tip": "Allow at least half a day — the museum is genuinely larger and more absorbing than its compact exterior suggests."
+    },
+    {
+      "name": "The Wellington Cable Car",
+      "image": {
+        "file": "File:Wellington Cable Car Cityscape.jpg",
+        "alt": "The Wellington Cable Car climbing toward the Botanic Garden"
+      },
+      "text": "A genuinely historic funicular railway climbing from the city centre to Kelburn, its upper station offering sweeping harbour views and direct access to the Botanic Garden.",
+      "tip": "Ride up and walk back down through the Botanic Garden — a genuinely pleasant, mostly downhill route back to the centre."
+    },
+    {
+      "name": "Wellington Botanic Garden",
+      "image": {
+        "file": "File:Joy Fountain, Wellington Botanic Garden, New Zealand.jpg",
+        "alt": "The Joy Fountain in Wellington's Botanic Garden"
+      },
+      "text": "A genuinely well-kept hillside garden connecting the Cable Car's upper station to the city centre, with themed plantings and sweeping views along the way down.",
+      "tip": "The rose garden and duck pond near the bottom are a genuinely pleasant final stretch before re-entering the city."
+    },
+    {
+      "name": "The Beehive and Parliament",
+      "image": {
+        "file": "File:Beehive and Parliament House - Wellington - New Zealand - DSC00165.jpg",
+        "alt": "The distinctive rounded Beehive building beside Parliament House in Wellington"
+      },
+      "text": "New Zealand's genuinely distinctive executive wing, its rounded 'Beehive' shape a real architectural landmark beside the more traditional Parliament House and Library.",
+      "tip": "Free guided tours of Parliament run regularly — a genuinely worthwhile look at how the country's government actually works."
+    },
+    {
+      "name": "Zealandia",
+      "image": {
+        "file": "File:Water - Zealandia (Karori Wildlife Sanctuary) - Wellington - New Zealand - DSC00196.jpg",
+        "alt": "The forested valley reservoir inside Zealandia wildlife sanctuary"
+      },
+      "text": "A genuinely pioneering predator-fenced valley reserve, its native bird and reptile populations recovering within a ten-minute drive of Parliament, unlike almost anywhere else this close to a capital city.",
+      "tip": "A daytime visit shows the landscape and some birdlife; a guided night tour is genuinely the best way to spot kiwi."
+    },
+    {
+      "name": "Cuba Street",
+      "image": {
+        "file": "File:Cuba Street, 2013 (06).jpg",
+        "alt": "The pedestrianised, colourful storefronts of Cuba Street in Wellington"
+      },
+      "text": "Wellington's genuinely bohemian pedestrian strip, lined with independent cafés, vintage shops and street art, a real showcase of the city's creative character.",
+      "tip": "The Bucket Fountain is a genuinely beloved, slightly odd local landmark near the street's northern end — worth a quick look."
+    },
+    {
+      "name": "Mount Victoria lookout",
+      "image": {
+        "file": "File:Mt Victoria Lookout.jpg",
+        "alt": "Wellington's harbour and city seen from the Mount Victoria lookout"
+      },
+      "text": "A genuinely sweeping viewpoint over the harbour, city and surrounding hills, reachable by a short drive or a steeper walk from the city centre.",
+      "tip": "Sunset here is genuinely spectacular, with the harbour catching the last light below the city skyline."
+    }
+  ],
+  "thingsToDoIntro": "Wellington's compact size and creative culture reward genuinely unhurried exploration on foot.",
+  "thingsToDo": [
+    {
+      "title": "Ride the Cable Car and walk down through the Botanic Garden",
+      "image": {
+        "file": "File:Wellington Cable Car Cityscape.jpg",
+        "alt": "The Wellington Cable Car, with views over the city and harbour"
+      },
+      "text": "A genuinely classic Wellington half-day: ride up for the views, then take a leisurely downhill walk back through the Botanic Garden.",
+      "tip": "The full walk down takes about 30–45 minutes at an unhurried pace, with several places to stop along the way."
+    },
+    {
+      "title": "Tour Weta Workshop",
+      "image": {
+        "file": "File:Weta Workshop (52379942131).jpg",
+        "alt": "Weta Workshop, the film effects studio behind The Lord of the Rings"
+      },
+      "text": "Guided tours genuinely show the practical effects, prop-making and creature design behind The Lord of the Rings, The Hobbit and numerous other major films.",
+      "tip": "Book tours online ahead — sessions are genuinely limited in size and popular time slots sell out."
+    },
+    {
+      "title": "Explore Cuba Street's cafés and bars",
+      "image": {
+        "file": "File:Cuba Street, 2013 (06).jpg",
+        "alt": "Cafés and independent shops along Wellington's Cuba Street"
+      },
+      "text": "Genuinely the best single stretch to experience Wellington's celebrated café culture and creative, independent retail scene.",
+      "tip": "Wellington's coffee reputation is genuinely earned — try a flat white at more than one café to compare."
+    },
+    {
+      "title": "Walk the waterfront",
+      "image": {
+        "file": "File:Lambton Harbour and the Wellington Waterfront.jpg",
+        "alt": "Wellington's waterfront promenade along Lambton Harbour"
+      },
+      "text": "A genuinely pleasant, flat promenade connects the city centre to Oriental Bay, passing public art, swimming spots and waterfront bars along the way.",
+      "tip": "Continue as far as Oriental Bay for a genuinely good beach-side lunch spot with harbour views."
+    },
+    {
+      "title": "Spot native wildlife on a Zealandia night tour",
+      "image": {
+        "file": "File:Water - Zealandia (Karori Wildlife Sanctuary) - Wellington - New Zealand - DSC00196.jpg",
+        "alt": "The forest valley inside Zealandia, home to native New Zealand wildlife"
+      },
+      "text": "A guided evening tour genuinely offers one of the more reliable chances to spot a wild kiwi anywhere in the country, alongside other native nocturnal species.",
+      "tip": "Book well ahead — night tours are genuinely popular and run with limited group sizes."
+    },
+    {
+      "title": "Day-trip to the Wairarapa wine region",
+      "text": "Martinborough and the wider Wairarapa, genuinely a well-regarded pinot noir wine region, sit about an hour's drive or train ride from Wellington.",
+      "tip": "The Wairarapa Wine Train runs seasonally from Wellington — a genuinely relaxed way to visit without driving."
+    }
+  ],
+  "foodIntro": "Wellington's food and drink culture is genuinely built around its café scene, alongside the usual excellent New Zealand classics.",
+  "foods": [
+    {
+      "name": "Flat white",
+      "image": {
+        "file": "File:Flat white coffee Highgate Cricket Club, Crouch End, London 01.jpg",
+        "alt": "A flat white coffee, central to Wellington's celebrated café culture"
+      },
+      "text": "Wellington's café scene treats the flat white as a genuinely serious craft, regularly ranking among the best coffee cities in the world for its density of quality independent roasters.",
+      "whereToTry": "Independent cafés throughout Cuba Street and the wider city centre."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Wellington genuinely has one of New Zealand's strongest craft beer scenes, with numerous small breweries and dedicated tap rooms across the city.",
+      "whereToTry": "Craft beer bars around Courtenay Place and the wider city centre."
+    },
+    {
+      "name": "Fish and chips",
+      "image": {
+        "file": "File:Fish and chips u Aucklandu.jpg",
+        "alt": "A classic New Zealand fish and chips takeaway"
+      },
+      "text": "A genuinely beloved national tradition, best eaten from the paper along the waterfront at Oriental Bay.",
+      "whereToTry": "Independent fish and chip shops around the waterfront and Oriental Bay."
+    },
+    {
+      "name": "Meat pie",
+      "image": {
+        "file": "File:Steak and cheese pie - Napier, New Zealand.jpg",
+        "alt": "A classic New Zealand meat pie"
+      },
+      "text": "A genuinely serious national obsession — flaky pastry filled with steak, mince or other fillings, sold at bakeries citywide.",
+      "whereToTry": "Independent bakeries throughout the city centre."
+    },
+    {
+      "name": "Pavlova",
+      "image": {
+        "file": "File:Pavlova Cake.jpg",
+        "alt": "A pavlova dessert topped with cream and fresh fruit"
+      },
+      "text": "A meringue-based dessert with a genuinely crisp shell and marshmallow centre, a beloved national favourite found on café menus citywide.",
+      "whereToTry": "Cafés throughout the city centre, especially at weekend brunch spots."
+    },
+    {
+      "name": "Green-lipped mussels",
+      "image": {
+        "file": "File:Green-lipped mussels - Picton, NZ - DSC00240.jpg",
+        "alt": "Green-lipped mussels, a New Zealand seafood specialty"
+      },
+      "text": "A genuinely distinctive New Zealand species, widely available on Wellington restaurant menus, served simply steamed or in a range of sauces.",
+      "whereToTry": "Seafood restaurants around the waterfront and Courtenay Place."
+    }
+  ],
+  "accommodation": {
+    "intro": "Wellington is genuinely compact enough that the city centre works as a base for almost any visit.",
+    "areas": [
+      {
+        "name": "City centre and Lambton Quay",
+        "bestFor": "Walking distance to Te Papa and the waterfront",
+        "text": "The most convenient base for sightseeing, genuinely close to the Cable Car, Parliament and the museum."
+      },
+      {
+        "name": "Cuba Street and Te Aro",
+        "bestFor": "Nightlife and café culture",
+        "text": "A short walk from the centre, genuinely the best base for visitors prioritising Wellington's dining and bar scene."
+      },
+      {
+        "name": "Oriental Bay",
+        "bestFor": "A quieter, waterfront-adjacent stay",
+        "text": "A genuinely pleasant beachside neighbourhood a short walk or bus ride from the city centre."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel", "value": "NZ$120–180 per night" },
+      { "label": "Mid-range hotel", "value": "NZ$200–320 per night" },
+      { "label": "Te Papa entry", "value": "Free (special exhibitions extra)" },
+      { "label": "Weta Workshop tour", "value": "About NZ$55" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Wellington sits at the genuine crossing point between the North and South Islands, with an airport, ferry terminal and rail links.",
+    "options": [
+      {
+        "mode": "Domestic flights",
+        "text": "Regular flights connect Wellington to [[auckland|Auckland]], [[christchurch|Christchurch]] and [[queenstown|Queenstown]] efficiently.",
+        "detail": "Wellington Airport's short runway, exposed to genuinely strong local winds, is a well-known point of local pride and occasional traveller nerves."
+      },
+      {
+        "mode": "Interislander ferry",
+        "text": "Connects Wellington to Picton across Cook Strait, a genuinely scenic crossing through the Marlborough Sounds.",
+        "detail": "Book vehicle space well ahead in summer — sailings can sell out."
+      },
+      {
+        "mode": "Train",
+        "text": "The Capital Connection and other regional services connect Wellington to nearby towns including the Wairarapa.",
+        "detail": "A genuinely relaxed way to reach day-trip destinations without driving."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Wellington's city centre is genuinely compact and walkable, with the Cable Car and buses covering the hillier areas.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "Te Papa, the waterfront and Cuba Street are all within a genuinely compact, flat central area.",
+        "detail": "Some neighbourhoods climb genuinely steep hills — comfortable shoes help."
+      },
+      {
+        "mode": "Cable Car and buses",
+        "text": "The Cable Car reaches the Botanic Garden and Kelburn, while a citywide bus network covers everywhere else.",
+        "detail": "A Snapper card covers bus fares — tap on and off for each journey."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Useful for day trips to the Wairarapa or Kapiti Coast, though genuinely unnecessary for the city itself.",
+        "detail": "Wellington's steep, narrow streets make a car more hassle than help within the city centre."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–March for the mildest, least windy weather",
+    "summary": "Wellington is genuinely famous for its wind in any season, though summer offers the calmest, most reliable conditions.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "best",
+        "text": "The warmest, calmest weather, ideal for the waterfront and outdoor café culture."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Mild and genuinely settled, with noticeably thinner crowds than summer."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "good",
+        "text": "Cold and genuinely windy, though museums and indoor sights work well regardless of weather."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "good",
+        "text": "Increasingly mild, though genuinely still prone to the city's famous wind."
+      }
+    ],
+    "avoid": "Nothing strongly, though Wellington's wind is genuinely a year-round feature of the city rather than confined to one season — pack accordingly."
+  },
+  "itinerary": {
+    "title": "Two days in Wellington",
+    "intro": "Built around the city centre's museums and a wildlife-focused evening.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Te Papa and the Cable Car",
+        "summary": "The city's essential sights.",
+        "morning": "Te Papa Tongarewa.",
+        "afternoon": "The Cable Car up to Kelburn and a walk back through the Botanic Garden.",
+        "evening": "Dinner and drinks on Cuba Street."
+      },
+      {
+        "day": 2,
+        "title": "Film history and wildlife",
+        "summary": "Weta Workshop and a genuine wildlife encounter.",
+        "morning": "A Weta Workshop tour.",
+        "afternoon": "The waterfront walk to Oriental Bay.",
+        "evening": "A Zealandia night tour to spot native wildlife."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, timing and transport that make a real difference to a Wellington trip.",
+  "tips": [
+    "Book Weta Workshop tours and Zealandia night tours online ahead — both are genuinely popular and limited in size.",
+    "Pack a windproof layer regardless of season — Wellington's wind is genuinely a year-round feature of the city.",
+    "Book Interislander ferry vehicle space well ahead in summer if driving across Cook Strait.",
+    "Allow at least half a day for Te Papa — it's genuinely larger and more absorbing than it first appears.",
+    "Try coffee at more than one Cuba Street café — Wellington's reputation for it is genuinely well earned.",
+    "Combine Wellington with a day trip to the Wairarapa wine region if you have an extra day to spare."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Wellington?",
+      "a": "Two days covers Te Papa, the Cable Car and Weta Workshop comfortably, with time for a Zealandia night tour and a walk along the waterfront."
+    },
+    {
+      "q": "Is Wellington worth visiting?",
+      "a": "Yes, genuinely — it offers a free, world-class national museum, an outsized café and arts culture for its size, and a genuinely pioneering wildlife sanctuary minutes from Parliament."
+    },
+    {
+      "q": "What is Zealandia?",
+      "a": "A predator-fenced valley wildlife reserve barely ten minutes from central Wellington, where native bird and reptile populations have genuinely recovered within city limits — a night tour offers one of the more reliable chances to spot a wild kiwi."
+    },
+    {
+      "q": "Is Wellington windy?",
+      "a": "Yes, genuinely famously so, in any season — pack a windproof layer regardless of when you visit, since it's a real year-round feature of the city rather than confined to winter."
+    },
+    {
+      "q": "Can you visit Weta Workshop without booking ahead?",
+      "a": "It's genuinely risky not to — guided tours run in limited group sizes and popular time slots regularly sell out, especially in summer."
+    },
+    {
+      "q": "How do you get from Wellington to the South Island?",
+      "a": "The Interislander ferry crosses Cook Strait to Picton in a genuinely scenic journey through the Marlborough Sounds, or a domestic flight connects Wellington to Christchurch or Queenstown quickly."
+    }
+  ],
+  "related": ["auckland", "abel-tasman", "christchurch"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

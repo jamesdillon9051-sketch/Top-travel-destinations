@@ -1,0 +1,384 @@
+{
+  "slug": "auckland",
+  "name": "Auckland",
+  "country": "new-zealand",
+  "region": "North Island",
+  "categories": ["major-city", "coast-beaches", "culture-arts"],
+  "tagline": "The 'City of Sails', built across a narrow isthmus between two harbours and scattered with dozens of dormant volcanic cones.",
+  "highlight": "The view from the Sky Tower at sunset, two harbours and a scatter of volcanic islands spreading out in every direction.",
+  "shortDescription": "New Zealand's largest city, built across a volcanic isthmus between two harbours, with island vineyards and hiking cones a short trip from downtown.",
+  "metaDescription": "An Auckland travel guide: the Sky Tower, Waiheke Island, the War Memorial Museum, when to go and a practical two-day itinerary.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Auckland Airport (AKL)",
+  "knownFor": "The Sky Tower, Waiheke Island, sailing, volcanic cones",
+  "budget": "NZ$180–320 per day, mid-range",
+  "goodFor": "Wine, sailing, a genuine New Zealand gateway",
+  "coords": { "lat": -36.8485, "lng": 174.7633 },
+  "image": {
+    "file": "File:The Westhaven Bay harbor, sailboats and the Skytower, Auckland - 0301.jpg",
+    "alt": "Sailboats in Westhaven Bay with the Sky Tower rising above Auckland's skyline"
+  },
+  "intro": [
+    "Auckland is built across a narrow volcanic isthmus between two harbours — the Waitematā to the north and the Manukau to the south — and dotted with around 50 dormant volcanic cones, several of them genuinely climbable in under half an hour from the city centre for sweeping views in every direction.",
+    "New Zealanders call it the 'City of Sails' for real reason: Auckland genuinely has one of the highest rates of boat ownership per capita anywhere in the world, and the harbour is rarely without yachts on a fine afternoon. That maritime identity extends to Waiheke Island, a short ferry ride away, whose vineyards and beaches make it one of the most popular half-day trips from the city.",
+    "As New Zealand's largest city by a wide margin, Auckland is genuinely the country's main international gateway, and most visitors pass through even if they don't linger — though the combination of harbour views, volcanic hiking and island wine country gives it a genuine case for a few days of its own."
+  ],
+  "whyVisit": {
+    "intro": "Auckland's case is a genuinely unusual combination of harbour city, volcanic landscape and island wine country, all within a short distance of the centre.",
+    "points": [
+      {
+        "title": "The volcanic cones are genuinely climbable in minutes",
+        "text": "Around 50 dormant volcanoes dot the city, several offering sweeping harbour and skyline views after a short, easy walk."
+      },
+      {
+        "title": "Waiheke Island is genuinely one of New Zealand's best day trips",
+        "text": "A 40-minute ferry ride reaches beaches, vineyards and award-winning wineries without needing a car on the mainland."
+      },
+      {
+        "title": "The sailing culture is genuinely real, not a marketing slogan",
+        "text": "Auckland has one of the highest rates of boat ownership per capita in the world, and the harbour is rarely empty on a fine day."
+      },
+      {
+        "title": "It's genuinely the country's main international gateway",
+        "text": "Most New Zealand trips pass through Auckland, making a few extra days here an easy, low-effort addition."
+      },
+      {
+        "title": "The museums are genuinely excellent",
+        "text": "The Auckland War Memorial Museum holds one of the world's finest Maori and Pacific collections, alongside real natural history and war exhibits."
+      }
+    ]
+  },
+  "attractionsIntro": "Auckland's essential sights span its harbour skyline, volcanic cones and a short ferry ride to island wine country.",
+  "attractions": [
+    {
+      "name": "The Sky Tower",
+      "image": {
+        "file": "File:2020 Auckland Sky Tower.jpg",
+        "alt": "Auckland's Sky Tower rising above the city skyline"
+      },
+      "text": "At 328 metres, the tallest structure in the Southern Hemisphere, its observation decks offering genuinely sweeping views over both harbours and the volcanic cones beyond.",
+      "tip": "Visit at sunset for the best light over the harbour, then stay for the city lights coming on below."
+    },
+    {
+      "name": "Auckland War Memorial Museum",
+      "image": {
+        "file": "File:Auckland War Memorial Museum in 2021.jpg",
+        "alt": "The neoclassical facade of the Auckland War Memorial Museum"
+      },
+      "text": "A genuinely outstanding Maori and Pacific collection, including an impressive war canoe (waka), alongside natural history exhibits and a moving war memorial.",
+      "tip": "Time your visit for a scheduled Maori cultural performance, held daily in the museum's meeting house."
+    },
+    {
+      "name": "Viaduct Harbour and Westhaven",
+      "image": {
+        "file": "File:The Westhaven Bay harbor, sailboats and the Skytower, Auckland - 0301.jpg",
+        "alt": "Sailboats in Westhaven Bay with the Sky Tower rising above Auckland's skyline"
+      },
+      "text": "The genuine heart of Auckland's 'City of Sails' identity, its marina lined with restaurants and bars and, on a fine afternoon, rarely short of yachts heading out onto the Waitematā.",
+      "tip": "An evening walk along the Viaduct genuinely captures Auckland's waterfront energy better than any single sight."
+    },
+    {
+      "name": "Waiheke Island",
+      "image": {
+        "file": "File:Waiheke Island Vineyard.jpg",
+        "alt": "Vineyards on Waiheke Island, a short ferry ride from Auckland"
+      },
+      "text": "A genuinely popular half-day or full-day trip, Waiheke's vineyards, olive groves and beaches feel a world away from the city despite being barely 40 minutes off downtown by ferry.",
+      "tip": "Book a vineyard tour combining tastings at two or three wineries — the island's wine scene is genuinely excellent."
+    },
+    {
+      "name": "Auckland Art Gallery Toi o Tāmaki",
+      "image": {
+        "file": "File:Auckland Art Gallery Toi o Tāmaki - Joy of Museums - External.jpg",
+        "alt": "The distinctive canopy roof of the Auckland Art Gallery Toi o Tāmaki"
+      },
+      "text": "The country's largest art collection, genuinely spanning historic New Zealand and Pacific work alongside international pieces, housed in a striking building with a canopy roof inspired by native ponga fern fronds.",
+      "tip": "Free general admission makes this a genuinely easy stop even for a short visit — special exhibitions charge separately."
+    },
+    {
+      "name": "One Tree Hill (Maungakiekie)",
+      "image": {
+        "file": "File:Maungakiekie One Tree Hill - 4517642794.jpg",
+        "alt": "The summit obelisk atop One Tree Hill (Maungakiekie) in Auckland"
+      },
+      "text": "One of the city's most significant volcanic cones, genuinely a major Maori pa (fortified settlement) site historically, its summit obelisk visible from much of the city.",
+      "tip": "Combine with nearby Cornwall Park, a genuinely pleasant green space surrounding the base of the hill."
+    },
+    {
+      "name": "The Auckland Domain",
+      "image": {
+        "file": "File:2022-06-11 Auckland Domain.jpg",
+        "alt": "Green lawns and gardens in Auckland's Domain park"
+      },
+      "text": "The city's oldest and largest park, genuinely built around an extinct volcanic crater, home to the War Memorial Museum and expansive winter gardens.",
+      "tip": "The Wintergardens' twin glasshouses are genuinely worth the short walk from the museum, free to enter."
+    }
+  ],
+  "thingsToDoIntro": "Auckland's harbour setting and volcanic landscape reward genuinely active exploration, on land and water.",
+  "thingsToDo": [
+    {
+      "title": "Go up the Sky Tower",
+      "image": {
+        "file": "File:2020 Auckland Sky Tower.jpg",
+        "alt": "Auckland's Sky Tower, with a SkyWalk and SkyJump available for thrill-seekers"
+      },
+      "text": "Beyond the standard observation decks, genuinely thrill-seeking options include the SkyWalk, a guided walk around the tower's outer rim, and the SkyJump, a controlled base jump down the outside.",
+      "tip": "Book the SkyWalk or SkyJump ahead — both are genuinely popular and can sell out on busy days."
+    },
+    {
+      "title": "Ferry to Waiheke Island for wine tasting",
+      "image": {
+        "file": "File:Waiheke Island Vineyard.jpg",
+        "alt": "Vineyard rows on Waiheke Island, a popular wine-tasting day trip from Auckland"
+      },
+      "text": "A genuinely easy half-day trip: the ferry takes about 40 minutes, and the island's wineries are geared toward relaxed tasting visits without needing your own transport.",
+      "tip": "Book a hop-on hop-off wine tour bus on the island itself rather than trying to walk between wineries."
+    },
+    {
+      "title": "Sail Auckland's harbour",
+      "image": {
+        "file": "File:Auckland Harbour Yachts, Takapuna in the Background.jpg",
+        "alt": "Yachts sailing on Auckland's Waitematā Harbour"
+      },
+      "text": "Genuinely easy to arrange even without your own boat — America's Cup-style sailing experiences and harbour cruises depart regularly from the Viaduct.",
+      "tip": "A former America's Cup yacht sailing trip is a genuinely memorable, active way to see the harbour from the water."
+    },
+    {
+      "title": "Hike Mount Eden for volcanic crater views",
+      "image": {
+        "file": "File:Mt Eden 2018.jpg",
+        "alt": "The volcanic crater and summit views from Mount Eden in Auckland"
+      },
+      "text": "The city's highest volcanic cone is genuinely a short, easy climb from the surrounding streets, its crater and 360-degree summit views rewarding the modest effort.",
+      "tip": "Go early morning or late afternoon for genuinely softer light and fewer visitors at the summit."
+    },
+    {
+      "title": "Day-trip to Hobbiton",
+      "image": {
+        "file": "File:Hobbiton Movie Set, Matamata.jpg",
+        "alt": "The hobbit holes of the Hobbiton movie set, a popular day trip from Auckland"
+      },
+      "text": "The permanently maintained Lord of the Rings and Hobbit film set is genuinely reachable as a long day trip from Auckland, about two hours' drive south.",
+      "tip": "Book an early tour slot to make the most of the day without an overly late return to Auckland."
+    },
+    {
+      "title": "Explore Ponsonby and Karangahape Road",
+      "text": "Auckland's genuinely trendiest dining and nightlife strips, Ponsonby Road and K Road offer a real cross-section of the city's independent restaurant and bar scene.",
+      "tip": "K Road's genuinely more eclectic, artier scene contrasts well with Ponsonby's more polished restaurant row — worth trying both."
+    }
+  ],
+  "foodIntro": "Auckland's food scene genuinely reflects New Zealand's Pacific setting and strong café culture, at every price point.",
+  "foods": [
+    {
+      "name": "Flat white",
+      "image": {
+        "file": "File:Flat white coffee Highgate Cricket Club, Crouch End, London 01.jpg",
+        "alt": "A flat white coffee, a espresso drink genuinely associated with New Zealand and Australian café culture"
+      },
+      "text": "A espresso and microfoam milk drink genuinely claimed as a New Zealand (and Australian) invention, and Auckland's café culture treats it as a serious daily ritual rather than an afterthought.",
+      "whereToTry": "Independent cafés throughout Ponsonby, K Road and the city centre."
+    },
+    {
+      "name": "Fish and chips",
+      "image": {
+        "file": "File:Fish and chips u Aucklandu.jpg",
+        "alt": "A classic New Zealand fish and chips takeaway in Auckland"
+      },
+      "text": "A genuinely beloved local tradition, usually made with fresh snapper, best eaten from the paper at a harbourside park or beach.",
+      "whereToTry": "Independent fish and chip shops around the waterfront and inner suburbs."
+    },
+    {
+      "name": "Meat pie",
+      "image": {
+        "file": "File:Steak and cheese pie - Napier, New Zealand.jpg",
+        "alt": "A classic New Zealand meat pie"
+      },
+      "text": "A genuinely serious national obsession — flaky pastry filled with steak, mince or a range of other fillings, sold at bakeries citywide.",
+      "whereToTry": "Independent bakeries throughout the city, a genuine point of local pride."
+    },
+    {
+      "name": "Pavlova",
+      "image": {
+        "file": "File:Pavlova Cake.jpg",
+        "alt": "A pavlova dessert topped with cream and fresh fruit"
+      },
+      "text": "A meringue-based dessert with a genuinely crisp shell and marshmallow centre, a beloved national favourite found on café menus citywide.",
+      "whereToTry": "Cafés throughout Auckland, especially at weekend brunch spots."
+    },
+    {
+      "name": "Green-lipped mussels",
+      "image": {
+        "file": "File:Green-lipped mussels - Picton, NZ - DSC00240.jpg",
+        "alt": "Green-lipped mussels, a New Zealand seafood specialty"
+      },
+      "text": "A genuinely distinctive New Zealand species, widely available on Auckland restaurant menus, served simply steamed or in a range of sauces.",
+      "whereToTry": "Seafood restaurants around the Viaduct and waterfront."
+    },
+    {
+      "name": "Hokey pokey ice cream",
+      "image": {
+        "file": "File:Hokey pokey ice cream (cropped).jpg",
+        "alt": "Hokey pokey ice cream, a New Zealand favourite with honeycomb toffee pieces"
+      },
+      "text": "Vanilla ice cream studded with honeycomb toffee pieces, genuinely one of the most beloved local flavours nationwide.",
+      "whereToTry": "Ice cream parlours across the city, especially around the waterfront."
+    }
+  ],
+  "accommodation": {
+    "intro": "Auckland genuinely splits between the compact city centre and the more relaxed inner suburbs, both easy bases.",
+    "areas": [
+      {
+        "name": "City centre and Viaduct",
+        "bestFor": "Walking distance to the Sky Tower and waterfront",
+        "text": "The most convenient base for sightseeing, with a genuine mix of business hotels and waterfront apartments near the Viaduct."
+      },
+      {
+        "name": "Ponsonby",
+        "bestFor": "A trendier, restaurant-focused stay",
+        "text": "A short drive or bus ride from downtown, genuinely known for its independent dining and boutique accommodation."
+      },
+      {
+        "name": "Waiheke Island",
+        "bestFor": "A quieter, vineyard-focused stay",
+        "text": "Staying overnight on the island genuinely lets you explore at a slower pace beyond a rushed day trip, with its own range of accommodation."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel", "value": "NZ$130–190 per night" },
+      { "label": "Mid-range hotel", "value": "NZ$220–350 per night" },
+      { "label": "Sky Tower observation deck", "value": "About NZ$35" },
+      { "label": "Waiheke ferry return", "value": "About NZ$45" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Auckland Airport is New Zealand's main international gateway, genuinely well-connected worldwide.",
+    "options": [
+      {
+        "mode": "International flights",
+        "text": "Auckland Airport receives direct flights from across the Pacific, Asia, North America and beyond, genuinely the country's busiest air hub.",
+        "detail": "A dedicated bus service connects the airport to the city centre in about 45 minutes."
+      },
+      {
+        "mode": "Domestic flights",
+        "text": "Regular flights connect Auckland to [[wellington|Wellington]], [[christchurch|Christchurch]] and [[queenstown|Queenstown]] efficiently.",
+        "detail": "Book ahead for the best fares on the country's busiest domestic routes."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Auckland is a genuinely practical starting point for a North Island road trip toward [[rotorua|Rotorua]] and [[tongariro|Tongariro]].",
+        "detail": "Rental desks are available at the airport and throughout the city centre."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Central Auckland is genuinely walkable, with ferries and buses covering the harbour and wider city.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The city centre, Viaduct and Sky Tower are all within a compact, walkable downtown area.",
+        "detail": "Several volcanic cones, including Mount Eden, are also reachable on foot from nearby neighbourhoods."
+      },
+      {
+        "mode": "Ferries",
+        "text": "Regular ferries connect downtown to Waiheke Island, Devonport and other harbour destinations.",
+        "detail": "A genuinely pleasant, scenic way to travel rather than just a practical necessity."
+      },
+      {
+        "mode": "Buses and trains",
+        "text": "A city-wide public transport network covers the wider metropolitan area efficiently.",
+        "detail": "An AT HOP card covers buses, trains and ferries — tap on and off for each journey."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Useful for reaching further-flung sights and beginning a wider North Island road trip.",
+        "detail": "Not necessary for the city centre itself, where parking is limited and often expensive."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–March for summer, or shoulder seasons for fewer crowds",
+    "summary": "Auckland's mild, temperate climate is genuinely workable year-round, though summer suits the harbour and island activities best.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "best",
+        "text": "Warm, sunny weather ideal for the harbour, beaches and Waiheke Island — also the busiest season."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Mild and genuinely settled, with noticeably thinner crowds than summer."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "good",
+        "text": "Cooler and wetter, though genuinely mild by international standards — museums and indoor sights work well regardless."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "good",
+        "text": "Increasingly warm and settled, a good transitional season before the summer peak."
+      }
+    ],
+    "avoid": "Nothing strongly — Auckland's mild climate keeps it genuinely workable most of the year, though summer weekends bring the busiest ferries to Waiheke."
+  },
+  "itinerary": {
+    "title": "Two days in Auckland",
+    "intro": "Built around the city centre and an easy island day trip.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The city and harbour",
+        "summary": "The city's essential sights.",
+        "morning": "The Auckland War Memorial Museum and the Domain.",
+        "afternoon": "The Sky Tower and a walk through the Viaduct.",
+        "evening": "Dinner in Ponsonby."
+      },
+      {
+        "day": 2,
+        "title": "Waiheke Island",
+        "summary": "A relaxed day of wine and beaches.",
+        "morning": "Ferry to Waiheke Island.",
+        "afternoon": "A vineyard tour and tasting.",
+        "evening": "Return to Auckland for a final dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, timing and transport that make a real difference to an Auckland trip.",
+  "tips": [
+    "Book Sky Tower SkyWalk or SkyJump slots ahead — both are genuinely popular and can sell out.",
+    "Book a Waiheke Island wine tour ahead in summer, when demand for vineyard tours is highest.",
+    "Consider Auckland as a base for a Hobbiton day trip if you won't otherwise pass through the wider Waikato region.",
+    "Pack for changeable weather regardless of season — Auckland's climate is genuinely unpredictable within a single day.",
+    "Use an AT HOP card for buses, trains and ferries rather than paying cash fares.",
+    "Climb a volcanic cone at sunrise or sunset for genuinely the best light over the harbour."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Auckland?",
+      "a": "Two to three days covers the city centre, Sky Tower and a Waiheke Island day trip comfortably. Most visitors treat it as a gateway rather than a lengthy stay, though it genuinely rewards a few extra days."
+    },
+    {
+      "q": "Is Waiheke Island worth visiting?",
+      "a": "Yes, genuinely — it's one of New Zealand's best short trips, with vineyards, beaches and olive groves reachable by a 40-minute ferry, easily filling a relaxed half or full day."
+    },
+    {
+      "q": "Do you need a car in Auckland?",
+      "a": "Not for the city centre itself, which is walkable, with ferries and buses covering the rest. A car becomes useful if continuing on to Rotorua, Tongariro or a wider North Island road trip."
+    },
+    {
+      "q": "Is Auckland a good base for visiting Hobbiton?",
+      "a": "Yes — the Hobbiton movie set near Matamata is about two hours' drive south, genuinely workable as a long day trip from Auckland."
+    },
+    {
+      "q": "Why is Auckland called the City of Sails?",
+      "a": "Genuinely because of its exceptionally high rate of boat ownership per capita and its active sailing culture — the harbour is rarely without yachts on a fine day, and America's Cup sailing experiences are widely available."
+    },
+    {
+      "q": "What is the best time to visit Auckland?",
+      "a": "December to February (summer) offers the warmest weather for the harbour and Waiheke Island, though March to May offers similarly good conditions with noticeably fewer crowds."
+    }
+  ],
+  "related": ["rotorua", "tongariro", "bay-of-islands"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}
