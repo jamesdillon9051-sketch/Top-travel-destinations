@@ -1,0 +1,282 @@
+{
+  "slug": "sintra",
+  "name": "Sintra",
+  "country": "portugal",
+  "region": "Lisbon district",
+  "categories": ["historic", "unesco", "scenic", "off-the-beaten-path"],
+  "tagline": "A hillside town of fairy-tale palaces and misty forests that so captivated Lord Byron he called it a 'glorious Eden' — now an easy, genuinely worthwhile day trip from Lisbon.",
+  "highlight": "Pena Palace emerging from the mist above its forested hillside, its clashing red, yellow and violet towers looking more like a fantasy illustration than an actual 19th-century royal retreat.",
+  "shortDescription": "A UNESCO-listed hillside town of fairy-tale royal palaces and misty forests, an easy and genuinely essential day trip from Lisbon.",
+  "metaDescription": "A Sintra travel guide: Pena Palace, the Moorish Castle, Quinta da Regaleira, when to go and a practical one-day itinerary.",
+  "suggestedStay": "1 day, or overnight to see it without crowds",
+  "nearestAirport": "Lisbon (LIS), about 40 minutes away",
+  "knownFor": "Pena Palace, the Moorish Castle, Quinta da Regaleira",
+  "budget": "€70–130 per day, mid-range",
+  "goodFor": "Palaces, architecture, an easy Lisbon day trip",
+  "coords": { "lat": 38.7979, "lng": -9.3900 },
+  "image": {
+    "file": "File:Sintra Portugal Palácio da Pena-01.jpg",
+    "alt": "Pena Palace's colourful towers rising above the forested hills of Sintra"
+  },
+  "intro": [
+    "Sintra was the summer retreat of Portugal's kings for centuries, and the genuinely extraordinary collection of palaces, castles and estates scattered across its forested, mist-prone hills reflects generations of royal and aristocratic wealth poured into increasingly fantastical architecture.",
+    "Pena Palace is the headline act — a riot of clashing colours and architectural styles built in the 1840s for King Ferdinand II, deliberately eccentric and genuinely unlike any other royal palace in Europe — but the wider town holds equally compelling sights, from the Moorish Castle's ancient ramparts to Quinta da Regaleira's symbolism-laden gardens and initiation well.",
+    "Lord Byron called Sintra a 'glorious Eden' after visiting in 1809, and while the crowds have grown considerably since, the town's UNESCO World Heritage status and genuine architectural density make it one of the most worthwhile day trips anywhere near a European capital."
+  ],
+  "whyVisit": {
+    "intro": "Sintra's case is that no other easy capital-city day trip delivers this much genuinely fantastical royal architecture in one place.",
+    "points": [
+      {
+        "title": "Pena Palace is genuinely unlike any other palace",
+        "text": "A deliberately eccentric, colour-clashing 19th-century royal retreat that looks more like a fairy tale than history."
+      },
+      {
+        "title": "The Moorish Castle delivers genuine ancient history",
+        "text": "8th-century ramparts offering sweeping views over Sintra's forested hills toward the Atlantic."
+      },
+      {
+        "title": "Quinta da Regaleira is genuinely strange and compelling",
+        "text": "A symbolism-laden estate with an underground initiation well unlike anything else in Portugal."
+      },
+      {
+        "title": "It's a genuinely easy Lisbon day trip",
+        "text": "Under an hour by train, making a full, worthwhile day without extending your itinerary much."
+      },
+      {
+        "title": "An overnight stay reveals it without the crowds",
+        "text": "Day-trippers leave by late afternoon, leaving the town genuinely peaceful for an evening visit."
+      }
+    ]
+  },
+  "attractionsIntro": "Sintra's essential sights, spread across the hillside town and its surrounding forested estates.",
+  "attractions": [
+    {
+      "name": "Pena Palace",
+      "image": {
+        "file": "File:Sintra Portugal Palácio da Pena-01.jpg",
+        "alt": "Pena Palace's colourful towers rising above the forested hills of Sintra"
+      },
+      "text": "A deliberately eccentric 19th-century royal palace, its clashing red, yellow and violet towers combining Gothic, Moorish and Manueline styles into something genuinely unlike anywhere else in Europe.",
+      "tip": "Book timed-entry tickets online well ahead in summer, and arrive as early as possible to beat both crowds and the region's frequent morning mist."
+    },
+    {
+      "name": "Moorish Castle (Castelo dos Mouros)",
+      "text": "8th-century fortress ramparts snaking along a forested ridge, offering genuinely sweeping views over Sintra and, on clear days, toward the Atlantic coast.",
+      "tip": "The walk along the walls involves genuinely steep, uneven sections — wear proper shoes and take it slowly."
+    },
+    {
+      "name": "Quinta da Regaleira",
+      "text": "A genuinely strange and compelling early 20th-century estate, its gardens hiding a symbolism-laden underground 'initiation well' and tunnel network.",
+      "tip": "Descend the initiation well via its spiral staircase, then explore the connecting tunnels for a genuinely memorable, slightly eerie experience."
+    },
+    {
+      "name": "Sintra National Palace",
+      "text": "A palace in the town centre itself, its two enormous conical chimneys genuinely among Sintra's most recognisable landmarks, with Moorish-influenced interiors dating back centuries.",
+      "tip": "Considerably less crowded than Pena Palace, genuinely worth the visit if you have time for a second palace."
+    },
+    {
+      "name": "Monserrate Palace",
+      "text": "A genuinely romantic, less-visited palace surrounded by an exceptional botanical garden, combining Gothic, Indian and Moorish architectural influences.",
+      "tip": "A worthwhile stop if you have a full day — its gardens are genuinely among the most beautiful and least crowded in Sintra."
+    }
+  ],
+  "thingsToDoIntro": "Beyond the palaces, Sintra rewards its forested hiking trails and the nearby Atlantic coast.",
+  "thingsToDo": [
+    {
+      "title": "Hike between the hillside estates",
+      "text": "Forested trails genuinely connect several of Sintra's palaces and viewpoints, offering a good alternative to the shuttle bus between sights.",
+      "tip": "The walk between the Moorish Castle and Pena Palace is genuinely manageable and scenic for reasonably fit visitors."
+    },
+    {
+      "title": "Visit Cabo da Roca",
+      "text": "Continental Europe's westernmost point, a genuinely dramatic clifftop a short drive or bus ride from Sintra.",
+      "tip": "Combine with a stop in the coastal town of Cascais for a genuinely full day beyond the palaces themselves."
+    },
+    {
+      "title": "Wander Sintra's historic centre",
+      "text": "The town's small centre, with narrow streets and traditional shops, offers a genuinely pleasant break between palace visits.",
+      "tip": "Try queijadas de Sintra, a genuinely traditional local pastry, from one of the town's historic bakeries."
+    },
+    {
+      "title": "Explore Monserrate's botanical gardens",
+      "text": "A genuinely exceptional landscaped garden surrounding Monserrate Palace, with plant species from across the former Portuguese empire.",
+      "tip": "Allow at least an hour beyond the palace visit — the gardens genuinely reward an unhurried wander."
+    },
+    {
+      "title": "Stay overnight for a quieter Sintra",
+      "text": "Day-trip crowds from Lisbon genuinely thin out by late afternoon, leaving the town considerably more peaceful for an evening visit.",
+      "tip": "An overnight stay also allows an early-morning visit to Pena Palace before the first tour buses arrive."
+    }
+  ],
+  "foodIntro": "Sintra's food scene centres on traditional Portuguese pastries alongside standard regional dishes.",
+  "foods": [
+    {
+      "name": "Queijadas de Sintra",
+      "text": "A genuinely distinctive local pastry of sweet cheese, cinnamon and sugar in a thin crust, a Sintra specialty with centuries of history.",
+      "whereToTry": "Casa do Preto or Piriquita, both genuinely historic bakeries in Sintra's town centre."
+    },
+    {
+      "name": "Travesseiros",
+      "text": "A genuinely rich, flaky pastry filled with almond and egg cream, another Sintra specialty traditionally paired with the queijada.",
+      "whereToTry": "Piriquita, a genuinely long-running Sintra bakery famous for both local pastries."
+    },
+    {
+      "name": "Bacalhau (salt cod)",
+      "image": {
+        "file": "File:Bacalhau à Brás at Restaurante Figus, Lisbon (46935287645).jpg",
+        "alt": "Bacalhau à Brás, a Portuguese salt cod dish with eggs and shoestring potatoes"
+      },
+      "text": "Widely available across the town as elsewhere in Portugal, genuinely good from Sintra's traditional restaurants.",
+      "whereToTry": "Traditional restaurants throughout Sintra's historic centre."
+    },
+    {
+      "name": "Ginjinha",
+      "text": "A genuinely potent sour cherry liqueur, available across the town as a small shot, a common way to end a day of sightseeing.",
+      "whereToTry": "Cafés and bars throughout Sintra's centre."
+    },
+    {
+      "name": "Colares wine",
+      "image": {
+        "file": "File:AdegaColares.JPG",
+        "alt": "The Adega Regional de Colares, a historic wine cellar near Sintra"
+      },
+      "text": "A genuinely distinctive wine from vines planted directly in coastal sand dunes near Sintra, among the few in Europe never affected by the phylloxera blight — one of Portugal's oldest demarcated wine regions.",
+      "whereToTry": "The Adega Regional de Colares cooperative cellar, a short drive from central Sintra toward the coast."
+    }
+  ],
+  "accommodation": {
+    "intro": "Sintra works well as a day trip from Lisbon, or an overnight stay for a genuinely quieter visit.",
+    "areas": [
+      {
+        "name": "Sintra town centre",
+        "bestFor": "Walking distance to the National Palace and shuttle buses",
+        "text": "The most convenient base, close to the train station and central sights."
+      },
+      {
+        "name": "Near the palaces (São Pedro de Sintra)",
+        "bestFor": "A quieter, more residential atmosphere",
+        "text": "A short distance from the main centre, with genuinely good access to the hillside estates."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse room", "value": "€70–130 per night" },
+      { "label": "Boutique hotel", "value": "€140–260 per night" },
+      { "label": "Pena Palace entry", "value": "€14–20" },
+      { "label": "Queijada pastry", "value": "€1.20–2" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Sintra is an easy train trip from Lisbon, genuinely one of the most straightforward day trips near any European capital.",
+    "options": [
+      {
+        "mode": "Train from Lisbon",
+        "text": "Frequent regional trains from [[lisbon|Lisbon]]'s Rossio station reach Sintra in about 40 minutes.",
+        "detail": "Trains run every 15–20 minutes through the day — no advance booking required."
+      },
+      {
+        "mode": "Bus to Cabo da Roca and Cascais",
+        "text": "Regular buses connect Sintra's town centre to the coast, useful for combining a palace visit with Continental Europe's westernmost point.",
+        "detail": "The 403 bus route covers both Cabo da Roca and onward to Cascais."
+      },
+      {
+        "mode": "Organised day tour from Lisbon",
+        "text": "A genuinely convenient option for visitors wanting transport between palaces handled for them.",
+        "detail": "Worthwhile if you're short on time and want to see several palaces without navigating shuttle buses yourself."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Sintra's palaces are spread across forested hills, with a shuttle bus connecting the main sights.",
+    "options": [
+      {
+        "mode": "Tourist shuttle bus (434 or 435)",
+        "text": "Connects the train station to Pena Palace, the Moorish Castle and other key sights.",
+        "detail": "Buy a day pass if visiting multiple palaces — it's genuinely better value than single tickets."
+      },
+      {
+        "mode": "Walking",
+        "text": "Trails connect several hillside estates for genuinely fit visitors willing to hike between them.",
+        "detail": "The walk between the Moorish Castle and Pena Palace is genuinely manageable for most visitors."
+      },
+      {
+        "mode": "Taxi or ride-hailing app",
+        "text": "A genuinely convenient alternative to the shuttle bus, particularly for visitors short on time.",
+        "detail": "Fares between the main sights are reasonable given the short distances involved."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October, for mild weather and manageable crowds",
+    "summary": "Sintra's hillside microclimate is genuinely cooler and mistier than Lisbon, and spring and autumn offer the best sightseeing weather.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Mild weather and blooming gardens, though morning mist is genuinely common on the hills."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "shoulder",
+        "text": "Warm but genuinely the busiest season, with significant queues at Pena Palace without advance tickets."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Comfortable temperatures and thinning crowds, a genuinely excellent window for the palaces and gardens."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Cool and often misty, but genuinely quiet, with the palaces' forests looking particularly atmospheric in the fog."
+      }
+    ],
+    "avoid": "Midday hours in July and August without pre-booked tickets, when Pena Palace's queues can mean hours of waiting."
+  },
+  "itinerary": {
+    "title": "One day in Sintra",
+    "intro": "The two essential palaces first, then Quinta da Regaleira and the town centre if time allows.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Sintra's palaces",
+        "summary": "The essential day-trip circuit.",
+        "morning": "Pena Palace, arriving as early as possible.",
+        "afternoon": "The Moorish Castle and Quinta da Regaleira.",
+        "evening": "A queijada pastry before the train back to Lisbon."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, timing and transport that make a real difference to a Sintra trip.",
+  "tips": [
+    "Book Pena Palace tickets online well ahead in summer — walk-up queues can mean hours of waiting.",
+    "Arrive as early as possible, both to beat crowds and Sintra's frequent morning mist.",
+    "Buy a shuttle bus day pass if visiting multiple palaces — it's genuinely better value than single fares.",
+    "Wear comfortable shoes — the Moorish Castle's ramparts and hillside trails involve genuinely uneven terrain.",
+    "Consider an overnight stay if you want to see Pena Palace without the day-trip crowds.",
+    "Don't try to see every palace in a single rushed day — Pena Palace, the Moorish Castle and Quinta da Regaleira are genuinely enough for one visit."
+  ],
+  "faq": [
+    {
+      "q": "Is Sintra worth a day trip from Lisbon?",
+      "a": "Yes, genuinely essential — it's under an hour away by train and offers palace architecture found nowhere else in Portugal, making it one of the most worthwhile day trips near any European capital."
+    },
+    {
+      "q": "How many palaces can I see in one day?",
+      "a": "Realistically two to three with good planning — Pena Palace and the Moorish Castle together, plus Quinta da Regaleira if time allows. Trying to add more genuinely risks rushing all of them."
+    },
+    {
+      "q": "Should I stay overnight in Sintra?",
+      "a": "Worth considering if you want to see Pena Palace without the day-trip crowds — most visitors, though, manage a satisfying day trip from Lisbon without needing to change accommodation."
+    },
+    {
+      "q": "How do I get around Sintra?",
+      "a": "The tourist shuttle bus (434 or 435) connects the train station to the main palaces, genuinely the most practical option for most visitors, though fit walkers can hike between some sights instead."
+    },
+    {
+      "q": "What is the best time of year to visit?",
+      "a": "April to June and September to October offer the most comfortable weather and manageable crowds. Summer is genuinely the busiest season, requiring advance tickets to avoid long queues."
+    }
+  ],
+  "related": ["lisbon", "obidos", "algarve"],
+  "relatedArticles": ["unesco-worth-planning-around", "first-trip-to-europe"]
+}

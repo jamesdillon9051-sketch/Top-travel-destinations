@@ -1,0 +1,363 @@
+{
+  "slug": "coimbra",
+  "name": "Coimbra",
+  "country": "portugal",
+  "region": "Beira Litoral, Central Portugal",
+  "categories": ["historic", "cultural", "off-the-beaten-path"],
+  "tagline": "A hillside university city on the Mondego River, its baroque library and student traditions genuinely unbroken since the 13th century.",
+  "highlight": "Fado de Coimbra sung by cape-wearing students on the steps below the old cathedral, a genuinely different tradition from Lisbon's version of the music.",
+  "shortDescription": "Portugal's great university city, its Renaissance-era campus, gilded baroque library and centuries of student tradition stacked on a hill above the Mondego River.",
+  "metaDescription": "A Coimbra travel guide: the University of Coimbra, the Biblioteca Joanina, fado de Coimbra, Conimbriga's Roman ruins, when to go and a practical itinerary.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Porto (OPO), about 1h15 away",
+  "knownFor": "The University of Coimbra, the Biblioteca Joanina, fado de Coimbra",
+  "budget": "€60–110 per day, mid-range",
+  "goodFor": "History, architecture, an authentic university city beyond Lisbon and Porto",
+  "coords": { "lat": 40.2033, "lng": -8.4103 },
+  "image": {
+    "file": "File:Coimbra University Tower 2.jpg",
+    "alt": "The clock tower and Paço das Escolas courtyard at the University of Coimbra"
+  },
+  "intro": [
+    "Coimbra was Portugal's capital for over a century in the Middle Ages, and it has been home to the country's oldest university since 1290 — one of the oldest continuously operating universities anywhere in the world. That combination of royal history and unbroken academic tradition gives the city a genuinely different character from Lisbon or Porto: a hillside old town built quite literally around a working campus, its students still wearing black capes through the same steep lanes their predecessors have climbed for over seven centuries.",
+    "The university's historic core, crowned by the gilded Baroque interior of the Biblioteca Joanina, was added to UNESCO's World Heritage list in 2013, and the honour is genuinely earned — few academic buildings anywhere combine this much ceremonial grandeur with an institution still in daily use. Below the university hill, the compact old town descends past the Romanesque Sé Velha to the Mondego River, Portugal's longest river contained entirely within its own borders.",
+    "Coimbra rewards visitors who come for the university and its traditions specifically, rather than expecting another Lisbon or Porto. Fado de Coimbra — sung only by men, in academic dress, and considered by its practitioners a serenade rather than performance — is found nowhere else, and the city's Roman roots are a short trip away at Conimbriga, mainland Portugal's largest excavated Roman site."
+  ],
+  "whyVisit": {
+    "intro": "Coimbra's case is a genuinely unbroken university tradition spanning seven centuries, wrapped in a compact, walkable hillside city most itineraries skip entirely.",
+    "points": [
+      {
+        "title": "The Biblioteca Joanina is genuinely one of Europe's finest libraries",
+        "text": "A gilded Baroque interior housing 300,000 volumes, still protected at night by a colony of bats that eat the insects which would otherwise damage the books."
+      },
+      {
+        "title": "The university traditions are genuinely still alive",
+        "text": "Students in black capes, the May ribbon-burning festival, and fado de Coimbra are living customs, not museum pieces staged for visitors."
+      },
+      {
+        "title": "It's genuinely much less touristed than Lisbon or Porto",
+        "text": "A UNESCO World Heritage core that most first-time Portugal visitors never reach, despite being under two hours from either city by train."
+      },
+      {
+        "title": "Conimbriga adds genuine Roman depth nearby",
+        "text": "Mainland Portugal's largest excavated Roman ruins, with mosaics and fountains, a short bus or drive from the city centre."
+      },
+      {
+        "title": "The riverside setting is genuinely pretty",
+        "text": "The old town's terraced streets descend steeply from the university hill to the Mondego, with river walks and boat trips below."
+      }
+    ]
+  },
+  "attractionsIntro": "Coimbra's essential sights climb the university hill from the Mondego River, with a Roman detour just outside the city.",
+  "attractions": [
+    {
+      "name": "University of Coimbra and the Biblioteca Joanina",
+      "image": {
+        "file": "File:Coimbra-Library1.jpg",
+        "alt": "The gilded Baroque interior of the Biblioteca Joanina at the University of Coimbra"
+      },
+      "text": "The historic university campus, UNESCO-listed since 2013, is centred on the Paço das Escolas courtyard and the Biblioteca Joanina, a gilded 18th-century Baroque library of three ornate chambers holding 300,000 volumes, still guarded at night by a resident bat colony.",
+      "tip": "Book Biblioteca Joanina tickets online in advance — daily visitor numbers are capped and timed entry slots sell out, especially in summer."
+    },
+    {
+      "name": "Sé Velha (Old Cathedral)",
+      "image": {
+        "file": "File:Coimbra April 2018-26.jpg",
+        "alt": "The fortress-like Romanesque Sé Velha cathedral seen from the university hill"
+      },
+      "text": "A genuinely severe, fortress-like Romanesque cathedral completed in the 12th century, one of the best-preserved examples of the style in Portugal, with a cloister added shortly after.",
+      "tip": "The cathedral sits directly on the route between the riverside old town and the university hill — a natural stop on the climb up."
+    },
+    {
+      "name": "Mosteiro de Santa Cruz",
+      "image": {
+        "file": "File:Coimbra Igreja de Santa Cruz BW 2018-10-06 14-18-04 stitch.jpg",
+        "alt": "The ornate Manueline facade of the Mosteiro de Santa Cruz in central Coimbra"
+      },
+      "text": "A royal monastery founded in 1131 and the burial place of Portugal's first two kings, Afonso Henriques and Sancho I, its interior covered in gilded woodwork and 16th-century azulejo tiles.",
+      "tip": "The adjoining Café Santa Cruz, in a former monastery chapel, is a genuinely striking spot for a coffee afterward."
+    },
+    {
+      "name": "Museu Nacional Machado de Castro",
+      "image": {
+        "file": "File:Coimbra December 2011-16a.jpg",
+        "alt": "The courtyard of the Machado de Castro National Museum in Coimbra"
+      },
+      "text": "Portugal's national museum of sculpture, built directly above a genuinely vast Roman cryptoporticus — an underground vaulted gallery that once supported the Roman forum — now open to explore beneath the museum itself.",
+      "tip": "The Roman cryptoporticus alone justifies the entry fee, even for visitors who skip the sculpture collection above."
+    },
+    {
+      "name": "Conimbriga Roman ruins",
+      "image": {
+        "file": "File:Conimbriga - Casa dos Repuxos (48042764083).jpg",
+        "alt": "Excavated Roman mosaic floors at the Casa dos Repuxos in Conimbriga"
+      },
+      "text": "Mainland Portugal's largest excavated Roman site, about 16km south of Coimbra, with genuinely well-preserved mosaic floors, fountains and the remains of a defensive wall built in a hurry as the empire declined.",
+      "tip": "A regular bus runs from Coimbra; the on-site museum is worth the extra time to see artefacts found during excavation."
+    },
+    {
+      "name": "Quinta das Lágrimas",
+      "image": {
+        "file": "File:Fonte dos Amores - Quinta das Lágrimas - Coimbra, Portugal - DSC08718.jpg",
+        "alt": "The ivy-covered Fonte dos Amores in the gardens of Quinta das Lágrimas"
+      },
+      "text": "A historic manor and garden genuinely tied to Portugal's most famous royal tragedy — the murder of Inês de Castro, secret lover of the future King Pedro I, said to have taken place on these grounds in 1355.",
+      "tip": "The Fonte dos Amores fountain, said to mark the spot of the murder, is the garden's central point of interest."
+    },
+    {
+      "name": "Portugal dos Pequenitos",
+      "image": {
+        "file": "File:Portugal dos Pequenitos - Coimbra, Portugal - DSC09384.jpg",
+        "alt": "Miniature-scale replica buildings at the Portugal dos Pequenitos park in Coimbra"
+      },
+      "text": "A genuinely charming miniature theme park recreating Portugal's monuments and former colonial architecture at child scale, opened in 1940 and still popular with families.",
+      "tip": "Best suited to visitors travelling with children, though the miniature Manueline and colonial buildings have a certain appeal regardless of age."
+    }
+  ],
+  "thingsToDoIntro": "Coimbra's university traditions and riverside setting give it a genuinely different rhythm from Portugal's bigger cities.",
+  "thingsToDo": [
+    {
+      "title": "Hear fado de Coimbra",
+      "image": {
+        "file": "File:Fado ao Centro, Coimbra (27876875887).jpg",
+        "alt": "Musicians performing fado de Coimbra in traditional academic dress"
+      },
+      "text": "A genuinely distinct tradition from Lisbon fado — sung only by men in black academic capes, traditionally as a serenade rather than a performance, with its own repertoire and guitar style.",
+      "tip": "Fado ao Centro offers a respectful, informative evening session aimed at visitors without losing the tradition's genuine character."
+    },
+    {
+      "title": "Take a boat on the Mondego",
+      "image": {
+        "file": "File:City of Coimbra and the Mondego River in Portugal.jpg",
+        "alt": "Coimbra's hillside old town rising above the Mondego River"
+      },
+      "text": "Small boat trips run along the river beneath the old town, giving a genuinely different view up at the university hill and cathedral than the streets above provide.",
+      "tip": "Basófias, the traditional flat-bottomed boats once used to ferry goods, now run short scenic trips from the riverside in season."
+    },
+    {
+      "title": "Walk the Baixa up to the university at night",
+      "text": "The climb from the riverside Baixa district up through the old town to the university courtyard is genuinely atmospheric after dark, when the day-trip crowds have gone and the floodlit buildings stand out clearly.",
+      "tip": "Retrace the route in daylight too — the steep lanes reveal architectural details easy to miss at night."
+    },
+    {
+      "title": "Time a visit around Queima das Fitas",
+      "image": {
+        "file": "File:Serenata - Queima das Fitas - 09-05-2014.JPG",
+        "alt": "A night-time serenata crowd gathered before the Sé Velha during Coimbra's Queima das Fitas festival"
+      },
+      "text": "Coimbra's famous ribbon-burning festival each May marks graduating students' final year with parades, traditional dress and days of celebration across the city — a genuinely major event in the Portuguese academic calendar.",
+      "tip": "Book accommodation well ahead if visiting in May; the festival draws large crowds of current and former students alike."
+    },
+    {
+      "title": "Explore the university's Paço das Escolas at sunset",
+      "image": {
+        "file": "File:Coimbra University Tower 2.jpg",
+        "alt": "The clock tower and courtyard of the Paço das Escolas at the University of Coimbra"
+      },
+      "text": "The historic courtyard at the heart of the university offers genuinely sweeping views down over the city and river as the light softens, alongside the Baroque bell tower and ceremonial hall.",
+      "tip": "The courtyard is included in the main university ticket and stays open later than the Biblioteca Joanina itself."
+    },
+    {
+      "title": "Day-trip to Conimbriga's Roman ruins",
+      "image": {
+        "file": "File:Conimbriga - Casa dos Repuxos (48042764083).jpg",
+        "alt": "The excavated Roman mosaics of Conimbriga, near Coimbra"
+      },
+      "text": "A half-day trip to mainland Portugal's largest Roman excavation, with genuinely well-preserved mosaics, fountains and a small but informative museum.",
+      "tip": "Combine the ruins with lunch in nearby Condeixa-a-Nova, a quiet town rarely visited for its own sake."
+    }
+  ],
+  "foodIntro": "Coimbra's food draws on the wider Beira region — genuinely hearty stews, roast meats and a distinctive local wine country just south of the city.",
+  "foods": [
+    {
+      "name": "Chanfana",
+      "text": "Goat slow-cooked for hours in red wine in a traditional clay pot, a genuinely rustic regional dish from the hills around Coimbra, rich and falling off the bone.",
+      "whereToTry": "Traditional restaurants in and around Coimbra, especially in nearby Vila Nova de Poiares, chanfana's genuine home village."
+    },
+    {
+      "name": "Leitão da Bairrada",
+      "image": {
+        "file": "File:Leitão à Bairrada.JPG",
+        "alt": "Leitão da Bairrada, whole roast suckling pig with crackling skin"
+      },
+      "text": "Whole roast suckling pig from the nearby Bairrada wine region, roasted until the skin turns genuinely crisp, traditionally served with orange slices and fried potato crisps.",
+      "whereToTry": "Restaurants in Mealhada, a short drive north, widely considered the dish's genuine home."
+    },
+    {
+      "name": "Arroz de lampreia",
+      "text": "Lamprey rice, a genuinely seasonal Beira Litoral delicacy made from the eel-like river fish, cooked in its own blood-thickened sauce with rice — an acquired taste with real regional pride behind it.",
+      "whereToTry": "Riverside restaurants, in season roughly January through April, when lamprey run up the Mondego to spawn."
+    },
+    {
+      "name": "Pastel de Santa Clara",
+      "image": {
+        "file": "File:Pastel de Santa Clara - closeup.jpg",
+        "alt": "A pastel de Santa Clara, Coimbra's almond and egg-yolk pastry"
+      },
+      "text": "An almond and egg-yolk pastry shaped like a folded triangle, genuinely originating in Coimbra's Santa Clara convent, sweet and dense in the tradition of Portugal's convent pastries.",
+      "whereToTry": "Historic pastelarias throughout the old town, particularly around the Santa Clara district."
+    },
+    {
+      "name": "Queijo de Rabaçal",
+      "image": {
+        "file": "File:Queijo Rabaçal curado.jpg",
+        "alt": "Queijo de Rabaçal, a sheep's and goat's milk cheese from near Coimbra"
+      },
+      "text": "A genuinely tangy small cheese made from a blend of sheep's and goat's milk, produced in villages near Coimbra and traditionally sold in the region's markets.",
+      "whereToTry": "Local markets and traditional restaurants as a starter, often with regional bread."
+    },
+    {
+      "name": "Bairrada sparkling wine",
+      "image": {
+        "file": "File:Vinho espumante em estágio (18896080395).jpg",
+        "alt": "Sparkling wine ageing in a cellar in Portugal's Bairrada region"
+      },
+      "text": "The Bairrada region just south of Coimbra genuinely rivals more famous Portuguese wine areas for its sparkling wines, made in the traditional method from local grape varieties.",
+      "whereToTry": "Wine shops and restaurants in and around Coimbra, or a cellar visit in Bairrada itself."
+    }
+  ],
+  "accommodation": {
+    "intro": "Coimbra is genuinely compact enough that almost anywhere central works well, with the old town and university hill the most atmospheric base.",
+    "areas": [
+      {
+        "name": "The old town and university hill",
+        "bestFor": "Walking distance to everything, genuine old-town atmosphere",
+        "text": "Steep and characterful, with the university, cathedral and monastery all within a short climb — the best base for a short stay despite the hills."
+      },
+      {
+        "name": "The riverside Baixa district",
+        "bestFor": "A flatter base with easy access up to the old town",
+        "text": "Coimbra's main shopping and dining streets sit between the river and the old town's foot, genuinely convenient and considerably less steep."
+      },
+      {
+        "name": "Near the train station",
+        "bestFor": "Arriving or departing by train, budget stays",
+        "text": "A short walk or bus ride from the centre, with more budget-friendly options than the historic core itself."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "€50–80 per night" },
+      { "label": "Mid-range hotel", "value": "€80–140 per night" },
+      { "label": "Biblioteca Joanina ticket", "value": "About €14, part of the general university ticket" },
+      { "label": "Chanfana dinner", "value": "€14–20" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Coimbra sits directly on the main rail line between Lisbon and Porto, making it a genuinely easy stop rather than a detour.",
+    "options": [
+      {
+        "mode": "Train from Lisbon or Porto",
+        "text": "Fast Alfa Pendular trains connect [[lisbon|Lisbon]] to Coimbra in under two hours, and [[porto|Porto]] to Coimbra in under an hour.",
+        "detail": "Coimbra-B station, outside the centre, serves the fast intercity trains, with a short connecting shuttle to the central Coimbra station."
+      },
+      {
+        "mode": "By car",
+        "text": "About 2 hours from Lisbon or 1h15 from Porto on the A1 motorway, and a convenient stop en route to the [[douro-valley|Douro Valley]].",
+        "detail": "The old town's steep, narrow streets make a car more useful for reaching Coimbra than for exploring once there."
+      },
+      {
+        "mode": "Bus",
+        "text": "Intercity coaches connect Coimbra to most major Portuguese cities, generally slower than the train but sometimes cheaper.",
+        "detail": "Worth comparing against train fares, particularly if booking close to the travel date."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Coimbra's historic core is genuinely walkable, though steep — the university hill is a real climb from the riverside.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The old town, university and cathedral are all within a compact, if hilly, walking area from the riverside Baixa district.",
+        "detail": "Comfortable shoes are genuinely worth it — much of the old town is stepped lanes rather than gradual streets."
+      },
+      {
+        "mode": "Local bus",
+        "text": "A city bus network covers the steeper climbs and reaches the train station and outer neighbourhoods.",
+        "detail": "Useful for visitors who would rather skip the walk up to the university hill."
+      },
+      {
+        "mode": "Bus to Conimbriga",
+        "text": "A regular public bus runs from Coimbra to the Conimbriga ruins, a genuinely straightforward half-day trip without a car.",
+        "detail": "Check current timetables, as departures are less frequent than city routes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October, outside the university's exam periods",
+    "summary": "Coimbra is genuinely pleasant much of the year; spring brings the Queima das Fitas festival, while term-time gives the fullest sense of the city as a living university town.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Mild weather and, in May, the genuinely major Queima das Fitas festival — book ahead if visiting then."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Warm and reliably dry, though with students away on holiday the city feels genuinely quieter and less lively than in term time."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The academic year restarts in September, bringing genuine student life back to the streets alongside comfortable temperatures."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Cool and quieter with tourists, though lamprey season from January runs through this period for visitors keen to try arroz de lampreia."
+      }
+    ],
+    "avoid": "Exam periods in January and June bring a noticeably quieter, more subdued university campus, with fewer visible student traditions on display."
+  },
+  "itinerary": {
+    "title": "One day in Coimbra",
+    "intro": "The university hill and old town cover Coimbra's essentials comfortably within a single day.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The university hill and old town",
+        "summary": "The complete essential visit, climbing from river to campus.",
+        "morning": "Climb through the old town to the university, timing entry to the Biblioteca Joanina with your booked slot.",
+        "afternoon": "The Sé Velha, Machado de Castro museum and its Roman cryptoporticus, then the Mosteiro de Santa Cruz.",
+        "evening": "Dinner in the Baixa followed by a fado de Coimbra session."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, timing and transport that make a real difference to a Coimbra trip.",
+  "tips": [
+    "Book Biblioteca Joanina tickets online ahead — daily entry is genuinely capped and slots sell out in summer.",
+    "Wear comfortable shoes for the climb up to the university — much of the old town is steep, stepped lanes.",
+    "Time a visit for a genuine fado de Coimbra session rather than a generic tourist show, since the tradition differs meaningfully from Lisbon fado.",
+    "Check exam periods (January and June) before booking if seeing genuine student life matters to your visit.",
+    "Combine Coimbra with a half-day trip to Conimbriga's Roman ruins if travelling with a car or checking the public bus timetable.",
+    "Coimbra-B station is outside the centre — confirm whether your train stops there or at the central Coimbra station, and budget time for the connecting shuttle."
+  ],
+  "faq": [
+    {
+      "q": "Is Coimbra worth visiting on a Portugal trip?",
+      "a": "Yes, genuinely — it offers a university tradition unbroken since 1290, a UNESCO World Heritage campus, and a character distinct from both Lisbon and Porto, all reachable in under two hours from either city by train."
+    },
+    {
+      "q": "How much time do you need in Coimbra?",
+      "a": "A full day covers the university, cathedral and old town comfortably. A second day allows a half-day trip to the Conimbriga Roman ruins or a more relaxed pace through the city's museums."
+    },
+    {
+      "q": "What is the Biblioteca Joanina?",
+      "a": "An 18th-century Baroque library at the University of Coimbra, genuinely one of Europe's finest, with gilded woodwork across three chambers holding 300,000 volumes — still protected at night by a resident bat colony that eats book-damaging insects."
+    },
+    {
+      "q": "What is fado de Coimbra?",
+      "a": "A genuinely distinct tradition from Lisbon fado, sung only by men in black academic capes as a serenade rather than a performance, with its own repertoire, guitar style and university-linked history."
+    },
+    {
+      "q": "Can Coimbra be visited as a day trip from Lisbon or Porto?",
+      "a": "Yes, though an overnight stay is genuinely worthwhile — fast trains make it under two hours from Lisbon and under an hour from Porto, but a day trip leaves little time for Conimbriga or an evening fado session."
+    },
+    {
+      "q": "What is Conimbriga?",
+      "a": "Mainland Portugal's largest excavated Roman site, about 16km south of Coimbra, with genuinely well-preserved mosaic floors, fountains and a small museum, reachable by regular public bus."
+    }
+  ],
+  "related": ["porto", "douro-valley", "lisbon", "evora"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations", "europe-by-train"]
+}

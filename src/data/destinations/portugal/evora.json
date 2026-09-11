@@ -1,0 +1,282 @@
+{
+  "slug": "evora",
+  "name": "Évora",
+  "country": "portugal",
+  "region": "Alentejo",
+  "categories": ["historic", "unesco", "archaeological", "off-the-beaten-path"],
+  "tagline": "A walled Alentejo city built directly around a 2,000-year-old Roman temple, with a genuinely unsettling chapel walled entirely in human bones.",
+  "highlight": "The Roman Temple of Évora at dusk, its Corinthian columns floodlit against the sky at the heart of a city that's kept building around them for two millennia.",
+  "shortDescription": "A UNESCO-listed walled city in Portugal's Alentejo region, its Roman temple and bone-walled chapel among the country's most striking historic sights.",
+  "metaDescription": "An Évora travel guide: the Roman Temple, the Chapel of Bones, Alentejo wine, when to go and a practical two-day itinerary.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Lisbon (LIS), about 1.5 hours away",
+  "knownFor": "The Roman Temple, the Chapel of Bones, Alentejo wine country",
+  "budget": "€65–120 per day, mid-range",
+  "goodFor": "History, archaeology, wine, a quieter alternative to the coast",
+  "coords": { "lat": 38.5714, "lng": -7.9135 },
+  "image": {
+    "file": "File:Roman Temple Evora Portugal 01.jpg",
+    "alt": "The Roman Temple of Évora, its ancient columns standing at the heart of the city"
+  },
+  "intro": [
+    "Évora is the Alentejo region's historic capital, a genuinely well-preserved walled city whose layered history — Roman, Moorish, medieval — remains visible in a way few Portuguese cities can match, all recognised with UNESCO World Heritage status for the old town as a whole.",
+    "The city's most striking sight is genuinely its most literal: a 2nd-century Roman temple stands nearly intact at the heart of the old town, its Corinthian columns surviving centuries of reuse as a slaughterhouse and fortress before its true nature was rediscovered.",
+    "That ancient history sits alongside the genuinely unsettling Chapel of Bones, its interior walls and columns built from the skulls and bones of thousands of monks and locals, and a surrounding Alentejo countryside of cork oak plains and increasingly respected wine estates that reward slowing down beyond the city walls."
+  ],
+  "whyVisit": {
+    "intro": "Évora's case is that no other Portuguese city holds this much visible ancient history within one genuinely walkable walled centre.",
+    "points": [
+      {
+        "title": "The Roman Temple is genuinely remarkable",
+        "text": "Standing nearly intact at the city's heart, one of the best-preserved Roman temples on the Iberian Peninsula."
+      },
+      {
+        "title": "The Chapel of Bones is genuinely unforgettable",
+        "text": "An interior built entirely from human bones, unlike anything else on a typical Portugal itinerary."
+      },
+      {
+        "title": "The old town is genuinely dense with layered history",
+        "text": "Roman, Moorish and medieval architecture sit within a compact, UNESCO-listed walled centre."
+      },
+      {
+        "title": "The Alentejo wine country is genuinely excellent",
+        "text": "Increasingly respected wine estates surround the city, considerably less crowded than the Douro Valley."
+      },
+      {
+        "title": "It's genuinely much quieter than Lisbon or Porto",
+        "text": "A relaxed, low-key pace with a fraction of the coastal cities' visitor numbers."
+      }
+    ]
+  },
+  "attractionsIntro": "Évora's essential sights, spanning its Roman, medieval and religious layers of history.",
+  "attractions": [
+    {
+      "name": "Roman Temple of Évora",
+      "image": {
+        "file": "File:Roman Temple Evora Portugal 01.jpg",
+        "alt": "The Roman Temple of Évora, its ancient columns standing at the heart of the city"
+      },
+      "text": "A 2nd-century temple, likely dedicated to the cult of Emperor Augustus, its Corinthian columns genuinely among the best preserved Roman remains anywhere in Portugal.",
+      "tip": "Visit at dusk when the temple is floodlit — the columns take on a genuinely striking presence against the darkening sky."
+    },
+    {
+      "name": "Chapel of Bones (Capela dos Ossos)",
+      "text": "A genuinely macabre 16th-century chapel, its walls and columns built from the bones and skulls of thousands of monks and locals, intended as a meditation on mortality.",
+      "tip": "The chapel's Latin inscription at the entrance, translating roughly to 'we bones, here, await yours,' genuinely sets the tone."
+    },
+    {
+      "name": "Évora Cathedral (Sé de Évora)",
+      "text": "A genuinely imposing granite Gothic cathedral, its rooftop terrace offering sweeping views over the old town's rooftops.",
+      "tip": "Climb to the cathedral's rooftop terrace for genuinely one of the best views in the city."
+    },
+    {
+      "name": "University of Évora",
+      "text": "A genuinely historic university, its main courtyard lined with azulejo-tiled classrooms still in active academic use.",
+      "tip": "Free to wander the main courtyard and admire the tilework, even without a formal tour."
+    },
+    {
+      "name": "Praça do Giraldo",
+      "text": "Évora's central square, genuinely the social heart of the city, ringed by cafés and arcaded buildings.",
+      "tip": "A good spot to simply sit with a coffee and watch the city's genuinely unhurried daily rhythm."
+    },
+    {
+      "name": "The city walls and aqueduct",
+      "text": "Évora's medieval walls and the 16th-century Água de Prata aqueduct, genuinely worth a walk for a different perspective on the city's layered architecture.",
+      "tip": "Parts of the aqueduct have genuinely been built directly into, with houses incorporated along its arches."
+    }
+  ],
+  "thingsToDoIntro": "Beyond the Roman and religious sights, Évora rewards the surrounding Alentejo countryside and its wine culture.",
+  "thingsToDo": [
+    {
+      "title": "Taste Alentejo wine at a local estate",
+      "text": "The Alentejo has become genuinely one of Portugal's most respected wine regions, its estates producing excellent reds from the plains surrounding Évora.",
+      "tip": "Several wine estates near Évora offer genuinely worthwhile tours combining tastings with the region's cork oak landscape."
+    },
+    {
+      "title": "Explore the cork oak countryside",
+      "text": "The Alentejo produces a genuinely significant share of the world's cork, its distinctive oak groves a defining feature of the landscape around Évora.",
+      "tip": "A countryside drive or guided tour explains the genuinely fascinating, sustainable cork harvesting process."
+    },
+    {
+      "title": "Visit the Cromlech of the Almendres",
+      "text": "A genuinely significant prehistoric stone circle predating Stonehenge, a short drive from Évora and considerably less visited than its British counterpart.",
+      "tip": "A rental car or organised tour is genuinely necessary — public transport doesn't reach the site well."
+    },
+    {
+      "title": "Wander Évora's old town streets",
+      "text": "The genuinely compact walled centre rewards slow, unhurried wandering beyond the headline sights.",
+      "tip": "Évora's whitewashed houses with yellow trim are a genuinely distinctive Alentejo architectural style worth noticing."
+    },
+    {
+      "title": "Visit a nearby Alentejo village",
+      "text": "Villages like Monsaraz, a genuinely picturesque hilltop settlement, offer a worthwhile day trip into the wider Alentejo countryside.",
+      "tip": "Monsaraz overlooks the Alqueva reservoir, Europe's largest artificial lake, genuinely worth the detour for the view alone."
+    }
+  ],
+  "foodIntro": "Évora sits at the heart of Alentejo cuisine, genuinely distinct from the rest of Portugal for its bread-based dishes and excellent wine.",
+  "foods": [
+    {
+      "name": "Açorda alentejana",
+      "text": "A genuinely simple, satisfying bread soup flavoured with garlic, coriander and olive oil, often topped with a poached egg, an Alentejo staple.",
+      "whereToTry": "Traditional restaurants throughout Évora's old town."
+    },
+    {
+      "name": "Migas",
+      "text": "Fried breadcrumbs typically served alongside pork, a genuinely hearty Alentejo dish reflecting the region's tradition of using every part of the bread.",
+      "whereToTry": "Traditional Alentejo restaurants throughout the city."
+    },
+    {
+      "name": "Alentejo wine",
+      "text": "Increasingly respected reds from the plains surrounding Évora, genuinely excellent and considerably less internationally known than Douro wines.",
+      "whereToTry": "Wine estates around Évora, or wine bars throughout the old town."
+    },
+    {
+      "name": "Porco preto (black Iberian pork)",
+      "text": "Pork from free-range black pigs fed partly on acorns from the region's cork and holm oak forests, genuinely one of the Alentejo's finest products.",
+      "whereToTry": "Traditional restaurants throughout Évora, often served simply grilled."
+    },
+    {
+      "name": "Queijo Serpa cheese",
+      "text": "A genuinely distinctive sheep's milk cheese from the wider Alentejo region, with a soft, creamy texture and protected geographic status.",
+      "whereToTry": "Local markets and traditional restaurants throughout Évora."
+    }
+  ],
+  "accommodation": {
+    "intro": "Évora's walled old town offers a genuinely convenient, compact base for most visitors.",
+    "areas": [
+      {
+        "name": "Inside the city walls",
+        "bestFor": "Walking to the Roman Temple and main sights",
+        "text": "The most central, historic base, putting Évora's main attractions within easy walking distance."
+      },
+      {
+        "name": "A rural quinta near Évora",
+        "bestFor": "A genuine Alentejo countryside experience",
+        "text": "Several converted country estates near the city offer a genuinely peaceful, rural alternative to staying in town."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse room", "value": "€65–120 per night" },
+      { "label": "Boutique hotel", "value": "€120–220 per night" },
+      { "label": "Chapel of Bones entry", "value": "€6" },
+      { "label": "Alentejo dinner", "value": "€15–25" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Évora is an easy train or bus trip from Lisbon, or a short drive through the Alentejo countryside.",
+    "options": [
+      {
+        "mode": "Train from Lisbon",
+        "text": "Direct trains from [[lisbon|Lisbon]] reach Évora in about 1.5 hours.",
+        "detail": "A genuinely comfortable, straightforward connection with no changes required."
+      },
+      {
+        "mode": "Bus from Lisbon",
+        "text": "Regular buses offer a comparable journey time to the train, often at a lower price.",
+        "detail": "A reasonable alternative if train timings don't suit your schedule."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Offers the flexibility to explore the wider Alentejo countryside, including the Cromlech of the Almendres and nearby villages.",
+        "detail": "Genuinely worthwhile if combining Évora with wine estates or countryside villages beyond the city itself."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Évora's walled old town is genuinely compact and entirely walkable.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The Roman Temple, cathedral and Chapel of Bones all sit within a genuinely compact, walkable historic centre.",
+        "detail": "The old town's flat layout within the walls makes walking considerably easier than in Lisbon or Porto."
+      },
+      {
+        "mode": "Rental car for the countryside",
+        "text": "Necessary for reaching the Cromlech of the Almendres, wine estates and nearby villages like Monsaraz.",
+        "detail": "Public transport to these outlying sites is genuinely limited."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October, for mild weather in a genuinely hot inland region",
+    "summary": "Évora's inland Alentejo location makes it genuinely hotter in summer than Portugal's coastal cities, favouring spring and autumn visits.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Mild, increasingly warm weather, ideal for walking the old town and countryside before summer's inland heat."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "shoulder",
+        "text": "Genuinely intense heat, often exceeding 35°C, being considerably further inland than the coast."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Comfortable temperatures and the wine harvest in the surrounding countryside."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Mild and genuinely quiet, with the Alentejo countryside at its greenest after autumn rains."
+      }
+    ],
+    "avoid": "Midday hours outdoors in July and August, when the Alentejo's inland heat genuinely exceeds coastal Portugal by a significant margin."
+  },
+  "itinerary": {
+    "title": "Two days in Évora",
+    "intro": "The Roman Temple and Chapel of Bones first, then the surrounding Alentejo countryside.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town",
+        "summary": "Évora's essential historic sights.",
+        "morning": "The Roman Temple and Évora Cathedral.",
+        "afternoon": "The Chapel of Bones and University of Évora.",
+        "evening": "Dinner in the old town."
+      },
+      {
+        "day": 2,
+        "title": "Alentejo wine and countryside",
+        "summary": "The region beyond the city walls.",
+        "morning": "The Cromlech of the Almendres.",
+        "afternoon": "A wine estate tour and tasting.",
+        "evening": "A final Évora dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, timing and transport that make a real difference to an Évora trip.",
+  "tips": [
+    "Visit the Roman Temple at dusk when it's floodlit for a genuinely striking view.",
+    "Rent a car if you want to visit the Cromlech of the Almendres or nearby villages like Monsaraz.",
+    "Pack for genuine inland heat in summer — Évora runs considerably hotter than coastal Lisbon or Porto.",
+    "Book a wine estate tour ahead, particularly during the autumn harvest season.",
+    "Wear comfortable shoes for the old town's cobblestones, though the terrain itself is genuinely flatter than Lisbon or Porto.",
+    "Combine Évora with a countryside day trip if you have time — the wider Alentejo genuinely rewards it."
+  ],
+  "faq": [
+    {
+      "q": "Is Évora worth a day trip from Lisbon?",
+      "a": "It's possible as a day trip, but an overnight stay is genuinely better — the Roman Temple lit at dusk and the surrounding wine country reward more time than a rushed single day allows."
+    },
+    {
+      "q": "How many days do you need in Évora?",
+      "a": "Two days covers the old town's Roman and religious sights comfortably, with a countryside day for wine tasting or the Cromlech of the Almendres a worthwhile addition."
+    },
+    {
+      "q": "What is the Chapel of Bones?",
+      "a": "A 16th-century chapel whose interior walls and columns are built from the bones and skulls of thousands of monks and locals, intended as a meditation on mortality — genuinely one of Portugal's most unusual sights."
+    },
+    {
+      "q": "Is Évora expensive?",
+      "a": "No, genuinely one of Portugal's more affordable regions — mid-range travel runs roughly €65–120 per person per day, noticeably below Lisbon and comparable to Porto."
+    },
+    {
+      "q": "What is the best time of year to visit?",
+      "a": "April to June and September to October offer the most comfortable weather. Évora's inland Alentejo location runs genuinely hotter than coastal Portugal in July and August."
+    }
+  ],
+  "related": ["algarve", "obidos", "douro-valley"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around"]
+}

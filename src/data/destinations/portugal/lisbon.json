@@ -1,0 +1,328 @@
+{
+  "slug": "lisbon",
+  "name": "Lisbon",
+  "country": "portugal",
+  "region": "Lisbon",
+  "categories": ["capital-city", "major-city", "historic", "cultural"],
+  "tagline": "A hillside capital of tiled facades and rattling yellow trams, its seven hills offering a new river view at the end of nearly every street.",
+  "highlight": "The view from Miradouro da Senhora do Monte at sunset, Lisbon's terracotta rooftops spilling down toward the Tagus River as the light turns gold.",
+  "shortDescription": "Portugal's hillside capital, its tiled facades and yellow trams climbing between viewpoints over the Tagus River.",
+  "metaDescription": "A Lisbon travel guide: Alfama, Belém, the best neighbourhoods, when to go and a practical three-day itinerary.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Lisbon Humberto Delgado (LIS)",
+  "knownFor": "Historic trams, tiled facades, fado, river viewpoints",
+  "budget": "€70–130 per day, mid-range",
+  "goodFor": "History, culture, food, a Portugal gateway",
+  "coords": { "lat": 38.7223, "lng": -9.1393 },
+  "image": {
+    "file": "File:Alfama, Lisbon, Portugal July 2021 - Tram.jpg",
+    "alt": "A traditional yellow tram climbing through Lisbon's Alfama district"
+  },
+  "intro": [
+    "Lisbon is built across seven hills above the Tagus River, and that terrain shapes nearly everything about how the city feels to visit — steep, narrow streets that suddenly open onto a miradouro viewpoint, funiculars and rattling yellow trams that exist as genuine necessity rather than tourist novelty, and a skyline of terracotta roofs and tiled facades that catches the light differently from every new vantage point.",
+    "The city's history runs from Moorish rule through the Age of Discovery, when Portuguese explorers set out from Belém's riverbank to chart routes to India and Brazil, to the devastating 1755 earthquake that levelled much of the centre and led to Europe's first modern grid-planned rebuilding in the Baixa district.",
+    "What consistently surprises first-time visitors is how affordable and unhurried Lisbon feels relative to other major European capitals — genuinely excellent food and wine at a fraction of Paris or London's prices, and a pace that rewards wandering rather than checklisting."
+  ],
+  "whyVisit": {
+    "intro": "Lisbon's case is that no other European capital pairs this much hillside charm with genuinely affordable, high-quality food and history.",
+    "points": [
+      {
+        "title": "The hillside setting is genuinely unlike anywhere else",
+        "text": "Miradouro viewpoints appear around nearly every corner, each offering a new angle over the river and rooftops."
+      },
+      {
+        "title": "The trams are genuinely still functional transit",
+        "text": "Tram 28's climb through Alfama isn't a novelty ride — it's how the neighbourhood's own residents get around."
+      },
+      {
+        "title": "The food and wine scene is genuinely excellent value",
+        "text": "Comparable quality to Paris or Rome at noticeably lower prices, from tascas to a growing fine-dining scene."
+      },
+      {
+        "title": "The history is genuinely still visible",
+        "text": "Moorish, maritime-empire and post-earthquake layers all remain readable in the city's fabric today."
+      },
+      {
+        "title": "It's the natural gateway to the rest of Portugal",
+        "text": "Sintra, Óbidos and the wider country are all a short train ride from Lisbon."
+      }
+    ]
+  },
+  "attractionsIntro": "Lisbon's essential sights, spanning the hillside old town and the riverside Belém district.",
+  "attractions": [
+    {
+      "name": "Alfama district",
+      "text": "Lisbon's oldest neighbourhood, its steep, narrow lanes genuinely surviving the 1755 earthquake largely intact, now home to fado houses and genuine local life.",
+      "tip": "Get deliberately lost in Alfama's lanes rather than following a fixed route — the neighbourhood rewards genuine wandering."
+    },
+    {
+      "name": "Belém Tower and Jerónimos Monastery",
+      "text": "Two UNESCO-listed monuments from Portugal's Age of Discovery, genuinely among the finest examples of Manueline architecture anywhere.",
+      "tip": "Visit Jerónimos Monastery early morning to avoid the significant midday queues, particularly in summer."
+    },
+    {
+      "name": "São Jorge Castle",
+      "text": "A hilltop Moorish castle overlooking the city, its ramparts offering genuinely the best panoramic view over Lisbon's rooftops and the Tagus.",
+      "tip": "Time a visit for late afternoon, when the light over the river is genuinely at its best from the ramparts."
+    },
+    {
+      "name": "Praça do Comércio and the Baixa district",
+      "text": "The grand riverside square and grid-planned district built after the 1755 earthquake, genuinely one of Europe's earliest examples of modern urban planning.",
+      "tip": "The square's riverside arch offers a genuinely good photo angle back toward the plaza and its equestrian statue."
+    },
+    {
+      "name": "LX Factory",
+      "text": "A former industrial complex turned genuinely vibrant creative hub of shops, restaurants and street art beneath the 25 de Abril Bridge.",
+      "tip": "Ler Devagar, a genuinely striking multi-level bookshop within the complex, is worth the visit alone."
+    },
+    {
+      "name": "National Tile Museum (Azulejo)",
+      "text": "Housed in a former convent, this museum traces the genuinely centuries-deep history of Portugal's iconic decorated tiles.",
+      "tip": "A slightly out-of-the-way stop, but genuinely worthwhile for understanding the tilework seen throughout the rest of the city."
+    },
+    {
+      "name": "Miradouro da Senhora do Monte",
+      "text": "One of Lisbon's highest and least crowded viewpoints, offering genuinely sweeping views over Alfama and the castle toward the river.",
+      "tip": "A short but genuinely steep uphill walk from Alfama, best timed for sunset."
+    }
+  ],
+  "thingsToDoIntro": "Beyond the major sights, Lisbon rewards its trams, fado houses and genuinely serious food and wine culture.",
+  "thingsToDo": [
+    {
+      "title": "Ride Tram 28 through the old city",
+      "image": {
+        "file": "File:Alfama, Lisbon, Portugal July 2021 - Tram.jpg",
+        "alt": "A traditional yellow tram climbing through Lisbon's Alfama district"
+      },
+      "text": "The historic yellow tram's genuinely steep, winding route through Alfama, Graça and Baixa is Lisbon's most iconic ride.",
+      "tip": "Ride early morning or late in the day to avoid the packed midday crowds and pickpocket risk that come with them."
+    },
+    {
+      "title": "Listen to fado in a small venue",
+      "text": "Portugal's melancholic traditional music, genuinely rooted in Lisbon's working-class neighbourhoods, is best experienced unamplified in a small casa de fado.",
+      "tip": "Alfama and Mouraria hold genuinely more authentic fado houses than the tourist-heavy Bairro Alto strip."
+    },
+    {
+      "title": "Eat pastéis de nata at the source",
+      "image": {
+        "file": "File:Pasteis de nata from Belem (22023386232).jpg",
+        "alt": "Fresh pastéis de nata, Portugal's custard tarts, dusted with cinnamon"
+      },
+      "text": "Pastéis de Belém has baked to the same 19th-century recipe since 1837, genuinely the most historic version of Portugal's beloved custard tart.",
+      "tip": "Eat them warm, straight from the oven, dusted with cinnamon and powdered sugar at the counter."
+    },
+    {
+      "title": "Explore Bairro Alto and Chiado at night",
+      "text": "Lisbon's nightlife district and adjoining upscale shopping neighbourhood offer a genuinely lively contrast to Alfama's quieter old-world charm.",
+      "tip": "Bairro Alto's bars genuinely spill out onto the street after dark — a distinctly Lisbon way to spend an evening."
+    },
+    {
+      "title": "Take a day trip to Sintra or Cascais",
+      "text": "Both genuinely easy train trips from Lisbon, offering fairy-tale palaces or a relaxed coastal town respectively.",
+      "tip": "Book Sintra's palace tickets online ahead if going for the day — queues can mean significant waiting in summer."
+    },
+    {
+      "title": "Cross the Tagus by ferry",
+      "text": "A genuinely cheap, scenic way to see Lisbon's skyline from the water, with Cristo Rei's statue visible on the opposite bank.",
+      "tip": "The Cacilhas ferry from near Praça do Comércio offers genuinely good skyline views for the price of a metro ticket."
+    }
+  ],
+  "foodIntro": "Lisbon's food scene spans genuine neighbourhood tascas to an increasingly serious modern Portuguese restaurant movement.",
+  "foods": [
+    {
+      "name": "Bacalhau (salt cod)",
+      "image": {
+        "file": "File:Bacalhau à Brás at Restaurante Figus, Lisbon (46935287645).jpg",
+        "alt": "Bacalhau à Brás, a Portuguese salt cod dish with eggs and shoestring potatoes"
+      },
+      "text": "Portugal's national ingredient, genuinely said to have a different recipe for every day of the year, widely available across Lisbon's restaurants.",
+      "whereToTry": "Traditional tascas throughout Alfama and Bairro Alto."
+    },
+    {
+      "name": "Pastéis de nata",
+      "image": {
+        "file": "File:Pasteis de nata from Belem (22023386232).jpg",
+        "alt": "Fresh pastéis de nata, Portugal's custard tarts, dusted with cinnamon"
+      },
+      "text": "Flaky pastry custard tarts, genuinely one of Lisbon's most beloved exports, best eaten fresh and warm.",
+      "whereToTry": "Pastéis de Belém for the original recipe, or Manteigaria for a genuinely excellent modern alternative."
+    },
+    {
+      "name": "Grilled sardines",
+      "text": "Simply grilled whole sardines, genuinely a summer staple, especially during Lisbon's Santo António festival in June.",
+      "whereToTry": "Street stalls and traditional restaurants throughout Alfama during festival season."
+    },
+    {
+      "name": "Ginjinha",
+      "text": "A genuinely potent sour cherry liqueur, traditionally served in a small shot glass, a distinctly Lisbon institution.",
+      "whereToTry": "A Ginjinha near Rossio Square, a genuinely tiny, historic shot bar that's been serving it since 1840."
+    },
+    {
+      "name": "Bifana",
+      "text": "A genuinely simple, beloved pork sandwich, marinated and pan-fried, a defining Lisbon street food and hangover cure alike.",
+      "whereToTry": "Casa das Bifanas near Praça da Figueira, a genuine local institution."
+    },
+    {
+      "name": "Vinho verde",
+      "text": "A genuinely light, slightly effervescent young wine from northern Portugal, widely served across Lisbon as a refreshing summer choice.",
+      "whereToTry": "Any traditional restaurant or wine bar citywide."
+    }
+  ],
+  "accommodation": {
+    "intro": "Lisbon's hillside neighbourhoods each offer a genuinely different base, from historic Alfama to trendy Chiado.",
+    "areas": [
+      {
+        "name": "Alfama",
+        "bestFor": "Historic atmosphere and fado houses",
+        "text": "The oldest, most atmospheric neighbourhood, though its steep, narrow lanes mean genuinely more walking with luggage."
+      },
+      {
+        "name": "Chiado and Baixa",
+        "bestFor": "Central convenience and shopping",
+        "text": "Flat, central and well connected, putting most major sights within easy walking distance."
+      },
+      {
+        "name": "Príncipe Real",
+        "bestFor": "A trendier, more local neighbourhood feel",
+        "text": "A genuinely stylish residential area with excellent restaurants and a noticeably less touristy atmosphere."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "€18–32 per night" },
+      { "label": "Mid-range hotel", "value": "€75–140 per night" },
+      { "label": "Jerónimos Monastery entry", "value": "€10" },
+      { "label": "Bifana sandwich", "value": "€3–5" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Lisbon Humberto Delgado Airport sits close to the city, with a direct metro line into the centre.",
+    "options": [
+      {
+        "mode": "Lisbon Humberto Delgado Airport (LIS)",
+        "text": "The metro's Red Line reaches central Lisbon in about 25 minutes, a genuinely reliable and affordable option.",
+        "detail": "A metered taxi or ride-hailing app offers a comparable-speed alternative for those with luggage."
+      },
+      {
+        "mode": "Train to Sintra or Porto",
+        "text": "Regional trains reach [[sintra|Sintra]] in about 40 minutes; fast Alfa Pendular trains reach [[porto|Porto]] in under three hours.",
+        "detail": "Book Alfa Pendular fares ahead for meaningfully lower prices on the Porto route."
+      },
+      {
+        "mode": "Bus or train to Óbidos",
+        "text": "Regular connections reach [[obidos|Óbidos]] in about an hour from Lisbon.",
+        "detail": "Buses run more frequently than trains on this particular route."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Central Lisbon is genuinely walkable if hilly, with trams, funiculars and the metro covering the steeper climbs.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "Alfama, Chiado and Baixa all sit within a genuinely compact, if steeply hilled, central area.",
+        "detail": "Comfortable, sturdy shoes matter considerably for Lisbon's cobblestones and inclines."
+      },
+      {
+        "mode": "Trams and funiculars",
+        "text": "Historic yellow trams and funiculars genuinely still serve as functional transit up the city's steepest hills.",
+        "detail": "A Viva Viagem card covers trams, funiculars, metro and buses within the same fare system."
+      },
+      {
+        "mode": "Metro",
+        "text": "A clean, efficient four-line system covering the wider city, including a direct airport connection.",
+        "detail": "Genuinely the fastest way to cover longer distances across the city."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October, for mild weather and manageable crowds",
+    "summary": "Lisbon's summer heat runs genuinely intense, and spring and autumn offer the most comfortable balance of weather and crowds.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Mild, increasingly warm weather, ideal for walking the hills without peak summer heat."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "shoulder",
+        "text": "Genuinely intense heat, often exceeding 30°C, alongside the year's biggest crowds."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Comfortable temperatures and thinning crowds, a genuinely excellent window for sightseeing."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Mild by northern European standards, with genuinely quiet major sites and lower accommodation prices."
+      }
+    ],
+    "avoid": "Midday hours in July and August, when heat and crowds both peak — an early morning or late afternoon pace is genuinely more comfortable."
+  },
+  "itinerary": {
+    "title": "Three days in Lisbon",
+    "intro": "Alfama and the old town first, then Belém's monuments and Lisbon's neighbourhoods at a genuinely unhurried pace.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Alfama and the castle",
+        "summary": "Lisbon's essential historic core.",
+        "morning": "São Jorge Castle, arriving at opening time.",
+        "afternoon": "Wander Alfama's lanes and viewpoints.",
+        "evening": "Fado and dinner in Alfama."
+      },
+      {
+        "day": 2,
+        "title": "Belém and the river",
+        "summary": "Portugal's Age of Discovery monuments.",
+        "morning": "Jerónimos Monastery and Belém Tower.",
+        "afternoon": "Pastéis de Belém and the riverside promenade.",
+        "evening": "Sunset from a miradouro."
+      },
+      {
+        "day": 3,
+        "title": "Chiado, Baixa and local life",
+        "summary": "Lisbon's shopping and nightlife neighbourhoods.",
+        "morning": "The Baixa district and Praça do Comércio.",
+        "afternoon": "Chiado's shops and cafés, or LX Factory.",
+        "evening": "Dinner and drinks in Bairro Alto."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, timing and transport that make a real difference to a Lisbon trip.",
+  "tips": [
+    "Wear comfortable, sturdy shoes — Lisbon's cobblestone hills are genuinely steep and slippery when worn or wet.",
+    "Ride Tram 28 early morning or late in the day to avoid pickpocket risk on the packed midday route.",
+    "Book Jerónimos Monastery and Belém Tower tickets online ahead in summer, when queues run long.",
+    "Carry a Viva Viagem card for trams, funiculars, metro and buses rather than buying single tickets.",
+    "Watch for couvert charges — bread and olives brought unprompted to your table are usually billed if eaten.",
+    "Book Sintra day-trip train tickets or tours ahead in peak season.",
+    "Explore beyond Alfama and Belém — Príncipe Real and Graça offer genuinely good value and a more local atmosphere."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Lisbon?",
+      "a": "Three to four. Two covers Alfama and Belém at a rushed pace; four allows deeper neighbourhood time and a day trip to Sintra without feeling hurried."
+    },
+    {
+      "q": "Is Lisbon a good base for exploring Portugal?",
+      "a": "Yes, genuinely — the airport and main train station both connect easily to Sintra, Óbidos and Porto, making Lisbon the natural start or end point for a wider Portugal trip."
+    },
+    {
+      "q": "Is Lisbon safe for tourists?",
+      "a": "Yes, very — violent crime against visitors is rare. The practical risk is pickpocketing on crowded trams, particularly Tram 28, and in busy tourist areas, manageable with ordinary vigilance."
+    },
+    {
+      "q": "What is the best time of year to visit?",
+      "a": "April to June and September to October offer the most comfortable weather for exploring the hills on foot. Summer is genuinely hot, often exceeding 30°C, and considerably more crowded."
+    },
+    {
+      "q": "Is Lisbon expensive?",
+      "a": "No, genuinely one of Western Europe's more affordable capitals — mid-range travel runs roughly €70–130 per person per day, noticeably below Paris, London or Rome for comparable quality."
+    }
+  ],
+  "related": ["sintra", "obidos", "porto"],
+  "relatedArticles": ["first-trip-to-europe", "europe-by-train"]
+}

@@ -1,0 +1,304 @@
+{
+  "slug": "algarve",
+  "name": "The Algarve",
+  "country": "portugal",
+  "region": "Algarve",
+  "categories": ["coastal", "scenic", "nature", "major-city"],
+  "tagline": "Portugal's southern coastline, where wind-and-wave-carved limestone cliffs meet water that stays genuinely swimmable without the Mediterranean's summer crush.",
+  "highlight": "The view over Ponta da Piedade at golden hour, its ochre limestone sea stacks and hidden grottoes glowing above the Atlantic near Lagos.",
+  "shortDescription": "Portugal's dramatic southern coastline, its limestone cliffs, sea caves and Atlantic beaches genuinely rivalling anywhere in the Mediterranean.",
+  "metaDescription": "An Algarve travel guide: the best beaches, sea caves, when to go and a practical four-day itinerary.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "Faro (FAO)",
+  "knownFor": "Limestone cliffs, sea caves, beaches, golf resorts",
+  "budget": "€75–140 per day, mid-range",
+  "goodFor": "Beaches, scenery, a relaxed coastal pace",
+  "coords": { "lat": 37.0179, "lng": -8.0},
+  "image": {
+    "file": "File:Ponta da Piedade Algarve Portugal.jpg",
+    "alt": "The ochre limestone cliffs and sea stacks of Ponta da Piedade near Lagos"
+  },
+  "intro": [
+    "The Algarve is Portugal's southernmost region, its coastline carved over millennia into a genuinely dramatic sequence of ochre limestone cliffs, hidden grottoes and sea stacks that rank among the most striking coastal scenery in Europe, without the crowds or prices of the Mediterranean's better-known equivalents.",
+    "The region's character shifts noticeably along its length — the eastern Algarve holds flatter, quieter beaches and the historic town of Tavira, the central stretch around Lagos and Albufeira concentrates the famous cliff scenery and resort infrastructure, and the wilder western coast, the Costa Vicentina, trades development for genuinely dramatic, wind-battered cliffs and surf breaks.",
+    "That range means the Algarve genuinely suits very different kinds of trip — a resort-focused family beach holiday, a boat trip through sea caves, or a quieter clifftop hike along the Rota Vicentina trail — all within a coastline that's easy to combine by rental car."
+  ],
+  "whyVisit": {
+    "intro": "The Algarve's case is that its limestone coastline genuinely rivals anywhere in the Mediterranean, at a fraction of the crowds and cost.",
+    "points": [
+      {
+        "title": "The limestone cliffs are genuinely spectacular",
+        "text": "Ponta da Piedade and the wider coastline's sea stacks and grottoes rank among Europe's most striking coastal scenery."
+      },
+      {
+        "title": "The water is genuinely clean and swimmable",
+        "text": "Atlantic-cooled but clear, with Blue Flag beaches along much of the coastline."
+      },
+      {
+        "title": "The region genuinely offers real range",
+        "text": "From resort-town convenience to the wild, undeveloped Costa Vicentina, all within a short drive."
+      },
+      {
+        "title": "It's noticeably better value than comparable Mediterranean coasts",
+        "text": "Genuinely lower prices than Spain's Costa del Sol or the French Riviera for comparable scenery."
+      },
+      {
+        "title": "The sea cave boat trips are genuinely worth it",
+        "text": "Ponta da Piedade's grottoes and hidden beaches are best experienced from the water, not just the clifftop."
+      }
+    ]
+  },
+  "attractionsIntro": "The Algarve's essential sights, spread along the coastline from Lagos to the eastern beaches.",
+  "attractions": [
+    {
+      "name": "Ponta da Piedade",
+      "image": {
+        "file": "File:Ponta da Piedade Algarve Portugal.jpg",
+        "alt": "The ochre limestone cliffs and sea stacks of Ponta da Piedade near Lagos"
+      },
+      "text": "A genuinely dramatic headland of ochre limestone cliffs, sea stacks and hidden grottoes near Lagos, among the most photographed coastal scenery in Portugal.",
+      "tip": "A boat trip into the grottoes reveals sights genuinely invisible from the clifftop viewpoints alone."
+    },
+    {
+      "name": "Benagil Cave",
+      "text": "A genuinely famous sea cave with a natural skylight opening onto a hidden beach, reachable only by boat, kayak or a swim from the nearest cove.",
+      "tip": "Visit early morning by kayak or paddleboard for a considerably less crowded experience than the popular midday boat tours."
+    },
+    {
+      "name": "Lagos old town",
+      "text": "A genuinely charming walled town with a real maritime history, its cobbled streets and historic fort considerably more substantial than a typical beach-resort centre.",
+      "tip": "The town's small archaeological museum offers worthwhile context on Lagos's role in Portugal's Age of Discovery."
+    },
+    {
+      "name": "Tavira",
+      "text": "A genuinely elegant eastern Algarve town of Moorish-influenced architecture, considerably quieter and less developed than the region's central resort strip.",
+      "tip": "A short boat ride reaches Tavira Island's genuinely long, uncrowded sandbar beach."
+    },
+    {
+      "name": "Praia da Marinha",
+      "text": "Consistently ranked among Europe's most beautiful beaches, its dramatic cliff backdrop and clear water genuinely justify the reputation.",
+      "tip": "Arrive early to secure a spot on the sand — the beach's fame means genuinely significant crowds by midday in summer."
+    },
+    {
+      "name": "Sagres and Cabo de São Vicente",
+      "text": "Continental Europe's southwesternmost point, its genuinely dramatic, wind-battered cliffs marking where the Algarve gives way to the wilder Costa Vicentina.",
+      "tip": "Sunset from Cabo de São Vicente's lighthouse is genuinely one of the most striking in Portugal."
+    }
+  ],
+  "thingsToDoIntro": "Beyond the beaches and cliffs, the Algarve rewards boat trips, coastal hiking and its own regional food culture.",
+  "thingsToDo": [
+    {
+      "title": "Take a sea cave boat or kayak tour",
+      "text": "The genuinely best way to see Benagil Cave and the wider coastline's grottoes, inaccessible from land.",
+      "tip": "A kayak or paddleboard tour offers a genuinely quieter, more intimate experience than a larger motorboat tour."
+    },
+    {
+      "title": "Hike a stretch of the Rota Vicentina",
+      "text": "A genuinely well-marked long-distance coastal trail along the wilder western Algarve and Alentejo coast, considerably less developed than the central resort strip.",
+      "tip": "The Fishermen's Trail section, closest to the water, offers genuinely the most dramatic clifftop scenery."
+    },
+    {
+      "title": "Learn to surf on the western coast",
+      "text": "The Algarve's Atlantic-facing west coast, particularly around Sagres, offers genuinely excellent, consistent surf breaks suited to beginners and experienced surfers alike.",
+      "tip": "Surf schools around Sagres offer lessons for genuinely all levels, including complete beginners."
+    },
+    {
+      "title": "Visit a quieter eastern Algarve beach",
+      "text": "The eastern stretch around Tavira and Cacela Velha offers genuinely long, flat, uncrowded sandbar beaches, a real contrast to the central coast's cliffs.",
+      "tip": "Tavira Island's beach is reachable only by boat, keeping it genuinely quieter than mainland-accessible alternatives."
+    },
+    {
+      "title": "Visit a local market",
+      "text": "Loulé's covered market and similar traditional markets across the region offer genuinely good local produce, cheese and regional specialties.",
+      "tip": "Loulé's Saturday gypsy market adds an additional, genuinely lively outdoor market alongside the permanent covered one."
+    }
+  ],
+  "foodIntro": "The Algarve's food scene leans heavily on genuinely excellent fresh seafood alongside standard Portuguese dishes.",
+  "foods": [
+    {
+      "name": "Cataplana",
+      "text": "A genuinely hearty seafood stew cooked and served in a distinctive copper clam-shaped pot, the Algarve's signature dish.",
+      "whereToTry": "Traditional seafood restaurants throughout Lagos, Tavira and the coastal towns."
+    },
+    {
+      "name": "Grilled sardines",
+      "text": "Simply grilled whole sardines, genuinely excellent along the Algarve's coastal towns, especially in summer.",
+      "whereToTry": "Beachside restaurants and traditional tascas throughout the region."
+    },
+    {
+      "name": "Percebes (goose barnacles)",
+      "text": "A genuinely prized, unusual-looking shellfish harvested from the region's rocky Atlantic coastline, a real local delicacy.",
+      "whereToTry": "Traditional seafood restaurants, particularly around Sagres and the western coast."
+    },
+    {
+      "name": "Piri piri chicken",
+      "text": "Grilled chicken marinated in a genuinely fiery piri piri chilli sauce, a Portuguese classic with roots tracing back to the country's African colonial trade routes.",
+      "whereToTry": "Grilled chicken restaurants (churrasqueiras) throughout the region."
+    },
+    {
+      "name": "Medronho",
+      "text": "A genuinely potent local spirit distilled from the fruit of the strawberry tree, a distinctive Algarve tradition worth trying in moderation.",
+      "whereToTry": "Local producers and traditional restaurants across the region's inland towns."
+    }
+  ],
+  "accommodation": {
+    "intro": "The Algarve's central and western stretches offer genuinely different bases depending on your priorities.",
+    "areas": [
+      {
+        "name": "Lagos",
+        "bestFor": "A genuine old town alongside beach access",
+        "text": "A historic walled town with easy access to Ponta da Piedade and the region's most photographed cliffs."
+      },
+      {
+        "name": "Tavira",
+        "bestFor": "A quieter, more authentic Algarve experience",
+        "text": "Considerably less developed than the central resort strip, with genuinely elegant architecture and uncrowded beaches."
+      },
+      {
+        "name": "Sagres",
+        "bestFor": "Surfing and the wilder western coast",
+        "text": "A small town at the region's edge, genuinely well positioned for the Rota Vicentina and Cabo de São Vicente."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "€20–35 per night" },
+      { "label": "Mid-range hotel", "value": "€85–160 per night" },
+      { "label": "Benagil Cave boat tour", "value": "€20–35 per person" },
+      { "label": "Cataplana for two", "value": "€35–55" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Faro Airport is the Algarve's main gateway, with a rental car genuinely essential for exploring the wider coastline.",
+    "options": [
+      {
+        "mode": "Faro Airport (FAO)",
+        "text": "Direct flights from across Europe and connections from [[lisbon|Lisbon]], with the airport genuinely central to the region.",
+        "detail": "A rental car picked up directly at the airport is the most practical way to explore the coast."
+      },
+      {
+        "mode": "Train from Lisbon",
+        "text": "Regular trains connect [[lisbon|Lisbon]] to Faro and Lagos, taking roughly 3 hours.",
+        "detail": "A genuinely scenic option, though a car remains useful once you've arrived for reaching individual beaches."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Genuinely essential for exploring beyond your base town, particularly for reaching quieter beaches and the western coast.",
+        "detail": "Book ahead in peak summer season, when rental availability can run tight."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A rental car is genuinely the most practical way to explore the Algarve's spread-out coastline.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The most flexible way to combine several beaches, towns and viewpoints along the coast.",
+        "detail": "Parking near popular beaches fills up quickly in peak summer — arrive early."
+      },
+      {
+        "mode": "Regional trains and buses",
+        "text": "Connect the main coastal towns, though service to individual beaches is genuinely limited.",
+        "detail": "A reasonable option if basing yourself in one town and making occasional day trips."
+      },
+      {
+        "mode": "Boat tours",
+        "text": "The only way to reach certain sea caves and grottoes, including Benagil Cave.",
+        "detail": "Depart from Lagos, Albufeira and Portimão marinas throughout the day in high season."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September, for warm swimmable water with fewer crowds",
+    "summary": "The Algarve's summer heat and crowds peak in July and August, and late spring and early autumn offer the best balance of warm weather and manageable crowds.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Warming weather and swimmable water by late spring, with crowds well below the July-August peak."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Hot and reliably dry, the most popular season, but genuinely the most crowded and expensive."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Warm sea temperatures lingering from summer and noticeably thinner crowds than August."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "shoulder",
+        "text": "Mild by northern European standards, popular with golfers, though genuinely too cool for most swimming."
+      }
+    ],
+    "avoid": "August without accommodation booked far ahead — Portuguese and wider European summer holidays push the region to its busiest, most expensive point of the year."
+  },
+  "itinerary": {
+    "title": "Four days in the Algarve",
+    "intro": "Lagos and the famous cliffs first, then the wider coastline's range.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive and settle in",
+        "morning": "Arrive and transfer to Lagos.",
+        "afternoon": "Explore the old town and walls.",
+        "evening": "Dinner with cataplana."
+      },
+      {
+        "day": 2,
+        "title": "Ponta da Piedade and Benagil Cave",
+        "morning": "A boat or kayak tour to Benagil Cave.",
+        "afternoon": "Ponta da Piedade's cliffs and grottoes.",
+        "evening": "Sunset drinks overlooking the coast."
+      },
+      {
+        "day": 3,
+        "title": "The wilder west coast",
+        "morning": "Drive to Sagres and Cabo de São Vicente.",
+        "afternoon": "A surf lesson or a Rota Vicentina hike.",
+        "evening": "A final Sagres dinner."
+      },
+      {
+        "day": 4,
+        "title": "The quieter east, or a beach day",
+        "morning": "Drive to Tavira for a quieter Algarve.",
+        "afternoon": "A boat to Tavira Island's beach.",
+        "evening": "A final Algarve dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, timing and transport that make a real difference to an Algarve trip.",
+  "tips": [
+    "Rent a car for the trip — public transport to individual beaches and viewpoints is genuinely limited.",
+    "Book Benagil Cave boat tours ahead in peak season, or visit early morning by kayak for fewer crowds.",
+    "Arrive early at popular beaches like Praia da Marinha — parking and space fill up by midday in summer.",
+    "Book accommodation well ahead for July-August, when the region reaches its busiest, most expensive point.",
+    "Pack layers for the western coast — Sagres and the Costa Vicentina run genuinely windier and cooler than the sheltered central Algarve.",
+    "Consider the eastern Algarve around Tavira for a genuinely quieter, more authentic alternative to the central resort strip."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the Algarve?",
+      "a": "Four to five. Three covers Lagos and the main cliff scenery at a rushed pace; five allows the eastern towns or the wilder west coast without feeling hurried."
+    },
+    {
+      "q": "Do I need a car in the Algarve?",
+      "a": "Yes, genuinely — the region's best beaches, viewpoints and towns are spread along a long coastline, and public transport between them is limited. A rental car is the most practical way to explore properly."
+    },
+    {
+      "q": "Is the Algarve only for beach resorts?",
+      "a": "No, genuinely not — Lagos and Tavira both offer real historic towns, and the western Costa Vicentina around Sagres offers wild, undeveloped cliffs and surfing considerably different from the central resort strip."
+    },
+    {
+      "q": "Is the Algarve expensive?",
+      "a": "Mid-range travel runs about €75–140 per person per day, noticeably lower than comparable Mediterranean coastlines in Spain, France or Italy for similar scenery and water quality."
+    },
+    {
+      "q": "What is the best time of year to visit?",
+      "a": "May, June and September offer the best balance of warm, swimmable water and manageable crowds. July and August are hottest and busiest, with the best weather guarantee but genuine crowds and higher prices."
+    }
+  ],
+  "related": ["sintra", "evora", "lisbon"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}
