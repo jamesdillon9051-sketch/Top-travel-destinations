@@ -17,13 +17,13 @@ const AD_EXCLUDED_PATHS = new Set(['about', 'privacy-policy']);
 /** Google tag (gtag.js) — runs site-wide, including About and Privacy Policy. */
 const GA_SCRIPT = raw(
   `<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KNX9706SB6"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H4ESQ64ZRF"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-KNX9706SB6');
+  gtag('config', 'G-H4ESQ64ZRF');
 </script>`
 );
 
