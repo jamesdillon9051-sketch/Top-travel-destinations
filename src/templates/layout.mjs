@@ -15,25 +15,27 @@ const NAV = [
 const AD_EXCLUDED_PATHS = new Set(['about', 'privacy-policy']);
 
 /**
- * Adsterra loader scripts. Both are self-injecting (a popunder and a
- * native-banner loader that fills its own container after load), so <head>
- * is a valid, safe position for them.
+ * Popunder loader — self-injecting, no container needed. Adsterra's static-
+ * HTML-site guide places this right before the closing </head> tag.
  */
-const AD_HEAD_SCRIPTS = raw(
-  `<script src="https://pl31286361.profitableratecpmnetwork.com/6f/d5/21/6fd5210f9be3c3988ea3d5858a80db68.js"></script>
-<script async="async" data-cfasync="false" src="https://pl31286363.profitableratecpmnetwork.com/af79caaa649003d8682ac5e1559b9f08/invoke.js"></script>`
+const AD_HEAD_SCRIPT = raw(
+  `<script src="https://pl31286361.profitableratecpmnetwork.com/6f/d5/21/6fd5210f9be3c3988ea3d5858a80db68.js"></script>`
 );
 
 /**
- * The native-banner's render target, plus the 300x250 banner unit. Both need
- * a genuine position in <body>: a bare <div> is invalid inside <head>, and
- * the banner script below renders via document.write exactly where its own
- * <script> tag sits — in <head> that would be silently broken, not just
- * misplaced, so both live in the ad slot in <body> instead.
+ * Native Banner — Adsterra's guide places this format in the page body,
+ * script and render-target <div> together as one unit. (Previously split:
+ * the script sat in <head> while its <div> lived down in <body>, so the
+ * script could run before its own container existed in the DOM.)
  */
-const AD_BODY_UNIT = raw(
+const AD_NATIVE_BANNER = raw(
   `<div id="container-af79caaa649003d8682ac5e1559b9f08"></div>
-<script>
+<script async="async" data-cfasync="false" src="https://pl31286363.profitableratecpmnetwork.com/af79caaa649003d8682ac5e1559b9f08/invoke.js"></script>`
+);
+
+/** 300x250 display banner — renders via document.write at its own <script> tag, so it must stay in <body>. */
+const AD_BANNER_UNIT = raw(
+  `<script>
   atOptions = {
     'key' : 'e5e12097b37149fe8822713da3308db8',
     'format' : 'iframe',
@@ -45,7 +47,7 @@ const AD_BODY_UNIT = raw(
 <script src="https://www.highrevenueformat.com/e5e12097b37149fe8822713da3308db8/invoke.js"></script>`
 );
 
-/** Third Adsterra loader, requested at the very end of <body> rather than in <head>. */
+/** Fourth Adsterra unit, placed right before </body> exactly where its own dashboard snippet specified. */
 const AD_FOOT_SCRIPT = raw(
   `<script src="https://pl31286362.profitableratecpmnetwork.com/a0/57/15/a0571520bc7ad1a461a91e384b0d2bd8.js"></script>`
 );
@@ -182,14 +184,14 @@ export function layout({
 <link rel="icon" href="${FAVICON}">
 <link rel="stylesheet" href="${esc(url('assets/site.css'))}">
 ${schema.map((item) => ldScript(item).toString()).join('\n')}
-${showAds ? AD_HEAD_SCRIPTS.toString() : ''}
+${showAds ? AD_HEAD_SCRIPT.toString() : ''}
 </head>
 <body class="${esc(bodyClass)}">
 ${header(pagePath).toString()}
 <main id="main">
 ${content.toString()}
 </main>
-${showAds ? `<div class="wrap"><div class="ad-slot"><p class="ad-slot__label">Advertisement</p>${AD_BODY_UNIT.toString()}</div></div>` : ''}
+${showAds ? `<div class="wrap"><div class="ad-slot"><p class="ad-slot__label">Advertisement</p>${AD_NATIVE_BANNER.toString()}${AD_BANNER_UNIT.toString()}</div></div>` : ''}
 ${footer(site).toString()}
 <script src="${esc(url('assets/site.js'))}" defer></script>
 ${showAds ? AD_FOOT_SCRIPT.toString() : ''}
