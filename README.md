@@ -1,7 +1,8 @@
-# Top Travel Destinations
+# Travel Vault
 
-A static travel-planning site covering **France, Spain, the United States, Turkey and
-Italy** — ten hand-picked destinations in each, every one with its own full guide.
+A static travel-planning site covering **France, Spain, the United States, Turkey, Italy,
+China, the United Kingdom, Germany, Japan and Greece** — ten hand-picked destinations in
+each, every one with its own full guide.
 
 Each destination page covers what is actually worth seeing, what to eat and where, which
 neighbourhood to sleep in, how to get around, when to go, a day-by-day itinerary, travel

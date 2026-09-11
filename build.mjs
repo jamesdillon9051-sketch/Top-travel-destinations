@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Static site generator for Top Travel Destinations.
+ * Static site generator for Travel Vault.
  *
  * Reads src/data, validates it against the content rules, renders every page
  * and writes plain HTML into docs/ — which is what GitHub Pages serves. No

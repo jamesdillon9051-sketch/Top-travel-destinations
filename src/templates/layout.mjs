@@ -17,7 +17,7 @@ function header(activePath) {
       <div class="wrap site-header__inner">
         <a class="brand" href="${url()}">
           <span class="brand__mark" aria-hidden="true"></span>
-          <span class="brand__text">Top Travel<span class="brand__thin">Destinations</span></span>
+          <span class="brand__text">Travel<span class="brand__thin">Vault</span></span>
         </a>
         <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
           <span class="nav-toggle__bars" aria-hidden="true"></span>
@@ -50,7 +50,7 @@ function footer(site) {
         <div class="site-footer__about">
           <span class="brand brand--footer">
             <span class="brand__mark" aria-hidden="true"></span>
-            <span class="brand__text">Top Travel<span class="brand__thin">Destinations</span></span>
+            <span class="brand__text">Travel<span class="brand__thin">Vault</span></span>
           </span>
           <p>${site.description}</p>
         </div>
