@@ -25,6 +25,7 @@ import {
   renderCredits,
   renderNotFound
 } from './src/templates/indexes.mjs';
+import { renderAbout, renderPrivacyPolicy } from './src/templates/pages.mjs';
 
 const ROOT = process.cwd();
 const OUT = path.join(ROOT, 'docs');
@@ -125,6 +126,8 @@ async function main() {
     renderCredits({ site, credits, countryList, destinationList, articleList }),
     { priority: 0.2 }
   );
+  addPage('about', renderAbout({ site }), { priority: 0.3, changefreq: 'yearly' });
+  addPage('privacy-policy', renderPrivacyPolicy({ site }), { priority: 0.1, changefreq: 'yearly' });
   addPage('404.html', renderNotFound({ site, countryList }));
 
   // ---- write ----------------------------------------------------------------

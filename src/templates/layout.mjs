@@ -74,8 +74,10 @@ function footer(site) {
         <div>
           <h2 class="site-footer__title">About</h2>
           <ul class="site-footer__list">
+            <li><a href="${url('about')}">About</a></li>
             <li><a href="${url('image-credits')}">Image credits</a></li>
-            <li><a href="${site.repoUrl}">Source on GitHub</a></li>
+            <li><a href="${url('privacy-policy')}">Privacy policy</a></li>
+            <li><a href="${site.repoUrl}" rel="noopener">Source on GitHub</a></li>
           </ul>
         </div>
       </div>

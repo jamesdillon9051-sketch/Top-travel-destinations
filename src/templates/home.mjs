@@ -110,6 +110,13 @@ export function renderHome({ site, countryList, destinations, articles }) {
       name: site.title,
       description: plain(site.description),
       url: absolute('')
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'Organization',
+      name: site.title,
+      url: absolute(''),
+      sameAs: [site.repoUrl]
     }
   ];
 
