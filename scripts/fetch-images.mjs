@@ -132,6 +132,22 @@ async function request(url, { asBuffer = false, attempts = 4 } = {}) {
   throw new Error(`${url} failed after ${attempts} attempts: ${lastError.message}`);
 }
 
+/**
+ * Commons "Artist" metadata is meant to be a name, but many contributors paste
+ * their whole personal-photo boilerplate into the field instead (a "this photo
+ * was taken by X, feel free to use it but..." essay, sometimes with a licence
+ * notice attached). Reduce that down to just the name so it's fit to display
+ * as an on-page photo credit.
+ */
+function cleanArtist(raw) {
+  if (!raw) return raw;
+  const text = raw.trim();
+  const takenBy = text.match(/^this (?:photo|photograph|image) (?:was )?(?:taken|uploaded) by (.+?)\.?\s*(?:\n|feel free|please)/i);
+  if (takenBy) return takenBy[1].trim();
+  const firstLine = text.split(/\n+/)[0].trim();
+  return firstLine.length <= 80 ? firstLine : firstLine.slice(0, 77).trimEnd() + '…';
+}
+
 /** Batch metadata lookup — the API accepts up to 50 titles per call. */
 async function fetchMetadata(files) {
   const out = new Map();
@@ -164,7 +180,7 @@ async function fetchMetadata(files) {
         license: text('LicenseShortName') || text('License'),
         licenseCode: (meta.License?.value || '').toLowerCase(),
         licenseUrl: text('LicenseUrl'),
-        artist: text('Artist') || text('Credit') || 'Unknown',
+        artist: cleanArtist(text('Artist') || text('Credit')) || 'Unknown',
         descriptionUrl: info.descriptionurl,
         width: info.width,
         height: info.height
