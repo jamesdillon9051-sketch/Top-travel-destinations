@@ -1,0 +1,312 @@
+{
+  "slug": "phuket",
+  "name": "Phuket",
+  "country": "thailand",
+  "region": "Andaman Coast, Southern Thailand",
+  "categories": ["island", "coastal", "cultural", "food-and-wine"],
+  "tagline": "Thailand's largest island, a genuinely wide range of beach resorts, an atmospheric Sino-Portuguese old town, and the country's busiest gateway to the Andaman Sea's limestone islands.",
+  "highlight": "Phuket Old Town's pastel Sino-Portuguese shophouses at golden hour, their painted facades genuinely unlike any other Thai city.",
+  "shortDescription": "Thailand's largest island, home to a genuine range of beach resorts, an atmospheric old town, and easy boat access to the Andaman Sea's islands.",
+  "metaDescription": "A Phuket travel guide: the best beaches, Phuket Old Town, day trips, when to go and a practical four-day itinerary.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "Phuket International (HKT)",
+  "knownFor": "Beaches, Phuket Old Town, island-hopping, nightlife",
+  "budget": "฿2,500–5,000 per day, mid-range",
+  "goodFor": "Beaches, island-hopping, nightlife, a resort base",
+  "coords": { "lat": 7.8804, "lng": 98.3923 },
+  "image": {
+    "file": "File:Phang Nga Bay, Karst islands, Thailand.jpg",
+    "alt": "Limestone karst islands rising from the Andaman Sea near Phuket"
+  },
+  "intro": [
+    "Phuket is Thailand's largest island and its best-known beach destination, a genuinely wide-ranging mix of high-rise resort strips, quieter coves and an atmospheric old town that together attract a considerably broader range of visitors than the party-island reputation alone suggests.",
+    "The island's beaches range hugely in character, from Patong's dense resorts, bars and nightlife to Kata and Karon's more relaxed family-friendly stretches and Kamala's quieter, upscale feel, giving Phuket a genuine range within a single, easily connected island.",
+    "Beyond the beaches, Phuket Old Town's pastel Sino-Portuguese shophouses, built by Chinese tin-mining merchants in the 19th century, offer a genuinely different side of the island, and Phuket's size and infrastructure make it Thailand's busiest launch point for day trips to Phang Nga Bay and the Phi Phi Islands."
+  ],
+  "whyVisit": {
+    "intro": "Phuket's case is that its size and infrastructure genuinely offer more range — beaches, culture and island access — than any other single spot on Thailand's Andaman coast.",
+    "points": [
+      {
+        "title": "The beaches genuinely span every mood",
+        "text": "From Patong's high-energy strip to Kata and Kamala's quieter, more relaxed stretches, all within a short drive of each other."
+      },
+      {
+        "title": "Phuket Old Town is genuinely distinct from the beach resorts",
+        "text": "Pastel Sino-Portuguese architecture and a serious food scene, a world apart from the coastal strips."
+      },
+      {
+        "title": "It's Thailand's easiest launch point for island-hopping",
+        "text": "Phang Nga Bay and the Phi Phi Islands are both straightforward day trips from Phuket's ports."
+      },
+      {
+        "title": "The infrastructure is genuinely the best on this coast",
+        "text": "A wide range of hotels, restaurants and an international airport make Phuket the most convenient Andaman base."
+      },
+      {
+        "title": "It works for a wide range of trip styles",
+        "text": "Genuinely suited to families, couples, nightlife-focused groups and quieter escapes, depending on which beach you choose."
+      }
+    ]
+  },
+  "attractionsIntro": "Phuket's essential sights, spanning its beaches, old town and surrounding waters.",
+  "attractions": [
+    {
+      "name": "Phuket Old Town",
+      "image": {
+        "file": "File:Phuket Old Town 1.jpg",
+        "alt": "Pastel Sino-Portuguese shophouses along a street in Phuket Old Town"
+      },
+      "text": "Pastel Sino-Portuguese shophouses built by 19th-century Chinese tin-mining merchants, genuinely one of Thailand's most distinctive architectural districts.",
+      "tip": "Visit on a Sunday evening for the Lard Yai Walking Street market, when the old town's streets close to traffic."
+    },
+    {
+      "name": "Big Buddha Phuket",
+      "text": "A 45-metre white marble Buddha statue crowning a hill in the island's south, offering genuinely sweeping views across Phuket and the surrounding sea.",
+      "tip": "Visit in the late afternoon for the clearest views and cooler temperatures for the walk up to the statue's base."
+    },
+    {
+      "name": "Wat Chalong",
+      "text": "Phuket's most important Buddhist temple, its ornate multi-tiered chedi holding relics of the Buddha, genuinely worth a stop for the island's most significant religious site.",
+      "tip": "Dress modestly, as with any Thai temple — shoulders and knees covered."
+    },
+    {
+      "name": "Phang Nga Bay",
+      "image": {
+        "file": "File:Phang Nga Bay, Karst islands, Thailand.jpg",
+        "alt": "Limestone karst islands rising from the Andaman Sea near Phuket"
+      },
+      "text": "A genuinely dramatic seascape of limestone karst islands rising sheer from the water, including the famous James Bond Island, best explored by longtail boat or sea kayak.",
+      "tip": "A sea kayak tour into the bay's hidden lagoons (hongs) offers a genuinely more intimate experience than a large tour boat."
+    },
+    {
+      "name": "The Phi Phi Islands",
+      "text": "A genuinely stunning day-trip destination of turquoise water and dramatic cliffs, including Maya Bay, made famous by film and now managed with visitor limits to protect the reef.",
+      "tip": "Book an early-departure boat tour to reach Maya Bay before the midday crowds, when visitor numbers are capped and controlled."
+    },
+    {
+      "name": "Kata and Karon beaches",
+      "text": "Two of Phuket's most consistently recommended beaches, offering a genuinely good balance of scenery, facilities and a calmer atmosphere than Patong.",
+      "tip": "Kata's smaller cove and Karon's longer stretch both work well for swimming outside the rainy-season monsoon months."
+    }
+  ],
+  "thingsToDoIntro": "Beyond the beaches, Phuket rewards its old town, food scene and easy access to the water.",
+  "thingsToDo": [
+    {
+      "title": "Take a longtail boat to a nearby island",
+      "text": "Coral Island and Racha Island both offer genuinely excellent snorkelling and clear water within a short boat ride of Phuket's beaches.",
+      "tip": "A half-day trip to Coral Island is a genuinely good option if you don't have time for a full Phi Phi Islands day."
+    },
+    {
+      "title": "Explore Phuket Old Town's food scene",
+      "text": "A genuinely strong mix of Peranakan (Chinese-Malay) cuisine, street food and coffee shops set within the old town's historic shophouses.",
+      "tip": "Try Hokkien mee and moo hong, two genuinely distinctive Phuket-Peranakan dishes rarely found elsewhere in Thailand."
+    },
+    {
+      "title": "Watch the sunset from Promthep Cape",
+      "text": "Phuket's southernmost point offers a genuinely spectacular sunset viewpoint over the Andaman Sea, one of the island's most popular evening spots.",
+      "tip": "Arrive at least 30 minutes ahead of sunset — the viewpoint's car park fills up quickly on clear evenings."
+    },
+    {
+      "title": "Experience Patong's nightlife",
+      "text": "Bangla Road's bars, clubs and street performances offer a genuinely high-energy nightlife scene, Phuket's best-known after dark.",
+      "tip": "Patong's nightlife is genuinely distinct from the island's quieter beach towns — expect a considerably louder, livelier atmosphere."
+    },
+    {
+      "title": "Visit an elephant sanctuary",
+      "text": "Several genuinely reputable ethical elephant sanctuaries near Phuket offer observation, feeding and bathing without riding or performances.",
+      "tip": "Research sanctuaries carefully, as with anywhere in Thailand — look for ones that explicitly prohibit riding."
+    },
+    {
+      "title": "Go diving or snorkelling around the Similan Islands",
+      "text": "A multi-day boat trip further north to the Similan Islands offers genuinely some of Thailand's best diving, with visibility and marine life considerably beyond what's found close to Phuket itself.",
+      "tip": "The Similans are seasonal, typically open from mid-October to mid-May — book well ahead in peak season."
+    }
+  ],
+  "foodIntro": "Phuket's food scene blends standard Thai cuisine with a genuinely distinct Peranakan (Chinese-Malay) heritage.",
+  "foods": [
+    {
+      "name": "Hokkien mee (Phuket-style)",
+      "text": "A genuinely distinctive Phuket dish of stir-fried yellow noodles with pork, seafood and vegetables, a Peranakan specialty found almost nowhere else in Thailand.",
+      "whereToTry": "Phuket Old Town's noodle shops, several with decades of history."
+    },
+    {
+      "name": "Moo hong",
+      "text": "Slow-braised pork belly in a sweet, dark soy sauce, a genuine Phuket-Peranakan comfort dish with real depth of flavour.",
+      "whereToTry": "Traditional restaurants throughout Phuket Old Town."
+    },
+    {
+      "name": "Fresh seafood",
+      "text": "Grilled fish, prawns and shellfish, genuinely excellent around Phuket's coastal towns, typically priced by weight and grilled simply.",
+      "whereToTry": "Seafood restaurants along Rawai and Chalong beaches, where the day's catch is often on direct display."
+    },
+    {
+      "name": "O aew",
+      "text": "A refreshing Phuket dessert of chilled grass jelly, coconut milk and syrup, a genuinely distinctive local specialty rarely found outside the island.",
+      "whereToTry": "Street stalls throughout Phuket Old Town, especially around the Sunday Walking Street market."
+    },
+    {
+      "name": "Pad thai",
+      "image": {
+        "file": "File:Pad Thai with Pork - Unithai.jpg",
+        "alt": "A plate of pad thai with pork"
+      },
+      "text": "Available across the island as elsewhere in Thailand, genuinely good from Phuket's street stalls and markets.",
+      "whereToTry": "Street stalls throughout the old town and near the main beaches."
+    }
+  ],
+  "accommodation": {
+    "intro": "Phuket's beaches each offer a genuinely distinct atmosphere, from high-energy Patong to quieter southern coves.",
+    "areas": [
+      {
+        "name": "Patong",
+        "bestFor": "Nightlife and a wide range of hotels and restaurants",
+        "text": "The island's busiest, liveliest beach town, with the widest range of accommodation and Bangla Road's nightlife strip."
+      },
+      {
+        "name": "Kata and Karon",
+        "bestFor": "A calmer beach atmosphere for families and couples",
+        "text": "Two of the island's most consistently recommended beaches, offering good facilities without Patong's intensity."
+      },
+      {
+        "name": "Phuket Old Town",
+        "bestFor": "History, food and a break from the beach resorts",
+        "text": "A genuinely different base, putting the Sino-Portuguese architecture and food scene within walking distance, a short drive from the beaches."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "฿300–500 per night" },
+      { "label": "Mid-range resort", "value": "฿2,500–5,500 per night" },
+      { "label": "Phi Phi Islands day tour", "value": "฿1,500–2,800 per person" },
+      { "label": "Seafood dinner", "value": "฿250–500 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Phuket International Airport handles frequent domestic and international flights, making the island Thailand's most accessible beach destination.",
+    "options": [
+      {
+        "mode": "Phuket International Airport (HKT)",
+        "text": "Frequent direct flights from [[bangkok|Bangkok]] and international routes from across Asia.",
+        "detail": "A metered taxi, ride-hailing app or pre-booked transfer covers the roughly 45-minute journey to Patong."
+      },
+      {
+        "mode": "Bus or minivan from Krabi",
+        "text": "Regular connections link Phuket to [[krabi-railay|Krabi]] in about 3 hours by road.",
+        "detail": "A private transfer avoids the multiple stops a shared minivan often makes along the way."
+      },
+      {
+        "mode": "Ferry to Koh Samui or Koh Phi Phi",
+        "text": "Direct ferries connect Phuket to nearby islands, including a route toward [[koh-samui-koh-phangan|Koh Samui]] via Krabi.",
+        "detail": "High-season ferry schedules are more frequent than during the rainy season — check current timetables ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Phuket is genuinely large for an island, so most visitors rely on taxis, ride-hailing apps or a rented scooter to get between beaches.",
+    "options": [
+      {
+        "mode": "Rented scooter",
+        "text": "A popular way to explore the island's beaches and viewpoints independently, though traffic and road conditions require genuine caution.",
+        "detail": "A proper helmet and an International Driving Permit are genuinely important — insurance often excludes claims without one."
+      },
+      {
+        "mode": "Taxis and ride-hailing apps",
+        "text": "Widely available, though metered taxis are less common than in Bangkok — negotiate or use an app for a fixed fare.",
+        "detail": "Ride-hailing apps genuinely avoid the fare disputes that unmetered taxi trips can involve."
+      },
+      {
+        "mode": "Songthaews between beaches",
+        "text": "Shared pickup trucks run fixed routes between Phuket Town and the main beaches, a genuinely cheap if less flexible option.",
+        "detail": "Services typically stop in the early evening — plan accordingly for a late return."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–April, for the driest Andaman coast weather",
+    "summary": "Phuket's dry season offers the most reliable weather for beaches and island-hopping, while the monsoon months bring rougher seas on this side of the country.",
+    "seasons": [
+      {
+        "season": "Cool, dry season (November–February)",
+        "rating": "best",
+        "text": "The most comfortable and reliable weather for beaches, boat trips and island-hopping, alongside the year's biggest crowds."
+      },
+      {
+        "season": "Hot season (March–April)",
+        "rating": "good",
+        "text": "Still dry and swimmable, genuinely hot but with thinner crowds than the December–January peak."
+      },
+      {
+        "season": "Rainy season (May–October)",
+        "rating": "shoulder",
+        "text": "The Andaman coast's wetter, rougher-sea season — boat trips can be cancelled or curtailed, though rates drop noticeably."
+      }
+    ],
+    "avoid": "Late boat departures during the rainy season from May to October, when Andaman coast seas can turn genuinely rough with little warning."
+  },
+  "itinerary": {
+    "title": "Four days in Phuket",
+    "intro": "The beaches and old town first, then island-hopping into the surrounding waters.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive and settle in",
+        "morning": "Arrive and transfer to your chosen beach.",
+        "afternoon": "A first swim and relax at your resort's beach.",
+        "evening": "Dinner and a first look at your area's evening scene."
+      },
+      {
+        "day": 2,
+        "title": "Phuket Old Town",
+        "morning": "Explore the Sino-Portuguese shophouses and street art.",
+        "afternoon": "Lunch at a genuine Peranakan restaurant.",
+        "evening": "Sunset from Promthep Cape."
+      },
+      {
+        "day": 3,
+        "title": "The Phi Phi Islands",
+        "morning": "An early-departure boat tour to Maya Bay and the Phi Phi Islands.",
+        "afternoon": "Snorkelling around the islands' clear water.",
+        "evening": "A relaxed dinner back on Phuket."
+      },
+      {
+        "day": 4,
+        "title": "Phang Nga Bay or a beach day",
+        "morning": "A longtail boat or kayak tour through Phang Nga Bay's karsts.",
+        "afternoon": "A final beach afternoon at Kata or Karon.",
+        "evening": "A final dinner and, if timed right, Patong's nightlife."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, timing and transport that make a real difference to a Phuket trip.",
+  "tips": [
+    "Choose your beach carefully — Patong, Kata and Karon offer genuinely different atmospheres, and moving later is inconvenient.",
+    "Wear a proper helmet if renting a scooter, and check your travel insurance covers it before riding.",
+    "Book Phi Phi Islands and Phang Nga Bay tours through a reputable operator, and choose an early departure to beat the crowds.",
+    "Avoid late boat departures during the rainy season from May to October, when seas can turn genuinely rough.",
+    "Research elephant sanctuaries carefully — choose ones that explicitly prohibit riding.",
+    "Book accommodation well ahead for the December–January peak, when Phuket's prices and crowds both spike."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Phuket?",
+      "a": "Four to five. Three covers a beach stay with one island day trip at a rushed pace; five allows both Phang Nga Bay and the Phi Phi Islands without feeling hurried."
+    },
+    {
+      "q": "Which Phuket beach should I choose?",
+      "a": "Patong for nightlife and the widest range of hotels; Kata or Karon for a calmer, more relaxed atmosphere suited to families and couples; Kamala for a quieter, more upscale feel."
+    },
+    {
+      "q": "Is Phuket or Krabi better for a first trip?",
+      "a": "Phuket offers considerably more infrastructure, nightlife and flight options; Krabi and Railay offer more dramatic scenery and a quieter, climbing-focused atmosphere. Many first-time visitors combine both."
+    },
+    {
+      "q": "Is Phuket safe for tourists?",
+      "a": "Yes, generally — the main practical risks are scooter accidents among inexperienced riders and rough seas during the rainy season, both manageable with proper precautions."
+    },
+    {
+      "q": "What is the best time of year to visit?",
+      "a": "November to April offers the most reliable dry-season weather for beaches and island-hopping. May to October brings the Andaman coast's rainy season, with rougher seas and cancelled boat trips more common."
+    }
+  ],
+  "related": ["krabi-railay", "khao-sok", "koh-samui-koh-phangan"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

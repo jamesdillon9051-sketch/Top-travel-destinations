@@ -1,0 +1,439 @@
+{
+  "slug": "thailand",
+  "name": "Thailand",
+  "continent": "Southeast Asia",
+  "countryCode": "TH",
+  "tagline": "Golden temples and a former royal capital in ruins, limestone islands rising out of turquoise water, and a street food culture good enough that the fine dining scene has to compete with a plastic stool on the pavement.",
+  "cardDescription": "Bangkok's temples and markets, ancient capitals at Ayutthaya and Sukhothai, and a coastline of limestone islands running from Phuket to Koh Samui.",
+  "metaDescription": "A complete Thailand travel guide: the 10 best places to visit, trains and flights, food, costs, etiquette and a two-week itinerary.",
+  "image": {
+    "file": "File:Templo Wat Arun, Bangkok, Tailandia, 2013-08-22, DD 30.jpg",
+    "alt": "Wat Arun, the Temple of Dawn, on the bank of the Chao Phraya River in Bangkok"
+  },
+  "destinations": [
+    "bangkok",
+    "chiang-mai",
+    "ayutthaya",
+    "sukhothai",
+    "chiang-rai",
+    "phuket",
+    "krabi-railay",
+    "koh-samui-koh-phangan",
+    "kanchanaburi",
+    "khao-sok"
+  ],
+  "intro": [
+    "Thailand earned its reputation as Southeast Asia's easiest first trip honestly: a genuinely excellent tourism infrastructure, food that ranks among the best in the world at every price point, and a range that runs from Bangkok's golden temples and chaotic markets to limestone islands rising sheer out of turquoise water, without ever requiring a visa headache or a currency most visitors can't get their head around.",
+    "That range is wider than the beach-holiday reputation suggests. The north holds the ruins of two former royal capitals — Ayutthaya and Sukhothai, both UNESCO World Heritage Sites — and a mountain culture around Chiang Mai and Chiang Rai genuinely distinct from the flat central plains. The south is where the postcard islands sit, but Kanchanaburi's WWII history and Khao Sok's ancient rainforest prove there's more inland than a transit stop between beaches.",
+    "The practical spine holding all of this together is a genuinely good network of budget flights, overnight trains and long-distance buses, plus a Buddhist culture of hospitality — sanuk, the idea that things should have an element of fun even when they're serious — that shapes how visitors are treated from a street food stall to a five-star hotel."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit — though Sukhothai and Khao Sok reward a second trip just as much as a first.",
+  "thingsToDoIntro": "The experiences that recur across the country and that make a Thailand trip feel like more than a checklist of temples and beaches.",
+  "thingsToDo": [
+    {
+      "title": "Eat at a street food stall, properly",
+      "image": {
+        "file": "File:Bangkok street food vendor.jpg",
+        "alt": "A street food vendor cooking at a stall in Bangkok"
+      },
+      "text": "Thailand's street food genuinely rivals its restaurants, and a plastic-stool stall with a queue of locals is one of the most reliable meals in the country.",
+      "tip": "Order what the stall specializes in rather than a broad menu — a vendor cooking one dish all day has usually mastered it."
+    },
+    {
+      "title": "Visit a temple with real context",
+      "image": {
+        "file": "File:Wat Phra Kaew, Bangkok, Thailand.jpg",
+        "alt": "Wat Phra Kaew, the Temple of the Emerald Buddha, in Bangkok"
+      },
+      "text": "Thailand's wats range from Bangkok's glittering royal temples to quiet countryside monasteries, and a little background on Thai Buddhism genuinely transforms a visit from a photo stop into something more meaningful.",
+      "tip": "Dress modestly for any temple visit — shoulders and knees covered — or you may be turned away or asked to rent a wrap at the entrance."
+    },
+    {
+      "title": "Take an overnight train",
+      "image": {
+        "file": "File:201701 Beds at SRT CNR Second Class Sleeper Coach (2).jpg",
+        "alt": "A sleeper carriage on a Thai State Railway overnight train"
+      },
+      "text": "Thailand's overnight sleeper trains, particularly the Bangkok–Chiang Mai route, are a genuinely comfortable and atmospheric way to cover long distances while saving a night's accommodation.",
+      "tip": "Book an upper berth for more privacy, or a lower berth for the window and more room to sit up during the day."
+    },
+    {
+      "title": "Visit a weekend or night market",
+      "image": {
+        "file": "File:Chatuchak Weekend Market 2.jpg",
+        "alt": "Stalls and shoppers at Chatuchak Weekend Market in Bangkok"
+      },
+      "text": "From Bangkok's sprawling Chatuchak Weekend Market to Chiang Mai's night bazaars, Thailand's markets are a genuine sensory experience of food, crafts and haggling, not just a shopping stop.",
+      "tip": "Arrive with cash in small denominations — bargaining is expected at most market stalls, but card payment usually isn't available."
+    },
+    {
+      "title": "Take a boat past limestone karsts",
+      "image": {
+        "file": "File:Phang Nga Bay, Karst islands, Thailand.jpg",
+        "alt": "Limestone karst outcrops rising from the water in Phang Nga Bay"
+      },
+      "text": "Thailand's southern coastline is defined by dramatic limestone karst formations rising straight out of the sea, best seen from a longtail boat around Phang Nga Bay, Krabi or the islands.",
+      "tip": "A sunrise or late-afternoon boat trip avoids both the midday heat and the biggest tour-boat crowds."
+    },
+    {
+      "title": "Get a traditional Thai massage",
+      "image": {
+        "file": "File:Thai massage.jpg",
+        "alt": "A traditional Thai massage session at Wat Pho in Bangkok"
+      },
+      "text": "Genuinely central to Thai wellness culture rather than a tourist add-on, a proper Thai massage — part stretching, part pressure-point work — is available everywhere from beach-side huts to Wat Pho's famous massage school.",
+      "tip": "Wat Pho's traditional medicine school in Bangkok is where much of modern Thai massage practice is formally taught and a genuinely authentic place to try one."
+    }
+  ],
+  "foodIntro": "Thai food's international reputation undersells its own regional range — what's on offer in Bangkok, the north and the south genuinely differs more than most visitors expect.",
+  "foods": [
+    {
+      "name": "Pad thai",
+      "image": {
+        "file": "File:Pad Thai with Pork - Unithai.jpg",
+        "alt": "A plate of pad thai with pork"
+      },
+      "text": "Stir-fried rice noodles with egg, tofu or shrimp, tamarind, fish sauce and crushed peanuts, Thailand's best-known export dish and genuinely excellent when made fresh to order.",
+      "whereToTry": "Street stalls nationwide — a wok-fried version cooked to order beats a pre-made steam-tray one every time."
+    },
+    {
+      "name": "Tom yum goong",
+      "image": {
+        "file": "File:Tom yam kung 1.jpg",
+        "alt": "A bowl of tom yum goong, spicy and sour prawn soup"
+      },
+      "text": "A hot and sour prawn soup built on lemongrass, galangal, kaffir lime leaf and chilli, one of the defining flavours of Thai cuisine and genuinely more complex than its reputation as just 'spicy soup' suggests.",
+      "whereToTry": "Both street stalls and proper restaurants nationwide, with genuine regional variation in how sour or creamy it's made."
+    },
+    {
+      "name": "Green curry (gaeng keow wan)",
+      "image": {
+        "file": "File:Green Curry, Siam House, Paris 001.jpg",
+        "alt": "A bowl of Thai green curry with chicken"
+      },
+      "text": "A coconut-milk curry built on fresh green chillies, Thai basil and typically chicken or beef, genuinely one of the country's most beloved curries alongside its red and massaman cousins.",
+      "whereToTry": "Restaurants and street stalls nationwide, with central Thai versions typically the reference standard."
+    },
+    {
+      "name": "Khao soi",
+      "image": {
+        "file": "File:Khao soi Chiang Mai.jpg",
+        "alt": "A bowl of khao soi, northern Thai curry noodle soup"
+      },
+      "text": "A northern Thai curry noodle soup topped with crispy fried noodles, genuinely distinct from central Thai cuisine and reflecting the north's Burmese and Shan culinary influence.",
+      "whereToTry": "Chiang Mai and Chiang Rai specifically — it's considerably harder to find done well further south."
+    },
+    {
+      "name": "Mango sticky rice",
+      "image": {
+        "file": "File:Mango sticky rice.jpg",
+        "alt": "A plate of mango sticky rice with coconut cream"
+      },
+      "text": "Sweet coconut sticky rice served with fresh mango and a drizzle of coconut cream, genuinely one of Thailand's simplest and most satisfying desserts.",
+      "whereToTry": "Street dessert stalls nationwide, best in mango season from April to June."
+    },
+    {
+      "name": "Som tam (green papaya salad)",
+      "image": {
+        "file": "File:Som Tam green papaya salad, Bangkok, Thailand.jpg",
+        "alt": "Som tam, spicy green papaya salad, with fresh chillies and beans"
+      },
+      "text": "Shredded unripe papaya pounded with chilli, lime, fish sauce and palm sugar, a genuinely fiery, sour and refreshing dish with roots in Thailand's northeastern Isan region.",
+      "whereToTry": "Isan-style street stalls, which usually ask directly how spicy you want it — answer honestly."
+    },
+    {
+      "name": "Thai iced tea",
+      "text": "Strong black tea sweetened with condensed milk and served over ice, a genuinely essential accompaniment to a hot, spicy meal and a distinctly Thai institution.",
+      "whereToTry": "Street stalls and restaurants nationwide, sold from bright orange-tinted glasses."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Thailand is straightforward and well set up for tourism, with temple dress codes and songthaew/tuk-tuk fare negotiation the two practicalities that most often catch first-time visitors out.",
+  "practical": {
+    "capital": "Bangkok",
+    "language": "Thai nationally, with good English ability in Bangkok, tourist areas and hospitality businesses, thinning out in rural areas.",
+    "currency": "Thai baht (฿, THB)",
+    "money": "Card payment is widely accepted in cities, malls and mid-range or higher hotels and restaurants, but street food, markets, songthaews and rural areas remain genuinely cash-based. ATMs are widespread but charge a fixed foreign withdrawal fee.",
+    "visa": "Visa exempt entry for up to 60 days for many nationalities including the US, UK, Australia and most EU countries, extendable once for a further 30 days at an immigration office.",
+    "plugs": "Type A, B, C and O, 220 V, 50 Hz — sockets in tourist hotels usually accept most plug types, but a universal adaptor is worth carrying.",
+    "emergency": "191 for police, 1669 for ambulance, nationwide.",
+    "tipping": "Not traditionally expected but genuinely appreciated. Rounding up or leaving small change is standard; a service charge is often already added at nicer restaurants.",
+    "safety": "Very safe overall for tourists, with low rates of violent crime. Common issues are overcharging, scooter accidents and occasional scams around gem shops or 'closed' temples steering visitors elsewhere — healthy skepticism of unsolicited offers avoids most of it.",
+    "connectivity": "Excellent and cheap 4G and 5G coverage in cities and most tourist areas, with a tourist SIM or eSIM genuinely easy to arrange on arrival at any airport.",
+    "timeZone": "Indochina Time (UTC+7) year-round, no daylight saving.",
+    "budget": [
+      { "label": "Backpacker", "value": "฿1,000–1,800 per day — hostels, street food, local buses" },
+      { "label": "Mid-range", "value": "฿2,500–4,500 per day — three-star hotels, restaurant meals, domestic flights" },
+      { "label": "Comfortable", "value": "฿5,500–10,000 per day — good hotels, private tours, resort islands" },
+      { "label": "Phuket and Koh Samui supplement", "value": "Add roughly 20–35% to any budget band specifically on these two islands" }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–February",
+    "summary": "Thailand's cool, dry season from November to February offers the most comfortable weather nationwide, though the shoulder months either side remain genuinely workable with a little more heat or rain.",
+    "seasons": [
+      {
+        "season": "Cool season (November–February)",
+        "rating": "best",
+        "text": "The most comfortable weather nationwide — warm, dry days and genuinely cooler evenings, especially in the north. The peak tourist season, with prices and crowds to match."
+      },
+      {
+        "season": "Hot season (March–May)",
+        "rating": "good",
+        "text": "Genuinely intense heat, especially in central and northern Thailand, though the islands stay swimmable and crowds thin noticeably outside the Songkran holiday in April."
+      },
+      {
+        "season": "Rainy season (June–October)",
+        "rating": "shoulder",
+        "text": "Typically short, heavy afternoon downpours rather than all-day rain, with the west (Andaman) coast affected more than the Gulf coast, where Koh Samui stays comparatively dry."
+      },
+      {
+        "season": "Songkran (mid-April)",
+        "rating": "good",
+        "text": "Thailand's water festival and New Year, a genuinely joyful nationwide water fight — extraordinary fun if you're prepared to get soaked, worth avoiding if you're not."
+      }
+    ],
+    "avoid": "The Andaman coast (Phuket, Krabi, Khao Sok) from July to September without flexible plans — heavier rain and rougher seas than the Gulf coast can affect boat trips and snorkelling more than elsewhere."
+  },
+  "tripDuration": {
+    "headline": "10–14 days for a first trip",
+    "summary": "Thailand's budget flight and overnight train network makes an ambitious north-to-south itinerary genuinely workable, though the south's islands each reward more time than a rushed loop allows.",
+    "options": [
+      {
+        "length": "4–5 days",
+        "text": "Bangkok alone fills four or five days easily, or Bangkok plus a single nearby island or Ayutthaya day trip.",
+        "detail": "A short Thailand trip is better spent deeply in one or two places than spread thin across the country."
+      },
+      {
+        "length": "8–10 days",
+        "text": "Bangkok, then Chiang Mai in the north or a single island in the south — the classic first-trip split between city, culture and beach.",
+        "detail": "Add Ayutthaya as an easy day trip from Bangkok without extending the core itinerary much."
+      },
+      {
+        "length": "12–16 days",
+        "text": "The itinerary on this page: Bangkok, Ayutthaya, Chiang Mai, then flying south to Krabi and the islands, covering both the north's culture and the south's coastline.",
+        "detail": "Enough time to add Sukhothai or Chiang Rai to a Bangkok-and-north-focused route."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Add Khao Sok, Kanchanaburi or a slower, multi-island route through Koh Samui, Koh Phangan and beyond.",
+        "detail": "The inland nature reserves and a genuinely unhurried island-hopping pace are where a second Thailand trip belongs."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Thailand's budget flight network covers long distances fast, while trains and buses cover the ground more scenically and cheaply.",
+    "options": [
+      {
+        "mode": "Domestic flights",
+        "text": "Frequent budget routes connect [[bangkok|Bangkok]] to [[chiang-mai|Chiang Mai]], [[phuket|Phuket]], [[krabi-railay|Krabi]] and [[koh-samui-koh-phangan|Koh Samui]] in one to two hours.",
+        "detail": "Book a little ahead for genuinely low fares, particularly outside peak weekends and holidays."
+      },
+      {
+        "mode": "Overnight trains",
+        "text": "Sleeper trains connect [[bangkok|Bangkok]] to [[chiang-mai|Chiang Mai]] and [[kanchanaburi|Kanchanaburi]], a genuinely comfortable way to cover distance while saving a night's accommodation.",
+        "detail": "Book State Railway sleeper berths a few days ahead in peak season, when popular routes sell out."
+      },
+      {
+        "mode": "Long-distance buses and minivans",
+        "text": "A comprehensive, affordable network reaches [[ayutthaya|Ayutthaya]], [[sukhothai|Sukhothai]], [[chiang-rai|Chiang Rai]] and southern destinations including [[krabi-railay|Krabi]] reliably.",
+        "detail": "VIP overnight buses offer reclining seats for longer routes at a genuine step up from standard service."
+      },
+      {
+        "mode": "Ferries and speedboats",
+        "text": "Connect [[phuket|Phuket]], [[krabi-railay|Krabi]] and [[koh-samui-koh-phangan|Koh Samui]] to their surrounding islands, with frequent daily departures in high season.",
+        "detail": "Book through a reputable operator, as inter-island ferry schedules can be reduced in the rainy season."
+      },
+      {
+        "mode": "Tuk-tuks and songthaews",
+        "text": "Useful for short hops within [[bangkok|Bangkok]], [[chiang-mai|Chiang Mai]] and other cities, alongside ride-hailing apps for metered fairness.",
+        "detail": "Agree a tuk-tuk fare before getting in, or use a ride-hailing app for a fixed, metered price instead."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Thailand",
+    "intro": "Bangkok and the ancient north first, then flying south to the islands. Covers six of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Bangkok",
+        "morning": "Land and transfer into the city.",
+        "afternoon": "A first walk around the Old City.",
+        "evening": "Dinner at a street food market."
+      },
+      {
+        "day": 2,
+        "title": "Bangkok's grand temples",
+        "morning": "The Grand Palace and Wat Phra Kaew, arriving early.",
+        "afternoon": "Wat Pho and a river crossing to Wat Arun.",
+        "evening": "A rooftop bar over the Chao Phraya River."
+      },
+      {
+        "day": 3,
+        "title": "Markets and neighbourhoods",
+        "morning": "Chatuchak Weekend Market, if timed for a weekend.",
+        "afternoon": "Chinatown's Yaowarat Road.",
+        "evening": "Street food along Yaowarat after dark."
+      },
+      {
+        "day": 4,
+        "title": "Day trip to Ayutthaya",
+        "morning": "Train or drive to Ayutthaya.",
+        "afternoon": "The temple ruins of the ancient capital.",
+        "evening": "Return to Bangkok, or overnight in Ayutthaya."
+      },
+      {
+        "day": 5,
+        "title": "Overnight train to Chiang Mai",
+        "morning": "Free morning in Bangkok or Ayutthaya.",
+        "afternoon": "Board the overnight sleeper train north.",
+        "evening": "Dinner on board or at the station."
+      },
+      {
+        "day": 6,
+        "title": "Chiang Mai's old city",
+        "morning": "Arrive and explore the moated old city's temples.",
+        "afternoon": "Wat Phra That Doi Suthep on the mountain above town.",
+        "evening": "A Sunday Walking Street market, if timed right."
+      },
+      {
+        "day": 7,
+        "title": "Chiang Mai's countryside",
+        "morning": "An ethical elephant sanctuary visit.",
+        "afternoon": "A traditional Thai cooking class.",
+        "evening": "Dinner in the Nimman neighbourhood."
+      },
+      {
+        "day": 8,
+        "title": "Fly south to Krabi",
+        "morning": "Fly from Chiang Mai to Krabi via Bangkok.",
+        "afternoon": "Arrive and settle into Ao Nang or Railay.",
+        "evening": "Sunset over the karst-lined bay."
+      },
+      {
+        "day": 9,
+        "title": "Railay's beaches and climbing",
+        "morning": "A longtail boat to Railay Beach.",
+        "afternoon": "Rock climbing or a viewpoint hike to the lagoon.",
+        "evening": "Dinner on the beach."
+      },
+      {
+        "day": 10,
+        "title": "Island-hopping around Krabi",
+        "morning": "A boat trip to the Phi Phi Islands or Phang Nga Bay.",
+        "afternoon": "Snorkelling among the limestone karsts.",
+        "evening": "A final Krabi dinner."
+      },
+      {
+        "day": 11,
+        "title": "To Koh Samui",
+        "morning": "Fly to Koh Samui via Bangkok.",
+        "afternoon": "Settle in and explore Chaweng or Lamai beach.",
+        "evening": "Dinner by the beach."
+      },
+      {
+        "day": 12,
+        "title": "Koh Samui's coast",
+        "morning": "A boat trip to Ang Thong Marine Park.",
+        "afternoon": "Free time or a Big Buddha temple visit.",
+        "evening": "A final Koh Samui dinner."
+      },
+      {
+        "day": 13,
+        "title": "Return to Bangkok",
+        "morning": "Fly back to Bangkok.",
+        "afternoon": "Last-minute shopping.",
+        "evening": "A final Bangkok dinner."
+      },
+      {
+        "day": 14,
+        "title": "Depart",
+        "morning": "Transfer to the airport.",
+        "afternoon": "Fly home.",
+        "evening": "Fly home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Thai culture is shaped genuinely deeply by Buddhism and the monarchy, both treated with a level of respect visitors are expected to match, alongside a warmth and light-heartedness — sanuk — that runs through daily life.",
+    "etiquette": [
+      {
+        "title": "The monarchy is treated with genuine, serious respect",
+        "text": "Thailand has strict lèse-majesté laws, and visitors should avoid any critical remarks about the royal family, in person or online."
+      },
+      {
+        "title": "The head is sacred, the feet are lowly",
+        "text": "Avoid touching anyone's head, even a child's, and avoid pointing your feet at people, Buddha images or temple altars."
+      },
+      {
+        "title": "Remove shoes before entering homes and temples",
+        "text": "A genuinely universal expectation — look for a pile of shoes at the entrance as your cue if unsure."
+      },
+      {
+        "title": "The wai greeting carries real meaning",
+        "text": "A slight bow with palms pressed together is Thailand's traditional greeting — visitors aren't obligated to initiate it, but returning one is polite."
+      },
+      {
+        "title": "Losing your temper causes you to lose face, not win the argument",
+        "text": "Public anger is genuinely seen as poor form in Thai culture — a calm, smiling approach resolves disputes considerably better than raised voices."
+      },
+      {
+        "title": "Sanuk shapes how things get done",
+        "text": "The idea that things should have an element of fun, even work, runs through Thai culture — a stiff, all-business approach often lands less well than a warm, easygoing one."
+      }
+    ],
+    "dos": [
+      "Dress modestly for temples — shoulders and knees covered, shoes removed at the entrance",
+      "Remove your shoes before entering someone's home",
+      "Return a wai greeting if one is offered to you",
+      "Speak respectfully about the royal family and avoid the topic if in doubt",
+      "Bargain cheerfully at markets — it's expected and part of the interaction",
+      "Carry cash for street food, markets and rural areas"
+    ],
+    "donts": [
+      "Don't touch anyone's head, even in a friendly gesture",
+      "Don't point your feet at people, Buddha images or temple altars",
+      "Don't raise your voice or lose your temper in a dispute — it backfires",
+      "Don't make any critical remark about the Thai monarchy, in person or online",
+      "Don't climb on Buddha statues or treat them as a photo prop",
+      "Don't assume every vendor or driver takes cards — many remain cash-only"
+    ]
+  },
+  "tipsIntro": "The things that most often go wrong on a Thailand trip, in rough order of how much they cost people.",
+  "tips": [
+    "Agree a tuk-tuk or taxi fare before getting in, or use a ride-hailing app for a fixed, metered price instead.",
+    "Dress modestly for temples — cover shoulders and knees, or you may be turned away or asked to rent a wrap.",
+    "Book domestic flights and overnight train sleepers a few days ahead in peak season, when popular routes sell out.",
+    "Carry cash — street food, markets, songthaews and rural areas remain genuinely cash-based.",
+    "Be wary of anyone approaching you about a 'closed' temple or a special gem deal — both are common tourist-area scams.",
+    "Wear a helmet and check your travel insurance covers scooter accidents before renting one on the islands.",
+    "Pack for real heat and humidity most of the year, and plan around the midday sun for sightseeing.",
+    "Book Phuket and Koh Samui accommodation well ahead for the cool-season peak from December to February."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Thailand?",
+      "a": "Ten to fourteen for a first trip. Eight to ten covers Bangkok and either the north or a single island with reasonable pacing; twelve to sixteen lets you add both Chiang Mai and the southern islands, which is the itinerary on this page. Four or five days is enough for Bangkok alone, and Bangkok alone genuinely justifies a trip."
+    },
+    {
+      "q": "What is the best time of year to visit Thailand?",
+      "a": "November to February is the sweet spot — warm, dry weather nationwide and the most comfortable conditions in the north. March to May stays dry but genuinely hotter, and the rainy season from June to October brings short, heavy afternoon showers rather than all-day rain."
+    },
+    {
+      "q": "Do I need to fly between regions in Thailand?",
+      "a": "Not strictly, but it helps. Budget flights connect Bangkok to Chiang Mai, Phuket and Koh Samui in one to two hours, considerably faster than the bus or train alternative, though overnight trains and buses remain a genuinely comfortable, affordable option if you have the time."
+    },
+    {
+      "q": "Is Thailand expensive?",
+      "a": "Mid-range travel runs about ฿2,500–4,500 per person per day, with Phuket and Koh Samui adding a genuine premium over that figure. Eating at street stalls rather than tourist restaurants and booking domestic flights ahead are the biggest levers on cost."
+    },
+    {
+      "q": "Is Thailand safe for tourists?",
+      "a": "Very. Violent crime against visitors is rare, and most areas are safe to walk in the evening. The practical risks are overcharging, scooter accidents and tourist-area scams around 'closed' temples or gem shops, manageable with ordinary skepticism of unsolicited offers."
+    },
+    {
+      "q": "Should I visit Bangkok, Chiang Mai or the islands first?",
+      "a": "Bangkok, for almost everyone — it's the main international gateway, has the country's best food scene, and Ayutthaya is an easy day trip from there. Chiang Mai and the southern islands both work well as the second stop, depending on whether culture or beaches matter more to you."
+    }
+  ]
+}
