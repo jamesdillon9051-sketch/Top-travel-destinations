@@ -1,0 +1,299 @@
+{
+  "slug": "innsbruck",
+  "name": "Innsbruck",
+  "country": "austria",
+  "region": "Tyrol",
+  "categories": ["historic", "mountains", "cultural", "scenic"],
+  "tagline": "A capital wedged so tightly between the Alps that the mountains are visible from the end of nearly every street in its medieval old town.",
+  "highlight": "The view down Maria-Theresien-Strasse toward the snow-capped Nordkette range, the old town's baroque facades framed directly by the mountains behind them.",
+  "shortDescription": "Tyrol's capital, its medieval old town wedged so tightly between the Alps that the mountains dominate the view from nearly every street.",
+  "metaDescription": "An Innsbruck travel guide: the Golden Roof, the Nordkette cable car, when to go and a practical two-day itinerary.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Innsbruck Airport (INN)",
+  "knownFor": "The Golden Roof, the Nordkette mountains, Olympic history",
+  "budget": "€90–160 per day, mid-range",
+  "goodFor": "Mountains, history, skiing and hiking access",
+  "coords": { "lat": 47.2692, "lng": 11.4041 },
+  "image": {
+    "file": "File:Innsbruck Panorama Nordkette 3.jpg",
+    "alt": "Innsbruck's old town with the snow-capped Nordkette mountains rising directly behind it"
+  },
+  "intro": [
+    "Innsbruck sits in a narrow Alpine valley so tight that the Nordkette range rises almost directly from the edge of the old town, giving the city a mountain backdrop considerably more dramatic than nearly anywhere else in Austria.",
+    "That setting made Innsbruck a natural choice to host the Winter Olympics twice, in 1964 and 1976, and the city's genuine sporting heritage sits alongside a well-preserved medieval old town centred on the Golden Roof, a gilded balcony built for a 15th-century emperor.",
+    "The combination of serious mountain access, genuine imperial-era history and a noticeably relaxed, outdoorsy pace compared to Vienna's grandeur has made Innsbruck a natural base for both winter skiing and summer hiking in the Tyrolean Alps."
+  ],
+  "whyVisit": {
+    "intro": "Innsbruck's case is that no other Austrian city sits this directly against the Alps while still holding a genuinely significant historic old town.",
+    "points": [
+      {
+        "title": "The mountain backdrop is genuinely dramatic",
+        "text": "The Nordkette range rises almost directly from the old town's edge, visible from nearly every street."
+      },
+      {
+        "title": "The Golden Roof is genuinely a striking centrepiece",
+        "text": "A gilded balcony built for Emperor Maximilian I, still the old town's defining landmark."
+      },
+      {
+        "title": "It's genuinely one of the best Alpine access points in Austria",
+        "text": "A cable car reaches serious hiking and skiing terrain directly from the city centre."
+      },
+      {
+        "title": "The Olympic heritage is genuinely still visible",
+        "text": "Ski jumps and venues from the 1964 and 1976 Winter Games remain active landmarks."
+      },
+      {
+        "title": "It works well for both winter and summer visits",
+        "text": "Skiing in winter, hiking and mountain scenery in summer, genuinely year-round appeal."
+      }
+    ]
+  },
+  "attractionsIntro": "Innsbruck's essential sights, spanning the medieval old town and the mountains directly above it.",
+  "attractions": [
+    {
+      "name": "The Golden Roof (Goldenes Dachl)",
+      "text": "A late-Gothic balcony covered in 2,657 gilded copper tiles, built for Emperor Maximilian I, genuinely the old town's most photographed landmark.",
+      "tip": "The adjoining museum offers genuinely worthwhile context on the balcony's history and the emperor who commissioned it."
+    },
+    {
+      "name": "The Nordkette cable car",
+      "image": {
+        "file": "File:Cable car at Hafelekar station, Innsbruck.jpg",
+        "alt": "The Nordkette cable car station above Innsbruck, with mountain views"
+      },
+      "text": "A genuinely striking cable car, designed by Zaha Hadid, rising from the city centre directly into serious Alpine terrain in under 20 minutes.",
+      "tip": "Ride to the top station, Hafelekar, for genuinely sweeping views over the entire Inn Valley."
+    },
+    {
+      "name": "Innsbruck Cathedral",
+      "text": "A baroque cathedral in the old town, its ornate ceiling frescoes genuinely worth stepping inside for beyond the exterior.",
+      "tip": "A short, easy stop to combine with the nearby Golden Roof and Hofburg."
+    },
+    {
+      "name": "The Hofburg Innsbruck",
+      "text": "A former imperial palace, considerably smaller than Vienna's Hofburg but genuinely elegant, with rococo state rooms open to visitors.",
+      "tip": "The Giant's Hall, with its ceiling frescoes and imperial portraits, is genuinely the highlight of the interior."
+    },
+    {
+      "name": "Bergisel Ski Jump",
+      "text": "A striking modern ski jump tower, designed by Zaha Hadid, still an active Olympic and World Cup venue with a viewing platform and café at the top.",
+      "tip": "The view from the top platform genuinely rivals the Nordkette cable car for sweeping city and mountain panoramas."
+    },
+    {
+      "name": "Swarovski Crystal Worlds",
+      "text": "A genuinely surreal museum and art installation built into a hillside near Innsbruck, home to a giant crystal-eyed grass giant and immersive crystal chambers.",
+      "tip": "A short train or bus ride from the city centre, genuinely worth the half-day trip for something completely different from the old town."
+    }
+  ],
+  "thingsToDoIntro": "Beyond the old town's sights, Innsbruck rewards its immediate access to genuine Alpine hiking and skiing.",
+  "thingsToDo": [
+    {
+      "title": "Hike in the Nordkette range",
+      "text": "The cable car's genuinely quick access to serious Alpine terrain makes a mountain hike possible even on a short city visit.",
+      "tip": "Several trails from the Hafelekar top station suit varying fitness levels — check current conditions before setting out."
+    },
+    {
+      "title": "Ski or snowboard nearby",
+      "text": "Innsbruck's surrounding ski areas, part of the same region that hosted two Winter Olympics, offer genuinely serious terrain within a short transfer of the city.",
+      "tip": "The Innsbruck Card in winter genuinely covers several regional ski areas alongside city attractions and transit."
+    },
+    {
+      "title": "Walk along the Inn River",
+      "text": "The river running through the city offers genuinely pleasant walking paths with mountain views on both sides.",
+      "tip": "The colourful facades along Mariahilf, across the river from the old town, make a genuinely good photo stop."
+    },
+    {
+      "title": "Visit the Tyrolean Folk Art Museum",
+      "text": "A genuinely well-curated museum covering traditional Tyrolean culture, costumes and craftsmanship, a worthwhile complement to the imperial sights.",
+      "tip": "Housed in a former convent building genuinely worth seeing in its own right, adjacent to the Hofburg."
+    },
+    {
+      "title": "Take a day trip into the wider Tyrolean Alps",
+      "text": "Innsbruck's position makes it a genuinely convenient base for reaching Kitzbühel, Seefeld or other Tyrolean mountain towns.",
+      "tip": "Regional trains and buses reach most nearby mountain towns within an hour or so."
+    }
+  ],
+  "foodIntro": "Innsbruck's food scene blends standard Austrian dishes with genuinely hearty Tyrolean mountain specialties.",
+  "foods": [
+    {
+      "name": "Tiroler Gröstl",
+      "text": "A genuinely hearty pan-fried dish of potatoes, onions and leftover roast meat, topped with a fried egg, a classic Tyrolean comfort food.",
+      "whereToTry": "Traditional gasthauses throughout the old town, particularly welcome after a day in the mountains."
+    },
+    {
+      "name": "Tiroler Speck",
+      "text": "A genuinely distinctive dry-cured, lightly smoked ham from the Tyrol region, protected by EU geographic indication status.",
+      "whereToTry": "Local delis and traditional restaurants, often served simply with bread as a starter."
+    },
+    {
+      "name": "Kasspatzln",
+      "text": "Tyrolean cheese spätzle, a genuinely rich dish of soft egg noodles baked with mountain cheese and topped with crispy fried onions.",
+      "whereToTry": "Traditional Tyrolean restaurants throughout the old town."
+    },
+    {
+      "name": "Wiener schnitzel",
+      "image": {
+        "file": "File:Wiener Schnitzel at restaurant Kärtner-Eck.jpg",
+        "alt": "A Wiener schnitzel with parsley potatoes"
+      },
+      "text": "Widely available across the city as elsewhere in Austria, genuinely good from Innsbruck's traditional restaurants.",
+      "whereToTry": "Gasthauses throughout the old town."
+    },
+    {
+      "name": "Kaiserschmarrn",
+      "text": "A shredded, caramelised pancake with fruit compote, genuinely satisfying after a day of hiking or skiing.",
+      "whereToTry": "Mountain huts around the Nordkette and traditional restaurants in the city."
+    }
+  ],
+  "accommodation": {
+    "intro": "Innsbruck's old town and the area near the main train station both work well as a genuinely convenient base.",
+    "areas": [
+      {
+        "name": "Altstadt (old town)",
+        "bestFor": "Walking to the Golden Roof and main sights",
+        "text": "The most central, historic base, putting the major landmarks within easy walking distance."
+      },
+      {
+        "name": "Near the Hauptbahnhof (main station)",
+        "bestFor": "Transit connections and value",
+        "text": "A short walk from the old town, with genuinely good value accommodation and easy onward train connections."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "€28–45 per night" },
+      { "label": "Mid-range hotel", "value": "€95–170 per night" },
+      { "label": "Nordkette cable car return", "value": "€47" },
+      { "label": "Tyrolean dinner", "value": "€16–25" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Innsbruck Airport handles regional flights, with fast trains connecting to Vienna, Salzburg and Munich.",
+    "options": [
+      {
+        "mode": "Innsbruck Airport (INN)",
+        "text": "About 4km from the city centre, with limited direct international routes.",
+        "detail": "A short taxi or bus ride connects the airport to the old town."
+      },
+      {
+        "mode": "Train from Vienna or Salzburg",
+        "text": "Fast Railjet trains connect [[vienna|Vienna]] (about 4 hours) and [[salzburg|Salzburg]] (about 2 hours) to Innsbruck.",
+        "detail": "Book Sparschiene discount fares ahead for meaningfully lower prices."
+      },
+      {
+        "mode": "Train from Munich, Germany",
+        "text": "A genuinely convenient alternative gateway for many international visitors, roughly 2 hours by train.",
+        "detail": "Several visitors fly into Munich specifically to reach Innsbruck and the wider Tyrolean Alps."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Innsbruck's old town is genuinely compact and walkable, with trams and the Nordkette cable car covering the rest.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The old town's major sights all sit within a genuinely compact, walkable historic centre.",
+        "detail": "The old town is largely pedestrianised, making walking the most practical option regardless."
+      },
+      {
+        "mode": "Trams and buses",
+        "text": "Cover the wider city and connections to outlying sights like Swarovski Crystal Worlds.",
+        "detail": "An Innsbruck Card covers transit alongside museum and cable car discounts."
+      },
+      {
+        "mode": "Nordkette cable car",
+        "text": "Reaches the mountains directly from the city centre in under 20 minutes.",
+        "detail": "Runs year-round, though winter operating hours can be affected by weather conditions."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–March for skiing, June–September for hiking",
+    "summary": "Innsbruck genuinely has two distinct best seasons depending on whether mountain activity is skiing or hiking.",
+    "seasons": [
+      {
+        "season": "Winter (December–March)",
+        "rating": "best",
+        "text": "The core ski season, with genuinely serious terrain accessible directly from the city via the Nordkette cable car and nearby resorts."
+      },
+      {
+        "season": "Spring (April–May)",
+        "rating": "shoulder",
+        "text": "A genuine transition period — too late for reliable skiing, often too early for high-altitude hiking trails to fully clear."
+      },
+      {
+        "season": "Summer (June–September)",
+        "rating": "best",
+        "text": "The core hiking season, with genuinely excellent trail access and warm valley-floor temperatures."
+      },
+      {
+        "season": "Autumn (October–November)",
+        "rating": "shoulder",
+        "text": "A quieter transition period, with hiking trails still accessible at lower elevations before the first significant snow."
+      }
+    ],
+    "avoid": "April and November if a specific mountain activity matters — both fall in the genuine gap between reliable skiing and reliable hiking conditions."
+  },
+  "itinerary": {
+    "title": "Two to three days in Innsbruck",
+    "intro": "The old town first, then the mountains directly above it.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town",
+        "summary": "Innsbruck's essential historic sights.",
+        "morning": "The Golden Roof and Innsbruck Cathedral.",
+        "afternoon": "The Hofburg Innsbruck and Tyrolean Folk Art Museum.",
+        "evening": "Dinner with mountain views."
+      },
+      {
+        "day": 2,
+        "title": "The Nordkette mountains",
+        "summary": "Innsbruck's dramatic Alpine backdrop.",
+        "morning": "The Nordkette cable car to Hafelekar.",
+        "afternoon": "A hike or, in winter, skiing on the mountain.",
+        "evening": "Bergisel Ski Jump's viewing platform at sunset."
+      },
+      {
+        "day": 3,
+        "title": "Swarovski Crystal Worlds or a Tyrol day trip",
+        "summary": "An optional third day beyond the city.",
+        "morning": "Swarovski Crystal Worlds, a short trip from the city.",
+        "afternoon": "Free time or a day trip to Seefeld or Kitzbühel.",
+        "evening": "A final Innsbruck dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, timing and transport that make a real difference to an Innsbruck trip.",
+  "tips": [
+    "Check Nordkette cable car operating hours ahead in winter, since weather can affect the schedule.",
+    "Book ski accommodation well ahead for the December–March peak season.",
+    "Pack proper mountain layers regardless of season — weather changes quickly at altitude.",
+    "Use the Innsbruck Card if planning several attractions and cable car rides — it genuinely pays for itself quickly.",
+    "Consider Innsbruck as an alternative gateway via Munich rather than only flying into Vienna.",
+    "Book Swarovski Crystal Worlds tickets online ahead in peak season to skip queues."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Innsbruck?",
+      "a": "Two to three. Two covers the old town and a Nordkette cable car trip at a rushed pace; three allows Swarovski Crystal Worlds or a Tyrol day trip without feeling hurried."
+    },
+    {
+      "q": "Is Innsbruck good for skiing?",
+      "a": "Yes, genuinely — the surrounding region hosted two Winter Olympics, and several serious ski areas are accessible within a short transfer of the city centre, with the Nordkette itself reachable directly by cable car."
+    },
+    {
+      "q": "Is Innsbruck worth visiting in summer?",
+      "a": "Yes, genuinely — hiking trails accessible directly from the city via the Nordkette cable car, plus the old town's sights, make Innsbruck a genuinely year-round destination rather than only a winter one."
+    },
+    {
+      "q": "How do I get to Innsbruck?",
+      "a": "By train from Vienna or Salzburg, or via Munich, Germany, which many international visitors find a more convenient gateway given more frequent international flight connections."
+    },
+    {
+      "q": "What is the best time of year to visit?",
+      "a": "December to March for skiing, June to September for hiking — April and November fall in a genuine gap between the two, worth avoiding if a specific mountain activity is your priority."
+    }
+  ],
+  "related": ["kitzbuhel", "zell-am-see-grossglockner", "hallstatt"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

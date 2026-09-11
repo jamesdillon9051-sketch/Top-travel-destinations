@@ -1,0 +1,328 @@
+{
+  "slug": "vienna",
+  "name": "Vienna",
+  "country": "austria",
+  "region": "Vienna",
+  "categories": ["capital-city", "major-city", "historic", "cultural"],
+  "tagline": "The former seat of the Habsburg Empire, its palaces, opera houses and coffee houses still running on the same imperial grandeur that once ruled half of Europe.",
+  "highlight": "Schönbrunn Palace's gardens at golden hour, the former imperial summer residence's gravel paths stretching toward a hilltop gloriette.",
+  "shortDescription": "Austria's imperial capital, its Habsburg-era palaces, opera houses and coffee houses genuinely still central to how the city lives today.",
+  "metaDescription": "A Vienna travel guide: the Hofburg, Schönbrunn Palace, coffee house culture, when to go and a practical three-day itinerary.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Vienna International (VIE)",
+  "knownFor": "Imperial palaces, classical music, coffee houses",
+  "budget": "€90–160 per day, mid-range",
+  "goodFor": "History, culture, music, food",
+  "coords": { "lat": 48.2082, "lng": 16.3738 },
+  "image": {
+    "file": "File:Schoenbrunn Palace as seen from Neptune Fountain, September 2016.jpg",
+    "alt": "Schönbrunn Palace, the former imperial summer residence in Vienna"
+  },
+  "intro": [
+    "Vienna spent centuries as the seat of the Habsburg Empire, one of Europe's most powerful dynasties, and the imperial grandeur that legacy left behind — grand palaces, a state opera house, boulevards lined with 19th-century architecture — still defines the city's centre today.",
+    "That imperial past sits alongside a genuinely serious musical legacy: Mozart, Beethoven, Schubert and Brahms all worked in Vienna, and the city's classical music culture remains genuinely active rather than purely historical, with the Vienna Philharmonic and State Opera performing regularly rather than existing only in museums.",
+    "What consistently surprises first-time visitors is how liveable all this grandeur feels day to day — Vienna's coffee house culture, extensive parks and consistently high quality-of-life rankings make it a city genuinely built for lingering rather than just checklisting palaces."
+  ],
+  "whyVisit": {
+    "intro": "Vienna's case is that no other European capital pairs this much imperial grandeur with a genuinely still-active classical music and coffee house culture.",
+    "points": [
+      {
+        "title": "The imperial palaces are genuinely spectacular",
+        "text": "Schönbrunn and the Hofburg deliver on the reputation in a way photographs alone never quite capture."
+      },
+      {
+        "title": "The classical music scene is genuinely still active",
+        "text": "Regular performances by the Vienna Philharmonic and State Opera, not just historical plaques."
+      },
+      {
+        "title": "The coffee house culture is genuinely central to daily life",
+        "text": "A UNESCO-recognised institution where a single coffee buys hours of unhurried sitting."
+      },
+      {
+        "title": "It's genuinely one of the world's most liveable cities",
+        "text": "Extensive parks, efficient transit and a walkable centre make Vienna feel built for lingering."
+      },
+      {
+        "title": "It's the natural gateway to the rest of Austria",
+        "text": "The Wachau Valley, Salzburg and beyond are all a short, comfortable train ride from Vienna."
+      }
+    ]
+  },
+  "attractionsIntro": "Vienna's essential sights, spanning the imperial Innere Stadt and the palaces beyond it.",
+  "attractions": [
+    {
+      "name": "Schönbrunn Palace",
+      "image": {
+        "file": "File:Schoenbrunn Palace as seen from Neptune Fountain, September 2016.jpg",
+        "alt": "Schönbrunn Palace, the former imperial summer residence in Vienna"
+      },
+      "text": "The Habsburgs' former summer residence, its 1,441 rooms and sweeping baroque gardens genuinely one of Europe's grandest surviving imperial palaces.",
+      "tip": "Book timed-entry tickets online ahead in summer, and allow time for the gardens and gloriette viewpoint, not just the palace interior."
+    },
+    {
+      "name": "The Hofburg",
+      "text": "The Habsburgs' former winter residence and seat of power for over six centuries, now home to the Austrian president's office alongside several museums.",
+      "tip": "The Sisi Museum, covering the famously beloved and tragic Empress Elisabeth, is genuinely worth the extra ticket."
+    },
+    {
+      "name": "St. Stephen's Cathedral",
+      "text": "Vienna's Gothic cathedral at the city's geographic and spiritual centre, its colourfully tiled roof genuinely one of the skyline's defining features.",
+      "tip": "Climb the south tower for a genuinely sweeping view over Vienna's rooftops, though the 343 steps are a real workout."
+    },
+    {
+      "name": "The Kunsthistorisches Museum",
+      "text": "Austria's premier art museum, its collection of old masters including Bruegel, Vermeer and Titian genuinely rivalling any museum in Europe.",
+      "tip": "Allow at least two hours — the collection is genuinely vast and easy to underestimate."
+    },
+    {
+      "name": "The Belvedere Palace",
+      "text": "A baroque palace complex housing Austria's finest collection of Klimt paintings, including 'The Kiss', genuinely worth the visit for that painting alone.",
+      "tip": "Visit the Upper Belvedere for the Klimt collection and the gardens connecting to the Lower Belvedere for a genuinely complete visit."
+    },
+    {
+      "name": "The Vienna State Opera",
+      "text": "One of the world's leading opera houses, its genuinely ornate interior and world-class performances a defining part of Vienna's cultural life.",
+      "tip": "Standing-room tickets are sold only on the day and are genuinely affordable — a real Vienna institution worth queuing for."
+    },
+    {
+      "name": "Naschmarkt",
+      "text": "Vienna's largest and most famous market, a genuinely lively strip of food stalls, restaurants and a weekend flea market.",
+      "tip": "Visit on a Saturday for the adjoining flea market, a genuinely good spot for browsing antiques and curiosities."
+    }
+  ],
+  "thingsToDoIntro": "Beyond the palaces, Vienna rewards its coffee house culture, music scene and genuinely walkable neighbourhoods.",
+  "thingsToDo": [
+    {
+      "title": "Sit in a proper Viennese coffee house",
+      "image": {
+        "file": "File:Landtmann interior.jpg",
+        "alt": "The ornate interior of a traditional Viennese coffee house"
+      },
+      "text": "A genuine Vienna institution, where a single coffee buys the right to sit for hours with a newspaper and no one will rush you.",
+      "tip": "Café Central and Café Sacher are the famous ones, but a quieter neighbourhood kaffeehaus offers a genuinely more local version of the same ritual."
+    },
+    {
+      "title": "Attend a classical music performance",
+      "text": "Regular performances by the Vienna Philharmonic, State Opera and countless smaller ensembles make Vienna's musical heritage genuinely still active.",
+      "tip": "Musikverein and Konzerthaus both offer genuinely excellent, slightly less crowded alternatives to the State Opera."
+    },
+    {
+      "title": "Explore the Prater",
+      "text": "Vienna's beloved amusement park and surrounding green space, home to the historic Wiener Riesenrad Ferris wheel, offers a genuinely different, more relaxed side of the city.",
+      "tip": "Ride the Riesenrad at sunset for genuinely sweeping views over the city as the light changes."
+    },
+    {
+      "title": "Wander the Ringstrasse's grand boulevard",
+      "text": "The former city walls, replaced in the 19th century by a genuinely grand boulevard lined with museums, theatres and government buildings.",
+      "tip": "Rent a bicycle or take the tram for a full loop of the Ringstrasse to appreciate its scale properly."
+    },
+    {
+      "title": "Visit a Heuriger wine tavern",
+      "text": "Traditional wine taverns on Vienna's outskirts, particularly in Grinzing, serving the current vintage alongside simple, hearty food.",
+      "tip": "A short tram ride from the centre reaches Grinzing's Heurigen, genuinely worth the trip for an authentic evening."
+    },
+    {
+      "title": "Explore the MuseumsQuartier",
+      "text": "A genuinely vibrant cultural complex of contemporary art museums, courtyards and cafés, a modern counterpoint to Vienna's imperial sights.",
+      "tip": "The courtyard's colourful loungers make a genuinely pleasant spot to relax between museum visits."
+    }
+  ],
+  "foodIntro": "Vienna's food scene spans genuine imperial-era classics to an increasingly serious modern Austrian restaurant movement.",
+  "foods": [
+    {
+      "name": "Wiener schnitzel",
+      "image": {
+        "file": "File:Wiener Schnitzel at restaurant Kärtner-Eck.jpg",
+        "alt": "A Wiener schnitzel with parsley potatoes"
+      },
+      "text": "Vienna's namesake dish, a thin, breaded and fried veal cutlet, genuinely a point of local pride over proper preparation.",
+      "whereToTry": "Figlmüller and traditional gasthauses citywide, several serving schnitzels genuinely larger than the plate."
+    },
+    {
+      "name": "Sachertorte",
+      "image": {
+        "file": "File:Sachertorte cake at Café Sperl, Vienna (2026).jpg",
+        "alt": "A slice of Sachertorte, Austria's famous chocolate cake, with whipped cream"
+      },
+      "text": "A dense chocolate cake with a thin apricot jam layer, genuinely the subject of a decades-long dispute over the 'original' recipe.",
+      "whereToTry": "Hotel Sacher for the original, or Demel, its longtime rival, for a genuinely comparable version."
+    },
+    {
+      "name": "Tafelspitz",
+      "text": "Boiled beef with root vegetables and horseradish sauce, genuinely a Habsburg-era classic said to have been Emperor Franz Joseph's favourite dish.",
+      "whereToTry": "Plachutta, genuinely one of Vienna's most celebrated restaurants for this specific dish."
+    },
+    {
+      "name": "Naschmarkt street food",
+      "text": "The city's largest market offers a genuinely wide range of international and Austrian food stalls, from falafel to fresh strudel.",
+      "whereToTry": "The Naschmarkt itself, genuinely at its liveliest on a Saturday morning."
+    },
+    {
+      "name": "Apfelstrudel",
+      "text": "Thin pastry rolled around spiced apple filling, genuinely one of Vienna's defining desserts, best served warm.",
+      "whereToTry": "Traditional konditoreis citywide, several with genuinely decades of history."
+    },
+    {
+      "name": "Viennese coffee (Melange)",
+      "text": "A milk coffee genuinely central to Vienna's café culture, distinct from an Italian cappuccino in both preparation and pace.",
+      "whereToTry": "Any of Vienna's traditional coffee houses, a genuine daily ritual for locals."
+    }
+  ],
+  "accommodation": {
+    "intro": "Vienna's Innere Stadt and surrounding districts each offer a genuinely different base, from central grandeur to quieter local neighbourhoods.",
+    "areas": [
+      {
+        "name": "Innere Stadt (1st district)",
+        "bestFor": "Walking to the Hofburg and St. Stephen's Cathedral",
+        "text": "The most central, historic base, putting the major imperial sights within easy walking distance."
+      },
+      {
+        "name": "Neubau (7th district)",
+        "bestFor": "A trendier, more local atmosphere",
+        "text": "Home to the MuseumsQuartier, with genuinely excellent cafés and a younger, more contemporary feel."
+      },
+      {
+        "name": "Near the Naschmarkt",
+        "bestFor": "Food and a lively neighbourhood feel",
+        "text": "Close to Vienna's largest market, with a genuinely good range of restaurants and easy transit connections."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "€28–45 per night" },
+      { "label": "Mid-range hotel", "value": "€100–180 per night" },
+      { "label": "Schönbrunn Palace entry", "value": "€24–30" },
+      { "label": "Schnitzel dinner", "value": "€16–24" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Vienna International Airport connects directly to the city centre by fast train.",
+    "options": [
+      {
+        "mode": "Vienna International Airport (VIE)",
+        "text": "The City Airport Train (CAT) reaches central Vienna in about 16 minutes, a genuinely fast, reliable option.",
+        "detail": "The regular S-Bahn (S7) offers a cheaper, slightly slower alternative on the same route."
+      },
+      {
+        "mode": "Train from other Austrian cities",
+        "text": "Fast Railjet trains connect Vienna to [[salzburg|Salzburg]], [[graz|Graz]] and [[innsbruck|Innsbruck]] efficiently.",
+        "detail": "Book Sparschiene discount fares ahead for meaningfully lower prices."
+      },
+      {
+        "mode": "Regional train to the Wachau Valley",
+        "text": "Reaches [[wachau-valley|the Wachau Valley]]'s wine villages in under an hour from Vienna.",
+        "detail": "A combined train-and-boat ticket is available for a genuinely scenic Danube river return leg."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Vienna's U-Bahn, trams and buses cover the city efficiently, with the Innere Stadt genuinely walkable on foot.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The Innere Stadt's major sights all sit within a genuinely compact, walkable historic centre.",
+        "detail": "Comfortable shoes matter for the cobblestone streets around St. Stephen's Cathedral."
+      },
+      {
+        "mode": "U-Bahn (subway)",
+        "text": "A clean, efficient five-line system covering the wider city and airport connections.",
+        "detail": "A 24, 48 or 72-hour Vienna City Card covers unlimited transit alongside museum discounts."
+      },
+      {
+        "mode": "Trams",
+        "text": "A genuinely scenic way to see the Ringstrasse's grand boulevard while getting around the city centre.",
+        "detail": "Tram route 1 or 2 circles the Ringstrasse, a good orientation ride on arrival."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October, for mild weather and manageable crowds",
+    "summary": "Vienna is genuinely pleasant nearly year-round, with spring and autumn offering the best balance of weather and crowds.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Mild, increasingly warm weather, ideal for walking the Innere Stadt and Schönbrunn's gardens."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Warm and reliable, though genuinely busier with tourists and occasionally quite hot."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Comfortable temperatures and thinning crowds, a genuinely excellent window for sightseeing."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Cold but genuinely magical for Vienna's Christmas markets, particularly around the palaces."
+      }
+    ],
+    "avoid": "Nothing strongly — Vienna handles all seasons well, though August can bring both heat and the year's biggest tourist crowds at major sights."
+  },
+  "itinerary": {
+    "title": "Three days in Vienna",
+    "intro": "The imperial palaces first, then Vienna's museums, music and coffee house culture at a genuinely unhurried pace.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Imperial Vienna",
+        "summary": "Vienna's essential palaces and cathedral.",
+        "morning": "Schönbrunn Palace, arriving at opening time.",
+        "afternoon": "The Hofburg and St. Stephen's Cathedral.",
+        "evening": "A concert or the Vienna State Opera."
+      },
+      {
+        "day": 2,
+        "title": "Museums and coffee houses",
+        "summary": "Vienna's art collections and café culture.",
+        "morning": "The Kunsthistorisches Museum or the Belvedere.",
+        "afternoon": "A proper Viennese coffee house.",
+        "evening": "Dinner in the Naschmarkt neighbourhood."
+      },
+      {
+        "day": 3,
+        "title": "Neighbourhoods and local life",
+        "summary": "A more relaxed, local side of the city.",
+        "morning": "The MuseumsQuartier and Neubau district.",
+        "afternoon": "The Prater and its historic Ferris wheel.",
+        "evening": "A Heuriger wine tavern in Grinzing."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, timing and transport that make a real difference to a Vienna trip.",
+  "tips": [
+    "Book Schönbrunn Palace tickets online ahead in summer, when queues can be genuinely long.",
+    "Get State Opera standing-room tickets on the day — advance booking isn't possible for these.",
+    "Use the U-Bahn and trams rather than taxis for most city journeys — it's genuinely faster and cheaper.",
+    "Carry some cash for smaller cafés and market stalls, though most restaurants take cards.",
+    "Book Sparschiene discount train fares ahead for onward travel to Salzburg or Graz.",
+    "Dress reasonably smart for a Heuriger wine tavern visit or a concert — Vienna leans slightly formal.",
+    "Plan around Sunday closures for shopping — most stores shut nationwide."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Vienna?",
+      "a": "Three to four. Two covers Schönbrunn and the Innere Stadt's main sights at a rushed pace; four allows the Belvedere, a concert and genuine neighbourhood time without feeling hurried."
+    },
+    {
+      "q": "Is Vienna a good base for exploring Austria?",
+      "a": "Yes, genuinely — the airport and main rail stations connect easily to the Wachau Valley, Salzburg and beyond, making Vienna the natural start or end point for a wider Austria trip."
+    },
+    {
+      "q": "Is Vienna safe for tourists?",
+      "a": "Yes, very — violent crime against visitors is rare. Standard vigilance around bags on public transport is the main practical precaution."
+    },
+    {
+      "q": "What is the best time of year to visit?",
+      "a": "April to June and September to October offer the most comfortable weather for sightseeing. Winter is genuinely magical for the Christmas markets, and even summer's heat is manageable with a well-paced itinerary."
+    },
+    {
+      "q": "Is Vienna expensive?",
+      "a": "Mid-range travel runs about €110–180 per person per day, on the higher end of Austria's national average given Vienna's capital-city premium. Coffee houses and traditional gasthauses over touristy restaurants keep costs reasonable."
+    }
+  ],
+  "related": ["wachau-valley", "salzburg", "eisenstadt-neusiedler-see"],
+  "relatedArticles": ["europe-by-train", "first-trip-to-europe"]
+}

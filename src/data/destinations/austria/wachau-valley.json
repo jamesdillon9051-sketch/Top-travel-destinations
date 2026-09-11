@@ -1,0 +1,294 @@
+{
+  "slug": "wachau-valley",
+  "name": "Wachau Valley",
+  "country": "austria",
+  "region": "Lower Austria",
+  "categories": ["scenic", "unesco", "food-and-wine", "off-the-beaten-path"],
+  "tagline": "A UNESCO-listed stretch of the Danube where terraced vineyards, ruined castles and apricot orchards line the river between Vienna and Linz.",
+  "highlight": "The view from Dürnstein's castle ruins over the Danube, terraced vineyards curving with the river below and the village's blue-domed church spire in the foreground.",
+  "shortDescription": "A UNESCO-listed Danube valley of terraced vineyards, castle ruins and riverside wine villages, genuinely worth more than a passing glance from a train window.",
+  "metaDescription": "A Wachau Valley travel guide: Dürnstein, Melk Abbey, wine tasting, when to go and a practical one-day itinerary.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Vienna (VIE), about 1 hour away",
+  "knownFor": "Danube vineyards, Dürnstein, Melk Abbey, Grüner Veltliner wine",
+  "budget": "€90–160 per day, mid-range",
+  "goodFor": "Wine, scenery, a genuine Vienna day trip or overnight",
+  "coords": { "lat": 48.3833, "lng": 15.5167 },
+  "image": {
+    "file": "File:Spitz Hofarnsdorf Donau downstream-3191.jpg",
+    "alt": "Vineyard terraces above the Danube in Austria's Wachau Valley"
+  },
+  "intro": [
+    "The Wachau Valley is a roughly 35-kilometre stretch of the Danube between Melk and Krems, its steep terraced vineyards, ruined hilltop castles and apricot orchards recognised as a UNESCO World Heritage cultural landscape since 2000.",
+    "The valley's wine has been made here since Roman times, and its Grüner Veltliner and Riesling, grown on genuinely dramatic terraced slopes above the river, rank among Austria's best while remaining relatively unexported and unknown outside the country.",
+    "That combination of serious wine, genuine medieval history — Dürnstein's ruined castle is where Richard the Lionheart was famously imprisoned — and easy proximity to Vienna makes the Wachau one of the most rewarding half-day or overnight additions to an Austria itinerary."
+  ],
+  "whyVisit": {
+    "intro": "The Wachau Valley's case is that it delivers genuinely excellent wine and dramatic river scenery within easy reach of Vienna.",
+    "points": [
+      {
+        "title": "The vineyard scenery is genuinely dramatic",
+        "text": "Steep terraced slopes above the Danube, recognised as a UNESCO cultural landscape for real reasons."
+      },
+      {
+        "title": "The wine is genuinely excellent and underrated",
+        "text": "Grüner Veltliner and Riesling from steep river-terrace vineyards, rarely exported and worth tasting on-site."
+      },
+      {
+        "title": "The history is genuinely significant",
+        "text": "Dürnstein's ruined castle held Richard the Lionheart captive; Melk Abbey is one of Europe's grandest baroque monasteries."
+      },
+      {
+        "title": "It's genuinely easy to reach from Vienna",
+        "text": "Under an hour by train, making a full, worthwhile day trip without extending an itinerary much."
+      },
+      {
+        "title": "A Danube boat or cycle trip is genuinely relaxing",
+        "text": "A gentle, scenic way to see several wine villages without driving between them."
+      }
+    ]
+  },
+  "attractionsIntro": "The Wachau's essential sights, spread along the Danube between Krems and Melk.",
+  "attractions": [
+    {
+      "name": "Dürnstein and its castle ruins",
+      "image": {
+        "file": "File:Wachau Durnstein Panorama.jpg",
+        "alt": "The ruined castle above Dürnstein overlooking the Danube in the Wachau Valley"
+      },
+      "text": "A genuinely picture-perfect blue-domed village beneath the ruins of a castle where Richard the Lionheart was famously held captive in 1192.",
+      "tip": "The climb up to the castle ruins is genuinely steep but short, rewarded with sweeping views over the river valley."
+    },
+    {
+      "name": "Melk Abbey",
+      "image": {
+        "file": "File:2019-05-19 (356) Melk Abbey in Melk, Austria.jpg",
+        "alt": "Melk Abbey overlooking the Danube in Austria's Wachau Valley"
+      },
+      "text": "A genuinely monumental baroque Benedictine monastery perched above the river, its library and ornate church among Austria's grandest religious buildings.",
+      "tip": "Book a guided tour for access to the genuinely spectacular library, not always included in the basic self-guided ticket."
+    },
+    {
+      "name": "Krems an der Donau",
+      "text": "The valley's largest town, its well-preserved medieval old town genuinely worth a wander beyond just a wine-tasting stop.",
+      "tip": "Krems makes a genuinely convenient base for exploring the valley without needing to change accommodation."
+    },
+    {
+      "name": "Spitz",
+      "text": "A genuinely charming wine village surrounded by terraced vineyards, with the hilltop 'Thousand-Bucket Hill' (Tausendeimerberg) vineyard visible above it.",
+      "tip": "A short, worthwhile hike climbs to the vineyard terraces above the village for genuinely sweeping valley views."
+    },
+    {
+      "name": "Weissenkirchen",
+      "text": "A small, genuinely picturesque wine village with a fortified church, considerably quieter than Dürnstein's more famous streets.",
+      "tip": "A good stop for wine tasting with a genuinely more local, less touristy atmosphere than Dürnstein."
+    }
+  ],
+  "thingsToDoIntro": "Beyond the castles and abbey, the Wachau rewards wine tasting and travelling the valley itself at a relaxed pace.",
+  "thingsToDo": [
+    {
+      "title": "Taste Wachau wine at a local winery",
+      "text": "The valley's steep terraced vineyards produce genuinely excellent Grüner Veltliner and Riesling, best tasted directly at family-run wineries.",
+      "tip": "Many wineries offer tastings without advance booking, but calling ahead ensures a genuinely unhurried, personal visit."
+    },
+    {
+      "title": "Take a Danube river cruise",
+      "text": "A genuinely relaxed way to see the valley's villages and vineyard terraces from the water, connecting Krems, Dürnstein and Melk.",
+      "tip": "A one-way cruise combined with a return train is a genuinely good way to see the valley without backtracking."
+    },
+    {
+      "title": "Cycle the Danube cycle path",
+      "text": "One of Europe's best-maintained long-distance cycle routes runs directly through the Wachau, genuinely flat and well signed along the river.",
+      "tip": "Bicycle rental is widely available in Krems, with several operators offering one-way rentals to Melk."
+    },
+    {
+      "title": "Visit during apricot season",
+      "text": "The Wachau is genuinely known for its apricots (Marillen), celebrated in local products from jam to schnapps, with blossoms in April and harvest in July.",
+      "tip": "Look for Wachauer Marille products specifically — the valley's apricots carry a protected geographic status for real quality reasons."
+    },
+    {
+      "title": "Hike among the vineyard terraces",
+      "text": "Trails above villages like Spitz and Weissenkirchen offer genuinely rewarding views over the terraced slopes and the river below.",
+      "tip": "The Welterbesteig (World Heritage Trail) links several valley villages via genuinely well-marked hiking paths."
+    }
+  ],
+  "foodIntro": "The Wachau's food centres on its own wine and apricots, alongside standard Austrian dishes served in riverside settings.",
+  "foods": [
+    {
+      "name": "Grüner Veltliner",
+      "image": {
+        "file": "File:Spitz Hofarnsdorf Donau downstream-3191.jpg",
+        "alt": "Vineyard terraces above the Danube in Austria's Wachau Valley"
+      },
+      "text": "Austria's signature white grape, genuinely excellent from the Wachau's steep river terraces, with a distinctive peppery, mineral character.",
+      "whereToTry": "Family-run wineries throughout Dürnstein, Spitz and Weissenkirchen."
+    },
+    {
+      "name": "Wachauer Marille (apricots)",
+      "text": "The valley's protected-status apricots, genuinely central to local food culture, used in jam, schnapps, dumplings and pastries.",
+      "whereToTry": "Local farm shops and markets throughout the valley, especially in July harvest season."
+    },
+    {
+      "name": "Marillenknödel",
+      "text": "Sweet apricot dumplings, a genuinely beloved Austrian dessert made specifically with the Wachau's own apricots when in season.",
+      "whereToTry": "Traditional restaurants throughout the valley, particularly in summer."
+    },
+    {
+      "name": "Wiener schnitzel",
+      "image": {
+        "file": "File:Wiener Schnitzel at restaurant Kärtner-Eck.jpg",
+        "alt": "A Wiener schnitzel with parsley potatoes"
+      },
+      "text": "Widely available across the valley as elsewhere in Austria, genuinely good from riverside restaurants.",
+      "whereToTry": "Traditional gasthauses in Krems, Dürnstein and Melk."
+    },
+    {
+      "name": "Riesling",
+      "text": "The Wachau's other genuinely excellent white grape, producing wines with real minerality from the valley's steep, rocky terraces.",
+      "whereToTry": "Wineries throughout the valley, particularly around Spitz's famous vineyard slopes."
+    }
+  ],
+  "accommodation": {
+    "intro": "The Wachau works well as a Vienna day trip, or an overnight stay in one of its riverside towns for a more relaxed pace.",
+    "areas": [
+      {
+        "name": "Krems an der Donau",
+        "bestFor": "A base with the most restaurants and services",
+        "text": "The valley's largest town, genuinely convenient as a base for exploring the rest of the Wachau."
+      },
+      {
+        "name": "Dürnstein",
+        "bestFor": "The most picturesque overnight stay",
+        "text": "Genuinely limited but atmospheric accommodation directly beneath the castle ruins."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse room", "value": "€75–130 per night" },
+      { "label": "Boutique riverside hotel", "value": "€150–280 per night" },
+      { "label": "Melk Abbey entry (guided)", "value": "€16" },
+      { "label": "Winery tasting", "value": "€15–30" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Wachau Valley is an easy train, boat or car trip from Vienna, making it Austria's most accessible wine-region day trip.",
+    "options": [
+      {
+        "mode": "Train from Vienna",
+        "text": "Regional trains from [[vienna|Vienna]] reach Krems in under an hour, with connections along the valley to Dürnstein and Melk.",
+        "detail": "A combined train-and-boat ticket lets you take the scenic river route back."
+      },
+      {
+        "mode": "Danube river cruise",
+        "text": "A genuinely scenic way to reach the valley, with boats departing from Vienna's Danube ports at certain times of year.",
+        "detail": "River cruise schedules are seasonal — check current timetables before planning a boat-only visit."
+      },
+      {
+        "mode": "Rental car",
+        "text": "The most flexible way to visit several villages and wineries in one day at your own pace.",
+        "detail": "Parking is genuinely available in each village, though central Dürnstein's spaces are limited in peak season."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The valley's villages are connected by train, boat and a well-maintained cycle path along the Danube.",
+    "options": [
+      {
+        "mode": "Regional train",
+        "text": "Connects Krems, Spitz, Weissenkirchen, Dürnstein and Melk along the valley reliably.",
+        "detail": "Trains run regularly through the day, making village-hopping genuinely straightforward."
+      },
+      {
+        "mode": "Danube cycle path",
+        "text": "A flat, well-signed route connecting the valley's villages, genuinely one of Europe's best-maintained long-distance cycle paths.",
+        "detail": "Bicycle rental with one-way options is widely available in Krems."
+      },
+      {
+        "mode": "River boat",
+        "text": "Seasonal boats connect several valley villages along the Danube itself.",
+        "detail": "A genuinely relaxed way to see the vineyard terraces from the water, weather and schedule permitting."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–May and September–October, for blossoms and harvest",
+    "summary": "The Wachau has two genuinely distinct highlight seasons — spring apricot blossoms and autumn's wine and apricot harvest.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Apricot blossoms across the valley and vineyards beginning to green, a genuinely beautiful, less crowded window."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Warm weather good for cycling and boat trips, with apricot harvest in July, though genuinely busier with visitors."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The wine harvest in full swing, with genuinely excellent light for photographing the terraced vineyards."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "shoulder",
+        "text": "Quiet and cold, with many wineries and restaurants operating reduced hours outside the main season."
+      }
+    ],
+    "avoid": "Winter if wine tasting or river boat trips are your priority — many smaller producers and boat services genuinely reduce or pause operations outside the main season."
+  },
+  "itinerary": {
+    "title": "One to two days in the Wachau Valley",
+    "intro": "Dürnstein and Melk's essential sights first, then a slower village-and-wine pace if staying overnight.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Dürnstein and Melk",
+        "summary": "The valley's essential sights.",
+        "morning": "Train to Dürnstein and the castle ruins climb.",
+        "afternoon": "Melk Abbey.",
+        "evening": "Return to Vienna, or overnight in Krems."
+      },
+      {
+        "day": 2,
+        "title": "Wine villages and the vineyards",
+        "summary": "An optional second day for a slower valley pace.",
+        "morning": "Cycle or drive between Spitz and Weissenkirchen.",
+        "afternoon": "A winery tasting.",
+        "evening": "Return to [[vienna|Vienna]] or onward."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, timing and transport that make a real difference to a Wachau Valley trip.",
+  "tips": [
+    "Book Melk Abbey's guided tour ahead in peak season for access to the full library experience.",
+    "Combine train and boat for a genuinely scenic round trip rather than backtracking the same way.",
+    "Visit in April for apricot blossoms or September-October for the wine and apricot harvest.",
+    "Call ahead to smaller wineries for tastings if visiting outside peak summer season.",
+    "Rent a bicycle in Krems for a genuinely flexible, scenic way to see several villages in one day.",
+    "Book Dürnstein accommodation well ahead if you want to stay in the valley's most picturesque village."
+  ],
+  "faq": [
+    {
+      "q": "Is the Wachau Valley worth a day trip from Vienna?",
+      "a": "Yes, genuinely — it's under an hour away by train and offers UNESCO-listed vineyard scenery, genuine medieval history and excellent wine tasting considerably different from Vienna's imperial sights."
+    },
+    {
+      "q": "Should I stay overnight in the Wachau?",
+      "a": "Worth considering if wine tasting and a relaxed pace matter to you — a day trip covers Dürnstein and Melk Abbey well, but an overnight stay allows unhurried winery visits and cycling between villages."
+    },
+    {
+      "q": "How do I get around the Wachau Valley?",
+      "a": "By regional train connecting the main villages, by rental car for maximum flexibility, or by bicycle along the well-maintained Danube cycle path — all three are genuinely practical options."
+    },
+    {
+      "q": "What is Melk Abbey?",
+      "a": "A monumental baroque Benedictine monastery overlooking the Danube at the valley's western end, genuinely one of Austria's grandest religious buildings, with an ornate library well worth the guided tour."
+    },
+    {
+      "q": "What is the best time of year to visit?",
+      "a": "April and May for apricot blossoms, or September and October for the wine and apricot harvest — both offer genuinely beautiful scenery with more manageable crowds than the summer peak."
+    }
+  ],
+  "related": ["vienna", "salzburg", "eisenstadt-neusiedler-see"],
+  "relatedArticles": ["europe-by-train", "underrated-destinations"]
+}

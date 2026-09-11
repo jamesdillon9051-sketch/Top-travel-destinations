@@ -1,0 +1,286 @@
+{
+  "slug": "kitzbuhel",
+  "name": "Kitzbühel",
+  "country": "austria",
+  "region": "Tyrol",
+  "categories": ["mountains", "historic", "scenic"],
+  "tagline": "A medieval walled town turned world-famous ski resort, home to the legendary Streif downhill run and a genuinely pretty Alpine old town beneath it.",
+  "highlight": "The view from the top of the Hahnenkamm mountain, the legendary Streif downhill course dropping away below toward the town's colourful rooftops.",
+  "shortDescription": "A medieval Tyrolean town turned world-famous ski resort, home to the legendary Hahnenkamm downhill race and a genuinely charming Alpine old town.",
+  "metaDescription": "A Kitzbühel travel guide: the old town, the Hahnenkamm, skiing and hiking, when to go and a practical two-day itinerary.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Innsbruck (INN) or Salzburg (SZG), about 1.5 hours away",
+  "knownFor": "The Hahnenkamm downhill race, the medieval old town, skiing",
+  "budget": "€110–200 per day, mid-range",
+  "goodFor": "Skiing, hiking, an Alpine resort atmosphere",
+  "coords": { "lat": 47.4467, "lng": 12.3922 },
+  "image": {
+    "file": "File:Skiing March 8th 2008.jpg",
+    "alt": "Skiers on a slope in the Austrian Alps"
+  },
+  "intro": [
+    "Kitzbühel built its wealth centuries ago on copper and silver mining, and the medieval walled town that money built — colourful merchant houses lining narrow cobbled streets — still forms the genuinely charming core of what's now one of the world's most famous ski resorts.",
+    "That fame rests largely on the Hahnenkamm, home to the Streif, widely considered the most dangerous and prestigious downhill ski race on the World Cup circuit, drawing tens of thousands of spectators every January for a genuinely major event on the international skiing calendar.",
+    "Beyond the race itself, Kitzbühel's surrounding Alps offer genuinely excellent skiing in winter and a well-developed hiking and mountain-biking network in summer, making the town a legitimate year-round destination rather than a purely seasonal one."
+  ],
+  "whyVisit": {
+    "intro": "Kitzbühel's case is that it pairs a genuinely charming medieval old town with world-class Alpine sport, in both winter and summer.",
+    "points": [
+      {
+        "title": "The old town is genuinely more charming than most ski resorts",
+        "text": "Colourful medieval merchant houses give Kitzbühel real architectural character beyond its ski reputation."
+      },
+      {
+        "title": "The Hahnenkamm is genuinely legendary",
+        "text": "Home to the Streif, the most famous and feared downhill race on the World Cup circuit."
+      },
+      {
+        "title": "The skiing is genuinely excellent",
+        "text": "A large, well-connected ski area with terrain suited to a wide range of ability levels."
+      },
+      {
+        "title": "It works genuinely well in summer too",
+        "text": "Extensive hiking and mountain-biking trails make Kitzbühel a legitimate year-round mountain destination."
+      },
+      {
+        "title": "It's genuinely more manageable than Innsbruck's bigger-city pace",
+        "text": "A small, walkable Alpine town with resort-level amenities in a considerably more intimate setting."
+      }
+    ]
+  },
+  "attractionsIntro": "Kitzbühel's essential sights, spanning the medieval old town and the mountains around it.",
+  "attractions": [
+    {
+      "name": "The medieval old town",
+      "text": "Colourful merchant houses lining narrow cobbled streets, genuinely well preserved from Kitzbühel's mining-wealth heyday.",
+      "tip": "Vorderstadt and Hinterstadt, the two parallel main streets, are genuinely the heart of the old town's charm."
+    },
+    {
+      "name": "The Hahnenkamm and the Streif",
+      "text": "The mountain hosting the legendary Streif downhill course, genuinely one of the most demanding and feared runs in competitive skiing.",
+      "tip": "A cable car reaches the mountain even outside ski season, with a viewing platform overlooking sections of the famous course."
+    },
+    {
+      "name": "Kitzbüheler Horn",
+      "text": "A second major mountain above the town, offering genuinely sweeping panoramic views and a botanical alpine garden near the summit.",
+      "tip": "The Horn's cable car and summit area are genuinely worth visiting even without skiing, for the views alone."
+    },
+    {
+      "name": "Kitzbühel Museum",
+      "text": "A small but genuinely well-curated museum covering the town's mining history and ski racing heritage, housed in a medieval tower.",
+      "tip": "A worthwhile stop for context before exploring the Hahnenkamm's racing legacy further."
+    },
+    {
+      "name": "The parish church and Liebfrauenkirche",
+      "text": "Two genuinely notable churches at the edge of the old town, their onion-domed towers a defining part of Kitzbühel's skyline.",
+      "tip": "A short, easy stop to combine with a wander through the adjacent old town streets."
+    }
+  ],
+  "thingsToDoIntro": "Beyond the old town and the famous race course, Kitzbühel rewards both winter and summer mountain activity.",
+  "thingsToDo": [
+    {
+      "title": "Ski the Kitzbühel ski area",
+      "text": "A genuinely large, well-connected network of runs suited to a wide range of ability levels, with the Hahnenkamm's terrain a highlight for advanced skiers.",
+      "tip": "The KitzSki area connects with neighbouring resorts, genuinely worth exploring beyond just the Hahnenkamm itself."
+    },
+    {
+      "title": "Watch or attend the Hahnenkamm Rennen",
+      "text": "The annual World Cup downhill race in January draws genuinely massive crowds and a festival atmosphere well beyond just the skiing itself.",
+      "tip": "Book accommodation many months ahead if visiting specifically for race weekend — the town genuinely fills to capacity."
+    },
+    {
+      "title": "Hike the Alpine trails in summer",
+      "text": "Kitzbühel's mountains offer genuinely extensive summer hiking, from easy valley walks to serious high-altitude routes.",
+      "tip": "The cable cars that serve skiers in winter also run in summer, genuinely useful for reaching high-altitude trailheads without a long climb."
+    },
+    {
+      "title": "Mountain bike the surrounding trails",
+      "text": "A genuinely well-developed network of mountain biking trails has grown around Kitzbühel's summer tourism, from gentle valley routes to serious downhill tracks.",
+      "tip": "Bike rental and trail maps are widely available in town for visitors without their own equipment."
+    },
+    {
+      "title": "Relax at the Schwarzsee lake",
+      "text": "A small, genuinely warm Alpine lake just outside town, popular for swimming on summer days between hikes.",
+      "tip": "A short walk or bike ride from the town centre, genuinely worth the detour on a hot summer afternoon."
+    }
+  ],
+  "foodIntro": "Kitzbühel's food scene blends hearty Tyrolean mountain fare with a genuinely upscale resort-town dining scene.",
+  "foods": [
+    {
+      "name": "Tiroler Gröstl",
+      "text": "A genuinely hearty pan-fried dish of potatoes, onions and leftover roast meat, topped with a fried egg, essential Alpine comfort food.",
+      "whereToTry": "Traditional gasthauses throughout the old town, particularly welcome after a day on the slopes or trails."
+    },
+    {
+      "name": "Kaiserschmarrn",
+      "text": "A shredded, caramelised pancake with fruit compote, genuinely a beloved mountain-hut classic served at altitude across the ski area.",
+      "whereToTry": "Mountain restaurants on the Hahnenkamm and Kitzbüheler Horn."
+    },
+    {
+      "name": "Tiroler Speck",
+      "text": "A genuinely distinctive dry-cured, lightly smoked Tyrolean ham, often served simply as a starter with bread.",
+      "whereToTry": "Traditional restaurants and delis throughout the old town."
+    },
+    {
+      "name": "Kasspatzln",
+      "text": "Tyrolean cheese spätzle baked with mountain cheese and topped with crispy fried onions, a genuinely rich, satisfying Alpine dish.",
+      "whereToTry": "Traditional Tyrolean restaurants throughout town."
+    },
+    {
+      "name": "Glühwein",
+      "text": "Mulled wine, genuinely essential apres-ski culture during the winter season, served at bars throughout the ski area and old town.",
+      "whereToTry": "Mountain huts and old town bars throughout the winter season."
+    }
+  ],
+  "accommodation": {
+    "intro": "Kitzbühel's old town and the areas near the main lift stations both work well as a genuinely convenient base.",
+    "areas": [
+      {
+        "name": "The old town centre",
+        "bestFor": "Walking to restaurants, shops and the town's historic charm",
+        "text": "The most atmospheric base, putting the medieval streets within easy walking distance of most amenities."
+      },
+      {
+        "name": "Near the Hahnenkamm lift station",
+        "bestFor": "Ski-in, ski-out convenience",
+        "text": "A short walk from the old town, genuinely convenient for winter visitors prioritising direct slope access."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse room", "value": "€100–180 per night" },
+      { "label": "Mid-range hotel", "value": "€180–320 per night" },
+      { "label": "Day ski pass", "value": "€68–75" },
+      { "label": "Gröstl dinner", "value": "€16–24" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Kitzbühel is reached by train or road from Innsbruck or Salzburg, both genuinely convenient gateway cities.",
+    "options": [
+      {
+        "mode": "Train from Innsbruck or Salzburg",
+        "text": "Regional trains connect [[innsbruck|Innsbruck]] and [[salzburg|Salzburg]] to Kitzbühel in roughly 1–1.5 hours.",
+        "detail": "The town's train station sits within easy walking distance of the old town centre."
+      },
+      {
+        "mode": "Munich Airport, Germany",
+        "text": "A genuinely convenient international gateway, roughly 2 hours from Kitzbühel by train or car.",
+        "detail": "Many international skiers fly into Munich specifically for Tyrolean ski resorts including Kitzbühel."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Offers flexibility for exploring the wider Tyrolean region beyond Kitzbühel itself.",
+        "detail": "Winter driving requires genuine snow-driving experience and, in some areas, snow chains."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Kitzbühel's old town is genuinely compact and walkable, with cable cars reaching the surrounding mountains.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The old town and most central hotels sit within a genuinely compact, walkable area.",
+        "detail": "Comfortable, sturdy shoes help on the old town's cobblestones, especially in winter."
+      },
+      {
+        "mode": "Cable cars",
+        "text": "Reach the Hahnenkamm and Kitzbüheler Horn directly from town, serving both winter skiers and summer hikers.",
+        "detail": "Combined ski or summer activity passes often include cable car access."
+      },
+      {
+        "mode": "Ski bus",
+        "text": "A free local bus service connects outlying hotels and lift stations during winter season.",
+        "detail": "Genuinely convenient for visitors staying slightly outside the immediate old town centre."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–March for skiing, June–September for hiking",
+    "summary": "Kitzbühel genuinely has two distinct best seasons depending on whether mountain activity is skiing or hiking.",
+    "seasons": [
+      {
+        "season": "Winter (December–March)",
+        "rating": "best",
+        "text": "The core ski season, with January's Hahnenkamm race weekend the single busiest, most atmospheric point of the year."
+      },
+      {
+        "season": "Spring (April–May)",
+        "rating": "shoulder",
+        "text": "A genuine transition period, with many lifts and hotels operating reduced schedules between seasons."
+      },
+      {
+        "season": "Summer (June–September)",
+        "rating": "best",
+        "text": "The core hiking and mountain-biking season, with genuinely pleasant valley-floor temperatures."
+      },
+      {
+        "season": "Autumn (October–November)",
+        "rating": "shoulder",
+        "text": "A quieter transition period before the first significant snow, with many facilities reducing hours."
+      }
+    ],
+    "avoid": "April, May, October and November if a specific mountain activity matters — Kitzbühel, like much of the Alps, has genuine off-season lulls between its two main seasons."
+  },
+  "itinerary": {
+    "title": "Two to three days in Kitzbühel",
+    "intro": "The old town first, then the mountains, adjusted for winter skiing or summer hiking.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town",
+        "summary": "Kitzbühel's essential historic sights.",
+        "morning": "Wander Vorderstadt and Hinterstadt's medieval streets.",
+        "afternoon": "The Kitzbühel Museum.",
+        "evening": "Dinner in the old town."
+      },
+      {
+        "day": 2,
+        "title": "The Hahnenkamm",
+        "summary": "Kitzbühel's legendary mountain.",
+        "morning": "Cable car up the Hahnenkamm.",
+        "afternoon": "Skiing in winter, or a hike in summer.",
+        "evening": "Après-ski or a mountain-view dinner."
+      },
+      {
+        "day": 3,
+        "title": "The Kitzbüheler Horn or Schwarzsee",
+        "summary": "An optional third day beyond the Hahnenkamm.",
+        "morning": "The Kitzbüheler Horn's panoramic viewpoint.",
+        "afternoon": "Schwarzsee lake in summer, or more skiing in winter.",
+        "evening": "A final Kitzbühel dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, timing and transport that make a real difference to a Kitzbühel trip.",
+  "tips": [
+    "Book accommodation many months ahead for the January Hahnenkamm race weekend, when the town fills to capacity.",
+    "Check lift and hotel operating schedules if visiting in the April-May or October-November shoulder periods.",
+    "Consider Munich as an alternative international gateway to Innsbruck or Salzburg.",
+    "Pack layers for both skiing and hiking — Alpine weather changes quickly regardless of season.",
+    "Use the free ski bus if staying outside the immediate old town centre in winter.",
+    "Book a summer cable car pass if planning several hikes — it's genuinely better value than paying per ride."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Kitzbühel?",
+      "a": "Two to three. Two covers the old town and a Hahnenkamm visit at a rushed pace; three allows the Kitzbüheler Horn or Schwarzsee lake without feeling hurried."
+    },
+    {
+      "q": "Is Kitzbühel only worth visiting for skiing?",
+      "a": "No, genuinely — the medieval old town has real architectural charm, and summer hiking and mountain biking make it a legitimate year-round destination beyond the ski season."
+    },
+    {
+      "q": "What is the Hahnenkamm race?",
+      "a": "The annual World Cup downhill ski race held on the Streif course, widely considered the most demanding and prestigious downhill race on the circuit, drawing tens of thousands of spectators every January."
+    },
+    {
+      "q": "Is Kitzbühel expensive?",
+      "a": "Yes, genuinely on the higher end for Austria — as a well-known international ski resort, mid-range travel runs roughly €110–200 per person per day, noticeably above smaller Tyrolean towns."
+    },
+    {
+      "q": "What is the best time of year to visit?",
+      "a": "December to March for skiing, June to September for hiking — April, May, October and November fall in genuine off-season lulls between the two, worth avoiding if a specific mountain activity is your priority."
+    }
+  ],
+  "related": ["innsbruck", "zell-am-see-grossglockner", "hallstatt"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

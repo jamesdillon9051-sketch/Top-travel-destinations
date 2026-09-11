@@ -1,0 +1,291 @@
+{
+  "slug": "graz",
+  "name": "Graz",
+  "country": "austria",
+  "region": "Styria",
+  "categories": ["historic", "unesco", "cultural", "off-the-beaten-path"],
+  "tagline": "Austria's genuinely underrated second city, a UNESCO-listed old town and a striking contemporary art museum, with a fraction of Vienna's crowds.",
+  "highlight": "The view from Schlossberg hill at dusk, Graz's red-tiled old town spreading out below as the clock tower's silhouette catches the last light.",
+  "shortDescription": "Austria's second city, its UNESCO-listed old town and lively university culture genuinely underrated relative to Vienna's fame.",
+  "metaDescription": "A Graz travel guide: the old town, Schlossberg, the Kunsthaus, when to go and a practical two-day itinerary.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Graz Airport (GRZ)",
+  "knownFor": "The old town, Schlossberg, contemporary art, student culture",
+  "budget": "€75–130 per day, mid-range",
+  "goodFor": "History, architecture, a quieter Austrian city",
+  "coords": { "lat": 47.0707, "lng": 15.4395 },
+  "image": {
+    "file": "File:Graz - Schloßberg (b).JPG",
+    "alt": "Graz's red-tiled old town seen from Schlossberg hill"
+  },
+  "intro": [
+    "Graz is Austria's second-largest city, and one genuinely underrated relative to its size and quality — a UNESCO World Heritage old town of red-tiled roofs and Renaissance courtyards, spread beneath a hilltop clock tower that has watched over the city since the 13th century.",
+    "That historic core sits alongside a genuinely lively contemporary energy, driven by six universities and a student population that gives Graz one of Austria's youngest average ages, plus a striking modern counterpoint in the Kunsthaus, a biomorphic contemporary art museum nicknamed the 'Friendly Alien' by locals.",
+    "The result is a city that pairs genuine architectural depth with a noticeably more relaxed, less touristed pace than Vienna, making it a consistently rewarding addition for visitors willing to go beyond the capital."
+  ],
+  "whyVisit": {
+    "intro": "Graz's case is that it delivers genuine UNESCO-listed old-town beauty with a fraction of Vienna's visitor numbers and prices.",
+    "points": [
+      {
+        "title": "The old town is genuinely UNESCO-worthy",
+        "text": "A well-preserved mix of Gothic, Renaissance and Baroque architecture, recognised as a World Heritage Site since 1999."
+      },
+      {
+        "title": "Schlossberg delivers a genuinely great city view",
+        "text": "A hilltop park and clock tower offering sweeping views over the old town's red rooftops."
+      },
+      {
+        "title": "The Kunsthaus is genuinely striking",
+        "text": "A biomorphic contemporary art museum that stands in deliberate, playful contrast to the historic old town below."
+      },
+      {
+        "title": "It's genuinely lively for its size",
+        "text": "Six universities give Graz a young, active atmosphere well beyond what its visitor numbers might suggest."
+      },
+      {
+        "title": "It's noticeably cheaper and quieter than Vienna",
+        "text": "Comparable architectural quality at meaningfully lower prices and crowd levels."
+      }
+    ]
+  },
+  "attractionsIntro": "Graz's essential sights, spanning the UNESCO-listed old town and the hilltop park above it.",
+  "attractions": [
+    {
+      "name": "Schlossberg and the Clock Tower",
+      "image": {
+        "file": "File:Graz - Glockenturm auf dem Schlossberg.JPG",
+        "alt": "The Uhrturm clock tower on Schlossberg hill above Graz"
+      },
+      "text": "A hilltop park crowned by Graz's iconic 13th-century clock tower, offering genuinely sweeping views over the old town's red-tiled roofs.",
+      "tip": "Take the funicular up and walk down through the park, or climb the stairs for a genuinely rewarding, if steeper, approach."
+    },
+    {
+      "name": "Kunsthaus Graz",
+      "text": "A striking biomorphic contemporary art museum, nicknamed the 'Friendly Alien' by locals, a genuinely deliberate architectural contrast to the historic old town nearby.",
+      "tip": "The building's exterior is genuinely worth photographing even if you don't have time for the exhibitions inside."
+    },
+    {
+      "name": "Graz Cathedral and Mausoleum",
+      "text": "A Gothic cathedral alongside the genuinely elaborate mausoleum of Emperor Ferdinand II, one of the most significant Mannerist buildings in Central Europe.",
+      "tip": "The mausoleum's interior is genuinely worth the separate entry, with considerably more elaborate decoration than the cathedral itself."
+    },
+    {
+      "name": "Hauptplatz and the old town lanes",
+      "text": "Graz's central square and surrounding Renaissance-era lanes, genuinely well preserved and considerably less crowded than comparable old towns elsewhere in Austria.",
+      "tip": "Look up at the courtyards behind the main facades — many of Graz's most beautiful architectural details are genuinely hidden from the street."
+    },
+    {
+      "name": "Landeszeughaus (Styrian Armoury)",
+      "text": "The world's largest historic armoury still in its original location, housing genuinely thousands of pieces of 16th and 17th century weaponry and armour.",
+      "tip": "A genuinely unusual, atmospheric museum worth the visit even without a specific interest in historic weaponry."
+    },
+    {
+      "name": "Eggenberg Palace",
+      "text": "A UNESCO-listed baroque palace on the city's outskirts, its cosmological design genuinely reflecting the number of days, weeks and seasons in a year through its architecture.",
+      "tip": "The palace's Planet Rooms, with their ceiling frescoes, are genuinely worth the guided tour to fully appreciate the symbolism."
+    }
+  ],
+  "thingsToDoIntro": "Beyond the old town's sights, Graz rewards its student energy and Styrian food and wine culture.",
+  "thingsToDo": [
+    {
+      "title": "Explore Graz's student neighbourhoods",
+      "text": "Six universities give Graz a genuinely lively, youthful energy, with student bars and cafés spread through the city beyond the historic centre.",
+      "tip": "The area around the main university campus offers a genuinely good, more local counterpoint to the old town's tourist streets."
+    },
+    {
+      "title": "Visit the Graz farmers market",
+      "text": "Kaiser-Josef-Platz and Lendplatz host genuinely lively morning markets selling Styrian produce, cheese and pumpkin seed oil.",
+      "tip": "Visit on a Saturday morning, when the markets are at their fullest and liveliest."
+    },
+    {
+      "title": "Try Styrian pumpkin seed oil",
+      "text": "A genuinely distinctive regional specialty, dark green and nutty, used across Styrian cuisine on salads and in cooking.",
+      "tip": "A proper bottle from a local producer makes a genuinely worthwhile souvenir, distinct from mass-market versions."
+    },
+    {
+      "title": "Walk along the Mur River",
+      "text": "The river running through Graz offers genuinely pleasant walking and cycling paths, including a small artificial island installation, the Murinsel.",
+      "tip": "The Murinsel, a floating platform connecting both riverbanks, makes a genuinely good stop for a coffee with a view."
+    },
+    {
+      "title": "Take a Styrian wine day trip",
+      "text": "The rolling hills of Styria's wine country, particularly the Südsteiermark region, are a genuinely worthwhile day trip from Graz for tastings and views.",
+      "tip": "A rental car or organised tour is genuinely the most practical way to reach the wine region's smaller producers."
+    }
+  ],
+  "foodIntro": "Graz sits at the heart of Styrian cuisine, genuinely distinct from the rest of Austria for its use of pumpkin seed oil and regional produce.",
+  "foods": [
+    {
+      "name": "Steirisches Kürbiskernöl (Styrian pumpkin seed oil)",
+      "text": "A genuinely distinctive dark, nutty oil, protected by EU geographic indication status, used across Styrian cooking and salads.",
+      "whereToTry": "Local markets and traditional restaurants throughout Graz, often drizzled over a simple salad to let the oil's flavour stand out."
+    },
+    {
+      "name": "Steirisches Backhendl",
+      "text": "Styrian-style breaded and fried chicken, genuinely a regional take on schnitzel technique applied to poultry rather than veal.",
+      "whereToTry": "Traditional Styrian restaurants throughout the old town."
+    },
+    {
+      "name": "Wiener schnitzel",
+      "image": {
+        "file": "File:Wiener Schnitzel at restaurant Kärtner-Eck.jpg",
+        "alt": "A Wiener schnitzel with parsley potatoes"
+      },
+      "text": "Widely available across the city as elsewhere in Austria, genuinely good from Graz's traditional restaurants.",
+      "whereToTry": "Gasthauses throughout the old town."
+    },
+    {
+      "name": "Styrian wine",
+      "text": "The Südsteiermark wine region south of Graz produces genuinely excellent whites, particularly Sauvignon Blanc, increasingly recognised internationally.",
+      "whereToTry": "Wine bars in Graz's old town, or a day trip directly to Südsteiermark's producers."
+    },
+    {
+      "name": "Grazer Krauthäuptelsalat",
+      "text": "A genuinely simple local lettuce salad dressed with Styrian pumpkin seed oil, a defining regional side dish.",
+      "whereToTry": "Traditional restaurants throughout Graz, typically served alongside a main dish."
+    }
+  ],
+  "accommodation": {
+    "intro": "Graz's old town offers a genuinely convenient, walkable base for most visitors.",
+    "areas": [
+      {
+        "name": "Altstadt (old town)",
+        "bestFor": "Walking to Schlossberg and the main sights",
+        "text": "The most central, historic base, putting Hauptplatz and the cathedral within easy walking distance."
+      },
+      {
+        "name": "Near the Kunsthaus and Mur River",
+        "bestFor": "A slightly quieter, still-central atmosphere",
+        "text": "A short walk from the old town, with genuinely good access to the river and modern art museum."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "€22–35 per night" },
+      { "label": "Mid-range hotel", "value": "€80–140 per night" },
+      { "label": "Schlossberg funicular", "value": "€3.60 one-way" },
+      { "label": "Backhendl dinner", "value": "€14–20" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Graz Airport handles regional flights, with fast trains connecting to Vienna.",
+    "options": [
+      {
+        "mode": "Graz Airport (GRZ)",
+        "text": "About 10km from the city centre, with limited direct international routes.",
+        "detail": "A bus or taxi covers the short transfer into the city."
+      },
+      {
+        "mode": "Train from Vienna",
+        "text": "Fast trains connect [[vienna|Vienna]] to Graz in about 2.5 hours.",
+        "detail": "Book Sparschiene discount fares ahead for meaningfully lower prices."
+      },
+      {
+        "mode": "Train from Salzburg",
+        "text": "A regional connection from [[salzburg|Salzburg]], typically changing once, taking about 4 hours.",
+        "detail": "Most visitors combine Graz with Vienna given the more direct rail connection."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Graz's old town is genuinely compact and walkable, with trams covering the wider city.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The old town's Hauptplatz, cathedral and Schlossberg base all sit within a genuinely compact, walkable centre.",
+        "detail": "Comfortable shoes matter for the cobblestone lanes and the Schlossberg climb."
+      },
+      {
+        "mode": "Trams",
+        "text": "A genuinely efficient network covering the wider city, including university areas and Eggenberg Palace.",
+        "detail": "A day ticket is genuinely good value if making several tram journeys."
+      },
+      {
+        "mode": "Schlossberg funicular or lift",
+        "text": "The easiest way up the hill, sparing the steep climb.",
+        "detail": "An outdoor glass lift also reaches the hilltop from within the old town."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September–October, for mild weather and manageable crowds",
+    "summary": "Graz is genuinely pleasant most of the year, with spring and autumn offering the best balance of weather and crowds.",
+    "seasons": [
+      {
+        "season": "Spring (May–June)",
+        "rating": "best",
+        "text": "Mild, increasingly warm weather, ideal for walking the old town and Schlossberg park."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Warm and reliable, with genuinely fewer crowds than Vienna even at the summer peak."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Comfortable temperatures and the Styrian wine harvest in full swing nearby."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Cold but genuinely atmospheric, with a Christmas market on Hauptplatz."
+      }
+    ],
+    "avoid": "Nothing strongly — Graz's comparatively low visitor numbers mean crowds are rarely a genuine concern in any season."
+  },
+  "itinerary": {
+    "title": "Two days in Graz",
+    "intro": "The old town and Schlossberg first, then the city's modern art and student culture.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town and Schlossberg",
+        "summary": "Graz's essential historic sights.",
+        "morning": "Hauptplatz and Graz Cathedral.",
+        "afternoon": "The Schlossberg funicular and clock tower views.",
+        "evening": "Dinner in the old town."
+      },
+      {
+        "day": 2,
+        "title": "Modern Graz and Eggenberg Palace",
+        "summary": "The city's contemporary side and outlying sights.",
+        "morning": "The Kunsthaus and a walk along the Mur River.",
+        "afternoon": "Eggenberg Palace.",
+        "evening": "A final dinner with Styrian wine."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, timing and transport that make a real difference to a Graz trip.",
+  "tips": [
+    "Take the Schlossberg funicular up and walk down through the hilltop park for the easiest route.",
+    "Visit the Kaiser-Josef-Platz farmers market on a Saturday morning for the liveliest atmosphere.",
+    "Book Eggenberg Palace's Planet Rooms tour ahead if visiting in peak season.",
+    "Consider a day trip to the Südsteiermark wine region if you have an extra day.",
+    "Combine Graz with Vienna rather than treating it as a standalone destination — the rail connection is genuinely convenient.",
+    "Carry some cash for smaller cafés and market stalls, though most restaurants take cards."
+  ],
+  "faq": [
+    {
+      "q": "Is Graz worth visiting instead of just Vienna?",
+      "a": "It's genuinely worth adding rather than replacing Vienna — Graz offers comparable old-town beauty with fewer crowds and lower prices, but Vienna's imperial sights and musical heritage are on a different scale entirely."
+    },
+    {
+      "q": "How many days do you need in Graz?",
+      "a": "Two days covers the old town, Schlossberg and the Kunsthaus comfortably, with Eggenberg Palace or a wine country day trip as a worthwhile extension if you have more time."
+    },
+    {
+      "q": "How do I get from Vienna to Graz?",
+      "a": "By train, taking about 2.5 hours on a direct fast service — genuinely one of Austria's most convenient city-to-city connections."
+    },
+    {
+      "q": "Is Graz expensive?",
+      "a": "No, genuinely one of Austria's more affordable cities — mid-range travel runs roughly €75–130 per person per day, noticeably below Vienna's capital-city premium."
+    },
+    {
+      "q": "What is the best time of year to visit?",
+      "a": "May to June and September to October offer the most comfortable weather. Graz's comparatively low visitor numbers mean crowds are rarely a concern even in peak summer."
+    }
+  ],
+  "related": ["eisenstadt-neusiedler-see", "vienna", "wachau-valley"],
+  "relatedArticles": ["underrated-destinations", "europe-by-train"]
+}

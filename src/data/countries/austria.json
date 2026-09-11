@@ -1,0 +1,418 @@
+{
+  "slug": "austria",
+  "name": "Austria",
+  "continent": "Central Europe",
+  "countryCode": "AT",
+  "tagline": "Imperial Vienna's palaces and coffee houses, Salzburg's baroque old town, and an Alpine landscape of lakes and peaks that made half the country a postcard before photography existed.",
+  "cardDescription": "Vienna's imperial grandeur, Mozart's Salzburg, the lakeside village of Hallstatt, and an Alpine range running the length of the country.",
+  "metaDescription": "A complete Austria travel guide: the 10 best places to visit, trains, food, costs, etiquette and a two-week itinerary.",
+  "image": {
+    "file": "File:Hallstatt at Lake Hallstatt - 2.jpg",
+    "alt": "Hallstatt's lakeside village beneath the Alps in Austria's Salzkammergut"
+  },
+  "destinations": [
+    "vienna",
+    "salzburg",
+    "hallstatt",
+    "innsbruck",
+    "graz",
+    "wachau-valley",
+    "kitzbuhel",
+    "zell-am-see-grossglockner",
+    "eisenstadt-neusiedler-see",
+    "bregenz-lake-constance"
+  ],
+  "intro": [
+    "Austria packs an outsized cultural legacy into a country smaller than Maine — Vienna alone produced or hosted Mozart, Beethoven, Freud and Klimt, and its imperial Habsburg architecture still defines what most people picture when they imagine a European capital. That legacy is genuinely lived-in rather than museum-cased, from the Vienna Philharmonic's regular performances to coffee houses still run the way they were a century ago.",
+    "Beyond the cities, Austria is genuinely one of the most consistently beautiful countries in Europe to simply look at. The Alps run the length of the country, and the combination of turquoise lakes, church-topped villages and snow-capped peaks around the Salzkammergut and Tyrol regions produces scenery that looks retouched even when it isn't.",
+    "The practical spine connecting all of this is a genuinely excellent rail network — Austria's trains are punctual, comfortable and reach even small Alpine villages — alongside a food and coffee house culture, and a directness in manner that first-time visitors sometimes mistake for coldness before realizing it's simply Austrian efficiency."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit — though Graz and the Wachau Valley reward a second trip just as much as a first.",
+  "thingsToDoIntro": "The experiences that recur across the country and that make an Austria trip feel like more than a checklist of palaces and peaks.",
+  "thingsToDo": [
+    {
+      "title": "Sit in a proper Viennese coffee house",
+      "image": {
+        "file": "File:Landtmann interior.jpg",
+        "alt": "The ornate interior of a traditional Viennese coffee house"
+      },
+      "text": "A genuine Austrian institution, UNESCO-recognised even, where a single coffee buys the right to sit for hours with a newspaper and no one will rush you.",
+      "tip": "Order a Melange, Vienna's classic milk coffee, and expect a glass of water served alongside it without asking."
+    },
+    {
+      "title": "Ski or hike in the Alps",
+      "image": {
+        "file": "File:Skiing March 8th 2008.jpg",
+        "alt": "Skiers on a slope in the Austrian Alps"
+      },
+      "text": "Austria's Alpine regions genuinely rival Switzerland and France for skiing in winter and hiking in summer, often at a noticeably lower cost.",
+      "tip": "Summer hiking is considerably cheaper than winter skiing and avoids the peak-season crowds and prices entirely."
+    },
+    {
+      "title": "Attend a classical music performance",
+      "text": "Vienna's musical heritage is genuinely still active, not just historical, with regular performances by the Vienna Philharmonic and countless smaller ensembles across the city.",
+      "tip": "Standing-room tickets at the Vienna State Opera are genuinely affordable and sold only on the day, a real Vienna institution worth queuing for."
+    },
+    {
+      "title": "Explore an Alpine lake",
+      "image": {
+        "file": "File:Wolfgangsee-Landscape.jpg",
+        "alt": "The turquoise water of Wolfgangsee in Austria's Salzkammergut lake district"
+      },
+      "text": "The Salzkammergut region alone holds dozens of genuinely postcard-worthy Alpine lakes, several swimmable in summer and stunning year-round.",
+      "tip": "Hallstättersee and Wolfgangsee are the most visited; Grundlsee and Altaussee offer genuinely comparable beauty with noticeably fewer crowds."
+    },
+    {
+      "title": "Try Austrian wine in the Wachau Valley",
+      "image": {
+        "file": "File:Spitz Hofarnsdorf Donau downstream-3191.jpg",
+        "alt": "Vineyard terraces above the Danube in Austria's Wachau Valley"
+      },
+      "text": "A genuinely underrated wine region along the Danube, its steep terraced vineyards producing excellent Grüner Veltliner and Riesling rarely exported widely.",
+      "tip": "A river cruise or cycle path along the Danube is a genuinely relaxed way to combine several Wachau wine villages in one day."
+    },
+    {
+      "title": "Eat cake properly, with cream",
+      "image": {
+        "file": "File:Sachertorte cake at Café Sperl, Vienna (2026).jpg",
+        "alt": "A slice of Sachertorte, Austria's famous chocolate cake, with whipped cream"
+      },
+      "text": "Austrian cake culture is genuinely serious business, from Sachertorte's chocolate density to the endless variety found in any proper konditorei.",
+      "tip": "Always accept the whipped cream (Schlagobers) offered alongside — it's the traditional accompaniment, not an optional extra."
+    }
+  ],
+  "foodIntro": "Austrian food's reputation for schnitzel and strudel undersells a genuinely rich, hearty cuisine shaped by the old Habsburg empire's many regions.",
+  "foods": [
+    {
+      "name": "Wiener schnitzel",
+      "image": {
+        "file": "File:Wiener Schnitzel at restaurant Kärtner-Eck.jpg",
+        "alt": "A Wiener schnitzel with parsley potatoes"
+      },
+      "text": "A thin, breaded and fried veal cutlet, Austria's most famous dish and genuinely a point of national pride over how it should be properly prepared.",
+      "whereToTry": "Traditional gasthauses nationwide — a genuine veal version, not the cheaper pork often substituted, is worth seeking out."
+    },
+    {
+      "name": "Sachertorte",
+      "image": {
+        "file": "File:Sachertorte cake at Café Sperl, Vienna (2026).jpg",
+        "alt": "A slice of Sachertorte, Austria's famous chocolate cake, with whipped cream"
+      },
+      "text": "A dense chocolate cake with a thin layer of apricot jam, genuinely the subject of a decades-long legal dispute over which Vienna hotel owns the 'original' recipe.",
+      "whereToTry": "Hotel Sacher in Vienna for the original, or Demel, its longtime rival, for a genuinely comparable version."
+    },
+    {
+      "name": "Tafelspitz",
+      "text": "Boiled beef served with root vegetables, apple-horseradish and chive sauce, genuinely a Habsburg-era classic said to have been Emperor Franz Joseph's favourite dish.",
+      "whereToTry": "Traditional Viennese restaurants, several claiming a direct historical link to the imperial court kitchen."
+    },
+    {
+      "name": "Kaiserschmarrn",
+      "text": "A shredded, caramelised pancake dusted with sugar and served with fruit compote, genuinely more dessert than breakfast despite its humble origins.",
+      "whereToTry": "Alpine mountain huts and traditional restaurants nationwide, particularly satisfying after a day of hiking or skiing."
+    },
+    {
+      "name": "Austrian wine",
+      "image": {
+        "file": "File:Spitz Hofarnsdorf Donau downstream-3191.jpg",
+        "alt": "Vineyard terraces above the Danube in Austria's Wachau Valley"
+      },
+      "text": "A genuinely excellent, underrated wine-producing country, particularly for crisp whites like Grüner Veltliner from the Wachau and Kamptal regions.",
+      "whereToTry": "Wachau Valley wineries and Viennese heurigen, traditional wine taverns serving the current vintage alongside simple food."
+    },
+    {
+      "name": "Apfelstrudel",
+      "text": "Thin pastry rolled around spiced apple filling, genuinely one of the defining desserts of Austrian and wider Central European cuisine.",
+      "whereToTry": "Konditoreis and traditional restaurants nationwide, best served warm with vanilla sauce or cream."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Austria is straightforward and well organised to travel in, with Sunday closures and cash-preferring smaller towns the two practicalities that most often catch visitors out.",
+  "practical": {
+    "capital": "Vienna",
+    "language": "German nationally, with widespread English ability in Vienna, Salzburg and tourist areas, thinning out in rural Alpine regions.",
+    "currency": "Euro (€, EUR)",
+    "money": "Card payment is widely accepted in cities, though smaller Alpine towns, market stalls and some traditional restaurants still prefer or require cash. Carry some as a backup.",
+    "visa": "Visa-free entry for up to 90 days within a 180-day period for many nationalities including the US, Canada, Australia and UK, under the Schengen Area's common rules.",
+    "plugs": "Type C and F (Europlug/Schuko), 230 V, 50 Hz — standard continental European two-pin plugs.",
+    "emergency": "112 for all emergencies, nationwide.",
+    "tipping": "Expected but modest. Rounding up or adding roughly 5–10% for good restaurant service, stated directly to the server rather than left on the table.",
+    "safety": "Very safe overall, with low rates of violent crime against visitors. Standard vigilance around bags on public transport in Vienna is the main practical precaution.",
+    "connectivity": "Excellent 4G and 5G coverage nationwide, including most Alpine valleys, with an EU roaming agreement or local SIM covering most visitor needs easily.",
+    "timeZone": "Central European Time (UTC+1) in winter, Central European Summer Time (UTC+2) from late March to late October.",
+    "budget": [
+      { "label": "Backpacker", "value": "€60–90 per day — hostels, casual meals, regional trains" },
+      { "label": "Mid-range", "value": "€110–180 per day — three-star hotels, restaurant meals, intercity trains" },
+      { "label": "Comfortable", "value": "€200–340 per day — good hotels, guided tours, ski passes" },
+      { "label": "Vienna and ski-resort supplement", "value": "Add roughly 15–30% to any budget band specifically in central Vienna or peak ski season" }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September for cities, December–March for the Alps",
+    "summary": "Austria genuinely has two best seasons depending on your focus: late spring and early autumn for the cities, and winter for the Alpine ski regions.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Mild, increasingly warm weather ideal for exploring Vienna, Salzburg and Alpine hiking trails as the snow clears."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Warm and reliable for lake swimming and hiking, though genuinely the most crowded and expensive months in the popular Salzkammergut region."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Comfortable temperatures, thinning crowds and the wine harvest in full swing across the Wachau Valley."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Cold but genuinely magical for Vienna's Christmas markets and essential for Alpine skiing, with December through February the ski season's core."
+      }
+    ],
+    "avoid": "August without accommodation booked ahead in the Salzkammergut lake district — Austrian and German domestic summer holidays push the region to its busiest, most expensive point of the year."
+  },
+  "tripDuration": {
+    "headline": "10–14 days for a first trip",
+    "summary": "Austria's compact size and excellent train network make an ambitious city-and-Alps itinerary genuinely workable in under two weeks.",
+    "options": [
+      {
+        "length": "4–5 days",
+        "text": "Vienna alone fills four or five days, or Vienna plus a day trip to the Wachau Valley or Salzburg by fast train.",
+        "detail": "A short Austria trip is better spent deeply in Vienna than spread thin across the country."
+      },
+      {
+        "length": "8–10 days",
+        "text": "Vienna, then Salzburg and Hallstatt — the classic first-trip route connecting imperial history and Alpine scenery.",
+        "detail": "Add a day in the Wachau Valley for a genuinely well-rounded route without extending the core itinerary much."
+      },
+      {
+        "length": "12–16 days",
+        "text": "The itinerary on this page: Vienna, the Wachau Valley, Salzburg, Hallstatt, then Innsbruck and the Alps, covering both imperial cities and mountain scenery.",
+        "detail": "Enough time to add Graz or the Grossglockner High Alpine Road to the classic Vienna-and-Alps route."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Add Graz, Bregenz on Lake Constance, or a slower, unhurried pace through the Salzkammergut's smaller lake villages.",
+        "detail": "The quieter western regions and a genuinely unhurried Alpine pace are where a second Austria trip belongs."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Austria's ÖBB rail network is genuinely one of Europe's best, connecting cities and even small Alpine towns reliably.",
+    "options": [
+      {
+        "mode": "Intercity trains (ÖBB Railjet)",
+        "text": "Fast, comfortable trains connect [[vienna|Vienna]], [[salzburg|Salzburg]], [[graz|Graz]] and [[innsbruck|Innsbruck]] efficiently.",
+        "detail": "Book ahead for discounted 'Sparschiene' fares, or use a rail pass for extensive multi-city travel."
+      },
+      {
+        "mode": "Regional trains and postbuses",
+        "text": "Reach smaller destinations including [[hallstatt|Hallstatt]], the [[wachau-valley|Wachau Valley]] and [[kitzbuhel|Kitzbühel]] reliably from the main rail network.",
+        "detail": "Regional day tickets often work out cheaper than individual fares for multi-stop Alpine village trips."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Useful for the [[zell-am-see-grossglockner|Grossglockner High Alpine Road]] and exploring smaller Alpine villages at a flexible pace beyond the rail network.",
+        "detail": "Winter driving in the Alps requires genuine experience with snow chains and conditions — consider a guided option instead."
+      },
+      {
+        "mode": "Danube river cruise or cycle path",
+        "text": "A scenic alternative for exploring the [[wachau-valley|Wachau Valley]]'s wine villages between [[vienna|Vienna]] and Melk.",
+        "detail": "The Danube cycle path is genuinely one of Europe's best-maintained long-distance routes, well signed and largely flat."
+      },
+      {
+        "mode": "Vienna's U-Bahn and trams",
+        "text": "A clean, efficient system covering central Vienna well, including direct connections to the airport.",
+        "detail": "A 24, 48 or 72-hour Vienna City Card covers unlimited transit alongside museum discounts."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Austria",
+    "intro": "Imperial Vienna and the Danube first, then the Alps and Salzkammergut lakes. Covers five of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Vienna",
+        "morning": "Land and take the CAT or U-Bahn into the city.",
+        "afternoon": "A first walk around the Innere Stadt.",
+        "evening": "Dinner at a traditional Viennese restaurant."
+      },
+      {
+        "day": 2,
+        "title": "Imperial Vienna",
+        "morning": "Schönbrunn Palace, booked ahead.",
+        "afternoon": "The Hofburg and St. Stephen's Cathedral.",
+        "evening": "A concert or the Vienna State Opera."
+      },
+      {
+        "day": 3,
+        "title": "Vienna's museums and coffee houses",
+        "morning": "The Kunsthistorisches Museum.",
+        "afternoon": "A proper Viennese coffee house.",
+        "evening": "Dinner in the Naschmarkt neighbourhood."
+      },
+      {
+        "day": 4,
+        "title": "Day trip to the Wachau Valley",
+        "morning": "Train to Krems or Dürnstein.",
+        "afternoon": "A wine tasting and Danube valley views.",
+        "evening": "Return to Vienna, or overnight in the valley."
+      },
+      {
+        "day": 5,
+        "title": "To Salzburg",
+        "morning": "Train to Salzburg.",
+        "afternoon": "The old town and Mirabell Gardens.",
+        "evening": "Dinner beneath the Hohensalzburg Fortress."
+      },
+      {
+        "day": 6,
+        "title": "Salzburg's fortress and sights",
+        "morning": "Hohensalzburg Fortress.",
+        "afternoon": "Mozart's birthplace and the Getreidegasse.",
+        "evening": "A final Salzburg dinner."
+      },
+      {
+        "day": 7,
+        "title": "To Hallstatt",
+        "morning": "Train and boat to Hallstatt.",
+        "afternoon": "Explore the lakeside village.",
+        "evening": "Sunset from a lakeside viewpoint."
+      },
+      {
+        "day": 8,
+        "title": "Hallstatt's salt mine and skywalk",
+        "morning": "The Hallstatt salt mine tour.",
+        "afternoon": "The World Heritage Skywalk viewpoint.",
+        "evening": "A final Hallstatt evening."
+      },
+      {
+        "day": 9,
+        "title": "To Innsbruck",
+        "morning": "Train to Innsbruck via Salzburg.",
+        "afternoon": "The Golden Roof and old town.",
+        "evening": "Dinner with mountain views."
+      },
+      {
+        "day": 10,
+        "title": "Innsbruck's mountains",
+        "morning": "The Nordkette cable car.",
+        "afternoon": "Free time or a mountain hike.",
+        "evening": "A final Innsbruck dinner."
+      },
+      {
+        "day": 11,
+        "title": "Free day or a Kitzbühel side trip",
+        "morning": "A day trip to Kitzbühel.",
+        "afternoon": "Alpine scenery and a mountain lift.",
+        "evening": "Return to Innsbruck."
+      },
+      {
+        "day": 12,
+        "title": "Return to Vienna",
+        "morning": "Train back to Vienna.",
+        "afternoon": "Last-minute shopping and sights.",
+        "evening": "A final Vienna dinner."
+      },
+      {
+        "day": 13,
+        "title": "Free day in Vienna",
+        "morning": "Anything left on the list.",
+        "afternoon": "A final museum or palace visit.",
+        "evening": "A farewell dinner."
+      },
+      {
+        "day": 14,
+        "title": "Depart",
+        "morning": "Transfer to the airport.",
+        "afternoon": "Fly home.",
+        "evening": "Fly home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Austrian culture is shaped by its imperial history and Alpine geography alike, with a directness in manner and a strong respect for order and punctuality holding nationwide.",
+    "etiquette": [
+      {
+        "title": "Titles and formality still matter",
+        "text": "Austrians often use formal address (Sie) and professional titles more than many visitors expect — let a local lead the shift to first names."
+      },
+      {
+        "title": "Punctuality is genuinely taken seriously",
+        "text": "Arriving on time, whether for a train or a dinner reservation, is expected rather than optional."
+      },
+      {
+        "title": "Directness isn't rudeness",
+        "text": "Austrians can come across as blunt to visitors used to more indirect cultures — it's typically efficiency, not unfriendliness."
+      },
+      {
+        "title": "Sunday is genuinely a day of rest",
+        "text": "Most shops close on Sundays and public holidays nationwide — plan grocery and errand needs accordingly."
+      },
+      {
+        "title": "Jaywalking is frowned upon",
+        "text": "Austrians overwhelmingly wait for the pedestrian light even with no traffic in sight — a small but genuine local norm."
+      },
+      {
+        "title": "Coffee house etiquette is real",
+        "text": "Ordering a single coffee genuinely does buy you the right to sit for hours, but flag down your server rather than expecting them to hover."
+      }
+    ],
+    "dos": [
+      "Greet with a firm handshake and formal address until invited to switch to first names",
+      "Arrive on time for reservations, tours and train departures",
+      "Wait for pedestrian lights even when the street looks clear",
+      "Plan grocery shopping around Sunday closures",
+      "Book Alpine hotels and Salzkammergut accommodation well ahead for summer and ski season",
+      "Carry some cash for smaller towns and traditional restaurants"
+    ],
+    "donts": [
+      "Don't jaywalk — it's a genuinely visible local norm, not just a rule",
+      "Don't assume every restaurant or shop takes cards in smaller towns",
+      "Don't rush a coffee house visit — lingering is the entire point",
+      "Don't be surprised by directness in customer service — it isn't meant unkindly",
+      "Don't expect shops open on Sundays outside train stations and tourist areas",
+      "Don't drive Alpine mountain passes in winter without genuine snow driving experience"
+    ]
+  },
+  "tipsIntro": "The things that most often go wrong on an Austria trip, in rough order of how much they cost people.",
+  "tips": [
+    "Book Alpine and Salzkammergut lake accommodation well ahead for summer and peak ski season.",
+    "Plan grocery and errand shopping around Sunday closures, which apply nationwide.",
+    "Carry some cash for smaller towns, market stalls and traditional restaurants.",
+    "Book Vienna State Opera standing-room tickets on the day rather than assuming advance booking is possible.",
+    "Reserve Schönbrunn Palace and Hallstatt salt mine tickets online ahead in summer, when queues can be long.",
+    "Pack proper layers for Alpine regions, where temperatures can swing considerably even in summer.",
+    "Avoid winter mountain driving without genuine experience — consider trains or a guided tour instead.",
+    "Validate train tickets where required on regional lines — Austria's system relies on honesty checks."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Austria?",
+      "a": "Ten to fourteen for a first trip. Eight to ten covers Vienna and either Salzburg or the Alps with reasonable pacing; twelve to sixteen lets you add Innsbruck and the Alps to the classic Vienna-and-Salzburg route, which is the itinerary on this page. Four or five days is enough for Vienna alone, and Vienna alone genuinely justifies a trip."
+    },
+    {
+      "q": "What is the best time of year to visit Austria?",
+      "a": "May to June and September are the sweet spots for cities and hiking — warm weather, manageable crowds and lower prices than peak summer. December to March is essential if skiing matters, and Vienna's Christmas markets make winter genuinely worthwhile even without skiing."
+    },
+    {
+      "q": "Do I need a car in Austria?",
+      "a": "Not for the cities or main tourist route — the train network covers Vienna, Salzburg, Hallstatt, Innsbruck and Graz excellently. A car becomes genuinely useful for the Grossglockner High Alpine Road and reaching smaller Alpine villages off the rail network."
+    },
+    {
+      "q": "Is Austria expensive?",
+      "a": "Mid-range travel runs about €110–180 per person per day, with Vienna and peak ski season adding a genuine premium over that figure. Booking trains ahead and eating at traditional gasthauses rather than tourist restaurants are the biggest levers on cost."
+    },
+    {
+      "q": "Is Austria safe for tourists?",
+      "a": "Very. Violent crime against visitors is rare, and most areas are safe to walk in the evening. Standard vigilance around bags on Vienna's public transport is the main practical precaution."
+    },
+    {
+      "q": "Should I visit Vienna or the Alps first?",
+      "a": "Vienna, for almost everyone — it's the main international gateway and the Wachau Valley is an easy day trip from there. Salzburg and Hallstatt then work naturally as the bridge between the capital and the deeper Alpine regions like Innsbruck."
+    }
+  ]
+}

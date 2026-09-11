@@ -1,0 +1,303 @@
+{
+  "slug": "salzburg",
+  "name": "Salzburg",
+  "country": "austria",
+  "region": "Salzburg",
+  "categories": ["historic", "unesco", "cultural", "scenic"],
+  "tagline": "Mozart's birthplace, a baroque old town beneath a hilltop fortress, and the rolling hills that became the backdrop to The Sound of Music.",
+  "highlight": "The view from Hohensalzburg Fortress at dusk, the baroque old town's spires and the Salzach River spread out below as the light fades.",
+  "shortDescription": "Mozart's baroque birthplace, its UNESCO-listed old town crowned by a hilltop fortress and surrounded by Sound of Music countryside.",
+  "metaDescription": "A Salzburg travel guide: Hohensalzburg Fortress, Mozart's birthplace, the old town, when to go and a practical two-day itinerary.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Salzburg Airport (SZG)",
+  "knownFor": "Mozart, Hohensalzburg Fortress, The Sound of Music, baroque architecture",
+  "budget": "€85–150 per day, mid-range",
+  "goodFor": "History, music, architecture, an Alpine gateway",
+  "coords": { "lat": 47.8095, "lng": 13.0550 },
+  "image": {
+    "file": "File:Salzburg Altstadt Panorama 20170409 01.jpg",
+    "alt": "Salzburg's baroque old town beneath the Hohensalzburg Fortress"
+  },
+  "intro": [
+    "Salzburg's baroque old town, wedged between the Salzach River and a hilltop fortress, is compact enough to explore on foot in a day yet genuinely dense with history — birthplace of Wolfgang Amadeus Mozart, seat of powerful prince-archbishops for centuries, and a UNESCO World Heritage Site since 1996.",
+    "The city's fame extends well beyond Mozart. The Sound of Music was filmed extensively in and around Salzburg, and the rolling hills, lakes and gardens that framed the film still look genuinely unchanged, drawing visitors who've never seen the movie as readily as devoted fans retracing its locations.",
+    "That combination of serious musical heritage, baroque architecture and Alpine scenery just beyond the city limits makes Salzburg a genuinely natural bridge between Vienna's imperial grandeur and the deeper mountain landscapes of Tyrol and the Salzkammergut lakes."
+  ],
+  "whyVisit": {
+    "intro": "Salzburg's case is that no other Austrian city packs this much baroque architecture, musical heritage and Alpine scenery into one compact, walkable old town.",
+    "points": [
+      {
+        "title": "Hohensalzburg Fortress is genuinely spectacular",
+        "text": "One of Europe's largest, best-preserved medieval fortresses, with sweeping views over the old town below."
+      },
+      {
+        "title": "Mozart's legacy is genuinely everywhere",
+        "text": "His birthplace, childhood home and regular concerts across the city make the connection feel lived rather than merely commemorated."
+      },
+      {
+        "title": "The old town is genuinely one of the best-preserved in Europe",
+        "text": "A UNESCO listing that holds up — narrow baroque streets largely untouched by modern development."
+      },
+      {
+        "title": "The Sound of Music locations are genuinely still stunning",
+        "text": "Whether or not you've seen the film, the gardens and hills that framed it are worth seeing in their own right."
+      },
+      {
+        "title": "It's a genuinely natural gateway to the Alps",
+        "text": "Hallstatt and the Salzkammergut lakes are a short, easy trip from Salzburg."
+      }
+    ]
+  },
+  "attractionsIntro": "Salzburg's essential sights, spanning the baroque old town and the fortress above it.",
+  "attractions": [
+    {
+      "name": "Hohensalzburg Fortress",
+      "image": {
+        "file": "File:Festung Hohensalzburg von Nordost.jpg",
+        "alt": "Hohensalzburg Fortress crowning the hill above Salzburg's old town"
+      },
+      "text": "One of Europe's largest and best-preserved medieval fortresses, its hilltop position offering genuinely sweeping views over Salzburg and the surrounding mountains.",
+      "tip": "Take the funicular up and walk down for the easiest route, or hike up for a more rewarding, if steeper, approach."
+    },
+    {
+      "name": "Mozart's Birthplace",
+      "text": "The house where Wolfgang Amadeus Mozart was born in 1756, now a genuinely well-curated museum of his early life and instruments.",
+      "tip": "Combine with Mozart's Residence, his family's later home, for a genuinely fuller picture of his life in the city."
+    },
+    {
+      "name": "Mirabell Palace and Gardens",
+      "image": {
+        "file": "File:Mirabell Palace 1.jpg",
+        "alt": "The formal gardens of Mirabell Palace in Salzburg, with the fortress visible behind"
+      },
+      "text": "A genuinely picturesque baroque garden with the fortress visible behind, famous as a Sound of Music filming location for the 'Do-Re-Mi' sequence.",
+      "tip": "The gardens are free to enter and genuinely worth an unhurried wander, not just a quick photo stop."
+    },
+    {
+      "name": "Salzburg Cathedral",
+      "text": "A genuinely grand baroque cathedral at the heart of the old town, its dome and twin towers a defining part of Salzburg's skyline.",
+      "tip": "The cathedral excavations beneath the square reveal Roman-era foundations, a worthwhile add-on for the curious."
+    },
+    {
+      "name": "Getreidegasse",
+      "text": "Salzburg's famous shopping street, its narrow medieval lane lined with wrought-iron guild signs, genuinely atmospheric even amid the tourist crowds.",
+      "tip": "Look up at the guild signs above each shop — many are genuinely centuries old and worth noticing beyond the busy street level."
+    },
+    {
+      "name": "Hellbrunn Palace and Trick Fountains",
+      "text": "A genuinely playful 17th-century palace built for entertainment, its trick fountains designed to surprise unsuspecting visitors, a lighter counterpoint to the city's grander sights.",
+      "tip": "Wear clothes you don't mind getting wet — the trick fountains genuinely do catch visitors off guard."
+    }
+  ],
+  "thingsToDoIntro": "Beyond the old town's sights, Salzburg rewards its music scene and the Sound of Music countryside beyond the city.",
+  "thingsToDo": [
+    {
+      "title": "Take a Sound of Music tour",
+      "text": "Guided tours visit the film's key locations across Salzburg and the surrounding countryside, genuinely popular whether or not you know the film well.",
+      "tip": "A bicycle tour offers a genuinely more active, scenic way to cover the same locations than a bus tour."
+    },
+    {
+      "title": "Attend a Mozart concert",
+      "text": "Regular concerts across the city, some in genuinely atmospheric historic venues, keep Mozart's music actively performed rather than only commemorated.",
+      "tip": "The Salzburg Marionette Theatre offers a genuinely unique, if unusual, way to experience Mozart's operas performed by puppets."
+    },
+    {
+      "title": "Walk along the Salzach River",
+      "text": "The river dividing the old and new towns offers genuinely pleasant walking paths with views back toward the fortress and cathedral domes.",
+      "tip": "Cross the Mozartsteg pedestrian bridge for a classic photo angle of the old town skyline."
+    },
+    {
+      "title": "Day trip to the Salzkammergut lakes",
+      "text": "Salzburg makes a genuinely convenient base for exploring nearby Alpine lakes, including Wolfgangsee and Fuschlsee, without committing to a full Hallstatt stay.",
+      "tip": "Wolfgangsee is reachable by bus in under an hour, a genuinely easy half-day trip from the city."
+    },
+    {
+      "title": "Explore the Salzburg Museum",
+      "text": "A genuinely well-curated museum covering the city's history from Roman times through the prince-archbishop era, housed in the New Residence palace.",
+      "tip": "The included audio guide adds genuinely useful context, particularly for the prince-archbishop era's political history."
+    }
+  ],
+  "foodIntro": "Salzburg's food scene blends Austrian classics with a genuinely serious sweets tradition tied to its own local specialty.",
+  "foods": [
+    {
+      "name": "Salzburger Nockerl",
+      "text": "A genuinely dramatic soufflé-style dessert, its three peaks said to represent the hills surrounding Salzburg, baked to order and served immediately.",
+      "whereToTry": "Traditional restaurants across the old town, several specialising in this specific, theatrical dessert."
+    },
+    {
+      "name": "Mozartkugel",
+      "text": "A genuinely iconic marzipan, nougat and chocolate confection created in Salzburg and named for the city's most famous resident.",
+      "whereToTry": "Café Fürst, the original creator, for a genuinely authentic handmade version over mass-produced imitations."
+    },
+    {
+      "name": "Wiener schnitzel",
+      "image": {
+        "file": "File:Wiener Schnitzel at restaurant Kärtner-Eck.jpg",
+        "alt": "A Wiener schnitzel with parsley potatoes"
+      },
+      "text": "Widely available across the city as elsewhere in Austria, genuinely good from Salzburg's traditional gasthauses.",
+      "whereToTry": "Traditional restaurants throughout the old town."
+    },
+    {
+      "name": "Salzburg beer",
+      "text": "Austria's beer culture is genuinely serious, and Salzburg's own breweries, including the historic Augustiner Bräu, offer traditional beer garden settings.",
+      "whereToTry": "Augustiner Bräustübl, a genuinely atmospheric monastery-run beer hall and garden."
+    },
+    {
+      "name": "Apfelstrudel",
+      "text": "Thin pastry rolled around spiced apple filling, genuinely a staple dessert across Salzburg's cafés and restaurants.",
+      "whereToTry": "Traditional konditoreis throughout the old town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Salzburg's old town and the newer district across the river both work as a genuinely convenient base.",
+    "areas": [
+      {
+        "name": "Altstadt (old town)",
+        "bestFor": "Walking to all the major sights",
+        "text": "The most central, historic base, putting the fortress, cathedral and Getreidegasse within easy walking distance."
+      },
+      {
+        "name": "Near Mirabell Gardens",
+        "bestFor": "A quieter, still-central atmosphere",
+        "text": "Just across the river from the old town, genuinely convenient with a slightly calmer, more residential feel."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "€25–40 per night" },
+      { "label": "Mid-range hotel", "value": "€95–170 per night" },
+      { "label": "Hohensalzburg Fortress entry (with funicular)", "value": "€17" },
+      { "label": "Schnitzel dinner", "value": "€15–22" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Salzburg Airport handles regional and some international flights, with fast trains connecting to Vienna and Munich.",
+    "options": [
+      {
+        "mode": "Salzburg Airport (SZG)",
+        "text": "About 20 minutes from the old town by bus or taxi, with limited direct international routes.",
+        "detail": "Many visitors fly into Vienna or Munich and take a train onward instead."
+      },
+      {
+        "mode": "Train from Vienna",
+        "text": "Fast Railjet trains connect [[vienna|Vienna]] to Salzburg in about 2.5 hours.",
+        "detail": "Book Sparschiene discount fares ahead for meaningfully lower prices."
+      },
+      {
+        "mode": "Train to Hallstatt",
+        "text": "A regional train and boat combination reaches [[hallstatt|Hallstatt]] in about 1.5–2 hours.",
+        "detail": "Trains run regularly through the day, with the connecting boat timed to meet arrivals."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Salzburg's old town is genuinely compact and walkable, with buses covering the wider city.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The old town's fortress, cathedral and Getreidegasse all sit within a genuinely compact, walkable area.",
+        "detail": "Comfortable shoes matter for the fortress hill's cobblestones and inclines."
+      },
+      {
+        "mode": "Funicular",
+        "text": "The quickest way up to Hohensalzburg Fortress, sparing the steep walk.",
+        "detail": "Combined fortress-and-funicular tickets are genuinely better value than paying separately."
+      },
+      {
+        "mode": "City buses",
+        "text": "Cover the wider city and outlying sights like Hellbrunn Palace efficiently.",
+        "detail": "A Salzburg Card covers transit alongside museum and attraction discounts."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October, for mild weather and manageable crowds",
+    "summary": "Salzburg is genuinely pleasant most of the year, with spring and autumn offering the best balance of weather and crowds.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Mild, increasingly warm weather, ideal for walking the old town and Mirabell Gardens."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Warm and reliable, though genuinely busy, particularly during the Salzburg Festival in late July and August."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Comfortable temperatures and thinning crowds, a genuinely excellent window for sightseeing."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Cold but genuinely atmospheric for the Christmas markets against the fortress backdrop."
+      }
+    ],
+    "avoid": "Late July through August without accommodation booked ahead, when the Salzburg Festival draws significant crowds and higher prices."
+  },
+  "itinerary": {
+    "title": "Two to three days in Salzburg",
+    "intro": "The fortress and old town first, then Mozart's legacy and the Sound of Music countryside.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The fortress and old town",
+        "summary": "Salzburg's essential sights.",
+        "morning": "Hohensalzburg Fortress, arriving early for the views.",
+        "afternoon": "Salzburg Cathedral and Getreidegasse.",
+        "evening": "Dinner beneath the fortress."
+      },
+      {
+        "day": 2,
+        "title": "Mozart and the gardens",
+        "summary": "The city's musical heritage.",
+        "morning": "Mozart's Birthplace and Residence.",
+        "afternoon": "Mirabell Palace and Gardens.",
+        "evening": "A Mozart concert."
+      },
+      {
+        "day": 3,
+        "title": "Sound of Music countryside or a lake day trip",
+        "summary": "An optional third day beyond the old town.",
+        "morning": "A Sound of Music tour or Hellbrunn Palace.",
+        "afternoon": "A half-day trip to Wolfgangsee.",
+        "evening": "A final Salzburg dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, timing and transport that make a real difference to a Salzburg trip.",
+  "tips": [
+    "Book Hohensalzburg Fortress tickets combined with the funicular for the best value.",
+    "Book accommodation well ahead during the Salzburg Festival in late July and August.",
+    "Wear comfortable shoes for the fortress hill's cobblestones and inclines.",
+    "Check Mozart concert schedules ahead — smaller, historic venues sell out faster than expected.",
+    "Combine Salzburg with a Salzkammergut lake day trip if you don't have time for a full Hallstatt stay.",
+    "Dress warmly for winter visits — Salzburg's Alpine-adjacent climate turns genuinely cold."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Salzburg?",
+      "a": "Two to three. Two covers the fortress and old town at a rushed pace; three allows a Sound of Music tour or lake day trip without feeling hurried."
+    },
+    {
+      "q": "Is Salzburg worth visiting if I don't know The Sound of Music?",
+      "a": "Yes, genuinely — the baroque old town, Hohensalzburg Fortress and Mozart's legacy all stand on their own, and the surrounding countryside is stunning regardless of the film connection."
+    },
+    {
+      "q": "How do I get from Salzburg to Hallstatt?",
+      "a": "A regional train and boat combination covers it in about 1.5–2 hours, with trains running regularly through the day and a connecting boat timed to meet arrivals."
+    },
+    {
+      "q": "Is Salzburg expensive?",
+      "a": "Comparable to the rest of Austria, running slightly below Vienna's capital-city premium — mid-range travel works out to roughly €85–150 per person per day."
+    },
+    {
+      "q": "What is the best time of year to visit?",
+      "a": "April to June and September to October offer the most comfortable weather for sightseeing. Late July and August bring the Salzburg Festival's crowds and higher prices, worth booking well ahead for if that's your focus."
+    }
+  ],
+  "related": ["hallstatt", "vienna", "innsbruck"],
+  "relatedArticles": ["europe-by-train", "underrated-destinations"]
+}
