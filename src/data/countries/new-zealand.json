@@ -287,7 +287,7 @@
   },
   "itinerary": {
     "title": "Eighteen days in New Zealand",
-    "intro": "North Island first, then a South Island loop covering the country's most dramatic scenery. Covers seven of the ten destinations in this guide.",
+    "intro": "North Island first, then a South Island loop covering the country's most dramatic scenery. Covers eight of the ten destinations in this guide, at a genuinely realistic pace rather than a rushed one.",
     "days": [
       {
         "day": 1,
@@ -298,87 +298,122 @@
       },
       {
         "day": 2,
-        "title": "Auckland and Hobbiton",
+        "title": "Auckland city day",
+        "morning": "The Auckland War Memorial Museum and the Auckland Domain.",
+        "afternoon": "Sail Auckland's harbour, or explore Ponsonby.",
+        "evening": "Dinner in the Viaduct Harbour."
+      },
+      {
+        "day": 3,
+        "title": "Hobbiton",
         "morning": "A day trip to the Hobbiton movie set.",
         "afternoon": "Return to Auckland.",
         "evening": "A final Auckland dinner."
       },
       {
-        "day": 3,
+        "day": 4,
         "title": "To Rotorua",
         "morning": "Drive to Rotorua.",
-        "afternoon": "The geothermal parks and Te Puia.",
+        "afternoon": "Te Puia and the Whakarewarewa Living Maori Village.",
         "evening": "A hangi feast and Maori cultural performance."
       },
       {
-        "day": 4,
+        "day": 5,
+        "title": "Rotorua geothermal day",
+        "morning": "Wai-O-Tapu Thermal Wonderland.",
+        "afternoon": "The Redwoods Treewalk.",
+        "evening": "A soak at the Polynesian Spa."
+      },
+      {
+        "day": 6,
         "title": "Tongariro",
         "morning": "Drive to Tongariro National Park.",
         "afternoon": "The Tongariro Alpine Crossing, if conditions allow.",
         "evening": "Rest in National Park village."
       },
       {
-        "day": 5,
+        "day": 7,
         "title": "To Wellington",
         "morning": "Drive south to Wellington.",
         "afternoon": "Te Papa museum.",
         "evening": "Dinner on Cuba Street."
       },
       {
-        "day": 6,
+        "day": 8,
+        "title": "Wellington city day",
+        "morning": "Ride the Cable Car and walk down through the Botanic Garden.",
+        "afternoon": "Tour Weta Workshop.",
+        "evening": "Explore Cuba Street's cafes and bars."
+      },
+      {
+        "day": 9,
         "title": "Ferry to the South Island",
         "morning": "The Interislander ferry across Cook Strait to Picton.",
         "afternoon": "Drive on to Christchurch.",
         "evening": "Settle in for the night."
       },
       {
-        "day": 7,
+        "day": 10,
         "title": "Christchurch",
         "morning": "The Botanic Gardens and rebuilt city centre.",
         "afternoon": "The Christchurch tram and Cathedral Square.",
         "evening": "A final Christchurch dinner."
       },
       {
-        "day": 8,
+        "day": 11,
         "title": "To Queenstown",
         "morning": "Drive or fly to Queenstown.",
-        "afternoon": "Settle in and explore the lakefront.",
-        "evening": "Dinner with a view of Lake Wakatipu."
+        "afternoon": "Settle in and explore the Lake Wakatipu waterfront.",
+        "evening": "Dinner with a view of the lake."
       },
       {
-        "day": 9,
+        "day": 12,
         "title": "Queenstown adventure day",
-        "morning": "A bungee jump or skydive, if that's your style.",
-        "afternoon": "The Skyline Gondola and luge.",
+        "morning": "A bungee jump at the Kawarau Gorge, or a skydive.",
+        "afternoon": "Ride the Skyline Gondola and luge.",
         "evening": "Dinner in central Queenstown."
       },
       {
-        "day": 10,
+        "day": 13,
+        "title": "Queenstown, at a slower pace",
+        "morning": "Jet boat the Shotover River, or ski Coronet Peak or The Remarkables in winter.",
+        "afternoon": "Arrowtown, then wine tasting in the Gibbston Valley.",
+        "evening": "Dinner in central Queenstown."
+      },
+      {
+        "day": 14,
         "title": "Milford Sound",
         "morning": "An early drive to Milford Sound.",
-        "afternoon": "A fiord cruise.",
+        "afternoon": "A fiord cruise past Mitre Peak.",
         "evening": "Return to Queenstown or Te Anau."
       },
       {
-        "day": 11,
+        "day": 15,
         "title": "To the glaciers",
-        "morning": "Drive north along the West Coast.",
+        "morning": "Drive north along the West Coast via Haast Pass.",
         "afternoon": "Arrive at Franz Josef or Fox Glacier.",
         "evening": "Settle in for the night."
       },
       {
-        "day": 12,
+        "day": 16,
         "title": "Glacier day",
-        "morning": "A guided glacier walk or scenic flight.",
+        "morning": "A guided glacier heli-hike or scenic flight.",
         "afternoon": "The glacier valley walking tracks.",
         "evening": "A final West Coast dinner."
       },
       {
-        "day": 13,
-        "title": "Return north",
-        "morning": "Drive or fly back toward Christchurch.",
-        "afternoon": "Free time or an Abel Tasman detour.",
-        "evening": "Depart for home, or extend the trip further."
+        "day": 17,
+        "title": "Lake Matheson and onward",
+        "morning": "Lake Matheson at dawn for the mirror reflections.",
+        "afternoon": "Drive back toward Christchurch.",
+        "evening": "Settle in for the night."
+      },
+      {
+        "day": 18,
+        "title": "Return and depart",
+        "morning": "Free time in Christchurch, or an early flight.",
+        "afternoon": "Return the rental car and head to the airport.",
+        "evening": "Depart for home, or extend the trip further with an Abel Tasman detour."
       }
     ]
   },

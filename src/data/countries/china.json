@@ -253,7 +253,7 @@
   },
   "itinerary": {
     "title": "Two weeks in China",
-    "intro": "Beijing and Xi'an for the imperial history, then south to Guilin's karst landscape and on to Shanghai. Covers four of the ten destinations in this guide and needs no car at all.",
+    "intro": "Beijing and Xi'an for the imperial history, then south to Guilin's karst landscape and on to Shanghai. Covers five of the ten destinations in this guide and needs no car at all.",
     "days": [
       {
         "day": 1,
@@ -281,59 +281,73 @@
         "title": "The Temple of Heaven and the Summer Palace",
         "morning": "The Temple of Heaven at dawn, when locals practise tai chi around it.",
         "afternoon": "The Summer Palace, Empress Dowager Cixi's lakeside retreat.",
-        "evening": "High-speed train to Xi'an, arriving late."
+        "evening": "A final Beijing dinner near your hotel."
       },
       {
         "day": 5,
+        "title": "Beijing's other side",
+        "morning": "The Lama Temple, Beijing's largest working Tibetan Buddhist temple.",
+        "afternoon": "The 798 Art District, or a bike ride around Houhai lake.",
+        "evening": "High-speed train to Xi'an, arriving late."
+      },
+      {
+        "day": 6,
         "title": "The Terracotta Army",
         "morning": "The Terracotta Warriors site at opening, before the tour buses.",
         "afternoon": "The Xi'an City Wall, cycled or walked in a loop.",
         "evening": "The Muslim Quarter's street food, biang biang noodles first."
       },
       {
-        "day": 6,
+        "day": 7,
         "title": "Xi'an's other layer",
         "morning": "The Shaanxi History Museum for context on everything you have seen.",
         "afternoon": "The Big Wild Goose Pagoda and its square.",
         "evening": "Fly to Guilin."
       },
       {
-        "day": 7,
+        "day": 8,
         "title": "The Li River",
         "morning": "A cruise down the Li River from Guilin to Yangshuo, through the karst peaks.",
         "afternoon": "Settle into Yangshuo and walk West Street.",
         "evening": "The Impression Sanjie Liu light show on the river, if it is running."
       },
       {
-        "day": 8,
+        "day": 9,
         "title": "Yangshuo's countryside",
         "morning": "Cycle the Yulong River valley among the rice paddies and peaks.",
         "afternoon": "Moon Hill, climbed or simply admired from below.",
         "evening": "Beer fish, the local speciality, by the river."
       },
       {
-        "day": 9,
+        "day": 10,
         "title": "To Shanghai",
         "morning": "Fly to Shanghai.",
         "afternoon": "The Bund at golden hour, looking across at Pudong.",
         "evening": "Xiaolongbao in the old town, near Yu Garden."
       },
       {
-        "day": 10,
+        "day": 11,
         "title": "Old and new Shanghai",
         "morning": "Yu Garden and the old city god temple area.",
         "afternoon": "The French Concession's tree-lined streets and cafes.",
         "evening": "Pudong's observation decks for the skyline lit up."
       },
       {
-        "day": 11,
+        "day": 12,
         "title": "A day in Suzhou",
         "morning": "High-speed train to Suzhou, twenty-five minutes.",
         "afternoon": "The Humble Administrator's Garden and the old canal streets.",
         "evening": "Back to Shanghai for a last dinner."
       },
       {
-        "day": 12,
+        "day": 13,
+        "title": "A day in Hangzhou",
+        "morning": "High-speed train to Hangzhou, under an hour.",
+        "afternoon": "West Lake's causeways and pagodas, on foot or by rented bike.",
+        "evening": "Back to Shanghai for the night."
+      },
+      {
+        "day": 14,
         "title": "Depart",
         "morning": "A last walk or some shopping, depending on your flight.",
         "afternoon": "Transfer to Pudong International Airport.",
