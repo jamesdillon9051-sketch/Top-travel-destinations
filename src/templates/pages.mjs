@@ -100,8 +100,8 @@ export function renderPrivacyPolicy({ site }) {
         <h1 class="page-head__title">Privacy Policy</h1>
         <p class="page-head__lead">
           The short version: this site has no accounts and sets no cookies of its own, but it
-          does run third-party advertising, which does. The full breakdown, including exactly
-          what that means, is below. Last updated ${updated}.
+          does run third-party advertising and analytics, both of which do. The full breakdown,
+          including exactly what that means, is below. Last updated ${updated}.
         </p>
       </div>
     </div>
@@ -114,10 +114,10 @@ export function renderPrivacyPolicy({ site }) {
         `${site.title} has no user accounts, no sign-up forms, no comment sections and no
          newsletter. There is nothing to fill in and nothing personal to submit, so nothing
          personal is stored by the site itself.`,
-        `This site runs no analytics of its own and sets no cookies of its own. Every stylesheet,
-         script, font and image the site itself needs is served from this same domain — the one
-         exception is the advertising described in the next section, which is a genuinely
-         separate, third-party thing rather than something this site's own code does.`
+        `This site runs no analytics or advertising of its own, and sets no cookies of its own.
+         Every stylesheet, script, font and image the site itself needs is served from this same
+         domain — the analytics and advertising described in the next two sections are both
+         genuinely separate, third-party things rather than something this site's own code does.`
       ])
     })}
 
@@ -137,6 +137,21 @@ export function renderPrivacyPolicy({ site }) {
         `One of the ad formats in use is a popunder, which can open a new browser tab or window
          in the background as you browse. If that happens, closing the extra tab is all it takes
          — it doesn't affect anything on this site itself.`
+      ])
+    })}
+
+    ${section({
+      id: 'analytics',
+      eyebrow: 'Analytics',
+      title: 'Analytics',
+      body: prose([
+        raw(`${esc(site.title)} uses
+         <a href="https://marketingplatform.google.com/about/analytics/" rel="noopener">Google Analytics</a>
+         to see how many people visit and which pages get read, on every page including this one.
+         Google Analytics sets its own cookies and collects standard technical information — pages
+         viewed, approximate location, device and browser type — governed by
+         <a href="https://policies.google.com/privacy" rel="noopener">Google's own privacy policy</a>,
+         not by anything this site's code configures.`)
       ])
     })}
 
@@ -184,10 +199,10 @@ export function renderPrivacyPolicy({ site }) {
       eyebrow: 'Updates',
       title: 'Changes to this policy',
       body: prose([
-        `If what this site does ever changes in a way that affects your privacy — for example, if
-         analytics were added in future — this page would be updated to say so plainly, with the
-         "last updated" date above changed to match. There is no mailing list to notify, because
-         there is no mailing list.`
+        `If what this site does ever changes in a way that affects your privacy — a new tracking
+         partner, say, or a different ad network — this page would be updated to say so plainly,
+         with the "last updated" date above changed to match. There is no mailing list to notify,
+         because there is no mailing list.`
       ])
     })}
 
@@ -206,7 +221,7 @@ export function renderPrivacyPolicy({ site }) {
   return layout({
     site,
     title: 'Privacy Policy',
-    description: `Privacy policy for ${site.title}: no accounts, no analytics and no cookies of our own — the one exception is third-party advertising, covered in full below.`,
+    description: `Privacy policy for ${site.title}: no accounts and no cookies of our own — the exceptions are third-party advertising and analytics, both covered in full below.`,
     path: 'privacy-policy',
     bodyClass: 'page-simple',
     schema: [

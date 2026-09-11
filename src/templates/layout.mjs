@@ -14,6 +14,19 @@ const NAV = [
  * describes exactly what does and doesn't load third-party scripts. */
 const AD_EXCLUDED_PATHS = new Set(['about', 'privacy-policy']);
 
+/** Google tag (gtag.js) — runs site-wide, including About and Privacy Policy. */
+const GA_SCRIPT = raw(
+  `<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KNX9706SB6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KNX9706SB6');
+</script>`
+);
+
 /**
  * Popunder loader — self-injecting, no container needed. Adsterra's static-
  * HTML-site guide places this right before the closing </head> tag.
@@ -164,6 +177,7 @@ export function layout({
   return `<!doctype html>
 <html lang="en">
 <head>
+${GA_SCRIPT.toString()}
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(fullTitle)}</title>
