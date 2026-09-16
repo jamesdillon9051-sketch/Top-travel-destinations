@@ -1,0 +1,128 @@
+{
+  "country": "norway",
+  "title": "The Complete Norway Travel Guide",
+  "subtitle": "Fjords, mountains and the midnight sun along one of Europe's most dramatic coastlines",
+  "summary": "How to plan a Norway trip: whether to focus on the cities, the fjords or the far north, when to go for the midnight sun versus the northern lights, what it costs, and a practical eight-day itinerary.",
+  "readingTime": "12 min read",
+  "updated": "2026",
+  "sections": [
+    {
+      "id": "how-norway-divides",
+      "title": "How Norway divides",
+      "navLabel": "The regions",
+      "body": [
+        "Norway genuinely divides into a long chain of very different regions strung along its coastline — treating the whole country as one short loop is the most common planning mistake.",
+        "**The southeast.** [[oslo|Oslo]], the capital, and its surrounding region — museums, a compact walkable centre, and the easiest part of the country to reach.",
+        "**The fjord country.** [[bergen|Bergen]], [[geirangerfjord|Geirangerfjord]] and [[alesund-atlantic-road|Ålesund and the Atlantic Road]] — Norway's most iconic scenery, and genuinely the reason most people visit.",
+        "**The far north.** [[lofoten-islands|Lofoten]], [[tromso|Tromsø]] and [[trondheim|Trondheim]] — the midnight sun, the northern lights, and dramatic Arctic island scenery.",
+        "**The wild edges.** [[jotunheimen|Jotunheimen]]'s high mountains and [[svalbard|Svalbard]]'s polar wilderness are both genuinely spectacular but reward visitors with more time and a bigger budget."
+      ],
+      "note": "Most first-time visitors genuinely combine [[oslo|Oslo]], [[bergen|Bergen]] and one fjord region in a single trip. Svalbard and the far north are where a longer or second trip belongs."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If this is your first trip",
+          "text": "[[oslo|Oslo]] and [[bergen|Bergen]], connected by the Bergen Line train, the classic short Norway route and genuinely the most popular for a reason."
+        },
+        {
+          "title": "If you want the classic fjord scenery",
+          "text": "Add [[geirangerfjord|Geirangerfjord]] and [[alesund-atlantic-road|Ålesund]] to the Oslo-Bergen route for a genuinely complete first look at the fjords."
+        },
+        {
+          "title": "If you want the midnight sun and dramatic islands",
+          "text": "[[lofoten-islands|Lofoten]], genuinely one of the most photogenic places in the entire country."
+        },
+        {
+          "title": "If you want the northern lights",
+          "text": "[[tromso|Tromsø]], genuinely one of the most reliable and accessible places on Earth to see the aurora."
+        },
+        {
+          "title": "If you want serious mountain hiking",
+          "text": "[[jotunheimen|Jotunheimen]], home to Norway's highest peaks and genuinely excellent multi-day trekking."
+        },
+        {
+          "title": "If you want true Arctic wilderness",
+          "text": "[[svalbard|Svalbard]], genuinely still home to more polar bears than people, reachable only by guided tour."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around: trains, ferries, and one common mistake",
+      "navLabel": "Getting around",
+      "body": [
+        "Norway's fjord-cut geography genuinely means no single mode of transport covers the whole country — a mix of train, ferry, bus and sometimes a domestic flight is standard.",
+        "**Rent a car for the fjord regions.** It's genuinely the most flexible way to see [[geirangerfjord|Geirangerfjord]], [[stavanger-preikestolen|Preikestolen]] and [[alesund-atlantic-road|the Atlantic Road]] at your own pace.",
+        "**Don't underestimate driving times.** A route that looks like two hours on a map can genuinely take four with ferry waits and mountain switchbacks.",
+        "**Take the Bergen Line at least once.** The [[oslo|Oslo]]-[[bergen|Bergen]] train is genuinely one of the world's great scenic rail journeys, not just a way to get somewhere.",
+        "**Fly for the far north.** A domestic flight to [[tromso|Tromsø]] or [[svalbard|Svalbard]] genuinely saves days of travel given Norway's sheer length.",
+        "**Book ferries and popular hikes ahead in summer.** Fjord ferries and the Preikestolen car park genuinely fill up fast in peak season."
+      ],
+      "note": "Book your rental car and accommodation months ahead for a June–August trip — Norway's fjord-region capacity genuinely sells out early in peak season."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Norway's seasons offer such different experiences that 'the best time' depends entirely on what you want to see. Two windows generally work best: **June to August** and **September to March** for the far north.",
+        "**Summer** brings near-endless daylight in the north, all mountain roads open, and the mildest weather — also genuinely the busiest and most expensive season.",
+        "**Fjord regions** are genuinely best visited May to September, when mountain passes and ferry schedules run at full capacity.",
+        "**The northern lights season**, roughly September to March, offers a genuinely good chance of the aurora above the Arctic Circle on clear, dark nights.",
+        "**Deep winter** is genuinely dramatic in the north — snow, the aurora and a real sense of the Arctic — but short days and road closures limit how much of the country you can cover."
+      ],
+      "note": "Book fjord-region accommodation and any Preikestolen or Trolltunga hike logistics many months ahead for June–August — this is genuinely the busiest and most tightly booked window of the year."
+    },
+    {
+      "id": "itineraries",
+      "title": "Four routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "Four days: Oslo and Bergen",
+          "text": "[[oslo|Oslo]] and [[bergen|Bergen]], connected by the scenic Bergen Line, genuinely the most popular short Norway itinerary.",
+          "tip": "Book a window seat on the Bergen Line and sit on the left travelling from Oslo for the best mountain views."
+        },
+        {
+          "title": "Eight days: the classic fjord route",
+          "text": "The itinerary on the [[c:norway|Norway country page]]: [[oslo|Oslo]], [[bergen|Bergen]], [[geirangerfjord|Geirangerfjord]] and [[alesund-atlantic-road|Ålesund]]. A genuinely complete first look at Norway's southern and western highlights.",
+          "tip": "Break the fjord drive into realistic daily distances — Norway's roads reward a slower pace than the map alone suggests."
+        },
+        {
+          "title": "A week focused on the far north",
+          "text": "[[tromso|Tromsø]] and [[lofoten-islands|Lofoten]] as a self-contained trip, genuinely distinct enough from the southern fjords to justify dedicated time on their own.",
+          "tip": "Visit in winter for the northern lights or summer for the midnight sun — the two seasons are almost entirely different trips."
+        },
+        {
+          "title": "A Svalbard add-on for a second trip",
+          "text": "[[svalbard|Svalbard]] by guided expedition, genuinely one of the most remote and otherworldly landscapes in a country full of them.",
+          "tip": "Book a genuinely reputable guided operator — independent travel outside Longyearbyen is restricted for real safety reasons."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Norway?",
+      "a": "A week to ten days covers Oslo, Bergen and the western fjords at a reasonable pace, which is the itinerary in this guide. Three to four days is enough for Oslo and Bergen, and genuinely still worthwhile on its own."
+    },
+    {
+      "q": "Is the fjord scenery worth the cost of visiting Norway?",
+      "a": "Yes, genuinely — the fjords are a large part of why people come, and no photograph quite captures standing beneath cliffs that rise straight out of the water."
+    },
+    {
+      "q": "Do you need a car in Norway?",
+      "a": "For the fjord regions, yes, genuinely — though a combination of trains, buses and ferries also covers the country well without one."
+    },
+    {
+      "q": "When should I visit to see the northern lights?",
+      "a": "Roughly September to March in northern Norway, on clear, dark nights — genuinely never guaranteed, but a real, frequent possibility above the Arctic Circle."
+    }
+  ]
+}

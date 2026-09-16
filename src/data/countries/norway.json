@@ -1,0 +1,380 @@
+{
+  "slug": "norway",
+  "name": "Norway",
+  "continent": "Northern Europe",
+  "countryCode": "NO",
+  "tagline": "A country of fjords, mountains and arctic islands, where a single coastal drive can pass waterfalls, glaciers and villages clinging to sheer rock walls.",
+  "cardDescription": "Deep fjords carved by ice, colourful wooden harbours in Bergen and Ålesund, the midnight sun over Lofoten, and the northern lights above Tromsø.",
+  "metaDescription": "A complete Norway travel guide: the 10 best places to visit, fjord cruises, the northern lights, costs and a practical eight-day itinerary.",
+  "image": {
+    "file": "File:Fiordo de Geiranger desde Flydalsjuvet, Noruega, 2019-09-07, DD 59.jpg",
+    "alt": "Geirangerfjord seen from the Flydalsjuvet viewpoint in Norway"
+  },
+  "destinations": [
+    "oslo",
+    "bergen",
+    "geirangerfjord",
+    "lofoten-islands",
+    "stavanger-preikestolen",
+    "tromso",
+    "trondheim",
+    "alesund-atlantic-road",
+    "jotunheimen",
+    "svalbard"
+  ],
+  "intro": [
+    "Norway is genuinely defined by its coastline — a jagged, fjord-cut edge of Europe stretching further than the distance from London to Cairo, carved over ice ages into some of the most dramatic scenery on the continent.",
+    "That geography shapes everything about visiting: a single day's drive can pass waterfalls dropping straight into the sea, mountain villages reachable only by ferry, and roads that switchback up cliff faces to viewpoints that genuinely look unreal in photos until you're standing there yourself.",
+    "It's also a country of real extremes — the midnight sun keeps parts of the north in daylight for months each summer, while winter brings the northern lights and some of Europe's best conditions for seeing them, and Svalbard, far inside the Arctic Circle, holds more polar bears than people."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit — though Svalbard and the far north reward a second trip just as much as a first.",
+  "thingsToDoIntro": "The experiences that recur across the country and that make a Norway trip feel like more than a checklist of fjords.",
+  "thingsToDo": [
+    {
+      "title": "Cruise a fjord",
+      "image": {
+        "file": "File:Geirangerfjord from Ørnesvingen, 2013 June.jpg",
+        "alt": "Geirangerfjord seen from the Ørnesvingen viewpoint"
+      },
+      "text": "Genuinely the essential Norway experience, gliding between sheer rock walls and waterfalls on a boat cruise through one of the UNESCO-listed fjords.",
+      "tip": "A genuinely smaller boat or kayak tour gets far closer to the waterfalls than the larger cruise ships."
+    },
+    {
+      "title": "See the northern lights",
+      "image": {
+        "file": "File:Northern Lights (237004809).jpeg",
+        "alt": "The aurora borealis glowing green over northern Norway"
+      },
+      "text": "Northern Norway is genuinely one of the most reliable places on Earth to see the aurora, visible on clear, dark nights roughly September to March.",
+      "tip": "Tromsø's genuinely aurora forecast and cloud cover map matter more than the activity index alone — clear skies are what counts."
+    },
+    {
+      "title": "Hike to Preikestolen (Pulpit Rock)",
+      "image": {
+        "file": "File:Pulpit Rock, Preekstoel, Preikestolen - panoramio.jpg",
+        "alt": "Preikestolen, a flat cliff plateau above Lysefjord"
+      },
+      "text": "A genuinely spectacular flat rock plateau jutting 604 metres above Lysefjord, reached by a well-marked but genuinely strenuous day hike.",
+      "tip": "Start genuinely early to avoid both the midday crowds and afternoon cloud that can roll in."
+    },
+    {
+      "title": "Drive the Atlantic Road",
+      "image": {
+        "file": "File:Route de l'Atlantique en norvège.jpg",
+        "alt": "The Atlantic Road winding across small islands and bridges in Norway"
+      },
+      "text": "A genuinely thrilling stretch of road hopping between small islands on low bridges, with the open Norwegian Sea crashing on either side.",
+      "tip": "Storm season genuinely brings dramatic waves crashing over the road — thrilling from a safe distance."
+    },
+    {
+      "title": "Spot reindeer in the wild",
+      "image": {
+        "file": "File:Tromsø reindeer (5).jpg",
+        "alt": "Wild reindeer grazing near Tromsø in northern Norway"
+      },
+      "text": "Genuinely common across northern Norway, where reindeer herding remains a living Sami tradition rather than a tourist display.",
+      "tip": "Drive genuinely carefully on rural northern roads — reindeer cross unpredictably, especially at dusk."
+    },
+    {
+      "title": "Experience the midnight sun",
+      "image": {
+        "file": "File:Soleil de minuit - Lofoten.jpg",
+        "alt": "The midnight sun over the Lofoten Islands in summer"
+      },
+      "text": "North of the Arctic Circle, the sun genuinely doesn't set at all for weeks around midsummer, turning midnight into golden-hour light.",
+      "tip": "Pack genuinely a proper eye mask — hotel blackout curtains alone often aren't enough for sleeping in constant daylight."
+    }
+  ],
+  "foodIntro": "Norwegian food's reputation abroad rarely does justice to a genuinely serious seafood and dairy culture found at every price point.",
+  "foods": [
+    {
+      "name": "Salmon (gravlax)",
+      "image": {
+        "file": "File:Gravlax 2.jpg",
+        "alt": "Gravlax, cured salmon, a Norwegian and Scandinavian specialty"
+      },
+      "text": "Genuinely among the best in the world, whether cured as gravlax, smoked, or simply grilled fresh from the fjords.",
+      "whereToTry": "Restaurants and fish markets nationwide, especially in Bergen."
+    },
+    {
+      "name": "Brunost (brown cheese)",
+      "image": {
+        "file": "File:Brunost - Brown cheese.jpg",
+        "alt": "Brunost, Norway's distinctive caramel-coloured brown cheese"
+      },
+      "text": "A genuinely uniquely Norwegian caramelised whey cheese, sweet and tangy, traditionally sliced thin with a special cheese slicer.",
+      "whereToTry": "Breakfast tables and supermarkets nationwide — a genuine daily staple."
+    },
+    {
+      "name": "Fårikål",
+      "image": {
+        "file": "File:Får i kål.jpg",
+        "alt": "Fårikål, Norway's national dish of lamb and cabbage stew"
+      },
+      "text": "Genuinely Norway's official national dish, a simple, hearty stew of lamb and cabbage, traditionally eaten in autumn.",
+      "whereToTry": "Traditional restaurants nationwide, especially September through October."
+    },
+    {
+      "name": "Cloudberries (molter)",
+      "image": {
+        "file": "File:Cloudberry (Molte) (Rubus chamaemorus) - Tromsø, Norway 2023-07-07.jpg",
+        "alt": "Cloudberries, a prized wild Norwegian berry"
+      },
+      "text": "A genuinely prized wild arctic berry, amber-coloured and tart-sweet, traditionally served with whipped cream as a dessert.",
+      "whereToTry": "Restaurants across northern Norway in late summer, when the berries ripen."
+    },
+    {
+      "name": "Reindeer",
+      "text": "A genuinely traditional Sami food from the north, served as stew, smoked, or dried, with a rich, slightly gamey flavour.",
+      "whereToTry": "Restaurants in Tromsø and other northern towns."
+    },
+    {
+      "name": "Vafler (waffles)",
+      "text": "Genuinely a beloved Norwegian snack, heart-shaped and softer than Belgian waffles, usually topped simply with sour cream and jam.",
+      "whereToTry": "Cafés and mountain cabins nationwide."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Norway is straightforward and exceptionally well organised to travel in, with genuinely high prices and long driving distances the two practicalities that most often catch visitors out.",
+  "practical": {
+    "capital": "Oslo",
+    "language": "Norwegian (Bokmål and Nynorsk) nationally, with exceptionally high English fluency virtually everywhere.",
+    "currency": "Norwegian krone (kr, NOK)",
+    "money": "Genuinely card-first — cash is rarely needed anywhere, including for the smallest purchases.",
+    "visa": "Visa-free entry for up to 90 days within a 180-day period for many nationalities including the US, Canada, Australia and UK, under the Schengen Area's common rules.",
+    "plugs": "Type C and F (Europlug/Schuko), 230 V, 50 Hz — standard continental European two-pin plugs.",
+    "emergency": "112 for police, 113 for ambulance, 110 for fire, nationwide.",
+    "tipping": "Not expected — service is already included in prices nationwide, though rounding up is a welcome small gesture.",
+    "safety": "Extremely safe overall, consistently ranked among the world's most peaceful countries. The real risks are environmental — weather, avalanche terrain and fjord ferry timing — not crime.",
+    "connectivity": "Excellent 4G and 5G coverage nationwide, including most fjord and mountain areas, though genuinely patchy in remote Svalbard.",
+    "timeZone": "Central European Time (UTC+1), Central European Summer Time (UTC+2) late March to late October.",
+    "budget": [
+      { "label": "Backpacker", "value": "NOK 700–1,100 per day — hostels, supermarket meals, buses" },
+      { "label": "Mid-range", "value": "NOK 1,500–2,500 per day — guesthouses, restaurant meals, a rental car" },
+      { "label": "Comfortable", "value": "NOK 3,000–5,000 per day — hotels, fjord cruises, domestic flights" },
+      { "label": "Svalbard supplement", "value": "Add significantly for any Svalbard extension — flights and guided tours there are genuinely expensive" }
+    ]
+  },
+  "bestTime": {
+    "headline": "June–August for the midnight sun and easiest travel, or September–March for the northern lights",
+    "summary": "Norway is genuinely a year-round destination, but summer and winter offer such different experiences that the season you choose shapes the whole trip.",
+    "seasons": [
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Near-endless daylight in the north, all mountain roads open, and the mildest, most reliable weather — also genuinely the busiest and most expensive season."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Genuinely quieter, with the northern lights becoming visible again as nights darken, though weather turns noticeably less predictable."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "good",
+        "text": "Short days but genuinely dramatic, with the best northern lights odds and a real chance of snow closing mountain roads."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "good",
+        "text": "Increasingly long days and thinner crowds than summer, though some mountain roads genuinely stay closed until May or June."
+      }
+    ],
+    "avoid": "Attempting high mountain passes or the Atlantic Road outside May–September, when winter storms and snow genuinely make driving hazardous or impossible."
+  },
+  "tripDuration": {
+    "headline": "7–10 days for a first trip",
+    "summary": "Norway's fjords and its sheer north-south length make a full loop genuinely rewarding but time-hungry — rushing it defeats much of the point.",
+    "options": [
+      {
+        "length": "3–4 days",
+        "text": "Oslo and Bergen, connected by the scenic Bergen Line train, the classic short Norway trip.",
+        "detail": "Genuinely the most popular short itinerary, covering the country's two largest cities without a fjord-region commitment."
+      },
+      {
+        "length": "5–7 days",
+        "text": "Oslo, Bergen and a fjord region such as Geirangerfjord or the Sognefjord area, connected by train, bus and ferry.",
+        "detail": "Enough time to add real fjord depth to the classic city route."
+      },
+      {
+        "length": "8–10 days",
+        "text": "The itinerary on this page: Oslo, Bergen, the fjords and Ålesund, at a genuinely unrushed pace.",
+        "detail": "A genuinely complete first look at Norway's southern and western highlights."
+      },
+      {
+        "length": "2 weeks or more",
+        "text": "Add Lofoten, Tromsø or Svalbard in full, all genuinely worth dedicated time rather than a rushed detour.",
+        "detail": "The far north and Svalbard are where a second Norway trip belongs."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "A mix of rental car, train and ferry is genuinely the standard way to see Norway — the fjord-cut geography makes any single mode of transport insufficient on its own.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Genuinely essential for reaching [[geirangerfjord|Geirangerfjord]], [[stavanger-preikestolen|Preikestolen]] and [[alesund-atlantic-road|the Atlantic Road]] at a flexible pace.",
+        "detail": "Winter tyres and real caution are genuinely required outside summer on mountain roads."
+      },
+      {
+        "mode": "Domestic flights",
+        "text": "Connect [[oslo|Oslo]] to [[tromso|Tromsø]], [[svalbard|Svalbard]] and other distant regions in under two hours, essential given Norway's length.",
+        "detail": "Widely used even by Norwegians themselves, given the country's sheer north-south distance."
+      },
+      {
+        "mode": "The Bergen Line and other scenic trains",
+        "text": "A genuinely spectacular rail route connecting [[oslo|Oslo]] and [[bergen|Bergen]] over the mountains.",
+        "detail": "Widely considered one of the world's great train journeys in its own right."
+      },
+      {
+        "mode": "Hurtigruten coastal ferry",
+        "text": "A genuinely iconic working ferry route up the entire coast, stopping at towns including [[trondheim|Trondheim]] and [[tromso|Tromsø]].",
+        "detail": "Both a practical transport option and a popular cruise-style holiday in itself."
+      },
+      {
+        "mode": "Local ferries and express boats",
+        "text": "Genuinely essential for reaching fjordside villages and islands with no road access.",
+        "detail": "Many are included in Norway's otherwise excellent public transport ticketing."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Eight days in Norway",
+    "intro": "A classic first route from Oslo across the mountains to Bergen and the western fjords, looping back via Ålesund. Covers four of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Oslo",
+        "morning": "Land in Oslo and check in to your hotel.",
+        "afternoon": "Walk the harbour and explore central Oslo.",
+        "evening": "Dinner in the Grünerløkka district."
+      },
+      {
+        "day": 2,
+        "title": "Oslo's sights",
+        "morning": "The Vigeland Sculpture Park.",
+        "afternoon": "The Oslo Opera House and the waterfront museums.",
+        "evening": "A final Oslo dinner before travelling on."
+      },
+      {
+        "day": 3,
+        "title": "The Bergen Line to Bergen",
+        "morning": "Board the scenic Bergen Line train across the mountains.",
+        "afternoon": "Arrive in Bergen and settle in.",
+        "evening": "Dinner near Bryggen's old wharf."
+      },
+      {
+        "day": 4,
+        "title": "Bergen",
+        "morning": "Bryggen's colourful wooden buildings and the fish market.",
+        "afternoon": "Ride the funicular up Mount Fløyen.",
+        "evening": "Explore Bergen's old town further."
+      },
+      {
+        "day": 5,
+        "title": "Into the fjords",
+        "morning": "Travel by train, bus and ferry toward Geirangerfjord.",
+        "afternoon": "Arrive and settle in near the fjord.",
+        "evening": "Watch the light change over the water."
+      },
+      {
+        "day": 6,
+        "title": "Geirangerfjord",
+        "morning": "A fjord cruise past waterfalls and cliffside farms.",
+        "afternoon": "Drive the Eagle Road or Trollstigen for panoramic views.",
+        "evening": "Overnight near the fjord or continue toward Ålesund."
+      },
+      {
+        "day": 7,
+        "title": "Ålesund and the Atlantic Road",
+        "morning": "Explore Ålesund's Art Nouveau harbour.",
+        "afternoon": "Drive the Atlantic Road.",
+        "evening": "Dinner in Ålesund."
+      },
+      {
+        "day": 8,
+        "title": "Return and depart",
+        "morning": "Fly back to Oslo.",
+        "afternoon": "A final wander or last-minute shopping.",
+        "evening": "Depart for home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Norwegian culture is shaped by a genuine closeness to nature (friluftsliv, or 'open-air living'), a strong sense of equality, and real pride in the country's fishing, seafaring and Sami heritage.",
+    "etiquette": [
+      {
+        "title": "Shoes off indoors",
+        "text": "Removing shoes at the door is genuinely standard in Norwegian homes, even for brief visits."
+      },
+      {
+        "title": "Norwegians are genuinely reserved with strangers, warm with friends",
+        "text": "Small talk with strangers is less common than in some cultures — this is reserve, not unfriendliness."
+      },
+      {
+        "title": "Respect the outdoors and 'allemannsretten'",
+        "text": "Norway's genuinely generous 'right to roam' law comes with real responsibility to leave no trace."
+      },
+      {
+        "title": "Nature's risks are taken seriously here",
+        "text": "Sudden weather changes, avalanche terrain and tidal fjord currents are genuinely responsible for most visitor incidents — heed posted warnings."
+      },
+      {
+        "title": "Tipping is genuinely modest",
+        "text": "Rounding up or a small tip for excellent service is welcome, but nothing like the norms in the US."
+      },
+      {
+        "title": "Book ahead in summer, without exception",
+        "text": "Accommodation and popular hikes genuinely sell out months ahead across the peak June–August season."
+      }
+    ],
+    "dos": [
+      "Take off your shoes when entering a home.",
+      "Book accommodation and any fjord cruise well ahead for a summer trip.",
+      "Check road conditions and ferry schedules before any fjord-region drive.",
+      "Bring layers for every season — mountain and fjord weather genuinely changes fast."
+    ],
+    "donts": [
+      "Don't leave litter on hiking trails — Norway's 'right to roam' comes with real responsibility.",
+      "Don't ignore posted warnings at cliffs, waterfalls and fjord viewpoints — sudden weather is a genuine, serious hazard.",
+      "Don't expect to tip heavily — it's modest and never obligatory.",
+      "Don't attempt high mountain roads or hikes without checking current conditions and closures."
+    ]
+  },
+  "tipsIntro": "The things that most often go wrong on a Norway trip, in rough order of how much they cost people.",
+  "tips": [
+    "Book your rental car, accommodation and any fjord cruise well ahead for summer travel.",
+    "Check road and ferry conditions before any fjord-region drive, especially outside summer.",
+    "Budget for genuinely high prices — Norway is one of the most expensive countries in Europe to visit.",
+    "Pack proper layers and a real waterproof shell regardless of season.",
+    "Never approach cliff edges at Preikestolen or similar viewpoints without care — falls are genuinely dangerous.",
+    "Consider Svalbard only as a dedicated add-on with a guided operator — independent travel there is genuinely restricted for safety.",
+    "Fill up on fuel whenever you see a station in rural fjord areas — distances between them are genuinely longer than they look.",
+    "Buy alcohol at the duty-free shop on arrival — it's genuinely cheaper than at Norway's state-run Vinmonopolet stores."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Norway?",
+      "a": "A week to ten days covers Oslo, Bergen and the western fjords comfortably, which is the itinerary on this page. Three to four days is enough for Oslo and Bergen alone, and genuinely still worthwhile."
+    },
+    {
+      "q": "What is the best time of year to visit Norway?",
+      "a": "June to August for long daylight and full access to mountain roads and fjord cruises; September to March for a good chance at the northern lights in the north."
+    },
+    {
+      "q": "Do you need a car in Norway?",
+      "a": "For the fjord regions, genuinely yes — a rental car or a mix of train, bus and ferry is the standard way most visitors see the country beyond its cities."
+    },
+    {
+      "q": "Is Norway expensive?",
+      "a": "Yes, genuinely one of the most expensive countries in Europe — mid-range travel runs about NOK 1,500–2,500 per person per day. Supermarket meals and a hostel or guesthouse keep costs down."
+    },
+    {
+      "q": "Can you see the northern lights in Norway?",
+      "a": "Yes, genuinely one of the best places in the world for it, roughly September to March in the north on clear, dark nights — never guaranteed, but a real, frequent possibility above the Arctic Circle."
+    },
+    {
+      "q": "Is Norway safe to visit?",
+      "a": "Extremely safe from a crime perspective, consistently ranked among the world's most peaceful countries. The real risks are environmental — fjord currents, avalanche terrain and fast-changing mountain weather — treated with genuine respect by visitors and locals alike."
+    }
+  ]
+}
