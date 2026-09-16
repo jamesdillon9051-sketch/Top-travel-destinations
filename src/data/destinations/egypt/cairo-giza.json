@@ -1,0 +1,369 @@
+{
+  "slug": "cairo-giza",
+  "name": "Cairo & Giza",
+  "country": "egypt",
+  "region": "Greater Cairo",
+  "categories": ["history", "unesco", "city", "culture"],
+  "tagline": "Egypt's sprawling capital, where the last surviving Ancient Wonder of the World still rises from the desert at the city's edge.",
+  "highlight": "Standing at the base of the Great Pyramid of Giza, genuinely unable to fully comprehend that it was already over 2,000 years old when Cleopatra was born.",
+  "shortDescription": "Egypt's sprawling capital, home to the Great Pyramids of Giza, the Sphinx, and a historic old city of mosques, museums and centuries-old bazaars.",
+  "metaDescription": "A Cairo and Giza travel guide: the Great Pyramids, the Sphinx, the Grand Egyptian Museum, food and how to plan a visit to Egypt's capital.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Cairo International Airport (CAI)",
+  "knownFor": "The Great Pyramids, the Sphinx, ancient Egyptian history",
+  "budget": "E£1,800–3,500 per day, mid-range",
+  "goodFor": "Ancient history, museums, an essential first stop",
+  "coords": { "lat": 29.9773, "lng": 31.1325 },
+  "image": {
+    "file": "File:All Gizah Pyramids.jpg",
+    "alt": "The Great Pyramids of Giza on the edge of Cairo"
+  },
+  "intro": [
+    "Cairo is genuinely one of the world's great sprawling capitals, a city of over 20 million people that has grown right up to the edge of the Giza plateau, where the last surviving Ancient Wonder of the World still stands.",
+    "The Great Pyramids are genuinely almost impossibly old — already ancient ruins by the time of Cleopatra, built more than 4,500 years ago and still the most recognisable monuments on Earth.",
+    "Most visitors genuinely spend a few days here at the start of their Egypt trip, splitting time between Giza's pyramids, the treasures of the Grand Egyptian Museum, and the old city's centuries-old mosques and bazaars."
+  ],
+  "whyVisit": {
+    "intro": "Cairo and Giza's case rests on genuinely being the essential, unmissable starting point for any Egypt trip.",
+    "points": [
+      {
+        "title": "The Great Pyramids are genuinely unmissable",
+        "text": "The last surviving Ancient Wonder of the World, and still the most recognisable monument on Earth."
+      },
+      {
+        "title": "The Grand Egyptian Museum is genuinely a world-class collection",
+        "text": "Housing Tutankhamun's full treasure hoard and thousands of other ancient artefacts."
+      },
+      {
+        "title": "Islamic Cairo is genuinely a living historic city",
+        "text": "Centuries-old mosques and markets still in daily use, not preserved as a museum piece."
+      },
+      {
+        "title": "It's genuinely the essential gateway to the rest of Egypt",
+        "text": "Nearly every Egypt itinerary starts or ends in Cairo."
+      },
+      {
+        "title": "Khan el-Khalili is genuinely one of the world's great bazaars",
+        "text": "A centuries-old market still selling spices, lanterns and crafts to locals and visitors alike."
+      }
+    ]
+  },
+  "attractionsIntro": "Cairo and Giza's essential sights combine genuinely the world's most famous ancient monuments with a living historic old city.",
+  "attractions": [
+    {
+      "name": "The Great Pyramids of Giza",
+      "image": {
+        "file": "File:All Gizah Pyramids.jpg",
+        "alt": "The Great Pyramids of Giza"
+      },
+      "text": "Genuinely the last surviving Ancient Wonder of the World, three monumental pyramids built over 4,500 years ago as royal tombs.",
+      "tip": "Genuinely arrive at opening time to beat both the desert heat and the busiest tour groups."
+    },
+    {
+      "name": "The Great Sphinx",
+      "image": {
+        "file": "File:Great Sphinx of Giza (أبو الهول).jpg",
+        "alt": "The Great Sphinx of Giza"
+      },
+      "text": "Genuinely one of the world's largest and oldest monolithic statues, its lion's body and human face guarding the pyramid complex.",
+      "tip": "Genuinely the classic photo angle, appearing to touch the Sphinx's nose, requires standing at a specific spot your guide can show you."
+    },
+    {
+      "name": "The Grand Egyptian Museum",
+      "image": {
+        "file": "File:Grand Egyptian Museum 2025.jpg",
+        "alt": "The Grand Egyptian Museum near Giza"
+      },
+      "text": "Genuinely one of the world's largest archaeological museums, housing Tutankhamun's complete treasure collection among thousands of other artefacts.",
+      "tip": "Genuinely allow a full half-day — the collection is far too extensive to rush."
+    },
+    {
+      "name": "The Egyptian Museum, Tahrir Square",
+      "image": {
+        "file": "File:Facade of the Egyptian Museum, Tahrir Square, Cairo, Egypt1.jpg",
+        "alt": "The Egyptian Museum in Tahrir Square, Cairo"
+      },
+      "text": "Genuinely Cairo's original antiquities museum, a beautifully old-fashioned setting still holding significant artefacts.",
+      "tip": "Genuinely worthwhile even with the Grand Egyptian Museum now open, for a different, more historic display style."
+    },
+    {
+      "name": "Khan el-Khalili",
+      "image": {
+        "file": "File:Khan el-Khalili 2019.jpg",
+        "alt": "The Khan el-Khalili bazaar in Cairo"
+      },
+      "text": "Genuinely a centuries-old bazaar, its narrow lanes packed with spices, lanterns, jewellery and workshops still in daily use.",
+      "tip": "Genuinely polite bargaining is expected and part of the shopping experience here."
+    },
+    {
+      "name": "The Cairo Citadel & Mohammed Ali Mosque",
+      "image": {
+        "file": "File:The mosque of Mohammed Ali at the Cairo Citadel.jpg",
+        "alt": "The Mohammed Ali Mosque at the Cairo Citadel"
+      },
+      "text": "Genuinely a striking Ottoman-style mosque atop a medieval fortress, with sweeping views over the whole city.",
+      "tip": "Genuinely the citadel's elevated position offers one of Cairo's best panoramic views, pyramids included on a clear day."
+    },
+    {
+      "name": "Sultan Hassan Mosque",
+      "image": {
+        "file": "File:Sultan Hassan Mosque 2.jpg",
+        "alt": "Sultan Hassan Mosque in Cairo"
+      },
+      "text": "Genuinely one of Cairo's most impressive medieval mosques, a masterpiece of Mamluk architecture dating to the 14th century.",
+      "tip": "Genuinely the mosque's massive scale is best appreciated from its central courtyard."
+    }
+  ],
+  "thingsToDoIntro": "Cairo and Giza genuinely reward mixing the pyramids with the old city's mosques and bazaars.",
+  "thingsToDo": [
+    {
+      "title": "Ride a camel around the pyramids",
+      "image": {
+        "file": "File:Camel riding at the Giza Pyramids in Egypt.JPG",
+        "alt": "Camel riding at the Giza Pyramids"
+      },
+      "text": "A genuinely classic, if slightly touristy, way to see the pyramids from a desert vantage point.",
+      "tip": "Genuinely agree the price and duration clearly before mounting — this is a common area for overcharging."
+    },
+    {
+      "title": "Explore the Grand Egyptian Museum's collection",
+      "image": {
+        "file": "File:Grand Egyptian Museum 2025 (70046).jpg",
+        "alt": "Exhibits inside the Grand Egyptian Museum"
+      },
+      "text": "A genuinely absorbing half-day, taking in thousands of years of ancient Egyptian history and artefacts.",
+      "tip": "Genuinely book tickets online ahead — the museum's popularity means walk-up queues can be long."
+    },
+    {
+      "title": "Bargain at Khan el-Khalili",
+      "image": {
+        "file": "File:Flickr - HuTect ShOts - Khan El-Khalili Street شارع خان الخليلي - Cairo - Egypt - 09 04 2010.jpg",
+        "alt": "Shopping in Khan el-Khalili bazaar"
+      },
+      "text": "A genuinely lively way to spend an afternoon, browsing spices, textiles and crafts through the bazaar's narrow lanes.",
+      "tip": "Genuinely a small glass of tea at a bazaar café makes a nice break between shopping stops."
+    },
+    {
+      "title": "Climb the Cairo Citadel",
+      "image": {
+        "file": "File:Mohammed Ali Mosque, Citadel interior, Cairo, Egypt, North Africa.jpg",
+        "alt": "Inside the Mohammed Ali Mosque at the Cairo Citadel"
+      },
+      "text": "A genuinely worthwhile half-day, exploring the mosque's ornate interior and the citadel's sweeping city views.",
+      "tip": "Genuinely combine with a visit to the nearby National Military Museum, included within the citadel grounds."
+    },
+    {
+      "title": "Explore Islamic Cairo's mosques",
+      "image": {
+        "file": "File:Mosque of Sultan Hassan 4.jpg",
+        "alt": "The interior of Sultan Hassan Mosque"
+      },
+      "text": "A genuinely rewarding walk through centuries of Islamic architecture, still functioning as active places of worship.",
+      "tip": "Genuinely dress modestly and remove shoes before entering any mosque."
+    },
+    {
+      "title": "View the pyramids from a desert panorama point",
+      "image": {
+        "file": "File:Sphinx and pyramids of Giza panorama.jpg",
+        "alt": "A panoramic desert view of the pyramids and Sphinx"
+      },
+      "text": "A genuinely essential photo stop, a slightly elevated desert viewpoint capturing all three pyramids together.",
+      "tip": "Genuinely visit in late afternoon for the warmest, most flattering light on the stone."
+    }
+  ],
+  "foodIntro": "Cairo's food genuinely represents Egyptian cuisine at its best, from humble street stalls to more refined restaurants.",
+  "foods": [
+    {
+      "name": "Koshari",
+      "image": {
+        "file": "File:Egyptian Koshari.jpg",
+        "alt": "Koshari, Egypt's national dish of rice, lentils and pasta"
+      },
+      "text": "Genuinely Egypt's national dish, found at dedicated koshari shops throughout the city at every price point.",
+      "whereToTry": "Koshari shops throughout downtown Cairo."
+    },
+    {
+      "name": "Ful medames",
+      "image": {
+        "file": "File:Foul Mudames.jpg",
+        "alt": "Ful medames, a traditional Egyptian fava bean breakfast"
+      },
+      "text": "A genuinely essential Cairo breakfast, slow-cooked fava beans found at street stalls citywide.",
+      "whereToTry": "Breakfast stalls and cafés throughout Cairo."
+    },
+    {
+      "name": "Grilled kofta",
+      "image": {
+        "file": "File:Grilled Kofta.jpg",
+        "alt": "Grilled kofta, spiced minced meat skewers"
+      },
+      "text": "A genuinely beloved grilled dish, spiced minced meat skewers found across the city's restaurants.",
+      "whereToTry": "Restaurants throughout Cairo."
+    },
+    {
+      "name": "Taameya (Egyptian falafel)",
+      "text": "Genuinely Egypt's own fava bean version of falafel, a beloved street food found on nearly every corner.",
+      "whereToTry": "Street stalls throughout Cairo."
+    },
+    {
+      "name": "Molokhia",
+      "text": "Genuinely a beloved home-style dish, a thick green soup found at traditional restaurants across the city.",
+      "whereToTry": "Traditional restaurants throughout Cairo."
+    },
+    {
+      "name": "Karkade (hibiscus tea)",
+      "text": "Genuinely a refreshing national drink, served hot or cold at cafés throughout the city.",
+      "whereToTry": "Cafés and restaurants throughout Cairo."
+    }
+  ],
+  "accommodation": {
+    "intro": "Cairo genuinely offers accommodation across every budget, with Giza and downtown Cairo the two main visitor bases.",
+    "areas": [
+      {
+        "name": "Giza (near the pyramids)",
+        "bestFor": "Being genuinely close to the pyramids themselves",
+        "text": "Several hotels offer direct pyramid views, especially convenient for an early pyramid visit."
+      },
+      {
+        "name": "Downtown Cairo or Zamalek",
+        "bestFor": "A genuinely more central base for the old city and museums",
+        "text": "Closer to Khan el-Khalili, the Egyptian Museum and Islamic Cairo's mosques."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "E£400–800 per night" },
+      { "label": "Mid-range hotel", "value": "E£1,800–3,500 per night" },
+      { "label": "Grand Egyptian Museum entry", "value": "About E£1,200–1,700" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About E£300–600 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Cairo is genuinely Egypt's main international gateway, with most visitors arriving here first regardless of their onward plans.",
+    "options": [
+      {
+        "mode": "International flight to Cairo Airport",
+        "text": "Genuinely most international routes into Egypt land here.",
+        "detail": "Well connected to Europe, the Middle East and increasingly further afield."
+      },
+      {
+        "mode": "Domestic flight onward",
+        "text": "Genuinely the standard way to reach Luxor, Aswan and the Red Sea coast.",
+        "detail": "Frequent daily flights connect Cairo to nearly every major Egypt destination."
+      },
+      {
+        "mode": "Overnight train",
+        "text": "Genuinely a budget-friendly, if slower, option for reaching Luxor or Aswan.",
+        "detail": "Sleeper cabins save a hotel night while covering real distance."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Cairo is genuinely a sprawling, traffic-heavy city, and most visitors rely on taxis, rideshare apps or organised tours.",
+    "options": [
+      {
+        "mode": "Rideshare apps and taxis",
+        "text": "Genuinely the easiest way around, widely available and inexpensive.",
+        "detail": "Traffic can be heavy, so budget extra time between destinations."
+      },
+      {
+        "mode": "Organised tours or private guides",
+        "text": "Genuinely a practical, efficient way to see Giza and the old city together.",
+        "detail": "Widely available and often worthwhile for the historical context alone."
+      },
+      {
+        "mode": "The Cairo Metro",
+        "text": "Genuinely a fast, cheap option for certain routes, avoiding the worst of the traffic.",
+        "detail": "Limited coverage of tourist sites, but useful for some downtown journeys."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October to April for the mildest, most comfortable temperatures",
+    "summary": "Cairo's genuinely desert climate makes winter and shoulder season far more comfortable for a full day of sightseeing at Giza.",
+    "seasons": [
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "Genuinely the mildest temperatures for a full day of pyramid sightseeing, also the busiest season."
+      },
+      {
+        "season": "Shoulder months (October–November, March–April)",
+        "rating": "best",
+        "text": "Genuinely warm but manageable heat with thinner crowds than peak winter."
+      },
+      {
+        "season": "Summer (May–September)",
+        "rating": "okay",
+        "text": "Genuinely intense heat at the exposed Giza plateau, best managed with an early start."
+      }
+    ],
+    "avoid": "A midday Giza visit in summer — genuinely plan for an early morning start regardless of season."
+  },
+  "itinerary": {
+    "title": "Three days in Cairo and Giza",
+    "intro": "Built around the pyramids on day one, the Grand Egyptian Museum on day two, and the old city on day three.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The pyramids and Sphinx",
+        "summary": "The Great Pyramids of Giza and the Sphinx.",
+        "morning": "The Great Pyramids of Giza.",
+        "afternoon": "The Great Sphinx and a desert panorama viewpoint.",
+        "evening": "A sound and light show at the pyramids."
+      },
+      {
+        "day": 2,
+        "title": "The Grand Egyptian Museum",
+        "summary": "A full day at the museum.",
+        "morning": "The Grand Egyptian Museum's main galleries.",
+        "afternoon": "Tutankhamun's treasure collection.",
+        "evening": "Dinner overlooking the Nile."
+      },
+      {
+        "day": 3,
+        "title": "Islamic Cairo",
+        "summary": "The Citadel, mosques and Khan el-Khalili.",
+        "morning": "The Cairo Citadel and Mohammed Ali Mosque.",
+        "afternoon": "Sultan Hassan Mosque and Islamic Cairo's streets.",
+        "evening": "Khan el-Khalili bazaar."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Cairo and Giza stay noticeably smoother.",
+  "tips": [
+    "Book Grand Egyptian Museum tickets genuinely online ahead to skip long walk-up queues.",
+    "Arrive genuinely early at Giza to beat both the heat and the tour bus crowds.",
+    "Agree prices upfront genuinely for camel rides, taxis and unofficial guides.",
+    "Dress genuinely modestly when visiting mosques, and carry a scarf for women entering.",
+    "Budget genuinely extra time for Cairo's traffic between destinations.",
+    "Carry small cash genuinely for tips, expected throughout your visit."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Cairo and Giza?",
+      "a": "Three days genuinely covers the pyramids, the Grand Egyptian Museum and Islamic Cairo comfortably."
+    },
+    {
+      "q": "Are the pyramids actually in Cairo?",
+      "a": "Genuinely on Cairo's western edge, in Giza — technically a separate city that has effectively merged with greater Cairo's sprawl."
+    },
+    {
+      "q": "Is the Grand Egyptian Museum worth visiting alongside the older Egyptian Museum?",
+      "a": "Yes, genuinely both are worthwhile — the Grand Egyptian Museum houses the major Tutankhamun collection, while the older museum offers a different, more historic display style."
+    },
+    {
+      "q": "Is Cairo safe for tourists?",
+      "a": "Generally yes in main tourist areas, with genuinely persistent touting around Giza the main practical nuisance rather than serious danger."
+    },
+    {
+      "q": "How do you avoid pyramid scams?",
+      "a": "Genuinely agree prices upfront for any camel ride, guide or 'special access' offer, and be firm about declining unsolicited assistance."
+    },
+    {
+      "q": "Can you enter the pyramids themselves?",
+      "a": "Yes, genuinely, for an additional fee — though the interior chambers are relatively plain compared to the exterior's scale."
+    }
+  ],
+  "related": ["alexandria", "luxor", "nile-cruise"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

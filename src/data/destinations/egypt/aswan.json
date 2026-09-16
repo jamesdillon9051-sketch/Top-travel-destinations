@@ -1,0 +1,353 @@
+{
+  "slug": "aswan",
+  "name": "Aswan",
+  "country": "egypt",
+  "region": "Upper Egypt",
+  "categories": ["history", "unesco", "culture", "nature"],
+  "tagline": "Egypt's most relaxed Nile city, home to Nubian culture, the temple of Philae, and Abu Simbel's colossal statues carved directly into a cliff.",
+  "highlight": "Watching the sun set over the Nile from a felucca, drifting slowly past Elephantine Island as Aswan's granite hills turn gold.",
+  "shortDescription": "Egypt's most relaxed Nile city, home to living Nubian culture, the beautifully relocated Philae Temple, and Abu Simbel's colossal cliffside statues.",
+  "metaDescription": "An Aswan travel guide: Philae Temple, Abu Simbel, Nubian villages, food and how to plan a visit to Egypt's most relaxed Nile city.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Aswan International Airport (ASW)",
+  "knownFor": "Philae Temple, Abu Simbel, Nubian culture",
+  "budget": "E£1,500–3,000 per day, mid-range",
+  "goodFor": "Nubian culture, temples, a relaxed Nile pace",
+  "coords": { "lat": 24.0889, "lng": 32.8998 },
+  "image": {
+    "file": "File:Feluccas sailing the Nile at Aswan - panoramio.jpg",
+    "alt": "Feluccas sailing on the Nile at Aswan"
+  },
+  "intro": [
+    "Aswan is genuinely Egypt's most relaxed Nile city, its granite hills and wide river views giving it a noticeably calmer pace than Cairo or even Luxor.",
+    "It's also genuinely the heart of Nubian culture in Egypt, a distinct community with its own language, colourful architecture and traditions along this stretch of the Nile, predating the pharaonic history that surrounds it.",
+    "Most visitors genuinely spend a few days here, combining the beautifully relocated Philae Temple and a felucca sail with a genuinely essential day trip to Abu Simbel, Ramses II's colossal monument carved directly into a cliff face."
+  ],
+  "whyVisit": {
+    "intro": "Aswan's case rests on genuinely combining major ancient monuments with a distinct living Nubian culture and a relaxed river pace.",
+    "points": [
+      {
+        "title": "Abu Simbel is genuinely one of Egypt's most awe-inspiring monuments",
+        "text": "Colossal statues of Ramses II carved directly into a cliff, later relocated to save it from flooding."
+      },
+      {
+        "title": "Philae Temple is genuinely beautifully set on its own island",
+        "text": "Relocated stone by stone in a major 20th-century engineering effort to save it from the Aswan Dam's waters."
+      },
+      {
+        "title": "Nubian culture here is genuinely distinct and living",
+        "text": "A real community with its own language, architecture and traditions, not a historical footnote."
+      },
+      {
+        "title": "Aswan is genuinely the most relaxed of Egypt's major Nile cities",
+        "text": "A noticeably calmer pace, well suited to a slower few days."
+      },
+      {
+        "title": "It's genuinely the classic endpoint for a Nile cruise",
+        "text": "Most Luxor-Aswan cruises finish here, or start here heading north."
+      }
+    ]
+  },
+  "attractionsIntro": "Aswan's essential sights combine genuinely major ancient monuments with a distinct, living Nubian culture.",
+  "attractions": [
+    {
+      "name": "Philae Temple",
+      "image": {
+        "file": "File:Philae Temple R05.jpg",
+        "alt": "Philae Temple on its island near Aswan"
+      },
+      "text": "Genuinely relocated stone by stone in a major engineering effort, saving it from the rising waters of the Aswan Dam.",
+      "tip": "Genuinely reached by a short boat ride, part of the visit's charm rather than a mere logistical necessity."
+    },
+    {
+      "name": "Abu Simbel",
+      "image": {
+        "file": "File:Templo de Ramsés II, Abu Simbel, Egipto, 2022-04-02, DD 26-28 HDR.jpg",
+        "alt": "The colossal statues of Abu Simbel"
+      },
+      "text": "Genuinely one of Egypt's most awe-inspiring monuments, four colossal statues of Ramses II carved directly into a cliff face.",
+      "tip": "Genuinely a long day trip from Aswan — most visitors depart very early to arrive before the midday heat."
+    },
+    {
+      "name": "Feluccas on the Nile at Aswan",
+      "image": {
+        "file": "File:Feluccas sailing the Nile at Aswan - panoramio.jpg",
+        "alt": "Traditional feluccas sailing on the Nile at Aswan"
+      },
+      "text": "Genuinely one of the most scenic stretches of the Nile for a felucca sail, granite boulders and green islands dotting the river.",
+      "tip": "Genuinely sunset is the classic time for a felucca sail here, with Aswan's hills turning gold."
+    },
+    {
+      "name": "A Nubian village",
+      "image": {
+        "file": "File:Nubian House, Nagaa Suhayl Gharb, AG, EGY (48026579151).jpg",
+        "alt": "A colourful Nubian house near Aswan"
+      },
+      "text": "Genuinely a distinct cultural experience, brightly painted houses and a warm welcome from Aswan's Nubian community.",
+      "tip": "Genuinely most visits are arranged by boat, often combined with a felucca sail."
+    },
+    {
+      "name": "The Unfinished Obelisk",
+      "image": {
+        "file": "File:Obelisco inacabado, Asuán, Egipto, 2022-04-01, DD 166.jpg",
+        "alt": "The Unfinished Obelisk still attached to bedrock in Aswan"
+      },
+      "text": "Genuinely a fascinating window into ancient construction methods, a massive obelisk abandoned mid-carving after cracks appeared.",
+      "tip": "Genuinely still attached to the surrounding bedrock, showing exactly how ancient quarrying worked."
+    },
+    {
+      "name": "The Aswan High Dam",
+      "image": {
+        "file": "File:Aswan High Dam-1.jpg",
+        "alt": "The Aswan High Dam"
+      },
+      "text": "Genuinely a significant feat of modern engineering, whose construction necessitated the relocation of Abu Simbel and Philae.",
+      "tip": "Genuinely a quick stop rather than a full visit, best combined with other nearby sites."
+    },
+    {
+      "name": "Elephantine Island",
+      "image": {
+        "file": "File:Aswan Elephantine Island R02.jpg",
+        "alt": "Elephantine Island on the Nile at Aswan"
+      },
+      "text": "Genuinely an ancient settlement site right in the middle of the Nile, with ruins and a Nubian village both worth exploring.",
+      "tip": "Genuinely reached by a short, cheap public ferry from Aswan's corniche."
+    }
+  ],
+  "thingsToDoIntro": "Aswan genuinely rewards a relaxed pace, mixing major sites with the river itself.",
+  "thingsToDo": [
+    {
+      "title": "Sail a felucca around Aswan's islands",
+      "image": {
+        "file": "File:Felucca R02.jpg",
+        "alt": "Sailing a felucca on the Nile near Aswan"
+      },
+      "text": "A genuinely essential Aswan experience, drifting past granite boulders and green islands on a traditional sailboat.",
+      "tip": "Genuinely negotiate the price and route with your captain before setting off."
+    },
+    {
+      "title": "Visit Abu Simbel at dawn",
+      "image": {
+        "file": "File:Templo de Ramsés II, Abu Simbel, Egipto, 2022-04-02, DD 74-76 HDR.jpg",
+        "alt": "The temples of Abu Simbel at dawn"
+      },
+      "text": "A genuinely long but rewarding day trip, seeing the colossal statues before the midday heat and crowds build.",
+      "tip": "Genuinely book a tour or private driver ahead — the site sits about three hours from Aswan."
+    },
+    {
+      "title": "Explore Philae Temple",
+      "image": {
+        "file": "File:PHILAE TEMPLE COLUMNS.jpg",
+        "alt": "The columns of Philae Temple"
+      },
+      "text": "A genuinely worthwhile few hours, exploring one of Egypt's most beautifully set temple complexes.",
+      "tip": "Genuinely visit late afternoon for softer light on the temple's carved reliefs."
+    },
+    {
+      "title": "Visit a Nubian village and market",
+      "image": {
+        "file": "File:سوق البهارات في النوبة.jpg",
+        "alt": "A spice market in a Nubian village near Aswan"
+      },
+      "text": "A genuinely warm, welcoming cultural experience, browsing spices and crafts in a distinct Nubian community.",
+      "tip": "Genuinely a boat trip here combines well with a felucca sail or Elephantine Island visit."
+    },
+    {
+      "title": "See the Unfinished Obelisk up close",
+      "image": {
+        "file": "File:Assuan Unvollendeter Obelisk 35.jpg",
+        "alt": "The Unfinished Obelisk quarry in Aswan"
+      },
+      "text": "A genuinely quick but fascinating stop, still showing the exact ancient quarrying technique that abandoned it.",
+      "tip": "Genuinely easy to combine with a felucca sail or other central Aswan sites."
+    },
+    {
+      "title": "Explore Elephantine Island's ruins",
+      "image": {
+        "file": "File:Aswan Elephantine Island R04.jpg",
+        "alt": "Ancient ruins on Elephantine Island"
+      },
+      "text": "A genuinely rewarding half-day, combining ancient ruins with a Nubian village on the same island.",
+      "tip": "Genuinely the public ferry across is cheap and frequent, an easy independent excursion."
+    }
+  ],
+  "foodIntro": "Aswan's food genuinely reflects its Nubian heritage alongside standard Egyptian staples.",
+  "foods": [
+    {
+      "name": "Nubian cuisine",
+      "text": "Genuinely distinct from mainland Egyptian food, featuring dishes with dates, okra and unique local spice blends.",
+      "whereToTry": "Nubian restaurants and village visits around Aswan."
+    },
+    {
+      "name": "Fresh Nile fish",
+      "text": "Genuinely a local specialty, fish caught fresh from the Nile and grilled with local spices.",
+      "whereToTry": "Restaurants along Aswan's corniche."
+    },
+    {
+      "name": "Koshari",
+      "image": {
+        "file": "File:Egyptian Koshari.jpg",
+        "alt": "Koshari, Egypt's national dish of rice, lentils and pasta"
+      },
+      "text": "A genuinely reliable classic, found throughout the city at every price point.",
+      "whereToTry": "Restaurants throughout Aswan."
+    },
+    {
+      "name": "Molokhia",
+      "text": "Genuinely a beloved home-style dish, a thick green soup found at traditional restaurants across the city.",
+      "whereToTry": "Traditional restaurants throughout Aswan."
+    },
+    {
+      "name": "Karkade (hibiscus tea)",
+      "text": "Genuinely associated closely with this region, a refreshing tea widely grown and served in Upper Egypt.",
+      "whereToTry": "Cafés and restaurants throughout Aswan."
+    },
+    {
+      "name": "Taameya (Egyptian falafel)",
+      "text": "Genuinely Egypt's own fava bean version of falafel, found at street stalls throughout the city.",
+      "whereToTry": "Street stalls throughout Aswan."
+    }
+  ],
+  "accommodation": {
+    "intro": "Aswan genuinely offers accommodation along the corniche, with several options offering direct Nile views.",
+    "areas": [
+      {
+        "name": "The corniche",
+        "bestFor": "Being genuinely central and offering Nile views",
+        "text": "The most convenient base, close to felucca departures and central sites."
+      },
+      {
+        "name": "Elephantine Island or a Nile-view hotel",
+        "bestFor": "A genuinely quieter, more scenic stay",
+        "text": "A short ferry ride from the mainland, with a more tranquil riverside setting."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "E£400–800 per night" },
+      { "label": "Mid-range hotel", "value": "E£1,500–3,000 per night" },
+      { "label": "Abu Simbel day trip", "value": "About E£1,500–2,500" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About E£250–500 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Aswan is genuinely reached by flight, overnight train, or as the endpoint of a Nile cruise from Luxor.",
+    "options": [
+      {
+        "mode": "Flight from Cairo or Luxor",
+        "text": "Genuinely the fastest option, connecting daily from both cities.",
+        "detail": "A practical choice for a time-limited itinerary."
+      },
+      {
+        "mode": "Overnight train from Cairo",
+        "text": "Genuinely a budget-friendly, if long, option with comfortable sleeper cabins.",
+        "detail": "Saves a hotel night while covering the long distance south."
+      },
+      {
+        "mode": "Nile cruise from Luxor",
+        "text": "Genuinely the classic way to arrive, sailing south with stops at Edfu and Kom Ombo along the way.",
+        "detail": "A multi-night journey combining transport with guided temple visits."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Central Aswan is genuinely walkable, with boats essential for reaching the islands and Nubian villages.",
+    "options": [
+      {
+        "mode": "On foot along the corniche",
+        "text": "Genuinely covers central Aswan easily.",
+        "detail": "The riverside promenade is pleasant for a relaxed walk."
+      },
+      {
+        "mode": "Felucca or motorboat",
+        "text": "Genuinely essential for reaching Philae Temple, Elephantine Island and Nubian villages.",
+        "detail": "Widely available and easy to arrange right from the corniche."
+      },
+      {
+        "mode": "Private driver or organised tour for Abu Simbel",
+        "text": "Genuinely the standard way to reach Abu Simbel, given the distance.",
+        "detail": "Bookable through your hotel or a local agency."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October to April for the mildest temperatures, essential for Abu Simbel and outdoor sites",
+    "summary": "Aswan's genuinely desert climate makes it one of Egypt's hottest cities, with winter and shoulder season far more comfortable.",
+    "seasons": [
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "Genuinely the mildest, most comfortable temperatures for sightseeing and felucca sails."
+      },
+      {
+        "season": "Shoulder months (October–November, March–April)",
+        "rating": "best",
+        "text": "Genuinely warm but manageable heat with thinner crowds than peak winter."
+      },
+      {
+        "season": "Summer (May–September)",
+        "rating": "okay",
+        "text": "Genuinely among Egypt's hottest temperatures, making extensive outdoor sightseeing genuinely risky."
+      }
+    ],
+    "avoid": "A midday Abu Simbel visit in summer — genuinely plan around the early morning for both temperature and light."
+  },
+  "itinerary": {
+    "title": "Two days in Aswan",
+    "intro": "Built around Abu Simbel on day one, Philae Temple and a felucca sail on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Abu Simbel",
+        "summary": "A full-day trip to Abu Simbel.",
+        "morning": "Depart very early for Abu Simbel.",
+        "afternoon": "Explore the temples and return to Aswan.",
+        "evening": "Dinner along the corniche."
+      },
+      {
+        "day": 2,
+        "title": "Philae and the Nile",
+        "summary": "Philae Temple, the Unfinished Obelisk and a felucca sail.",
+        "morning": "Philae Temple.",
+        "afternoon": "The Unfinished Obelisk and a Nubian village.",
+        "evening": "A sunset felucca sail."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make an Aswan visit noticeably smoother.",
+  "tips": [
+    "Book genuinely an Abu Simbel day trip ahead, and expect a very early departure.",
+    "Negotiate genuinely felucca prices and routes clearly before setting off.",
+    "Bring genuinely sun protection and water for both Philae and Abu Simbel.",
+    "Try genuinely a Nubian village visit for a distinct cultural experience beyond the ancient sites.",
+    "Use genuinely the public ferry for an independent, budget-friendly Elephantine Island visit.",
+    "Pace genuinely your sightseeing around the heat, especially outside winter."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Aswan?",
+      "a": "Two to three days genuinely covers Philae Temple, Abu Simbel and a felucca sail comfortably."
+    },
+    {
+      "q": "Is Abu Simbel worth the long day trip from Aswan?",
+      "a": "Yes, genuinely — it's one of Egypt's most awe-inspiring monuments, and the journey is well organised via tour or private driver."
+    },
+    {
+      "q": "Why was Philae Temple relocated?",
+      "a": "Genuinely to save it from the rising waters caused by the Aswan Dam, moved stone by stone to a nearby island in a major 20th-century engineering effort."
+    },
+    {
+      "q": "What is Aswan known for?",
+      "a": "Genuinely its relaxed pace, Nubian culture, and major monuments including Philae Temple and nearby Abu Simbel."
+    },
+    {
+      "q": "Is Aswan part of a typical Nile cruise?",
+      "a": "Yes, genuinely — most Luxor-Aswan cruises begin or end here, making it a natural stop on a classic Egypt itinerary."
+    },
+    {
+      "q": "Can you visit a Nubian village independently?",
+      "a": "Yes, genuinely — boats to Nubian villages and Elephantine Island are easy to arrange directly from Aswan's corniche."
+    }
+  ],
+  "related": ["nile-cruise", "luxor", "cairo-giza"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

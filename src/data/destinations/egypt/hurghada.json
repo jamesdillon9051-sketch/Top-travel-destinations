@@ -1,0 +1,365 @@
+{
+  "slug": "hurghada",
+  "name": "Hurghada",
+  "country": "egypt",
+  "region": "Red Sea",
+  "categories": ["beach", "diving", "resort", "family"],
+  "tagline": "Egypt's original and largest Red Sea resort city, a long strip of beach hotels backed onto some of the coast's richest offshore reefs and wreck diving.",
+  "highlight": "Cutting the engine over the Abu Nuhas wrecks, sunlight falling through impossibly clear water onto a century-old ship's hull.",
+  "shortDescription": "Egypt's original and largest Red Sea resort city, built around long beach hotels, offshore reef and wreck diving, and easy day trips to Giftun Island and El Gouna.",
+  "metaDescription": "A Hurghada travel guide: Giftun Island, the Abu Nuhas wrecks, dolphin-watching trips, El Gouna, food and how to plan a Red Sea resort holiday.",
+  "suggestedStay": "4-6 days",
+  "nearestAirport": "Hurghada International Airport (HRG)",
+  "knownFor": "Long beach resorts, offshore diving and snorkelling, Giftun Island",
+  "budget": "E£2,000–4,500 per day, mid-range (often resort-inclusive)",
+  "goodFor": "Beach resorts, diving, family holidays",
+  "coords": { "lat": 27.2579, "lng": 33.8116 },
+  "image": {
+    "file": "File:Beach of the Paradise Island of Hurghada.jpg",
+    "alt": "The beach at Hurghada on Egypt's Red Sea coast"
+  },
+  "intro": [
+    "Hurghada is genuinely Egypt's original Red Sea resort city, a long strip of beach hotels on the mainland coast that first put this stretch of coastline on the map.",
+    "Its appeal rests genuinely on easy access to exceptional offshore diving and snorkelling, from Giftun Island's reefs to the wrecks scattered across Abu Nuhas.",
+    "Most visitors genuinely split time between resort beach days and boat trips, with the more boutique lagoon town of El Gouna an easy day trip up the coast."
+  ],
+  "whyVisit": {
+    "intro": "Hurghada's case rests genuinely on being the most accessible, best-value base for Red Sea beach and diving holidays.",
+    "points": [
+      {
+        "title": "It's genuinely the most established Red Sea resort city",
+        "text": "Decades of tourism infrastructure mean flights, hotels and dive centres for every budget."
+      },
+      {
+        "title": "The offshore diving is genuinely exceptional",
+        "text": "Giftun Island's reefs and the Abu Nuhas wrecks rank among the Red Sea's best."
+      },
+      {
+        "title": "It's genuinely strong value for a Red Sea base",
+        "text": "Generally more affordable than Sharm El Sheikh, with comparable water and diving quality."
+      },
+      {
+        "title": "El Gouna is genuinely a short, easy day trip",
+        "text": "A more boutique lagoon town with its own beaches, restaurants and marina."
+      },
+      {
+        "title": "It works genuinely well for families",
+        "text": "All-inclusive resorts, calm swimming beaches and organised excursions suit every age."
+      }
+    ]
+  },
+  "attractionsIntro": "Hurghada's essential sights are genuinely spread between its beach resort strip and the reefs and islands offshore.",
+  "attractions": [
+    {
+      "name": "Hurghada's beach strip",
+      "image": {
+        "file": "File:Hurghada Beach Albatros 01.jpg",
+        "alt": "A resort beach in Hurghada"
+      },
+      "text": "Genuinely a long run of sandy beach hotels facing the Red Sea, the backbone of most visits here.",
+      "tip": "Genuinely most resort beaches are private to guests, though public beach clubs exist nearby."
+    },
+    {
+      "name": "Giftun Island",
+      "image": {
+        "file": "File:Beach of giftun island.JPG",
+        "alt": "Giftun Island off the coast of Hurghada"
+      },
+      "text": "Genuinely a protected island a short boat ride offshore, its fringing reefs among the best snorkelling near Hurghada.",
+      "tip": "Genuinely book a full-day boat trip that includes multiple snorkel or dive stops."
+    },
+    {
+      "name": "Hurghada Marina",
+      "image": {
+        "file": "File:Hurghada Marina for yachts.jpg",
+        "alt": "Hurghada Marina"
+      },
+      "text": "Genuinely the town's smartest stretch, lined with restaurants, cafés and yachts departing for reef trips.",
+      "tip": "Genuinely a pleasant spot for an evening stroll and dinner by the water."
+    },
+    {
+      "name": "El Gouna",
+      "image": {
+        "file": "File:El Gouna R13.jpg",
+        "alt": "The lagoon town of El Gouna near Hurghada"
+      },
+      "text": "Genuinely a more boutique, design-conscious lagoon town twenty minutes up the coast, popular as a day trip or standalone stay.",
+      "tip": "Genuinely rent a bike once there — El Gouna's lagoons and bridges are made for it."
+    },
+    {
+      "name": "Dolphin House (Shaab El Erg)",
+      "image": {
+        "file": "File:A pod of spinner dolphins in the Red Sea.jpg",
+        "alt": "Spinner dolphins at Shaab El Erg near Hurghada"
+      },
+      "text": "Genuinely a reef known for a resident pod of wild spinner dolphins, a real highlight for snorkellers on a good day.",
+      "tip": "Genuinely choose an operator that keeps a respectful distance and never chases the pod."
+    },
+    {
+      "name": "The Abu Nuhas wrecks",
+      "image": {
+        "file": "File:Abu Nuhas parts of Kimon M.JPG",
+        "alt": "A shipwreck at Abu Nuhas near Hurghada"
+      },
+      "text": "Genuinely known among divers as the Red Sea's 'Ships' Graveyard', a reef scattered with several historic wrecks.",
+      "tip": "Genuinely a trip best suited to certified divers with some wreck diving experience."
+    },
+    {
+      "name": "Sakkala and El Dahar",
+      "text": "Genuinely Hurghada's older, more local quarters, with a working market, mosque and a far less touristy feel than the resort strip.",
+      "tip": "Genuinely worth a taxi over for an authentic meal away from the hotels."
+    }
+  ],
+  "thingsToDoIntro": "Hurghada genuinely centres on the water, with boat trips to reefs, wrecks and islands filling most itineraries.",
+  "thingsToDo": [
+    {
+      "title": "Snorkel or dive Giftun Island",
+      "image": {
+        "file": "File:Red Sea - Giftun Island trip (2743504705).jpg",
+        "alt": "A boat trip to Giftun Island near Hurghada"
+      },
+      "text": "A genuinely classic Hurghada day out, boating to the island's reefs for snorkelling or diving.",
+      "tip": "Genuinely choose a smaller boat trip over a large day-cruise for a better experience in the water."
+    },
+    {
+      "title": "Dive the wrecks at Abu Nuhas",
+      "image": {
+        "file": "File:Sha b Abu Nuhas.JPG",
+        "alt": "Diving the wrecks at Abu Nuhas"
+      },
+      "text": "A genuinely bucket-list trip for certified divers, exploring several historic shipwrecks in one reef system.",
+      "tip": "Genuinely book through a dive centre experienced with the site's currents and depths."
+    },
+    {
+      "title": "Take a boat trip to see wild dolphins",
+      "image": {
+        "file": "File:A spinner dolphin in the Red Sea.jpg",
+        "alt": "A spinner dolphin near Hurghada"
+      },
+      "text": "A genuinely memorable excursion out to Shaab El Erg's resident spinner dolphin pod.",
+      "tip": "Genuinely go with an operator that limits group size and respects the dolphins' space."
+    },
+    {
+      "title": "Ride a glass-bottom boat",
+      "image": {
+        "file": "File:Gelbes Schiff mit Glasboden im Roten Meer in Ägypten 2H1A6659WI.jpg",
+        "alt": "A glass-bottom boat on the Red Sea near Hurghada"
+      },
+      "text": "A genuinely easy way to see the reef for non-swimmers or anyone travelling with young children.",
+      "tip": "Genuinely widely offered from the marina and resort tour desks."
+    },
+    {
+      "title": "Go on a desert safari by quad bike",
+      "image": {
+        "file": "File:Dessert Safari.jpg",
+        "alt": "A desert safari near Hurghada"
+      },
+      "text": "A genuinely popular half-day break from the water, riding out into the desert with a Bedouin camp stop.",
+      "tip": "Genuinely afternoon or sunset departures avoid the hottest part of the day."
+    },
+    {
+      "title": "Day-trip to El Gouna",
+      "image": {
+        "file": "File:El Gouna R23.jpg",
+        "alt": "El Gouna's lagoons near Hurghada"
+      },
+      "text": "A genuinely worthwhile change of pace, exploring El Gouna's lagoons, marina and beach clubs by bike or taxi.",
+      "tip": "Genuinely easy to arrange independently — no need for an organised tour."
+    }
+  ],
+  "foodIntro": "Hurghada's food genuinely spans resort international dining alongside fresh Red Sea seafood and Egyptian staples.",
+  "foods": [
+    {
+      "name": "Fresh Red Sea seafood",
+      "text": "Genuinely a highlight of dining here, fish and shellfish landed fresh from the surrounding waters.",
+      "whereToTry": "Restaurants around the marina and throughout the resort strip."
+    },
+    {
+      "name": "Grilled kofta",
+      "image": {
+        "file": "File:Grilled Kofta.jpg",
+        "alt": "Grilled kofta, spiced minced meat skewers"
+      },
+      "text": "A genuinely reliable classic, found throughout the town's restaurants.",
+      "whereToTry": "Restaurants throughout Hurghada."
+    },
+    {
+      "name": "Koshari",
+      "image": {
+        "file": "File:Egyptian Koshari.jpg",
+        "alt": "Koshari, Egypt's national dish of rice, lentils and pasta"
+      },
+      "text": "Genuinely available at Egyptian restaurants away from the resort strip, a taste of home for local staff and visitors alike.",
+      "whereToTry": "Local restaurants around Sakkala and El Dahar."
+    },
+    {
+      "name": "Ful medames",
+      "image": {
+        "file": "File:Foul Mudames.jpg",
+        "alt": "Ful medames, a traditional Egyptian fava bean breakfast"
+      },
+      "text": "A genuinely traditional breakfast option, found at both resort buffets and local cafés.",
+      "whereToTry": "Cafés and resort breakfasts throughout Hurghada."
+    },
+    {
+      "name": "Taameya (Egyptian falafel)",
+      "text": "Genuinely Egypt's own fava bean version of falafel, available throughout the town.",
+      "whereToTry": "Restaurants and street stalls throughout Hurghada."
+    },
+    {
+      "name": "Karkade (hibiscus tea)",
+      "text": "Genuinely a refreshing national drink, a nice complement to a day on the water.",
+      "whereToTry": "Cafés and restaurants throughout the resort area."
+    }
+  ],
+  "accommodation": {
+    "intro": "Hurghada genuinely offers Egypt's widest range of Red Sea resort accommodation, from budget hotels to luxury all-inclusive properties.",
+    "areas": [
+      {
+        "name": "The Marina and Sekalla",
+        "bestFor": "Being genuinely central, with the widest choice of restaurants and nightlife",
+        "text": "A lively, convenient base within easy reach of boat trips and dining."
+      },
+      {
+        "name": "El Gouna",
+        "bestFor": "A genuinely quieter, more boutique alternative base",
+        "text": "Twenty minutes up the coast, with its own lagoons, beaches and marina."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel", "value": "E£900–1,800 per night" },
+      { "label": "Mid-range all-inclusive resort", "value": "E£2,500–4,500 per night" },
+      { "label": "Two-tank dive trip", "value": "About E£1,800–2,800" },
+      { "label": "Dinner at a marina restaurant", "value": "About E£300–600 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Hurghada is genuinely well connected by direct flights, both domestic and international.",
+    "options": [
+      {
+        "mode": "Flight from Cairo",
+        "text": "Genuinely the standard domestic connection, taking about an hour.",
+        "detail": "Frequent daily flights make Hurghada an easy Red Sea addition to a Nile-focused trip."
+      },
+      {
+        "mode": "Direct international flights",
+        "text": "Genuinely available from many European cities, especially in high season.",
+        "detail": "A popular direct resort destination not requiring a Cairo stopover."
+      },
+      {
+        "mode": "Bus from Cairo or Luxor",
+        "text": "Genuinely a longer but budget-friendly overland option.",
+        "detail": "Takes around six hours from Cairo, or roughly four from Luxor."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Hurghada is genuinely spread along a long resort strip, with taxis and organised transfers the standard way around.",
+    "options": [
+      {
+        "mode": "Resort shuttles and tour transfers",
+        "text": "Genuinely the standard way to reach boat trips and excursions from your hotel.",
+        "detail": "Most tour operators include hotel pickup as part of the trip."
+      },
+      {
+        "mode": "Taxis",
+        "text": "Genuinely useful for reaching the marina, restaurants or El Gouna.",
+        "detail": "Widely available, though agree the fare before starting your journey."
+      },
+      {
+        "mode": "On foot within your resort area",
+        "text": "Genuinely easy within a single stretch of the strip.",
+        "detail": "Covering the full length of Hurghada on foot is impractical given its size."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March to May and September to November for the most comfortable conditions",
+    "summary": "Hurghada is genuinely a year-round destination, with water temperatures staying warm even in winter.",
+    "seasons": [
+      {
+        "season": "Spring and autumn (March–May, September–November)",
+        "rating": "best",
+        "text": "Genuinely the most comfortable air and water temperatures for diving and beach time."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Genuinely very hot on land, though the water itself stays excellent for diving and snorkelling."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "good",
+        "text": "Genuinely mild and popular with visitors escaping colder climates, water temperatures still comfortable."
+      }
+    ],
+    "avoid": "Nothing strongly — Hurghada's genuinely warm Red Sea waters make it a workable destination in any season."
+  },
+  "itinerary": {
+    "title": "Three days in Hurghada",
+    "intro": "Built around a Giftun Island boat trip, a wreck dive or desert safari, and a day trip to El Gouna.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Giftun Island",
+        "summary": "A full-day snorkelling or diving boat trip.",
+        "morning": "Boat out to Giftun Island's reefs.",
+        "afternoon": "Snorkelling or diving stops around the island.",
+        "evening": "Dinner at the marina."
+      },
+      {
+        "day": 2,
+        "title": "Wrecks or desert",
+        "summary": "A day for more advanced diving or a desert safari.",
+        "morning": "Dive the wrecks at Abu Nuhas, if certified, or join a desert safari.",
+        "afternoon": "Continue the boat trip or safari.",
+        "evening": "Relax at your resort."
+      },
+      {
+        "day": 3,
+        "title": "El Gouna",
+        "summary": "A day trip up the coast.",
+        "morning": "Travel to El Gouna.",
+        "afternoon": "Explore El Gouna's lagoons, beaches and marina.",
+        "evening": "Return to Hurghada for a final dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Hurghada visit noticeably smoother.",
+  "tips": [
+    "Book genuinely with a reputable dive centre for any wreck or reef diving.",
+    "Bring genuinely your own certification card if you're a qualified diver.",
+    "Pack genuinely reef-safe sunscreen to help protect the coral.",
+    "Agree genuinely a price before any independently arranged desert safari or taxi.",
+    "Stay genuinely hydrated and use sun protection, even on boat trips.",
+    "Consider genuinely a half-board or all-inclusive resort — independent dining options are more spread out than in Sharm El Sheikh."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Hurghada?",
+      "a": "Four to six days genuinely allows for a proper mix of beach time, diving trips and a day trip to El Gouna."
+    },
+    {
+      "q": "How does Hurghada compare to Sharm El Sheikh?",
+      "a": "Genuinely more affordable and less polished, with excellent offshore reefs and wreck diving rather than Sharm's dramatic drop-offs."
+    },
+    {
+      "q": "Is Hurghada good for families?",
+      "a": "Yes, genuinely — all-inclusive resorts and calm beaches make it one of Egypt's most family-friendly bases."
+    },
+    {
+      "q": "Do you need to be a certified diver to visit?",
+      "a": "No, genuinely not — excellent snorkelling and beginner dive courses are widely available."
+    },
+    {
+      "q": "Can beginners dive the wrecks at Abu Nuhas?",
+      "a": "Some genuinely shallower sections are accessible to newer divers, though the deeper wrecks suit more experienced divers."
+    },
+    {
+      "q": "Can you combine Hurghada with the Nile Valley?",
+      "a": "Yes, genuinely easily — a direct flight connects to Luxor or Cairo, making it a natural Red Sea extension to a Nile-focused Egypt trip."
+    }
+  ],
+  "related": ["dahab", "sharm-el-sheikh", "nile-cruise"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

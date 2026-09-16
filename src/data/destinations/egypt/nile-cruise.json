@@ -1,0 +1,359 @@
+{
+  "slug": "nile-cruise",
+  "name": "A Nile Cruise",
+  "country": "egypt",
+  "region": "Upper Egypt",
+  "categories": ["history", "cruise", "unesco", "culture"],
+  "tagline": "A genuinely classic way to see ancient Egypt, sailing between Luxor and Aswan past temples that have watched the same river for thousands of years.",
+  "highlight": "Waking up on deck to find the boat has moored beside a temple overnight, stepping straight off the gangplank into Kom Ombo before the day's heat sets in.",
+  "shortDescription": "A multi-night journey between Luxor and Aswan, the classic way to see the Nile's temples at Edfu and Kom Ombo without repeated hotel changes.",
+  "metaDescription": "A Nile cruise travel guide: Edfu, Kom Ombo, life aboard, food and how to plan a multi-night cruise between Luxor and Aswan.",
+  "suggestedStay": "3-4 nights",
+  "nearestAirport": "Luxor International Airport (LXR), or Aswan International Airport (ASW)",
+  "knownFor": "Temple stops at Edfu and Kom Ombo, riverside scenery",
+  "budget": "E£3,500–7,000 per day, typically all-inclusive",
+  "goodFor": "A relaxed, comfortable way to see multiple temples",
+  "coords": { "lat": 24.9781, "lng": 32.8730 },
+  "image": {
+    "file": "File:Movenpick Radamis II Cruise Ship on the Nile River (4058006543).jpg",
+    "alt": "A Nile cruise ship sailing between Luxor and Aswan"
+  },
+  "intro": [
+    "A Nile cruise is genuinely the classic way to see Upper Egypt, a multi-night journey between Luxor and Aswan that covers ancient temple sites at Edfu and Kom Ombo without the hassle of repeated hotel changes.",
+    "The river itself is genuinely part of the experience, its banks unchanged in essence for millennia — palm groves, mudbrick villages and farmland worked much as it always has been, right alongside the boat's route.",
+    "Most visitors genuinely book a three- or four-night cruise, sailing between Luxor and Aswan with guided stops at each temple along the way, all meals and cabin accommodation included in a single package."
+  ],
+  "whyVisit": {
+    "intro": "A Nile cruise's case rests on genuinely combining efficient sightseeing with a uniquely relaxed, scenic way to travel.",
+    "points": [
+      {
+        "title": "It's genuinely the most efficient way to see multiple temples",
+        "text": "Edfu and Kom Ombo are both reached without a single extra hotel change."
+      },
+      {
+        "title": "The river scenery is genuinely part of the appeal",
+        "text": "Palm groves and riverside village life passing by, largely unchanged for centuries."
+      },
+      {
+        "title": "Edfu's temple is genuinely one of Egypt's best preserved",
+        "text": "Its roof and walls remarkably intact, giving a real sense of how these temples once looked complete."
+      },
+      {
+        "title": "Kom Ombo's dual design is genuinely unique",
+        "text": "A rare temple built as mirrored twin sanctuaries dedicated to two different gods."
+      },
+      {
+        "title": "It's genuinely a comfortable, all-inclusive way to travel",
+        "text": "Meals, cabin and guided excursions all bundled into a single, relaxed itinerary."
+      }
+    ]
+  },
+  "attractionsIntro": "A Nile cruise's essential sights combine genuinely life aboard the boat with major temple stops along the route.",
+  "attractions": [
+    {
+      "name": "The Nile cruise ship",
+      "image": {
+        "file": "File:Movenpick Radamis II Cruise Ship on the Nile River (4058006543).jpg",
+        "alt": "A Nile cruise ship on the river"
+      },
+      "text": "Genuinely a floating hotel for the journey, most boats offering cabins, a sun deck, dining rooms and often a small pool.",
+      "tip": "Genuinely book a cabin with a river-facing balcony if your budget allows — the views are worth it."
+    },
+    {
+      "name": "The Temple of Horus at Edfu",
+      "image": {
+        "file": "File:Edfu Temple R04.jpg",
+        "alt": "The Temple of Horus at Edfu"
+      },
+      "text": "Genuinely one of Egypt's best-preserved ancient temples, its roof and walls remarkably intact after being buried in sand for centuries.",
+      "tip": "Genuinely reached by horse-drawn carriage from the dock, part of the classic Edfu stop experience."
+    },
+    {
+      "name": "The Temple of Kom Ombo",
+      "image": {
+        "file": "File:Kom Ombo 20.jpg",
+        "alt": "The Temple of Kom Ombo"
+      },
+      "text": "Genuinely unique among Egyptian temples, built as mirrored twin sanctuaries dedicated to two different gods, Sobek and Horus.",
+      "tip": "Genuinely visit at sunset if your cruise schedule allows — the temple is especially striking in golden light."
+    },
+    {
+      "name": "Kom Ombo's twin sanctuaries",
+      "image": {
+        "file": "File:Kom Ombo Säulenhof 12.jpg",
+        "alt": "The columned courtyard of Kom Ombo Temple"
+      },
+      "text": "Genuinely a rare architectural symmetry, with matching entrances, halls and sanctuaries mirrored down the temple's central axis.",
+      "tip": "Genuinely spot the ancient crocodile mummies displayed in the temple's small on-site museum."
+    },
+    {
+      "name": "Edfu's hypostyle hall",
+      "image": {
+        "file": "File:Temple of Edfu, Horus, Egypt.jpg",
+        "alt": "The hypostyle hall at the Temple of Edfu"
+      },
+      "text": "Genuinely one of the most complete surviving examples of ancient Egyptian temple architecture, its full roof structure still intact.",
+      "tip": "Genuinely a real, rare chance to imagine these temples as they originally looked, roof and all."
+    },
+    {
+      "name": "Nile riverbank scenery",
+      "image": {
+        "file": "File:Aswan Nile R03.jpg",
+        "alt": "The Nile riverbank between Luxor and Aswan"
+      },
+      "text": "Genuinely part of the cruise's real appeal, palm groves, farmland and village life passing slowly by the boat's rails.",
+      "tip": "Genuinely the sun deck offers the best vantage point for watching the riverbank scenery unfold."
+    },
+    {
+      "name": "A felucca crossing the cruise route",
+      "image": {
+        "file": "File:Felucca Sailing on the Nile (1).tif",
+        "alt": "A traditional felucca sailing near the cruise route"
+      },
+      "text": "Genuinely a common sight along the way, traditional wooden sailboats still working the same stretch of river.",
+      "tip": "Genuinely many cruises include a short felucca excursion of their own, separate from the main boat."
+    }
+  ],
+  "thingsToDoIntro": "A Nile cruise genuinely rewards embracing its slower pace, alternating temple visits with real time on the water.",
+  "thingsToDo": [
+    {
+      "title": "Sail between temples on the cruise boat",
+      "image": {
+        "file": "File:Abercrombie & Kent river cruise ship R01.jpg",
+        "alt": "Sailing on a Nile cruise boat"
+      },
+      "text": "A genuinely relaxed core of the experience, watching the riverbank pass by between each guided temple stop.",
+      "tip": "Genuinely much of the sailing happens overnight, so daytime hours are largely free for sightseeing or relaxing."
+    },
+    {
+      "title": "Explore the Temple of Horus at Edfu",
+      "image": {
+        "file": "File:Temple of Edfu, Statue of Horus, Egypt.jpg",
+        "alt": "Exploring the Temple of Horus at Edfu"
+      },
+      "text": "A genuinely essential stop, walking through one of Egypt's most completely preserved ancient temples.",
+      "tip": "Genuinely the horse-drawn carriage ride from the dock is a memorable part of the Edfu stop."
+    },
+    {
+      "title": "Visit the twin temple of Kom Ombo",
+      "image": {
+        "file": "File:By ovedc - Temple of Kom Ombo - 43.jpg",
+        "alt": "Visiting the twin temple of Kom Ombo"
+      },
+      "text": "A genuinely fascinating architectural puzzle, tracing the temple's mirrored design dedicated to two different gods.",
+      "tip": "Genuinely don't miss the small crocodile mummy museum on the temple grounds."
+    },
+    {
+      "title": "Watch the riverbank scenery pass by",
+      "image": {
+        "file": "File:Aswan Nile R17.jpg",
+        "alt": "Watching the Nile riverbank from a cruise boat"
+      },
+      "text": "A genuinely underrated part of the cruise, simply watching daily riverside life unfold from the sun deck.",
+      "tip": "Genuinely bring a good book or simply enjoy the unhurried pace between temple stops."
+    },
+    {
+      "title": "Enjoy a traditional show onboard",
+      "image": {
+        "file": "File:'Raqs Sharqi' performance on cruise boat 'Topaz' on Nile River..JPG",
+        "alt": "A traditional dance performance aboard a Nile cruise boat"
+      },
+      "text": "A genuinely fun evening addition on many cruises, traditional music and dance performances after dinner.",
+      "tip": "Genuinely check your cruise's evening schedule — these shows are usually included, not an extra cost."
+    },
+    {
+      "title": "Relax on the sun deck",
+      "text": "A genuinely essential part of the cruise experience, whether by the small pool or simply taking in the view.",
+      "tip": "Genuinely the sun deck offers the best photo opportunities as the boat passes each new stretch of riverbank."
+    }
+  ],
+  "foodIntro": "Food aboard a Nile cruise genuinely comes largely included, typically a buffet spanning Egyptian and international dishes.",
+  "foods": [
+    {
+      "name": "Onboard Egyptian buffet dining",
+      "text": "Genuinely the standard format on most cruises, a buffet spanning Egyptian staples alongside international options.",
+      "whereToTry": "Included with nearly every Nile cruise package."
+    },
+    {
+      "name": "Koshari",
+      "image": {
+        "file": "File:Egyptian Koshari.jpg",
+        "alt": "Koshari, Egypt's national dish of rice, lentils and pasta"
+      },
+      "text": "Genuinely a common buffet staple aboard most cruise boats, alongside more international dishes.",
+      "whereToTry": "Onboard buffets on most Nile cruises."
+    },
+    {
+      "name": "Grilled kofta",
+      "image": {
+        "file": "File:Grilled Kofta.jpg",
+        "alt": "Grilled kofta, spiced minced meat skewers"
+      },
+      "text": "A genuinely reliable dinner option, often grilled to order aboard the boat.",
+      "whereToTry": "Onboard restaurants on most Nile cruises."
+    },
+    {
+      "name": "Fresh Nile fish",
+      "text": "Genuinely a highlight of onboard dining, fish sourced fresh along the river's own route.",
+      "whereToTry": "Onboard restaurants on most Nile cruises."
+    },
+    {
+      "name": "Molokhia",
+      "text": "Genuinely a beloved home-style dish, commonly featured on cruise buffet menus.",
+      "whereToTry": "Onboard buffets on most Nile cruises."
+    },
+    {
+      "name": "Karkade (hibiscus tea)",
+      "text": "Genuinely a refreshing drink served aboard most cruises, hot or cold.",
+      "whereToTry": "Included with most onboard dining."
+    }
+  ],
+  "accommodation": {
+    "intro": "Accommodation on a Nile cruise genuinely means your cabin aboard the boat itself, included as part of the package.",
+    "areas": [
+      {
+        "name": "A river-view or balcony cabin",
+        "bestFor": "Being genuinely close to the views that make the cruise worthwhile",
+        "text": "Worth the modest upgrade over an interior cabin for most travellers."
+      }
+    ],
+    "budget": [
+      { "label": "Budget cruise cabin (3-4 nights, all-inclusive)", "value": "About E£12,000–20,000 per person" },
+      { "label": "Mid-range cruise cabin", "value": "About E£22,000–40,000 per person" },
+      { "label": "Balcony cabin upgrade", "value": "Add roughly 20-30% to the base cabin price" },
+      { "label": "Optional shore excursion tips", "value": "Small cash tips genuinely expected for guides and staff" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "A Nile cruise genuinely begins or ends in either Luxor or Aswan, both reached by flight or train from Cairo.",
+    "options": [
+      {
+        "mode": "Flight to Luxor or Aswan",
+        "text": "Genuinely the standard way to reach your cruise's embarkation point from Cairo.",
+        "detail": "Frequent daily flights connect Cairo to both cities."
+      },
+      {
+        "mode": "Overnight train to Luxor or Aswan",
+        "text": "Genuinely a budget-friendly, if slower, alternative to flying.",
+        "detail": "Comfortable sleeper cabins save a hotel night."
+      },
+      {
+        "mode": "Booking through a tour operator",
+        "text": "Genuinely the standard way to arrange a cruise, often bundled with flights and airport transfers.",
+        "detail": "Most cruise packages handle logistics between your flight and the boat directly."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Once aboard, all movement is genuinely handled by the cruise itself, with guided excursions at each stop.",
+    "options": [
+      {
+        "mode": "The cruise boat",
+        "text": "Genuinely covers the full journey between Luxor and Aswan, sailing mostly overnight between stops.",
+        "detail": "No independent transport needed once your cruise begins."
+      },
+      {
+        "mode": "Guided shore excursions",
+        "text": "Genuinely included at each temple stop, led by an onboard Egyptologist guide.",
+        "detail": "The standard, and genuinely recommended, way to see Edfu and Kom Ombo."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October to April for the mildest temperatures on deck and ashore",
+    "summary": "A Nile cruise genuinely runs year-round, though winter and shoulder season offer far more comfortable conditions for the temple stops.",
+    "seasons": [
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "Genuinely the mildest temperatures for both onboard time and temple excursions, also the busiest season."
+      },
+      {
+        "season": "Shoulder months (October–November, March–April)",
+        "rating": "best",
+        "text": "Genuinely warm but manageable heat with thinner crowds than peak winter."
+      },
+      {
+        "season": "Summer (May–September)",
+        "rating": "okay",
+        "text": "Genuinely intense heat ashore, though the boat's air-conditioned cabins and pool offer real relief."
+      }
+    ],
+    "avoid": "Booking a cruise without checking your cabin's air conditioning — genuinely essential given Upper Egypt's heat most of the year."
+  },
+  "itinerary": {
+    "title": "Four nights on a Nile cruise",
+    "intro": "A typical cruise itinerary sailing south from Luxor to Aswan with stops at Edfu and Kom Ombo.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Embark in Luxor",
+        "summary": "Board your cruise and set sail.",
+        "morning": "Visit Karnak and Luxor Temples before boarding.",
+        "afternoon": "Board your cruise boat and settle in.",
+        "evening": "Set sail south toward Edfu."
+      },
+      {
+        "day": 2,
+        "title": "Edfu",
+        "summary": "The Temple of Horus.",
+        "morning": "Guided visit to the Temple of Horus at Edfu.",
+        "afternoon": "Relax on the sun deck as the boat continues sailing.",
+        "evening": "Dinner and an onboard show."
+      },
+      {
+        "day": 3,
+        "title": "Kom Ombo and Aswan",
+        "summary": "The Temple of Kom Ombo, arriving in Aswan.",
+        "morning": "Guided visit to the Temple of Kom Ombo.",
+        "afternoon": "Continue sailing and arrive in Aswan.",
+        "evening": "Dinner aboard in Aswan."
+      },
+      {
+        "day": 4,
+        "title": "Aswan and disembarkation",
+        "summary": "Philae Temple and the end of the cruise.",
+        "morning": "A guided visit to Philae Temple.",
+        "afternoon": "Disembark and continue your onward journey.",
+        "evening": "Onward flight or overnight stay in Aswan."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Nile cruise noticeably smoother.",
+  "tips": [
+    "Book genuinely a reputable operator with recent reviews — quality varies significantly between cruise companies.",
+    "Choose genuinely a river-view or balcony cabin if your budget allows — it's worth the upgrade.",
+    "Pack genuinely modest clothing for temple visits, alongside swimwear for the sun deck.",
+    "Bring genuinely small cash for tipping guides and crew, expected throughout the cruise.",
+    "Confirm genuinely which excursions are included versus optional extras before booking.",
+    "Check genuinely your cabin's air conditioning, especially important outside the winter months."
+  ],
+  "faq": [
+    {
+      "q": "How many nights should a Nile cruise be?",
+      "a": "Three to four nights genuinely covers the classic Luxor to Aswan route comfortably, with stops at Edfu and Kom Ombo."
+    },
+    {
+      "q": "What's included in a Nile cruise price?",
+      "a": "Genuinely most packages include your cabin, all meals, and guided shore excursions at each temple stop — check specifics before booking."
+    },
+    {
+      "q": "Do you need to book a Nile cruise in advance?",
+      "a": "Yes, genuinely recommended, especially for the best cabins in peak winter season, when demand is highest."
+    },
+    {
+      "q": "What is a Nile cruise known for?",
+      "a": "Genuinely being the classic, efficient way to see Upper Egypt's temples at Edfu and Kom Ombo, combined with the Nile's own timeless riverside scenery."
+    },
+    {
+      "q": "Can you do a Nile cruise in the other direction, from Aswan to Luxor?",
+      "a": "Yes, genuinely — cruises run both directions, so the route works equally well starting from either city."
+    },
+    {
+      "q": "Is a Nile cruise suitable for families?",
+      "a": "Generally yes, genuinely — most boats offer a relaxed pace and a pool, though check specific excursion intensity for younger children."
+    }
+  ],
+  "related": ["luxor", "aswan", "cairo-giza"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

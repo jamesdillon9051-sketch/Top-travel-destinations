@@ -1,0 +1,366 @@
+{
+  "slug": "dahab",
+  "name": "Dahab",
+  "country": "egypt",
+  "region": "South Sinai",
+  "categories": ["beach", "diving", "off-the-beaten-path", "nature"],
+  "tagline": "Egypt's laid-back answer to Sharm El Sheikh, a former Bedouin fishing village turned shore-diving and freediving hub on the Gulf of Aqaba.",
+  "highlight": "Sitting cross-legged on cushions at a seafront camp in Masbat, watching the sun rise pink over the Gulf of Aqaba after an early dive.",
+  "shortDescription": "Egypt's laid-back Red Sea diving town, a former Bedouin fishing village built around house-reef diving, the legendary Blue Hole and a famously relaxed backpacker pace.",
+  "metaDescription": "A Dahab travel guide: the Blue Hole, the Canyon, the lagoon, Masbat's seafront cafés, diving and freediving, food and how to plan a visit.",
+  "suggestedStay": "3-5 days",
+  "nearestAirport": "Sharm El Sheikh International Airport (SSH), about 1.5 hours by road",
+  "knownFor": "The Blue Hole, house-reef diving, a laid-back backpacker pace",
+  "budget": "E£1,000–2,500 per day, budget to mid-range",
+  "goodFor": "Diving, freediving, windsurfing, relaxed backpacking",
+  "coords": { "lat": 28.5091, "lng": 34.5136 },
+  "image": {
+    "file": "File:Dahab, Egypt.jpg",
+    "alt": "The coastal town of Dahab on the Gulf of Aqaba"
+  },
+  "intro": [
+    "Dahab is genuinely Egypt's laid-back answer to Sharm El Sheikh, a former Bedouin fishing village strung along the Gulf of Aqaba about an hour and a half up the Sinai coast.",
+    "Its reputation rests genuinely on house-reef diving — walking straight off the shore into some of the Red Sea's best diving and freediving, including the legendary, genuinely notorious Blue Hole.",
+    "Life here genuinely moves at a different pace than Sharm's resort strip, built around cushion-strewn seafront cafés, budget guesthouses and a close-knit diving and freediving community."
+  ],
+  "whyVisit": {
+    "intro": "Dahab's case rests genuinely on world-class shore diving paired with an unusually relaxed, unpretentious atmosphere.",
+    "points": [
+      {
+        "title": "The diving here is genuinely shore-based and exceptional",
+        "text": "Walk straight off the beach into reef walls that would require a boat almost anywhere else."
+      },
+      {
+        "title": "It's genuinely one of the world's great freediving hubs",
+        "text": "Multiple international freediving schools and a calm, deep bay draw the discipline's top athletes."
+      },
+      {
+        "title": "The pace here is genuinely far more relaxed than Sharm",
+        "text": "A backpacker, Bedouin-influenced town with no big resort strip to speak of."
+      },
+      {
+        "title": "The lagoon is genuinely excellent for windsurfing and kitesurfing",
+        "text": "Flat, shallow water and reliable wind make it a genuine watersports draw."
+      },
+      {
+        "title": "It works genuinely well as a quieter Red Sea base",
+        "text": "Easily combined with Sharm El Sheikh or a wider Sinai itinerary."
+      }
+    ]
+  },
+  "attractionsIntro": "Dahab's essential sights are genuinely centred on its famous dive sites and its laid-back seafront.",
+  "attractions": [
+    {
+      "name": "The Blue Hole",
+      "image": {
+        "file": "File:Dahab Blue Hole.jpg",
+        "alt": "The Blue Hole dive site near Dahab"
+      },
+      "text": "Genuinely one of the world's most famous — and most notorious — dive sites, a sinkhole dropping more than 100 metres just off the shore.",
+      "tip": "Genuinely only dive here with a qualified local guide and well within your certification level; the site has a serious accident history."
+    },
+    {
+      "name": "The Canyon",
+      "image": {
+        "file": "File:The Canyon lagoon, Dahab - Egypte 07-2012 (7609804106).jpg",
+        "alt": "The bay at Dahab's Canyon dive site"
+      },
+      "text": "Genuinely a dramatic underwater crevice a short way up the coast, its narrow walls opening onto a sandy floor around 30 metres down.",
+      "tip": "Genuinely a rewarding, slightly easier alternative to the Blue Hole for certified divers."
+    },
+    {
+      "name": "Dahab's lagoon",
+      "image": {
+        "file": "File:Blue Lagoon, Dahab, Egypt 2013-04-23 21-59.jpg",
+        "alt": "The shallow lagoon south of Dahab"
+      },
+      "text": "Genuinely a shallow, sheltered bay just south of town, its flat water and steady wind making it one of the Red Sea's best windsurfing and kitesurfing spots.",
+      "tip": "Genuinely beginner lessons are easy to arrange right at the lagoon's watersports centres."
+    },
+    {
+      "name": "Masbat and Mashraba promenade",
+      "image": {
+        "file": "File:Masbat Promenade (13620701844).jpg",
+        "alt": "The seafront promenade at Masbat in Dahab"
+      },
+      "text": "Genuinely Dahab's social heart, a seafront strip of cushion-scattered restaurants and cafés facing the Gulf of Aqaba.",
+      "tip": "Genuinely arrive for sunrise — the town faces east across the water toward Saudi Arabia's mountains."
+    },
+    {
+      "name": "Eel Garden",
+      "image": {
+        "file": "File:CIMG2630 Galzins Garden Eel at Eel Garden, Dahab, Egypt (2693641328).jpg",
+        "alt": "Garden eels at Dahab's Eel Garden dive and snorkel site"
+      },
+      "text": "Genuinely a shallow, easy shore dive and snorkel site named for its colony of garden eels swaying from the sandy bottom.",
+      "tip": "Genuinely a good site for beginners and underwater photographers alike."
+    },
+    {
+      "name": "Ras Abu Galum Protected Area",
+      "image": {
+        "file": "File:Ras Abu Galum 2020-03-20-16.jpg",
+        "alt": "The coastline at Ras Abu Galum Protected Area near Dahab"
+      },
+      "text": "Genuinely a remote Bedouin village and marine reserve reachable only by camel or boat along the coast north of Dahab.",
+      "tip": "Genuinely go on an organised camel trek that includes snorkelling stops along the way."
+    },
+    {
+      "name": "The Coloured Canyon",
+      "image": {
+        "file": "File:Sinai Coloured Canyon - panoramio.jpg",
+        "alt": "The Coloured Canyon inland from Dahab"
+      },
+      "text": "Genuinely a striking slot canyon inland toward Nuweiba, its walls streaked red, purple and gold by mineral deposits.",
+      "tip": "Genuinely a popular full-day desert excursion, often paired with a Bedouin lunch."
+    }
+  ],
+  "thingsToDoIntro": "Dahab genuinely rewards a slower pace, built around diving, watersports and simply relaxing by the water.",
+  "thingsToDo": [
+    {
+      "title": "Dive the Blue Hole with a qualified guide",
+      "image": {
+        "file": "File:Blue Hole 2005.JPG",
+        "alt": "Diving at the Blue Hole near Dahab"
+      },
+      "text": "A genuinely bucket-list dive for the qualified, best done early morning with a reputable local dive centre.",
+      "tip": "Genuinely stick to depths well within your certification — the site's notoriety is well earned."
+    },
+    {
+      "title": "Try freediving",
+      "text": "A genuinely major draw for Dahab, home to some of the world's top freediving schools and a calm, deep bay perfect for training.",
+      "tip": "Genuinely beginner courses are widely available and need no prior experience."
+    },
+    {
+      "title": "Windsurf or kitesurf the lagoon",
+      "image": {
+        "file": "File:Windsurfer, Laguna, Dahab.jpg",
+        "alt": "Windsurfing at Dahab's lagoon"
+      },
+      "text": "A genuinely reliable watersports session, the lagoon's flat water and steady wind suiting beginners and experts alike.",
+      "tip": "Genuinely lessons and equipment rental are easy to arrange right at the lagoon."
+    },
+    {
+      "title": "Snorkel the Eel Garden",
+      "image": {
+        "file": "File:CIMG2630 Galzins Garden Eel at Eel Garden, Dahab, Egypt (2693641328).jpg",
+        "alt": "Snorkelling over garden eels at Dahab's Eel Garden"
+      },
+      "text": "A genuinely easy, rewarding shore snorkel, drifting over a colony of garden eels and healthy coral.",
+      "tip": "Genuinely rent gear from any of the dive shops lining the promenade."
+    },
+    {
+      "title": "Take a camel or jeep safari into the desert",
+      "image": {
+        "file": "File:Camel ride in Dahab.jpg",
+        "alt": "A camel safari near Dahab"
+      },
+      "text": "A genuinely classic Dahab excursion, riding out toward the mountains or the Coloured Canyon with a Bedouin guide.",
+      "tip": "Genuinely sunset or sunrise trips are the most atmospheric time to go."
+    },
+    {
+      "title": "Watch sunrise over the Gulf of Aqaba",
+      "image": {
+        "file": "File:Sunrise over the Red Sea (13620410425).jpg",
+        "alt": "Sunrise over the Gulf of Aqaba at Dahab"
+      },
+      "text": "A genuinely lovely, easy ritual, the town's east-facing coast turning the water pink before the day's heat sets in.",
+      "tip": "Genuinely grab a coffee from a promenade café and watch from a cushioned seafront seat."
+    }
+  ],
+  "foodIntro": "Dahab's food scene genuinely reflects its backpacker, Bedouin-influenced character, relaxed and inexpensive.",
+  "foods": [
+    {
+      "name": "Fresh grilled Red Sea seafood",
+      "text": "Genuinely a Dahab staple, fish grilled simply and served right along the promenade.",
+      "whereToTry": "Seafront restaurants throughout Masbat and Mashraba."
+    },
+    {
+      "name": "Bedouin tea",
+      "text": "Genuinely a Dahab ritual, sweet tea brewed with fresh herbs and served on cushions at a seafront camp.",
+      "whereToTry": "Any of the promenade's Bedouin-style seafront cafés."
+    },
+    {
+      "name": "Koshari",
+      "image": {
+        "file": "File:Egyptian Koshari.jpg",
+        "alt": "Koshari, Egypt's national dish of rice, lentils and pasta"
+      },
+      "text": "Genuinely available at Egyptian-run restaurants throughout town, a comforting, filling staple.",
+      "whereToTry": "Local restaurants away from the busier promenade strip."
+    },
+    {
+      "name": "Ful medames",
+      "image": {
+        "file": "File:Foul Mudames.jpg",
+        "alt": "Ful medames, a traditional Egyptian fava bean breakfast"
+      },
+      "text": "Genuinely a traditional, hearty breakfast, found at cafés throughout Dahab.",
+      "whereToTry": "Local cafés, especially around the older Masbat quarter."
+    },
+    {
+      "name": "Taameya (Egyptian falafel)",
+      "text": "Genuinely Egypt's own fava-bean falafel, a reliable, inexpensive staple.",
+      "whereToTry": "Street stalls and restaurants throughout town."
+    },
+    {
+      "name": "Fresh fruit juice",
+      "text": "Genuinely a refreshing staple after a day of diving, blended fresh at juice bars along the promenade.",
+      "whereToTry": "Juice bars and cafés throughout Masbat."
+    }
+  ],
+  "accommodation": {
+    "intro": "Dahab genuinely favours simple, characterful stays over big resorts, from budget dive camps to boutique guesthouses.",
+    "areas": [
+      {
+        "name": "Masbat",
+        "bestFor": "Being genuinely central, with the widest choice of restaurants and dive centres",
+        "text": "Genuinely the liveliest stretch of the promenade, easy walking distance to everything."
+      },
+      {
+        "name": "Mashraba and Asalah",
+        "bestFor": "A genuinely quieter, more local stay a short walk from the main strip",
+        "text": "Genuinely popular with longer-staying divers and freedivers."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse or dive camp", "value": "E£400–900 per night" },
+      { "label": "Mid-range boutique hotel", "value": "E£1,200–2,500 per night" },
+      { "label": "Two-tank dive trip", "value": "About E£1,500–2,200" },
+      { "label": "Dinner at a seafront restaurant", "value": "About E£200–400 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Dahab is genuinely reached overland from Sharm El Sheikh or Cairo, with no airport of its own.",
+    "options": [
+      {
+        "mode": "Transfer or taxi from Sharm El Sheikh",
+        "text": "Genuinely the most common route, about 1.5 hours by road.",
+        "detail": "Shared or private transfers are easy to arrange through hotels or dive centres."
+      },
+      {
+        "mode": "Bus from Cairo",
+        "text": "Genuinely a long but budget-friendly overland option.",
+        "detail": "Takes around eight to nine hours via the Sinai Peninsula."
+      },
+      {
+        "mode": "Fly into Sharm El Sheikh",
+        "text": "Genuinely the standard gateway, with frequent domestic and international flights.",
+        "detail": "Continue on to Dahab by road transfer."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Dahab is genuinely small and walkable, with most of daily life happening along the promenade.",
+    "options": [
+      {
+        "mode": "On foot along the promenade",
+        "text": "Genuinely the way most visitors get around central Dahab.",
+        "detail": "Masbat, Mashraba and the lagoon all sit within easy walking distance of each other."
+      },
+      {
+        "mode": "Bicycles",
+        "text": "Genuinely a popular, easy way to cover slightly longer distances.",
+        "detail": "Widely available for rent from guesthouses and shops."
+      },
+      {
+        "mode": "Taxis",
+        "text": "Genuinely useful for reaching the lagoon or outlying dive sites.",
+        "detail": "Agree the fare before starting your journey."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March to May and September to November for the most comfortable conditions",
+    "summary": "Dahab is genuinely a year-round destination, with warm water even in the cooler months.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Genuinely comfortable temperatures for diving, freediving and desert excursions alike."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Genuinely similarly excellent conditions, with warm water and fewer crowds than summer."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Genuinely hot on land, though the water stays pleasant and windsurfing conditions are strong."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "good",
+        "text": "Genuinely mild and popular with visitors escaping colder climates, though desert nights can turn cold."
+      }
+    ],
+    "avoid": "Nothing strongly — Dahab's genuinely warm Red Sea waters make it workable year-round."
+  },
+  "itinerary": {
+    "title": "Three days in Dahab",
+    "intro": "Built around the Blue Hole, the lagoon and a desert excursion.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Blue Hole and Masbat",
+        "summary": "Arrival and an introductory dive or snorkel.",
+        "morning": "Arrive and settle in around Masbat.",
+        "afternoon": "Snorkel or dive the Blue Hole with a local guide.",
+        "evening": "Dinner on cushions at a seafront restaurant."
+      },
+      {
+        "day": 2,
+        "title": "The Canyon and the lagoon",
+        "summary": "A second dive site and watersports at the lagoon.",
+        "morning": "Dive or snorkel the Canyon.",
+        "afternoon": "Try windsurfing or kitesurfing at the lagoon.",
+        "evening": "Dinner and shisha at a promenade café."
+      },
+      {
+        "day": 3,
+        "title": "Ras Abu Galum or the Coloured Canyon",
+        "summary": "A full-day excursion by camel or jeep.",
+        "morning": "Set off on a full-day trip to Ras Abu Galum or the Coloured Canyon.",
+        "afternoon": "Continue the desert or coastal excursion, with a Bedouin lunch.",
+        "evening": "A final dinner back in Masbat before departing."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Dahab visit noticeably smoother.",
+  "tips": [
+    "Book genuinely with a reputable, qualified dive centre, especially for the Blue Hole.",
+    "Bring genuinely your own certification card if you're a qualified diver.",
+    "Pack genuinely reef-safe sunscreen and modest clothing for walking through town.",
+    "Never dive genuinely beyond your certification level, whatever a dive guide suggests.",
+    "Carry genuinely cash — many smaller promenade restaurants and shops don't take cards.",
+    "Bargain genuinely and politely for camel treks and jeep safaris arranged independently."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Dahab?",
+      "a": "Three to five days genuinely allows time to dive multiple sites and simply enjoy the relaxed pace."
+    },
+    {
+      "q": "Is the Blue Hole as dangerous as its reputation suggests?",
+      "a": "Its accidents are genuinely almost always tied to divers going beyond their training; with a qualified guide and sensible limits, it's a well-managed dive."
+    },
+    {
+      "q": "Do you need to be a certified diver to visit?",
+      "a": "No, genuinely not — snorkelling, beginner courses and freediving taster sessions are all widely available."
+    },
+    {
+      "q": "How does Dahab compare to Sharm El Sheikh?",
+      "a": "Genuinely much more laid-back and budget-friendly, with shore diving replacing Sharm's bigger resort strip and boat-based diving."
+    },
+    {
+      "q": "Can you combine Dahab with Sharm El Sheikh?",
+      "a": "Yes, genuinely easily — they're about 1.5 hours apart by road, often combined in one Red Sea trip."
+    },
+    {
+      "q": "Is Dahab good for non-divers?",
+      "a": "Yes, genuinely — windsurfing, kitesurfing, desert excursions and simply relaxing on the promenade all make for a worthwhile stay."
+    }
+  ],
+  "related": ["sharm-el-sheikh", "hurghada", "nile-cruise"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}
