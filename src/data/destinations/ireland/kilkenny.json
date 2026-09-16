@@ -1,0 +1,349 @@
+{
+  "slug": "kilkenny",
+  "name": "Kilkenny",
+  "country": "ireland",
+  "region": "County Kilkenny",
+  "categories": ["history", "culture", "city", "medieval"],
+  "tagline": "A genuinely well-preserved medieval city, its castle and cathedral still anchoring streets laid out nearly a thousand years ago.",
+  "highlight": "Walking the Medieval Mile from the castle to St Canice's Cathedral as the round tower comes into view above the rooftops.",
+  "shortDescription": "A compact, exceptionally well-preserved medieval city in southeast Ireland, anchored by its castle, a 6th-century round tower and a genuine brewing heritage.",
+  "metaDescription": "A Kilkenny travel guide: Kilkenny Castle, St Canice's Cathedral, Rothe House, food and how to plan a visit to Ireland's best-preserved medieval city.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Dublin Airport (DUB), or Cork Airport (ORK)",
+  "knownFor": "Kilkenny Castle, the Medieval Mile, Smithwick's brewing heritage",
+  "budget": "€90–160 per day, mid-range",
+  "goodFor": "Medieval history, an easy day trip from Dublin",
+  "coords": { "lat": 52.6541, "lng": -7.2448 },
+  "image": {
+    "file": "File:Ireland Kilkenny Castle BW 2025-09-15 10-18-56.jpg",
+    "alt": "Kilkenny Castle overlooking the River Nore"
+  },
+  "intro": [
+    "Kilkenny is genuinely Ireland's best-preserved medieval city, its narrow streets still following a layout laid out under Norman rule nearly a thousand years ago.",
+    "The city's skyline is genuinely anchored by two landmarks from very different eras — the Anglo-Norman Kilkenny Castle overlooking the River Nore, and St Canice's 6th-century round tower rising above the cathedral quarter, one of the few in Ireland still open for visitors to climb.",
+    "Most visitors genuinely explore it as an easy day trip or overnight from Dublin, walking the signposted Medieval Mile between the city's historic sites at an unhurried pace."
+  ],
+  "whyVisit": {
+    "intro": "Kilkenny's case rests on genuinely dense, walkable medieval history rarely matched elsewhere in Ireland.",
+    "points": [
+      {
+        "title": "It's genuinely Ireland's best-preserved medieval city",
+        "text": "Streets and buildings still follow a layout largely unchanged since Norman times."
+      },
+      {
+        "title": "St Canice's Round Tower is genuinely climbable",
+        "text": "A rare 6th-century round tower where visitors can still climb to the top for city views."
+      },
+      {
+        "title": "Kilkenny Castle is genuinely a full afternoon on its own",
+        "text": "Restored state rooms and formal gardens right in the city centre."
+      },
+      {
+        "title": "It's genuinely a real brewing town",
+        "text": "Home to Smithwick's, Ireland's oldest operating brewery, with a genuine history to match."
+      },
+      {
+        "title": "It works genuinely well as an easy Dublin day trip",
+        "text": "A little over an hour by train, making it accessible even on a short Ireland itinerary."
+      }
+    ]
+  },
+  "attractionsIntro": "Kilkenny's essential sights are genuinely dense enough to cover comfortably on foot along the signposted Medieval Mile.",
+  "attractions": [
+    {
+      "name": "Kilkenny Castle",
+      "image": {
+        "file": "File:Ireland Kilkenny Castle BW 2025-09-15 10-18-56.jpg",
+        "alt": "Kilkenny Castle overlooking the River Nore"
+      },
+      "text": "Genuinely the city's dominant landmark, a Norman-founded castle rebuilt over centuries, with restored state rooms open to visitors.",
+      "tip": "Book genuinely the state apartments tour ahead in summer — the castle's grounds themselves are free to explore."
+    },
+    {
+      "name": "St Canice's Cathedral & Round Tower",
+      "image": {
+        "file": "File:Kilkenny - St Canice's Cathedral - 20170827152652.jpg",
+        "alt": "St Canice's Cathedral and round tower in Kilkenny"
+      },
+      "text": "A genuinely striking medieval cathedral beside a rare 6th-century round tower, one of the few in Ireland still open for visitors to climb.",
+      "tip": "Climb genuinely the round tower's steep internal ladders for a rewarding view over the whole city."
+    },
+    {
+      "name": "The Medieval Mile Museum",
+      "image": {
+        "file": "File:Graveyard of the Medieval Mile Museum.jpg",
+        "alt": "The Medieval Mile Museum, housed in a former medieval church in Kilkenny"
+      },
+      "text": "Genuinely housed in a beautifully restored medieval church, telling the city's history through artefacts found along the Medieval Mile itself.",
+      "tip": "Genuinely a good first stop to get context before walking the rest of the Mile."
+    },
+    {
+      "name": "Rothe House",
+      "image": {
+        "file": "File:Ireland Kilkenny Rothe House BW 2025-09-15 10-49-52.jpg",
+        "alt": "Rothe House, a restored Tudor merchant's house in Kilkenny"
+      },
+      "text": "Genuinely Ireland's most complete surviving Tudor merchant's house, built around three courtyards for a wealthy trading family.",
+      "tip": "The genuinely walled garden behind the house has been recreated in a 17th-century style."
+    },
+    {
+      "name": "Kilkenny Castle's Rose Garden",
+      "image": {
+        "file": "File:Kilkenny Castle Rose Garden - geograph.org.uk - 7609858.jpg",
+        "alt": "The Rose Garden at Kilkenny Castle"
+      },
+      "text": "Genuinely formal gardens within the castle's parkland, a peaceful, free-to-enter space right in the city centre.",
+      "tip": "Genuinely a good picnic spot on a fine day, with wide lawns beyond the formal beds."
+    },
+    {
+      "name": "The Smithwick's Experience",
+      "image": {
+        "file": "File:Kilkenny - Smithwick's Experience Kilkenny - 20210919112357.jpg",
+        "alt": "The Smithwick's Experience brewery visitor centre in Kilkenny"
+      },
+      "text": "Genuinely tells the story of Ireland's oldest operating brewery, founded on the site of a medieval abbey in 1710.",
+      "tip": "The genuinely tour ends with a tasting, included in the ticket price."
+    },
+    {
+      "name": "Kilkenny's medieval streets",
+      "text": "Genuinely narrow lanes like the Butter Slip and High Street still trace the city's original Norman-era layout.",
+      "tip": "Genuinely look up — many buildings hide medieval features above modern shopfronts."
+    }
+  ],
+  "thingsToDoIntro": "Kilkenny genuinely rewards a slow walk along the Medieval Mile, mixing museums with its brewing heritage.",
+  "thingsToDo": [
+    {
+      "title": "Climb St Canice's Round Tower",
+      "image": {
+        "file": "File:Kilkenny - St Canice's Cathedral - 20171127112345.jpg",
+        "alt": "The interior of St Canice's Round Tower in Kilkenny"
+      },
+      "text": "A genuinely rare chance to climb inside a 6th-century round tower, one of only a handful in Ireland still open to visitors.",
+      "tip": "Genuinely not for the claustrophobic — the internal ladders are steep and narrow."
+    },
+    {
+      "title": "Explore Kilkenny Castle's gardens",
+      "image": {
+        "file": "File:Kilkenny Castle Gardens, The Parade, Kilkenny (506850) (28768828550).jpg",
+        "alt": "The gardens surrounding Kilkenny Castle"
+      },
+      "text": "A genuinely relaxed way to spend an hour, walking the castle's formal gardens and wider parkland.",
+      "tip": "Genuinely free to enter, even without a ticket for the castle's state apartments."
+    },
+    {
+      "title": "Learn brewing history at Smithwick's",
+      "image": {
+        "file": "File:Kilkenny - Smithwick's Experience Kilkenny - 20191207133233.jpg",
+        "alt": "The Smithwick's Experience visitor centre in Kilkenny"
+      },
+      "text": "A genuinely engaging tour through Ireland's oldest brewery, built on the site of a medieval Franciscan abbey.",
+      "tip": "Genuinely book ahead in summer — tour slots can fill up on busy days."
+    },
+    {
+      "title": "Browse the Medieval Mile Museum",
+      "image": {
+        "file": "File:Interior of the Medieval Mile Museum.jpg",
+        "alt": "Inside the Medieval Mile Museum in Kilkenny"
+      },
+      "text": "A genuinely worthwhile hour, exploring artefacts and stories from along the city's historic medieval core.",
+      "tip": "Genuinely a good first stop before walking the rest of the Mile yourself."
+    },
+    {
+      "title": "Walk the full Medieval Mile",
+      "image": {
+        "file": "File:Rothe House 2021.jpg",
+        "alt": "Rothe House along Kilkenny's Medieval Mile"
+      },
+      "text": "A genuinely signposted walking route linking the castle, cathedral and the city's best-preserved medieval buildings.",
+      "tip": "Genuinely allow a full afternoon to do the route justice with stops along the way."
+    },
+    {
+      "title": "Have a pint in a medieval pub",
+      "text": "A genuinely atmospheric way to end the day, several of Kilkenny's pubs occupy buildings centuries old.",
+      "tip": "Genuinely ask locally for the oldest pub in town — several make a genuine claim to the title."
+    }
+  ],
+  "foodIntro": "Kilkenny's food genuinely reflects its brewing heritage alongside classic Irish pub fare.",
+  "foods": [
+    {
+      "name": "A pint of Kilkenny ale",
+      "text": "Genuinely brewed in the city for centuries, a smooth red ale distinct from the stouts more associated with Dublin.",
+      "whereToTry": "Traditional pubs throughout the city centre."
+    },
+    {
+      "name": "Irish stew",
+      "image": {
+        "file": "File:Irish Beef Stew (34046928633).jpg",
+        "alt": "A bowl of hearty Irish stew"
+      },
+      "text": "A genuinely warming classic found on menus throughout the city, especially welcome after a day walking the Medieval Mile.",
+      "whereToTry": "Traditional restaurants and pubs throughout Kilkenny."
+    },
+    {
+      "name": "Full Irish breakfast",
+      "image": {
+        "file": "File:Full Irish Breakfast (4758138078).jpg",
+        "alt": "A full Irish breakfast with rashers, sausages, egg and black pudding"
+      },
+      "text": "A genuinely solid start before a day of sightseeing, found at cafés and guesthouses across the city.",
+      "whereToTry": "Cafés and guesthouses throughout Kilkenny."
+    },
+    {
+      "name": "Brown bread and butter",
+      "image": {
+        "file": "File:Brown Bread and Irish Butter.JPG",
+        "alt": "Traditional Irish brown bread with butter"
+      },
+      "text": "A genuinely simple staple served alongside soup or a light lunch across the city's cafés.",
+      "whereToTry": "Cafés and restaurants throughout the city centre."
+    },
+    {
+      "name": "Apple tart",
+      "image": {
+        "file": "File:Apple pie 24.jpg",
+        "alt": "A traditional apple tart"
+      },
+      "text": "A genuinely classic dessert found on menus across the city, usually served warm with cream.",
+      "whereToTry": "Tea rooms and restaurants throughout Kilkenny."
+    },
+    {
+      "name": "Farmhouse cheese",
+      "text": "Genuinely excellent artisan cheese from the surrounding southeast Irish countryside, well represented in local delis.",
+      "whereToTry": "Delis and the city's farmers' market."
+    }
+  ],
+  "accommodation": {
+    "intro": "Kilkenny genuinely offers accommodation across every budget, concentrated within a compact, walkable city centre.",
+    "areas": [
+      {
+        "name": "City centre (near the castle)",
+        "bestFor": "Being genuinely central and walkable to every sight",
+        "text": "The most convenient base, close to the castle, cathedral and Medieval Mile."
+      },
+      {
+        "name": "Along the River Nore",
+        "bestFor": "A genuinely quieter, scenic stay",
+        "text": "A short walk from the centre, with pleasant riverside walking paths."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "€30–60 per night" },
+      { "label": "Mid-range hotel", "value": "€90–160 per night" },
+      { "label": "Kilkenny Castle entry", "value": "About €9" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About €20–35 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Kilkenny is genuinely one of the easiest Irish towns to reach from Dublin, well suited to a day trip or short stay.",
+    "options": [
+      {
+        "mode": "Intercity train from Dublin",
+        "text": "Genuinely direct and comfortable, taking just over an hour and a half.",
+        "detail": "Trains arrive at MacDonagh Station, a short walk from the city centre."
+      },
+      {
+        "mode": "Intercity bus",
+        "text": "Genuinely frequent and affordable, running from Dublin, Cork and Waterford.",
+        "detail": "A practical, if slightly slower, alternative to the train."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Genuinely convenient if combining Kilkenny with a wider southeast Ireland loop.",
+        "detail": "About an hour and a half from Dublin via the M9 motorway."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Kilkenny is genuinely compact enough to explore entirely on foot.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Genuinely covers the entire Medieval Mile easily, from the castle to St Canice's Cathedral.",
+        "detail": "The whole city centre is walkable in well under an hour, end to end."
+      },
+      {
+        "mode": "Local taxis",
+        "text": "Genuinely useful for reaching accommodation slightly outside the centre.",
+        "detail": "Rarely needed for sightseeing, given the compact city centre."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for the best weather, though Kilkenny works well year-round",
+    "summary": "Kilkenny's genuinely museum-heavy, walkable character makes it a viable day trip or short stay in any season.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely mild weather and thinner crowds than midsummer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The warmest and busiest season, including the popular Kilkenny Arts Festival in August."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Genuinely mild with thinner crowds than summer."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Short days and frequent rain, though genuinely atmospheric, with cosy pubs and lower prices."
+      }
+    ],
+    "avoid": "Nothing strongly — Kilkenny's genuinely compact, museum-rich character makes it a workable destination in any season."
+  },
+  "itinerary": {
+    "title": "One day in Kilkenny",
+    "intro": "A single, well-paced day walking the full Medieval Mile from the castle to the cathedral.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Medieval Mile",
+        "summary": "Kilkenny Castle, Rothe House and St Canice's Cathedral.",
+        "morning": "Kilkenny Castle and its gardens.",
+        "afternoon": "Rothe House and the Medieval Mile Museum.",
+        "evening": "St Canice's Cathedral, then dinner in the city centre."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Kilkenny visit noticeably smoother.",
+  "tips": [
+    "Book Kilkenny Castle's state apartments tour genuinely ahead in summer.",
+    "Follow the genuinely signposted Medieval Mile trail markers set into the pavement to stay on route.",
+    "Climb St Canice's Round Tower genuinely early — it can close in poor weather.",
+    "Wear genuinely comfortable shoes for the city's cobbled medieval streets.",
+    "Book accommodation genuinely ahead during the August Kilkenny Arts Festival.",
+    "Consider Kilkenny genuinely as an easy day trip from Dublin if short on time elsewhere."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Kilkenny?",
+      "a": "One day genuinely covers the Medieval Mile's main sights comfortably; an overnight allows a more relaxed pace."
+    },
+    {
+      "q": "Can you visit Kilkenny as a day trip from Dublin?",
+      "a": "Yes, genuinely easily — direct trains take just over ninety minutes each way."
+    },
+    {
+      "q": "Is Kilkenny Castle worth visiting?",
+      "a": "Yes, genuinely — the restored state apartments and free gardens make it worth a couple of hours on their own."
+    },
+    {
+      "q": "What is Kilkenny known for?",
+      "a": "Genuinely its exceptionally well-preserved medieval streets, its castle, and its brewing heritage at Smithwick's."
+    },
+    {
+      "q": "Can you climb St Canice's Round Tower?",
+      "a": "Yes, genuinely — it's one of the few round towers in Ireland still open to visitors, via a steep internal ladder."
+    },
+    {
+      "q": "Is Kilkenny worth visiting if you're only doing Dublin and one other stop?",
+      "a": "Yes, genuinely — its combination of density and easy access from Dublin makes it one of the best single-day additions to a short Ireland trip."
+    }
+  ],
+  "related": ["dublin", "cork-cobh", "killarney-ring-of-kerry"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

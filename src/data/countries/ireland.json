@@ -1,0 +1,391 @@
+{
+  "slug": "ireland",
+  "name": "Ireland",
+  "continent": "Northern Europe",
+  "countryCode": "IE",
+  "tagline": "A small island of green hills, sheer Atlantic cliffs and medieval towns, where a warm welcome and a good story are never far away.",
+  "cardDescription": "Dublin's literary pubs, the Cliffs of Moher, the Ring of Kerry, Galway's music-filled streets and a coastline carved by the wild Atlantic.",
+  "metaDescription": "A complete Ireland travel guide: the 10 best places to visit, the Cliffs of Moher, the Ring of Kerry, costs and a practical nine-day itinerary.",
+  "image": {
+    "file": "File:Ireland Cliffs of Moher BW 2025-09-11 14-27-51.jpg",
+    "alt": "The Cliffs of Moher rising sheer from the Atlantic in County Clare, Ireland"
+  },
+  "destinations": [
+    "dublin",
+    "killarney-ring-of-kerry",
+    "cliffs-of-moher-burren",
+    "galway",
+    "cork-cobh",
+    "connemara",
+    "kilkenny",
+    "dingle-peninsula",
+    "donegal",
+    "aran-islands"
+  ],
+  "intro": [
+    "Ireland is genuinely a small island that rewards slow travel — no single drive is ever that long, but the coast roads switchback so much, and stop at so many things worth seeing, that distances take far longer than a map suggests.",
+    "The country's real draw is its edge, where the Wild Atlantic Way traces sheer cliffs, hidden coves and stone-walled peninsulas from Donegal down to Cork, alongside a string of genuinely historic towns and a capital, Dublin, with an outsized literary and musical reputation for its size.",
+    "It's also a genuinely social country — a pub isn't just somewhere to drink but the default venue for live traditional music, conversation with strangers, and a slower pace that shapes the whole rhythm of a visit."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit — though Donegal and the Aran Islands reward a second trip just as much as a first.",
+  "thingsToDoIntro": "The experiences that recur across the country and that make an Ireland trip feel like more than a list of towns.",
+  "thingsToDo": [
+    {
+      "title": "Cross Dublin's Ha'penny Bridge",
+      "image": {
+        "file": "File:Ha'Penny Bridge in Dublin, Ireland.jpg",
+        "alt": "The white cast-iron Ha'penny Bridge over the River Liffey in Dublin"
+      },
+      "text": "Genuinely the classic Dublin photo, a graceful cast-iron footbridge over the River Liffey connecting the city's two halves since 1816.",
+      "tip": "The genuinely bridge is at its best lit up after dark, reflected in the Liffey."
+    },
+    {
+      "title": "Drive the Wild Atlantic Way",
+      "image": {
+        "file": "File:Wild Atlantic Way Sky Road sign.jpg",
+        "alt": "A Wild Atlantic Way signpost on Ireland's west coast"
+      },
+      "text": "A genuinely epic signposted coastal route stringing together cliffs, beaches and fishing villages along the entire west coast.",
+      "tip": "Nobody drives the genuinely whole thing in one trip — pick a section and take it slowly rather than rushing the distance."
+    },
+    {
+      "title": "Hear live traditional music in a pub",
+      "text": "A genuinely nightly occurrence in towns across the country, informal sessions of fiddle, bodhrán and tin whistle that anyone can wander in to hear.",
+      "tip": "Genuinely arrive early for a seat near the musicians — the best sessions fill up fast with no advance notice."
+    },
+    {
+      "title": "Explore a medieval castle",
+      "image": {
+        "file": "File:Kilkenny Castle - geograph.org.uk - 5743449.jpg",
+        "alt": "Kilkenny Castle overlooking the River Nore"
+      },
+      "text": "Genuinely everywhere, from grand restored residences to ivy-covered ruins in open fields, a visible layer of the country's long history.",
+      "tip": "Genuinely smaller, free-to-enter ruined castles are often as atmospheric as the famous paid ones."
+    },
+    {
+      "title": "Walk a dramatic sea-cliff trail",
+      "image": {
+        "file": "File:Slieve League Cliffs, County Donegal, Ireland6.jpg",
+        "alt": "The Slieve League sea cliffs in County Donegal"
+      },
+      "text": "Genuinely among Europe's best coastal walking, with cliff-edge paths at the Cliffs of Moher, Slieve League and countless quieter headlands.",
+      "tip": "Stay genuinely well back from cliff edges — sudden gusts are a real hazard even on calm-looking days."
+    },
+    {
+      "title": "Take the ferry to the Aran Islands",
+      "image": {
+        "file": "File:The harbour at Kilronan on the Aran Islands - geograph.org.uk - 7862768.jpg",
+        "alt": "The harbour at Kilronan on Inis Mór, the largest Aran Island"
+      },
+      "text": "A genuinely step back in time, three small islands off Galway Bay where Irish is still the everyday language and stone walls outnumber people.",
+      "tip": "Rent a genuinely bicycle on arrival — it's the best way to cover Inis Mór's quiet lanes at an easy pace."
+    }
+  ],
+  "foodIntro": "Irish food's quiet reputation abroad rarely does justice to genuinely excellent seafood, dairy and a hearty, unpretentious pub-food tradition.",
+  "foods": [
+    {
+      "name": "Irish stew",
+      "image": {
+        "file": "File:Irish Beef Stew (34046928633).jpg",
+        "alt": "A bowl of hearty Irish stew"
+      },
+      "text": "Genuinely the national dish, a simple, slow-cooked stew traditionally made with lamb, potatoes and root vegetables.",
+      "whereToTry": "Traditional pubs nationwide, especially on a cold or wet day."
+    },
+    {
+      "name": "A pint of Guinness",
+      "image": {
+        "file": "File:GuinnessPint.jpg",
+        "alt": "A freshly poured pint of Guinness stout"
+      },
+      "text": "Genuinely tastes different here, poured with the traditional two-part method and served fresh from breweries across the country.",
+      "whereToTry": "Any traditional pub — locals genuinely have strong opinions on which pours it best."
+    },
+    {
+      "name": "Full Irish breakfast",
+      "image": {
+        "file": "File:Full Irish Breakfast (4758138078).jpg",
+        "alt": "A full Irish breakfast with rashers, sausages, egg and black pudding"
+      },
+      "text": "A genuinely substantial start to the day — rashers, sausages, eggs, black and white pudding, and often boxty on the side.",
+      "whereToTry": "Cafés, B&Bs and hotels nationwide."
+    },
+    {
+      "name": "Irish soda bread",
+      "image": {
+        "file": "File:Irish soda bread (25292114472).jpg",
+        "alt": "A loaf of traditional Irish soda bread"
+      },
+      "text": "A genuinely essential daily staple, a dense, slightly sweet bread leavened with buttermilk rather than yeast.",
+      "whereToTry": "Bakeries, cafés and alongside soup or stew nationwide."
+    },
+    {
+      "name": "Fresh oysters",
+      "image": {
+        "file": "File:Oysters! Galway (6048008376).jpg",
+        "alt": "A plate of fresh oysters, an Irish coastal specialty"
+      },
+      "text": "Genuinely some of Europe's best, harvested along the west coast and celebrated every September at Galway's international oyster festival.",
+      "whereToTry": "Seafood restaurants and pubs along the west coast, especially around Galway."
+    },
+    {
+      "name": "Boxty",
+      "image": {
+        "file": "File:Boxty triangle.jpg",
+        "alt": "Boxty, a traditional Irish potato pancake"
+      },
+      "text": "A genuinely traditional potato pancake, crisp outside and soft within, served plain or wrapped around a savoury filling.",
+      "whereToTry": "Traditional restaurants nationwide, especially in the west and northwest."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Ireland is genuinely easy to travel in, with unpredictable weather and rural driving distances the two practicalities that most often catch visitors out.",
+  "practical": {
+    "capital": "Dublin",
+    "language": "English and Irish (Gaelic), both official; English is used in practice almost everywhere outside Gaeltacht regions.",
+    "currency": "Euro (€)",
+    "money": "Genuinely card-first in cities and towns, though small rural pubs and shops sometimes still prefer cash.",
+    "visa": "Visa-free entry for up to 90 days for many nationalities including the US, Canada, Australia and UK, under Ireland's own national rules — Ireland is not part of the Schengen Area.",
+    "plugs": "Type G (three-pin, same as the UK), 230 V, 50 Hz.",
+    "emergency": "112 or 999 for police, ambulance and fire, nationwide.",
+    "tipping": "Not obligatory — 10% for good restaurant service is appreciated, and rounding up is common in pubs and cafés.",
+    "safety": "Very safe overall, with low rates of violent crime. Petty theft in Dublin's busier tourist areas and hazardous cliff edges nationwide are the real practical risks.",
+    "connectivity": "Excellent 4G and 5G coverage in cities and towns, genuinely patchy in remote parts of the west coast and the islands.",
+    "timeZone": "Greenwich Mean Time (UTC+0), Irish Standard Time (UTC+1) late March to late October.",
+    "budget": [
+      { "label": "Backpacker", "value": "€60–90 per day — hostels, self-catering, buses" },
+      { "label": "Mid-range", "value": "€120–200 per day — guesthouses, restaurant meals, a rental car" },
+      { "label": "Comfortable", "value": "€250–400 per day — hotels, fine dining, private tours" },
+      { "label": "Car rental", "value": "From about €35–60 per day — genuinely the best way to see the west coast" }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for the best balance of weather and fewer crowds",
+    "summary": "Ireland is genuinely a year-round destination, but its notoriously changeable weather makes shoulder season the sweet spot for most visitors.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely the best odds of dry, mild weather with long daylight hours and fewer crowds than midsummer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The warmest and busiest season, with the longest days, though also genuinely the most popular and priciest time to visit."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "good",
+        "text": "Genuinely a quieter, often surprisingly mild window with thinner crowds than summer."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Short days and frequent rain and wind, though genuinely atmospheric, with cosy pubs and far fewer visitors."
+      }
+    ],
+    "avoid": "Expecting reliably dry weather in any season — a waterproof jacket is genuinely essential year-round, whatever the forecast says."
+  },
+  "tripDuration": {
+    "headline": "9–12 days for a first trip",
+    "summary": "Ireland's compact size makes a genuinely satisfying loop possible in under two weeks, without the rushed feeling of a longer, larger country.",
+    "options": [
+      {
+        "length": "3–4 days",
+        "text": "Dublin alone, or Dublin with a day trip to Kilkenny or the Wicklow countryside.",
+        "detail": "Enough for the capital's major sights at a relaxed pace."
+      },
+      {
+        "length": "5–7 days",
+        "text": "Dublin plus a loop through Kilkenny, Cork and Killarney or the Cliffs of Moher.",
+        "detail": "A genuinely solid taste of both the capital and the southwest coast."
+      },
+      {
+        "length": "9–12 days",
+        "text": "The itinerary on this page: a full loop from Dublin through the south and west coast to Galway.",
+        "detail": "A genuinely complete first look at Ireland's classic highlights."
+      },
+      {
+        "length": "2 weeks or more",
+        "text": "Add Connemara, Donegal and the Aran Islands in full, all genuinely worth dedicated time rather than a rushed detour.",
+        "detail": "The northwest and the islands are where a second Ireland trip belongs."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "A rental car is genuinely the standard way to see rural Ireland — trains and buses cover the main towns well, but the coast roads are built for driving.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Genuinely essential for [[killarney-ring-of-kerry|the Ring of Kerry]], [[dingle-peninsula|Dingle]] and [[connemara|Connemara]] at a flexible pace.",
+        "detail": "Driving is on the left, and rural roads are genuinely narrower than they look on a map."
+      },
+      {
+        "mode": "Intercity trains",
+        "text": "Genuinely comfortable and direct between [[dublin|Dublin]], [[cork-cobh|Cork]], [[galway|Galway]] and [[kilkenny|Kilkenny]].",
+        "detail": "Iarnród Éireann's main lines radiate out from Dublin's two mainline stations."
+      },
+      {
+        "mode": "Intercity buses",
+        "text": "Genuinely reach nearly everywhere the trains don't, including smaller towns across the west.",
+        "detail": "Bus Éireann and private operators cover the full country at a lower cost than the train."
+      },
+      {
+        "mode": "Domestic and regional ferries",
+        "text": "Essential for reaching [[aran-islands|the Aran Islands]] and other offshore islands.",
+        "detail": "Regular sailings run from Galway, Doolin and Rossaveal, weather permitting."
+      },
+      {
+        "mode": "Domestic flights",
+        "text": "A genuinely fast link between Dublin and Donegal or Kerry for a time-limited trip.",
+        "detail": "Rarely necessary given the country's compact size, but useful on a short schedule."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Nine days in Ireland",
+    "intro": "A classic loop from Dublin down through the southeast and southwest to the west coast, ending in Galway. Covers seven of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Dublin",
+        "morning": "Land in Dublin and check in to your hotel.",
+        "afternoon": "Walk Trinity College and the Book of Kells.",
+        "evening": "Dinner and a first pint in Temple Bar."
+      },
+      {
+        "day": 2,
+        "title": "Dublin's sights",
+        "morning": "The Guinness Storehouse and Dublin Castle.",
+        "afternoon": "Kilmainham Gaol and Phoenix Park.",
+        "evening": "A traditional music session in a city-centre pub."
+      },
+      {
+        "day": 3,
+        "title": "On to Kilkenny",
+        "morning": "Drive south to Kilkenny.",
+        "afternoon": "Kilkenny Castle and the Medieval Mile.",
+        "evening": "Dinner in the medieval city centre."
+      },
+      {
+        "day": 4,
+        "title": "Cork and Cobh",
+        "morning": "Drive to Cork and browse the English Market.",
+        "afternoon": "Blarney Castle, or the harbour town of Cobh.",
+        "evening": "Dinner in central Cork."
+      },
+      {
+        "day": 5,
+        "title": "Into Killarney National Park",
+        "morning": "Drive to Killarney and settle in.",
+        "afternoon": "Killarney National Park and Muckross House.",
+        "evening": "Dinner in Killarney town."
+      },
+      {
+        "day": 6,
+        "title": "The Ring of Kerry",
+        "morning": "Set off early on the full Ring of Kerry loop.",
+        "afternoon": "Stop at Ladies View and the Gap of Dunloe.",
+        "evening": "Return to Killarney for the night."
+      },
+      {
+        "day": 7,
+        "title": "The Dingle Peninsula",
+        "morning": "Drive to Dingle town.",
+        "afternoon": "The Slea Head Drive past beehive huts and cliffs.",
+        "evening": "Dinner and live music in Dingle town."
+      },
+      {
+        "day": 8,
+        "title": "The Cliffs of Moher and the Burren",
+        "morning": "Drive north to County Clare.",
+        "afternoon": "Walk the Cliffs of Moher and the Burren's limestone landscape.",
+        "evening": "Dinner in Doolin, known for its traditional music."
+      },
+      {
+        "day": 9,
+        "title": "Galway and departure",
+        "morning": "Drive to Galway and explore the Latin Quarter.",
+        "afternoon": "The Spanish Arch and Galway Cathedral.",
+        "evening": "Depart from Galway or return to Dublin."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Irish culture is shaped by a genuine warmth toward visitors, a deep love of conversation and storytelling, and a lived connection to music and literature that runs through everyday life, not just performance venues.",
+    "etiquette": [
+      {
+        "title": "Buying rounds is genuinely a pub tradition",
+        "text": "In a group, it's customary to take turns buying a round of drinks for everyone present."
+      },
+      {
+        "title": "Small talk with strangers is genuinely welcomed",
+        "text": "Chatting with people in a pub queue or on a bus is completely normal and often expected."
+      },
+      {
+        "title": "Irish humour leans genuinely dry and self-deprecating",
+        "text": "Gentle slagging between friends is a sign of affection, not hostility."
+      },
+      {
+        "title": "Punctuality is genuinely relaxed for social plans",
+        "text": "Arriving a little late to a casual meetup is rarely an issue, though business meetings expect promptness."
+      },
+      {
+        "title": "Tipping is genuinely modest",
+        "text": "Around 10% at restaurants is generous; it's not expected in pubs for a round of drinks."
+      },
+      {
+        "title": "Weather changes fast, and locals plan around it",
+        "text": "Don't be surprised if plans shift with the forecast — it's a genuinely normal part of daily life."
+      }
+    ],
+    "dos": [
+      "Join in if invited to buy a round at the pub — it's genuinely how the tradition works.",
+      "Book popular restaurants and B&Bs ahead in summer, especially along the west coast.",
+      "Bring a proper waterproof jacket regardless of season or forecast.",
+      "Slow down for narrow rural roads — locals genuinely know the bends better than visitors."
+    ],
+    "donts": [
+      "Don't expect to rush between west-coast towns — the roads are scenic but genuinely slow.",
+      "Don't ignore posted warnings at cliff edges — sudden gusts are a real, serious hazard.",
+      "Don't assume every pub session is a tourist performance — many are genuinely just locals playing for themselves.",
+      "Don't skip travel insurance — rural medical access can involve real distances."
+    ]
+  },
+  "tipsIntro": "The things that most often go wrong on an Ireland trip, in rough order of how much they cost people.",
+  "tips": [
+    "Book accommodation and popular restaurants well ahead for a June–August trip, especially in Killarney, Dingle and Galway.",
+    "Pack a proper waterproof layer regardless of season — Ireland's weather genuinely changes within the same day.",
+    "Rent a car with a driver comfortable on narrow, high-hedged rural roads, especially for the Ring of Kerry and Dingle.",
+    "Budget extra time for west-coast drives — the roads are scenic but genuinely much slower than the map distance suggests.",
+    "Never approach cliff edges at the Cliffs of Moher or Slieve League without care — sudden gusts are a genuine hazard.",
+    "Check ferry schedules and weather before any Aran Islands day trip — sailings are genuinely weather-dependent.",
+    "Carry some cash for small rural pubs and shops, even though cards are widely accepted elsewhere.",
+    "Book Titanic and Guinness Storehouse-style timed-entry attractions online ahead to skip the queue."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Ireland?",
+      "a": "Nine to twelve days covers Dublin and a loop through the south and west coast comfortably, which is the itinerary on this page. Four to five days is enough for Dublin and one nearby region, and genuinely still worthwhile."
+    },
+    {
+      "q": "What is the best time of year to visit Ireland?",
+      "a": "May, June and September offer the best balance of mild weather and thinner crowds. July and August are warmest but busiest and most expensive."
+    },
+    {
+      "q": "Do you need a car in Ireland?",
+      "a": "For the west coast, genuinely yes — a rental car is the standard way most visitors see the Ring of Kerry, Dingle and Connemara. Trains and buses cover the main towns well without one."
+    },
+    {
+      "q": "Is Ireland expensive?",
+      "a": "Moderately, genuinely on the higher side for Europe — mid-range travel runs about €120–200 per person per day. Self-catering and guesthouses help keep costs down."
+    },
+    {
+      "q": "Is Ireland part of the Schengen Area?",
+      "a": "No, genuinely not — Ireland has its own visa rules, distinct from mainland Europe's Schengen Area, though the same 90-day visa-free window applies to many nationalities."
+    },
+    {
+      "q": "Is Ireland safe to visit?",
+      "a": "Yes, genuinely very safe, with low rates of violent crime. Watch for petty theft in Dublin's busiest tourist areas and take real care at coastal cliff edges."
+    }
+  ]
+}

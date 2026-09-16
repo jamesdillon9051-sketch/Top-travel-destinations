@@ -1,0 +1,374 @@
+{
+  "slug": "galway",
+  "name": "Galway",
+  "country": "ireland",
+  "region": "County Galway",
+  "categories": ["city", "culture", "nightlife", "coastal"],
+  "tagline": "A small, colourful city famous for its live music, festivals and easy access to the wild west coast.",
+  "highlight": "Standing on the Spanish Arch as the tide comes in off Galway Bay, with a fiddle session already starting up in a pub across the street.",
+  "shortDescription": "A compact, music-filled city on Galway Bay, known for its medieval Latin Quarter, festivals and easy access to Connemara and the west coast.",
+  "metaDescription": "A Galway travel guide: the Latin Quarter, the Spanish Arch, Salthill Promenade, food and how to plan a visit to Ireland's liveliest small city.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Shannon Airport (SNN), or Ireland West Airport Knock (NOC)",
+  "knownFor": "Live music, festivals, the Latin Quarter",
+  "budget": "€90–170 per day, mid-range",
+  "goodFor": "Nightlife, music, an easy west-coast base",
+  "coords": { "lat": 53.2707, "lng": -9.0568 },
+  "image": {
+    "file": "File:Galway October 2014-1a.jpg",
+    "alt": "The city of Galway on the River Corrib in the west of Ireland"
+  },
+  "intro": [
+    "Galway is genuinely Ireland's most beloved small city, a compact tangle of medieval streets on Galway Bay with a reputation for live music and festival energy far bigger than its actual size.",
+    "It's also genuinely the natural base for the west coast, sitting within easy reach of the Cliffs of Moher, Connemara and the Aran Islands, while holding plenty of its own character in the Latin Quarter's colourful shopfronts and buskers.",
+    "Most visitors genuinely spend a couple of days here, splitting time between the city's compact centre and a day trip out toward the coast or the islands."
+  ],
+  "whyVisit": {
+    "intro": "Galway's case rests on genuinely outsized character for its size and an unmatched base for the west coast.",
+    "points": [
+      {
+        "title": "The Latin Quarter is genuinely full of life",
+        "text": "Cobbled medieval streets packed with buskers, independent shops and pubs, day and night."
+      },
+      {
+        "title": "Live music here is genuinely everywhere, not occasional",
+        "text": "Trad sessions, buskers and festivals run through the calendar, not just on weekends."
+      },
+      {
+        "title": "It's genuinely the best base for the west coast",
+        "text": "The Cliffs of Moher, Connemara and the Aran Islands are all a short trip away."
+      },
+      {
+        "title": "Galway Bay oysters are genuinely world-famous",
+        "text": "Celebrated every September at one of Ireland's oldest and best-loved food festivals."
+      },
+      {
+        "title": "It's genuinely compact and walkable",
+        "text": "The entire city centre sits within a comfortable walk of the Spanish Arch and Eyre Square."
+      }
+    ]
+  },
+  "attractionsIntro": "Galway's essential sights fit comfortably into a compact, walkable city centre.",
+  "attractions": [
+    {
+      "name": "The Spanish Arch",
+      "image": {
+        "file": "File:Spanish Arch, Galway - geograph.org.uk - 2027325.jpg",
+        "alt": "The Spanish Arch on the banks of the River Corrib in Galway"
+      },
+      "text": "Genuinely Galway's best-known landmark, a 16th-century stone archway once part of the city's medieval walls, overlooking the River Corrib.",
+      "tip": "The genuinely riverside green beside the arch is a popular spot to sit on a fine evening."
+    },
+    {
+      "name": "The Latin Quarter",
+      "image": {
+        "file": "File:Entering the Latin Quarter in Galway - geograph.org.uk - 7583111.jpg",
+        "alt": "The cobbled streets of Galway's Latin Quarter"
+      },
+      "text": "A genuinely lively tangle of cobbled medieval streets, packed with independent shops, buskers and pubs from morning until late.",
+      "tip": "Genuinely Quay Street and Shop Street are the liveliest, especially on a weekend evening."
+    },
+    {
+      "name": "Galway Cathedral",
+      "image": {
+        "file": "File:Ireland Galway Cathedral BW 2025-09-10 17-37-06.jpg",
+        "alt": "Galway Cathedral on the banks of the River Corrib"
+      },
+      "text": "A genuinely striking mid-20th-century cathedral with a huge copper dome, unusual for combining Renaissance, Gothic and Irish architectural styles.",
+      "tip": "The genuinely riverside setting makes for one of Galway's best photo spots, especially at sunset."
+    },
+    {
+      "name": "St Nicholas' Collegiate Church",
+      "image": {
+        "file": "File:Ireland Galway Saint Nicholas BW 2025-09-10 18-15-26.jpg",
+        "alt": "St Nicholas' Collegiate Church in central Galway"
+      },
+      "text": "Genuinely Ireland's largest medieval parish church still in continuous use, founded in 1320, with a legend that Christopher Columbus prayed here.",
+      "tip": "The genuinely surrounding Saturday market is one of Galway's best, browsing food and crafts around the church."
+    },
+    {
+      "name": "Eyre Square",
+      "image": {
+        "file": "File:Eyre Square, Galway - geograph.org.uk - 5348528.jpg",
+        "alt": "Eyre Square, Galway's central public park"
+      },
+      "text": "Genuinely the city's central public square, a green space bordered by shops and hotels, and the natural starting point for exploring on foot.",
+      "tip": "Genuinely a good landmark for getting oriented before heading into the Latin Quarter's tangle of streets."
+    },
+    {
+      "name": "Salthill Promenade",
+      "image": {
+        "file": "File:Dawn at Salthill Promenade.jpg",
+        "alt": "Salthill Promenade along Galway Bay"
+      },
+      "text": "A genuinely classic seafront walk along Galway Bay, ending traditionally with visitors 'kicking the wall' at Blackrock diving tower.",
+      "tip": "Genuinely popular with locals for an evening walk or a bracing swim off the diving tower."
+    },
+    {
+      "name": "The River Corrib",
+      "image": {
+        "file": "File:River Corrib, Galway (506169) (25775567133).jpg",
+        "alt": "The River Corrib flowing through the centre of Galway"
+      },
+      "text": "Genuinely one of Ireland's fastest-flowing rivers, cutting right through the city centre on its short run from Lough Corrib to the bay.",
+      "tip": "Genuinely look for salmon leaping at the Salmon Weir Bridge in late spring."
+    }
+  ],
+  "thingsToDoIntro": "Galway genuinely rewards wandering without much of a plan, pub to pub and street to street.",
+  "thingsToDo": [
+    {
+      "title": "Wander the Latin Quarter's colourful shopfronts",
+      "image": {
+        "file": "File:Galway - Colourful Store Window Display - geograph.org.uk - 3030840.jpg",
+        "alt": "Colourful shopfronts in Galway's Latin Quarter"
+      },
+      "text": "A genuinely easy, aimless pleasure, browsing independent shops and colourful storefronts through the medieval streets.",
+      "tip": "Genuinely many of the best shops are down small side lanes off the main streets."
+    },
+    {
+      "title": "Walk Salthill Promenade",
+      "image": {
+        "file": "File:Blackrock Diving Tower.jpg",
+        "alt": "Blackrock diving tower at the end of Salthill Promenade"
+      },
+      "text": "A genuinely classic Galway walk along the bay, traditionally ending with a symbolic 'kick of the wall' at the diving tower.",
+      "tip": "Genuinely sunset here, looking back across the bay, is one of Galway's best free views."
+    },
+    {
+      "title": "Cross the Spanish Arch to the Claddagh",
+      "image": {
+        "file": "File:Galway - Spanish Arch - SE Side - geograph.org.uk - 3027035.jpg",
+        "alt": "The Spanish Arch leading toward the Claddagh area of Galway"
+      },
+      "text": "A genuinely short walk into the historic Claddagh fishing village, the origin of the famous Claddagh ring design.",
+      "tip": "Genuinely look for the traditional Claddagh ring in jewellery shop windows back in the city centre."
+    },
+    {
+      "title": "Sample fresh oysters",
+      "image": {
+        "file": "File:Preparing Galway native oysters.jpg",
+        "alt": "Fresh Galway native oysters being prepared"
+      },
+      "text": "A genuinely essential Galway experience, native oysters harvested right from the bay, celebrated each September at a dedicated festival.",
+      "tip": "Genuinely book ahead if visiting during the Galway International Oyster Festival in September."
+    },
+    {
+      "title": "Catch a trad session on Quay Street",
+      "text": "A genuinely nightly occurrence, with pubs along Quay Street and Shop Street hosting live sessions most evenings.",
+      "tip": "Genuinely arrive early for a seat near the musicians in the more popular spots."
+    },
+    {
+      "title": "Take the ferry to the Aran Islands",
+      "image": {
+        "file": "File:The harbour at Kilronan on the Aran Islands - geograph.org.uk - 7862768.jpg",
+        "alt": "The ferry harbour at Kilronan on the Aran Islands"
+      },
+      "text": "A genuinely easy day trip from Galway, with regular sailings out to Inis Mór and the other Aran Islands.",
+      "tip": "Genuinely book ferry tickets ahead in summer, and check the forecast — sailings depend on conditions."
+    }
+  ],
+  "foodIntro": "Galway's food genuinely centres on its famous native oysters and the wider west coast's seafood tradition.",
+  "foods": [
+    {
+      "name": "Galway oysters",
+      "image": {
+        "file": "File:Oysters! Galway (6048008376).jpg",
+        "alt": "Fresh oysters from Galway Bay"
+      },
+      "text": "Genuinely world-famous, native oysters harvested right from the bay and celebrated at Galway's own dedicated food festival.",
+      "whereToTry": "Seafood restaurants and pubs throughout the city, especially around the Latin Quarter."
+    },
+    {
+      "name": "Seafood chowder",
+      "image": {
+        "file": "File:PXL 20231216 125922999-Ballintoy , Creamy Seafood Chowder.jpg",
+        "alt": "A bowl of creamy Irish seafood chowder"
+      },
+      "text": "A genuinely reliable choice on nearly every menu, made fresh with the day's catch from the bay.",
+      "whereToTry": "Pubs and cafés throughout the city centre."
+    },
+    {
+      "name": "A pint of Guinness",
+      "image": {
+        "file": "File:GuinnessPint.jpg",
+        "alt": "A freshly poured pint of Guinness stout"
+      },
+      "text": "Genuinely best enjoyed alongside a live trad session in one of the Latin Quarter's traditional pubs.",
+      "whereToTry": "Traditional pubs throughout Quay Street and Shop Street."
+    },
+    {
+      "name": "Irish stew",
+      "image": {
+        "file": "File:Irish Beef Stew (34046928633).jpg",
+        "alt": "A bowl of hearty Irish stew"
+      },
+      "text": "A genuinely warming classic found on menus throughout the city, especially welcome after a blustery walk on Salthill.",
+      "whereToTry": "Traditional restaurants and pubs throughout Galway."
+    },
+    {
+      "name": "Brown bread and butter",
+      "image": {
+        "file": "File:Brown Bread and Irish Butter.JPG",
+        "alt": "Traditional Irish brown bread with butter"
+      },
+      "text": "A genuinely simple staple that appears alongside seafood and chowder across the city's restaurants.",
+      "whereToTry": "Cafés and restaurants throughout the city centre."
+    },
+    {
+      "name": "Irish coffee",
+      "image": {
+        "file": "File:Irish Coffee layers.jpg",
+        "alt": "A traditional Irish coffee with cream"
+      },
+      "text": "A genuinely welcome warm-up after a walk along the bay, whiskey and coffee under a layer of cream.",
+      "whereToTry": "Cafés and pubs throughout the Latin Quarter."
+    }
+  ],
+  "accommodation": {
+    "intro": "Galway genuinely offers accommodation across every budget, concentrated within a compact, walkable city centre.",
+    "areas": [
+      {
+        "name": "The Latin Quarter and city centre",
+        "bestFor": "Being genuinely central and walkable to everything",
+        "text": "The most convenient and lively base, close to the Spanish Arch and Eyre Square."
+      },
+      {
+        "name": "Salthill",
+        "bestFor": "A genuinely quieter, seafront stay",
+        "text": "A short walk or bus ride from the centre, with easy access to the promenade."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "€30–60 per night" },
+      { "label": "Mid-range hotel", "value": "€100–180 per night" },
+      { "label": "Aran Islands ferry", "value": "About €30–40 return" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About €25–40 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Galway is genuinely well connected by road and rail, though its own airport has limited scheduled service.",
+    "options": [
+      {
+        "mode": "Intercity train from Dublin",
+        "text": "Genuinely direct and comfortable, taking around two and a half hours.",
+        "detail": "Trains arrive at Galway Ceannt Station, in the city centre."
+      },
+      {
+        "mode": "Flight to Shannon or Knock",
+        "text": "Genuinely the closest airports, both under an hour and a half's drive.",
+        "detail": "Shannon has wider international connections than Ireland West Airport Knock."
+      },
+      {
+        "mode": "Intercity bus",
+        "text": "Genuinely frequent and affordable from Dublin, Cork and other major towns.",
+        "detail": "A practical, if slower, alternative to the train."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Galway is genuinely compact enough to explore entirely on foot.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Genuinely covers the entire city centre, from Eyre Square to the Spanish Arch, easily.",
+        "detail": "Galway's small size means a car is unnecessary, and often impractical, within the city itself."
+      },
+      {
+        "mode": "Local bus to Salthill",
+        "text": "Genuinely quick for reaching the promenade if not walking.",
+        "detail": "Frequent services run from the city centre."
+      },
+      {
+        "mode": "Rental car for day trips",
+        "text": "Genuinely useful for reaching Connemara or the Cliffs of Moher independently.",
+        "detail": "Not needed within the city itself, only for excursions beyond it."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September, with the Galway International Arts Festival in July",
+    "summary": "Galway is genuinely lively year-round, but its packed festival calendar makes summer the liveliest, and busiest, time to visit.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely mild weather and thinner crowds than the summer festival season."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Genuinely the liveliest season, with the Galway International Arts Festival and other events, also the busiest and priciest."
+      },
+      {
+        "season": "September",
+        "rating": "good",
+        "text": "Genuinely home to the famous Galway International Oyster Festival, with thinner crowds than midsummer."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Short days and frequent rain, though genuinely the pub and music scene runs year-round regardless."
+      }
+    ],
+    "avoid": "Nothing strongly — Galway's genuinely compact, indoor-friendly character makes it a workable destination in any season."
+  },
+  "itinerary": {
+    "title": "Two days in Galway",
+    "intro": "Built around the city's compact centre on day one, the bay and a day trip option on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Latin Quarter",
+        "summary": "The Spanish Arch, St Nicholas' Church and Eyre Square.",
+        "morning": "The Spanish Arch and the Latin Quarter's streets.",
+        "afternoon": "St Nicholas' Collegiate Church and Eyre Square.",
+        "evening": "Oysters and a trad session on Quay Street."
+      },
+      {
+        "day": 2,
+        "title": "The bay and beyond",
+        "summary": "Salthill Promenade and Galway Cathedral, or a day trip.",
+        "morning": "Galway Cathedral and the River Corrib.",
+        "afternoon": "Walk Salthill Promenade, or take a day trip to the Aran Islands.",
+        "evening": "A final dinner back in the Latin Quarter."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Galway stay noticeably smoother.",
+  "tips": [
+    "Book accommodation genuinely well ahead during the July arts festival or September oyster festival.",
+    "Check the genuinely ferry schedule and weather before an Aran Islands day trip.",
+    "Wear genuinely comfortable shoes for the Latin Quarter's cobbled streets.",
+    "Pack a proper waterproof layer regardless of season — Galway's weather genuinely shifts fast off the bay.",
+    "Arrive genuinely early to pub sessions on weekends — the best spots fill up quickly.",
+    "Use Galway genuinely as a base for day trips rather than changing accommodation for each west-coast stop."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Galway?",
+      "a": "Two days genuinely covers the city itself comfortably, with more time useful for day trips to the Aran Islands or Connemara."
+    },
+    {
+      "q": "Is Galway a good base for the west coast?",
+      "a": "Yes, genuinely one of the best — the Cliffs of Moher, Connemara and the Aran Islands are all a short trip away."
+    },
+    {
+      "q": "Is Galway walkable?",
+      "a": "Yes, genuinely very — the entire city centre sits within a comfortable walk, and a car isn't needed within the city itself."
+    },
+    {
+      "q": "What is Galway famous for?",
+      "a": "Genuinely its live music scene, native oysters, and the Latin Quarter's colourful medieval streets."
+    },
+    {
+      "q": "When is the Galway Oyster Festival?",
+      "a": "Genuinely every September, one of Ireland's oldest and best-loved food festivals, celebrating the bay's native oysters."
+    },
+    {
+      "q": "Can you visit the Aran Islands from Galway in a day?",
+      "a": "Yes, genuinely — regular ferries run from Galway and nearby Rossaveal, making it an easy, popular day trip."
+    }
+  ],
+  "related": ["cliffs-of-moher-burren", "connemara", "aran-islands"],
+  "relatedArticles": ["underrated-destinations", "food-primer"]
+}

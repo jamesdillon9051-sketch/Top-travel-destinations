@@ -1,0 +1,378 @@
+{
+  "slug": "cork-cobh",
+  "name": "Cork & Cobh",
+  "country": "ireland",
+  "region": "County Cork",
+  "categories": ["city", "history", "culture", "coastal"],
+  "tagline": "Ireland's proudly independent second city, and the colourful harbour town where millions of emigrants took their last look at home.",
+  "highlight": "Standing at the rail of Cobh's harbourfront, looking out at the exact spot where the Titanic made her final stop before crossing the Atlantic.",
+  "shortDescription": "Ireland's food-loving second city and the historic harbour town of Cobh, the Titanic's last port of call and the departure point for millions of Irish emigrants.",
+  "metaDescription": "A Cork and Cobh travel guide: the English Market, Blarney Castle, the Titanic Experience, food and how to plan a visit to Ireland's southwest coast.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Cork Airport (ORK)",
+  "knownFor": "The English Market, Blarney Castle, Titanic history",
+  "budget": "€90–170 per day, mid-range",
+  "goodFor": "Food, history, an easy coastal day trip",
+  "coords": { "lat": 51.8985, "lng": -8.4756 },
+  "image": {
+    "file": "File:St Fin Barre's Cathedral, Cork - geograph.org.uk - 5164946.jpg",
+    "alt": "St Fin Barre's Cathedral rising above the city of Cork"
+  },
+  "intro": [
+    "Cork is genuinely Ireland's proudly independent second city, self-styled as the 'real capital' and built around a genuinely excellent food scene centred on the historic English Market.",
+    "A short train ride away sits Cobh, a genuinely colourful harbour town stacked up a steep hillside beneath St Colman's Cathedral, forever tied to the Titanic as her final port of call and to the millions of Irish emigrants who left from here for America.",
+    "Most visitors genuinely combine the two as an easy day trip or overnight, pairing Cork's food and history with Cobh's more sobering, genuinely moving maritime story."
+  ],
+  "whyVisit": {
+    "intro": "Cork and Cobh's case rests on genuinely excellent food and a maritime history found nowhere else in Ireland.",
+    "points": [
+      {
+        "title": "The English Market is genuinely one of Europe's great food markets",
+        "text": "A covered Victorian market hall of local producers, still the beating heart of Cork's food culture."
+      },
+      {
+        "title": "Cobh's Titanic connection is genuinely direct, not just thematic",
+        "text": "The actual last port of call before the ship's fatal Atlantic crossing in 1912."
+      },
+      {
+        "title": "Blarney Castle is genuinely just outside the city",
+        "text": "Home to the famous Blarney Stone, said to grant the gift of eloquence to those who kiss it."
+      },
+      {
+        "title": "Cork's food scene is genuinely a step ahead of its size",
+        "text": "A proudly independent culinary identity, distinct from Dublin's, built around local produce."
+      },
+      {
+        "title": "Cobh's hillside houses are genuinely photogenic",
+        "text": "Brightly painted terraces stacked beneath the cathedral, overlooking one of the world's largest natural harbours."
+      }
+    ]
+  },
+  "attractionsIntro": "Cork and Cobh's essential sights combine a genuinely excellent food city with a direct link to maritime history.",
+  "attractions": [
+    {
+      "name": "The English Market",
+      "image": {
+        "file": "File:The English Market, Cork.jpg",
+        "alt": "The covered Victorian English Market in Cork"
+      },
+      "text": "Genuinely one of Europe's oldest and best covered markets, trading continuously since 1788, and still Cork's food culture at its core.",
+      "tip": "Genuinely arrive hungry — the market's food stalls make for an excellent, informal lunch."
+    },
+    {
+      "name": "Blarney Castle & the Blarney Stone",
+      "image": {
+        "file": "File:Blarney Castle 2017.jpg",
+        "alt": "Blarney Castle near Cork, home of the Blarney Stone"
+      },
+      "text": "A genuinely atmospheric 15th-century castle just outside the city, famous for the stone said to grant the gift of eloquence to those who kiss it.",
+      "tip": "Genuinely visit early in the day to avoid the longest queues for the stone itself."
+    },
+    {
+      "name": "St Fin Barre's Cathedral",
+      "image": {
+        "file": "File:Saint Fin Barre's Cathedral 3.jpg",
+        "alt": "The Gothic Revival spires of St Fin Barre's Cathedral in Cork"
+      },
+      "text": "A genuinely striking Gothic Revival cathedral with three spires, built on a site with religious use stretching back to the 7th century.",
+      "tip": "The genuinely golden angel atop the east end is said to sound its trumpet on Judgment Day, according to local legend."
+    },
+    {
+      "name": "Cork City Gaol",
+      "image": {
+        "file": "File:Cork City Jail.jpg",
+        "alt": "The Victorian former prison building of Cork City Gaol"
+      },
+      "text": "A genuinely striking Victorian former prison, now a museum with restored cells telling the stories of its former inmates.",
+      "tip": "The genuinely audio guide included with entry is unusually well done, worth the extra time."
+    },
+    {
+      "name": "Titanic Experience Cobh",
+      "image": {
+        "file": "File:Cobh - Titanic Experience - geograph.org.uk - 7930779.jpg",
+        "alt": "The Titanic Experience museum in Cobh"
+      },
+      "text": "Genuinely housed in the original White Star Line ticket office, from where the last passengers boarded a tender out to the Titanic in 1912.",
+      "tip": "Genuinely book ahead in summer — the guided tour format means timed entry can sell out."
+    },
+    {
+      "name": "St Colman's Cathedral, Cobh",
+      "image": {
+        "file": "File:St Colman's Cathedral, Cobh.jpg",
+        "alt": "St Colman's Cathedral overlooking the town of Cobh"
+      },
+      "text": "A genuinely striking neo-Gothic cathedral towering over Cobh's hillside, its 49-bell carillon among the largest in Europe.",
+      "tip": "Genuinely check for carillon recital times — the bells are audible across the whole town."
+    },
+    {
+      "name": "Cobh's harbourfront",
+      "image": {
+        "file": "File:Harbour at Cobh - geograph.org.uk - 4546709.jpg",
+        "alt": "The colourful harbourfront houses of Cobh"
+      },
+      "text": "Genuinely one of Ireland's most photogenic waterfronts, brightly painted terraced houses stacked up the hillside above one of the world's largest natural harbours.",
+      "tip": "Genuinely the best photo angle is from the water itself, or the hillside streets just above the front."
+    }
+  ],
+  "thingsToDoIntro": "Cork and Cobh genuinely reward pairing a food-focused city day with a more reflective afternoon by the harbour.",
+  "thingsToDo": [
+    {
+      "title": "Browse the English Market",
+      "image": {
+        "file": "File:English Market, Grand Parade, Cork, 2018.jpg",
+        "alt": "Stalls inside Cork's English Market"
+      },
+      "text": "A genuinely essential Cork morning, wandering stalls of local cheese, fish, meat and baked goods under Victorian ironwork.",
+      "tip": "Genuinely the market gets busiest around lunchtime — an earlier visit is calmer."
+    },
+    {
+      "title": "Kiss the Blarney Stone",
+      "image": {
+        "file": "File:Blarney - Blarney Castle - 20180610101800.jpg",
+        "alt": "Visitors climbing Blarney Castle to kiss the Blarney Stone"
+      },
+      "text": "A genuinely iconic, slightly odd Irish tradition, leaning backward over the castle battlements to kiss the stone below.",
+      "tip": "Genuinely wear comfortable shoes — the spiral staircase to the top is narrow and steep."
+    },
+    {
+      "title": "Wander Blarney Castle's gardens",
+      "image": {
+        "file": "File:Blarney Castle-02-2017-gje.jpg",
+        "alt": "The grounds and gardens surrounding Blarney Castle"
+      },
+      "text": "A genuinely underrated part of the visit, extensive gardens, a rock close and woodland walks beyond the castle itself.",
+      "tip": "Genuinely budget an extra hour beyond the castle for the gardens — many visitors skip them."
+    },
+    {
+      "title": "Learn Cork's history at the City Gaol",
+      "image": {
+        "file": "File:Cork City Gaol - geograph.org.uk - 8147594.jpg",
+        "alt": "The restored cell blocks of Cork City Gaol"
+      },
+      "text": "A genuinely engaging way to spend a couple of hours, restored cells and exhibits telling real stories from the prison's history.",
+      "tip": "Genuinely combine with the on-site Radio Museum, an unexpected bonus included with entry."
+    },
+    {
+      "title": "Trace Titanic history in Cobh",
+      "image": {
+        "file": "File:The Titanic Experience, Casement Square, Cobh - geograph.org.uk - 5851985.jpg",
+        "alt": "The Titanic Experience building in Cobh's town square"
+      },
+      "text": "A genuinely moving way to spend an hour, following the last passengers' footsteps from ticket office to tender boat.",
+      "tip": "Genuinely combine with the nearby Cobh Heritage Centre for the broader emigration story."
+    },
+    {
+      "title": "Walk Cobh's colourful harbourfront",
+      "image": {
+        "file": "File:The harbour at Cobh - geograph.org.uk - 7597227.jpg",
+        "alt": "A walk along Cobh's colourful harbourfront"
+      },
+      "text": "A genuinely easy, scenic stroll along the water, with views out to one of the world's largest natural harbours.",
+      "tip": "Genuinely climb the hillside streets above the front for the classic postcard view back down."
+    }
+  ],
+  "foodIntro": "Cork's food genuinely has a proudly distinct identity, built around the English Market's produce and local specialities.",
+  "foods": [
+    {
+      "name": "Produce from the English Market",
+      "image": {
+        "file": "File:English Market, Grand Parade, Cork, 2018.jpg",
+        "alt": "Fresh local produce at Cork's English Market"
+      },
+      "text": "Genuinely the best way to taste Cork, sampling artisan cheese, fresh fish and baked goods straight from the market's stalls.",
+      "whereToTry": "The English Market itself, in the city centre."
+    },
+    {
+      "name": "Black and white pudding",
+      "image": {
+        "file": "File:Irish black and white pudding slices.JPG",
+        "alt": "Traditional Irish black and white pudding"
+      },
+      "text": "A genuinely Cork specialty, the city long credited with perfecting the recipe for both styles of pudding.",
+      "whereToTry": "Butchers and breakfast menus throughout the city."
+    },
+    {
+      "name": "Seafood chowder",
+      "image": {
+        "file": "File:PXL 20231216 125922999-Ballintoy , Creamy Seafood Chowder.jpg",
+        "alt": "A bowl of creamy Irish seafood chowder"
+      },
+      "text": "A genuinely reliable choice by the harbour in Cobh, made with the day's fresh catch.",
+      "whereToTry": "Pubs and cafés throughout Cork and Cobh's harbourfront."
+    },
+    {
+      "name": "A pint of stout",
+      "image": {
+        "file": "File:GuinnessPint.jpg",
+        "alt": "A freshly poured pint of Irish stout"
+      },
+      "text": "Genuinely a point of local pride — Cork has its own stout tradition distinct from Dublin's, alongside the national favourite.",
+      "whereToTry": "Traditional pubs throughout Cork's city centre."
+    },
+    {
+      "name": "Irish stew",
+      "image": {
+        "file": "File:Irish Beef Stew (34046928633).jpg",
+        "alt": "A bowl of hearty Irish stew"
+      },
+      "text": "A genuinely warming classic found on menus throughout the city and in Cobh's harbourside pubs.",
+      "whereToTry": "Traditional restaurants throughout Cork and Cobh."
+    },
+    {
+      "name": "Brown bread and butter",
+      "image": {
+        "file": "File:Brown Bread and Irish Butter.JPG",
+        "alt": "Traditional Irish brown bread with butter"
+      },
+      "text": "A genuinely simple staple, especially good fresh from one of the English Market's bakery stalls.",
+      "whereToTry": "The English Market and cafés throughout the city."
+    }
+  ],
+  "accommodation": {
+    "intro": "Cork genuinely offers the wider choice of accommodation, with Cobh a good overnight option for a slower visit.",
+    "areas": [
+      {
+        "name": "Cork city centre",
+        "bestFor": "Being genuinely central to the English Market and nightlife",
+        "text": "The most convenient base, with the widest choice of restaurants and hotels."
+      },
+      {
+        "name": "Cobh",
+        "bestFor": "A genuinely quieter, more atmospheric harbour stay",
+        "text": "A short train ride from Cork, with views over the harbour from many guesthouses."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "€30–60 per night" },
+      { "label": "Mid-range hotel", "value": "€100–180 per night" },
+      { "label": "Blarney Castle entry", "value": "About €22" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About €25–40 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Cork is genuinely Ireland's second-largest city, well connected by air, rail and road.",
+    "options": [
+      {
+        "mode": "Flight to Cork Airport",
+        "text": "Genuinely well connected to the UK and mainland Europe, about 15 minutes from the city centre.",
+        "detail": "A practical alternative to flying into Dublin for a southwest-focused trip."
+      },
+      {
+        "mode": "Intercity train from Dublin",
+        "text": "Genuinely fast and direct, taking around two and a half hours.",
+        "detail": "Trains arrive at Cork's Kent Station, a short walk or taxi from the centre."
+      },
+      {
+        "mode": "Local train to Cobh",
+        "text": "Genuinely simple, a direct 25-minute suburban line from Cork's Kent Station.",
+        "detail": "Frequent departures make Cobh an easy half-day or full-day trip from Cork."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Both Cork and Cobh are genuinely compact and walkable, connected easily by a short train ride.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Genuinely covers central Cork and Cobh's harbourfront easily.",
+        "detail": "Both towns are small enough to explore without a car."
+      },
+      {
+        "mode": "Local train",
+        "text": "Genuinely the easiest way between Cork and Cobh.",
+        "detail": "Frequent, direct and cheap, taking about 25 minutes each way."
+      },
+      {
+        "mode": "Rental car for Blarney",
+        "text": "Genuinely convenient for reaching Blarney Castle, though a local bus also runs there.",
+        "detail": "Blarney is a short drive northwest of central Cork."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for the best weather, though both work year-round",
+    "summary": "Cork and Cobh are genuinely enjoyable in any season, given their indoor markets and museums, though outdoor sightseeing is best in the warmer months.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely mild weather and thinner crowds than midsummer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The warmest and busiest season, with Blarney Castle at its most crowded."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "good",
+        "text": "Genuinely a quieter window with still-decent weather odds."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Short days and frequent rain, though genuinely the English Market and museums make good indoor options."
+      }
+    ],
+    "avoid": "Nothing strongly — the mix of indoor market and museum sights makes both towns workable in any season."
+  },
+  "itinerary": {
+    "title": "Two days in Cork and Cobh",
+    "intro": "Built around the city and Blarney Castle on day one, Cobh's Titanic history on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Cork city and Blarney",
+        "summary": "The English Market, St Fin Barre's Cathedral and Blarney Castle.",
+        "morning": "The English Market and St Fin Barre's Cathedral.",
+        "afternoon": "Blarney Castle and its gardens.",
+        "evening": "Dinner in Cork city centre."
+      },
+      {
+        "day": 2,
+        "title": "Cobh's harbour",
+        "summary": "The Titanic Experience and St Colman's Cathedral.",
+        "morning": "Train to Cobh and the Titanic Experience.",
+        "afternoon": "St Colman's Cathedral and the harbourfront.",
+        "evening": "Return to Cork for a final dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Cork and Cobh visit noticeably smoother.",
+  "tips": [
+    "Visit Blarney Castle genuinely early in the day to avoid the longest queues.",
+    "Book Titanic Experience tickets genuinely ahead in summer, given the timed guided tour format.",
+    "Arrive at the English Market genuinely hungry — it's one of the best lunch options in the city.",
+    "Take the genuinely short train to Cobh rather than driving — parking there is limited.",
+    "Wear genuinely comfortable shoes for Cobh's steep hillside streets.",
+    "Check genuinely carillon recital times at St Colman's Cathedral if visiting on a whim."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need for Cork and Cobh?",
+      "a": "Two days genuinely covers both comfortably, though Cobh alone is an easy half-day or full-day trip from Cork."
+    },
+    {
+      "q": "Can you visit Cobh as a day trip from Cork?",
+      "a": "Yes, genuinely easily — a direct local train takes about 25 minutes each way, running frequently."
+    },
+    {
+      "q": "Is Blarney Castle worth visiting?",
+      "a": "Yes, genuinely — beyond the famous stone, the castle grounds and gardens are worth a couple of hours on their own."
+    },
+    {
+      "q": "What is Cork known for?",
+      "a": "Genuinely its independent food scene centred on the English Market, and its proud identity as Ireland's 'real capital.'"
+    },
+    {
+      "q": "Why is Cobh significant to Titanic history?",
+      "a": "Genuinely the ship's last port of call before crossing the Atlantic in 1912, and from where its final passengers boarded by tender."
+    },
+    {
+      "q": "Is Cork worth visiting if you're short on time in Ireland?",
+      "a": "Yes, genuinely — even a single day covers the English Market and city centre well, with Cobh or Blarney as an easy addition."
+    }
+  ],
+  "related": ["killarney-ring-of-kerry", "kilkenny", "dingle-peninsula"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

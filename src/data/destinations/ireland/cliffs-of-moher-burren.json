@@ -1,0 +1,374 @@
+{
+  "slug": "cliffs-of-moher-burren",
+  "name": "The Cliffs of Moher & the Burren",
+  "country": "ireland",
+  "region": "County Clare",
+  "categories": ["nature", "coastal", "hiking", "geology"],
+  "tagline": "Ireland's most famous sea cliffs and a strange, beautiful limestone landscape found almost nowhere else in Europe.",
+  "highlight": "Walking the cliff-edge path near O'Brien's Tower as the Atlantic crashes 200 metres below and the full curve of the cliffs comes into view.",
+  "shortDescription": "Sheer 200-metre Atlantic cliffs and the otherworldly limestone karst of the Burren, two of Ireland's most striking natural landscapes side by side in County Clare.",
+  "metaDescription": "A Cliffs of Moher and Burren travel guide: the cliff walks, Poulnabrone Dolmen, the Burren's limestone landscape, food and how to plan a visit to County Clare.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Shannon Airport (SNN)",
+  "knownFor": "The Cliffs of Moher, the Burren's limestone landscape, Doolin's music pubs",
+  "budget": "€90–170 per day, mid-range",
+  "goodFor": "Coastal walks, geology, scenic drives",
+  "coords": { "lat": 52.9715, "lng": -9.4309 },
+  "image": {
+    "file": "File:Ireland Cliffs of Moher BW 2025-09-11 14-48-01.jpg",
+    "alt": "The Cliffs of Moher rising sheer from the Atlantic Ocean"
+  },
+  "intro": [
+    "The Cliffs of Moher are genuinely Ireland's most photographed natural landmark, rising up to 214 metres straight out of the Atlantic along an eight-kilometre stretch of County Clare's coastline.",
+    "Just inland lies the Burren, a genuinely strange and beautiful limestone karst landscape unlike anywhere else in Ireland, its bare grey pavement hiding rare Arctic and Mediterranean wildflowers in its cracks alongside one of Europe's densest concentrations of ancient tombs.",
+    "Most visitors genuinely combine the two as a single day trip or overnight from Galway or the Dingle Peninsula, basing themselves in the small music-pub village of Doolin at the region's edge."
+  ],
+  "whyVisit": {
+    "intro": "The Cliffs of Moher and the Burren's case rests on genuinely dramatic, easily accessible natural scenery unlike anywhere else on the island.",
+    "points": [
+      {
+        "title": "The cliffs are genuinely as dramatic as the photos suggest",
+        "text": "A sheer 214-metre drop to the Atlantic, with a well-built cliff-edge path running the full length."
+      },
+      {
+        "title": "The Burren is genuinely unlike anywhere else in Ireland",
+        "text": "A bare limestone karst landscape hiding rare wildflowers and one of Europe's densest concentrations of ancient tombs."
+      },
+      {
+        "title": "Poulnabrone Dolmen is genuinely older than Stonehenge",
+        "text": "A Neolithic portal tomb dating back roughly 5,800 years, standing alone in the open karst."
+      },
+      {
+        "title": "Doolin's pub sessions are genuinely among Ireland's best",
+        "text": "A tiny village with an outsized reputation for authentic, nightly traditional music."
+      },
+      {
+        "title": "It works genuinely well as a day trip or a slower overnight",
+        "text": "Reachable from Galway or the Dingle Peninsula in either direction."
+      }
+    ]
+  },
+  "attractionsIntro": "The essential sights split between the Atlantic drama of the cliffs and the quiet strangeness of the Burren just inland.",
+  "attractions": [
+    {
+      "name": "The Cliffs of Moher",
+      "image": {
+        "file": "File:Ireland Cliffs of Moher BW 2025-09-11 14-26-55.jpg",
+        "alt": "The sheer Atlantic cliffs of the Cliffs of Moher"
+      },
+      "text": "Genuinely Ireland's best-known natural landmark, rising up to 214 metres above the Atlantic along an eight-kilometre stretch of coastline.",
+      "tip": "Visit genuinely early morning or late afternoon for softer light and noticeably thinner crowds."
+    },
+    {
+      "name": "O'Brien's Tower",
+      "image": {
+        "file": "File:O'Brien's Tower, Cliffs Of Moher - geograph.org.uk - 5738168.jpg",
+        "alt": "O'Brien's Tower at the highest point of the Cliffs of Moher"
+      },
+      "text": "A genuinely photogenic 19th-century viewing tower at the cliffs' highest point, built in 1835 for Victorian-era tourists.",
+      "tip": "Climb genuinely to the top for the single best panoramic view of the full cliff line."
+    },
+    {
+      "name": "The Burren",
+      "image": {
+        "file": "File:Burren Landscape.jpg",
+        "alt": "The limestone karst landscape of the Burren in County Clare"
+      },
+      "text": "A genuinely strange, beautiful limestone karst landscape found almost nowhere else in Europe, its cracks sheltering rare Arctic and Mediterranean plants side by side.",
+      "tip": "Genuinely look closely at the limestone cracks (grikes) — the rare wildflowers hide in their sheltered microclimate."
+    },
+    {
+      "name": "Poulnabrone Dolmen",
+      "image": {
+        "file": "File:Poulnabrone dolmen 01.jpg",
+        "alt": "Poulnabrone Dolmen, a Neolithic portal tomb in the Burren"
+      },
+      "text": "A genuinely striking Neolithic portal tomb standing alone in the open karst, dating back roughly 5,800 years, older than Stonehenge.",
+      "tip": "Genuinely free to visit, with a small roadside car park and a short walk across the limestone."
+    },
+    {
+      "name": "Doolin village",
+      "image": {
+        "file": "File:Doolin - Fisher Street - Village Area - Colourful Buildings at East End of Street - geograph.org.uk - 3131002.jpg",
+        "alt": "The colourful village of Doolin in County Clare"
+      },
+      "text": "A genuinely tiny village with an outsized reputation as one of Ireland's best spots for authentic traditional music sessions.",
+      "tip": "Genuinely book accommodation well ahead in summer — Doolin's small size means it fills fast."
+    },
+    {
+      "name": "Aillwee Cave",
+      "image": {
+        "file": "File:Aillwee Cave (2).jpg",
+        "alt": "The underground passages of Aillwee Cave in the Burren"
+      },
+      "text": "A genuinely accessible show cave running deep into the Burren's limestone, with guided tours past underground waterfalls and ancient bear pits.",
+      "tip": "Genuinely bring a light jacket — the cave stays a constant, cool temperature year-round."
+    },
+    {
+      "name": "Kilfenora & the Burren Centre",
+      "image": {
+        "file": "File:The Burren Hub, Kilfenora - geograph.org.uk - 4693364.jpg",
+        "alt": "The Burren Centre in Kilfenora, County Clare"
+      },
+      "text": "A genuinely small village anchoring the Burren, home to a cathedral with High Crosses and an interpretive centre explaining the region's unique geology.",
+      "tip": "Genuinely worth a stop to understand the Burren's landscape before exploring it further."
+    }
+  ],
+  "thingsToDoIntro": "The region genuinely rewards a mix of cliff-edge walking and slower time in the Burren's quieter landscape.",
+  "thingsToDo": [
+    {
+      "title": "Walk the Cliffs of Moher coastal path",
+      "image": {
+        "file": "File:CliffsofMoher 001.jpg",
+        "alt": "Walkers on the coastal path at the Cliffs of Moher"
+      },
+      "text": "A genuinely well-maintained path runs the length of the cliffs, with the quieter southern stretch toward Hag's Head often less crowded.",
+      "tip": "Stay genuinely behind the safety fencing — the cliff edges are a real, serious hazard in wind."
+    },
+    {
+      "title": "Explore Poulnabrone Dolmen up close",
+      "image": {
+        "file": "File:Poulnabrone dolmen 02.jpg",
+        "alt": "Poulnabrone Dolmen standing in the open Burren landscape"
+      },
+      "text": "A genuinely short, easy walk across open limestone to one of Ireland's most photographed ancient monuments.",
+      "tip": "Genuinely visit early or late in the day to have the site largely to yourself."
+    },
+    {
+      "title": "Go underground at Aillwee Cave",
+      "image": {
+        "file": "File:Aillwee Cave (3).jpg",
+        "alt": "A guided tour inside Aillwee Cave"
+      },
+      "text": "A genuinely accessible guided tour into the Burren's underground world, good for a rainy-day alternative to the cliffs.",
+      "tip": "Genuinely combine with the on-site farm shop's cheese, made from the surrounding Burren pasture."
+    },
+    {
+      "title": "Spot rare Burren wildflowers",
+      "image": {
+        "file": "File:Native Flowers and the Karst Landscape at the Burren, Clare.jpg",
+        "alt": "Wildflowers growing in the limestone cracks of the Burren"
+      },
+      "text": "A genuinely unusual botanical mix of Arctic, alpine and Mediterranean species growing side by side, found almost nowhere else on Earth.",
+      "tip": "Genuinely late spring brings the widest variety of Burren wildflowers into bloom."
+    },
+    {
+      "title": "Hear trad music in a Doolin pub",
+      "image": {
+        "file": "File:Doolin - Fisher Street - Village Area - Aille River, White Horse, R459 - geograph.org.uk - 3131033.jpg",
+        "alt": "A traditional music pub in Doolin village"
+      },
+      "text": "A genuinely essential Doolin evening, with several small pubs hosting some of Ireland's most respected nightly sessions.",
+      "tip": "Genuinely arrive early for a seat near the musicians — Doolin's sessions draw a loyal crowd."
+    },
+    {
+      "title": "Drive the Burren's open karst plateau",
+      "image": {
+        "file": "File:Limestone landscape in The Burren, Co Clare, Ireland - geograph.org.uk - 7687735.jpg",
+        "alt": "A road crossing the open limestone plateau of the Burren"
+      },
+      "text": "A genuinely otherworldly drive across bare grey limestone terraces, unlike any other landscape in Ireland.",
+      "tip": "Genuinely stop often — the Burren's scale and strangeness are best appreciated slowly, not from a moving car."
+    }
+  ],
+  "foodIntro": "Food here genuinely leans on County Clare's seafood and the Burren's own artisan cheese and dairy producers.",
+  "foods": [
+    {
+      "name": "Seafood chowder",
+      "image": {
+        "file": "File:PXL 20231216 125922999-Ballintoy , Creamy Seafood Chowder.jpg",
+        "alt": "A bowl of creamy Irish seafood chowder"
+      },
+      "text": "A genuinely essential warming stop after a windy cliff walk, made with the day's local catch.",
+      "whereToTry": "Pubs and cafés throughout Doolin and along the coast."
+    },
+    {
+      "name": "A pint of Guinness",
+      "image": {
+        "file": "File:GuinnessPint.jpg",
+        "alt": "A freshly poured pint of Guinness stout"
+      },
+      "text": "Genuinely well poured in Doolin's traditional pubs, best enjoyed alongside a live music session.",
+      "whereToTry": "Doolin's traditional music pubs."
+    },
+    {
+      "name": "Burren farmhouse cheese",
+      "text": "Genuinely distinctive artisan cheese made from cattle grazing the Burren's unusual limestone pasture.",
+      "whereToTry": "Farm shops and delis throughout the Burren, including at Aillwee Cave."
+    },
+    {
+      "name": "Brown bread and butter",
+      "image": {
+        "file": "File:Brown Bread and Irish Butter.JPG",
+        "alt": "Traditional Irish brown bread with butter"
+      },
+      "text": "A genuinely simple staple served alongside chowder and seafood throughout the region.",
+      "whereToTry": "Cafés and restaurants throughout Doolin and Clare."
+    },
+    {
+      "name": "Irish coffee",
+      "image": {
+        "file": "File:Irish Coffee layers.jpg",
+        "alt": "A traditional Irish coffee with cream"
+      },
+      "text": "A genuinely welcome warm-up after a blustery cliff walk, whiskey and coffee under a layer of cream.",
+      "whereToTry": "Pubs and cafés throughout Doolin and the Cliffs of Moher visitor centre."
+    },
+    {
+      "name": "Boxty",
+      "image": {
+        "file": "File:Boxty triangle.jpg",
+        "alt": "Boxty, a traditional Irish potato pancake"
+      },
+      "text": "A genuinely hearty traditional potato pancake, a good filling option after a day outdoors.",
+      "whereToTry": "Traditional restaurants throughout the region."
+    }
+  ],
+  "accommodation": {
+    "intro": "Doolin genuinely serves as the region's main base, small but well set up for travellers visiting the cliffs and the Burren.",
+    "areas": [
+      {
+        "name": "Doolin",
+        "bestFor": "Being genuinely close to both the cliffs and the Burren, with excellent music pubs",
+        "text": "The most atmospheric base, though it books up fast given its small size."
+      },
+      {
+        "name": "Ennis or Lisdoonvarna",
+        "bestFor": "A genuinely wider choice of accommodation nearby",
+        "text": "Short drives from both the cliffs and the Burren, with more availability than tiny Doolin."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "€30–60 per night" },
+      { "label": "Mid-range hotel", "value": "€100–180 per night" },
+      { "label": "Cliffs of Moher visitor centre entry", "value": "About €10–12" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About €20–35 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Cliffs of Moher and the Burren sit genuinely within easy reach of Shannon, Galway and the wider west coast.",
+    "options": [
+      {
+        "mode": "Flight to Shannon Airport",
+        "text": "Genuinely the closest airport, about an hour's drive from the cliffs.",
+        "detail": "Well connected to the UK, mainland Europe and North America."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Genuinely the most flexible way to combine the cliffs, the Burren and Doolin in one visit.",
+        "detail": "Roads here are relatively straightforward compared to the Ring of Kerry or Dingle."
+      },
+      {
+        "mode": "Day tour from Galway",
+        "text": "Genuinely a popular no-driving option, widely available as a full-day coach trip.",
+        "detail": "Covers the cliffs and often a stop in the Burren, returning to Galway by evening."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is genuinely the most practical way to see both the cliffs and the Burren in the same visit.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Genuinely essential for covering the cliffs, Poulnabrone Dolmen and the Burren's wider sights at a flexible pace.",
+        "detail": "Distances are short but the sights are spread across open countryside."
+      },
+      {
+        "mode": "On foot in Doolin",
+        "text": "Genuinely easy — the village itself is small and walkable.",
+        "detail": "The Cliffs of Moher are also reachable on foot via a scenic coastal trail from Doolin."
+      },
+      {
+        "mode": "Organised day tours",
+        "text": "Genuinely a relaxed option from Galway, Limerick or the Dingle Peninsula.",
+        "detail": "A practical choice for visitors without a rental car."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for the clearest views and thinner crowds",
+    "summary": "The cliffs are genuinely visitable year-round, though clear days for the best views are far more likely outside midsummer.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely good odds of clear visibility and the Burren's wildflowers in full bloom."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The busiest season at the cliffs, with the visitor centre car park often at capacity by midday."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "good",
+        "text": "Genuinely a quieter window with still-decent weather odds."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Genuinely dramatic but often wet and windy, with real risk of the cliff path partially closing in storms."
+      }
+    ],
+    "avoid": "Expecting clear visibility on any given day — genuinely check the forecast, since low cloud can hide the cliffs entirely."
+  },
+  "itinerary": {
+    "title": "Two days at the Cliffs of Moher and the Burren",
+    "intro": "Built around the cliffs themselves on day one, the Burren's ancient landscape on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Cliffs of Moher",
+        "summary": "The cliff-edge path and O'Brien's Tower.",
+        "morning": "Arrive early and walk the full cliff path.",
+        "afternoon": "O'Brien's Tower and the visitor centre.",
+        "evening": "Dinner and live music in Doolin."
+      },
+      {
+        "day": 2,
+        "title": "The Burren",
+        "summary": "Poulnabrone Dolmen, Aillwee Cave and Kilfenora.",
+        "morning": "Poulnabrone Dolmen and the open karst landscape.",
+        "afternoon": "Aillwee Cave and Kilfenora's Burren Centre.",
+        "evening": "A final night of music in Doolin."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Cliffs of Moher and Burren visit noticeably smoother.",
+  "tips": [
+    "Visit genuinely early morning or late afternoon to avoid the busiest midday tour bus crowds.",
+    "Check the genuinely weather forecast before going — low cloud can hide the cliffs completely.",
+    "Stay genuinely behind the safety fencing at all times — the cliff edges are a real, serious hazard.",
+    "Book Doolin accommodation genuinely well ahead in summer given the village's small size.",
+    "Wear genuinely sturdy shoes and a windproof layer, even on an apparently calm day.",
+    "Combine genuinely the cliffs with the Burren rather than choosing one — they're a short drive apart."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need for the Cliffs of Moher and the Burren?",
+      "a": "One to two days genuinely covers both comfortably, and the cliffs alone are an easy half-day visit."
+    },
+    {
+      "q": "Can you visit the Cliffs of Moher as a day trip from Galway?",
+      "a": "Yes, genuinely — it's about a ninety-minute drive each way, and organised day tours run regularly."
+    },
+    {
+      "q": "Is the Cliffs of Moher walk difficult?",
+      "a": "No, genuinely accessible — the main path is well maintained and mostly flat, though the full length is a few hours round trip."
+    },
+    {
+      "q": "What is the Burren known for?",
+      "a": "Genuinely its unusual limestone karst landscape, hiding rare Arctic and Mediterranean wildflowers alongside one of Europe's densest concentrations of ancient tombs."
+    },
+    {
+      "q": "Is Doolin worth staying in?",
+      "a": "Yes, genuinely — it's small, but its traditional music pubs are among Ireland's most respected, and it sits close to both the cliffs and the Burren."
+    },
+    {
+      "q": "How old is Poulnabrone Dolmen?",
+      "a": "Genuinely around 5,800 years old, a Neolithic portal tomb older than Stonehenge and England's other famous prehistoric monuments."
+    }
+  ],
+  "related": ["galway", "connemara", "killarney-ring-of-kerry"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}
