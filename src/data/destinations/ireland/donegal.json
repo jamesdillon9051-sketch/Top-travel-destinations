@@ -1,0 +1,378 @@
+{
+  "slug": "donegal",
+  "name": "Donegal",
+  "country": "ireland",
+  "region": "County Donegal",
+  "categories": ["nature", "coastal", "hiking", "remote"],
+  "tagline": "Ireland's wild, sparsely visited far northwest, home to Europe's highest sea cliffs and some of the country's emptiest coastline.",
+  "highlight": "Standing at the top of Slieve League as the cliffs drop 600 metres straight to the Atlantic, with barely another visitor in sight.",
+  "shortDescription": "Ireland's remote northwestern county, home to Slieve League's towering sea cliffs, Glenveagh National Park and some of the country's least-visited coastline.",
+  "metaDescription": "A Donegal travel guide: Slieve League, Glenveagh National Park, Malin Head, food and how to plan a visit to Ireland's wild, remote northwest.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Donegal Airport (CFN), or Ireland West Airport Knock (NOC)",
+  "knownFor": "Slieve League's sea cliffs, Glenveagh National Park, empty coastline",
+  "budget": "€80–150 per day, mid-range",
+  "goodFor": "Remote hiking, dramatic coastline, real solitude",
+  "coords": { "lat": 54.6547, "lng": -8.1099 },
+  "image": {
+    "file": "File:A sea stack in the bay at Slieve League sea cliffs.jpg",
+    "alt": "The sea cliffs of Slieve League in County Donegal"
+  },
+  "intro": [
+    "Donegal is Ireland's wild northwestern edge, a county of sea cliffs, empty beaches and mountains that sees a fraction of the visitors drawn to the southwest's Ring of Kerry or Dingle.",
+    "Its centrepiece is Slieve League, among the highest sea cliffs in Europe at nearly 600 metres, reached by a road and trail with barely a fraction of the Cliffs of Moher's crowds.",
+    "Most visitors combine a couple of days here with Glenveagh National Park's mountains and lakes further north, rewarding those willing to travel further off Ireland's classic first-timer route."
+  ],
+  "whyVisit": {
+    "intro": "Donegal's case rests on dramatic natural scenery with a fraction of the visitors seen elsewhere in Ireland.",
+    "points": [
+      {
+        "title": "Slieve League is taller than the Cliffs of Moher",
+        "text": "Among the highest sea cliffs in Europe, at nearly three times the height, with far fewer visitors."
+      },
+      {
+        "title": "Glenveagh National Park is one of Ireland's wildest",
+        "text": "A remote valley of lakes and mountains, home to a genuine reintroduced golden eagle population."
+      },
+      {
+        "title": "Malin Head is Ireland's most northerly point",
+        "text": "A dramatic, windswept headland with real end-of-the-world character."
+      },
+      {
+        "title": "The coastline here is emptier than the southwest",
+        "text": "Long stretches of beach and cliff with real solitude, even in peak summer."
+      },
+      {
+        "title": "It rewards visitors willing to travel further",
+        "text": "A real sense of discovery for those who make the trip north."
+      }
+    ]
+  },
+  "attractionsIntro": "Donegal's essential sights are spread across a large, sparsely populated county best explored by car.",
+  "attractions": [
+    {
+      "name": "Slieve League Cliffs",
+      "image": {
+        "file": "File:Slieve League Cliffs, County Donegal, Ireland6.jpg",
+        "alt": "The towering sea cliffs of Slieve League in County Donegal"
+      },
+      "text": "Among the highest sea cliffs in Europe, rising nearly 600 metres straight from the Atlantic, with a fraction of the Cliffs of Moher's crowds.",
+      "tip": "Park at Bunglass viewpoint for the best views without a long hike."
+    },
+    {
+      "name": "Donegal Castle",
+      "image": {
+        "file": "File:Donegal Castle, Donegal Ireland.jpg",
+        "alt": "Donegal Castle in Donegal town"
+      },
+      "text": "A well-restored 15th-century Gaelic chieftain's castle right in Donegal town, combining Irish and later Jacobean architecture.",
+      "tip": "The guided tour is worth the extra time for the castle's layered history."
+    },
+    {
+      "name": "Glenveagh National Park",
+      "image": {
+        "file": "File:Glenveagh National Park Lough Beagh.jpg",
+        "alt": "Lough Beagh in Glenveagh National Park, County Donegal"
+      },
+      "text": "A remote, wild valley of lakes and mountains, one of Ireland's largest national parks and home to a reintroduced golden eagle population.",
+      "tip": "The shuttle bus from the visitor centre to the castle saves a long walk in."
+    },
+    {
+      "name": "Glenveagh Castle",
+      "image": {
+        "file": "File:Glenveagh National Park Gleanveagh Castle.jpg",
+        "alt": "Glenveagh Castle beside Lough Beagh in County Donegal"
+      },
+      "text": "A romantic 19th-century castle on the shore of Lough Beagh, with elaborate gardens sheltered within the wild valley.",
+      "tip": "The walled garden is a surprising, sheltered contrast to the open mountains around it."
+    },
+    {
+      "name": "Malin Head",
+      "image": {
+        "file": "File:Malin Head, Donegal, Ireland - 2025 6.jpg",
+        "alt": "Malin Head, the most northerly point in Ireland"
+      },
+      "text": "Ireland's most northerly point, a dramatic, windswept headland with real end-of-the-world character.",
+      "tip": "Look for Banba's Crown, the old signal tower at the headland's tip."
+    },
+    {
+      "name": "Fanad Head Lighthouse",
+      "image": {
+        "file": "File:Fanad Head Lighthouse 1.jpg",
+        "alt": "Fanad Head Lighthouse on the Donegal coast"
+      },
+      "text": "Regarded as one of the world's most beautiful lighthouses, perched dramatically above Lough Swilly's entrance.",
+      "tip": "Book ahead to stay overnight in the lighthouse keeper's cottages for a truly remote experience."
+    },
+    {
+      "name": "Glencolmcille",
+      "image": {
+        "file": "File:Gleann Cholm Cille.jpg",
+        "alt": "The remote valley of Glencolmcille in County Donegal"
+      },
+      "text": "A remote Irish-speaking valley, home to a folk village museum recreating centuries of rural Donegal life.",
+      "tip": "One of the further-flung stops in the county, rewarding those who make the drive out."
+    }
+  ],
+  "thingsToDoIntro": "Donegal rewards slower, more independent travel than the busier southwest.",
+  "thingsToDo": [
+    {
+      "title": "Hike Slieve League's cliff path",
+      "image": {
+        "file": "File:Slieve League cliffs - geograph.org.uk - 5991787.jpg",
+        "alt": "The cliff-edge hiking path at Slieve League"
+      },
+      "text": "A rewarding, if exposed, trail beyond the Bunglass car park toward the cliffs' higher sections.",
+      "tip": "Stay well back from the edge — the path narrows considerably beyond the main viewpoint."
+    },
+    {
+      "title": "Explore Donegal Castle",
+      "image": {
+        "file": "File:Donegal - Donegal Castle - 20170319151419.jpg",
+        "alt": "The interior of Donegal Castle"
+      },
+      "text": "A worthwhile hour in Donegal town, exploring the restored castle's Gaelic and Jacobean history.",
+      "tip": "Combine with a wander around Donegal town's compact centre and Diamond square."
+    },
+    {
+      "title": "Walk Glenveagh's castle gardens",
+      "image": {
+        "file": "File:Glenveagh National Park Flora.jpg",
+        "alt": "The gardens at Glenveagh Castle in County Donegal"
+      },
+      "text": "A sheltered, cultivated contrast to the wild valley around it, walled gardens set against open mountains.",
+      "tip": "Combine with a longer lakeside walk if time allows."
+    },
+    {
+      "title": "Stand at Ireland's most northerly point",
+      "image": {
+        "file": "File:Malin Head, Donegal, Ireland - 2025 9.jpg",
+        "alt": "The dramatic headland at Malin Head, Ireland's most northerly point"
+      },
+      "text": "A bucket-list stop for many Irish road-trippers, standing at the true northern tip of the island.",
+      "tip": "Bring a proper windproof layer — Malin Head lives up to its exposed reputation."
+    },
+    {
+      "title": "Visit Fanad Head Lighthouse",
+      "image": {
+        "file": "File:Fanad Head Lighthouse 2.jpg",
+        "alt": "Fanad Head Lighthouse overlooking Lough Swilly"
+      },
+      "text": "A dramatic, photogenic stop, with guided tours of the lighthouse itself available in season.",
+      "tip": "The surrounding coast road offers some of Donegal's best, least-visited coastal views."
+    },
+    {
+      "title": "Learn traditional life at Glencolmcille Folk Village",
+      "image": {
+        "file": "File:Cottages at Glencolmcille Folk Village Museum - geograph.org.uk - 7529909.jpg",
+        "alt": "Traditional thatched cottages at Glencolmcille Folk Village Museum"
+      },
+      "text": "An engaging open-air museum of recreated cottages, tracing rural Donegal life across three centuries.",
+      "tip": "Combine with the valley's own craft shops, including a working weaver's cottage."
+    }
+  ],
+  "foodIntro": "Donegal's food leans on the county's own seafood and dairy, served in a quieter, less touristy setting than the southwest.",
+  "foods": [
+    {
+      "name": "Seafood chowder",
+      "image": {
+        "file": "File:PXL 20231216 125922999-Ballintoy , Creamy Seafood Chowder.jpg",
+        "alt": "A bowl of creamy Irish seafood chowder"
+      },
+      "text": "An essential warming stop after a windy day at Slieve League or Malin Head.",
+      "whereToTry": "Pubs and cafés throughout Donegal town and the coast."
+    },
+    {
+      "name": "Donegal Bay smoked salmon",
+      "image": {
+        "file": "File:Smoked salmon 20080814 120624.jpg",
+        "alt": "Traditionally smoked salmon from Donegal Bay"
+      },
+      "text": "Well regarded nationally, traditionally smoked along the bay and served simply with brown bread.",
+      "whereToTry": "Restaurants and delis throughout Donegal town."
+    },
+    {
+      "name": "A pint of Guinness",
+      "image": {
+        "file": "File:GuinnessPint.jpg",
+        "alt": "A freshly poured pint of Guinness stout"
+      },
+      "text": "Well earned after a day exploring Slieve League or Glenveagh's trails.",
+      "whereToTry": "Traditional pubs throughout Donegal town."
+    },
+    {
+      "name": "Irish stew",
+      "image": {
+        "file": "File:Irish Beef Stew (34046928633).jpg",
+        "alt": "A bowl of hearty Irish stew"
+      },
+      "text": "A warming classic after a day outdoors in Donegal's exposed, changeable weather.",
+      "whereToTry": "Traditional pubs and restaurants throughout the county."
+    },
+    {
+      "name": "Brown bread and butter",
+      "image": {
+        "file": "File:Brown Bread and Irish Butter.JPG",
+        "alt": "Traditional Irish brown bread with butter"
+      },
+      "text": "A simple staple, especially good alongside chowder or smoked salmon.",
+      "whereToTry": "Cafés and restaurants throughout Donegal town."
+    },
+    {
+      "name": "Boxty",
+      "image": {
+        "file": "File:Boxty triangle.jpg",
+        "alt": "Boxty, a traditional Irish potato pancake"
+      },
+      "text": "A traditional dish across the northwest, a hearty potato pancake good after a day outdoors.",
+      "whereToTry": "Traditional restaurants throughout the county."
+    }
+  ],
+  "accommodation": {
+    "intro": "Donegal town serves as the county's main base, with smaller guesthouses scattered across the wider region.",
+    "areas": [
+      {
+        "name": "Donegal town",
+        "bestFor": "Being central and well-equipped for a first stop",
+        "text": "The most practical base, with the widest choice of guesthouses and restaurants."
+      },
+      {
+        "name": "Near Glencolmcille or Slieve League",
+        "bestFor": "A remote, scenic overnight",
+        "text": "Small guesthouses closer to the cliffs and the far southwestern coast, for a slower pace."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "€30–55 per night" },
+      { "label": "Mid-range hotel", "value": "€85–150 per night" },
+      { "label": "Donegal Castle entry", "value": "About €7" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About €20–35 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Donegal requires more travel time than the southwest, given its remote northwestern position.",
+    "options": [
+      {
+        "mode": "Rental car from Dublin or Galway",
+        "text": "The most practical way in, though a real time commitment given the distance.",
+        "detail": "About three and a half hours from Dublin, or two and a half from Galway."
+      },
+      {
+        "mode": "Flight to Donegal Airport",
+        "text": "A scenic small regional airport with limited routes, mainly to Dublin.",
+        "detail": "Widely considered one of the world's most scenic runways, landing beside the Atlantic."
+      },
+      {
+        "mode": "Intercity bus",
+        "text": "A workable, if slow, option from Dublin, Galway and other major towns.",
+        "detail": "A practical budget alternative given limited flight and no direct train options."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is essential for exploring Donegal's spread-out, sparsely populated landscape.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Essential for reaching Slieve League, Glenveagh and Malin Head at a flexible pace.",
+        "detail": "Distances here are longer than in the more compact southwest."
+      },
+      {
+        "mode": "On foot in Donegal town",
+        "text": "Easy — the town itself is small and walkable.",
+        "detail": "Wider county sights all require a car or organised tour."
+      },
+      {
+        "mode": "Local tours",
+        "text": "Limited compared to the southwest, given lower visitor numbers.",
+        "detail": "Worth booking ahead if travelling without your own car."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for the clearest views and mildest weather",
+    "summary": "Donegal is visitable year-round, though its exposed cliffs and headlands are far more pleasant outside winter storms.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Good odds of clear visibility at Slieve League and Malin Head."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The warmest season, though still far quieter than the southwest's peak crowds."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "good",
+        "text": "A quiet, often mild window with good weather odds."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Dramatic but often severe, with real risk of exposed cliff paths closing in storms."
+      }
+    ],
+    "avoid": "Exposed coastal walks at Slieve League or Malin Head in high wind — a serious hazard on Donegal's most dramatic stretches."
+  },
+  "itinerary": {
+    "title": "Two days in Donegal",
+    "intro": "Built around Slieve League and Donegal town on day one, Glenveagh and the far north on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Slieve League and Donegal town",
+        "summary": "The Slieve League cliffs and Donegal Castle.",
+        "morning": "Drive to Slieve League and walk the Bunglass viewpoint.",
+        "afternoon": "Donegal Castle and the town centre.",
+        "evening": "Dinner in Donegal town."
+      },
+      {
+        "day": 2,
+        "title": "Glenveagh and the far north",
+        "summary": "Glenveagh National Park and Malin Head or Fanad Head.",
+        "morning": "Glenveagh National Park and Glenveagh Castle.",
+        "afternoon": "Drive north to Malin Head or Fanad Head Lighthouse.",
+        "evening": "Return to Donegal town or overnight further north."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Donegal visit noticeably smoother.",
+  "tips": [
+    "Budget more driving time than expected — Donegal's distances are longer than the southwest's.",
+    "Check wind conditions before any cliff-edge walk at Slieve League or Malin Head.",
+    "Fill up on fuel before heading into remote parts of the county — stations are sparse.",
+    "Book Fanad Head Lighthouse tours or overnight stays well ahead.",
+    "Pack a proper windproof layer regardless of season — Donegal's coast is exposed.",
+    "Allow extra time versus the map distance — rural roads here are slow, much like elsewhere in Ireland."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Donegal?",
+      "a": "Two days covers Slieve League, Donegal town and Glenveagh National Park comfortably; more time allows a trip to Malin Head or Fanad Head."
+    },
+    {
+      "q": "Is Slieve League better than the Cliffs of Moher?",
+      "a": "Different rather than better — Slieve League is taller and far less crowded, though its viewpoints and facilities are more basic than the Cliffs of Moher's visitor centre."
+    },
+    {
+      "q": "Is Donegal worth the extra travel time?",
+      "a": "Yes, for visitors with time for a longer trip — its scenery rivals the southwest with a fraction of the visitors."
+    },
+    {
+      "q": "What is Donegal known for?",
+      "a": "Its dramatic, sparsely visited coastline, including Slieve League's cliffs and Malin Head, Ireland's most northerly point."
+    },
+    {
+      "q": "Do you need a car in Donegal?",
+      "a": "Yes, essential — the county's sights are spread across a large, sparsely populated area with limited public transport."
+    },
+    {
+      "q": "Is Glenveagh National Park worth visiting?",
+      "a": "Yes — it's one of Ireland's wildest national parks, with a romantic castle and real chances to spot golden eagles."
+    }
+  ],
+  "related": ["connemara", "aran-islands", "galway"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

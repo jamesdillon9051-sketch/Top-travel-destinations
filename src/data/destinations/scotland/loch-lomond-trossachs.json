@@ -1,0 +1,370 @@
+{
+  "slug": "loch-lomond-trossachs",
+  "name": "Loch Lomond & the Trossachs",
+  "country": "scotland",
+  "region": "Central Scotland",
+  "categories": ["nature", "hiking", "scenic-drive", "national-park"],
+  "tagline": "Scotland's first national park, an accessible first taste of the Highlands within easy reach of Glasgow.",
+  "highlight": "Watching morning mist lift slowly off Loch Lomond from the pier at Luss, the Highland hills just beginning to catch the first light.",
+  "shortDescription": "Scotland's first national park, home to Loch Lomond, Ben Lomond and the wooded hills of the Trossachs, an easy first taste of the Highlands from Glasgow.",
+  "metaDescription": "A Loch Lomond and the Trossachs travel guide: Ben Lomond, Luss, Loch Katrine, food and how to plan a visit to Scotland's first national park.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Glasgow Airport (GLA)",
+  "knownFor": "Loch Lomond, Ben Lomond, the Trossachs",
+  "budget": "£90–170 per day, mid-range",
+  "goodFor": "Hiking, scenic drives, an easy Highland taste",
+  "coords": { "lat": 56.0989, "lng": -4.5866 },
+  "image": {
+    "file": "File:Loch Lomond (25052553995).jpg",
+    "alt": "Loch Lomond and the surrounding Highland hills"
+  },
+  "intro": [
+    "Loch Lomond and the Trossachs is Scotland's first national park, and for good reason a favourite easy escape from Glasgow, offering a real first taste of Highland scenery within an hour's drive of the city.",
+    "Loch Lomond itself is Britain's largest lake by surface area, its southern shores gentle and accessible, its northern reaches narrowing into properly dramatic Highland terrain around Ben Lomond.",
+    "Most visitors combine a loch cruise or lakeside walk with time in the wooded Trossachs further east, where Loch Katrine's historic steamship and the area's inspired Sir Walter Scott's romantic writing about the Highlands."
+  ],
+  "whyVisit": {
+    "intro": "Loch Lomond and the Trossachs' case rests on offering real Highland scenery within easy reach of Glasgow.",
+    "points": [
+      {
+        "title": "It's Scotland's first national park",
+        "text": "Established in 2002, protecting some of the country's most accessible Highland scenery."
+      },
+      {
+        "title": "Loch Lomond is Britain's largest lake by area",
+        "text": "A real sense of scale, especially from the water on a loch cruise."
+      },
+      {
+        "title": "Ben Lomond is an achievable first Munro",
+        "text": "One of the most accessible of Scotland's mountains over 3,000 feet for a first serious hike."
+      },
+      {
+        "title": "The Trossachs inspired Sir Walter Scott",
+        "text": "His writing about the area helped popularise the wider romantic image of the Highlands."
+      },
+      {
+        "title": "It's an easy day trip or overnight from Glasgow",
+        "text": "Under an hour's drive, making it accessible even on a short trip."
+      }
+    ]
+  },
+  "attractionsIntro": "The park's essential sights combine Loch Lomond's accessible scale with the Trossachs' more intimate, wooded scenery.",
+  "attractions": [
+    {
+      "name": "Loch Lomond",
+      "image": {
+        "file": "File:Loch Lomond (25052553995).jpg",
+        "alt": "Loch Lomond, Britain's largest lake by surface area"
+      },
+      "text": "Britain's largest lake by surface area, its southern shores gentle and its northern reaches narrowing into dramatic Highland terrain.",
+      "tip": "The loch's character changes dramatically from south to north — see both if time allows."
+    },
+    {
+      "name": "Ben Lomond",
+      "image": {
+        "file": "File:Ben Lomond - geograph.org.uk - 5624481.jpg",
+        "alt": "Ben Lomond overlooking Loch Lomond"
+      },
+      "text": "One of Scotland's most accessible Munros, a mountain over 3,000 feet, with sweeping views over the loch from the summit.",
+      "tip": "The standard route takes four to six hours round trip and needs no technical climbing."
+    },
+    {
+      "name": "Luss village",
+      "image": {
+        "file": "File:Luss village.jpg",
+        "alt": "The village of Luss on the shore of Loch Lomond"
+      },
+      "text": "One of Scotland's prettiest lochside villages, its stone cottages and pier a popular, easy stop on the loch's western shore.",
+      "tip": "Arrive early or late to avoid the busiest midday tour bus crowds."
+    },
+    {
+      "name": "Loch Katrine",
+      "image": {
+        "file": "File:Trossachs loch dsc06739.jpg",
+        "alt": "Loch Katrine in the heart of the Trossachs"
+      },
+      "text": "The scenic heart of the Trossachs, a loch that helped inspire Sir Walter Scott's romantic writing about the Highlands.",
+      "tip": "The surrounding forest offers excellent, easy cycling and walking trails."
+    },
+    {
+      "name": "The SS Sir Walter Scott",
+      "image": {
+        "file": "File:SS Sir Walter Scott At Trossachs Pier - geograph.org.uk - 4431047.jpg",
+        "alt": "The SS Sir Walter Scott steamship on Loch Katrine"
+      },
+      "text": "A historic Victorian steamship, still carrying passengers across Loch Katrine over a century after entering service.",
+      "tip": "Book ahead in summer — it's one of the Trossachs' most popular attractions."
+    },
+    {
+      "name": "The Trossachs",
+      "image": {
+        "file": "File:Sunset in The Trossachs, Scotland.jpg",
+        "alt": "The wooded hills of the Trossachs at sunset"
+      },
+      "text": "A more intimate, wooded landscape than Loch Lomond itself, often called 'the Highlands in miniature.'",
+      "tip": "A rewarding scenic drive, best taken slowly with several stops."
+    },
+    {
+      "name": "Loch Lomond near Tarbet",
+      "image": {
+        "file": "File:Loch Lomond, near Tarbet.jpg",
+        "alt": "Loch Lomond near the village of Tarbet"
+      },
+      "text": "Where the loch begins to narrow and turn properly Highland in character, a striking contrast to its wider southern reaches.",
+      "tip": "A good stop for photos looking north toward the narrower, more dramatic upper loch."
+    }
+  ],
+  "thingsToDoIntro": "The park rewards combining time on the water with a proper walk or hike.",
+  "thingsToDo": [
+    {
+      "title": "Cruise Loch Lomond",
+      "image": {
+        "file": "File:Loch Lomond panosphere 20211022.jpg",
+        "alt": "A cruise boat on Loch Lomond"
+      },
+      "text": "A relaxed way to appreciate the loch's real scale, with regular sailings departing from Balloch and Luss.",
+      "tip": "A shorter cruise from Luss covers some of the loch's most scenic stretches."
+    },
+    {
+      "title": "Hike Ben Lomond",
+      "image": {
+        "file": "File:North ridge of Ben Lomond - geograph.org.uk - 3231298.jpg",
+        "alt": "Hiking the ridge of Ben Lomond"
+      },
+      "text": "An achievable first Munro for many visitors, rewarded with sweeping summit views over the loch.",
+      "tip": "Start early and check the weather — conditions change quickly at altitude even here."
+    },
+    {
+      "title": "Wander Luss village",
+      "image": {
+        "file": "File:Loch Lomond at Luss - geograph.org.uk - 4164849.jpg",
+        "alt": "The lochside village of Luss"
+      },
+      "text": "An easy, pretty stop, strolling stone cottages and a short pier out onto the loch itself.",
+      "tip": "Combine with a coffee stop at one of the village's small cafés."
+    },
+    {
+      "title": "Sail Loch Katrine on the SS Sir Walter Scott",
+      "image": {
+        "file": "File:SS Sir Walter Scott at Trossachs Pier - geograph.org.uk - 6857558.jpg",
+        "alt": "Boarding the SS Sir Walter Scott on Loch Katrine"
+      },
+      "text": "A memorable way to see the Trossachs, a slow cruise aboard a working Victorian steamship.",
+      "tip": "Book ahead in peak summer, when sailings can sell out."
+    },
+    {
+      "title": "Drive through the Trossachs",
+      "image": {
+        "file": "File:Winter in Trossachs, Scotland.jpg",
+        "alt": "A scenic drive through the Trossachs"
+      },
+      "text": "A rewarding, unhurried drive through wooded hills often described as 'the Highlands in miniature.'",
+      "tip": "Stop often — the scenery here rewards a slow pace more than covering distance."
+    },
+    {
+      "title": "Photograph Ellen's Isle on Loch Katrine",
+      "image": {
+        "file": "File:Ellen's Isle, Loch Katrine, Trossachs, Scotland-LCCN2002695066.jpg",
+        "alt": "Ellen's Isle on Loch Katrine"
+      },
+      "text": "A scenic small island, named for the heroine of Sir Walter Scott's poem set on the loch.",
+      "tip": "Best viewed from the SS Sir Walter Scott's regular cruise route."
+    }
+  ],
+  "foodIntro": "Food here leans on hearty Scottish classics well suited to a day of hiking or loch cruising.",
+  "foods": [
+    {
+      "name": "Haggis, neeps and tatties",
+      "image": {
+        "file": "File:Haggis, neeps and tatties.jpg",
+        "alt": "Haggis served with neeps and tatties, Scotland's national dish"
+      },
+      "text": "A warming classic, found on menus throughout Luss and Balloch.",
+      "whereToTry": "Restaurants and pubs throughout the park."
+    },
+    {
+      "name": "Scotch whisky",
+      "image": {
+        "file": "File:Glen Moray Single Malt Scotch Whisky.jpg",
+        "alt": "A bottle of single malt Scotch whisky"
+      },
+      "text": "Well earned after a day hiking Ben Lomond or exploring the Trossachs.",
+      "whereToTry": "Traditional pubs throughout Luss and Callander."
+    },
+    {
+      "name": "Cullen skink",
+      "image": {
+        "file": "File:Cullen Skink.JPG",
+        "alt": "Cullen skink, a traditional Scottish smoked haddock soup"
+      },
+      "text": "A warming choice after a day on the water or out on the trails.",
+      "whereToTry": "Restaurants and pubs throughout the park."
+    },
+    {
+      "name": "Venison",
+      "text": "A true Highland specialty, wild-sourced game found on menus across the region.",
+      "whereToTry": "Restaurants throughout Luss and Callander."
+    },
+    {
+      "name": "Scottish shortbread",
+      "image": {
+        "file": "File:Scottish Shortbread Biscuits.jpg",
+        "alt": "Traditional Scottish shortbread biscuits"
+      },
+      "text": "A simple, buttery treat, good trail fuel for a day on Ben Lomond.",
+      "whereToTry": "Cafés and shops throughout Luss and Balloch."
+    },
+    {
+      "name": "Scottish salmon",
+      "text": "Excellent, sourced from the lochs and rivers of the surrounding national park.",
+      "whereToTry": "Restaurants throughout the park."
+    }
+  ],
+  "accommodation": {
+    "intro": "Luss and Balloch serve as the park's main bases, both well set up for day trips from Glasgow.",
+    "areas": [
+      {
+        "name": "Luss",
+        "bestFor": "Being picturesque and central to the loch's western shore",
+        "text": "A small, pretty base with easy access to loch cruises and Ben Lomond."
+      },
+      {
+        "name": "Balloch",
+        "bestFor": "A practical gateway town with more amenities",
+        "text": "The park's southern entry point, well connected by train to Glasgow."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse or B&B", "value": "£40–80 per night" },
+      { "label": "Mid-range hotel", "value": "£90–170 per night" },
+      { "label": "Loch Lomond cruise", "value": "About £15–20" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About £20–35 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Loch Lomond and the Trossachs are one of Scotland's most accessible national parks from Glasgow.",
+    "options": [
+      {
+        "mode": "Intercity train to Balloch",
+        "text": "Direct from Glasgow, taking under an hour.",
+        "detail": "One of the easiest national park connections by public transport in Scotland."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Useful for reaching Luss, the Trossachs and Ben Lomond's trailheads.",
+        "detail": "About 45 minutes from Glasgow by road."
+      },
+      {
+        "mode": "Organised day tours",
+        "text": "A popular no-driving option from Glasgow or Edinburgh.",
+        "detail": "Widely available, often combined with Stirling or the wider Highlands."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car helps for covering both Loch Lomond and the Trossachs in one visit.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The most flexible way to combine Luss, Loch Katrine and Ben Lomond's trailhead.",
+        "detail": "Roads within the park are generally well maintained and scenic."
+      },
+      {
+        "mode": "On foot in Luss or Balloch",
+        "text": "Easy — both villages are small and walkable.",
+        "detail": "Wider park sights require a car or organised tour."
+      },
+      {
+        "mode": "Loch cruises",
+        "text": "A scenic way to move between points on Loch Lomond itself.",
+        "detail": "Regular sailings connect Balloch, Luss and other lochside stops."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for the best weather, though the park works well year-round",
+    "summary": "Loch Lomond and the Trossachs are visitable in any season, though hiking and cruising are easiest in the warmer months.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Mild weather and thinner crowds than midsummer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The warmest and busiest season, with the best conditions for Ben Lomond."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Beautiful, with the Trossachs' forest turning colour."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Short days and frequent rain, though atmospheric, with far fewer visitors."
+      }
+    ],
+    "avoid": "Attempting Ben Lomond in poor visibility or high wind — a real hazard even on this relatively accessible mountain."
+  },
+  "itinerary": {
+    "title": "Two days at Loch Lomond and the Trossachs",
+    "intro": "Built around Loch Lomond and Luss on day one, the Trossachs and Loch Katrine on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Loch Lomond",
+        "summary": "Luss village and a loch cruise, or Ben Lomond.",
+        "morning": "Explore Luss village.",
+        "afternoon": "A Loch Lomond cruise, or hike Ben Lomond for the more active option.",
+        "evening": "Dinner in Luss or Balloch."
+      },
+      {
+        "day": 2,
+        "title": "The Trossachs",
+        "summary": "Loch Katrine and the SS Sir Walter Scott.",
+        "morning": "Drive through the Trossachs to Loch Katrine.",
+        "afternoon": "Sail Loch Katrine aboard the SS Sir Walter Scott.",
+        "evening": "A final dinner before returning to Glasgow."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Loch Lomond and Trossachs visit noticeably smoother.",
+  "tips": [
+    "Book SS Sir Walter Scott sailings ahead in peak summer.",
+    "Start early for Ben Lomond — the trailhead car park fills fast on fine days.",
+    "Check weather conditions before any higher-altitude hike.",
+    "Pack a proper waterproof layer regardless of season.",
+    "Visit Luss early or late to avoid the busiest midday tour bus crowds.",
+    "Consider the train to Balloch if visiting without a car."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need at Loch Lomond and the Trossachs?",
+      "a": "One to two days covers Luss, a loch cruise and the Trossachs comfortably."
+    },
+    {
+      "q": "Can you visit as a day trip from Glasgow?",
+      "a": "Yes, easily — Balloch is under an hour away by train, making it one of Scotland's most accessible national parks."
+    },
+    {
+      "q": "Is Ben Lomond difficult to climb?",
+      "a": "Moderate — it's one of the more accessible Munros, taking four to six hours round trip without requiring technical climbing skill."
+    },
+    {
+      "q": "What is Loch Lomond known for?",
+      "a": "Being Britain's largest lake by surface area, and for inspiring the well-known folk song of the same name."
+    },
+    {
+      "q": "Is the SS Sir Walter Scott worth it?",
+      "a": "Yes — it's a historic working Victorian steamship, and a memorable, relaxed way to see Loch Katrine."
+    },
+    {
+      "q": "How far is Loch Lomond from Glasgow?",
+      "a": "Very close, under an hour's drive or train ride, making it an easy day trip or short overnight from the city."
+    }
+  ],
+  "related": ["glasgow", "stirling", "st-andrews"],
+  "relatedArticles": ["us-national-parks-road-trip", "underrated-destinations"]
+}

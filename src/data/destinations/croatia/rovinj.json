@@ -1,0 +1,358 @@
+{
+  "slug": "rovinj",
+  "name": "Rovinj",
+  "country": "croatia",
+  "region": "Istria",
+  "categories": ["coastal", "romantic", "food-and-wine", "off-the-beaten-path"],
+  "tagline": "Istria's most photographed town, pastel houses rising straight from the Adriatic beneath a bell tower visible from half the peninsula.",
+  "highlight": "Watching the old town's lights come on from a boat just offshore, St Euphemia's bell tower catching the last of the sunset.",
+  "shortDescription": "Istria's most photographed town, pastel houses rising straight from the Adriatic, with the region's celebrated truffle and wine country just inland.",
+  "metaDescription": "A Rovinj travel guide: St Euphemia's Church, the old town harbour, Istrian truffles and wine, food and how to plan a visit to Croatia's Istria coast.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Pula Airport (PUY), about 40 minutes by road",
+  "knownFor": "St Euphemia's Church, the old town harbour, Istrian truffles",
+  "budget": "€110–220 per day, mid-range",
+  "goodFor": "Romance, food and wine, photography",
+  "coords": { "lat": 45.0811, "lng": 13.6387 },
+  "image": {
+    "file": "File:Rovinj seen from the sea.jpg",
+    "alt": "Rovinj's old town rising from the Adriatic"
+  },
+  "intro": [
+    "Rovinj is Istria's most photographed town, its pastel old houses rising in tiers straight from the Adriatic on a former island now joined to the mainland.",
+    "The whole townscape is watched over by St Euphemia's Church, its Venetian-style bell tower visible from boats and hilltops across much of the peninsula.",
+    "It's also a natural base for exploring Istria's celebrated food and wine country, from white truffles to the region's own Malvazija wine, all within easy reach inland."
+  ],
+  "whyVisit": {
+    "intro": "Rovinj's case rests on a setting that ranks among the most beautiful on the entire Croatian coast.",
+    "points": [
+      {
+        "title": "The setting is postcard-perfect",
+        "text": "Pastel houses stacked in tiers straight above the Adriatic, unlike anywhere else in Croatia."
+      },
+      {
+        "title": "St Euphemia's Church is a defining landmark",
+        "text": "Its Venetian bell tower visible from across the surrounding coastline."
+      },
+      {
+        "title": "It's a quieter alternative to the Dalmatian coast",
+        "text": "A slower, more art-focused pace than Dubrovnik or Split."
+      },
+      {
+        "title": "It's a gateway to real Istrian food and wine",
+        "text": "White truffles, olive oil and Malvazija wine all sit just inland from the coast."
+      },
+      {
+        "title": "It works well paired with Pula",
+        "text": "Croatia's Roman amphitheatre town sits under an hour down the coast."
+      }
+    ]
+  },
+  "attractionsIntro": "Rovinj's essential sights are centred on its hilltop church and the tiered old town beneath it.",
+  "attractions": [
+    {
+      "name": "St Euphemia's Church",
+      "image": {
+        "file": "File:Croatia Rovinj St Euphemia church BW 2014-10-08 14-23-33.jpg",
+        "alt": "St Euphemia's Church above Rovinj's old town"
+      },
+      "text": "The town's defining landmark, a baroque church with a Venetian-style bell tower crowning the old town's hill.",
+      "tip": "Inside, look for the tomb of St Euphemia herself, the town's patron saint."
+    },
+    {
+      "name": "The view from St Euphemia's bell tower",
+      "image": {
+        "file": "File:Kroatien Rovinj Panorama vom Turm der Kirche St. Euphemia 01 Westen.jpg",
+        "alt": "The view from St Euphemia's bell tower over Rovinj"
+      },
+      "text": "The best view in town, a sweeping panorama over the old town's rooftops and the Adriatic beyond.",
+      "tip": "Worth the climb up narrow stairs for a view found nowhere else in Rovinj."
+    },
+    {
+      "name": "St Euphemia's interior",
+      "image": {
+        "file": "File:Rovinj church St Euphemia altar.jpg",
+        "alt": "The interior of St Euphemia's Church in Rovinj"
+      },
+      "text": "Worth a proper look inside, a richly decorated baroque interior beneath the landmark tower.",
+      "tip": "Check for opening hours — the interior doesn't keep the same schedule as the tower climb."
+    },
+    {
+      "name": "The old town seen from the water",
+      "image": {
+        "file": "File:Rovinj seen from the sea.jpg",
+        "alt": "Rovinj's old town seen from the water"
+      },
+      "text": "The classic Rovinj view, tiered pastel houses rising straight from the Adriatic.",
+      "tip": "A short boat trip or even a walk along the harbour both offer this iconic angle."
+    },
+    {
+      "name": "Rovinj's harbour",
+      "image": {
+        "file": "File:2007-08-29 Rovinj harbour Panorama (1377594007).jpg",
+        "alt": "Rovinj's harbour"
+      },
+      "text": "The town's working waterfront, fishing boats and yachts sharing space beneath the old town walls.",
+      "tip": "A lovely spot for an evening walk once the day's heat has eased."
+    },
+    {
+      "name": "Rovinj at sunrise",
+      "image": {
+        "file": "File:Rovinj Sunrise.jpg",
+        "alt": "Sunrise over Rovinj's old town"
+      },
+      "text": "A magical time to see the town, soft morning light catching the tiered rooftops before the day's crowds arrive.",
+      "tip": "Worth the early start for photographers especially."
+    },
+    {
+      "name": "The old town's streets",
+      "image": {
+        "file": "File:Rovinj, Croatia.jpg",
+        "alt": "Streets in Rovinj's old town"
+      },
+      "text": "Worth simply wandering, narrow lanes climbing steeply between pastel houses toward the church above.",
+      "tip": "Head uphill without a fixed route — every lane eventually leads toward St Euphemia's."
+    }
+  ],
+  "thingsToDoIntro": "Rovinj rewards a slow pace, split between the old town's lanes and Istria's food and wine country inland.",
+  "thingsToDo": [
+    {
+      "title": "Climb St Euphemia's bell tower",
+      "image": {
+        "file": "File:Kroatien Rovinj Panorama vom Turm der Kirche St. Euphemia 03 Osten.jpg",
+        "alt": "The view from St Euphemia's bell tower"
+      },
+      "text": "An essential Rovinj experience, climbing for the town's best panoramic view.",
+      "tip": "Check the tower's opening hours ahead — they can vary by season."
+    },
+    {
+      "title": "Wander Grisia Street's artist stalls",
+      "text": "A charming climb, a steep cobbled street lined with small galleries and artists' studios leading up to the church.",
+      "tip": "Visit in August for the street's long-running annual open-air art exhibition."
+    },
+    {
+      "title": "Walk or cycle Zlatni Rt forest park",
+      "text": "A peaceful escape from the old town, pine-shaded paths along the coast just south of the centre.",
+      "tip": "Rent a bicycle for a longer loop, or simply walk the closer sections."
+    },
+    {
+      "title": "Photograph the old town from the water",
+      "image": {
+        "file": "File:Rovinj 07.JPG",
+        "alt": "Rovinj's old town photographed from the water"
+      },
+      "text": "A rewarding pursuit, the town's tiered silhouette photographing beautifully from nearly any angle on the water.",
+      "tip": "A short kayak or paddleboard rental gets you the classic view without an organised tour."
+    },
+    {
+      "title": "Watch sunrise over the harbour",
+      "image": {
+        "file": "File:Rovinj Sunrise.jpg",
+        "alt": "Sunrise over Rovinj's harbour"
+      },
+      "text": "A lovely, quiet ritual, watching the light change over the water before the town wakes up.",
+      "tip": "Bring a coffee and find a bench along the harbour for the full effect."
+    },
+    {
+      "title": "Swim at a rocky cove near town",
+      "text": "An easy way to cool off, small swimming spots dotted along the coast just outside the old town.",
+      "tip": "Pack water shoes — most of Rovinj's swimming spots are rocky rather than sandy."
+    }
+  ],
+  "foodIntro": "Rovinj's food reflects Istria's distinct culinary identity, built around truffles, olive oil and its own wine.",
+  "foods": [
+    {
+      "name": "Istrian white truffle",
+      "image": {
+        "file": "File:Tuber magnatum.jpg",
+        "alt": "A white truffle, prized in Istrian cuisine"
+      },
+      "text": "One of Istria's most celebrated products, shaved fresh over pasta or eggs at restaurants across the region.",
+      "whereToTry": "Restaurants throughout Rovinj and the wider Istrian interior."
+    },
+    {
+      "name": "Istrian pršut (prosciutto)",
+      "text": "Distinct from its Dalmatian cousin, cured with a different process and noticeably milder flavour.",
+      "whereToTry": "Restaurants and delis throughout Rovinj."
+    },
+    {
+      "name": "Fuži with game or truffles",
+      "text": "A beloved Istrian pasta shape, traditionally paired with rich game sauces or shaved truffle.",
+      "whereToTry": "Traditional konobas throughout Rovinj's old town."
+    },
+    {
+      "name": "Malvazija (Istrian white wine)",
+      "image": {
+        "file": "File:Malvazija istarska.jpg",
+        "alt": "Malvazija, Istria's signature white wine"
+      },
+      "text": "The region's signature grape, a crisp, aromatic white produced throughout the Istrian countryside.",
+      "whereToTry": "Wine bars throughout Rovinj, or wineries a short drive inland."
+    },
+    {
+      "name": "Fresh grilled seafood",
+      "image": {
+        "file": "File:Tuna na žaru - Konoba Kolona (14982130756).jpg",
+        "alt": "Grilled seafood at a traditional Croatian konoba"
+      },
+      "text": "A highlight of dining here, fish and shellfish grilled simply at harbourfront restaurants.",
+      "whereToTry": "Konobas throughout Rovinj's harbour and old town."
+    },
+    {
+      "name": "Fritule (small fried doughnuts)",
+      "image": {
+        "file": "File:Fritule iz Rijeke.jpg",
+        "alt": "Fritule, small Croatian fried doughnuts"
+      },
+      "text": "A nice sweet treat, found at bakeries and cafés throughout the old town.",
+      "whereToTry": "Bakeries throughout Rovinj."
+    }
+  ],
+  "accommodation": {
+    "intro": "Rovinj offers everything from budget guesthouses to boutique hotels, with location inside the old town commanding a real premium.",
+    "areas": [
+      {
+        "name": "The old town",
+        "bestFor": "Being immersed in Rovinj's postcard setting",
+        "text": "The most atmospheric, and priciest, base right among the tiered pastel houses."
+      },
+      {
+        "name": "Just outside the old town",
+        "bestFor": "A better-value stay a short walk from the centre",
+        "text": "Easy walking distance to the old town, with more modern accommodation options."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "€65–120 per night" },
+      { "label": "Mid-range hotel", "value": "€150–280 per night" },
+      { "label": "St Euphemia's bell tower climb", "value": "About €3–5" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About €30–55 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Rovinj is reached via Pula's airport or by road from the rest of Istria and beyond.",
+    "options": [
+      {
+        "mode": "Flight into Pula, then transfer",
+        "text": "The fastest route from further afield.",
+        "detail": "Pula Airport sits about 40 minutes by road from Rovinj."
+      },
+      {
+        "mode": "Bus from Zagreb or the Italian border",
+        "text": "A straightforward overland option.",
+        "detail": "Takes around three to four hours from Zagreb; closer from Trieste, Italy."
+      },
+      {
+        "mode": "Car or private driver",
+        "text": "The most flexible option for exploring Istria's interior.",
+        "detail": "Well-maintained roads connect Rovinj to Pula, Poreč and inland hill towns."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Rovinj's car-free old town is entirely walkable, with the rest of Istria best explored by car.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The only way to explore the old town's steep, narrow lanes.",
+        "detail": "Cars are largely restricted from the historic centre."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "A pleasant way to reach Zlatni Rt forest park and nearby coves.",
+        "detail": "Widely available for rent throughout town."
+      },
+      {
+        "mode": "Car for Istria's interior",
+        "text": "Essential for reaching truffle country and hill towns beyond Rovinj.",
+        "detail": "A car opens up the wider region far more than staying coastal alone."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for warm weather without peak crowds",
+    "summary": "Rovinj is busiest in July and August, with shoulder months offering better value and a calmer pace.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Warm enough to swim, with noticeably thinner crowds than peak summer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Warm and lively, though the old town gets busy."
+      },
+      {
+        "season": "Early autumn (September–October)",
+        "rating": "best",
+        "text": "Still pleasant for the sea, and the start of white truffle season inland."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "okay",
+        "text": "Quiet, with many businesses reducing hours, though the setting stays beautiful."
+      }
+    ],
+    "avoid": "Nothing strongly, though peak July and August bring the heaviest old town crowds."
+  },
+  "itinerary": {
+    "title": "Two days in Rovinj",
+    "intro": "Built around the old town and church, with a slower second day exploring the coast and Istrian food.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town and St Euphemia's",
+        "summary": "The essential Rovinj sights.",
+        "morning": "Wander the old town's lanes up to St Euphemia's Church.",
+        "afternoon": "Climb the bell tower and explore Grisia Street's galleries.",
+        "evening": "Dinner at a harbourfront konoba."
+      },
+      {
+        "day": 2,
+        "title": "Zlatni Rt and Istrian food",
+        "summary": "A slower day of nature and local cuisine.",
+        "morning": "Walk or cycle through Zlatni Rt forest park.",
+        "afternoon": "Swim at a rocky cove along the coast.",
+        "evening": "A truffle-focused dinner paired with Malvazija wine."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Rovinj visit noticeably smoother.",
+  "tips": [
+    "Book accommodation well ahead for a July or August visit.",
+    "Wear comfortable, grippy shoes — the old town's lanes are steep and cobbled.",
+    "Visit Grisia Street's galleries during the annual August art exhibition if your dates align.",
+    "Pack water shoes for the area's mostly rocky swimming spots.",
+    "Rent a car for a day to explore Istria's inland truffle and wine country.",
+    "Climb St Euphemia's bell tower early in the day for the clearest views."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Rovinj?",
+      "a": "Two to three days covers the old town, and allows time to explore Istria's food and wine country inland."
+    },
+    {
+      "q": "How do you get to Rovinj?",
+      "a": "Easiest by flying into Pula and transferring by road, about 40 minutes away."
+    },
+    {
+      "q": "Is Rovinj worth visiting compared to Dalmatia?",
+      "a": "Yes — it offers a quieter, more art-focused version of the classic Croatian coastal town, with excellent food and wine nearby."
+    },
+    {
+      "q": "Do you need a car in Rovinj?",
+      "a": "Not for the old town itself, though a car helps significantly for exploring Istria's interior."
+    },
+    {
+      "q": "When is truffle season in Istria?",
+      "a": "White truffles peak from September to December, though black truffles are found for much of the rest of the year."
+    },
+    {
+      "q": "Can you combine Rovinj with Pula?",
+      "a": "Yes, easily — Pula sits under an hour down the coast, an easy day trip or onward stop."
+    }
+  ],
+  "related": ["pula", "zadar", "split"],
+  "relatedArticles": ["food-primer", "mediterranean-coasts"]
+}

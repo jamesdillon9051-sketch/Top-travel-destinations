@@ -1,0 +1,374 @@
+{
+  "slug": "banff-lake-louise",
+  "name": "Banff & Lake Louise",
+  "country": "canada",
+  "region": "Alberta",
+  "categories": ["nature", "national-park", "mountains", "scenic"],
+  "tagline": "The postcard image of the Canadian Rockies, turquoise glacial lakes and jagged peaks anchored by a charming mountain town.",
+  "highlight": "Standing at Lake Louise's shoreline at sunrise, the water so still it perfectly mirrors the glacier and peaks behind it.",
+  "shortDescription": "The postcard image of the Canadian Rockies, home to Lake Louise, Moraine Lake and a charming mountain town in Canada's first national park.",
+  "metaDescription": "A Banff and Lake Louise travel guide: Lake Louise, Moraine Lake, the Banff Gondola, Johnston Canyon, food and how to plan a Rockies trip.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "Calgary International Airport (YYC), about 1.5 hours by road",
+  "knownFor": "Lake Louise, Moraine Lake, the Banff Gondola",
+  "budget": "C$250–500 per day, mid-range (higher for peak summer lodging)",
+  "goodFor": "Hiking, photography, mountain scenery",
+  "coords": { "lat": 51.1784, "lng": -115.5708 },
+  "image": {
+    "file": "File:Banff National Park (AB, Canada), Lake Louise -- 2022 -- 2200.jpg",
+    "alt": "Lake Louise's turquoise water in Banff National Park"
+  },
+  "intro": [
+    "Banff and Lake Louise are the postcard image of the Canadian Rockies, a cluster of turquoise glacial lakes and jagged peaks inside Canada's oldest and most visited national park.",
+    "Banff itself is a real, charming mountain town, its main street backed by the grand Fairmont Banff Springs Hotel and framed by peaks on every side.",
+    "A short drive away, Lake Louise and Moraine Lake rank among the most photographed lakes on Earth, their colour coming from glacial rock flour suspended in the water."
+  ],
+  "whyVisit": {
+    "intro": "Banff and Lake Louise's case rests on scenery that looks retouched even when it isn't.",
+    "points": [
+      {
+        "title": "Lake Louise and Moraine Lake are as striking as the photos suggest",
+        "text": "Glacial rock flour gives both an almost unbelievable turquoise colour."
+      },
+      {
+        "title": "Banff is a real, walkable mountain town",
+        "text": "Not just a gateway — a destination with its own charm, shops and restaurants."
+      },
+      {
+        "title": "The hiking here is world class",
+        "text": "Trails for every fitness level, from lakeside strolls to serious alpine routes."
+      },
+      {
+        "title": "Wildlife sightings are a real possibility",
+        "text": "Elk, bighorn sheep and occasionally bears are seen right around town."
+      },
+      {
+        "title": "It works well as the anchor of a Western Canada trip",
+        "text": "An easy pairing with Jasper via the Icefields Parkway, or Vancouver and Whistler further west."
+      }
+    ]
+  },
+  "attractionsIntro": "Banff and Lake Louise's essential sights are spread between the townsite and a handful of iconic nearby lakes.",
+  "attractions": [
+    {
+      "name": "Lake Louise",
+      "image": {
+        "file": "File:Banff National Park (AB, Canada), Lake Louise -- 2022 -- 2200.jpg",
+        "alt": "Lake Louise's turquoise water"
+      },
+      "text": "One of the most photographed lakes on Earth, its glacier-fed turquoise water backed by the Victoria Glacier.",
+      "tip": "Arrive before 7am in summer — parking fills and the shoreline gets crowded fast."
+    },
+    {
+      "name": "Moraine Lake",
+      "image": {
+        "file": "File:MoraineLakeAugust2025.jpg",
+        "alt": "Moraine Lake in the Valley of the Ten Peaks"
+      },
+      "text": "Even more dramatic than Lake Louise for many visitors, set beneath the jagged Valley of the Ten Peaks.",
+      "tip": "Check current access rules — private cars are often restricted, with a shuttle or early arrival required."
+    },
+    {
+      "name": "The Banff Gondola",
+      "image": {
+        "file": "File:Banff-National-Park AB Banff-Gondola 2022-09-25 (6).jpg",
+        "alt": "The Banff Gondola climbing Sulphur Mountain"
+      },
+      "text": "The easiest way up a Rockies summit, climbing Sulphur Mountain for a panoramic view over the whole valley.",
+      "tip": "Book a sunset time slot for the best light over the surrounding peaks."
+    },
+    {
+      "name": "Fairmont Banff Springs Hotel",
+      "image": {
+        "file": "File:Fairmont Banff Springs Hotel, west view 20240820 1.jpg",
+        "alt": "The Fairmont Banff Springs Hotel"
+      },
+      "text": "Known as 'the castle in the Rockies', a grand 1888 railway hotel that anchors the town's skyline.",
+      "tip": "Worth a visit even without staying — the lobby and grounds are open to explore."
+    },
+    {
+      "name": "Johnston Canyon",
+      "image": {
+        "file": "File:Johnston Canyon, Banff National Park, Alberta, 2025-07-12 02.jpg",
+        "alt": "Johnston Canyon in Banff National Park"
+      },
+      "text": "One of the park's most popular short hikes, a catwalk trail leading past waterfalls through a narrow limestone canyon.",
+      "tip": "Start early — this is one of the busiest trails in the entire park."
+    },
+    {
+      "name": "Peyto Lake",
+      "image": {
+        "file": "File:Peyto Lake-Banff NP-Canada.jpg",
+        "alt": "Peyto Lake from its viewpoint"
+      },
+      "text": "A striking wolf-head-shaped lake seen from an elevated viewpoint just off the Icefields Parkway.",
+      "tip": "A short, easy walk from the parking area to the main viewpoint."
+    },
+    {
+      "name": "Bow Falls",
+      "image": {
+        "file": "File:Bow Falls, Banff, south view 20240820 1.jpg",
+        "alt": "Bow Falls near Banff town"
+      },
+      "text": "An easy, rewarding stop right at the edge of town, a wide, powerful waterfall on the Bow River.",
+      "tip": "An easy walk or short drive from downtown Banff, needing no real planning."
+    }
+  ],
+  "thingsToDoIntro": "Banff and Lake Louise reward both easy sightseeing and more serious hiking, depending on your pace.",
+  "thingsToDo": [
+    {
+      "title": "Canoe on Lake Louise",
+      "image": {
+        "file": "File:Banff National Park (AB, Canada), Lake Louise -- 2022 -- 2206.jpg",
+        "alt": "Canoeing on Lake Louise"
+      },
+      "text": "A classic Rockies experience, paddling the lake's famously still, turquoise water beneath the glacier.",
+      "tip": "Book a canoe rental slot ahead in peak summer — they do sell out."
+    },
+    {
+      "title": "Photograph Moraine Lake at sunrise",
+      "image": {
+        "file": "File:MoraineLakeAugust2025.jpg",
+        "alt": "Sunrise at Moraine Lake"
+      },
+      "text": "An essential early start, the Valley of the Ten Peaks catching first light before the day's crowds arrive.",
+      "tip": "Check shuttle or access schedules the night before — timing here matters."
+    },
+    {
+      "title": "Ride the Banff Gondola",
+      "image": {
+        "file": "File:Banff-National-Park AB Banff-Gondola 2022-09-25 (9).jpg",
+        "alt": "Riding the Banff Gondola up Sulphur Mountain"
+      },
+      "text": "An easy way to reach alpine terrain, with boardwalk trails at the summit extending the view further.",
+      "tip": "Bring a warm layer — temperatures at the top run noticeably cooler than the valley."
+    },
+    {
+      "title": "Walk Johnston Canyon's catwalks to the falls",
+      "image": {
+        "file": "File:Lower Falls, Johnston Canyon, Banff National Park, Alberta, 2025-07-12.jpg",
+        "alt": "The Lower Falls at Johnston Canyon"
+      },
+      "text": "A rewarding, family-friendly hike, catwalks clinging to the canyon wall past two waterfalls.",
+      "tip": "Continue to the Ink Pots beyond the Upper Falls for a quieter, less crowded extension."
+    },
+    {
+      "title": "Stop at Peyto Lake's viewpoint",
+      "image": {
+        "file": "File:Peyto Lake , Banff National Park.jpg",
+        "alt": "The viewpoint over Peyto Lake"
+      },
+      "text": "A worthwhile stop on the way to Jasper, one of the Icefields Parkway's most photographed views.",
+      "tip": "Visit mid-morning for the best light on the lake's colour."
+    },
+    {
+      "title": "Stroll Banff Avenue",
+      "image": {
+        "file": "File:Banff Avenue, Banff (7853823354).jpg",
+        "alt": "Banff Avenue, the town's main street"
+      },
+      "text": "A relaxed way to spend an evening, browsing shops and restaurants with mountain views at the street's end.",
+      "tip": "Look down the avenue toward Cascade Mountain for one of the town's best framed views."
+    }
+  ],
+  "foodIntro": "Food here means hearty mountain-town fare, from Alberta beef to fresh Rockies-caught fish.",
+  "foods": [
+    {
+      "name": "Poutine",
+      "image": {
+        "file": "File:Poutine déjeuner.jpg",
+        "alt": "Poutine, Canada's fries, cheese curds and gravy dish"
+      },
+      "text": "A reliable, warming classic after a day on the trails.",
+      "whereToTry": "Restaurants and pubs throughout Banff town."
+    },
+    {
+      "name": "Alberta beef",
+      "text": "A real point of regional pride, Alberta's cattle country producing some of Canada's best steak.",
+      "whereToTry": "Steakhouses throughout Banff town."
+    },
+    {
+      "name": "Bison burger",
+      "text": "A distinctive Rockies menu staple, leaner and richer-tasting than standard beef.",
+      "whereToTry": "Restaurants and pubs throughout Banff town."
+    },
+    {
+      "name": "Grilled salmon",
+      "image": {
+        "file": "File:Grilled plated salmon fillet.jpg",
+        "alt": "Grilled salmon"
+      },
+      "text": "A reliable menu option, though note this is mountain trout and Pacific salmon country rather than a local catch.",
+      "whereToTry": "Restaurants throughout Banff town."
+    },
+    {
+      "name": "Canadian craft beer",
+      "text": "Worth trying, with several Alberta breweries pouring on tap throughout town.",
+      "whereToTry": "Pubs and breweries throughout Banff town."
+    },
+    {
+      "name": "Nanaimo bars",
+      "image": {
+        "file": "File:Nanaimo bar.JPG",
+        "alt": "A Nanaimo bar, a layered Canadian dessert"
+      },
+      "text": "A nice sweet treat after a day of hiking, found at cafés throughout town.",
+      "whereToTry": "Cafés and bakeries throughout Banff town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Banff offers everything from hostels to grand historic hotels, with Lake Louise's own lodging commanding a real premium.",
+    "areas": [
+      {
+        "name": "Banff town",
+        "bestFor": "Being central, walkable and full of restaurants",
+        "text": "The most practical base, with easy access to the gondola and nearby trailheads."
+      },
+      {
+        "name": "Lake Louise",
+        "bestFor": "An early start at the lake itself, before day-trippers arrive",
+        "text": "Limited, pricier lodging right by the lake, about 45 minutes from Banff town."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "C$60–100 per night" },
+      { "label": "Mid-range hotel in Banff town", "value": "C$280–500 per night" },
+      { "label": "Banff Gondola ticket", "value": "About C$65–75" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About C$35–60 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Banff is reached by road from Calgary, the closest major airport.",
+    "options": [
+      {
+        "mode": "Fly into Calgary, then drive or shuttle",
+        "text": "The standard route, taking about 1.5 hours by road from the airport.",
+        "detail": "Shared shuttles and rental cars are both widely available at Calgary International Airport."
+      },
+      {
+        "mode": "Drive from Vancouver",
+        "text": "A scenic but long option, taking around nine to ten hours.",
+        "detail": "Best broken up over two days, or treated as part of a wider Western Canada road trip."
+      },
+      {
+        "mode": "Organised tour or bus from Calgary",
+        "text": "Convenient if you'd rather not drive.",
+        "detail": "Several operators run direct services between Calgary and Banff."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Banff town is walkable, though a car is the most practical way to reach the area's famous lakes.",
+    "options": [
+      {
+        "mode": "On foot in Banff town",
+        "text": "Easy for the town centre itself.",
+        "detail": "Banff Avenue and the surrounding blocks are all comfortably walkable."
+      },
+      {
+        "mode": "Car or shuttle to Lake Louise and Moraine Lake",
+        "text": "Necessary for reaching the area's most famous lakes.",
+        "detail": "Check current parking and access rules — both lakes restrict private vehicles at peak times."
+      },
+      {
+        "mode": "Roam public transit",
+        "text": "Useful for some routes within and around Banff town.",
+        "detail": "A local bus network connects the town to a handful of nearby trailheads."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June to September for open trails and full access to the lakes",
+    "summary": "Banff and Lake Louise are a year-round destination, though most visitors come for the ice-free summer months.",
+    "seasons": [
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "The most reliable season, with every trail and viewpoint accessible, also the busiest and priciest."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "best",
+        "text": "Excellent, with golden larch trees and noticeably thinner crowds than summer."
+      },
+      {
+        "season": "Winter (December–March)",
+        "rating": "good",
+        "text": "Beautiful and quiet, with skiing at nearby resorts, though the lakes freeze over."
+      },
+      {
+        "season": "Spring (April–May)",
+        "rating": "okay",
+        "text": "A shoulder season, with snow lingering at higher elevations and some trails still closed."
+      }
+    ],
+    "avoid": "Nothing strongly, though July and August bring the heaviest crowds to Lake Louise and Moraine Lake."
+  },
+  "itinerary": {
+    "title": "Three days in Banff and Lake Louise",
+    "intro": "Built around Banff town, Lake Louise and Moraine Lake, and the Icefields Parkway's southern stretch.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Banff town",
+        "summary": "The town's essential sights.",
+        "morning": "The Banff Gondola up Sulphur Mountain.",
+        "afternoon": "Bow Falls and the Fairmont Banff Springs Hotel.",
+        "evening": "Dinner on Banff Avenue."
+      },
+      {
+        "day": 2,
+        "title": "Lake Louise and Moraine Lake",
+        "summary": "The area's two most famous lakes.",
+        "morning": "Arrive early at Lake Louise for canoeing or a lakeside walk.",
+        "afternoon": "Continue to Moraine Lake, checking access rules ahead.",
+        "evening": "Return to Banff for a final night."
+      },
+      {
+        "day": 3,
+        "title": "Johnston Canyon and Peyto Lake",
+        "summary": "A day exploring further afield.",
+        "morning": "Hike Johnston Canyon's catwalks to the falls.",
+        "afternoon": "Drive north to the Peyto Lake viewpoint.",
+        "evening": "A final dinner in Banff town."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Banff and Lake Louise visit noticeably smoother.",
+  "tips": [
+    "Arrive before 7am at Lake Louise and Moraine Lake in peak summer to avoid parking closures.",
+    "Book a Banff Gondola time slot ahead, ideally for sunset.",
+    "Carry bear spray for any hike beyond the busiest, most crowded trails.",
+    "Pack layers — mountain weather shifts quickly, even in summer.",
+    "Check current shuttle and access rules for Moraine Lake before setting out.",
+    "Book accommodation months ahead for a July or August visit."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Banff and Lake Louise?",
+      "a": "Three to four days covers Banff town and the area's most famous lakes at a comfortable pace."
+    },
+    {
+      "q": "How do you get to Banff?",
+      "a": "Easiest by flying into Calgary and driving or taking a shuttle, about 1.5 hours by road."
+    },
+    {
+      "q": "Do you need a car for Lake Louise and Moraine Lake?",
+      "a": "A useful option, though check current access rules — both often restrict private vehicles and require a shuttle at peak times."
+    },
+    {
+      "q": "Is Banff crowded?",
+      "a": "Very busy in July and August, especially at Lake Louise and Moraine Lake — arriving early is the best way to beat it."
+    },
+    {
+      "q": "Can you see wildlife in Banff?",
+      "a": "Yes — elk and bighorn sheep are commonly seen, with bears occasionally spotted from a safe, respectful distance."
+    },
+    {
+      "q": "Can you combine Banff with Jasper?",
+      "a": "Yes, easily — the Icefields Parkway connects the two in one of the most scenic drives in the world."
+    }
+  ],
+  "related": ["jasper-national-park", "vancouver", "whistler"],
+  "relatedArticles": ["us-national-parks-road-trip", "packing-by-season"]
+}

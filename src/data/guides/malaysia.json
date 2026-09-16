@@ -1,0 +1,125 @@
+{
+  "country": "malaysia",
+  "title": "The Complete Malaysia Travel Guide",
+  "subtitle": "Twin towers, tea-covered highlands and island coastline, split across a peninsula and a corner of Borneo",
+  "summary": "How to plan a Malaysia trip: which region to choose, when to go around two separate monsoon seasons, what it costs, and a practical ten-day Peninsular Malaysia itinerary.",
+  "readingTime": "12 min read",
+  "updated": "2026",
+  "sections": [
+    {
+      "id": "how-malaysia-divides",
+      "title": "How Malaysia divides",
+      "navLabel": "The regions",
+      "body": [
+        "Malaysia splits into two physically separate halves across the South China Sea — a first trip realistically covers one.",
+        "**Peninsular Malaysia's west coast.** [[kuala-lumpur|Kuala Lumpur]], [[penang|Penang]], [[malacca|Malacca]], [[langkawi|Langkawi]], [[cameron-highlands|the Cameron Highlands]] and [[ipoh|Ipoh]] — cities, hill stations and heritage towns connected by good roads and rail.",
+        "**Peninsular Malaysia's east coast.** [[perhentian-islands|the Perhentian Islands]] and [[taman-negara|Taman Negara]] — beaches, diving and ancient rainforest, on a very different monsoon calendar from the west coast.",
+        "**East Malaysia (Borneo).** [[kota-kinabalu|Kota Kinabalu]] and [[kuching|Kuching]] — Sabah and Sarawak, reached only by air, with Mount Kinabalu, orangutans and longhouse culture."
+      ],
+      "note": "Most first-time visitors pick the Peninsula's west coast — it works as a complete trip on its own and doesn't require a single domestic flight beyond arrival."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If this is your first trip",
+          "text": "[[kuala-lumpur|Kuala Lumpur]], [[penang|Penang]] and [[malacca|Malacca]], the classic Peninsular introduction."
+        },
+        {
+          "title": "If you want cooler weather and green scenery",
+          "text": "[[cameron-highlands|The Cameron Highlands]], a genuine change of pace from the tropical lowlands."
+        },
+        {
+          "title": "If you want beach resorts with easy access",
+          "text": "[[langkawi|Langkawi]], reachable by a short flight or ferry with no monsoon complications on the west coast."
+        },
+        {
+          "title": "If you want serious diving and a backpacker pace",
+          "text": "[[perhentian-islands|The Perhentian Islands]], best fit into a March–October trip."
+        },
+        {
+          "title": "If you want rainforest and wildlife over beaches",
+          "text": "[[taman-negara|Taman Negara]], among the world's oldest rainforests."
+        },
+        {
+          "title": "If you want a dedicated Borneo trip",
+          "text": "[[kota-kinabalu|Kota Kinabalu]] and [[kuching|Kuching]], best planned as their own separate itinerary."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around: flights, trains and one common mistake",
+      "navLabel": "Getting around",
+      "body": [
+        "The Peninsula's west coast is easy to cover by train and coach; Borneo and the east coast islands need their own flights.",
+        "**Don't try to combine the Peninsula and Borneo in one short trip.** [[kota-kinabalu|Kota Kinabalu]] and [[kuching|Kuching]] both need a dedicated domestic flight and add several days on their own.",
+        "**Use the KTM ETS train for the west coast corridor.** [[kuala-lumpur|Kuala Lumpur]], [[ipoh|Ipoh]] and [[penang|Penang]] are connected by frequent, comfortable high-speed rail.",
+        "**Check the east coast monsoon before booking.** [[perhentian-islands|The Perhentian Islands]] largely close from November to February — this catches first-time planners out more than anything else.",
+        "**Rent a car for the highlands.** [[cameron-highlands|The Cameron Highlands]] are far easier to explore at your own pace with your own vehicle."
+      ],
+      "note": "Book Sabah or Sarawak flights well ahead if adding Borneo — seats on the popular Kuala Lumpur routes fill up in peak holiday periods."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Malaysia is hot and humid year-round, so 'the best time' really means picking a coast rather than a season.",
+        "**December to February** is the driest stretch for the west coast — Kuala Lumpur, Penang, Malacca, Langkawi and the highlands.",
+        "**March to October** is the main season for the east coast — the Perhentian Islands and Taman Negara's river access.",
+        "**November to February** brings the northeast monsoon to the east coast, closing most island resorts and complicating river trips inland."
+      ],
+      "note": "If a trip has to pick just one season, December to February works well for everywhere except the east coast islands and rainforest interior."
+    },
+    {
+      "id": "itineraries",
+      "title": "Four routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "Five days: Kuala Lumpur and Malacca",
+          "text": "A focused city-and-heritage-town introduction, flying into Kuala Lumpur.",
+          "tip": "Malacca works well as a two-night side trip rather than a rushed day return."
+        },
+        {
+          "title": "Ten days: the classic Peninsular loop",
+          "text": "The itinerary on the [[c:malaysia|Malaysia country page]]: [[kuala-lumpur|Kuala Lumpur]], [[malacca|Malacca]], [[cameron-highlands|the Cameron Highlands]], [[ipoh|Ipoh]], [[penang|Penang]] and [[langkawi|Langkawi]]. A complete first look at the west coast.",
+          "tip": "Book Langkawi's cable car for early morning — cloud cover often rolls in by early afternoon."
+        },
+        {
+          "title": "A week focused on the east coast",
+          "text": "[[perhentian-islands|The Perhentian Islands]] and [[taman-negara|Taman Negara]], best combined between March and October.",
+          "tip": "Fly into Kota Bharu or Kuala Terengganu rather than routing everything through Kuala Lumpur."
+        },
+        {
+          "title": "A dedicated Borneo add-on for a second trip",
+          "text": "[[kota-kinabalu|Kota Kinabalu]] and [[kuching|Kuching]], the parts of Malaysia most first-time visitors never see.",
+          "tip": "Book Mount Kinabalu climb permits months ahead — daily numbers are capped and popular dates sell out."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Malaysia?",
+      "a": "Ten to fourteen days covers Peninsular Malaysia's west coast properly, such as the itinerary in this guide. Borneo is best treated as a separate trip."
+    },
+    {
+      "q": "Should I combine Peninsular Malaysia and Borneo in one trip?",
+      "a": "It's possible with three weeks or more, but most visitors get better value focusing on one region and returning for the other."
+    },
+    {
+      "q": "Do you need a car in Malaysia?",
+      "a": "Not for the main west coast cities, which are well connected by train and coach, but a car helps for exploring the Cameron Highlands."
+    },
+    {
+      "q": "When should I avoid the Perhentian Islands?",
+      "a": "November through February, when the northeast monsoon brings rough seas and most island resorts close for the season."
+    }
+  ]
+}

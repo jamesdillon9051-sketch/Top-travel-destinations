@@ -1,0 +1,128 @@
+{
+  "country": "scotland",
+  "title": "The Complete Scotland Travel Guide",
+  "subtitle": "Misty mountains, whisky trails and island-studded coastlines across a small, dramatic country",
+  "summary": "How to plan a Scotland trip: whether to focus on Glasgow, the Highlands or the islands, when to go for the best weather and fewest midges, what it costs, and a practical nine-day itinerary.",
+  "readingTime": "12 min read",
+  "updated": "2026",
+  "sections": [
+    {
+      "id": "how-scotland-divides",
+      "title": "How Scotland divides",
+      "navLabel": "The regions",
+      "body": [
+        "Scotland divides into a compact set of very different regions, each with a distinct character — its small size means a first trip can realistically cover several without feeling rushed.",
+        "**The central belt.** [[glasgow|Glasgow]] and [[stirling|Stirling]] — Scotland's largest city and its historic battlefields, the easiest part of the country to reach.",
+        "**The Highlands and Skye.** [[isle-of-skye|the Isle of Skye]], [[loch-ness-inverness|Loch Ness and Inverness]] and the [[cairngorms-national-park|Cairngorms]] — Scotland's most iconic scenery, and the reason most people visit.",
+        "**Whisky country.** [[speyside|Speyside]] — a dense concentration of distilleries and the Malt Whisky Trail.",
+        "**The east and the isles.** [[st-andrews|St Andrews]], [[loch-lomond-trossachs|Loch Lomond]], [[isle-of-mull-iona-staffa|Mull and Iona]] and [[orkney-islands|Orkney]] are all spectacular but reward visitors with more time and a bigger budget."
+      ],
+      "note": "Most first-time visitors combine [[glasgow|Glasgow]], [[isle-of-skye|Skye]] and the central Highlands in a single trip. Orkney and the inner Hebrides are where a longer or second trip belongs."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If this is your first trip",
+          "text": "[[glasgow|Glasgow]], the natural starting point, with the best transport links and an underrated cultural scene."
+        },
+        {
+          "title": "If you want the classic Highland scenery",
+          "text": "[[isle-of-skye|The Isle of Skye]], one of the most photographed landscapes in the entire country."
+        },
+        {
+          "title": "If you want whisky at the source",
+          "text": "[[speyside|Speyside]], home to the highest concentration of distilleries anywhere in Scotland."
+        },
+        {
+          "title": "If you want history and battlefields",
+          "text": "[[stirling|Stirling]], central to Scotland's story, from Stirling Castle to the Wallace Monument."
+        },
+        {
+          "title": "If you want ancient history older than Stonehenge",
+          "text": "[[orkney-islands|Orkney]], home to some of the best-preserved Neolithic sites in Europe."
+        },
+        {
+          "title": "If you want quiet island-hopping",
+          "text": "[[isle-of-mull-iona-staffa|Mull, Iona and Staffa]], rewarding for visitors willing to take the ferry further out."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around: driving, trains, and one common mistake",
+      "navLabel": "Getting around",
+      "body": [
+        "Scotland's Highlands and islands mean no single mode of transport covers the whole country — a mix of rental car, train and ferry is standard.",
+        "**Rent a car for the Highlands.** It's the most flexible way to see [[isle-of-skye|Skye]], [[cairngorms-national-park|the Cairngorms]] and [[speyside|Speyside]] at your own pace.",
+        "**Learn single-track road etiquette.** Many Highland and island roads are single-track with passing places — pull in early to let oncoming traffic pass.",
+        "**Take a scenic train at least once.** The [[glasgow|Glasgow]] to [[loch-ness-inverness|Inverness]] route and the West Highland Line are among the world's great rail journeys.",
+        "**Book ferries ahead in summer.** Crossings to [[isle-of-skye|Skye]], [[isle-of-mull-iona-staffa|Mull]] and [[orkney-islands|Orkney]] fill up fast in peak season.",
+        "**Don't underestimate Highland driving times.** A route that looks like two hours on a map can take four on narrow, winding roads."
+      ],
+      "note": "Book your rental car, accommodation and any ferry crossings months ahead for a June–August trip — Scotland's Highland and island capacity sells out early in peak season."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Scotland's weather is famously changeable in every season, so 'the best time' is really about balancing crowds, midges and the odds of a dry day. **May, June and September** generally work best.",
+        "**Late spring** brings the best odds of mild, dry weather with long daylight and noticeably fewer midges than midsummer.",
+        "**Summer** is warmest and busiest, with the longest days — also peak midge season in the Highlands on still, warm evenings.",
+        "**Early autumn** is an underrated window, often mild with the landscape beginning to turn and thinner crowds than summer.",
+        "**Winter** brings short days and frequent storms, but is atmospheric, with cosy pubs, a real chance of Highland snow and far fewer visitors."
+      ],
+      "note": "Pack proper waterproofs and midge repellent regardless of when you go — Scottish weather offers no guarantees, and summer midges are a real nuisance in the Highlands."
+    },
+    {
+      "id": "itineraries",
+      "title": "Four routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "Four days: Glasgow and Stirling",
+          "text": "[[glasgow|Glasgow]]'s museums and nightlife, with an easy day trip to [[stirling|Stirling]]'s castle and battlefields.",
+          "tip": "Base yourself centrally in Glasgow and take Stirling as a half-day train trip."
+        },
+        {
+          "title": "Nine days: the classic Highlands loop",
+          "text": "The itinerary on the [[c:scotland|Scotland country page]]: [[glasgow|Glasgow]], [[loch-lomond-trossachs|Loch Lomond]], [[isle-of-skye|Skye]], [[loch-ness-inverness|Loch Ness]], [[cairngorms-national-park|the Cairngorms]] and [[speyside|Speyside]]. A complete first look at Scotland's classic highlights.",
+          "tip": "Break the Highland drives into realistic daily distances — single-track roads reward a slower pace than the map suggests."
+        },
+        {
+          "title": "A week focused on whisky and history",
+          "text": "[[speyside|Speyside]] and [[stirling|Stirling]] as a self-contained trip, skipping the longer Highland transit.",
+          "tip": "Base yourself in Aberdeen or Elgin and take day trips along the Malt Whisky Trail."
+        },
+        {
+          "title": "An Orkney and Hebrides add-on for a second trip",
+          "text": "[[orkney-islands|Orkney]]'s ancient stones and [[isle-of-mull-iona-staffa|Mull and Iona]]'s quiet island character, two of Scotland's most remote and rewarding corners.",
+          "tip": "Book ferries well ahead, and build in flexible days in case of weather-related cancellations."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Scotland?",
+      "a": "Nine to twelve days covers Glasgow, the Highlands and Skye at a reasonable pace, which is the itinerary in this guide. Four to five days is enough for Glasgow and one nearby region, and still worthwhile on its own."
+    },
+    {
+      "q": "Is the Highland scenery worth the extra driving time?",
+      "a": "Yes — Skye, the Cairngorms and Loch Ness are a large part of why people visit, and the slower pace is part of the experience rather than a drawback."
+    },
+    {
+      "q": "Do you need a car in Scotland?",
+      "a": "For the Highlands and islands, yes — though trains and buses cover Glasgow, Stirling and the central belt well without one."
+    },
+    {
+      "q": "When should I visit to avoid the midges?",
+      "a": "May and June offer the best odds of mild weather with far fewer midges than July and August, when they're at their worst on still, warm evenings."
+    }
+  ]
+}

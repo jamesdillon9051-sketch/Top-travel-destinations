@@ -1,0 +1,374 @@
+{
+  "slug": "raja-ampat",
+  "name": "Raja Ampat",
+  "country": "indonesia",
+  "region": "West Papua",
+  "categories": ["diving", "island", "nature", "off-the-beaten-path"],
+  "tagline": "The richest marine biodiversity recorded anywhere on Earth, scattered across karst islands at Indonesia's remote eastern edge.",
+  "highlight": "Looking down from the Piaynemo viewpoint over dozens of jungle-topped karst islands scattered across turquoise water in every direction.",
+  "shortDescription": "A remote archipelago off West Papua holding the richest marine biodiversity on Earth, its karst islands rising straight out of turquoise water.",
+  "metaDescription": "A Raja Ampat travel guide: Piaynemo and Wayag viewpoints, world-class diving, Arborek village, food and how to plan a trip to eastern Indonesia's reefs.",
+  "suggestedStay": "4-5 days",
+  "nearestAirport": "Domine Eduard Osok, Sorong (SOQ), then boat to Waisai",
+  "knownFor": "World-record marine biodiversity, karst islands, diving",
+  "budget": "Rp 1,000,000–3,000,000+ per day, plus dive and liveaboard costs",
+  "goodFor": "Diving, snorkelling, serious nature and marine life",
+  "coords": { "lat": -0.5464, "lng": 130.1069 },
+  "image": {
+    "file": "File:Piaynemo Raja Ampat.jpg",
+    "alt": "Karst islands seen from the Piaynemo viewpoint in Raja Ampat"
+  },
+  "intro": [
+    "Raja Ampat is the reward at the far end of an Indonesia trip — a remote archipelago off the coast of West Papua that marine biologists consistently rank as holding the richest coral reef biodiversity recorded anywhere on Earth.",
+    "Above the water, it's just as striking: hundreds of small, jungle-topped karst islands rising sheer out of impossibly turquoise water, their silhouettes forming the view most people now picture when they think of Raja Ampat, whether or not they've ever been there.",
+    "Reaching it takes real commitment — a flight to Sorong, then a boat to Waisai, then usually another boat to your actual resort or liveaboard — which is exactly why it has stayed this pristine, and why most visitors treat it as the highlight of a longer Indonesia trip rather than a first stop."
+  ],
+  "whyVisit": {
+    "intro": "Raja Ampat's case rests on unmatched marine biodiversity and island scenery found almost nowhere else.",
+    "points": [
+      {
+        "title": "It holds the richest reef biodiversity on Earth",
+        "text": "Marine biologists have recorded more coral and fish species here than anywhere else surveyed on the planet."
+      },
+      {
+        "title": "The karst islands are visually unmatched",
+        "text": "Viewpoints like Piaynemo and Wayag look almost unreal, with dozens of jungle-topped islands scattered across turquoise water."
+      },
+      {
+        "title": "It's one of the world's best manta ray destinations",
+        "text": "Reliable cleaning stations bring these giant rays close enough for exceptional snorkelling and diving."
+      },
+      {
+        "title": "It's still remarkably untouched",
+        "text": "Its remoteness has kept development minimal and marine life thriving compared to more accessible reefs."
+      },
+      {
+        "title": "Local communities benefit directly from tourism",
+        "text": "Conservation fees and village-run homestays put tourism revenue directly into protecting the reefs."
+      }
+    ]
+  },
+  "attractionsIntro": "Raja Ampat's essential sights are spread across a wide area, mostly reached by boat.",
+  "attractions": [
+    {
+      "name": "Piaynemo Viewpoint",
+      "image": {
+        "file": "File:Pulau Piaynemo, Raja Ampat.jpg",
+        "alt": "Karst islands scattered across turquoise water, seen from Piaynemo"
+      },
+      "text": "Raja Ampat's most photographed view, a short but steep climb rewarded with dozens of jungle-topped karst islands spreading out below.",
+      "tip": "Arrive early morning for the calmest water and clearest light for photos."
+    },
+    {
+      "name": "Wayag Islands",
+      "image": {
+        "file": "File:Wayag Island.jpg",
+        "alt": "The karst islands of Wayag in northern Raja Ampat"
+      },
+      "text": "A more remote, even more dramatic cluster of karst islands further north, often considered Raja Ampat's ultimate viewpoint.",
+      "tip": "Reaching Wayag takes a longer boat journey — most visitors see it as part of a multi-day liveaboard."
+    },
+    {
+      "name": "Misool",
+      "image": {
+        "file": "File:Misool-Raja Ampat.jpg",
+        "alt": "The karst islands and lagoons of Misool in southern Raja Ampat"
+      },
+      "text": "Raja Ampat's southernmost region, known for exceptional diving and ancient rock art painted on its limestone cliffs.",
+      "tip": "Misool's marine reserve has some of the most dramatic fish biomass recovery anywhere in the archipelago."
+    },
+    {
+      "name": "Arborek Village",
+      "image": {
+        "file": "File:Kampung Arborek.jpg",
+        "alt": "The traditional village of Arborek in Raja Ampat"
+      },
+      "text": "A small, welcoming traditional village on its own tiny island, known for its jetty reef, one of the easiest great snorkels in the region.",
+      "tip": "The village jetty itself is a surprisingly excellent, easy snorkel spot."
+    },
+    {
+      "name": "Cape Kri and the coral reefs",
+      "image": {
+        "file": "File:Coral in Raja Ampat.jpg",
+        "alt": "Colourful coral reef in Raja Ampat"
+      },
+      "text": "Home to a record-breaking fish count in a single dive, among the most biodiverse single reef sites ever surveyed.",
+      "tip": "Strong currents here suit experienced divers best — check conditions with your operator."
+    },
+    {
+      "name": "Manta Sandy",
+      "image": {
+        "file": "File:Giant Manta AdF.jpg",
+        "alt": "A manta ray at a cleaning station in Raja Ampat"
+      },
+      "text": "A reliable manta ray cleaning station, drawing these giant rays close enough for exceptional snorkelling and diving.",
+      "tip": "Visit around the tidal window your operator recommends for the best manta activity."
+    },
+    {
+      "name": "Sorong",
+      "image": {
+        "file": "File:Sorong view-1.jpg",
+        "alt": "The town of Sorong, gateway to Raja Ampat"
+      },
+      "text": "The practical gateway to Raja Ampat, a working Papua port town where most visitors pass through en route to the islands.",
+      "tip": "Most visitors spend only a night here at most before continuing on by boat."
+    }
+  ],
+  "thingsToDoIntro": "A Raja Ampat trip revolves around the water — diving, snorkelling and boat-based exploring dominate most itineraries.",
+  "thingsToDo": [
+    {
+      "title": "Climb to the Piaynemo viewpoint",
+      "image": {
+        "file": "File:Piaynemo, Raja Ampat (39660320633).jpg",
+        "alt": "The wooden viewing platform and stairs at Piaynemo"
+      },
+      "text": "An essential Raja Ampat experience, a steep wooden staircase leading up to one of Indonesia's most iconic views.",
+      "tip": "The climb takes only 10-15 minutes, though steps can be slippery when wet."
+    },
+    {
+      "title": "Dive or snorkel Raja Ampat's reefs",
+      "image": {
+        "file": "File:Raja Ampat fun dive.jpg",
+        "alt": "A diver exploring a coral reef in Raja Ampat"
+      },
+      "text": "The whole reason most visitors make the journey — reef diversity here regularly exceeds anywhere else surveyed on Earth.",
+      "tip": "Bring your own dive gear if particular — rental options are more limited than in Bali."
+    },
+    {
+      "title": "See ancient rock art at Misool",
+      "image": {
+        "file": "File:Rockpainting di Misool, Raja Ampat.jpg",
+        "alt": "Ancient rock art paintings on limestone cliffs at Misool"
+      },
+      "text": "A fascinating cultural stop between dives, handprints and figures painted onto limestone cliffs by ancient inhabitants.",
+      "tip": "Ask your boat guide to point out the clearest painting sites — they can be easy to miss."
+    },
+    {
+      "title": "Snorkel with manta rays",
+      "image": {
+        "file": "File:Envy (219520561).jpeg",
+        "alt": "A snorkeller near a manta ray in Raja Ampat"
+      },
+      "text": "An unforgettable encounter at the region's manta cleaning stations, where these giant rays circle close to the surface.",
+      "tip": "Stay calm and let the mantas approach — chasing them tends to scare them off."
+    },
+    {
+      "title": "Kayak through Kabui Bay",
+      "image": {
+        "file": "File:Kabui Bay - Gam Island - Raja Ampat - 32506325635.jpg",
+        "alt": "Kayaking through the karst islands of Kabui Bay"
+      },
+      "text": "A peaceful way to explore the karst islands up close, paddling between limestone formations at your own pace.",
+      "tip": "Early morning gives the calmest water for kayaking between the islands."
+    },
+    {
+      "title": "Stay in a village homestay",
+      "image": {
+        "file": "File:Kampung Arborek.jpg",
+        "alt": "The traditional village of Arborek, a popular homestay destination"
+      },
+      "text": "A direct way to support local communities, with simple wooden homestays run by island families across the region.",
+      "tip": "Book village homestays through the local tourism cooperative for the most reliable arrangements."
+    }
+  ],
+  "foodIntro": "Raja Ampat's food is simple and seafood-focused, reflecting its remote island setting far from Indonesia's major food regions.",
+  "foods": [
+    {
+      "name": "Fresh grilled fish",
+      "image": {
+        "file": "File:Ikan bakar.JPG",
+        "alt": "Ikan bakar, grilled fish, a staple across eastern Indonesia"
+      },
+      "text": "The standard meal at homestays and liveaboards alike, whole fish grilled simply and served with rice.",
+      "whereToTry": "Village homestays and liveaboard boats throughout Raja Ampat."
+    },
+    {
+      "name": "Papeda",
+      "image": {
+        "file": "File:Papeda, Kuah Kuning, Ikan Tude Bakar 1.jpg",
+        "alt": "Papeda, a sago starch dish, served with yellow fish soup"
+      },
+      "text": "A distinctive Papua and Maluku staple, a sticky sago starch porridge eaten with a tangy yellow fish soup.",
+      "whereToTry": "Traditional warungs in Sorong and Waisai."
+    },
+    {
+      "name": "Nasi goreng",
+      "image": {
+        "file": "File:Nasi goreng istimewa.JPG",
+        "alt": "A plate of nasi goreng, Indonesian fried rice, topped with a fried egg"
+      },
+      "text": "A reliable, widely available option aboard liveaboards and at resort restaurants alike.",
+      "whereToTry": "Resorts and liveaboard boats throughout the region."
+    },
+    {
+      "name": "Fresh tropical fruit",
+      "text": "Grown locally on the islands, with papaya, banana and coconut common at homestay breakfasts.",
+      "whereToTry": "Village homestays throughout Raja Ampat."
+    },
+    {
+      "name": "Instant noodles on liveaboards",
+      "text": "A reliable backup meal aboard smaller boats, especially on longer multi-day crossings between dive sites.",
+      "whereToTry": "Liveaboard boats and smaller day-trip vessels."
+    },
+    {
+      "name": "Papuan coffee",
+      "text": "Grown in the Papua highlands, with a distinct character worth seeking out at Sorong's cafés before heading to the islands.",
+      "whereToTry": "Cafés in Sorong before departure."
+    }
+  ],
+  "accommodation": {
+    "intro": "Raja Ampat's accommodation ranges from simple village homestays to high-end dive resorts.",
+    "areas": [
+      {
+        "name": "Village homestays",
+        "bestFor": "Budget-friendly, community-supporting stays",
+        "text": "Simple wooden bungalows run by local families, found across many of the main islands."
+      },
+      {
+        "name": "Dive resorts",
+        "bestFor": "Serious diving with full facilities",
+        "text": "Higher-end options concentrated on islands like Kri, Mansuar and Waigeo."
+      },
+      {
+        "name": "Liveaboard boats",
+        "bestFor": "Covering the most ground and dive sites",
+        "text": "The classic way to see Raja Ampat's more remote reaches, including Wayag and Misool."
+      }
+    ],
+    "budget": [
+      { "label": "Village homestay (with meals)", "value": "Rp 300,000–600,000 per night" },
+      { "label": "Dive resort", "value": "Rp 2,000,000–6,000,000+ per night" },
+      { "label": "Marine park conservation fee", "value": "About Rp 1,000,000 (foreign visitor, valid one year)" },
+      { "label": "Multi-day liveaboard", "value": "Rp 15,000,000+ per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Raja Ampat is one of the most remote destinations in this guide, requiring real commitment to reach.",
+    "options": [
+      {
+        "mode": "Fly to Sorong",
+        "text": "The standard route, with flights from Jakarta, Makassar or other major Indonesian hubs, often via a connection.",
+        "detail": "Sorong's Domine Eduard Osok Airport is the region's main gateway."
+      },
+      {
+        "mode": "Ferry from Sorong to Waisai",
+        "text": "A straightforward 2-hour public ferry connecting Sorong to Raja Ampat's main town.",
+        "detail": "Several daily departures run from Sorong's harbour."
+      },
+      {
+        "mode": "Onward boat to your resort or homestay",
+        "text": "The final leg for most visitors, arranged directly through your accommodation.",
+        "detail": "Boat times vary widely depending on which island you're staying on."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Within Raja Ampat, getting around means boats — there are no roads connecting the islands.",
+    "options": [
+      {
+        "mode": "Resort or homestay boat transfers",
+        "text": "Arranged directly with your accommodation for day trips to nearby snorkel and dive sites.",
+        "detail": "Most stays include some transfers as part of a package."
+      },
+      {
+        "mode": "Liveaboard boat",
+        "text": "The best way to cover Raja Ampat's more distant highlights like Wayag and Misool.",
+        "detail": "Typically booked for a week or more given the distances involved."
+      },
+      {
+        "mode": "Chartered speedboat",
+        "text": "A flexible, if pricier, option for visitors wanting to design their own day trips.",
+        "detail": "Arranged through your accommodation or a local operator in Waisai."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October to April for the calmest seas and best visibility",
+    "summary": "Raja Ampat's best diving window runs roughly opposite the rest of Indonesia's dry season, since local currents and weather patterns differ this far east.",
+    "seasons": [
+      {
+        "season": "October–April",
+        "rating": "best",
+        "text": "The calmest seas and clearest water for diving and snorkelling in most parts of the region."
+      },
+      {
+        "season": "May–September",
+        "rating": "good",
+        "text": "Can bring stronger winds and choppier seas, though diving remains possible with a flexible itinerary."
+      },
+      {
+        "season": "Peak season (July–August, December–January)",
+        "rating": "good",
+        "text": "The busiest time at dive resorts, worth booking many months ahead for."
+      }
+    ],
+    "avoid": "Check with your specific resort or liveaboard operator before booking — local conditions vary noticeably by exact location within Raja Ampat."
+  },
+  "itinerary": {
+    "title": "Three days in Raja Ampat",
+    "intro": "Built around the classic combination of viewpoints, diving and village culture.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival and Arborek",
+        "summary": "Travelling in and an easy first snorkel.",
+        "morning": "Ferry from Sorong to Waisai, then boat to your accommodation.",
+        "afternoon": "Snorkel at Arborek village's jetty reef.",
+        "evening": "Settle in and rest after a long travel day."
+      },
+      {
+        "day": 2,
+        "title": "Piaynemo and diving",
+        "summary": "The iconic viewpoint, then a dive or two.",
+        "morning": "Boat to the Piaynemo viewpoint.",
+        "afternoon": "Diving or snorkelling at a nearby reef site.",
+        "evening": "Dinner at your homestay or resort."
+      },
+      {
+        "day": 3,
+        "title": "Manta Sandy and departure",
+        "summary": "A final manta encounter before heading back.",
+        "morning": "Snorkelling or diving at Manta Sandy.",
+        "afternoon": "Boat back to Waisai, then ferry to Sorong.",
+        "evening": "Overnight in Sorong before an onward flight."
+      }
+    ]
+  },
+  "tipsIntro": "Raja Ampat demands more planning than almost anywhere else in this guide — prepare accordingly.",
+  "tips": [
+    "Book your marine park conservation card on arrival in Waisai — it's required.",
+    "Book resorts and liveaboards many months ahead for peak season.",
+    "Bring cash — ATMs and card payments are extremely limited once you leave Sorong.",
+    "Pack reef-safe sunscreen and your own basic snorkel gear as backup.",
+    "Allow a full buffer day either side for flight and ferry connections.",
+    "Bring a dry bag — boat transfers regularly involve some sea spray."
+  ],
+  "faq": [
+    {
+      "q": "Is Raja Ampat worth the trip?",
+      "a": "Yes, for travellers who can make the time — it holds the richest reef biodiversity recorded anywhere on Earth, and the karst island scenery matches the underwater world."
+    },
+    {
+      "q": "How do you get to Raja Ampat?",
+      "a": "Fly to Sorong, then take a ferry to Waisai, followed by a final boat transfer to your specific accommodation."
+    },
+    {
+      "q": "Do you need to be a diver to visit Raja Ampat?",
+      "a": "No — snorkelling at many of the same sites, including manta cleaning stations, is excellent and requires no certification."
+    },
+    {
+      "q": "Is Raja Ampat expensive?",
+      "a": "More expensive than most of Indonesia, largely due to remote logistics — though village homestays keep budget options realistic."
+    },
+    {
+      "q": "How many days do you need in Raja Ampat?",
+      "a": "Four to five days allows real time in the water without the trip being dominated by travel days getting there and back."
+    },
+    {
+      "q": "When is the best time to dive in Raja Ampat?",
+      "a": "Roughly October to April brings the calmest seas and best visibility, though this varies somewhat by specific site."
+    }
+  ],
+  "related": ["komodo-flores", "lombok-gili-islands", "ubud"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around"]
+}

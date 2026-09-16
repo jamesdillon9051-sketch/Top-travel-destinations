@@ -1,0 +1,366 @@
+{
+  "slug": "jasper-national-park",
+  "name": "Jasper National Park",
+  "country": "canada",
+  "region": "Alberta",
+  "categories": ["nature", "national-park", "mountains", "wildlife"],
+  "tagline": "A wilder, quieter half of the Icefields Parkway's Rockies scenery, home to a genuine glacier you can walk on and one of the world's largest dark sky preserves.",
+  "highlight": "Standing on the Athabasca Glacier's ancient ice, a river of frozen water older than any city on Earth flowing imperceptibly beneath your boots.",
+  "shortDescription": "A wilder, quieter half of the Canadian Rockies, home to the walkable Athabasca Glacier, Maligne Lake's Spirit Island and one of the world's largest dark sky preserves.",
+  "metaDescription": "A Jasper National Park travel guide: Maligne Lake, the Athabasca Glacier, the Jasper SkyTram, wildlife, food and how to plan a Rockies trip.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Edmonton International Airport (YEG), about 4 hours by road",
+  "knownFor": "Maligne Lake, the Athabasca Glacier, the Jasper SkyTram",
+  "budget": "C$220–450 per day, mid-range",
+  "goodFor": "Wildlife, glaciers, dark-sky stargazing",
+  "coords": { "lat": 52.8737, "lng": -118.0814 },
+  "image": {
+    "file": "File:Spirit Island ...Maligne lake.jpg",
+    "alt": "Spirit Island on Maligne Lake in Jasper National Park"
+  },
+  "intro": [
+    "Jasper is the wilder, quieter half of the classic Rockies pairing with Banff, a larger national park with noticeably fewer crowds and a real sense of remoteness.",
+    "Its centrepiece is the Athabasca Glacier, part of the Columbia Icefield, one of the few glaciers in the world visitors can walk out onto directly.",
+    "The park is also one of the largest accessible dark sky preserves on the planet, drawing stargazers alongside the usual Rockies hikers and photographers."
+  ],
+  "whyVisit": {
+    "intro": "Jasper's case rests on wilder, less crowded Rockies scenery paired with a walkable glacier.",
+    "points": [
+      {
+        "title": "The Athabasca Glacier is walkable",
+        "text": "One of the few glaciers anywhere visitors can step out onto directly, guided or by Ice Explorer vehicle."
+      },
+      {
+        "title": "It's far less crowded than Banff",
+        "text": "A larger park with a fraction of the visitor numbers at its most famous sights."
+      },
+      {
+        "title": "Maligne Lake and Spirit Island are a singular sight",
+        "text": "One of the most photographed scenes in the Canadian Rockies."
+      },
+      {
+        "title": "The dark skies here are exceptional",
+        "text": "One of the world's largest accessible dark sky preserves, with regular stargazing events."
+      },
+      {
+        "title": "Wildlife sightings are more frequent than in Banff",
+        "text": "Elk, bighorn sheep, and black bears are all commonly seen along the roads."
+      }
+    ]
+  },
+  "attractionsIntro": "Jasper's essential sights are spread across a much larger, wilder park than Banff.",
+  "attractions": [
+    {
+      "name": "Maligne Lake and Spirit Island",
+      "image": {
+        "file": "File:Spirit Island ...Maligne lake.jpg",
+        "alt": "Spirit Island on Maligne Lake"
+      },
+      "text": "One of the most photographed scenes in the Rockies, a tiny wooded island in the middle of a long glacial lake.",
+      "tip": "Only reachable by boat tour — there's no trail to Spirit Island itself."
+    },
+    {
+      "name": "The Athabasca Glacier",
+      "image": {
+        "file": "File:Athabasca Glacier from the valley floor, Jasper National Park, Alberta, Canada.jpg",
+        "alt": "The Athabasca Glacier in Jasper National Park"
+      },
+      "text": "Part of the Columbia Icefield, one of the largest accumulations of ice south of the Arctic Circle.",
+      "tip": "Only walk on the ice with a guided tour — crevasses make independent access dangerous."
+    },
+    {
+      "name": "The Jasper SkyTram",
+      "image": {
+        "file": "File:Jasper sky tram.jpg",
+        "alt": "The Jasper SkyTram"
+      },
+      "text": "One of the highest and longest guided aerial tramways in Canada, climbing to a sweeping alpine viewpoint.",
+      "tip": "Bring a warm layer — the summit sits well above the treeline."
+    },
+    {
+      "name": "Athabasca Falls",
+      "image": {
+        "file": "File:Athabasca Falls, Jasper National Park 02.jpg",
+        "alt": "Athabasca Falls in Jasper National Park"
+      },
+      "text": "Not the tallest waterfall in the Rockies, but one of the most powerful, forcing the Athabasca River through a narrow gorge.",
+      "tip": "Walk the full loop trail for multiple viewpoints over the falls and gorge."
+    },
+    {
+      "name": "Pyramid Lake",
+      "image": {
+        "file": "File:Pyramid lake in Jasper town, Alberta, Canada1.jpg",
+        "alt": "Pyramid Lake near Jasper town"
+      },
+      "text": "A peaceful lake just outside Jasper town, named for the pyramid-shaped mountain reflected in its water.",
+      "tip": "An easy sunset spot, a short drive from downtown Jasper."
+    },
+    {
+      "name": "Maligne Canyon",
+      "image": {
+        "file": "File:Maligne Canyon 001.jpg",
+        "alt": "Maligne Canyon in Jasper National Park"
+      },
+      "text": "One of the deepest canyons in the Rockies, a limestone gorge crossed by a series of dramatic footbridges.",
+      "tip": "Visit in winter too, if you can — the frozen canyon walk is a completely different experience."
+    },
+    {
+      "name": "Ice Explorer vehicles on the glacier",
+      "image": {
+        "file": "File:Ice Explorer vehicles on the Athabasca Glacier 20240824 2.jpg",
+        "alt": "Ice Explorer vehicles on the Athabasca Glacier"
+      },
+      "text": "A unique way to reach the glacier's surface, giant all-terrain buses built specifically for the ice.",
+      "tip": "Combine with the nearby Glacier Skywalk for a fuller Columbia Icefield experience."
+    }
+  ],
+  "thingsToDoIntro": "Jasper rewards a full day or two, split between its glacier, lakes and dark-sky nights.",
+  "thingsToDo": [
+    {
+      "title": "Boat to Spirit Island on Maligne Lake",
+      "image": {
+        "file": "File:Spirit Island on Maligne Lake.jpg",
+        "alt": "Boating to Spirit Island on Maligne Lake"
+      },
+      "text": "An essential Jasper experience, cruising the length of Maligne Lake to its famous island viewpoint.",
+      "tip": "Book ahead in peak summer — tour slots do fill up."
+    },
+    {
+      "title": "Walk on the Athabasca Glacier",
+      "image": {
+        "file": "File:Meltwater at the terminus of the Athabasca Glacier, Jasper National Park, Alberta, Canada.jpg",
+        "alt": "The meltwater at the edge of the Athabasca Glacier"
+      },
+      "text": "A rare opportunity, stepping onto real glacial ice on a guided walk or Ice Explorer tour.",
+      "tip": "Dress warmly — the ice keeps temperatures noticeably colder than the surrounding valley."
+    },
+    {
+      "title": "Ride the Jasper SkyTram",
+      "image": {
+        "file": "File:Mount Edith Cavell from Sky Tram.jpg",
+        "alt": "The view from the Jasper SkyTram"
+      },
+      "text": "A quick way to reach alpine terrain, with hiking trails continuing further up from the top station.",
+      "tip": "Go on a clear day — the summit view is the whole point."
+    },
+    {
+      "title": "Hike the trail to Athabasca Falls",
+      "image": {
+        "file": "File:Athabasca Falls, Jasper National Park 01.jpg",
+        "alt": "Hiking the trail at Athabasca Falls"
+      },
+      "text": "A short, easy walk with a dramatic payoff, the river forcing itself through a narrow limestone gorge.",
+      "tip": "Stay behind the railings — the rocks here are slippery and the current is powerful."
+    },
+    {
+      "title": "Walk the Maligne Canyon trail",
+      "image": {
+        "file": "File:Maligne Canyon 002.jpg",
+        "alt": "Walking the trail at Maligne Canyon"
+      },
+      "text": "A rewarding walk across a series of bridges spanning an increasingly deep limestone canyon.",
+      "tip": "The first two bridges make a shorter loop if you're short on time."
+    },
+    {
+      "title": "Swim or picnic at Pyramid Lake",
+      "image": {
+        "file": "File:Pyramid Lake 01.jpg",
+        "alt": "Pyramid Lake near Jasper"
+      },
+      "text": "A relaxed way to spend an afternoon, swimming, paddling or simply picnicking by the water.",
+      "tip": "The lake's small island is connected by a footbridge, worth the short walk across."
+    }
+  ],
+  "foodIntro": "Food in Jasper means hearty mountain-town fare, similar to Banff but with its own small-town character.",
+  "foods": [
+    {
+      "name": "Poutine",
+      "image": {
+        "file": "File:Poutine déjeuner.jpg",
+        "alt": "Poutine, Canada's fries, cheese curds and gravy dish"
+      },
+      "text": "A reliable, warming classic after a day exploring the park.",
+      "whereToTry": "Restaurants and pubs throughout Jasper town."
+    },
+    {
+      "name": "Alberta beef",
+      "text": "A real point of regional pride, found on menus throughout Jasper town.",
+      "whereToTry": "Restaurants throughout Jasper town."
+    },
+    {
+      "name": "Bison burger",
+      "text": "A distinctive Rockies menu staple, leaner and richer-tasting than standard beef.",
+      "whereToTry": "Restaurants and pubs throughout Jasper town."
+    },
+    {
+      "name": "Grilled trout",
+      "image": {
+        "file": "File:Grilled plated salmon fillet.jpg",
+        "alt": "Grilled fish"
+      },
+      "text": "A fitting choice for a mountain lake region, though check the sourcing at each restaurant.",
+      "whereToTry": "Restaurants throughout Jasper town."
+    },
+    {
+      "name": "Canadian craft beer",
+      "text": "Worth trying, with Alberta breweries well represented on local tap lists.",
+      "whereToTry": "Pubs and restaurants throughout Jasper town."
+    },
+    {
+      "name": "Butter tarts",
+      "image": {
+        "file": "File:Butter tarts it's a Canadian thing. (47104703864).jpg",
+        "alt": "Butter tarts, a classic Canadian pastry"
+      },
+      "text": "A nice sweet treat after a day of hiking or glacier walking.",
+      "whereToTry": "Bakeries and cafés throughout Jasper town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Jasper offers a smaller, more low-key range of lodging than Banff, from campgrounds to historic lodges.",
+    "areas": [
+      {
+        "name": "Jasper town",
+        "bestFor": "Being central, walkable and close to restaurants",
+        "text": "The most practical base, with easy access to the SkyTram and nearby trailheads."
+      },
+      {
+        "name": "Along the Icefields Parkway",
+        "bestFor": "A more remote, scenic stay closer to the glacier",
+        "text": "A handful of lodges sit closer to the Columbia Icefield, useful for an early glacier start."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel or campground", "value": "C$40–90 per night" },
+      { "label": "Mid-range hotel in Jasper town", "value": "C$230–400 per night" },
+      { "label": "Columbia Icefield Adventure (Ice Explorer and Skywalk)", "value": "About C$130–160" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About C$30–55 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Jasper is reached either from Edmonton directly or via Banff along the Icefields Parkway.",
+    "options": [
+      {
+        "mode": "Drive from Edmonton",
+        "text": "The most direct route, taking about four hours.",
+        "detail": "A straightforward highway drive from Edmonton International Airport."
+      },
+      {
+        "mode": "Drive the Icefields Parkway from Banff",
+        "text": "The classic route, taking about three hours without stops.",
+        "detail": "Budget a full day if combining the drive with sightseeing along the way."
+      },
+      {
+        "mode": "Via Rail's Jasper–Prince Rupert or Skeena route",
+        "text": "A scenic, if infrequent, rail option.",
+        "detail": "Limited schedule, best for travellers building a slower, rail-focused trip."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Jasper town is small and walkable, though a car is needed to properly explore the wider park.",
+    "options": [
+      {
+        "mode": "On foot in Jasper town",
+        "text": "Easy for the compact town centre.",
+        "detail": "Restaurants, shops and the train station all sit within a short walk."
+      },
+      {
+        "mode": "Car for the wider park",
+        "text": "Essential for reaching Maligne Lake, the Athabasca Glacier and other key sights.",
+        "detail": "Distances within the park are significant — plan driving time accordingly."
+      },
+      {
+        "mode": "Organised tours",
+        "text": "A good option for the glacier and Maligne Lake if you'd rather not drive.",
+        "detail": "Widely available, often including the Ice Explorer and boat tour together."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June to September for open roads and full glacier access",
+    "summary": "Jasper is a year-round destination, though most visitors come for the summer months when everything is accessible.",
+    "seasons": [
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "The most reliable season, with every road, trail and glacier tour running."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "best",
+        "text": "Excellent, with fall colour and noticeably fewer visitors than summer."
+      },
+      {
+        "season": "Winter (December–March)",
+        "rating": "good",
+        "text": "Striking for stargazing and winter landscapes, though several attractions close for the season."
+      },
+      {
+        "season": "Spring (April–May)",
+        "rating": "okay",
+        "text": "A shoulder season, with snow lingering and some roads and trails still closed."
+      }
+    ],
+    "avoid": "Nothing strongly, though winter closes access to the Athabasca Glacier's Ice Explorer tours."
+  },
+  "itinerary": {
+    "title": "Two days in Jasper National Park",
+    "intro": "Built around Maligne Lake and the Athabasca Glacier, with time for the park's smaller sights.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Maligne Lake and Canyon",
+        "summary": "The park's eastern valley.",
+        "morning": "Boat trip to Spirit Island on Maligne Lake.",
+        "afternoon": "Walk the bridges at Maligne Canyon.",
+        "evening": "Dinner in Jasper town."
+      },
+      {
+        "day": 2,
+        "title": "The Athabasca Glacier",
+        "summary": "The Columbia Icefield and Athabasca Falls.",
+        "morning": "Drive the Icefields Parkway south to the Columbia Icefield.",
+        "afternoon": "Ice Explorer tour onto the Athabasca Glacier, then Athabasca Falls.",
+        "evening": "A final dinner in Jasper town, with stargazing if skies are clear."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Jasper visit noticeably smoother.",
+  "tips": [
+    "Book Maligne Lake boat tours and the Columbia Icefield Adventure ahead in peak summer.",
+    "Pack warm layers for the glacier — temperatures there run noticeably colder.",
+    "Carry bear spray for any hike beyond the busiest trails.",
+    "Check for a dark-sky event during your visit — Jasper's stargazing is exceptional.",
+    "Budget a full day for the Icefields Parkway drive from Banff, with stops.",
+    "Watch for wildlife on the roads, especially at dawn and dusk."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Jasper?",
+      "a": "Two to three days covers Maligne Lake, the Athabasca Glacier and the park's smaller sights comfortably."
+    },
+    {
+      "q": "How does Jasper compare to Banff?",
+      "a": "Wilder and less crowded, with a larger park and more frequent wildlife sightings, at the cost of a longer drive from a major airport."
+    },
+    {
+      "q": "Can you really walk on the Athabasca Glacier?",
+      "a": "Yes — via a guided walk or Ice Explorer vehicle tour, though independent access is dangerous due to crevasses."
+    },
+    {
+      "q": "How do you get to Jasper?",
+      "a": "Easiest by driving from Edmonton, about four hours, or from Banff along the Icefields Parkway."
+    },
+    {
+      "q": "Is Jasper good for stargazing?",
+      "a": "Yes — it's one of the largest accessible dark sky preserves in the world, with regular public stargazing events."
+    },
+    {
+      "q": "Can you combine Jasper with Banff?",
+      "a": "Yes — the Icefields Parkway between them is one of the most scenic drives in the world, and the natural way most visitors do both."
+    }
+  ],
+  "related": ["banff-lake-louise", "vancouver", "whistler"],
+  "relatedArticles": ["us-national-parks-road-trip", "packing-by-season"]
+}

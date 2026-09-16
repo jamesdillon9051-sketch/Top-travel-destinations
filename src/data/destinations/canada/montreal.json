@@ -1,0 +1,374 @@
+{
+  "slug": "montreal",
+  "name": "Montreal",
+  "country": "canada",
+  "region": "Quebec",
+  "categories": ["major-city", "culture-arts", "food-and-wine", "historic"],
+  "tagline": "North America's most European-feeling city, French colonial streets and a mountain-park summit backed by a food scene built for eating well.",
+  "highlight": "Standing beneath Notre-Dame Basilica's deep blue, gold-starred ceiling, one of the most ornate church interiors anywhere on the continent.",
+  "shortDescription": "North America's most European-feeling city, home to French colonial Old Montreal, Notre-Dame Basilica and a food scene built for eating well.",
+  "metaDescription": "A Montreal travel guide: Notre-Dame Basilica, Old Montreal, Mount Royal Park, Jean-Talon Market, food and how to plan a visit to Quebec's largest city.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Montréal-Trudeau International Airport (YUL)",
+  "knownFor": "Notre-Dame Basilica, Old Montreal, Mount Royal Park",
+  "budget": "C$160–320 per day, mid-range",
+  "goodFor": "Food, history, European atmosphere",
+  "coords": { "lat": 45.5017, "lng": -73.5673 },
+  "image": {
+    "file": "File:Vieux-Montreal, Montreal, Quebec (29954388332).jpg",
+    "alt": "Old Montreal's historic streets"
+  },
+  "intro": [
+    "Montreal is North America's most European-feeling city, French colonial architecture and a bilingual street life setting it apart from anywhere else on the continent.",
+    "Old Montreal's cobblestone streets anchor the historic core, with Notre-Dame Basilica's astonishing interior among the city's true must-sees.",
+    "Above it all sits Mount Royal, the wooded hill that gave the city its name, its summit park offering one of the best skyline views in Canada."
+  ],
+  "whyVisit": {
+    "intro": "Montreal's case rests on a French colonial character found nowhere else in North America, paired with an outstanding food scene.",
+    "points": [
+      {
+        "title": "It's North America's most European city",
+        "text": "French language, architecture and café culture set it apart from anywhere else on the continent."
+      },
+      {
+        "title": "Notre-Dame Basilica is one of the continent's finest church interiors",
+        "text": "A deep blue, gold-starred ceiling unlike almost anywhere else."
+      },
+      {
+        "title": "The food scene is exceptional",
+        "text": "Smoked meat, bagels and a real, serious restaurant culture beyond the classics."
+      },
+      {
+        "title": "Mount Royal Park is a real asset",
+        "text": "A genuine wooded escape with skyline views, designed by the same architect behind New York's Central Park."
+      },
+      {
+        "title": "It works well paired with Quebec City",
+        "text": "An easy, frequent train ride to the province's even more French-feeling capital."
+      }
+    ]
+  },
+  "attractionsIntro": "Montreal's essential sights are spread between Old Montreal's historic core and the mountain park above it.",
+  "attractions": [
+    {
+      "name": "Notre-Dame Basilica's interior",
+      "image": {
+        "file": "File:Notre-Dame Basilica Interior, Montreal, Canada - Diliff.jpg",
+        "alt": "The interior of Notre-Dame Basilica in Montreal"
+      },
+      "text": "One of the most ornate church interiors in North America, a deep blue, gold-starred ceiling above intricate wood carving.",
+      "tip": "Check for an evening sound and light show, held on select nights."
+    },
+    {
+      "name": "Old Montreal's cobblestone streets",
+      "image": {
+        "file": "File:Vieux-Montreal, Montreal, Quebec (29954388332).jpg",
+        "alt": "Old Montreal's historic cobblestone streets"
+      },
+      "text": "A well-preserved 17th- and 18th-century quarter, stone buildings and narrow lanes lending real French colonial atmosphere.",
+      "tip": "Wander without a fixed route — the neighbourhood rewards getting a little lost."
+    },
+    {
+      "name": "Mount Royal Lookout",
+      "image": {
+        "file": "File:Mount Royal Lookout, Mount Royal Park, Montreal, Quebec (30068343005).jpg",
+        "alt": "The view from Mount Royal Lookout in Montreal"
+      },
+      "text": "The city's best skyline view, from a park designed by Frederick Law Olmsted, the same architect behind Central Park.",
+      "tip": "A rewarding walk or drive up, with a second, quieter lookout further along the summit."
+    },
+    {
+      "name": "Jean-Talon Market",
+      "image": {
+        "file": "File:Marche Jean-Talon 18.JPG",
+        "alt": "Jean-Talon Market in Montreal"
+      },
+      "text": "One of North America's largest public markets, stalls piled with Quebec produce, cheese and prepared foods.",
+      "tip": "Combine with a wander through the neighbouring Little Italy district."
+    },
+    {
+      "name": "Notre-Dame-de-Bon-Secours Chapel",
+      "image": {
+        "file": "File:Montreal - Notre-Dame-de-Bon-Secours Chapel 02.jpg",
+        "alt": "Notre-Dame-de-Bon-Secours Chapel in Montreal"
+      },
+      "text": "Known as the Sailors' Church, one of the city's oldest, with a rooftop offering harbour views.",
+      "tip": "Climb the tower for a view over the Old Port that most visitors miss."
+    },
+    {
+      "name": "The Old Port",
+      "image": {
+        "file": "File:Old Port in Old Montreal. - Le Vieux-Port dans le Vieux-Montréal - panoramio.jpg",
+        "alt": "The Old Port in Montreal"
+      },
+      "text": "A lively waterfront promenade, once a working harbour, now home to parks, bike paths and river cruises.",
+      "tip": "A nice spot for an evening walk once the day's heat has eased."
+    },
+    {
+      "name": "Montreal's downtown skyline",
+      "image": {
+        "file": "File:Montreal - QC - Skyline.jpg",
+        "alt": "Montreal's downtown skyline"
+      },
+      "text": "A striking mix of modern towers and historic spires, best appreciated from Mount Royal or the river.",
+      "tip": "A river cruise offers a completely different angle on the skyline than the standard viewpoints."
+    }
+  ],
+  "thingsToDoIntro": "Montreal rewards splitting time between Old Montreal's history and the city's real food and market culture.",
+  "thingsToDo": [
+    {
+      "title": "Tour Notre-Dame Basilica's ornate interior",
+      "image": {
+        "file": "File:Basílica de Notre-Dame, Montreal, Canadá, 2017-08-12, DD 22-24 HDR.jpg",
+        "alt": "Touring Notre-Dame Basilica's interior in Montreal"
+      },
+      "text": "An essential Montreal experience, taking in one of the most ornate church interiors in North America.",
+      "tip": "Book the AURA light show for an evening visit that shows the basilica in a completely different light."
+    },
+    {
+      "title": "Wander Old Montreal by horse-drawn carriage",
+      "image": {
+        "file": "File:Caleche Vieux-Montreal 02.jpg",
+        "alt": "A horse-drawn carriage in Old Montreal"
+      },
+      "text": "A charming, old-fashioned way to see the historic quarter, though walking works just as well.",
+      "tip": "Agree the price and route ahead if you do choose a carriage ride."
+    },
+    {
+      "title": "Hike or picnic in Mount Royal Park",
+      "image": {
+        "file": "File:20181012 - 16 - Montreal panorama (Mount Royal Park).jpg",
+        "alt": "The view from Mount Royal Park in Montreal"
+      },
+      "text": "An essential green escape, trails and picnic spots throughout the park that gave the city its name.",
+      "tip": "Visit at golden hour for the best light over the skyline from the lookout."
+    },
+    {
+      "title": "Sample fresh produce at Jean-Talon Market",
+      "image": {
+        "file": "File:Marché Jean-Talon 6.jpg",
+        "alt": "Fresh produce at Jean-Talon Market in Montreal"
+      },
+      "text": "A delicious way to spend a morning, sampling Quebec cheese, maple products and seasonal produce.",
+      "tip": "Arrive hungry — the market's prepared food stalls are worth the trip alone."
+    },
+    {
+      "title": "Stroll the Old Port waterfront",
+      "image": {
+        "file": "File:Overview of Vieux Montreal Old Port (8390970405).jpg",
+        "alt": "The Old Port waterfront in Montreal"
+      },
+      "text": "A relaxed way to spend an afternoon, cycling or walking the promenade along the St Lawrence River.",
+      "tip": "Rent a bike here to cover more of the waterfront path than walking alone."
+    },
+    {
+      "title": "Explore Montreal's Underground City",
+      "text": "A practical Montreal institution, a vast network of tunnels connecting shops, metro stations and offices below downtown.",
+      "tip": "A smart way to get around on a cold winter day without going outside."
+    }
+  ],
+  "foodIntro": "Montreal's food stands apart from the rest of Canada, with its own distinct Quebec specialities.",
+  "foods": [
+    {
+      "name": "Montreal-style bagels",
+      "image": {
+        "file": "File:Montreal Bagel by Fairmount Bagels.jpg",
+        "alt": "A Montreal-style bagel"
+      },
+      "text": "Distinct from New York bagels, smaller, sweeter and wood-fired, a real point of local pride.",
+      "whereToTry": "Bagel bakeries throughout Montreal, especially the city's oldest ones."
+    },
+    {
+      "name": "Smoked meat sandwich",
+      "image": {
+        "file": "File:Smoked Meat Sandwich @ Schwartz's Deli @ Le Plateau @ Montréal (30506717566).jpg",
+        "alt": "A smoked meat sandwich, a Montreal specialty"
+      },
+      "text": "A Montreal institution, brisket cured and smoked in-house, piled high on rye bread.",
+      "whereToTry": "Schwartz's Deli, the dish's most famous and historic source."
+    },
+    {
+      "name": "Poutine",
+      "image": {
+        "file": "File:Poutine déjeuner.jpg",
+        "alt": "Poutine, Canada's fries, cheese curds and gravy dish"
+      },
+      "text": "Born in rural Quebec, and Montreal is one of the best places to try it properly.",
+      "whereToTry": "Restaurants and late-night diners throughout the city."
+    },
+    {
+      "name": "Maple products",
+      "image": {
+        "file": "File:Maplesap (5544831213).jpg",
+        "alt": "Maple sap, the source of Quebec's maple syrup"
+      },
+      "text": "A real point of pride, Quebec producing most of the world's maple syrup supply.",
+      "whereToTry": "Markets and specialty shops throughout the city."
+    },
+    {
+      "name": "Tourtière (meat pie)",
+      "text": "A traditional Quebec comfort food, a spiced meat pie especially popular around the winter holidays.",
+      "whereToTry": "Traditional Quebec restaurants throughout Montreal."
+    },
+    {
+      "name": "Quebec cheese",
+      "text": "An underrated part of the province's food scene, with a real artisanal cheese-making tradition.",
+      "whereToTry": "Jean-Talon Market and specialty cheese shops throughout the city."
+    }
+  ],
+  "accommodation": {
+    "intro": "Montreal offers accommodation for every budget, with Old Montreal commanding the highest prices.",
+    "areas": [
+      {
+        "name": "Old Montreal",
+        "bestFor": "Being immersed in the city's historic atmosphere",
+        "text": "The most atmospheric, though also the priciest, part of the city to stay."
+      },
+      {
+        "name": "The Plateau or Mile End",
+        "bestFor": "A more local, character-filled stay",
+        "text": "Close to the city's best bagel shops and a short metro ride from downtown."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "C$40–75 per night" },
+      { "label": "Mid-range hotel", "value": "C$180–320 per night" },
+      { "label": "Notre-Dame Basilica entry", "value": "About C$12–15" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About C$30–55 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Montreal is well connected by air and by Via Rail's Central Canada corridor.",
+    "options": [
+      {
+        "mode": "Direct international flights",
+        "text": "Available from across North America and Europe.",
+        "detail": "Montréal-Trudeau Airport sits about 30 minutes from downtown."
+      },
+      {
+        "mode": "Train from Toronto or Quebec City",
+        "text": "Frequent and comfortable, no car needed.",
+        "detail": "About 4.5 hours from Toronto, or three hours from Quebec City."
+      },
+      {
+        "mode": "Bus or drive from Toronto or Quebec City",
+        "text": "A budget-friendly alternative to the train.",
+        "detail": "Similar journey times to rail, with more frequent departures."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Montreal's extensive metro covers the city well, with Old Montreal easily walkable once you're there.",
+    "options": [
+      {
+        "mode": "Metro",
+        "text": "Fast, frequent and easy to use across the city.",
+        "detail": "Four lines cover downtown, Old Montreal and the surrounding neighbourhoods."
+      },
+      {
+        "mode": "On foot",
+        "text": "The best way to explore Old Montreal itself.",
+        "detail": "The historic core is compact and best experienced walking."
+      },
+      {
+        "mode": "BIXI bike share",
+        "text": "A pleasant way to cover more ground, especially along the Old Port.",
+        "detail": "Stations are widely available throughout the city in warmer months."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June to September for warm weather and festival season",
+    "summary": "Montreal is known for a packed summer festival calendar, alongside a cold, snowy winter.",
+    "seasons": [
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Warm and lively, with major festivals filling the calendar almost every weekend."
+      },
+      {
+        "season": "Early autumn (September–October)",
+        "rating": "best",
+        "text": "Comfortable temperatures with excellent fall colour on Mount Royal."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "okay",
+        "text": "Cold and snowy, though the Underground City and a lively indoor scene make it workable."
+      },
+      {
+        "season": "Spring (April–May)",
+        "rating": "good",
+        "text": "A mild shoulder season, with maple syrup season in nearby sugar shacks."
+      }
+    ],
+    "avoid": "Nothing strongly — Montreal works as a year-round city break, weather permitting."
+  },
+  "itinerary": {
+    "title": "Three days in Montreal",
+    "intro": "Built around Old Montreal, Mount Royal Park and the city's food scene.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Old Montreal",
+        "summary": "The historic core.",
+        "morning": "Notre-Dame Basilica and Notre-Dame-de-Bon-Secours Chapel.",
+        "afternoon": "Wander Old Montreal's cobblestone streets and the Old Port.",
+        "evening": "Dinner in Old Montreal."
+      },
+      {
+        "day": 2,
+        "title": "Mount Royal and the markets",
+        "summary": "A day of parks and food.",
+        "morning": "Jean-Talon Market.",
+        "afternoon": "Hike or picnic in Mount Royal Park.",
+        "evening": "A smoked meat sandwich at Schwartz's Deli."
+      },
+      {
+        "day": 3,
+        "title": "The Plateau and Mile End",
+        "summary": "A slower day exploring local neighbourhoods.",
+        "morning": "Montreal-style bagels in Mile End.",
+        "afternoon": "Explore the Plateau's street art and boutiques.",
+        "evening": "A final dinner reflecting the city's food scene."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Montreal visit noticeably smoother.",
+  "tips": [
+    "Book Notre-Dame Basilica's AURA light show ahead for an evening visit.",
+    "Learn a few basic French phrases — it's appreciated, even if English is widely understood.",
+    "Try both a smoked meat sandwich and a Montreal bagel — they're different institutions.",
+    "Use the Underground City in winter to avoid the cold between indoor stops.",
+    "Check the festival calendar — summer weekends often have a major event underway.",
+    "Combine Montreal with Quebec City for an easy, frequent train connection."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Montreal?",
+      "a": "Three days covers Old Montreal, Mount Royal Park and the city's food scene comfortably."
+    },
+    {
+      "q": "Do you need to speak French in Montreal?",
+      "a": "No, not — English is widely understood, though French is the primary language and a few phrases are appreciated."
+    },
+    {
+      "q": "Is Montreal worth visiting compared to Quebec City?",
+      "a": "Yes — they offer quite different experiences, with Montreal's bigger-city energy complementing Quebec City's more compact colonial charm."
+    },
+    {
+      "q": "What is Montreal known for?",
+      "a": "Its French colonial architecture, Notre-Dame Basilica, and a food scene including smoked meat sandwiches and Montreal-style bagels."
+    },
+    {
+      "q": "Is Montreal cold in winter?",
+      "a": "Yes, very — temperatures regularly drop well below freezing, though the Underground City makes it manageable."
+    },
+    {
+      "q": "Can you combine Montreal with Quebec City?",
+      "a": "Yes, easily — a frequent train connects the two in about three hours."
+    }
+  ],
+  "related": ["quebec-city", "toronto", "niagara-falls"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

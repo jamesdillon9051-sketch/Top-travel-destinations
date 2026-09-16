@@ -1,0 +1,374 @@
+{
+  "slug": "reykjavik",
+  "name": "Reykjavik",
+  "country": "iceland",
+  "region": "Capital Region",
+  "categories": ["capital-city", "major-city", "cultural", "coastal"],
+  "tagline": "The world's northernmost capital, small enough to walk end to end, and the genuine base for almost every Iceland trip.",
+  "highlight": "Standing at the foot of Hallgrímskirkja's 74-metre tower, the whole colourful, low-rise city spread out below toward the bay and the mountains beyond.",
+  "shortDescription": "Iceland's small, walkable capital, its colourful rooftops, geothermal pools and harbourfront concert hall anchoring almost every trip to the country.",
+  "metaDescription": "A Reykjavik travel guide: Hallgrímskirkja, the old harbour, whale watching, geothermal pools, when to go and a practical two-day itinerary.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Keflavík International (KEF), about 45 minutes away; Reykjavik Domestic Airport (RKV) in the city itself",
+  "knownFor": "Hallgrímskirkja, the old harbour, geothermal pools, whale watching",
+  "budget": "ISK 28,000–45,000 per day, mid-range",
+  "goodFor": "A walkable capital base, whale watching, geothermal culture",
+  "coords": { "lat": 64.1466, "lng": -21.9426 },
+  "image": {
+    "file": "File:Hallgrímskirkja, Reykjavík, Iceland, 20230506 1701 5380.jpg",
+    "alt": "Hallgrímskirkja, Reykjavik's landmark church, rising above the city"
+  },
+  "intro": [
+    "Reykjavik is the world's northernmost capital of a sovereign state, and it wears that fact lightly — a small, colourful, low-rise city of corrugated-metal houses in bright paint, built around a working harbour that still lands fish daily alongside the whale-watching boats.",
+    "It holds well over half of Iceland's entire population within its wider metropolitan area, yet the centre itself is compact enough to cover on foot in a single afternoon, with Hallgrímskirkja's distinctive tower serving as a landmark visible from almost anywhere in the old town.",
+    "For nearly every visitor, Reykjavik is also the start and end point of a wider Iceland trip — the base for the Golden Circle, the launch point for whale watching and northern lights tours, and the place to eat well and soak in a geothermal pool before or after days on the Ring Road."
+  ],
+  "whyVisit": {
+    "intro": "Reykjavik's case rests on being a charming, walkable capital that also happens to be the natural gateway to the rest of Iceland.",
+    "points": [
+      {
+        "title": "It's small enough to explore entirely on foot",
+        "text": "The old town, harbour and main shopping street all sit within a compact, easily walkable area."
+      },
+      {
+        "title": "The geothermal pool culture is a real local institution",
+        "text": "Neighbourhood pools are a daily ritual for locals, not just a tourist activity."
+      },
+      {
+        "title": "Whale watching from the city itself is excellent",
+        "text": "Boats depart directly from the old harbour, with good sighting odds much of the year."
+      },
+      {
+        "title": "The food scene is disproportionate to the city's size",
+        "text": "From fine dining to the city's famous hot dog stand, Reykjavik's food culture punches well above its population."
+      },
+      {
+        "title": "It's the natural base for the rest of the country",
+        "text": "The Golden Circle, South Coast and northern lights tours all operate conveniently from here."
+      }
+    ]
+  },
+  "attractionsIntro": "Reykjavik's essential sights span its harbourfront, its landmark church and its compact, walkable old town.",
+  "attractions": [
+    {
+      "name": "Hallgrímskirkja",
+      "image": {
+        "file": "File:Hallgrímskirkja, Reykjavík, Iceland, 20230506 1701 5380.jpg",
+        "alt": "Hallgrímskirkja's distinctive basalt-column-inspired facade"
+      },
+      "text": "Iceland's largest church and tallest building for decades, its facade inspired by the basalt columns found across the country's volcanic landscape.",
+      "tip": "Take the lift up the 74-metre tower for the best view over the city's coloured rooftops."
+    },
+    {
+      "name": "The Old Harbour",
+      "image": {
+        "file": "File:Old Harbour of Reykjavik (5897420133).jpg",
+        "alt": "Boats moored at Reykjavik's old harbour"
+      },
+      "text": "A working harbour that doubles as the departure point for whale-watching and puffin tours, lined with seafood restaurants and the Maritime Museum.",
+      "tip": "Book a whale-watching trip for the best chance of sightings, departing directly from here."
+    },
+    {
+      "name": "Harpa Concert Hall",
+      "image": {
+        "file": "File:Harpa (38859105685).jpg",
+        "alt": "Harpa Concert Hall's geometric glass facade on Reykjavik's waterfront"
+      },
+      "text": "A striking geometric glass facade inspired by Iceland's basalt coastline, home to the Icelandic Symphony Orchestra and Opera.",
+      "tip": "The facade is spectacular lit up after dark — walk past even without a ticket to a performance."
+    },
+    {
+      "name": "The Sun Voyager",
+      "image": {
+        "file": "File:Aurora over the Sun Voyager, Central Reykjavik (37291306216).jpg",
+        "alt": "The Sun Voyager sculpture on Reykjavik's waterfront"
+      },
+      "text": "A striking steel sculpture resembling a Viking longship, framing the mountains across the bay — an ode to the sun, not a literal ship.",
+      "tip": "Sunset or a clear night with the northern lights make this the most photogenic spot in the city."
+    },
+    {
+      "name": "Laugavegur",
+      "image": {
+        "file": "File:Laugavegur and Skólavörðustígur.jpg",
+        "alt": "Shops and cafés along Reykjavik's main street, Laugavegur"
+      },
+      "text": "The genuine heart of Reykjavik's shopping and café culture, its side street Skólavörðustígur running straight up toward Hallgrímskirkja.",
+      "tip": "Skólavörðustígur's colourful facades are one of the most photographed streets in the city."
+    },
+    {
+      "name": "Perlan",
+      "image": {
+        "file": "File:Perlan Reykjavik 2 (25474770205).jpg",
+        "alt": "Perlan's glass dome observation deck above Reykjavik"
+      },
+      "text": "A distinctive glass-domed building atop the city's hot water tanks, its observation deck and ice cave exhibit offering sweeping views.",
+      "tip": "The indoor ice cave exhibit is a good preview if you won't make it to a real glacier."
+    },
+    {
+      "name": "Tjörnin and the City Pond",
+      "image": {
+        "file": "File:Tjörnin lake, Reykjavík-3.jpg",
+        "alt": "Tjörnin, the pond at the heart of central Reykjavik"
+      },
+      "text": "A peaceful pond right at the centre of the city, home to a wide variety of birdlife and bordered by City Hall and the National Gallery.",
+      "tip": "A pleasant, quiet loop walk between the old town's main sights."
+    }
+  ],
+  "thingsToDoIntro": "Reykjavik rewards a slow, walkable pace, with the harbour and geothermal pools as its defining local rituals.",
+  "thingsToDo": [
+    {
+      "title": "Go whale watching from the old harbour",
+      "image": {
+        "file": "File:Whale watching boat (28521013673).jpg",
+        "alt": "A whale-watching boat departing Reykjavik's old harbour"
+      },
+      "text": "Boats depart directly from the city centre, with good odds of minke whales, dolphins and, in season, humpbacks.",
+      "tip": "Dress warmer than you think necessary — the boat deck is cold even in summer."
+    },
+    {
+      "title": "Soak in a local geothermal pool",
+      "text": "Laugardalslaug and Sundhöllin are where locals actually go, far cheaper and just as authentic as the tourist-focused lagoons outside town.",
+      "tip": "A proper pre-swim shower is mandatory and strictly enforced — don't skip it."
+    },
+    {
+      "title": "Climb Hallgrímskirkja's tower",
+      "image": {
+        "file": "File:View of Reykjavík from Hallgrímskirkja, 20230507 1229 5733.jpg",
+        "alt": "The view over Reykjavik's rooftops from Hallgrímskirkja's tower"
+      },
+      "text": "A quick lift ride up delivers the best view in the city, the coloured rooftops spreading out toward the bay and mountains.",
+      "tip": "Quieter first thing in the morning, before tour groups arrive."
+    },
+    {
+      "title": "Explore Laugavegur's shops and cafés",
+      "image": {
+        "file": "File:Laugavegur, Reykjavik.jpg",
+        "alt": "Shopping along Laugavegur, Reykjavik's main street"
+      },
+      "text": "An easy afternoon of independent shops, design stores and coffee, running the length of the old town.",
+      "tip": "Duck up Skólavörðustígur partway along for the best photo of the colourful side street."
+    },
+    {
+      "title": "See the Sun Voyager at sunset",
+      "image": {
+        "file": "File:1990 zum 200-jährigen Jubiläum von Reykjavik wurde die Skulptur Solfar (Sonnenfahrt) enthüllt. 01.jpg",
+        "alt": "The Sun Voyager sculpture on the Reykjavik waterfront"
+      },
+      "text": "A short, worthwhile walk along the waterfront path, particularly rewarding around sunset or under the northern lights.",
+      "tip": "The walk continues pleasantly further along the shore toward Harpa."
+    },
+    {
+      "title": "Visit Perlan's observation deck",
+      "image": {
+        "file": "File:View from Perlan; Reykjavik (14366938455).jpg",
+        "alt": "The view from Perlan's observation deck over Reykjavik"
+      },
+      "text": "A quick way to get your bearings over the whole city, plus an indoor ice cave and planetarium show.",
+      "tip": "Worth combining with a coffee at the revolving restaurant if the weather's poor for outdoor sightseeing."
+    }
+  ],
+  "foodIntro": "Reykjavik's food scene is disproportionate to the city's size, from a famous hot dog stand to serious New Nordic dining.",
+  "foods": [
+    {
+      "name": "Icelandic hot dog",
+      "image": {
+        "file": "File:The Icelandic pylsa (hot dog) (2502658407).jpg",
+        "alt": "An Icelandic hot dog topped with onions and sauces"
+      },
+      "text": "Bæjarins Beztu Pylsur, the country's most famous hot dog stand, has served the same lamb-and-pork sausage since 1937.",
+      "whereToTry": "Bæjarins Beztu Pylsur, downtown near the old harbour."
+    },
+    {
+      "name": "Fresh seafood",
+      "image": {
+        "file": "File:Plokkfiskur.jpg",
+        "alt": "A bowl of plokkfiskur fish stew"
+      },
+      "text": "Landed daily at the old harbour, and served everywhere from casual plokkfiskur stew to serious tasting menus.",
+      "whereToTry": "Harbour-side restaurants around the old harbour and Grandi district."
+    },
+    {
+      "name": "Skyr",
+      "image": {
+        "file": "File:Skyr & Blackberries 20250816 143415.jpg",
+        "alt": "A bowl of skyr topped with berries"
+      },
+      "text": "A daily staple for locals, thick and protein-rich, sold everywhere from supermarkets to café breakfast menus.",
+      "whereToTry": "Cafés and supermarkets citywide."
+    },
+    {
+      "name": "Icelandic lamb",
+      "image": {
+        "file": "File:Rack-of-lambs.jpg",
+        "alt": "A roast lamb dish"
+      },
+      "text": "Free-range and grass-fed, a staple of Reykjavik's restaurant menus at every price point.",
+      "whereToTry": "Restaurants citywide, from casual bistros to fine dining."
+    },
+    {
+      "name": "Rúgbrauð",
+      "image": {
+        "file": "File:Jonge vrouw stopt een blikken bus met deeg in de hete grond om brood te bakken, Bestanddeelnr 190-0313.jpg",
+        "alt": "A loaf of traditional Icelandic rye bread"
+      },
+      "text": "A dense, faintly sweet dark rye bread, traditionally geothermally baked, sold at bakeries across the city.",
+      "whereToTry": "Bakeries citywide, particularly good with smoked fish."
+    },
+    {
+      "name": "Brennivín",
+      "image": {
+        "file": "File:Iceland Schnapps! (3083475243).jpg",
+        "alt": "A bottle of Brennivín, Iceland's traditional spirit"
+      },
+      "text": "A potent caraway schnapps nicknamed 'Black Death,' worth trying at least once in a proper Reykjavik bar.",
+      "whereToTry": "Bars citywide, and the Vínbúðin liquor store to take a bottle home."
+    }
+  ],
+  "accommodation": {
+    "intro": "Central Reykjavik is small enough that almost any downtown base works well on foot.",
+    "areas": [
+      {
+        "name": "Old town / downtown",
+        "bestFor": "Walking distance to everything, including the harbour",
+        "text": "The most convenient base, close to Laugavegur, Hallgrímskirkja and the old harbour."
+      },
+      {
+        "name": "Harbour district (Grandi)",
+        "bestFor": "A quieter, slightly more local feel",
+        "text": "A short walk from downtown, popular for its converted warehouse restaurants and museums."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "ISK 18,000–28,000 per night" },
+      { "label": "Mid-range hotel", "value": "ISK 35,000–55,000 per night" },
+      { "label": "Whale watching tour", "value": "About ISK 12,000–15,000" },
+      { "label": "Geothermal pool entry", "value": "About ISK 1,500–2,000" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Reykjavik is reached via Keflavík International Airport, about 45 minutes from the city centre.",
+    "options": [
+      {
+        "mode": "Airport transfer bus",
+        "text": "Flybus and similar services run frequently from Keflavík, the standard way to reach the city without a car.",
+        "detail": "Booking ahead online is cheaper than paying on arrival."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Available at Keflavík Airport, useful if starting a Ring Road trip immediately.",
+        "detail": "Not necessary for the city itself, which is walkable."
+      },
+      {
+        "mode": "Domestic flights",
+        "text": "Reykjavik Domestic Airport, in the city itself, connects to Akureyri and other regional towns.",
+        "detail": "A quick way to reach North Iceland without the full drive."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Central Reykjavik is walkable, with a car needed mainly for day trips beyond the city.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The old town, harbour and Laugavegur are all within a compact, easily walkable area.",
+        "detail": "Most visitors need no other transport within the city itself."
+      },
+      {
+        "mode": "Strætó city buses",
+        "text": "A reliable network covering the wider city, useful for reaching Laugardalslaug pool or the suburbs.",
+        "detail": "A Klapp card covers fares across the network."
+      },
+      {
+        "mode": "Rental car or organised tours",
+        "text": "Necessary for day trips to the Golden Circle or South Coast from the city.",
+        "detail": "Numerous tour operators run day trips for visitors without a car."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June–August for long daylight, or February–March for the northern lights",
+    "summary": "Reykjavik works year-round, since most of its sights are indoors or short outdoor walks.",
+    "seasons": [
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Near-endless daylight and the mildest weather, also the busiest season."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Quieter, with the aurora becoming visible again as nights darken."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "good",
+        "text": "Short days but good aurora odds, with a cosy indoor café culture to retreat to."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "good",
+        "text": "Increasingly long days and thinner crowds than summer."
+      }
+    ],
+    "avoid": "Nothing strongly — Reykjavik works in any season, with the choice mainly about daylight and northern lights odds rather than comfort."
+  },
+  "itinerary": {
+    "title": "Two days in Reykjavik",
+    "intro": "The old town and harbour on the first day, whale watching and the wider city on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town",
+        "summary": "Hallgrímskirkja, Laugavegur and the harbour.",
+        "morning": "Hallgrímskirkja's tower and the old town's streets.",
+        "afternoon": "Laugavegur's shops and cafés, then the Sun Voyager.",
+        "evening": "Dinner near the old harbour."
+      },
+      {
+        "day": 2,
+        "title": "The harbour and beyond",
+        "summary": "Whale watching and a wider city view.",
+        "morning": "A whale-watching tour from the old harbour.",
+        "afternoon": "Perlan's observation deck and ice cave exhibit.",
+        "evening": "A soak at a local geothermal pool."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, weather and pools that make a real difference to a Reykjavik visit.",
+  "tips": [
+    "Book whale watching and northern lights tours ahead, especially in peak summer or winter weeks.",
+    "Shower thoroughly before any pool — it's mandatory, not optional, and staff do check.",
+    "Pack proper layers even in summer — Reykjavik's weather changes fast.",
+    "Use Reykjavik as a base for Golden Circle and South Coast day trips if you don't want to drive.",
+    "Check the aurora forecast on clear winter nights — you can see it from the city outskirts.",
+    "Book restaurants ahead for dinner in peak season — Reykjavik's best kitchens fill up."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Reykjavik?",
+      "a": "Two days covers the old town, harbour and a whale-watching trip comfortably. Most visitors then use the city as a base for the Golden Circle and South Coast."
+    },
+    {
+      "q": "Is Reykjavik worth visiting on its own?",
+      "a": "Yes, for two or three days — but it's also the natural base for the rest of Iceland, and few visitors stop at the city alone."
+    },
+    {
+      "q": "Can you see the northern lights from Reykjavik?",
+      "a": "Yes, on clear nights roughly September to April, though moving slightly outside the city centre improves visibility away from streetlights."
+    },
+    {
+      "q": "Do you need a car in Reykjavik?",
+      "a": "Not for the city itself, which is walkable. A car or organised tour becomes necessary for day trips like the Golden Circle."
+    },
+    {
+      "q": "Is whale watching worth it from Reykjavik?",
+      "a": "Yes, good odds much of the year, with minke whales and dolphins common and humpbacks frequent in summer."
+    },
+    {
+      "q": "What is the best geothermal pool in Reykjavik?",
+      "a": "Laugardalslaug is the largest and most popular with locals; Sundhöllin, the city's oldest pool, is smaller and more central."
+    }
+  ],
+  "related": ["golden-circle", "blue-lagoon-reykjanes", "south-coast"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

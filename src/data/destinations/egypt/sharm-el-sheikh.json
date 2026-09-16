@@ -1,0 +1,361 @@
+{
+  "slug": "sharm-el-sheikh",
+  "name": "Sharm El Sheikh",
+  "country": "egypt",
+  "region": "South Sinai",
+  "categories": ["beach", "diving", "resort", "nature"],
+  "tagline": "Egypt's largest Red Sea resort town, built around extraordinary coral reefs and some of the best diving conditions on Earth.",
+  "highlight": "Drifting over Ras Mohammed's coral wall, a sheer drop into deep blue water lined with more fish species than seems possible in one place.",
+  "shortDescription": "Egypt's largest Red Sea resort town, home to Ras Mohammed National Park and some of the most extraordinary coral reef diving and snorkelling on Earth.",
+  "metaDescription": "A Sharm El Sheikh travel guide: Ras Mohammed National Park, Naama Bay, diving and snorkelling, food and how to plan a Red Sea resort trip.",
+  "suggestedStay": "4-5 days",
+  "nearestAirport": "Sharm El Sheikh International Airport (SSH)",
+  "knownFor": "World-class diving, coral reefs, Naama Bay",
+  "budget": "E£2,500–5,000 per day, mid-range (often resort-inclusive)",
+  "goodFor": "Diving, snorkelling, beach relaxation",
+  "coords": { "lat": 27.9158, "lng": 34.3300 },
+  "image": {
+    "file": "File:South Sinai , Egypt.jpg",
+    "alt": "The South Sinai coastline near Sharm El Sheikh"
+  },
+  "intro": [
+    "Sharm El Sheikh is Egypt's largest and best-developed Red Sea resort town, built along the southern tip of the Sinai Peninsula where the desert meets some of the most extraordinary coral reefs on Earth.",
+    "Its real draw is underwater — extraordinary visibility, healthy coral and a density of marine species that has made this coastline one of the world's premier diving destinations for decades.",
+    "Most visitors base themselves around Naama Bay or a nearby resort strip, splitting time between diving or snorkelling trips to Ras Mohammed National Park and simply relaxing by the Red Sea itself."
+  ],
+  "whyVisit": {
+    "intro": "Sharm El Sheikh's case rests on being one of the world's great diving and snorkelling destinations, with resort infrastructure to match.",
+    "points": [
+      {
+        "title": "Ras Mohammed is one of the world's best dive sites",
+        "text": "Extraordinary coral walls and visibility at the meeting point of two seas."
+      },
+      {
+        "title": "The coral reefs here are remarkably healthy",
+        "text": "Some of the best-preserved reef systems left in the Red Sea."
+      },
+      {
+        "title": "It's accessible to every experience level",
+        "text": "From beginner snorkellers to advanced technical divers, all well catered for."
+      },
+      {
+        "title": "The resort infrastructure is well developed",
+        "text": "A wide range of hotels, restaurants and dive centres to suit any budget."
+      },
+      {
+        "title": "It works well as a Red Sea extension to a Nile-focused trip",
+        "text": "A direct flight connects easily to Cairo or elsewhere in Egypt."
+      }
+    ]
+  },
+  "attractionsIntro": "Sharm El Sheikh's essential sights are mostly underwater, at some of the Red Sea's finest reef locations.",
+  "attractions": [
+    {
+      "name": "Naama Bay",
+      "image": {
+        "file": "File:Naama Bay R01.jpg",
+        "alt": "Naama Bay in Sharm El Sheikh"
+      },
+      "text": "The town's main hub, a curving bay lined with hotels, restaurants and dive centres right on the water.",
+      "tip": "A lively spot for an evening stroll, with restaurants spanning every cuisine and budget."
+    },
+    {
+      "name": "Ras Mohammed National Park",
+      "image": {
+        "file": "File:Ras Mohammed national park - panoramio.jpg",
+        "alt": "Ras Mohammed National Park near Sharm El Sheikh"
+      },
+      "text": "One of the world's premier dive and snorkel sites, where the Gulf of Aqaba and Gulf of Suez meet in extraordinary biodiversity.",
+      "tip": "Book a full-day boat trip here rather than a rushed half-day for the best experience."
+    },
+    {
+      "name": "The reef's coral formations",
+      "image": {
+        "file": "File:Коралловый риф Наама Бей.jpg",
+        "alt": "Coral reef formations near Sharm El Sheikh"
+      },
+      "text": "Remarkably healthy and colourful, among the best-preserved coral systems remaining in the Red Sea.",
+      "tip": "Never touch or stand on coral — it's a fragile, slow-growing ecosystem."
+    },
+    {
+      "name": "Clownfish in sea anemones",
+      "image": {
+        "file": "File:Pez payaso (Amphiprion bicinctus) en una anémona magnífica (Heteractis magnifica), mar Rojo, Egipto, 2023-04-18, DD 93.jpg",
+        "alt": "Clownfish sheltering in a sea anemone in the Red Sea"
+      },
+      "text": "A reliable, delightful sighting for snorkellers and divers alike across the reef.",
+      "tip": "Watch quietly from a respectful distance — clownfish are territorial and can nip if disturbed."
+    },
+    {
+      "name": "Hawksbill sea turtles",
+      "image": {
+        "file": "File:Tortuga carey (Eretmochelys imbricata), parque nacional Ras Muhammad, Egipto, 2022-03-28, DD 56.jpg",
+        "alt": "A hawksbill sea turtle in the Red Sea"
+      },
+      "text": "A real, if not guaranteed, highlight of many dives and snorkel trips around Ras Mohammed.",
+      "tip": "Never chase or touch a turtle — observe patiently and let it approach on its own terms."
+    },
+    {
+      "name": "Naama Bay's beach",
+      "image": {
+        "file": "File:Naama Bay Beach R01.jpg",
+        "alt": "The beach at Naama Bay"
+      },
+      "text": "A relaxed stretch of sand right in the centre of town, easy access for a swim between other activities.",
+      "tip": "Most resort beaches are private to guests, though public access points exist nearby."
+    },
+    {
+      "name": "The reef's moray eels",
+      "image": {
+        "file": "File:Morey Eel in Red Sea, Naama Bay, Sharm-el-Sheikh.jpg",
+        "alt": "A moray eel in the Red Sea near Sharm El Sheikh"
+      },
+      "text": "A common sighting for divers exploring the reef's crevices and coral overhangs.",
+      "tip": "A good subject for underwater photography, if you keep a safe, respectful distance."
+    }
+  ],
+  "thingsToDoIntro": "Sharm El Sheikh exists for its underwater world, though plenty of relaxation rounds out a visit.",
+  "thingsToDo": [
+    {
+      "title": "Dive or snorkel Ras Mohammed",
+      "image": {
+        "file": "File:Coral (Favia favus), parque nacional Ras Muhammad, Egipto, 2022-03-27, DD 12.jpg",
+        "alt": "Coral at Ras Mohammed National Park"
+      },
+      "text": "An essential Sharm El Sheikh experience, exploring some of the Red Sea's finest reef at this protected national park.",
+      "tip": "Book with a PADI or SSI certified dive centre, especially for anything beyond snorkelling."
+    },
+    {
+      "title": "Spot clownfish in anemones",
+      "image": {
+        "file": "File:Peces payaso (Amphiprion bicinctus) en una anémona magnífica (Heteractis magnifica), parque nacional Ras Muhammad, Egipto, 2022-03-27, DD 35.jpg",
+        "alt": "Clownfish in an anemone at Ras Mohammed"
+      },
+      "text": "A delightful, accessible sighting even for first-time snorkellers.",
+      "tip": "Bring an underwater camera or housing — this is one of the reef's most photogenic residents."
+    },
+    {
+      "title": "Watch for sea turtles while snorkelling",
+      "image": {
+        "file": "File:Tortuga carey (Eretmochelys imbricata), parque nacional Ras Muhammad, Egipto, 2022-03-28, DD 56.jpg",
+        "alt": "Snorkelling near a sea turtle in the Red Sea"
+      },
+      "text": "A memorable moment for many visitors, spotting a hawksbill turtle gliding gracefully over the reef.",
+      "tip": "Stay calm and still — sudden movements tend to send turtles swimming away quickly."
+    },
+    {
+      "title": "Relax on Naama Bay's beach",
+      "image": {
+        "file": "File:Sharm el Sheikh Naama Bay - panoramio (10).jpg",
+        "alt": "Relaxing on the beach at Naama Bay"
+      },
+      "text": "An easy way to balance out days of diving, simple beach time right in the centre of town.",
+      "tip": "Most resorts offer sun loungers and water sports right on the sand."
+    },
+    {
+      "title": "Look for moray eels on a dive",
+      "image": {
+        "file": "File:Morey Eel in Red Sea, Naama Bay, Sharm-el-Sheikh.jpg",
+        "alt": "Diving near a moray eel"
+      },
+      "text": "An exciting find for divers exploring the reef's nooks and coral formations.",
+      "tip": "Ask your dive guide to point out likely moray hiding spots along the route."
+    },
+    {
+      "title": "Explore the reef's angelfish",
+      "image": {
+        "file": "File:Pez ángel real (Pygoplites diacanthus), parque nacional Ras Muhammad, Egipto, 2022-03-26, DD 155.jpg",
+        "alt": "A royal angelfish on the reef near Sharm El Sheikh"
+      },
+      "text": "A colourful highlight of any dive or snorkel trip, angelfish among the reef's most striking residents.",
+      "tip": "Their vivid colours make them a rewarding subject for underwater photography."
+    }
+  ],
+  "foodIntro": "Sharm El Sheikh's food spans international resort dining alongside fresh Red Sea seafood.",
+  "foods": [
+    {
+      "name": "Fresh Red Sea seafood",
+      "text": "A highlight of dining here, fish and shellfish landed fresh from the surrounding waters.",
+      "whereToTry": "Restaurants throughout Naama Bay and the wider resort strip."
+    },
+    {
+      "name": "Grilled kofta",
+      "image": {
+        "file": "File:Grilled Kofta.jpg",
+        "alt": "Grilled kofta, spiced minced meat skewers"
+      },
+      "text": "A reliable classic, found throughout the town's restaurants.",
+      "whereToTry": "Restaurants throughout Sharm El Sheikh."
+    },
+    {
+      "name": "Koshari",
+      "image": {
+        "file": "File:Egyptian Koshari.jpg",
+        "alt": "Koshari, Egypt's national dish of rice, lentils and pasta"
+      },
+      "text": "Available at Egyptian restaurants throughout the resort area, a taste of home for local staff and visitors alike.",
+      "whereToTry": "Egyptian restaurants throughout the town."
+    },
+    {
+      "name": "Ful medames",
+      "image": {
+        "file": "File:Foul Mudames.jpg",
+        "alt": "Ful medames, a traditional Egyptian fava bean breakfast"
+      },
+      "text": "A traditional breakfast option, found at both resort buffets and local cafés.",
+      "whereToTry": "Cafés and resort breakfasts throughout Sharm El Sheikh."
+    },
+    {
+      "name": "Taameya (Egyptian falafel)",
+      "text": "Egypt's own fava bean version of falafel, available throughout the town.",
+      "whereToTry": "Restaurants and street stalls throughout Sharm El Sheikh."
+    },
+    {
+      "name": "Karkade (hibiscus tea)",
+      "text": "A refreshing national drink, a nice complement to a day by the Red Sea.",
+      "whereToTry": "Cafés and restaurants throughout the resort area."
+    }
+  ],
+  "accommodation": {
+    "intro": "Sharm El Sheikh offers a huge range of resort accommodation, from budget dive lodges to luxury all-inclusive hotels.",
+    "areas": [
+      {
+        "name": "Naama Bay",
+        "bestFor": "Being central with the widest choice of restaurants and dive centres",
+        "text": "The liveliest, most convenient base for most visitors."
+      },
+      {
+        "name": "Quieter resort strips further out",
+        "bestFor": "A more relaxed, all-inclusive resort experience",
+        "text": "A short taxi from Naama Bay, with larger, more secluded properties."
+      }
+    ],
+    "budget": [
+      { "label": "Budget dive lodge", "value": "E£800–1,600 per night" },
+      { "label": "Mid-range resort", "value": "E£2,500–5,000 per night" },
+      { "label": "Two-tank dive trip", "value": "About E£1,800–2,800" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About E£300–600 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Sharm El Sheikh is well connected by direct flights, both domestic and international.",
+    "options": [
+      {
+        "mode": "Flight from Cairo",
+        "text": "The standard domestic connection, taking about an hour.",
+        "detail": "Frequent daily flights make Sharm an easy Red Sea addition to a Nile-focused trip."
+      },
+      {
+        "mode": "Direct international flights",
+        "text": "Available from many European and Middle Eastern cities.",
+        "detail": "A popular direct resort destination not requiring a Cairo stopover."
+      },
+      {
+        "mode": "Bus from Cairo",
+        "text": "A long but budget-friendly overland option.",
+        "detail": "Takes around six to eight hours via the Sinai Peninsula."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Sharm El Sheikh is spread across a resort strip, with taxis and organised transfers the standard way around.",
+    "options": [
+      {
+        "mode": "Resort shuttles and dive centre transfers",
+        "text": "The standard way to reach dive and snorkel sites from your hotel.",
+        "detail": "Most dive centres include hotel pickup as part of the trip."
+      },
+      {
+        "mode": "Taxis",
+        "text": "Useful for reaching restaurants and Naama Bay from other resort areas.",
+        "detail": "Widely available, though agree the fare before starting your journey."
+      },
+      {
+        "mode": "On foot within Naama Bay",
+        "text": "Easy for the central resort strip itself.",
+        "detail": "Restaurants, dive centres and the beach all sit within a comfortable walk."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March to May and September to November for the most comfortable diving conditions",
+    "summary": "Sharm El Sheikh is a year-round destination, with water temperatures staying warm even in winter.",
+    "seasons": [
+      {
+        "season": "Spring and autumn (March–May, September–November)",
+        "rating": "best",
+        "text": "The most comfortable air and water temperatures for diving and beach time."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Hot on land, though the water itself stays pleasant for diving and snorkelling."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "good",
+        "text": "Mild and popular with visitors escaping colder climates, water temperatures still comfortable."
+      }
+    ],
+    "avoid": "Nothing strongly — Sharm El Sheikh's warm Red Sea waters make it a workable diving destination in any season."
+  },
+  "itinerary": {
+    "title": "Two days in Sharm El Sheikh",
+    "intro": "Built around a full-day Ras Mohammed trip on day one, relaxation and a second dive on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Ras Mohammed National Park",
+        "summary": "A full-day diving or snorkelling trip.",
+        "morning": "Boat out to Ras Mohammed National Park.",
+        "afternoon": "Multiple dive or snorkel stops along the reef.",
+        "evening": "Dinner in Naama Bay."
+      },
+      {
+        "day": 2,
+        "title": "Relaxation and a second dive",
+        "summary": "Beach time and an optional local reef dive.",
+        "morning": "A local shore dive or snorkel session.",
+        "afternoon": "Relax on Naama Bay's beach.",
+        "evening": "A final dinner by the water."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Sharm El Sheikh visit noticeably smoother.",
+  "tips": [
+    "Book with a PADI or SSI certified dive centre for any diving beyond snorkelling.",
+    "Bring your own certification card if you're a qualified diver.",
+    "Pack reef-safe sunscreen to help protect the coral.",
+    "Never touch or stand on coral — it's a fragile, slow-growing ecosystem.",
+    "Stay hydrated and use sun protection, even on overcast days on the water.",
+    "Book a Ras Mohammed trip a day or two ahead through your resort or a dive centre."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Sharm El Sheikh?",
+      "a": "Four to five days allows for multiple dive or snorkel trips alongside real relaxation time."
+    },
+    {
+      "q": "Do you need to be a certified diver to visit?",
+      "a": "No, not — excellent snorkelling is available for non-divers, and beginner dive courses are widely offered."
+    },
+    {
+      "q": "Is Ras Mohammed worth the trip?",
+      "a": "Yes — it's considered one of the world's premier dive and snorkel sites, with extraordinary visibility and marine life."
+    },
+    {
+      "q": "What is Sharm El Sheikh known for?",
+      "a": "World-class Red Sea diving and snorkelling, alongside a well-developed resort scene at Naama Bay."
+    },
+    {
+      "q": "Is Sharm El Sheikh good for beginners?",
+      "a": "Yes — the resort has extensive infrastructure for every experience level, from first-time snorkellers to advanced divers."
+    },
+    {
+      "q": "Can you combine Sharm El Sheikh with the Nile Valley?",
+      "a": "Yes, easily — a direct flight connects to Cairo, making it a natural Red Sea extension to a Nile-focused Egypt trip."
+    }
+  ],
+  "related": ["dahab", "hurghada", "nile-cruise"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

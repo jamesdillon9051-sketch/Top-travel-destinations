@@ -3,7 +3,7 @@
   "name": "Portugal",
   "continent": "Southern Europe",
   "countryCode": "PT",
-  "tagline": "Hillside capitals of tiled facades and yellow trams, a wine valley terraced for two thousand years, and an Atlantic coastline that stays genuinely uncrowded compared to its Mediterranean neighbours.",
+  "tagline": "Hillside capitals of tiled facades and yellow trams, a wine valley terraced for two thousand years, and an Atlantic coastline that stays uncrowded compared to its Mediterranean neighbours.",
   "cardDescription": "Lisbon's hills and trams, Porto's port wine cellars, Sintra's fairy-tale palaces, and an Atlantic coast running from the Algarve to volcanic Azores islands.",
   "metaDescription": "A complete Portugal travel guide: the 10 best places to visit, trains, food, costs, etiquette and a two-week itinerary.",
   "image": {
@@ -23,9 +23,9 @@
     "azores-sao-miguel"
   ],
   "intro": [
-    "Portugal has spent the last decade quietly becoming one of Europe's most talked-about destinations, and the case for it holds up in person: Lisbon and Porto both pair genuine hillside charm — tiled facades, steep funiculars, pastel houses stacked above a river — with a cost of living noticeably lower than Spain, France or Italy for a genuinely comparable quality of food, wine and history.",
-    "That value extends well beyond the two big cities. The Douro Valley's terraced vineyards have grown wine for over two thousand years, port wine among them since the 17th century, Sintra's hillside palaces look like they were designed for a fairy tale rather than a Portuguese king's actual summer retreat, and the Algarve's dramatic limestone cliffs meet Atlantic water that stays genuinely swimmable without the Mediterranean's summer crowds.",
-    "Portugal's islands push the range further still — Madeira's volcanic peaks and levada trails, and the Azores' genuinely wild, still-active volcanic landscape, are both a short flight from the mainland yet feel like an entirely different country. A well-developed train network between the mainland's cities, plus the islands' own domestic flight connections, make combining several of these in one trip genuinely straightforward."
+    "Portugal has spent the last decade quietly becoming one of Europe's most talked-about destinations, and the case for it holds up in person: Lisbon and Porto both pair genuine hillside charm — tiled facades, steep funiculars, pastel houses stacked above a river — with a cost of living noticeably lower than Spain, France or Italy for a comparable quality of food, wine and history.",
+    "That value extends well beyond the two big cities. The Douro Valley's terraced vineyards have grown wine for over two thousand years, port wine among them since the 17th century, Sintra's hillside palaces look like they were designed for a fairy tale rather than a Portuguese king's actual summer retreat, and the Algarve's dramatic limestone cliffs meet Atlantic water that stays swimmable without the Mediterranean's summer crowds.",
+    "Portugal's islands push the range further still — Madeira's volcanic peaks and levada trails, and the Azores' wild, still-active volcanic landscape, are both a short flight from the mainland yet feel like an entirely different country. A well-developed train network between the mainland's cities, plus the islands' own domestic flight connections, make combining several of these in one trip straightforward."
   ],
   "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit — though Évora and Óbidos reward a second trip just as much as a first.",
   "thingsToDoIntro": "The experiences that recur across the country and that make a Portugal trip feel like more than a checklist of tiled facades and pastéis de nata.",
@@ -36,7 +36,7 @@
         "file": "File:Alfama, Lisbon, Portugal July 2021 - Tram.jpg",
         "alt": "A traditional yellow tram climbing through Lisbon's Alfama district"
       },
-      "text": "Lisbon's rattling yellow trams, particularly Tram 28, climb genuinely steep hills through the old city, a functioning transit system as much as a tourist ride.",
+      "text": "Lisbon's rattling yellow trams, particularly Tram 28, climb steep hills through the old city, a functioning transit system as much as a tourist ride.",
       "tip": "Ride Tram 28 early morning or late in the day, when it's noticeably less packed than the middle of the day."
     },
     {
@@ -45,12 +45,12 @@
         "file": "File:Pasteis de nata from Belem (22023386232).jpg",
         "alt": "Fresh pastéis de nata, Portugal's custard tarts, dusted with cinnamon"
       },
-      "text": "Portugal's beloved custard tart, genuinely best eaten warm with a dusting of cinnamon, is a national institution rather than just a tourist souvenir.",
-      "tip": "Pastéis de Belém in Lisbon bakes to the original 19th-century recipe, though genuinely good versions exist at bakeries nationwide."
+      "text": "Portugal's beloved custard tart, best eaten warm with a dusting of cinnamon, is a national institution rather than just a tourist souvenir.",
+      "tip": "Pastéis de Belém in Lisbon bakes to the original 19th-century recipe, though good versions exist at bakeries nationwide."
     },
     {
       "title": "Listen to fado",
-      "text": "Portugal's melancholic traditional music, genuinely rooted in Lisbon's working-class neighbourhoods, is best experienced at a small, unamplified venue rather than a tourist dinner-show.",
+      "text": "Portugal's melancholic traditional music, rooted in Lisbon's working-class neighbourhoods, is best experienced at a small, unamplified venue rather than a tourist dinner-show.",
       "tip": "Seek out a genuine casa de fado in Alfama or Mouraria over a scripted tourist-menu version elsewhere in the city."
     },
     {
@@ -60,20 +60,20 @@
         "alt": "Terraced vineyards in Portugal's Douro Valley"
       },
       "text": "Port wine's genuine home is the Douro Valley's steep terraced vineyards, though the wine's cellars and tastings are concentrated across the river from Porto in Vila Nova de Gaia.",
-      "tip": "A day trip into the Douro Valley itself, not just a Porto cellar tour, gives a genuinely fuller picture of where port actually comes from."
+      "tip": "A day trip into the Douro Valley itself, not just a Porto cellar tour, gives a fuller picture of where port actually comes from."
     },
     {
-      "title": "Walk a genuinely dramatic Atlantic coastline",
-      "text": "From the Algarve's limestone cliffs to the wilder beaches further north, Portugal's Atlantic coast offers genuinely striking scenery without the Mediterranean's summer crowds.",
-      "tip": "The Algarve's less-developed western coast (Costa Vicentina) offers genuinely dramatic cliffs with noticeably fewer visitors than the eastern resort strip."
+      "title": "Walk a dramatic Atlantic coastline",
+      "text": "From the Algarve's limestone cliffs to the wilder beaches further north, Portugal's Atlantic coast offers striking scenery without the Mediterranean's summer crowds.",
+      "tip": "The Algarve's less-developed western coast (Costa Vicentina) offers dramatic cliffs with noticeably fewer visitors than the eastern resort strip."
     },
     {
       "title": "Explore a hilltop castle or palace",
-      "text": "Sintra's palaces and countless hilltop castles nationwide reflect Portugal's genuinely deep royal and Moorish architectural history.",
+      "text": "Sintra's palaces and countless hilltop castles nationwide reflect Portugal's deep royal and Moorish architectural history.",
       "tip": "Arrive at opening time for Sintra's most famous palaces, which fill with day-trip crowds from Lisbon by mid-morning."
     }
   ],
-  "foodIntro": "Portuguese food's reputation abroad rarely does justice to a genuinely serious seafood and regional wine culture found at every price point.",
+  "foodIntro": "Portuguese food's reputation abroad rarely does justice to a serious seafood and regional wine culture found at every price point.",
   "foods": [
     {
       "name": "Bacalhau (salt cod)",
@@ -81,8 +81,8 @@
         "file": "File:Bacalhau à Brás at Restaurante Figus, Lisbon (46935287645).jpg",
         "alt": "Bacalhau à Brás, a Portuguese salt cod dish with eggs and shoestring potatoes"
       },
-      "text": "Portugal's national ingredient, genuinely said to have a different recipe for every day of the year, from bacalhau à brás to grilled whole fillets.",
-      "whereToTry": "Traditional tascas nationwide — a genuinely good bacalhau dish is a reliable measure of a restaurant's quality."
+      "text": "Portugal's national ingredient, said to have a different recipe for every day of the year, from bacalhau à brás to grilled whole fillets.",
+      "whereToTry": "Traditional tascas nationwide — a good bacalhau dish is a reliable measure of a restaurant's quality."
     },
     {
       "name": "Pastéis de nata",
@@ -90,17 +90,17 @@
         "file": "File:Pasteis de nata from Belem (22023386232).jpg",
         "alt": "Fresh pastéis de nata, Portugal's custard tarts, dusted with cinnamon"
       },
-      "text": "Flaky pastry custard tarts, genuinely one of Portugal's most beloved and widely exported culinary exports, best eaten fresh and warm.",
+      "text": "Flaky pastry custard tarts, one of Portugal's most beloved and widely exported culinary exports, best eaten fresh and warm.",
       "whereToTry": "Pastéis de Belém in Lisbon for the original recipe, or any genuine local pastelaria nationwide."
     },
     {
       "name": "Francesinha",
-      "text": "Porto's genuinely indulgent sandwich, layered with meats, melted cheese and a spicy beer-and-tomato sauce, a defining northern Portuguese comfort food.",
-      "whereToTry": "Traditional restaurants in Porto, where the dish genuinely originated and remains a point of local pride."
+      "text": "Porto's indulgent sandwich, layered with meats, melted cheese and a spicy beer-and-tomato sauce, a defining northern Portuguese comfort food.",
+      "whereToTry": "Traditional restaurants in Porto, where the dish originated and remains a point of local pride."
     },
     {
       "name": "Grilled sardines",
-      "text": "Simply grilled whole sardines, genuinely a summer staple especially during Lisbon's Santo António festival in June.",
+      "text": "Simply grilled whole sardines, a summer staple especially during Lisbon's Santo António festival in June.",
       "whereToTry": "Street stalls and traditional restaurants nationwide, particularly excellent in coastal towns."
     },
     {
@@ -109,12 +109,12 @@
         "file": "File:Terraced vineyards of the Douro.jpg",
         "alt": "Terraced vineyards in Portugal's Douro Valley"
       },
-      "text": "A genuinely globally recognised fortified wine, produced exclusively in the Douro Valley, with styles ranging from ruby to aged tawny.",
+      "text": "A globally recognised fortified wine, produced exclusively in the Douro Valley, with styles ranging from ruby to aged tawny.",
       "whereToTry": "Port lodges in Vila Nova de Gaia across from Porto, or wineries directly in the Douro Valley."
     },
     {
       "name": "Caldo verde",
-      "text": "A genuinely simple, comforting kale and potato soup with slices of chouriço, a defining Portuguese home-cooking classic.",
+      "text": "A simple, comforting kale and potato soup with slices of chouriço, a defining Portuguese home-cooking classic.",
       "whereToTry": "Traditional restaurants nationwide, especially welcome in cooler months."
     }
   ],
@@ -127,7 +127,7 @@
     "visa": "Visa-free entry for up to 90 days within a 180-day period for many nationalities including the US, Canada, Australia and UK, under the Schengen Area's common rules.",
     "plugs": "Type C and F (Europlug/Schuko), 230 V, 50 Hz — standard continental European two-pin plugs.",
     "emergency": "112 for all emergencies, nationwide.",
-    "tipping": "Not obligatory but genuinely appreciated. Rounding up or adding roughly 5–10% for good restaurant service is standard practice.",
+    "tipping": "Not obligatory but appreciated. Rounding up or adding roughly 5–10% for good restaurant service is standard practice.",
     "safety": "Very safe overall, consistently ranked among Europe's safest countries. Pickpocketing occurs on Lisbon's crowded trams and tourist areas — standard vigilance is enough to avoid it.",
     "connectivity": "Good 4G and 5G coverage nationwide, including most rural areas, with an EU roaming agreement or local SIM covering most visitor needs easily.",
     "timeZone": "Western European Time (UTC+0) in winter, Western European Summer Time (UTC+1) from late March to late October — the same zone as the UK, not the rest of continental Europe.",
@@ -150,7 +150,7 @@
       {
         "season": "Summer (June–August)",
         "rating": "good",
-        "text": "Hot and dry, especially inland, and the most reliable weather for the Algarve's beaches, but also genuinely the most crowded and expensive months."
+        "text": "Hot and dry, especially inland, and the most reliable weather for the Algarve's beaches, but also the most crowded and expensive months."
       },
       {
         "season": "Autumn (September–October)",
@@ -160,14 +160,14 @@
       {
         "season": "Winter (November–February)",
         "rating": "shoulder",
-        "text": "Mild by northern European standards on the mainland, wetter in the north, with the islands staying genuinely temperate year-round."
+        "text": "Mild by northern European standards on the mainland, wetter in the north, with the islands staying temperate year-round."
       }
     ],
     "avoid": "The Algarve in August without accommodation booked far ahead — Portuguese and European summer holidays push the region to its busiest, most expensive point of the year."
   },
   "tripDuration": {
     "headline": "10–14 days for a first trip",
-    "summary": "Portugal's compact mainland and good train network make an ambitious city-and-coast itinerary genuinely workable, though the islands each reward dedicated time of their own.",
+    "summary": "Portugal's compact mainland and good train network make an ambitious city-and-coast itinerary workable, though the islands each reward dedicated time of their own.",
     "options": [
       {
         "length": "4–5 days",
@@ -177,7 +177,7 @@
       {
         "length": "8–10 days",
         "text": "Lisbon, Sintra and Porto, connected by train — the classic first-trip route connecting Portugal's two great cities.",
-        "detail": "Add a day in Óbidos or the Douro Valley for a genuinely well-rounded route without extending the core itinerary much."
+        "detail": "Add a day in Óbidos or the Douro Valley for a well-rounded route without extending the core itinerary much."
       },
       {
         "length": "12–16 days",
@@ -186,8 +186,8 @@
       },
       {
         "length": "3 weeks or more",
-        "text": "Add Madeira or the Azores, both genuinely worth a dedicated 4–5 day stay rather than a rushed add-on.",
-        "detail": "The islands and a genuinely unhurried pace through the Alentejo's inland towns are where a second Portugal trip belongs."
+        "text": "Add Madeira or the Azores, both worth a dedicated 4–5 day stay rather than a rushed add-on.",
+        "detail": "The islands and an unhurried pace through the Alentejo's inland towns are where a second Portugal trip belongs."
       }
     ]
   },
@@ -206,7 +206,7 @@
       },
       {
         "mode": "Rental car",
-        "text": "Genuinely essential for exploring the [[douro-valley|Douro Valley]]'s wineries, the wider [[algarve|Algarve]] coastline and [[evora|Évora]]'s Alentejo countryside at a flexible pace.",
+        "text": "Essential for exploring the [[douro-valley|Douro Valley]]'s wineries, the wider [[algarve|Algarve]] coastline and [[evora|Évora]]'s Alentejo countryside at a flexible pace.",
         "detail": "An International Driving Permit is recommended, and central Lisbon and Porto are best explored without a car."
       },
       {
@@ -330,18 +330,18 @@
     "etiquette": [
       {
         "title": "Meals run unhurried and social",
-        "text": "Lunch and dinner are genuinely social occasions in Portugal, rarely rushed, and service reflects that relaxed pace rather than inattentiveness."
+        "text": "Lunch and dinner are social occasions in Portugal, rarely rushed, and service reflects that relaxed pace rather than inattentiveness."
       },
       {
         "title": "A greeting matters",
-        "text": "A polite 'bom dia' or 'boa tarde' when entering a shop or restaurant is genuinely appreciated and expected."
+        "text": "A polite 'bom dia' or 'boa tarde' when entering a shop or restaurant is appreciated and expected."
       },
       {
         "title": "Bread and olives aren't automatically free",
         "text": "Table snacks brought unprompted (couvert) are usually charged if you eat them — it's fine to decline them politely if you'd rather not pay."
       },
       {
-        "title": "Football is genuinely a national passion",
+        "title": "Football is a national passion",
         "text": "Conversations about Portuguese football, particularly the big three clubs, are a genuine social icebreaker nationwide."
       },
       {
@@ -355,11 +355,11 @@
     ],
     "dos": [
       "Greet shopkeepers and restaurant staff with a polite hello",
-      "Try the local wine wherever you are — regional variety is genuinely significant",
+      "Try the local wine wherever you are — regional variety is significant",
       "Linger over meals rather than rushing — it's part of the social occasion",
-      "Learn a few basic Portuguese phrases — the effort is genuinely appreciated",
+      "Learn a few basic Portuguese phrases — the effort is appreciated",
       "Book Algarve and island accommodation well ahead for July and August travel",
-      "Wear comfortable shoes — cobblestone streets are steep and genuinely slippery when worn or wet"
+      "Wear comfortable shoes — cobblestone streets are steep and slippery when worn or wet"
     ],
     "donts": [
       "Don't assume free bread and olives at a restaurant table — you'll likely be charged if you eat them",
@@ -384,7 +384,7 @@
   "faq": [
     {
       "q": "How many days do you need in Portugal?",
-      "a": "Ten to fourteen for a first trip. Eight to ten covers Lisbon, Sintra and Porto with reasonable pacing; twelve to sixteen lets you add the Douro Valley, Évora and the Algarve, which is the itinerary on this page. Four or five days is enough for Lisbon alone, and Lisbon alone genuinely justifies a trip."
+      "a": "Ten to fourteen for a first trip. Eight to ten covers Lisbon, Sintra and Porto with reasonable pacing; twelve to sixteen lets you add the Douro Valley, Évora and the Algarve, which is the itinerary on this page. Four or five days is enough for Lisbon alone, and Lisbon alone justifies a trip."
     },
     {
       "q": "What is the best time of year to visit Portugal?",
@@ -392,7 +392,7 @@
     },
     {
       "q": "Do I need a car in Portugal?",
-      "a": "Not for Lisbon and Porto, both well covered by trains and trams, and Sintra and Óbidos are easy train day trips. A car becomes genuinely useful for the Douro Valley, the wider Algarve coast and the Alentejo's countryside."
+      "a": "Not for Lisbon and Porto, both well covered by trains and trams, and Sintra and Óbidos are easy train day trips. A car becomes useful for the Douro Valley, the wider Algarve coast and the Alentejo's countryside."
     },
     {
       "q": "Is Portugal expensive?",
@@ -404,7 +404,7 @@
     },
     {
       "q": "Should I visit Madeira or the Azores?",
-      "a": "Both are genuinely worthwhile but distinct — Madeira offers dramatic volcanic peaks and levada hiking trails with well-developed tourism infrastructure, while the Azores feel wilder and less developed, with active volcanic landscapes and genuinely fewer visitors."
+      "a": "Both are worthwhile but distinct — Madeira offers dramatic volcanic peaks and levada hiking trails with well-developed tourism infrastructure, while the Azores feel wilder and less developed, with active volcanic landscapes and fewer visitors."
     }
   ]
 }

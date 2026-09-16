@@ -1,0 +1,358 @@
+{
+  "slug": "krka-national-park",
+  "name": "Krka National Park",
+  "country": "croatia",
+  "region": "Dalmatia",
+  "categories": ["nature", "national-park", "scenic", "day-trip"],
+  "tagline": "A quieter alternative to Plitvice, cascading travertine waterfalls tumbling through Dalmatian hinterland, with a monastery island at its heart.",
+  "highlight": "Watching Skradinski Buk's wide curtain of falls from the boardwalk, a monastery just visible on a tiny island upstream.",
+  "shortDescription": "A quieter alternative to Plitvice Lakes, cascading travertine waterfalls in the Dalmatian hinterland, centred on Skradinski Buk and Visovac Island's monastery.",
+  "metaDescription": "A Krka National Park travel guide: Skradinski Buk waterfall, Visovac Island monastery, Roški Slap, food and how to plan a visit from the Dalmatian coast.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Split Airport (SPU) or Zadar Airport (ZAD), each about 1 hour by road",
+  "knownFor": "Skradinski Buk waterfall, Visovac Island monastery, Roški Slap",
+  "budget": "€90–180 per day, mid-range (park entry plus nearby lodging)",
+  "goodFor": "Nature, boat trips, photography",
+  "coords": { "lat": 43.8189, "lng": 15.9214 },
+  "image": {
+    "file": "File:Skradinski buk waterfall – NP Krka – 2016.jpg",
+    "alt": "Skradinski Buk waterfall at Krka National Park"
+  },
+  "intro": [
+    "Krka National Park is Croatia's other great waterfall park, a quieter, more coastal alternative to the better-known Plitvice Lakes further inland.",
+    "Its centrepiece is Skradinski Buk, a wide, stepped travertine waterfall reached by boardwalks through the Dalmatian hinterland's karst landscape.",
+    "A boat trip upriver reaches Visovac Island, a tiny monastery island sitting in the middle of the Krka River, one of the park's most photographed sights."
+  ],
+  "whyVisit": {
+    "intro": "Krka's case rests on dramatic travertine waterfalls reached easily from the Dalmatian coast.",
+    "points": [
+      {
+        "title": "Skradinski Buk is one of Croatia's most photogenic waterfalls",
+        "text": "A wide, stepped cascade crossed by wooden boardwalks."
+      },
+      {
+        "title": "Visovac Island is a singular sight",
+        "text": "A working Franciscan monastery on a tiny island reached only by boat."
+      },
+      {
+        "title": "It's far easier to reach from the coast than Plitvice",
+        "text": "An easy day trip from Split, Zadar or Šibenik."
+      },
+      {
+        "title": "It's noticeably quieter than Plitvice",
+        "text": "A comparable landscape with fewer crowds, especially outside peak season."
+      },
+      {
+        "title": "The park's mills add real cultural history",
+        "text": "Restored watermills showing how the river once powered the local economy."
+      }
+    ]
+  },
+  "attractionsIntro": "The park's essential sights are its cascading waterfalls, boardwalks and a monastery island upriver.",
+  "attractions": [
+    {
+      "name": "Skradinski Buk",
+      "image": {
+        "file": "File:Skradinski buk waterfall – NP Krka – 2016.jpg",
+        "alt": "Skradinski Buk waterfall at Krka National Park"
+      },
+      "text": "The park's centrepiece, a wide, stepped travertine waterfall and the most visited spot in the entire park.",
+      "tip": "Arrive early or late in the day to see it with fewer visitors on the boardwalks."
+    },
+    {
+      "name": "The boardwalks around Skradinski Buk",
+      "image": {
+        "file": "File:Skradinski buk Krka National Park 10.jpg",
+        "alt": "Wooden boardwalks around Skradinski Buk waterfall"
+      },
+      "text": "A network of wooden paths winding directly beside and over the cascading falls.",
+      "tip": "Allow at least an hour to properly cover the full boardwalk loop."
+    },
+    {
+      "name": "Visovac Island Monastery",
+      "image": {
+        "file": "File:Visovac Island, National Park Krka 2 Z-5619.jpg",
+        "alt": "Visovac Island Monastery on the Krka River"
+      },
+      "text": "A working Franciscan monastery on a tiny island, reachable only by the park's own boat service.",
+      "tip": "Book the boat trip through the park's official ticket system, included with certain entry tickets."
+    },
+    {
+      "name": "Roški Slap",
+      "image": {
+        "file": "File:Roški slap ljeti.jpg",
+        "alt": "Roški Slap waterfall at Krka National Park"
+      },
+      "text": "A broader, quieter waterfall area further upstream, with far fewer visitors than Skradinski Buk.",
+      "tip": "Worth the extra effort to reach if you'd like a calmer alternative to the main falls."
+    },
+    {
+      "name": "The park's historic watermills",
+      "image": {
+        "file": "File:Krka02(js).jpg",
+        "alt": "A historic watermill at Krka National Park"
+      },
+      "text": "A real piece of local history, restored mills that once ground grain using the river's power.",
+      "tip": "Look for the small ethnographic displays inside some of the restored mill buildings."
+    },
+    {
+      "name": "Visovac's monastery church",
+      "image": {
+        "file": "File:Visovac monastery church tower.JPG",
+        "alt": "The church tower at Visovac Island Monastery"
+      },
+      "text": "A peaceful, still-active place of worship, its bell tower visible from the boat long before arrival.",
+      "tip": "Dress modestly, as this remains an active religious site."
+    },
+    {
+      "name": "Skradinski Buk's cascading pools",
+      "image": {
+        "file": "File:Skradinski buk Krka National Park 8.jpg",
+        "alt": "Cascading travertine pools at Skradinski Buk"
+      },
+      "text": "A striking natural formation, dozens of small pools stepping down through travertine barriers.",
+      "tip": "Photograph from multiple boardwalk viewpoints for the most dramatic angles."
+    }
+  ],
+  "thingsToDoIntro": "Krka rewards a full day, built around its boardwalks and a boat trip to the monastery island.",
+  "thingsToDo": [
+    {
+      "title": "Walk the boardwalks around Skradinski Buk",
+      "image": {
+        "file": "File:Skradinski buk Krka National Park 6.jpg",
+        "alt": "Walking the boardwalks at Skradinski Buk"
+      },
+      "text": "An essential first stop, following wooden paths directly beside the park's widest, most dramatic falls.",
+      "tip": "Wear non-slip shoes — the boardwalks can be damp near the falls."
+    },
+    {
+      "title": "Take a boat to Visovac Island",
+      "image": {
+        "file": "File:Visovac Island, National Park Krka.jpg",
+        "alt": "Boating to Visovac Island at Krka National Park"
+      },
+      "text": "A lovely, calm interlude, gliding upriver to the tiny monastery island.",
+      "tip": "Check whether the boat trip is included in your ticket or needs booking separately."
+    },
+    {
+      "title": "Visit Roški Slap, a quieter waterfall",
+      "image": {
+        "file": "File:Nacionalni park Krka, Roški slap (2023).jpg",
+        "alt": "Roški Slap, a quieter waterfall area at Krka"
+      },
+      "text": "A worthwhile detour for a calmer experience, a broader falls area with far fewer visitors than Skradinski Buk.",
+      "tip": "Check the park shuttle schedule if you're not driving between the two areas yourself."
+    },
+    {
+      "title": "Explore the park's historic watermills",
+      "image": {
+        "file": "File:Krka02(js).jpg",
+        "alt": "Exploring a historic watermill at Krka National Park"
+      },
+      "text": "An interesting cultural stop, restored mills showing how the river once powered daily life.",
+      "tip": "A nice change of pace between longer stretches of walking."
+    },
+    {
+      "title": "Photograph Skradinski Buk's cascading pools",
+      "image": {
+        "file": "File:Skradinski buk Krka National Park 4.jpg",
+        "alt": "Photographing the cascading pools at Skradinski Buk"
+      },
+      "text": "A rewarding pursuit, the layered travertine pools photographing beautifully from multiple boardwalk angles.",
+      "tip": "Visit after rainfall for the falls at their fullest, most dramatic flow."
+    },
+    {
+      "title": "Learn about the park's ethnographic heritage",
+      "text": "A worthwhile stop for context, small exhibits showing traditional Dalmatian rural life along the river.",
+      "tip": "Look for information panels near the restored mill buildings."
+    }
+  ],
+  "foodIntro": "Food near the park means classic Dalmatian hinterland cooking, with one distinctive local risotto worth seeking out.",
+  "foods": [
+    {
+      "name": "Skradinski rižot (Skradin risotto)",
+      "text": "A distinctive local specialty from the nearby town of Skradin, a slow-cooked beef risotto unlike the coast's seafood versions.",
+      "whereToTry": "Traditional restaurants in Skradin, the park's main gateway town."
+    },
+    {
+      "name": "Fresh grilled seafood",
+      "image": {
+        "file": "File:Skampi Na Zaru - Konoba Ivan (14929244641).jpg",
+        "alt": "Grilled seafood at a traditional Croatian restaurant"
+      },
+      "text": "A highlight given the park's proximity to the coast, fish and shellfish grilled simply nearby.",
+      "whereToTry": "Restaurants in Skradin and along the coast near the park."
+    },
+    {
+      "name": "Dalmatinski pršut (dry-cured ham)",
+      "image": {
+        "file": "File:Dalmatinski pršut.jpg",
+        "alt": "Dalmatinski pršut, Croatia's dry-cured ham"
+      },
+      "text": "A reliable starter, often served with local cheese and olives.",
+      "whereToTry": "Restaurants near the park's entrances."
+    },
+    {
+      "name": "Crni rižot (black risotto)",
+      "image": {
+        "file": "File:Risotto al nero di seppia.jpg",
+        "alt": "Black risotto made with cuttlefish ink"
+      },
+      "text": "A Dalmatian classic, widely available at restaurants near the park.",
+      "whereToTry": "Restaurants in Skradin and along the nearby coast."
+    },
+    {
+      "name": "Croatian wine",
+      "text": "A reasonable selection available at most restaurants near the park, from both Dalmatian and continental regions.",
+      "whereToTry": "Restaurants near the park's entrances."
+    },
+    {
+      "name": "Fritule (small fried doughnuts)",
+      "image": {
+        "file": "File:Fritule iz Rijeke.jpg",
+        "alt": "Fritule, small Croatian fried doughnuts"
+      },
+      "text": "A nice sweet treat after a day of walking, found at cafés near the park.",
+      "whereToTry": "Cafés in Skradin near the park entrance."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors see Krka as a day trip from the coast, though Skradin makes a pleasant, low-key overnight base.",
+    "areas": [
+      {
+        "name": "Skradin",
+        "bestFor": "Being right at the park's main entrance",
+        "text": "A small, pretty riverside town with guesthouses and restaurants."
+      },
+      {
+        "name": "Split, Zadar or Šibenik",
+        "bestFor": "A more convenient base if combining Krka with a wider coastal trip",
+        "text": "All three make Krka an easy day trip while offering far more accommodation choice."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse in Skradin", "value": "€60–100 per night" },
+      { "label": "Mid-range hotel near the coast", "value": "€110–220 per night" },
+      { "label": "Park entry ticket", "value": "About €20–40, varies by season" },
+      { "label": "Lunch near the park", "value": "About €18–35 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Krka National Park is one of the easiest national parks to reach from the Dalmatian coast.",
+    "options": [
+      {
+        "mode": "Car or organised day trip from Split",
+        "text": "The most common route, taking about an hour each way.",
+        "detail": "Widely available as a guided day trip if you'd rather not drive."
+      },
+      {
+        "mode": "Car or day trip from Zadar",
+        "text": "Similarly convenient, around an hour by road.",
+        "detail": "A popular add-on for those based in or passing through Zadar."
+      },
+      {
+        "mode": "Boat trip from Skradin",
+        "text": "A scenic way to enter the park directly from the river.",
+        "detail": "Boats run from Skradin town to the Skradinski Buk entrance."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Getting around the park means walking the boardwalks, with a boat covering the river sections.",
+    "options": [
+      {
+        "mode": "On foot along the boardwalks",
+        "text": "The way to see Skradinski Buk itself.",
+        "detail": "A marked loop covers the main falls area in about an hour or two."
+      },
+      {
+        "mode": "Park boat to Visovac and Roški Slap",
+        "text": "The only way to reach the monastery island and the upper falls.",
+        "detail": "Included with certain ticket types, or bookable separately at the dock."
+      },
+      {
+        "mode": "Shuttle bus between park areas",
+        "text": "Useful for covering the distance between Skradinski Buk and Roški Slap.",
+        "detail": "Runs on a schedule during the main visitor season."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for full waterfalls and manageable crowds",
+    "summary": "Krka is at its best outside the peak midsummer crowds, when the falls are fuller and the boardwalks less busy.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Lush, with waterfalls at their fullest after spring rain."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The busiest season, with the boardwalks crowded at peak midday hours."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Comfortable temperatures with noticeably thinner crowds than summer."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "okay",
+        "text": "Quiet, with some park facilities and boat services reduced for the season."
+      }
+    ],
+    "avoid": "Peak midday hours in July and August, when the Skradinski Buk boardwalks get most crowded."
+  },
+  "itinerary": {
+    "title": "One day at Krka National Park",
+    "intro": "A single full day covering Skradinski Buk and a boat trip to Visovac Island.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Skradinski Buk and Visovac Island",
+        "summary": "A full day of waterfalls and a monastery island.",
+        "morning": "Walk the boardwalks around Skradinski Buk.",
+        "afternoon": "Take the boat to Visovac Island Monastery.",
+        "evening": "Dinner in Skradin before returning to the coast."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Krka National Park visit noticeably smoother.",
+  "tips": [
+    "Book park entry tickets online ahead in peak season.",
+    "Note that swimming at Skradinski Buk has been prohibited since 2021 to protect the ecosystem, despite older photos and guides suggesting otherwise.",
+    "Wear non-slip shoes — boardwalks get damp and slippery near the falls.",
+    "Start early to see Skradinski Buk before the day's crowds build.",
+    "Check whether the Visovac Island boat trip is included in your ticket type.",
+    "Bring water and snacks — options inside the park itself are limited."
+  ],
+  "faq": [
+    {
+      "q": "Can you swim at Krka National Park?",
+      "a": "No, not anymore — swimming at Skradinski Buk has been prohibited since 2021 to protect the travertine formations, despite this once being one of the park's most famous features."
+    },
+    {
+      "q": "How does Krka compare to Plitvice Lakes?",
+      "a": "Similar in style, with waterfalls and boardwalks, though Krka is noticeably closer to the coast and sees fewer visitors."
+    },
+    {
+      "q": "How many days do you need at Krka?",
+      "a": "One full day covers Skradinski Buk and a boat trip to Visovac Island comfortably."
+    },
+    {
+      "q": "Is Krka worth visiting from Split or Zadar?",
+      "a": "Yes — it's about an hour from either city, an easy and rewarding day trip."
+    },
+    {
+      "q": "Do you need to book the boat to Visovac Island ahead?",
+      "a": "It's worth checking — some ticket types include it, while others require a separate booking at the dock."
+    },
+    {
+      "q": "Is Krka busy in summer?",
+      "a": "Skradinski Buk gets crowded at midday in July and August; arriving early or visiting Roški Slap instead both help avoid the worst of it."
+    }
+  ],
+  "related": ["zadar", "split", "plitvice-lakes"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around"]
+}

@@ -1,0 +1,370 @@
+{
+  "slug": "plzen",
+  "name": "Plzeň",
+  "country": "czech-republic",
+  "region": "West Bohemia",
+  "categories": ["historic", "food-and-wine", "culture-arts"],
+  "tagline": "The birthplace of pilsner, a handsome West Bohemian city built on the beer style that changed brewing worldwide.",
+  "highlight": "Watching unfiltered, unpasteurised Pilsner Urquell poured straight from an oak tank in the brewery's original cellars.",
+  "shortDescription": "The birthplace of pilsner, home to the original Pilsner Urquell brewery, a soaring Gothic cathedral and Europe's second-largest synagogue.",
+  "metaDescription": "A Plzeň travel guide: the Pilsner Urquell Brewery, St Bartholomew's Cathedral, the Great Synagogue, food and how to plan a visit.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Václav Havel Airport Prague (PRG), about 1.5 hours by road",
+  "knownFor": "The Pilsner Urquell Brewery, St Bartholomew's Cathedral, the Great Synagogue",
+  "budget": "Kč1,800–3,500 per day, budget to mid-range",
+  "goodFor": "Beer culture, history, architecture",
+  "coords": { "lat": 49.7384, "lng": 13.3736 },
+  "image": {
+    "file": "File:Plzeň - Sady 5. května - View East over Mlýnská strouha towards Plzeňský Prazdroj (Pilsner Urquell Brewery).jpg",
+    "alt": "The Pilsner Urquell Brewery in Plzeň"
+  },
+  "intro": [
+    "Plzeň is the birthplace of one of the world's most influential beer styles, the pale lager first brewed here in 1842 that went on to define pilsner everywhere.",
+    "Beyond the brewery, it's a handsome West Bohemian city in its own right, with a soaring Gothic cathedral and one of Europe's largest surviving synagogues.",
+    "It works well as a change of pace from Prague, a real working city rather than a purely tourist-facing centre, with a brewery tour that ranks among the country's best."
+  ],
+  "whyVisit": {
+    "intro": "Plzeň's case rests on being the actual birthplace of pilsner, paired with handsome, underrated Bohemian architecture.",
+    "points": [
+      {
+        "title": "It's the birthplace of pilsner",
+        "text": "The original 1842 recipe that defined a beer style now brewed worldwide."
+      },
+      {
+        "title": "The brewery tour is one of the country's best",
+        "text": "Ending in historic cellars with beer poured straight from the tank."
+      },
+      {
+        "title": "The Great Synagogue is remarkable",
+        "text": "One of the largest surviving synagogues in Europe, a striking Moorish-influenced landmark."
+      },
+      {
+        "title": "St Bartholomew's Cathedral is one of Bohemia's finest",
+        "text": "Home to the tallest church tower in the country."
+      },
+      {
+        "title": "It's far less touristy than Prague",
+        "text": "A real West Bohemian city, with prices and crowds to match."
+      }
+    ]
+  },
+  "attractionsIntro": "Plzeň's essential sights are spread between the historic brewery and the compact old town centre.",
+  "attractions": [
+    {
+      "name": "The Pilsner Urquell Brewery",
+      "image": {
+        "file": "File:Plzeň - Sady 5. května - View East over Mlýnská strouha towards Plzeňský Prazdroj (Pilsner Urquell Brewery).jpg",
+        "alt": "The Pilsner Urquell Brewery grounds in Plzeň"
+      },
+      "text": "The birthplace of pilsner, brewing since 1842 on the same site it still operates from today.",
+      "tip": "Book the full tour, which ends with a taste straight from an oak lagering tank in the historic cellars."
+    },
+    {
+      "name": "The brewery's historic gate",
+      "image": {
+        "file": "File:Pilsner-Urquell-Main-Gate.jpg",
+        "alt": "The historic main gate of the Pilsner Urquell Brewery"
+      },
+      "text": "An ornate wrought-iron gateway, among the most photographed entrances in Czech brewing.",
+      "tip": "A classic photo stop before or after the brewery tour itself."
+    },
+    {
+      "name": "St Bartholomew's Cathedral",
+      "image": {
+        "file": "File:Plzen with St Bartholomew Cathedral 1.JPG",
+        "alt": "St Bartholomew's Cathedral in Plzeň"
+      },
+      "text": "Home to the tallest church tower in the Czech Republic, dominating the main square.",
+      "tip": "Climb the tower for a sweeping view over the old town's rooftops."
+    },
+    {
+      "name": "St Bartholomew's Gothic interior",
+      "image": {
+        "file": "File:Plzen CZ St Bartholomew Cathedral interior.jpg",
+        "alt": "The Gothic interior of St Bartholomew's Cathedral in Plzeň"
+      },
+      "text": "Worth a proper look inside, a soaring Gothic nave with a revered medieval Madonna statue.",
+      "tip": "Check for a free organ recital during your visit."
+    },
+    {
+      "name": "The Great Synagogue",
+      "image": {
+        "file": "File:Plzeň - Sady Pětatřicátníků - View West on Velká Synagoga (Great Synagogue) 1893 by Max Fleischer - Neo-Romanesque architecture with Moorish elements.jpg",
+        "alt": "The Great Synagogue in Plzeň"
+      },
+      "text": "One of the largest surviving synagogues in Europe, its Moorish-influenced towers a striking city landmark.",
+      "tip": "Check opening hours ahead — it operates as a functioning concert and exhibition space, not a daily-open museum."
+    },
+    {
+      "name": "Náměstí Republiky (Republic Square)",
+      "image": {
+        "file": "File:Plzeň-Náměstí Republiky-20-Brunnen-Apotheke-2012-gje.jpg",
+        "alt": "Náměstí Republiky, Plzeň's main square"
+      },
+      "text": "The city's handsome main square, ringed by Renaissance and baroque townhouses.",
+      "tip": "A nice spot to sit at a café and watch the city go by."
+    },
+    {
+      "name": "The square's historic townhouses",
+      "image": {
+        "file": "File:Plzeň-Náměstí Republiky-54-2012-gje.jpg",
+        "alt": "Historic townhouses on Plzeň's main square"
+      },
+      "text": "Worth a slow look, arcaded facades spanning several centuries of Bohemian architecture.",
+      "tip": "Look up — the upper facades carry far more detail than street level suggests."
+    }
+  ],
+  "thingsToDoIntro": "Plzeň centres on its historic brewery, with a handsome old town to fill out the rest of a visit.",
+  "thingsToDo": [
+    {
+      "title": "Tour the Pilsner Urquell Brewery",
+      "image": {
+        "file": "File:Pilsner Urquell Brewery - panoramio.jpg",
+        "alt": "Touring the Pilsner Urquell Brewery in Plzeň"
+      },
+      "text": "An essential Plzeň experience, tracing the brewing process from the original 1842 recipe to today.",
+      "tip": "Book online ahead — English-language tour slots fill up in peak season."
+    },
+    {
+      "title": "Taste unfiltered lager straight from the tank",
+      "image": {
+        "file": "File:PilsnerUrquell03.jpg",
+        "alt": "Unfiltered Pilsner Urquell beer"
+      },
+      "text": "An unmissable finish to the brewery tour, unfiltered, unpasteurised beer poured in the historic cellars.",
+      "tip": "It tastes noticeably different from the bottled version sold worldwide — worth comparing."
+    },
+    {
+      "title": "Climb St Bartholomew's cathedral tower",
+      "image": {
+        "file": "File:Cathedral of St Bartholomew Plzen 比爾森 聖巴爾多祿茂主教座堂 - panoramio.jpg",
+        "alt": "St Bartholomew's Cathedral tower in Plzeň"
+      },
+      "text": "A rewarding climb, the country's tallest church tower offering a wide view over the city.",
+      "tip": "Worth it for the view alone on a clear day."
+    },
+    {
+      "title": "Visit the Great Synagogue's interior",
+      "image": {
+        "file": "File:Plzeň, Velká synagoga (2).jpg",
+        "alt": "The interior of the Great Synagogue in Plzeň"
+      },
+      "text": "A striking interior, restored after decades of neglect under communist rule.",
+      "tip": "Check for a concert during your visit — the acoustics inside are excellent."
+    },
+    {
+      "title": "Wander Náměstí Republiky",
+      "image": {
+        "file": "File:Plzen 2022-09-10 Pilsen Pride 03 Namesti Republiky obr 01.jpg",
+        "alt": "Náměstí Republiky, Plzeň's main square"
+      },
+      "text": "A relaxed way to spend an hour, taking in the square's historic facades and café terraces.",
+      "tip": "Check the tourist information office in the square for any events during your visit."
+    },
+    {
+      "title": "See the brewery's modern production in action",
+      "image": {
+        "file": "File:Pilsner-Urquell-New-Packaging-Hall-2.jpg",
+        "alt": "The modern packaging hall at the Pilsner Urquell Brewery"
+      },
+      "text": "An interesting contrast, seeing how a 19th-century recipe scales to modern global production.",
+      "tip": "Included as part of the brewery's extended tour options."
+    }
+  ],
+  "foodIntro": "Plzeň's food centres on its brewing heritage, alongside standard hearty Czech classics.",
+  "foods": [
+    {
+      "name": "Original unfiltered Pilsner Urquell",
+      "image": {
+        "file": "File:PilsnerUrquell03.jpg",
+        "alt": "Unfiltered Pilsner Urquell beer"
+      },
+      "text": "The reason to visit, tasting the unfiltered version only available at the source.",
+      "whereToTry": "The brewery's own pub, and traditional pubs throughout the city."
+    },
+    {
+      "name": "Svíčková (marinated beef in cream sauce)",
+      "image": {
+        "file": "File:Svickova with dumplings.jpg",
+        "alt": "Svíčková, marinated beef in cream sauce with bread dumplings"
+      },
+      "text": "A reliable classic, found at traditional restaurants throughout the old town.",
+      "whereToTry": "Traditional restaurants around Náměstí Republiky."
+    },
+    {
+      "name": "Guláš with dumplings",
+      "image": {
+        "file": "File:Guláš s knedlíky.jpg",
+        "alt": "Czech goulash served with bread dumplings"
+      },
+      "text": "A warming pub staple, best paired with a fresh-poured Pilsner Urquell.",
+      "whereToTry": "Traditional pubs throughout the city centre."
+    },
+    {
+      "name": "Vepřové koleno (roast pork knee)",
+      "image": {
+        "file": "File:Salad and Czech roast pork knee.jpg",
+        "alt": "Roast pork knee, a hearty Czech pub dish"
+      },
+      "text": "A hearty, shareable option, well suited to a long pub session after the brewery tour.",
+      "whereToTry": "Traditional beer halls throughout Plzeň."
+    },
+    {
+      "name": "Smažený sýr (fried cheese)",
+      "image": {
+        "file": "File:Smažený sýr s tatarskou omáčkou a brambory.jpg",
+        "alt": "Smažený sýr, breaded fried cheese with tartar sauce and potatoes"
+      },
+      "text": "A satisfying pub classic, breaded fried cheese with tartar sauce and potatoes.",
+      "whereToTry": "Traditional pubs throughout the city."
+    },
+    {
+      "name": "Koláče (fruit-filled pastries)",
+      "image": {
+        "file": "File:Traditional Czech koláče in Sušice.jpg",
+        "alt": "Traditional koláče pastries filled with fruit"
+      },
+      "text": "A nice sweet stop between sightseeing, found at bakeries around the old town.",
+      "whereToTry": "Bakeries near Náměstí Republiky."
+    }
+  ],
+  "accommodation": {
+    "intro": "Plzeň offers noticeably better value accommodation than Prague, with everything within easy reach of the old town.",
+    "areas": [
+      {
+        "name": "The old town centre",
+        "bestFor": "Being within walking distance of the cathedral and main square",
+        "text": "The most convenient base, close to restaurants and the square itself."
+      },
+      {
+        "name": "Near the brewery",
+        "bestFor": "An easy walk to the Pilsner Urquell tour",
+        "text": "A short walk from the old town, handy for an early tour slot."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "Kč900–1,600 per night" },
+      { "label": "Mid-range hotel", "value": "Kč2,000–3,800 per night" },
+      { "label": "Brewery tour with tasting", "value": "About Kč300–450" },
+      { "label": "Dinner at a traditional pub", "value": "About Kč200–400 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Plzeň is an easy, quick trip from Prague by train or bus.",
+    "options": [
+      {
+        "mode": "Direct train from Prague",
+        "text": "The fastest option, taking about 1.5 hours.",
+        "detail": "Frequent daily departures from Prague's main station."
+      },
+      {
+        "mode": "Direct bus from Prague",
+        "text": "A comfortable, budget-friendly alternative.",
+        "detail": "RegioJet and FlixBus both run frequent services, similar in journey time to the train."
+      },
+      {
+        "mode": "Car or private driver",
+        "text": "Straightforward on a well-maintained motorway.",
+        "detail": "About 1.5 hours from Prague."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Plzeň's compact old town and nearby brewery are both easy to reach on foot or by tram.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The best way to see the old town's main sights.",
+        "detail": "The cathedral, synagogue and square all sit within a comfortable walk of each other."
+      },
+      {
+        "mode": "Trams",
+        "text": "Useful for reaching the brewery from the old town.",
+        "detail": "A short, inexpensive ride connects the two."
+      },
+      {
+        "mode": "Taxi",
+        "text": "An easy option from the train station to your accommodation.",
+        "detail": "Widely available just outside the station."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for pleasant walking weather",
+    "summary": "Plzeň is a year-round destination, with the brewery tour operating regardless of season.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Mild, comfortable weather for exploring the old town on foot."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Warm and lively, with outdoor beer garden seating at its best."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Comfortable temperatures with noticeably fewer visitors than Prague."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Quiet, with the brewery tour's warm cellars a welcome escape from the cold."
+      }
+    ],
+    "avoid": "Nothing strongly — Plzeň works well as a year-round trip."
+  },
+  "itinerary": {
+    "title": "One day in Plzeň",
+    "intro": "A single full day covering the brewery and the compact old town centre.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The brewery and old town",
+        "summary": "A full day split between beer history and Gothic architecture.",
+        "morning": "The Pilsner Urquell Brewery tour, ending with a taste from the tank.",
+        "afternoon": "St Bartholomew's Cathedral and the Great Synagogue.",
+        "evening": "Dinner and a fresh-poured pint on Náměstí Republiky."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Plzeň visit noticeably smoother.",
+  "tips": [
+    "Book the brewery tour online ahead, especially for English-language time slots.",
+    "Check the Great Synagogue's opening hours before visiting — it's not open daily.",
+    "Climb St Bartholomew's tower on a clear day for the best views.",
+    "Compare the unfiltered tank beer with a bottled Pilsner Urquell — the difference is real.",
+    "Visit as a day trip from Prague, or add one night for a more relaxed pace.",
+    "Expect noticeably better prices than Prague for food, drink and accommodation."
+  ],
+  "faq": [
+    {
+      "q": "Is the Pilsner Urquell Brewery tour worth it?",
+      "a": "Yes — it's one of the best brewery tours in Europe, ending with beer poured straight from the tank in the original cellars."
+    },
+    {
+      "q": "How do you get from Prague to Plzeň?",
+      "a": "Easiest by direct train or bus, both taking about 1.5 hours."
+    },
+    {
+      "q": "Is Plzeň worth visiting beyond the brewery?",
+      "a": "Yes — St Bartholomew's Cathedral and the Great Synagogue are both worthwhile on their own."
+    },
+    {
+      "q": "How many days do you need in Plzeň?",
+      "a": "One full day covers the brewery and old town comfortably as a day trip from Prague."
+    },
+    {
+      "q": "Do you need to book the brewery tour ahead?",
+      "a": "Yes, recommended, especially for English-language tours in peak season."
+    },
+    {
+      "q": "Is Plzeň cheaper than Prague?",
+      "a": "Yes — food, drink and accommodation all tend to run noticeably cheaper than in the capital."
+    }
+  ],
+  "related": ["karlovy-vary", "prague", "cesky-krumlov"],
+  "relatedArticles": ["food-primer", "first-trip-to-europe"]
+}

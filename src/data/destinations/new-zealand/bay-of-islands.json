@@ -4,9 +4,9 @@
   "country": "new-zealand",
   "region": "North Island (Northland)",
   "categories": ["coastal", "historic", "sailing", "island"],
-  "tagline": "A genuinely beautiful, history-laden stretch of coast where New Zealand's founding document was signed, 144 islands scatter across sheltered water, and sailing is simply the way of life.",
+  "tagline": "A beautiful, history-laden stretch of coast where New Zealand's founding document was signed, 144 islands scatter across sheltered water, and sailing is simply the way of life.",
   "highlight": "Cruising out through the Hole in the Rock, a natural arch worn clean through Motukokako Island by the sea.",
-  "shortDescription": "A sheltered coastline of 144 islands in New Zealand's far north, genuinely central to the country's history and its sailing culture alike.",
+  "shortDescription": "A sheltered coastline of 144 islands in New Zealand's far north, central to the country's history and its sailing culture alike.",
   "metaDescription": "A Bay of Islands travel guide: Waitangi, Russell, the Hole in the Rock, when to go and how to plan a relaxed few days by the water.",
   "suggestedStay": "3 days",
   "nearestAirport": "Bay of Islands Airport (Kerikeri, KKE), or Auckland Airport (AKL)",
@@ -19,31 +19,31 @@
     "alt": "The Hole in the Rock, a natural arch through Motukokako Island in the Bay of Islands"
   },
   "intro": [
-    "The Bay of Islands is genuinely where modern New Zealand began — the Treaty of Waitangi, the country's founding document, was signed here in 1840 on the lawn in front of the Treaty House, and the bay's early role as a whaling and trading port shaped the nation long before Auckland or Wellington existed.",
-    "That history sits alongside 144 islands scattered across genuinely sheltered, island-studded water, drawing sailors, game fishers and cruise passengers to a coastline that has quietly functioned as New Zealand's boating playground for well over a century.",
-    "It's a genuinely slower, warmer corner of the country than the South Island's mountain scenery — the appeal here is history, water and a relaxed subtropical pace rather than dramatic landscapes."
+    "The Bay of Islands is where modern New Zealand began — the Treaty of Waitangi, the country's founding document, was signed here in 1840 on the lawn in front of the Treaty House, and the bay's early role as a whaling and trading port shaped the nation long before Auckland or Wellington existed.",
+    "That history sits alongside 144 islands scattered across sheltered, island-studded water, drawing sailors, game fishers and cruise passengers to a coastline that has quietly functioned as New Zealand's boating playground for well over a century.",
+    "It's a slower, warmer corner of the country than the South Island's mountain scenery — the appeal here is history, water and a relaxed subtropical pace rather than dramatic landscapes."
   ],
   "whyVisit": {
-    "intro": "The Bay of Islands' case rests on a genuinely rare combination of national history and a beautiful, boat-friendly coastline.",
+    "intro": "The Bay of Islands' case rests on a rare combination of national history and a beautiful, boat-friendly coastline.",
     "points": [
       {
-        "title": "Waitangi is genuinely New Zealand's most significant historic site",
+        "title": "Waitangi is New Zealand's most significant historic site",
         "text": "The country's founding treaty between the British Crown and Maori chiefs was signed on these grounds in 1840."
       },
       {
-        "title": "The Hole in the Rock is genuinely one of the North Island's most photographed sights",
+        "title": "The Hole in the Rock is one of the North Island's most photographed sights",
         "text": "A natural arch worn clean through solid rock, reachable by scenic cruise from Paihia or Russell."
       },
       {
-        "title": "Russell is genuinely New Zealand's first capital and a beautifully preserved colonial township",
+        "title": "Russell is New Zealand's first capital and a beautifully preserved colonial township",
         "text": "Once a rough whaling port nicknamed the 'hellhole of the Pacific,' now a quiet, historic seaside village."
       },
       {
-        "title": "The sailing culture is genuinely woven into daily life here, not a tourist add-on",
+        "title": "The sailing culture is woven into daily life here, not a tourist add-on",
         "text": "The bay has hosted serious yachting and game fishing for well over a century."
       },
       {
-        "title": "It's genuinely a warmer, more relaxed pace than much of the rest of the country",
+        "title": "It's a warmer, more relaxed pace than much of the rest of the country",
         "text": "Northland's subtropical climate makes the Bay of Islands pleasant to visit across most of the year."
       }
     ]
@@ -57,7 +57,7 @@
         "alt": "The Treaty House at the Waitangi Treaty Grounds"
       },
       "text": "The genuine birthplace of modern New Zealand, where the Treaty of Waitangi was signed in 1840, with the Treaty House, a carved meeting house and the world's largest ceremonial war canoe on site.",
-      "tip": "A guided tour genuinely adds far more historical context than walking the grounds alone."
+      "tip": "A guided tour adds far more historical context than walking the grounds alone."
     },
     {
       "name": "Russell",
@@ -65,8 +65,8 @@
         "file": "File:00 26 0874 Russell Neuseeland - Bay of Islands.jpg",
         "alt": "The historic waterfront township of Russell in the Bay of Islands"
       },
-      "text": "New Zealand's first capital and a genuinely rowdy 19th-century whaling port, now a beautifully preserved, quiet township reached by a short ferry from Paihia.",
-      "tip": "Climb Maiki (Flagstaff) Hill for a genuinely excellent view over the whole bay."
+      "text": "New Zealand's first capital and a rowdy 19th-century whaling port, now a beautifully preserved, quiet township reached by a short ferry from Paihia.",
+      "tip": "Climb Maiki (Flagstaff) Hill for an excellent view over the whole bay."
     },
     {
       "name": "The Hole in the Rock",
@@ -74,8 +74,8 @@
         "file": "File:Motukokako Island (Piercy Island) with Hole in the Rock.jpg",
         "alt": "The Hole in the Rock, a natural arch through Motukokako Island"
       },
-      "text": "A genuinely striking natural arch worn through Motukokako Island by wind and sea, with calm-weather cruises passing directly through it.",
-      "tip": "Passage through the hole genuinely depends on swell conditions — it isn't guaranteed on every cruise."
+      "text": "A striking natural arch worn through Motukokako Island by wind and sea, with calm-weather cruises passing directly through it.",
+      "tip": "Passage through the hole depends on swell conditions — it isn't guaranteed on every cruise."
     },
     {
       "name": "Kerikeri's Stone Store and Kemp House",
@@ -83,8 +83,8 @@
         "file": "File:00 0592 KeriKeri, NZ - Stone Store.jpg",
         "alt": "The historic Stone Store in Kerikeri, New Zealand's oldest stone building"
       },
-      "text": "New Zealand's oldest stone building and oldest wooden building sit genuinely side by side here, remnants of one of the country's earliest mission stations.",
-      "tip": "The Kerikeri Basin walk genuinely links the historic buildings to a waterfall a short stroll away."
+      "text": "New Zealand's oldest stone building and oldest wooden building sit side by side here, remnants of one of the country's earliest mission stations.",
+      "tip": "The Kerikeri Basin walk links the historic buildings to a waterfall a short stroll away."
     },
     {
       "name": "Cape Brett Track and Lighthouse",
@@ -92,8 +92,8 @@
         "file": "File:Lighthouse and Cape Brett Hut (former lighthouse keeper's house).jpg",
         "alt": "The lighthouse and former keeper's house at Cape Brett"
       },
-      "text": "A genuinely demanding full-day or overnight track to a working lighthouse at the bay's outermost point, with dramatic coastal views throughout.",
-      "tip": "Most visitors genuinely see the cape by boat instead — the track is a serious hike, not a casual walk."
+      "text": "A demanding full-day or overnight track to a working lighthouse at the bay's outermost point, with dramatic coastal views throughout.",
+      "tip": "Most visitors see the cape by boat instead — the track is a serious hike, not a casual walk."
     },
     {
       "name": "Paihia",
@@ -102,7 +102,7 @@
         "alt": "The waterfront at Paihia, the main town of the Bay of Islands"
       },
       "text": "The bay's genuine hub town, its waterfront lined with cruise operators, cafés and the short ferry crossing to Russell.",
-      "tip": "Most cruises and activities genuinely depart directly from the Paihia wharf."
+      "tip": "Most cruises and activities depart directly from the Paihia wharf."
     },
     {
       "name": "The bay's 144 islands",
@@ -110,11 +110,11 @@
         "file": "File:Hat Island (Left, in distance) Mahenotiti Island (Centre) and Te Ao Island (Right) as viewed from Urupukapuka..jpg",
         "alt": "Islands scattered across the Bay of Islands, viewed from Urupukapuka Island"
       },
-      "text": "A genuinely vast, sheltered scattering of islands and inlets, with Urupukapuka the largest, offering beaches and walking tracks reached only by boat.",
-      "tip": "A full-day cruise genuinely covers far more of the bay than a short harbour trip."
+      "text": "A vast, sheltered scattering of islands and inlets, with Urupukapuka the largest, offering beaches and walking tracks reached only by boat.",
+      "tip": "A full-day cruise covers far more of the bay than a short harbour trip."
     }
   ],
-  "thingsToDoIntro": "The Bay of Islands genuinely centres on the water, with history-rich towns to explore between cruises.",
+  "thingsToDoIntro": "The Bay of Islands centres on the water, with history-rich towns to explore between cruises.",
   "thingsToDo": [
     {
       "title": "Cruise to the Hole in the Rock",
@@ -122,8 +122,8 @@
         "file": "File:Motukokako Island (Piercy Island) with Hole in the Rock.jpg",
         "alt": "A cruise boat approaching the Hole in the Rock"
       },
-      "text": "The genuinely essential Bay of Islands excursion, a half-day cruise out to Cape Brett and, conditions allowing, straight through the rock arch.",
-      "tip": "Sit outside on the upper deck for genuinely the best photos as the boat passes through."
+      "text": "The essential Bay of Islands excursion, a half-day cruise out to Cape Brett and, conditions allowing, straight through the rock arch.",
+      "tip": "Sit outside on the upper deck for the best photos as the boat passes through."
     },
     {
       "title": "Sail the Bay of Islands",
@@ -131,13 +131,13 @@
         "file": "File:Sailboats, Bay of Islands, 2013 (06).jpg",
         "alt": "Sailboats on the water in the Bay of Islands"
       },
-      "text": "A genuinely serious sailing destination for well over a century, with day charters and multi-day yacht trips widely available from Paihia and Opua.",
-      "tip": "A skippered half-day sail genuinely needs no prior sailing experience."
+      "text": "A serious sailing destination for well over a century, with day charters and multi-day yacht trips widely available from Paihia and Opua.",
+      "tip": "A skippered half-day sail needs no prior sailing experience."
     },
     {
       "title": "Swim or cruise with dolphins",
-      "text": "Common dolphins are genuinely frequent visitors to the bay, with dedicated dolphin-watching and swim tours running from Paihia.",
-      "tip": "Swimming is genuinely weather- and dolphin-behaviour-dependent, so treat it as a bonus rather than a guarantee."
+      "text": "Common dolphins are frequent visitors to the bay, with dedicated dolphin-watching and swim tours running from Paihia.",
+      "tip": "Swimming is weather- and dolphin-behaviour-dependent, so treat it as a bonus rather than a guarantee."
     },
     {
       "title": "Walk the Cape Brett Track",
@@ -145,8 +145,8 @@
         "file": "File:Lighthouse and Cape Brett Hut (former lighthouse keeper's house).jpg",
         "alt": "The Cape Brett lighthouse at the end of the Cape Brett Track"
       },
-      "text": "A genuinely serious 16km one-way tramp to the lighthouse, usually done as an overnight trip with a stay in the DOC hut.",
-      "tip": "This is a genuinely strenuous full-day hike each way — fit trampers only."
+      "text": "A serious 16km one-way tramp to the lighthouse, usually done as an overnight trip with a stay in the DOC hut.",
+      "tip": "This is a strenuous full-day hike each way — fit trampers only."
     },
     {
       "title": "Explore the Waitangi Treaty Grounds",
@@ -154,8 +154,8 @@
         "file": "File:00 27 0577 Waitangi, New Zealand - Treaty House.jpg",
         "alt": "Visitors at the Waitangi Treaty Grounds"
       },
-      "text": "A genuinely essential few hours spent on the site where New Zealand's founding document was signed, including a Maori cultural performance.",
-      "tip": "Time your visit around one of the scheduled cultural performances for genuinely the fullest experience."
+      "text": "An essential few hours spent on the site where New Zealand's founding document was signed, including a Maori cultural performance.",
+      "tip": "Time your visit around one of the scheduled cultural performances for the fullest experience."
     },
     {
       "title": "Wander historic Russell",
@@ -163,11 +163,11 @@
         "file": "File:00 26 0874 Russell Neuseeland - Bay of Islands.jpg",
         "alt": "Wandering the historic waterfront of Russell"
       },
-      "text": "A genuinely easy, pleasant afternoon spent among New Zealand's oldest church, its first capital's colonial buildings, and a quiet waterfront.",
-      "tip": "The passenger ferry from Paihia genuinely runs regularly throughout the day."
+      "text": "An easy, pleasant afternoon spent among New Zealand's oldest church, its first capital's colonial buildings, and a quiet waterfront.",
+      "tip": "The passenger ferry from Paihia runs regularly throughout the day."
     }
   ],
-  "foodIntro": "The Bay of Islands' food genuinely leans on fresh local seafood, alongside the standard New Zealand classics found countrywide.",
+  "foodIntro": "The Bay of Islands' food leans on fresh local seafood, alongside the standard New Zealand classics found countrywide.",
   "foods": [
     {
       "name": "Green-lipped mussels",
@@ -175,7 +175,7 @@
         "file": "File:Green-lipped mussels - Picton, NZ - DSC00240.jpg",
         "alt": "A plate of New Zealand green-lipped mussels"
       },
-      "text": "A genuinely distinctive native species, farmed in sheltered northern waters and served simply steamed at waterfront restaurants.",
+      "text": "A distinctive native species, farmed in sheltered northern waters and served simply steamed at waterfront restaurants.",
       "whereToTry": "Waterfront restaurants in Paihia and Russell."
     },
     {
@@ -184,7 +184,7 @@
         "file": "File:Fish and chips u Aucklandu.jpg",
         "alt": "A classic New Zealand fish and chips takeaway"
       },
-      "text": "Genuinely best eaten on the Paihia waterfront, fresh off the day's catch and eaten looking out over the bay.",
+      "text": "Best eaten on the Paihia waterfront, fresh off the day's catch and eaten looking out over the bay.",
       "whereToTry": "Waterfront takeaways in Paihia and Russell."
     },
     {
@@ -193,12 +193,12 @@
         "file": "File:Pavlova Cake.jpg",
         "alt": "A pavlova dessert topped with cream and fresh fruit"
       },
-      "text": "A genuinely beloved national dessert, its crisp meringue shell and soft centre a fixture on café menus across the bay.",
+      "text": "A beloved national dessert, its crisp meringue shell and soft centre a fixture on café menus across the bay.",
       "whereToTry": "Cafés in Paihia and Kerikeri."
     },
     {
       "name": "Kumara",
-      "text": "A genuinely important Maori and New Zealand staple, this native sweet potato appears roasted, mashed or as chips on menus throughout Northland.",
+      "text": "An important Maori and New Zealand staple, this native sweet potato appears roasted, mashed or as chips on menus throughout Northland.",
       "whereToTry": "Restaurants throughout Paihia, Russell and Kerikeri."
     },
     {
@@ -207,7 +207,7 @@
         "file": "File:Manuka Honey Examples.jpg",
         "alt": "Jars of New Zealand manuka honey"
       },
-      "text": "Northland's warm climate genuinely makes it prime manuka country, and local honey is sold direct from producers around Kerikeri.",
+      "text": "Northland's warm climate makes it prime manuka country, and local honey is sold direct from producers around Kerikeri.",
       "whereToTry": "Farm shops and gift stores around Kerikeri."
     },
     {
@@ -216,12 +216,12 @@
         "file": "File:Flat white coffee Highgate Cricket Club, Crouch End, London 01.jpg",
         "alt": "A flat white coffee, a New Zealand café staple"
       },
-      "text": "Genuinely essential before a day out on the water, and Paihia's waterfront cafés keep a steady, reliable standard.",
+      "text": "Essential before a day out on the water, and Paihia's waterfront cafés keep a steady, reliable standard.",
       "whereToTry": "Cafés along the Paihia waterfront."
     }
   ],
   "accommodation": {
-    "intro": "Paihia is genuinely the most convenient base, with Russell offering a quieter, more historic alternative just a ferry ride away.",
+    "intro": "Paihia is the most convenient base, with Russell offering a quieter, more historic alternative just a ferry ride away.",
     "areas": [
       {
         "name": "Paihia",
@@ -231,12 +231,12 @@
       {
         "name": "Russell",
         "bestFor": "A quieter, more historic stay",
-        "text": "Genuinely charming and peaceful, a short ferry ride from Paihia's activity and restaurant scene."
+        "text": "Charming and peaceful, a short ferry ride from Paihia's activity and restaurant scene."
       },
       {
         "name": "Kerikeri",
         "bestFor": "A more local, less touristy base",
-        "text": "A genuinely pleasant small town a short drive inland, handy for the historic Stone Store precinct."
+        "text": "A pleasant small town a short drive inland, handy for the historic Stone Store precinct."
       }
     ],
     "budget": [
@@ -247,17 +247,17 @@
     ]
   },
   "gettingThere": {
-    "intro": "The Bay of Islands sits a genuinely comfortable drive north of Auckland, with a small local airport for quicker access.",
+    "intro": "The Bay of Islands sits a comfortable drive north of Auckland, with a small local airport for quicker access.",
     "options": [
       {
         "mode": "Rental car from Auckland",
-        "text": "About 3h15 drive from [[auckland|Auckland]], genuinely straightforward on the main state highway north.",
+        "text": "About 3h15 drive from [[auckland|Auckland]], straightforward on the main state highway north.",
         "detail": "A worthwhile stop is Whangarei's Town Basin, roughly the halfway point."
       },
       {
         "mode": "Domestic flights",
         "text": "Short flights connect Auckland to the Bay of Islands Airport at Kerikeri.",
-        "detail": "A genuinely quick option if you'd rather skip the drive."
+        "detail": "A quick option if you'd rather skip the drive."
       },
       {
         "mode": "Bus",
@@ -267,51 +267,51 @@
     ]
   },
   "gettingAround": {
-    "intro": "Paihia and Russell are genuinely linked by a short, frequent passenger ferry, while a car helps reach Kerikeri and the wider region.",
+    "intro": "Paihia and Russell are linked by a short, frequent passenger ferry, while a car helps reach Kerikeri and the wider region.",
     "options": [
       {
         "mode": "Paihia–Russell passenger ferry",
-        "text": "A genuinely quick, frequent crossing running throughout the day.",
+        "text": "A quick, frequent crossing running throughout the day.",
         "detail": "Far simpler than driving around the harbour to reach Russell."
       },
       {
         "mode": "Rental car",
-        "text": "Genuinely useful for reaching Kerikeri and Northland's wider sights independently.",
+        "text": "Useful for reaching Kerikeri and Northland's wider sights independently.",
         "detail": "Most key towns sit within a 30-minute drive of each other."
       },
       {
         "mode": "Cruises and organised tours",
         "text": "Widely available from Paihia for the Hole in the Rock, dolphin watching and Cape Brett.",
-        "detail": "The genuinely standard way most visitors see the bay's outer islands."
+        "detail": "The standard way most visitors see the bay's outer islands."
       }
     ]
   },
   "bestTime": {
     "headline": "Spring through autumn, with a warm, mild climate for most of the year",
-    "summary": "Northland's subtropical climate genuinely keeps the Bay of Islands pleasant across a wider window than much of the rest of the country.",
+    "summary": "Northland's subtropical climate keeps the Bay of Islands pleasant across a wider window than much of the rest of the country.",
     "seasons": [
       {
         "season": "Summer (December–February)",
         "rating": "best",
-        "text": "Warm, busy and genuinely the peak season for sailing and cruises."
+        "text": "Warm, busy and the peak season for sailing and cruises."
       },
       {
         "season": "Autumn (March–May)",
         "rating": "best",
-        "text": "Genuinely settled and warm, with noticeably thinner crowds than summer."
+        "text": "Settled and warm, with noticeably thinner crowds than summer."
       },
       {
         "season": "Winter (June–August)",
         "rating": "good",
-        "text": "Mild by New Zealand standards, though genuinely wetter, with quieter towns and lower prices."
+        "text": "Mild by New Zealand standards, though wetter, with quieter towns and lower prices."
       },
       {
         "season": "Spring (September–November)",
         "rating": "good",
-        "text": "Increasingly warm and genuinely pleasant, ahead of the summer peak."
+        "text": "Increasingly warm and pleasant, ahead of the summer peak."
       }
     ],
-    "avoid": "Nothing strongly — Northland's climate genuinely stays mild year-round, though summer weekends and school holidays bring the biggest crowds."
+    "avoid": "Nothing strongly — Northland's climate stays mild year-round, though summer weekends and school holidays bring the biggest crowds."
   },
   "itinerary": {
     "title": "Three days in the Bay of Islands",
@@ -345,37 +345,37 @@
   },
   "tipsIntro": "Practical notes on booking, ferries and timing that make a real difference to a Bay of Islands trip.",
   "tips": [
-    "Book Hole in the Rock cruises ahead in summer — the best morning departures genuinely fill up.",
-    "Check whether your cruise actually passes through the arch — it's genuinely subject to swell conditions.",
-    "Catch the passenger ferry rather than driving to Russell — it's genuinely quicker and removes parking hassle.",
-    "Bring sun protection even on overcast days — Northland's subtropical sun is genuinely stronger than further south.",
-    "Book Cape Brett Hut well ahead if attempting the full track — it's genuinely popular in summer.",
+    "Book Hole in the Rock cruises ahead in summer — the best morning departures fill up.",
+    "Check whether your cruise actually passes through the arch — it's subject to swell conditions.",
+    "Catch the passenger ferry rather than driving to Russell — it's quicker and removes parking hassle.",
+    "Bring sun protection even on overcast days — Northland's subtropical sun is stronger than further south.",
+    "Book Cape Brett Hut well ahead if attempting the full track — it's popular in summer.",
     "Combine the Bay of Islands with Auckland on a northern road trip rather than treating it as an isolated stop."
   ],
   "faq": [
     {
       "q": "How many days do you need in the Bay of Islands?",
-      "a": "Three days covers Waitangi, a Hole in the Rock cruise and Russell comfortably. A day trip from Auckland is possible but genuinely rushed."
+      "a": "Three days covers Waitangi, a Hole in the Rock cruise and Russell comfortably. A day trip from Auckland is possible but rushed."
     },
     {
       "q": "Is the Bay of Islands worth visiting for history?",
-      "a": "Yes, genuinely — Waitangi is New Zealand's single most significant historic site, and Russell was the country's first capital."
+      "a": "Yes — Waitangi is New Zealand's single most significant historic site, and Russell was the country's first capital."
     },
     {
       "q": "Does the cruise always go through the Hole in the Rock?",
-      "a": "Not guaranteed — passage genuinely depends on swell and tide conditions on the day, though most cruises attempt it."
+      "a": "Not guaranteed — passage depends on swell and tide conditions on the day, though most cruises attempt it."
     },
     {
       "q": "Is Russell or Paihia the better base?",
-      "a": "Paihia is genuinely more convenient for cruises and restaurants; Russell offers a quieter, more historic stay a short ferry ride away."
+      "a": "Paihia is more convenient for cruises and restaurants; Russell offers a quieter, more historic stay a short ferry ride away."
     },
     {
       "q": "Can you swim with dolphins in the Bay of Islands?",
-      "a": "Yes, on dedicated tours, though it's genuinely dependent on finding dolphins and their behaviour on the day — treat it as a possibility, not a guarantee."
+      "a": "Yes, on dedicated tours, though it's dependent on finding dolphins and their behaviour on the day — treat it as a possibility, not a guarantee."
     },
     {
       "q": "Do you need a car in the Bay of Islands?",
-      "a": "It genuinely helps for reaching Kerikeri and wider Northland, though Paihia and Russell themselves are easily covered on foot and by ferry."
+      "a": "It helps for reaching Kerikeri and wider Northland, though Paihia and Russell themselves are easily covered on foot and by ferry."
     }
   ],
   "related": ["auckland", "rotorua", "wellington"],

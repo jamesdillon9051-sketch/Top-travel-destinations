@@ -1,0 +1,366 @@
+{
+  "slug": "white-desert-bahariya",
+  "name": "White Desert & Bahariya Oasis",
+  "country": "egypt",
+  "region": "Western Desert",
+  "categories": ["desert", "nature", "adventure", "off-the-beaten-path"],
+  "tagline": "A surreal Sahara landscape of wind-carved chalk formations rising from the sand like a snowfield, reached through a palm-filled desert oasis and typically explored by overnight camping safari.",
+  "highlight": "Lying back on a rug beside a campfire deep in the White Desert, its ghostly chalk formations glowing under an uninterrupted blanket of stars.",
+  "shortDescription": "A surreal Sahara landscape of wind-carved white chalk formations, reached via Bahariya Oasis and typically explored on an overnight desert camping safari.",
+  "metaDescription": "A White Desert and Bahariya Oasis travel guide: the White Desert's chalk formations, the Black Desert, Crystal Mountain, desert camping, food and how to plan a Western Desert safari.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Cairo International Airport (CAI), about 4-5 hours by road",
+  "knownFor": "Chalk rock formations, overnight desert camping, the Black Desert",
+  "budget": "E£1,500–3,000 per day, typically an all-inclusive safari package",
+  "goodFor": "Desert camping, photography, off-the-beaten-path travel",
+  "coords": { "lat": 28.3500, "lng": 28.8667 },
+  "image": {
+    "file": "File:White Desert, Rock formations in desert landscape, Egypt.jpg",
+    "alt": "Chalk rock formations in Egypt's White Desert"
+  },
+  "intro": [
+    "The White Desert is one of Egypt's strangest, most beautiful landscapes, a stretch of the Sahara where wind and sand have carved chalk-white rock into shapes that look almost sculpted.",
+    "Most visits start in Bahariya Oasis, a palm-filled desert town about four hours from Cairo that serves as the practical gateway and overnight base for White Desert safaris.",
+    "The standard way to experience it is an overnight camping trip by 4x4, crossing the Black Desert's volcanic hills en route and sleeping out among the White Desert's formations under an extraordinary night sky."
+  ],
+  "whyVisit": {
+    "intro": "The White Desert's case rests on landscape found almost nowhere else on Earth, best experienced by camping out overnight.",
+    "points": [
+      {
+        "title": "The rock formations are unlike anywhere else",
+        "text": "Wind-eroded chalk pillars scattered across the sand like a strange, silent sculpture park."
+      },
+      {
+        "title": "Camping out overnight is a highlight in itself",
+        "text": "Uninterrupted desert silence and some of the clearest night skies in Egypt."
+      },
+      {
+        "title": "The Black Desert makes a dramatic contrast en route",
+        "text": "Volcanic hills dusted black rise from the pale desert floor."
+      },
+      {
+        "title": "Bahariya Oasis is a real, working desert town",
+        "text": "Palm groves, hot springs and a slower pace far from Egypt's more visited sites."
+      },
+      {
+        "title": "It works well as an off-the-beaten-path addition",
+        "text": "A very different side of Egypt from the Nile Valley or Red Sea coast."
+      }
+    ]
+  },
+  "attractionsIntro": "The region's essential sights are spread between Bahariya's oasis town and the White Desert's extraordinary formations further south.",
+  "attractions": [
+    {
+      "name": "The White Desert's chalk formations",
+      "image": {
+        "file": "File:White Desert, Rock formations in desert landscape, Egypt.jpg",
+        "alt": "Wind-carved chalk formations in the White Desert"
+      },
+      "text": "Wind-carved chalk rock rising from the sand in shapes locals have nicknamed for what they resemble — mushrooms, chickens, a sphinx.",
+      "tip": "Visit at sunset or sunrise, when low light turns the formations gold and pink."
+    },
+    {
+      "name": "Crystal Mountain",
+      "image": {
+        "file": "File:Crystal Mountain, White Desert, Egypt 21.jpg",
+        "alt": "Crystal Mountain on the way into the White Desert"
+      },
+      "text": "A small outcrop glittering with natural quartz crystal, a striking stop on the way into the White Desert.",
+      "tip": "Look but don't take — removing crystals is discouraged to preserve the site."
+    },
+    {
+      "name": "The Black Desert",
+      "image": {
+        "file": "File:Black Desert, Egypt 11.jpg",
+        "alt": "The volcanic hills of Egypt's Black Desert"
+      },
+      "text": "A dramatic run of volcanic hills dusted black with dolomite and basalt, a striking contrast en route to the White Desert.",
+      "tip": "Climb one of the smaller hills for a wide view across the black-and-gold landscape."
+    },
+    {
+      "name": "Bahariya Oasis's palm groves",
+      "image": {
+        "file": "File:Bahariya Village through the Forest.jpg",
+        "alt": "Palm groves in Bahariya Oasis"
+      },
+      "text": "A lush, working oasis town of palm and olive groves, springs and mudbrick villages.",
+      "tip": "Wander Bawiti's old quarter for a slower, authentic desert-town pace."
+    },
+    {
+      "name": "Bir Al Ghaba hot spring",
+      "image": {
+        "file": "File:BawitiIntlHotSpringPool.jpg",
+        "alt": "A hot spring pool near Bawiti in Bahariya Oasis"
+      },
+      "text": "A natural hot spring near Bawiti, a relaxing soak after a dusty day in the desert.",
+      "tip": "Evening is a lovely time to visit, once the desert heat has faded."
+    },
+    {
+      "name": "Camping among the White Desert's formations",
+      "image": {
+        "file": "File:White Desert 2, Egypt.jpg",
+        "alt": "A campsite among the White Desert's rock formations"
+      },
+      "text": "The region's real highlight, camping out among the chalk formations far from any light pollution.",
+      "tip": "Pack warm layers — desert nights turn surprisingly cold, even after a hot day."
+    },
+    {
+      "name": "The White Desert's 'mushroom rock'",
+      "image": {
+        "file": "File:White Desert, Rock formation, Egypt.jpg",
+        "alt": "A mushroom-shaped rock formation in the White Desert"
+      },
+      "text": "Named by guides for its distinctive undercut shape, one of the formation's most photographed features.",
+      "tip": "Best photographed early morning, before the sun is too high and flattens its defining shadows."
+    }
+  ],
+  "thingsToDoIntro": "The White Desert and Bahariya reward slow travel, built around camping, desert scenery and a soak in a hot spring.",
+  "thingsToDo": [
+    {
+      "title": "Camp overnight in the White Desert",
+      "image": {
+        "file": "File:White Desert, Desert landscape, Egypt.jpg",
+        "alt": "The White Desert landscape at camping time"
+      },
+      "text": "An essential experience, sleeping out among the chalk formations on a safari mattress under the stars.",
+      "tip": "Book through an operator who cooks a proper Bedouin-style dinner over the campfire."
+    },
+    {
+      "title": "Climb among the Black Desert's volcanic hills",
+      "image": {
+        "file": "File:Black Desert, Egypt 06.jpg",
+        "alt": "Volcanic hills in Egypt's Black Desert"
+      },
+      "text": "An easy, worthwhile stop on the way into the White Desert, climbing a low hill for the view.",
+      "tip": "Wear closed shoes — the black volcanic gravel is sharp underfoot."
+    },
+    {
+      "title": "Visit Crystal Mountain",
+      "image": {
+        "file": "File:Crystal Mountain, White Desert, Egypt 38.jpg",
+        "alt": "Quartz crystal outcrops at Crystal Mountain"
+      },
+      "text": "A quick but memorable stop, spotting natural quartz crystal glittering across the outcrop.",
+      "tip": "A good midway break on the drive between Bahariya and the White Desert."
+    },
+    {
+      "title": "Soak in a Bahariya hot spring",
+      "image": {
+        "file": "File:BawitiIntlHotSpringPool.jpg",
+        "alt": "Soaking in a hot spring pool near Bawiti"
+      },
+      "text": "A welcome way to unwind, natural warm spring water right on the edge of the oasis town.",
+      "tip": "Ask your guesthouse to recommend a spring — several dot the area around Bawiti."
+    },
+    {
+      "title": "Photograph the formations at sunset",
+      "image": {
+        "file": "File:White Desert, Rock formations, Egypt.jpg",
+        "alt": "Sunset light on the White Desert's rock formations"
+      },
+      "text": "A spectacular time of day, low golden light picking out every curve and shadow in the chalk.",
+      "tip": "Bring a tripod if you're serious about photography — light fades fast once the sun drops."
+    },
+    {
+      "title": "Ride a camel among the dunes",
+      "image": {
+        "file": "File:White Desert, Camels, Egypt.jpg",
+        "alt": "Camels in Egypt's White Desert"
+      },
+      "text": "A classic way to cover a short stretch of desert, often arranged as an add-on near camp.",
+      "tip": "Confirm with your guide in advance if you'd like this included in the safari."
+    }
+  ],
+  "foodIntro": "Food here means simple, hearty Bedouin-style cooking and oasis staples rather than restaurant dining.",
+  "foods": [
+    {
+      "name": "Bedouin campfire dinner",
+      "text": "Part of the White Desert camping experience, a simple meal of grilled chicken, rice and vegetables cooked over an open fire.",
+      "whereToTry": "Included with any organised desert camping safari."
+    },
+    {
+      "name": "Dates from the oasis",
+      "image": {
+        "file": "File:Sinai palm dates quality.jpg",
+        "alt": "Fresh dates, a Western Desert oasis staple"
+      },
+      "text": "One of Bahariya's real products, sweet dates grown in the oasis's own palm groves.",
+      "whereToTry": "Local shops and stalls around Bawiti."
+    },
+    {
+      "name": "Koshari",
+      "image": {
+        "file": "File:Egyptian Koshari.jpg",
+        "alt": "Koshari, Egypt's national dish of rice, lentils and pasta"
+      },
+      "text": "Available at simple restaurants in Bawiti, a filling, familiar option before or after camping.",
+      "whereToTry": "Local restaurants in Bawiti."
+    },
+    {
+      "name": "Ful medames",
+      "image": {
+        "file": "File:Foul Mudames.jpg",
+        "alt": "Ful medames, a traditional Egyptian fava bean breakfast"
+      },
+      "text": "A traditional, hearty breakfast, found at guesthouses and cafés throughout Bawiti.",
+      "whereToTry": "Guesthouses and cafés in Bawiti."
+    },
+    {
+      "name": "Taameya (Egyptian falafel)",
+      "text": "Egypt's own fava-bean falafel, a reliable, inexpensive staple.",
+      "whereToTry": "Street stalls and restaurants throughout Bawiti."
+    },
+    {
+      "name": "Karkade (hibiscus tea)",
+      "text": "A refreshing national drink, welcome after a hot, dusty day in the desert.",
+      "whereToTry": "Cafés and guesthouses throughout Bahariya."
+    }
+  ],
+  "accommodation": {
+    "intro": "Accommodation here splits between simple hotels in Bahariya and camping out under the stars in the White Desert itself.",
+    "areas": [
+      {
+        "name": "Bawiti (Bahariya Oasis)",
+        "bestFor": "A comfortable base with hotels, restaurants and hot springs",
+        "text": "The practical hub for arranging safaris and spending a night before or after camping."
+      },
+      {
+        "name": "Camping in the White Desert",
+        "bestFor": "The highlight of the whole trip",
+        "text": "A simple camp of mattresses and blankets set up by your safari guide among the formations."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel in Bawiti", "value": "E£500–1,000 per night" },
+      { "label": "Overnight White Desert safari (all-inclusive)", "value": "E£1,500–3,000 per person" },
+      { "label": "Additional camping nights", "value": "Often bundled into the safari package" },
+      { "label": "Meals in Bawiti", "value": "About E£150–300 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The region is reached by road from Cairo, typically as part of an organised safari package.",
+    "options": [
+      {
+        "mode": "Organised safari from Cairo",
+        "text": "The most common way to visit, a package that includes transport, guide, meals and camping gear.",
+        "detail": "Typically two or three days, with pickup directly from Cairo hotels."
+      },
+      {
+        "mode": "Bus to Bawiti",
+        "text": "A budget option for reaching Bahariya independently.",
+        "detail": "Takes about four to five hours from Cairo; arrange a White Desert safari once there."
+      },
+      {
+        "mode": "Private car or driver",
+        "text": "A flexible option for a small group.",
+        "detail": "About four hours each way from Cairo on a well-paved desert road."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Getting around here means travelling by 4x4 with a local guide, especially once off the paved road.",
+    "options": [
+      {
+        "mode": "4x4 safari vehicle",
+        "text": "Essential for reaching the White Desert and Black Desert.",
+        "detail": "Always travel with an experienced local guide who knows the terrain."
+      },
+      {
+        "mode": "On foot around the formations",
+        "text": "How you explore the White Desert itself once camped.",
+        "detail": "Wandering among the chalk formations on foot is the whole point."
+      },
+      {
+        "mode": "Walking around Bawiti",
+        "text": "Easy for the small oasis town itself.",
+        "detail": "Hot springs and the old quarter are all within a short walk or short taxi ride."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October to April for comfortable desert temperatures",
+    "summary": "The Western Desert is best avoided in peak summer heat, with cooler months far more comfortable for camping.",
+    "seasons": [
+      {
+        "season": "Autumn (October–November)",
+        "rating": "best",
+        "text": "Warm days and comfortably cool desert nights."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "Popular for camping, though nights can turn quite cold — pack warm layers."
+      },
+      {
+        "season": "Spring (March–April)",
+        "rating": "good",
+        "text": "Pleasant before the full heat of summer arrives."
+      },
+      {
+        "season": "Summer (May–September)",
+        "rating": "avoid",
+        "text": "Extremely hot, with daytime temperatures often exceeding 40°C."
+      }
+    ],
+    "avoid": "Peak summer (June–August), when daytime desert heat becomes dangerous for extended time outdoors."
+  },
+  "itinerary": {
+    "title": "Two days in the White Desert",
+    "intro": "Built around the classic one-night White Desert camping safari from Bahariya.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Bahariya to the White Desert",
+        "summary": "Travel to Bahariya and set off into the desert.",
+        "morning": "Depart for Bahariya Oasis, arriving by early afternoon.",
+        "afternoon": "4x4 into the desert via the Black Desert and Crystal Mountain.",
+        "evening": "Set up camp and watch the sunset over the White Desert's formations."
+      },
+      {
+        "day": 2,
+        "title": "Sunrise and Bahariya",
+        "summary": "A desert sunrise and a return via Bahariya's hot springs.",
+        "morning": "Wake for sunrise over the chalk formations.",
+        "afternoon": "Drive back to Bawiti, stopping at a hot spring.",
+        "evening": "Depart back toward Cairo or onward."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a White Desert and Bahariya visit noticeably smoother.",
+  "tips": [
+    "Book through a reputable local safari operator or guide in Bahariya.",
+    "Pack warm layers — desert nights can turn surprisingly cold, even in summer.",
+    "Bring more water than you think you'll need; little is available once out in the desert.",
+    "Carry cash — Bawiti has limited card acceptance and no ATMs in the desert itself.",
+    "Protect against sun and wind during the day — shade is minimal among the formations.",
+    "Confirm what's included in your safari package — meals, camping gear and park fees vary by operator."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need for the White Desert?",
+      "a": "Two days and one night covers the classic camping safari, though three days allows more time in Bahariya itself."
+    },
+    {
+      "q": "Do you need a guide to visit the White Desert?",
+      "a": "Yes — the desert has no marked roads, and a local guide is essential for both navigation and safety."
+    },
+    {
+      "q": "Is camping in the White Desert safe?",
+      "a": "Yes, with a reputable operator — organised safaris are a well-established, generally very safe experience."
+    },
+    {
+      "q": "How do you get to Bahariya Oasis?",
+      "a": "By bus or private car from Cairo, taking around four to five hours each way."
+    },
+    {
+      "q": "What should you pack for a White Desert safari?",
+      "a": "Warm layers for the night, sun protection for the day, and a headlamp or torch."
+    },
+    {
+      "q": "Can you visit the White Desert as a day trip?",
+      "a": "It's technically possible from Bahariya, but an overnight stay is by far the more rewarding way to experience it."
+    }
+  ],
+  "related": ["siwa-oasis", "cairo-giza", "nile-cruise"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

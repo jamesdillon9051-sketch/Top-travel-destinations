@@ -1,0 +1,370 @@
+{
+  "slug": "hvar",
+  "name": "Hvar",
+  "country": "croatia",
+  "region": "Dalmatia",
+  "categories": ["island", "coastal", "nightlife", "food-and-wine"],
+  "tagline": "Croatia's glamorous lavender island, a car-free medieval harbour town backed by a hilltop fortress and a scatter of pine-covered islets offshore.",
+  "highlight": "Watching the sun set from Fortica's ramparts, Hvar Town's terracotta rooftops and the Pakleni Islands glowing below.",
+  "shortDescription": "Croatia's glamorous lavender island, a medieval harbour town backed by a hilltop fortress, with the pine-covered Pakleni Islands scattered just offshore.",
+  "metaDescription": "A Hvar travel guide: Fortica Španjola, St Stephen's Square, the Pakleni Islands, lavender fields, food and how to plan a Dalmatian island trip.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Split Airport (SPU), then a ferry or catamaran to Hvar",
+  "knownFor": "Hvar Town, the Pakleni Islands, lavender fields",
+  "budget": "€130–280 per day, mid-range to upscale (higher in peak summer)",
+  "goodFor": "Nightlife, beaches, island-hopping",
+  "coords": { "lat": 43.1729, "lng": 16.4414 },
+  "image": {
+    "file": "File:J32 727 Hvar-Stadt, Sv. Stjepan.jpg",
+    "alt": "Hvar Town and St Stephen's Square"
+  },
+  "intro": [
+    "Hvar is Croatia's most glamorous island, a sun-drenched strip of the Adriatic known for lavender fields, Venetian architecture and a harbour town that fills up with yachts every summer.",
+    "Its centrepiece is Hvar Town, a car-free medieval port overlooked by the hilltop Fortica fortress and framed by the pine-covered Pakleni Islands just offshore.",
+    "Beyond the harbour's nightlife, the island is also one of Croatia's sunniest and most fertile, its interior still scented with lavender and planted with some of the country's best vineyards."
+  ],
+  "whyVisit": {
+    "intro": "Hvar's case rests on combining postcard Dalmatian scenery with a lively, sociable atmosphere.",
+    "points": [
+      {
+        "title": "Hvar Town is one of Croatia's most beautiful harbours",
+        "text": "A car-free medieval port town backed by a hilltop fortress."
+      },
+      {
+        "title": "The Pakleni Islands are a short boat ride away",
+        "text": "Pine-covered islets with clear water and quiet coves, right offshore from the main harbour."
+      },
+      {
+        "title": "It's one of Europe's sunniest islands",
+        "text": "Among the highest annual sunshine counts anywhere on the continent."
+      },
+      {
+        "title": "The lavender and wine are real, not just marketing",
+        "text": "A fertile interior producing both alongside the coast's beach-club scene."
+      },
+      {
+        "title": "It works well for every kind of traveller",
+        "text": "Lively harbourfront nightlife alongside quiet coves and hiking trails, depending on what you're after."
+      }
+    ]
+  },
+  "attractionsIntro": "Hvar's essential sights are spread between its harbour town, hilltop fortress and the islands offshore.",
+  "attractions": [
+    {
+      "name": "Hvar Town's harbour",
+      "image": {
+        "file": "File:Hvar Center 1.jpg",
+        "alt": "Hvar Town's harbour"
+      },
+      "text": "The island's social heart, a car-free medieval port lined with cafés, yachts and Venetian-era architecture.",
+      "tip": "Arrive by late afternoon for the harbour at its liveliest, golden-hour best."
+    },
+    {
+      "name": "Fortica Španjola",
+      "image": {
+        "file": "File:Fortica, Hvar 00523.JPG",
+        "alt": "Fortica Španjola, the fortress above Hvar Town"
+      },
+      "text": "The best view on the island, a 16th-century fortress on the hill directly above Hvar Town.",
+      "tip": "Time the climb for sunset — the view over the town and Pakleni Islands is spectacular."
+    },
+    {
+      "name": "St Stephen's Square and Cathedral",
+      "image": {
+        "file": "File:St. Stephen Square and the Cathedral of St. Stephen (5969989950).jpg",
+        "alt": "St Stephen's Square and Cathedral in Hvar Town"
+      },
+      "text": "One of the largest and oldest squares in Dalmatia, ringed by the town's baroque cathedral and arsenal.",
+      "tip": "A lovely spot for an evening coffee once the day's heat has faded."
+    },
+    {
+      "name": "The Pakleni Islands",
+      "image": {
+        "file": "File:Pakleni otoci - panoramio.jpg",
+        "alt": "The Pakleni Islands near Hvar"
+      },
+      "text": "A scatter of pine-covered islets just offshore, with quiet coves and clear water a world away from the harbour.",
+      "tip": "A water taxi from the harbour reaches them in minutes — no need for an organised tour."
+    },
+    {
+      "name": "Hvar's lavender fields",
+      "image": {
+        "file": "File:Lavender field on Hvar.JPG",
+        "alt": "Lavender fields on Hvar island"
+      },
+      "text": "A real island industry, not just a photo prop, with purple fields scenting the island's interior each summer.",
+      "tip": "Visit in late June or early July, when the lavender is in full, fragrant bloom."
+    },
+    {
+      "name": "Stari Grad",
+      "image": {
+        "file": "File:The Harbour of Stari Grad (5970771048).jpg",
+        "alt": "The harbour of Stari Grad on Hvar island"
+      },
+      "text": "One of the oldest towns in Europe, its surrounding UNESCO-listed agricultural plain still farmed as it was in ancient Greek times.",
+      "tip": "A quieter, more low-key alternative base to Hvar Town itself."
+    },
+    {
+      "name": "The view from Fortica",
+      "image": {
+        "file": "File:PANOrama Hvara i Paklinski otoci 00617.JPG",
+        "alt": "A panoramic view over Hvar Town and the Pakleni Islands"
+      },
+      "text": "One of Dalmatia's best panoramas, the harbour town and islands laid out together below.",
+      "tip": "Bring a camera with a wide lens — the view sweeps across the whole coastline."
+    }
+  ],
+  "thingsToDoIntro": "Hvar rewards splitting time between the harbour's energy and the quieter islands and countryside beyond it.",
+  "thingsToDo": [
+    {
+      "title": "Climb up to Fortica Španjola",
+      "image": {
+        "file": "File:Fortica, Hvar 00507.JPG",
+        "alt": "Climbing to Fortica Španjola above Hvar Town"
+      },
+      "text": "An essential walk, climbing through the old town's back lanes to the fortress and its panoramic view.",
+      "tip": "Go earlier in the day if you'd rather avoid the steepest part of the climb in full heat."
+    },
+    {
+      "title": "Boat to the Pakleni Islands",
+      "image": {
+        "file": "File:Pakleni otoci - panoramio (3).jpg",
+        "alt": "Boating to the Pakleni Islands near Hvar"
+      },
+      "text": "An essential half or full day, swimming and relaxing on the quieter islets just offshore.",
+      "tip": "Pack your own snacks and water if visiting a quieter cove without beach bars."
+    },
+    {
+      "title": "Wander St Stephen's Square",
+      "image": {
+        "file": "File:Hvar-square-1.JPG",
+        "alt": "St Stephen's Square in Hvar Town"
+      },
+      "text": "A relaxed way to spend an hour, taking in the square's cathedral, arsenal and café terraces.",
+      "tip": "A good spot to get your bearings before exploring the town's smaller side streets."
+    },
+    {
+      "title": "Visit the lavender fields in bloom",
+      "image": {
+        "file": "File:J32 771 Lavendel.jpg",
+        "alt": "Lavender fields in bloom on Hvar"
+      },
+      "text": "A fragrant, photogenic detour into the island's interior, best timed for peak bloom.",
+      "tip": "Rent a scooter or join a small tour to reach the fields easily from town."
+    },
+    {
+      "title": "Day-trip to Stari Grad",
+      "image": {
+        "file": "File:The Harbour of Stari Grad (5970771048).jpg",
+        "alt": "Stari Grad, one of Europe's oldest towns"
+      },
+      "text": "A worthwhile change of pace, exploring one of Europe's oldest continuously inhabited towns.",
+      "tip": "An easy bus ride across the island from Hvar Town."
+    },
+    {
+      "title": "Watch sunset from the harbour",
+      "image": {
+        "file": "File:Hvar Center 2.jpg",
+        "alt": "Sunset over Hvar Town's harbour"
+      },
+      "text": "An essential evening ritual, the harbour glowing as yachts and day-trip boats return for the night.",
+      "tip": "Grab a waterfront table well before sunset in peak season, when the best spots fill early."
+    }
+  ],
+  "foodIntro": "Hvar's food spans classic Dalmatian seafood alongside the island's own respected wine.",
+  "foods": [
+    {
+      "name": "Fresh grilled seafood",
+      "image": {
+        "file": "File:Skampi Na Zaru - Konoba Ivan (14929244641).jpg",
+        "alt": "Grilled seafood at a traditional Croatian restaurant"
+      },
+      "text": "A highlight of dining here, fish and shellfish grilled simply at harbourfront konobas.",
+      "whereToTry": "Konobas throughout Hvar Town's harbour and back streets."
+    },
+    {
+      "name": "Hvar wine (Plavac Mali)",
+      "text": "A real point of local pride, bold red wines grown on the island's sun-soaked southern slopes.",
+      "whereToTry": "Wine bars and konobas throughout Hvar Town."
+    },
+    {
+      "name": "Gregada (Hvar fish stew)",
+      "text": "A distinctive island specialty, a simple stew of fish, potatoes and white wine cooked slowly together.",
+      "whereToTry": "Traditional konobas away from the busiest harbourfront strip."
+    },
+    {
+      "name": "Dalmatinski pršut (dry-cured ham)",
+      "image": {
+        "file": "File:Dalmatinski pršut.jpg",
+        "alt": "Dalmatinski pršut, Croatia's dry-cured ham"
+      },
+      "text": "A reliable starter, often served with local cheese and olives.",
+      "whereToTry": "Restaurants and konobas throughout Hvar Town."
+    },
+    {
+      "name": "Crni rižot (black risotto)",
+      "image": {
+        "file": "File:Risotto al nero di seppia.jpg",
+        "alt": "Black risotto made with cuttlefish ink"
+      },
+      "text": "A Dalmatian classic, worth trying at least once during a Hvar visit.",
+      "whereToTry": "Seafood restaurants throughout Hvar Town."
+    },
+    {
+      "name": "Fritule (small fried doughnuts)",
+      "image": {
+        "file": "File:Fritule iz Rijeke.jpg",
+        "alt": "Fritule, small Croatian fried doughnuts"
+      },
+      "text": "A nice sweet treat, found at bakeries and market stalls around town.",
+      "whereToTry": "Bakeries throughout Hvar Town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Hvar runs from budget guesthouses to some of Croatia's most exclusive hotels, with prices climbing steeply in peak season.",
+    "areas": [
+      {
+        "name": "Hvar Town",
+        "bestFor": "Being in the middle of the island's nightlife and restaurant scene",
+        "text": "The most convenient, liveliest base, though also the priciest and busiest."
+      },
+      {
+        "name": "Stari Grad",
+        "bestFor": "A quieter, more low-key stay",
+        "text": "A short bus ride from Hvar Town, with noticeably better value accommodation."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "€70–130 per night" },
+      { "label": "Mid-range hotel", "value": "€180–350 per night" },
+      { "label": "Water taxi to the Pakleni Islands", "value": "About €15–25 return" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About €35–60 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Hvar is reached by sea, with no airport of its own on the island.",
+    "options": [
+      {
+        "mode": "Catamaran or ferry from Split",
+        "text": "The most common route, with frequent daily sailings in summer.",
+        "detail": "The fast catamaran takes about an hour; the car ferry to Stari Grad takes around two."
+      },
+      {
+        "mode": "Ferry from Dubrovnik",
+        "text": "A longer but scenic option, sometimes with a change.",
+        "detail": "Seasonal routes run more frequently in summer than winter."
+      },
+      {
+        "mode": "Private boat transfer",
+        "text": "A flexible, if pricier, option from Split.",
+        "detail": "Widely available through hotels and private operators."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Hvar Town's car-free centre is entirely walkable, with boats and buses covering the rest of the island.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The only way to explore Hvar Town's old streets.",
+        "detail": "The harbour, square and fortress all sit within a comfortable walk of each other."
+      },
+      {
+        "mode": "Water taxi",
+        "text": "The standard way to reach the Pakleni Islands.",
+        "detail": "Frequent, inexpensive departures from the harbour throughout the day."
+      },
+      {
+        "mode": "Scooter or bus to Stari Grad and beyond",
+        "text": "Useful for reaching the lavender fields and other towns.",
+        "detail": "A scooter offers the most flexibility for exploring the island's interior."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "Late June and September for lavender bloom and thinner crowds",
+    "summary": "Hvar is at its busiest and most expensive in July and August, with late June and September offering a better balance.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Warm enough to swim, with lavender fields at their fragrant best in late June."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Hot and lively, though Hvar Town gets crowded and prices peak."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "best",
+        "text": "Still warm enough for the sea, with crowds and prices both easing off noticeably."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "poor",
+        "text": "Very quiet, with much of the island's hospitality scene closed for the season."
+      }
+    ],
+    "avoid": "Deep winter, when most restaurants and hotels close until spring."
+  },
+  "itinerary": {
+    "title": "Two days in Hvar",
+    "intro": "Built around Hvar Town's essential sights and a full day on the Pakleni Islands.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Hvar Town and Fortica",
+        "summary": "The harbour town and its hilltop fortress.",
+        "morning": "St Stephen's Square and the harbour.",
+        "afternoon": "Climb up to Fortica Španjola.",
+        "evening": "Sunset views and dinner in the harbour."
+      },
+      {
+        "day": 2,
+        "title": "The Pakleni Islands",
+        "summary": "A full day on the water.",
+        "morning": "Water taxi out to the Pakleni Islands.",
+        "afternoon": "Swim and relax on a quiet cove.",
+        "evening": "A final dinner back in Hvar Town."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Hvar visit noticeably smoother.",
+  "tips": [
+    "Book ferry and catamaran tickets ahead for peak summer sailings.",
+    "Book accommodation well ahead — Hvar Town sells out early in July and August.",
+    "Pack water shoes — many of the island's best coves are pebbly or rocky rather than sandy.",
+    "Visit in late June for the lavender fields at their fragrant, photogenic best.",
+    "Escape to the Pakleni Islands when Hvar Town's harbour feels too crowded.",
+    "Consider Stari Grad for better-value accommodation a short bus ride from the action."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Hvar?",
+      "a": "Two to three days covers Hvar Town, Fortica and a day on the Pakleni Islands comfortably."
+    },
+    {
+      "q": "How do you get to Hvar?",
+      "a": "By ferry or catamaran from Split, taking one to two hours depending on the service."
+    },
+    {
+      "q": "Is Hvar expensive?",
+      "a": "One of Croatia's pricier islands, especially in July and August, when it draws a notably glamorous crowd."
+    },
+    {
+      "q": "When do the lavender fields bloom?",
+      "a": "Late June into early July is the classic window, when the island's fields are at their most fragrant."
+    },
+    {
+      "q": "Do you need a car on Hvar?",
+      "a": "No, not for Hvar Town itself, though a scooter or bus helps for reaching Stari Grad and the lavender fields."
+    },
+    {
+      "q": "How does Hvar compare to Korčula?",
+      "a": "Livelier and more upscale — Korčula offers a quieter, more low-key version of a similar Dalmatian island experience."
+    }
+  ],
+  "related": ["split", "korcula", "dubrovnik"],
+  "relatedArticles": ["mediterranean-coasts", "packing-by-season"]
+}

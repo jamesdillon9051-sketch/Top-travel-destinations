@@ -1,0 +1,358 @@
+{
+  "slug": "oslo",
+  "name": "Oslo",
+  "country": "norway",
+  "region": "Eastern Norway",
+  "categories": ["city", "culture", "museums", "history"],
+  "tagline": "Norway's compact, walkable capital, ringed by forest and fjord, with world-class museums and a real design sensibility.",
+  "highlight": "Standing beneath the Monolith at the centre of Vigeland Park, surrounded by over 200 bronze and granite sculptures of human life.",
+  "shortDescription": "Norway's capital, a compact city of striking modern architecture, Viking history and world-class museums, ringed by forest and the Oslofjord.",
+  "metaDescription": "An Oslo travel guide: the Vigeland Sculpture Park, the Opera House, the Viking Ship Museum, food and how to plan a visit to Norway's capital.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Oslo Gardermoen (OSL)",
+  "knownFor": "Museums, design, the Vigeland sculptures",
+  "budget": "NOK 1,200–2,500 per day, mid-range",
+  "goodFor": "City culture, museums, an easy first stop",
+  "coords": { "lat": 59.9139, "lng": 10.7522 },
+  "image": {
+    "file": "File:Oslo Opera House 2023 5.jpg",
+    "alt": "The Oslo Opera House rising from the harbour like a sheet of ice"
+  },
+  "intro": [
+    "Oslo is one of Europe's most compact and walkable capitals, a city ringed by forested hills on one side and the Oslofjord on the other, small enough to cross on foot in an afternoon but packed with world-class museums.",
+    "It's also a city confident in modern design — the Opera House's sloping marble roof, the Munch Museum's twisting tower and the harbourside developments around Aker Brygge all sit comfortably beside a Viking history that runs far deeper, preserved in the actual ships buried and excavated a thousand years after they sailed.",
+    "Most visitors use Oslo as a first or last stop on a wider Norway trip, and it earns that role — a couple of days here gives real context for the fjords and mountains still to come."
+  ],
+  "whyVisit": {
+    "intro": "Oslo's case rests on world-class museums packed into a small, easy-to-navigate city.",
+    "points": [
+      {
+        "title": "Vigeland Park is unlike anywhere else",
+        "text": "Over 200 sculptures by a single artist, Gustav Vigeland, depicting the full span of human life in bronze and granite."
+      },
+      {
+        "title": "The Viking Ship Museum holds real Viking ships",
+        "text": "Not replicas — actual 9th-century burial ships, remarkably well preserved after a millennium underground."
+      },
+      {
+        "title": "The Opera House is climbable",
+        "text": "Its sloping marble roof rises straight from the harbour and visitors are encouraged to walk right up it."
+      },
+      {
+        "title": "It's compact and walkable",
+        "text": "Most major sights sit within a comfortable walk or short transit ride of the city centre."
+      },
+      {
+        "title": "It works well as a gateway to the rest of Norway",
+        "text": "The Bergen Line and domestic flights to the fjords and far north both start here."
+      }
+    ]
+  },
+  "attractionsIntro": "Oslo's essential sights combine world-class museums with striking modern and historic architecture.",
+  "attractions": [
+    {
+      "name": "Vigeland Sculpture Park",
+      "image": {
+        "file": "File:Vigeland Sculpture Park - Panoramic view towards the Monolith, Oslo, Norway.jpg",
+        "alt": "The Monolith and surrounding sculptures at Vigeland Park in Oslo"
+      },
+      "text": "The world's largest sculpture park by a single artist, over 200 bronze and granite works by Gustav Vigeland depicting human life from birth to death.",
+      "tip": "The central Monolith, carved from a single block of granite, rewards a slow walk around its full circumference."
+    },
+    {
+      "name": "Oslo Opera House",
+      "image": {
+        "file": "File:Oslo Opera House 2023 1.jpg",
+        "alt": "The sloping marble roof of the Oslo Opera House"
+      },
+      "text": "A striking modern landmark, its sloping white marble roof rising directly from the harbour and designed for the public to walk right up.",
+      "tip": "Sunset offers the best light for photos, with the roof glowing against the harbour."
+    },
+    {
+      "name": "Akershus Fortress",
+      "image": {
+        "file": "File:Akershus Fortress, 2023.jpg",
+        "alt": "The medieval walls of Akershus Fortress overlooking Oslo's harbour"
+      },
+      "text": "A still-functioning medieval fortress and royal residence, its grounds offering some of the best harbour views in the city.",
+      "tip": "The fortress grounds are free to explore, even without paying for the museum interiors."
+    },
+    {
+      "name": "Viking Ship Museum",
+      "image": {
+        "file": "File:Gokstad Ship, late 9th cent., Viking Ship Museum, Oslo (3) (35632323234).jpg",
+        "alt": "A genuine 9th-century Viking ship on display at the Viking Ship Museum"
+      },
+      "text": "Home to real Viking burial ships, remarkably preserved after being buried in clay for over a thousand years.",
+      "tip": "Check ahead — the museum periodically closes for renovation as it moves to a larger new building."
+    },
+    {
+      "name": "Munch Museum",
+      "image": {
+        "file": "File:MUNCH Museum front (2020) 4.jpg",
+        "alt": "The modern twisting tower of Oslo's Munch Museum"
+      },
+      "text": "A striking modern museum dedicated to Edvard Munch, holding the world's largest collection of his work including versions of 'The Scream.'",
+      "tip": "The upper floors offer panoramic views over the harbour and city as a bonus."
+    },
+    {
+      "name": "Oslo City Hall",
+      "image": {
+        "file": "File:Radhuset, Oslo (36070554500).jpg",
+        "alt": "Oslo City Hall's twin brick towers overlooking the harbour"
+      },
+      "text": "A significant civic building, its twin towers a defining part of the skyline and the annual venue for the Nobel Peace Prize ceremony.",
+      "tip": "The free interior murals depicting Norwegian history and mythology are well worth a look."
+    },
+    {
+      "name": "Holmenkollen Ski Jump",
+      "image": {
+        "file": "File:Oslo holmenkollen widok z gory.jpg",
+        "alt": "The Holmenkollen ski jump overlooking Oslo and the fjord"
+      },
+      "text": "A dramatic ski jump tower on a forested hillside above the city, with a small museum and sweeping views from the top.",
+      "tip": "The observation deck at the top gives one of Oslo's best panoramic views, fjord included."
+    }
+  ],
+  "thingsToDoIntro": "Oslo rewards mixing its major museums with a wander through its more relaxed neighbourhoods.",
+  "thingsToDo": [
+    {
+      "title": "Wander Vigeland Park's sculptures",
+      "image": {
+        "file": "File:Vigeland Sculpture Park - Granite sculptures on the staircase, Oslo, Norway.jpg",
+        "alt": "Granite sculptures lining the staircase at Vigeland Park"
+      },
+      "text": "An absorbing afternoon, following the park's sculptures from the entrance bridge to the Monolith and beyond.",
+      "tip": "The park is free and open year-round, making it a good option regardless of weather."
+    },
+    {
+      "title": "Climb the Opera House's roof",
+      "image": {
+        "file": "File:New Opera in Oslo.jpg",
+        "alt": "Visitors walking on the sloping roof of the Oslo Opera House"
+      },
+      "text": "An unusual way to experience a building, walking right up its sloped marble exterior for harbour views.",
+      "tip": "The roof can be slippery when wet or icy — take care in poor weather."
+    },
+    {
+      "title": "See the Viking ships up close",
+      "image": {
+        "file": "File:Viking Ship Museum, Oslo (36330150411).jpg",
+        "alt": "A Viking ship on display inside Oslo's Viking Ship Museum"
+      },
+      "text": "A rare chance to see real, excavated Viking ships rather than reconstructions, preserved in remarkable detail.",
+      "tip": "Check current opening status before visiting, given the ongoing move to a new museum building."
+    },
+    {
+      "title": "Ride the funicular to Holmenkollen",
+      "image": {
+        "file": "File:Holmenkollen ski-jump Oslo Norway.jpg",
+        "alt": "The Holmenkollen ski jump tower above Oslo"
+      },
+      "text": "An easy transit ride up into the forested hills above the city, ending at the dramatic ski jump tower.",
+      "tip": "Combine with a short forest walk — Oslo's surrounding hills (the Marka) are excellent for hiking."
+    },
+    {
+      "title": "Explore Grünerløkka's cafés and shops",
+      "text": "A trendy, relaxed neighbourhood of independent boutiques, cafés and a lively riverside park.",
+      "tip": "Sunday brings a popular flea market to the neighbourhood's main square."
+    },
+    {
+      "title": "Take a fjord ferry to the islands",
+      "text": "An easy, cheap way to see the Oslofjord, with public ferries running to several small islands right from the city harbour.",
+      "tip": "Hovedøya offers ruins, beaches and a short walking loop, all within 15 minutes of the harbour."
+    }
+  ],
+  "foodIntro": "Oslo's food spans serious New Nordic dining and simple harbourside classics at every price point.",
+  "foods": [
+    {
+      "name": "Salmon (gravlax)",
+      "image": {
+        "file": "File:Gravlax 2.jpg",
+        "alt": "Gravlax, cured salmon, a Norwegian specialty"
+      },
+      "text": "Excellent in Oslo, whether as a starter at a fine-dining restaurant or a simple open sandwich at a café.",
+      "whereToTry": "Restaurants and cafés throughout the city, especially near the harbour."
+    },
+    {
+      "name": "Brunost (brown cheese)",
+      "image": {
+        "file": "File:Brunost - Brown cheese.jpg",
+        "alt": "Brunost, Norway's caramel-coloured brown cheese"
+      },
+      "text": "An essential taste of Norway, found on breakfast tables at nearly every hotel and café in the city.",
+      "whereToTry": "Cafés and hotel breakfasts throughout Oslo."
+    },
+    {
+      "name": "Fårikål",
+      "image": {
+        "file": "File:Får i kål.jpg",
+        "alt": "Fårikål, Norway's national lamb and cabbage stew"
+      },
+      "text": "Worth seeking out at a traditional restaurant, Norway's official national dish of slow-cooked lamb and cabbage.",
+      "whereToTry": "Traditional Norwegian restaurants around the city centre."
+    },
+    {
+      "name": "Shrimp at the harbour",
+      "text": "A beloved Oslo summer tradition, buying fresh shrimp straight off a boat at the harbour and peeling them right there on the dock.",
+      "whereToTry": "Fishing boats moored at Aker Brygge and the harbour front."
+    },
+    {
+      "name": "Kanelboller (cinnamon buns)",
+      "text": "An essential Norwegian bakery treat, softer and less sweet than many international versions.",
+      "whereToTry": "Bakeries and cafés throughout the city."
+    },
+    {
+      "name": "Oslo's coffee culture",
+      "text": "Serious about coffee, with a strong independent café scene rivalling any major European city.",
+      "whereToTry": "Independent cafés throughout Grünerløkka and the city centre."
+    }
+  ],
+  "accommodation": {
+    "intro": "Oslo offers accommodation across every budget, concentrated within a compact, walkable city centre.",
+    "areas": [
+      {
+        "name": "City centre (Sentrum)",
+        "bestFor": "Being central and walkable to major sights",
+        "text": "The most convenient base, close to the harbour, Akershus Fortress and the main shopping street."
+      },
+      {
+        "name": "Grünerløkka",
+        "bestFor": "A trendier, more local neighbourhood feel",
+        "text": "A short tram or walk from the centre, with excellent cafés and a livelier evening scene."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "NOK 400–800 per night" },
+      { "label": "Mid-range hotel", "value": "NOK 1,200–2,500 per night" },
+      { "label": "Oslo Pass (museum entry, 24hr)", "value": "About NOK 495" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About NOK 300–500 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Oslo is Norway's main international gateway, well connected by air and rail.",
+    "options": [
+      {
+        "mode": "Flight to Oslo Gardermoen",
+        "text": "Most international routes into Norway land here, about 45 minutes from the city centre.",
+        "detail": "A direct airport express train connects Gardermoen to central Oslo."
+      },
+      {
+        "mode": "The Bergen Line train",
+        "text": "A spectacular way to arrive from or continue on to Bergen and the western fjords.",
+        "detail": "One of the world's great scenic rail journeys, crossing the mountains directly."
+      },
+      {
+        "mode": "Ferry from Denmark or Germany",
+        "text": "A relaxed overnight option for visitors arriving from continental Europe.",
+        "detail": "Ferries dock directly at Oslo's harbour, close to the city centre."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Oslo is compact enough to explore mostly on foot, with excellent public transport for the rest.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Covers the harbour, Akershus Fortress and much of the city centre easily.",
+        "detail": "Central Oslo's main sights sit within a comfortable walking radius of each other."
+      },
+      {
+        "mode": "Trams and the metro (T-bane)",
+        "text": "Reliable and efficient for reaching Vigeland Park, Holmenkollen and Grünerløkka.",
+        "detail": "A single ticket type covers trams, buses, the metro and local ferries."
+      },
+      {
+        "mode": "Public ferries",
+        "text": "A scenic, practical way to reach the Oslofjord's islands and the Opera House waterfront.",
+        "detail": "Included within the standard public transport ticket system."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for the best weather, though Oslo works well year-round",
+    "summary": "Oslo's museum-heavy, walkable character makes it a viable destination in any season, though summer brings the best outdoor conditions.",
+    "seasons": [
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Long daylight and the best weather for walking and harbour time, also the busiest season."
+      },
+      {
+        "season": "Shoulder months (May, September)",
+        "rating": "good",
+        "text": "Good weather odds with thinner crowds than peak summer."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "good",
+        "text": "Atmospheric with the possibility of snow, and museums make a good indoor escape from the cold."
+      },
+      {
+        "season": "Christmas season (December)",
+        "rating": "good",
+        "text": "Charming with markets and festive lighting throughout the city centre."
+      }
+    ],
+    "avoid": "Nothing strongly — Oslo's museum-rich, compact character makes it a workable destination in any season."
+  },
+  "itinerary": {
+    "title": "Two days in Oslo",
+    "intro": "Built around the Vigeland Park and Viking history on day one, modern architecture and the harbour on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Sculptures and Vikings",
+        "summary": "Vigeland Park and the Viking Ship Museum.",
+        "morning": "Vigeland Sculpture Park.",
+        "afternoon": "The Viking Ship Museum.",
+        "evening": "Dinner in Grünerløkka."
+      },
+      {
+        "day": 2,
+        "title": "The harbour and heights",
+        "summary": "The Opera House, City Hall and Holmenkollen.",
+        "morning": "The Oslo Opera House and Munch Museum.",
+        "afternoon": "Akershus Fortress and Oslo City Hall.",
+        "evening": "Funicular up to Holmenkollen for sunset views."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make an Oslo stay noticeably smoother.",
+  "tips": [
+    "Consider the Oslo Pass if visiting several museums — it covers entry and public transport.",
+    "Book Bergen Line train tickets well ahead for the best fares and window seats.",
+    "Budget for high restaurant prices — cooking or eating supermarket food helps stretch a budget.",
+    "Wear comfortable shoes — Oslo's compact centre still adds up to real walking distances.",
+    "Check the Viking Ship Museum's opening status ahead, given its ongoing renovation.",
+    "Bring layers regardless of season — Oslo's weather can shift quickly."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Oslo?",
+      "a": "Two to three days covers the major museums and sights at a comfortable, unrushed pace."
+    },
+    {
+      "q": "Is Oslo worth visiting before heading to the fjords?",
+      "a": "Yes — its museums add real context, and it's the natural gateway for the Bergen Line and domestic flights onward."
+    },
+    {
+      "q": "Is Oslo expensive?",
+      "a": "Yes, one of the more expensive European capitals — supermarket meals and a hostel or guesthouse help manage costs."
+    },
+    {
+      "q": "Is Oslo walkable?",
+      "a": "Yes — most major sights sit within a comfortable walk of the city centre, with excellent public transport for the rest."
+    },
+    {
+      "q": "What is Oslo famous for?",
+      "a": "Its museums — Vigeland's sculptures, the Viking ships, the Munch collection — alongside striking modern architecture like the Opera House."
+    },
+    {
+      "q": "Is the Viking Ship Museum open?",
+      "a": "Check ahead — it periodically closes as part of its move to a larger, purpose-built museum home."
+    }
+  ],
+  "related": ["bergen", "geirangerfjord", "trondheim"],
+  "relatedArticles": ["underrated-destinations", "europe-by-train"]
+}

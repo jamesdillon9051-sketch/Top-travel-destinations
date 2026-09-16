@@ -4,7 +4,7 @@
   "continent": "Central Europe",
   "countryCode": "DE",
   "tagline": "A federal country of sixteen states that never fully merged into one culture, from Bavarian beer halls to Hanseatic ports, threaded together by a rail network and a history it faces more directly than almost any other nation.",
-  "cardDescription": "Berlin's nightlife and history, Bavaria's castles and beer gardens, the Rhine's vineyard-lined valley and a genuinely serious food and craft culture beyond the stereotypes.",
+  "cardDescription": "Berlin's nightlife and history, Bavaria's castles and beer gardens, the Rhine's vineyard-lined valley and a serious food and craft culture beyond the stereotypes.",
   "metaDescription": "A complete Germany travel guide: the 10 best places to visit, trains, regional food, costs, etiquette and a two-week itinerary.",
   "image": {
     "file": "File:Schloss Neuschwanstein at autumn sunlight.jpg",
@@ -23,9 +23,9 @@
     "rugen-baltic-coast"
   ],
   "intro": [
-    "Germany only became a single nation in 1871, and reunified only in 1990, and both facts still shape how the country feels to travel through. Bavaria's Catholic beer-hall culture, Hamburg's Protestant maritime trading history, and the former East's very different 20th century all remain genuinely distinct rather than smoothed into one national identity — this is a country of sixteen states that still think of themselves as states first.",
+    "Germany only became a single nation in 1871, and reunified only in 1990, and both facts still shape how the country feels to travel through. Bavaria's Catholic beer-hall culture, Hamburg's Protestant maritime trading history, and the former East's very different 20th century all remain distinct rather than smoothed into one national identity — this is a country of sixteen states that still think of themselves as states first.",
     "That regional variety comes with a shared seriousness about history that visitors consistently find striking. Berlin's Holocaust memorials, the preserved sections of the Wall, and museums across the country confront the 20th century directly rather than around it — a level of public reckoning with a national past that few countries attempt this openly.",
-    "The practical spine is one of Europe's best rail networks, connecting Berlin, Munich, Hamburg and everywhere between in a few hours each, alongside a food and drink culture — regional beer styles, genuinely excellent bread, a wine industry along the Rhine and Mosel most visitors don't expect — that goes considerably deeper than the sausage-and-lager stereotype."
+    "The practical spine is one of Europe's best rail networks, connecting Berlin, Munich, Hamburg and everywhere between in a few hours each, alongside a food and drink culture — regional beer styles, excellent bread, a wine industry along the Rhine and Mosel most visitors don't expect — that goes considerably deeper than the sausage-and-lager stereotype."
   ],
   "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit — though Dresden, the Black Forest and the Baltic coast reward a second trip just as much as a first.",
   "thingsToDoIntro": "The experiences that recur across the country and that make a Germany trip feel like more than a checklist of cities.",
@@ -36,7 +36,7 @@
         "file": "File:ICE Klasse 412 in Fulda-20250525-RM-154336.jpg",
         "alt": "An ICE high-speed train at a German station"
       },
-      "text": "Germany's rail network reaches almost everywhere in this guide, and the Deutschland-Ticket offers genuinely excellent value for regional travel across the whole country on one monthly pass.",
+      "text": "Germany's rail network reaches almost everywhere in this guide, and the Deutschland-Ticket offers excellent value for regional travel across the whole country on one monthly pass.",
       "tip": "ICE high-speed trains need separate reservations and tickets from regional services — book directly via Deutsche Bahn's app for the clearest fare comparison."
     },
     {
@@ -55,7 +55,7 @@
         "alt": "Stalls at a German Christmas market"
       },
       "text": "From late November, Christmas markets — Weihnachtsmärkte — take over town squares across the country with mulled wine, crafts and food stalls, a genuine seasonal institution rather than a tourist add-on.",
-      "tip": "Nuremberg's and Dresden's markets are among the oldest and most famous, but even small-town versions are usually genuinely worthwhile."
+      "tip": "Nuremberg's and Dresden's markets are among the oldest and most famous, but even small-town versions are usually worthwhile."
     },
     {
       "title": "Engage seriously with Germany's 20th-century history",
@@ -72,7 +72,7 @@
         "file": "File:Rye bread Roggenbengel 2025-02-14 11.jpg",
         "alt": "Fresh rye bread from a German bakery"
       },
-      "text": "German bread culture is genuinely serious, with hundreds of recognised regional bread types and a bakery on nearly every corner, alongside pastries well beyond the stereotype of pretzels alone.",
+      "text": "German bread culture is serious, with hundreds of recognised regional bread types and a bakery on nearly every corner, alongside pastries well beyond the stereotype of pretzels alone.",
       "tip": "A Bäckerei with a queue of locals in the morning is a reliable sign of quality — breakfast pastries sell out early at the best ones."
     },
     {
@@ -129,7 +129,7 @@
         "file": "File:Beer steins from Wilde Rose Keller, beer garden, Oberer Stephansberg 49 in Bamberg.jpg",
         "alt": "Regional German beer steins at a Franconian beer garden"
       },
-      "text": "The 1516 Reinheitsgebot purity law still shapes brewing today, and regional styles — Kölsch in Cologne, Helles in Bavaria, Pils nationwide — are genuinely distinct rather than interchangeable lagers.",
+      "text": "The 1516 Reinheitsgebot purity law still shapes brewing today, and regional styles — Kölsch in Cologne, Helles in Bavaria, Pils nationwide — are distinct rather than interchangeable lagers.",
       "whereToTry": "Drink Kölsch only in Cologne and Altbier only in Düsseldorf, by strong local tradition — each city defends its own style fiercely."
     },
     {
@@ -173,12 +173,12 @@
   },
   "bestTime": {
     "headline": "May–June and September",
-    "summary": "Germany's weather is genuinely changeable across its size, but late spring and early autumn offer the best balance of daylight, mild temperatures and manageable crowds.",
+    "summary": "Germany's weather is changeable across its size, but late spring and early autumn offer the best balance of daylight, mild temperatures and manageable crowds.",
     "seasons": [
       {
         "season": "Spring (April–May)",
         "rating": "best",
-        "text": "Mild and increasingly green, with beer gardens reopening and crowds still below summer peak. April can still be genuinely cool, especially in the north."
+        "text": "Mild and increasingly green, with beer gardens reopening and crowds still below summer peak. April can still be cool, especially in the north."
       },
       {
         "season": "Summer (June–August)",
@@ -193,14 +193,14 @@
       {
         "season": "Winter (November–March)",
         "rating": "shoulder",
-        "text": "Short, often grey days and genuine cold, but Christmas markets from late November bring real seasonal charm, and December is a genuinely excellent time for city breaks."
+        "text": "Short, often grey days and genuine cold, but Christmas markets from late November bring real seasonal charm, and December is an excellent time for city breaks."
       }
     ],
-    "avoid": "Oktoberfest weekends in Munich if you have not booked accommodation and beer tent reservations many months ahead — the city's capacity is genuinely stretched during the festival."
+    "avoid": "Oktoberfest weekends in Munich if you have not booked accommodation and beer tent reservations many months ahead — the city's capacity is stretched during the festival."
   },
   "tripDuration": {
     "headline": "10–14 days for a first trip",
-    "summary": "Germany's rail network makes an ambitious multi-region itinerary genuinely workable, though the Black Forest and the Baltic coast reward more time than a rushed loop allows.",
+    "summary": "Germany's rail network makes an ambitious multi-region itinerary workable, though the Black Forest and the Baltic coast reward more time than a rushed loop allows.",
     "options": [
       {
         "length": "4–5 days",
@@ -210,7 +210,7 @@
       {
         "length": "8–10 days",
         "text": "Berlin, then south to Munich by train via Nuremberg — the classic first-trip route connecting the capital and Bavaria.",
-        "detail": "Add a day in the Romantic Road towns for a genuinely well-paced journey rather than a single long transfer."
+        "detail": "Add a day in the Romantic Road towns for a well-paced journey rather than a single long transfer."
       },
       {
         "length": "12–16 days",
@@ -234,7 +234,7 @@
       },
       {
         "mode": "Regional trains and the Deutschland-Ticket",
-        "text": "A single monthly ticket covers regional and local transport nationwide, genuinely excellent value for a trip combining several nearby destinations, such as the [[romantic-road-neuschwanstein|Romantic Road]] towns.",
+        "text": "A single monthly ticket covers regional and local transport nationwide, excellent value for a trip combining several nearby destinations, such as the [[romantic-road-neuschwanstein|Romantic Road]] towns.",
         "detail": "Regional trains are slower than ICE services but the Deutschland-Ticket makes them a genuine budget option for shorter hops."
       },
       {
@@ -359,7 +359,7 @@
     ]
   },
   "culture": {
-    "intro": "German culture varies genuinely by region, but a handful of broadly shared norms — punctuality, directness, and a particular relationship with rules — hold across most of it.",
+    "intro": "German culture varies by region, but a handful of broadly shared norms — punctuality, directness, and a particular relationship with rules — hold across most of it.",
     "etiquette": [
       {
         "title": "Punctuality is taken seriously",
@@ -370,12 +370,12 @@
         "text": "Germans generally communicate more directly than many cultures find comfortable at first — a blunt opinion or correction is not meant as hostile, just efficient."
       },
       {
-        "title": "Jaywalking is genuinely frowned upon",
+        "title": "Jaywalking is frowned upon",
         "text": "Crossing against a red pedestrian light, even with no traffic present, draws real disapproval, especially with children nearby — Germans wait for the green man."
       },
       {
         "title": "Sundays are for rest, by law and custom",
-        "text": "Most shops close on Sundays nationwide, and loud activities like mowing a lawn are genuinely restricted in many areas — plan grocery shopping accordingly."
+        "text": "Most shops close on Sundays nationwide, and loud activities like mowing a lawn are restricted in many areas — plan grocery shopping accordingly."
       },
       {
         "title": "Formal address matters on first meeting",
@@ -383,7 +383,7 @@
       },
       {
         "title": "Recycling and waste sorting are taken seriously",
-        "text": "Germany's multi-bin recycling system is genuinely comprehensive, and visitors staying in apartments or with locals are expected to sort correctly."
+        "text": "Germany's multi-bin recycling system is comprehensive, and visitors staying in apartments or with locals are expected to sort correctly."
       }
     ],
     "dos": [
@@ -410,14 +410,14 @@
     "Plan around Sunday closures — most shops close nationwide, though bakeries, restaurants and train station shops generally stay open.",
     "Book Oktoberfest accommodation and beer tent reservations many months ahead if visiting Munich in September.",
     "Consider the Deutschland-Ticket if combining several regional destinations — it covers regional trains and local transport nationwide for one monthly price.",
-    "Wait for pedestrian crossing lights — jaywalking is genuinely frowned upon and sometimes fined.",
+    "Wait for pedestrian crossing lights — jaywalking is frowned upon and sometimes fined.",
     "Pack for real regional weather variation — the Baltic coast and the Bavarian Alps can differ sharply even on the same day.",
     "Reserve Neuschwanstein Castle tickets online well ahead in summer, when walk-up queues can mean missing the day's tour slots entirely."
   ],
   "faq": [
     {
       "q": "How many days do you need in Germany?",
-      "a": "Ten to fourteen for a first trip. Eight to ten covers Berlin, Nuremberg and Munich by train with reasonable pacing; twelve to sixteen lets you add real countryside like the Rhine Valley or the Romantic Road, which is the itinerary on this page. Four or five days is enough for Berlin alone, and Berlin alone genuinely justifies a trip."
+      "a": "Ten to fourteen for a first trip. Eight to ten covers Berlin, Nuremberg and Munich by train with reasonable pacing; twelve to sixteen lets you add real countryside like the Rhine Valley or the Romantic Road, which is the itinerary on this page. Four or five days is enough for Berlin alone, and Berlin alone justifies a trip."
     },
     {
       "q": "What is the best time of year to visit Germany?",
@@ -425,7 +425,7 @@
     },
     {
       "q": "Do I need a car in Germany?",
-      "a": "Only for specific regions. The rail network covers Berlin, Munich, Hamburg, Cologne, Dresden and Nuremberg extremely well. A car becomes genuinely useful for the Black Forest's smaller villages and a flexible Rhine Valley castle route, and is the practical way to see several Romantic Road towns in one trip."
+      "a": "Only for specific regions. The rail network covers Berlin, Munich, Hamburg, Cologne, Dresden and Nuremberg extremely well. A car becomes useful for the Black Forest's smaller villages and a flexible Rhine Valley castle route, and is the practical way to see several Romantic Road towns in one trip."
     },
     {
       "q": "Is Germany expensive?",
@@ -437,7 +437,7 @@
     },
     {
       "q": "Is it easy to get by with English in Germany?",
-      "a": "Generally yes in cities and among younger Germans, especially in tourism-facing roles, though learning a few basic German phrases is genuinely appreciated and occasionally necessary in smaller towns and rural areas."
+      "a": "Generally yes in cities and among younger Germans, especially in tourism-facing roles, though learning a few basic German phrases is appreciated and occasionally necessary in smaller towns and rural areas."
     }
   ]
 }

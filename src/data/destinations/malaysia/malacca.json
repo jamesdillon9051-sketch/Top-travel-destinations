@@ -1,0 +1,334 @@
+{
+  "slug": "malacca",
+  "name": "Malacca",
+  "country": "malaysia",
+  "region": "Malacca",
+  "categories": ["heritage", "culture", "food", "city"],
+  "tagline": "A UNESCO-listed trading port shaped by Malay, Portuguese, Dutch and British rule, and the birthplace of Peranakan Nyonya culture.",
+  "highlight": "Walking Jonker Street on a Friday or Saturday night, its shophouses and stalls lit up for the weekend street market.",
+  "shortDescription": "A historic trading port south of Kuala Lumpur, home to Jonker Street, Dutch colonial squares and Peranakan Nyonya heritage.",
+  "metaDescription": "A Malacca travel guide: Jonker Street, Dutch Square, A Famosa, Peranakan heritage and how to plan a visit.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Kuala Lumpur International Airport (KLIA), about 1.5-2 hours by road",
+  "knownFor": "Jonker Street, Dutch Square, Peranakan Nyonya heritage",
+  "budget": "RM100-220 per day, budget to mid-range",
+  "goodFor": "History, heritage architecture, a short trip from Kuala Lumpur",
+  "coords": { "lat": 2.1896, "lng": 102.2501 },
+  "image": {
+    "file": "File:2016 Malakka, Plac Holenderski (05).jpg",
+    "alt": "Dutch Square in Malacca"
+  },
+  "intro": [
+    "Malacca sits on the Strait of Malacca south of Kuala Lumpur, a trading port whose control passed between Malay sultans, the Portuguese, Dutch and British over five centuries, leaving a layered old town behind.",
+    "That history shows up everywhere — Portuguese fort ruins, a red Dutch colonial square, British-era buildings and Peranakan Nyonya shophouses all sit within walking distance of each other.",
+    "Close enough to Kuala Lumpur for an easy day trip but rewarding an overnight stay, Malacca is usually paired with the capital at the start or end of a Peninsular Malaysia itinerary."
+  ],
+  "whyVisit": {
+    "intro": "Malacca's case rests on dense layered history within a compact, walkable old town.",
+    "points": [
+      {
+        "title": "Few Malaysian cities carry this much layered history",
+        "text": "Malay, Portuguese, Dutch and British rule all left visible marks within a few city blocks."
+      },
+      {
+        "title": "It's the birthplace of Peranakan Nyonya culture",
+        "text": "A distinct Chinese-Malay fusion culture, cuisine and architecture that originated here."
+      },
+      {
+        "title": "Jonker Street comes alive on weekends",
+        "text": "A night market transforms the old town's main street into a lively food and shopping strip."
+      },
+      {
+        "title": "It's an easy trip from Kuala Lumpur",
+        "text": "Close enough for a day trip, though an overnight stay lets the old town breathe properly."
+      },
+      {
+        "title": "The old town is compact and walkable",
+        "text": "Most major sights sit within a short walk of the Malacca River."
+      }
+    ]
+  },
+  "attractionsIntro": "Malacca's essential sights sit almost entirely within a short walk of the river and Dutch Square.",
+  "attractions": [
+    {
+      "name": "Jonker Street",
+      "image": {
+        "file": "File:Malacca Malaysia Jonker-Walk-Arch-and-Tamil-Methodist-Church-01.jpg",
+        "alt": "Jonker Street in Malacca"
+      },
+      "text": "The old town's main heritage street, lined with antique shops, cafés and Peranakan-influenced architecture.",
+      "tip": "Visit Friday or Saturday night, when the street closes to traffic for the weekend night market."
+    },
+    {
+      "name": "Dutch Square and Stadthuys",
+      "image": {
+        "file": "File:2016 Malakka, Plac Holenderski (05).jpg",
+        "alt": "The red Dutch colonial buildings of Dutch Square, Malacca"
+      },
+      "text": "A cluster of red-painted 17th-century Dutch colonial buildings, among Malacca's most photographed sights.",
+      "tip": "The red buildings photograph best in late afternoon light, before sunset crowds arrive."
+    },
+    {
+      "name": "A Famosa",
+      "image": {
+        "file": "File:A Famosa Malacca 16th Century Portugese fortress with cannon view.jpg",
+        "alt": "A Famosa, the remains of a Portuguese fortress in Malacca"
+      },
+      "text": "The surviving gate of a Portuguese fortress built in 1511, among Southeast Asia's oldest European architectural remains.",
+      "tip": "A modest ruin on its own — combine with the nearby St Paul's Hill for context."
+    },
+    {
+      "name": "Christ Church Melaka",
+      "image": {
+        "file": "File:Christ Church Melaka 2010.JPG",
+        "alt": "Christ Church, a red Dutch colonial church in Malacca"
+      },
+      "text": "An 18th-century Dutch Reformed church, its red facade anchoring Dutch Square alongside the Stadthuys.",
+      "tip": "Still an active church — dress and behave respectfully if visiting during a service."
+    },
+    {
+      "name": "The Malacca River",
+      "image": {
+        "file": "File:Malacca Malaysia Pittoresque-houses-along-Sungai-Melaka-01.jpg",
+        "alt": "Colourful houses along the Malacca River"
+      },
+      "text": "A riverside promenade lined with murals and colourful buildings, especially striking after dark.",
+      "tip": "An evening river cruise gives a different, relaxed perspective on the old town."
+    },
+    {
+      "name": "Baba & Nyonya Heritage Museum",
+      "image": {
+        "file": "File:Baba and Nyonya House Museum Exterior.jpg",
+        "alt": "The Baba & Nyonya Heritage Museum in Malacca"
+      },
+      "text": "A preserved 19th-century Peranakan townhouse, its interior furnished exactly as a wealthy Baba Nyonya family would have lived.",
+      "tip": "Guided tours run regularly and add real depth to the visit — well worth timing your visit around one."
+    },
+    {
+      "name": "The Malacca Clock Tower",
+      "image": {
+        "file": "File:Malacca Clock Tower.jpg",
+        "alt": "The clock tower in Malacca's old town"
+      },
+      "text": "A small colonial-era clock tower near Dutch Square, a minor but frequently photographed old town landmark.",
+      "tip": "Easy to combine with Dutch Square and Christ Church in the same short walk."
+    }
+  ],
+  "thingsToDoIntro": "Malacca rewards an evening as much as a day, with Jonker Street's night market as the highlight for many visitors.",
+  "thingsToDo": [
+    {
+      "title": "Walk Jonker Street's weekend night market",
+      "image": {
+        "file": "File:Jonker street malacca 2.jpg",
+        "alt": "Jonker Street's weekend night market in Malacca"
+      },
+      "text": "Stalls selling food, antiques and souvenirs fill the street every Friday and Saturday night.",
+      "tip": "Go hungry — the food stalls here are as much the draw as the shopping."
+    },
+    {
+      "title": "Take an evening Malacca River cruise",
+      "text": "A relaxed boat trip past riverside murals and colourful old buildings, particularly pretty after dark.",
+      "tip": "Cruises depart regularly from jetties near Dutch Square — no advance booking usually needed."
+    },
+    {
+      "title": "Tour the Baba & Nyonya Heritage Museum",
+      "text": "A guided walk through a preserved Peranakan townhouse, revealing the culture's distinct blend of Chinese and Malay traditions.",
+      "tip": "Photography is often restricted inside — check current rules before your visit."
+    },
+    {
+      "title": "Explore Dutch Square and St Paul's Hill",
+      "text": "The short climb up St Paul's Hill past A Famosa's ruins rewards with city and strait views.",
+      "tip": "Combine both in one visit — they sit right next to each other."
+    },
+    {
+      "title": "Try Peranakan Nyonya cuisine",
+      "image": {
+        "file": "File:Traditional Nyonya Kuih or kueh.jpg",
+        "alt": "Traditional Nyonya kuih, Peranakan sweets"
+      },
+      "text": "A distinct fusion cuisine born in Malacca, blending Chinese ingredients with Malay spices and techniques.",
+      "tip": "Nyonya kuih (bite-sized sweets) make an excellent, easy-to-share afternoon snack."
+    },
+    {
+      "title": "Wander the old town's side streets",
+      "text": "Away from Jonker Street's main strip, quieter lanes hold temples, mosques and shophouses worth a slower look.",
+      "tip": "Harmony Street nearby holds a mosque, temple and church within a few hundred metres of each other."
+    }
+  ],
+  "foodIntro": "Malacca's food reflects its Peranakan Nyonya heritage above all, a genuine fusion of Chinese and Malay cooking born in this city.",
+  "foods": [
+    {
+      "name": "Nyonya laksa",
+      "text": "A rich, coconut-based laksa distinct from Penang's sour version, reflecting Malacca's Peranakan cooking style.",
+      "whereToTry": "Peranakan restaurants throughout the old town."
+    },
+    {
+      "name": "Chicken rice balls",
+      "text": "A Malacca specialty, chicken rice formed into balls rather than served loose, a local twist on the wider Malaysian dish.",
+      "whereToTry": "Specialist restaurants around Jonker Street."
+    },
+    {
+      "name": "Nyonya kuih",
+      "image": {
+        "file": "File:Traditional Nyonya Kuih or kueh.jpg",
+        "alt": "Colourful Nyonya kuih, bite-sized Peranakan sweets"
+      },
+      "text": "Bite-sized, often brightly coloured sweets made from glutinous rice, coconut and palm sugar.",
+      "whereToTry": "Bakeries and stalls throughout the old town, especially around Jonker Street."
+    },
+    {
+      "name": "Satay celup",
+      "text": "A Malacca invention, skewered meat, seafood and vegetables cooked at the table in a shared pot of satay sauce.",
+      "whereToTry": "Specialist satay celup restaurants around the old town."
+    },
+    {
+      "name": "Cendol",
+      "text": "A shaved-ice dessert with green rice-flour jelly and palm sugar syrup, a popular way to cool down.",
+      "whereToTry": "Dessert stalls throughout the old town."
+    },
+    {
+      "name": "Portuguese-influenced seafood",
+      "text": "A legacy of Malacca's Portuguese Eurasian community, found in the Portuguese Settlement area.",
+      "whereToTry": "Restaurants in and around the Portuguese Settlement, a short ride from the old town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Malacca's old town holds a good range of heritage hotels and guesthouses, mostly within easy walking distance of Jonker Street.",
+    "areas": [
+      {
+        "name": "The Jonker Street heritage area",
+        "bestFor": "Walking distance to all the main sights",
+        "text": "Converted shophouse hotels and guesthouses right in the heart of the old town."
+      },
+      {
+        "name": "Riverside near Dutch Square",
+        "bestFor": "River views and easy access to the main colonial sights",
+        "text": "A short walk from Jonker Street with a quieter, more spread-out feel."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse room", "value": "RM70–130 per night" },
+      { "label": "Heritage boutique hotel", "value": "RM180–350 per night" },
+      { "label": "Hawker meal", "value": "RM8–15 per person" },
+      { "label": "Restaurant dinner", "value": "RM30–60 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Malacca is reached easily by road from Kuala Lumpur, with no train service to the old town itself.",
+    "options": [
+      {
+        "mode": "Long-distance coach from Kuala Lumpur",
+        "text": "The standard option, taking around 2 hours.",
+        "detail": "Frequent departures from Kuala Lumpur's main bus terminals."
+      },
+      {
+        "mode": "Private transfer or rental car",
+        "text": "A flexible alternative, also around 2 hours by expressway.",
+        "detail": "Useful if combining Malacca with other stops along the way."
+      },
+      {
+        "mode": "Organised day tour",
+        "text": "A convenient option for visitors short on time.",
+        "detail": "Typically includes transport and a guided walk through the main sights."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Malacca's old town is compact and walkable, with other transport rarely needed within it.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The best way to explore Jonker Street, Dutch Square and the surrounding old town.",
+        "detail": "Most sights sit within a 15-20 minute walk of each other."
+      },
+      {
+        "mode": "Trishaw",
+        "text": "A touristy but fun way to see the old town, decorated trishaws pedalled by local drivers.",
+        "detail": "Agree a price before setting off — rates aren't fixed."
+      },
+      {
+        "mode": "Ride-hailing apps",
+        "text": "Useful for reaching the Portuguese Settlement or your hotel outside the old town.",
+        "detail": "Cheap and reliable for short hops beyond walking distance."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December to February for the driest weather",
+    "summary": "Malacca follows the same west coast pattern as Kuala Lumpur, hot and humid year-round with modest seasonal variation.",
+    "seasons": [
+      {
+        "season": "December–February",
+        "rating": "best",
+        "text": "Generally the driest and most comfortable months for walking the old town."
+      },
+      {
+        "season": "March–September",
+        "rating": "good",
+        "text": "Warm with a moderate chance of short afternoon showers."
+      },
+      {
+        "season": "October–November",
+        "rating": "okay",
+        "text": "The wettest stretch of the year."
+      },
+      {
+        "season": "Weekends year-round",
+        "rating": "good",
+        "text": "Jonker Street's night market runs Friday and Saturday nights regardless of season."
+      }
+    ],
+    "avoid": "Nothing strongly, though visiting on a Friday or Saturday makes the most of Jonker Street's night market."
+  },
+  "itinerary": {
+    "title": "One day in Malacca",
+    "intro": "Built as a focused day trip, ideally timed to include a Friday or Saturday night.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town in full",
+        "summary": "A single, full day covering the essential sights.",
+        "morning": "Explore A Famosa, St Paul's Hill and Dutch Square.",
+        "afternoon": "Visit the Baba & Nyonya Heritage Museum and wander Jonker Street.",
+        "evening": "Jonker Street's night market and dinner, or an evening river cruise."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Malacca visit noticeably smoother.",
+  "tips": [
+    "Visit on a Friday or Saturday to catch Jonker Street's weekend night market.",
+    "Stay overnight rather than rushing a day trip if your schedule allows it.",
+    "Wear comfortable shoes — the old town is best explored on foot.",
+    "Try Peranakan Nyonya food specifically, since it originated in Malacca.",
+    "Agree a trishaw price before setting off, since rates aren't fixed.",
+    "Carry cash for smaller stalls, especially at the night market."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Malacca?",
+      "a": "One to two days covers the old town comfortably, ideally including a Friday or Saturday night for Jonker Street's market."
+    },
+    {
+      "q": "Can you day-trip to Malacca from Kuala Lumpur?",
+      "a": "Yes, easily — it's about 2 hours each way, though an overnight stay lets you catch the evening atmosphere."
+    },
+    {
+      "q": "What is Malacca best known for?",
+      "a": "Its layered colonial history and Peranakan Nyonya culture, both visible throughout the old town."
+    },
+    {
+      "q": "Is Malacca walkable?",
+      "a": "Yes, very much so — the old town's main sights all sit within a short walk of each other."
+    },
+    {
+      "q": "What food should you try in Malacca?",
+      "a": "Peranakan Nyonya dishes like Nyonya laksa, satay celup and Nyonya kuih, all closely tied to the city."
+    },
+    {
+      "q": "Is Malacca safe?",
+      "a": "Yes, generally — a safe city, with normal precautions around belongings in crowded market areas."
+    }
+  ],
+  "related": ["kuala-lumpur", "penang", "ipoh"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

@@ -1,0 +1,356 @@
+{
+  "slug": "south-coast",
+  "name": "The South Coast",
+  "country": "iceland",
+  "region": "Southern Iceland",
+  "categories": ["nature", "waterfalls", "coastal", "scenic"],
+  "tagline": "A single coastal road stringing together two of Iceland's most famous waterfalls, a black sand beach of basalt columns, and a volcano that once grounded European air travel.",
+  "highlight": "Walking the path that ducks fully behind Seljalandsfoss's curtain of falling water, the whole valley framed through it.",
+  "shortDescription": "Iceland's single most photographed stretch of coast, its waterfalls, black sand beaches and glaciers strung along one accessible road from Reykjavik.",
+  "metaDescription": "A South Coast Iceland travel guide: Seljalandsfoss, Skógafoss, Reynisfjara, when to go and how to plan a two-day drive from Reykjavik.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Keflavík International (KEF), via Reykjavik",
+  "knownFor": "Seljalandsfoss, Skógafoss, Reynisfjara black sand beach",
+  "budget": "ISK 25,000–40,000 per day, mid-range",
+  "goodFor": "Waterfalls, dramatic coastline, an easy scenic drive",
+  "coords": { "lat": 63.6140, "lng": -19.4890 },
+  "image": {
+    "file": "File:Seljalandsfoss, Suðurland, Islandia, 2014-08-16, DD 201-203 HDR.JPG",
+    "alt": "Seljalandsfoss waterfall on Iceland's South Coast"
+  },
+  "intro": [
+    "The South Coast is Iceland's most photographed stretch of road, a single route running from just past the Golden Circle out toward the glacier lagoon, past two of the country's most famous waterfalls and a beach of black sand and sea stacks that looks unlike anywhere else in Europe.",
+    "It's also a young, actively volcanic landscape — Eyjafjallajökull's 2010 eruption grounded European air travel for days, and the whole coastline sits in the shadow of glacier-capped volcanoes that have shaped it for millennia.",
+    "Unlike much of Iceland's interior, the South Coast is accessible on a standard rental car along paved Route 1, which is exactly why it forms the backbone of almost every Iceland road trip, whether as a long day trip or the first leg of a full Ring Road loop."
+  ],
+  "whyVisit": {
+    "intro": "The South Coast's case rests on packing an exceptional density of world-class natural sights into a single accessible road.",
+    "points": [
+      {
+        "title": "Seljalandsfoss is one of very few waterfalls you can walk behind",
+        "text": "A full path circles behind the falling water, framing the valley through the curtain of spray."
+      },
+      {
+        "title": "Skógafoss is one of Iceland's most powerful single-drop waterfalls",
+        "text": "A wide, thunderous 60-metre curtain, with a staircase climbing to a viewpoint directly above it."
+      },
+      {
+        "title": "Reynisfjara is unlike any beach in Europe",
+        "text": "Black volcanic sand, hexagonal basalt columns and dramatic sea stacks rising from the surf."
+      },
+      {
+        "title": "The whole route is accessible on a standard rental car",
+        "text": "Unlike the Highlands, the South Coast needs no 4x4 or special equipment."
+      },
+      {
+        "title": "It's still an active volcanic landscape",
+        "text": "Eyjafjallajökull's 2010 eruption is a real, recent reminder that this coastline is still being shaped today."
+      }
+    ]
+  },
+  "attractionsIntro": "The South Coast's essential sights run in a genuine line along Route 1, easy to visit in the order you reach them.",
+  "attractions": [
+    {
+      "name": "Seljalandsfoss",
+      "image": {
+        "file": "File:Seljalandsfoss, Suðurland, Islandia, 2014-08-16, DD 201-203 HDR.JPG",
+        "alt": "Seljalandsfoss waterfall with its path running behind the falls"
+      },
+      "text": "A rare waterfall you can walk fully behind, a 60-metre drop with a circular path framing the valley through the falling water.",
+      "tip": "Bring a proper raincoat — the path behind the falls gets seriously wet in any wind."
+    },
+    {
+      "name": "Skógafoss",
+      "image": {
+        "file": "File:Skógafoss Waterfall, Iceland, 20240720 1330 2993.jpg",
+        "alt": "Skógafoss waterfall dropping 60 metres in a wide curtain"
+      },
+      "text": "A thunderous, wide single-drop waterfall, with a staircase of over 400 steps climbing to a viewpoint directly above it.",
+      "tip": "Rainbows are almost guaranteed in the spray on any sunny afternoon."
+    },
+    {
+      "name": "Reynisfjara and Reynisdrangar",
+      "image": {
+        "file": "File:Hálsanefshellir Cave at Reynisfjara Beach.jpg",
+        "alt": "The hexagonal basalt columns at Reynisfjara black sand beach"
+      },
+      "text": "A striking black sand beach backed by hexagonal basalt columns, facing the dramatic Reynisdrangar sea stacks offshore.",
+      "tip": "Stay well back from the waterline — sneaker waves here are a real, serious hazard, not a formality."
+    },
+    {
+      "name": "Dyrhólaey",
+      "image": {
+        "file": "File:Natural arch at Dyrhólaey, Iceland, 20240720 1026 2894.jpg",
+        "alt": "The natural rock arch at Dyrhólaey on Iceland's South Coast"
+      },
+      "text": "A dramatic promontory with a natural arch large enough for boats to pass through, and a puffin colony in early summer.",
+      "tip": "The upper viewpoint road closes during nesting season — check current access before visiting."
+    },
+    {
+      "name": "Vík í Mýrdal",
+      "image": {
+        "file": "File:Víkurkirkja in Iceland.jpg",
+        "alt": "Vík's white church overlooking the village and the coastline"
+      },
+      "text": "Iceland's southernmost village, its small white church looking out over the black sand coastline and Reynisdrangar beyond.",
+      "tip": "A convenient overnight base and fuel stop between the waterfalls and the glacier lagoon further east."
+    },
+    {
+      "name": "Fjaðrárgljúfur Canyon",
+      "image": {
+        "file": "File:Fjaðrárgljúfur 01.jpg",
+        "alt": "The winding, moss-covered walls of Fjaðrárgljúfur Canyon"
+      },
+      "text": "A dramatic, deep canyon with sheer, moss-covered walls, carved by glacial meltwater over roughly two million years.",
+      "tip": "Stay on marked paths — the canyon edge is fragile and has been damaged by off-path foot traffic."
+    },
+    {
+      "name": "Eyjafjallajökull",
+      "image": {
+        "file": "File:Eyjafjallajökull.jpeg",
+        "alt": "Eyjafjallajökull, the glacier-capped volcano visible along the South Coast"
+      },
+      "text": "The infamous glacier-capped volcano whose 2010 eruption grounded European air travel for days, now quiet and visible from the coast road.",
+      "tip": "The Lava Centre and Eyjafjallajökull visitor centres add real context to what you're driving past."
+    }
+  ],
+  "thingsToDoIntro": "The South Coast rewards stopping often — this is a route where the journey between sights is as much the point as the sights themselves.",
+  "thingsToDo": [
+    {
+      "title": "Walk behind Seljalandsfoss",
+      "image": {
+        "file": "File:Seljalandsfoss Waterfall, Iceland, 20240720 1500 3096.jpg",
+        "alt": "Walking the path behind Seljalandsfoss waterfall"
+      },
+      "text": "A short, easy walk that circles fully behind the falling water, one of the only waterfalls in the world where this is possible.",
+      "tip": "Waterproof your camera and phone properly — the spray is relentless on the path."
+    },
+    {
+      "title": "Climb the steps beside Skógafoss",
+      "text": "Over 400 steps climb alongside the falls to a viewpoint at the top, with the Fimmvörðuháls hiking trail continuing beyond it.",
+      "tip": "The climb is worth it even if you only go partway up for the view."
+    },
+    {
+      "title": "Photograph the basalt columns at Reynisfjara",
+      "image": {
+        "file": "File:Reynisdrangar basalt rocks.jpg",
+        "alt": "The Reynisdrangar sea stacks visible from Reynisfjara beach"
+      },
+      "text": "A striking combination of hexagonal basalt columns, a sea cave and offshore sea stacks, best photographed in the low midday winter light.",
+      "tip": "Never turn your back on the surf here — this is one of the few spots in Iceland where visitors have died to sneaker waves."
+    },
+    {
+      "title": "Spot puffins at Dyrhólaey",
+      "text": "A reliable puffin colony nests on the cliffs here from around May to August, alongside other seabirds.",
+      "tip": "Bring binoculars — puffins nest on inaccessible cliff ledges, not at close range."
+    },
+    {
+      "title": "Hike the rim of Fjaðrárgljúfur",
+      "image": {
+        "file": "File:Fjaðrárgljúfur 03.jpg",
+        "alt": "Hiking the rim trail above Fjaðrárgljúfur Canyon"
+      },
+      "text": "An easy, well-marked trail follows the canyon rim, with viewpoints down into its winding, moss-green walls.",
+      "tip": "The full out-and-back walk takes about an hour at an easy pace."
+    },
+    {
+      "title": "Visit the Lava Centre",
+      "text": "A well-made interactive museum in Hvolsvöllur explaining Iceland's volcanic and seismic history, including the 2010 eruption.",
+      "tip": "A good rainy-day stop, or a useful primer before continuing along the coast."
+    }
+  ],
+  "foodIntro": "The South Coast's food centres on farm restaurants and small-town cafés along Route 1, with standard Icelandic staples throughout.",
+  "foods": [
+    {
+      "name": "Icelandic lamb",
+      "image": {
+        "file": "File:Rack-of-lambs.jpg",
+        "alt": "A roast lamb dish"
+      },
+      "text": "Widely available at farm restaurants along the route, often raised in the surrounding hills.",
+      "whereToTry": "Farm restaurants and guesthouses around Vík and Hvolsvöllur."
+    },
+    {
+      "name": "Fresh Icelandic seafood",
+      "image": {
+        "file": "File:Plokkfiskur.jpg",
+        "alt": "A bowl of plokkfiskur fish stew"
+      },
+      "text": "Fresh, particularly good in the small fishing town of Vík, right on the coast.",
+      "whereToTry": "Restaurants in Vík í Mýrdal."
+    },
+    {
+      "name": "Skyr",
+      "image": {
+        "file": "File:Skyr & Blackberries 20250816 143415.jpg",
+        "alt": "A bowl of skyr topped with berries"
+      },
+      "text": "A reliable stop at any café along the route, often made at local dairy farms.",
+      "whereToTry": "Farm shops and cafés along Route 1."
+    },
+    {
+      "name": "Rúgbrauð",
+      "image": {
+        "file": "File:Jonge vrouw stopt een blikken bus met deeg in de hete grond om brood te bakken, Bestanddeelnr 190-0313.jpg",
+        "alt": "A loaf of traditional Icelandic rye bread"
+      },
+      "text": "A traditional dark rye bread, found at bakeries and farm cafés throughout the region.",
+      "whereToTry": "Bakeries in Hvolsvöllur and Vík."
+    },
+    {
+      "name": "Icelandic hot dog",
+      "image": {
+        "file": "File:The Icelandic pylsa (hot dog) (2502658407).jpg",
+        "alt": "An Icelandic hot dog"
+      },
+      "text": "A reliable, quick stop at petrol stations along the route between waterfalls.",
+      "whereToTry": "Service stations along Route 1."
+    },
+    {
+      "name": "Brennivín",
+      "image": {
+        "file": "File:Iceland Schnapps! (3083475243).jpg",
+        "alt": "A bottle of Brennivín, Iceland's traditional spirit"
+      },
+      "text": "Worth trying at a guesthouse bar after a long day of driving and waterfall stops.",
+      "whereToTry": "Guesthouse bars in Vík and along the coast."
+    }
+  ],
+  "accommodation": {
+    "intro": "Vík í Mýrdal and Hvolsvöllur are the two main bases along the South Coast route.",
+    "areas": [
+      {
+        "name": "Vík í Mýrdal",
+        "bestFor": "The closest base to Reynisfjara and Dyrhólaey",
+        "text": "The South Coast's main village, with the widest range of accommodation along the route."
+      },
+      {
+        "name": "Hvolsvöllur",
+        "bestFor": "A base closer to Seljalandsfoss and Skógafoss",
+        "text": "A convenient stop for the western half of the South Coast, near the Lava Centre."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "ISK 20,000–30,000 per night" },
+      { "label": "Mid-range hotel", "value": "ISK 35,000–55,000 per night" },
+      { "label": "Lava Centre entry", "value": "About ISK 3,500" },
+      { "label": "Fuel (full tank)", "value": "About ISK 12,000–15,000" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The South Coast is a single road trip east from Reykjavik along Route 1.",
+    "options": [
+      {
+        "mode": "Rental car from Reykjavik",
+        "text": "About 2 hours to Seljalandsfoss, the most flexible way to stop at every sight along the way.",
+        "detail": "The full route to Vík takes about 2h30 without stops."
+      },
+      {
+        "mode": "Organised day or multi-day tour",
+        "text": "Widely available from Reykjavik, useful for visitors without a car.",
+        "detail": "Multi-day tours typically continue on to Jökulsárlón."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The South Coast's sights are all reached directly from paved Route 1, needing no 4x4.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The standard way to explore, with all major sights visible from or a short walk off Route 1.",
+        "detail": "A standard car is sufficient outside winter conditions."
+      },
+      {
+        "mode": "Organised tours",
+        "text": "Handle transport for visitors without a car, typically as a long day trip or multi-day tour.",
+        "detail": "Small-group options allow more stopping time than large coach tours."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September for the easiest driving and puffins at Dyrhólaey",
+    "summary": "The South Coast works year-round on Route 1, though winter driving requires real caution.",
+    "seasons": [
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Long daylight, puffins nesting at Dyrhólaey, and the easiest, most reliable driving conditions."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Quieter, with a real chance of aurora sightings on clear nights."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "good",
+        "text": "Dramatic with ice and snow, though short days and winter driving conditions demand real caution."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "good",
+        "text": "Increasingly long days, with waterfalls running at full force from snowmelt."
+      }
+    ],
+    "avoid": "Driving the coast road in a winter storm — check road.is and be willing to delay plans when conditions turn severe."
+  },
+  "itinerary": {
+    "title": "Two days on the South Coast",
+    "intro": "The waterfalls on the first day, the black sand beaches and canyon on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Waterfall country",
+        "summary": "Seljalandsfoss and Skógafoss.",
+        "morning": "Drive from Reykjavik to Seljalandsfoss.",
+        "afternoon": "Skógafoss and the climb to its viewpoint.",
+        "evening": "Settle in around Vík í Mýrdal."
+      },
+      {
+        "day": 2,
+        "title": "The black coast",
+        "summary": "Reynisfjara, Dyrhólaey and Fjaðrárgljúfur.",
+        "morning": "Reynisfjara's basalt columns and Dyrhólaey's arch.",
+        "afternoon": "Fjaðrárgljúfur Canyon.",
+        "evening": "Continue toward Jökulsárlón, or return to Reykjavik."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on safety and timing that make a real difference to a South Coast trip.",
+  "tips": [
+    "Never turn your back on the surf at Reynisfjara — sneaker waves are a genuine, serious hazard.",
+    "Bring proper waterproofs for Seljalandsfoss and Skógafoss regardless of the forecast.",
+    "Start early to beat tour bus crowds at the most famous stops.",
+    "Check road.is before winter driving — conditions change fast along this stretch.",
+    "Fill up on fuel in Vík — options thin out considerably further east.",
+    "Book accommodation in Vík well ahead for summer — it's a small village with real capacity limits."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need on the South Coast?",
+      "a": "Two days covers the main waterfalls and black sand beaches comfortably. It's also doable as a very long single day trip from Reykjavik."
+    },
+    {
+      "q": "Can you walk behind Seljalandsfoss?",
+      "a": "Yes — a full path circles behind the falls, one of very few waterfalls anywhere where this is possible."
+    },
+    {
+      "q": "Is Reynisfjara dangerous?",
+      "a": "It can be — sneaker waves have caused real injuries and deaths. Stay well back from the waterline and never turn your back on the sea."
+    },
+    {
+      "q": "Do you need a 4x4 for the South Coast?",
+      "a": "No, the main route is entirely on paved Route 1, suitable for a standard rental car outside severe winter weather."
+    },
+    {
+      "q": "Can you see puffins on the South Coast?",
+      "a": "Yes, at Dyrhólaey roughly May to August, though access to the upper cliffs sometimes closes during nesting season."
+    },
+    {
+      "q": "Should I combine the South Coast with Jökulsárlón?",
+      "a": "Yes — most visitors continue east to the glacier lagoon, extending the South Coast into a longer loop or one-way Ring Road leg."
+    }
+  ],
+  "related": ["golden-circle", "jokulsarlon-vatnajokull", "reykjavik"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

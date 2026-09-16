@@ -1,0 +1,370 @@
+{
+  "slug": "dublin",
+  "name": "Dublin",
+  "country": "ireland",
+  "region": "Leinster",
+  "categories": ["city", "culture", "history", "nightlife"],
+  "tagline": "Ireland's compact, literary capital, where medieval history, world-class museums and a legendary pub culture sit within an easy walk of each other.",
+  "highlight": "Standing in the Long Room of Trinity College's Old Library, beneath its barrel-vaulted ceiling and thousands of ancient volumes, feet from the Book of Kells.",
+  "shortDescription": "Ireland's capital, a compact, walkable city of medieval castles, world-class museums and a legendary pub and music culture.",
+  "metaDescription": "A Dublin travel guide: Trinity College and the Book of Kells, the Guinness Storehouse, Kilmainham Gaol, food and how to plan a visit to Ireland's capital.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Dublin Airport (DUB)",
+  "knownFor": "Trinity College, the Guinness Storehouse, literary history",
+  "budget": "€120–220 per day, mid-range",
+  "goodFor": "City culture, history, nightlife and live music",
+  "coords": { "lat": 53.3498, "lng": -6.2603 },
+  "image": {
+    "file": "File:Dubln - River Liffey with Ha'Penny Bridge in distance.jpg",
+    "alt": "The River Liffey and the Ha'penny Bridge in central Dublin"
+  },
+  "intro": [
+    "Dublin is one of Europe's most compact capital cities, small enough to cross on foot in under an hour, yet packed with a literary and musical reputation far larger than its size would suggest.",
+    "It's also a city of contrasts — a working medieval castle and a Georgian university sit blocks from buzzing Temple Bar pubs, while the Guinness Storehouse and Kilmainham Gaol tell two very different stories about the same small island.",
+    "Most visitors use Dublin as the start or end of a wider Ireland trip, and a couple of days here earns that role, offering real context — historical, literary and culinary — for everywhere else on the itinerary."
+  ],
+  "whyVisit": {
+    "intro": "Dublin's case rests on world-class museums and history packed into a small, easy-to-navigate city.",
+    "points": [
+      {
+        "title": "Trinity College holds an extraordinary manuscript",
+        "text": "The 9th-century Book of Kells and the Old Library's Long Room are among Europe's most atmospheric sights."
+      },
+      {
+        "title": "The Guinness Storehouse is a full sensory experience",
+        "text": "Seven floors built around a single pint, ending with panoramic city views from the rooftop Gravity Bar."
+      },
+      {
+        "title": "Kilmainham Gaol tells essential Irish history",
+        "text": "The site of the 1916 Rising leaders' executions, and one of the country's most moving museum experiences."
+      },
+      {
+        "title": "It's compact and walkable",
+        "text": "Most major sights sit within a comfortable walk of the city centre, either side of the River Liffey."
+      },
+      {
+        "title": "The pub and music culture is the real thing",
+        "text": "Live traditional sessions happen nightly, not just as a tourist performance."
+      }
+    ]
+  },
+  "attractionsIntro": "Dublin's essential sights combine genuine medieval and Georgian history with world-class museums.",
+  "attractions": [
+    {
+      "name": "Trinity College & the Book of Kells",
+      "image": {
+        "file": "File:Dublin Trinity College Library Long Room Book of Kells 1.jpg",
+        "alt": "The Long Room of the Old Library at Trinity College Dublin"
+      },
+      "text": "Ireland's oldest university, home to the illuminated 9th-century Book of Kells and the barrel-vaulted Long Room lined with ancient volumes.",
+      "tip": "Book timed tickets online ahead — the Long Room sells out, especially in summer."
+    },
+    {
+      "name": "Guinness Storehouse",
+      "image": {
+        "file": "File:Dublin - Guinness Storehouse - 20160507154420.jpg",
+        "alt": "The Guinness Storehouse building in Dublin"
+      },
+      "text": "An immersive seven-floor experience built around Ireland's most famous export, ending with a pint and a view from the rooftop Gravity Bar.",
+      "tip": "The rooftop bar offers one of Dublin's best panoramic views, included with entry."
+    },
+    {
+      "name": "Dublin Castle",
+      "image": {
+        "file": "File:Chapel Royal Interior 1, Dublin Castle, Dublin, Ireland - Diliff.jpg",
+        "alt": "The ornate interior of the Chapel Royal at Dublin Castle"
+      },
+      "text": "A still-functioning seat of Irish state ceremony, its state apartments and Chapel Royal open to visitors between official events.",
+      "tip": "Check ahead — the state apartments occasionally close for official functions."
+    },
+    {
+      "name": "Kilmainham Gaol",
+      "image": {
+        "file": "File:Kilmainham Gaol Main Hall 2016-06-03.jpg",
+        "alt": "The vaulted main hall of Kilmainham Gaol in Dublin"
+      },
+      "text": "A powerful former prison where leaders of the 1916 Easter Rising were executed, now a museum central to modern Irish history.",
+      "tip": "Book well ahead — tours are guided-only and regularly sell out days in advance."
+    },
+    {
+      "name": "St Patrick's Cathedral",
+      "image": {
+        "file": "File:St Patrick's Cathedral Exterior, Dublin, Ireland - Diliff.jpg",
+        "alt": "The exterior of St Patrick's Cathedral in Dublin"
+      },
+      "text": "Ireland's largest church, founded in 1191, with connections to Jonathan Swift, who served as dean here for over 30 years.",
+      "tip": "The choral evensong, held most weekdays, is free and atmospheric."
+    },
+    {
+      "name": "Phoenix Park",
+      "image": {
+        "file": "File:Phoenix Park is an urban park in Dublin, Ireland (5489563092).jpg",
+        "alt": "The open parkland of Phoenix Park in Dublin"
+      },
+      "text": "A vast city park, more than twice the size of New York's Central Park, home to a herd of wild fallow deer and the President's residence.",
+      "tip": "Rent a bike to cover the park's full size — it's larger than it first appears."
+    },
+    {
+      "name": "Temple Bar",
+      "image": {
+        "file": "File:Picture of The Temple Bar in Dublin - Photo du bar The Temple Bar à Dublin.jpg",
+        "alt": "The colourful Temple Bar pub in Dublin's Temple Bar district"
+      },
+      "text": "Dublin's best-known nightlife quarter, cobbled lanes packed with pubs, live music and a lively, touristy energy after dark.",
+      "tip": "Prices run higher here than elsewhere — a few streets over often means a quieter, cheaper pint."
+    }
+  ],
+  "thingsToDoIntro": "Dublin rewards mixing its major museums with a wander through its riverside and parkland.",
+  "thingsToDo": [
+    {
+      "title": "Cross the Ha'penny Bridge",
+      "image": {
+        "file": "File:Ha'penny Bridge, Dublin - 2022-07-20.jpg",
+        "alt": "The Ha'penny Bridge over the River Liffey in Dublin"
+      },
+      "text": "An essential Dublin moment, crossing the elegant cast-iron footbridge that has linked the city's two halves since 1816.",
+      "tip": "The bridge and riverbanks are especially atmospheric lit up after dark."
+    },
+    {
+      "title": "Shop and stroll Grafton Street",
+      "image": {
+        "file": "File:Grafton St, Dublin.jpg",
+        "alt": "Grafton Street, Dublin's pedestrianised shopping street"
+      },
+      "text": "A lively pedestrianised street of shops, cafés and buskers, running from Trinity College to St Stephen's Green.",
+      "tip": "Street performers here are often excellent — worth stopping for a few minutes."
+    },
+    {
+      "title": "Relax in St Stephen's Green",
+      "image": {
+        "file": "File:Dublin Stephen's Green-44 edit.jpg",
+        "alt": "St Stephen's Green, a Victorian park in central Dublin"
+      },
+      "text": "A peaceful Victorian park right in the city centre, a good spot to pause between museums and shopping streets.",
+      "tip": "Free and open year-round, with a bandstand hosting occasional summer concerts."
+    },
+    {
+      "title": "Day-trip to Howth",
+      "image": {
+        "file": "File:County Dublin - Howth Harbour Lighthouse (1818) - 20210301185336.jpg",
+        "alt": "Howth Harbour lighthouse near Dublin"
+      },
+      "text": "An easy DART train ride to a working fishing village with cliff walks, seafood and views back across Dublin Bay.",
+      "tip": "The cliff path loop takes about two hours and needs no special gear."
+    },
+    {
+      "title": "Catch a live trad session",
+      "text": "A nightly occurrence in pubs across the city, informal sessions of fiddle, bodhrán and tin whistle open to anyone who wanders in.",
+      "tip": "Arrive early for a seat near the musicians in the more popular venues."
+    },
+    {
+      "title": "Explore Dublin's literary history",
+      "text": "A rich trail connecting Joyce, Wilde, Beckett and Yeats, from statues and plaques to the Dublin Writers Museum.",
+      "tip": "A literary pub crawl combines the theme with a proper night out."
+    }
+  ],
+  "foodIntro": "Dublin's food spans serious modern Irish dining and simple, hearty pub classics at every price point.",
+  "foods": [
+    {
+      "name": "A pint of Guinness",
+      "image": {
+        "file": "File:GuinnessPint.jpg",
+        "alt": "A freshly poured pint of Guinness stout"
+      },
+      "text": "Tastes different at the source, poured fresh with the traditional two-part method across the city's pubs.",
+      "whereToTry": "Traditional pubs citywide, plus the Guinness Storehouse itself."
+    },
+    {
+      "name": "Irish stew",
+      "image": {
+        "file": "File:Irish Beef Stew (34046928633).jpg",
+        "alt": "A bowl of hearty Irish stew"
+      },
+      "text": "Worth seeking out at a traditional pub, a simple, slow-cooked stew of lamb, potatoes and root vegetables.",
+      "whereToTry": "Traditional pubs and restaurants throughout the city centre."
+    },
+    {
+      "name": "Full Irish breakfast",
+      "image": {
+        "file": "File:Full Irish Breakfast (4758138078).jpg",
+        "alt": "A full Irish breakfast with rashers, sausages, egg and black pudding"
+      },
+      "text": "A substantial start to the day, found on nearly every café menu across the city.",
+      "whereToTry": "Cafés and hotel breakfasts throughout Dublin."
+    },
+    {
+      "name": "Fish and chips",
+      "image": {
+        "file": "File:Fish and chips plate with peas.jpg",
+        "alt": "A plate of fish and chips"
+      },
+      "text": "A reliable, hearty classic, sold at chippers across the city, especially popular after a night out.",
+      "whereToTry": "Chip shops citywide, particularly around Temple Bar and the north city centre."
+    },
+    {
+      "name": "Irish soda bread",
+      "image": {
+        "file": "File:Irish soda bread (25292114472).jpg",
+        "alt": "A loaf of traditional Irish soda bread"
+      },
+      "text": "A daily staple, dense and slightly sweet, served alongside soup, stew or a simple breakfast.",
+      "whereToTry": "Cafés and bakeries throughout the city."
+    },
+    {
+      "name": "Boxty",
+      "image": {
+        "file": "File:Boxty triangle.jpg",
+        "alt": "Boxty, a traditional Irish potato pancake"
+      },
+      "text": "A traditional potato pancake, crisp outside and soft within, often served wrapped around a savoury filling.",
+      "whereToTry": "Traditional Irish restaurants around Temple Bar."
+    }
+  ],
+  "accommodation": {
+    "intro": "Dublin offers accommodation across every budget, concentrated within a compact, walkable city centre.",
+    "areas": [
+      {
+        "name": "City centre (south of the Liffey)",
+        "bestFor": "Being central and walkable to major sights",
+        "text": "The most convenient base, close to Trinity College, Grafton Street and Temple Bar."
+      },
+      {
+        "name": "Docklands and north city centre",
+        "bestFor": "A quieter, often better-value stay",
+        "text": "A short walk or tram ride from the centre, with good access to Phoenix Park and the main train stations."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "€35–70 per night" },
+      { "label": "Mid-range hotel", "value": "€130–220 per night" },
+      { "label": "Guinness Storehouse entry", "value": "About €30" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About €25–40 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Dublin is Ireland's main international gateway, well connected by air and sea.",
+    "options": [
+      {
+        "mode": "Flight to Dublin Airport",
+        "text": "Most international routes into Ireland land here, about 30 minutes from the city centre.",
+        "detail": "Frequent express buses connect the airport to central Dublin around the clock."
+      },
+      {
+        "mode": "Ferry from the UK",
+        "text": "A popular option for visitors bringing a car from Britain, docking at the nearby port of Dublin.",
+        "detail": "Routes run from Holyhead and other UK ports."
+      },
+      {
+        "mode": "Intercity train",
+        "text": "Fast and direct from Cork, Galway, Kilkenny and other major towns.",
+        "detail": "Trains arrive at Heuston or Connolly station, both close to the city centre."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Dublin is compact enough to explore mostly on foot, with good public transport for the rest.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Covers Trinity College, Temple Bar, Dublin Castle and most of the city centre easily.",
+        "detail": "Central Dublin's main sights sit within a comfortable walking radius of each other."
+      },
+      {
+        "mode": "The Luas tram and buses",
+        "text": "Reliable for reaching Phoenix Park, the docklands and other outer neighbourhoods.",
+        "detail": "A single Leap Card covers trams, buses and the DART train."
+      },
+      {
+        "mode": "The DART train",
+        "text": "The easiest way to reach Howth and the coastal suburbs.",
+        "detail": "Runs frequently along the coast, both north and south of the city centre."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for the best weather, though Dublin works well year-round",
+    "summary": "Dublin's museum-heavy, walkable character makes it a viable destination in any season, though summer brings the mildest outdoor conditions.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Mild weather and long daylight hours, with fewer crowds than midsummer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The warmest and busiest season, with festivals and outdoor events, also the priciest time to visit."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Mild with thinner crowds than summer, a good balance for museum-heavy sightseeing."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Short days and frequent rain, though atmospheric, with cosy pubs and lower prices."
+      }
+    ],
+    "avoid": "Nothing strongly — Dublin's museum-rich, compact character makes it a workable destination in any season."
+  },
+  "itinerary": {
+    "title": "Two days in Dublin",
+    "intro": "Built around Trinity College and Georgian Dublin on day one, Guinness and Irish history on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Trinity and the Georgian quarter",
+        "summary": "Trinity College, Grafton Street and St Stephen's Green.",
+        "morning": "Trinity College and the Book of Kells.",
+        "afternoon": "Grafton Street and St Stephen's Green.",
+        "evening": "Dinner and a trad session in Temple Bar."
+      },
+      {
+        "day": 2,
+        "title": "Guinness and Irish history",
+        "summary": "The Guinness Storehouse, Kilmainham Gaol and Dublin Castle.",
+        "morning": "The Guinness Storehouse.",
+        "afternoon": "Kilmainham Gaol and Dublin Castle.",
+        "evening": "A final Dublin dinner near the Liffey."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Dublin stay noticeably smoother.",
+  "tips": [
+    "Book Guinness Storehouse and Kilmainham Gaol tickets well ahead — both regularly sell out.",
+    "Get a Leap Card for easy, discounted travel on trams, buses and the DART.",
+    "Budget for high restaurant and pub prices, especially around Temple Bar.",
+    "Wear comfortable shoes — Dublin's compact centre still adds up to real walking distances.",
+    "Pack a proper waterproof layer regardless of season — Dublin's weather shifts fast.",
+    "Walk a few streets beyond Temple Bar for a quieter, cheaper, and often better pint."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Dublin?",
+      "a": "Two to three days covers the major museums and sights at a comfortable, unrushed pace."
+    },
+    {
+      "q": "Is Dublin worth visiting before heading to the rest of Ireland?",
+      "a": "Yes — its museums and history add real context, and it's the natural gateway for trains and buses onward."
+    },
+    {
+      "q": "Is Dublin expensive?",
+      "a": "Yes, one of the more expensive parts of Ireland — self-catering and a guesthouse help manage costs."
+    },
+    {
+      "q": "Is Dublin walkable?",
+      "a": "Yes — most major sights sit within a comfortable walk of the city centre, with good public transport for the rest."
+    },
+    {
+      "q": "What is Dublin famous for?",
+      "a": "Its literary history, Trinity College and the Book of Kells, the Guinness Storehouse, and a legendary pub and live music culture."
+    },
+    {
+      "q": "Do I need to book the Book of Kells in advance?",
+      "a": "Yes, strongly recommended — timed tickets for the Long Room and Book of Kells sell out, especially in summer."
+    }
+  ],
+  "related": ["kilkenny", "cork-cobh", "galway"],
+  "relatedArticles": ["underrated-destinations", "europe-by-train"]
+}

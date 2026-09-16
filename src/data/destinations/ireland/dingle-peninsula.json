@@ -1,0 +1,370 @@
+{
+  "slug": "dingle-peninsula",
+  "name": "The Dingle Peninsula",
+  "country": "ireland",
+  "region": "County Kerry",
+  "categories": ["scenic-drive", "nature", "coastal", "culture"],
+  "tagline": "A compact, wildly scenic peninsula of ancient stone huts, a mountain pass and a harbour town famous for its warmth and music.",
+  "highlight": "Cresting Conor Pass and seeing the whole peninsula spread out below, mountains dropping straight into the Atlantic on both sides.",
+  "shortDescription": "A compact peninsula of ancient beehive huts, a dramatic mountain pass and Dingle town, one of Ireland's most beloved harbour towns for food and music.",
+  "metaDescription": "A Dingle Peninsula travel guide: the Slea Head Drive, Conor Pass, Gallarus Oratory, food and how to plan a visit to this corner of County Kerry.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Kerry Airport (KIR)",
+  "knownFor": "The Slea Head Drive, Conor Pass, Dingle town's music scene",
+  "budget": "€90–170 per day, mid-range",
+  "goodFor": "Scenic drives, ancient sites, live music",
+  "coords": { "lat": 52.1409, "lng": -10.2670 },
+  "image": {
+    "file": "File:DinglePeninsulaHills from HusseysFolly 10 IMG 20250731 1609.jpg",
+    "alt": "The hills of the Dingle Peninsula in County Kerry"
+  },
+  "intro": [
+    "The Dingle Peninsula is a smaller, more concentrated version of what makes the Ring of Kerry famous, a compact finger of land where mountains drop straight into the Atlantic within a much shorter drive.",
+    "Its Slea Head Drive passes one of Ireland's densest concentrations of ancient sites, from Iron Age beehive huts to the early Christian Gallarus Oratory, while Conor Pass climbs to some of the country's most dramatic mountain views.",
+    "Most visitors base themselves in Dingle town itself, a warm, music-filled harbour town that punches well above its small size for food and traditional sessions."
+  ],
+  "whyVisit": {
+    "intro": "The Dingle Peninsula's case rests on concentrated scenery and ancient history in a compact, manageable area.",
+    "points": [
+      {
+        "title": "The Slea Head Drive is shorter and denser than the Ring of Kerry",
+        "text": "A half-day loop passing ancient sites and coastal views without the Ring's full-day commitment."
+      },
+      {
+        "title": "Conor Pass is one of Ireland's most dramatic drives",
+        "text": "A steep mountain pass with sweeping views over the whole peninsula from the top."
+      },
+      {
+        "title": "The ancient sites here are remarkably well preserved",
+        "text": "Beehive huts and the Gallarus Oratory survive largely intact after well over a thousand years."
+      },
+      {
+        "title": "Dingle town's music scene is beloved nationally",
+        "text": "A small harbour town with an outsized reputation for warmth, food and live sessions."
+      },
+      {
+        "title": "It works well alongside Killarney and the Ring of Kerry",
+        "text": "A natural addition to a southwest Ireland loop, distinct in character from its more famous neighbour."
+      }
+    ]
+  },
+  "attractionsIntro": "The peninsula's essential sights are concentrated along and just off the signposted Slea Head Drive.",
+  "attractions": [
+    {
+      "name": "The Slea Head Drive",
+      "image": {
+        "file": "File:On the Slea Head Drive - geograph.org.uk - 6121237.jpg",
+        "alt": "The coastal road of the Slea Head Drive on the Dingle Peninsula"
+      },
+      "text": "One of Ireland's best short scenic drives, looping past cliffs, beaches and ancient sites at the peninsula's western tip.",
+      "tip": "Drive clockwise from Dingle town, the direction most tour buses follow for the one-way sections."
+    },
+    {
+      "name": "Dingle town & harbour",
+      "image": {
+        "file": "File:Dingle Harbour, Kerry, Ireland.jpg",
+        "alt": "Dingle harbour and town in County Kerry"
+      },
+      "text": "A warm, colourful harbour town, small enough to explore in an afternoon but well known nationally for its food and music.",
+      "tip": "The harbour itself is a pleasant spot to watch fishing boats come and go each evening."
+    },
+    {
+      "name": "Beehive huts (clochans)",
+      "image": {
+        "file": "File:Beehive huts on the Dingle Peninsula - geograph.org.uk - 6121226.jpg",
+        "alt": "Ancient stone beehive huts on the Dingle Peninsula"
+      },
+      "text": "Remarkable dry-stone huts built without mortar, some dating back well over a thousand years and still standing.",
+      "tip": "Several clusters sit right along the Slea Head Drive, on private land with a small entry fee."
+    },
+    {
+      "name": "Gallarus Oratory",
+      "image": {
+        "file": "File:Gallarus Oratory.jpg",
+        "alt": "Gallarus Oratory, an early Christian stone church on the Dingle Peninsula"
+      },
+      "text": "An extraordinary early Christian stone church, its dry-stone construction still watertight after well over a thousand years.",
+      "tip": "The small visitor centre nearby has helpful context before seeing the oratory itself."
+    },
+    {
+      "name": "Conor Pass",
+      "image": {
+        "file": "File:Dingle view from Conor Pass.jpg",
+        "alt": "The view over the Dingle Peninsula from Conor Pass"
+      },
+      "text": "One of Ireland's highest and most dramatic mountain passes, with sweeping views over the whole peninsula from the summit car park.",
+      "tip": "Check conditions before driving in poor weather — the pass is narrow and can close in high wind or fog."
+    },
+    {
+      "name": "The Blasket Islands view",
+      "image": {
+        "file": "File:The Blasket Islands - geograph.org.uk - 5322274.jpg",
+        "alt": "The Blasket Islands off the tip of the Dingle Peninsula"
+      },
+      "text": "A striking view out to a now-uninhabited island group, once home to a famous Irish-speaking literary community.",
+      "tip": "The Blasket Centre near Dunquin tells the islands' story in real depth."
+    },
+    {
+      "name": "Dunquin Pier",
+      "image": {
+        "file": "File:Upturned currach boats, Dunquin harbour - geograph.org.uk - 5876717.jpg",
+        "alt": "Traditional currach boats at Dunquin Pier on the Dingle Peninsula"
+      },
+      "text": "A dramatic zigzagging pier cut into the cliffside, once the departure point for boats to the Blasket Islands.",
+      "tip": "Traditional currach boats are still sometimes seen drawn up on the pier itself."
+    }
+  ],
+  "thingsToDoIntro": "The peninsula rewards slowing down for its ancient sites as much as its coastal views.",
+  "thingsToDo": [
+    {
+      "title": "Drive the full Slea Head loop",
+      "image": {
+        "file": "File:On the Slea Head Drive - geograph.org.uk - 5908429.jpg",
+        "alt": "A scenic stretch of the Slea Head Drive"
+      },
+      "text": "An essential half-day, looping past beehive huts, cliffs and beaches at the peninsula's dramatic western end.",
+      "tip": "Allow a full half-day — the many worthwhile stops add up quickly."
+    },
+    {
+      "title": "Explore ancient beehive huts",
+      "image": {
+        "file": "File:Beehive huts, Dingle, County Kerry.jpg",
+        "alt": "Ancient stone beehive huts along the Slea Head Drive"
+      },
+      "text": "A hands-on way to experience the peninsula's ancient history, stepping inside dry-stone huts built without mortar.",
+      "tip": "Several sites are on private farmland with a small, worthwhile entry fee."
+    },
+    {
+      "title": "Cross Conor Pass",
+      "image": {
+        "file": "File:Dingle Pensinsula Conor Pass 24.jpg",
+        "alt": "The road climbing over Conor Pass on the Dingle Peninsula"
+      },
+      "text": "A dramatic drive or cycle over the peninsula's mountainous spine, with a summit car park for the view.",
+      "tip": "The road narrows significantly near the top — take it slowly."
+    },
+    {
+      "title": "Visit Gallarus Oratory",
+      "image": {
+        "file": "File:County Kerry - Gallarus Oratory - 20210612173518.jpg",
+        "alt": "Visitors at Gallarus Oratory on the Dingle Peninsula"
+      },
+      "text": "A quiet, reflective stop, standing inside a stone church built well over a thousand years ago and still intact.",
+      "tip": "Early morning offers the best light and the fewest other visitors."
+    },
+    {
+      "title": "Watch currach boats at Dunquin",
+      "image": {
+        "file": "File:Currach.1.jpg",
+        "alt": "A traditional Irish currach boat"
+      },
+      "text": "A living link to the peninsula's fishing heritage, traditional canvas-and-tar currach boats still used by local rowers.",
+      "tip": "Dunquin's currach races, held some summer weekends, are worth timing a visit around."
+    },
+    {
+      "title": "Hear live music in Dingle town",
+      "text": "A nightly occurrence in the town's pubs, sessions that draw musicians and visitors from across the country.",
+      "tip": "Arrive early for a seat near the musicians in the more popular pubs."
+    }
+  ],
+  "foodIntro": "Dingle's food has an outsized reputation for a town its size, built on fresh seafood and its own gin distillery.",
+  "foods": [
+    {
+      "name": "Full Irish breakfast",
+      "image": {
+        "file": "File:Full Breakfast in Dingle, County Kerry.jpg",
+        "alt": "A full Irish breakfast served in Dingle, County Kerry"
+      },
+      "text": "A hearty start before a day on the Slea Head Drive, served at cafés throughout the town.",
+      "whereToTry": "Cafés and guesthouses throughout Dingle town."
+    },
+    {
+      "name": "Seafood chowder",
+      "image": {
+        "file": "File:PXL 20231216 125922999-Ballintoy , Creamy Seafood Chowder.jpg",
+        "alt": "A bowl of creamy Irish seafood chowder"
+      },
+      "text": "An essential Dingle meal, made with the day's catch landed right at the harbour.",
+      "whereToTry": "Pubs and restaurants throughout the town centre."
+    },
+    {
+      "name": "Dingle Gin",
+      "text": "A well-regarded craft gin distilled right in the town, part of a small but serious Irish craft spirits scene.",
+      "whereToTry": "Pubs throughout Dingle, and the distillery's own visitor centre."
+    },
+    {
+      "name": "Irish stew",
+      "image": {
+        "file": "File:Irish Beef Stew (34046928633).jpg",
+        "alt": "A bowl of hearty Irish stew"
+      },
+      "text": "A warming classic after a day exploring Slea Head or crossing Conor Pass.",
+      "whereToTry": "Traditional pubs and restaurants throughout Dingle town."
+    },
+    {
+      "name": "A pint of Guinness",
+      "image": {
+        "file": "File:GuinnessPint.jpg",
+        "alt": "A freshly poured pint of Guinness stout"
+      },
+      "text": "Best enjoyed alongside a live trad session in one of Dingle's music pubs.",
+      "whereToTry": "Traditional pubs throughout the town centre."
+    },
+    {
+      "name": "Brown bread and butter",
+      "image": {
+        "file": "File:Brown Bread and Irish Butter.JPG",
+        "alt": "Traditional Irish brown bread with butter"
+      },
+      "text": "A simple staple, especially good alongside a bowl of chowder or fresh seafood.",
+      "whereToTry": "Cafés and restaurants throughout Dingle town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Dingle town serves as the peninsula's main base, small but well set up for travellers.",
+    "areas": [
+      {
+        "name": "Dingle town",
+        "bestFor": "Being central to the Slea Head Drive and the town's music pubs",
+        "text": "The most convenient and atmospheric base, with the widest choice of guesthouses and restaurants."
+      },
+      {
+        "name": "Along the Slea Head Drive",
+        "bestFor": "A quieter, more scenic stay",
+        "text": "Small guesthouses dotted along the route offer a slower pace than staying in town."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "€30–60 per night" },
+      { "label": "Mid-range hotel", "value": "€90–170 per night" },
+      { "label": "Beehive hut site entry", "value": "About €3–5" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About €20–35 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Dingle Peninsula is best reached by road, with Kerry Airport the closest air link.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The most practical way in, and essential for driving the Slea Head Drive and Conor Pass.",
+        "detail": "About an hour from Killarney or Tralee."
+      },
+      {
+        "mode": "Flight to Kerry Airport",
+        "text": "The closest airport, under an hour's drive from Dingle town.",
+        "detail": "Limited routes compared to Cork or Shannon, but convenient when available."
+      },
+      {
+        "mode": "Bus from Tralee or Killarney",
+        "text": "A workable option without a car, though local sights still require a tour or taxi.",
+        "detail": "Regular services connect Dingle town to the wider Kerry bus network."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car or bike is the most practical way to see the peninsula beyond Dingle town itself.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Essential for driving the Slea Head Drive and Conor Pass at a flexible pace.",
+        "detail": "The Slea Head Drive has one-way sections in places — follow local signage."
+      },
+      {
+        "mode": "On foot in Dingle town",
+        "text": "Easy — the town itself is small and entirely walkable.",
+        "detail": "The harbour and main streets are all within a few minutes of each other."
+      },
+      {
+        "mode": "Bike rental",
+        "text": "A rewarding, if strenuous, way to do the Slea Head Drive at a slower pace.",
+        "detail": "Widely available for rent in Dingle town."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for the clearest views and mildest weather",
+    "summary": "The peninsula is visitable year-round, though Conor Pass and the exposed western coast are far more pleasant outside winter storms.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Good odds of clear visibility for Conor Pass and the Slea Head Drive."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The busiest season, with Dingle town's music scene at its liveliest."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "good",
+        "text": "A quieter window with still-decent weather odds."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Dramatic but often wet and windy, with real risk of Conor Pass closing in storms."
+      }
+    ],
+    "avoid": "Driving Conor Pass in poor visibility or high wind — check conditions, as the road is narrow and exposed."
+  },
+  "itinerary": {
+    "title": "Two days on the Dingle Peninsula",
+    "intro": "Built around the Slea Head Drive on day one, Conor Pass and Dingle town on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Slea Head Drive",
+        "summary": "Beehive huts, Gallarus Oratory and Dunquin Pier.",
+        "morning": "Set off on the Slea Head Drive from Dingle town.",
+        "afternoon": "Beehive huts, Gallarus Oratory and Dunquin Pier.",
+        "evening": "Dinner and live music in Dingle town."
+      },
+      {
+        "day": 2,
+        "title": "Conor Pass and the town",
+        "summary": "Conor Pass and Dingle's harbour.",
+        "morning": "Drive over Conor Pass for the summit views.",
+        "afternoon": "Explore Dingle town and its harbour at a slower pace.",
+        "evening": "A final dinner and session in town."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Dingle Peninsula visit noticeably smoother.",
+  "tips": [
+    "Check conditions before driving Conor Pass in poor weather — it's narrow and exposed.",
+    "Drive the Slea Head Drive clockwise, following the one-way sections most tour buses use.",
+    "Carry small cash for the beehive hut sites' entry fees, often unstaffed.",
+    "Book Dingle town accommodation ahead in summer, given its small size.",
+    "Wear a windproof layer for Dunquin Pier and other exposed coastal stops.",
+    "Arrive early to pub sessions in town on weekends — the best spots fill up quickly."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need on the Dingle Peninsula?",
+      "a": "Two days covers the Slea Head Drive, Conor Pass and Dingle town comfortably."
+    },
+    {
+      "q": "Is the Dingle Peninsula better than the Ring of Kerry?",
+      "a": "Different rather than better — Dingle is more compact and concentrated, while the Ring of Kerry covers a larger loop. Many visitors do both."
+    },
+    {
+      "q": "Can you drive Conor Pass in a large vehicle?",
+      "a": "Not recommended — the pass is narrow with tight bends, and large campervans or coaches generally avoid it."
+    },
+    {
+      "q": "How old are the beehive huts?",
+      "a": "Many date back well over a thousand years, though some on the peninsula were built or rebuilt in later centuries using the same ancient technique."
+    },
+    {
+      "q": "What is Dingle town known for?",
+      "a": "Its warmth, fresh seafood and live traditional music, punching well above its small size nationally."
+    },
+    {
+      "q": "Is Gallarus Oratory worth visiting?",
+      "a": "Yes — it's a remarkably intact example of early Christian dry-stone building, still watertight after well over a thousand years."
+    }
+  ],
+  "related": ["killarney-ring-of-kerry", "cliffs-of-moher-burren", "cork-cobh"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

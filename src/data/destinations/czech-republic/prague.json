@@ -1,0 +1,386 @@
+{
+  "slug": "prague",
+  "name": "Prague",
+  "country": "czech-republic",
+  "region": "Bohemia",
+  "categories": ["capital-city", "major-city", "culture-arts", "historic"],
+  "tagline": "Central Europe's best-preserved historic capital, a hundred spires rising above the Vltava with a beer culture woven into everyday life.",
+  "highlight": "Crossing Charles Bridge at first light, its baroque statues silhouetted against the castle before the day's crowds arrive.",
+  "shortDescription": "Central Europe's best-preserved historic capital, home to Prague Castle, Charles Bridge and one of the world's great beer cultures.",
+  "metaDescription": "A Prague travel guide: Prague Castle, Charles Bridge, the Astronomical Clock, Malá Strana, food and how to plan a visit to the Czech capital.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "Václav Havel Airport Prague (PRG)",
+  "knownFor": "Prague Castle, Charles Bridge, the Astronomical Clock",
+  "budget": "Kč2,500–4,500 per day, mid-range",
+  "goodFor": "History, architecture, nightlife, beer culture",
+  "coords": { "lat": 50.0755, "lng": 14.4378 },
+  "image": {
+    "file": "File:Czech-03993 - Boat Station & St. Vitus Cathedral (32980108646).jpg",
+    "alt": "Prague's skyline along the Vltava River, with St Vitus Cathedral rising above Prague Castle"
+  },
+  "intro": [
+    "Prague is one of Europe's most beautiful and best-preserved capitals, its medieval, gothic and baroque architecture largely untouched by the wars that devastated so many other cities on the continent.",
+    "Its layout rewards wandering on foot — Prague Castle looms above the Vltava, Charles Bridge connects the old town to the castle district, and the whole historic core fits within an easily walkable area.",
+    "It's also a city built for beer, with pubs on nearly every corner pouring some of the best, cheapest pilsner anywhere in the world."
+  ],
+  "whyVisit": {
+    "intro": "Prague's case rests on an intact historic core paired with a living, everyday beer and pub culture.",
+    "points": [
+      {
+        "title": "Prague's historic centre is astonishingly intact",
+        "text": "Spared the wartime bombing that levelled so many other European capitals."
+      },
+      {
+        "title": "Prague Castle is the largest ancient castle complex in the world",
+        "text": "A thousand-year-old seat of power still central to Czech political life today."
+      },
+      {
+        "title": "The beer culture here is unmatched",
+        "text": "World-class, inexpensive pilsner served in pubs on almost every corner."
+      },
+      {
+        "title": "It's one of Europe's most walkable capitals",
+        "text": "Old Town, Malá Strana and the castle district all connect easily on foot."
+      },
+      {
+        "title": "It works well as a springboard for Bohemia",
+        "text": "Day trips to Kutná Hora and Český Krumlov are both easy from here."
+      }
+    ]
+  },
+  "attractionsIntro": "Prague's essential sights are concentrated within an easily walkable historic core.",
+  "attractions": [
+    {
+      "name": "Prague Castle",
+      "image": {
+        "file": "File:Castillo de Praga, Praga, República Checa, 2022-07-02, DD 209.jpg",
+        "alt": "Prague Castle overlooking the city"
+      },
+      "text": "The largest ancient castle complex in the world, a thousand-year-old seat of Czech power above the Vltava.",
+      "tip": "Arrive right at opening to see the changing of the guard without the midday crowds."
+    },
+    {
+      "name": "Charles Bridge",
+      "image": {
+        "file": "File:North view of Charles Bridge from Mánesův most, Prague 20160808 1.jpg",
+        "alt": "Charles Bridge crossing the Vltava River in Prague"
+      },
+      "text": "A 14th-century stone bridge lined with baroque statues, the city's most iconic crossing.",
+      "tip": "Cross at sunrise for photos without the crowds and street vendors that fill it by mid-morning."
+    },
+    {
+      "name": "Old Town Square and the Astronomical Clock",
+      "image": {
+        "file": "File:2015 Zegar astronomiczny w Pradze 01.jpg",
+        "alt": "The Astronomical Clock on Old Town Square in Prague"
+      },
+      "text": "The city's medieval heart, a working 15th-century astronomical clock still drawing crowds every hour.",
+      "tip": "Climb the Old Town Hall tower for a view over the square itself, rather than just the clock."
+    },
+    {
+      "name": "St Vitus Cathedral",
+      "image": {
+        "file": "File:Interior of St. Vitus Cathedral Prague 01.jpg",
+        "alt": "The Gothic interior of St Vitus Cathedral in Prague"
+      },
+      "text": "A soaring Gothic cathedral within the castle complex, its stained glass and vaulted ceilings centuries in the making.",
+      "tip": "Look for the Art Nouveau stained glass window by Alfons Mucha in the third chapel."
+    },
+    {
+      "name": "Malá Strana",
+      "image": {
+        "file": "File:20190817 View of Malá Strana from Petřín 1354 5556.jpg",
+        "alt": "The Malá Strana district of Prague below the castle"
+      },
+      "text": "Prague's best-preserved baroque district, a maze of cobbled lanes, palace gardens and quiet squares below the castle.",
+      "tip": "Get lost on purpose here — the quieter side streets are the district's real reward."
+    },
+    {
+      "name": "The Jewish Quarter (Josefov)",
+      "image": {
+        "file": "File:Lascar Josefov (Old Jewish Quarter) (4504602778).jpg",
+        "alt": "Historic synagogue buildings in Prague's Josefov district"
+      },
+      "text": "One of Europe's best-preserved former Jewish quarters, its synagogues and old cemetery a moving, essential visit.",
+      "tip": "Buy a combined ticket covering several synagogues and the Old Jewish Cemetery together."
+    },
+    {
+      "name": "Petřín Hill and Lookout Tower",
+      "image": {
+        "file": "File:Petřín tower 05 2018.jpg",
+        "alt": "The Petřín Lookout Tower above Prague"
+      },
+      "text": "A green escape from the crowds, a hilltop park topped by a miniature Eiffel-style lookout tower.",
+      "tip": "Ride the funicular up and walk back down through the orchards."
+    }
+  ],
+  "thingsToDoIntro": "Prague rewards unhurried wandering, though a few essential experiences anchor most visits.",
+  "thingsToDo": [
+    {
+      "title": "Cross Charles Bridge at sunrise",
+      "image": {
+        "file": "File:Prague Charles Bridge 2021 12.jpg",
+        "alt": "Charles Bridge at sunrise in Prague"
+      },
+      "text": "An essential Prague ritual, having the bridge's statues almost to yourself before the crowds arrive.",
+      "tip": "Bring a coffee to go and continue on toward the castle while the light is still soft."
+    },
+    {
+      "title": "Tour Prague Castle's grounds",
+      "image": {
+        "file": "File:Czech-2013-Prague-Prague Castle at dusk.jpg",
+        "alt": "Prague Castle at dusk"
+      },
+      "text": "An essential half-day, taking in St Vitus Cathedral, the Old Royal Palace and Golden Lane.",
+      "tip": "Buy your ticket online in advance to skip the entrance queue."
+    },
+    {
+      "title": "Watch the Astronomical Clock strike the hour",
+      "image": {
+        "file": "File:Czech-2013-Prague-Astronomical clock face.jpg",
+        "alt": "The face of Prague's Astronomical Clock"
+      },
+      "text": "A medieval spectacle, apostle figures processing past two small windows as the clock strikes.",
+      "tip": "Temper expectations — the show itself is brief, the clock's mechanism is the real marvel."
+    },
+    {
+      "title": "Wander Malá Strana's palace gardens",
+      "image": {
+        "file": "File:Praha Mala Strana Mala Palffyovska zahrada zidka.jpg",
+        "alt": "A terraced palace garden in Malá Strana, Prague"
+      },
+      "text": "A peaceful escape, a string of baroque terraced gardens climbing the hill below the castle.",
+      "tip": "Several gardens connect by internal stairways — a single ticket often covers more than one."
+    },
+    {
+      "title": "Climb Petřín Hill for the view",
+      "image": {
+        "file": "File:20190817 View of Prague Castle from Petřín 1345 5542.jpg",
+        "alt": "The view of Prague Castle from Petřín Hill"
+      },
+      "text": "A rewarding walk or funicular ride, with one of the city's best panoramic views from the top.",
+      "tip": "Visit at golden hour, when the light over the castle and river is at its best."
+    },
+    {
+      "title": "Explore the Jewish Quarter's synagogues",
+      "image": {
+        "file": "File:Lascar Josefov (Old Jewish Quarter) (4504602778).jpg",
+        "alt": "Exploring Prague's historic Jewish Quarter"
+      },
+      "text": "A moving, essential few hours, tracing centuries of Prague's Jewish history through its synagogues and cemetery.",
+      "tip": "Allow at least two to three hours to do the quarter justice."
+    }
+  ],
+  "foodIntro": "Prague's food means hearty Czech classics best paired with a proper pilsner.",
+  "foods": [
+    {
+      "name": "Svíčková (marinated beef in cream sauce)",
+      "image": {
+        "file": "File:Svickova with dumplings.jpg",
+        "alt": "Svíčková, marinated beef in cream sauce with bread dumplings"
+      },
+      "text": "The dish most Czechs would call their national favourite, tender beef with cream sauce and dumplings.",
+      "whereToTry": "Traditional restaurants throughout the city."
+    },
+    {
+      "name": "Guláš with dumplings",
+      "image": {
+        "file": "File:Guláš s knedlíky.jpg",
+        "alt": "Czech goulash served with bread dumplings"
+      },
+      "text": "A pub staple, rich paprika-spiced beef stew mopped up with sliced bread dumplings.",
+      "whereToTry": "Traditional pubs throughout Prague."
+    },
+    {
+      "name": "Vepřové koleno (roast pork knee)",
+      "image": {
+        "file": "File:Salad and Czech roast pork knee.jpg",
+        "alt": "Roast pork knee, a hearty Czech pub dish"
+      },
+      "text": "A hearty, shareable pub classic, slow-roasted pork knee with crackling skin and mustard.",
+      "whereToTry": "Traditional beer halls throughout the city."
+    },
+    {
+      "name": "Trdelník (chimney cake)",
+      "image": {
+        "file": "File:Trdelnik in Prague.jpg",
+        "alt": "Trdelník, a rolled pastry cooked over an open flame"
+      },
+      "text": "More a Prague street tradition than an old family recipe, a sugar-and-cinnamon pastry cooked on a spit.",
+      "whereToTry": "Street stalls throughout the Old Town and near Charles Bridge."
+    },
+    {
+      "name": "Czech beer (pivo)",
+      "image": {
+        "file": "File:Pilsner Urquell beer glass (2).jpg",
+        "alt": "A glass of Czech pilsner beer"
+      },
+      "text": "Essential, some of the best and cheapest beer anywhere, poured properly in pubs across the city.",
+      "whereToTry": "Pubs on nearly every street in the city centre."
+    },
+    {
+      "name": "Smažený sýr (fried cheese)",
+      "image": {
+        "file": "File:Smažený sýr s tatarskou omáčkou a brambory.jpg",
+        "alt": "Smažený sýr, breaded fried cheese with tartar sauce and potatoes"
+      },
+      "text": "A beloved pub classic, breaded and deep-fried cheese served with tartar sauce and fries.",
+      "whereToTry": "Traditional pubs throughout Prague."
+    }
+  ],
+  "accommodation": {
+    "intro": "Prague offers accommodation for every budget, from hostels to grand historic hotels.",
+    "areas": [
+      {
+        "name": "Old Town and Josefov",
+        "bestFor": "Being central and within walking distance of every major sight",
+        "text": "The most convenient base, though also the busiest and priciest part of the city."
+      },
+      {
+        "name": "Malá Strana and the castle district",
+        "bestFor": "A quieter, more atmospheric stay close to the castle",
+        "text": "Cobbled lanes and fewer crowds, still an easy walk across the river to Old Town."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "Kč500–900 per night" },
+      { "label": "Mid-range hotel", "value": "Kč2,500–4,500 per night" },
+      { "label": "Half-litre of Czech beer", "value": "About Kč50–90 in a proper pub" },
+      { "label": "Dinner at a traditional restaurant", "value": "About Kč250–450 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Prague is well connected by air, rail and road to the rest of Europe.",
+    "options": [
+      {
+        "mode": "Flight into Václav Havel Airport Prague",
+        "text": "The standard way in for most international visitors.",
+        "detail": "A direct bus or taxi reaches the city centre in about 30–45 minutes."
+      },
+      {
+        "mode": "Train from Vienna, Berlin or Budapest",
+        "text": "A comfortable, scenic overland option from several neighbouring capitals.",
+        "detail": "Journey times range from about four to seven hours depending on the route."
+      },
+      {
+        "mode": "Long-distance bus",
+        "text": "A budget-friendly option from across Central Europe.",
+        "detail": "RegioJet and FlixBus both run frequent, comfortable international routes."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Prague's excellent public transport makes a car entirely unnecessary.",
+    "options": [
+      {
+        "mode": "Metro and trams",
+        "text": "Fast and frequent, covering the whole city on one unified ticket.",
+        "detail": "Trams are often the more scenic way to cross the city centre."
+      },
+      {
+        "mode": "On foot",
+        "text": "The best way to see the historic core itself.",
+        "detail": "Old Town, Malá Strana and the castle district all connect easily on foot."
+      },
+      {
+        "mode": "Taxis and rideshare apps",
+        "text": "Useful late at night or for luggage.",
+        "detail": "Use a rideshare app or a registered taxi rank rather than hailing on the street."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for mild weather and manageable crowds",
+    "summary": "Prague is a year-round destination, though shoulder-season months offer the best overall balance.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Mild temperatures and blooming parks, before peak summer crowds arrive."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Warm and lively, though the Old Town and castle get crowded."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Golden light over the rooftops, with noticeably thinner crowds than summer."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Atmospheric around the December Christmas markets, though short days and cold call for warm layers."
+      }
+    ],
+    "avoid": "Nothing strongly — Prague works year-round, though August's crowds are worth planning around."
+  },
+  "itinerary": {
+    "title": "Three days in Prague",
+    "intro": "Built around the castle district, the Old Town, and a slower day exploring Malá Strana and Josefov.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Old Town and Charles Bridge",
+        "summary": "The historic core on foot.",
+        "morning": "Old Town Square and the Astronomical Clock.",
+        "afternoon": "Cross Charles Bridge into Malá Strana.",
+        "evening": "Dinner near the river, with the castle lit up after dark."
+      },
+      {
+        "day": 2,
+        "title": "Prague Castle",
+        "summary": "A full day exploring the castle complex.",
+        "morning": "Prague Castle's grounds and the changing of the guard.",
+        "afternoon": "St Vitus Cathedral and the Old Royal Palace.",
+        "evening": "A pub dinner in Malá Strana."
+      },
+      {
+        "day": 3,
+        "title": "Josefov and Petřín Hill",
+        "summary": "The Jewish Quarter and a hilltop view.",
+        "morning": "The synagogues and cemetery of Josefov.",
+        "afternoon": "The funicular up Petřín Hill for the view.",
+        "evening": "A final dinner back in the Old Town."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Prague visit noticeably smoother.",
+  "tips": [
+    "Buy a multi-day public transport pass if you're staying more than a couple of days.",
+    "Book Prague Castle's interiors online ahead to skip the entrance queue.",
+    "Carry some cash for small pubs and markets, even though cards are widely accepted.",
+    "Avoid restaurants with staff actively calling people in near major squares — check prices first.",
+    "Validate any paper transport ticket before boarding — inspectors do check.",
+    "Cross Charles Bridge at sunrise or late evening to avoid the worst of the crowds."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Prague?",
+      "a": "Three to four days covers the essential sights at a comfortable pace, with time for a day trip."
+    },
+    {
+      "q": "Is Prague expensive?",
+      "a": "More affordable than Western European capitals overall, though prices in the most touristy central areas have risen close to Western levels."
+    },
+    {
+      "q": "Is Prague Castle worth the visit?",
+      "a": "Yes — it's the largest ancient castle complex in the world, and St Vitus Cathedral alone justifies the trip up the hill."
+    },
+    {
+      "q": "Do you need to book Charles Bridge or Old Town Square ahead?",
+      "a": "No, not — they're open public spaces, though visiting early morning avoids the worst crowds."
+    },
+    {
+      "q": "Is Prague walkable?",
+      "a": "Yes, one of Europe's most walkable capitals — Old Town, Malá Strana and the castle district all connect easily on foot."
+    },
+    {
+      "q": "Can you day-trip from Prague?",
+      "a": "Yes, easily — Kutná Hora and Český Krumlov are both popular, straightforward day trips by train or organised tour."
+    }
+  ],
+  "related": ["kutna-hora", "cesky-krumlov", "karlovy-vary"],
+  "relatedArticles": ["first-trip-to-europe", "europe-by-train"]
+}

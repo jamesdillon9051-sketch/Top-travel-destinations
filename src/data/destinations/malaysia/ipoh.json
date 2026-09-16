@@ -1,0 +1,326 @@
+{
+  "slug": "ipoh",
+  "name": "Ipoh",
+  "country": "malaysia",
+  "region": "Perak",
+  "categories": ["heritage", "food", "culture", "city"],
+  "tagline": "A former tin-mining boomtown between Kuala Lumpur and Penang, known for limestone cave temples and an excellent food scene.",
+  "highlight": "Wandering Concubine Lane's narrow, lantern-strung alley, a leftover from Ipoh's tin-boom past now filled with food stalls.",
+  "shortDescription": "A former tin-mining town in Perak, known for limestone cave temples, colonial-era old town streets and a widely praised food scene.",
+  "metaDescription": "An Ipoh travel guide: cave temples, Concubine Lane, Kellie's Castle, Ipoh white coffee and how to plan a visit.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Sultan Azlan Shah Airport (IPH), or Kuala Lumpur International Airport with a road transfer",
+  "knownFor": "Cave temples, Ipoh white coffee, colonial-era old town streets",
+  "budget": "RM90-200 per day, budget to mid-range",
+  "goodFor": "Food, heritage architecture, an easy stop between Kuala Lumpur and Penang",
+  "coords": { "lat": 4.5975, "lng": 101.0901 },
+  "image": {
+    "file": "File:Old Ipoh Town Hall.jpg",
+    "alt": "The old town hall in Ipoh"
+  },
+  "intro": [
+    "Ipoh grew wealthy on tin mining in the late 19th and early 20th centuries, and its old town still carries the grand colonial-era buildings that boom financed.",
+    "Limestone hills surrounding the city hide cave temples built directly into the rock, a distinctive Ipoh sight found nowhere else on a typical Peninsular Malaysia route.",
+    "Food has become the city's other major draw, with Ipoh white coffee, bean sprout chicken and other specialties drawing day-trippers from Kuala Lumpur and Penang alike."
+  ],
+  "whyVisit": {
+    "intro": "Ipoh's case rests on cave temples found nowhere else nearby, a well-preserved old town, and food that regularly gets named among Malaysia's best.",
+    "points": [
+      {
+        "title": "Its cave temples are distinctive",
+        "text": "Limestone hills around the city hold temples built directly into natural caverns."
+      },
+      {
+        "title": "The old town is a well-preserved tin-boom relic",
+        "text": "Grand early 20th-century buildings, still standing rather than replaced by newer development."
+      },
+      {
+        "title": "The food scene punches well above the city's size",
+        "text": "Ipoh white coffee and bean sprout chicken are specifically associated with the city."
+      },
+      {
+        "title": "It sits conveniently between Kuala Lumpur and Penang",
+        "text": "An easy stop on the KTM ETS rail corridor, needing no detour."
+      },
+      {
+        "title": "It's noticeably less crowded than Penang",
+        "text": "A similar heritage-and-food combination with a fraction of the visitor numbers."
+      }
+    ]
+  },
+  "attractionsIntro": "Ipoh's essential sights combine its old town streets with cave temples in the surrounding limestone hills.",
+  "attractions": [
+    {
+      "name": "Ipoh's old town",
+      "image": {
+        "file": "File:Old Ipoh Town Hall.jpg",
+        "alt": "Ipoh's colonial-era old town hall"
+      },
+      "text": "Grand early 20th-century buildings financed by the tin boom, including the city's landmark railway station and town hall.",
+      "tip": "A free heritage walking trail map is available from the tourist information centre."
+    },
+    {
+      "name": "Concubine Lane",
+      "image": {
+        "file": "File:Concubine Lane during rainy afternoon.jpg",
+        "alt": "Concubine Lane, a historic alley in Ipoh's old town"
+      },
+      "text": "A narrow, colourfully decorated alley dating to the tin-boom era, now filled with food and souvenir stalls.",
+      "tip": "Visit in late afternoon or evening when the lanterns are lit and the alley is at its most atmospheric."
+    },
+    {
+      "name": "Ling Sen Tong cave temple",
+      "image": {
+        "file": "File:Colourful entrance to Ipoh's Ling Sen Tong cave temple (53471898056).jpg",
+        "alt": "The colourful entrance to Ling Sen Tong cave temple in Ipoh"
+      },
+      "text": "One of several Taoist cave temples built into Ipoh's limestone hills, its brightly painted statues and dragons filling the cavern.",
+      "tip": "Ipoh has several cave temples — Ling Sen Tong, Perak Tong and Kek Lok Tong are all worth comparing if time allows."
+    },
+    {
+      "name": "Kellie's Castle",
+      "image": {
+        "file": "File:Kellie's Castle.jpg",
+        "alt": "Kellie's Castle, an unfinished colonial-era mansion near Ipoh"
+      },
+      "text": "An unfinished, faintly eerie colonial-era mansion outside the city, abandoned after its owner died before completion.",
+      "tip": "A short drive from central Ipoh — combine with the nearby Kinta Nature Park if time allows."
+    },
+    {
+      "name": "Ipoh Railway Station",
+      "text": "A grand colonial-era building nicknamed the \"Taj Mahal of Ipoh\" for its domed white architecture.",
+      "tip": "Still a working station — an easy stop if arriving or departing by train."
+    },
+    {
+      "name": "Perak Cave Temple",
+      "text": "A large cave temple complex with Buddhist murals and statues, plus a steep climb to a hilltop viewpoint.",
+      "tip": "The climb to the top rewards with wide views over Ipoh and the surrounding limestone hills."
+    },
+    {
+      "name": "Ipoh's street art",
+      "text": "Murals scattered through the old town, part of a wider wave of Malaysian city street art following Penang's lead.",
+      "tip": "Look for pieces around Lorong Panglima and other old town side streets."
+    }
+  ],
+  "thingsToDoIntro": "Ipoh rewards a food-focused pace, mixing old town wandering with visits to its limestone cave temples.",
+  "thingsToDo": [
+    {
+      "title": "Wander Concubine Lane and the old town",
+      "text": "A slow walk through Ipoh's heritage core turns up colonial buildings, street art and food stalls in equal measure.",
+      "tip": "Combine with nearby Panglima Lane, another historic alley just around the corner."
+    },
+    {
+      "title": "Visit two or three of Ipoh's cave temples",
+      "image": {
+        "file": "File:Reclining Buddha at Ipoh's Ling Sen Tong cave temple (53472069428).jpg",
+        "alt": "A reclining Buddha at a cave temple in Ipoh"
+      },
+      "text": "Each cave temple has its own character — comparing a couple gives a fuller sense of the city's limestone geography.",
+      "tip": "A car or taxi makes visiting more than one temple in a day much easier."
+    },
+    {
+      "title": "Explore Kellie's Castle",
+      "image": {
+        "file": "File:The narrow stairs of Kellie's Castle.png",
+        "alt": "The interior stairs of Kellie's Castle near Ipoh"
+      },
+      "text": "The mansion's unfinished, slightly haunted atmosphere makes for an unusual stop just outside the city.",
+      "tip": "Guided tours add helpful context to the building's unusual, unfinished history."
+    },
+    {
+      "title": "Try Ipoh white coffee",
+      "image": {
+        "file": "File:Old Uncle with White Coffee.jpg",
+        "alt": "Ipoh white coffee served at a local café"
+      },
+      "text": "A distinctive local coffee style, beans roasted with margarine for a smoother, less bitter flavour.",
+      "tip": "Old-school kopitiams serve it best — look for a busy, long-running spot rather than a modern café."
+    },
+    {
+      "title": "Look for Ipoh's street art murals",
+      "text": "Scattered through the old town's side streets, a newer addition to the heritage architecture around them.",
+      "tip": "No fixed map exists — half the fun is stumbling across pieces while wandering."
+    },
+    {
+      "title": "Eat a proper Ipoh food crawl",
+      "text": "Bean sprout chicken, hor fun and other Ipoh specialties are best tackled across several stops, not one big meal.",
+      "tip": "Go for lunch — some of Ipoh's best-known food stalls close by early afternoon."
+    }
+  ],
+  "foodIntro": "Ipoh's food reputation rivals much larger Malaysian cities, with several dishes specifically associated with the city.",
+  "foods": [
+    {
+      "name": "Ipoh white coffee",
+      "image": {
+        "file": "File:IpohWhiteCoffee..jpg",
+        "alt": "Ipoh white coffee, a local coffee specialty"
+      },
+      "text": "Coffee beans roasted with margarine rather than sugar, giving a smoother, less bitter cup than typical kopi.",
+      "whereToTry": "Old-school kopitiams throughout the old town."
+    },
+    {
+      "name": "Bean sprout chicken (Ipoh chicken rice)",
+      "text": "Poached chicken served with Ipoh's famously crunchy bean sprouts, said to grow better here thanks to the local water.",
+      "whereToTry": "Specialist restaurants throughout Ipoh, particularly in the old town."
+    },
+    {
+      "name": "Ipoh hor fun",
+      "text": "Flat rice noodles in a light broth topped with shredded chicken and prawns, a defining local noodle dish.",
+      "whereToTry": "Noodle stalls and restaurants throughout the city."
+    },
+    {
+      "name": "Salted chicken",
+      "text": "Whole chicken wrapped and roasted in salt, a traditional dish still served at several long-running Ipoh restaurants.",
+      "whereToTry": "Specialist restaurants around the old town, often requiring advance order."
+    },
+    {
+      "name": "Tau fu fa (soft tofu pudding)",
+      "text": "A silky, lightly sweetened tofu dessert, a popular way to cool down after a food crawl.",
+      "whereToTry": "Dessert stalls throughout the old town."
+    },
+    {
+      "name": "Kaya toast",
+      "text": "Toasted bread with coconut jam and butter, a classic kopitiam breakfast pairing for white coffee.",
+      "whereToTry": "Kopitiams throughout Ipoh's old town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Ipoh's accommodation is generally good value, with a growing number of boutique hotels in restored old town shophouses.",
+    "areas": [
+      {
+        "name": "Ipoh old town",
+        "bestFor": "Walking distance to Concubine Lane and the main heritage sights",
+        "text": "The most atmospheric base, with restored shophouse hotels alongside budget guesthouses."
+      },
+      {
+        "name": "New town (near the railway station)",
+        "bestFor": "A wider range of hotels and easy transport connections",
+        "text": "A short ride from the old town, with more modern hotel options."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse room", "value": "RM50–100 per night" },
+      { "label": "Boutique heritage hotel", "value": "RM150–280 per night" },
+      { "label": "Hawker meal", "value": "RM6–12 per person" },
+      { "label": "White coffee and kaya toast", "value": "RM6–10 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Ipoh sits directly on the KTM ETS rail corridor between Kuala Lumpur and Penang, making it an easy stop rather than a detour.",
+    "options": [
+      {
+        "mode": "KTM ETS train",
+        "text": "The most convenient option, roughly 2 hours from Kuala Lumpur or under 1.5 hours from Penang's Butterworth station.",
+        "detail": "Arrives centrally at Ipoh's historic railway station."
+      },
+      {
+        "mode": "Long-distance coach",
+        "text": "A budget-friendly alternative from Kuala Lumpur, Penang or the Cameron Highlands.",
+        "detail": "Slightly slower than the train but often cheaper."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Convenient for combining Ipoh with Kellie's Castle and the Cameron Highlands.",
+        "detail": "Ipoh sits roughly halfway between Kuala Lumpur and the highlands by road."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Ipoh's old town is walkable, with a car or taxi useful for cave temples and Kellie's Castle outside the centre.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The best way to explore the old town, Concubine Lane and nearby street art.",
+        "detail": "Most heritage sights sit within a compact, flat area."
+      },
+      {
+        "mode": "Ride-hailing apps",
+        "text": "Useful for reaching cave temples or Kellie's Castle outside the centre.",
+        "detail": "Cheap and widely available throughout the city."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Convenient if visiting multiple cave temples or continuing on to the Cameron Highlands.",
+        "detail": "Parking is generally easy to find outside the old town's busiest hours."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December to February for the driest weather",
+    "summary": "Ipoh follows the same west coast pattern as Kuala Lumpur and Penang, with modest seasonal variation.",
+    "seasons": [
+      {
+        "season": "December–February",
+        "rating": "best",
+        "text": "Generally the driest and most comfortable months for old town walking."
+      },
+      {
+        "season": "March–September",
+        "rating": "good",
+        "text": "Warm with a moderate chance of short afternoon showers."
+      },
+      {
+        "season": "October–November",
+        "rating": "okay",
+        "text": "The wettest stretch of the year."
+      },
+      {
+        "season": "Any season",
+        "rating": "good",
+        "text": "Ipoh works well year-round as a stop on the KTM ETS corridor, regardless of season."
+      }
+    ],
+    "avoid": "Nothing strongly — Ipoh works as a year-round stop, with October and November simply the wettest months."
+  },
+  "itinerary": {
+    "title": "One day in Ipoh",
+    "intro": "Built as a focused day trip, easily extended to an overnight stay for a fuller food crawl.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Old town and cave temples",
+        "summary": "A single, full day covering Ipoh's essentials.",
+        "morning": "Explore the old town, Concubine Lane and the railway station.",
+        "afternoon": "Visit a cave temple or Kellie's Castle outside the centre.",
+        "evening": "A food crawl through the old town, ending with white coffee."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make an Ipoh visit noticeably smoother.",
+  "tips": [
+    "Time your visit for lunch — some of the best-known food stalls close by early afternoon.",
+    "Take the KTM ETS train if travelling from Kuala Lumpur or Penang — it's faster and more comfortable than the road.",
+    "Visit Concubine Lane in the late afternoon or evening when its lanterns are lit.",
+    "Arrange a car or taxi if visiting more than one cave temple in a day.",
+    "Try Ipoh white coffee at an old-school kopitiam rather than a modern café.",
+    "Combine Kellie's Castle with a stop at the Cameron Highlands if travelling onward that way."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Ipoh?",
+      "a": "One to two days covers the old town, a cave temple and a proper food crawl comfortably."
+    },
+    {
+      "q": "How do you get from Kuala Lumpur to Ipoh?",
+      "a": "By KTM ETS train, taking around 2 hours, or by coach or car in a similar timeframe."
+    },
+    {
+      "q": "What is Ipoh known for?",
+      "a": "Limestone cave temples, a well-preserved tin-boom old town, and a food scene built around white coffee and bean sprout chicken."
+    },
+    {
+      "q": "Is Ipoh worth visiting compared to Penang?",
+      "a": "Yes, for a different reason — a similar heritage-and-food combination with noticeably fewer visitors."
+    },
+    {
+      "q": "Can you visit Ipoh as a day trip?",
+      "a": "Yes, easily from Kuala Lumpur or Penang by train, though an overnight stay allows a fuller food crawl."
+    },
+    {
+      "q": "Is Ipoh safe?",
+      "a": "Yes, generally — a safe, easygoing city with normal precautions around belongings in busy areas."
+    }
+  ],
+  "related": ["cameron-highlands", "penang", "kuala-lumpur"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

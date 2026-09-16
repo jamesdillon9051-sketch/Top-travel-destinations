@@ -1,0 +1,128 @@
+{
+  "country": "peru",
+  "title": "The Complete Peru Travel Guide",
+  "subtitle": "Lost Inca cities, high-altitude lakes and desert oases across one of South America's most dramatic landscapes",
+  "summary": "How to plan a Peru trip: whether to focus on the Andes, the coast or the Amazon, when to go for the driest trails, what it costs, and a practical ten-day itinerary.",
+  "readingTime": "13 min read",
+  "updated": "2026",
+  "sections": [
+    {
+      "id": "how-peru-divides",
+      "title": "How Peru divides",
+      "navLabel": "The regions",
+      "body": [
+        "Peru divides into three very different geographic zones — the coast, the Andean highlands and the Amazon — and a first trip realistically covers only one or two well.",
+        "**The Andean highlands.** [[cusco|Cusco]], [[machu-picchu|Machu Picchu]], the [[sacred-valley|Sacred Valley]], [[rainbow-mountain|Rainbow Mountain]] and [[lake-titicaca-puno|Lake Titicaca]] — the historic and scenic heart of most Peru itineraries.",
+        "**The coast.** [[lima|Lima]], [[nazca-lines|the Nazca Lines]] and [[huacachina|Huacachina]] — the capital's food scene and a strip of desert coastline with its own distinct attractions.",
+        "**The south.** [[arequipa-colca-canyon|Arequipa and Colca Canyon]] — an underrated colonial city and one of the world's deepest canyons.",
+        "**The Amazon.** [[amazon-puerto-maldonado|Puerto Maldonado]] — a different Peru entirely, dense rainforest and extraordinary biodiversity."
+      ],
+      "note": "Most first-time visitors combine [[lima|Lima]] with the Andean highlands in a single trip. The Amazon and the far south coast are where a longer or second trip belongs."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If this is your first trip",
+          "text": "[[lima|Lima]], [[cusco|Cusco]], the [[sacred-valley|Sacred Valley]] and [[machu-picchu|Machu Picchu]], the classic route for a reason."
+        },
+        {
+          "title": "If you want dramatic high-altitude scenery",
+          "text": "[[rainbow-mountain|Rainbow Mountain]], one of the most photographed natural sights in the Andes."
+        },
+        {
+          "title": "If you want living Andean culture",
+          "text": "[[lake-titicaca-puno|Lake Titicaca]], home to the Uros floating islands and Taquile's weaving traditions."
+        },
+        {
+          "title": "If you want an underrated colonial city",
+          "text": "[[arequipa-colca-canyon|Arequipa]], one of Peru's most beautiful cities, paired with condor-watching at Colca Canyon."
+        },
+        {
+          "title": "If you want extraordinary wildlife",
+          "text": "[[amazon-puerto-maldonado|The Amazon]], one of the most biodiverse places on Earth."
+        },
+        {
+          "title": "If you want something different from the Andes",
+          "text": "[[nazca-lines|The Nazca Lines]] and [[huacachina|Huacachina]], a striking desert detour on Peru's southern coast."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around: flights, trains, and one common mistake",
+      "navLabel": "Getting around",
+      "body": [
+        "Peru's scale and mountainous terrain mean no single mode of transport covers the whole country — a mix of domestic flights, trains and buses is standard.",
+        "**Fly between regions, don't drive.** [[lima|Lima]] to [[cusco|Cusco]] or [[arequipa-colca-canyon|Arequipa]] takes over 24 hours by road versus about an hour and a half by air.",
+        "**Book the Machu Picchu train well ahead.** It's the only practical way to reach [[machu-picchu|Machu Picchu]] without a multi-day hike.",
+        "**Don't skip altitude acclimatisation.** Arriving in [[cusco|Cusco]] at 3,400 metres and rushing straight into activity is the most common mistake first-time visitors make.",
+        "**Use overnight buses for longer coastal routes.** [[nazca-lines|Nazca]] to [[huacachina|Ica]] and similar routes are comfortable on Peru's reclining-seat overnight services.",
+        "**Book Rainbow Mountain and Colca Canyon tours locally.** Both involve early starts and high-altitude driving best left to experienced operators."
+      ],
+      "note": "Book your Machu Picchu tickets, train and Inca Trail permits (if hiking) months ahead for June–August travel — Peru's dry season sells out early."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Peru's three distinct regions have different ideal seasons, so 'the best time' depends on where your itinerary focuses. For the classic Andean route, **May to September** works best.",
+        "**The Andean dry season** brings reliable weather for Machu Picchu, Cusco and Rainbow Mountain, also the busiest and most expensive season.",
+        "**The wet season**, November to March, is lush and green, though trails can turn muddy and the Inca Trail itself closes each February.",
+        "**The Amazon's own dry season**, roughly June to October, offers the easiest wildlife spotting, with lower water levels concentrating animals near rivers.",
+        "**The coast**, including Lima and the desert south, is mild year-round, with its own separate garúa fog season affecting Lima specifically from June to September."
+      ],
+      "note": "Book Machu Picchu tickets and Inca Trail permits (if hiking) many months ahead for a June–August trip — this is the busiest and most tightly booked window of the year."
+    },
+    {
+      "id": "itineraries",
+      "title": "Four routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "Six days: the highlights sprint",
+          "text": "[[lima|Lima]], [[cusco|Cusco]] and [[machu-picchu|Machu Picchu]], the most popular short Peru itinerary, though tight on acclimatisation time.",
+          "tip": "Fly into Cusco a day earlier than needed if possible, purely for extra altitude adjustment time."
+        },
+        {
+          "title": "Ten days: the classic Andean loop",
+          "text": "The itinerary on the [[c:peru|Peru country page]]: [[lima|Lima]], [[cusco|Cusco]], the [[sacred-valley|Sacred Valley]], [[machu-picchu|Machu Picchu]], [[rainbow-mountain|Rainbow Mountain]] and [[lake-titicaca-puno|Lake Titicaca]]. A complete first look at Peru's classic highlights.",
+          "tip": "Do Rainbow Mountain only after at least three days at altitude — it's a serious high-altitude hike."
+        },
+        {
+          "title": "A week focused on the south",
+          "text": "[[arequipa-colca-canyon|Arequipa and Colca Canyon]] paired with [[nazca-lines|Nazca]] and [[huacachina|Huacachina]], skipping Cusco entirely.",
+          "tip": "This route avoids the highest altitudes, a good option for those concerned about altitude sickness."
+        },
+        {
+          "title": "An Amazon add-on for a second trip",
+          "text": "[[amazon-puerto-maldonado|Puerto Maldonado]] by guided lodge stay, one of the most biodiverse regions on Earth.",
+          "tip": "Book a multi-night lodge stay rather than a single day trip — wildlife sightings improve significantly with more time."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Peru?",
+      "a": "Ten to fourteen days covers Lima, Cusco, the Sacred Valley, Machu Picchu and Lake Titicaca at a reasonable pace, which is the itinerary in this guide. Six days is enough for the highlights alone, and still worthwhile."
+    },
+    {
+      "q": "Is Machu Picchu worth the cost and effort?",
+      "a": "Yes — it's one of the only major ancient wonders the Spanish conquest never found, and no photograph quite captures standing in the citadel itself."
+    },
+    {
+      "q": "Do you need to worry about altitude in Peru?",
+      "a": "Yes, in Cusco and Puno especially — both sit above 3,300 metres, and rushing straight into activity without acclimatising is the most common visitor mistake."
+    },
+    {
+      "q": "When should I visit for the best weather?",
+      "a": "May to September for the Andean dry season, offering the most reliable conditions for Machu Picchu, Cusco and Rainbow Mountain, though it's also the busiest and priciest time to visit."
+    }
+  ]
+}

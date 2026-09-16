@@ -1,0 +1,370 @@
+{
+  "slug": "karlovy-vary",
+  "name": "Karlovy Vary",
+  "country": "czech-republic",
+  "region": "West Bohemia",
+  "categories": ["spa", "historic", "relaxation", "architecture"],
+  "tagline": "Bohemia's grandest 19th-century spa town, mineral hot springs wrapped in ornate colonnades beneath forested hills.",
+  "highlight": "Sipping warm mineral water from a spa cup while strolling the Mill Colonnade's arcades, exactly as visitors have for two centuries.",
+  "shortDescription": "Bohemia's grandest 19th-century spa town, its mineral hot springs framed by ornate colonnades, the Grandhotel Pupp and forested hills.",
+  "metaDescription": "A Karlovy Vary travel guide: the Mill Colonnade, the Hot Spring Colonnade, Grandhotel Pupp, Becherovka, food and how to plan a spa town visit.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Karlovy Vary Airport (KLV), or Václav Havel Airport Prague (PRG) about 2 hours by road",
+  "knownFor": "Thermal spa colonnades, Grandhotel Pupp, Becherovka",
+  "budget": "Kč2,000–4,000 per day, mid-range",
+  "goodFor": "Relaxation, spa treatments, architecture",
+  "coords": { "lat": 50.2306, "lng": 12.8722 },
+  "image": {
+    "file": "File:Mill Colonnade in Karlovy Vary.jpg",
+    "alt": "The Mill Colonnade in Karlovy Vary"
+  },
+  "intro": [
+    "Karlovy Vary is Bohemia's grandest spa town, built up around a dozen mineral hot springs that have drawn visitors since the 14th century.",
+    "Its 19th-century golden age left behind an extraordinary collection of ornate colonnades and grand hotels, all set along the narrow Teplá River valley.",
+    "The town is still a working spa destination today, where sipping mineral water from a distinctive spa cup remains as central to a visit as any sightseeing."
+  ],
+  "whyVisit": {
+    "intro": "Karlovy Vary's case rests on extraordinary spa-town architecture paired with a still-living thermal spa tradition.",
+    "points": [
+      {
+        "title": "The colonnades are architectural showpieces",
+        "text": "Ornate 19th-century ironwork and stone arcades built specifically to frame the mineral springs."
+      },
+      {
+        "title": "The springs are still in daily use",
+        "text": "A centuries-old tradition of sipping warm mineral water from a spa cup continues today."
+      },
+      {
+        "title": "The setting is beautiful",
+        "text": "A narrow river valley wrapped in forested hills, with a funicular up to a hilltop lookout."
+      },
+      {
+        "title": "It's home to Becherovka",
+        "text": "The town's own herbal liqueur, distilled here since 1807."
+      },
+      {
+        "title": "It works well as a change of pace from Prague",
+        "text": "A relaxed, unhurried spa-town atmosphere quite different from the capital."
+      }
+    ]
+  },
+  "attractionsIntro": "Karlovy Vary's essential sights are its colonnades, grand hotels and the springs themselves.",
+  "attractions": [
+    {
+      "name": "The Mill Colonnade",
+      "image": {
+        "file": "File:Mill Colonnade in Karlovy Vary.jpg",
+        "alt": "The Mill Colonnade in Karlovy Vary"
+      },
+      "text": "The town's largest and grandest colonnade, a neo-Renaissance arcade covering five separate mineral springs.",
+      "tip": "Bring or buy a spa cup here to sample the water as you walk."
+    },
+    {
+      "name": "The Hot Spring Colonnade",
+      "image": {
+        "file": "File:Karlovy Vary Vřídelní kolonáda duben 2019 (1).jpg",
+        "alt": "The Hot Spring Colonnade in Karlovy Vary"
+      },
+      "text": "Home to the town's hottest and most powerful spring, shooting water up to 12 metres into the air.",
+      "tip": "The modern glass building looks stark from outside, but the spring itself is impressive."
+    },
+    {
+      "name": "Grandhotel Pupp",
+      "image": {
+        "file": "File:Karlovy Vary Grandhotel Pupp prosinec 2019 (1).jpg",
+        "alt": "The historic Grandhotel Pupp in Karlovy Vary"
+      },
+      "text": "The town's grandest hotel since 1701, and a regular filming location for international movies.",
+      "tip": "Stop for a coffee in the lobby even if you're not staying — it's open to non-guests."
+    },
+    {
+      "name": "The Diana Lookout Tower",
+      "image": {
+        "file": "File:Karlovy Vary, horní stanice lanové dráhy Diana a rozhledna.jpg",
+        "alt": "The Diana Lookout Tower above Karlovy Vary"
+      },
+      "text": "The best view over the town, an observation tower reached by a short funicular ride.",
+      "tip": "Walk back down through the forest instead of taking the funicular both ways."
+    },
+    {
+      "name": "Church of St Mary Magdalene",
+      "image": {
+        "file": "File:Church of Saint Mary Magdalene (Karlovy Vary).JPG",
+        "alt": "The Church of St Mary Magdalene in Karlovy Vary"
+      },
+      "text": "The town's baroque parish church, designed by the same architect behind Prague's St Nicholas Church.",
+      "tip": "Visible from most of the colonnade district, an easy landmark to navigate by."
+    },
+    {
+      "name": "The Market Colonnade",
+      "image": {
+        "file": "File:Fountain near the Market Colonnade. Karlovy Vary, Czech Republic.jpg",
+        "alt": "The Market Colonnade in Karlovy Vary"
+      },
+      "text": "A delicate white wooden colonnade, among the most photogenic in town.",
+      "tip": "A lovely spot in the late afternoon light, just up the valley from the Mill Colonnade."
+    },
+    {
+      "name": "The Jan Becher Museum",
+      "image": {
+        "file": "File:Jan Becher Muzeum.jpg",
+        "alt": "The Jan Becher Museum in Karlovy Vary"
+      },
+      "text": "The home of Becherovka, the town's herbal liqueur distilled here since 1807.",
+      "tip": "Book the tour, which ends with a tasting of several Becherovka varieties."
+    }
+  ],
+  "thingsToDoIntro": "Karlovy Vary rewards an unhurried pace, built around its springs, colonnades and forested hills.",
+  "thingsToDo": [
+    {
+      "title": "Sip mineral water from a spa cup",
+      "image": {
+        "file": "File:Karlovy Vary Vřídelní kolonáda (6).jpg",
+        "alt": "Sipping mineral water at a colonnade in Karlovy Vary"
+      },
+      "text": "An essential Karlovy Vary ritual, strolling between colonnades sampling different mineral springs.",
+      "tip": "Buy a spa cup with a built-in straw from any souvenir shop — the water is often too hot to sip normally."
+    },
+    {
+      "title": "Ride the funicular to the Diana Lookout Tower",
+      "image": {
+        "file": "File:Karlovy Vary stanice lanovky Jelení skok (04).jpg",
+        "alt": "A viewpoint above Karlovy Vary"
+      },
+      "text": "A rewarding short trip, climbing above the colonnades for a sweeping view over the town.",
+      "tip": "Go late afternoon for the best light over the valley."
+    },
+    {
+      "title": "Tour the Jan Becher Museum and taste Becherovka",
+      "image": {
+        "file": "File:Becherovka in Czech Republic, August 2019.jpg",
+        "alt": "Becherovka, a herbal liqueur from Karlovy Vary"
+      },
+      "text": "A worthwhile hour, learning the story behind the town's own herbal liqueur before a tasting.",
+      "tip": "Pick up a bottle at the museum shop — it's a classic, packable Karlovy Vary souvenir."
+    },
+    {
+      "title": "Buy a spa wafer (lázeňské oplatky)",
+      "image": {
+        "file": "File:Lázně Vráž - oplatky 01.jpg",
+        "alt": "Traditional spa wafers, a Karlovy Vary specialty"
+      },
+      "text": "A traditional pairing, thin sweet wafers sold specifically to eat alongside the mineral water.",
+      "tip": "Try a few different flavours from one of the colonnade kiosks."
+    },
+    {
+      "title": "Have a drink at the Grandhotel Pupp",
+      "image": {
+        "file": "File:Grandhotel Pupp, Karlovy Vary, 2010.JPG",
+        "alt": "The historic Grandhotel Pupp in Karlovy Vary"
+      },
+      "text": "An elegant way to spend an hour, taking in the hotel's grand historic interiors over a coffee or drink.",
+      "tip": "The terrace is a lovely spot to sit in warmer months."
+    },
+    {
+      "title": "Photograph the Market Colonnade",
+      "image": {
+        "file": "File:Karlovy Vary, Vřídelní kolonáda od zámku.JPG",
+        "alt": "A colonnade in Karlovy Vary"
+      },
+      "text": "A photogenic stop, the delicate white woodwork among the prettiest in town.",
+      "tip": "Visit early morning for photos without other visitors in frame."
+    }
+  ],
+  "foodIntro": "Karlovy Vary's food centres on its spa traditions alongside standard Czech classics.",
+  "foods": [
+    {
+      "name": "Lázeňské oplatky (spa wafers)",
+      "image": {
+        "file": "File:Třeboňské lázeňské oplatky I.jpg",
+        "alt": "Traditional Czech spa wafers"
+      },
+      "text": "The town's signature treat, thin sweet wafers traditionally eaten alongside the mineral water.",
+      "whereToTry": "Colonnade kiosks and bakeries throughout the spa district."
+    },
+    {
+      "name": "Becherovka",
+      "image": {
+        "file": "File:Becherovka (Foto Hilarmont).JPG",
+        "alt": "A bottle of Becherovka herbal liqueur"
+      },
+      "text": "The town's own herbal liqueur, distilled here since 1807 and often served as a digestif.",
+      "whereToTry": "Bars and restaurants throughout Karlovy Vary, or the Jan Becher Museum itself."
+    },
+    {
+      "name": "Svíčková (marinated beef in cream sauce)",
+      "image": {
+        "file": "File:Svickova with dumplings.jpg",
+        "alt": "Svíčková, marinated beef in cream sauce with bread dumplings"
+      },
+      "text": "A reliable classic, found at traditional restaurants throughout town.",
+      "whereToTry": "Traditional restaurants around the colonnade district."
+    },
+    {
+      "name": "Guláš with dumplings",
+      "image": {
+        "file": "File:Guláš s knedlíky.jpg",
+        "alt": "Czech goulash served with bread dumplings"
+      },
+      "text": "A warming option away from the colonnades' more tourist-focused cafés.",
+      "whereToTry": "Local pubs slightly outside the main spa district."
+    },
+    {
+      "name": "Czech beer (pivo)",
+      "image": {
+        "file": "File:Pilsner Urquell beer glass (2).jpg",
+        "alt": "A glass of Czech pilsner beer"
+      },
+      "text": "A good counterpoint to a day of mineral water, though this is first and foremost a spa town.",
+      "whereToTry": "Pubs a short walk from the main colonnade district."
+    },
+    {
+      "name": "Smažený sýr (fried cheese)",
+      "image": {
+        "file": "File:Smažený sýr s tatarskou omáčkou a brambory.jpg",
+        "alt": "Smažený sýr, breaded fried cheese with tartar sauce and potatoes"
+      },
+      "text": "A satisfying, inexpensive option away from the spa district's pricier cafés.",
+      "whereToTry": "Local restaurants slightly outside the colonnade area."
+    }
+  ],
+  "accommodation": {
+    "intro": "Karlovy Vary offers everything from grand historic hotels to simpler guesthouses just outside the spa core.",
+    "areas": [
+      {
+        "name": "The colonnade district",
+        "bestFor": "Being steps from every major spa sight",
+        "text": "Historic hotels right along the Teplá River, including the famous Grandhotel Pupp."
+      },
+      {
+        "name": "Just outside the spa core",
+        "bestFor": "A better-value stay a short walk from the colonnades",
+        "text": "Simpler guesthouses within easy walking distance of the main sights."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "Kč1,200–2,200 per night" },
+      { "label": "Mid-range spa hotel", "value": "Kč3,000–5,500 per night" },
+      { "label": "Jan Becher Museum tour and tasting", "value": "About Kč250–350" },
+      { "label": "Dinner at a traditional restaurant", "value": "About Kč300–500 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Karlovy Vary is an easy trip from Prague, whether as a day trip or overnight stay.",
+    "options": [
+      {
+        "mode": "Direct bus from Prague",
+        "text": "The easiest and fastest option, taking about two hours.",
+        "detail": "Frequent daily services run from Prague's main bus terminals."
+      },
+      {
+        "mode": "Train from Prague",
+        "text": "A scenic alternative, taking slightly longer than the bus.",
+        "detail": "Around three hours, with pleasant countryside views along the way."
+      },
+      {
+        "mode": "Organised day trip",
+        "text": "Convenient for a rushed visit without your own transport.",
+        "detail": "Widely available from Prague hotels and tour operators."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Karlovy Vary's compact spa core is entirely walkable, with a funicular for the surrounding hills.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The only way to properly experience the colonnades.",
+        "detail": "The spa district's main sights all sit within an easy walk of each other."
+      },
+      {
+        "mode": "Funicular to Diana Lookout Tower",
+        "text": "The easiest way up to the best viewpoint over town.",
+        "detail": "A short, inexpensive ride from near the Grandhotel Pupp."
+      },
+      {
+        "mode": "Local bus from the train station",
+        "text": "Useful, as the station sits a little outside the spa core.",
+        "detail": "A short ride connects the station to the colonnade district."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for pleasant walking weather",
+    "summary": "Karlovy Vary is a year-round spa destination, with the indoor springs open regardless of season.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Mild, comfortable weather for strolling between colonnades."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Warm and busy, especially during the town's film festival in early July."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Golden light over the forested valley, with thinner crowds than summer."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Atmospheric with the warm colonnades a cosy contrast to the cold outside."
+      }
+    ],
+    "avoid": "Nothing strongly, though early July's film festival fills hotels well ahead."
+  },
+  "itinerary": {
+    "title": "One day in Karlovy Vary",
+    "intro": "A single full day covering the colonnades, a lookout tower and the Becherovka museum.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The colonnades and Diana Tower",
+        "summary": "A full day of springs, architecture and views.",
+        "morning": "The Mill and Hot Spring Colonnades, spa cup in hand.",
+        "afternoon": "The Jan Becher Museum, then the funicular to Diana Lookout Tower.",
+        "evening": "A drink at the Grandhotel Pupp before dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Karlovy Vary visit noticeably smoother.",
+  "tips": [
+    "Buy a spa cup from any souvenir shop before trying the mineral springs.",
+    "Book the Jan Becher Museum tour ahead in peak season.",
+    "Pack comfortable shoes — the funicular walk back down covers some distance.",
+    "Try more than one spring — each one tastes noticeably different.",
+    "Visit as a day trip or add one night — a single day covers the essentials well.",
+    "Book well ahead for early July, when the town's film festival fills every hotel."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Karlovy Vary?",
+      "a": "One full day covers the essential colonnades and a lookout tower; an overnight stay allows a more relaxed pace."
+    },
+    {
+      "q": "Can you actually drink the spa water?",
+      "a": "Yes — it's intended for drinking, traditionally sipped from a spa cup while walking between colonnades."
+    },
+    {
+      "q": "Is Karlovy Vary worth visiting from Prague?",
+      "a": "Yes — its 19th-century spa architecture and thermal springs are unlike anything in the capital."
+    },
+    {
+      "q": "How do you get from Prague to Karlovy Vary?",
+      "a": "Easiest by direct bus, taking about two hours; the train is a scenic alternative taking slightly longer."
+    },
+    {
+      "q": "What is Becherovka?",
+      "a": "Karlovy Vary's own herbal liqueur, distilled here since 1807 and still produced in the town today."
+    },
+    {
+      "q": "Is Karlovy Vary a day trip or worth staying overnight?",
+      "a": "Both work — a day trip covers the highlights, while staying overnight allows a properly unhurried spa-town pace."
+    }
+  ],
+  "related": ["prague", "cesky-krumlov", "plzen"],
+  "relatedArticles": ["packing-by-season", "first-trip-to-europe"]
+}

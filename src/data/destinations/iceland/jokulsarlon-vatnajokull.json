@@ -1,0 +1,366 @@
+{
+  "slug": "jokulsarlon-vatnajokull",
+  "name": "Jökulsárlón and Vatnajökull",
+  "country": "iceland",
+  "region": "South-East Iceland",
+  "categories": ["nature", "glacier", "unesco", "scenic"],
+  "tagline": "A lagoon where house-sized icebergs calve from Europe's largest ice cap and drift out to a beach that scatters them across black sand like diamonds.",
+  "highlight": "Watching a seal surface between drifting icebergs at Jökulsárlón, Vatnajökull's blue-white ice cap rising behind the lagoon.",
+  "shortDescription": "A glacier lagoon and ice cave country at the edge of Vatnajökull, Europe's largest ice cap by volume, with icebergs drifting to a black sand beach.",
+  "metaDescription": "A Jökulsárlón and Vatnajökull travel guide: the glacier lagoon, Diamond Beach, ice caves, Svartifoss, when to go and how to plan your visit.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Höfn regional airport, or Keflavík International (KEF) via Reykjavik",
+  "knownFor": "Jökulsárlón glacier lagoon, Diamond Beach, ice caves",
+  "budget": "ISK 25,000–45,000 per day, mid-range",
+  "goodFor": "Glacier scenery, ice caves, an otherworldly landscape",
+  "coords": { "lat": 64.0784, "lng": -16.2300 },
+  "image": {
+    "file": "File:Icebergs in the Jökulsárlón Glacier Lagoon, Iceland.jpg",
+    "alt": "Icebergs drifting in the Jökulsárlón glacier lagoon"
+  },
+  "intro": [
+    "Jökulsárlón sits at the edge of Vatnajökull, Europe's largest ice cap by volume, and it's one of the most surreal landscapes in Iceland — a lagoon where icebergs calved from the glacier drift slowly toward the sea, some the size of houses, in shades of white, blue and ash-streaked black.",
+    "The current that carries them out to the ocean deposits many back on the black sand beach across the road, where they wash up and melt slowly into ice sculptures scattered across the sand — a sight striking enough to have earned the beach its own name, Diamond Beach.",
+    "The wider Vatnajökull National Park, a UNESCO World Heritage Site, extends far beyond the lagoon itself, taking in Skaftafell's waterfalls and hiking trails, and ice caves that form fresh each winter beneath the glacier's edge."
+  ],
+  "whyVisit": {
+    "intro": "This region's case rests on a rare combination of a photogenic glacier lagoon and real, accessible access to Europe's largest ice cap.",
+    "points": [
+      {
+        "title": "Jökulsárlón is one of the most photographed sights in Iceland",
+        "text": "Drifting icebergs, seals and the ice cap behind combine into a scene unlike anywhere else on the Ring Road."
+      },
+      {
+        "title": "Diamond Beach is a free, unmissable extra",
+        "text": "Ice chunks wash up directly across the road from the lagoon, scattered across black sand."
+      },
+      {
+        "title": "Vatnajökull's ice caves are a rare winter-only spectacle",
+        "text": "Crystal-clear blue ice caves form fresh each year, safely accessible only with a guide."
+      },
+      {
+        "title": "Svartifoss is one of Iceland's most distinctive waterfalls",
+        "text": "Framed by dark hexagonal basalt columns, a short hike from the Skaftafell visitor centre."
+      },
+      {
+        "title": "It's a natural stop on any full Ring Road loop",
+        "text": "Sitting directly on Route 1 between the South Coast and the East Fjords."
+      }
+    ]
+  },
+  "attractionsIntro": "This region's essential sights span the glacier lagoon itself and the wider Vatnajökull National Park around it.",
+  "attractions": [
+    {
+      "name": "Jökulsárlón Glacier Lagoon",
+      "image": {
+        "file": "File:Icebergs in the Jökulsárlón Glacier Lagoon, Iceland.jpg",
+        "alt": "Icebergs drifting across the Jökulsárlón glacier lagoon"
+      },
+      "text": "A surreal lagoon where icebergs calved from Breiðamerkurjökull drift slowly toward the sea, some centuries old and striped with volcanic ash.",
+      "tip": "Visit at different times of day — the light and iceberg positions change constantly."
+    },
+    {
+      "name": "Diamond Beach",
+      "image": {
+        "file": "File:Glacier in Diamond Beach (Jökulsárlón) Iceland.jpg",
+        "alt": "Ice chunks scattered across the black sand of Diamond Beach"
+      },
+      "text": "The genuine black sand beach directly across the road from the lagoon, where stranded ice chunks glitter like diamonds against the dark sand.",
+      "tip": "Visit right after high tide, when the freshest ice has just washed ashore."
+    },
+    {
+      "name": "Svartifoss",
+      "image": {
+        "file": "File:038 Svartifoss waterfall (Iceland) Photo by Giles Laurent.jpg",
+        "alt": "Svartifoss waterfall framed by dark hexagonal basalt columns"
+      },
+      "text": "A distinctive waterfall framed by dark hexagonal basalt columns, reached by an easy hike from the Skaftafell visitor centre.",
+      "tip": "The round trip takes about 1.5-2 hours at an easy pace."
+    },
+    {
+      "name": "Vatnajökull Ice Cap",
+      "image": {
+        "file": "File:Vatnajokull glacier (20008756100).jpg",
+        "alt": "Vatnajökull, Europe's largest ice cap by volume"
+      },
+      "text": "Europe's largest ice cap by volume, covering around 8% of Iceland and feeding numerous outlet glaciers, including the one that calves into Jökulsárlón.",
+      "tip": "A scenic flight gives the best sense of the ice cap's true scale, invisible from ground level."
+    },
+    {
+      "name": "Seals at Jökulsárlón",
+      "image": {
+        "file": "File:021 Wild smiling harbor seal at Jökulsárlón (Iceland) Photo by Giles Laurent.jpg",
+        "alt": "A harbour seal in the water at Jökulsárlón lagoon"
+      },
+      "text": "A resident population of harbour seals hunts and rests among the icebergs, regularly visible from the shore.",
+      "tip": "The eastern shore of the lagoon is a reliable spot for seal sightings."
+    },
+    {
+      "name": "Skaftafell Nature Reserve",
+      "image": {
+        "file": "File:View from Skaftafell National Park July 2014 -2.JPG",
+        "alt": "The view over Skaftafell, part of Vatnajökull National Park"
+      },
+      "text": "A green, sheltered oasis within the wider national park, its trails leading to Svartifoss and views over outlet glaciers.",
+      "tip": "The visitor centre has current trail conditions and glacier tour bookings."
+    },
+    {
+      "name": "Höfn",
+      "image": {
+        "file": "File:Hofn - harbour and mountains.jpg",
+        "alt": "The harbour town of Höfn with mountains behind"
+      },
+      "text": "A small fishing town and Iceland's self-declared langoustine capital, with Vatnajökull's peaks visible across the bay.",
+      "tip": "A good overnight base between Jökulsárlón and the East Fjords."
+    }
+  ],
+  "thingsToDoIntro": "This region rewards getting close to the ice, whether by boat, on foot or inside a cave.",
+  "thingsToDo": [
+    {
+      "title": "Cruise among the icebergs",
+      "image": {
+        "file": "File:Glacier Lagoon With Boaters.jpg",
+        "alt": "A boat tour among the icebergs at Jökulsárlón lagoon"
+      },
+      "text": "Amphibious boat and Zodiac tours get you right up close to the icebergs, with seals often surfacing nearby.",
+      "tip": "Zodiac tours reach further into the lagoon than the larger amphibious boats."
+    },
+    {
+      "title": "Walk Diamond Beach at sunrise or sunset",
+      "text": "The low, warm light at either end of the day makes the ice on the black sand glow, particularly rewarding for photography.",
+      "tip": "Winter's short days put sunrise and sunset light within easy reach of a normal visit."
+    },
+    {
+      "title": "Hike to Svartifoss",
+      "image": {
+        "file": "File:Svartifoss July 2014.JPG",
+        "alt": "The trail leading to Svartifoss waterfall"
+      },
+      "text": "A rewarding, moderate hike from Skaftafell, climbing past smaller falls before reaching Svartifoss's basalt columns.",
+      "tip": "Continue a little further to the Sjónarnípa viewpoint for glacier views if you have the energy."
+    },
+    {
+      "title": "Take a guided ice cave tour",
+      "image": {
+        "file": "File:Blue Ice Cave - Flickr - Eric Kilby.jpg",
+        "alt": "A blue ice cave inside Vatnajökull glacier"
+      },
+      "text": "Spectacular crystal-blue ice caves form fresh each winter, safely accessible only on a guided tour with proper equipment.",
+      "tip": "Ice caves are a winter-only experience — book well ahead, as tours sell out."
+    },
+    {
+      "title": "Try a glacier hike",
+      "image": {
+        "file": "File:Glacier-cave-man-iceland (Unsplash).jpg",
+        "alt": "A guided glacier hike on Vatnajökull's ice"
+      },
+      "text": "Guided hikes with crampons and an ice axe let you walk directly on the glacier's surface, crevasses and all.",
+      "tip": "No prior experience is needed — all equipment and instruction is provided."
+    },
+    {
+      "title": "Eat langoustine in Höfn",
+      "text": "Höfn calls itself Iceland's langoustine capital, and the town's restaurants serve it simply grilled or in soup.",
+      "tip": "The town's annual Lobster Festival in late June is worth timing a visit around."
+    }
+  ],
+  "foodIntro": "This region's food centres on Höfn's langoustine and standard Icelandic staples along the Ring Road.",
+  "foods": [
+    {
+      "name": "Langoustine",
+      "text": "Höfn's genuine signature dish, small Icelandic langoustine served simply grilled with garlic butter or in a rich soup.",
+      "whereToTry": "Restaurants in Höfn, particularly around the harbour."
+    },
+    {
+      "name": "Fresh Icelandic seafood",
+      "image": {
+        "file": "File:Plokkfiskur.jpg",
+        "alt": "A bowl of plokkfiskur fish stew"
+      },
+      "text": "Fresh, landed daily at Höfn's working harbour and served throughout the region.",
+      "whereToTry": "Restaurants in Höfn and guesthouses near Jökulsárlón."
+    },
+    {
+      "name": "Icelandic lamb",
+      "image": {
+        "file": "File:Rack-of-lambs.jpg",
+        "alt": "A roast lamb dish"
+      },
+      "text": "Widely available at guesthouses and farm restaurants along this stretch of the Ring Road.",
+      "whereToTry": "Guesthouses near Skaftafell and Jökulsárlón."
+    },
+    {
+      "name": "Skyr",
+      "image": {
+        "file": "File:Skyr & Blackberries 20250816 143415.jpg",
+        "alt": "A bowl of skyr topped with berries"
+      },
+      "text": "A reliable stop at any café or petrol station along this remote stretch of road.",
+      "whereToTry": "Petrol station cafés and guesthouses along Route 1."
+    },
+    {
+      "name": "Icelandic hot dog",
+      "image": {
+        "file": "File:The Icelandic pylsa (hot dog) (2502658407).jpg",
+        "alt": "An Icelandic hot dog"
+      },
+      "text": "A reliable, quick option at the region's limited service stations.",
+      "whereToTry": "Service stations in Kirkjubæjarklaustur and Höfn."
+    },
+    {
+      "name": "Rúgbrauð",
+      "image": {
+        "file": "File:Jonge vrouw stopt een blikken bus met deeg in de hete grond om brood te bakken, Bestanddeelnr 190-0313.jpg",
+        "alt": "A loaf of traditional Icelandic rye bread"
+      },
+      "text": "A traditional dark rye bread, found at bakeries and cafés along the route.",
+      "whereToTry": "Bakeries and guesthouse cafés along Route 1."
+    }
+  ],
+  "accommodation": {
+    "intro": "Höfn and the small guesthouses near Skaftafell are the two main bases for this region.",
+    "areas": [
+      {
+        "name": "Höfn",
+        "bestFor": "The widest range of accommodation and restaurants",
+        "text": "The largest town in the area, about 40 minutes from Jökulsárlón."
+      },
+      {
+        "name": "Near Skaftafell or Jökulsárlón",
+        "bestFor": "Being right at the sights for sunrise or sunset light",
+        "text": "Limited but well-placed guesthouses sit close to the lagoon and national park entrance."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "ISK 22,000–32,000 per night" },
+      { "label": "Mid-range hotel", "value": "ISK 40,000–60,000 per night" },
+      { "label": "Glacier lagoon boat tour", "value": "About ISK 8,000–12,000" },
+      { "label": "Guided ice cave tour", "value": "About ISK 20,000–25,000" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "This region sits far along the South Coast route, about 5 hours' drive from Reykjavik.",
+    "options": [
+      {
+        "mode": "Rental car via the South Coast",
+        "text": "About 5 hours from Reykjavik via the [[south-coast|South Coast]] route, a long but spectacular drive.",
+        "detail": "Most visitors break this into an overnight stop rather than a single push."
+      },
+      {
+        "mode": "Domestic flight to Höfn",
+        "text": "A short regional flight connects Reykjavik to Höfn, useful for a focused visit without the full drive.",
+        "detail": "A rental car is still needed locally to reach the lagoon and Skaftafell."
+      },
+      {
+        "mode": "Multi-day organised tours",
+        "text": "Widely available from Reykjavik, covering this region as part of a South Coast and glacier lagoon package.",
+        "detail": "A practical option for visitors without a car or limited time."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The region's main sights sit directly on or just off Route 1, with guided tours needed for the ice itself.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Sufficient for reaching Jökulsárlón, Diamond Beach and Skaftafell, all just off Route 1.",
+        "detail": "A standard car is fine outside winter conditions."
+      },
+      {
+        "mode": "Boat and Zodiac tours",
+        "text": "The only way to get close to the icebergs themselves, departing directly from the lagoon's car park.",
+        "detail": "Multiple operators run frequent departures in season."
+      },
+      {
+        "mode": "Guided glacier and ice cave tours",
+        "text": "Essential and non-negotiable for safely accessing the glacier's surface or any ice cave.",
+        "detail": "Never attempt these independently — crevasses and unstable ice are serious hazards."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "Winter for ice caves, summer for the easiest driving and boat tours",
+    "summary": "This region offers different highlights by season, with ice caves specifically a winter-only experience.",
+    "seasons": [
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Long daylight, reliable boat tours and easy driving, also the busiest season."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Quieter, with early ice cave season sometimes beginning by late October."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "best",
+        "text": "The genuine only season for ice caves, plus strong aurora odds over the lagoon."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "good",
+        "text": "Ice caves close as the ice becomes unstable, but boat tours resume by late spring."
+      }
+    ],
+    "avoid": "Expecting ice cave access outside winter — they are only safe to enter roughly November to March, and close as spring approaches."
+  },
+  "itinerary": {
+    "title": "Two days at Jökulsárlón and Vatnajökull",
+    "intro": "The lagoon and Diamond Beach on the first day, Skaftafell and the glacier on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The glacier lagoon",
+        "summary": "Jökulsárlón and Diamond Beach.",
+        "morning": "A boat tour among the icebergs at Jökulsárlón.",
+        "afternoon": "Diamond Beach across the road.",
+        "evening": "Settle in around Höfn."
+      },
+      {
+        "day": 2,
+        "title": "Skaftafell and the ice",
+        "summary": "Svartifoss and a glacier or ice cave experience.",
+        "morning": "The hike to Svartifoss from Skaftafell.",
+        "afternoon": "A guided glacier hike or ice cave tour, in season.",
+        "evening": "Continue toward the East Fjords or back along the South Coast."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes on booking, safety and timing that make a real difference to this region.",
+  "tips": [
+    "Book ice cave and glacier hike tours well ahead — they sell out, especially in winter.",
+    "Never walk on the glacier or into an ice cave without a guide — crevasses are a real, hidden danger.",
+    "Visit Diamond Beach at low tide for the most ice stranded on the sand.",
+    "Dress warmer than the temperature suggests — wind off the ice cap is relentless.",
+    "Check ice cave tour operators' current conditions before booking — access changes year to year.",
+    "Fill up on fuel in Höfn or Skaftafell — the region between is sparsely served."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need at Jökulsárlón?",
+      "a": "Two days allows a boat tour, Diamond Beach and a Skaftafell hike or glacier experience without rushing. A single long day trip from the South Coast is possible but tight."
+    },
+    {
+      "q": "Can you visit Jökulsárlón in winter?",
+      "a": "Yes, and winter is when the ice caves are accessible — the lagoon itself is a year-round sight, reached via the same Route 1."
+    },
+    {
+      "q": "Are the ice caves safe?",
+      "a": "Only with a qualified guide, who monitors conditions daily. Independent ice cave visits are dangerous and not recommended."
+    },
+    {
+      "q": "Is the boat tour on Jökulsárlón worth it?",
+      "a": "Yes — it's the only way to get close to the icebergs and reliably spot seals up close."
+    },
+    {
+      "q": "What is Diamond Beach?",
+      "a": "The black sand beach directly across the road from Jökulsárlón, where stranded ice chunks from the lagoon wash ashore and glitter like diamonds."
+    },
+    {
+      "q": "Do you need a guide for Skaftafell's hiking trails?",
+      "a": "No, not for the marked trails to Svartifoss and the viewpoints — only glacier travel itself requires a guide."
+    }
+  ],
+  "related": ["south-coast", "lake-myvatn-north-iceland", "landmannalaugar-highlands"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

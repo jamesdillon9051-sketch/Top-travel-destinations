@@ -1,0 +1,370 @@
+{
+  "slug": "yogyakarta-borobudur",
+  "name": "Yogyakarta & Borobudur",
+  "country": "indonesia",
+  "region": "Central Java",
+  "categories": ["culture", "temples", "history", "volcanoes"],
+  "tagline": "Java's royal cultural capital, home to the world's largest Buddhist temple and an active volcano looming over it all.",
+  "highlight": "Watching the sun rise over Borobudur's stone stupas as mist clears from the surrounding volcanoes, the temple's silhouette emerging first.",
+  "shortDescription": "Java's cultural heart, home to a royal palace, batik and gamelan traditions, and two of Southeast Asia's greatest ancient temples nearby.",
+  "metaDescription": "A Yogyakarta and Borobudur travel guide: Borobudur and Prambanan temples, the Kraton, Mount Merapi, food and how to plan a visit to Java's cultural capital.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "Yogyakarta International Airport (YIA)",
+  "knownFor": "Ancient temples, royal culture, Mount Merapi",
+  "budget": "Rp 500,000–1,200,000 per day, mid-range",
+  "goodFor": "History, culture, temples and volcano views",
+  "coords": { "lat": -7.7956, "lng": 110.3695 },
+  "image": {
+    "file": "File:Borobudur Sunrise and Volcano View.jpg",
+    "alt": "Sunrise over Borobudur temple with a volcano visible in the background"
+  },
+  "intro": [
+    "Yogyakarta is Java's cultural and royal capital, a city still centred on a functioning sultan's palace, where batik, gamelan music and traditional dance remain living local practices rather than museum pieces.",
+    "It's also the gateway to two of Southeast Asia's greatest ancient monuments — Borobudur, the world's largest Buddhist temple, and Prambanan, Indonesia's grandest Hindu temple complex, both UNESCO World Heritage sites within an easy day trip of the city.",
+    "Mount Merapi, one of Indonesia's most active volcanoes, looms over the whole region, visible from Borobudur's upper terraces and close enough for a thrilling jeep tour across its lava-scarred slopes."
+  ],
+  "whyVisit": {
+    "intro": "Yogyakarta's case rests on a rare combination of world-class monuments and living royal culture.",
+    "points": [
+      {
+        "title": "Borobudur is the world's largest Buddhist temple",
+        "text": "A monumental 9th-century stone monument, its terraces covered in intricate relief carvings and Buddha statues."
+      },
+      {
+        "title": "Prambanan is Indonesia's grandest Hindu temple",
+        "text": "Soaring stone spires dedicated to Shiva, Vishnu and Brahma, among the tallest Hindu temples in Southeast Asia."
+      },
+      {
+        "title": "Yogyakarta's royal culture is still alive",
+        "text": "The Kraton remains a functioning sultan's palace, not a preserved relic, with batik and gamelan still actively practised."
+      },
+      {
+        "title": "Mount Merapi is one of Indonesia's most active volcanoes",
+        "text": "Close enough for a dramatic jeep tour across its lava-scarred slopes, weather and activity permitting."
+      },
+      {
+        "title": "It's one of Java's most affordable major destinations",
+        "text": "Excellent food, culture and history at prices noticeably lower than Bali's tourist areas."
+      }
+    ]
+  },
+  "attractionsIntro": "Yogyakarta's essential sights combine two world-famous ancient temples with the city's own living royal culture.",
+  "attractions": [
+    {
+      "name": "Borobudur Temple",
+      "image": {
+        "file": "File:Borobudur-Temple-Park Indonesia Stupas-of-Borobudur-05.jpg",
+        "alt": "The stone stupas and terraces of Borobudur, the world's largest Buddhist temple"
+      },
+      "text": "The world's largest Buddhist temple, a 9th-century stepped monument covered in thousands of relief carvings and bell-shaped stupas.",
+      "tip": "A sunrise entry ticket gets you inside before the day-trip crowds arrive from Yogyakarta."
+    },
+    {
+      "name": "Prambanan Temple",
+      "image": {
+        "file": "File:Prambanan temple, Central Java, Indonesia, 20220818 1311 9139.jpg",
+        "alt": "The soaring stone spires of Prambanan, Indonesia's grandest Hindu temple complex"
+      },
+      "text": "Indonesia's largest Hindu temple complex, its tallest spire rising 47 metres, dedicated to Shiva, Vishnu and Brahma.",
+      "tip": "Evening brings a dramatic outdoor Ramayana ballet performance with the floodlit temples as a backdrop."
+    },
+    {
+      "name": "Malioboro Street",
+      "image": {
+        "file": "File:Malioboro street yogyakarta.JPG",
+        "alt": "The busy shopping street of Malioboro in central Yogyakarta"
+      },
+      "text": "Yogyakarta's bustling main street, lined with street food stalls, batik shops and horse-drawn andong carriages.",
+      "tip": "The street comes alive after dark, when food carts and street performers take over the pavement."
+    },
+    {
+      "name": "Kraton (Sultan's Palace)",
+      "image": {
+        "file": "File:Yogyakarta Indonesia Kraton-the-Sultans-Palace-03.jpg",
+        "alt": "The pavilions of the Kraton, Yogyakarta's royal palace"
+      },
+      "text": "A still-functioning royal palace, home to the Sultan of Yogyakarta, with pavilions hosting gamelan and dance practice most mornings.",
+      "tip": "Time your visit for a morning gamelan rehearsal — they're open to visitors and captivating."
+    },
+    {
+      "name": "Taman Sari Water Castle",
+      "image": {
+        "file": "File:Taman Sari Water Castle, Yogyakarta, 20220818 1040 8958.jpg",
+        "alt": "The bathing pools of Taman Sari Water Castle in Yogyakarta"
+      },
+      "text": "An atmospheric 18th-century royal bathing complex, its pools and underground passages built as a retreat for the sultan's court.",
+      "tip": "A local guide at the entrance can point out passages and details easy to miss on your own."
+    },
+    {
+      "name": "Mount Merapi",
+      "image": {
+        "file": "File:Mount Merapi Not Just a Legend and Mythology.jpg",
+        "alt": "Mount Merapi, one of Indonesia's most active volcanoes, near Yogyakarta"
+      },
+      "text": "One of Indonesia's most active volcanoes, its slopes scarred by past eruptions and its summit often trailing a plume of smoke.",
+      "tip": "Check current activity advisories before booking any jeep tour or hike toward the summit."
+    },
+    {
+      "name": "Parangtritis Beach",
+      "image": {
+        "file": "File:Horse-drawn carriage at Parangtritis Beach, Yogyakarta, Indonesia.jpg",
+        "alt": "A horse-drawn carriage on the black sand of Parangtritis Beach"
+      },
+      "text": "A dramatic black sand beach south of the city, tied to local legends of the Queen of the Southern Sea, with strong currents best admired from shore.",
+      "tip": "Swimming is discouraged here — the currents are dangerous, so enjoy it from the sand instead."
+    }
+  ],
+  "thingsToDoIntro": "Yogyakarta rewards an early start — its best experiences come with sunrise or a full day trip.",
+  "thingsToDo": [
+    {
+      "title": "Watch sunrise at Borobudur",
+      "image": {
+        "file": "File:Sunrise at Borobudur temple.jpg",
+        "alt": "Sunrise light over Borobudur temple's stone terraces"
+      },
+      "text": "An unforgettable start to the day, watching light spread over the temple's terraces before the general crowds arrive.",
+      "tip": "Sunrise tickets sell separately and in limited numbers — book well ahead."
+    },
+    {
+      "title": "Explore Prambanan's temple complex",
+      "image": {
+        "file": "File:Prambanan temple, Central Java, Indonesia, 20220818 1304 9097.jpg",
+        "alt": "The temple spires of Prambanan against a blue sky"
+      },
+      "text": "A full complex of temples and ruins spreads well beyond the main spires — allow real time to explore the wider grounds.",
+      "tip": "Combine a Prambanan visit with the evening Ramayana ballet for a full day out."
+    },
+    {
+      "title": "Take a Mount Merapi lava jeep tour",
+      "image": {
+        "file": "File:Gagahnya Merapi.jpg",
+        "alt": "A jeep tour crossing Mount Merapi's volcanic slopes"
+      },
+      "text": "A thrilling off-road tour across Merapi's lava-scarred slopes, including a small museum showing the volcano's past eruptions.",
+      "tip": "Mornings offer the clearest views before afternoon cloud typically rolls in."
+    },
+    {
+      "title": "Stroll Malioboro Street at night",
+      "image": {
+        "file": "File:Malioboro Street, Yogyakarta.JPG",
+        "alt": "Malioboro Street lit up in the evening in Yogyakarta"
+      },
+      "text": "A lively evening scene of street food, buskers and shopping, best experienced after the day's heat has passed.",
+      "tip": "Try the street-side angkringan food carts for an authentic, cheap dinner."
+    },
+    {
+      "title": "Visit Taman Sari's bathing pools",
+      "image": {
+        "file": "File:Taman Sari Water Castle, Yogyakarta, 20220818 1040 8958.jpg",
+        "alt": "The historic bathing pools of Taman Sari Water Castle"
+      },
+      "text": "An atmospheric wander through the sultan's former royal retreat, with underground tunnels connecting several of the pools.",
+      "tip": "The surrounding kampong (village) built into the old complex walls is worth a wander too."
+    },
+    {
+      "title": "Learn batik making",
+      "text": "A hands-on introduction to Java's centuries-old wax-resist dyeing art, taught at workshops throughout the city.",
+      "tip": "Look for workshops that let you take your finished batik piece home."
+    }
+  ],
+  "foodIntro": "Yogyakarta's food centres on distinctively sweet Javanese flavours, a real contrast to Bali or Sumatra's cuisine.",
+  "foods": [
+    {
+      "name": "Gudeg",
+      "image": {
+        "file": "File:Gudeg Sagan Yogyakarta.jpg",
+        "alt": "Gudeg, Yogyakarta's signature sweet jackfruit stew"
+      },
+      "text": "Yogyakarta's signature dish, young jackfruit slow-cooked in palm sugar and coconut milk until sweet and deeply savoury.",
+      "whereToTry": "Long-established gudeg restaurants throughout the city, especially around Wijilan."
+    },
+    {
+      "name": "Bakpia",
+      "image": {
+        "file": "File:Bakpia pathuk.jpg",
+        "alt": "Bakpia, Yogyakarta's famous mung bean pastries"
+      },
+      "text": "An iconic Yogyakarta souvenir, small pastries traditionally filled with sweet mung bean paste, now sold in many modern flavours too.",
+      "whereToTry": "Bakpia shops throughout the Pathuk neighbourhood."
+    },
+    {
+      "name": "Sate klathak",
+      "image": {
+        "file": "File:10. Sate Klathak 4.jpg",
+        "alt": "Sate klathak, Yogyakarta-style lamb satay grilled on skewers"
+      },
+      "text": "A distinctive local satay, lamb skewered on actual bicycle spokes rather than bamboo and simply seasoned with salt.",
+      "whereToTry": "Sate klathak specialists around Jalan Imogiri, south of the city."
+    },
+    {
+      "name": "Angkringan (nasi kucing)",
+      "image": {
+        "file": "File:Seller at angkringan.jpg",
+        "alt": "A street-side angkringan food cart in Yogyakarta"
+      },
+      "text": "An essential Yogyakarta institution, roadside carts serving small rice packets and skewers at very low prices, often late into the night.",
+      "whereToTry": "Angkringan carts throughout the city, especially near Malioboro and Tugu."
+    },
+    {
+      "name": "Wedang ronde",
+      "image": {
+        "file": "File:Wedang Ronde di Malioboro.jpg",
+        "alt": "A bowl of wedang ronde, a warm ginger drink with rice balls"
+      },
+      "text": "A warming ginger drink filled with sticky rice balls, peanuts and sometimes bread, popular on cooler evenings.",
+      "whereToTry": "Street vendors around Malioboro and the old town."
+    },
+    {
+      "name": "Javanese coffee",
+      "text": "Grown across Central Java's highlands, often served extremely sweet and unfiltered in the traditional local style.",
+      "whereToTry": "Coffee shops and warungs throughout Yogyakarta."
+    }
+  ],
+  "accommodation": {
+    "intro": "Yogyakarta offers some of Java's best-value accommodation, from budget guesthouses to heritage hotels.",
+    "areas": [
+      {
+        "name": "Malioboro area",
+        "bestFor": "Being central and walkable to major sights",
+        "text": "The city's genuine tourist hub, with the widest choice of hotels and easy access to the old town."
+      },
+      {
+        "name": "Near Borobudur",
+        "bestFor": "A genuine early sunrise start without a long drive",
+        "text": "Small hotels near the temple make catching a sunrise ticket noticeably easier."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse (Yogyakarta)", "value": "Rp 150,000–350,000 per night" },
+      { "label": "Mid-range hotel", "value": "Rp 500,000–1,200,000 per night" },
+      { "label": "Borobudur sunrise ticket", "value": "About Rp 500,000 (foreign visitor rate)" },
+      { "label": "Merapi jeep tour", "value": "About Rp 450,000–600,000 per jeep" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Yogyakarta is well connected to the rest of Indonesia by air and rail.",
+    "options": [
+      {
+        "mode": "Domestic flight",
+        "text": "The fastest way in from Bali, Jakarta or other major cities, landing at Yogyakarta International Airport.",
+        "detail": "YIA sits about an hour from the city centre by car."
+      },
+      {
+        "mode": "Train from Jakarta or Surabaya",
+        "text": "A comfortable, scenic way to reach Yogyakarta from other Java cities.",
+        "detail": "Executive-class trains take about 7-8 hours from Jakarta."
+      },
+      {
+        "mode": "Organised tour",
+        "text": "Common as a Bali add-on, bundling flights, a guide and temple entry together.",
+        "detail": "Convenient for visitors short on planning time."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Yogyakarta's sights spread across the city and well beyond it, making transport planning worthwhile.",
+    "options": [
+      {
+        "mode": "Ride-hailing apps (Gojek, Grab)",
+        "text": "The easiest way around the city itself, with fixed, transparent pricing.",
+        "detail": "Widely used and reliable throughout Yogyakarta."
+      },
+      {
+        "mode": "Private driver for temple day trips",
+        "text": "The standard way to visit Borobudur, Prambanan and Merapi, each some distance from the city centre.",
+        "detail": "Typically booked through a hotel or driver directly for a fixed daily rate."
+      },
+      {
+        "mode": "Becak or andong (pedicab or horse cart)",
+        "text": "A charming, if slow, way to explore the old town and Malioboro area.",
+        "detail": "Agree a price before setting off — rates aren't metered."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April to October for the driest weather and clearest volcano views",
+    "summary": "Dry season brings the clearest Merapi views and most reliable conditions for temple visits and jeep tours.",
+    "seasons": [
+      {
+        "season": "Dry season (April–October)",
+        "rating": "best",
+        "text": "The clearest skies for Merapi views and the most reliable weather for outdoor temple exploring."
+      },
+      {
+        "season": "Shoulder months (April, October)",
+        "rating": "good",
+        "text": "Good weather odds with somewhat thinner crowds than peak season."
+      },
+      {
+        "season": "Wet season (November–March)",
+        "rating": "good",
+        "text": "Still workable, with short, heavy afternoon downpours and lush green surroundings."
+      },
+      {
+        "season": "Peak season (July–August)",
+        "rating": "good",
+        "text": "The busiest time at Borobudur and Prambanan, worth booking sunrise tickets well ahead for."
+      }
+    ],
+    "avoid": "Check current Mount Merapi activity advisories before booking jeep tours — access closes at short notice when activity rises."
+  },
+  "itinerary": {
+    "title": "Two days in Yogyakarta & Borobudur",
+    "intro": "Built around the two great temples on day one, the city and volcano on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Borobudur and Prambanan",
+        "summary": "Sunrise at Borobudur, then Prambanan in the afternoon.",
+        "morning": "Sunrise at Borobudur temple.",
+        "afternoon": "Prambanan's Hindu temple complex.",
+        "evening": "The Ramayana ballet performance at Prambanan, if timed right."
+      },
+      {
+        "day": 2,
+        "title": "The city and Mount Merapi",
+        "summary": "The Kraton, Taman Sari and a volcano jeep tour.",
+        "morning": "The Kraton and Taman Sari Water Castle.",
+        "afternoon": "A Mount Merapi lava jeep tour.",
+        "evening": "Dinner and a wander along Malioboro Street."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Yogyakarta stay noticeably smoother.",
+  "tips": [
+    "Book Borobudur sunrise tickets well ahead — numbers are limited.",
+    "Dress modestly at the Kraton and temples — shoulders and knees covered.",
+    "Check Merapi activity advisories before booking a jeep tour.",
+    "Agree becak and andong fares before setting off.",
+    "Carry small rupiah notes for angkringan carts and market stalls.",
+    "Avoid swimming at Parangtritis Beach — the currents are dangerous."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Yogyakarta?",
+      "a": "Two to four days covers Borobudur, Prambanan and the city's own sights at a comfortable pace."
+    },
+    {
+      "q": "Is Borobudur worth visiting?",
+      "a": "Yes — it's the world's largest Buddhist temple and one of Southeast Asia's essential ancient monuments."
+    },
+    {
+      "q": "How far is Borobudur from Yogyakarta?",
+      "a": "About 1 to 1.5 hours by car, making it an easy sunrise day trip from the city."
+    },
+    {
+      "q": "Can you visit Borobudur and Prambanan in one day?",
+      "a": "Yes, though it makes for a long day — many visitors prefer splitting them across two separate outings."
+    },
+    {
+      "q": "Is Mount Merapi safe to visit?",
+      "a": "Generally yes, for the standard jeep tours around its lower slopes, though it's worth checking current activity advisories first."
+    },
+    {
+      "q": "How does Yogyakarta compare to Bali?",
+      "a": "More culturally and historically focused, with world-class temples and living royal traditions, and noticeably cheaper than Bali's tourist areas."
+    }
+  ],
+  "related": ["bromo-tengger-semeru", "bandung", "jakarta"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around"]
+}

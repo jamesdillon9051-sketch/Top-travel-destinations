@@ -1,0 +1,125 @@
+{
+  "country": "croatia",
+  "title": "The Complete Croatia Travel Guide",
+  "subtitle": "Walled Adriatic cities, turquoise national parks and a thousand islands down the Dalmatian coast",
+  "summary": "How to plan a Croatia trip: whether to focus on Dalmatia, Istria or inland Croatia, when to go for the best weather and crowds, what it costs, and a practical ten-day itinerary.",
+  "readingTime": "12 min read",
+  "updated": "2026",
+  "sections": [
+    {
+      "id": "how-croatia-divides",
+      "title": "How Croatia divides",
+      "navLabel": "The regions",
+      "body": [
+        "Croatia divides into three distinct parts — the Dalmatian coast, Istria, and inland Croatia — and a first trip realistically covers the first two well.",
+        "**The Dalmatian coast.** [[dubrovnik|Dubrovnik]], [[split|Split]], [[hvar|Hvar]], [[korcula|Korčula]] and [[zadar|Zadar]] — walled cities, islands and the country's most famous stretch of coastline.",
+        "**Istria.** [[rovinj|Rovinj]] and [[pula|Pula]] — a wedge-shaped peninsula in the north with an Italian-influenced coast, hill towns and truffle country inland.",
+        "**Inland Croatia.** [[zagreb|Zagreb]], [[plitvice-lakes|Plitvice Lakes]] and [[krka-national-park|Krka National Park]] — the capital's café culture and two of the country's most dramatic natural sights."
+      ],
+      "note": "Most first-time visitors focus on the Dalmatian coast, with Zagreb and Plitvice Lakes as an inland add-on. Istria is where a longer or second trip belongs."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If this is your first trip",
+          "text": "[[split|Split]], [[hvar|Hvar]] and [[dubrovnik|Dubrovnik]], the classic Dalmatian coast route."
+        },
+        {
+          "title": "If you want dramatic natural scenery",
+          "text": "[[plitvice-lakes|Plitvice Lakes]], one of Europe's most striking national parks."
+        },
+        {
+          "title": "If you want a slower, less crowded stretch of coast",
+          "text": "[[rovinj|Rovinj]] and [[pula|Pula]] in Istria, a quieter alternative to Dalmatia."
+        },
+        {
+          "title": "If you want island life without the biggest crowds",
+          "text": "[[korcula|Korčula]], a quieter, equally beautiful alternative to Hvar."
+        },
+        {
+          "title": "If you want a lively inland capital",
+          "text": "[[zagreb|Zagreb]], worth two or three days for its café culture alone."
+        },
+        {
+          "title": "If you want turquoise water without the peak-season crowds",
+          "text": "[[krka-national-park|Krka National Park]], a quieter alternative to Plitvice."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around: ferries, buses, and one common mistake",
+      "navLabel": "Getting around",
+      "body": [
+        "Croatia's elongated shape and scattered islands mean ferries, buses and driving all play a role, rather than one single mode covering everything.",
+        "**Book ferries ahead for peak summer.** [[split|Split]] to [[hvar|Hvar]] or [[korcula|Korčula]] sells out on the fastest catamaran sailings in July and August.",
+        "**Drive for Istria and the national parks.** [[rovinj|Rovinj]], [[plitvice-lakes|Plitvice Lakes]] and [[krka-national-park|Krka National Park]] are all easiest with your own car.",
+        "**Don't underestimate coastal drive times.** The road from [[zadar|Zadar]] to [[dubrovnik|Dubrovnik]] takes most of a day despite looking short on a map.",
+        "**Fly to save a travel day.** [[zagreb|Zagreb]] to [[dubrovnik|Dubrovnik]] takes under an hour by air versus most of a day by road."
+      ],
+      "note": "Buy ferry tickets a few days ahead for July and August sailings between the main Dalmatian ports — the fastest, most popular catamaran departures do sell out."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Croatia's long Adriatic summer draws the crowds, though **May, June and September** offer the best overall balance.",
+        "**Peak summer (July–August)** brings the warmest sea and liveliest atmosphere, also the highest prices and heaviest crowds in Dubrovnik and Hvar.",
+        "**Late spring and early autumn** are warm enough to swim, with noticeably thinner crowds and lower prices.",
+        "**Winter** is quiet along the coast, with many island businesses closing for the season, while Zagreb stays lively year-round."
+      ],
+      "note": "Book Dubrovnik and Hvar accommodation several months ahead for a July or August trip — both sell out their best options early."
+    },
+    {
+      "id": "itineraries",
+      "title": "Four routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "Six days: the Dalmatian highlights",
+          "text": "[[split|Split]], [[hvar|Hvar]] and [[dubrovnik|Dubrovnik]], the most popular short Croatia itinerary.",
+          "tip": "Book the Split-Hvar-Dubrovnik ferry connections before you fly, especially in summer."
+        },
+        {
+          "title": "Ten days: the classic coast-and-capital route",
+          "text": "The itinerary on the [[c:croatia|Croatia country page]]: [[zagreb|Zagreb]], [[plitvice-lakes|Plitvice Lakes]], [[zadar|Zadar]], [[split|Split]], [[hvar|Hvar]] and [[dubrovnik|Dubrovnik]]. A complete first look at inland Croatia and the Dalmatian coast.",
+          "tip": "Break up the Zadar-to-Split drive with a stop at Krka National Park if you have a car."
+        },
+        {
+          "title": "A week focused on Istria",
+          "text": "[[rovinj|Rovinj]] and [[pula|Pula]], skipping Dalmatia entirely for a slower, food-and-wine-focused trip.",
+          "tip": "Rent a car — Istria's hill towns and wineries are built for a slow road trip."
+        },
+        {
+          "title": "An island-hopping add-on for a second trip",
+          "text": "[[korcula|Korčula]] paired with [[hvar|Hvar]], a proper Dalmatian island-hopping route.",
+          "tip": "Base yourself on one island and day-trip to the other rather than switching accommodation."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Croatia?",
+      "a": "Ten to fourteen days covers Zagreb, Plitvice Lakes and the main Dalmatian coast, which is the itinerary in this guide. Six days is enough for the Dalmatian highlights alone."
+    },
+    {
+      "q": "Is Dubrovnik worth visiting despite the crowds?",
+      "a": "Yes — visiting the walls early morning or staying an extra day to see the Old Town after the cruise ships leave both help enormously."
+    },
+    {
+      "q": "Do you need a car in Croatia?",
+      "a": "Not for the main Dalmatian coast, where buses and ferries cover things well, though a car opens up Istria and the national parks."
+    },
+    {
+      "q": "When should I visit for the best weather?",
+      "a": "May, June and September offer warm, swimmable weather without July and August's peak crowds and prices."
+    }
+  ]
+}

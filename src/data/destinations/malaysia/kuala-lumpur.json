@@ -1,0 +1,374 @@
+{
+  "slug": "kuala-lumpur",
+  "name": "Kuala Lumpur",
+  "country": "malaysia",
+  "region": "Federal Territory of Kuala Lumpur",
+  "categories": ["city", "culture", "food", "modern"],
+  "tagline": "A modern Southeast Asian capital built around the Petronas Towers, with Chinatown, colonial buildings and hawker food all within a short ride.",
+  "highlight": "Standing at the base of the Petronas Towers at night, the twin spires lit against the sky above KLCC Park's fountains.",
+  "shortDescription": "Malaysia's capital, home to the Petronas Towers, Batu Caves nearby, and some of Southeast Asia's best hawker food across three distinct communities.",
+  "metaDescription": "A Kuala Lumpur travel guide: the Petronas Towers, Batu Caves, Chinatown, hawker food and how to plan a visit.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Kuala Lumpur International Airport (KLIA), about 1 hour from the city centre",
+  "knownFor": "The Petronas Towers, Batu Caves, hawker food",
+  "budget": "RM150-350 per day, budget to mid-range",
+  "goodFor": "City sightseeing, food, first stop in Malaysia",
+  "coords": { "lat": 3.139, "lng": 101.6869 },
+  "image": {
+    "file": "File:Kuala Lumpur Malaysia Skyline-01.jpg",
+    "alt": "The Kuala Lumpur skyline with the Petronas Towers"
+  },
+  "intro": [
+    "Kuala Lumpur is Malaysia's capital and largest city, a skyline of glass towers rising above older Chinese shophouses, colonial buildings and Hindu shrines.",
+    "Most visitors arrive expecting the Petronas Towers and leave remembering the food just as much, three distinct culinary traditions — Malay, Chinese and Indian — sitting side by side across the city's hawker stalls and night markets.",
+    "It works well both as a short stopover and as the natural starting point for a longer Peninsular Malaysia trip, with fast trains and buses reaching most of the country's other highlights from here."
+  ],
+  "whyVisit": {
+    "intro": "Kuala Lumpur's case rests on its skyline, its food and how easily both sit alongside genuine religious and colonial history.",
+    "points": [
+      {
+        "title": "The Petronas Towers are a modern icon",
+        "text": "Still among the world's tallest twin towers, dramatic both up close and from across KLCC Park."
+      },
+      {
+        "title": "Batu Caves sits just outside the city",
+        "text": "A striking limestone shrine reachable on a short train ride, with no need for an organised tour."
+      },
+      {
+        "title": "The food scene is world class",
+        "text": "Malay, Chinese and Indian cuisines each thrive independently rather than blending into one."
+      },
+      {
+        "title": "It's an easy, well-connected base",
+        "text": "Fast trains and domestic flights reach most of Peninsular Malaysia from here within a few hours."
+      },
+      {
+        "title": "Old and new sit close together",
+        "text": "Colonial-era Merdeka Square and Chinatown's shophouses are a short walk from the glass towers of KLCC."
+      }
+    ]
+  },
+  "attractionsIntro": "Kuala Lumpur's essential sights range from the modern KLCC district to colonial Merdeka Square and the limestone hill at Batu Caves.",
+  "attractions": [
+    {
+      "name": "The Petronas Towers",
+      "image": {
+        "file": "File:Kuala Lumpur Malaysia Petronas-Twin-Towers-01.jpg",
+        "alt": "The Petronas Towers in Kuala Lumpur"
+      },
+      "text": "The defining image of modern Kuala Lumpur, twin 88-storey towers linked by a skybridge on the 41st floor.",
+      "tip": "Book Skybridge and observation deck tickets online well ahead — daily slots are limited and sell out fast."
+    },
+    {
+      "name": "Batu Caves",
+      "image": {
+        "file": "File:Batu Caves KTM Station outview (220714) 01.jpg",
+        "alt": "The golden statue and steps at Batu Caves"
+      },
+      "text": "A limestone hill turned Hindu shrine just north of the city, its cave temple reached by 272 rainbow-painted steps beneath a towering gold statue.",
+      "tip": "Take the KTM Komuter train directly from KL Sentral — no tour needed, and trains run frequently."
+    },
+    {
+      "name": "Merdeka Square",
+      "image": {
+        "file": "File:2016 Kuala Lumpur, Dataran Merdeka (02).jpg",
+        "alt": "Merdeka Square in Kuala Lumpur"
+      },
+      "text": "The colonial-era square where Malaysian independence was declared in 1957, framed by Moorish-style government buildings.",
+      "tip": "Visit in the late afternoon when the heat has eased and the surrounding buildings catch good light."
+    },
+    {
+      "name": "KLCC Park",
+      "image": {
+        "file": "File:Fountain in KLCC Park (1).jpg",
+        "alt": "The fountains of KLCC Park beneath the Petronas Towers"
+      },
+      "text": "A landscaped park directly beneath the Petronas Towers, its choreographed fountains a popular evening gathering spot.",
+      "tip": "Catch the evening fountain show, timed to run after dark most nights."
+    },
+    {
+      "name": "Petaling Street (Chinatown)",
+      "image": {
+        "file": "File:Kuala Lumpur. Jalan Petaling. 2019-12-10 21-37-39.jpg",
+        "alt": "Petaling Street in Kuala Lumpur's Chinatown"
+      },
+      "text": "A covered street market at the heart of KL's Chinatown, busy with stalls, food vendors and clan houses.",
+      "tip": "Come hungry — the surrounding side streets hold some of the city's best hawker food."
+    },
+    {
+      "name": "Thean Hou Temple",
+      "image": {
+        "file": "File:Thean Hou Temple, Kuala Lumpur-3.jpg",
+        "alt": "Thean Hou Temple in Kuala Lumpur"
+      },
+      "text": "One of Southeast Asia's largest Chinese temples, its multi-tiered roofline set on a hill with wide city views.",
+      "tip": "Visit around sunset for the best light over the skyline from the temple's terrace."
+    },
+    {
+      "name": "KL Tower (Menara KL)",
+      "image": {
+        "file": "File:Sky Deck at Kuala Lumpur Tower (Menara KL), Malaysia on 28 July 2020 at 172844.jpg",
+        "alt": "The Sky Deck at KL Tower"
+      },
+      "text": "A telecommunications tower with an open-air Sky Deck, offering a different skyline angle from the Petronas Towers themselves.",
+      "tip": "Come here specifically for photos that include the Petronas Towers in the frame."
+    }
+  ],
+  "thingsToDoIntro": "Beyond the sights, Kuala Lumpur rewards slow food-focused wandering as much as any single attraction.",
+  "thingsToDo": [
+    {
+      "title": "Ride to the top of KL Tower's Sky Deck",
+      "image": {
+        "file": "File:Canopy of KL Forest Eco Park at Kuala Lumpur Tower (Menara KL), Malaysia on 28 July 2020 at 153335.jpg",
+        "alt": "KL Forest Eco Park at the base of KL Tower"
+      },
+      "text": "A quieter alternative to the Petronas Towers for skyline views, with a small rainforest reserve at its base.",
+      "tip": "Combine with a walk through the adjoining KL Forest Eco Park's canopy walkway."
+    },
+    {
+      "title": "Explore Batu Caves' temple caverns",
+      "image": {
+        "file": "File:Batu Caves, Selangor, Malaysia 🇲🇾 - Watching Monkeys.jpg",
+        "alt": "The cave temple interior at Batu Caves"
+      },
+      "text": "Beyond the main cave, smaller shrines and caverns reward a slower visit past the main steps.",
+      "tip": "Keep food and loose items secured — the resident macaques are bold around visitors."
+    },
+    {
+      "title": "Browse Petaling Street's night market",
+      "image": {
+        "file": "File:Kuala Lumpur. Jalan Petaling. 2019-12-07 15-24-13.jpg",
+        "alt": "Petaling Street's night market in Kuala Lumpur"
+      },
+      "text": "Stalls selling everything from souvenirs to street food fill the covered street after dark.",
+      "tip": "Bargaining is expected here, unlike at fixed-price malls elsewhere in the city."
+    },
+    {
+      "title": "Eat late at Jalan Alor",
+      "image": {
+        "file": "File:Jalan Alor - Kuala Lumpur.jpg",
+        "alt": "Jalan Alor food street in Kuala Lumpur"
+      },
+      "text": "A street given over almost entirely to open-air restaurants and food stalls, busiest and best after dark.",
+      "tip": "Go with a group if possible, so you can order and share across several stalls."
+    },
+    {
+      "title": "Watch sunset from Thean Hou Temple",
+      "image": {
+        "file": "File:View of the Kuala Lumpur skyline seen from Thean Hou Temple.jpg",
+        "alt": "The Kuala Lumpur skyline seen from Thean Hou Temple"
+      },
+      "text": "The temple's hilltop terrace gives one of the city's better skyline views, especially as the light fades.",
+      "tip": "A short taxi or ride-hail trip is easiest — it's not an easy walk from the centre."
+    },
+    {
+      "title": "Shop and cool off at Central Market",
+      "text": "A historic covered market turned arts-and-crafts hub, a useful air-conditioned break from the heat.",
+      "tip": "Good for souvenirs and batik if you haven't found what you want elsewhere."
+    }
+  ],
+  "foodIntro": "Kuala Lumpur's food scene spans Malay, Chinese and Indian traditions, each strong enough to anchor a meal on its own.",
+  "foods": [
+    {
+      "name": "Nasi lemak",
+      "image": {
+        "file": "File:Nasi lemak on banana leaf.jpg",
+        "alt": "Nasi lemak, Malaysia's national dish"
+      },
+      "text": "Coconut milk rice with sambal, fried anchovies and a boiled egg, eaten at any hour including breakfast.",
+      "whereToTry": "Street stalls and restaurants across the city."
+    },
+    {
+      "name": "Roti canai",
+      "image": {
+        "file": "File:Roti Canai (4553382259).jpg",
+        "alt": "Roti canai, a flaky flatbread"
+      },
+      "text": "A flaky, pan-fried flatbread of Indian-Muslim origin, torn by hand and dipped in curry.",
+      "whereToTry": "Mamak stalls across the city, many open 24 hours."
+    },
+    {
+      "name": "Satay",
+      "image": {
+        "file": "File:Satay at Night.jpg",
+        "alt": "Grilled satay skewers"
+      },
+      "text": "Grilled meat skewers served with a rich peanut sauce, a night market staple.",
+      "whereToTry": "Night markets and hawker stalls throughout the city."
+    },
+    {
+      "name": "Bak kut teh",
+      "image": {
+        "file": "File:Bak kut teh zz.jpg",
+        "alt": "Bak kut teh, a herbal pork rib soup"
+      },
+      "text": "Pork ribs simmered in a dark herbal broth, traditionally eaten for breakfast alongside rice and youtiao.",
+      "whereToTry": "Specialist bak kut teh restaurants in Klang and around the city."
+    },
+    {
+      "name": "Hainanese chicken rice",
+      "image": {
+        "file": "File:Hainanese chicken rice.jpg",
+        "alt": "Hainanese chicken rice"
+      },
+      "text": "Poached chicken over rice cooked in its own stock, served with chilli and ginger sauces.",
+      "whereToTry": "Hawker centres and Chinese kopitiams across the city."
+    },
+    {
+      "name": "Teh tarik",
+      "image": {
+        "file": "File:Teh Tarik.jpg",
+        "alt": "Teh tarik, pulled milk tea"
+      },
+      "text": "Sweet, frothy pulled tea, theatrically poured between cups to build its characteristic foam.",
+      "whereToTry": "Mamak stalls throughout the city, alongside roti canai."
+    }
+  ],
+  "accommodation": {
+    "intro": "Kuala Lumpur's accommodation spans backpacker hostels to five-star towers, with location doing most of the work in deciding where to stay.",
+    "areas": [
+      {
+        "name": "KLCC",
+        "bestFor": "Being close to the Petronas Towers and upscale malls",
+        "text": "The most convenient base for first-time visitors, if also the priciest."
+      },
+      {
+        "name": "Bukit Bintang",
+        "bestFor": "Nightlife, shopping and street food",
+        "text": "A lively, well-connected area with a huge range of accommodation and dining."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm bed", "value": "RM35–60 per night" },
+      { "label": "Mid-range hotel", "value": "RM180–350 per night" },
+      { "label": "Hawker meal", "value": "RM8–15 per person" },
+      { "label": "Restaurant dinner", "value": "RM40–90 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Kuala Lumpur is Malaysia's main international gateway, well connected by air and to the rest of the Peninsula by train.",
+    "options": [
+      {
+        "mode": "Fly into KLIA or klia2",
+        "text": "The standard route for most international visitors.",
+        "detail": "The KLIA Ekspres train reaches KL Sentral in about 28 minutes."
+      },
+      {
+        "mode": "Take the KTM ETS train from elsewhere on the Peninsula",
+        "text": "Fast, comfortable rail links to Ipoh, Penang and beyond.",
+        "detail": "Arrives centrally at KL Sentral, well connected to onward transport."
+      },
+      {
+        "mode": "Long-distance coach",
+        "text": "A budget-friendly option from Malacca, Penang or further afield.",
+        "detail": "Most services arrive at one of several bus terminals around the city."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Kuala Lumpur's train network covers most tourist areas well, with ride-hailing apps filling the remaining gaps.",
+    "options": [
+      {
+        "mode": "LRT, MRT and monorail",
+        "text": "The most efficient way to move between KLCC, Bukit Bintang and Chinatown.",
+        "detail": "Air-conditioned and a welcome break from the tropical heat."
+      },
+      {
+        "mode": "Ride-hailing apps",
+        "text": "Cheap, reliable and widely used for door-to-door trips.",
+        "detail": "Often easier than flagging a street taxi."
+      },
+      {
+        "mode": "Walking within districts",
+        "text": "Workable within KLCC or Chinatown individually, less so between them.",
+        "detail": "Elevated, covered walkways help in some areas, but the heat makes long walks tiring."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December to February for the driest weather",
+    "summary": "Kuala Lumpur is hot and humid year-round, with only modest seasonal variation in rainfall.",
+    "seasons": [
+      {
+        "season": "December–February",
+        "rating": "best",
+        "text": "Generally the driest stretch of the year, though still warm and humid."
+      },
+      {
+        "season": "March–May",
+        "rating": "good",
+        "text": "Warm with a moderate chance of afternoon showers."
+      },
+      {
+        "season": "June–September",
+        "rating": "good",
+        "text": "Similar conditions, with short afternoon downpours common but rarely disruptive."
+      },
+      {
+        "season": "October–November",
+        "rating": "okay",
+        "text": "The wettest months, with heavier and more frequent rain."
+      }
+    ],
+    "avoid": "Nothing strongly — Kuala Lumpur works as a year-round city break, with October and November simply the wettest window."
+  },
+  "itinerary": {
+    "title": "Two days in Kuala Lumpur",
+    "intro": "Built around the modern KLCC district and the older city, with Batu Caves as a half-day trip.",
+    "days": [
+      {
+        "day": 1,
+        "title": "KLCC and the modern city",
+        "summary": "The Petronas Towers and surrounding district.",
+        "morning": "Visit the Petronas Towers' Skybridge and observation deck.",
+        "afternoon": "Relax in KLCC Park and browse nearby malls.",
+        "evening": "Dinner and a night market stroll on Jalan Alor."
+      },
+      {
+        "day": 2,
+        "title": "Batu Caves and the old city",
+        "summary": "A half-day trip north, followed by colonial and Chinatown sights.",
+        "morning": "Take the train to Batu Caves.",
+        "afternoon": "Explore Merdeka Square and Petaling Street.",
+        "evening": "Sunset at Thean Hou Temple, followed by dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Kuala Lumpur visit noticeably smoother.",
+  "tips": [
+    "Use ride-hailing apps rather than flagging taxis on the street.",
+    "Dress modestly and remove shoes when visiting Batu Caves and other religious sites.",
+    "Carry small ringgit notes for hawker stalls and markets.",
+    "Book Petronas Towers tickets online several days ahead, especially for sunset slots.",
+    "Stay hydrated and pace outdoor sightseeing around the midday heat.",
+    "Keep an eye on belongings around the macaques at Batu Caves."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Kuala Lumpur?",
+      "a": "Two to three days covers the main sights comfortably, including a half-day trip to Batu Caves."
+    },
+    {
+      "q": "Is Kuala Lumpur expensive?",
+      "a": "No, generally affordable, with hawker meals, public transport and mid-range hotels all reasonably priced."
+    },
+    {
+      "q": "Do you need a tour to visit Batu Caves?",
+      "a": "No, not at all — a direct KTM Komuter train from KL Sentral makes it an easy independent half-day trip."
+    },
+    {
+      "q": "Is Kuala Lumpur a good base for exploring Malaysia?",
+      "a": "Yes, very much so — trains, coaches and domestic flights to most of the Peninsula depart from here."
+    },
+    {
+      "q": "Is Kuala Lumpur safe?",
+      "a": "Yes, generally — a safe city, with normal precautions around petty theft in crowded markets and night markets."
+    },
+    {
+      "q": "What should first-time visitors not miss?",
+      "a": "The Petronas Towers, Batu Caves and at least one proper hawker food crawl, ideally at Jalan Alor or Petaling Street."
+    }
+  ],
+  "related": ["penang", "malacca", "cameron-highlands"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

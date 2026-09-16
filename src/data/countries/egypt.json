@@ -1,0 +1,381 @@
+{
+  "slug": "egypt",
+  "name": "Egypt",
+  "continent": "North Africa",
+  "countryCode": "EG",
+  "tagline": "A country where five-thousand-year-old monuments still stand in daily use as landmarks, and the Nile remains the reason anyone can live here at all.",
+  "cardDescription": "The Pyramids of Giza, Luxor's temple-lined riverbanks, a felucca sail down the Nile, and Red Sea reefs among the best diving on Earth.",
+  "metaDescription": "A complete Egypt travel guide: the 10 best places to visit, the Pyramids of Giza, Luxor, the Red Sea, costs and a practical ten-day itinerary.",
+  "image": {
+    "file": "File:All Gizah Pyramids.jpg",
+    "alt": "The Great Pyramids of Giza rising from the desert outside Cairo"
+  },
+  "destinations": [
+    "cairo-giza",
+    "luxor",
+    "aswan",
+    "nile-cruise",
+    "alexandria",
+    "sharm-el-sheikh",
+    "dahab",
+    "hurghada",
+    "white-desert-bahariya",
+    "siwa-oasis"
+  ],
+  "intro": [
+    "Egypt is home to some of the world's oldest and most recognisable monuments, the Pyramids of Giza still standing after more than 4,500 years, built before Stonehenge and outlasting entire civilisations that came after.",
+    "That ancient history runs the length of the Nile, from Cairo's museums and Giza's pyramids down to Luxor's temple complexes and Aswan's Nubian culture, a corridor of green farmland carved through the desert by a single river.",
+    "It's also a country of real contrasts beyond the ancient sites — Red Sea coral reefs among the best diving anywhere on Earth, and a Western Desert of white chalk formations and remote oases that feel like an entirely different country."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit — though the Western Desert oases reward a second trip just as much as a first.",
+  "thingsToDoIntro": "The experiences that recur across the country and that make an Egypt trip feel like more than a checklist of ruins.",
+  "thingsToDo": [
+    {
+      "title": "Stand before the Great Pyramid",
+      "image": {
+        "file": "File:All Gizah Pyramids.jpg",
+        "alt": "The Great Pyramids of Giza outside Cairo"
+      },
+      "text": "The essential Egypt experience, standing at the base of the last surviving Ancient Wonder of the World.",
+      "tip": "Arrive at opening time to beat both the heat and the tour bus crowds."
+    },
+    {
+      "title": "Sail the Nile on a felucca",
+      "image": {
+        "file": "File:Felucca R02.jpg",
+        "alt": "A traditional felucca sailboat on the Nile"
+      },
+      "text": "A timeless way to see the river, a traditional wooden sailboat drifting past palm groves and riverbank villages.",
+      "tip": "Sunset sails are the most popular, and for good reason — the light on the water is extraordinary."
+    },
+    {
+      "title": "Dive the Red Sea's reefs",
+      "image": {
+        "file": "File:South Sinai , Egypt.jpg",
+        "alt": "The Red Sea coastline in South Sinai"
+      },
+      "text": "Among the best diving on Earth, extraordinary visibility and coral reef biodiversity along Egypt's eastern coast.",
+      "tip": "Dahab and Sharm El Sheikh both offer excellent, accessible diving for every certification level."
+    },
+    {
+      "title": "Explore the Valley of the Kings",
+      "image": {
+        "file": "File:Thebes, Luxor, Egypt, Panoramic view of the Valley of the Kings.jpg",
+        "alt": "The Valley of the Kings near Luxor"
+      },
+      "text": "One of archaeology's great sites, the burial ground of pharaohs including Tutankhamun, hidden in a desert valley.",
+      "tip": "A limited number of tombs are open on rotation — check which are accessible before visiting."
+    },
+    {
+      "title": "Camp under the stars in the White Desert",
+      "image": {
+        "file": "File:White Desert, Alien landscape, Egypt.jpg",
+        "alt": "The otherworldly rock formations of the White Desert"
+      },
+      "text": "A surreal overnight experience, sleeping among wind-carved chalk formations that look like nowhere else on Earth.",
+      "tip": "Pack warm layers — desert nights get cold even after scorching daytime heat."
+    },
+    {
+      "title": "Wander a Cairo bazaar",
+      "image": {
+        "file": "File:Khan el-Khalili 2019.jpg",
+        "alt": "The Khan el-Khalili bazaar in Cairo"
+      },
+      "text": "A sensory overload in the best way, centuries-old Khan el-Khalili packed with spices, lanterns and workshops.",
+      "tip": "Polite bargaining is expected and part of the experience here."
+    }
+  ],
+  "foodIntro": "Egyptian food's understated reputation abroad rarely does justice to hearty, flavourful staples eaten daily across the country.",
+  "foods": [
+    {
+      "name": "Koshari",
+      "image": {
+        "file": "File:Egyptian Koshari.jpg",
+        "alt": "Koshari, Egypt's national dish of rice, lentils and pasta"
+      },
+      "text": "Egypt's national dish, a hearty mix of rice, lentils, pasta and chickpeas topped with spiced tomato sauce and crispy onions.",
+      "whereToTry": "Koshari shops nationwide, especially throughout Cairo."
+    },
+    {
+      "name": "Ful medames",
+      "image": {
+        "file": "File:Foul Mudames.jpg",
+        "alt": "Ful medames, a traditional Egyptian fava bean breakfast"
+      },
+      "text": "An essential daily breakfast, slow-cooked fava beans mashed with olive oil, lemon and spices.",
+      "whereToTry": "Breakfast stalls and cafés nationwide."
+    },
+    {
+      "name": "Taameya (Egyptian falafel)",
+      "text": "Egypt's own version of falafel, made with fava beans rather than chickpeas, giving it a distinct green colour and flavour.",
+      "whereToTry": "Street stalls and cafés nationwide."
+    },
+    {
+      "name": "Molokhia",
+      "text": "A beloved home-style dish, a thick green soup made from jute leaves, typically served with rice or bread.",
+      "whereToTry": "Traditional restaurants nationwide."
+    },
+    {
+      "name": "Karkade (hibiscus tea)",
+      "text": "A refreshing national drink, a tart, deep-red tea made from dried hibiscus, served hot or cold.",
+      "whereToTry": "Cafés and restaurants nationwide."
+    },
+    {
+      "name": "Fresh Red Sea seafood",
+      "text": "Excellent along the coast, grilled fish and seafood fresh from the Red Sea's waters.",
+      "whereToTry": "Restaurants throughout Hurghada, Dahab and Sharm El Sheikh."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Egypt is straightforward to travel in, with heat and persistent touting around major sites the two practicalities that most often catch visitors out.",
+  "practical": {
+    "capital": "Cairo",
+    "language": "Arabic nationally, with English widely spoken in tourist areas.",
+    "currency": "Egyptian pound (E£)",
+    "money": "A mix of cash and card — cash is still essential for markets, tips and smaller establishments.",
+    "visa": "Visa on arrival or e-visa available for many nationalities including the US, Canada, Australia, UK and EU citizens.",
+    "plugs": "Type C and F, 220 V, 50 Hz.",
+    "emergency": "122 for police, 123 for ambulance, nationwide.",
+    "tipping": "Expected almost everywhere — baksheesh, small tips for services large and small, is a real part of daily life.",
+    "safety": "Generally safe for tourists in main destinations, with persistent touting and scams around major sites the main practical nuisance rather than serious danger.",
+    "connectivity": "Good 4G coverage in cities and along the Nile, patchy in the Western Desert oases.",
+    "timeZone": "Eastern European Time (UTC+2), no daylight saving.",
+    "budget": [
+      { "label": "Backpacker", "value": "E£800–1,400 per day — hostels, local food, public transport" },
+      { "label": "Mid-range", "value": "E£1,800–3,200 per day — guesthouses, restaurant meals, guided tours" },
+      { "label": "Comfortable", "value": "E£4,000–7,000 per day — hotels, private guides, a Nile cruise" },
+      { "label": "Nile cruise supplement", "value": "Add significantly for a multi-night Luxor-Aswan cruise" }
+    ]
+  },
+  "bestTime": {
+    "headline": "October to April for mild temperatures away from the summer heat",
+    "summary": "Egypt is a year-round destination, but its desert climate makes shoulder season far more comfortable for sightseeing.",
+    "seasons": [
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "The mildest, most comfortable temperatures for sightseeing, also the busiest and priciest season."
+      },
+      {
+        "season": "Shoulder months (October–November, March–April)",
+        "rating": "best",
+        "text": "Warm but manageable heat with thinner crowds than peak winter."
+      },
+      {
+        "season": "Summer (May–September)",
+        "rating": "okay",
+        "text": "Intense heat, especially in Luxor and Aswan, though the Red Sea coast stays more bearable."
+      }
+    ],
+    "avoid": "Extensive sightseeing in Luxor or Aswan during peak summer — dangerous heat, often exceeding 40°C."
+  },
+  "tripDuration": {
+    "headline": "10–12 days for a first trip",
+    "summary": "Egypt's spread-out sites along the Nile and at the Red Sea make a rushed itinerary the most common planning mistake.",
+    "options": [
+      {
+        "length": "4–5 days",
+        "text": "Cairo and Giza alone, or paired with a short Red Sea extension.",
+        "detail": "Enough for the essential pyramid sites at a reasonable pace."
+      },
+      {
+        "length": "6–8 days",
+        "text": "Cairo, Luxor and Aswan, connected by a short flight or overnight train.",
+        "detail": "A solid introduction to Egypt's ancient sites along the Nile."
+      },
+      {
+        "length": "10–12 days",
+        "text": "The itinerary on this page: Cairo, a Nile cruise between Luxor and Aswan, and a Red Sea extension.",
+        "detail": "A complete first look at Egypt's classic highlights."
+      },
+      {
+        "length": "2 weeks or more",
+        "text": "Add Alexandria and the Western Desert oases in full, both worth dedicated time.",
+        "detail": "Siwa and the White Desert are where a second Egypt trip belongs."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "A mix of domestic flights, trains and Nile cruise boats is the standard way to see Egypt's spread-out sites.",
+    "options": [
+      {
+        "mode": "Domestic flights",
+        "text": "The fastest way to connect [[cairo-giza|Cairo]] to [[luxor|Luxor]], [[aswan|Aswan]] and the Red Sea coast.",
+        "detail": "Frequent daily flights make Egypt's long distances manageable on a limited schedule."
+      },
+      {
+        "mode": "Nile cruise boats",
+        "text": "The classic way to travel between [[luxor|Luxor]] and [[aswan|Aswan]], covering ancient sites along the way.",
+        "detail": "A multi-night [[nile-cruise|Nile cruise]] combines transport with guided sightseeing at each stop."
+      },
+      {
+        "mode": "Overnight trains",
+        "text": "A practical, budget-friendly link between [[cairo-giza|Cairo]] and [[luxor|Luxor]] or [[aswan|Aswan]].",
+        "detail": "Sleeper cabins save a hotel night while covering real distance."
+      },
+      {
+        "mode": "Private drivers and organised tours",
+        "text": "The standard way to reach [[white-desert-bahariya|the White Desert]] and [[siwa-oasis|Siwa Oasis]].",
+        "detail": "Both require genuine desert driving experience best left to local operators."
+      },
+      {
+        "mode": "Taxis and rideshare apps",
+        "text": "The easiest way around within [[cairo-giza|Cairo]] and other major cities.",
+        "detail": "Widely available and inexpensive, though traffic can be heavy."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Ten days in Egypt",
+    "intro": "A classic route combining Cairo's pyramids with a Nile cruise between Luxor and Aswan, finished with a Red Sea extension. Covers six of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Cairo",
+        "morning": "Land in Cairo and check in to your hotel.",
+        "afternoon": "Explore downtown Cairo or rest after your flight.",
+        "evening": "Dinner overlooking the Nile."
+      },
+      {
+        "day": 2,
+        "title": "Giza's pyramids",
+        "morning": "The Great Pyramids of Giza and the Sphinx.",
+        "afternoon": "The Grand Egyptian Museum.",
+        "evening": "A sound and light show at the pyramids."
+      },
+      {
+        "day": 3,
+        "title": "Cairo's old city",
+        "morning": "Islamic Cairo and its historic mosques.",
+        "afternoon": "Khan el-Khalili bazaar.",
+        "evening": "Fly or take the overnight train to Luxor."
+      },
+      {
+        "day": 4,
+        "title": "Luxor's east bank",
+        "morning": "Karnak Temple.",
+        "afternoon": "Luxor Temple.",
+        "evening": "Board your Nile cruise boat."
+      },
+      {
+        "day": 5,
+        "title": "Luxor's west bank",
+        "morning": "The Valley of the Kings.",
+        "afternoon": "The Temple of Hatshepsut and the Colossi of Memnon.",
+        "evening": "Sail south toward Edfu."
+      },
+      {
+        "day": 6,
+        "title": "Edfu and Kom Ombo",
+        "morning": "The Temple of Horus at Edfu.",
+        "afternoon": "The Temple of Kom Ombo.",
+        "evening": "Continue sailing toward Aswan."
+      },
+      {
+        "day": 7,
+        "title": "Aswan",
+        "morning": "Philae Temple.",
+        "afternoon": "A felucca sail around Aswan's islands.",
+        "evening": "Disembark and explore Aswan's Nubian villages."
+      },
+      {
+        "day": 8,
+        "title": "Fly to the Red Sea",
+        "morning": "Fly from Aswan to Hurghada or Sharm El Sheikh.",
+        "afternoon": "Settle in and relax by the Red Sea.",
+        "evening": "Dinner by the water."
+      },
+      {
+        "day": 9,
+        "title": "The Red Sea",
+        "morning": "A snorkelling or diving trip on the reef.",
+        "afternoon": "Relax at your resort.",
+        "evening": "A final Red Sea sunset."
+      },
+      {
+        "day": 10,
+        "title": "Return and depart",
+        "morning": "Fly back to Cairo.",
+        "afternoon": "A final wander or last-minute shopping.",
+        "evening": "Depart for home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Egyptian culture is shaped by a genuine warmth toward guests, deep religious and family values, and a real, living pride in a history stretching back over 5,000 years.",
+    "etiquette": [
+      {
+        "title": "Hospitality is taken seriously",
+        "text": "Being offered tea or food is common and a real gesture of welcome, not just politeness."
+      },
+      {
+        "title": "Modest dress is appreciated, especially outside resorts",
+        "text": "Covering shoulders and knees is respectful when visiting mosques, markets and non-touristic areas."
+      },
+      {
+        "title": "Bargaining is expected at markets",
+        "text": "Politely negotiating prices at bazaars is normal and part of the experience."
+      },
+      {
+        "title": "Tipping (baksheesh) is a real part of daily life",
+        "text": "Small tips for services large and small are expected almost everywhere, not optional extras."
+      },
+      {
+        "title": "Friday is the main day of rest",
+        "text": "Some businesses and sites keep different hours around Friday prayers."
+      },
+      {
+        "title": "Photographing people requires asking first",
+        "text": "Especially in more traditional or rural settings — a small tip is often appropriate."
+      }
+    ],
+    "dos": [
+      "Dress modestly when visiting mosques, markets and areas outside resorts.",
+      "Carry small notes for tips, which are expected throughout your trip.",
+      "Politely negotiate prices at markets and with unofficial guides or vendors.",
+      "Stay hydrated and pace outdoor sightseeing around the heat, especially in summer."
+    ],
+    "donts": [
+      "Don't photograph people or military/government buildings without permission.",
+      "Don't drink tap water — stick to bottled or purified water nationwide.",
+      "Don't engage with unsolicited 'guides' at major sites without agreeing a price upfront.",
+      "Don't rush a Nile itinerary — the distances and heat demand a realistic pace."
+    ]
+  },
+  "tipsIntro": "The things that most often go wrong on an Egypt trip, in rough order of how much they cost people.",
+  "tips": [
+    "Book major sites and a Nile cruise well ahead, especially for peak winter travel.",
+    "Carry small Egyptian pound notes for tipping, expected throughout your trip.",
+    "Agree prices upfront with taxi drivers, vendors and unofficial guides before accepting help.",
+    "Pack modest clothing for mosques, markets and areas outside resort zones.",
+    "Drink only bottled or purified water throughout the trip.",
+    "Pace outdoor sightseeing around the heat, especially at Luxor and Aswan outside winter.",
+    "Book domestic flights or overnight trains ahead to connect Cairo, Luxor and Aswan efficiently.",
+    "Hire a licensed guide at major sites for real historical context beyond what's posted."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Egypt?",
+      "a": "Ten to twelve days covers Cairo, a Nile cruise between Luxor and Aswan, and a Red Sea extension comfortably, which is the itinerary on this page. Four to five days is enough for Cairo and Giza alone, and still worthwhile."
+    },
+    {
+      "q": "What is the best time of year to visit Egypt?",
+      "a": "October to April offers the most comfortable temperatures for sightseeing, especially in Luxor and Aswan, where summer heat can be dangerous."
+    },
+    {
+      "q": "Do you need a guide for the pyramids and temples?",
+      "a": "Not required, but recommended — a licensed guide adds real historical context that's easy to miss exploring independently."
+    },
+    {
+      "q": "Is Egypt expensive?",
+      "a": "Moderate overall, affordable outside a Nile cruise's own cost — mid-range travel runs about E£1,800–3,200 per person per day."
+    },
+    {
+      "q": "Is a Nile cruise worth it?",
+      "a": "Yes — it's the classic, comfortable way to see Luxor, Edfu, Kom Ombo and Aswan's temples without repeated hotel changes."
+    },
+    {
+      "q": "Is Egypt safe to visit?",
+      "a": "Generally yes for tourists in main destinations, with persistent touting around major sites the main practical nuisance rather than serious danger."
+    }
+  ]
+}

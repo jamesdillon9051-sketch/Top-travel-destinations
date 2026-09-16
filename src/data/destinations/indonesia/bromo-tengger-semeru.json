@@ -1,0 +1,353 @@
+{
+  "slug": "bromo-tengger-semeru",
+  "name": "Mount Bromo & Tengger Semeru",
+  "country": "indonesia",
+  "region": "East Java",
+  "categories": ["volcanoes", "nature", "hiking", "sunrise"],
+  "tagline": "A smoking volcanic crater rising out of a sea of grey sand, with Java's highest peak smouldering in the background.",
+  "highlight": "Standing on the Penanjakan viewpoint before dawn as the sky turns orange and Bromo's crater emerges from the mist, still faintly smoking.",
+  "shortDescription": "An otherworldly volcanic landscape in East Java, centred on Mount Bromo's smoking crater and a vast sea of black volcanic sand.",
+  "metaDescription": "A Mount Bromo travel guide: the sunrise viewpoint, the Sea of Sand, Pura Luhur Poten temple, Mount Semeru and how to plan a visit to East Java's volcanoes.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Juanda International, Surabaya (SUB), about 3-4 hours away",
+  "knownFor": "Sunrise views, volcanic craters, otherworldly landscapes",
+  "budget": "Rp 400,000–900,000 per day, plus jeep tour costs",
+  "goodFor": "Sunrise photography, volcanoes, a dramatic overnight trip",
+  "coords": { "lat": -7.9425, "lng": 112.9530 },
+  "image": {
+    "file": "File:Bromo and Semeru volcanoes, Java, Indonesia, 20220820 0717 9517.jpg",
+    "alt": "Mount Bromo and Mount Semeru volcanoes in East Java, Indonesia"
+  },
+  "intro": [
+    "Mount Bromo is one of Indonesia's most photographed landscapes: an active volcanic crater rising out of a vast, flat sea of grey volcanic sand, ringed by the walls of an ancient, much larger caldera, with Java's highest peak, Mount Semeru, smouldering on the horizon behind it.",
+    "The whole scene is best experienced before dawn, when jeeps climb to a viewpoint on the caldera rim and the sunrise slowly reveals the crater, the sand sea and the distant peaks — a view that regularly ranks among Southeast Asia's most dramatic sunrises.",
+    "It's also still a living cultural landscape — the Tengger people who live around the caldera maintain their own distinct Hindu traditions, centred on the small temple standing right in the middle of the sand sea below Bromo's crater."
+  ],
+  "whyVisit": {
+    "intro": "Bromo's case rests on a dramatic, otherworldly landscape reachable within a single night's trip.",
+    "points": [
+      {
+        "title": "The sunrise view is one of Southeast Asia's best",
+        "text": "A smoking crater rising from a sea of sand, with Semeru smouldering behind it, all lit by the first light of day."
+      },
+      {
+        "title": "It's still an active volcano",
+        "text": "Bromo continues to smoke and occasionally erupt, giving the whole landscape a real sense of ongoing geological activity."
+      },
+      {
+        "title": "The Sea of Sand is unlike anywhere else in Indonesia",
+        "text": "A flat, otherworldly expanse of black volcanic sand stretching between the caldera walls and the crater itself."
+      },
+      {
+        "title": "The Tengger people's culture is still active here",
+        "text": "A distinct Hindu community with its own temple and annual Kasada festival, offering crops into the crater itself."
+      },
+      {
+        "title": "It's doable as an efficient overnight trip",
+        "text": "Most visitors see Bromo's highlights in a single dawn-to-morning excursion from a nearby village."
+      }
+    ]
+  },
+  "attractionsIntro": "Bromo's essential sights cluster around the caldera and its two dominant volcanic peaks.",
+  "attractions": [
+    {
+      "name": "Mount Bromo Crater",
+      "image": {
+        "file": "File:Puncak Kawah Gunung Bromo.jpg",
+        "alt": "The smoking crater rim of Mount Bromo"
+      },
+      "text": "The star of the whole landscape, an active volcanic cone you can climb right to the rim of, peering down into its smoking crater.",
+      "tip": "The final stretch to the crater rim is a steep staircase — pace yourself in the thin air and heat."
+    },
+    {
+      "name": "Mount Penanjakan Sunrise Viewpoint",
+      "image": {
+        "file": "File:Mount Penanjakan (Bromo-Tengger-Semeru) at sunrise.jpg",
+        "alt": "Sunrise over the Bromo caldera seen from Mount Penanjakan"
+      },
+      "text": "The classic sunrise viewpoint, a caldera-rim platform giving a sweeping view over Bromo, the sand sea and Semeru beyond.",
+      "tip": "Jeeps leave villages around 3am — dress warmly, as the viewpoint gets cold before dawn."
+    },
+    {
+      "name": "The Sea of Sand (Lautan Pasir)",
+      "image": {
+        "file": "File:Bromo Crater Rim Sea of Sand 3.jpg",
+        "alt": "The vast grey volcanic Sea of Sand surrounding Mount Bromo"
+      },
+      "text": "A flat, otherworldly expanse of black volcanic sand filling the floor of the ancient Tengger caldera.",
+      "tip": "Jeeps cross the sand sea directly — an experience in itself, dust and all."
+    },
+    {
+      "name": "Pura Luhur Poten",
+      "image": {
+        "file": "File:Pura Luhur Poten.jpg",
+        "alt": "Pura Luhur Poten, a Hindu temple standing in the Sea of Sand below Mount Bromo"
+      },
+      "text": "A striking Hindu temple standing alone in the Sea of Sand, the spiritual centre of the local Tengger community's traditions.",
+      "tip": "The annual Kasada festival here sees offerings thrown directly into Bromo's crater."
+    },
+    {
+      "name": "Mount Semeru",
+      "image": {
+        "file": "File:Bromo, Semeru, Batok - view of Tengger caldera, East Java, Indonesia, 20220820 0709 9507.jpg",
+        "alt": "Mount Semeru, Java's highest peak, smoking beyond the Tengger caldera"
+      },
+      "text": "Java's highest peak and one of Indonesia's most active volcanoes, its summit regularly puffing smoke on the horizon beyond Bromo.",
+      "tip": "Summiting requires serious multi-day trekking and permits — most visitors admire it from a distance."
+    },
+    {
+      "name": "Ranu Kumbolo",
+      "image": {
+        "file": "File:Ranu Kumbolo Best View.jpg",
+        "alt": "Ranu Kumbolo, a mountain lake on the route to Mount Semeru"
+      },
+      "text": "A beautiful highland lake on the standard Semeru trekking route, a popular overnight camping stop for multi-day trekkers.",
+      "tip": "Reaching it requires a multi-day trekking permit, even if you don't continue on to Semeru's summit."
+    },
+    {
+      "name": "Bukit Cinta (Love Hill)",
+      "image": {
+        "file": "File:Civil Twilight on Bukit Cinta Viewpoint (Bromo).jpg",
+        "alt": "Twilight over the Bromo caldera seen from Bukit Cinta viewpoint"
+      },
+      "text": "A quieter alternative sunrise viewpoint to Penanjakan, with a similarly sweeping view and noticeably smaller crowds.",
+      "tip": "Ask your jeep driver about Bukit Cinta if Penanjakan's crowds don't appeal."
+    }
+  ],
+  "thingsToDoIntro": "A Bromo visit centres on the pre-dawn jeep tour, though the sand sea rewards lingering afterward too.",
+  "thingsToDo": [
+    {
+      "title": "Watch sunrise at Mount Penanjakan",
+      "image": {
+        "file": "File:Mount Penanjakan (Bromo-Tengger-Semeru) at sunrise 2.jpg",
+        "alt": "The sky turning orange over the Bromo caldera at sunrise"
+      },
+      "text": "The essential Bromo experience, watching the caldera and its two great volcanoes emerge from darkness as the sky lightens.",
+      "tip": "Bring warm layers — early morning temperatures at the viewpoint can drop close to freezing."
+    },
+    {
+      "title": "Cross the Sea of Sand by jeep or horse",
+      "image": {
+        "file": "File:Bromo-Tengger-Semeru-National-Park Indonesia Horses-02.jpg",
+        "alt": "Horses available for hire to cross the Sea of Sand near Mount Bromo"
+      },
+      "text": "A memorable crossing, whether bouncing across the sand in a 4x4 jeep or hiring a horse for the final approach to the crater steps.",
+      "tip": "Horse hire needs a bit of haggling — agree the price before you mount up."
+    },
+    {
+      "title": "Climb to Bromo's crater rim",
+      "image": {
+        "file": "File:Bromo Crater Rim Sea of Sand 2.jpg",
+        "alt": "The stairway leading up to Mount Bromo's crater rim"
+      },
+      "text": "A short but steep climb rewarded with a direct view down into the active, smoking crater.",
+      "tip": "Cover your nose and mouth near the rim — sulphur fumes can be strong."
+    },
+    {
+      "title": "Trek to Ranu Kumbolo",
+      "image": {
+        "file": "File:Ranu Kumbolo 08.jpg",
+        "alt": "Trekkers at the highland lake of Ranu Kumbolo"
+      },
+      "text": "A serious but rewarding multi-day trek for those wanting to go beyond the standard Bromo sunrise tour.",
+      "tip": "Permits need booking well ahead through the national park's official system."
+    },
+    {
+      "title": "Visit Pura Luhur Poten",
+      "image": {
+        "file": "File:Poten Temple from afar.jpg",
+        "alt": "Pura Luhur Poten temple seen from across the Sea of Sand"
+      },
+      "text": "A worthwhile stop on the way to or from the crater, offering a quieter, more reflective contrast to the sunrise crowds.",
+      "tip": "Dress respectfully if visiting during an active ceremony."
+    },
+    {
+      "title": "Camp under a clear volcanic sky",
+      "text": "A striking way to experience the caldera, with minimal light pollution making for excellent stargazing on clear nights.",
+      "tip": "Arrange camping permits and gear through a local tour operator rather than independently."
+    }
+  ],
+  "foodIntro": "Bromo's food is simple mountain-village fare — warming dishes suited to the caldera's cool, high-altitude climate.",
+  "foods": [
+    {
+      "name": "Rawon",
+      "image": {
+        "file": "File:Rawon, Kedai Juragan, BG Junction, 2025 (02).jpg",
+        "alt": "A bowl of rawon, East Java's dark beef soup"
+      },
+      "text": "East Java's distinctive dark beef soup, coloured and flavoured by kluwak nuts, warming after a cold pre-dawn jeep ride.",
+      "whereToTry": "Warungs in Probolinggo and the villages around Bromo."
+    },
+    {
+      "name": "Bakso",
+      "image": {
+        "file": "File:Bakso Indonesian Meatball Soup from Solo.jpg",
+        "alt": "A bowl of bakso, Indonesian meatball soup"
+      },
+      "text": "A reliable, warming meatball soup found at roadside stalls throughout the villages surrounding the caldera.",
+      "whereToTry": "Warungs in Cemoro Lawang and nearby villages."
+    },
+    {
+      "name": "Wedang jahe",
+      "image": {
+        "file": "File:Wedang Ronde di Malioboro.jpg",
+        "alt": "A warm ginger drink, popular in the cool mountain air around Bromo"
+      },
+      "text": "A welcome hot ginger drink, sold by vendors right at the viewpoints to warm up cold, early-morning visitors.",
+      "whereToTry": "Vendors at the Penanjakan and Bukit Cinta viewpoints."
+    },
+    {
+      "name": "Sate",
+      "image": {
+        "file": "File:Satay at Night.jpg",
+        "alt": "Grilled satay skewers, a common evening meal near Bromo"
+      },
+      "text": "A widely available evening meal in the villages around the caldera, grilled over charcoal at simple roadside warungs.",
+      "whereToTry": "Warungs in Cemoro Lawang and Ngadisari."
+    },
+    {
+      "name": "Instant noodles at mountain warungs",
+      "text": "A humble but welcome hot meal after a cold pre-dawn jeep tour, served at simple stalls near the viewpoints.",
+      "whereToTry": "Warungs at Penanjakan and along the Sea of Sand."
+    },
+    {
+      "name": "Local mountain coffee",
+      "text": "Grown on the volcanic slopes surrounding the caldera, served hot and strong at village warungs.",
+      "whereToTry": "Warungs in Cemoro Lawang village."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors base themselves in a small village on the caldera rim for easy access to the pre-dawn jeep tour.",
+    "areas": [
+      {
+        "name": "Cemoro Lawang",
+        "bestFor": "Being right on the caldera rim",
+        "text": "The closest village to the crater, with simple guesthouses and the shortest pre-dawn jeep ride."
+      },
+      {
+        "name": "Probolinggo or Malang",
+        "bestFor": "More genuine comfort before or after the trip",
+        "text": "Larger towns with better facilities, a longer drive from the caldera itself."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse (Cemoro Lawang)", "value": "Rp 200,000–450,000 per night" },
+      { "label": "Sunrise jeep tour (shared)", "value": "About Rp 400,000–600,000 per person" },
+      { "label": "Bromo national park entry", "value": "About Rp 320,000 (foreign visitor rate)" },
+      { "label": "Horse hire on the sand sea", "value": "About Rp 100,000–150,000" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Bromo is reached via Surabaya or Malang, followed by a mountain drive to a caldera-rim village.",
+    "options": [
+      {
+        "mode": "Fly to Surabaya, then drive",
+        "text": "A common route, with a 3-4 hour drive from Surabaya's airport to Cemoro Lawang.",
+        "detail": "Most visitors arrange this leg through a tour operator or private driver."
+      },
+      {
+        "mode": "Overnight tour from Malang or Yogyakarta",
+        "text": "Popular, bundling transport, a jeep tour and sometimes accommodation together.",
+        "detail": "A common add-on for visitors already exploring Java."
+      },
+      {
+        "mode": "Train to Probolinggo",
+        "text": "A scenic rail option from other Java cities, followed by a shorter onward drive.",
+        "detail": "Probolinggo sits about 2 hours from Cemoro Lawang by road."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Within the national park, transport means a shared 4x4 jeep — no independent driving is permitted on the sand sea.",
+    "options": [
+      {
+        "mode": "Shared 4x4 jeep tour",
+        "text": "The standard, near-universal way to reach the viewpoints and crater before dawn.",
+        "detail": "Booked through your guesthouse or a tour operator the day before."
+      },
+      {
+        "mode": "On foot or horseback",
+        "text": "Necessary for the final stretch from the jeep parking area to the crater rim.",
+        "detail": "Horses can be hired at the base of the crater stairs."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April to October for the clearest sunrise views",
+    "summary": "Dry season brings the clearest skies for Bromo's famous sunrise, while wet season can mean disappointing cloud cover.",
+    "seasons": [
+      {
+        "season": "Dry season (April–October)",
+        "rating": "best",
+        "text": "The most reliable window for clear sunrise views over the caldera."
+      },
+      {
+        "season": "Shoulder months (April, October)",
+        "rating": "good",
+        "text": "Good visibility odds with thinner crowds than peak season."
+      },
+      {
+        "season": "Wet season (November–March)",
+        "rating": "poor",
+        "text": "Higher risk of cloud cover obscuring the sunrise view, though the landscape stays accessible."
+      },
+      {
+        "season": "Kasada festival (varies, usually mid-year)",
+        "rating": "good",
+        "text": "A unique cultural experience, though accommodation books out well ahead."
+      }
+    ],
+    "avoid": "Avoid expecting a clear sunrise during the wet season — cloud cover regularly obscures the view from November to March."
+  },
+  "itinerary": {
+    "title": "One night at Mount Bromo",
+    "intro": "Built around the classic pre-dawn sunrise tour, with time to explore the sand sea afterward.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Sunrise and the sand sea",
+        "summary": "The Penanjakan viewpoint, the crater climb and Pura Luhur Poten.",
+        "morning": "Pre-dawn jeep to the Penanjakan sunrise viewpoint, then across the Sea of Sand.",
+        "afternoon": "Climb to Bromo's crater rim and visit Pura Luhur Poten.",
+        "evening": "Return to Cemoro Lawang or onward to Malang or Surabaya."
+      }
+    ]
+  },
+  "tipsIntro": "A handful of practical notes make a Bromo sunrise trip go much more smoothly.",
+  "tips": [
+    "Book your jeep tour the day before through your guesthouse.",
+    "Bring proper warm layers — pre-dawn temperatures at the viewpoint can be near freezing.",
+    "Wear a mask or scarf near the crater rim for the sulphur fumes.",
+    "Bring cash — card payments are rarely accepted this far from major towns.",
+    "Check the Kasada festival dates if visiting for the cultural experience specifically.",
+    "Pack a headlamp for the pre-dawn walk from the jeep to the viewpoint."
+  ],
+  "faq": [
+    {
+      "q": "Is Mount Bromo worth visiting?",
+      "a": "Yes — its sunrise view over the crater and sand sea is one of Southeast Asia's most striking landscapes."
+    },
+    {
+      "q": "How do you get to Mount Bromo?",
+      "a": "Most visitors fly into Surabaya and drive 3-4 hours, or join an overnight tour from Malang or Yogyakarta."
+    },
+    {
+      "q": "Do you need a jeep tour to see Bromo?",
+      "a": "Practically yes — independent driving isn't permitted on the Sea of Sand, so a shared jeep tour is the standard way in."
+    },
+    {
+      "q": "Is Mount Bromo dangerous to visit?",
+      "a": "Generally no, for the standard crater-rim visit, though it remains an active volcano — check current activity advisories before going."
+    },
+    {
+      "q": "How cold does it get at the sunrise viewpoint?",
+      "a": "Cold — temperatures can drop close to freezing before dawn, so warm layers are essential even though Indonesia is tropical."
+    },
+    {
+      "q": "Can you combine Bromo with Mount Semeru?",
+      "a": "Yes, though summiting Semeru requires a separate multi-day trekking permit — most Bromo visitors admire it from a distance instead."
+    }
+  ],
+  "related": ["yogyakarta-borobudur", "komodo-flores", "jakarta"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around"]
+}

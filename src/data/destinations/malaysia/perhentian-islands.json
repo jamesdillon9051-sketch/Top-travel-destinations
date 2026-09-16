@@ -1,0 +1,320 @@
+{
+  "slug": "perhentian-islands",
+  "name": "Perhentian Islands",
+  "country": "malaysia",
+  "region": "Terengganu",
+  "categories": ["beach", "island", "diving", "backpacker"],
+  "tagline": "A pair of car-free east coast islands with clear water, coral reef and a simple backpacker pace, open only half the year.",
+  "highlight": "Snorkelling straight off the beach into clear water thick with reef fish, no boat trip required.",
+  "shortDescription": "A pair of car-free islands off Malaysia's east coast, known for diving, snorkelling and a simple backpacker pace, open March through October.",
+  "metaDescription": "A Perhentian Islands travel guide: diving and snorkelling, the two islands' beaches, monsoon timing and how to plan a visit.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "Kota Bharu (KBR) or Kuala Terengganu (TGG), followed by road transfer and boat",
+  "knownFor": "Diving and snorkelling, clear water, a car-free backpacker pace",
+  "budget": "RM90-220 per day, budget to mid-range",
+  "goodFor": "Diving, snorkelling, unplugging from cities",
+  "coords": { "lat": 5.9059, "lng": 102.7314 },
+  "image": {
+    "file": "File:Perhentian Islands, Malaysia, Afterglow.jpg",
+    "alt": "Sunset over the Perhentian Islands"
+  },
+  "intro": [
+    "The Perhentian Islands are a pair of small islands off Malaysia's northeast coast, Perhentian Besar and Perhentian Kecil, both entirely car-free and built around clear water and coral reef.",
+    "Compared to Langkawi on the calmer west coast, the Perhentians keep a simpler, more backpacker-oriented pace — wooden chalets rather than resort towers, and a diving and snorkelling scene that draws people back year after year.",
+    "The tradeoff is a firm seasonal window: the northeast monsoon shuts most of the islands down from November through February, so timing a visit matters more here than almost anywhere else in Malaysia."
+  ],
+  "whyVisit": {
+    "intro": "The Perhentian Islands' case rests on clear water and reef, reached without the infrastructure or crowds of a bigger island destination.",
+    "points": [
+      {
+        "title": "The water is some of Malaysia's clearest",
+        "text": "Visibility regularly exceeds 15-20 metres, excellent for both diving and simple snorkelling."
+      },
+      {
+        "title": "Diving here is affordable",
+        "text": "PADI courses and dives cost noticeably less than at many other Southeast Asian dive destinations."
+      },
+      {
+        "title": "Both islands stay car-free",
+        "text": "No roads, no traffic — just paths between chalets, jetties and beaches."
+      },
+      {
+        "title": "The pace is deliberately simple",
+        "text": "Basic chalets and beach bars rather than resort infrastructure, suited to unplugging for a few days."
+      },
+      {
+        "title": "Turtles are a common sight",
+        "text": "Green and hawksbill turtles nest and feed around both islands, often visible while snorkelling."
+      }
+    ]
+  },
+  "attractionsIntro": "The Perhentians' appeal is less about individual sights than the islands' beaches and reef as a whole, split across Besar and Kecil.",
+  "attractions": [
+    {
+      "name": "Perhentian Besar's beaches",
+      "image": {
+        "file": "File:Perhentian Besar, Malaysia, West beach 2.jpg",
+        "alt": "A beach on Perhentian Besar"
+      },
+      "text": "The larger of the two islands, generally quieter and slightly more upmarket than Kecil.",
+      "tip": "A better fit for couples or anyone wanting a calmer base than Kecil's livelier backpacker scene."
+    },
+    {
+      "name": "Perhentian Kecil's beaches",
+      "image": {
+        "file": "File:Perhentian Kecil Island, Malaysia, Beach.jpg",
+        "alt": "A beach on Perhentian Kecil"
+      },
+      "text": "The smaller island, with a livelier backpacker scene and the islands' main budget accommodation cluster.",
+      "tip": "Long Beach is the main hub here, with the widest choice of chalets, bars and dive shops."
+    },
+    {
+      "name": "The coral reef surrounding both islands",
+      "image": {
+        "file": "File:Perhentian Islands, Coastline, Malaysia.jpg",
+        "alt": "The coastline and reef of the Perhentian Islands"
+      },
+      "text": "Reef fringes much of both islands, reachable directly from several beaches without a boat.",
+      "tip": "Ask locally which beaches currently have the best visibility — conditions shift through the season."
+    },
+    {
+      "name": "The strait between the two islands",
+      "image": {
+        "file": "File:Perhentian Kecil, Malaysia, Strait.jpg",
+        "alt": "The strait between Perhentian Besar and Perhentian Kecil"
+      },
+      "text": "A short boat ride separates Besar and Kecil, both easily visited even if you're only staying on one.",
+      "tip": "Water taxis run regularly between the two islands' main jetties throughout the day."
+    },
+    {
+      "name": "Turtle nesting and feeding grounds",
+      "text": "Green and hawksbill turtles are a regular sight around both islands, especially while snorkelling near reef edges.",
+      "tip": "Keep a respectful distance and avoid touching turtles if you encounter one."
+    },
+    {
+      "name": "The islands' interior jungle trails",
+      "text": "Short trails cross both islands' forested interiors, connecting beaches that aren't linked by coastal paths.",
+      "tip": "Sturdy footwear helps — the trails can be steep, rooty and slippery after rain."
+    }
+  ],
+  "thingsToDoIntro": "Diving and snorkelling dominate a Perhentians visit, with the islands' simple pace suited to slow days between dives.",
+  "thingsToDo": [
+    {
+      "title": "Get PADI certified or dive",
+      "image": {
+        "file": "File:My Diving.jpg",
+        "alt": "Scuba diving near the Perhentian Islands"
+      },
+      "text": "The Perhentians are one of Southeast Asia's more affordable places to learn to dive or add certifications.",
+      "tip": "Book with an established dive shop and compare a couple of prices before committing."
+    },
+    {
+      "title": "Snorkel straight from the beach",
+      "text": "Several beaches on both islands reach reef within a short swim, no boat required.",
+      "tip": "Bring or rent a mask and fins rather than relying on hotel gear, which can be inconsistent."
+    },
+    {
+      "title": "Take a snorkelling boat trip",
+      "text": "Boat tours reach reef spots further from shore, often combined with a stop to look for turtles.",
+      "tip": "Half-day trips are usually enough to cover the islands' best snorkelling spots."
+    },
+    {
+      "title": "Walk the jungle trail between beaches",
+      "text": "A short but genuine hike connects beaches not linked by coastal paths, cutting through island interior forest.",
+      "tip": "Carry water — there's no shade relief once you're partway across."
+    },
+    {
+      "title": "Relax at a beach bar as the sun sets",
+      "text": "A quieter, simpler evening ritual than Langkawi's resort scene, fitting the islands' backpacker pace.",
+      "tip": "Long Beach on Kecil has the liveliest evening scene if that's what you're after."
+    },
+    {
+      "title": "Water-taxi between Besar and Kecil",
+      "text": "Worth doing at least once, since the two islands have different characters.",
+      "tip": "Check the last return water taxi time before heading over for the day."
+    }
+  ],
+  "foodIntro": "Food on the Perhentians is simple by design, built around fresh seafood and standard Malaysian staples at beachfront restaurants.",
+  "foods": [
+    {
+      "name": "Fresh grilled fish",
+      "text": "The most reliable option on both islands, simply grilled and served with rice.",
+      "whereToTry": "Beachfront restaurants throughout Besar and Kecil."
+    },
+    {
+      "name": "Nasi goreng",
+      "text": "Fried rice with egg, vegetables and a choice of meat or seafood, a menu staple at nearly every island restaurant.",
+      "whereToTry": "Restaurants and chalets throughout both islands."
+    },
+    {
+      "name": "Mee goreng",
+      "text": "Fried noodles in a similar style to nasi goreng, another reliable staple across the islands.",
+      "whereToTry": "Restaurants throughout Besar and Kecil."
+    },
+    {
+      "name": "Fresh coconuts",
+      "text": "Sold straight off the beach, a refreshing break between snorkelling sessions.",
+      "whereToTry": "Beach vendors on both islands."
+    },
+    {
+      "name": "Roti canai",
+      "text": "A reliable breakfast option, found at several island cafés alongside standard Western breakfast fare.",
+      "whereToTry": "Cafés on both islands, especially around the main jetties."
+    },
+    {
+      "name": "Barbecue seafood platters",
+      "text": "A popular evening option at beachfront restaurants, mixed grilled seafood shared between a group.",
+      "whereToTry": "Beachfront restaurants on both islands, especially in the evening."
+    }
+  ],
+  "accommodation": {
+    "intro": "Accommodation on the Perhentians is simple by design — wooden chalets and beach bungalows rather than resort towers.",
+    "areas": [
+      {
+        "name": "Perhentian Kecil (Long Beach)",
+        "bestFor": "A livelier backpacker scene and the widest choice of budget chalets",
+        "text": "The islands' main hub for younger travellers and diving courses."
+      },
+      {
+        "name": "Perhentian Besar",
+        "bestFor": "A quieter, slightly more comfortable stay",
+        "text": "Generally better suited to couples or those wanting fewer crowds."
+      }
+    ],
+    "budget": [
+      { "label": "Basic chalet", "value": "RM50–100 per night" },
+      { "label": "Mid-range beachfront chalet", "value": "RM150–300 per night" },
+      { "label": "PADI Open Water course", "value": "RM900–1,200" },
+      { "label": "Meal at a beachfront restaurant", "value": "RM15–30 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Reaching the Perhentians involves a flight or long drive to the coast, followed by a boat crossing — plan around the season.",
+    "options": [
+      {
+        "mode": "Fly to Kota Bharu, then bus and boat",
+        "text": "The most practical option for most visitors.",
+        "detail": "A short transfer to Kuala Besut jetty, followed by a speedboat crossing of around 30-45 minutes."
+      },
+      {
+        "mode": "Long-distance coach from Kuala Lumpur",
+        "text": "A budget option, typically overnight, arriving at Kuala Besut jetty.",
+        "detail": "Takes around 8-9 hours, best paired with an early morning boat onward."
+      },
+      {
+        "mode": "Speedboat from Kuala Besut",
+        "text": "The only way to reach the islands themselves.",
+        "detail": "Boats run only during the open season, roughly March through October."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Both islands are entirely car-free, so getting around means walking or taking a water taxi.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Covers each island's coastal paths and beaches.",
+        "detail": "Interior jungle trails connect beaches not linked by coastal paths."
+      },
+      {
+        "mode": "Water taxi",
+        "text": "The only way to move between beaches not connected by a walkable path, or between Besar and Kecil.",
+        "detail": "Regular services run during daylight hours in season."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March to October, when the islands are open",
+    "summary": "The Perhentians are only accessible for around eight months of the year, closing entirely during the northeast monsoon.",
+    "seasons": [
+      {
+        "season": "March–May",
+        "rating": "best",
+        "text": "The islands reopening after monsoon, generally calm seas and good visibility."
+      },
+      {
+        "season": "June–August",
+        "rating": "best",
+        "text": "Peak season, warm and dry with the busiest crowds and best-established services."
+      },
+      {
+        "season": "September–October",
+        "rating": "good",
+        "text": "Still open but increasingly unpredictable as the monsoon approaches."
+      },
+      {
+        "season": "November–February",
+        "rating": "okay",
+        "text": "The islands largely close — most resorts and boat operators shut down for the season."
+      }
+    ],
+    "avoid": "November through February entirely — most accommodation and transport shuts down for the monsoon."
+  },
+  "itinerary": {
+    "title": "Three days in the Perhentian Islands",
+    "intro": "Built around diving, snorkelling and doing very little else.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival and settling in",
+        "summary": "Travel to the islands and a first taste of the water.",
+        "morning": "Travel to Kuala Besut and take the boat across.",
+        "afternoon": "Settle in and snorkel from the beach.",
+        "evening": "Dinner at a beachfront restaurant."
+      },
+      {
+        "day": 2,
+        "title": "Diving or a snorkelling boat trip",
+        "summary": "The main activity day.",
+        "morning": "A dive or snorkelling boat trip to the islands' best reef spots.",
+        "afternoon": "Relax on the beach or walk the jungle trail to another bay.",
+        "evening": "Sunset at a beach bar."
+      },
+      {
+        "day": 3,
+        "title": "The other island and departure",
+        "summary": "A water taxi across before heading back to the mainland.",
+        "morning": "Water taxi to the other island for a change of scene.",
+        "afternoon": "Final beach time before the boat back to Kuala Besut.",
+        "evening": "Depart or continue onward."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Perhentian Islands visit noticeably smoother.",
+  "tips": [
+    "Check the season before booking — the islands close entirely from November to February.",
+    "Bring cash, since ATMs are unreliable or nonexistent on both islands.",
+    "Book dive courses with an established operator rather than the cheapest option you find.",
+    "Pack reef-safe sunscreen and consider a rash guard for long snorkelling sessions.",
+    "Bring a headlamp or torch — island paths have limited lighting after dark.",
+    "Keep expectations simple — this is a basic-chalet destination, not a resort island."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the Perhentian Islands?",
+      "a": "Three to four days is a good minimum, longer if diving certifications are part of the plan."
+    },
+    {
+      "q": "When are the Perhentian Islands open?",
+      "a": "Roughly March through October — the northeast monsoon closes most accommodation and boats from November to February."
+    },
+    {
+      "q": "Which island should I choose, Besar or Kecil?",
+      "a": "Kecil suits a livelier backpacker scene, while Besar offers a quieter, slightly more comfortable stay."
+    },
+    {
+      "q": "Is diving expensive in the Perhentians?",
+      "a": "No, affordable by regional standards, making it a popular place to learn to dive."
+    },
+    {
+      "q": "Are the Perhentian Islands car-free?",
+      "a": "Yes, entirely — there are no roads, only paths between chalets, jetties and beaches."
+    },
+    {
+      "q": "How do you get to the Perhentian Islands?",
+      "a": "Fly or drive to Kuala Besut on the mainland, then take a speedboat crossing of around 30-45 minutes."
+    }
+  ],
+  "related": ["taman-negara", "langkawi", "kota-kinabalu"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

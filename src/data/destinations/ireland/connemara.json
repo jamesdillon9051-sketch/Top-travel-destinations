@@ -1,0 +1,374 @@
+{
+  "slug": "connemara",
+  "name": "Connemara",
+  "country": "ireland",
+  "region": "County Galway",
+  "categories": ["nature", "scenic-drive", "coastal", "outdoors"],
+  "tagline": "A wild, sparsely populated region of bogland, mountains and a jagged Atlantic coastline, anchored by a fairytale abbey.",
+  "highlight": "Rounding a bend on the Sky Road outside Clifden to a sudden, sweeping view of the Atlantic and its scattering of small green islands.",
+  "shortDescription": "A wild stretch of bogland, mountains and jagged coastline west of Galway, home to Kylemore Abbey, wild ponies and some of Ireland's emptiest, most dramatic scenery.",
+  "metaDescription": "A Connemara travel guide: Kylemore Abbey, the Sky Road, Connemara National Park, food and how to plan a visit to Ireland's wild west coast.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Ireland West Airport Knock (NOC), or Shannon Airport (SNN)",
+  "knownFor": "Kylemore Abbey, wild ponies, the Sky Road",
+  "budget": "€90–170 per day, mid-range",
+  "goodFor": "Scenic drives, hiking, remote coastline",
+  "coords": { "lat": 53.4880, "lng": -10.0199 },
+  "image": {
+    "file": "File:Kylemore Abbey BW 2025-09-10 15-27-09.jpg",
+    "alt": "Kylemore Abbey reflected in the lake below the Connemara mountains"
+  },
+  "intro": [
+    "Connemara is Ireland at its wildest and emptiest, a sparsely populated region of blanket bog, quartzite mountains and a jagged Atlantic coastline west of Galway.",
+    "Its best-known image is Kylemore Abbey, a 19th-century castle turned Benedictine abbey mirrored perfectly in the lake before it, though the wider region's real character is in its open, largely unpeopled landscape, still home to the native Connemara pony breed.",
+    "Most visitors explore it as a scenic day's drive from Galway, looping out through Clifden and the Sky Road before returning, though staying a night allows for real time on Diamond Hill or the National Park's trails."
+  ],
+  "whyVisit": {
+    "intro": "Connemara's case rests on wild, empty scenery unlike the more visited southwest.",
+    "points": [
+      {
+        "title": "Kylemore Abbey is one of Ireland's most photographed buildings",
+        "text": "A 19th-century castle turned abbey, mirrored in the lake before it against a mountain backdrop."
+      },
+      {
+        "title": "The landscape is wilder and emptier than the southwest",
+        "text": "Blanket bog and quartzite mountains with far fewer visitors than the Ring of Kerry."
+      },
+      {
+        "title": "The Sky Road is a short, spectacular coastal loop",
+        "text": "A compact alternative to a longer peninsula drive, doable in under an hour."
+      },
+      {
+        "title": "Wild Connemara ponies are still found here",
+        "text": "A hardy native breed roaming open ground, one of Ireland's oldest horse breeds."
+      },
+      {
+        "title": "It works well as a Galway day trip or a slower overnight",
+        "text": "Close enough for a full-day loop, but rewarding a longer, quieter stay."
+      }
+    ]
+  },
+  "attractionsIntro": "Connemara's essential sights combine one iconic landmark with wild, open scenery around it.",
+  "attractions": [
+    {
+      "name": "Kylemore Abbey",
+      "image": {
+        "file": "File:Kylemore Abbey BW 2025-09-10 15-27-09.jpg",
+        "alt": "Kylemore Abbey reflected in the lake below the mountains"
+      },
+      "text": "One of Ireland's most photographed buildings, a 19th-century castle turned Benedictine abbey, mirrored in the lake before it.",
+      "tip": "The Victorian walled garden, a short shuttle ride from the abbey, is worth the extra time."
+    },
+    {
+      "name": "Connemara National Park",
+      "image": {
+        "file": "File:Connemara National Park.jpg",
+        "alt": "The open bogland and mountains of Connemara National Park"
+      },
+      "text": "A wild stretch of blanket bog, heath and quartzite mountains, including the dramatic Twelve Bens range.",
+      "tip": "The visitor centre at Letterfrack has good trail maps for all fitness levels."
+    },
+    {
+      "name": "Diamond Hill",
+      "image": {
+        "file": "File:Connemara National Park Diamond Hill.jpg",
+        "alt": "The trail up Diamond Hill in Connemara National Park"
+      },
+      "text": "A rewarding half-day hike to a 442-metre summit, with sweeping views over the park and out to the Atlantic.",
+      "tip": "The upper loop trail is steeper and rockier than the lower loop — check your fitness before committing."
+    },
+    {
+      "name": "The Sky Road, Clifden",
+      "image": {
+        "file": "File:Wild Atlantic Way Sky Road sign.jpg",
+        "alt": "The Sky Road signpost near Clifden in Connemara"
+      },
+      "text": "A spectacular short coastal loop road out of Clifden, with sweeping Atlantic views and scattered small islands.",
+      "tip": "Drive it in the late afternoon for the best light over the water."
+    },
+    {
+      "name": "Clifden town",
+      "image": {
+        "file": "File:The town of Clifden.jpg",
+        "alt": "The town of Clifden, Connemara's main hub"
+      },
+      "text": "Connemara's largest town and natural base, a colourful, low-key hub of pubs, shops and outdoor outfitters.",
+      "tip": "A good stop for supplies before heading out to more remote parts of the region."
+    },
+    {
+      "name": "Roundstone village",
+      "image": {
+        "file": "File:Michael Deligan Roundstone.jpg",
+        "alt": "The harbour village of Roundstone in Connemara"
+      },
+      "text": "A picturesque fishing village on Bertraghboy Bay, known for its traditional bodhrán-making workshop.",
+      "tip": "Stop at the workshop to see the traditional Irish drum handmade on-site."
+    },
+    {
+      "name": "Connemara ponies",
+      "image": {
+        "file": "File:Connemara Ponies (209943565).jpeg",
+        "alt": "Wild Connemara ponies grazing on open ground"
+      },
+      "text": "One of Ireland's oldest native horse breeds, still found grazing semi-wild across the region's open ground.",
+      "tip": "The Connemara Pony Show in Clifden each August is the best chance to see them up close."
+    }
+  ],
+  "thingsToDoIntro": "Connemara rewards slow travel, whether hiking, driving or simply watching the light change over the bog.",
+  "thingsToDo": [
+    {
+      "title": "Tour Kylemore Abbey's walled garden",
+      "image": {
+        "file": "File:Kylemore Abbey BW 2025-09-10 13-14-29.jpg",
+        "alt": "The Victorian walled garden at Kylemore Abbey"
+      },
+      "text": "An underrated part of a Kylemore visit, a restored Victorian walled garden a short shuttle ride from the abbey itself.",
+      "tip": "Budget at least an extra hour beyond the abbey for the garden."
+    },
+    {
+      "title": "Hike Diamond Hill",
+      "image": {
+        "file": "File:View of Kylemore Abbey and Pollacappall Lough from the slope of Diamond Hill (2014).jpg",
+        "alt": "The view over Kylemore Abbey from Diamond Hill"
+      },
+      "text": "A rewarding half-day climb with sweeping views back over Kylemore Abbey and out to the Atlantic.",
+      "tip": "Allow three to four hours for the full upper loop, more with photo stops."
+    },
+    {
+      "title": "Drive the Sky Road at sunset",
+      "image": {
+        "file": "File:Wild Atlantic Way Cleggan Harbour sign.jpg",
+        "alt": "A Wild Atlantic Way sign near Cleggan Harbour in Connemara"
+      },
+      "text": "A short but spectacular loop out of Clifden, best timed for late afternoon light over the Atlantic.",
+      "tip": "Pull-offs along the road offer the best photo spots — take it slowly."
+    },
+    {
+      "title": "Spot wild Connemara ponies",
+      "image": {
+        "file": "File:Connemara Pony 2016-09-03 08 1337.jpg",
+        "alt": "A wild Connemara pony grazing in open countryside"
+      },
+      "text": "A rewarding, unscripted part of driving through the region, with ponies grazing openly across much of the countryside.",
+      "tip": "Keep a respectful distance — these are working and semi-wild animals, not petting-zoo ponies."
+    },
+    {
+      "title": "Wander Roundstone's harbour",
+      "image": {
+        "file": "File:Michael Deligan Roundstone 1.jpg",
+        "alt": "The harbour at Roundstone village in Connemara"
+      },
+      "text": "A peaceful stop on Bertraghboy Bay, with a small harbour, craft shops and a traditional drum workshop.",
+      "tip": "Combine with a short walk out to nearby Gurteen or Dog's Bay beach."
+    },
+    {
+      "title": "Walk Connemara National Park's bog trails",
+      "image": {
+        "file": "File:P7220347 Connemara National Park 06.jpg",
+        "alt": "A boardwalk trail through Connemara National Park's bogland"
+      },
+      "text": "An accessible way to experience the region's blanket bog up close, with boardwalk sections protecting the fragile ground.",
+      "tip": "Wear waterproof boots — much of the ground stays boggy even in dry weather."
+    }
+  ],
+  "foodIntro": "Food here leans on Connemara's own mountain lamb and the wider west coast's seafood tradition.",
+  "foods": [
+    {
+      "name": "Connemara lamb",
+      "text": "Raised on the region's mountain and bogland pasture, prized for its distinctive flavour across Ireland.",
+      "whereToTry": "Restaurants and pubs throughout Clifden and the wider region."
+    },
+    {
+      "name": "Smoked salmon",
+      "image": {
+        "file": "File:Smoked salmon 20080814 120624.jpg",
+        "alt": "Traditionally smoked salmon, a west coast Irish specialty"
+      },
+      "text": "Excellent along this stretch of coast, traditionally smoked and served simply with brown bread.",
+      "whereToTry": "Restaurants and delis throughout Clifden and Roundstone."
+    },
+    {
+      "name": "Seafood chowder",
+      "image": {
+        "file": "File:PXL 20231216 125922999-Ballintoy , Creamy Seafood Chowder.jpg",
+        "alt": "A bowl of creamy Irish seafood chowder"
+      },
+      "text": "An essential warming stop after a day outdoors, made with the day's local catch.",
+      "whereToTry": "Pubs and cafés throughout Clifden and Roundstone."
+    },
+    {
+      "name": "A pint of Guinness",
+      "image": {
+        "file": "File:GuinnessPint.jpg",
+        "alt": "A freshly poured pint of Guinness stout"
+      },
+      "text": "Well earned after a hike up Diamond Hill or a day exploring the Sky Road.",
+      "whereToTry": "Traditional pubs throughout Clifden."
+    },
+    {
+      "name": "Irish stew",
+      "image": {
+        "file": "File:Irish Beef Stew (34046928633).jpg",
+        "alt": "A bowl of hearty Irish stew"
+      },
+      "text": "A warming classic after a day on the region's bog trails or coastal roads.",
+      "whereToTry": "Traditional restaurants and pubs throughout Connemara."
+    },
+    {
+      "name": "Brown bread and butter",
+      "image": {
+        "file": "File:Brown Bread and Irish Butter.JPG",
+        "alt": "Traditional Irish brown bread with butter"
+      },
+      "text": "A simple staple, especially good alongside smoked salmon or a bowl of chowder.",
+      "whereToTry": "Cafés and restaurants throughout the region."
+    }
+  ],
+  "accommodation": {
+    "intro": "Clifden serves as Connemara's main base, small but well set up for travellers exploring the region.",
+    "areas": [
+      {
+        "name": "Clifden",
+        "bestFor": "Being central to the Sky Road and wider region",
+        "text": "The most convenient base, with the widest choice of guesthouses, pubs and restaurants."
+      },
+      {
+        "name": "Near Kylemore or Letterfrack",
+        "bestFor": "A quieter, more scenic stay",
+        "text": "Closer to the National Park and Kylemore Abbey, with fewer amenities than Clifden itself."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "€30–60 per night" },
+      { "label": "Mid-range hotel", "value": "€90–160 per night" },
+      { "label": "Kylemore Abbey entry", "value": "About €18" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About €20–35 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Connemara requires a car or organised tour — it has no direct rail service of its own.",
+    "options": [
+      {
+        "mode": "Rental car from Galway",
+        "text": "The most flexible way in, about an hour to Clifden from the city.",
+        "detail": "The N59 is the main route, winding through much of the region's best scenery."
+      },
+      {
+        "mode": "Day tour from Galway",
+        "text": "A popular no-driving option, widely available as a full-day coach trip.",
+        "detail": "Covers Kylemore Abbey and often the Sky Road, returning to Galway by evening."
+      },
+      {
+        "mode": "Bus from Galway",
+        "text": "A slower but workable option, with services running to Clifden.",
+        "detail": "Best combined with local taxis or tours once in Clifden, given the region's spread-out sights."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is the most practical way to see Connemara's spread-out sights.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Essential for covering Kylemore, the National Park and the Sky Road at a flexible pace.",
+        "detail": "Distances are short but sights are spread across open countryside."
+      },
+      {
+        "mode": "On foot in Clifden",
+        "text": "Easy — the town itself is small and walkable.",
+        "detail": "Trails from the National Park visitor centre also start on foot."
+      },
+      {
+        "mode": "Organised day tours",
+        "text": "A relaxed option from Galway for visitors without a rental car.",
+        "detail": "A practical choice covering the main highlights in a single day."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for the clearest views and mildest weather",
+    "summary": "Connemara is visitable year-round, though clear days for the best mountain and coastal views are more likely outside midsummer.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Good odds of clear visibility and the ponies with new foals in the fields."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The busiest season, including the Connemara Pony Show in Clifden each August."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "good",
+        "text": "A quieter window with the bog and mountains beginning to turn colour."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Dramatic but often wet and windy, with real risk of low cloud over the mountains."
+      }
+    ],
+    "avoid": "Expecting clear mountain views on any given day — check the forecast, since low cloud is common."
+  },
+  "itinerary": {
+    "title": "Two days in Connemara",
+    "intro": "Built around Kylemore Abbey and the National Park on day one, Clifden and the Sky Road on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Kylemore and the National Park",
+        "summary": "Kylemore Abbey and Diamond Hill.",
+        "morning": "Kylemore Abbey and its walled garden.",
+        "afternoon": "Hike Diamond Hill in Connemara National Park.",
+        "evening": "Dinner near Letterfrack or Clifden."
+      },
+      {
+        "day": 2,
+        "title": "Clifden and the coast",
+        "summary": "The Sky Road and Roundstone village.",
+        "morning": "Drive the Sky Road out of Clifden.",
+        "afternoon": "Roundstone village and Bertraghboy Bay.",
+        "evening": "A final dinner in Clifden."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Connemara visit noticeably smoother.",
+  "tips": [
+    "Check the weather forecast before setting out — low cloud can hide the mountain views entirely.",
+    "Book Kylemore Abbey entry online ahead in peak summer to skip the queue.",
+    "Wear waterproof boots for any of the National Park's bog trails.",
+    "Fill up on fuel before heading into the region — stations are sparse outside Clifden.",
+    "Drive slowly on the Sky Road and other narrow coastal loops — the views are a real distraction.",
+    "Keep a respectful distance from Connemara ponies — they're semi-wild, not petting-zoo animals."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Connemara?",
+      "a": "One to two days covers Kylemore Abbey, the National Park and Clifden comfortably."
+    },
+    {
+      "q": "Can you visit Connemara as a day trip from Galway?",
+      "a": "Yes — it's about an hour's drive to Clifden, and organised day tours run regularly."
+    },
+    {
+      "q": "Is Kylemore Abbey a working abbey?",
+      "a": "Yes — it's still home to a small Benedictine community, alongside its role as a visitor attraction."
+    },
+    {
+      "q": "What is Connemara known for?",
+      "a": "Its wild bogland and mountain scenery, Kylemore Abbey, and the native Connemara pony breed."
+    },
+    {
+      "q": "Is Connemara less crowded than the Ring of Kerry?",
+      "a": "Yes, noticeably — it sees far fewer tour coaches, and its wilder, emptier character is part of the appeal."
+    },
+    {
+      "q": "Do you need a car to see Connemara?",
+      "a": "Yes, for the most part — the region's sights are spread out, though organised day tours from Galway cover the highlights without one."
+    }
+  ],
+  "related": ["galway", "cliffs-of-moher-burren", "aran-islands"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

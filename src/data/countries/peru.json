@@ -1,0 +1,394 @@
+{
+  "slug": "peru",
+  "name": "Peru",
+  "continent": "South America",
+  "countryCode": "PE",
+  "tagline": "A country of lost Inca cities, high-altitude lakes and desert oases, where three thousand years of history sit in plain sight above the clouds.",
+  "cardDescription": "Machu Picchu at sunrise, Cusco's colonial streets over Inca foundations, Lake Titicaca's floating islands and the Amazon's dense green canopy.",
+  "metaDescription": "A complete Peru travel guide: the 10 best places to visit, Machu Picchu, Cusco, Lake Titicaca, costs and a practical ten-day itinerary.",
+  "image": {
+    "file": "File:80 - Machu Picchu - Juin 2009 - edit.jpg",
+    "alt": "Machu Picchu, the ancient Inca citadel high in the Andes"
+  },
+  "destinations": [
+    "cusco",
+    "machu-picchu",
+    "sacred-valley",
+    "lima",
+    "lake-titicaca-puno",
+    "arequipa-colca-canyon",
+    "amazon-puerto-maldonado",
+    "nazca-lines",
+    "huacachina",
+    "rainbow-mountain"
+  ],
+  "intro": [
+    "Peru is a country where extraordinary history is never far from the surface — Inca stonework still forms the foundations of colonial buildings in Cusco, and Machu Picchu remains one of the only major ancient wonders the Spanish conquest never found.",
+    "That history sits within dramatic geography, from Andean peaks over 4,000 metres and the world's deepest canyons to the Amazon basin's dense rainforest and a Pacific coastline hiding lines in the desert visible only from the air.",
+    "It's also a country that rewards a slower pace — high altitude in Cusco and Lake Titicaca demands real acclimatisation time, and the distances between the coast, the Andes and the jungle are considerably greater than a map first suggests."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit — though the Amazon and the far south coast reward a second trip just as much as a first.",
+  "thingsToDoIntro": "The experiences that recur across the country and that make a Peru trip feel like more than a checklist of ruins.",
+  "thingsToDo": [
+    {
+      "title": "Watch sunrise over Machu Picchu",
+      "image": {
+        "file": "File:Peru Machu Picchu Sunrise.jpg",
+        "alt": "Sunrise over the ancient citadel of Machu Picchu"
+      },
+      "text": "The essential Peru experience, watching the first light reveal the Inca citadel's full scale from the classic viewpoint.",
+      "tip": "Book the first entry slot of the day for both the best light and the thinnest crowds."
+    },
+    {
+      "title": "Ride a reed boat on Lake Titicaca",
+      "image": {
+        "file": "File:Islas flotantes de los Uros, Lago Titicaca, Perú, 2015-08-01, DD 25.JPG",
+        "alt": "The floating reed islands of the Uros people on Lake Titicaca"
+      },
+      "text": "A living tradition, not a museum piece, visiting the Uros people's floating islands built entirely from woven totora reeds.",
+      "tip": "Combine with a stay on Taquile or Amantaní island for a fuller, less rushed experience."
+    },
+    {
+      "title": "Hike a stretch of the Inca Trail",
+      "text": "One of the world's great treks, following stone paths laid by the Inca themselves toward Machu Picchu.",
+      "tip": "Book months ahead — permits for the classic four-day trail sell out well in advance."
+    },
+    {
+      "title": "Spot condors over Colca Canyon",
+      "image": {
+        "file": "File:Peru - Colca Canyon - Andean condor (Vultur gryphus) 01.jpg",
+        "alt": "An Andean condor soaring over Colca Canyon"
+      },
+      "text": "A thrilling sight, Andean condors riding thermals at eye level from the canyon's rim at Cruz del Cóndor.",
+      "tip": "Arrive by 8am — the condors' morning flights are far more reliable than later in the day."
+    },
+    {
+      "title": "Sandboard the dunes at Huacachina",
+      "image": {
+        "file": "File:Huacachina Dunes.jpg",
+        "alt": "Towering sand dunes surrounding the Huacachina oasis"
+      },
+      "text": "A thrilling desert detour, racing dune buggies and sandboarding towering dunes around a palm-fringed oasis.",
+      "tip": "Go in the late afternoon for cooler sand and dramatic desert light."
+    },
+    {
+      "title": "Search for wildlife in the Amazon",
+      "image": {
+        "file": "File:Parrots at a clay lick -Tambopata National Reserve, Peru-8c.jpg",
+        "alt": "Macaws at a clay lick in the Peruvian Amazon"
+      },
+      "text": "One of the most biodiverse places on Earth, with real chances of macaws, monkeys and giant river otters.",
+      "tip": "A multi-day lodge stay reveals far more wildlife than a rushed day trip."
+    }
+  ],
+  "foodIntro": "Peruvian food's growing global reputation is well earned, built on serious seafood, Andean ingredients and centuries of cultural fusion.",
+  "foods": [
+    {
+      "name": "Ceviche",
+      "image": {
+        "file": "File:Ceviche del Perú.jpg",
+        "alt": "Ceviche, Peru's national dish of citrus-cured raw fish"
+      },
+      "text": "Peru's national dish, fresh raw fish cured in citrus with onion and chili, best eaten fresh at midday.",
+      "whereToTry": "Coastal cevicherías nationwide, especially in Lima."
+    },
+    {
+      "name": "Lomo saltado",
+      "image": {
+        "file": "File:Lomo Saltado.JPG",
+        "alt": "Lomo saltado, a Peruvian stir-fry of beef, onions and fries"
+      },
+      "text": "A beloved fusion dish, beef stir-fried with onions, tomatoes and soy sauce, served with fries and rice.",
+      "whereToTry": "Restaurants nationwide, from street stalls to fine dining."
+    },
+    {
+      "name": "Pisco sour",
+      "image": {
+        "file": "File:Pisco Sour Cocktail.jpg",
+        "alt": "A pisco sour, Peru's national cocktail"
+      },
+      "text": "Peru's national cocktail, a frothy mix of pisco brandy, lime, egg white and bitters.",
+      "whereToTry": "Bars and restaurants nationwide."
+    },
+    {
+      "name": "Causa limeña",
+      "image": {
+        "file": "File:Causa limeña.JPG",
+        "alt": "Causa limeña, a layered Peruvian potato dish"
+      },
+      "text": "A Lima classic, mashed yellow potato layered with chicken, avocado or seafood, seasoned with lime and chili.",
+      "whereToTry": "Restaurants throughout Lima and nationwide."
+    },
+    {
+      "name": "Anticuchos",
+      "image": {
+        "file": "File:Anticuchos - Grilled Beef Heart skewers.jpg",
+        "alt": "Anticuchos, grilled beef heart skewers"
+      },
+      "text": "A beloved street food, marinated and grilled beef heart skewers with a real depth of smoky flavour.",
+      "whereToTry": "Street stalls nationwide, especially in the evening."
+    },
+    {
+      "name": "Coca tea",
+      "text": "A common remedy for altitude sickness in the Andes, a mild herbal tea made from coca leaves.",
+      "whereToTry": "Hotels and cafés throughout Cusco and Puno."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Peru is straightforward to travel in, with altitude and long distances between regions the two practicalities that most often catch visitors out.",
+  "practical": {
+    "capital": "Lima",
+    "language": "Spanish nationally, with Quechua and Aymara widely spoken in Andean regions.",
+    "currency": "Peruvian sol (S/)",
+    "money": "A mix of card and cash — cash is still preferred at markets and smaller rural businesses.",
+    "visa": "Visa-free entry for up to 90 or 183 days for many nationalities including the US, Canada, Australia and EU citizens, depending on nationality.",
+    "plugs": "Type A and C, 220 V, 60 Hz.",
+    "emergency": "105 for police, 106 for ambulance, nationwide.",
+    "tipping": "Not obligatory but appreciated — 10% at restaurants and small tips for guides and porters.",
+    "safety": "Generally safe for tourists in main destinations, with sensible precautions needed around petty theft in Lima and Cusco's busier areas.",
+    "connectivity": "Good 4G coverage in cities and Cusco, patchy in the Amazon and remote Andean areas.",
+    "timeZone": "Peru Time (UTC-5), no daylight saving.",
+    "budget": [
+      { "label": "Backpacker", "value": "S/120–200 per day — hostels, local menus, buses" },
+      { "label": "Mid-range", "value": "S/300–550 per day — guesthouses, restaurant meals, guided tours" },
+      { "label": "Comfortable", "value": "S/700–1,200 per day — hotels, private guides, domestic flights" },
+      { "label": "Machu Picchu entry and train", "value": "Add significantly — tickets and train fares are the trip's biggest single cost" }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for the dry season, best for Machu Picchu and the Andes",
+    "summary": "Peru's diverse geography means the best time varies by region, though the dry Andean season suits most first-time itineraries.",
+    "seasons": [
+      {
+        "season": "Dry season (May–September)",
+        "rating": "best",
+        "text": "The best window for Machu Picchu, Cusco and the Andes, with clear skies and reliable trails, also the busiest season."
+      },
+      {
+        "season": "Shoulder months (April, October)",
+        "rating": "good",
+        "text": "Fewer crowds with still-decent weather odds across the Andes."
+      },
+      {
+        "season": "Wet season (November–March)",
+        "rating": "okay",
+        "text": "Lush and green, though trails can be muddy and the Inca Trail itself closes each February for maintenance."
+      },
+      {
+        "season": "Amazon dry season (June–October)",
+        "rating": "good",
+        "text": "The easiest time for jungle lodges and wildlife spotting, with lower water levels concentrating animals near rivers."
+      }
+    ],
+    "avoid": "Attempting the classic Inca Trail in February, when it closes nationwide for annual maintenance."
+  },
+  "tripDuration": {
+    "headline": "10–14 days for a first trip",
+    "summary": "Peru's long distances and high-altitude acclimatisation needs make a rushed itinerary the most common planning mistake.",
+    "options": [
+      {
+        "length": "5–6 days",
+        "text": "Lima, Cusco and Machu Picchu as a focused highlights trip.",
+        "detail": "Enough for the essential Inca sites, though rushed for altitude acclimatisation."
+      },
+      {
+        "length": "7–9 days",
+        "text": "Lima, Cusco, the Sacred Valley and Machu Picchu at a more comfortable pace.",
+        "detail": "A solid, well-paced introduction to Peru's Andean highlights."
+      },
+      {
+        "length": "10–14 days",
+        "text": "The itinerary on this page: Lima, Cusco, the Sacred Valley, Machu Picchu, Rainbow Mountain and Lake Titicaca.",
+        "detail": "A complete first look at Peru's classic highlights."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Add Arequipa, Colca Canyon, the Amazon and the southern desert coast in full.",
+        "detail": "The Amazon and far south are where a second Peru trip belongs."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "A mix of domestic flights, trains and buses is the standard way to see Peru — the country's scale and mountainous terrain make overland travel alone impractical for most itineraries.",
+    "options": [
+      {
+        "mode": "Domestic flights",
+        "text": "Essential for connecting [[lima|Lima]] to [[cusco|Cusco]], [[arequipa-colca-canyon|Arequipa]] and [[amazon-puerto-maldonado|Puerto Maldonado]].",
+        "detail": "Flights are short but save days compared to overland travel across the Andes."
+      },
+      {
+        "mode": "The PeruRail and Inca Rail trains",
+        "text": "The only practical way to reach [[machu-picchu|Machu Picchu]] without hiking.",
+        "detail": "Scenic, if pricey, routes run from Cusco and the Sacred Valley to Aguas Calientes."
+      },
+      {
+        "mode": "Long-distance buses",
+        "text": "Comfortable and affordable for routes like Cusco to [[lake-titicaca-puno|Puno]] or [[nazca-lines|Nazca]] to [[huacachina|Ica]].",
+        "detail": "Overnight buses with reclining seats cover Peru's longer distances well."
+      },
+      {
+        "mode": "Private or shared tours",
+        "text": "The standard way to reach [[rainbow-mountain|Rainbow Mountain]] and [[arequipa-colca-canyon|Colca Canyon]].",
+        "detail": "Both involve early starts and high-altitude driving best left to experienced local operators."
+      },
+      {
+        "mode": "Taxis and rideshare apps",
+        "text": "The easiest way around within [[lima|Lima]] and [[cusco|Cusco]] themselves.",
+        "detail": "Widely available and inexpensive in the main cities."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Ten days in Peru",
+    "intro": "A classic route from Lima into the Andes for Cusco, the Sacred Valley and Machu Picchu, with Rainbow Mountain and Lake Titicaca added on. Covers six of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Lima",
+        "morning": "Land in Lima and check in to your hotel.",
+        "afternoon": "Explore Miraflores and the coastal Malecón.",
+        "evening": "Dinner in Barranco or Miraflores."
+      },
+      {
+        "day": 2,
+        "title": "Lima's historic centre",
+        "morning": "The historic Plaza Mayor and cathedral.",
+        "afternoon": "A museum visit, such as the Larco Museum.",
+        "evening": "A final Lima dinner before flying on."
+      },
+      {
+        "day": 3,
+        "title": "Fly to Cusco",
+        "morning": "Fly to Cusco and check in to your hotel.",
+        "afternoon": "Rest and acclimatise to the altitude.",
+        "evening": "A gentle first walk around the Plaza de Armas."
+      },
+      {
+        "day": 4,
+        "title": "Cusco's sights",
+        "morning": "Cusco Cathedral and the Qorikancha.",
+        "afternoon": "Sacsayhuamán and the nearby Inca ruins.",
+        "evening": "Dinner in San Blas."
+      },
+      {
+        "day": 5,
+        "title": "The Sacred Valley",
+        "morning": "Drive to Pisac and its ruins and market.",
+        "afternoon": "Continue to Ollantaytambo's fortress.",
+        "evening": "Overnight in the Sacred Valley."
+      },
+      {
+        "day": 6,
+        "title": "Machu Picchu",
+        "morning": "Train to Aguas Calientes, then bus up to Machu Picchu.",
+        "afternoon": "Explore the citadel with a guide.",
+        "evening": "Return to Cusco or the Sacred Valley."
+      },
+      {
+        "day": 7,
+        "title": "Rainbow Mountain",
+        "morning": "Early departure for Rainbow Mountain.",
+        "afternoon": "The high-altitude hike to the viewpoint.",
+        "evening": "Return to Cusco for the night."
+      },
+      {
+        "day": 8,
+        "title": "On to Lake Titicaca",
+        "morning": "Travel to Puno by bus or flight via Juliaca.",
+        "afternoon": "Settle in and enjoy the lakeside views.",
+        "evening": "Dinner in Puno."
+      },
+      {
+        "day": 9,
+        "title": "The Uros and Taquile islands",
+        "morning": "Boat to the floating Uros islands.",
+        "afternoon": "Continue to Taquile Island.",
+        "evening": "Return to Puno."
+      },
+      {
+        "day": 10,
+        "title": "Return and depart",
+        "morning": "Fly back to Lima via Juliaca or Cusco.",
+        "afternoon": "A final wander or last-minute shopping.",
+        "evening": "Depart for home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Peruvian culture is shaped by a genuine blending of Andean, Spanish colonial and Amazonian traditions, with real, living pride in Inca heritage rather than treating it as distant history.",
+    "etiquette": [
+      {
+        "title": "Greetings are warm",
+        "text": "A handshake is standard, and a light cheek kiss between women or mixed pairs is common in social settings."
+      },
+      {
+        "title": "Altitude is taken seriously",
+        "text": "Locals expect visitors to rest and hydrate on arrival in Cusco or Puno, not push through symptoms."
+      },
+      {
+        "title": "Bargaining is expected at markets",
+        "text": "Politely negotiating prices at craft markets is normal, though fixed-price shops don't expect it."
+      },
+      {
+        "title": "Photographing people requires asking first",
+        "text": "Especially in traditional dress at markets or festivals — a small tip is often appropriate."
+      },
+      {
+        "title": "Tipping is modest but appreciated",
+        "text": "Around 10% at restaurants, and small tips for guides and porters on tours."
+      },
+      {
+        "title": "Time runs more relaxed outside Lima",
+        "text": "Tours and buses in rural areas may run behind schedule — build in buffer time."
+      }
+    ],
+    "dos": [
+      "Rest and hydrate on arrival at high altitude before any strenuous activity.",
+      "Book Machu Picchu tickets and trains well ahead, especially in the June–August dry season.",
+      "Carry small cash for markets, tips and rural areas with limited card access.",
+      "Bring layers — Andean days can swing from hot sun to cold within hours."
+    ],
+    "donts": [
+      "Don't skip acclimatisation days in Cusco before attempting Rainbow Mountain or the Inca Trail.",
+      "Don't drink tap water — stick to bottled or purified water nationwide.",
+      "Don't photograph people without asking first, especially at traditional markets.",
+      "Don't rush a Peru itinerary — the distances and altitude demand a realistic pace."
+    ]
+  },
+  "tipsIntro": "The things that most often go wrong on a Peru trip, in rough order of how much they cost people.",
+  "tips": [
+    "Book Machu Picchu entry tickets and train tickets well ahead, especially for June–August travel.",
+    "Spend at least a full day acclimatising in Cusco before any high-altitude activity.",
+    "Drink coca tea or carry altitude sickness medication if prone to symptoms.",
+    "Pack layers regardless of season — Andean temperatures swing dramatically between day and night.",
+    "Book Inca Trail permits months ahead if hiking the classic route — it sells out early.",
+    "Carry cash for markets and rural areas, even though cities are increasingly card-friendly.",
+    "Drink only bottled or purified water throughout the trip.",
+    "Budget realistic travel days between regions — Peru's distances are larger than they look on a map."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Peru?",
+      "a": "Ten to fourteen days covers Lima, Cusco, the Sacred Valley, Machu Picchu and Lake Titicaca comfortably, which is the itinerary on this page. A week is enough for Lima, Cusco and Machu Picchu alone, and still worthwhile."
+    },
+    {
+      "q": "What is the best time of year to visit Peru?",
+      "a": "May to September, the dry season, offers the most reliable weather for Machu Picchu and the Andes. The Amazon has its own separate dry season, roughly June to October."
+    },
+    {
+      "q": "Do I need to worry about altitude sickness?",
+      "a": "Yes in Cusco and Puno, both above 3,300 metres — rest on arrival, stay hydrated, and consider coca tea or medication if you're prone to symptoms."
+    },
+    {
+      "q": "Is Peru expensive?",
+      "a": "Moderate overall, affordable outside Machu Picchu's own costs — mid-range travel runs about S/300–550 per person per day, with tickets and trains to Machu Picchu the trip's biggest single expense."
+    },
+    {
+      "q": "Do you need to book Machu Picchu tickets in advance?",
+      "a": "Yes, essential — daily visitor numbers are capped, and tickets, especially for popular time slots, sell out well ahead in peak season."
+    },
+    {
+      "q": "Is Peru safe to visit?",
+      "a": "Generally yes for tourists in the main destinations, with sensible precautions around petty theft in Lima and Cusco's busier tourist areas."
+    }
+  ]
+}

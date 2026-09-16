@@ -1,0 +1,362 @@
+{
+  "slug": "korcula",
+  "name": "Korčula",
+  "country": "croatia",
+  "region": "Dalmatia",
+  "categories": ["island", "historic", "food-and-wine", "off-the-beaten-path"],
+  "tagline": "A quieter, equally beautiful alternative to Hvar, a walled medieval town on a herringbone street plan that claims Marco Polo as a native son.",
+  "highlight": "Wandering the old town's herringbone streets, each angled just enough to block the wind and let the sea breeze cool every doorway.",
+  "shortDescription": "A quieter, equally beautiful alternative to Hvar, a walled medieval town that claims Marco Polo as a native son, surrounded by Korčula's own vineyards.",
+  "metaDescription": "A Korčula travel guide: St Mark's Cathedral, Marco Polo's birthplace, the old town walls, Pošip wine, food and how to plan a Dalmatian island trip.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Dubrovnik Airport (DBV), about 2.5 hours by road and ferry",
+  "knownFor": "St Mark's Cathedral, Marco Polo's alleged birthplace, Pošip wine",
+  "budget": "€100–200 per day, mid-range",
+  "goodFor": "History, wine, a quieter island escape",
+  "coords": { "lat": 42.9606, "lng": 17.1350 },
+  "image": {
+    "file": "File:J36 030 Korčula, Altstadthalbinsel.jpg",
+    "alt": "Korčula's walled old town on its peninsula"
+  },
+  "intro": [
+    "Korčula is a quieter, equally beautiful alternative to Hvar, a walled medieval town on its own small peninsula off Croatia's Pelješac Peninsula.",
+    "Its old town is famous for a clever herringbone street plan, angled to funnel cooling sea breezes through the main streets while blocking the harsher winter winds.",
+    "The island also claims to be the birthplace of Marco Polo, and produces some of Croatia's most respected white wine from vineyards right outside the old town walls."
+  ],
+  "whyVisit": {
+    "intro": "Korčula's case rests on Dalmatian island beauty without Hvar's crowds or price tag.",
+    "points": [
+      {
+        "title": "The old town is a walled medieval showpiece",
+        "text": "A compact, herringbone-planned peninsula town rivalling Dubrovnik's architecture on a smaller scale."
+      },
+      {
+        "title": "It's quieter and more affordable than Hvar",
+        "text": "A similar Dalmatian island experience with noticeably fewer crowds."
+      },
+      {
+        "title": "The Marco Polo connection is a fun draw",
+        "text": "Local legend places the explorer's birthplace right in the old town."
+      },
+      {
+        "title": "The wine is excellent",
+        "text": "Pošip, a distinctive white grape, is grown almost exclusively on this island."
+      },
+      {
+        "title": "It works well paired with Hvar or Dubrovnik",
+        "text": "An easy ferry connection makes it a natural island-hopping addition."
+      }
+    ]
+  },
+  "attractionsIntro": "Korčula's essential sights are concentrated within its compact, walled old town.",
+  "attractions": [
+    {
+      "name": "Korčula's old town peninsula",
+      "image": {
+        "file": "File:J36 030 Korčula, Altstadthalbinsel.jpg",
+        "alt": "Korčula's old town on its peninsula"
+      },
+      "text": "A walled medieval town on its own small peninsula, its fortifications still substantially intact.",
+      "tip": "Walk the perimeter path for the best views of the walls from outside."
+    },
+    {
+      "name": "St Mark's Cathedral",
+      "image": {
+        "file": "File:Korcula, cathedral St. Mark.JPG",
+        "alt": "St Mark's Cathedral in Korčula"
+      },
+      "text": "The old town's centrepiece, a Gothic-Renaissance cathedral built from local stone on the main square.",
+      "tip": "Look for the carvings by Korčula's own stonemasons, renowned across Dalmatia."
+    },
+    {
+      "name": "St Mark's Square and the Venetian Governor's Palace",
+      "image": {
+        "file": "File:Korcula, main square, cathedral St. Mark, Venetian governor's palace.jpg",
+        "alt": "St Mark's Square in Korčula"
+      },
+      "text": "The old town's civic heart, ringed by the cathedral, bishop's palace and former Venetian governor's residence.",
+      "tip": "A lovely spot for an evening coffee once the day-trip crowds have thinned."
+    },
+    {
+      "name": "Marco Polo's alleged birthplace",
+      "image": {
+        "file": "File:Korčula city 06720, Marco Polo house.jpg",
+        "alt": "The house said to be Marco Polo's birthplace in Korčula"
+      },
+      "text": "A beloved local legend, a modest stone house said to be where the famous explorer was born in 1254.",
+      "tip": "Treat the connection as charming folklore rather than settled historical fact — scholars dispute it."
+    },
+    {
+      "name": "St Mark's Cathedral's interior",
+      "image": {
+        "file": "File:Korcula, St. Mark's Cathedral, interior.JPG",
+        "alt": "The interior of St Mark's Cathedral in Korčula"
+      },
+      "text": "Worth a proper look inside, featuring works attributed to Venetian master Tintoretto.",
+      "tip": "Combine with the adjacent Treasury and Bishop's Palace museums for the fuller story."
+    },
+    {
+      "name": "St Peter's Church",
+      "image": {
+        "file": "File:Korcula, St. Peter's Church and alleged Marco Polo birth house (left).png",
+        "alt": "St Peter's Church near Marco Polo's alleged birthplace in Korčula"
+      },
+      "text": "A modest but atmospheric church right beside the Marco Polo house, part of the same historic corner.",
+      "tip": "An easy stop combined with the Marco Polo house next door."
+    },
+    {
+      "name": "The old town walls from the water",
+      "image": {
+        "file": "File:D01.12 Korčula, Altstadthalbinsel.jpg",
+        "alt": "Korčula's old town walls seen from the water"
+      },
+      "text": "A striking sight, the old town's fortified silhouette rising directly from the sea.",
+      "tip": "A short boat trip or ferry arrival both offer this classic view."
+    }
+  ],
+  "thingsToDoIntro": "Korčula rewards a slow pace, best spent wandering the old town and tasting the island's own wine.",
+  "thingsToDo": [
+    {
+      "title": "Walk the old town's herringbone streets",
+      "text": "A fascinating piece of town planning, streets deliberately angled to channel sea breezes and block winter winds.",
+      "tip": "Compare the straight main street to the curved side streets to see the clever design in action."
+    },
+    {
+      "title": "Tour Marco Polo's alleged birthplace",
+      "image": {
+        "file": "File:Birthplace of Marco Polo, Korcula, Croatia.JPG",
+        "alt": "The house said to be Marco Polo's birthplace"
+      },
+      "text": "A fun, low-key stop, climbing the modest house's tower for a view over the old town's rooftops.",
+      "tip": "Don't expect much in the way of historical artefacts — this is more atmosphere than museum."
+    },
+    {
+      "title": "Explore St Mark's Cathedral",
+      "image": {
+        "file": "File:INTERIOR ST. MARK'S CATHEDRAL, KORCULA, CROATIA.jpg",
+        "alt": "The interior of St Mark's Cathedral in Korčula"
+      },
+      "text": "A worthwhile visit, taking in the cathedral's carved stonework and Venetian-era artwork.",
+      "tip": "Combine with the Bishop's Treasury next door for a fuller sense of the island's history."
+    },
+    {
+      "title": "Watch a Moreška sword dance performance",
+      "text": "A unique local tradition, a centuries-old choreographed sword dance performed in the old town in summer.",
+      "tip": "Check performance schedules ahead — shows typically run on a set evening each week in season."
+    },
+    {
+      "title": "Swim at a beach outside the walls",
+      "text": "An easy way to cool off, small pebble beaches dotted around the peninsula just outside the old town.",
+      "tip": "Rent a kayak or paddleboard for a closer look at the walls from the water."
+    },
+    {
+      "title": "Photograph the old town from the water",
+      "image": {
+        "file": "File:J36 045 Korčula, Altstadthalbinsel.jpg",
+        "alt": "Korčula's old town photographed from the water"
+      },
+      "text": "A rewarding pursuit, the walled peninsula town photographing beautifully from nearly any angle offshore.",
+      "tip": "Golden hour light works especially well on the old town's pale stone walls."
+    }
+  ],
+  "foodIntro": "Korčula's food centres on its own respected white wine alongside classic Dalmatian cooking.",
+  "foods": [
+    {
+      "name": "Pošip wine",
+      "image": {
+        "file": "File:Posip-blato-1902.jpg",
+        "alt": "Pošip, a white wine grown almost exclusively on Korčula"
+      },
+      "text": "One of Croatia's most respected white wines, a grape grown almost exclusively on this island.",
+      "whereToTry": "Wine bars throughout the old town, or wineries a short drive inland."
+    },
+    {
+      "name": "Žrnovski makaruni",
+      "text": "A distinctive local pasta, hand-rolled in the nearby village of Žrnovo and traditionally served with a rich meat sauce.",
+      "whereToTry": "Traditional konobas, especially those specialising in Korčula home cooking."
+    },
+    {
+      "name": "Fresh grilled seafood",
+      "image": {
+        "file": "File:Tuna na žaru - Konoba Kolona (14982130756).jpg",
+        "alt": "Grilled seafood at a traditional Croatian konoba"
+      },
+      "text": "A highlight of dining here, fish and shellfish grilled simply at old town konobas.",
+      "whereToTry": "Konobas throughout Korčula's old town."
+    },
+    {
+      "name": "Dalmatinski pršut (dry-cured ham)",
+      "image": {
+        "file": "File:Dalmatinski pršut.jpg",
+        "alt": "Dalmatinski pršut, Croatia's dry-cured ham"
+      },
+      "text": "A reliable starter, often served with local cheese and olives.",
+      "whereToTry": "Restaurants and konobas throughout the old town."
+    },
+    {
+      "name": "Crni rižot (black risotto)",
+      "image": {
+        "file": "File:Risotto al nero di seppia.jpg",
+        "alt": "Black risotto made with cuttlefish ink"
+      },
+      "text": "A Dalmatian classic, worth trying at least once during a Korčula visit.",
+      "whereToTry": "Seafood restaurants throughout the old town."
+    },
+    {
+      "name": "Fritule (small fried doughnuts)",
+      "image": {
+        "file": "File:Fritule iz Rijeke.jpg",
+        "alt": "Fritule, small Croatian fried doughnuts"
+      },
+      "text": "A nice sweet treat, found at bakeries around the old town.",
+      "whereToTry": "Bakeries throughout Korčula's old town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Korčula offers a more affordable range of stays than Hvar, from simple guesthouses to boutique hotels.",
+    "areas": [
+      {
+        "name": "The old town",
+        "bestFor": "Being immersed in the historic walled peninsula",
+        "text": "The most atmospheric base, though also the busiest during day-trip hours."
+      },
+      {
+        "name": "Lumbarda or nearby villages",
+        "bestFor": "A quieter stay near the island's vineyards and beaches",
+        "text": "A short drive from the old town, with a more relaxed, rural feel."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "€60–110 per night" },
+      { "label": "Mid-range hotel", "value": "€130–250 per night" },
+      { "label": "St Mark's Cathedral and Treasury entry", "value": "About €7–10" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About €28–50 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Korčula is reached by ferry, most commonly from Dubrovnik or Split.",
+    "options": [
+      {
+        "mode": "Catamaran from Dubrovnik",
+        "text": "The most common route, with seasonal daily sailings.",
+        "detail": "Takes around two to three hours depending on the service."
+      },
+      {
+        "mode": "Ferry from Split",
+        "text": "A longer but scenic option through the Dalmatian islands.",
+        "detail": "Journey times vary depending on stops, generally three to five hours."
+      },
+      {
+        "mode": "Car ferry via Pelješac Peninsula",
+        "text": "The quickest option if driving.",
+        "detail": "A short car ferry crossing connects Korčula to the mainland peninsula."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Korčula's compact old town is entirely walkable, with a car or scooter useful for the wider island.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The only way to explore the old town's herringbone streets.",
+        "detail": "Everything within the walls sits within a few minutes' walk."
+      },
+      {
+        "mode": "Bus or scooter to nearby villages",
+        "text": "Useful for reaching Lumbarda's beaches and vineyards.",
+        "detail": "A short ride connects the old town to the island's other villages."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "A pleasant way to explore the island's quieter roads.",
+        "detail": "Widely available for rent near the old town."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for warm weather without peak crowds",
+    "summary": "Korčula is busiest in July and August, with shoulder months offering a quieter, better-value alternative.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Warm enough to swim, with noticeably thinner crowds than peak summer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Warm and lively, though still noticeably calmer than Hvar at the same time of year."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "best",
+        "text": "Still warm enough for the sea, with crowds and prices both easing off."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "poor",
+        "text": "Very quiet, with much of the island's hospitality scene closed for the season."
+      }
+    ],
+    "avoid": "Deep winter, when most restaurants and hotels close until spring."
+  },
+  "itinerary": {
+    "title": "Two days in Korčula",
+    "intro": "Built around the old town's essential sights, with time for wine tasting on the second day.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town",
+        "summary": "The walled peninsula's essential sights.",
+        "morning": "St Mark's Cathedral and Square.",
+        "afternoon": "Marco Polo's alleged birthplace and St Peter's Church.",
+        "evening": "Dinner at a konoba within the old town walls."
+      },
+      {
+        "day": 2,
+        "title": "Wine and the wider island",
+        "summary": "A slower day of vineyards and beaches.",
+        "morning": "Visit a Pošip winery near Lumbarda.",
+        "afternoon": "Swim at a beach outside the old town.",
+        "evening": "A final dinner featuring local wine."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Korčula visit noticeably smoother.",
+  "tips": [
+    "Book ferry tickets ahead for peak summer sailings from Dubrovnik or Split.",
+    "Try Pošip wine at a local winery, not just a restaurant list.",
+    "Check for a Moreška sword dance performance during your visit.",
+    "Wear comfortable shoes — the old town's streets are cobbled and can be slippery.",
+    "Escape to Lumbarda's beaches when the old town feels busy with day-trippers.",
+    "Consider Korčula as a quieter alternative base to Hvar for a Dalmatian island stay."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Korčula?",
+      "a": "Two days covers the old town and a taste of the island's wine country comfortably."
+    },
+    {
+      "q": "How do you get to Korčula?",
+      "a": "By catamaran from Dubrovnik or ferry from Split, or by car via the Pelješac Peninsula's car ferry."
+    },
+    {
+      "q": "Was Marco Polo really born in Korčula?",
+      "a": "It's disputed by historians, though the local legend and the house said to be his birthplace remain a beloved part of the island's identity."
+    },
+    {
+      "q": "How does Korčula compare to Hvar?",
+      "a": "Quieter and more affordable, offering a similar Dalmatian island experience with noticeably fewer crowds."
+    },
+    {
+      "q": "Is Korčula good for wine lovers?",
+      "a": "Yes — Pošip, one of Croatia's best white wines, is grown almost exclusively on this island."
+    },
+    {
+      "q": "Can you combine Korčula with Dubrovnik or Hvar?",
+      "a": "Yes, easily — ferry connections make it a natural addition to either destination."
+    }
+  ],
+  "related": ["hvar", "dubrovnik", "split"],
+  "relatedArticles": ["mediterranean-coasts", "underrated-destinations"]
+}

@@ -1,0 +1,370 @@
+{
+  "slug": "cairngorms-national-park",
+  "name": "Cairngorms National Park",
+  "country": "scotland",
+  "region": "The Highlands",
+  "categories": ["nature", "hiking", "wildlife", "national-park"],
+  "tagline": "The UK's largest national park, a vast wilderness of ancient pine forest, ice-carved mountains and genuine Highland wildlife.",
+  "highlight": "Watching a red deer stag graze quietly at dawn beside the River Muick, mist still hanging low over the surrounding glen.",
+  "shortDescription": "The UK's largest national park, a vast Highland wilderness of ancient Caledonian pine forest, ice-carved mountains and real wildlife around every glen.",
+  "metaDescription": "A Cairngorms National Park travel guide: Loch Morlich, the Cairngorm Mountain Railway, wildlife, food and how to plan a Highland park visit.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Inverness Airport (INV)",
+  "knownFor": "Ancient pine forest, red deer, Highland wildlife",
+  "budget": "£90–170 per day, mid-range",
+  "goodFor": "Hiking, wildlife spotting, outdoor sports",
+  "coords": { "lat": 57.1930, "lng": -3.8270 },
+  "image": {
+    "file": "File:Cairngorms National Park, Scotland.jpg",
+    "alt": "The mountains and glens of Cairngorms National Park"
+  },
+  "intro": [
+    "Cairngorms National Park is the UK's largest national park, a vast stretch of Highland wilderness considerably bigger than many small countries, built around a range of ancient, ice-carved mountains.",
+    "Its real character is in its scale and wildness — ancient Caledonian pine forest, some of Britain's last remaining fragments, shelters red deer, red squirrels and golden eagles across glens that feel largely untouched.",
+    "Most visitors base themselves in Aviemore, a small outdoor-focused town at the park's heart, using it as a launchpad for hiking, wildlife watching and, in winter, some of Scotland's only skiing."
+  ],
+  "whyVisit": {
+    "intro": "The Cairngorms' case rests on vast scale and real, accessible Highland wildlife.",
+    "points": [
+      {
+        "title": "It's the UK's largest national park",
+        "text": "Bigger than Luxembourg, with a real sense of scale and wildness rare in Britain."
+      },
+      {
+        "title": "Ancient Caledonian pine forest survives here",
+        "text": "Some of Scotland's last remaining fragments of its original native forest."
+      },
+      {
+        "title": "Wildlife spotting is a real possibility, not a gimmick",
+        "text": "Red deer, red squirrels and golden eagles are all present across the park."
+      },
+      {
+        "title": "The Cairngorm Mountain Railway is accessible",
+        "text": "A funicular climbing high into the mountains without requiring a serious hike."
+      },
+      {
+        "title": "It works well alongside Speyside and Loch Ness",
+        "text": "A natural stop on a wider Highland loop, both within easy driving distance."
+      }
+    ]
+  },
+  "attractionsIntro": "The park's essential sights combine ancient forest, genuine wildlife and some of Scotland's highest mountain terrain.",
+  "attractions": [
+    {
+      "name": "Loch Morlich",
+      "image": {
+        "file": "File:Loch Morlich and Cairngorm Mountains.jpg",
+        "alt": "Loch Morlich beneath the Cairngorm Mountains"
+      },
+      "text": "A striking freshwater loch backed directly by the Cairngorm mountains, with a sandy beach unusual for inland Scotland.",
+      "tip": "Popular for watersports in summer, with rental kayaks and paddleboards available lakeside."
+    },
+    {
+      "name": "Aviemore",
+      "image": {
+        "file": "File:Aviemore, Scotland (37759039392).jpg",
+        "alt": "The town of Aviemore in the Cairngorms"
+      },
+      "text": "The park's main town, a small, outdoor-focused hub of gear shops, cafés and easy access to the surrounding wilderness.",
+      "tip": "Well stocked for last-minute hiking or ski gear before heading into the park."
+    },
+    {
+      "name": "The Cairngorm Mountain Railway",
+      "image": {
+        "file": "File:Cairn Gorm funicular dsc06413.jpg",
+        "alt": "The Cairngorm Mountain Railway funicular"
+      },
+      "text": "The UK's highest railway, climbing to near the summit of Cairn Gorm without requiring a serious mountain hike.",
+      "tip": "The summit can be significantly colder and windier than the base — dress accordingly."
+    },
+    {
+      "name": "Rothiemurchus Forest",
+      "image": {
+        "file": "File:RothiemurchusForest.jpg",
+        "alt": "The ancient pine forest of Rothiemurchus"
+      },
+      "text": "One of Scotland's finest surviving fragments of ancient Caledonian pine forest, home to red squirrels and capercaillie.",
+      "tip": "Well-marked trails suit every fitness level, from gentle loch walks to longer forest treks."
+    },
+    {
+      "name": "The park's red deer",
+      "image": {
+        "file": "File:Red Deer, River Muick, Cairngorms National Park, Scotland, Photo by Thomas Andy Branson.jpg",
+        "alt": "A red deer in Cairngorms National Park"
+      },
+      "text": "A real, common sight across the park's glens, Britain's largest native land mammal in its natural Highland habitat.",
+      "tip": "Dawn and dusk offer the best chances of a close, unhurried sighting."
+    },
+    {
+      "name": "The park's red squirrels",
+      "image": {
+        "file": "File:Red squirrel (21808).jpg",
+        "alt": "A red squirrel in Cairngorms National Park"
+      },
+      "text": "One of the park's most reliable wildlife sightings, native red squirrels thriving in the ancient pine forest.",
+      "tip": "Feeding stations near Aviemore and Rothiemurchus offer near-guaranteed close sightings."
+    },
+    {
+      "name": "The Cairngorms' heather moorland",
+      "image": {
+        "file": "File:Common Heather, Cairngorms National Park, Scotland.jpg",
+        "alt": "Heather moorland in Cairngorms National Park"
+      },
+      "text": "Spectacular in late summer, when the park's open moorland turns a deep purple with flowering heather.",
+      "tip": "Late August into September is peak bloom for the heather."
+    }
+  ],
+  "thingsToDoIntro": "The park rewards slowing down, whether on foot, on the water or simply watching for wildlife.",
+  "thingsToDo": [
+    {
+      "title": "Ride the Cairngorm Mountain Railway",
+      "image": {
+        "file": "File:Cairngorm Mountain Railway - geograph.org.uk - 7001889.jpg",
+        "alt": "The Cairngorm Mountain Railway climbing into the mountains"
+      },
+      "text": "An easy way to reach real mountain altitude, with sweeping views from the UK's highest railway.",
+      "tip": "Check operating status ahead — the railway occasionally closes for maintenance or weather."
+    },
+    {
+      "title": "Walk or paddle at Loch Morlich",
+      "image": {
+        "file": "File:Sunset on Loch Morlich, Cairngorms (40991033841).jpg",
+        "alt": "Sunset over Loch Morlich in the Cairngorms"
+      },
+      "text": "A relaxed way to spend an afternoon, whether walking the shoreline or paddling out onto the water.",
+      "tip": "Rent a kayak or paddleboard right at the loch for an hour or two on the water."
+    },
+    {
+      "title": "Cycle or walk through Rothiemurchus Forest",
+      "image": {
+        "file": "File:Estate track in Rothiemurchus Forest - geograph.org.uk - 3619282.jpg",
+        "alt": "A trail through Rothiemurchus Forest"
+      },
+      "text": "A peaceful way to experience ancient Caledonian pine forest, with trails suited to every fitness level.",
+      "tip": "Bike rental is available right at the forest's visitor centre."
+    },
+    {
+      "title": "Spot red squirrels and wildlife",
+      "image": {
+        "file": "File:Red Squirrel - Flickr - cazalegg (6).jpg",
+        "alt": "A red squirrel spotted in the Cairngorms"
+      },
+      "text": "A rewarding, patient activity, with real chances of red squirrels, deer and birds of prey across the park.",
+      "tip": "Bring binoculars — many of the park's best sightings reward a bit of patience and distance."
+    },
+    {
+      "title": "Follow the Clunie Water on foot",
+      "image": {
+        "file": "File:Clunie Water, Cairngorms National Park, Scotland.jpg",
+        "alt": "The Clunie Water flowing through Cairngorms National Park"
+      },
+      "text": "A gentle riverside walk, good for a shorter, easier day within the wider park.",
+      "tip": "Combine with a picnic by the water on a fine day."
+    },
+    {
+      "title": "Explore Aviemore's outdoor shops and cafés",
+      "image": {
+        "file": "File:Aviemore, Cairngorm Avenue.jpg",
+        "alt": "The main street of Aviemore in the Cairngorms"
+      },
+      "text": "A practical stop for last-minute gear, alongside a decent choice of cafés and restaurants.",
+      "tip": "A good spot to restock before or after a longer hike into the park."
+    }
+  ],
+  "foodIntro": "Food here leans on Highland game and hearty fare well suited to a day outdoors.",
+  "foods": [
+    {
+      "name": "Venison",
+      "text": "A true Highland specialty, wild-sourced game with a rich, distinctive flavour found across local menus.",
+      "whereToTry": "Restaurants throughout Aviemore and the wider park."
+    },
+    {
+      "name": "Haggis, neeps and tatties",
+      "image": {
+        "file": "File:Haggis, neeps and tatties.jpg",
+        "alt": "Haggis served with neeps and tatties, Scotland's national dish"
+      },
+      "text": "A warming meal after a day hiking or cycling through the park.",
+      "whereToTry": "Restaurants and pubs throughout Aviemore."
+    },
+    {
+      "name": "Cullen skink",
+      "image": {
+        "file": "File:Cullen Skink.JPG",
+        "alt": "Cullen skink, a traditional Scottish smoked haddock soup"
+      },
+      "text": "A welcome, warming choice after a cold day out in the mountains.",
+      "whereToTry": "Restaurants and pubs throughout the park."
+    },
+    {
+      "name": "Scottish shortbread",
+      "image": {
+        "file": "File:Scottish Shortbread Biscuits.jpg",
+        "alt": "Traditional Scottish shortbread biscuits"
+      },
+      "text": "A useful trail snack, simple and buttery, sold in cafés throughout Aviemore.",
+      "whereToTry": "Cafés and shops throughout Aviemore."
+    },
+    {
+      "name": "Scottish salmon",
+      "text": "Excellent, sourced from Highland rivers and lochs across the wider region.",
+      "whereToTry": "Restaurants throughout Aviemore."
+    },
+    {
+      "name": "Scotch whisky",
+      "image": {
+        "file": "File:Glen Moray Single Malt Scotch Whisky.jpg",
+        "alt": "A bottle of single malt Scotch whisky"
+      },
+      "text": "Well earned after a day outdoors, with Speyside's distilleries a short drive from the park.",
+      "whereToTry": "Pubs throughout Aviemore."
+    }
+  ],
+  "accommodation": {
+    "intro": "Aviemore serves as the park's main base, well equipped for outdoor-focused travellers.",
+    "areas": [
+      {
+        "name": "Aviemore",
+        "bestFor": "Being central and well-equipped for outdoor trips",
+        "text": "The most practical base, with the widest choice of accommodation, gear shops and restaurants."
+      },
+      {
+        "name": "Smaller villages within the park",
+        "bestFor": "A quieter, more scenic stay",
+        "text": "Villages like Nethy Bridge or Kingussie offer a slower pace than Aviemore itself."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "£30–60 per night" },
+      { "label": "Mid-range hotel", "value": "£90–170 per night" },
+      { "label": "Cairngorm Mountain Railway ticket", "value": "About £18" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About £20–35 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Cairngorms are well connected by rail, sitting directly on Scotland's main Highland line.",
+    "options": [
+      {
+        "mode": "Intercity train to Aviemore",
+        "text": "Direct and scenic from both Glasgow and Inverness.",
+        "detail": "One of Scotland's most useful rail links for reaching the Highlands without a car."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Useful for reaching the park's more remote glens and trailheads.",
+        "detail": "About two and a half hours from Glasgow or Edinburgh."
+      },
+      {
+        "mode": "Flight to Inverness Airport",
+        "text": "The closest airport, under an hour's drive from Aviemore.",
+        "detail": "A practical option for visitors combining the park with Loch Ness or Skye."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is the most flexible way to explore the park's spread-out trailheads and glens.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Essential for reaching the park's more remote hiking trailheads.",
+        "detail": "Roads within the park are generally well maintained, if occasionally single-track."
+      },
+      {
+        "mode": "On foot or by bike in Aviemore",
+        "text": "Easy — the town itself is small and walkable.",
+        "detail": "Bike rental is widely available for reaching nearby Loch Morlich and Rothiemurchus."
+      },
+      {
+        "mode": "Local buses",
+        "text": "Limited but useful for reaching some of the park's more popular sights without a car.",
+        "detail": "Check current timetables, as rural Highland routes run less frequently than in cities."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for hiking, or winter for skiing",
+    "summary": "The Cairngorms are a year-round destination, offering hiking and wildlife in summer and Scotland's best skiing in winter.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Good hiking weather with fewer midges than midsummer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The warmest season, with heather beginning to bloom by late summer, also peak midge season."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Excellent for wildlife, including the dramatic red deer rutting season."
+      },
+      {
+        "season": "Winter (December–March)",
+        "rating": "good",
+        "text": "Home to some of Scotland's only skiing, at the Cairngorm Mountain resort."
+      }
+    ],
+    "avoid": "Attempting higher mountain trails without proper gear in winter — serious alpine conditions above the tree line."
+  },
+  "itinerary": {
+    "title": "Two days in the Cairngorms",
+    "intro": "Built around Loch Morlich and the mountain railway on day one, forest wildlife on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Loch Morlich and the mountains",
+        "summary": "Loch Morlich and the Cairngorm Mountain Railway.",
+        "morning": "Ride the Cairngorm Mountain Railway.",
+        "afternoon": "Walk or paddle at Loch Morlich.",
+        "evening": "Dinner in Aviemore."
+      },
+      {
+        "day": 2,
+        "title": "Ancient forest and wildlife",
+        "summary": "Rothiemurchus Forest and wildlife spotting.",
+        "morning": "Walk or cycle through Rothiemurchus Forest.",
+        "afternoon": "Spot red squirrels and deer across the park.",
+        "evening": "A final dinner in Aviemore."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Cairngorms visit noticeably smoother.",
+  "tips": [
+    "Check weather conditions before any higher-altitude hike — mountain weather shifts fast.",
+    "Pack proper layers and waterproofs regardless of season.",
+    "Book Cairngorm Mountain Railway tickets ahead in peak summer or ski season.",
+    "Bring midge repellent for summer visits, especially at dawn and dusk.",
+    "Rent bikes or watersports gear right at Loch Morlich or Rothiemurchus.",
+    "Allow extra time for wildlife spotting — patience matters more than covering ground quickly."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the Cairngorms?",
+      "a": "Two days covers Loch Morlich, the mountain railway and Rothiemurchus Forest comfortably."
+    },
+    {
+      "q": "Is the Cairngorm Mountain Railway worth it?",
+      "a": "Yes — it's an easy way to reach real mountain altitude and views without a serious hike."
+    },
+    {
+      "q": "Can you ski in the Cairngorms?",
+      "a": "Yes — the Cairngorm Mountain resort is one of Scotland's main ski areas, typically open December to March conditions permitting."
+    },
+    {
+      "q": "What is Cairngorms National Park known for?",
+      "a": "Its vast scale, ancient Caledonian pine forest and real Highland wildlife, including red deer and red squirrels."
+    },
+    {
+      "q": "Is the Cairngorms good for wildlife spotting?",
+      "a": "Yes, one of the best places in Britain, with real, reliable chances of red deer, red squirrels and birds of prey."
+    },
+    {
+      "q": "Do you need a car in the Cairngorms?",
+      "a": "It helps for reaching remote trailheads, though Aviemore itself and nearby Loch Morlich are reachable without one."
+    }
+  ],
+  "related": ["speyside", "loch-ness-inverness", "isle-of-skye"],
+  "relatedArticles": ["us-national-parks-road-trip", "underrated-destinations"]
+}

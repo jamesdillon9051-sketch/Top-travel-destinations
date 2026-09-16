@@ -1,0 +1,407 @@
+{
+  "slug": "czech-republic",
+  "name": "Czech Republic",
+  "continent": "Central Europe",
+  "countryCode": "CZ",
+  "tagline": "Prague's fairy-tale skyline, fairy-tale towns beyond it, and a beer culture so central to daily life that pubs function as the country's real town squares.",
+  "cardDescription": "Prague Castle and Charles Bridge, the fairy-tale town of Český Krumlov, spa colonnades in Karlovy Vary, and Moravian wine country beyond.",
+  "metaDescription": "A complete Czech Republic travel guide: the 10 best places to visit, trains, food, costs, etiquette and a nine-day itinerary.",
+  "image": {
+    "file": "File:Czech-03993 - Boat Station & St. Vitus Cathedral (32980108646).jpg",
+    "alt": "Prague's skyline along the Vltava River, with St Vitus Cathedral rising above Prague Castle"
+  },
+  "destinations": [
+    "prague",
+    "kutna-hora",
+    "cesky-krumlov",
+    "karlovy-vary",
+    "plzen",
+    "bohemian-switzerland",
+    "telc",
+    "brno",
+    "lednice-valtice",
+    "olomouc"
+  ],
+  "intro": [
+    "The Czech Republic is one of Central Europe's most rewarding destinations, its capital Prague among the continent's most beautiful and best-preserved historic cities, its hundred spires largely untouched by the wars that levelled so much of the region.",
+    "Beyond Prague, the country rewards slower exploration — fairy-tale towns like Český Krumlov, spa resorts like Karlovy Vary, and a Moravian region in the east with its own wine culture, dialect and noticeably slower pace.",
+    "It's also a country built for beer, home to the world's first pale lager and a pub culture that runs through daily life as a genuine social institution rather than sitting apart from it."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit — though Moravia rewards a second trip just as much as a first.",
+  "thingsToDoIntro": "The experiences that recur across the country and make a Czech Republic trip feel like more than a checklist of castles.",
+  "thingsToDo": [
+    {
+      "title": "Drink a proper Czech pilsner",
+      "image": {
+        "file": "File:Pilsner Urquell beer glass (2).jpg",
+        "alt": "A glass of Czech pilsner beer"
+      },
+      "text": "An essential Czech experience, in the country that invented pale lager and still drinks more beer per capita than anywhere else on Earth.",
+      "tip": "Order by the round in a proper pub — a server will keep bringing beers until you place a coaster over your glass."
+    },
+    {
+      "title": "Watch the Prague Astronomical Clock strike the hour",
+      "image": {
+        "file": "File:The Prague Astronomical Clock in Old Town - 8559.jpg",
+        "alt": "The Prague Astronomical Clock in Old Town Square"
+      },
+      "text": "A medieval spectacle, the clock's procession of apostle figures still drawing a crowd every hour, just as it has since 1410.",
+      "tip": "The view is better than the show itself — watch from a café terrace rather than fighting the crowd below."
+    },
+    {
+      "title": "Soak up a thermal spa town's colonnades",
+      "image": {
+        "file": "File:Mill Colonnade in Karlovy Vary.jpg",
+        "alt": "The Mill Colonnade in the spa town of Karlovy Vary"
+      },
+      "text": "An elegant tradition, sipping mineral spring water from a spa cup while strolling ornate 19th-century colonnades.",
+      "tip": "Buy a lázeňský oplatek (spa wafer) from a colonnade kiosk to go with the mineral water."
+    },
+    {
+      "title": "Wander a fairy-tale old town away from Prague's crowds",
+      "image": {
+        "file": "File:Old town in Český Krumlov with Jelení lávka, 20250504 1251 8862.jpg",
+        "alt": "The old town of Český Krumlov beside the Vltava River"
+      },
+      "text": "A different pace from the capital, Bohemia's smaller UNESCO towns offering the same architecture with a fraction of the visitors.",
+      "tip": "Stay overnight if you can — day-trippers clear out by early evening, leaving these towns wonderfully quiet."
+    },
+    {
+      "title": "Taste Moravian wine straight from a village cellar",
+      "image": {
+        "file": "File:Blatnice pod Svatým Antonínkem, wine cellars 01.jpg",
+        "alt": "Traditional wine cellars in a Moravian village"
+      },
+      "text": "A different side of Czech drinking culture, South Moravia's rolling vineyards producing wine most visitors never expect to find here.",
+      "tip": "Rent a bicycle to tour several village cellars along the region's marked wine trails."
+    },
+    {
+      "title": "Explore a country castle or chateau garden",
+      "image": {
+        "file": "File:Castle gardens, Lednice, Czech Republic 07.jpg",
+        "alt": "The chateau gardens at Lednice"
+      },
+      "text": "A rewarding day out, the Czech countryside scattered with more castles and chateaux per square kilometre than almost anywhere in Europe.",
+      "tip": "Book interior tours ahead in summer — the most famous chateaux sell out their guided time slots."
+    }
+  ],
+  "foodIntro": "Czech food means hearty, warming classics built around meat, dumplings and, of course, beer.",
+  "foods": [
+    {
+      "name": "Svíčková (marinated beef in cream sauce)",
+      "image": {
+        "file": "File:Svickova with dumplings.jpg",
+        "alt": "Svíčková, marinated beef in cream sauce with bread dumplings"
+      },
+      "text": "The national dish for many Czechs, tender beef in a vegetable cream sauce, served with bread dumplings and a dollop of cranberry sauce.",
+      "whereToTry": "Traditional restaurants throughout the country."
+    },
+    {
+      "name": "Guláš with dumplings",
+      "image": {
+        "file": "File:Guláš s knedlíky.jpg",
+        "alt": "Czech goulash served with bread dumplings"
+      },
+      "text": "A Czech take on goulash, a rich, paprika-spiced beef stew mopped up with sliced bread dumplings.",
+      "whereToTry": "Pubs and traditional restaurants nationwide."
+    },
+    {
+      "name": "Trdelník (chimney cake)",
+      "image": {
+        "file": "File:Trdelnik in Prague.jpg",
+        "alt": "Trdelník, a rolled pastry cooked over an open flame"
+      },
+      "text": "More a Prague tourist-street tradition than an old Czech recipe, a sugar-and-cinnamon pastry cooked on a rotating spit.",
+      "whereToTry": "Street stalls throughout central Prague's tourist areas."
+    },
+    {
+      "name": "Czech beer (pivo)",
+      "image": {
+        "file": "File:Klasik svetle pivo.jpg",
+        "alt": "A glass of classic Czech pale lager"
+      },
+      "text": "The country's defining drink, from world-famous Pilsner Urquell to countless excellent small regional breweries.",
+      "whereToTry": "Pubs and breweries in every town, large and small."
+    },
+    {
+      "name": "Smažený sýr (fried cheese)",
+      "image": {
+        "file": "File:Smažený sýr s tatarskou omáčkou a brambory.jpg",
+        "alt": "Smažený sýr, breaded fried cheese with tartar sauce and potatoes"
+      },
+      "text": "A beloved pub classic, breaded and deep-fried cheese served with tartar sauce and fries or potatoes.",
+      "whereToTry": "Pubs throughout the country."
+    },
+    {
+      "name": "Koláče (fruit-filled pastries)",
+      "image": {
+        "file": "File:Traditional Czech koláče in Sušice.jpg",
+        "alt": "Traditional koláče pastries filled with fruit"
+      },
+      "text": "A homely regional favourite, soft yeasted pastry rounds topped with fruit, poppyseed or sweet cheese.",
+      "whereToTry": "Bakeries and cafés throughout Bohemia and Moravia."
+    }
+  ],
+  "practicalIntro": "The essentials for planning a Czech Republic trip, gathered in one place.",
+  "practical": {
+    "capital": "Prague",
+    "language": "Czech, a West Slavic language; English is widely understood in Prague and other tourist areas, less so in smaller towns.",
+    "currency": "Czech koruna (Kč / CZK)",
+    "money": "Widely card-friendly in cities and larger towns, though cash still helps at small pubs, markets and rural guesthouses.",
+    "visa": "Schengen Area member; visa-free entry for up to 90 days in any 180-day period for many nationalities including the US, Canada, Australia and the UK.",
+    "plugs": "Type C and E, 230 V, 50 Hz.",
+    "emergency": "112 for general emergencies nationwide; 158 police, 155 ambulance, 150 fire.",
+    "tipping": "Not obligatory but expected — around 10% at restaurants, told to the server rather than left on the table.",
+    "safety": "One of Europe's safer countries, with petty theft and currency-exchange scams around busy Prague tourist spots the main things to watch for.",
+    "connectivity": "Excellent 4G and 5G coverage, with wifi widely available in cafés and accommodation.",
+    "timeZone": "Central European Time (UTC+1), Central European Summer Time (UTC+2) from late March to late October.",
+    "budget": [
+      {
+        "label": "Backpacker",
+        "value": "Kč1,200–2,000 per day — hostels, tram tickets, pub lunches"
+      },
+      {
+        "label": "Mid-range",
+        "value": "Kč2,500–4,500 per day — 3-star hotels, restaurant dinners, museum entry"
+      },
+      {
+        "label": "Comfortable",
+        "value": "Kč5,500–9,000+ per day — boutique hotels, fine dining, private guides"
+      },
+      {
+        "label": "Day trip from Prague",
+        "value": "Add roughly Kč600–1,200 for transport and entry fees to Český Krumlov or Kutná Hora"
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for the best balance of weather and crowds",
+    "summary": "The Czech Republic has warm, long days in summer and a magical Christmas market season, with the shoulder months offering the best overall value.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Mild temperatures, blooming parks and manageable crowds before peak summer arrives."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The warmest, busiest season, with long evenings perfect for riverside terraces, though central Prague gets crowded."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Golden light over the castles and vineyards, with noticeably thinner crowds than summer."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Magical around Christmas markets and snow-dusted spires, though short days and cold call for proper layers."
+      }
+    ],
+    "avoid": "Nothing strongly, though August's heat and crowds in central Prague are worth planning around."
+  },
+  "tripDuration": {
+    "headline": "7–10 days for a first trip",
+    "summary": "A compact country, with Prague working as an easy hub for day trips before heading further afield.",
+    "options": [
+      {
+        "length": "3–4 days",
+        "text": "Prague alone, at an unhurried pace.",
+        "detail": "Enough for the castle, Old Town and a couple of nearby day trips."
+      },
+      {
+        "length": "5–7 days",
+        "text": "Prague plus Český Krumlov and Kutná Hora.",
+        "detail": "A well-rounded first trip covering Bohemia's essentials."
+      },
+      {
+        "length": "7–10 days",
+        "text": "The itinerary on this page: Prague, Kutná Hora, Český Krumlov, Karlovy Vary and Moravia.",
+        "detail": "A complete first look at both Bohemia and Moravia."
+      },
+      {
+        "length": "2 weeks or more",
+        "text": "Add Plzeň, Bohemian Switzerland and slower travel through the Moravian wine country.",
+        "detail": "Rewards travellers who want to go well beyond the highlights."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "One of Europe's best rail networks for a country this size, with buses filling in the gaps.",
+    "options": [
+      {
+        "mode": "Trains (České dráhy and private operators)",
+        "text": "The backbone of Czech travel between [[prague|Prague]], [[brno|Brno]], [[olomouc|Olomouc]] and [[plzen|Plzeň]].",
+        "detail": "Frequent, comfortable and inexpensive compared to Western Europe."
+      },
+      {
+        "mode": "RegioJet and FlixBus coaches",
+        "text": "A comfortable, budget-friendly alternative on popular routes.",
+        "detail": "Often cheaper than the train, with onboard snacks and entertainment on RegioJet."
+      },
+      {
+        "mode": "Organised day trips from Prague",
+        "text": "The easiest way to reach [[cesky-krumlov|Český Krumlov]] or [[kutna-hora|Kutná Hora]] without a car.",
+        "detail": "Widely available and reasonably priced, though a direct train or bus is often just as easy."
+      },
+      {
+        "mode": "Renting a car",
+        "text": "Useful for [[bohemian-switzerland|Bohemian Switzerland]] and [[lednice-valtice|Lednice-Valtice]]'s wine country.",
+        "detail": "Public transport reaches both, but a car gives far more flexibility."
+      },
+      {
+        "mode": "Prague's public transport",
+        "text": "Excellent — trams, metro and buses all run on one unified ticket.",
+        "detail": "The easiest way to get around the capital itself."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Nine days in Czech Republic",
+    "intro": "A classic route through Prague and Bohemia, with Moravia added on. Covers six of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Prague",
+        "morning": "Land in Prague and check in to your hotel.",
+        "afternoon": "Old Town Square and the Astronomical Clock.",
+        "evening": "Dinner near Charles Bridge, lit up after dark."
+      },
+      {
+        "day": 2,
+        "title": "Prague Castle and Malá Strana",
+        "morning": "Prague Castle and St Vitus Cathedral.",
+        "afternoon": "Malá Strana's lanes and palace gardens.",
+        "evening": "Dinner at a restaurant with a castle view."
+      },
+      {
+        "day": 3,
+        "title": "Kutná Hora",
+        "morning": "Travel out to Kutná Hora and the Sedlec Ossuary.",
+        "afternoon": "St Barbara's Cathedral and the old silver-mining town.",
+        "evening": "Return to Prague."
+      },
+      {
+        "day": 4,
+        "title": "Český Krumlov",
+        "morning": "Travel south to Český Krumlov.",
+        "afternoon": "Český Krumlov Castle and its bear moat.",
+        "evening": "Dinner beside the Vltava's horseshoe bend."
+      },
+      {
+        "day": 5,
+        "title": "More of Český Krumlov, then Karlovy Vary",
+        "morning": "Wander the old town's quiet lanes.",
+        "afternoon": "Travel on to Karlovy Vary.",
+        "evening": "An evening stroll along the spa colonnades."
+      },
+      {
+        "day": 6,
+        "title": "Karlovy Vary to Brno",
+        "morning": "Sip mineral water from the Mill Colonnade.",
+        "afternoon": "Travel across the country to Brno.",
+        "evening": "Dinner in Brno's old town."
+      },
+      {
+        "day": 7,
+        "title": "Brno",
+        "morning": "Špilberk Castle and its views over the city.",
+        "afternoon": "Brno's old town and the Capuchin Crypt.",
+        "evening": "A second night exploring Brno's restaurant scene."
+      },
+      {
+        "day": 8,
+        "title": "Lednice-Valtice",
+        "morning": "Travel into the Moravian wine country.",
+        "afternoon": "Lednice Chateau and its landscaped grounds.",
+        "evening": "A wine tasting in a village cellar."
+      },
+      {
+        "day": 9,
+        "title": "Return and depart",
+        "morning": "Travel back toward Prague.",
+        "afternoon": "A final wander or last-minute shopping.",
+        "evening": "Depart for home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Czech culture blends a deep literary and musical tradition with a famously dry, understated sense of humour and one of the world's great beer cultures.",
+    "etiquette": [
+      {
+        "title": "Greetings are polite but reserved",
+        "text": "A firm handshake and direct eye contact are standard; save hugs for people you know well."
+      },
+      {
+        "title": "Beer culture runs deep",
+        "text": "Ordering by the round and saying 'na zdraví' (cheers) before drinking is expected pub etiquette."
+      },
+      {
+        "title": "Punctuality is valued",
+        "text": "Arrive on time for both social plans and reserved restaurant tables."
+      },
+      {
+        "title": "Dress is practical and modest",
+        "text": "Smart-casual works almost everywhere; only the fanciest restaurants expect more."
+      },
+      {
+        "title": "Small talk is kept brief",
+        "text": "Czechs tend to be direct and reserved with strangers, warming up considerably once you know them."
+      },
+      {
+        "title": "Tipping is modest but expected",
+        "text": "Round up or add about 10% in restaurants, telling the server the total rather than leaving cash on the table."
+      }
+    ],
+    "dos": [
+      "Say 'dobrý den' (good day) when entering small shops, cafés and pubs.",
+      "Validate public transport tickets before boarding — inspectors do check, and fines are steep.",
+      "Try a proper neighbourhood pub over a touristy one near major squares for better beer and prices.",
+      "Book Prague Castle's interiors and popular restaurants ahead in peak summer months."
+    ],
+    "donts": [
+      "Don't expect tap water automatically at restaurants — ask, or you may be served, and charged for, bottled.",
+      "Don't jaywalk carelessly — Czech drivers expect pedestrians to use marked crossings.",
+      "Don't block a tram or metro doorway — step fully inside to let others board.",
+      "Don't rush Prague's Old Town at the expense of Bohemia and Moravia beyond it."
+    ]
+  },
+  "tipsIntro": "Practical notes that make travel through the Czech Republic noticeably smoother.",
+  "tips": [
+    "Buy a Prague public transport ticket or pass rather than risk an unvalidated-ticket fine.",
+    "Carry some cash for small pubs, markets and rural areas, even though cards are widely accepted.",
+    "Book Prague Castle's interiors and popular restaurants ahead in summer.",
+    "Learn a few basic Czech phrases — English is widely spoken in Prague but less so in smaller towns.",
+    "Pack comfortable shoes — most historic centres are best explored on foot over cobblestones.",
+    "Avoid currency exchange booths advertising 'no commission' — compare rates before handing over cash.",
+    "Try a lunch menu (denní menu) for the best-value midday meals at sit-down restaurants.",
+    "Consider basing yourself in Brno for a few days to explore Moravia at an easier pace."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the Czech Republic?",
+      "a": "Seven to ten days covers Prague plus day trips and a stretch of Moravia; three to four days suits a Prague-only visit."
+    },
+    {
+      "q": "Is the Czech Republic on the euro?",
+      "a": "No, not — it uses the Czech koruna (Kč), even though it's an EU member."
+    },
+    {
+      "q": "Is Prague expensive?",
+      "a": "More affordable than Western Europe overall, though central Prague's restaurants and attractions have crept close to Western prices in recent years."
+    },
+    {
+      "q": "Do you need a car to see the Czech Republic?",
+      "a": "No, not — trains and buses cover the country well, though a car helps for Bohemian Switzerland and the Moravian wine country."
+    },
+    {
+      "q": "What's the difference between Bohemia and Moravia?",
+      "a": "The country's two historic regions — Bohemia in the west around Prague, Moravia in the east around Brno, with its own dialect, wine and traditions."
+    },
+    {
+      "q": "Is the Czech Republic safe?",
+      "a": "Yes — one of Europe's safer countries, with petty theft in busy Prague tourist spots the main thing to watch for."
+    }
+  ]
+}

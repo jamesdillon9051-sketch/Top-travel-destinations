@@ -1,0 +1,378 @@
+{
+  "slug": "aran-islands",
+  "name": "The Aran Islands",
+  "country": "ireland",
+  "region": "County Galway",
+  "categories": ["islands", "culture", "nature", "remote"],
+  "tagline": "Three small, wind-scoured islands off Galway Bay, still Irish-speaking, still walled in stone, and still a step back in time.",
+  "highlight": "Standing at the unguarded edge of Dún Aengus, a 2,000-year-old fort perched on a sheer 100-metre cliff, with nothing but a drop to the Atlantic below.",
+  "shortDescription": "Three small, Irish-speaking islands off Galway Bay, criss-crossed with stone walls and home to Dún Aengus, a dramatic Iron Age cliff-edge fort.",
+  "metaDescription": "An Aran Islands travel guide: Dún Aengus, Kilronan, the Seven Churches, food and how to plan a visit to Inis Mór and Ireland's Irish-speaking islands.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Shannon Airport (SNN), or fly directly to the islands from Connemara Airport",
+  "knownFor": "Dún Aengus, stone walls, traditional Aran sweaters",
+  "budget": "€80–150 per day, mid-range",
+  "goodFor": "Cycling, ancient sites, real remoteness",
+  "coords": { "lat": 53.1240, "lng": -9.6890 },
+  "image": {
+    "file": "File:Cliffs at Dún Aonghasa • Dun Aengus (41231272755).jpg",
+    "alt": "The cliffs at Dún Aengus, an Iron Age fort on Inis Mór"
+  },
+  "intro": [
+    "The Aran Islands are a step back in time, three small islands off Galway Bay where Irish remains the everyday language and a dense network of stone walls still divides the fields, built by hand over centuries from cleared limestone.",
+    "Inis Mór, the largest, is home to Dún Aengus, a dramatic Iron Age stone fort perched right on the edge of a sheer 100-metre cliff, with no barrier between visitors and the drop.",
+    "Most visitors take the ferry from Galway or Doolin as a day trip, though staying overnight allows real time to cycle the island's quiet lanes at an unhurried pace, well after the day-trippers have left."
+  ],
+  "whyVisit": {
+    "intro": "The Aran Islands' case rests on real remoteness and a living connection to old Irish culture found nowhere else.",
+    "points": [
+      {
+        "title": "Dún Aengus is one of Ireland's most dramatic ancient sites",
+        "text": "A 2,000-year-old fort on a sheer cliff edge, with no barrier between visitors and the Atlantic below."
+      },
+      {
+        "title": "Irish is still the everyday language here",
+        "text": "One of Ireland's strongest Gaeltacht regions, not a tourist performance of the language."
+      },
+      {
+        "title": "The stone walls are a landscape in themselves",
+        "text": "Thousands of kilometres of hand-built walls dividing tiny fields cleared from bare limestone."
+      },
+      {
+        "title": "It's quiet once the day-trip ferries leave",
+        "text": "An overnight stay reveals a much slower, quieter island than the daytime crowds suggest."
+      },
+      {
+        "title": "The traditional Aran sweater originates here",
+        "text": "A distinctive hand-knit style with patterns once said to identify individual island families."
+      }
+    ]
+  },
+  "attractionsIntro": "Inis Mór's essential sights combine ancient forts with a still-living traditional culture.",
+  "attractions": [
+    {
+      "name": "Dún Aengus",
+      "image": {
+        "file": "File:Dun Aengus 2009.jpg",
+        "alt": "Dún Aengus, an Iron Age stone fort on Inis Mór"
+      },
+      "text": "One of Ireland's most dramatic ancient sites, a 2,000-year-old fort on the edge of a sheer 100-metre cliff, with the semicircular walls open to the drop.",
+      "tip": "Stay well back from the unguarded cliff edge — there is no barrier at all."
+    },
+    {
+      "name": "The cliffs at Dún Aonghasa",
+      "image": {
+        "file": "File:Cliffs at Dún Aonghasa • Dun Aengus (41231272755).jpg",
+        "alt": "The sheer cliffs below Dún Aengus on Inis Mór"
+      },
+      "text": "A vertigo-inducing view straight down the cliff face from the fort's edge, among Ireland's most striking natural drops.",
+      "tip": "Lie flat and crawl to the very edge if you want the full drop in view — many visitors do."
+    },
+    {
+      "name": "Kilronan village",
+      "image": {
+        "file": "File:The harbour at Kilronan on the Aran Islands - geograph.org.uk - 7862768.jpg",
+        "alt": "Kilronan harbour, the main village on Inis Mór"
+      },
+      "text": "The islands' main village and ferry port, a small, easy base with shops, pubs and bike rental right at the harbour.",
+      "tip": "Rent a bike here on arrival — it's the best way to see the rest of the island."
+    },
+    {
+      "name": "Inis Mór's stone walls",
+      "image": {
+        "file": "File:Stone Walls and Ocean Light, Inis Mór, Aran Islands.jpg",
+        "alt": "The dense network of stone walls covering Inis Mór"
+      },
+      "text": "A landscape in themselves, thousands of kilometres of hand-built dry-stone walls dividing tiny fields cleared from bare limestone.",
+      "tip": "Look closely at the wall construction — many are loosely stacked on purpose, to let storm winds pass through."
+    },
+    {
+      "name": "The Seven Churches",
+      "image": {
+        "file": "File:Inishmore seven churches 1.jpg",
+        "alt": "The ruins of the Seven Churches on Inis Mór"
+      },
+      "text": "An atmospheric early Christian monastic site, despite the name actually comprising two churches and several other ruined structures.",
+      "tip": "Quieter than Dún Aengus — a peaceful stop away from the main crowds."
+    },
+    {
+      "name": "Aran sweater shops",
+      "image": {
+        "file": "File:Aran Sweater Market in Kilronan, Inishmore (2014).jpg",
+        "alt": "A shop selling traditional Aran sweaters in Kilronan"
+      },
+      "text": "The origin of the famous hand-knit style, with distinctive stitch patterns and a history tied closely to the islands.",
+      "tip": "Look for a hand-knit label if authenticity matters to you — many cheaper versions are machine-made elsewhere."
+    },
+    {
+      "name": "Traditional currach boats",
+      "image": {
+        "file": "File:Ros Aobhinn currach closeup.jpg",
+        "alt": "A traditional currach boat on the Aran Islands"
+      },
+      "text": "Still used by some island fishermen, lightweight canvas-and-tar boats built to a design centuries old.",
+      "tip": "Look for currachs drawn up near Kilronan harbour or smaller landing spots around the island."
+    }
+  ],
+  "thingsToDoIntro": "Inis Mór rewards a full day on a bike, covering the island at an unhurried, human pace.",
+  "thingsToDo": [
+    {
+      "title": "Cycle Inis Mór's quiet lanes",
+      "image": {
+        "file": "File:Inishmore Central.jpg",
+        "alt": "A quiet road crossing the centre of Inis Mór"
+      },
+      "text": "The best way to see the island, pedalling between stone-walled fields with barely any traffic to worry about.",
+      "tip": "Rent a bike at Kilronan harbour on arrival — no booking needed outside peak summer."
+    },
+    {
+      "title": "Walk up to Dún Aengus",
+      "image": {
+        "file": "File:Way to Dún Aonghasa • Dun Aengus (27262045747).jpg",
+        "alt": "The path leading up to Dún Aengus fort"
+      },
+      "text": "A moderate uphill walk from the visitor centre, rewarded by one of Ireland's most dramatic ancient sites.",
+      "tip": "Wear sturdy shoes — the final stretch crosses uneven limestone."
+    },
+    {
+      "title": "Explore the Seven Churches",
+      "image": {
+        "file": "File:Na Seacht dTeampaill • The Seven Churches (41412428344).jpg",
+        "alt": "The ruined Seven Churches monastic site on Inis Mór"
+      },
+      "text": "A quieter, atmospheric stop away from the main Dún Aengus crowds, easily reached by bike.",
+      "tip": "Combine with a stop at the nearby beach for a full, relaxed afternoon."
+    },
+    {
+      "title": "Shop for a genuine Aran sweater",
+      "image": {
+        "file": "File:Green Aran Sweater.JPG",
+        "alt": "A traditional hand-knit Aran sweater"
+      },
+      "text": "A worthwhile souvenir with real history, distinctive stitch patterns once said to identify individual families.",
+      "tip": "Ask about hand-knit versus machine-made if authenticity and craft matter to your purchase."
+    },
+    {
+      "title": "Photograph the island's abandoned cottages",
+      "image": {
+        "file": "File:Abandoned house on Inishmore, Co. Galway (2014).jpg",
+        "alt": "An abandoned stone cottage on Inis Mór"
+      },
+      "text": "An evocative, if slightly melancholy, part of cycling the island, passing stone cottages left empty by past emigration.",
+      "tip": "Respect that these are on private land — photograph from the road rather than entering."
+    },
+    {
+      "title": "Watch a traditional currach on the water",
+      "image": {
+        "file": "File:Currach.2.jpg",
+        "alt": "A traditional Irish currach boat on the water"
+      },
+      "text": "A rare, living link to the islands' fishing heritage, still occasionally seen worked by local rowers.",
+      "tip": "Ask locally about any currach races timed around your visit, held some summer weekends."
+    }
+  ],
+  "foodIntro": "Food on the islands leans on fresh Galway Bay seafood, served simply in Kilronan's small harbourside spots.",
+  "foods": [
+    {
+      "name": "Seafood chowder",
+      "image": {
+        "file": "File:PXL 20231216 125922999-Ballintoy , Creamy Seafood Chowder.jpg",
+        "alt": "A bowl of creamy Irish seafood chowder"
+      },
+      "text": "An essential warming stop after a day cycling the island, made with the day's local catch.",
+      "whereToTry": "Pubs and cafés around Kilronan harbour."
+    },
+    {
+      "name": "Fresh oysters",
+      "image": {
+        "file": "File:Oysters! Galway (6048008376).jpg",
+        "alt": "Fresh oysters from Galway Bay"
+      },
+      "text": "Excellent given the islands' position right in Galway Bay's oyster-growing waters.",
+      "whereToTry": "Seafood restaurants and pubs in Kilronan."
+    },
+    {
+      "name": "A pint of Guinness",
+      "image": {
+        "file": "File:GuinnessPint.jpg",
+        "alt": "A freshly poured pint of Guinness stout"
+      },
+      "text": "Well earned after a day cycling the island's stone-walled lanes.",
+      "whereToTry": "Traditional pubs in Kilronan."
+    },
+    {
+      "name": "Irish stew",
+      "image": {
+        "file": "File:Irish Beef Stew (34046928633).jpg",
+        "alt": "A bowl of hearty Irish stew"
+      },
+      "text": "A warming classic, welcome after a windy day exploring Dún Aengus or the Seven Churches.",
+      "whereToTry": "Pubs and restaurants throughout Kilronan."
+    },
+    {
+      "name": "Brown bread and butter",
+      "image": {
+        "file": "File:Brown Bread and Irish Butter.JPG",
+        "alt": "Traditional Irish brown bread with butter"
+      },
+      "text": "A simple staple, especially good alongside chowder or fresh oysters.",
+      "whereToTry": "Cafés and restaurants around Kilronan."
+    },
+    {
+      "name": "Boxty",
+      "image": {
+        "file": "File:Boxty triangle.jpg",
+        "alt": "Boxty, a traditional Irish potato pancake"
+      },
+      "text": "A hearty, traditional option, good fuel for a day of cycling the island.",
+      "whereToTry": "Traditional restaurants in Kilronan."
+    }
+  ],
+  "accommodation": {
+    "intro": "Kilronan serves as the islands' main base, small but sufficient for an overnight stay.",
+    "areas": [
+      {
+        "name": "Kilronan",
+        "bestFor": "Being close to the ferry and bike rental",
+        "text": "The most practical base, with the islands' main concentration of guesthouses and restaurants."
+      },
+      {
+        "name": "Elsewhere on Inis Mór",
+        "bestFor": "A quieter, more remote stay",
+        "text": "A handful of guesthouses further from Kilronan offer real solitude, reachable by bike or the island's minibus."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "€30–60 per night" },
+      { "label": "Mid-range guesthouse", "value": "€80–140 per night" },
+      { "label": "Ferry round trip", "value": "About €30–40" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About €20–35 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Aran Islands are reachable only by ferry or small plane, never by road.",
+    "options": [
+      {
+        "mode": "Ferry from Galway or Rossaveal",
+        "text": "The most common route, with regular sailings, especially in summer.",
+        "detail": "Crossing takes around 40 minutes to an hour and a half depending on departure point."
+      },
+      {
+        "mode": "Ferry from Doolin",
+        "text": "A popular option for visitors coming from the Cliffs of Moher direction.",
+        "detail": "A seasonal route, weather-dependent like all island sailings."
+      },
+      {
+        "mode": "Small plane from Connemara Airport",
+        "text": "A fast, scenic alternative, taking only a few minutes in the air.",
+        "detail": "A memorable, if pricier, way to reach the islands."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Inis Mór is best explored by bike, with a few alternatives for those who prefer not to cycle.",
+    "options": [
+      {
+        "mode": "Bike rental",
+        "text": "The most popular and rewarding way to see the island, available right at Kilronan harbour.",
+        "detail": "Covers Dún Aengus, the Seven Churches and the island's main sights comfortably in a day."
+      },
+      {
+        "mode": "Minibus tours",
+        "text": "A practical option for those unable or unwilling to cycle.",
+        "detail": "Widely available at the harbour, covering the main sights with a local driver-guide."
+      },
+      {
+        "mode": "On foot",
+        "text": "Fine for exploring Kilronan itself.",
+        "detail": "The island's spread-out sights are better covered by bike or minibus beyond the village."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for good weather and thinner crowds",
+    "summary": "The islands are visitable through the warmer months, with far fewer sailings and services outside the main season.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Mild weather with noticeably thinner crowds than midsummer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The busiest season, with the widest choice of ferry sailings and the most day-trippers."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "good",
+        "text": "A quiet, often mild window with fewer visitors than summer."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Limited ferry services and a real chance of sailings being cancelled for weather."
+      }
+    ],
+    "avoid": "Booking a winter day trip without a flexible schedule — check ferry status closely, since sailings are weather-dependent."
+  },
+  "itinerary": {
+    "title": "Two days on Inis Mór",
+    "intro": "Built around Dún Aengus and Kilronan on day one, the island's quieter corners on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Dún Aengus and Kilronan",
+        "summary": "The ferry over, Dún Aengus and the harbour village.",
+        "morning": "Ferry to Kilronan and rent a bike.",
+        "afternoon": "Cycle to Dún Aengus and walk up to the fort.",
+        "evening": "Dinner in Kilronan."
+      },
+      {
+        "day": 2,
+        "title": "The island's quieter corners",
+        "summary": "The Seven Churches and stone-walled lanes.",
+        "morning": "Cycle out to the Seven Churches.",
+        "afternoon": "Explore the island's quiet lanes and stone walls at an easy pace.",
+        "evening": "Ferry back to the mainland."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make an Aran Islands visit noticeably smoother.",
+  "tips": [
+    "Book ferry tickets ahead in summer, and check the weather — sailings depend on conditions.",
+    "Rent a bike right at Kilronan harbour on arrival, no advance booking usually needed.",
+    "Stay well back from Dún Aengus's unguarded cliff edge.",
+    "Consider an overnight stay to see the island once the day-trip crowds leave.",
+    "Pack a proper windproof layer regardless of season — the islands are exposed.",
+    "Bring some cash — card acceptance is less consistent than on the mainland."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need on the Aran Islands?",
+      "a": "A single day covers Kilronan and Dún Aengus, though an overnight allows for a much quieter, more relaxed visit."
+    },
+    {
+      "q": "Can you visit the Aran Islands as a day trip?",
+      "a": "Yes — it's a popular day trip from Galway or Doolin, with regular ferries in season."
+    },
+    {
+      "q": "Is Dún Aengus safe to visit?",
+      "a": "Yes, with sensible caution — the cliff edge itself is unguarded, so visitors need to stay well back and supervise children closely."
+    },
+    {
+      "q": "Do people still speak Irish on the Aran Islands?",
+      "a": "Yes — the islands are one of Ireland's strongest Gaeltacht, or Irish-speaking, regions, with the language used in daily life."
+    },
+    {
+      "q": "What is the best way to get around Inis Mór?",
+      "a": "By bike, rented right at Kilronan harbour — it covers the island's main sights comfortably in a day."
+    },
+    {
+      "q": "Where does the Aran sweater come from?",
+      "a": "From these islands — the distinctive hand-knit style originates here, with stitch patterns historically tied to individual island families."
+    }
+  ],
+  "related": ["galway", "connemara", "cliffs-of-moher-burren"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around"]
+}

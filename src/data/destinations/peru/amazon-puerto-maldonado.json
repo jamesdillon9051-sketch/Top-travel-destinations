@@ -1,0 +1,365 @@
+{
+  "slug": "amazon-puerto-maldonado",
+  "name": "The Amazon (Puerto Maldonado)",
+  "country": "peru",
+  "region": "Madre de Dios Region",
+  "categories": ["nature", "wildlife", "jungle", "adventure"],
+  "tagline": "Peru's gateway to the Amazon, one of the most biodiverse regions on Earth, reached by boat deep into the rainforest.",
+  "highlight": "Watching dozens of macaws descend on a riverbank clay lick at dawn, a chaotic wash of red, blue and green against the mud.",
+  "shortDescription": "Peru's easiest gateway into the Amazon rainforest, home to giant river otters, macaw clay licks and some of the most biodiverse jungle on Earth.",
+  "metaDescription": "An Amazon Peru travel guide: Lake Sandoval, Tambopata, wildlife spotting, food and how to plan a rainforest lodge visit from Puerto Maldonado.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "Puerto Maldonado Airport (PEM)",
+  "knownFor": "The Amazon rainforest, giant river otters, macaw clay licks",
+  "budget": "S/350–700 per day, mid-range (lodge stays typically all-inclusive)",
+  "goodFor": "Wildlife, jungle adventure, real biodiversity",
+  "coords": { "lat": -12.5933, "lng": -69.1891 },
+  "image": {
+    "file": "File:Amazon rainforest near Puerto Maldonado.jpg",
+    "alt": "The Amazon rainforest canopy near Puerto Maldonado, Peru"
+  },
+  "intro": [
+    "Puerto Maldonado is Peru's easiest gateway into the Amazon, a small jungle town at the meeting point of the Madre de Dios and Tambopata rivers, and the starting point for lodge stays deep in the rainforest.",
+    "The surrounding region is one of the most biodiverse places on Earth, part of the Tambopata National Reserve, home to giant river otters, hundreds of bird species and macaw clay licks found in only a handful of places worldwide.",
+    "Most visitors arrive on an all-inclusive multi-night lodge package, travelling upriver by boat to a remote setting with no road access, guided daily wildlife excursions built into the stay."
+  ],
+  "whyVisit": {
+    "intro": "The Amazon's case rests on extraordinary biodiversity, reached more easily here than almost anywhere else in South America.",
+    "points": [
+      {
+        "title": "It's one of the most biodiverse regions on Earth",
+        "text": "Part of the Tambopata National Reserve, home to extraordinary concentrations of species."
+      },
+      {
+        "title": "Giant river otters are a real, reliable sighting",
+        "text": "Lake Sandoval holds a resident family, among the most accessible sightings anywhere."
+      },
+      {
+        "title": "Macaw clay licks are found in only a few places worldwide",
+        "text": "Dozens of macaws and parrots gathering at riverbank clay deposits each morning."
+      },
+      {
+        "title": "It's more accessible than other Amazon gateways",
+        "text": "A short flight from Cusco puts you deep in the rainforest within hours."
+      },
+      {
+        "title": "Lodge stays include expert local guiding",
+        "text": "Naturalist guides bring real expertise most independent travellers couldn't match alone."
+      }
+    ]
+  },
+  "attractionsIntro": "The region's essential sights combine extraordinary wildlife with an immersive rainforest setting reached only by river.",
+  "attractions": [
+    {
+      "name": "Lake Sandoval",
+      "image": {
+        "file": "File:Lake Sandoval (7958410808).jpg",
+        "alt": "Lake Sandoval in the Peruvian Amazon"
+      },
+      "text": "A stunning oxbow lake reached by a jungle trail and canoe, home to giant river otters, caimans and abundant birdlife.",
+      "tip": "The walk in takes about an hour each way — wear sturdy, waterproof footwear."
+    },
+    {
+      "name": "Giant river otters",
+      "image": {
+        "file": "File:Pteronura brasiliensis, Lake Sandoval, Peru.JPG",
+        "alt": "A giant river otter at Lake Sandoval"
+      },
+      "text": "One of the region's star sightings, a family of endangered giant otters resident on Lake Sandoval.",
+      "tip": "Early morning canoe trips offer the best chance of spotting the otters actively fishing."
+    },
+    {
+      "name": "Caimans of Lake Sandoval",
+      "image": {
+        "file": "File:Caiman in Lake Sandoval Peru (7958419444).jpg",
+        "alt": "A caiman resting at Lake Sandoval"
+      },
+      "text": "A common sighting on night canoe trips, black caimans resting along the lake's quieter shores.",
+      "tip": "A spotlight night excursion offers the best chance of a close caiman sighting."
+    },
+    {
+      "name": "Macaw clay licks",
+      "image": {
+        "file": "File:Parrots at a clay lick -Tambopata National Reserve, Peru-8c.jpg",
+        "alt": "Macaws gathering at a clay lick in Tambopata"
+      },
+      "text": "One of the Amazon's great wildlife spectacles, dozens of macaws and parrots gathering at riverbank clay deposits each dawn.",
+      "tip": "Requires an early start, but the clay lick's chaotic colour and noise is unforgettable."
+    },
+    {
+      "name": "Tambopata National Reserve",
+      "image": {
+        "file": "File:Tree frog in bamboo forest, Tambopata National Reserve, Peru.jpg",
+        "alt": "Wildlife in Tambopata National Reserve"
+      },
+      "text": "A protected reserve of extraordinary biodiversity, home to jaguars, tapirs and hundreds of bird species, even if many are elusive.",
+      "tip": "Manage expectations on big mammal sightings — insects, birds and reptiles are far more reliably seen."
+    },
+    {
+      "name": "The Amazon rainforest canopy",
+      "image": {
+        "file": "File:Amazon rainforest near Puerto Maldonado.jpg",
+        "alt": "The dense rainforest canopy near Puerto Maldonado"
+      },
+      "text": "A dense, layered ecosystem best appreciated from a canopy tower or elevated walkway at many jungle lodges.",
+      "tip": "Dawn and dusk from a canopy platform offer the most active wildlife viewing."
+    },
+    {
+      "name": "Puerto Maldonado",
+      "image": {
+        "file": "File:Vue aérienne de Puerto Maldonado.jpg",
+        "alt": "An aerial view of Puerto Maldonado at the edge of the Amazon"
+      },
+      "text": "A small, functional jungle town at the confluence of two rivers, the practical gateway for onward lodge travel.",
+      "tip": "Most visitors pass through quickly, spending only a night here before or after a lodge stay."
+    }
+  ],
+  "thingsToDoIntro": "The Amazon rewards patience, with the best wildlife sightings coming from guided excursions at dawn and dusk.",
+  "thingsToDo": [
+    {
+      "title": "Spot giant river otters at Lake Sandoval",
+      "image": {
+        "file": "File:Pteronura brasiliensis, Lake Sandoval, Peru 2.JPG",
+        "alt": "Watching giant river otters at Lake Sandoval"
+      },
+      "text": "A thrilling early-morning canoe trip, watching one of the Amazon's most endangered mammals in its natural habitat.",
+      "tip": "Bring a zoom lens or binoculars — otters keep a respectful distance from canoes."
+    },
+    {
+      "title": "Watch macaws at a clay lick",
+      "image": {
+        "file": "File:Parrots at a clay lick -Tambopata National Reserve, Peru-8d.jpg",
+        "alt": "Macaws at a riverside clay lick"
+      },
+      "text": "An unforgettable dawn spectacle, dozens of macaws descending in a wash of colour to eat mineral-rich clay.",
+      "tip": "Arrive before sunrise and stay quiet — sudden noise can scare the birds away."
+    },
+    {
+      "title": "Search for caimans by night",
+      "image": {
+        "file": "File:Caiman in Lake Sandoval Peru (7958430498).jpg",
+        "alt": "Spotting caimans at night in the Amazon"
+      },
+      "text": "An atmospheric excursion, gliding silently by canoe as a guide's spotlight picks out caiman eyes along the shore.",
+      "tip": "Dress warmly — jungle nights on the water are cooler than daytime temperatures suggest."
+    },
+    {
+      "title": "Explore Tambopata's rainforest trails",
+      "image": {
+        "file": "File:Owl Butterfly (Caligo) at night in Tambopata National Reserve, Peru.jpg",
+        "alt": "Wildlife spotted on a night walk in Tambopata"
+      },
+      "text": "An eye-opening guided night walk, revealing an entirely different set of species active after dark.",
+      "tip": "A good guide can spot camouflaged insects and frogs that are otherwise invisible."
+    },
+    {
+      "title": "Spot mealy parrots along the river",
+      "image": {
+        "file": "File:Amazona farinosa -Tambopata National Reserve, Peru-8b.jpg",
+        "alt": "A mealy parrot in the Peruvian Amazon"
+      },
+      "text": "A rewarding, easy sighting for birdwatchers, common along the Tambopata River's forested banks.",
+      "tip": "Bring binoculars — many bird sightings here are at a distance in the canopy."
+    },
+    {
+      "title": "Watch birds dry their feathers at Lake Sandoval",
+      "image": {
+        "file": "File:PuertoMaldonado LagoSandoval Birds drying feathers.jpg",
+        "alt": "Birds drying their feathers at Lake Sandoval"
+      },
+      "text": "A peaceful sight, cormorants and other water birds spreading their wings to dry along the lake's edge.",
+      "tip": "A quiet moment of canoe stillness improves the chances of a close, unhurried view."
+    }
+  ],
+  "foodIntro": "Amazonian food differs from the rest of Peru, built around river fish, tropical fruit and jungle staples.",
+  "foods": [
+    {
+      "name": "Juanes",
+      "text": "A classic Amazonian dish, rice and chicken seasoned and wrapped in bijao leaves, then steamed.",
+      "whereToTry": "Restaurants throughout Puerto Maldonado."
+    },
+    {
+      "name": "Fresh river fish",
+      "text": "A highlight of any Amazon visit, species like paiche or dorado grilled simply and served fresh.",
+      "whereToTry": "Jungle lodges and restaurants throughout Puerto Maldonado."
+    },
+    {
+      "name": "Tropical Amazonian fruit",
+      "text": "A real treat, exotic fruits like camu camu and aguaje rarely found outside the region.",
+      "whereToTry": "Markets and lodges throughout the area."
+    },
+    {
+      "name": "Lomo saltado",
+      "image": {
+        "file": "File:Lomo Saltado.JPG",
+        "alt": "Lomo saltado, a Peruvian stir-fry of beef, onions and fries"
+      },
+      "text": "A familiar comfort option, found even this deep in the jungle at most lodges and restaurants.",
+      "whereToTry": "Restaurants and lodges throughout Puerto Maldonado."
+    },
+    {
+      "name": "Pisco sour",
+      "image": {
+        "file": "File:Pisco Sour Cocktail.jpg",
+        "alt": "A pisco sour, Peru's national cocktail"
+      },
+      "text": "A fitting way to unwind after a day of wildlife spotting, served at most jungle lodges.",
+      "whereToTry": "Lodges and restaurants throughout the region."
+    },
+    {
+      "name": "Chicha de jora",
+      "text": "A traditional fermented corn drink, found in more rural and traditional settings around Puerto Maldonado.",
+      "whereToTry": "Local restaurants and markets in Puerto Maldonado."
+    }
+  ],
+  "accommodation": {
+    "intro": "Amazon visits centre on all-inclusive jungle lodge stays, with Puerto Maldonado itself used mainly as a transit point.",
+    "areas": [
+      {
+        "name": "Jungle lodges along the Tambopata or Madre de Dios rivers",
+        "bestFor": "Being immersed in the rainforest with expert guiding",
+        "text": "The standard, and recommended, way to experience the Amazon here, typically two to four nights."
+      },
+      {
+        "name": "Puerto Maldonado town",
+        "bestFor": "A practical stopover before or after a lodge stay",
+        "text": "Basic but functional accommodation for a single transit night."
+      }
+    ],
+    "budget": [
+      { "label": "Budget lodge package (2-3 nights, all-inclusive)", "value": "About S/800–1,400 per person" },
+      { "label": "Mid-range lodge package", "value": "About S/1,500–2,800 per person" },
+      { "label": "Puerto Maldonado guesthouse", "value": "S/60–120 per night" },
+      { "label": "Domestic flight from Cusco", "value": "About S/250–450" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Puerto Maldonado is reached by a short domestic flight, the standard gateway for Amazon lodge stays.",
+    "options": [
+      {
+        "mode": "Flight from Cusco",
+        "text": "The standard route, a short flight of about 30-40 minutes dropping from the Andes into the jungle.",
+        "detail": "A striking contrast in landscape and altitude within a single short flight."
+      },
+      {
+        "mode": "Flight from Lima",
+        "text": "A direct alternative, taking around 90 minutes.",
+        "detail": "Useful for visitors not routing through Cusco."
+      },
+      {
+        "mode": "Lodge transfer by boat",
+        "text": "The final leg for any lodge stay, arranged as part of the package.",
+        "detail": "Travel time upriver varies from under an hour to several hours depending on the lodge's distance."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Once in the jungle, all movement is arranged by your lodge, typically by boat and guided trail.",
+    "options": [
+      {
+        "mode": "Lodge boat transfers",
+        "text": "How all guests reach and leave their lodge, included in the package.",
+        "detail": "River conditions can occasionally affect timing, so build in some schedule flexibility."
+      },
+      {
+        "mode": "Guided canoe excursions",
+        "text": "How most wildlife spotting happens, led by an experienced naturalist guide.",
+        "detail": "Included as part of nearly every lodge package's daily itinerary."
+      },
+      {
+        "mode": "Jungle trails on foot",
+        "text": "Used for shorter excursions and night walks from the lodge itself.",
+        "detail": "Always accompanied by a guide, given the terrain and wildlife."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June to October for the dry season, offering the easiest wildlife spotting",
+    "summary": "The Amazon's own separate dry season differs from the Andean highlands, with lower water levels concentrating wildlife near rivers.",
+    "seasons": [
+      {
+        "season": "Dry season (June–October)",
+        "rating": "best",
+        "text": "The easiest wildlife spotting, with lower water levels concentrating animals near rivers and clay licks."
+      },
+      {
+        "season": "Shoulder months (May, November)",
+        "rating": "good",
+        "text": "Fewer crowds with still-decent wildlife spotting conditions."
+      },
+      {
+        "season": "Wet season (December–April)",
+        "rating": "okay",
+        "text": "Lush and dramatic, with higher water levels making some trails inaccessible, though birdlife remains excellent."
+      }
+    ],
+    "avoid": "Expecting guaranteed big-mammal sightings in any season — most Amazon wildlife is elusive, and birds, insects and reptiles are the more reliable highlights."
+  },
+  "itinerary": {
+    "title": "Three days in the Amazon",
+    "intro": "A typical lodge itinerary built around Lake Sandoval, a macaw clay lick and night wildlife excursions.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival and the lodge",
+        "summary": "Flight to Puerto Maldonado and boat transfer to the lodge.",
+        "morning": "Fly to Puerto Maldonado.",
+        "afternoon": "Boat transfer upriver to your jungle lodge.",
+        "evening": "A first night walk near the lodge."
+      },
+      {
+        "day": 2,
+        "title": "Lake Sandoval and the clay lick",
+        "summary": "Giant otters and macaws.",
+        "morning": "Early departure for a macaw clay lick.",
+        "afternoon": "Canoe trip on Lake Sandoval.",
+        "evening": "A night canoe excursion for caimans."
+      },
+      {
+        "day": 3,
+        "title": "Departure",
+        "summary": "A final morning excursion before returning to Puerto Maldonado.",
+        "morning": "A final guided rainforest walk.",
+        "afternoon": "Boat transfer back to Puerto Maldonado.",
+        "evening": "Flight onward to Cusco or Lima."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make an Amazon lodge visit noticeably smoother.",
+  "tips": [
+    "Book a multi-night lodge package rather than a single day trip — wildlife sightings improve significantly with more time.",
+    "Pack lightweight, quick-dry clothing in neutral colours, plus a rain jacket regardless of season.",
+    "Bring strong insect repellent and consider anti-malarial medication after consulting a doctor.",
+    "Pack binoculars — most wildlife sightings here are at a distance.",
+    "Manage expectations on jaguar or big-cat sightings, which are rare even for experienced guides.",
+    "Confirm your lodge's cancellation policy given the real possibility of river-level or weather delays."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the Amazon?",
+      "a": "Three to four days allows for a proper lodge stay with multiple wildlife excursions, improving your odds significantly over a rushed single day."
+    },
+    {
+      "q": "Is Puerto Maldonado a good Amazon gateway?",
+      "a": "Yes, one of the most accessible, reachable by a short flight from Cusco directly into the rainforest."
+    },
+    {
+      "q": "Will you definitely see wildlife?",
+      "a": "Likely for birds, insects, caimans and often giant otters, though large mammals like jaguars are rare, elusive sightings even for experienced guides."
+    },
+    {
+      "q": "What is the Amazon near Puerto Maldonado known for?",
+      "a": "Extraordinary biodiversity, including reliable giant river otter sightings and spectacular macaw clay licks found in only a few places worldwide."
+    },
+    {
+      "q": "Do you need vaccinations for the Amazon?",
+      "a": "Consult a travel doctor ahead of your trip — yellow fever vaccination and malaria precautions are commonly recommended for this region."
+    },
+    {
+      "q": "Can you combine the Amazon with Machu Picchu in one trip?",
+      "a": "Yes — Puerto Maldonado connects easily to Cusco by short flight, making it a natural addition to a wider Peru itinerary."
+    }
+  ],
+  "related": ["cusco", "sacred-valley", "machu-picchu"],
+  "relatedArticles": ["underrated-destinations", "us-national-parks-road-trip"]
+}

@@ -1,0 +1,366 @@
+{
+  "slug": "ubud",
+  "name": "Ubud",
+  "country": "indonesia",
+  "region": "Bali",
+  "categories": ["culture", "nature", "wellness", "temples"],
+  "tagline": "Bali's cultural and spiritual heart, ringed by rice terraces and known worldwide for yoga, arts and a slower pace than the coast.",
+  "highlight": "Watching the Tegalalang rice terraces catch the late-afternoon light, their stepped green tiers dropping away down the valley.",
+  "shortDescription": "Bali's inland cultural centre, surrounded by rice terraces, ancient temples and a deep-rooted arts and wellness scene.",
+  "metaDescription": "An Ubud travel guide: the Tegalalang Rice Terraces, the Monkey Forest, Ubud Palace, yoga, food and how to plan a visit to Bali's cultural heart.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "Ngurah Rai International (DPS), about 1 hour away",
+  "knownFor": "Rice terraces, yoga retreats, Balinese arts and temples",
+  "budget": "Rp 600,000–1,500,000 per day, mid-range",
+  "goodFor": "Culture, wellness, a slower pace inland from the coast",
+  "coords": { "lat": -8.5069, "lng": 115.2625 },
+  "image": {
+    "file": "File:Tegalalang Rice Terrace - Subak Ceking on Bali 15.jpg",
+    "alt": "The stepped green tiers of the Tegalalang Rice Terraces near Ubud, Bali"
+  },
+  "intro": [
+    "Ubud is Bali's cultural and spiritual centre, an inland town of rice terraces, ancient temples and a long-standing arts scene that has drawn visitors seeking something more reflective than the island's beach resorts since well before 'Eat, Pray, Love' put it on the wider map.",
+    "The town itself is compact and walkable, but its real draw spreads into the surrounding countryside — the stepped green tiers of the Tegalalang Rice Terraces, sacred forests thick with monkeys and moss-covered stone, and villages still organised around the same Hindu temple and irrigation traditions that have shaped Balinese life for centuries.",
+    "Ubud has also become a global centre for yoga and wellness retreats, but it hasn't lost its working character in the process — rice farmers, temple ceremonies and daily offerings are still very much part of the town's actual rhythm, not just its marketing."
+  ],
+  "whyVisit": {
+    "intro": "Ubud's case rests on a genuine depth of culture and nature packed into a compact, walkable town.",
+    "points": [
+      {
+        "title": "The Tegalalang Rice Terraces are iconic for a reason",
+        "text": "Stepped, hand-carved paddies cascading down a valley, still actively farmed using Bali's traditional subak irrigation system."
+      },
+      {
+        "title": "It's Bali's deepest cultural centre",
+        "text": "Temples, dance performances, traditional painting and woodcarving are all still active local traditions here, not just tourist shows."
+      },
+      {
+        "title": "The wellness scene is well established",
+        "text": "Decades of yoga studios, retreats and healers have made Ubud a genuine global centre for the practice, not a recent trend."
+      },
+      {
+        "title": "It's a peaceful, greener alternative to the coast",
+        "text": "Cooler, quieter and slower-paced than Bali's beach towns, surrounded by rice fields rather than surf breaks."
+      },
+      {
+        "title": "It works well as a base for wider exploration",
+        "text": "Central enough to reach much of southern and central Bali on manageable day trips."
+      }
+    ]
+  },
+  "attractionsIntro": "Ubud's essential sights mix its famous rice terraces with significant temples and sacred sites.",
+  "attractions": [
+    {
+      "name": "Tegalalang Rice Terraces",
+      "image": {
+        "file": "File:Rice terraces on Bali - Tegalalang Rice Terrace - Indonesia 05.jpg",
+        "alt": "The stepped rice paddies of the Tegalalang Rice Terraces"
+      },
+      "text": "Bali's most photographed rice terraces, hand-carved into a steep valley and still farmed using the centuries-old subak irrigation system.",
+      "tip": "Arrive early morning to beat both the crowds and the midday heat."
+    },
+    {
+      "name": "Ubud Monkey Forest",
+      "image": {
+        "file": "File:Sacred Monkey Forest Sanctuary (49818583963).jpg",
+        "alt": "The forested grounds of the Sacred Monkey Forest Sanctuary in Ubud"
+      },
+      "text": "A sacred forest sanctuary home to hundreds of long-tailed macaques and three ancient temples woven through moss-covered stone.",
+      "tip": "Keep all food, sunglasses and loose items zipped away — the monkeys are practised opportunists."
+    },
+    {
+      "name": "Ubud Palace",
+      "image": {
+        "file": "File:Ubud Palace, Bali, Indonesia, 20220822 0904 9820.jpg",
+        "alt": "The ornate carved gates of Ubud Palace"
+      },
+      "text": "A still-functioning royal residence with elaborately carved stone gates, hosting free traditional dance performances most evenings.",
+      "tip": "Arrive early for an evening dance performance — seating fills up fast."
+    },
+    {
+      "name": "Goa Gajah (Elephant Cave)",
+      "image": {
+        "file": "File:Goa Gajah temple, Bedulu, Bali, Indonesia, 20220824 0929 0544.jpg",
+        "alt": "The carved stone entrance to Goa Gajah, the Elephant Cave temple"
+      },
+      "text": "A striking 9th-century cave temple, its entrance carved into a demon's face, with bathing pools and ruins in the surrounding gardens.",
+      "tip": "The steep steps down to the rice field views behind the cave are easy to miss — don't stop at the cave alone."
+    },
+    {
+      "name": "Campuhan Ridge Walk",
+      "image": {
+        "file": "File:Campuhan Ridge Walk, Ubud, Bali (15003876558).jpg",
+        "alt": "The green ridge trail of the Campuhan Ridge Walk near Ubud"
+      },
+      "text": "An easy, scenic ridge trail through open grassland just minutes from central Ubud, with views over two river valleys.",
+      "tip": "Start at sunrise for the coolest temperatures and softest light."
+    },
+    {
+      "name": "Tegenungan Waterfall",
+      "image": {
+        "file": "File:Tegenungan Waterfall Ubud Indonesia - panoramio (1).jpg",
+        "alt": "Tegenungan Waterfall cascading into a pool near Ubud"
+      },
+      "text": "An accessible, powerful waterfall just south of Ubud, with a swimmable pool at its base and viewpoints requiring only a short walk down.",
+      "tip": "The stone steps down can be slippery — sturdy sandals help more than flip-flops."
+    },
+    {
+      "name": "Pura Taman Saraswati",
+      "image": {
+        "file": "File:Pura Taman Saraswati, Ubud, Bali, 20220823 0840 0249.jpg",
+        "alt": "Pura Taman Saraswati, a water temple with a lotus pond, in central Ubud"
+      },
+      "text": "A serene water temple dedicated to the Hindu goddess of knowledge, its lotus ponds sitting right in the middle of central Ubud.",
+      "tip": "Evening dance performances are held here with the temple lit up behind the stage."
+    }
+  ],
+  "thingsToDoIntro": "Ubud rewards slowing down — its best experiences are cultural and restorative rather than checklist sightseeing.",
+  "thingsToDo": [
+    {
+      "title": "Watch a Kecak fire dance",
+      "image": {
+        "file": "File:Bali 038 - Ubud - kecak fire dance.jpg",
+        "alt": "Performers at a traditional Kecak fire dance in Ubud"
+      },
+      "text": "A mesmerising performance built entirely around a chanting male chorus, telling the Ramayana story without any instruments at all.",
+      "tip": "Evening shows run at Ubud Palace and several other venues around town most nights."
+    },
+    {
+      "title": "Take a Balinese cooking class",
+      "text": "A hands-on way to understand Balinese food, usually starting with a market visit before cooking a full multi-course meal.",
+      "tip": "Ask whether the class includes a market tour — the best ones do."
+    },
+    {
+      "title": "Cycle through rice fields and villages",
+      "image": {
+        "file": "File:Rice Fields, Bali (15196976275).jpg",
+        "alt": "Rice fields in the countryside around Ubud"
+      },
+      "text": "A peaceful way to see rural Bali up close, pedalling narrow paths between paddies and small family temples.",
+      "tip": "Early morning gives the coolest ride and the best light over the fields."
+    },
+    {
+      "title": "Practice yoga at a retreat",
+      "text": "Ubud's long-established wellness scene means classes range from single drop-in sessions to full multi-day retreats.",
+      "tip": "Book popular studios a day or two ahead — well-known classes fill up fast."
+    },
+    {
+      "title": "Walk the Campuhan Ridge at sunrise",
+      "image": {
+        "file": "File:Campuhan Ridge Walk, Ubud, Bali (15003625958).jpg",
+        "alt": "Early morning light over the Campuhan Ridge trail"
+      },
+      "text": "A rewarding way to start the day, with cool air, soft light and far fewer people than the midday crowds.",
+      "tip": "The full loop takes about 1-2 hours at an easy pace."
+    },
+    {
+      "title": "Browse the Ubud Art Market",
+      "text": "A lively covered market of woodcarvings, textiles and paintings, right in the centre of town near the palace.",
+      "tip": "Bargaining is expected — start well below the first asking price."
+    }
+  ],
+  "foodIntro": "Ubud's food spans Balinese classics, a thriving café scene and one of Bali's best concentrations of good restaurants.",
+  "foods": [
+    {
+      "name": "Babi guling",
+      "image": {
+        "file": "File:Babi Guling.jpg",
+        "alt": "Babi guling, Balinese spit-roasted suckling pig"
+      },
+      "text": "Bali's famous spit-roasted suckling pig, stuffed with a dense mix of spices and served with rice and vegetables.",
+      "whereToTry": "Warungs around Ubud specialising in babi guling, often selling out by early afternoon."
+    },
+    {
+      "name": "Sate lilit",
+      "image": {
+        "file": "File:Pork Sate Lilit Bali 1.JPG",
+        "alt": "Sate lilit, minced Balinese satay wrapped around skewers"
+      },
+      "text": "A distinctive Balinese satay, minced meat and spices wrapped around lemongrass or bamboo skewers rather than threaded as cubes.",
+      "whereToTry": "Warungs and restaurants throughout Ubud."
+    },
+    {
+      "name": "Bebek betutu",
+      "image": {
+        "file": "File:Bebek tutu.jpg",
+        "alt": "Bebek betutu, slow-cooked spiced Balinese duck"
+      },
+      "text": "A rich, slow-cooked duck stuffed with spices and wrapped in banana leaves, traditionally cooked for hours in embers.",
+      "whereToTry": "Ubud's well-known duck restaurants, best ordered a few hours ahead."
+    },
+    {
+      "name": "Nasi campur",
+      "image": {
+        "file": "File:Nasi campur, Ubud, Indonesia.jpg",
+        "alt": "A plate of nasi campur with an assortment of Balinese side dishes"
+      },
+      "text": "An excellent way to sample several Balinese dishes at once, rice served with a rotating mix of vegetables, meat and sambal.",
+      "whereToTry": "Warungs throughout Ubud, especially near the market."
+    },
+    {
+      "name": "Lawar",
+      "image": {
+        "file": "File:Lawar.jpg",
+        "alt": "Lawar, a traditional Balinese mixed vegetable and meat dish"
+      },
+      "text": "A traditional Balinese dish of minced vegetables, coconut and meat, usually seasoned heavily with spice and lime.",
+      "whereToTry": "Traditional warungs around Ubud, often as part of a nasi campur plate."
+    },
+    {
+      "name": "Balinese coffee",
+      "image": {
+        "file": "File:Sangrai Biji Kopi secara traditional di Coffee Plantation Bali.jpg",
+        "alt": "Traditional coffee roasting at a plantation near Ubud"
+      },
+      "text": "Grown on the island's volcanic slopes, with plantation visits near Ubud offering tastings alongside the notably unusual kopi luwak.",
+      "whereToTry": "Coffee plantations just north of Ubud, and cafés throughout town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Ubud's accommodation ranges from simple guesthouses to some of Bali's most celebrated luxury resorts.",
+    "areas": [
+      {
+        "name": "Central Ubud",
+        "bestFor": "Walking to the palace, market and main sights",
+        "text": "The most convenient base, though also the busiest and most built-up part of town."
+      },
+      {
+        "name": "Campuhan and the rice field edges",
+        "bestFor": "A quieter stay with rice field or valley views",
+        "text": "Still a short walk or scooter ride from central Ubud, with a noticeably calmer feel."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse (Ubud)", "value": "Rp 250,000–500,000 per night" },
+      { "label": "Mid-range hotel", "value": "Rp 700,000–1,800,000 per night" },
+      { "label": "Luxury rice-field resort", "value": "Rp 3,000,000+ per night" },
+      { "label": "Cooking class", "value": "About Rp 300,000–500,000" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Ubud is reached by road from anywhere else on Bali, with no airport of its own.",
+    "options": [
+      {
+        "mode": "Private car or hotel transfer from the airport",
+        "text": "About 1-1.5 hours from Ngurah Rai International, depending on traffic.",
+        "detail": "Most hotels can arrange a transfer, or book one ahead through a driver app."
+      },
+      {
+        "mode": "Ride-hailing apps (Gojek, Grab)",
+        "text": "Available for airport transfers, though pickup zones can be restricted near the terminal.",
+        "detail": "Often cheaper than a pre-booked hotel transfer."
+      },
+      {
+        "mode": "Shared shuttle or tourist bus",
+        "text": "A budget-friendly option connecting Ubud to other parts of Bali.",
+        "detail": "Slower than a private car, with multiple stops along the way."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Central Ubud is walkable, though a scooter or driver helps for the surrounding sights.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Covers the palace, market, Monkey Forest and central temples easily.",
+        "detail": "Central Ubud's main sights sit within about a 15-20 minute walk of each other."
+      },
+      {
+        "mode": "Scooter rental",
+        "text": "The most flexible way to reach Tegalalang, Tegenungan and Goa Gajah.",
+        "detail": "An international driving permit is required and increasingly enforced."
+      },
+      {
+        "mode": "Private driver for the day",
+        "text": "Affordable and popular for visitors who'd rather not navigate Bali's traffic themselves.",
+        "detail": "Typically booked through a hotel or driver app for a fixed daily rate."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April to October for the driest, most comfortable weather",
+    "summary": "Ubud is pleasant year-round thanks to its inland elevation, though the dry season makes exploring outdoor sights noticeably easier.",
+    "seasons": [
+      {
+        "season": "Dry season (April–October)",
+        "rating": "best",
+        "text": "The most reliable weather for rice terrace walks and outdoor exploring, and also the busiest season."
+      },
+      {
+        "season": "Shoulder months (April, October)",
+        "rating": "good",
+        "text": "Good weather odds with thinner crowds than the July–August peak."
+      },
+      {
+        "season": "Wet season (November–March)",
+        "rating": "good",
+        "text": "Still workable, with short, heavy afternoon downpours rather than constant rain, and lush, vivid green rice terraces."
+      },
+      {
+        "season": "Peak season (July–August, December)",
+        "rating": "good",
+        "text": "The busiest and most expensive time to visit, worth booking well ahead for."
+      }
+    ],
+    "avoid": "Nothing strongly — Ubud's inland climate stays comfortable and workable year-round, wet season included."
+  },
+  "itinerary": {
+    "title": "Two days in Ubud",
+    "intro": "Built around the rice terraces and temples on day one, culture and wellness on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Rice terraces and temples",
+        "summary": "Tegalalang, Goa Gajah and central Ubud's temples.",
+        "morning": "The Tegalalang Rice Terraces, arriving early.",
+        "afternoon": "Goa Gajah and Pura Taman Saraswati.",
+        "evening": "A Kecak fire dance performance at Ubud Palace."
+      },
+      {
+        "day": 2,
+        "title": "Culture and wellness",
+        "summary": "The Monkey Forest, a cooking class and a spa evening.",
+        "morning": "The Ubud Monkey Forest.",
+        "afternoon": "A Balinese cooking class.",
+        "evening": "A spa treatment or a quiet dinner in central Ubud."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make an Ubud stay noticeably smoother.",
+  "tips": [
+    "Dress modestly at temples — a sarong is often required and usually available to rent at the entrance.",
+    "Keep loose items zipped away at the Monkey Forest — the macaques are skilled opportunists.",
+    "Book well-known yoga classes and cooking classes a day or two ahead.",
+    "Carry small rupiah notes — many warungs and market stalls don't take cards.",
+    "Arrive at Tegalalang early to avoid both the crowds and the heat.",
+    "Negotiate a private driver's day rate upfront, before setting out."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Ubud?",
+      "a": "Two to four days covers the main sights and a wellness activity or two at a relaxed pace."
+    },
+    {
+      "q": "Is Ubud worth visiting if I've already seen Bali's beaches?",
+      "a": "Yes — Ubud offers a distinctly different, more cultural and inland side of Bali that the coastal towns don't."
+    },
+    {
+      "q": "How far is Ubud from the airport?",
+      "a": "About 1 to 1.5 hours by car, depending on traffic, with no airport of its own."
+    },
+    {
+      "q": "Is the Ubud Monkey Forest safe to visit?",
+      "a": "Yes, with sensible precautions — keep food and loose items secured, and don't make direct prolonged eye contact with the macaques."
+    },
+    {
+      "q": "Do I need a scooter in Ubud?",
+      "a": "Not essential — central Ubud is walkable, and a driver or scooter rental covers the outlying sights well."
+    },
+    {
+      "q": "Is Ubud good for a yoga retreat?",
+      "a": "Yes, one of the world's best-known yoga destinations, with decades of established studios and retreats to choose from."
+    }
+  ],
+  "related": ["seminyak-kuta", "yogyakarta-borobudur", "bandung"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

@@ -1,0 +1,378 @@
+{
+  "slug": "dubrovnik",
+  "name": "Dubrovnik",
+  "country": "croatia",
+  "region": "Dalmatia",
+  "categories": ["historic", "unesco", "coastal", "romantic"],
+  "tagline": "The Adriatic's most complete medieval walled city, marble streets and baroque churches still enclosed by nearly two kilometres of fortifications.",
+  "highlight": "Walking the full circuit of the City Walls at sunrise, the Old Town's terracotta rooftops glowing below and the Adriatic stretching out on the other side.",
+  "shortDescription": "The Adriatic's most complete medieval walled city, home to nearly two kilometres of intact fortifications, a marble old town and Fort Lovrijenac.",
+  "metaDescription": "A Dubrovnik travel guide: the City Walls, Stradun, Fort Lovrijenac, the Srđ cable car, food and how to plan a visit to Croatia's walled city.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "Dubrovnik Airport (DBV)",
+  "knownFor": "The City Walls, Stradun, Fort Lovrijenac",
+  "budget": "€120–250 per day, mid-range (higher in peak summer)",
+  "goodFor": "History, architecture, romance",
+  "coords": { "lat": 42.6407, "lng": 18.1077 },
+  "image": {
+    "file": "File:City walls of Dubrovnik 01.jpg",
+    "alt": "Dubrovnik's medieval city walls above the Adriatic"
+  },
+  "intro": [
+    "Dubrovnik is the Adriatic's most complete medieval walled city, its Old Town still fully enclosed by nearly two kilometres of intact 16th-century fortifications.",
+    "Inside those walls, marble-paved Stradun runs the length of a townscape of baroque churches, monasteries and palaces, almost entirely rebuilt after a devastating 1667 earthquake in remarkably unified style.",
+    "It's a city that rewards patience with its crowds — arriving early, staying late, or timing a visit outside cruise-ship hours all transform the experience."
+  ],
+  "whyVisit": {
+    "intro": "Dubrovnik's case rests on being one of the best-preserved fortified cities anywhere in the world.",
+    "points": [
+      {
+        "title": "The City Walls are a singular experience",
+        "text": "Nearly two kilometres of intact fortifications, walkable in their entirety."
+      },
+      {
+        "title": "The Old Town is remarkably unified",
+        "text": "Rebuilt after a 1667 earthquake in consistent baroque style, marble streets and all."
+      },
+      {
+        "title": "The setting is dramatic",
+        "text": "A walled city rising straight from the Adriatic, backed by Mount Srđ."
+      },
+      {
+        "title": "It's an easy gateway to the islands",
+        "text": "Ferries connect Lokrum, the Elaphiti Islands and further afield straight from the Old Town harbour."
+      },
+      {
+        "title": "It works well outside peak crowds",
+        "text": "Early mornings, evenings and shoulder-season visits reveal a much quieter, more atmospheric city."
+      }
+    ]
+  },
+  "attractionsIntro": "Dubrovnik's essential sights are concentrated within and immediately around its walled Old Town.",
+  "attractions": [
+    {
+      "name": "The City Walls",
+      "image": {
+        "file": "File:City walls of Dubrovnik 01.jpg",
+        "alt": "Dubrovnik's medieval city walls"
+      },
+      "text": "The city's defining feature, nearly two kilometres of intact medieval and Renaissance fortifications encircling the entire Old Town.",
+      "tip": "Walk the full circuit early morning, both for the light and to beat the worst of the crowds and heat."
+    },
+    {
+      "name": "Stradun",
+      "image": {
+        "file": "File:Main Street Placa Stradun Old Town Dubrovnik (4058859258).jpg",
+        "alt": "Stradun, Dubrovnik's marble-paved main street"
+      },
+      "text": "The Old Town's spine, a marble-paved promenade running the full length of the walled city.",
+      "tip": "Visit in the early evening for the classic Dubrovnik ritual of a slow walk and gelato."
+    },
+    {
+      "name": "Fort Lovrijenac",
+      "image": {
+        "file": "File:Fort Lovrijenac - Dubrovnik.jpg",
+        "alt": "Fort Lovrijenac overlooking Dubrovnik"
+      },
+      "text": "A dramatic standalone fortress on a cliff just outside the walls, built to guard the city's western approach.",
+      "tip": "Climb up for one of the best views back over the Old Town's rooftops and walls."
+    },
+    {
+      "name": "The Rector's Palace",
+      "image": {
+        "file": "File:Rector's palace 01.jpg",
+        "alt": "The Rector's Palace in Dubrovnik"
+      },
+      "text": "The former seat of the Republic of Ragusa's government, a Gothic-Renaissance palace now housing the city museum.",
+      "tip": "A cool, quiet escape from the heat and crowds of Stradun outside."
+    },
+    {
+      "name": "The Franciscan Monastery",
+      "image": {
+        "file": "File:CLOISTER OF THE FRANCISCAN MONASTERY IN DUBROVNIK, CROATIA.jpg",
+        "alt": "The cloister of the Franciscan Monastery in Dubrovnik"
+      },
+      "text": "Home to one of the oldest continuously operating pharmacies in Europe, alongside a beautiful Romanesque cloister.",
+      "tip": "Don't miss the small museum's collection of historic pharmaceutical equipment."
+    },
+    {
+      "name": "The Srđ Cable Car",
+      "image": {
+        "file": "File:Cable car to Mount Srd in Dubrovnik, Croatia (48738636363).jpg",
+        "alt": "The cable car climbing Mount Srđ above Dubrovnik"
+      },
+      "text": "The easiest way up Mount Srđ, whisking visitors from the Old Town's edge to a panoramic viewpoint in minutes.",
+      "tip": "Go for sunset — the view over the walled city and islands is spectacular."
+    },
+    {
+      "name": "Lokrum Island",
+      "image": {
+        "file": "File:Lokrum Island, Croatia.jpg",
+        "alt": "Lokrum Island near Dubrovnik"
+      },
+      "text": "A wooded island retreat a short boat ride from the Old Town, with a botanical garden and rocky swimming spots.",
+      "tip": "A lovely half-day escape from the Old Town's heat and crowds."
+    }
+  ],
+  "thingsToDoIntro": "Dubrovnik rewards both essential sightseeing and simply slowing down between the walls and the sea.",
+  "thingsToDo": [
+    {
+      "title": "Walk the full circuit of the City Walls",
+      "image": {
+        "file": "File:City walls of Dubrovnik 05.jpg",
+        "alt": "Walking Dubrovnik's medieval city walls"
+      },
+      "text": "An essential Dubrovnik experience, circling the entire Old Town with views over rooftops and sea alike.",
+      "tip": "Allow at least 1.5 to 2 hours at an unhurried pace, with stops for photos."
+    },
+    {
+      "title": "Ride the cable car up Srđ Hill",
+      "image": {
+        "file": "File:Dubrovnik - kolejka na górę Srd - cable car to Srd hill - panoramio.jpg",
+        "alt": "The cable car up Srđ Hill above Dubrovnik"
+      },
+      "text": "A quick, rewarding trip, trading the Old Town's narrow streets for a sweeping panoramic view.",
+      "tip": "Book tickets online ahead in peak season to skip the queue."
+    },
+    {
+      "title": "Take a boat to Lokrum Island",
+      "image": {
+        "file": "File:Boats - Lokrum island.jpg",
+        "alt": "Boats departing for Lokrum Island from Dubrovnik"
+      },
+      "text": "An easy half-day escape, a short ferry ride to a quiet, wooded island with a botanical garden.",
+      "tip": "Bring water shoes — Lokrum's swimming spots are mostly rocky rather than sandy."
+    },
+    {
+      "title": "Kayak along the Old Town's sea walls",
+      "image": {
+        "file": "File:Kayaks in the Adriatic Sea of Dubrovnik, Croatia (48612968121).jpg",
+        "alt": "Kayaking along Dubrovnik's sea walls"
+      },
+      "text": "A unique perspective, paddling right beneath the fortifications from the water side.",
+      "tip": "Book a guided sunset tour for the best light over the walls."
+    },
+    {
+      "title": "Wander Stradun at golden hour",
+      "image": {
+        "file": "File:Detail Placa Stradun Old Town Dubrovnik 2 (4058270235).jpg",
+        "alt": "Stradun at golden hour in Dubrovnik"
+      },
+      "text": "A lovely ritual, the marble street glowing warm as the day's heat and crowds finally ease off.",
+      "tip": "A nice time for people-watching from a Stradun café terrace."
+    },
+    {
+      "title": "Explore the Franciscan Monastery's cloister",
+      "image": {
+        "file": "File:Frecscoes in the cloister of the Franciscan monastery, Dubrovnik (5) (29466173154).jpg",
+        "alt": "The cloister of the Franciscan Monastery in Dubrovnik"
+      },
+      "text": "A peaceful stop, a Romanesque cloister and historic pharmacy tucked just off the busy Stradun.",
+      "tip": "A good midday escape from the heat and crowds outside."
+    }
+  ],
+  "foodIntro": "Dubrovnik's food centres on fresh Adriatic seafood and classic Dalmatian cooking.",
+  "foods": [
+    {
+      "name": "Fresh grilled seafood",
+      "image": {
+        "file": "File:Skampi Na Zaru - Konoba Ivan (14929244641).jpg",
+        "alt": "Grilled seafood at a traditional Croatian restaurant"
+      },
+      "text": "A highlight of dining here, fish and shellfish grilled simply at restaurants throughout the Old Town.",
+      "whereToTry": "Konobas and seafood restaurants throughout the Old Town."
+    },
+    {
+      "name": "Crni rižot (black risotto)",
+      "image": {
+        "file": "File:Risotto al nero di seppia.jpg",
+        "alt": "Black risotto made with cuttlefish ink"
+      },
+      "text": "A Dalmatian classic, worth trying at least once during a Dubrovnik visit.",
+      "whereToTry": "Seafood restaurants throughout the Old Town."
+    },
+    {
+      "name": "Dalmatinski pršut (dry-cured ham)",
+      "image": {
+        "file": "File:Dalmatinski pršut.jpg",
+        "alt": "Dalmatinski pršut, Croatia's dry-cured ham"
+      },
+      "text": "A reliable starter, often served simply with local cheese and olives.",
+      "whereToTry": "Restaurants and konobas throughout the Old Town."
+    },
+    {
+      "name": "Peka (slow-cooked under a bell)",
+      "text": "Worth ordering ahead, meat or seafood slow-cooked with vegetables under embers for hours.",
+      "whereToTry": "Traditional konobas, especially outside the busiest tourist streets."
+    },
+    {
+      "name": "Pelješac Peninsula wine",
+      "text": "Worth seeking out, bold red wines from the peninsula just up the coast from Dubrovnik.",
+      "whereToTry": "Wine bars throughout the Old Town."
+    },
+    {
+      "name": "Fritule (small fried doughnuts)",
+      "image": {
+        "file": "File:Fritule iz Rijeke.jpg",
+        "alt": "Fritule, small Croatian fried doughnuts"
+      },
+      "text": "A nice sweet treat, found at bakeries and market stalls around the Old Town.",
+      "whereToTry": "Bakeries throughout the Old Town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Dubrovnik offers everything from budget guesthouses to luxury hotels, with location making a real difference to the experience.",
+    "areas": [
+      {
+        "name": "Inside the Old Town walls",
+        "bestFor": "Being immersed in the historic atmosphere, day and night",
+        "text": "The most atmospheric base, though also the priciest and busiest during the day."
+      },
+      {
+        "name": "Lapad or Babin Kuk",
+        "bestFor": "A better-value stay with easy beach access",
+        "text": "A short bus ride from the Old Town, with a more residential, relaxed feel."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "€60–110 per night" },
+      { "label": "Mid-range hotel", "value": "€150–280 per night" },
+      { "label": "City Walls entry", "value": "About €35" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About €30–55 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Dubrovnik is well connected by direct flights, with ferries linking it to the wider Dalmatian coast.",
+    "options": [
+      {
+        "mode": "Direct international flights",
+        "text": "Available from many European cities, especially in summer.",
+        "detail": "Dubrovnik Airport sits about 20 minutes from the Old Town."
+      },
+      {
+        "mode": "Domestic flight from Zagreb",
+        "text": "The fastest way to connect from the capital.",
+        "detail": "Takes under an hour, versus most of a day by road."
+      },
+      {
+        "mode": "Ferry or coastal bus from Split",
+        "text": "A scenic overland or sea option.",
+        "detail": "Buses take around four to five hours; ferries run less frequently but offer spectacular coastal views."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Dubrovnik's car-free Old Town is entirely walkable, with buses covering the wider city.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The only way to explore the Old Town itself.",
+        "detail": "No cars are permitted inside the walls."
+      },
+      {
+        "mode": "Local buses",
+        "text": "Useful for reaching Lapad, Babin Kuk or the airport.",
+        "detail": "A frequent, inexpensive network connects the Old Town to the wider city."
+      },
+      {
+        "mode": "Cable car",
+        "text": "The easiest way up Mount Srđ.",
+        "detail": "Departs from just outside the Old Town's Ploče Gate."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for warm weather without peak-summer crowds",
+    "summary": "Dubrovnik is at its most crowded and expensive in July and August, with shoulder months offering a far better balance.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Warm enough to swim, with noticeably thinner crowds than peak summer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Hot and lively, though the Old Town gets packed, especially on cruise-ship days."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "best",
+        "text": "Still warm enough for the sea, with crowds and prices both easing off."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "okay",
+        "text": "Quiet and atmospheric, though many restaurants and attractions reduce their hours."
+      }
+    ],
+    "avoid": "July and August's peak crowds and prices, if your dates are flexible."
+  },
+  "itinerary": {
+    "title": "Three days in Dubrovnik",
+    "intro": "Built around the City Walls, the wider Old Town, and a slower day exploring beyond the walls.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Stradun and the Old Town",
+        "summary": "An introduction to the walled city.",
+        "morning": "Arrive and settle in near the Old Town.",
+        "afternoon": "Wander Stradun, the Rector's Palace and the Franciscan Monastery.",
+        "evening": "Dinner with a view of the floodlit walls."
+      },
+      {
+        "day": 2,
+        "title": "The City Walls and Fort Lovrijenac",
+        "summary": "The full walls circuit and a viewpoint fortress.",
+        "morning": "Walk the full circuit of the City Walls, starting early.",
+        "afternoon": "Fort Lovrijenac and its views over the Old Town.",
+        "evening": "Sunset from the Srđ cable car."
+      },
+      {
+        "day": 3,
+        "title": "Lokrum Island",
+        "summary": "A slower day on the water.",
+        "morning": "Boat to Lokrum Island.",
+        "afternoon": "Swim and explore the island's botanical garden.",
+        "evening": "A final Dalmatian dinner in the Old Town."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Dubrovnik visit noticeably smoother.",
+  "tips": [
+    "Book City Walls tickets online ahead to skip the entrance queue.",
+    "Walk the walls first thing in the morning to beat both heat and crowds.",
+    "Check the cruise ship schedule — some days bring far heavier Old Town crowds than others.",
+    "Wear comfortable, grippy shoes — the Old Town's marble streets get slippery when wet.",
+    "Book accommodation well ahead for a July or August visit.",
+    "Escape to Lokrum or Lapad's beaches when the Old Town feels overwhelming."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Dubrovnik?",
+      "a": "Three to four days allows time for the walls, the wider Old Town and a boat trip to Lokrum without rushing."
+    },
+    {
+      "q": "Is Dubrovnik worth visiting despite the crowds?",
+      "a": "Yes — visiting the walls early morning and checking the cruise ship schedule both help enormously."
+    },
+    {
+      "q": "Are the City Walls worth the entry fee?",
+      "a": "Yes — it's widely considered one of Europe's best walking experiences, with views found nowhere else in the city."
+    },
+    {
+      "q": "How do you get from Dubrovnik Airport to the Old Town?",
+      "a": "By airport shuttle bus or taxi, taking about 20 to 30 minutes."
+    },
+    {
+      "q": "Can you swim in Dubrovnik?",
+      "a": "Yes — rocky beaches line the Old Town's edge, with Lokrum Island and Lapad's beaches both popular alternatives."
+    },
+    {
+      "q": "Can you day-trip to the islands from Dubrovnik?",
+      "a": "Yes, easily — Lokrum is a short boat ride, and the Elaphiti Islands make a popular full-day trip."
+    }
+  ],
+  "related": ["korcula", "hvar", "split"],
+  "relatedArticles": ["mediterranean-coasts", "unesco-worth-planning-around"]
+}

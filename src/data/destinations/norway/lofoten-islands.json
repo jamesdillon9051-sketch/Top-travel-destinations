@@ -1,0 +1,375 @@
+{
+  "slug": "lofoten-islands",
+  "name": "The Lofoten Islands",
+  "country": "norway",
+  "region": "Nordland, Northern Norway",
+  "categories": ["island", "nature", "hiking", "photography"],
+  "tagline": "Jagged granite peaks rising straight from the sea above red fishing cabins, ranking among the most photographed islands on Earth.",
+  "highlight": "Looking down on Reine from the Reinebringen trail, its cluster of red rorbuer cabins scattered across the water between sheer granite peaks.",
+  "shortDescription": "A chain of dramatic granite islands above the Arctic Circle, where jagged peaks rise straight from the sea beside red fishing villages.",
+  "metaDescription": "A Lofoten Islands travel guide: Reine, Hamnøy, Henningsvær, the northern lights, food and how to plan a visit to Norway's most photogenic islands.",
+  "suggestedStay": "3-5 days",
+  "nearestAirport": "Leknes (LKN) or Svolvær (SVJ)",
+  "knownFor": "Dramatic peaks rising from the sea, fishing villages",
+  "budget": "NOK 1,300–2,800 per day, mid-range",
+  "goodFor": "Photography, hiking, the midnight sun or northern lights",
+  "coords": { "lat": 67.9354, "lng": 13.0918 },
+  "image": {
+    "file": "File:Reine i Lofoten LC0148.jpg",
+    "alt": "The fishing village of Reine beneath jagged peaks in the Lofoten Islands"
+  },
+  "intro": [
+    "The Lofoten Islands are among the most photographed places in Norway, a chain of granite peaks rising almost vertically straight out of the Norwegian Sea, well above the Arctic Circle, with tiny red fishing villages tucked into the narrow flat ground between mountain and water.",
+    "The islands have built their whole identity around fishing for over a thousand years — the traditional wooden rorbuer cabins now rented out to visitors were originally built for fishermen, and the cod-drying racks still standing across the islands remain a working part of the local economy, not a museum display.",
+    "Lofoten also delivers Norway's seasonal extremes at their most dramatic: near-constant daylight around midsummer, and some of the country's best northern lights viewing in the darker months, both set against scenery that looks almost too sharp-edged to be real."
+  ],
+  "whyVisit": {
+    "intro": "Lofoten's case rests on combining Norway's most dramatic mountain scenery with real, still-working fishing villages.",
+    "points": [
+      {
+        "title": "The scenery is among the most striking in Norway",
+        "text": "Granite peaks rising almost vertically from the sea, with barely any land between mountain and water."
+      },
+      {
+        "title": "The fishing villages are still working communities",
+        "text": "Reine, Hamnøy and Henningsvær aren't preserved museum pieces — cod fishing remains a real local industry."
+      },
+      {
+        "title": "It's one of Norway's best spots for both extremes",
+        "text": "The midnight sun in summer and the northern lights in winter are both reliable here."
+      },
+      {
+        "title": "The hiking is rewarding and varied",
+        "text": "From easy coastal walks to serious peak climbs like Reinebringen, with views to match the effort."
+      },
+      {
+        "title": "It's more remote and less crowded than southern Norway",
+        "text": "Distance from Oslo keeps visitor numbers noticeably lower than the classic fjord regions."
+      }
+    ]
+  },
+  "attractionsIntro": "Lofoten's essential sights are its iconic fishing villages, each with its own distinct character.",
+  "attractions": [
+    {
+      "name": "Reine",
+      "image": {
+        "file": "File:Reine - Lofoten.jpg",
+        "alt": "The fishing village of Reine surrounded by jagged peaks"
+      },
+      "text": "One of Norway's most photographed villages, a small fishing settlement scattered across islets beneath sheer granite peaks.",
+      "tip": "The village itself is tiny — most visitors combine it with the Reinebringen hike for the classic elevated view."
+    },
+    {
+      "name": "Hamnøy",
+      "image": {
+        "file": "File:Hamnøy, Moskenesøya - Lofoten Islands, Norway.jpg",
+        "alt": "The red fishing cabins of Hamnøy against the Lofoten peaks"
+      },
+      "text": "Home to one of Lofoten's most iconic views, red rorbuer cabins clustered on a small island beneath the Olstind peak.",
+      "tip": "The bridge just outside the village gives the classic postcard angle."
+    },
+    {
+      "name": "Å",
+      "image": {
+        "file": "File:Å i Lofoten III (perspective corrected).jpg",
+        "alt": "The historic fishing village of Å at the southern tip of Lofoten"
+      },
+      "text": "The literal end of the road — a single-letter-named village at Lofoten's southern tip, its old buildings preserved as an open-air museum.",
+      "tip": "The stockfish museum here explains the cod-drying tradition that shaped the whole archipelago."
+    },
+    {
+      "name": "Haukland Beach",
+      "image": {
+        "file": "File:Hauklandsanden, Vestvågøy, Lofoten.JPG",
+        "alt": "The white sand and turquoise water of Haukland Beach in Lofoten"
+      },
+      "text": "A striking white sand beach with turquoise water that looks tropical until the surrounding snow-capped peaks come into frame.",
+      "tip": "The water stays cold year-round despite the tropical appearance — a wetsuit helps for swimming."
+    },
+    {
+      "name": "Henningsvær",
+      "image": {
+        "file": "File:Henningsvaer-Lofoten-2020.jpg",
+        "alt": "The fishing village of Henningsvær spread across small islands"
+      },
+      "text": "Nicknamed the 'Venice of Lofoten,' a lively fishing village spread across several small connected islands.",
+      "tip": "The famous football pitch squeezed between the harbour and the sea is worth seeking out."
+    },
+    {
+      "name": "Svolvær",
+      "image": {
+        "file": "File:Svolvær Lofoten Juni 2005.jpg",
+        "alt": "The harbour town of Svolvær, Lofoten's main hub"
+      },
+      "text": "Lofoten's largest town and main transport hub, with the best range of services, restaurants and onward connections.",
+      "tip": "The dramatic Svolværgeita rock formation above town is a well-known local climbing challenge."
+    },
+    {
+      "name": "Reinebringen",
+      "image": {
+        "file": "File:Lofoten Road Seen from Reinebringen - 2013.08 - panoramio.jpg",
+        "alt": "The view down over Reine from the Reinebringen hiking trail"
+      },
+      "text": "The classic Lofoten hike, a steep stone-stepped trail leading to the iconic elevated view over Reine and the surrounding peaks.",
+      "tip": "The climb is short but steep — allow 1.5-2 hours round trip at a steady pace."
+    }
+  ],
+  "thingsToDoIntro": "Lofoten rewards a mix of hiking, photography and simply taking in the scale of the scenery.",
+  "thingsToDo": [
+    {
+      "title": "Hike Reinebringen for the classic view",
+      "image": {
+        "file": "File:Lofoten Road Seen from Reinebringen - 2013.08 - panoramio.jpg",
+        "alt": "The stone-stepped trail up Reinebringen above Reine"
+      },
+      "text": "The single most rewarding short hike in Lofoten, a steep climb to one of Norway's most photographed views.",
+      "tip": "Start early — the trail can get busy and the stone steps are more comfortable in cooler morning temperatures."
+    },
+    {
+      "title": "Photograph Hamnøy's red fishing cabins",
+      "image": {
+        "file": "File:Lofoten Hamnoy Norwegen Norway (18167054108).jpg",
+        "alt": "Red fishing cabins in Hamnøy beneath the Lofoten peaks"
+      },
+      "text": "An essential Lofoten photo stop, with the bridge outside the village giving the classic wide-angle composition.",
+      "tip": "Golden hour light, especially around the midnight sun in summer, gives the most striking results."
+    },
+    {
+      "title": "Explore Henningsvær's harbour on foot",
+      "text": "A relaxed wander around the 'Venice of Lofoten,' its narrow streets and harbour packed onto a cluster of small islands.",
+      "tip": "The small art galleries and cafés here make it a good rainy-day option too."
+    },
+    {
+      "title": "See traditional cod drying racks",
+      "image": {
+        "file": "File:Codfish Drying Flake, Å i Lofoten 20150608 1.jpg",
+        "alt": "Traditional wooden racks used for drying stockfish in Lofoten"
+      },
+      "text": "A still-active part of Lofoten's economy, with thousands of cod hung to dry on wooden racks each winter and spring.",
+      "tip": "Late winter and early spring is when you'll see the racks actually loaded with drying fish."
+    },
+    {
+      "title": "Relax on Haukland Beach",
+      "image": {
+        "file": "File:Haukland Beach view.jpg",
+        "alt": "Haukland Beach's white sand and turquoise water in Lofoten"
+      },
+      "text": "A surreal spot to picnic or walk, with tropical-looking water framed by dramatic Arctic peaks.",
+      "tip": "Bring warm layers even on a sunny day — the wind off the sea can be sharp."
+    },
+    {
+      "title": "Chase the northern lights or midnight sun",
+      "image": {
+        "file": "File:Aurora Borealis Svolvær 005.jpg",
+        "alt": "The aurora borealis over Svolvær in the Lofoten Islands"
+      },
+      "text": "One of Norway's best spots for both seasonal extremes, depending entirely on when you visit.",
+      "tip": "Winter visitors should check the aurora forecast; summer visitors should pack a proper eye mask for sleeping."
+    }
+  ],
+  "foodIntro": "Lofoten's food centres on cod, the fish that has shaped the islands' economy and culture for over a thousand years.",
+  "foods": [
+    {
+      "name": "Tørrfisk (stockfish)",
+      "image": {
+        "file": "File:Codfish Drying Flake, Å i Lofoten 20150608 1.jpg",
+        "alt": "Cod drying on traditional wooden racks in Lofoten"
+      },
+      "text": "Lofoten's defining product, cod air-dried on wooden racks for months, a trade dating back to the Viking era.",
+      "whereToTry": "Restaurants throughout Lofoten, and the stockfish museum in Å."
+    },
+    {
+      "name": "Fresh cod (torsk)",
+      "text": "An essential fresh alternative to the dried version, especially good during the winter skrei cod season.",
+      "whereToTry": "Restaurants throughout Reine, Henningsvær and Svolvær."
+    },
+    {
+      "name": "Salmon (gravlax)",
+      "image": {
+        "file": "File:Gravlax 2.jpg",
+        "alt": "Gravlax, cured salmon, a Norwegian specialty"
+      },
+      "text": "Widely available alongside the region's cod, served across Lofoten's restaurants.",
+      "whereToTry": "Restaurants throughout the islands."
+    },
+    {
+      "name": "Brunost (brown cheese)",
+      "image": {
+        "file": "File:Brunost - Brown cheese.jpg",
+        "alt": "Brunost, Norway's caramel-coloured brown cheese"
+      },
+      "text": "A reliable breakfast staple at guesthouses and rorbuer cabin rentals across the islands.",
+      "whereToTry": "Guesthouse and rorbuer breakfasts throughout Lofoten."
+    },
+    {
+      "name": "Fiskekaker (fish cakes)",
+      "text": "A traditional, humble dish of pan-fried fish patties, a comforting local classic.",
+      "whereToTry": "Traditional restaurants in Svolvær and smaller villages."
+    },
+    {
+      "name": "Cloudberries (molter)",
+      "text": "A prized wild arctic berry, found across northern Norway including Lofoten's hillsides in late summer.",
+      "whereToTry": "Restaurants across the islands in late summer."
+    }
+  ],
+  "accommodation": {
+    "intro": "Lofoten's iconic accommodation option is the rorbuer, traditional fishermen's cabins now rented to visitors.",
+    "areas": [
+      {
+        "name": "Reine and Hamnøy",
+        "bestFor": "The most iconic scenery, right at your doorstep",
+        "text": "Rorbuer cabins here put you directly among Lofoten's most photographed views."
+      },
+      {
+        "name": "Svolvær",
+        "bestFor": "The genuine main hub, with the widest range of services",
+        "text": "Lofoten's largest town, with more restaurants, shops and transport connections."
+      },
+      {
+        "name": "Henningsvær",
+        "bestFor": "A lively village atmosphere",
+        "text": "A charming base with good cafés and galleries within walking distance."
+      }
+    ],
+    "budget": [
+      { "label": "Rorbuer cabin (per night)", "value": "NOK 1,500–3,500" },
+      { "label": "Guesthouse room", "value": "NOK 900–1,800 per night" },
+      { "label": "Rental car (per day)", "value": "About NOK 700–1,200" },
+      { "label": "Guided hiking or photography tour", "value": "About NOK 900–1,500" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Lofoten is reached by domestic flight, coastal ferry, or a long scenic drive from mainland Norway.",
+    "options": [
+      {
+        "mode": "Domestic flight to Svolvær or Leknes",
+        "text": "The fastest option, connecting via Bodø or Tromsø from other parts of Norway.",
+        "detail": "Small regional airports serve both towns with short connecting flights."
+      },
+      {
+        "mode": "Hurtigruten coastal ferry",
+        "text": "A scenic way to arrive, stopping in Svolvær as part of its full coastal route.",
+        "detail": "A memorable journey in its own right, not just practical transport."
+      },
+      {
+        "mode": "Ferry from Bodø",
+        "text": "A popular route for visitors bringing a rental car from the mainland.",
+        "detail": "Crossings take a few hours and should be booked ahead in summer."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Lofoten's single main road (the E10) connects most villages, making a rental car the standard way to explore.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The most flexible way to see Reine, Hamnøy, Å and Henningsvær in one trip.",
+        "detail": "The E10 connects most of the islands' main sights along a single scenic route."
+      },
+      {
+        "mode": "Local buses",
+        "text": "A workable but limited option connecting the main towns and villages.",
+        "detail": "Less frequent than a car allows, especially for reaching trailheads."
+      },
+      {
+        "mode": "On foot within villages",
+        "text": "Fine for exploring Reine, Hamnøy or Henningsvær themselves once you've arrived.",
+        "detail": "Each village is small enough to explore fully on foot."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "Summer for the midnight sun, winter for the northern lights",
+    "summary": "Lofoten offers two completely different experiences depending on season, both worth planning around deliberately.",
+    "seasons": [
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "The midnight sun season, with near-constant daylight and the easiest hiking conditions."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "good",
+        "text": "Excellent northern lights odds, though short days and cold limit hiking options."
+      },
+      {
+        "season": "Shoulder months (May, September)",
+        "rating": "good",
+        "text": "Quieter, with a reasonable balance of daylight and thinner crowds."
+      },
+      {
+        "season": "Skrei cod season (January–April)",
+        "rating": "good",
+        "text": "When the cod-drying racks are actually loaded with fish, adding real working atmosphere."
+      }
+    ],
+    "avoid": "Nothing strongly — Lofoten offers a worthwhile, if very different, experience in every season."
+  },
+  "itinerary": {
+    "title": "Three days in Lofoten",
+    "intro": "Built around the classic southern villages first, then Henningsvær and Svolvær to the north.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Reine and Hamnøy",
+        "summary": "Lofoten's most iconic villages and the Reinebringen hike.",
+        "morning": "Explore Reine and the village of Å.",
+        "afternoon": "Hike Reinebringen for the classic elevated view.",
+        "evening": "Photograph Hamnøy's red cabins in the evening light."
+      },
+      {
+        "day": 2,
+        "title": "Beaches and Henningsvær",
+        "summary": "Haukland Beach and the 'Venice of Lofoten.'",
+        "morning": "Relax at Haukland Beach.",
+        "afternoon": "Drive to Henningsvær and wander its harbour.",
+        "evening": "Dinner in Henningsvær."
+      },
+      {
+        "day": 3,
+        "title": "Svolvær and departure",
+        "summary": "Lofoten's main town before onward travel.",
+        "morning": "Explore Svolvær's harbour and shops.",
+        "afternoon": "A final coastal walk or viewpoint.",
+        "evening": "Depart by flight or ferry."
+      }
+    ]
+  },
+  "tipsIntro": "A handful of practical notes make a Lofoten trip go far more smoothly.",
+  "tips": [
+    "Book rorbuer cabins months ahead for summer visits.",
+    "Bring a proper eye mask if visiting during the midnight sun season.",
+    "Pack warm, windproof layers regardless of season.",
+    "Fill up on fuel whenever you pass a station — they're spread out along the E10.",
+    "Wear sturdy footwear for the Reinebringen and other Lofoten hikes.",
+    "Check ferry and flight schedules carefully if your visit is time-limited."
+  ],
+  "faq": [
+    {
+      "q": "Are the Lofoten Islands worth visiting?",
+      "a": "Yes — the combination of dramatic granite peaks and real, still-working fishing villages makes it one of Norway's most rewarding regions."
+    },
+    {
+      "q": "How do you get to Lofoten?",
+      "a": "By domestic flight to Svolvær or Leknes, the Hurtigruten coastal ferry, or a car ferry from Bodø."
+    },
+    {
+      "q": "What is Lofoten famous for?",
+      "a": "Its dramatic scenery — granite peaks rising straight from the sea — alongside a thousand-year-old cod fishing tradition."
+    },
+    {
+      "q": "How many days do you need in Lofoten?",
+      "a": "Three to five days covers the main villages, a hike and some beach time at a comfortable pace."
+    },
+    {
+      "q": "Is Lofoten good for the northern lights?",
+      "a": "Yes, in winter — its location well above the Arctic Circle gives reliably good aurora conditions on clear nights."
+    },
+    {
+      "q": "Do you need a car in Lofoten?",
+      "a": "Practically yes — the islands' single main road connects the villages, and a car gives far more flexibility than the limited bus network."
+    }
+  ],
+  "related": ["tromso", "trondheim", "svalbard"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

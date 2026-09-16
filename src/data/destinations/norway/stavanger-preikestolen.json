@@ -1,0 +1,362 @@
+{
+  "slug": "stavanger-preikestolen",
+  "name": "Stavanger & Preikestolen",
+  "country": "norway",
+  "region": "Rogaland, Southwestern Norway",
+  "categories": ["hiking", "city", "nature", "food"],
+  "tagline": "Norway's food-forward oil capital, and the launch point for the country's single most famous hike, out to a cliff plateau 604 metres above the fjord.",
+  "highlight": "Reaching the flat edge of Preikestolen after the climb, the sheer 604-metre drop to Lysefjord opening up right at your feet.",
+  "shortDescription": "A compact, food-forward Norwegian city, and the gateway to Preikestolen, the country's single most iconic day hike above Lysefjord.",
+  "metaDescription": "A Stavanger and Preikestolen travel guide: the Pulpit Rock hike, Lysefjord, Gamle Stavanger's old town, food and how to plan a visit to southwestern Norway.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Stavanger Airport, Sola (SVG)",
+  "knownFor": "Pulpit Rock, Lysefjord, Norway's oil capital",
+  "budget": "NOK 1,300–2,700 per day, mid-range",
+  "goodFor": "Hiking, day trips, a food-forward city",
+  "coords": { "lat": 58.9700, "lng": 5.7331 },
+  "image": {
+    "file": "File:Pulpit Rock, Preekstoel, Preikestolen - panoramio.jpg",
+    "alt": "Preikestolen, a flat cliff plateau high above Lysefjord in Norway"
+  },
+  "intro": [
+    "Stavanger is one of Norway's most food-forward cities, a compact harbour town whose oil-industry wealth has funded a restaurant scene punching well above its size, all wrapped around Gamle Stavanger's rows of immaculately preserved white wooden houses.",
+    "It's also the launch point for Norway's single most iconic day hike — Preikestolen, a flat rock plateau jutting 604 metres straight above Lysefjord, reached by a well-marked but strenuous trail that rewards the effort with one of the most photographed views in the whole country.",
+    "For those wanting to go further, Kjeragbolten — a boulder famously wedged in a crevasse even higher above the same fjord — pushes the drama further still, for visitors willing to commit to a longer, tougher day."
+  ],
+  "whyVisit": {
+    "intro": "Stavanger's case rests on combining a food-forward, walkable city with one of Norway's most famous hikes on its doorstep.",
+    "points": [
+      {
+        "title": "Preikestolen is Norway's most iconic hike",
+        "text": "A flat cliff plateau 604 metres above Lysefjord, reached by a well-marked trail accessible to most reasonably fit hikers."
+      },
+      {
+        "title": "Stavanger is Norway's food capital",
+        "text": "Oil-industry wealth has funded a restaurant scene that punches well above the city's modest size."
+      },
+      {
+        "title": "Gamle Stavanger is one of Europe's best-preserved wooden old towns",
+        "text": "Over 170 white wooden houses, still lived in rather than purely for show."
+      },
+      {
+        "title": "Lysefjord is dramatic from the water too",
+        "text": "A fjord cruise beneath Preikestolen and Kjerag's cliffs offers a completely different perspective on the same scenery."
+      },
+      {
+        "title": "It's a manageable size",
+        "text": "Small enough to explore on foot, with Preikestolen and Lysefjord both easy day trips from the centre."
+      }
+    ]
+  },
+  "attractionsIntro": "Stavanger's essential sights combine its historic old town with two of Norway's most dramatic natural landmarks nearby.",
+  "attractions": [
+    {
+      "name": "Preikestolen (Pulpit Rock)",
+      "image": {
+        "file": "File:Pulpit Rock, Preekstoel, Preikestolen - panoramio.jpg",
+        "alt": "Preikestolen's flat cliff plateau above Lysefjord"
+      },
+      "text": "Norway's most iconic hike, a flat rock plateau standing 604 metres above Lysefjord with no railing at the edge.",
+      "tip": "The round trip takes 4-5 hours — start early to avoid both crowds and afternoon weather changes."
+    },
+    {
+      "name": "Lysefjord",
+      "image": {
+        "file": "File:Preikestolen and Lysefjord - Norway - panoramio.jpg",
+        "alt": "Lysefjord seen from beneath Preikestolen's cliffs"
+      },
+      "text": "The dramatic fjord beneath both Preikestolen and Kjerag, its steep granite walls among the most striking in Norway.",
+      "tip": "A fjord cruise gives a completely different perspective, looking up at the cliffs you might otherwise look down from."
+    },
+    {
+      "name": "Gamle Stavanger",
+      "image": {
+        "file": "File:Gamle Stavanger 15 (52605783057).jpg",
+        "alt": "The white wooden houses of Gamle Stavanger's old town"
+      },
+      "text": "One of Europe's best-preserved wooden towns, over 170 white 18th and 19th-century houses still lived in today.",
+      "tip": "The cobbled streets are especially atmospheric in early morning, before the day's visitors arrive."
+    },
+    {
+      "name": "Kjeragbolten",
+      "image": {
+        "file": "File:Kjeragbolten232BG23.jpg",
+        "alt": "Kjeragbolten, a boulder wedged in a crevasse above Lysefjord"
+      },
+      "text": "A famous boulder wedged tightly in a crevasse nearly 1,000 metres above Lysefjord, a bucket-list photo spot for serious hikers.",
+      "tip": "This hike is significantly tougher and longer than Preikestolen — only attempt it if properly prepared."
+    },
+    {
+      "name": "Stavanger Cathedral",
+      "image": {
+        "file": "File:Stavanger Cathedral - 2013.08 - panoramio.jpg",
+        "alt": "Stavanger Cathedral, Norway's oldest cathedral"
+      },
+      "text": "Norway's oldest cathedral, consecrated around 1125 and still in active use at the heart of the city centre.",
+      "tip": "The interior's medieval and baroque details reward a slower, quieter visit outside service times."
+    },
+    {
+      "name": "Norwegian Petroleum Museum",
+      "image": {
+        "file": "File:Stavanger Norwegisches Ölmuseum 2.JPG",
+        "alt": "The distinctive drum-shaped Norwegian Petroleum Museum in Stavanger"
+      },
+      "text": "A well-presented museum explaining how North Sea oil transformed Stavanger from a quiet fishing town into a wealthy modern city.",
+      "tip": "Worth an hour even for visitors not usually drawn to industrial history — the exhibits are engaging."
+    },
+    {
+      "name": "Stavanger Harbour",
+      "image": {
+        "file": "File:Stavanger Harbor - 2013.08 - panoramio.jpg",
+        "alt": "Boats moored in Stavanger's harbour"
+      },
+      "text": "The city's lively waterfront, lined with restaurants and bars and busy with fishing boats and fjord cruise departures.",
+      "tip": "Evening brings the harbourfront restaurants to life, especially in summer."
+    }
+  ],
+  "thingsToDoIntro": "Stavanger rewards combining serious hiking with the city's own food and history.",
+  "thingsToDo": [
+    {
+      "title": "Hike to Preikestolen's edge",
+      "image": {
+        "file": "File:Preikestolen - Pulpit Rock fog.jpg",
+        "alt": "Hikers approaching the edge of Preikestolen through morning fog"
+      },
+      "text": "The essential Stavanger-area experience, a well-marked but strenuous trail to one of Norway's most photographed views.",
+      "tip": "Check the weather forecast — the view is dramatically better on a clear day."
+    },
+    {
+      "title": "Cruise Lysefjord beneath the cliffs",
+      "image": {
+        "file": "File:View-of-Lysefjord-Norway-April-2011.jpg",
+        "alt": "A boat cruising beneath the cliffs of Lysefjord"
+      },
+      "text": "A relaxed alternative or complement to the hikes, taking in Preikestolen and Kjerag's scale from the water.",
+      "tip": "Cruises often point out waterfalls and wildlife not visible from the clifftop trails above."
+    },
+    {
+      "title": "Stand on Kjeragbolten",
+      "image": {
+        "file": "File:Kjeragbolten Ovenifra.JPG",
+        "alt": "A hiker standing on the Kjeragbolten boulder above Lysefjord"
+      },
+      "text": "A serious bucket-list challenge for experienced hikers, standing on a boulder wedged nearly 1,000 metres above the fjord.",
+      "tip": "This hike involves chains and steep sections — only for properly prepared, experienced hikers."
+    },
+    {
+      "title": "Wander Gamle Stavanger's cobbled streets",
+      "image": {
+        "file": "File:Gamle Stavanger 5 (52606705925).jpg",
+        "alt": "Cobbled streets among the white houses of Gamle Stavanger"
+      },
+      "text": "A peaceful wander through Europe's best-preserved wooden old town, with small galleries and cafés tucked among the houses.",
+      "tip": "Many of the houses have small gardens worth a glance as you pass."
+    },
+    {
+      "title": "Learn about Norway's oil history",
+      "image": {
+        "file": "File:Interior view of the glass façade of the Norwegian Petroleum Museum, Stavanger, Norway julesvernex2.jpg",
+        "alt": "The interior of the Norwegian Petroleum Museum in Stavanger"
+      },
+      "text": "A worthwhile rainy-day option, explaining how North Sea oil reshaped both Stavanger and the whole Norwegian economy.",
+      "tip": "The museum's own café and gift shop are better than average for a museum of this kind."
+    },
+    {
+      "title": "Wander the harbour at sunset",
+      "text": "A relaxed way to end a day, with the harbourfront's restaurants and bars filling up as the light softens.",
+      "tip": "Summer's long evenings give a wide window for a leisurely harbourside dinner."
+    }
+  ],
+  "foodIntro": "Stavanger's well-earned reputation as Norway's food capital is backed up by a real concentration of excellent restaurants.",
+  "foods": [
+    {
+      "name": "Salmon (gravlax)",
+      "image": {
+        "file": "File:Gravlax 2.jpg",
+        "alt": "Gravlax, cured salmon, a Norwegian specialty"
+      },
+      "text": "Excellent in Stavanger, reflecting the city's food-forward restaurant scene.",
+      "whereToTry": "Restaurants throughout the harbour and Gamle Stavanger areas."
+    },
+    {
+      "name": "Brunost (brown cheese)",
+      "image": {
+        "file": "File:Brunost - Brown cheese.jpg",
+        "alt": "Brunost, Norway's caramel-coloured brown cheese"
+      },
+      "text": "A reliable breakfast staple at hotels and cafés throughout the city.",
+      "whereToTry": "Cafés and hotel breakfasts throughout Stavanger."
+    },
+    {
+      "name": "Fårikål",
+      "image": {
+        "file": "File:Får i kål.jpg",
+        "alt": "Fårikål, Norway's national lamb and cabbage stew"
+      },
+      "text": "Found on traditional menus across the city, a hearty option after a long day on the Preikestolen trail.",
+      "whereToTry": "Traditional restaurants in Stavanger's city centre."
+    },
+    {
+      "name": "Lapskaus",
+      "text": "A humble, comforting Norwegian meat and vegetable stew, a real contrast to the city's fine-dining reputation.",
+      "whereToTry": "Traditional restaurants throughout Stavanger."
+    },
+    {
+      "name": "Fresh North Sea seafood",
+      "text": "Central to Stavanger's food identity, with excellent shellfish and fish landed close to the city.",
+      "whereToTry": "Harbourside restaurants throughout Stavanger."
+    },
+    {
+      "name": "Stavanger's coffee culture",
+      "text": "Serious about coffee, with a strong independent café scene throughout the city centre.",
+      "whereToTry": "Independent cafés around Gamle Stavanger and the centre."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stavanger offers accommodation across every budget, concentrated within a compact, walkable city centre.",
+    "areas": [
+      {
+        "name": "City centre and harbour",
+        "bestFor": "Being central and walkable to major sights",
+        "text": "The most convenient base, close to Gamle Stavanger and the harbourfront restaurants."
+      },
+      {
+        "name": "Near the Preikestolen trailhead",
+        "bestFor": "An early start on the hike",
+        "text": "A short drive from the city, useful if prioritising an early, uncrowded ascent."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "NOK 400–800 per night" },
+      { "label": "Mid-range hotel", "value": "NOK 1,300–2,500 per night" },
+      { "label": "Preikestolen shuttle bus (return)", "value": "About NOK 400–500" },
+      { "label": "Lysefjord cruise", "value": "About NOK 800–1,200" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Stavanger is well connected by air, with the Preikestolen trailhead a short drive or ferry away.",
+    "options": [
+      {
+        "mode": "Flight to Stavanger Airport, Sola",
+        "text": "Well connected to Oslo and other major European cities, about 30 minutes from the city centre.",
+        "detail": "A direct bus and train connect the airport to central Stavanger."
+      },
+      {
+        "mode": "Ferry to the Preikestolen trailhead",
+        "text": "A scenic way to reach the trail, crossing the fjord from central Stavanger.",
+        "detail": "Combined ferry-and-bus tickets are widely available in summer."
+      },
+      {
+        "mode": "Coastal ferry or train from other Norwegian cities",
+        "text": "Connects Stavanger to Bergen and other southwestern towns.",
+        "detail": "Useful for combining Stavanger with a wider Norway itinerary."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Stavanger's compact centre is easily walkable, with organised transport handling the Preikestolen and Lysefjord trips.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Covers Gamle Stavanger, the cathedral and the harbour easily.",
+        "detail": "Central Stavanger's main sights sit within a comfortable walking radius."
+      },
+      {
+        "mode": "Shuttle bus to Preikestolen",
+        "text": "The standard way to reach the trailhead without a rental car.",
+        "detail": "Runs regularly in season, combined with a short ferry crossing."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Useful for reaching Kjerag and exploring the wider region at your own pace.",
+        "detail": "Roads to trailheads are well maintained but can be busy in peak summer."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for the Preikestolen and Kjerag hikes",
+    "summary": "Both major hikes require snow-free trails, making the warmer months the only realistic window for either.",
+    "seasons": [
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "The most reliable hiking conditions and longest daylight, also the busiest trail season."
+      },
+      {
+        "season": "Shoulder months (May, September)",
+        "rating": "good",
+        "text": "Good hiking conditions with noticeably thinner crowds on the trails."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "poor",
+        "text": "Hazardous for Preikestolen and Kjerag without full winter mountaineering experience — most visitors skip the hikes."
+      },
+      {
+        "season": "Any season for the city",
+        "rating": "good",
+        "text": "Stavanger's food scene and Gamle Stavanger work well year-round, independent of hiking conditions."
+      }
+    ],
+    "avoid": "Avoid attempting Preikestolen or Kjerag in icy or snowy conditions without proper winter hiking experience and gear."
+  },
+  "itinerary": {
+    "title": "Two days in Stavanger",
+    "intro": "Built around the Preikestolen hike on day one, the city and its food scene on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Preikestolen",
+        "summary": "Norway's most iconic hike, start to finish.",
+        "morning": "Ferry and bus to the Preikestolen trailhead.",
+        "afternoon": "The hike out to Pulpit Rock and back.",
+        "evening": "A well-earned dinner back in Stavanger."
+      },
+      {
+        "day": 2,
+        "title": "The city",
+        "summary": "Gamle Stavanger, the cathedral and the harbour.",
+        "morning": "Wander Gamle Stavanger's old town.",
+        "afternoon": "Stavanger Cathedral and the Norwegian Petroleum Museum.",
+        "evening": "Dinner at the harbourfront."
+      }
+    ]
+  },
+  "tipsIntro": "A handful of practical notes make a Stavanger and Preikestolen trip go far more smoothly.",
+  "tips": [
+    "Check the weather forecast before committing to the Preikestolen or Kjerag hike.",
+    "Wear proper hiking boots and bring layers, even in summer.",
+    "Start early to beat both crowds and any afternoon weather changes.",
+    "Book the Preikestolen shuttle bus ahead in peak summer.",
+    "Bring plenty of water and snacks — there are no facilities on the trail itself.",
+    "Budget for Stavanger's excellent but not cheap restaurant scene."
+  ],
+  "faq": [
+    {
+      "q": "How hard is the Preikestolen hike?",
+      "a": "Moderate — about 3.8km each way with real elevation gain, manageable for most reasonably fit hikers in 4-5 hours round trip."
+    },
+    {
+      "q": "Is Kjeragbolten harder than Preikestolen?",
+      "a": "Yes, significantly so — it's longer, steeper and involves chain-assisted sections, suited to experienced hikers only."
+    },
+    {
+      "q": "How do you get to the Preikestolen trailhead?",
+      "a": "By ferry and shuttle bus from central Stavanger, or by rental car directly to the trailhead car park."
+    },
+    {
+      "q": "Is Stavanger worth visiting beyond Preikestolen?",
+      "a": "Yes — Gamle Stavanger's old town and the city's food scene are both worthwhile in their own right."
+    },
+    {
+      "q": "When can you hike Preikestolen?",
+      "a": "Best May to September — winter conditions make the trail hazardous without proper mountaineering experience."
+    },
+    {
+      "q": "How many days do you need in Stavanger?",
+      "a": "Two to three days covers the Preikestolen hike and the city's own sights at a comfortable pace."
+    }
+  ],
+  "related": ["bergen", "jotunheimen", "geirangerfjord"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

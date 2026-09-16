@@ -1,0 +1,365 @@
+{
+  "slug": "cusco",
+  "name": "Cusco",
+  "country": "peru",
+  "region": "Cusco Region",
+  "categories": ["history", "culture", "city", "unesco"],
+  "tagline": "The former Inca capital, where colonial churches and cobbled streets still sit on foundations of massive, precisely cut Inca stone.",
+  "highlight": "Running a hand along Sacsayhuamán's massive stone walls, some blocks weighing well over 100 tonnes, fitted together without mortar so precisely a knife blade still can't slip between them.",
+  "shortDescription": "The former capital of the Inca Empire, a high-altitude city where colonial architecture sits directly on Inca foundations, and Peru's essential gateway to Machu Picchu.",
+  "metaDescription": "A Cusco travel guide: Sacsayhuamán, the Plaza de Armas, Qorikancha, food and how to plan a visit to Peru's former Inca capital.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "Alejandro Velasco Astete International Airport (CUZ)",
+  "knownFor": "Inca stonework, colonial architecture, gateway to Machu Picchu",
+  "budget": "S/250–500 per day, mid-range",
+  "goodFor": "History, culture, acclimatising before the Andes",
+  "coords": { "lat": -13.5319, "lng": -71.9675 },
+  "image": {
+    "file": "File:Plaza de Armas, Cusco, Perú, 2015-07-31, DD 53-56 PAN.jpg",
+    "alt": "The Plaza de Armas in Cusco, the former capital of the Inca Empire"
+  },
+  "intro": [
+    "Cusco is the former capital of the Inca Empire, a high-altitude city at 3,400 metres where Spanish colonial churches and mansions still sit directly on the massive, precisely cut stone foundations the Inca left behind.",
+    "It's also Peru's essential gateway, the near-universal starting point for Machu Picchu, the Sacred Valley and the wider Andean highlands, making it a stop on almost every Peru itinerary.",
+    "Most visitors spend a few days here at the start of their trip, partly for the historic centre's dense concentration of Inca and colonial sites, and partly out of real necessity — acclimatising to the altitude before heading further into the mountains."
+  ],
+  "whyVisit": {
+    "intro": "Cusco's case rests on unmatched Inca stonework layered beneath a beautifully preserved colonial city.",
+    "points": [
+      {
+        "title": "Sacsayhuamán's stonework is extraordinary",
+        "text": "Massive stone blocks fitted so precisely a knife blade can't slip between them, without mortar."
+      },
+      {
+        "title": "It's the historic capital of the Inca Empire",
+        "text": "The former centre of the largest empire in pre-Columbian America."
+      },
+      {
+        "title": "Colonial architecture sits directly on Inca foundations",
+        "text": "A visible, tangible layering of history found in few other cities on Earth."
+      },
+      {
+        "title": "It's the essential gateway to Machu Picchu",
+        "text": "Nearly every route to the citadel and the Sacred Valley starts here."
+      },
+      {
+        "title": "The altitude demands, and rewards, a slower pace",
+        "text": "A few unhurried days here set up the rest of an Andean trip properly."
+      }
+    ]
+  },
+  "attractionsIntro": "Cusco's essential sights combine extraordinary Inca stonework with beautifully preserved Spanish colonial architecture.",
+  "attractions": [
+    {
+      "name": "The Plaza de Armas",
+      "image": {
+        "file": "File:Plaza de Armas, Cusco, Perú, 2015-07-31, DD 53-56 PAN.jpg",
+        "alt": "The Plaza de Armas in central Cusco"
+      },
+      "text": "The heart of the city, a grand colonial square built directly over the Inca's own central plaza, Huacaypata.",
+      "tip": "The square is at its most atmospheric in the evening, when the surrounding buildings light up."
+    },
+    {
+      "name": "Cusco Cathedral",
+      "image": {
+        "file": "File:Catedral, Plaza de Armas, Cusco, Perú, 2015-07-31, DD 57.JPG",
+        "alt": "Cusco Cathedral on the Plaza de Armas"
+      },
+      "text": "A massive 16th-century cathedral built using stones taken from the nearby Sacsayhuamán fortress.",
+      "tip": "Look for the cathedral's famous painting of the Last Supper, which features a guinea pig on the table."
+    },
+    {
+      "name": "Sacsayhuamán",
+      "image": {
+        "file": "File:Sacsayhuamán, Cusco, Perú, 2015-07-31, DD 05.JPG",
+        "alt": "The massive stone walls of Sacsayhuamán above Cusco"
+      },
+      "text": "One of the Inca Empire's greatest engineering achievements, zigzagging walls of stone blocks weighing over 100 tonnes each.",
+      "tip": "Walk or take a short taxi up — the site sits at a noticeably higher altitude than the city centre."
+    },
+    {
+      "name": "Qorikancha",
+      "image": {
+        "file": "File:Peru - Cusco 023 - Qorikancha (7084772615).jpg",
+        "alt": "Qorikancha, the former Inca Temple of the Sun in Cusco"
+      },
+      "text": "Once the Inca Empire's most important temple, dedicated to the sun god, its precise stonework still visible beneath a colonial convent built on top.",
+      "tip": "Look closely at the contrast between the Inca base and the Spanish colonial construction above it."
+    },
+    {
+      "name": "San Blas",
+      "image": {
+        "file": "File:Templo de San Blas - 2024.jpg",
+        "alt": "The San Blas neighbourhood church in Cusco"
+      },
+      "text": "Cusco's most charming neighbourhood, steep cobbled streets lined with artisan workshops and a beautifully carved colonial church.",
+      "tip": "Wear good shoes — the neighbourhood's streets are steep, uneven, and add up at altitude."
+    },
+    {
+      "name": "San Pedro Market",
+      "image": {
+        "file": "File:Cusco San Pedro Market 1.jpg",
+        "alt": "Stalls inside San Pedro Market in Cusco"
+      },
+      "text": "Cusco's main local market, a lively, authentic mix of produce, juice stalls and local street food.",
+      "tip": "Try a fresh fruit juice from one of the market's many juice stands."
+    },
+    {
+      "name": "The Twelve-Angled Stone",
+      "image": {
+        "file": "File:Piedra de los 12 angulos.jpg",
+        "alt": "The famous Twelve-Angled Stone in Cusco's Inca wall"
+      },
+      "text": "A single, famous stone block cut with twelve distinct angles, fitted perfectly into a surviving Inca wall on Hatunrumiyoc street.",
+      "tip": "Easy to miss — look for the small crowd usually gathered around it."
+    }
+  ],
+  "thingsToDoIntro": "Cusco rewards mixing its major Inca and colonial sites with a slower wander through its historic streets.",
+  "thingsToDo": [
+    {
+      "title": "Wander San Blas's artisan streets",
+      "image": {
+        "file": "File:Calle Hatunrumiyoc del Cusco.jpg",
+        "alt": "The cobbled streets of San Blas in Cusco"
+      },
+      "text": "A relaxed way to spend an afternoon, browsing workshops and galleries along steep, atmospheric cobbled streets.",
+      "tip": "Take it slowly at this altitude — the neighbourhood's hills are more tiring than they look."
+    },
+    {
+      "title": "Explore Qorikancha's Inca stonework",
+      "image": {
+        "file": "File:Peru - Cusco 187 - perfect stonework of Qorikancha (8111212866).jpg",
+        "alt": "Precise Inca stonework at Qorikancha in Cusco"
+      },
+      "text": "A worthwhile hour, examining stonework so precise it has survived major earthquakes that destroyed colonial buildings around it.",
+      "tip": "Hire a guide here — the layered history is hard to fully appreciate without context."
+    },
+    {
+      "title": "Shop at San Pedro Market",
+      "image": {
+        "file": "File:San Pedro Market in Cusco, Peru.jpg",
+        "alt": "Shopping at San Pedro Market in Cusco"
+      },
+      "text": "An authentic local experience, browsing stalls of produce, cheese, bread and prepared food alongside locals doing their own shopping.",
+      "tip": "Go with small cash and an appetite — the food stalls are excellent and inexpensive."
+    },
+    {
+      "title": "Photograph the Twelve-Angled Stone",
+      "image": {
+        "file": "File:CuscoPiedra12angulo.jpg",
+        "alt": "Visitors examining the Twelve-Angled Stone in Cusco"
+      },
+      "text": "A quick but essential stop, marvelling at the precision of pre-Columbian stonework up close.",
+      "tip": "Combine with a walk down the wider Hatunrumiyoc street to see more surviving Inca walls."
+    },
+    {
+      "title": "Walk Sacsayhuamán's massive walls",
+      "image": {
+        "file": "File:Sacsayhuaman Fortress, Cusco, Peru - Laslovarga (38).jpg",
+        "alt": "Walking along the walls of Sacsayhuamán"
+      },
+      "text": "An awe-inspiring walk, tracing zigzagging walls built from stones far too massive to imagine moving by hand.",
+      "tip": "Go slowly — the site sits higher than the city centre, and the altitude is noticeable."
+    },
+    {
+      "title": "See the Cathedral's colonial art",
+      "image": {
+        "file": "File:Catedral, Plaza de Armas, Cusco, Perú, 2015-07-31, DD 76.JPG",
+        "alt": "Inside Cusco Cathedral on the Plaza de Armas"
+      },
+      "text": "A rewarding hour, taking in the cathedral's blend of Spanish and Andean religious art, including its famous Last Supper painting.",
+      "tip": "Photography is restricted inside — take time to look rather than rushing for photos."
+    }
+  ],
+  "foodIntro": "Cusco's food blends Andean staples with Peru's wider culinary reputation, at every price point.",
+  "foods": [
+    {
+      "name": "Lomo saltado",
+      "image": {
+        "file": "File:Lomo Saltado.JPG",
+        "alt": "Lomo saltado, a Peruvian stir-fry of beef, onions and fries"
+      },
+      "text": "A reliable classic found on menus throughout the city, at both simple local spots and finer restaurants.",
+      "whereToTry": "Restaurants throughout the historic centre."
+    },
+    {
+      "name": "Pisco sour",
+      "image": {
+        "file": "File:Pisco Sour Cocktail.jpg",
+        "alt": "A pisco sour, Peru's national cocktail"
+      },
+      "text": "Worth trying at altitude, a frothy pisco cocktail that pairs well with Cusco's evening chill.",
+      "whereToTry": "Bars and restaurants around the Plaza de Armas."
+    },
+    {
+      "name": "Cuy (guinea pig)",
+      "text": "A traditional Andean delicacy, roasted whole and considered a special-occasion dish in the region.",
+      "whereToTry": "Traditional restaurants throughout Cusco, especially outside the main tourist strip."
+    },
+    {
+      "name": "Anticuchos",
+      "image": {
+        "file": "File:Anticuchos - Grilled Beef Heart skewers.jpg",
+        "alt": "Anticuchos, grilled beef heart skewers"
+      },
+      "text": "A beloved street food, smoky grilled skewers sold from carts around the city in the evening.",
+      "whereToTry": "Street stalls throughout the historic centre after dark."
+    },
+    {
+      "name": "Coca tea",
+      "text": "A common remedy for altitude symptoms, a mild herbal tea served at nearly every hotel and café.",
+      "whereToTry": "Hotels and cafés throughout Cusco."
+    },
+    {
+      "name": "Ceviche",
+      "image": {
+        "file": "File:Ceviche del Perú.jpg",
+        "alt": "Ceviche, Peru's national dish of citrus-cured raw fish"
+      },
+      "text": "Available even this far from the coast, though best enjoyed once back at sea level in Lima.",
+      "whereToTry": "Peruvian restaurants throughout the city centre."
+    }
+  ],
+  "accommodation": {
+    "intro": "Cusco offers accommodation across every budget, concentrated within a compact, walkable historic centre.",
+    "areas": [
+      {
+        "name": "Historic centre (near the Plaza de Armas)",
+        "bestFor": "Being central and walkable to every major sight",
+        "text": "The most convenient base, close to the cathedral, Qorikancha and San Blas."
+      },
+      {
+        "name": "San Blas",
+        "bestFor": "A quieter, more charming neighbourhood feel",
+        "text": "A short, if steep, walk from the centre, with boutique guesthouses and artisan shops."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "S/50–100 per night" },
+      { "label": "Mid-range hotel", "value": "S/250–500 per night" },
+      { "label": "Boleto Turístico (multi-site ticket)", "value": "About S/130" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About S/40–70 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Cusco is reached almost exclusively by domestic flight, given the impractical overland distance from Lima.",
+    "options": [
+      {
+        "mode": "Flight from Lima",
+        "text": "The standard way in, a short flight of about an hour and a half.",
+        "detail": "Frequent daily flights run between Lima and Cusco."
+      },
+      {
+        "mode": "Flight from Arequipa or Puno",
+        "text": "A fast link for combining Cusco with the south of Peru.",
+        "detail": "A practical alternative to the long overland bus route."
+      },
+      {
+        "mode": "Overnight bus from Puno",
+        "text": "A workable, if long, overland option for travellers combining Cusco with Lake Titicaca.",
+        "detail": "Takes around six to seven hours, with comfortable reclining-seat services available."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Cusco's historic centre is compact enough to explore mostly on foot, altitude permitting.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Covers the Plaza de Armas, San Blas and most central sights easily.",
+        "detail": "Take it slowly — the altitude makes even gentle inclines feel more strenuous than usual."
+      },
+      {
+        "mode": "Taxis",
+        "text": "Inexpensive and useful for reaching Sacsayhuamán or accommodation outside the centre.",
+        "detail": "Widely available throughout the city."
+      },
+      {
+        "mode": "Organised tours",
+        "text": "The standard way to reach the wider Sacred Valley and Rainbow Mountain from Cusco.",
+        "detail": "Both are best done as guided day trips rather than independently."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for the dry season, though Cusco is visitable year-round",
+    "summary": "Cusco's high altitude means it stays cool year-round, with the dry season offering the most reliable conditions.",
+    "seasons": [
+      {
+        "season": "Dry season (May–September)",
+        "rating": "best",
+        "text": "The most reliable weather, with clear skies and cold nights, also the busiest season."
+      },
+      {
+        "season": "Shoulder months (April, October)",
+        "rating": "good",
+        "text": "Fewer crowds with still-decent weather odds."
+      },
+      {
+        "season": "Wet season (November–March)",
+        "rating": "okay",
+        "text": "Lush surroundings, though afternoon rain is common and can affect day trips."
+      }
+    ],
+    "avoid": "Arriving in Cusco and immediately attempting strenuous activity — allow at least a day to acclimatise to the altitude first."
+  },
+  "itinerary": {
+    "title": "Two days in Cusco",
+    "intro": "Built around gentle acclimatisation and the Plaza de Armas on day one, Sacsayhuamán and Qorikancha on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Acclimatising in the centre",
+        "summary": "The Plaza de Armas, the Cathedral and San Blas.",
+        "morning": "Rest and adjust to the altitude.",
+        "afternoon": "The Plaza de Armas and Cusco Cathedral.",
+        "evening": "A gentle wander through San Blas."
+      },
+      {
+        "day": 2,
+        "title": "Inca Cusco",
+        "summary": "Qorikancha and Sacsayhuamán.",
+        "morning": "Qorikancha and the Twelve-Angled Stone.",
+        "afternoon": "Sacsayhuamán.",
+        "evening": "Dinner near the Plaza de Armas."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Cusco stay noticeably smoother.",
+  "tips": [
+    "Spend at least one full day resting before any strenuous activity, given the altitude.",
+    "Drink plenty of water and coca tea to help manage altitude symptoms.",
+    "Buy the Boleto Turístico if planning to visit multiple sites, including Sacsayhuamán.",
+    "Wear comfortable shoes — the historic centre's cobbled streets are steep and uneven.",
+    "Book Sacred Valley and Rainbow Mountain tours a day or two ahead through your hotel or a local agency.",
+    "Pack layers regardless of season — Cusco's evenings turn cold even in the dry season."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Cusco?",
+      "a": "Three to four days allows time to acclimatise and see the main sights at a comfortable pace."
+    },
+    {
+      "q": "How bad is the altitude in Cusco?",
+      "a": "Noticeable for most visitors, sitting at 3,400 metres — mild symptoms like headache or breathlessness are common in the first day or two."
+    },
+    {
+      "q": "Is Cusco worth visiting beyond being a Machu Picchu gateway?",
+      "a": "Yes — its Inca and colonial sites, especially Sacsayhuamán and Qorikancha, are significant destinations in their own right."
+    },
+    {
+      "q": "Is Cusco safe?",
+      "a": "Generally yes for tourists, with sensible precautions around petty theft in busy tourist areas like the Plaza de Armas."
+    },
+    {
+      "q": "What is Cusco known for?",
+      "a": "Being the former capital of the Inca Empire, with extraordinary stonework still visible beneath its colonial architecture."
+    },
+    {
+      "q": "Do I need the Boleto Turístico?",
+      "a": "Useful if visiting Sacsayhuamán and several other sites, as it bundles entry at a better combined price than individual tickets."
+    }
+  ],
+  "related": ["sacred-valley", "machu-picchu", "rainbow-mountain"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

@@ -1,0 +1,375 @@
+{
+  "slug": "blue-lagoon-reykjanes",
+  "name": "Blue Lagoon & the Reykjanes Peninsula",
+  "country": "iceland",
+  "region": "Reykjanes Peninsula, Southwest Iceland",
+  "categories": ["geothermal", "day-trip", "nature", "relaxation"],
+  "tagline": "Iceland's most famous geothermal spa, surrounded by a raw volcanic peninsula that has been actively rearranging itself since 2021.",
+  "highlight": "Sinking shoulder-deep into the Blue Lagoon's warm, milky-blue water with a silica mask on, steam rising into cold air around you.",
+  "shortDescription": "A world-famous geothermal spa on Iceland's volcanic front doorstep, surrounded by lava fields, hot springs and a lighthouse at the edge of the sea.",
+  "metaDescription": "A Blue Lagoon and Reykjanes Peninsula travel guide: the geothermal spa, Gunnuhver, the Bridge Between Two Continents and how to plan a visit near Keflavík airport.",
+  "suggestedStay": "Half a day to 1 day",
+  "nearestAirport": "Keflavík International (KEF) — on the peninsula itself",
+  "knownFor": "The Blue Lagoon, geothermal fields, recent volcanic activity",
+  "budget": "ISK 15,000–35,000 per day, depending on spa package",
+  "goodFor": "Arrival or departure day, geothermal spas, geology",
+  "coords": { "lat": 63.8804, "lng": -22.4495 },
+  "image": {
+    "file": "File:Blue Lagoon with Þorbjörn, Iceland, 20230430 1626 3692.jpg",
+    "alt": "The Blue Lagoon's milky-blue geothermal water with Mount Þorbjörn behind it"
+  },
+  "intro": [
+    "The Reykjanes Peninsula is where most visitors' trip to Iceland actually begins and ends, since Keflavík International Airport sits right on it — and it happens to also hold the country's single most famous attraction, the Blue Lagoon, a milky-blue geothermal spa fed by a nearby power plant.",
+    "Beyond the lagoon, Reykjanes is one of the most volcanically active places in Iceland: a series of eruptions near Fagradalsfjall and Sundhnúkagígar since 2021 has put this peninsula on the news repeatedly, and its stark lava fields, steaming vents and bubbling mudpots make that activity easy to see firsthand.",
+    "It's a compact place — small enough to fold into a single half-day between a flight and a hotel check-in, but rewarding enough that some travellers give it a full day of its own, mixing the spa with the raw geothermal and volcanic landscape around it."
+  ],
+  "whyVisit": {
+    "intro": "The Reykjanes Peninsula's case rests on convenience and raw geology in roughly equal measure.",
+    "points": [
+      {
+        "title": "The Blue Lagoon is one of the most photographed spas on Earth",
+        "text": "A milky-blue geothermal lagoon with an in-water bar, silica mud masks and views out over black lava fields."
+      },
+      {
+        "title": "It's the easiest big Icelandic sight to combine with a flight",
+        "text": "Minutes from Keflavík airport, making it a natural first or last stop for almost every visitor."
+      },
+      {
+        "title": "The peninsula is one of Iceland's most volcanically active zones right now",
+        "text": "Repeated eruptions since 2021 have reshaped parts of the landscape within living memory."
+      },
+      {
+        "title": "It's rich in geothermal features beyond the lagoon",
+        "text": "Gunnuhver's steaming mudpots and the Krýsuvík-Seltún field are both dramatic, uncrowded alternatives."
+      },
+      {
+        "title": "The Bridge Between Two Continents is a rare novelty",
+        "text": "One of very few places on Earth where you can walk directly over the boundary between two tectonic plates."
+      }
+    ]
+  },
+  "attractionsIntro": "Reykjanes packs a striking range of geothermal and volcanic sights into a small, easily looped area.",
+  "attractions": [
+    {
+      "name": "The Blue Lagoon",
+      "image": {
+        "file": "File:Blue Lagoon Geothermal pool 11.jpg",
+        "alt": "Bathers in the milky-blue water of the Blue Lagoon geothermal spa"
+      },
+      "text": "Iceland's most famous single attraction, a warm, silica-rich lagoon fed by the adjacent Svartsengi geothermal plant, ringed by black lava rock.",
+      "tip": "Book your entry slot well ahead — it sells out, especially around flight times."
+    },
+    {
+      "name": "Gunnuhver Hot Springs",
+      "image": {
+        "file": "File:Gunnuhver Geothermal Area, Iceland, 20230430 1336 3611.jpg",
+        "alt": "Steaming mudpots and vents at the Gunnuhver geothermal area"
+      },
+      "text": "Iceland's largest mudpot, named for a vengeful ghost local legend says was lured into it, surrounded by hissing steam vents on a boardwalk trail.",
+      "tip": "Stay on the boardwalk — the ground nearby is unstable and dangerously hot."
+    },
+    {
+      "name": "Reykjanesviti Lighthouse",
+      "image": {
+        "file": "File:Reykjanesviti, Reykjanes, Iceland, 20230430 1330 3606.jpg",
+        "alt": "Reykjanesviti, Iceland's oldest lighthouse, on a coastal hill"
+      },
+      "text": "Iceland's oldest lighthouse, standing on a hill above dramatic sea cliffs at the peninsula's windswept southwestern tip.",
+      "tip": "The surrounding cliffs are worth a short walk beyond the lighthouse itself for the coastal views."
+    },
+    {
+      "name": "Bridge Between Two Continents",
+      "image": {
+        "file": "File:Bridge across continents iceland.jpg",
+        "alt": "A small footbridge over a rift symbolising the border of two tectonic plates"
+      },
+      "text": "A symbolic footbridge over a narrow rift, marketed as spanning the North American and Eurasian tectonic plates.",
+      "tip": "It's a quick five-minute stop — worth it for the novelty rather than the scenery alone."
+    },
+    {
+      "name": "Krýsuvík-Seltún Geothermal Area",
+      "image": {
+        "file": "File:Krýsuvík-Seltún geothermal field on 2019-07-08 photo 6.jpg",
+        "alt": "Colourful mineral-stained ground and steam vents at the Seltún geothermal field"
+      },
+      "text": "A vivid geothermal field of boiling mudpots and mineral-stained yellow and orange ground, far quieter than the Blue Lagoon.",
+      "tip": "The boardwalk loop takes only 20-30 minutes and needs no special gear."
+    },
+    {
+      "name": "Lake Kleifarvatn",
+      "image": {
+        "file": "File:Lake Kleifarvatn, Iceland (41495264840).jpg",
+        "alt": "Lake Kleifarvatn surrounded by dark volcanic hills"
+      },
+      "text": "Iceland's largest lake on the peninsula, a stark, often mirror-calm body of water ringed by dark volcanic hills, with no streams feeding or draining it visibly.",
+      "tip": "The roadside pull-offs along its shore are good, quiet spots for photos."
+    },
+    {
+      "name": "Valahnúkur Sea Cliffs",
+      "image": {
+        "file": "File:Valahnukur, Suðurnes, Islandia, 2014-08-13, DD 040.JPG",
+        "alt": "Dramatic sea cliffs and black sand at Valahnúkur near Reykjanesviti"
+      },
+      "text": "Dramatic basalt sea cliffs near the lighthouse, facing directly into the North Atlantic with crashing surf below.",
+      "tip": "Keep well back from the cliff edge — the wind here can be strong and unpredictable."
+    }
+  ],
+  "thingsToDoIntro": "Reykjanes rewards a mix of relaxing and exploring, since the spa and the raw landscape around it are such different experiences.",
+  "thingsToDo": [
+    {
+      "title": "Soak in the Blue Lagoon",
+      "image": {
+        "file": "File:Sunrise at Blue Lagoon Iceland 2026-02-10 10-48-20 1.jpg",
+        "alt": "Sunrise light over the Blue Lagoon's geothermal water"
+      },
+      "text": "The signature Reykjanes experience — warm, mineral-rich water, a swim-up bar and a silica mask, all with a backdrop of black lava.",
+      "tip": "An early or late slot gives you softer light and a quieter lagoon."
+    },
+    {
+      "title": "Stand on two tectonic plates at once",
+      "image": {
+        "file": "File:Gap between continents.jpg",
+        "alt": "The rift between two tectonic plates near the Bridge Between Two Continents"
+      },
+      "text": "A fun, quick novelty stop, walking the short bridge that symbolically links the North American and Eurasian plates.",
+      "tip": "Combine it with the nearby lighthouse and sea cliffs for one efficient stop."
+    },
+    {
+      "title": "Watch Gunnuhver's mudpots steam",
+      "image": {
+        "file": "File:Gunnuhver Geothermal Area, Iceland, 20230430 1339 3615.jpg",
+        "alt": "Steam rising from Gunnuhver's boiling mudpots"
+      },
+      "text": "A visceral, sulphur-scented reminder of what powers the Blue Lagoon just down the road — boiling mud and roaring steam vents.",
+      "tip": "Midday light shows the steam plumes best against the sky."
+    },
+    {
+      "title": "Hike the Reykjanesvegur trail past the lighthouse",
+      "image": {
+        "file": "File:Reykjanesviti, taken from the hiking trail Reykjavegur, Iceland 34.jpg",
+        "alt": "The Reykjanesvegur hiking trail near Reykjanesviti lighthouse"
+      },
+      "text": "A rewarding stretch of Iceland's long-distance Reykjavegur trail, tracing the coast past the lighthouse and sea cliffs.",
+      "tip": "Even a short 20-30 minute stretch of the trail gives excellent coastal views."
+    },
+    {
+      "title": "Explore the peninsula's fresh lava fields",
+      "image": {
+        "file": "File:Erosion - Reykjanes 03.jpg",
+        "alt": "Weathered volcanic lava terrain on the Reykjanes Peninsula"
+      },
+      "text": "Much of the peninsula is raw, mossy or bare lava rock, some of it from eruptions within the last few years.",
+      "tip": "Stick to marked paths — recent lava fields can hide unstable ground."
+    },
+    {
+      "title": "Spot seabirds at the sea cliffs",
+      "image": {
+        "file": "File:Valahnukur, Suðurnes, Islandia, 2014-08-13, DD 056.JPG",
+        "alt": "Seabirds along the cliffs near Reykjanesviti"
+      },
+      "text": "The cliffs near Reykjanesviti host nesting seabirds in season, with the surf below adding real drama.",
+      "tip": "Binoculars help — the birds nest well down the cliff face."
+    }
+  ],
+  "foodIntro": "Reykjanes is light on standalone dining beyond the Blue Lagoon's own restaurants and a handful of good spots in nearby Grindavík and Keflavík.",
+  "foods": [
+    {
+      "name": "Fresh Icelandic seafood",
+      "image": {
+        "file": "File:Plokkfiskur.jpg",
+        "alt": "A bowl of plokkfiskur fish stew"
+      },
+      "text": "Excellent near the coast, since Grindavík is a working fishing town and the catch rarely travels far.",
+      "whereToTry": "Restaurants in Grindavík and Keflavík."
+    },
+    {
+      "name": "Icelandic lamb",
+      "image": {
+        "file": "File:Rack-of-lambs.jpg",
+        "alt": "A roast lamb dish"
+      },
+      "text": "Widely available at restaurants near the airport and the Blue Lagoon itself.",
+      "whereToTry": "The Blue Lagoon's Lava Restaurant and hotels in Keflavík."
+    },
+    {
+      "name": "Skyr",
+      "image": {
+        "file": "File:Skyr & Blackberries 20250816 143415.jpg",
+        "alt": "A bowl of skyr topped with berries"
+      },
+      "text": "An easy, healthy breakfast or snack option at any petrol station or supermarket near the airport.",
+      "whereToTry": "Supermarkets and cafés in Keflavík and Reykjanesbær."
+    },
+    {
+      "name": "Icelandic hot dog",
+      "image": {
+        "file": "File:The Icelandic pylsa (hot dog) (2502658407).jpg",
+        "alt": "An Icelandic hot dog"
+      },
+      "text": "A quick, cheap classic for a last meal before a flight or a first one off the plane.",
+      "whereToTry": "Petrol station cafés around Keflavík."
+    },
+    {
+      "name": "Rúgbrauð",
+      "image": {
+        "file": "File:Jonge vrouw stopt een blikken bus met deeg in de hete grond om brood te bakken, Bestanddeelnr 190-0313.jpg",
+        "alt": "A loaf of traditional Icelandic rye bread"
+      },
+      "text": "A traditional dark rye bread, often served with smoked or pickled fish at breakfast buffets.",
+      "whereToTry": "Hotel breakfasts around Keflavík and Grindavík."
+    },
+    {
+      "name": "Brennivín",
+      "image": {
+        "file": "File:Iceland Schnapps! (3083475243).jpg",
+        "alt": "A bottle of Brennivín, Iceland's signature schnapps"
+      },
+      "text": "Iceland's famous caraway-flavoured schnapps, a fitting first or last drink of an Icelandic trip.",
+      "whereToTry": "Bars in Keflavík or the Blue Lagoon's own bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors stay near Reykjanes only on their arrival or departure night, given how close it sits to the airport.",
+    "areas": [
+      {
+        "name": "The Blue Lagoon's own hotels",
+        "bestFor": "A genuine splurge night bookending a flight",
+        "text": "The Retreat and Silica hotels offer direct or private lagoon access."
+      },
+      {
+        "name": "Keflavík or Reykjanesbær",
+        "bestFor": "Practical, budget-friendly airport nights",
+        "text": "Close to both the airport and the Blue Lagoon, with far lower rates."
+      },
+      {
+        "name": "Reykjavik",
+        "bestFor": "Combining Reykjanes with a wider Iceland trip",
+        "text": "Only 45 minutes from the peninsula, and the standard base for most itineraries."
+      }
+    ],
+    "budget": [
+      { "label": "Blue Lagoon standard entry", "value": "About ISK 9,000–13,000" },
+      { "label": "Blue Lagoon Retreat entry", "value": "About ISK 40,000+" },
+      { "label": "Airport-area hotel", "value": "ISK 20,000–35,000 per night" },
+      { "label": "Rental car for the day", "value": "About ISK 10,000–15,000" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Reykjanes is the first and last part of Iceland almost every visitor sees, given the airport's location.",
+    "options": [
+      {
+        "mode": "Rental car from the airport",
+        "text": "The simplest option — the Blue Lagoon is about 20 minutes from Keflavík and 45 from Reykjavik.",
+        "detail": "Route 41 and 43 connect the airport, the lagoon and Reykjavik directly."
+      },
+      {
+        "mode": "Airport transfer bus",
+        "text": "Frequent shuttle buses run between Keflavík, the Blue Lagoon and Reykjavik.",
+        "detail": "Many transfer companies allow a Blue Lagoon stopover built into the airport transfer."
+      },
+      {
+        "mode": "Organised day tour",
+        "text": "Convenient if combining Reykjanes with the Golden Circle or South Coast in one day.",
+        "detail": "Most tours run from Reykjavik with hotel pickup included."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The peninsula's sights are spread along a couple of main roads, easy to link in one loop.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The most flexible way to link the lagoon, Gunnuhver and the lighthouse in one trip.",
+        "detail": "Roads 425 and 426 connect most of the peninsula's main sights."
+      },
+      {
+        "mode": "Organised tours",
+        "text": "Cover the main stops for visitors without a car, often bundled with an airport transfer.",
+        "detail": "Half-day tours typically include the lagoon plus one or two other stops."
+      },
+      {
+        "mode": "On foot at each stop",
+        "text": "All the peninsula's individual sights are short, well-marked walks from their car parks.",
+        "detail": "None require more than 20-30 minutes on foot."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "Any season — though check for volcanic activity advisories first",
+    "summary": "The Blue Lagoon operates year-round, and Reykjanes's paved roads stay open in most weather, but recent eruptions have periodically closed parts of the peninsula.",
+    "seasons": [
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Long daylight and easy access, the most convenient season for combining stops."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "good",
+        "text": "Atmospheric for a lagoon soak, with a chance of the northern lights overhead."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Quieter, with mild weather still holding on most days."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "good",
+        "text": "Comfortable and increasingly bright as the days lengthen."
+      }
+    ],
+    "avoid": "Check current volcanic activity advisories before visiting — eruptions since 2021 have periodically closed roads and even the lagoon itself."
+  },
+  "itinerary": {
+    "title": "Half a day on the Reykjanes Peninsula",
+    "intro": "Built around a lagoon soak plus the peninsula's geothermal highlights, timed around a flight.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Lagoon and lava",
+        "summary": "The Blue Lagoon plus Reykjanes's raw geothermal landscape.",
+        "morning": "Gunnuhver Hot Springs and the Bridge Between Two Continents.",
+        "afternoon": "Reykjanesviti Lighthouse and the Valahnúkur sea cliffs.",
+        "evening": "A relaxed soak at the Blue Lagoon before heading to the airport or Reykjavik."
+      }
+    ]
+  },
+  "tipsIntro": "A handful of practical notes make a Reykjanes stop go far more smoothly.",
+  "tips": [
+    "Book your Blue Lagoon entry slot well in advance — it regularly sells out.",
+    "Check for current volcanic activity or road closure advisories before setting out.",
+    "Store your bags at the lagoon's lockers if visiting straight off a flight.",
+    "Bring your own reusable water bottle — tap water across Iceland is excellent.",
+    "Pack flip-flops for the rough lava-rock ground around the lagoon's pool deck.",
+    "Allow a realistic 3-4 hours at the Blue Lagoon alone if you want the full spa experience."
+  ],
+  "faq": [
+    {
+      "q": "Is the Blue Lagoon worth it?",
+      "a": "Yes, for most visitors — it's a relaxing, easy stop directly on the way to or from the airport, even if it is touristy."
+    },
+    {
+      "q": "How far is the Blue Lagoon from Keflavík airport?",
+      "a": "About 20 minutes by car, making it one of the easiest big sights to fit around a flight."
+    },
+    {
+      "q": "Do you need to book the Blue Lagoon in advance?",
+      "a": "Yes — entry is capped and slots regularly sell out, especially around midday and flight times."
+    },
+    {
+      "q": "Is Reykjanes affected by volcanic eruptions?",
+      "a": "Yes — the peninsula has seen repeated eruptions since 2021, so it's worth checking current advisories before visiting."
+    },
+    {
+      "q": "Can you visit Reykjanes without a car?",
+      "a": "Yes — shuttle buses and organised tours connect the airport, the Blue Lagoon and Reykjavik regularly."
+    },
+    {
+      "q": "How much time do you need on the Reykjanes Peninsula?",
+      "a": "Half a day covers the Blue Lagoon plus one or two other stops; a full day allows the whole geothermal loop at an easy pace."
+    }
+  ],
+  "related": ["reykjavik", "golden-circle", "south-coast"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

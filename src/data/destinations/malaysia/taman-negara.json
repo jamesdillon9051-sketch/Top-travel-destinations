@@ -1,0 +1,317 @@
+{
+  "slug": "taman-negara",
+  "name": "Taman Negara",
+  "country": "malaysia",
+  "region": "Pahang",
+  "categories": ["nature", "rainforest", "wildlife", "adventure"],
+  "tagline": "One of the world's oldest rainforests, explored by river boat and a canopy walkway strung high above the forest floor.",
+  "highlight": "Crossing Taman Negara's canopy walkway, the rainforest floor a genuine drop below and the forest canopy at eye level around you.",
+  "shortDescription": "One of the world's oldest rainforests, reached by river boat from Kuala Tahan, with a canopy walkway and jungle trekking.",
+  "metaDescription": "A Taman Negara travel guide: the canopy walkway, river boat trips, jungle trekking and how to plan a visit.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Kuala Lumpur International Airport (KLIA), about 3-4 hours by road and river to Kuala Tahan",
+  "knownFor": "The canopy walkway, ancient rainforest, jungle trekking",
+  "budget": "RM100-250 per day, budget to mid-range",
+  "goodFor": "Rainforest, wildlife, a genuine jungle experience",
+  "coords": { "lat": 4.3833, "lng": 102.4 },
+  "image": {
+    "file": "File:Taman Negara, Malaysia, Canopy Walkway.jpg",
+    "alt": "The canopy walkway at Taman Negara"
+  },
+  "intro": [
+    "Taman Negara is one of the world's oldest rainforests, estimated at over 130 million years, protected as Malaysia's largest national park in the mountainous interior of Pahang.",
+    "Most visits centre on Kuala Tahan, a small village on the Tembeling River that serves as the park's main gateway, reached by a scenic river boat ride from the nearest road.",
+    "A canopy walkway, river cruises and jungle treks make up the core of a visit, with the rainforest's genuine scale and age the real draw rather than any single sight."
+  ],
+  "whyVisit": {
+    "intro": "Taman Negara's case rests on being ancient rainforest, not a curated nature park, reached by a memorable river journey.",
+    "points": [
+      {
+        "title": "It's one of the world's oldest rainforests",
+        "text": "Estimated to predate the Amazon, having survived ice ages that reshaped forests elsewhere."
+      },
+      {
+        "title": "The canopy walkway is a genuine highlight",
+        "text": "One of the longest canopy walkways in the world, suspended high above the forest floor."
+      },
+      {
+        "title": "The river journey in is part of the experience",
+        "text": "A boat ride up the Tembeling River sets the tone before you've even reached the park."
+      },
+      {
+        "title": "Wildlife spotting feels genuine, not staged",
+        "text": "No guarantees, but hides and night walks offer real chances at spotting Malaysia's forest wildlife."
+      },
+      {
+        "title": "It suits a range of comfort levels",
+        "text": "From simple jungle trekking to floating restaurants and comfortable riverside lodges at Kuala Tahan."
+      }
+    ]
+  },
+  "attractionsIntro": "Taman Negara's essential experiences centre on the canopy walkway, the Tembeling River and Kuala Tahan's gateway village.",
+  "attractions": [
+    {
+      "name": "The canopy walkway",
+      "image": {
+        "file": "File:Canopy walkway at Taman Negara.jpg",
+        "alt": "The canopy walkway at Taman Negara"
+      },
+      "text": "A suspended walkway strung between towering trees, giving a rare eye-level view into the rainforest canopy.",
+      "tip": "Visit early morning for both cooler temperatures and better wildlife activity in the canopy."
+    },
+    {
+      "name": "Kuala Tahan village",
+      "image": {
+        "file": "File:Sandy bank of Sungai Tembeling across the entrance to Taman Negara, with floating restaurant and boats to ferry tourists across to Mutiara Taman Negara Resort.jpg",
+        "alt": "Kuala Tahan village at the entrance to Taman Negara"
+      },
+      "text": "The park's main gateway village, its floating restaurants and riverside setting a memorable base in themselves.",
+      "tip": "Cross the river by longboat to reach the park entrance and resort side from the village."
+    },
+    {
+      "name": "The Tembeling River",
+      "image": {
+        "file": "File:Tembeling River - Taman Negara.jpg",
+        "alt": "The Tembeling River near Taman Negara"
+      },
+      "text": "The river that carries most visitors into the park, its journey through rainforest a genuine part of the appeal.",
+      "tip": "Sit toward the front of the boat for the clearest views along the river journey."
+    },
+    {
+      "name": "Bukit Teresek viewpoint",
+      "text": "A moderate hike from Kuala Tahan leads to a hilltop viewpoint over the surrounding rainforest canopy.",
+      "tip": "A good half-day hike for those not attempting a longer multi-day trek."
+    },
+    {
+      "name": "Gua Telinga (cave)",
+      "text": "A limestone cave accessible on some trekking routes, home to bats and other cave-dwelling wildlife.",
+      "tip": "Involves some crawling and getting dirty — wear clothes you don't mind ruining."
+    },
+    {
+      "name": "The park's wildlife observation hides",
+      "text": "Simple huts overlooking salt licks or clearings, used for overnight or evening wildlife watching.",
+      "tip": "Sightings aren't guaranteed, but the experience of a night in the forest is worthwhile regardless."
+    },
+    {
+      "name": "Lata Berkoh rapids",
+      "text": "A scenic set of river rapids reachable by boat and a short walk, popular for a cooling dip.",
+      "tip": "A good half-day trip that combines a boat ride with swimming."
+    }
+  ],
+  "thingsToDoIntro": "Taman Negara rewards a slower, multi-day visit built around the canopy walkway, river trips and trekking.",
+  "thingsToDo": [
+    {
+      "title": "Cross the canopy walkway",
+      "image": {
+        "file": "File:Starting point of the Canopy Walkway at Taman Negara.jpg",
+        "alt": "The starting point of the canopy walkway at Taman Negara"
+      },
+      "text": "The park's signature experience, walking suspended bridges strung between the rainforest's tallest trees.",
+      "tip": "Arrive early to avoid both crowds and the queue that can build by mid-morning."
+    },
+    {
+      "title": "Take a river boat trip",
+      "image": {
+        "file": "File:Departing from Kuala Tahan (3107831161).jpg",
+        "alt": "A boat departing from Kuala Tahan"
+      },
+      "text": "Beyond the transfer in, shorter river trips reach rapids, caves and other points along the Tembeling.",
+      "tip": "Arrange trips through your accommodation or a registered guide in Kuala Tahan."
+    },
+    {
+      "title": "Go on a guided night jungle walk",
+      "text": "A different side of the rainforest emerges after dark, with nocturnal insects and animals more active.",
+      "tip": "A guide is essential here — the trails are disorienting at night without one."
+    },
+    {
+      "title": "Hike to Bukit Teresek",
+      "text": "A moderate, well-marked trail leading to a rewarding canopy-level viewpoint.",
+      "tip": "Bring plenty of water — the humidity makes even a moderate hike feel more strenuous."
+    },
+    {
+      "title": "Visit an Orang Asli settlement",
+      "text": "Some tours include a respectful visit to indigenous communities living in and around the park.",
+      "tip": "Choose a tour operator with a genuine, community-endorsed relationship rather than an informal drop-in."
+    },
+    {
+      "title": "Spend a night at a wildlife observation hide",
+      "text": "An overnight stay in a simple hide overlooking a salt lick, watching and waiting for wildlife.",
+      "tip": "Bring insect repellent, a torch and patience — this is about the experience, not a guaranteed sighting."
+    }
+  ],
+  "foodIntro": "Food around Taman Negara is simple, centred on Kuala Tahan's floating restaurants and riverside cafés.",
+  "foods": [
+    {
+      "name": "River fish",
+      "text": "Freshwater fish from the Tembeling River, simply grilled or fried at Kuala Tahan's restaurants.",
+      "whereToTry": "Floating restaurants and cafés in Kuala Tahan."
+    },
+    {
+      "name": "Nasi goreng and mee goreng",
+      "text": "Standard fried rice and noodle staples, reliable options at every riverside restaurant.",
+      "whereToTry": "Restaurants throughout Kuala Tahan."
+    },
+    {
+      "name": "Jungle-trek packed meals",
+      "text": "Simple packed meals provided for longer treks, practical rather than memorable.",
+      "whereToTry": "Arranged through trekking guides and lodges."
+    },
+    {
+      "name": "Local coffee and tea",
+      "text": "A welcome pick-me-up after a humid morning of hiking or river travel.",
+      "whereToTry": "Cafés and stalls throughout Kuala Tahan."
+    },
+    {
+      "name": "Tropical fruit",
+      "text": "Fresh fruit sold at small stalls in the village, a refreshing snack between activities.",
+      "whereToTry": "Local stalls in Kuala Tahan."
+    },
+    {
+      "name": "Basic Malay home cooking",
+      "text": "Simple, home-style dishes at family-run restaurants in the village, often the most satisfying option available.",
+      "whereToTry": "Small family-run restaurants throughout Kuala Tahan."
+    }
+  ],
+  "accommodation": {
+    "intro": "Accommodation ranges from simple guesthouses in Kuala Tahan village to a more comfortable resort across the river.",
+    "areas": [
+      {
+        "name": "Kuala Tahan village",
+        "bestFor": "Budget guesthouses and floating restaurants",
+        "text": "The livelier, more affordable side of the river, with easy access to boats and guides."
+      },
+      {
+        "name": "Across the river (resort side)",
+        "bestFor": "More comfortable lodging directly inside the park boundary",
+        "text": "Chalets and a resort set right at the park entrance, a short longboat ride from the village."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse room in Kuala Tahan", "value": "RM50–100 per night" },
+      { "label": "Resort chalet", "value": "RM200–450 per night" },
+      { "label": "Canopy walkway entry", "value": "A modest park and walkway fee, paid on arrival" },
+      { "label": "Guided day trek", "value": "RM80–150 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Reaching Taman Negara means a road transfer followed by a scenic river boat journey to Kuala Tahan.",
+    "options": [
+      {
+        "mode": "Road transfer plus river boat from Kuala Lumpur",
+        "text": "The classic route, combining a few hours by road with a river journey up the Tembeling.",
+        "detail": "Often arranged as a package through tour operators in Kuala Lumpur."
+      },
+      {
+        "mode": "Direct road transfer to Kuala Tahan",
+        "text": "A faster, entirely road-based alternative that skips the river boat.",
+        "detail": "Quicker but misses the scenic river approach many visitors come for."
+      },
+      {
+        "mode": "Organised multi-day tour",
+        "text": "A convenient option that bundles transport, accommodation and guided activities.",
+        "detail": "Reduces the logistics of arranging river transfers and guides independently."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Once at Kuala Tahan, boats and marked trails cover the park, with guides recommended for anything beyond short walks.",
+    "options": [
+      {
+        "mode": "Longboat across the river",
+        "text": "The way to cross from Kuala Tahan village to the park entrance and resort side.",
+        "detail": "Runs frequently throughout the day for a small fee."
+      },
+      {
+        "mode": "Marked hiking trails",
+        "text": "Cover the canopy walkway, Bukit Teresek and other short routes independently.",
+        "detail": "Well signed near the park entrance, less so on longer routes."
+      },
+      {
+        "mode": "Guided treks and boat trips",
+        "text": "Essential for multi-day treks, wildlife hides or destinations further upriver.",
+        "detail": "Arrange through registered guides in Kuala Tahan rather than informally."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March to October for the most reliable access",
+    "summary": "Taman Negara's interior location makes it less strictly monsoon-bound than the east coast islands, but river levels still shift by season.",
+    "seasons": [
+      {
+        "season": "March–October",
+        "rating": "best",
+        "text": "Generally the most reliable window for river access and trekking conditions."
+      },
+      {
+        "season": "November–February",
+        "rating": "okay",
+        "text": "Heavier rain can raise river levels and occasionally disrupt boat access."
+      },
+      {
+        "season": "Any season",
+        "rating": "good",
+        "text": "Rainforest weather is unpredictable regardless of season — expect rain at any time of year."
+      }
+    ],
+    "avoid": "Nothing absolute, though November through February carries the highest chance of river-level disruptions."
+  },
+  "itinerary": {
+    "title": "Two days in Taman Negara",
+    "intro": "Built around the canopy walkway, a river trip and a taste of jungle trekking.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival and the canopy walkway",
+        "summary": "The river journey in and the park's signature experience.",
+        "morning": "Travel by road and river boat to Kuala Tahan.",
+        "afternoon": "Cross the canopy walkway.",
+        "evening": "Dinner at a floating restaurant in Kuala Tahan."
+      },
+      {
+        "day": 2,
+        "title": "Trekking and the river",
+        "summary": "A fuller day in the rainforest itself.",
+        "morning": "Hike to Bukit Teresek or a similar half-day trail.",
+        "afternoon": "A river boat trip to Lata Berkoh rapids.",
+        "evening": "A final dinner before departure or an optional night walk."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Taman Negara visit noticeably smoother.",
+  "tips": [
+    "Book a registered guide for anything beyond the short marked trails near the entrance.",
+    "Pack proper insect repellent and clothing that covers arms and legs for trekking.",
+    "Bring cash — card payment is unreliable this far from a city.",
+    "Wear shoes with good grip; trails can be muddy and slippery even outside the wettest months.",
+    "Arrive at the canopy walkway early to beat both crowds and the day's heat.",
+    "Keep expectations realistic on wildlife sightings — this is genuine wild rainforest, not a zoo."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Taman Negara?",
+      "a": "Two to three days covers the canopy walkway, a river trip and a taste of trekking comfortably."
+    },
+    {
+      "q": "How do you get to Taman Negara?",
+      "a": "By road transfer from Kuala Lumpur, often combined with a scenic river boat journey up the Tembeling River to Kuala Tahan."
+    },
+    {
+      "q": "Do you need a guide in Taman Negara?",
+      "a": "Not for the short marked trails near the entrance, but yes for longer treks, night walks or wildlife hides."
+    },
+    {
+      "q": "What wildlife can you see in Taman Negara?",
+      "a": "Sightings vary, but the park is home to elephants, tapirs, various primates and a wide range of birds, though nothing is guaranteed."
+    },
+    {
+      "q": "Is Taman Negara suitable for a short trip?",
+      "a": "It rewards at least two days — the river journey and canopy walkway alone take up a meaningful chunk of a single day."
+    },
+    {
+      "q": "Is Taman Negara safe?",
+      "a": "Yes, generally, with standard rainforest precautions around insects, terrain and staying with a guide on longer routes."
+    }
+  ],
+  "related": ["perhentian-islands", "cameron-highlands", "kuala-lumpur"],
+  "relatedArticles": ["us-national-parks-road-trip", "underrated-destinations"]
+}

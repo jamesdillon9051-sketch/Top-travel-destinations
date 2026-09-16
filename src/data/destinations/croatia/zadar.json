@@ -1,0 +1,362 @@
+{
+  "slug": "zadar",
+  "name": "Zadar",
+  "country": "croatia",
+  "region": "Dalmatia",
+  "categories": ["coastal", "historic", "scenic", "major-city"],
+  "tagline": "A Dalmatian city where the sea itself makes music, waves pushed through stone pipes beneath a light installation Alfred Hitchcock called the world's best sunset.",
+  "highlight": "Sitting on the Sea Organ's steps at dusk, waves sighing through hidden pipes as the Monument to the Sun begins to glow underfoot.",
+  "shortDescription": "A Dalmatian coastal city where the sea makes music through the Sea Organ, backed by a Roman Forum and one of the Adriatic's best sunsets.",
+  "metaDescription": "A Zadar travel guide: the Sea Organ, the Monument to the Sun, the Roman Forum, St Donatus Church, food and how to plan a visit.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Zadar Airport (ZAD)",
+  "knownFor": "The Sea Organ, the Monument to the Sun, the Roman Forum",
+  "budget": "€90–180 per day, mid-range",
+  "goodFor": "Sunsets, history, a relaxed coastal city",
+  "coords": { "lat": 44.1194, "lng": 15.2314 },
+  "image": {
+    "file": "File:Sunset in Zadar (Sea organ).jpg",
+    "alt": "Sunset over Zadar's Sea Organ"
+  },
+  "intro": [
+    "Zadar is one of the Adriatic's most quietly rewarding cities, an ancient Roman and Venetian port that spent decades overlooked in favour of Split and Dubrovnik further south.",
+    "Its modern fame rests on two unusual public artworks along the waterfront — the Sea Organ, which turns waves into ambient music, and the Monument to the Sun, a light installation Alfred Hitchcock once called the world's most beautiful sunset.",
+    "Beneath that modern reputation sits a real Roman and medieval city, its Forum, churches and city gates still standing at the heart of a compact, walkable old town."
+  ],
+  "whyVisit": {
+    "intro": "Zadar's case rests on combining ancient Roman history with two of the most original public artworks on the entire coast.",
+    "points": [
+      {
+        "title": "The Sea Organ is unlike anything else in Croatia",
+        "text": "Wave-powered pipes beneath stone steps turn the sea itself into ambient music."
+      },
+      {
+        "title": "The sunsets are legendary",
+        "text": "Alfred Hitchcock famously called Zadar's sunset the most beautiful he'd ever seen."
+      },
+      {
+        "title": "The Roman Forum is a real, substantial ruin",
+        "text": "One of the best-preserved forums on the eastern Adriatic coast."
+      },
+      {
+        "title": "It's far less crowded than Dubrovnik or Split",
+        "text": "A real, working Dalmatian city rather than a purely tourist-focused centre."
+      },
+      {
+        "title": "It works well as a coastal stopover",
+        "text": "Conveniently positioned between Plitvice Lakes and the rest of the Dalmatian coast."
+      }
+    ]
+  },
+  "attractionsIntro": "Zadar's essential sights are spread between its ancient Roman core and its modern waterfront artworks.",
+  "attractions": [
+    {
+      "name": "The Sea Organ",
+      "image": {
+        "file": "File:Sea organ Zadar 3.JPG",
+        "alt": "The Sea Organ on Zadar's waterfront"
+      },
+      "text": "A one-of-a-kind installation, stone steps hiding pipes that turn wave motion into soft, randomised music.",
+      "tip": "Sit for at least ten minutes — the sound takes a moment to notice and appreciate fully."
+    },
+    {
+      "name": "The Monument to the Sun",
+      "image": {
+        "file": "File:Monument to the Sun5.jpg",
+        "alt": "The Monument to the Sun on Zadar's waterfront"
+      },
+      "text": "A striking circular light installation, solar panels powering a nightly display that draws crowds after sunset.",
+      "tip": "Arrive right at sunset to see both the sky and the installation's lights at their best."
+    },
+    {
+      "name": "The Roman Forum",
+      "image": {
+        "file": "File:Roman forum zadar croatia.jpg",
+        "alt": "The Roman Forum in Zadar"
+      },
+      "text": "One of the best-preserved Roman forums on the eastern Adriatic, its columns and paving still substantially intact.",
+      "tip": "Visit in the early morning or evening for photos without the day's crowds."
+    },
+    {
+      "name": "St Donatus Church",
+      "image": {
+        "file": "File:Zadar St Donatus church 01.jpg",
+        "alt": "St Donatus Church in Zadar"
+      },
+      "text": "A striking 9th-century circular church, built directly on and from the stones of the Roman Forum beside it.",
+      "tip": "Check for a classical music concert — the church's acoustics make it a popular performance venue."
+    },
+    {
+      "name": "St Anastasia's Cathedral",
+      "image": {
+        "file": "File:Cathedral of St. Anastasia in Zadar 03.jpg",
+        "alt": "St Anastasia's Cathedral in Zadar"
+      },
+      "text": "The largest cathedral in Dalmatia, a Romanesque landmark with a climbable bell tower.",
+      "tip": "Climb the tower for one of the best views over the old town's rooftops."
+    },
+    {
+      "name": "The Land Gate",
+      "image": {
+        "file": "File:Kopnena Vrata (Zadar) 01.jpg",
+        "alt": "The Land Gate in Zadar's old city walls"
+      },
+      "text": "A grand 16th-century Venetian gateway, once the main land entrance into the walled city.",
+      "tip": "A striking piece of Venetian military architecture, worth a proper look rather than a quick pass-through."
+    },
+    {
+      "name": "Sunset at the Sea Organ",
+      "image": {
+        "file": "File:Sunset in Zadar (Sea organ).jpg",
+        "alt": "Sunset at Zadar's Sea Organ"
+      },
+      "text": "Zadar's essential daily ritual, crowds gathering along the waterfront to watch the sky change colour.",
+      "tip": "Arrive at least 30 minutes ahead to claim a good spot on the steps."
+    }
+  ],
+  "thingsToDoIntro": "Zadar rewards splitting time between its ancient Roman core and its modern waterfront installations.",
+  "thingsToDo": [
+    {
+      "title": "Listen to the Sea Organ",
+      "image": {
+        "file": "File:Sea organ Zadar 1.jpg",
+        "alt": "Listening to Zadar's Sea Organ"
+      },
+      "text": "An essential Zadar experience, letting the waves' random music wash over you on the waterfront steps.",
+      "tip": "Calmer seas produce a gentler sound — a slightly choppier day can be more dramatic."
+    },
+    {
+      "title": "Watch the Monument to the Sun light up at night",
+      "image": {
+        "file": "File:Zadar Lichtspiel-Monument.jpg",
+        "alt": "The Monument to the Sun lit up at night in Zadar"
+      },
+      "text": "A mesmerising evening spectacle, solar-powered lights pulsing across the circular installation after dark.",
+      "tip": "A popular spot for locals too — expect a lively, sociable crowd after sunset."
+    },
+    {
+      "title": "Explore the Roman Forum",
+      "image": {
+        "file": "File:Roman Forum and Church of St. Donatus in Zadar, Croatia (48670503072).jpg",
+        "alt": "Exploring the Roman Forum in Zadar"
+      },
+      "text": "A worthwhile stop, wandering among columns and paving stones nearly two thousand years old.",
+      "tip": "Free to explore at any time, making it easy to fit around other plans."
+    },
+    {
+      "title": "Climb St Anastasia's bell tower",
+      "image": {
+        "file": "File:Cathedral of St. Anastasia in Zadar 05.jpg",
+        "alt": "St Anastasia's Cathedral bell tower in Zadar"
+      },
+      "text": "A rewarding climb, with the best rooftop view over Zadar's compact old town peninsula.",
+      "tip": "A good late-afternoon activity, timed to finish near sunset."
+    },
+    {
+      "title": "Walk through the Land Gate",
+      "image": {
+        "file": "File:Kopnena Vrata (Zadar) 02.jpg",
+        "alt": "The Land Gate in Zadar"
+      },
+      "text": "An atmospheric entry point into the old town, a grand Venetian gateway still in daily use.",
+      "tip": "A good starting point for a walking route into the old town's narrow streets."
+    },
+    {
+      "title": "Watch sunset from the waterfront promenade",
+      "image": {
+        "file": "File:Sunset in Zadar (Sea organ).jpg",
+        "alt": "Sunset from Zadar's waterfront promenade"
+      },
+      "text": "An essential daily ritual here, joining locals and visitors alike to watch the sky change over the Adriatic.",
+      "tip": "Combine with the Sea Organ and Monument to the Sun for the complete Zadar sunset experience."
+    }
+  ],
+  "foodIntro": "Zadar's food spans classic Dalmatian dishes alongside its own distinctive cherry liqueur.",
+  "foods": [
+    {
+      "name": "Maraschino liqueur",
+      "text": "Invented and still produced in Zadar, a sweet cherry liqueur distilled from local marasca cherries.",
+      "whereToTry": "Bars and restaurants throughout the old town."
+    },
+    {
+      "name": "Fresh grilled seafood",
+      "image": {
+        "file": "File:Skampi Na Zaru - Konoba Ivan (14929244641).jpg",
+        "alt": "Grilled seafood at a traditional Croatian restaurant"
+      },
+      "text": "A highlight of dining here, fish and shellfish grilled simply at konobas around the old town.",
+      "whereToTry": "Konobas throughout Zadar's old town."
+    },
+    {
+      "name": "Crni rižot (black risotto)",
+      "image": {
+        "file": "File:Risotto al nero di seppia.jpg",
+        "alt": "Black risotto made with cuttlefish ink"
+      },
+      "text": "A Dalmatian classic, worth trying at least once during a Zadar visit.",
+      "whereToTry": "Seafood restaurants throughout the old town."
+    },
+    {
+      "name": "Dalmatinski pršut (dry-cured ham)",
+      "image": {
+        "file": "File:Dalmatinski pršut.jpg",
+        "alt": "Dalmatinski pršut, Croatia's dry-cured ham"
+      },
+      "text": "A reliable starter, often served with local cheese and olives.",
+      "whereToTry": "Restaurants and konobas throughout Zadar."
+    },
+    {
+      "name": "Croatian wine",
+      "text": "Worth exploring, with wines from the surrounding Zadar region alongside better-known Dalmatian labels.",
+      "whereToTry": "Wine bars throughout the old town."
+    },
+    {
+      "name": "Fritule (small fried doughnuts)",
+      "image": {
+        "file": "File:Fritule iz Rijeke.jpg",
+        "alt": "Fritule, small Croatian fried doughnuts"
+      },
+      "text": "A nice sweet treat, found at bakeries and market stalls around the old town.",
+      "whereToTry": "Bakeries throughout Zadar's old town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Zadar offers noticeably better value than Dubrovnik or Hvar, with everything of interest within easy reach of the old town.",
+    "areas": [
+      {
+        "name": "The old town peninsula",
+        "bestFor": "Being within walking distance of every major sight",
+        "text": "The most convenient base, close to the Forum, Sea Organ and Land Gate."
+      },
+      {
+        "name": "Just outside the old town",
+        "bestFor": "A quieter, better-value stay a short walk from the centre",
+        "text": "Easy access to the peninsula without the old town's peak-season premium."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "€55–95 per night" },
+      { "label": "Mid-range hotel", "value": "€100–200 per night" },
+      { "label": "St Anastasia's bell tower climb", "value": "About €2–3" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About €25–45 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Zadar is well connected by air and road, sitting conveniently between Zagreb and the rest of the Dalmatian coast.",
+    "options": [
+      {
+        "mode": "Direct international flights",
+        "text": "Available from many European cities, especially in summer.",
+        "detail": "Zadar Airport sits about 20 minutes from the old town."
+      },
+      {
+        "mode": "Bus from Zagreb or Split",
+        "text": "Comfortable and frequent, with scenic coastal or inland routes.",
+        "detail": "Around three hours from Zagreb, or two to three from Split."
+      },
+      {
+        "mode": "Ferry to the Zadar archipelago",
+        "text": "Useful if extending to the nearby islands.",
+        "detail": "Frequent local ferries connect Zadar to Ugljan, Pašman and other islands."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Zadar's compact old town peninsula is entirely walkable, with buses covering the wider city.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The best way to see the old town's main sights.",
+        "detail": "The Forum, Sea Organ and cathedral all sit within a comfortable walk of each other."
+      },
+      {
+        "mode": "Local buses",
+        "text": "Useful for reaching the airport or outlying neighbourhoods.",
+        "detail": "A frequent, inexpensive network across the wider city."
+      },
+      {
+        "mode": "Ferry terminal",
+        "text": "Conveniently located right beside the old town.",
+        "detail": "An easy walk from most central accommodation."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for warm weather without peak crowds",
+    "summary": "Zadar is a pleasant year-round city, with summer bringing the best swimming and sunset weather.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Warm enough to swim, with noticeably thinner crowds than peak summer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Warm and lively, the best season for swimming and sunset watching."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "best",
+        "text": "Still warm enough for the sea, with crowds and prices both easing off."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "okay",
+        "text": "Quiet, with a real, lived-in city atmosphere rather than a tourist-focused one."
+      }
+    ],
+    "avoid": "Nothing strongly — Zadar works well across most of the year."
+  },
+  "itinerary": {
+    "title": "One day in Zadar",
+    "intro": "A single full day covering the Roman core and the waterfront's modern artworks.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town and the waterfront",
+        "summary": "A full day of Roman history and modern art.",
+        "morning": "The Roman Forum, St Donatus Church and St Anastasia's Cathedral.",
+        "afternoon": "Wander the old town and walk through the Land Gate.",
+        "evening": "Sunset at the Sea Organ and Monument to the Sun."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Zadar visit noticeably smoother.",
+  "tips": [
+    "Time your visit to be at the waterfront for sunset — it's the city's highlight.",
+    "Visit the Roman Forum early morning or evening for photos without crowds.",
+    "Climb St Anastasia's bell tower in the late afternoon, finishing near sunset.",
+    "Try Maraschino liqueur at a local bar — it's a real Zadar specialty.",
+    "Use Zadar as an easy stopover between Plitvice Lakes and the rest of the coast.",
+    "Expect noticeably better prices than Dubrovnik or Hvar for food and accommodation."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Zadar?",
+      "a": "One to two days covers the old town's Roman sights and the waterfront installations comfortably."
+    },
+    {
+      "q": "What is the Sea Organ?",
+      "a": "A wave-powered musical installation, stone steps with hidden pipes that turn the sea's motion into ambient sound."
+    },
+    {
+      "q": "Is Zadar worth visiting compared to Split or Dubrovnik?",
+      "a": "Yes — it offers real Roman history and unique modern artworks with noticeably fewer crowds than either."
+    },
+    {
+      "q": "How do you get from Zadar Airport to the old town?",
+      "a": "By airport shuttle bus or taxi, taking about 20 to 30 minutes."
+    },
+    {
+      "q": "Is Zadar a good base for day trips?",
+      "a": "Yes — Plitvice Lakes and the Zadar archipelago's islands are both within easy reach."
+    },
+    {
+      "q": "When is the best time to see the Monument to the Sun?",
+      "a": "Right after sunset, when its solar-powered lights begin their nightly display."
+    }
+  ],
+  "related": ["plitvice-lakes", "krka-national-park", "split"],
+  "relatedArticles": ["mediterranean-coasts", "underrated-destinations"]
+}

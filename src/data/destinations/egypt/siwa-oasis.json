@@ -1,0 +1,374 @@
+{
+  "slug": "siwa-oasis",
+  "name": "Siwa Oasis",
+  "country": "egypt",
+  "region": "Matrouh Governorate",
+  "categories": ["desert", "off-the-beaten-path", "culture", "nature"],
+  "tagline": "Egypt's most remote and distinct oasis, a Berber-speaking desert town of mudbrick ruins, salt lakes and olive groves where Alexander the Great once consulted an oracle.",
+  "highlight": "Floating effortlessly in a warm salt lake at sunset, the crumbling towers of Shali's mudbrick old town glowing gold on the horizon.",
+  "shortDescription": "Egypt's most remote and culturally distinct oasis, home to the Oracle Temple of Amun, the ruined mudbrick town of Shali, salt lakes and the Great Sand Sea.",
+  "metaDescription": "A Siwa Oasis travel guide: the Oracle Temple, Shali Fortress, Cleopatra's Spring, salt lakes, the Great Sand Sea, food and how to plan a visit.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Cairo International Airport (CAI), about 8-10 hours by road, or via Marsa Matrouh",
+  "knownFor": "The Oracle Temple, Cleopatra's Spring, the mudbrick Shali Fortress",
+  "budget": "E£1,000–2,000 per day, budget to mid-range",
+  "goodFor": "Off-the-beaten-path travel, culture, desert scenery",
+  "coords": { "lat": 29.2032, "lng": 25.5195 },
+  "image": {
+    "file": "File:Siwa Oasis, Temple of the Oracle of Amun, Egypt.jpg",
+    "alt": "The Temple of the Oracle of Amun in Siwa Oasis"
+  },
+  "intro": [
+    "Siwa Oasis is Egypt's most remote and culturally distinct destination, a Berber-speaking desert town closer to the Libyan border than to the Nile Valley.",
+    "Its history runs deep — Alexander the Great made a famous, gruelling journey here to consult the Oracle of Amun, whose temple ruins still stand above the palm groves.",
+    "Modern Siwa revolves around mudbrick architecture, natural springs and salt lakes, and the vast dunes of the Great Sand Sea rolling away toward Libya."
+  ],
+  "whyVisit": {
+    "intro": "Siwa's case rests on being unlike anywhere else in Egypt, both culturally and geographically.",
+    "points": [
+      {
+        "title": "Siwa is culturally distinct from the rest of Egypt",
+        "text": "A Berber Amazigh community with its own language, dress and traditions."
+      },
+      {
+        "title": "The history here is extraordinary",
+        "text": "Alexander the Great's famous pilgrimage to consult the Oracle of Amun."
+      },
+      {
+        "title": "The mudbrick architecture is unlike anywhere else in Egypt",
+        "text": "Shali's crumbling old town rises straight out of the oasis floor."
+      },
+      {
+        "title": "The natural springs and salt lakes are a real highlight",
+        "text": "Warm, buoyant water framed by palm groves and desert."
+      },
+      {
+        "title": "The Great Sand Sea is right on the doorstep",
+        "text": "Dune safaris and sandboarding roll away toward the Libyan border."
+      }
+    ]
+  },
+  "attractionsIntro": "Siwa's essential sights are spread across its ancient ruins, natural springs and surrounding desert.",
+  "attractions": [
+    {
+      "name": "Shali Fortress",
+      "image": {
+        "file": "File:Shali Fortress00.jpg",
+        "alt": "The ruined mudbrick town of Shali Fortress in Siwa"
+      },
+      "text": "Siwa's dramatic old town, a mudbrick fortress-village largely abandoned after rare heavy rains damaged it in 1926.",
+      "tip": "Climb up at sunset, when the eroded walls glow gold against the sky."
+    },
+    {
+      "name": "Temple of the Oracle of Amun",
+      "image": {
+        "file": "File:Siwa Oasis, Temple of the Oracle of Amun, Egypt.jpg",
+        "alt": "The Temple of the Oracle of Amun in Siwa"
+      },
+      "text": "The site that drew Alexander the Great across the desert, an oracle so respected he had himself declared a son of the god here.",
+      "tip": "Pair the visit with the nearby Temple of Amun's ruins and the view over the palm groves."
+    },
+    {
+      "name": "Cleopatra's Spring (Spring of Juba)",
+      "image": {
+        "file": "File:Cleopatra's Pool - Spring of Juba.jpg",
+        "alt": "Cleopatra's Spring, also known as the Spring of Juba, in Siwa"
+      },
+      "text": "A natural spring-fed pool said to have been visited by Cleopatra herself, still a popular swimming spot today.",
+      "tip": "Modest swimwear is appropriate — this remains a conservative, traditional community."
+    },
+    {
+      "name": "Siwa's salt lakes",
+      "image": {
+        "file": "File:Siwa Salt pools09.jpg",
+        "alt": "Turquoise salt lakes around Siwa Oasis"
+      },
+      "text": "A striking landscape of turquoise pools and white salt crusts scattered around the oasis.",
+      "tip": "Float in one of the lakes — the salt concentration makes sinking almost impossible."
+    },
+    {
+      "name": "The Great Sand Sea",
+      "image": {
+        "file": "File:Great Sand Sea17.jpg",
+        "alt": "The dunes of the Great Sand Sea near Siwa"
+      },
+      "text": "One of the world's largest sand seas, its dunes rolling away toward the Libyan border just beyond Siwa.",
+      "tip": "A 4x4 dune safari is the classic way to experience its scale."
+    },
+    {
+      "name": "Gebel al-Mawta (Mountain of the Dead)",
+      "image": {
+        "file": "File:Mountain of the Dead (Gebel al-Mawta).jpg",
+        "alt": "Gebel al-Mawta, the Mountain of the Dead, in Siwa"
+      },
+      "text": "A small hill honeycombed with painted rock tombs from Siwa's Greco-Roman period.",
+      "tip": "Ask the site guard to unlock the best-preserved tombs, which aren't always open by default."
+    },
+    {
+      "name": "Siwa's olive and date groves",
+      "image": {
+        "file": "File:Siwa Oasis, Houses in the desert, Egypt.jpg",
+        "alt": "Palm groves and desert houses around Siwa Oasis"
+      },
+      "text": "The oasis's economic backbone, dense palm and olive groves fed by hundreds of natural springs.",
+      "tip": "Rent a bicycle to explore the groves' quiet dirt lanes."
+    }
+  ],
+  "thingsToDoIntro": "Siwa rewards a slow, unhurried pace, built around its ruins, springs and surrounding desert.",
+  "thingsToDo": [
+    {
+      "title": "Climb Shali Fortress at sunset",
+      "image": {
+        "file": "File:Shali Fortress11.jpg",
+        "alt": "Shali Fortress at sunset in Siwa"
+      },
+      "text": "An essential Siwa ritual, watching the light turn the old town's mudbrick walls gold.",
+      "tip": "Wear sturdy shoes — the old town's paths are uneven and partly ruined."
+    },
+    {
+      "title": "Swim in Cleopatra's Spring",
+      "image": {
+        "file": "File:Cleopatra Spring in Siwa Oasis.jpg",
+        "alt": "Swimming in Cleopatra's Spring in Siwa"
+      },
+      "text": "A refreshing, easy stop, a natural pool shaded by palms right in the oasis.",
+      "tip": "Quieter early morning or late afternoon, outside the midday tour-group rush."
+    },
+    {
+      "title": "Float in a salt lake",
+      "image": {
+        "file": "File:Siwa Salt pools01.jpg",
+        "alt": "Floating in one of Siwa's salt lakes"
+      },
+      "text": "A novel experience, the water's salinity keeping you effortlessly buoyant.",
+      "tip": "Avoid getting salt water in your eyes, and rinse off with fresh water afterward."
+    },
+    {
+      "title": "Take a 4x4 safari into the Great Sand Sea",
+      "image": {
+        "file": "File:Great Sand Sea8.jpg",
+        "alt": "A 4x4 safari into the Great Sand Sea near Siwa"
+      },
+      "text": "A thrilling half or full day, dune bashing across some of the Sahara's largest sand formations.",
+      "tip": "Book through an experienced local operator familiar with the dunes' terrain."
+    },
+    {
+      "title": "Explore the rock tombs at Gebel al-Mawta",
+      "image": {
+        "file": "File:Mountain of the Dead (Gebel al-Mawta).jpg",
+        "alt": "Rock-cut tombs at Gebel al-Mawta in Siwa"
+      },
+      "text": "A worthwhile stop, painted tombs cut into the hillside from Siwa's Greco-Roman period.",
+      "tip": "A quick visit, easily combined with Shali Fortress in the same afternoon."
+    },
+    {
+      "title": "Cycle through the palm and olive groves",
+      "image": {
+        "file": "File:Siwa Oasis, Western Desert, Egypt.jpg",
+        "alt": "Palm groves on the outskirts of Siwa Oasis"
+      },
+      "text": "A peaceful way to spend an afternoon, pedalling quiet dirt lanes between springs and groves.",
+      "tip": "Rent a bicycle from almost any guesthouse in town."
+    }
+  ],
+  "foodIntro": "Siwa's food reflects its own oasis produce and traditions, distinct from Nile Valley Egyptian cooking.",
+  "foods": [
+    {
+      "name": "Siwan olives and olive oil",
+      "text": "One of Siwa's real exports, olive groves feeding both the oasis's own tables and oil production.",
+      "whereToTry": "Local shops and family-run groves throughout Siwa."
+    },
+    {
+      "name": "Siwan dates",
+      "image": {
+        "file": "File:Sinai palm dates quality.jpg",
+        "alt": "Fresh dates, a Siwa Oasis speciality"
+      },
+      "text": "A Siwa staple, sweet dates grown across the oasis's palm groves.",
+      "whereToTry": "Local shops and market stalls in Siwa town."
+    },
+    {
+      "name": "Siwan bread and tagen",
+      "text": "Traditional Siwan cooking, bread and stews slow-cooked in clay pots.",
+      "whereToTry": "Local guesthouses and family-run restaurants in Siwa town."
+    },
+    {
+      "name": "Koshari",
+      "image": {
+        "file": "File:Egyptian Koshari.jpg",
+        "alt": "Koshari, Egypt's national dish of rice, lentils and pasta"
+      },
+      "text": "Available at restaurants in Siwa town, a familiar staple alongside more local specialities.",
+      "whereToTry": "Restaurants in Siwa town."
+    },
+    {
+      "name": "Ful medames",
+      "image": {
+        "file": "File:Foul Mudames.jpg",
+        "alt": "Ful medames, a traditional Egyptian fava bean breakfast"
+      },
+      "text": "A traditional, hearty breakfast, found at guesthouses throughout Siwa.",
+      "whereToTry": "Guesthouses and cafés in Siwa town."
+    },
+    {
+      "name": "Karkade (hibiscus tea)",
+      "text": "A refreshing national drink, a welcome break after a hot day exploring the oasis.",
+      "whereToTry": "Cafés and guesthouses throughout Siwa."
+    }
+  ],
+  "accommodation": {
+    "intro": "Siwa favours simple, characterful eco-lodges and guesthouses over big hotels, many built from traditional kershef mudbrick.",
+    "areas": [
+      {
+        "name": "Siwa town centre",
+        "bestFor": "Being central and walkable to the market and Shali",
+        "text": "Convenient guesthouses within easy reach of the main sights."
+      },
+      {
+        "name": "Eco-lodges on the oasis outskirts",
+        "bestFor": "A quieter, more atmospheric stay among the palm groves",
+        "text": "Traditional mudbrick architecture set right among the springs and dunes."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "E£400–900 per night" },
+      { "label": "Eco-lodge or boutique stay", "value": "E£1,200–2,500 per night" },
+      { "label": "Full-day Great Sand Sea safari", "value": "About E£1,200–2,000" },
+      { "label": "Dinner at a local restaurant", "value": "About E£150–300 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Siwa is remote, reached by a long but straightforward road journey.",
+    "options": [
+      {
+        "mode": "Bus from Cairo",
+        "text": "The standard route, a long overnight or full-day journey.",
+        "detail": "Takes around nine to eleven hours; overnight buses save a travel day."
+      },
+      {
+        "mode": "Via Marsa Matrouh",
+        "text": "A shorter alternative for those already on the north coast.",
+        "detail": "About four hours by road from Marsa Matrouh to Siwa."
+      },
+      {
+        "mode": "Private car or driver",
+        "text": "A comfortable, flexible option for a small group.",
+        "detail": "Roughly eight hours from Cairo on a well-paved desert road."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Siwa town is small and easy to explore without a car of your own.",
+    "options": [
+      {
+        "mode": "Bicycle",
+        "text": "The classic, most popular way to get around Siwa.",
+        "detail": "Widely available for rent from guesthouses throughout town."
+      },
+      {
+        "mode": "Donkey cart (karetta)",
+        "text": "A traditional, still-common way to get around locally.",
+        "detail": "Easy to arrange for short trips around town or to nearby sites."
+      },
+      {
+        "mode": "4x4 with driver",
+        "text": "Essential for reaching the Great Sand Sea and more remote sites.",
+        "detail": "Arrange through your guesthouse or a local safari operator."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October to April for comfortable desert temperatures",
+    "summary": "Siwa is best visited outside the peak summer heat, when desert days turn extremely hot.",
+    "seasons": [
+      {
+        "season": "Autumn (October–November)",
+        "rating": "best",
+        "text": "Warm, comfortable days and cool nights."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "The most popular season, mild days though cold desert nights."
+      },
+      {
+        "season": "Spring (March–April)",
+        "rating": "good",
+        "text": "Pleasant before summer's full heat sets in."
+      },
+      {
+        "season": "Summer (May–September)",
+        "rating": "avoid",
+        "text": "Extremely hot, often exceeding 40°C during the day."
+      }
+    ],
+    "avoid": "Peak summer (June–August), when daytime desert heat becomes uncomfortable for sightseeing."
+  },
+  "itinerary": {
+    "title": "Three days in Siwa",
+    "intro": "Built around Shali and the Oracle Temple, the springs and salt lakes, and a Great Sand Sea safari.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Shali and the Oracle Temple",
+        "summary": "Arrival and Siwa's historic core.",
+        "morning": "Arrive in Siwa and settle in.",
+        "afternoon": "Explore Shali Fortress and the Temple of the Oracle of Amun.",
+        "evening": "Dinner in Siwa town."
+      },
+      {
+        "day": 2,
+        "title": "Springs and salt lakes",
+        "summary": "A day of swimming and relaxing around the oasis.",
+        "morning": "Visit Cleopatra's Spring.",
+        "afternoon": "Float in one of Siwa's salt lakes.",
+        "evening": "Sunset from Shali's ramparts."
+      },
+      {
+        "day": 3,
+        "title": "The Great Sand Sea",
+        "summary": "A full-day 4x4 desert safari.",
+        "morning": "Set off by 4x4 into the Great Sand Sea.",
+        "afternoon": "Dune bashing, sandboarding and a desert lunch stop.",
+        "evening": "Final dinner back in Siwa town."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Siwa visit noticeably smoother.",
+  "tips": [
+    "Dress modestly — Siwa is a conservative, traditional community, more so than Cairo or the Red Sea resorts.",
+    "Carry cash — Siwa has very limited card acceptance and few ATMs.",
+    "Book a Great Sand Sea safari through a reputable local guide.",
+    "Pack for cold desert nights, even if the day has been hot.",
+    "Bring a good book or two — Siwa's real pleasure is its slow pace.",
+    "Respect local customs around photographing Siwan women without permission."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Siwa?",
+      "a": "Two to three days covers the main sights, though the journey itself makes a longer stay worthwhile."
+    },
+    {
+      "q": "How do you get to Siwa?",
+      "a": "By long-distance bus from Cairo, or a shorter road trip via Marsa Matrouh on the north coast."
+    },
+    {
+      "q": "Is Siwa worth the long journey?",
+      "a": "Yes — its culture, ruins and landscape are unlike anywhere else in Egypt."
+    },
+    {
+      "q": "What language is spoken in Siwa?",
+      "a": "Siwan, a Berber (Amazigh) language distinct from Egyptian Arabic, though Arabic is widely understood."
+    },
+    {
+      "q": "Can you combine Siwa with the White Desert?",
+      "a": "It's possible but demanding — the two sit on opposite sides of the Western Desert, so most visitors choose one or budget significant extra travel time for both."
+    },
+    {
+      "q": "Is Siwa safe to visit?",
+      "a": "Yes — Siwa is a well-established, welcoming destination, though it sits in a border region, so it's worth checking current travel advice before an independent trip."
+    }
+  ],
+  "related": ["white-desert-bahariya", "cairo-giza", "alexandria"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

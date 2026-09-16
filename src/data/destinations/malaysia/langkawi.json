@@ -1,0 +1,345 @@
+{
+  "slug": "langkawi",
+  "name": "Langkawi",
+  "country": "malaysia",
+  "region": "Kedah",
+  "categories": ["beach", "island", "nature", "resort"],
+  "tagline": "A duty-free archipelago of 99 islands, where a cable car climbs into rainforest above beach resorts and mangrove waterways.",
+  "highlight": "Crossing the curved Sky Bridge at the top of the Langkawi cable car, rainforest and the Andaman Sea stretching out on either side.",
+  "shortDescription": "An archipelago off Peninsular Malaysia's northwest coast, known for beach resorts, a dramatic cable car and mangrove wildlife tours.",
+  "metaDescription": "A Langkawi travel guide: the Langkawi Sky Cab and Sky Bridge, Pantai Cenang beach, mangrove tours and how to plan a visit.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "Langkawi International Airport (LGK), on the island itself",
+  "knownFor": "The Langkawi Sky Cab, Pantai Cenang beach, duty-free shopping",
+  "budget": "RM150-400 per day, budget to upscale resort",
+  "goodFor": "Beach relaxation, family trips, island scenery",
+  "coords": { "lat": 6.35, "lng": 99.8 },
+  "image": {
+    "file": "File:Pantai Cenang, Langkawi 01.jpg",
+    "alt": "Pantai Cenang beach in Langkawi"
+  },
+  "intro": [
+    "Langkawi is an archipelago of 99 islands off Peninsular Malaysia's northwest coast, its main island built around beach resorts, duty-free shopping and a dramatic cable car into the rainforest.",
+    "Unlike the Perhentian Islands further down the east coast, Langkawi sits on the calmer west coast and stays open year-round, making it Malaysia's most reliable island destination for a short trip.",
+    "Beyond the beaches, it holds a varied landscape for an island this size — limestone karsts, mangrove waterways and rainforest-covered peaks all within a short drive of each other."
+  ],
+  "whyVisit": {
+    "intro": "Langkawi's case rests on combining reliable beach resort infrastructure with real natural variety, not just sand and sun.",
+    "points": [
+      {
+        "title": "It's open and accessible year-round",
+        "text": "Sitting on the calmer west coast, Langkawi avoids the northeast monsoon that closes the east coast islands."
+      },
+      {
+        "title": "The cable car is a genuine standout",
+        "text": "Climbing to a curved Sky Bridge suspended above the rainforest, among the most dramatic viewpoints in Malaysia."
+      },
+      {
+        "title": "The mangroves add real ecological variety",
+        "text": "Kilim Geoforest Park's waterways are a different Langkawi entirely from its beach resorts."
+      },
+      {
+        "title": "It's duty-free",
+        "text": "A practical bonus for chocolate, alcohol and souvenir shopping alongside the scenery."
+      },
+      {
+        "title": "It suits a slower pace",
+        "text": "Resort infrastructure is well developed enough that Langkawi works as a genuine relaxation stop, not just a sightseeing checklist."
+      }
+    ]
+  },
+  "attractionsIntro": "Langkawi's essential sights combine its beaches with the island's more dramatic natural features inland.",
+  "attractions": [
+    {
+      "name": "The Langkawi Sky Cab and Sky Bridge",
+      "image": {
+        "file": "File:View of Langkawi Cable Car Top Station from Sky Bridge.JPG",
+        "alt": "The Langkawi Sky Bridge and cable car top station"
+      },
+      "text": "A cable car climbs to a curved pedestrian bridge suspended above the rainforest, with sweeping views over the island and sea.",
+      "tip": "Go early morning for the clearest views — cloud cover often rolls in by early afternoon."
+    },
+    {
+      "name": "Pantai Cenang beach",
+      "image": {
+        "file": "File:Pantai Cenang, Langkawi 01.jpg",
+        "alt": "Pantai Cenang, Langkawi's main beach"
+      },
+      "text": "Langkawi's busiest and most developed beach, lined with resorts, bars and water sports operators.",
+      "tip": "Sunset here is excellent — stake out a beach bar spot with time to spare."
+    },
+    {
+      "name": "Eagle Square (Dataran Lang)",
+      "image": {
+        "file": "File:Eagle square at Kuah Langkawi.jpg",
+        "alt": "Eagle Square in Kuah, Langkawi"
+      },
+      "text": "A giant eagle statue in Kuah town, referencing the legend behind Langkawi's name.",
+      "tip": "A quick stop rather than a destination in itself — combine with ferry terminal transfers or duty-free shopping nearby."
+    },
+    {
+      "name": "Kilim Geoforest Park",
+      "image": {
+        "file": "File:Kilim Geoforest Park, Langkawi.jpg",
+        "alt": "Mangrove waterways in Kilim Geoforest Park, Langkawi"
+      },
+      "text": "A mangrove reserve on the island's northeast coast, explored by boat past limestone cliffs and wildlife.",
+      "tip": "Boat tours typically include eagle-feeding and a stop at a floating fish farm restaurant."
+    },
+    {
+      "name": "Telaga Tujuh waterfall",
+      "image": {
+        "file": "File:Telaga tujoh waterfalls!.jpg",
+        "alt": "Telaga Tujuh, Langkawi's seven-step waterfall"
+      },
+      "text": "A seven-tiered waterfall inland, with natural rock pools at several levels for swimming.",
+      "tip": "Visit after rain for the strongest flow — the falls can run low in the dry season."
+    },
+    {
+      "name": "Gunung Mat Cincang",
+      "text": "The island's second-highest peak, the mountain the cable car climbs, covered in ancient rainforest.",
+      "tip": "The cable car is by far the easiest way to experience it — serious hiking trails here are limited."
+    },
+    {
+      "name": "Langkawi's coastline and smaller islands",
+      "image": {
+        "file": "File:Langkawi Island (22116706554).jpg",
+        "alt": "The coastline of Langkawi"
+      },
+      "text": "Beyond the main island, dozens of smaller islands are reachable on day-trip boat tours.",
+      "tip": "Island-hopping tours typically include a stop at Pulau Dayang Bunting's freshwater lake."
+    }
+  ],
+  "thingsToDoIntro": "Langkawi mixes beach time with boat trips and one dramatic cable car ride.",
+  "thingsToDo": [
+    {
+      "title": "Ride the Sky Cab to the Sky Bridge",
+      "text": "The island's signature experience, climbing steeply into rainforest before crossing the curved bridge itself.",
+      "tip": "Buy tickets online in advance to skip the queue at the base station."
+    },
+    {
+      "title": "Take a Kilim Geoforest Park mangrove tour",
+      "image": {
+        "file": "File:Langkawi Mangrove Forest.jpg",
+        "alt": "A mangrove tour boat in Langkawi"
+      },
+      "text": "A boat tour through mangrove channels, past limestone cliffs, eagles and the occasional monkey troop.",
+      "tip": "Morning tours generally offer calmer water and better wildlife sightings."
+    },
+    {
+      "title": "Spot Langkawi's white-bellied sea eagles",
+      "image": {
+        "file": "File:White-Bellied Sea Eagle Langkawi.jpg",
+        "alt": "A white-bellied sea eagle in Langkawi"
+      },
+      "text": "The eagle the island is named for is still a common sight, especially around Kilim's mangroves.",
+      "tip": "Bring a zoom lens if photography is a priority — eagles keep their distance."
+    },
+    {
+      "title": "Swim at Telaga Tujuh's rock pools",
+      "text": "A short hike from the car park leads to natural pools at the base of the seven-step waterfall.",
+      "tip": "Footwear with grip helps — the rocks around the pools can be slippery."
+    },
+    {
+      "title": "Island-hop by boat",
+      "text": "Day tours reach smaller islands, including Pulau Dayang Bunting's landlocked freshwater lake.",
+      "tip": "Book through your resort or a reputable local operator rather than beach touts."
+    },
+    {
+      "title": "Watch sunset from a Pantai Cenang beach bar",
+      "text": "A relaxed way to end a day, with several beachfront bars set up specifically for the view.",
+      "tip": "Arrive with enough time to find a good spot before the crowds build."
+    }
+  ],
+  "foodIntro": "Langkawi's food mixes standard Malaysian staples with fresh seafood and an international resort dining scene.",
+  "foods": [
+    {
+      "name": "Grilled fresh seafood",
+      "text": "Fish, prawns and squid grilled simply, widely available at beachfront restaurants.",
+      "whereToTry": "Restaurants along Pantai Cenang and Kuah's waterfront."
+    },
+    {
+      "name": "Nasi lemak",
+      "image": {
+        "file": "File:Nasi Lemak Pandan.jpg",
+        "alt": "Nasi lemak served with sambal"
+      },
+      "text": "Malaysia's coconut rice staple, found on breakfast menus across the island.",
+      "whereToTry": "Local restaurants and resort breakfast buffets alike."
+    },
+    {
+      "name": "Satay",
+      "image": {
+        "file": "File:Satay Senibong.jpg",
+        "alt": "Grilled satay skewers"
+      },
+      "text": "Grilled meat skewers with peanut sauce, a reliable night market and restaurant staple.",
+      "whereToTry": "Night markets in Kuah and along the main tourist strips."
+    },
+    {
+      "name": "Laksa",
+      "text": "Noodle soup in various regional styles, found on most local restaurant menus.",
+      "whereToTry": "Local kedai kopi and restaurants across the island."
+    },
+    {
+      "name": "Fresh tropical fruit",
+      "text": "Langkawi's markets sell excellent mango, rambutan and dragon fruit in season.",
+      "whereToTry": "Local markets and roadside fruit stalls."
+    },
+    {
+      "name": "Duty-free chocolate and snacks",
+      "text": "A distinctly Langkawi souvenir, thanks to the island's duty-free status.",
+      "whereToTry": "Duty-free shops in Kuah and near the airport."
+    }
+  ],
+  "accommodation": {
+    "intro": "Langkawi's accommodation ranges from budget guesthouses to high-end resorts, concentrated around a handful of beach areas.",
+    "areas": [
+      {
+        "name": "Pantai Cenang",
+        "bestFor": "Nightlife, restaurants and easy beach access",
+        "text": "The island's busiest and most developed beach area."
+      },
+      {
+        "name": "Datai Bay",
+        "bestFor": "Quiet, high-end luxury resorts",
+        "text": "A secluded rainforest-backed bay on the island's northwest, home to some of Malaysia's most exclusive resorts."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "RM60–120 per night" },
+      { "label": "Mid-range beach resort", "value": "RM250–500 per night" },
+      { "label": "Luxury resort", "value": "RM800+ per night" },
+      { "label": "Dinner at a beachfront restaurant", "value": "RM30–70 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Langkawi is reached by air or ferry, with no bridge or causeway connecting it to the mainland.",
+    "options": [
+      {
+        "mode": "Fly into Langkawi International Airport",
+        "text": "The fastest option, with frequent flights from Kuala Lumpur and Penang.",
+        "detail": "The airport sits on the island itself, a short transfer from most resorts."
+      },
+      {
+        "mode": "Ferry from Penang or Kuala Kedah",
+        "text": "A scenic alternative, taking around 1.5–3 hours depending on the departure point.",
+        "detail": "A practical way to combine Langkawi with a Penang visit without flying."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A rental car or scooter offers the most flexibility for exploring an island this spread out.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The most flexible option for reaching the cable car, waterfalls and Kilim Geoforest Park.",
+        "detail": "Roads are generally in good condition and traffic is light outside Kuah town."
+      },
+      {
+        "mode": "Scooter rental",
+        "text": "A popular budget option, widely available near Pantai Cenang.",
+        "detail": "Suits shorter trips better than a full day of island touring."
+      },
+      {
+        "mode": "Resort shuttles and taxis",
+        "text": "Convenient for specific trips like the cable car or airport transfers.",
+        "detail": "Less flexible and considerably pricier than renting your own transport."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December to April for the driest, calmest weather",
+    "summary": "Sitting on the west coast, Langkawi stays open year-round, though some months are notably better than others.",
+    "seasons": [
+      {
+        "season": "December–April",
+        "rating": "best",
+        "text": "Generally dry with calm seas, the most reliable window for a beach-focused trip."
+      },
+      {
+        "season": "May–July",
+        "rating": "good",
+        "text": "Still warm and mostly dry, with occasional afternoon showers."
+      },
+      {
+        "season": "August–October",
+        "rating": "okay",
+        "text": "The wettest stretch of the year, with more frequent rain and rougher seas."
+      },
+      {
+        "season": "November",
+        "rating": "okay",
+        "text": "A transitional month as the wetter season eases."
+      }
+    ],
+    "avoid": "Nothing strongly — Langkawi's west coast location keeps it workable year-round, with August to October simply the wettest window."
+  },
+  "itinerary": {
+    "title": "Three days in Langkawi",
+    "intro": "Built around the cable car, a mangrove tour and genuine beach time.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival and the beach",
+        "summary": "Settling in on Pantai Cenang.",
+        "morning": "Arrive and check in to your resort.",
+        "afternoon": "Relax on Pantai Cenang beach.",
+        "evening": "Sunset drinks at a beachfront bar."
+      },
+      {
+        "day": 2,
+        "title": "The Sky Cab and Sky Bridge",
+        "summary": "The island's signature cable car experience.",
+        "morning": "Ride the Langkawi Sky Cab to the Sky Bridge.",
+        "afternoon": "Visit Telaga Tujuh waterfall on the way back down.",
+        "evening": "Dinner in Kuah or back at Pantai Cenang."
+      },
+      {
+        "day": 3,
+        "title": "Mangroves and departure",
+        "summary": "A boat tour through Kilim Geoforest Park.",
+        "morning": "Take a Kilim Geoforest Park mangrove tour.",
+        "afternoon": "Last-minute duty-free shopping or beach time.",
+        "evening": "Depart or continue to the next stop."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Langkawi visit noticeably smoother.",
+  "tips": [
+    "Book Sky Cab tickets online ahead, especially for morning slots with the clearest views.",
+    "Rent a car or scooter if your itinerary goes beyond Pantai Cenang's beach.",
+    "Take advantage of duty-free shopping for chocolate, alcohol and souvenirs.",
+    "Book mangrove tours through your resort or a reputable operator.",
+    "Pack reef-safe sunscreen if you plan on swimming or snorkelling.",
+    "Check the weather before a cable car visit — the ride can close in high wind."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Langkawi?",
+      "a": "Three to four days covers the cable car, a mangrove tour and genuine beach relaxation comfortably."
+    },
+    {
+      "q": "Is Langkawi better than the Perhentian Islands?",
+      "a": "They serve different purposes — Langkawi has more resort infrastructure and stays open year-round, while the Perhentians suit divers and a simpler backpacker pace."
+    },
+    {
+      "q": "Do you need a car in Langkawi?",
+      "a": "Not essential, but useful — the island's attractions are spread out beyond walking distance of most resorts."
+    },
+    {
+      "q": "Is Langkawi duty-free?",
+      "a": "Yes, the whole island holds duty-free status, making it popular for chocolate, alcohol and souvenir shopping."
+    },
+    {
+      "q": "When is Langkawi's best weather?",
+      "a": "December through April offers the driest, calmest conditions, though the island stays open year-round."
+    },
+    {
+      "q": "Can you day-trip to Langkawi from Penang?",
+      "a": "It's possible by ferry, but the island rewards at least a two-to-three-night stay rather than a rushed day trip."
+    }
+  ],
+  "related": ["penang", "kuala-lumpur", "perhentian-islands"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

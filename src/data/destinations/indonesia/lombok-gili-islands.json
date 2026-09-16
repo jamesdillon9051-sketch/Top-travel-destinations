@@ -1,0 +1,383 @@
+{
+  "slug": "lombok-gili-islands",
+  "name": "Lombok & the Gili Islands",
+  "country": "indonesia",
+  "region": "West Nusa Tenggara",
+  "categories": ["beaches", "island", "hiking", "diving"],
+  "tagline": "Bali's quieter neighbour — car-free islands, an active volcano and a distinct Sasak culture, just a short boat ride away.",
+  "highlight": "Watching the sun set behind Bali's volcanoes from a Gili Trawangan beach bar, no cars or scooters anywhere in earshot.",
+  "shortDescription": "A quieter alternative to Bali, home to three car-free Gili Islands, the trekking peak of Mount Rinjani and a distinct Sasak culture.",
+  "metaDescription": "A Lombok and Gili Islands travel guide: Gili Trawangan, Gili Air, Gili Meno, Mount Rinjani, Sasak culture and how to plan a trip beyond Bali.",
+  "suggestedStay": "3-5 days",
+  "nearestAirport": "Lombok International Airport (LOP)",
+  "knownFor": "Car-free islands, Mount Rinjani, quieter beaches than Bali",
+  "budget": "Rp 400,000–1,200,000 per day, mid-range",
+  "goodFor": "Beaches, diving, trekking, a quieter alternative to Bali",
+  "coords": { "lat": -8.3496, "lng": 116.0420 },
+  "image": {
+    "file": "File:Gili Trawangan Island, Trees, Sunset, Indonesia.jpg",
+    "alt": "Palm trees at sunset on Gili Trawangan island"
+  },
+  "intro": [
+    "Lombok sits just a short boat ride from Bali, but feels like a different island in every meaningful way — quieter beaches, a distinct Sasak culture, and an active volcano, Mount Rinjani, that draws serious trekkers rather than day-trippers.",
+    "Its genuine headline draw for most visitors is the three Gili Islands off Lombok's northwest coast — Gili Trawangan, Gili Air and Gili Meno — all car-free, with horse carts and bicycles the only transport and a pace of life noticeably slower than Bali's coast.",
+    "The three Gilis each have distinct characters despite their small size and close proximity: Trawangan is the liveliest, with nightlife and dive shops; Air sits in the middle, popular with a slightly older crowd; and Meno is the quietest, favoured for its near-total lack of development."
+  ],
+  "whyVisit": {
+    "intro": "Lombok and the Gilis' case rests on offering Bali's beach appeal with a slower, quieter pace.",
+    "points": [
+      {
+        "title": "The Gili Islands are car-free",
+        "text": "No cars or scooters anywhere — horse carts and bicycles are the only transport, and the pace shows it."
+      },
+      {
+        "title": "It's quieter and less developed than Bali",
+        "text": "The same tropical island appeal, with noticeably fewer crowds outside Gili Trawangan's busier strip."
+      },
+      {
+        "title": "Mount Rinjani is a serious trekking destination",
+        "text": "Indonesia's second-highest volcano, with a multi-day trek to a stunning crater lake."
+      },
+      {
+        "title": "Sasak culture is distinct from Bali's Hindu traditions",
+        "text": "Predominantly Muslim, with its own architecture, weaving and village traditions worth exploring."
+      },
+      {
+        "title": "The diving and snorkelling are excellent",
+        "text": "Sea turtles are a near-guaranteed sighting around all three Gili Islands."
+      }
+    ]
+  },
+  "attractionsIntro": "Lombok and the Gilis' essential sights span three distinct islands plus the mainland's volcano and villages.",
+  "attractions": [
+    {
+      "name": "Gili Trawangan",
+      "image": {
+        "file": "File:Gili Trawangan Island, Trees, Sunset, Indonesia.jpg",
+        "alt": "Palm trees at sunset on Gili Trawangan"
+      },
+      "text": "The largest and liveliest of the three Gilis, with beach bars, dive shops and a lap-the-island cycle route.",
+      "tip": "Rent a bicycle to circle the whole island — it takes about an hour at an easy pace."
+    },
+    {
+      "name": "Gili Air",
+      "image": {
+        "file": "File:Gili Air Island - panoramio.jpg",
+        "alt": "The beach and palm trees of Gili Air island"
+      },
+      "text": "A relaxed middle ground between Trawangan's energy and Meno's quiet, popular with a slightly older, more low-key crowd.",
+      "tip": "Gili Air's east coast has some of the best snorkelling right off the beach."
+    },
+    {
+      "name": "Gili Meno",
+      "image": {
+        "file": "File:Beach, Gili Meno Island, Indonesia.jpg",
+        "alt": "A quiet beach on Gili Meno island"
+      },
+      "text": "The quietest and least developed of the three, with a small population and a real sense of escape.",
+      "tip": "The whole island can be walked in under two hours — a good half-day trip from Trawangan or Air."
+    },
+    {
+      "name": "Mount Rinjani",
+      "image": {
+        "file": "File:Gunung Rinjani dari Jalur Sembalun.jpg",
+        "alt": "Mount Rinjani, Indonesia's second-highest volcano, in Lombok"
+      },
+      "text": "Indonesia's second-highest volcano, its summit trek passing a stunning crescent-shaped crater lake, Segara Anak.",
+      "tip": "The full summit trek takes two to three days — book a licensed guide well ahead."
+    },
+    {
+      "name": "Kuta Lombok",
+      "image": {
+        "file": "File:Kuta Beach Lombok 4.JPG",
+        "alt": "The beach at Kuta, a surf town in southern Lombok"
+      },
+      "text": "A different Kuta from Bali's, a laid-back surf town in southern Lombok with dramatic hills and quieter beaches.",
+      "tip": "Don't confuse it with Bali's Kuta when booking — double-check which island your accommodation is on."
+    },
+    {
+      "name": "Sade Traditional Sasak Village",
+      "image": {
+        "file": "File:Traditional Sasak Village Sade houses.JPG",
+        "alt": "Traditional thatched houses in Sade, a Sasak village in Lombok"
+      },
+      "text": "A still-inhabited traditional village, its thatched houses and rice barns built in centuries-old Sasak style.",
+      "tip": "A small entry donation is customary, and local guides offer short tours around the village."
+    },
+    {
+      "name": "Tiu Kelep Waterfall",
+      "image": {
+        "file": "File:Aik Kelep.jpg",
+        "alt": "Tiu Kelep waterfall in the hills of northern Lombok"
+      },
+      "text": "A rewarding waterfall reached by a scenic riverside walk through Lombok's northern hills.",
+      "tip": "The walk involves several river crossings — wear shoes you don't mind getting wet."
+    }
+  ],
+  "thingsToDoIntro": "Lombok and the Gilis reward a relaxed pace, mixing island time with one or two more active days.",
+  "thingsToDo": [
+    {
+      "title": "Snorkel with sea turtles",
+      "image": {
+        "file": "File:Curious Turtle A Curtle (225008535).jpeg",
+        "alt": "A sea turtle swimming near a snorkeller"
+      },
+      "text": "A near-guaranteed encounter around all three Gili Islands, with turtles regularly spotted just off the beach.",
+      "tip": "Give turtles plenty of space — they're protected, and getting too close disturbs their feeding."
+    },
+    {
+      "title": "Trek Mount Rinjani",
+      "image": {
+        "file": "File:Jalanan ke arah sembalun di kawasan TN Gunung Rinjani 02.jpg",
+        "alt": "The trekking trail toward Mount Rinjani's summit"
+      },
+      "text": "A serious multi-day trek for those wanting more than a beach holiday, ending at a spectacular crater lake.",
+      "tip": "Book a licensed guide and porter through an established trekking operator, not independently."
+    },
+    {
+      "title": "Island-hop between the three Gilis",
+      "image": {
+        "file": "File:Gili Islands, Brigantine, Bali Sea, Indonesia.jpg",
+        "alt": "A boat sailing between the Gili Islands"
+      },
+      "text": "An easy way to compare all three islands' distinct characters in a single day using the public boat service.",
+      "tip": "The public boats are far cheaper than chartering a private one between islands."
+    },
+    {
+      "title": "Cycle around car-free Gili Trawangan",
+      "image": {
+        "file": "File:Beach - Gili Trawangan (16950555226).jpg",
+        "alt": "The beach path around Gili Trawangan, free of cars"
+      },
+      "text": "A pleasant way to see the whole island, with no traffic to contend with anywhere on the loop.",
+      "tip": "Start in late afternoon to catch the island's famous sunset from the west side."
+    },
+    {
+      "title": "Watch traditional weaving at Sade Village",
+      "image": {
+        "file": "File:Tenun Ikat Lombok Traditional Sasak Village Sade.JPG",
+        "alt": "Traditional ikat weaving demonstrated at Sade village"
+      },
+      "text": "A fascinating look at traditional Sasak ikat weaving, still practised by hand in the village today.",
+      "tip": "Handwoven textiles here make a far more authentic souvenir than mass-produced market versions."
+    },
+    {
+      "title": "Surf at Kuta Lombok's beaches",
+      "image": {
+        "file": "File:Kuta Beach Lombok 6.JPG",
+        "alt": "Surfers at a beach near Kuta, Lombok"
+      },
+      "text": "A less crowded surf scene than Bali's south coast, with several breaks suited to intermediate and advanced surfers.",
+      "tip": "Selong Belanak, nearby, offers gentler waves better suited to beginners."
+    }
+  ],
+  "foodIntro": "Lombok's food is famous for its heat — Sasak cuisine runs noticeably spicier than Bali's or Java's.",
+  "foods": [
+    {
+      "name": "Ayam Taliwang",
+      "image": {
+        "file": "File:Ayam bakar khas Taliwang.JPG",
+        "alt": "Ayam Taliwang, Lombok's spicy grilled chicken"
+      },
+      "text": "Lombok's signature dish, chicken grilled or fried and coated in a fiery chili sambal, named after a district in Mataram.",
+      "whereToTry": "Warungs throughout Lombok, especially around Mataram."
+    },
+    {
+      "name": "Plecing kangkung",
+      "image": {
+        "file": "File:Pelecing kangkung Lombok.JPG",
+        "alt": "Plecing kangkung, a spicy Lombok water spinach salad"
+      },
+      "text": "An essential Lombok side dish, blanched water spinach tossed in a raw chili and tomato sambal.",
+      "whereToTry": "Warungs alongside Ayam Taliwang throughout Lombok."
+    },
+    {
+      "name": "Seafood barbecue on the Gilis",
+      "image": {
+        "file": "File:Ikan bakar.JPG",
+        "alt": "Grilled seafood served on an Indonesian beach"
+      },
+      "text": "An essential Gili evening ritual, fresh catch grilled beachside and served with rice and sambal as the sun sets.",
+      "whereToTry": "Beachfront warungs on Gili Trawangan and Gili Air."
+    },
+    {
+      "name": "Fresh coconut",
+      "text": "An essential beach drink across all three Gilis, served straight from the shell.",
+      "whereToTry": "Beach vendors throughout the Gili Islands."
+    },
+    {
+      "name": "Nasi goreng",
+      "image": {
+        "file": "File:Nasi goreng istimewa.JPG",
+        "alt": "A plate of nasi goreng, Indonesian fried rice, topped with a fried egg"
+      },
+      "text": "A reliable, familiar option at warungs across Lombok and the Gilis alike.",
+      "whereToTry": "Warungs throughout Lombok and the Gili Islands."
+    },
+    {
+      "name": "Local Lombok coffee",
+      "text": "Grown on Lombok's volcanic slopes, served strong and traditionally unfiltered at village warungs.",
+      "whereToTry": "Warungs in Mataram and around Mount Rinjani's trailheads."
+    }
+  ],
+  "accommodation": {
+    "intro": "Accommodation varies widely by island — Trawangan has the most choice, Meno the least development.",
+    "areas": [
+      {
+        "name": "Gili Trawangan",
+        "bestFor": "The widest choice of hotels, dive shops and nightlife",
+        "text": "The busiest and most developed of the three islands."
+      },
+      {
+        "name": "Gili Air",
+        "bestFor": "A genuine balance of amenities and quiet",
+        "text": "Fewer crowds than Trawangan, with a still-solid range of guesthouses and restaurants."
+      },
+      {
+        "name": "Gili Meno",
+        "bestFor": "Genuine peace and quiet above all else",
+        "text": "The least developed island, with only a handful of low-key places to stay."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse (Gili Islands)", "value": "Rp 200,000–500,000 per night" },
+      { "label": "Mid-range beach bungalow", "value": "Rp 600,000–1,500,000 per night" },
+      { "label": "Mount Rinjani trek (2-3 days, guided)", "value": "Rp 2,500,000–4,000,000" },
+      { "label": "Public boat between Gilis", "value": "About Rp 20,000–40,000" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Lombok is reached directly by air, with the Gilis a short further boat ride away.",
+    "options": [
+      {
+        "mode": "Direct flight to Lombok",
+        "text": "Available from Bali, Jakarta and other major Indonesian cities.",
+        "detail": "Lombok International Airport sits in the island's south."
+      },
+      {
+        "mode": "Fast boat from Bali",
+        "text": "A popular direct option connecting Bali to the Gili Islands without going via mainland Lombok.",
+        "detail": "Crossings take about 1.5-2.5 hours depending on the operator and departure point."
+      },
+      {
+        "mode": "Public boat from Bangsal, Lombok",
+        "text": "The cheapest way to reach the Gilis from mainland Lombok.",
+        "detail": "Short crossings of 15-30 minutes to each of the three islands."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The Gilis are car-free, while Lombok itself requires more conventional transport.",
+    "options": [
+      {
+        "mode": "Bicycle or horse cart (Gilis)",
+        "text": "The only motorised-free transport options on all three Gili Islands.",
+        "detail": "Bicycles can be rented cheaply at guesthouses throughout the islands."
+      },
+      {
+        "mode": "Scooter or car rental (Lombok)",
+        "text": "The standard way to explore mainland Lombok's beaches and villages.",
+        "detail": "An international driving permit is required and increasingly enforced."
+      },
+      {
+        "mode": "Public or chartered boats (between islands)",
+        "text": "Necessary for moving between the Gilis and mainland Lombok.",
+        "detail": "Public boats run scheduled routes; charters offer more flexibility at higher cost."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April to October for the driest weather and clearest diving conditions",
+    "summary": "Dry season brings the most reliable weather for both beach time and the Rinjani trek, which closes entirely in the wettest months.",
+    "seasons": [
+      {
+        "season": "Dry season (April–October)",
+        "rating": "best",
+        "text": "The most reliable weather, and the only season Mount Rinjani's trekking routes are open."
+      },
+      {
+        "season": "Shoulder months (April, October)",
+        "rating": "good",
+        "text": "Good weather odds with somewhat thinner crowds than peak season."
+      },
+      {
+        "season": "Wet season (November–March)",
+        "rating": "good",
+        "text": "Still workable for the Gili Islands, though Rinjani's trekking routes close for safety."
+      },
+      {
+        "season": "Peak season (July–August)",
+        "rating": "good",
+        "text": "The busiest time on Gili Trawangan specifically, worth booking accommodation ahead for."
+      }
+    ],
+    "avoid": "Mount Rinjani's trekking routes close entirely from around January to March for safety during the wettest months."
+  },
+  "itinerary": {
+    "title": "Three days in the Gili Islands",
+    "intro": "Built around sampling all three islands' distinct characters plus a Lombok mainland day.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Gili Trawangan",
+        "summary": "Arrival and the liveliest of the three islands.",
+        "morning": "Boat from Bali or Bangsal to Gili Trawangan.",
+        "afternoon": "Cycle the island's loop road.",
+        "evening": "Sunset drinks on the west side of the island."
+      },
+      {
+        "day": 2,
+        "title": "Gili Meno and Gili Air",
+        "summary": "A quieter contrast to Trawangan's energy.",
+        "morning": "Boat to Gili Meno for a peaceful morning.",
+        "afternoon": "Continue to Gili Air for the afternoon.",
+        "evening": "Dinner on Gili Air before returning to Trawangan."
+      },
+      {
+        "day": 3,
+        "title": "Lombok mainland",
+        "summary": "Sasak culture and a waterfall on the mainland.",
+        "morning": "Boat back to Lombok and visit Sade Village.",
+        "afternoon": "Tiu Kelep Waterfall.",
+        "evening": "Onward travel or a final night in Lombok."
+      }
+    ]
+  },
+  "tipsIntro": "A handful of practical notes make a Lombok and Gili trip go more smoothly.",
+  "tips": [
+    "Book a licensed guide well ahead for any Mount Rinjani trek.",
+    "Bring cash to the Gilis — ATMs are limited and unreliable, especially on Meno.",
+    "Pack reef-safe sunscreen for snorkelling around the islands.",
+    "Confirm which Kuta your accommodation means when booking — Bali and Lombok both have one.",
+    "Rent a bicycle rather than walking if exploring all of Gili Trawangan in one day.",
+    "Dress modestly when visiting Sade Village and other Sasak communities."
+  ],
+  "faq": [
+    {
+      "q": "Which Gili Island should I choose?",
+      "a": "Trawangan for nightlife and dive shops, Air for a quieter middle ground, and Meno for genuine peace and minimal development."
+    },
+    {
+      "q": "How do you get to the Gili Islands?",
+      "a": "By fast boat direct from Bali, or via a short boat crossing from Bangsal on mainland Lombok."
+    },
+    {
+      "q": "Is Mount Rinjani difficult to climb?",
+      "a": "Yes, a serious multi-day trek requiring real fitness and a licensed guide — not a casual day hike."
+    },
+    {
+      "q": "Are the Gili Islands really car-free?",
+      "a": "Yes — no cars or motorbikes are permitted on any of the three islands, only bicycles and horse carts."
+    },
+    {
+      "q": "How many days do you need for Lombok and the Gilis?",
+      "a": "Three to five days covers the Gili Islands comfortably; add two to three more for the Rinjani trek."
+    },
+    {
+      "q": "Is Lombok safe to visit?",
+      "a": "Yes, safe overall, with the same sensible precautions as anywhere in Indonesia — Sasak Muslim culture is welcoming to respectful visitors."
+    }
+  ],
+  "related": ["seminyak-kuta", "komodo-flores", "raja-ampat"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

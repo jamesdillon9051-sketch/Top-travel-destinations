@@ -1,0 +1,370 @@
+{
+  "slug": "split",
+  "name": "Split",
+  "country": "croatia",
+  "region": "Dalmatia",
+  "categories": ["historic", "unesco", "coastal", "major-city"],
+  "tagline": "A 1,700-year-old Roman emperor's palace that never stopped being a living city, its ancient walls now filled with homes, cafés and a cathedral built from his own mausoleum.",
+  "highlight": "Sitting for a coffee in the Peristyle at dusk, Roman columns and a sphinx from Luxor lit up exactly where Diocletian once held court.",
+  "shortDescription": "A 1,700-year-old Roman emperor's palace that never stopped being a living city, Croatia's second city and the main gateway to the Dalmatian islands.",
+  "metaDescription": "A Split travel guide: Diocletian's Palace, the Peristyle, the Riva promenade, Marjan Hill, food and how to plan a visit to Croatia's Dalmatian hub.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Split Airport (SPU)",
+  "knownFor": "Diocletian's Palace, the Riva promenade, Marjan Hill",
+  "budget": "€100–200 per day, mid-range",
+  "goodFor": "History, beaches, island-hopping base",
+  "coords": { "lat": 43.5081, "lng": 16.4402 },
+  "image": {
+    "file": "File:View of Diocletian's Palace, Split 01.jpg",
+    "alt": "Diocletian's Palace in Split"
+  },
+  "intro": [
+    "Split is built around one of the most unusual historic sites in Europe, a Roman emperor's retirement palace that never stopped being lived in for the 1,700 years since.",
+    "Diocletian's Palace's ancient walls now enclose an entire working neighbourhood — homes, shops, cafés and a cathedral converted from the emperor's own mausoleum.",
+    "Beyond the palace, Split is Croatia's second city and busiest ferry hub, with its own beaches, a green hillside park and a lively waterfront promenade."
+  ],
+  "whyVisit": {
+    "intro": "Split's case rests on a Roman palace that's stayed a real, living city for nearly two millennia.",
+    "points": [
+      {
+        "title": "Diocletian's Palace is unlike anywhere else",
+        "text": "A 1,700-year-old Roman palace still functioning as an actual, lived-in neighbourhood."
+      },
+      {
+        "title": "It's a real Croatian city, not just a resort",
+        "text": "A working port and Dalmatia's largest city, with an authentic, year-round pulse."
+      },
+      {
+        "title": "The Riva promenade is a proper daily ritual",
+        "text": "Palm-lined waterfront cafés where locals and visitors alike watch the harbour."
+      },
+      {
+        "title": "Marjan Hill offers excellent nature right in the city",
+        "text": "Forested trails and viewpoints a short walk from the historic centre."
+      },
+      {
+        "title": "It's the best base for island-hopping",
+        "text": "Croatia's busiest ferry port, with frequent connections to Hvar, Brač and beyond."
+      }
+    ]
+  },
+  "attractionsIntro": "Split's essential sights are concentrated within and around the ancient walls of Diocletian's Palace.",
+  "attractions": [
+    {
+      "name": "Diocletian's Palace",
+      "image": {
+        "file": "File:View of Diocletian's Palace, Split 01.jpg",
+        "alt": "Diocletian's Palace in Split"
+      },
+      "text": "A UNESCO World Heritage Site and a living neighbourhood at once, a Roman emperor's palace still filled with homes and shops today.",
+      "tip": "Get lost in the palace's narrow side streets — the real character lives away from the main routes."
+    },
+    {
+      "name": "The Peristyle",
+      "image": {
+        "file": "File:Split - Peristyle - Sphinx.JPG",
+        "alt": "The Peristyle at Diocletian's Palace in Split, with an ancient Egyptian sphinx"
+      },
+      "text": "The palace's ceremonial heart, a sunken Roman courtyard still ringed by columns and a genuine Egyptian sphinx.",
+      "tip": "Visit in the evening, when café tables fill the square and it feels properly alive."
+    },
+    {
+      "name": "The Cathedral of St Domnius",
+      "image": {
+        "file": "File:Cathedral of Saint Domnius.jpg",
+        "alt": "The Cathedral of St Domnius in Split"
+      },
+      "text": "One of the oldest Catholic cathedrals in the world still in its original structure — Diocletian's own mausoleum, repurposed.",
+      "tip": "Climb the bell tower for the best rooftop view over the whole palace and harbour."
+    },
+    {
+      "name": "The Riva waterfront promenade",
+      "image": {
+        "file": "File:Split (Croatia) - palme na rivi.JPG",
+        "alt": "The palm-lined Riva promenade in Split"
+      },
+      "text": "The city's social stage, a palm-lined seafront promenade right outside the palace's southern wall.",
+      "tip": "A lovely spot for a slow evening coffee or aperitivo."
+    },
+    {
+      "name": "Marjan Hill",
+      "image": {
+        "file": "File:Marjan from the Riva.jpg",
+        "alt": "Marjan Hill above Split"
+      },
+      "text": "A forested peninsula park right beside the city centre, with trails, chapels and sweeping sea views.",
+      "tip": "Go for sunset — the views over Split and the islands are spectacular."
+    },
+    {
+      "name": "The Golden Gate and Gregory of Nin statue",
+      "image": {
+        "file": "File:Gregory of Nin statue in Split, Croatia (48693918937).jpg",
+        "alt": "The statue of Gregory of Nin near Split's Golden Gate"
+      },
+      "text": "The palace's grandest original entrance, guarded outside by Ivan Meštrović's towering bronze statue.",
+      "tip": "Rub the statue's toe — a well-known local tradition said to bring good luck."
+    },
+    {
+      "name": "Bačvice Beach",
+      "image": {
+        "file": "File:Bacvice Beach in Split, Croatia (48608741537).jpg",
+        "alt": "Bačvice Beach in Split"
+      },
+      "text": "The city's most popular beach, a shallow sandy bay a short walk from the historic centre.",
+      "tip": "Watch for a game of picigin, the local beach sport invented right here."
+    }
+  ],
+  "thingsToDoIntro": "Split rewards splitting time between its ancient palace streets and its very real, modern city life.",
+  "thingsToDo": [
+    {
+      "title": "Wander Diocletian's Palace's ancient streets",
+      "image": {
+        "file": "File:View of Diocletian's Palace, Split 02.jpg",
+        "alt": "Ancient streets within Diocletian's Palace"
+      },
+      "text": "An essential experience, getting lost among the palace's Roman substructure and centuries of later additions.",
+      "tip": "Visit the palace's atmospheric underground cellars, among the best-preserved Roman substructures anywhere."
+    },
+    {
+      "title": "Climb the Cathedral bell tower",
+      "image": {
+        "file": "File:Croatia-01188B - St. Domnius Cathedral (9551305240).jpg",
+        "alt": "Climbing the bell tower of Split's Cathedral of St Domnius"
+      },
+      "text": "A rewarding, if slightly precarious, climb, with the palace's best rooftop view waiting at the top.",
+      "tip": "Not for the faint of heart — the stairs are steep and narrow in places."
+    },
+    {
+      "title": "Rub Gregory of Nin's toe for luck",
+      "image": {
+        "file": "File:Croatia-01163 - Gregory of Nin (9551163236).jpg",
+        "alt": "The statue of Gregory of Nin outside Split's Golden Gate"
+      },
+      "text": "A fun, low-key local tradition, joining the line of visitors polishing the statue's bronze big toe.",
+      "tip": "An easy stop combined with the Golden Gate itself."
+    },
+    {
+      "title": "Hike or bike Marjan Hill",
+      "image": {
+        "file": "File:Cross on Marjan hill, Split.jpg",
+        "alt": "A hiking trail on Marjan Hill above Split"
+      },
+      "text": "A refreshing break from the historic centre, trails winding through pine forest to several viewpoints.",
+      "tip": "Bring water — shade is limited once you're above the tree line at the top."
+    },
+    {
+      "title": "Swim and watch picigin at Bačvice Beach",
+      "image": {
+        "file": "File:Aerial view of Bacvice Beach in Split, Croatia (48608745867).jpg",
+        "alt": "Bačvice Beach in Split from above"
+      },
+      "text": "A lively city beach scene, complete with the locally invented ball game picigin played in the shallows.",
+      "tip": "A short walk from the palace — an easy way to cool off between sightseeing."
+    },
+    {
+      "title": "Stroll the Riva promenade at sunset",
+      "image": {
+        "file": "File:Split (Croatia) - palme na rivi.JPG",
+        "alt": "Sunset on the Riva promenade in Split"
+      },
+      "text": "An essential evening ritual, joining locals and visitors alike for a slow walk along the palm-lined waterfront.",
+      "tip": "A great spot to watch the ferries come and go while the light fades."
+    }
+  ],
+  "foodIntro": "Split's food means classic Dalmatian cooking, with a regional pie worth seeking out beyond the seafood staples.",
+  "foods": [
+    {
+      "name": "Fresh grilled seafood",
+      "image": {
+        "file": "File:Tuna na žaru - Konoba Kolona (14982130756).jpg",
+        "alt": "Grilled seafood at a traditional Croatian konoba"
+      },
+      "text": "A highlight of dining here, fish and shellfish grilled simply at konobas throughout the palace.",
+      "whereToTry": "Konobas throughout Diocletian's Palace and the wider old town."
+    },
+    {
+      "name": "Crni rižot (black risotto)",
+      "image": {
+        "file": "File:Risotto al nero di seppia.jpg",
+        "alt": "Black risotto made with cuttlefish ink"
+      },
+      "text": "A Dalmatian classic worth trying at least once during a Split visit.",
+      "whereToTry": "Seafood restaurants throughout the old town."
+    },
+    {
+      "name": "Dalmatinski pršut (dry-cured ham)",
+      "image": {
+        "file": "File:Dalmatinski pršut.jpg",
+        "alt": "Dalmatinski pršut, Croatia's dry-cured ham"
+      },
+      "text": "A reliable starter, often served with local cheese and olives.",
+      "whereToTry": "Restaurants and konobas throughout Split."
+    },
+    {
+      "name": "Soparnik (savoury Swiss chard pie)",
+      "text": "A distinctive regional specialty from the Poljica area just outside Split, a thin pie filled with chard and baked under embers.",
+      "whereToTry": "Traditional bakeries and markets, especially the Split Green Market."
+    },
+    {
+      "name": "Croatian wine",
+      "text": "Worth exploring, with Dalmatian reds from nearby Pelješac and Hvar both widely available.",
+      "whereToTry": "Wine bars throughout the old town."
+    },
+    {
+      "name": "Fritule (small fried doughnuts)",
+      "image": {
+        "file": "File:Fritule iz Rijeke.jpg",
+        "alt": "Fritule, small Croatian fried doughnuts"
+      },
+      "text": "A nice sweet treat, found at bakeries and market stalls around the old town.",
+      "whereToTry": "Bakeries throughout Split's old town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Split offers accommodation for every budget, with location inside or outside the palace walls making a real difference.",
+    "areas": [
+      {
+        "name": "Inside Diocletian's Palace",
+        "bestFor": "Being immersed in the historic atmosphere",
+        "text": "The most atmospheric base, staying inside the ancient walls themselves."
+      },
+      {
+        "name": "Varoš or the Riva area",
+        "bestFor": "A quieter stay just outside the busiest palace streets",
+        "text": "An easy walk from the centre, with a more local, residential feel."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "€55–95 per night" },
+      { "label": "Mid-range hotel", "value": "€120–220 per night" },
+      { "label": "Cathedral bell tower climb", "value": "About €8–10" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About €25–45 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Split is Croatia's busiest transport hub after Zagreb, well connected by air, road and sea.",
+    "options": [
+      {
+        "mode": "Direct international flights",
+        "text": "Available from many European cities, especially in summer.",
+        "detail": "Split Airport sits about 25 minutes from the city centre."
+      },
+      {
+        "mode": "Bus from Zagreb or Dubrovnik",
+        "text": "A comfortable, scenic option along the coast.",
+        "detail": "Takes around five to six hours from Zagreb, or four to five from Dubrovnik."
+      },
+      {
+        "mode": "Ferry from the islands",
+        "text": "The main gateway for island-hopping around Dalmatia.",
+        "detail": "Frequent connections to Hvar, Brač, Korčula and beyond."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Split's compact old town is entirely walkable, with buses covering the wider city and Marjan Hill.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The only way to explore Diocletian's Palace itself.",
+        "detail": "No cars are permitted within the ancient palace walls."
+      },
+      {
+        "mode": "Local buses",
+        "text": "Useful for reaching Marjan Hill's far side or outlying neighbourhoods.",
+        "detail": "A frequent, inexpensive network across the wider city."
+      },
+      {
+        "mode": "Ferry port and bus station",
+        "text": "Conveniently located right beside the old town.",
+        "detail": "Both sit an easy walk from most central accommodation."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for warm weather without peak-summer crowds",
+    "summary": "Split is busiest in July and August, with shoulder months offering a much better balance of weather and crowds.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Warm enough to swim, with noticeably thinner crowds than peak summer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Hot and lively, the busiest season for both the city and its ferry connections."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "best",
+        "text": "Still warm enough for the beach, with crowds and prices both easing off."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "okay",
+        "text": "Quiet, with a real, lived-in city atmosphere rather than a tourist-focused one."
+      }
+    ],
+    "avoid": "Nothing strongly, though peak July and August bring the heaviest crowds to the palace and ferry terminals alike."
+  },
+  "itinerary": {
+    "title": "Two days in Split",
+    "intro": "Built around Diocletian's Palace and Marjan Hill, with time on the water.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Diocletian's Palace",
+        "summary": "The palace's essential sights.",
+        "morning": "The Peristyle, the Cathedral of St Domnius and the palace's ancient streets.",
+        "afternoon": "The Golden Gate and Gregory of Nin's statue.",
+        "evening": "Dinner and a stroll along the Riva."
+      },
+      {
+        "day": 2,
+        "title": "Marjan Hill and the beach",
+        "summary": "A slower day of nature and the sea.",
+        "morning": "Hike or bike the trails of Marjan Hill.",
+        "afternoon": "Swim at Bačvice Beach.",
+        "evening": "A final dinner in the old town."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Split visit noticeably smoother.",
+  "tips": [
+    "Book ferry tickets ahead in peak summer if you're continuing on to the islands.",
+    "Climb the Cathedral bell tower for the best view over the whole palace.",
+    "Wear comfortable shoes — the palace's ancient streets are cobbled and can be slippery.",
+    "Visit Marjan Hill in the late afternoon for the best light and cooler temperatures.",
+    "Try soparnik at the Green Market for a taste of the wider Split region.",
+    "Use Split as a base for day trips to Krka National Park or the nearby islands."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Split?",
+      "a": "Two to three days covers the palace, Marjan Hill and the beach at a comfortable pace."
+    },
+    {
+      "q": "Is Diocletian's Palace still lived in?",
+      "a": "Yes — around 3,000 people still live and work within the ancient palace walls today."
+    },
+    {
+      "q": "Is Split a good base for island-hopping?",
+      "a": "Yes — it's Croatia's busiest ferry port, with frequent connections to Hvar, Brač, Korčula and beyond."
+    },
+    {
+      "q": "How do you get from Split Airport to the city centre?",
+      "a": "By airport shuttle bus or taxi, taking about 25 to 30 minutes."
+    },
+    {
+      "q": "Is Split worth visiting versus just Dubrovnik?",
+      "a": "Yes — the two offer quite different experiences, and Split's living Roman palace is unlike anywhere else."
+    },
+    {
+      "q": "Can you swim in Split?",
+      "a": "Yes — Bačvice Beach sits a short walk from the palace, with more beaches further along Marjan Hill."
+    }
+  ],
+  "related": ["hvar", "krka-national-park", "dubrovnik"],
+  "relatedArticles": ["mediterranean-coasts", "food-primer"]
+}

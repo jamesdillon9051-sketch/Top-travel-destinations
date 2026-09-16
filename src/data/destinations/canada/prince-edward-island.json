@@ -1,0 +1,366 @@
+{
+  "slug": "prince-edward-island",
+  "name": "Prince Edward Island",
+  "country": "canada",
+  "region": "Prince Edward Island",
+  "categories": ["coastal", "countryside", "food-and-wine", "family"],
+  "tagline": "Canada's smallest province, red sand beaches and rolling farmland moving at a pace the mainland forgot.",
+  "highlight": "Walking a red sand beach at low tide, the cliffs behind glowing rust-orange in the evening light exactly as they do in the books that made this island famous.",
+  "shortDescription": "Canada's smallest province, home to the red sand beaches and farmland that inspired Anne of Green Gables, plus some of the country's best seafood.",
+  "metaDescription": "A Prince Edward Island travel guide: Green Gables, PEI National Park's red beaches, Charlottetown, lobster suppers, food and how to plan a visit.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "Charlottetown Airport (YYG)",
+  "knownFor": "Green Gables, red sand beaches, PEI lobster suppers",
+  "budget": "C$140–280 per day, mid-range",
+  "goodFor": "Beaches, slow travel, seafood",
+  "coords": { "lat": 46.2382, "lng": -63.1311 },
+  "image": {
+    "file": "File:Prince Edward Island National Park (21664291554).jpg",
+    "alt": "Red sand cliffs at Prince Edward Island National Park"
+  },
+  "intro": [
+    "Prince Edward Island is Canada's smallest province, a gentle landscape of red sand beaches, rolling farmland and small fishing harbours that feels a world away from the Rockies or big city life.",
+    "It's also the setting for Anne of Green Gables, the beloved novel that still draws visitors to the farmhouse and landscape that inspired it.",
+    "The island's real character comes through in its seafood — lobster suppers, fresh mussels and PEI's own celebrated potatoes fill menus across the province."
+  ],
+  "whyVisit": {
+    "intro": "Prince Edward Island's case rests on a slower pace and a landscape unlike anywhere else in Canada.",
+    "points": [
+      {
+        "title": "The red sand beaches are striking",
+        "text": "Iron-rich soil gives the island's coastline a distinctive rust-red colour found almost nowhere else."
+      },
+      {
+        "title": "Green Gables is a real literary pilgrimage",
+        "text": "The farmhouse and landscape that inspired one of Canada's most beloved novels."
+      },
+      {
+        "title": "The seafood is some of the best in Canada",
+        "text": "Lobster, mussels and oysters landed fresh from the surrounding waters."
+      },
+      {
+        "title": "The pace here is deliberately slower",
+        "text": "Small towns, farm stands and a real absence of big-city hurry."
+      },
+      {
+        "title": "It works well as a distinctive add-on trip",
+        "text": "A very different side of Canada from the mountains or big cities."
+      }
+    ]
+  },
+  "attractionsIntro": "Prince Edward Island's essential sights are spread between its literary landmarks and its red sand coastline.",
+  "attractions": [
+    {
+      "name": "Green Gables Heritage Place",
+      "image": {
+        "file": "File:Green Gables House front view.jpg",
+        "alt": "Green Gables Heritage Place in Prince Edward Island"
+      },
+      "text": "The farmhouse that inspired Anne of Green Gables, restored and furnished as it appears in the novel.",
+      "tip": "Walk the surrounding Haunted Wood and Lovers' Lane trails for the full literary setting."
+    },
+    {
+      "name": "Prince Edward Island National Park's red beaches",
+      "image": {
+        "file": "File:Prince Edward Island National Park (21664291554).jpg",
+        "alt": "Red sand cliffs at Prince Edward Island National Park"
+      },
+      "text": "The island's most striking natural feature, sandstone cliffs and dunes coloured rust-red by iron in the soil.",
+      "tip": "Visit at low tide for the widest, most walkable stretch of beach."
+    },
+    {
+      "name": "The Confederation Bridge",
+      "image": {
+        "file": "File:NB - Confederation Bridge1.jpg",
+        "alt": "The Confederation Bridge connecting PEI to the mainland"
+      },
+      "text": "One of the world's longest bridges over ice-covered water, connecting the island to mainland New Brunswick.",
+      "tip": "A striking 13-kilometre drive in itself, best appreciated slowly rather than rushed."
+    },
+    {
+      "name": "Charlottetown's historic streets",
+      "image": {
+        "file": "File:Charlottetown, Prince Edward Island, Canada.jpg",
+        "alt": "Charlottetown's historic streets in Prince Edward Island"
+      },
+      "text": "The birthplace of Canadian Confederation, its compact downtown lined with well-preserved Victorian buildings.",
+      "tip": "Visit Province House, where the Confederation talks were first held, if it's open for tours."
+    },
+    {
+      "name": "Point Prim Lighthouse",
+      "image": {
+        "file": "File:Point Prim Lighthouse (21667635063).jpg",
+        "alt": "Point Prim Lighthouse in Prince Edward Island"
+      },
+      "text": "The island's oldest lighthouse, a distinctive round brick tower on a quiet, scenic point.",
+      "tip": "Climb to the top if it's open — the coastal view is worth the narrow stairs."
+    },
+    {
+      "name": "The old wharf at PEI National Park",
+      "image": {
+        "file": "File:Old Wharf Posts on beach in Prince Edward Island National Park.jpg",
+        "alt": "Old wharf posts on the beach at Prince Edward Island National Park"
+      },
+      "text": "An atmospheric, photogenic remnant, weathered wooden posts rising from the sand at low tide.",
+      "tip": "A rewarding subject for photography, especially at sunrise or sunset."
+    },
+    {
+      "name": "Green Gables' surrounding farmland",
+      "image": {
+        "file": "File:Green Gables House backyard.jpg",
+        "alt": "The farmland behind Green Gables Heritage Place"
+      },
+      "text": "As much a part of the site as the house itself, gardens and fields evoking the novel's rural setting.",
+      "tip": "Allow time to walk the grounds, not just tour the house interior."
+    }
+  ],
+  "thingsToDoIntro": "Prince Edward Island rewards a slow pace, built around its beaches, small towns and seafood.",
+  "thingsToDo": [
+    {
+      "title": "Tour Green Gables Heritage Place",
+      "image": {
+        "file": "File:Green Gables House backyard.jpg",
+        "alt": "Touring Green Gables Heritage Place"
+      },
+      "text": "An essential literary pilgrimage, walking through the rooms and grounds that inspired Anne of Green Gables.",
+      "tip": "Read or revisit the novel beforehand for the fullest appreciation of the site."
+    },
+    {
+      "title": "Walk the red sand beaches of PEI National Park",
+      "image": {
+        "file": "File:Prince Edward Island National Park (22100230259).jpg",
+        "alt": "Walking the red sand beaches of PEI National Park"
+      },
+      "text": "An essential island experience, exploring dunes and cliffs found almost nowhere else in the world.",
+      "tip": "Bring water shoes if you plan to wade — the sandstone underfoot can be sharp in places."
+    },
+    {
+      "title": "Drive across the Confederation Bridge",
+      "image": {
+        "file": "File:NB - Confederation Bridge6.jpg",
+        "alt": "Driving across the Confederation Bridge"
+      },
+      "text": "A memorable arrival or departure, a long, curving drive suspended above the strait.",
+      "tip": "A toll applies only when leaving the island, not arriving."
+    },
+    {
+      "title": "Explore Charlottetown's waterfront",
+      "image": {
+        "file": "File:Charlottetown, Prince Edward Island 01.jpg",
+        "alt": "Charlottetown's waterfront in Prince Edward Island"
+      },
+      "text": "A relaxed way to spend an afternoon, browsing shops and restaurants along the historic harbour.",
+      "tip": "Check the events calendar — the waterfront often hosts markets and live music in summer."
+    },
+    {
+      "title": "Visit Point Prim Lighthouse",
+      "image": {
+        "file": "File:Point Prim Lighthouse (21665950094).jpg",
+        "alt": "Visiting Point Prim Lighthouse"
+      },
+      "text": "A peaceful stop, a scenic drive to the island's oldest lighthouse on a quiet coastal point.",
+      "tip": "Combine with a stop at a nearby oyster shack — the area is known for its seafood."
+    },
+    {
+      "title": "Eat a traditional PEI lobster supper",
+      "text": "An essential island tradition, a full lobster meal served family-style, often in a church hall or community setting.",
+      "tip": "Book ahead in peak summer — the island's most famous lobster suppers do fill up."
+    }
+  ],
+  "foodIntro": "Prince Edward Island's food centres on fresh seafood and the province's own celebrated potatoes.",
+  "foods": [
+    {
+      "name": "PEI mussels",
+      "image": {
+        "file": "File:Mussel Appetizer (Unsplash).jpg",
+        "alt": "Fresh mussels, a Prince Edward Island specialty"
+      },
+      "text": "A real point of pride, PEI producing a large share of Canada's farmed mussels.",
+      "whereToTry": "Seafood restaurants throughout the island."
+    },
+    {
+      "name": "PEI potatoes",
+      "image": {
+        "file": "File:194 - PEI Potatoes.JPG",
+        "alt": "Potatoes grown in Prince Edward Island's red soil"
+      },
+      "text": "A defining local product, the island's red soil producing some of Canada's best potatoes.",
+      "whereToTry": "Restaurants and farm stands throughout the island."
+    },
+    {
+      "name": "PEI lobster",
+      "text": "The island's signature dish, fresh lobster served simply, often as part of a full traditional supper.",
+      "whereToTry": "Lobster supper halls and seafood restaurants throughout the island."
+    },
+    {
+      "name": "Seafood chowder",
+      "text": "A hearty, warming classic, a creamy mix of the island's best local seafood in one bowl.",
+      "whereToTry": "Restaurants throughout Charlottetown and coastal towns."
+    },
+    {
+      "name": "Cows Creamery ice cream",
+      "text": "A beloved island institution, a local creamery brand known across Canada.",
+      "whereToTry": "Cows Creamery shops throughout the island, especially in Charlottetown."
+    },
+    {
+      "name": "Raspberry cordial",
+      "text": "A nod to Anne of Green Gables, a sweet, nostalgic drink referenced throughout the novel.",
+      "whereToTry": "Gift shops and cafés near Green Gables Heritage Place."
+    }
+  ],
+  "accommodation": {
+    "intro": "Prince Edward Island offers a relaxed range of stays, from farm bed and breakfasts to seaside cottages.",
+    "areas": [
+      {
+        "name": "Charlottetown",
+        "bestFor": "Being central, with the widest choice of restaurants",
+        "text": "The island's capital, a convenient base for exploring in any direction."
+      },
+      {
+        "name": "Cavendish",
+        "bestFor": "A beach-focused stay near Green Gables and PEI National Park",
+        "text": "The island's main tourist hub, close to the red sand coastline."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "C$90–150 per night" },
+      { "label": "Mid-range hotel or cottage", "value": "C$180–320 per night" },
+      { "label": "Green Gables Heritage Place entry", "value": "About C$12–14" },
+      { "label": "A traditional lobster supper", "value": "About C$45–65 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Prince Edward Island is reached by bridge, ferry or air, with the Confederation Bridge the most common route.",
+    "options": [
+      {
+        "mode": "Drive across the Confederation Bridge",
+        "text": "The standard route from mainland New Brunswick.",
+        "detail": "A toll applies when leaving the island, not on arrival."
+      },
+      {
+        "mode": "Ferry from Nova Scotia",
+        "text": "A scenic seasonal alternative.",
+        "detail": "Runs between Wood Islands, PEI, and Caribou, Nova Scotia, spring through autumn."
+      },
+      {
+        "mode": "Direct flight to Charlottetown",
+        "text": "Available from several Canadian cities.",
+        "detail": "Charlottetown Airport sits about ten minutes from downtown."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is essential for exploring Prince Edward Island beyond Charlottetown itself.",
+    "options": [
+      {
+        "mode": "Car",
+        "text": "Necessary for reaching the island's beaches, lighthouses and small towns.",
+        "detail": "Distances are short, but public transport is limited outside Charlottetown."
+      },
+      {
+        "mode": "On foot in Charlottetown",
+        "text": "Easy for the compact downtown core.",
+        "detail": "The waterfront and historic streets sit within a comfortable walk."
+      },
+      {
+        "mode": "Bicycle on the Confederation Trail",
+        "text": "A lovely way to see the island slowly.",
+        "detail": "A former rail line converted into a cross-island cycling and walking trail."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June to September for warm weather and full seasonal access",
+    "summary": "Prince Edward Island is a seasonal destination, with many attractions and restaurants closing over winter.",
+    "seasons": [
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "The most reliable season, with every beach, attraction and lobster supper open."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "best",
+        "text": "Still warm with noticeably thinner crowds than peak summer."
+      },
+      {
+        "season": "Late autumn and spring",
+        "rating": "okay",
+        "text": "Quiet, with many seasonal businesses closed."
+      },
+      {
+        "season": "Winter (December–March)",
+        "rating": "poor",
+        "text": "Very quiet, with most tourist infrastructure closed for the season."
+      }
+    ],
+    "avoid": "Winter, when most attractions, restaurants and lobster suppers close for the season."
+  },
+  "itinerary": {
+    "title": "Three days on Prince Edward Island",
+    "intro": "Built around Green Gables, the red sand coastline, and Charlottetown.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Charlottetown",
+        "summary": "Arrival and the island's capital.",
+        "morning": "Arrive and cross the Confederation Bridge.",
+        "afternoon": "Explore Charlottetown's historic waterfront.",
+        "evening": "A traditional PEI lobster supper."
+      },
+      {
+        "day": 2,
+        "title": "Green Gables and Cavendish",
+        "summary": "The island's literary heart.",
+        "morning": "Tour Green Gables Heritage Place.",
+        "afternoon": "Walk the red sand beaches of PEI National Park.",
+        "evening": "Dinner in Cavendish."
+      },
+      {
+        "day": 3,
+        "title": "The coast and lighthouses",
+        "summary": "A slower day exploring the island's edges.",
+        "morning": "Visit Point Prim Lighthouse.",
+        "afternoon": "Explore small fishing harbours and farm stands.",
+        "evening": "A final seafood dinner before departing."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Prince Edward Island visit noticeably smoother.",
+  "tips": [
+    "Rent a car — public transport is limited outside Charlottetown.",
+    "Book a lobster supper ahead in peak summer season.",
+    "Visit outside summer only if you've confirmed your planned attractions stay open.",
+    "Pack water shoes for exploring the red sandstone beaches.",
+    "Time your Confederation Bridge crossing — the toll only applies when leaving the island.",
+    "Try both mussels and lobster — the island's two signature seafood dishes."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need on Prince Edward Island?",
+      "a": "Three to four days covers Green Gables, the red sand coastline and Charlottetown at a relaxed pace."
+    },
+    {
+      "q": "Is Prince Edward Island worth visiting?",
+      "a": "Yes — its red sand beaches, literary history and seafood offer a distinctive, slower-paced side of Canada."
+    },
+    {
+      "q": "Do you need a car on PEI?",
+      "a": "Yes — public transport is limited, and a car is the practical way to reach beaches, lighthouses and small towns."
+    },
+    {
+      "q": "How do you get to Prince Edward Island?",
+      "a": "By car across the Confederation Bridge, seasonal ferry from Nova Scotia, or direct flight to Charlottetown."
+    },
+    {
+      "q": "Is Green Gables worth visiting if you haven't read the book?",
+      "a": "Yes, though reading or revisiting Anne of Green Gables beforehand deepens the experience."
+    },
+    {
+      "q": "When is the best time to visit PEI?",
+      "a": "June through September, when beaches, restaurants and lobster suppers are all fully open."
+    }
+  ],
+  "related": ["montreal", "quebec-city", "toronto"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

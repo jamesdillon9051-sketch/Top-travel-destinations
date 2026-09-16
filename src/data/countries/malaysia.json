@@ -1,0 +1,414 @@
+{
+  "slug": "malaysia",
+  "name": "Malaysia",
+  "continent": "Southeast Asia",
+  "countryCode": "MY",
+  "tagline": "Rainforest, coastline and three distinct food cultures meeting at the twin towers of a thoroughly modern capital.",
+  "cardDescription": "The Petronas Towers, Penang's street-art lanes and hawker stalls, tea-covered Cameron Highlands, and island beaches from Langkawi to Borneo's coast.",
+  "metaDescription": "A complete Malaysia travel guide: the 10 best places to visit, food, costs, etiquette and a Peninsular Malaysia itinerary.",
+  "image": {
+    "file": "File:The Twins SE Asia 2019 (49171985716).jpg",
+    "alt": "The Petronas Towers rising over Kuala Lumpur at dusk"
+  },
+  "destinations": [
+    "kuala-lumpur",
+    "penang",
+    "langkawi",
+    "malacca",
+    "cameron-highlands",
+    "kota-kinabalu",
+    "perhentian-islands",
+    "taman-negara",
+    "kuching",
+    "ipoh"
+  ],
+  "intro": [
+    "Malaysia splits into two halves across the South China Sea: Peninsular Malaysia, home to Kuala Lumpur and most first-time visitors' itineraries, and East Malaysia on the island of Borneo, where Sabah and Sarawak hold rainforest, orangutans and Mount Kinabalu.",
+    "Its real strength is how three food and cultural traditions — Malay, Chinese and Indian — sit side by side rather than blended into one, so a single street in Penang or Kuala Lumpur can serve nasi lemak, char kway teow and roti canai within a few doors of each other.",
+    "Between the Petronas Towers, colonial-era hill stations, UNESCO-listed port towns and some of Southeast Asia's best diving, Malaysia rewards a trip built around contrast rather than a single theme."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit — though Sabah and Sarawak reward a dedicated Borneo trip just as much as a first.",
+  "thingsToDoIntro": "The experiences that recur across the country and make a Malaysia trip feel like more than a checklist of cities.",
+  "thingsToDo": [
+    {
+      "title": "Look up at the Petronas Towers",
+      "image": {
+        "file": "File:2016 Kuala Lumpur, Petronas Towers (26).jpg",
+        "alt": "The Petronas Towers in Kuala Lumpur"
+      },
+      "text": "An essential first stop in Kuala Lumpur, the world's tallest twin towers lit up above KLCC Park.",
+      "tip": "Book Skybridge and observation deck tickets online in advance — daily slots sell out, especially at sunset."
+    },
+    {
+      "title": "Climb the steps at Batu Caves",
+      "image": {
+        "file": "File:Batu Caves KTM Station outview (220714) 01.jpg",
+        "alt": "The golden statue and colourful steps at Batu Caves"
+      },
+      "text": "A limestone hill turned Hindu shrine just outside Kuala Lumpur, its rainbow-painted steps guarded by a towering gold statue.",
+      "tip": "Visit early morning to beat both the heat and the crowds climbing the 272 steps."
+    },
+    {
+      "title": "Island-hop Langkawi or the Perhentians",
+      "image": {
+        "file": "File:Perhentian Islands, Coastline, Malaysia.jpg",
+        "alt": "The coastline of the Perhentian Islands"
+      },
+      "text": "Malaysia's coastline and islands range from Langkawi's resorts to the Perhentians' backpacker beaches, with clear water throughout.",
+      "tip": "The east coast islands close to visitors during the November–February monsoon — plan around it."
+    },
+    {
+      "title": "Wander George Town's street art",
+      "image": {
+        "file": "File:Street Scene with Public Art - George Town - Penang - Malaysia (35315320961).jpg",
+        "alt": "A street art mural in George Town, Penang"
+      },
+      "text": "Murals and wire-art sculptures scattered through Penang's UNESCO-listed old town, best explored slowly on foot.",
+      "tip": "Pick up a free street art map from a George Town visitor centre to track down the best-known pieces."
+    },
+    {
+      "title": "Sip tea in the Cameron Highlands",
+      "image": {
+        "file": "File:Cameron Bharat Tea Plantation, Cameron Highlands, Malaysia, 20250829 1535 4120.jpg",
+        "alt": "Tea plantation terraces in the Cameron Highlands"
+      },
+      "text": "A cool-climate escape from the tropical heat, rolling tea plantations that feel transplanted from another country entirely.",
+      "tip": "Bring a light jacket — the highlands run noticeably cooler than anywhere else on a typical Malaysia itinerary."
+    },
+    {
+      "title": "Eat late at a street food night market",
+      "image": {
+        "file": "File:Street food at Jalan Alor, Kuala Lumpur, Malaysia.jpg",
+        "alt": "A street food night market in Malaysia"
+      },
+      "text": "Malaysia's hawker culture is a genuine highlight in its own right, with entire streets given over to food stalls after dark.",
+      "tip": "Order in small portions from several stalls rather than filling up at the first one you find."
+    }
+  ],
+  "foodIntro": "Malaysian food reflects the country's three main communities — Malay, Chinese and Indian — each keeping its own distinct dishes rather than blending into one cuisine.",
+  "foods": [
+    {
+      "name": "Nasi lemak (Malaysia's national dish)",
+      "image": {
+        "file": "File:Nasi lemak on banana leaf.jpg",
+        "alt": "Nasi lemak, coconut rice served with sambal and sides"
+      },
+      "text": "Coconut milk rice served with sambal, fried anchovies, peanuts and a boiled or fried egg — eaten at any hour, including breakfast.",
+      "whereToTry": "Roadside stalls and restaurants throughout the country."
+    },
+    {
+      "name": "Satay",
+      "image": {
+        "file": "File:Satay at Night.jpg",
+        "alt": "Grilled satay skewers with peanut sauce"
+      },
+      "text": "Skewered, grilled meat served with a rich peanut sauce, ubiquitous at night markets and hawker centres.",
+      "whereToTry": "Night markets and hawker stalls nationwide."
+    },
+    {
+      "name": "Laksa",
+      "image": {
+        "file": "File:Assam Laksa, Air Itam, Penang.JPG",
+        "alt": "Assam laksa, a sour, spicy noodle soup from Penang"
+      },
+      "text": "A noodle soup with sharply distinct regional versions — Penang's sour, fish-based assam laksa and Sarawak's rich, spiced coconut version among the best known.",
+      "whereToTry": "Hawker stalls in Penang, Sarawak and beyond."
+    },
+    {
+      "name": "Roti canai",
+      "image": {
+        "file": "File:Roti Canai (4553382259).jpg",
+        "alt": "Roti canai, a flaky flatbread served with curry"
+      },
+      "text": "A flaky, pan-fried flatbread of Indian-Muslim origin, torn by hand and dipped in curry — a classic Malaysian breakfast.",
+      "whereToTry": "Mamak stalls and restaurants throughout the country, many open late into the night."
+    },
+    {
+      "name": "Char kway teow",
+      "image": {
+        "file": "File:Char kway teow (kuetiau goreng) of Dann Char Kuey Teow at Permatang Tok Jaya, SPU 20240915 183329.jpg",
+        "alt": "Char kway teow, stir-fried flat rice noodles"
+      },
+      "text": "Flat rice noodles stir-fried over high heat with prawns, egg, bean sprouts and Chinese sausage, a Penang specialty above all.",
+      "whereToTry": "Hawker centres throughout Penang and the wider country."
+    },
+    {
+      "name": "Beef rendang",
+      "image": {
+        "file": "File:Beef rendang, KLM, 2025 (01).jpg",
+        "alt": "Beef rendang, a slow-cooked coconut and spice curry"
+      },
+      "text": "Beef slow-cooked in coconut milk and spices until dark and richly concentrated, a centrepiece dish for celebrations.",
+      "whereToTry": "Malay restaurants nationwide, especially around festive periods."
+    }
+  ],
+  "practicalIntro": "The essentials for planning a Malaysia trip, gathered in one place.",
+  "practical": {
+    "capital": "Kuala Lumpur",
+    "language": "Malay (Bahasa Malaysia) is official; English is widely spoken, especially in tourist areas; Mandarin, Cantonese and Tamil are also common.",
+    "currency": "Malaysian Ringgit (RM / MYR)",
+    "money": "Cards are widely accepted in cities and malls; smaller stalls, markets and rural areas often expect cash.",
+    "visa": "Visa-free entry for up to 90 days for many nationalities including the US, UK, Australia and most EU countries; check current requirements before travel.",
+    "plugs": "Type G, 240 V, 50 Hz — the same three-pin plug used in the UK.",
+    "emergency": "999 for police and ambulance nationwide.",
+    "tipping": "Not customary and not expected; a service charge is often already added to restaurant bills.",
+    "safety": "Generally safe, with normal precautions around petty theft in crowded tourist areas and night markets.",
+    "connectivity": "Strong 4G coverage in cities and most tourist areas; prepaid SIM cards are cheap and widely available at the airport.",
+    "timeZone": "Malaysia Time (UTC+8), no daylight saving.",
+    "budget": [
+      {
+        "label": "Backpacker",
+        "value": "RM120–200 per day — hostels, hawker food, public transport"
+      },
+      {
+        "label": "Mid-range",
+        "value": "RM250–450 per day — 3-star hotels, restaurant meals, some tours"
+      },
+      {
+        "label": "Comfortable",
+        "value": "RM550–1,000+ per day — boutique hotels, private drivers, resort islands"
+      },
+      {
+        "label": "Domestic flights",
+        "value": "Budget significant amounts for connecting Peninsular Malaysia to Sabah or Sarawak"
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December to February is driest on the west coast; March to October is best for the east coast and islands",
+    "summary": "Malaysia is hot and humid year-round, but two separate monsoon seasons mean the best timing depends on which coast you're visiting.",
+    "seasons": [
+      {
+        "season": "December–February",
+        "rating": "best",
+        "text": "Generally the driest window for Kuala Lumpur, Penang, Langkawi, Malacca and the Cameron Highlands."
+      },
+      {
+        "season": "March–October",
+        "rating": "best",
+        "text": "The main season for the Perhentian Islands and Taman Negara's river access, both quieter or closed outside it."
+      },
+      {
+        "season": "May–September (southwest monsoon)",
+        "rating": "good",
+        "text": "Brings more rain to the west coast, though usually as short afternoon downpours rather than all-day rain."
+      },
+      {
+        "season": "November–February (northeast monsoon)",
+        "rating": "okay",
+        "text": "Heavy rain and rough seas on the east coast Peninsula; the Perhentian Islands' resorts largely close for the season."
+      }
+    ],
+    "avoid": "Late November through January on the east coast Peninsula, when monsoon swells close most island resorts."
+  },
+  "tripDuration": {
+    "headline": "10–14 days for a first trip to Peninsular Malaysia",
+    "summary": "Malaysia's split between the Peninsula and Borneo means a single trip rarely covers both comfortably.",
+    "options": [
+      {
+        "length": "4–5 days",
+        "text": "Kuala Lumpur and Malacca or Penang as a focused introduction.",
+        "detail": "Enough for the capital plus one historic city without feeling rushed."
+      },
+      {
+        "length": "7–9 days",
+        "text": "Kuala Lumpur, Cameron Highlands and Penang.",
+        "detail": "A well-paced route through Peninsular Malaysia's highlands and heritage coast."
+      },
+      {
+        "length": "10–14 days",
+        "text": "The itinerary on this page: Kuala Lumpur, Malacca, Cameron Highlands, Ipoh, Penang and Langkawi.",
+        "detail": "A complete first look at Peninsular Malaysia's cities, hills, heritage towns and islands."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Add a dedicated Borneo leg — Kota Kinabalu, Kuching, or the Perhentian Islands and Taman Negara.",
+        "detail": "Sabah and Sarawak amount to a separate trip in practice, reached by their own domestic flights."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Domestic flights, trains and long-distance coaches together cover Malaysia well — the main decision is simply whether Borneo is part of the trip.",
+    "options": [
+      {
+        "mode": "Domestic flights",
+        "text": "Essential for reaching [[kota-kinabalu|Kota Kinabalu]], [[kuching|Kuching]] or [[langkawi|Langkawi]] quickly.",
+        "detail": "Budget carriers connect Kuala Lumpur to nearly every corner of the country cheaply."
+      },
+      {
+        "mode": "The KTM ETS high-speed rail",
+        "text": "Comfortable and efficient for the corridor linking [[kuala-lumpur|Kuala Lumpur]], [[ipoh|Ipoh]] and [[penang|Penang]].",
+        "detail": "An easy way to cover Peninsular Malaysia's west coast without driving."
+      },
+      {
+        "mode": "Long-distance coaches",
+        "text": "Extensive and comfortable, reaching towns the train doesn't, including [[malacca|Malacca]] and the [[cameron-highlands|Cameron Highlands]].",
+        "detail": "Overnight services connect the Peninsula to the [[perhentian-islands|Perhentian Islands]]' jetty towns."
+      },
+      {
+        "mode": "Renting a car",
+        "text": "Useful for exploring the [[cameron-highlands|Cameron Highlands]] or [[langkawi|Langkawi]] at your own pace.",
+        "detail": "Malaysia drives on the left, with generally good highways on the Peninsula."
+      },
+      {
+        "mode": "Ferries",
+        "text": "The only way to reach [[langkawi|Langkawi]] from the mainland by sea, or the [[perhentian-islands|Perhentian Islands]] from Kuala Besut.",
+        "detail": "Frequent on popular routes, far less so outside the main season."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Ten days in Peninsular Malaysia",
+    "intro": "A loop through Kuala Lumpur, the historic south and the highland-and-heritage north. Covers six of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Kuala Lumpur",
+        "morning": "Land in Kuala Lumpur and check in to your hotel.",
+        "afternoon": "Explore KLCC Park and the base of the Petronas Towers.",
+        "evening": "Dinner and a night market stroll on Jalan Alor."
+      },
+      {
+        "day": 2,
+        "title": "Kuala Lumpur in full",
+        "morning": "Visit Batu Caves.",
+        "afternoon": "Explore Merdeka Square and Petaling Street.",
+        "evening": "Sunset views from Thean Hou Temple."
+      },
+      {
+        "day": 3,
+        "title": "Malacca",
+        "morning": "Travel south to Malacca.",
+        "afternoon": "Explore Jonker Street and Dutch Square.",
+        "evening": "A river cruise and riverside dinner."
+      },
+      {
+        "day": 4,
+        "title": "Travel to the Cameron Highlands",
+        "morning": "Travel north, back through Kuala Lumpur, into the highlands.",
+        "afternoon": "Visit a tea plantation as the road climbs.",
+        "evening": "A cool-climate dinner in Tanah Rata."
+      },
+      {
+        "day": 5,
+        "title": "Cameron Highlands in full",
+        "morning": "Walk the Mossy Forest boardwalks.",
+        "afternoon": "Visit a strawberry farm and local market.",
+        "evening": "A final highland dinner before descending."
+      },
+      {
+        "day": 6,
+        "title": "Ipoh",
+        "morning": "Travel to Ipoh.",
+        "afternoon": "Explore Ipoh's old town and Concubine Lane.",
+        "evening": "Dinner built around Ipoh's famous white coffee."
+      },
+      {
+        "day": 7,
+        "title": "On to Penang",
+        "morning": "Travel to George Town, Penang.",
+        "afternoon": "Walk George Town's street art trail.",
+        "evening": "A hawker food crawl through the old town."
+      },
+      {
+        "day": 8,
+        "title": "Penang in full",
+        "morning": "Visit Kek Lok Si Temple.",
+        "afternoon": "Ride the funicular up Penang Hill.",
+        "evening": "Dinner at a heritage-street restaurant."
+      },
+      {
+        "day": 9,
+        "title": "Langkawi",
+        "morning": "Ferry to Langkawi.",
+        "afternoon": "Ride the Langkawi Sky Cab and Sky Bridge.",
+        "evening": "Sunset on Pantai Cenang beach."
+      },
+      {
+        "day": 10,
+        "title": "Langkawi and departure",
+        "morning": "A mangrove tour of Kilim Geoforest Park.",
+        "afternoon": "Free time on the beach before departure.",
+        "evening": "Depart for home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Malaysian culture rests on three main communities — Malay, Chinese and Indian — each keeping distinct traditions, languages and holidays side by side.",
+    "etiquette": [
+      {
+        "title": "Dress modestly at religious sites",
+        "text": "Cover shoulders and knees when visiting mosques and temples; some mosques provide robes for visitors."
+      },
+      {
+        "title": "Use your right hand",
+        "text": "Eating, giving or receiving items with the right hand is customary, especially in Malay and Indian contexts."
+      },
+      {
+        "title": "Remove shoes before entering",
+        "text": "Expected at homes, mosques and many temples — follow the lead of others at the entrance."
+      },
+      {
+        "title": "Greetings vary by community",
+        "text": "A handshake is common, though some Muslim women may not shake hands with men — wait to see if a hand is offered."
+      },
+      {
+        "title": "Ramadan affects daily rhythms",
+        "text": "During the fasting month, avoid eating or drinking in public in front of fasting Malay Muslims out of respect."
+      },
+      {
+        "title": "Public affection is best kept low-key",
+        "text": "Malaysia is culturally conservative in this respect, more so outside major cities."
+      }
+    ],
+    "dos": [
+      "Try the food of all three communities — Malay, Chinese and Indian cuisines each stand on their own.",
+      "Use ride-hailing apps, which are cheap, reliable and widely used in every city.",
+      "Carry small cash for hawker stalls and markets, even in cities where cards are common.",
+      "Pack a light jacket for the Cameron Highlands, noticeably cooler than the rest of the country."
+    ],
+    "donts": [
+      "Don't point with your index finger — use your thumb instead, especially when gesturing at people.",
+      "Don't touch someone's head, considered disrespectful across Malay, Chinese and Indian traditions alike.",
+      "Don't assume alcohol is served everywhere — many Malay-run restaurants don't serve it.",
+      "Don't underestimate the East Coast monsoon — check seasonal closures before booking island time."
+    ]
+  },
+  "tipsIntro": "Practical notes that make travel through Malaysia noticeably smoother.",
+  "tips": [
+    "Book domestic flights early for routes to Sabah or Sarawak — prices climb fast closer to departure.",
+    "Pack a light jacket for the Cameron Highlands, even if the rest of the trip is tropical heat.",
+    "Carry small ringgit notes for hawker stalls, markets and short taxi rides.",
+    "Check East Coast monsoon dates before booking the Perhentian Islands or Taman Negara.",
+    "Use ride-hailing apps in cities rather than hailing taxis on the street.",
+    "Try street food confidently at busy stalls — high turnover is generally a good sign of freshness.",
+    "Carry a printed or downloaded map for the Cameron Highlands and Taman Negara, where signal can be patchy.",
+    "Dress modestly when visiting mosques, temples and more conservative small towns."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Malaysia?",
+      "a": "Ten to fourteen days covers Kuala Lumpur and Peninsular Malaysia's highlands, heritage towns and islands well, which is the itinerary in this guide. A dedicated Borneo trip is best planned separately."
+    },
+    {
+      "q": "Is Malaysia expensive?",
+      "a": "No, generally affordable by international standards, with hawker food, buses and trains all reasonably priced even on a modest budget."
+    },
+    {
+      "q": "Do you need a car in Malaysia?",
+      "a": "No, not for the main Peninsular route — trains, coaches and domestic flights cover it well, though a car helps in the Cameron Highlands."
+    },
+    {
+      "q": "Can you visit Peninsular Malaysia and Borneo in one trip?",
+      "a": "You can, but it requires its own domestic flight and adds significant time — most first-time visitors focus on one or the other."
+    },
+    {
+      "q": "When should you avoid the Perhentian Islands?",
+      "a": "November through February, when the northeast monsoon brings rough seas and most island resorts close for the season."
+    },
+    {
+      "q": "Is Malaysia safe?",
+      "a": "Yes, generally — a safe country to travel in, with petty theft in crowded tourist areas the main thing to watch for."
+    }
+  ]
+}
