@@ -1,0 +1,366 @@
+{
+  "slug": "zagreb",
+  "name": "Zagreb",
+  "country": "croatia",
+  "region": "Central Croatia",
+  "categories": ["capital-city", "major-city", "culture-arts", "food-and-wine"],
+  "tagline": "Croatia's underrated capital, a Central European city of tiled church roofs, quirky museums and a café culture the coast rarely gets credit for.",
+  "highlight": "Sitting for a slow coffee on Tkalčićeva Street, the whole city seemingly in no hurry to be anywhere else.",
+  "shortDescription": "Croatia's underrated Central European capital, home to St Mark's colourfully tiled church roof, the Museum of Broken Relationships and a genuine café culture.",
+  "metaDescription": "A Zagreb travel guide: St Mark's Church, Ban Jelačić Square, Dolac Market, the Upper Town, food and how to plan a visit to Croatia's capital.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Zagreb Airport (ZAG)",
+  "knownFor": "St Mark's Church, Ban Jelačić Square, the Upper Town",
+  "budget": "€90–180 per day, mid-range",
+  "goodFor": "Café culture, museums, city life",
+  "coords": { "lat": 45.8150, "lng": 15.9819 },
+  "image": {
+    "file": "File:Church of St. Mark and Coat of arms of Zagreb on southern roof (13024345783).jpg",
+    "alt": "St Mark's Church in Zagreb's Upper Town"
+  },
+  "intro": [
+    "Zagreb is genuinely Croatia's most underrated city, a Central European capital most visitors skip entirely on their way to the coast, to their own real loss.",
+    "Its Upper Town genuinely preserves a compact medieval core, crowned by St Mark's Church and its instantly recognisable tiled roof, while the Lower Town's grid of Austro-Hungarian boulevards holds museums, parks and squares.",
+    "What Zagreb genuinely does best is a slower pace than the coast — long coffees on Tkalčićeva Street, a proper daily market at Dolac, and a lively, youthful energy that runs year-round rather than just in summer."
+  ],
+  "whyVisit": {
+    "intro": "Zagreb's case rests genuinely on being a real, lived-in Central European capital rather than a coastal resort.",
+    "points": [
+      {
+        "title": "St Mark's Church is genuinely one of the country's iconic images",
+        "text": "Its colourful tiled roof displaying the coats of arms of Zagreb and Croatia."
+      },
+      {
+        "title": "The café culture is genuinely a real daily ritual",
+        "text": "Tkalčićeva Street and beyond built around lingering, unhurried coffee."
+      },
+      {
+        "title": "It's genuinely full of quirky, memorable museums",
+        "text": "The Museum of Broken Relationships and others go well beyond standard city-break fare."
+      },
+      {
+        "title": "It works genuinely well year-round",
+        "text": "Unlike the seasonal coast, Zagreb stays lively through every month of the year."
+      },
+      {
+        "title": "It's genuinely an easy gateway to Plitvice Lakes",
+        "text": "Croatia's most famous national park sits about two hours away by road."
+      }
+    ]
+  },
+  "attractionsIntro": "Zagreb's essential sights are genuinely split between the historic Upper Town and the grid-planned Lower Town below it.",
+  "attractions": [
+    {
+      "name": "St Mark's Church",
+      "image": {
+        "file": "File:Church of St. Mark and Coat of arms of Zagreb on southern roof (13024345783).jpg",
+        "alt": "St Mark's Church and its colourfully tiled roof in Zagreb"
+      },
+      "text": "Genuinely the city's most photographed landmark, its tiled roof displaying the coats of arms of Zagreb and the Triune Kingdom.",
+      "tip": "Genuinely the small square out front gets crowded — visit early for photos without a crowd in frame."
+    },
+    {
+      "name": "Zagreb Cathedral",
+      "image": {
+        "file": "File:Zagreb Cathedral 03.jpg",
+        "alt": "Zagreb Cathedral's twin neo-Gothic spires"
+      },
+      "text": "Genuinely the country's tallest building, its twin neo-Gothic spires visible across much of the city.",
+      "tip": "Genuinely a short walk from Dolac Market — an easy pairing for a morning wander."
+    },
+    {
+      "name": "Ban Jelačić Square",
+      "image": {
+        "file": "File:Zagreb - Ban Jelačić Square.JPG",
+        "alt": "Ban Jelačić Square, the heart of Zagreb"
+      },
+      "text": "Genuinely the city's central meeting point, a grand square named for the 19th-century ban whose statue dominates it.",
+      "tip": "Genuinely a natural starting point for exploring both the Upper and Lower Towns."
+    },
+    {
+      "name": "Dolac Market",
+      "image": {
+        "file": "File:Tržnica Dolac (Farmers’ Market), Zagreb, Croatia.jpg",
+        "alt": "Dolac Market in Zagreb"
+      },
+      "text": "Genuinely a real, working farmers' market, its red umbrellas covering stalls of fresh produce, cheese and flowers.",
+      "tip": "Genuinely go in the morning, when the market is at its freshest and liveliest."
+    },
+    {
+      "name": "Lotrščak Tower",
+      "image": {
+        "file": "File:Lotrščak Tower, Zagreb.jpg",
+        "alt": "Lotrščak Tower in Zagreb's Upper Town"
+      },
+      "text": "Genuinely a medieval defensive tower, famous today for a cannon still fired from its top every day at noon.",
+      "tip": "Genuinely climb up for one of the best views over the Lower Town's rooftops."
+    },
+    {
+      "name": "The Stone Gate",
+      "image": {
+        "file": "File:Stone Gate in Zagreb.jpg",
+        "alt": "The Stone Gate, a shrine in Zagreb's old city walls"
+      },
+      "text": "Genuinely the only surviving gate from the medieval city walls, now home to a revered shrine to the Virgin Mary.",
+      "tip": "Genuinely a quiet, atmospheric stop, often with candles lit by visitors passing through."
+    },
+    {
+      "name": "The Museum of Broken Relationships",
+      "image": {
+        "file": "File:Museum of broken relationships.jpg",
+        "alt": "The Museum of Broken Relationships in Zagreb"
+      },
+      "text": "Genuinely one of the city's most memorable, unusual museums, objects and stories donated from real failed relationships worldwide.",
+      "tip": "Genuinely allow more time than you'd expect — the stories are genuinely absorbing."
+    }
+  ],
+  "thingsToDoIntro": "Zagreb genuinely rewards a slower pace, built around markets, museums and a proper café culture.",
+  "thingsToDo": [
+    {
+      "title": "Watch the Lotrščak Tower's noon cannon",
+      "image": {
+        "file": "File:Top of the Lotrščak Tower (13023653254).jpg",
+        "alt": "The top of Lotrščak Tower in Zagreb"
+      },
+      "text": "A genuinely fun daily ritual, a cannon fired from the tower every day at exactly noon, a tradition dating back generations.",
+      "tip": "Genuinely time your Upper Town visit to be nearby at midday for the moment itself."
+    },
+    {
+      "title": "Wander Tkalčićeva Street",
+      "image": {
+        "file": "File:Tkalciceva, Zagreb.JPG",
+        "alt": "Tkalčićeva Street in Zagreb"
+      },
+      "text": "A genuinely essential Zagreb experience, a pedestrian street lined with cafés built for exactly this kind of slow wandering.",
+      "tip": "Genuinely at its liveliest in the early evening, when locals fill every outdoor table."
+    },
+    {
+      "title": "Browse Dolac Market",
+      "image": {
+        "file": "File:Dolac 01.JPG",
+        "alt": "Browsing the stalls at Dolac Market in Zagreb"
+      },
+      "text": "A genuinely authentic slice of daily Zagreb life, browsing stalls of fresh produce, cheese and flowers.",
+      "tip": "Genuinely a great spot to pick up picnic supplies or local cheese to take home."
+    },
+    {
+      "title": "Visit the Museum of Broken Relationships",
+      "image": {
+        "file": "File:Zagreb 's Museum of Broken Relationships second room.jpg",
+        "alt": "Exhibits at the Museum of Broken Relationships in Zagreb"
+      },
+      "text": "A genuinely unusual, moving hour, reading real stories behind donated objects from relationships around the world.",
+      "tip": "Genuinely worth going in without reading too much beforehand — let the exhibits surprise you."
+    },
+    {
+      "title": "Touch the Stone Gate's shrine",
+      "image": {
+        "file": "File:Zagreb - Kamenita vrata (2).jpg",
+        "alt": "The shrine within Zagreb's Stone Gate"
+      },
+      "text": "A genuinely quiet, reflective stop, joining locals who still stop to pray as they pass through.",
+      "tip": "Genuinely keep your voice down — this remains an active, respected place of devotion."
+    },
+    {
+      "title": "Sit for coffee on Ban Jelačić Square",
+      "image": {
+        "file": "File:Tram Ban Josip Jelacic Square in Zagreb, Croatia.jpg",
+        "alt": "Ban Jelačić Square in Zagreb"
+      },
+      "text": "A genuinely essential Zagreb pastime, watching the city's trams and crowds go by from a square-side café.",
+      "tip": "Genuinely a good spot to get your bearings before heading up to the Upper Town."
+    }
+  ],
+  "foodIntro": "Zagreb's food genuinely leans more Central European than the coast, with its own distinct specialities.",
+  "foods": [
+    {
+      "name": "Zagrebački odrezak (Zagreb-style schnitzel)",
+      "image": {
+        "file": "File:Zagrebacki odrezak.jpg",
+        "alt": "Zagrebački odrezak, a breaded veal schnitzel stuffed with ham and cheese"
+      },
+      "text": "Genuinely the city's namesake dish, a breaded veal cutlet stuffed with ham and cheese.",
+      "whereToTry": "Traditional restaurants throughout the Lower Town."
+    },
+    {
+      "name": "Štrukli",
+      "text": "Genuinely a beloved regional specialty, thin dough layered with cottage cheese, baked or boiled.",
+      "whereToTry": "Traditional restaurants throughout the city, especially in the Upper Town."
+    },
+    {
+      "name": "Ćevapi",
+      "image": {
+        "file": "File:Ćevapi in Zagreb.jpg",
+        "alt": "Ćevapi, grilled minced meat skewers popular across Croatia"
+      },
+      "text": "Genuinely a reliable, inexpensive classic, grilled minced meat served with flatbread and onion.",
+      "whereToTry": "Casual restaurants throughout the city centre."
+    },
+    {
+      "name": "Kremšnita (custard cream cake)",
+      "text": "Genuinely a nearby regional favourite from Samobor, layers of custard and cream between crisp pastry.",
+      "whereToTry": "Cafés and patisseries throughout Zagreb."
+    },
+    {
+      "name": "Croatian wine",
+      "text": "Genuinely worth exploring in Zagreb's wine bars, with continental Croatia's whites alongside coastal reds.",
+      "whereToTry": "Wine bars throughout the Lower Town."
+    },
+    {
+      "name": "Fritule (small fried doughnuts)",
+      "image": {
+        "file": "File:Fritule iz Rijeke.jpg",
+        "alt": "Fritule, small Croatian fried doughnuts"
+      },
+      "text": "Genuinely a nice sweet treat, found at bakeries and cafés throughout the city.",
+      "whereToTry": "Bakeries and cafés throughout Zagreb."
+    }
+  ],
+  "accommodation": {
+    "intro": "Zagreb genuinely offers noticeably better value than the coast, with everything of interest within easy reach of the centre.",
+    "areas": [
+      {
+        "name": "Lower Town, near Ban Jelačić Square",
+        "bestFor": "Being genuinely central and within walking distance of most sights",
+        "text": "The most convenient base, close to the Upper Town, Dolac and the main museums."
+      },
+      {
+        "name": "Upper Town (Gornji Grad)",
+        "bestFor": "A genuinely quieter, more atmospheric historic stay",
+        "text": "Fewer accommodation options, but right among the city's oldest streets."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "€25–45 per night" },
+      { "label": "Mid-range hotel", "value": "€90–170 per night" },
+      { "label": "Museum of Broken Relationships entry", "value": "About €8–10" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About €20–40 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Zagreb is genuinely well connected by air and rail to the rest of Europe, and by road to the Dalmatian coast.",
+    "options": [
+      {
+        "mode": "Direct international flights",
+        "text": "Genuinely available from many European cities year-round.",
+        "detail": "Zagreb Airport sits about 30 minutes from the city centre."
+      },
+      {
+        "mode": "Train from nearby capitals",
+        "text": "Genuinely a comfortable option from Vienna, Budapest or Ljubljana.",
+        "detail": "Journey times range from about two to six hours depending on the route."
+      },
+      {
+        "mode": "Bus or car to the Dalmatian coast",
+        "text": "Genuinely straightforward via a modern motorway.",
+        "detail": "About five to six hours to Split, or a shorter hop to Plitvice Lakes."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Zagreb's genuinely compact centre is easily walkable, with trams and a funicular covering the rest.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Genuinely the best way to see the Upper and Lower Towns together.",
+        "detail": "Most major sights sit within a comfortable 20-minute walk of Ban Jelačić Square."
+      },
+      {
+        "mode": "Trams",
+        "text": "Genuinely useful for reaching neighbourhoods further from the centre.",
+        "detail": "A frequent, easy-to-use network across the wider city."
+      },
+      {
+        "mode": "The Zagreb funicular",
+        "text": "Genuinely one of the shortest funiculars in the world, connecting the Lower and Upper Towns.",
+        "detail": "A fun, quick alternative to the short uphill walk."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for pleasant weather and a lively city",
+    "summary": "Zagreb is genuinely a year-round destination, unlike the seasonal Dalmatian coast.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely mild, comfortable weather with the city at its most pleasant for walking."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Genuinely warm, though quieter than usual with many locals away at the coast."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Genuinely comfortable weather with the city's cultural calendar back in full swing."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "good",
+        "text": "Genuinely festive, with one of Europe's best-regarded Christmas markets running through December."
+      }
+    ],
+    "avoid": "Nothing strongly — Zagreb genuinely works well as a year-round city break."
+  },
+  "itinerary": {
+    "title": "Two days in Zagreb",
+    "intro": "Built around the Upper Town's historic sights and the Lower Town's markets and museums.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Upper Town",
+        "summary": "St Mark's, the Stone Gate and Lotrščak Tower.",
+        "morning": "St Mark's Church and the surrounding Upper Town streets.",
+        "afternoon": "The Stone Gate and Lotrščak Tower, timed for the noon cannon.",
+        "evening": "Dinner and drinks along Tkalčićeva Street."
+      },
+      {
+        "day": 2,
+        "title": "The Lower Town",
+        "summary": "Dolac Market and the city's museums.",
+        "morning": "Dolac Market and Zagreb Cathedral.",
+        "afternoon": "The Museum of Broken Relationships or another city museum.",
+        "evening": "A final dinner near Ban Jelačić Square."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Zagreb visit noticeably smoother.",
+  "tips": [
+    "Time genuinely your Upper Town visit for noon to catch the Lotrščak Tower's cannon.",
+    "Visit genuinely Dolac Market in the morning, when it's at its freshest and liveliest.",
+    "Ride genuinely the short funicular between the Lower and Upper Towns, just for the novelty.",
+    "Book genuinely popular restaurants ahead on weekend evenings.",
+    "Use genuinely Zagreb as an easy base for a Plitvice Lakes day trip.",
+    "Expect genuinely noticeably better prices than the Dalmatian coast for food and accommodation."
+  ],
+  "faq": [
+    {
+      "q": "Is Zagreb worth visiting?",
+      "a": "Yes, genuinely — it's an underrated Central European capital with real café culture, quirky museums and a lively year-round atmosphere."
+    },
+    {
+      "q": "How many days do you need in Zagreb?",
+      "a": "Two to three days genuinely covers the Upper and Lower Towns comfortably, with time for a museum or two."
+    },
+    {
+      "q": "Is Zagreb cheaper than the Croatian coast?",
+      "a": "Yes, genuinely — accommodation, food and drink all tend to run noticeably cheaper than Dubrovnik or Hvar."
+    },
+    {
+      "q": "Can you day-trip to Plitvice Lakes from Zagreb?",
+      "a": "Yes, genuinely — it's about two hours by road, a popular day trip or first stop heading toward the coast."
+    },
+    {
+      "q": "Is Zagreb walkable?",
+      "a": "Yes, genuinely — the Upper and Lower Towns both sit within easy walking distance of the central square."
+    },
+    {
+      "q": "When is Zagreb's Christmas market?",
+      "a": "Genuinely throughout December, widely regarded as one of Europe's best, spread across the Upper and Lower Towns."
+    }
+  ],
+  "related": ["plitvice-lakes", "zadar", "split"],
+  "relatedArticles": ["first-trip-to-europe", "food-primer"]
+}

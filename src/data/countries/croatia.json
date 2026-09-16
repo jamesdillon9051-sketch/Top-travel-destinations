@@ -1,0 +1,402 @@
+{
+  "slug": "croatia",
+  "name": "Croatia",
+  "continent": "Southern Europe",
+  "countryCode": "HR",
+  "tagline": "The Adriatic's walled cities and impossibly blue islands, backed by waterfalls that look retouched even before you've cropped the photo.",
+  "cardDescription": "Dubrovnik's medieval walls, Split's living Roman palace, the turquoise cascades of Plitvice Lakes, and a thousand islands scattered down the Dalmatian coast.",
+  "metaDescription": "A complete Croatia travel guide: the 10 best places to visit, ferries, food, costs, etiquette and a ten-day itinerary.",
+  "image": {
+    "file": "File:City walls of Dubrovnik 01.jpg",
+    "alt": "Dubrovnik's medieval city walls above the Adriatic"
+  },
+  "destinations": [
+    "dubrovnik",
+    "split",
+    "hvar",
+    "plitvice-lakes",
+    "zagreb",
+    "rovinj",
+    "zadar",
+    "korcula",
+    "krka-national-park",
+    "pula"
+  ],
+  "intro": [
+    "Croatia is genuinely one of Europe's most photogenic countries, a slim crescent of coastline where medieval walled cities meet a thousand islands scattered across the Adriatic.",
+    "Its case rests genuinely on more than just the coast — Zagreb's café culture and Plitvice Lakes' cascading turquoise pools both hold their own against the Dalmatian islands that usually steal the spotlight.",
+    "Getting around genuinely means a mix of ferries, coastal driving and island-hopping, the whole country built around water in a way few destinations in Europe can match."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit — though Istria and the smaller islands reward a second trip just as much as a first.",
+  "thingsToDoIntro": "The experiences that recur across the country and make a Croatia trip feel like more than a checklist of walled towns.",
+  "thingsToDo": [
+    {
+      "title": "Walk Dubrovnik's city walls",
+      "image": {
+        "file": "File:City walls of Dubrovnik 01.jpg",
+        "alt": "The medieval city walls of Dubrovnik"
+      },
+      "text": "A genuinely essential Croatia experience, circling the entire Old Town on a walkway that's stood since the Middle Ages.",
+      "tip": "Genuinely start at opening time in summer — both the heat and the crowds build fast along the walls."
+    },
+    {
+      "title": "Wander Split's living Roman palace",
+      "image": {
+        "file": "File:View of Diocletian's Palace, Split 01.jpg",
+        "alt": "Diocletian's Palace in Split"
+      },
+      "text": "A genuinely unique experience, an entire neighbourhood of homes, shops and cafés built inside a 1,700-year-old Roman emperor's retirement palace.",
+      "tip": "Genuinely visit the cathedral's bell tower for a view straight down into the palace's ancient layout."
+    },
+    {
+      "title": "Island-hop the Dalmatian coast by ferry",
+      "image": {
+        "file": "File:Jadrolinija Ferry, Split.jpg",
+        "alt": "A Jadrolinija ferry connecting Croatia's Dalmatian islands"
+      },
+      "text": "A genuinely essential part of Croatian travel, hopping between islands by an extensive, reliable ferry network.",
+      "tip": "Genuinely book car ferries ahead in peak summer; foot-passenger tickets are usually fine to buy on the day."
+    },
+    {
+      "title": "Eat fresh seafood at a konoba",
+      "image": {
+        "file": "File:Tuna na žaru - Konoba Kolona (14982130756).jpg",
+        "alt": "Grilled tuna at a traditional Croatian konoba"
+      },
+      "text": "A genuinely essential ritual, simply grilled fish and seafood at a traditional family-run konoba.",
+      "tip": "Genuinely ask what came in that day — the best konobas cook around the morning's catch, not a fixed menu."
+    },
+    {
+      "title": "Follow Plitvice's boardwalks over turquoise water",
+      "image": {
+        "file": "File:NP06 Nacionalni park Plitvička jezera -Lika-Senj 07.jpg",
+        "alt": "Wooden boardwalks over Plitvice Lakes' turquoise water"
+      },
+      "text": "A genuinely magical walk, wooden boardwalks winding directly over and beside cascading turquoise pools.",
+      "tip": "Genuinely swimming isn't permitted in the lakes — the boardwalk views are the main event here."
+    },
+    {
+      "title": "Drink Croatian wine",
+      "text": "A genuinely underrated part of a Croatia trip, with Istria and the Pelješac Peninsula both producing excellent, increasingly respected wine.",
+      "tip": "Genuinely seek out a small family winery rather than a resort wine list for the best, most distinctive bottles."
+    }
+  ],
+  "foodIntro": "Croatian food genuinely splits along its coastline and interior, from Adriatic seafood to heartier Central European cooking inland.",
+  "foods": [
+    {
+      "name": "Peka (meat or seafood slow-cooked under a bell)",
+      "text": "Genuinely a Dalmatian classic, meat, seafood and vegetables slow-cooked together under a metal dome buried in embers.",
+      "whereToTry": "Traditional konobas throughout Dalmatia — usually order ahead, as it takes hours to cook."
+    },
+    {
+      "name": "Crni rižot (black risotto)",
+      "image": {
+        "file": "File:Risotto al nero di seppia.jpg",
+        "alt": "Black risotto made with cuttlefish ink"
+      },
+      "text": "Genuinely a striking Dalmatian classic, rice cooked in cuttlefish or squid ink for a deep, briny flavour.",
+      "whereToTry": "Seafood restaurants throughout the Dalmatian coast."
+    },
+    {
+      "name": "Dalmatinski pršut (dry-cured ham)",
+      "image": {
+        "file": "File:Dalmatinski pršut.jpg",
+        "alt": "Dalmatinski pršut, Croatia's dry-cured ham"
+      },
+      "text": "Genuinely a source of real regional pride, wind-cured ham often served simply with local cheese and olives.",
+      "whereToTry": "Restaurants and konobas throughout Dalmatia."
+    },
+    {
+      "name": "Fresh grilled seafood",
+      "image": {
+        "file": "File:Skampi Na Zaru - Konoba Ivan (14929244641).jpg",
+        "alt": "Grilled seafood at a traditional Croatian restaurant"
+      },
+      "text": "Genuinely a highlight of coastal dining, fish and shellfish grilled simply to let the freshness speak for itself.",
+      "whereToTry": "Konobas and seafood restaurants along the entire coast."
+    },
+    {
+      "name": "Croatian wine",
+      "text": "Genuinely worth exploring beyond the obvious, with Istria's whites and Pelješac's bold reds both increasingly recognised internationally.",
+      "whereToTry": "Wine bars and family wineries throughout Istria and Dalmatia."
+    },
+    {
+      "name": "Fritule (small fried doughnuts)",
+      "image": {
+        "file": "File:Fritule iz Rijeke.jpg",
+        "alt": "Fritule, small Croatian fried doughnuts"
+      },
+      "text": "Genuinely a beloved sweet treat, bite-sized fried dough often flavoured with rum, raisins or citrus zest.",
+      "whereToTry": "Bakeries and markets throughout the country, especially around winter holidays."
+    }
+  ],
+  "practicalIntro": "The essentials for planning a Croatia trip, gathered in one place.",
+  "practical": {
+    "capital": "Zagreb",
+    "language": "Croatian; English is widely spoken in tourist areas along the coast.",
+    "currency": "Euro (€)",
+    "money": "Genuinely straightforward — Croatia adopted the euro in 2023, and cards are widely accepted, including on most islands.",
+    "visa": "Schengen Area member since 2023; visa-free entry for up to 90 days in any 180-day period for many nationalities including the US, Canada, Australia and the UK.",
+    "plugs": "Type C and F, 230 V, 50 Hz.",
+    "emergency": "112 for general emergencies nationwide.",
+    "tipping": "Not obligatory but genuinely appreciated — around 10% at restaurants, rounding up for casual service.",
+    "safety": "Genuinely one of Europe's safer countries, with normal precautions around pickpockets in busy tourist areas like Dubrovnik's Old Town.",
+    "connectivity": "Genuinely excellent 4G and 5G coverage, including on most islands, with wifi widely available.",
+    "timeZone": "Central European Time (UTC+1), Central European Summer Time (UTC+2) from late March to late October.",
+    "budget": [
+      {
+        "label": "Backpacker",
+        "value": "€50–80 per day — hostels, ferries, grocery-store meals"
+      },
+      {
+        "label": "Mid-range",
+        "value": "€100–180 per day — 3-star hotels, restaurant dinners, some boat trips"
+      },
+      {
+        "label": "Comfortable",
+        "value": "€220–400 per day — boutique hotels, private tours, island-hopping charters"
+      },
+      {
+        "label": "Dubrovnik peak-season premium",
+        "value": "Add significantly — July and August prices run noticeably higher than the rest of the country"
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for warm weather without peak-summer crowds",
+    "summary": "Croatia's genuinely long, hot summer draws the biggest crowds and highest prices, with shoulder months offering the best overall balance.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely warm enough to swim, with noticeably thinner crowds than July and August."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Genuinely hot and lively, though Dubrovnik and Hvar get genuinely packed and prices peak."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "best",
+        "text": "Genuinely still warm enough for the sea, with the summer crowds noticeably thinned out."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "okay",
+        "text": "Genuinely quiet along the coast, with many island businesses closed for the season; Zagreb stays lively year-round."
+      }
+    ],
+    "avoid": "Genuinely nothing strongly, though peak July and August bring the coast's highest prices and heaviest crowds."
+  },
+  "tripDuration": {
+    "headline": "10–14 days for a first trip",
+    "summary": "Croatia's genuinely elongated coastline means a rushed itinerary spends more time travelling than exploring.",
+    "options": [
+      {
+        "length": "5–6 days",
+        "text": "Dubrovnik and Split as a focused Dalmatian coast trip.",
+        "detail": "Genuinely enough for two of the country's essential cities without feeling rushed."
+      },
+      {
+        "length": "7–9 days",
+        "text": "Split, Hvar and Dubrovnik, with Plitvice Lakes added on.",
+        "detail": "A genuinely well-paced introduction to Croatia's coast and its best-known national park."
+      },
+      {
+        "length": "10–14 days",
+        "text": "The itinerary on this page: Zagreb, Plitvice Lakes, Zadar, Split, Hvar and Dubrovnik.",
+        "detail": "A genuinely complete first look at Croatia's inland capital and Dalmatian coast."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Add Istria, Korčula and Krka National Park in full.",
+        "detail": "Istria and the smaller islands are genuinely where a second Croatia trip belongs."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "A mix of ferries, buses and driving is genuinely the standard way to see Croatia — the coastline and islands make this less a single road trip than a series of connected hops.",
+    "options": [
+      {
+        "mode": "Ferries and catamarans",
+        "text": "Genuinely essential for reaching [[hvar|Hvar]], [[korcula|Korčula]] and other islands from [[split|Split]] or [[dubrovnik|Dubrovnik]].",
+        "detail": "Jadrolinija and several private operators run frequent routes in summer, fewer in winter."
+      },
+      {
+        "mode": "Long-distance buses",
+        "text": "Genuinely comfortable and reliable for coastal routes between [[zagreb|Zagreb]], [[zadar|Zadar]], [[split|Split]] and [[dubrovnik|Dubrovnik]].",
+        "detail": "The coastal road offers genuinely spectacular views for most of the journey."
+      },
+      {
+        "mode": "Renting a car",
+        "text": "Genuinely useful for reaching [[plitvice-lakes|Plitvice Lakes]], [[krka-national-park|Krka National Park]] and [[rovinj|Rovinj]] in Istria at your own pace.",
+        "detail": "Not needed on the smaller car-free islands, where walking covers everything."
+      },
+      {
+        "mode": "Domestic flights",
+        "text": "Genuinely useful for connecting [[zagreb|Zagreb]] to [[dubrovnik|Dubrovnik]] quickly.",
+        "detail": "A short hop that saves the better part of a day compared to the coastal drive."
+      },
+      {
+        "mode": "Walking within old towns",
+        "text": "Genuinely the only way to explore [[dubrovnik|Dubrovnik]], [[split|Split]] and [[rovinj|Rovinj]]'s historic centres.",
+        "detail": "All three are compact, car-free and genuinely made for wandering on foot."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Ten days in Croatia",
+    "intro": "A classic route from inland Zagreb down the Dalmatian coast to Dubrovnik. Covers six of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Zagreb",
+        "morning": "Land in Zagreb and check in to your hotel.",
+        "afternoon": "Explore Zagreb's Upper Town and main square.",
+        "evening": "Dinner in the Tkalčićeva Street area."
+      },
+      {
+        "day": 2,
+        "title": "Plitvice Lakes",
+        "morning": "Travel to Plitvice Lakes National Park.",
+        "afternoon": "Walk the boardwalks between the park's turquoise lakes.",
+        "evening": "Dinner near the park before continuing south."
+      },
+      {
+        "day": 3,
+        "title": "Zadar",
+        "morning": "Travel on to the coastal city of Zadar.",
+        "afternoon": "Zadar's Roman Forum and the Sea Organ.",
+        "evening": "Watch sunset from the waterfront promenade."
+      },
+      {
+        "day": 4,
+        "title": "Travel to Split",
+        "morning": "Travel south along the coast to Split.",
+        "afternoon": "First exploration of Diocletian's Palace.",
+        "evening": "Dinner in the palace's atmospheric old streets."
+      },
+      {
+        "day": 5,
+        "title": "Split in full",
+        "morning": "Climb the cathedral bell tower for the view.",
+        "afternoon": "Explore Split's markets and waterfront promenade.",
+        "evening": "A final Split dinner before the ferry onward."
+      },
+      {
+        "day": 6,
+        "title": "Ferry to Hvar",
+        "morning": "Catamaran from Split to Hvar Town.",
+        "afternoon": "Explore Hvar's old town and fortress.",
+        "evening": "Dinner on the harbourfront."
+      },
+      {
+        "day": 7,
+        "title": "Hvar's beaches",
+        "morning": "A boat trip to the Pakleni Islands.",
+        "afternoon": "Beach time and swimming in clear water.",
+        "evening": "Drinks at a harbourside bar."
+      },
+      {
+        "day": 8,
+        "title": "On to Dubrovnik",
+        "morning": "Ferry or transfer to Dubrovnik.",
+        "afternoon": "First walk through the Old Town.",
+        "evening": "Dinner with a view of the floodlit walls."
+      },
+      {
+        "day": 9,
+        "title": "Dubrovnik's walls and cable car",
+        "morning": "Walk the full circuit of the city walls.",
+        "afternoon": "Cable car up Srđ Hill for the panoramic view.",
+        "evening": "A final Dalmatian dinner in the Old Town."
+      },
+      {
+        "day": 10,
+        "title": "Return and depart",
+        "morning": "A final wander or last-minute shopping.",
+        "afternoon": "Free time or a swim before departure.",
+        "evening": "Depart for home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Croatian culture genuinely blends Central European and Mediterranean influences, with real regional pride running deep between Dalmatia, Istria and the inland capital.",
+    "etiquette": [
+      {
+        "title": "Greetings are genuinely warm but not overly familiar",
+        "text": "A handshake is standard on first meeting; closer acquaintances may greet with a cheek kiss."
+      },
+      {
+        "title": "Coffee culture runs genuinely deep",
+        "text": "Sitting for a slow coffee is a genuine daily ritual, not a quick grab-and-go habit."
+      },
+      {
+        "title": "Regional pride is genuinely real",
+        "text": "Dalmatian, Istrian and Zagreb identities are each distinct — avoid generalising too broadly about 'Croatia' to locals."
+      },
+      {
+        "title": "Dress modestly for churches",
+        "text": "Covered shoulders and knees are genuinely expected when visiting religious sites."
+      },
+      {
+        "title": "Tipping is genuinely modest but appreciated",
+        "text": "Around 10% at restaurants, rounding up for cafés and casual service."
+      },
+      {
+        "title": "Swimming spots are genuinely taken seriously",
+        "text": "Respect posted rules around protected areas like Plitvice Lakes, where swimming is banned to protect the ecosystem."
+      }
+    ],
+    "dos": [
+      "Book ferries and accommodation well ahead for July and August travel.",
+      "Try the regional specialities — Dalmatian and Istrian cuisine genuinely differ from each other.",
+      "Wear comfortable shoes — old town streets are almost entirely stone and can be slippery when wet.",
+      "Carry a little cash for smaller island businesses, even though cards are widely accepted."
+    ],
+    "donts": [
+      "Don't swim or wade in Plitvice Lakes National Park — it's prohibited to protect the travertine formations.",
+      "Don't expect a rushed pace on the islands — service and ferries alike run on a relaxed island schedule.",
+      "Don't underestimate summer heat — pace outdoor sightseeing for the cooler morning and evening hours.",
+      "Don't skip travel insurance for ferry-heavy itineraries — schedules can shift with weather."
+    ]
+  },
+  "tipsIntro": "Practical notes that make travel through Croatia noticeably smoother.",
+  "tips": [
+    "Book genuinely ferries and popular accommodation well ahead for a July or August trip.",
+    "Pack genuinely comfortable, grippy shoes — old town streets are polished stone and can be slippery.",
+    "Carry genuinely a little cash for smaller island businesses and konobas.",
+    "Check genuinely ferry schedules the day before travel — routes can shift with weather or season.",
+    "Visit genuinely Dubrovnik's walls first thing in the morning to beat both heat and crowds.",
+    "Pace genuinely outdoor sightseeing around the cooler morning and evening hours in peak summer.",
+    "Book genuinely Plitvice Lakes tickets online ahead in peak season — daily visitor numbers are capped.",
+    "Consider genuinely basing a trip around fewer islands rather than rushing between many."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Croatia?",
+      "a": "Ten to fourteen days genuinely covers Zagreb, Plitvice Lakes and the main Dalmatian coast at a reasonable pace, which is the itinerary in this guide. A week is enough for a focused Dubrovnik-and-Split trip."
+    },
+    {
+      "q": "Is Croatia expensive?",
+      "a": "Genuinely mid-range by European standards outside peak summer, though Dubrovnik and Hvar in July and August run noticeably higher."
+    },
+    {
+      "q": "Do you need a car in Croatia?",
+      "a": "No, genuinely not for the main Dalmatian coast — buses and ferries cover it well, though a car helps for Istria and the national parks."
+    },
+    {
+      "q": "Is Croatia on the euro?",
+      "a": "Yes, genuinely — Croatia adopted the euro in January 2023, alongside joining the Schengen Area."
+    },
+    {
+      "q": "Can you swim in Plitvice Lakes?",
+      "a": "No, genuinely not — swimming is prohibited throughout the national park to protect its travertine formations."
+    },
+    {
+      "q": "Is Croatia safe?",
+      "a": "Yes, genuinely — one of Europe's safer countries, with petty theft in busy tourist areas the main thing to watch for."
+    }
+  ]
+}
