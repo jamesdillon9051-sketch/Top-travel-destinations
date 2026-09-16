@@ -1,0 +1,370 @@
+{
+  "slug": "isle-of-skye",
+  "name": "The Isle of Skye",
+  "country": "scotland",
+  "region": "Inner Hebrides",
+  "categories": ["nature", "scenic-drive", "hiking", "island"],
+  "tagline": "Scotland's most famous island, a landscape of jagged ridges, sea cliffs and mist-wrapped peaks that rarely photographs as dramatically as it feels in person.",
+  "highlight": "Standing beneath the Old Man of Storr's jagged pinnacle as low cloud drifts across the ridge above, genuinely one of Scotland's defining views.",
+  "shortDescription": "Scotland's most iconic island, home to the Old Man of Storr, the Quiraing and the Fairy Pools, and some of the country's most dramatic Highland scenery.",
+  "metaDescription": "An Isle of Skye travel guide: the Old Man of Storr, the Quiraing, the Fairy Pools, food and how to plan a visit to Scotland's most famous island.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Inverness Airport (INV)",
+  "knownFor": "The Old Man of Storr, the Quiraing, the Fairy Pools",
+  "budget": "£100–190 per day, mid-range",
+  "goodFor": "Hiking, scenic drives, dramatic landscapes",
+  "coords": { "lat": 57.4128, "lng": -6.1943 },
+  "image": {
+    "file": "File:Quiraing, Isle of Skye, Scotland - Diliff.jpg",
+    "alt": "The dramatic landslip landscape of the Quiraing on the Isle of Skye"
+  },
+  "intro": [
+    "The Isle of Skye is genuinely Scotland's most famous island, a landscape of jagged rock pinnacles, sheer sea cliffs and mist-wrapped mountains that has become the country's defining image for many first-time visitors.",
+    "Its geology genuinely does the heavy lifting — ancient volcanic activity and later landslips created the Old Man of Storr and the Quiraing's otherworldly terrain, while the Cuillin range offers some of Britain's most serious mountain scenery.",
+    "Most visitors genuinely base themselves in Portree, the island's small, colourful main town, using it as a base for day trips to the north and south of an island considerably larger, and slower to cross, than it first appears."
+  ],
+  "whyVisit": {
+    "intro": "Skye's case rests on genuinely some of Scotland's most dramatic and photographed landscapes, concentrated on a single island.",
+    "points": [
+      {
+        "title": "The Old Man of Storr is genuinely Scotland's most photographed rock",
+        "text": "A jagged basalt pinnacle rising from a landslip-scarred hillside, reached by a rewarding hike."
+      },
+      {
+        "title": "The Quiraing is genuinely otherworldly",
+        "text": "A still-shifting landslip landscape of hidden plateaus and towers unlike anywhere else in Scotland."
+      },
+      {
+        "title": "The Fairy Pools are genuinely a real swimming spot, not just a photo stop",
+        "text": "Crystal-clear pools and waterfalls beneath the Cuillin, cold but genuinely swimmable in summer."
+      },
+      {
+        "title": "Talisker Distillery is genuinely Skye's own whisky",
+        "text": "A distinctly peaty, maritime single malt made right on the island since 1830."
+      },
+      {
+        "title": "Portree is genuinely a charming, colourful base",
+        "text": "A small harbour town with brightly painted buildings, well set up for exploring the wider island."
+      }
+    ]
+  },
+  "attractionsIntro": "Skye's essential sights are genuinely spread across a larger island than first-time visitors expect, best tackled north and south in separate trips.",
+  "attractions": [
+    {
+      "name": "The Old Man of Storr",
+      "image": {
+        "file": "File:Old Man Of Storr.jpg",
+        "alt": "The Old Man of Storr rock pinnacle on the Isle of Skye"
+      },
+      "text": "Genuinely Scotland's most photographed rock formation, a jagged 55-metre basalt pinnacle rising from a dramatic landslip-scarred hillside.",
+      "tip": "Genuinely start early — the car park and trail get seriously busy by mid-morning in summer."
+    },
+    {
+      "name": "The Quiraing",
+      "image": {
+        "file": "File:Quiraing, Isle of Skye, Scotland - Diliff.jpg",
+        "alt": "The Quiraing's landslip landscape on the Isle of Skye"
+      },
+      "text": "A genuinely otherworldly landscape formed by an ongoing landslip, with hidden plateaus and rock towers unlike anywhere else in Scotland.",
+      "tip": "The genuinely full loop trail takes three to four hours — a shorter out-and-back also rewards less time."
+    },
+    {
+      "name": "The Fairy Pools",
+      "image": {
+        "file": "File:The Fairy Pools. Skye. - Flickr - gailhampshire.jpg",
+        "alt": "The crystal-clear Fairy Pools beneath the Cuillin on Skye"
+      },
+      "text": "Genuinely a real place to swim, not just photograph, crystal-clear pools and waterfalls beneath the dramatic Cuillin ridge.",
+      "tip": "The genuinely water is cold year-round — a wetsuit makes a real difference for swimming."
+    },
+    {
+      "name": "Portree",
+      "image": {
+        "file": "File:Portree harbour front 2016.jpg",
+        "alt": "The colourful harbourfront of Portree on the Isle of Skye"
+      },
+      "text": "Genuinely Skye's main town, a small, colourful harbour with brightly painted buildings and the island's best concentration of restaurants.",
+      "tip": "The genuinely harbourfront makes an easy, pleasant evening walk after a day out on the island."
+    },
+    {
+      "name": "Neist Point Lighthouse",
+      "image": {
+        "file": "File:Neist Point Lighthouse in 2013, Isle of Skye.jpg",
+        "alt": "Neist Point Lighthouse on the westernmost point of Skye"
+      },
+      "text": "Genuinely Skye's westernmost point, a dramatic clifftop lighthouse reached by a scenic if occasionally muddy walk.",
+      "tip": "Genuinely one of the island's best spots for sunset, weather permitting."
+    },
+    {
+      "name": "Dunvegan Castle",
+      "image": {
+        "file": "File:Skye Dunvegan Castle 1.jpg",
+        "alt": "Dunvegan Castle on the Isle of Skye"
+      },
+      "text": "Genuinely Scotland's oldest continuously inhabited castle, home to Clan MacLeod for over 800 years, with gardens overlooking a sea loch.",
+      "tip": "The genuinely gardens alone are worth the visit, even without touring the castle interior."
+    },
+    {
+      "name": "Talisker Distillery",
+      "image": {
+        "file": "File:Talisker distillery.jpg",
+        "alt": "Talisker Distillery on the Isle of Skye"
+      },
+      "text": "Genuinely Skye's own distillery since 1830, producing a distinctly peaty, maritime single malt right on the island's shore.",
+      "tip": "Book genuinely a tour ahead in summer — it's the island's most popular distillery visit."
+    }
+  ],
+  "thingsToDoIntro": "Skye genuinely rewards splitting a visit between its dramatic northern peninsula and its mountainous south.",
+  "thingsToDo": [
+    {
+      "title": "Hike to the Old Man of Storr",
+      "image": {
+        "file": "File:The Old Man of Storr, Skye.jpg",
+        "alt": "Hikers on the trail to the Old Man of Storr"
+      },
+      "text": "A genuinely moderate two-hour round trip, steep in places but rewarded by one of Scotland's most iconic views.",
+      "tip": "Genuinely wear proper hiking boots — the path is uneven and can be slippery when wet."
+    },
+    {
+      "title": "Walk the Quiraing ridge",
+      "image": {
+        "file": "File:South over the Quiraing, Isle of Skye - 2.jpg",
+        "alt": "Hikers on the Quiraing ridge trail"
+      },
+      "text": "A genuinely spectacular, if occasionally exposed, ridge walk through the Quiraing's shifting landslip landscape.",
+      "tip": "Genuinely avoid in high wind or fog — the exposed sections demand clear, calm conditions."
+    },
+    {
+      "title": "Swim in the Fairy Pools",
+      "image": {
+        "file": "File:Fairy Pools, Skye, Scotland 17 (highest pool).jpg",
+        "alt": "The clear waters of the Fairy Pools on Skye"
+      },
+      "text": "A genuinely memorable, if bracing, wild swim in crystal-clear pools beneath the Cuillin range.",
+      "tip": "Genuinely bring a change of dry clothes — the water stays cold even in summer."
+    },
+    {
+      "title": "Watch the sunset at Neist Point",
+      "image": {
+        "file": "File:Cliffs and Neist Point Lighthouse (2013).jpg",
+        "alt": "Sunset over the cliffs at Neist Point on Skye"
+      },
+      "text": "A genuinely rewarding evening trip to the island's westernmost tip, with sweeping Atlantic views from the lighthouse.",
+      "tip": "Genuinely bring a torch for the walk back if staying until after sunset."
+    },
+    {
+      "title": "Tour Talisker Distillery",
+      "image": {
+        "file": "File:Talisker Distillery, Isle of Skye.jpg",
+        "alt": "Visitors touring Talisker Distillery on Skye"
+      },
+      "text": "A genuinely engaging tour through Skye's own whisky-making history, ending with a tasting of its distinctly peaty single malt.",
+      "tip": "Genuinely book ahead in summer — tour slots fill up on busy days."
+    },
+    {
+      "title": "Explore Dunvegan Castle's gardens",
+      "image": {
+        "file": "File:Dunvegan Castle at low tide.jpg",
+        "alt": "The gardens and grounds of Dunvegan Castle"
+      },
+      "text": "A genuinely peaceful contrast to the island's wilder landscapes, formal gardens overlooking a sheltered sea loch.",
+      "tip": "Genuinely check for seal-spotting boat trips, which depart right from the castle grounds."
+    }
+  ],
+  "foodIntro": "Skye's food genuinely leans on fresh seafood straight from the surrounding waters, alongside the island's own whisky.",
+  "foods": [
+    {
+      "name": "Haggis, neeps and tatties",
+      "image": {
+        "file": "File:Haggis, neeps and tatties.jpg",
+        "alt": "Haggis served with neeps and tatties, Scotland's national dish"
+      },
+      "text": "A genuinely warming meal after a long day of hiking, found on menus across the island.",
+      "whereToTry": "Restaurants and pubs throughout Portree."
+    },
+    {
+      "name": "Talisker single malt",
+      "image": {
+        "file": "File:Talisker distillery.jpg",
+        "alt": "Talisker Distillery, home to Skye's own single malt whisky"
+      },
+      "text": "Genuinely best tasted at the source, a distinctly peaty, maritime whisky made right on the island.",
+      "whereToTry": "The distillery itself, and pubs throughout Portree."
+    },
+    {
+      "name": "Fresh langoustines",
+      "text": "Genuinely a Skye specialty, sweet, delicate shellfish landed straight from the surrounding waters.",
+      "whereToTry": "Seafood restaurants throughout Portree and along the coast."
+    },
+    {
+      "name": "Cullen skink",
+      "image": {
+        "file": "File:Cullen Skink.JPG",
+        "alt": "Cullen skink, a traditional Scottish smoked haddock soup"
+      },
+      "text": "A genuinely warming choice after a windy day on the Quiraing or Neist Point.",
+      "whereToTry": "Restaurants and pubs throughout the island."
+    },
+    {
+      "name": "Scottish shortbread",
+      "image": {
+        "file": "File:Scottish Shortbread Biscuits.jpg",
+        "alt": "Traditional Scottish shortbread biscuits"
+      },
+      "text": "A genuinely simple, buttery treat found in cafés across the island, good trail fuel for a day of hiking.",
+      "whereToTry": "Cafés and bakeries throughout Portree."
+    },
+    {
+      "name": "Scottish salmon",
+      "text": "Genuinely excellent, farmed and wild-caught from the sea lochs surrounding the island.",
+      "whereToTry": "Restaurants throughout Portree and the wider island."
+    }
+  ],
+  "accommodation": {
+    "intro": "Portree genuinely serves as Skye's main base, though guesthouses are scattered across the island's north and south.",
+    "areas": [
+      {
+        "name": "Portree",
+        "bestFor": "Being genuinely central to both the north and south of the island",
+        "text": "The most practical base, with the widest choice of restaurants and accommodation."
+      },
+      {
+        "name": "The Trotternish Peninsula",
+        "bestFor": "A genuinely closer base to the Old Man of Storr and the Quiraing",
+        "text": "Small guesthouses closer to the island's most famous northern sights."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "£35–70 per night" },
+      { "label": "Mid-range hotel", "value": "£100–190 per night" },
+      { "label": "Talisker Distillery tour", "value": "About £15–30" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About £20–35 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Skye is genuinely reachable by road via a bridge, or by ferry for a more scenic arrival.",
+    "options": [
+      {
+        "mode": "Rental car via the Skye Bridge",
+        "text": "Genuinely the most practical way in, connecting the island directly to the mainland at Kyle of Lochalsh.",
+        "detail": "About three hours from Glasgow or Inverness by road."
+      },
+      {
+        "mode": "Ferry from Mallaig or Glenelg",
+        "text": "A genuinely more scenic, traditional way to arrive, especially the small Glenelg crossing.",
+        "detail": "The Mallaig to Armadale route runs a regular timetable in season."
+      },
+      {
+        "mode": "Bus from Inverness or Glasgow",
+        "text": "Genuinely a workable option without a car, arriving directly into Portree.",
+        "detail": "Best combined with local tours once on the island, given its spread-out sights."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is genuinely the most practical way to see Skye's spread-out, larger-than-expected landscape.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Genuinely essential for covering both the Trotternish Peninsula and the Cuillin at a flexible pace.",
+        "detail": "Single-track roads with passing places are genuinely common outside Portree."
+      },
+      {
+        "mode": "On foot in Portree",
+        "text": "Genuinely easy — the town itself is small and walkable.",
+        "detail": "Wider island sights all require a car or organised tour."
+      },
+      {
+        "mode": "Organised day tours",
+        "text": "Genuinely a relaxed option for visitors without a rental car.",
+        "detail": "Widely available from Portree, covering the island's main highlights."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for the clearest views and fewest midges",
+    "summary": "Skye is genuinely visitable year-round, though clear days for the best views are far more likely outside midsummer and winter storms.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely good odds of clear visibility and noticeably fewer midges than midsummer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The busiest season, and genuinely peak midge season on still, warm evenings."
+      },
+      {
+        "season": "Early autumn (September)",
+        "rating": "good",
+        "text": "Genuinely a quieter window with still-decent weather odds."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Genuinely dramatic but often severe, with real risk of trails becoming hazardous in storms."
+      }
+    ],
+    "avoid": "Attempting the Quiraing ridge or Old Man of Storr trail in high wind or fog — genuinely a serious hazard on Skye's exposed terrain."
+  },
+  "itinerary": {
+    "title": "Two days on the Isle of Skye",
+    "intro": "Built around the Trotternish Peninsula's north on day one, the Cuillin and west on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Trotternish Peninsula",
+        "summary": "The Old Man of Storr and the Quiraing.",
+        "morning": "Hike to the Old Man of Storr.",
+        "afternoon": "Walk the Quiraing ridge.",
+        "evening": "Dinner in Portree."
+      },
+      {
+        "day": 2,
+        "title": "The Cuillin and the west",
+        "summary": "The Fairy Pools, Talisker and Dunvegan.",
+        "morning": "Swim in the Fairy Pools.",
+        "afternoon": "Tour Talisker Distillery and visit Dunvegan Castle.",
+        "evening": "Sunset at Neist Point."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make an Isle of Skye visit noticeably smoother.",
+  "tips": [
+    "Start genuinely early for the Old Man of Storr and Fairy Pools — both car parks fill fast in summer.",
+    "Learn genuinely single-track road and passing-place etiquette before driving on the island.",
+    "Pack genuinely proper waterproofs and midge repellent regardless of forecast.",
+    "Avoid genuinely the Quiraing ridge in high wind or poor visibility.",
+    "Book Talisker Distillery tours genuinely ahead in peak summer.",
+    "Budget genuinely more driving time than expected — the island is larger than it first appears."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need on the Isle of Skye?",
+      "a": "Two to three days genuinely covers the Old Man of Storr, the Quiraing and the Fairy Pools comfortably."
+    },
+    {
+      "q": "Can you visit Skye as a day trip?",
+      "a": "It's genuinely possible from Inverness or Fort William, but rushed — the island rewards at least an overnight stay."
+    },
+    {
+      "q": "Is the Old Man of Storr hike difficult?",
+      "a": "Genuinely moderate — steep in places over about two hours round trip, but manageable for most fitness levels with proper footwear."
+    },
+    {
+      "q": "What is the Isle of Skye known for?",
+      "a": "Genuinely its dramatic landscapes — the Old Man of Storr, the Quiraing and the Fairy Pools — alongside its own Talisker whisky distillery."
+    },
+    {
+      "q": "Can you swim in the Fairy Pools?",
+      "a": "Yes, genuinely, though the water stays cold year-round — many visitors bring a wetsuit for a proper swim."
+    },
+    {
+      "q": "Do you need a car on Skye?",
+      "a": "Yes, genuinely essential — the island's sights are spread across a larger area than first-time visitors expect, with limited public transport."
+    }
+  ],
+  "related": ["loch-ness-inverness", "isle-of-mull-iona-staffa", "cairngorms-national-park"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

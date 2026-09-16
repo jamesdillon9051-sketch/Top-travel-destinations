@@ -1,0 +1,361 @@
+{
+  "slug": "st-andrews",
+  "name": "St Andrews",
+  "country": "scotland",
+  "region": "Fife",
+  "categories": ["history", "culture", "coastal", "golf"],
+  "tagline": "The home of golf and one of Scotland's oldest universities, a small, windswept coastal town with an outsized place in history.",
+  "highlight": "Watching golfers cross the Swilcan Bridge on the Old Course, the same stone crossing photographed by generations of the sport's greatest players.",
+  "shortDescription": "The home of golf and one of Scotland's oldest universities, a small coastal town of medieval ruins, the Old Course and windswept beaches.",
+  "metaDescription": "A St Andrews travel guide: the Old Course, St Andrews Cathedral, the university, food and how to plan a visit to the home of golf.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Edinburgh Airport (EDI)",
+  "knownFor": "The Old Course, the university, medieval ruins",
+  "budget": "£100–190 per day, mid-range",
+  "goodFor": "Golf history, university towns, coastal walks",
+  "coords": { "lat": 56.3398, "lng": -2.7967 },
+  "image": {
+    "file": "File:Old Course, St Andrews, 2006 (02).jpg",
+    "alt": "The Old Course at St Andrews, the home of golf"
+  },
+  "intro": [
+    "St Andrews is genuinely known worldwide as the home of golf, its Old Course a place of pilgrimage for players long before most visitors ever set foot in the small Fife town surrounding it.",
+    "That single reputation genuinely undersells the place — St Andrews is also home to Scotland's oldest university, founded in 1413, and the substantial ruins of what was once the largest cathedral in Scotland, a reminder of the town's earlier role as the country's religious capital.",
+    "Most visitors genuinely spend a day or two here, walking the Old Course's famous Swilcan Bridge, the cathedral ruins and the windswept West Sands beach, all within a genuinely compact, walkable town centre."
+  ],
+  "whyVisit": {
+    "intro": "St Andrews' case rests on genuinely being the literal birthplace of golf, layered with deep medieval and academic history.",
+    "points": [
+      {
+        "title": "It's genuinely the birthplace of golf",
+        "text": "The Old Course has been played since the 15th century, making it the sport's spiritual home."
+      },
+      {
+        "title": "The cathedral ruins are genuinely substantial",
+        "text": "Once Scotland's largest cathedral, its remains still convey real scale and grandeur."
+      },
+      {
+        "title": "The university is genuinely Scotland's oldest",
+        "text": "Founded in 1413, with a beautiful, historic campus woven through the town itself."
+      },
+      {
+        "title": "West Sands beach is genuinely famous beyond golf",
+        "text": "Its opening scene in Chariots of Fire made it recognisable well beyond Scotland."
+      },
+      {
+        "title": "It's genuinely compact and walkable",
+        "text": "Every major sight sits within a comfortable walk of the town centre."
+      }
+    ]
+  },
+  "attractionsIntro": "St Andrews' essential sights combine the literal home of golf with substantial medieval and academic history.",
+  "attractions": [
+    {
+      "name": "The Old Course",
+      "image": {
+        "file": "File:Old Course, St Andrews, 2006 (02).jpg",
+        "alt": "The Old Course at St Andrews"
+      },
+      "text": "Genuinely the oldest golf course in the world, played since the 15th century and still a working public course today.",
+      "tip": "Genuinely a public right of way crosses parts of the course — you can walk sections even without playing."
+    },
+    {
+      "name": "Swilcan Bridge",
+      "image": {
+        "file": "File:Swilcan Bridge at St. Andrews.jpg",
+        "alt": "The Swilcan Bridge on the Old Course at St Andrews"
+      },
+      "text": "Genuinely golf's most iconic crossing, a small stone bridge photographed by generations of the sport's greatest players on their final round.",
+      "tip": "Genuinely early morning offers the best chance of an uncrowded photo."
+    },
+    {
+      "name": "St Andrews Cathedral ruins",
+      "image": {
+        "file": "File:St Andrews Cathedral Ruins - geograph.org.uk - 2927130.jpg",
+        "alt": "The ruins of St Andrews Cathedral"
+      },
+      "text": "Genuinely once the largest cathedral in Scotland, its substantial ruins still convey real scale from the town's medieval religious importance.",
+      "tip": "Genuinely climb St Rule's Tower, included with entry, for sweeping views over the town and coast."
+    },
+    {
+      "name": "St Andrews Castle",
+      "image": {
+        "file": "File:The ruins of St Andrews Castle.jpg",
+        "alt": "The ruins of St Andrews Castle overlooking the coast"
+      },
+      "text": "Genuinely a dramatic clifftop ruin with a real, gruesome history, including a rare survivable siege tunnel and bottle dungeon.",
+      "tip": "The genuinely siege tunnel and mine are a highlight, included with the standard entry ticket."
+    },
+    {
+      "name": "The University of St Andrews",
+      "image": {
+        "file": "File:St Andrews - University library.JPG",
+        "alt": "The historic buildings of the University of St Andrews"
+      },
+      "text": "Genuinely Scotland's oldest university, founded in 1413, its historic buildings woven throughout the town centre itself.",
+      "tip": "Genuinely free walking tours of the historic campus run regularly in season."
+    },
+    {
+      "name": "West Sands Beach",
+      "image": {
+        "file": "File:The West Sands, St Andrews - geograph.org.uk - 7987631.jpg",
+        "alt": "West Sands Beach at St Andrews"
+      },
+      "text": "Genuinely a wide, windswept beach made famous by its opening scene in Chariots of Fire, backing directly onto the Old Course.",
+      "tip": "Genuinely a bracing but rewarding walk any time of year, not just in summer."
+    },
+    {
+      "name": "The R&A Clubhouse",
+      "image": {
+        "file": "File:R&A Clubhouse, Old Course, Swilcan Burn bridge.jpg",
+        "alt": "The R&A Clubhouse overlooking the Old Course"
+      },
+      "text": "Genuinely golf's spiritual headquarters, the historic clubhouse overlooking the Old Course's first tee and Swilcan Bridge.",
+      "tip": "Genuinely one of the most-photographed buildings in golf, even without stepping inside."
+    }
+  ],
+  "thingsToDoIntro": "St Andrews genuinely rewards mixing its golf history with its substantial medieval ruins and coastal walks.",
+  "thingsToDo": [
+    {
+      "title": "Walk a public section of the Old Course",
+      "image": {
+        "file": "File:Old Course, St Andrews, 2006 (03).jpg",
+        "alt": "Walking a public path across the Old Course at St Andrews"
+      },
+      "text": "A genuinely rare privilege for a working championship course, with a public right of way crossing several holes.",
+      "tip": "Genuinely check playing hours — the path is open to the public on Sundays and certain other times."
+    },
+    {
+      "title": "Photograph the Swilcan Bridge",
+      "image": {
+        "file": "File:The Old Course - St Andrews-10663637613 751e650580 o.jpg",
+        "alt": "The Swilcan Bridge on the Old Course at St Andrews"
+      },
+      "text": "A genuinely essential stop for any golf fan, standing where generations of the sport's greatest names have posed for their own photos.",
+      "tip": "Genuinely early morning or evening avoids the busiest crowds near the first tee."
+    },
+    {
+      "title": "Explore the cathedral ruins",
+      "image": {
+        "file": "File:Ruins of St Andrews Cathedral - geograph.org.uk - 1684302.jpg",
+        "alt": "Exploring the ruins of St Andrews Cathedral"
+      },
+      "text": "A genuinely worthwhile hour, wandering what remains of Scotland's largest medieval cathedral above the harbour.",
+      "tip": "Genuinely climb St Rule's Tower for the best views in town, weather permitting."
+    },
+    {
+      "title": "Walk West Sands Beach",
+      "image": {
+        "file": "File:The West Sands, St Andrews - geograph.org.uk - 7987637.jpg",
+        "alt": "Walking along West Sands Beach at St Andrews"
+      },
+      "text": "A genuinely bracing, scenic walk along the wide beach made famous by Chariots of Fire's opening scene.",
+      "tip": "Genuinely combine with a coffee stop in town afterward to warm up."
+    },
+    {
+      "title": "Wander the historic university streets",
+      "image": {
+        "file": "File:St salvator dining hall.jpg",
+        "alt": "Historic university buildings in St Andrews"
+      },
+      "text": "A genuinely pleasant way to spend an hour, exploring Scotland's oldest university woven through the town's medieval streets.",
+      "tip": "Genuinely join a free student-led walking tour for real insider context."
+    },
+    {
+      "title": "Explore St Andrews Castle's dungeon and tunnel",
+      "image": {
+        "file": "File:St Andrews Castle ruins - geograph.org.uk - 5027526.jpg",
+        "alt": "Exploring the ruins of St Andrews Castle"
+      },
+      "text": "A genuinely hands-on historic experience, crawling through a rare surviving siege mine and tunnel beneath the castle.",
+      "tip": "Genuinely not for the claustrophobic — the tunnel section is narrow and low."
+    }
+  ],
+  "foodIntro": "St Andrews' food genuinely spans serious modern Scottish dining and simple, hearty coastal classics.",
+  "foods": [
+    {
+      "name": "Haggis, neeps and tatties",
+      "image": {
+        "file": "File:Haggis, neeps and tatties.jpg",
+        "alt": "Haggis served with neeps and tatties, Scotland's national dish"
+      },
+      "text": "A genuinely worthwhile classic, found on menus throughout the town at every price point.",
+      "whereToTry": "Traditional restaurants and pubs throughout St Andrews."
+    },
+    {
+      "name": "Fish and chips",
+      "image": {
+        "file": "File:Fish and chips plate with peas.jpg",
+        "alt": "A plate of fish and chips"
+      },
+      "text": "A genuinely essential coastal classic, best eaten on a bench overlooking the harbour or West Sands.",
+      "whereToTry": "Chip shops throughout the town centre."
+    },
+    {
+      "name": "Cullen skink",
+      "image": {
+        "file": "File:Cullen Skink.JPG",
+        "alt": "Cullen skink, a traditional Scottish smoked haddock soup"
+      },
+      "text": "A genuinely warming choice after a bracing walk along West Sands.",
+      "whereToTry": "Restaurants and pubs throughout St Andrews."
+    },
+    {
+      "name": "Scotch whisky",
+      "image": {
+        "file": "File:Glen Moray Single Malt Scotch Whisky.jpg",
+        "alt": "A bottle of single malt Scotch whisky"
+      },
+      "text": "Genuinely well served in the town's traditional pubs, popular among the golfing crowd after a round.",
+      "whereToTry": "Traditional pubs throughout St Andrews."
+    },
+    {
+      "name": "Scottish shortbread",
+      "image": {
+        "file": "File:Scottish Shortbread Biscuits.jpg",
+        "alt": "Traditional Scottish shortbread biscuits"
+      },
+      "text": "A genuinely simple, buttery treat found in cafés throughout the historic town centre.",
+      "whereToTry": "Bakeries and cafés throughout St Andrews."
+    },
+    {
+      "name": "Scottish salmon",
+      "text": "Genuinely excellent, sourced from Scotland's rivers and coastal waters.",
+      "whereToTry": "Restaurants throughout St Andrews."
+    }
+  ],
+  "accommodation": {
+    "intro": "St Andrews genuinely offers accommodation across every budget, concentrated within a compact, walkable town centre.",
+    "areas": [
+      {
+        "name": "Town centre",
+        "bestFor": "Being genuinely central and walkable to every sight",
+        "text": "The most convenient base, close to the Old Course, cathedral and university."
+      },
+      {
+        "name": "Near West Sands",
+        "bestFor": "A genuinely quieter, beach-adjacent stay",
+        "text": "A short walk from the town centre, with easy access to the beach and Old Course."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse or B&B", "value": "£45–90 per night" },
+      { "label": "Mid-range hotel", "value": "£110–200 per night" },
+      { "label": "St Andrews Castle and Cathedral combined ticket", "value": "About £11" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About £25–40 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "St Andrews is genuinely well connected by road and bus, though it has no train station of its own.",
+    "options": [
+      {
+        "mode": "Flight to Edinburgh Airport",
+        "text": "Genuinely the closest major airport, about an hour and a half's drive.",
+        "detail": "Well connected internationally, making it the practical arrival point for most visitors."
+      },
+      {
+        "mode": "Train to Leuchars, then bus or taxi",
+        "text": "Genuinely the nearest station, a short onward connection from the main east coast line.",
+        "detail": "Regular buses and taxis cover the final few kilometres into St Andrews."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Genuinely convenient if combining St Andrews with a wider Fife or Highlands trip.",
+        "detail": "About an hour and a half from Edinburgh by road."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "St Andrews is genuinely compact enough to explore entirely on foot.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Genuinely covers the Old Course, cathedral, castle and university easily.",
+        "detail": "The entire town centre is walkable in well under an hour, end to end."
+      },
+      {
+        "mode": "Local taxis",
+        "text": "Genuinely useful for reaching accommodation slightly outside the centre.",
+        "detail": "Rarely needed for sightseeing, given the compact town centre."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for the best weather, though St Andrews works well year-round",
+    "summary": "St Andrews' genuinely compact, museum-and-ruin-heavy character makes it a viable visit in any season.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely mild weather and thinner crowds than midsummer, good for both golf and walking."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The warmest and busiest season, including major golf tournament periods on occasion."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Genuinely mild with thinner crowds than summer."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Short days and frequent wind and rain, though genuinely atmospheric, with far fewer visitors."
+      }
+    ],
+    "avoid": "Nothing strongly — St Andrews' genuinely compact, ruin-and-museum-rich character makes it workable in any season."
+  },
+  "itinerary": {
+    "title": "One day in St Andrews",
+    "intro": "A single, well-paced day covering the Old Course, the cathedral ruins and the beach.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Golf and medieval history",
+        "summary": "The Old Course, the cathedral ruins and West Sands.",
+        "morning": "The Old Course, Swilcan Bridge and the R&A Clubhouse.",
+        "afternoon": "St Andrews Cathedral and Castle ruins.",
+        "evening": "A walk along West Sands, then dinner in town."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a St Andrews visit noticeably smoother.",
+  "tips": [
+    "Check genuinely Old Course playing hours if hoping to walk the public right of way.",
+    "Visit genuinely early morning for the best photos at the Swilcan Bridge, before crowds build.",
+    "Buy genuinely a combined ticket for the cathedral and castle to save on entry costs.",
+    "Wear genuinely comfortable shoes for the town's cobbled medieval streets.",
+    "Pack a proper windproof layer for West Sands, which genuinely lives up to its bracing reputation.",
+    "Book accommodation genuinely ahead during major golf tournament periods."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in St Andrews?",
+      "a": "One day genuinely covers the Old Course, cathedral and castle comfortably; an overnight allows a more relaxed pace."
+    },
+    {
+      "q": "Can you play golf on the Old Course?",
+      "a": "Yes, genuinely, though tee times are highly sought after and often require booking many months ahead or entering a ballot."
+    },
+    {
+      "q": "Do you need to golf to enjoy St Andrews?",
+      "a": "No, genuinely not — the cathedral ruins, castle, university and beach are all worthwhile regardless of interest in golf."
+    },
+    {
+      "q": "What is St Andrews known for?",
+      "a": "Genuinely as the home of golf, alongside Scotland's oldest university and substantial medieval cathedral ruins."
+    },
+    {
+      "q": "Is St Andrews walkable?",
+      "a": "Yes, genuinely very — the entire town centre sits within a comfortable walk, with no car needed for sightseeing."
+    },
+    {
+      "q": "Can you visit St Andrews as a day trip from Edinburgh?",
+      "a": "Yes, genuinely — it's about an hour and a half's drive, making it a workable, if full, day trip."
+    }
+  ],
+  "related": ["stirling", "loch-lomond-trossachs", "glasgow"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around"]
+}

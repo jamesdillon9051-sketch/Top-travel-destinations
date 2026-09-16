@@ -1,0 +1,357 @@
+{
+  "slug": "stirling",
+  "name": "Stirling",
+  "country": "scotland",
+  "region": "Central Scotland",
+  "categories": ["history", "castle", "culture", "city"],
+  "tagline": "A small city that punches far above its size in Scottish history, its castle and battlefields central to the country's story of independence.",
+  "highlight": "Standing on Stirling Castle's esplanade as the view opens across the plain where Bruce and Wallace both changed the course of Scottish history.",
+  "shortDescription": "A compact city central to Scottish history, home to Stirling Castle, the Wallace Monument and the battlefields of Bannockburn and Stirling Bridge.",
+  "metaDescription": "A Stirling travel guide: Stirling Castle, the Wallace Monument, Bannockburn, food and how to plan a visit to this central Scottish city.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Edinburgh Airport (EDI), or Glasgow Airport (GLA)",
+  "knownFor": "Stirling Castle, the Wallace Monument, Bannockburn",
+  "budget": "£90–170 per day, mid-range",
+  "goodFor": "History, castles, an easy day trip",
+  "coords": { "lat": 56.1165, "lng": -3.9369 },
+  "image": {
+    "file": "File:Stirling Castle 2017.jpg",
+    "alt": "Stirling Castle overlooking the city and surrounding plain"
+  },
+  "intro": [
+    "Stirling is genuinely a small city with an outsized place in Scottish history, its strategic position controlling the lowest crossing point of the River Forth making it central to centuries of conflict.",
+    "Its castle, genuinely one of Scotland's grandest, overlooks the plain where William Wallace and Robert the Bruce both won decisive battles for Scottish independence, at Stirling Bridge in 1297 and Bannockburn in 1314.",
+    "Most visitors genuinely visit as a day trip from Glasgow or Edinburgh, though an overnight allows time to properly cover the castle, the Wallace Monument and the battlefields without rushing."
+  ],
+  "whyVisit": {
+    "intro": "Stirling's case rests on genuinely being central to Scotland's story of independence, with the sites to prove it.",
+    "points": [
+      {
+        "title": "Stirling Castle is genuinely one of Scotland's grandest",
+        "text": "A restored royal residence with genuinely spectacular views over the surrounding plain."
+      },
+      {
+        "title": "The Wallace Monument is genuinely a dramatic, climbable tower",
+        "text": "A Victorian monument to William Wallace, with sweeping views from the top."
+      },
+      {
+        "title": "Bannockburn is genuinely where Scottish independence was won",
+        "text": "Robert the Bruce's decisive 1314 victory, still marked and interpreted on the battlefield site."
+      },
+      {
+        "title": "It's genuinely compact and easy to visit",
+        "text": "Every major sight sits within a short walk or drive of the city centre."
+      },
+      {
+        "title": "It works genuinely well as a Glasgow or Edinburgh day trip",
+        "text": "Both cities are under an hour away by train."
+      }
+    ]
+  },
+  "attractionsIntro": "Stirling's essential sights combine a genuinely grand royal castle with the battlefields that shaped Scottish independence.",
+  "attractions": [
+    {
+      "name": "Stirling Castle",
+      "image": {
+        "file": "File:Stirling Castle 2017.jpg",
+        "alt": "Stirling Castle overlooking the city"
+      },
+      "text": "Genuinely one of Scotland's grandest castles, a former royal residence with sweeping views over the surrounding plain.",
+      "tip": "Genuinely allow at least half a day — the castle's grounds and interiors are more extensive than they first appear."
+    },
+    {
+      "name": "The Royal Palace at Stirling Castle",
+      "image": {
+        "file": "File:Stirling Castle Royal Palace.jpg",
+        "alt": "The Royal Palace within Stirling Castle"
+      },
+      "text": "Genuinely meticulously restored royal apartments, recreating the castle's Renaissance-era grandeur with real historical accuracy.",
+      "tip": "Genuinely the recreated tapestries and painted ceilings are a highlight, based on real historical research."
+    },
+    {
+      "name": "The Wallace Monument",
+      "image": {
+        "file": "File:Wallace monument.jpg",
+        "alt": "The Wallace Monument near Stirling"
+      },
+      "text": "Genuinely a dramatic Victorian tower honouring William Wallace, with 246 steps leading to sweeping views from the top.",
+      "tip": "Genuinely check the crown steeple viewing platform's opening hours before making the climb."
+    },
+    {
+      "name": "The Great Hall",
+      "image": {
+        "file": "File:Stirling Castle Great Hall 2016.jpg",
+        "alt": "The Great Hall at Stirling Castle"
+      },
+      "text": "Genuinely the largest medieval banqueting hall ever built in Scotland, restored to its original lime-washed golden exterior.",
+      "tip": "Genuinely check for occasional historical re-enactment events held inside the hall."
+    },
+    {
+      "name": "Old Stirling Bridge",
+      "image": {
+        "file": "File:Old Stirling Bridge - geograph.org.uk - 7180834.jpg",
+        "alt": "Old Stirling Bridge over the River Forth"
+      },
+      "text": "Genuinely near the site of William Wallace's decisive 1297 victory, though the current stone bridge dates from later centuries.",
+      "tip": "Genuinely a pleasant, easy walk along the River Forth from the city centre."
+    },
+    {
+      "name": "Bannockburn",
+      "image": {
+        "file": "File:Robert the Bruce statue and Bannockburn memorial - geograph.org.uk - 4017818.jpg",
+        "alt": "The Bannockburn battlefield memorial near Stirling"
+      },
+      "text": "Genuinely the site of Robert the Bruce's decisive 1314 victory over England, central to winning Scottish independence.",
+      "tip": "The genuinely visitor centre's interactive battle experience adds real context to the open battlefield site."
+    },
+    {
+      "name": "Stirling Old Town Jail",
+      "image": {
+        "file": "File:Stirling Old Town Jail - geograph.org.uk - 8167175.jpg",
+        "alt": "The Old Town Jail in Stirling"
+      },
+      "text": "Genuinely a well-preserved Victorian prison, its history illustrating the harsh realities of 19th-century justice.",
+      "tip": "Genuinely a short walk from Stirling Castle, easy to combine in the same visit."
+    }
+  ],
+  "thingsToDoIntro": "Stirling genuinely rewards mixing its grand castle with the battlefields that shaped Scottish history.",
+  "thingsToDo": [
+    {
+      "title": "Tour Stirling Castle's Royal Palace",
+      "image": {
+        "file": "File:Stirling Castle ceiling heads.jpg",
+        "alt": "Restored ceiling decoration in Stirling Castle's Royal Palace"
+      },
+      "text": "A genuinely immersive few hours, exploring meticulously restored royal apartments and their painted ceilings.",
+      "tip": "Genuinely costumed guides throughout the palace add real historical context."
+    },
+    {
+      "title": "Climb the Wallace Monument",
+      "image": {
+        "file": "File:Wallace Monument 20080505 Stained glass William Wallace.jpg",
+        "alt": "Stained glass depicting William Wallace inside the Wallace Monument"
+      },
+      "text": "A genuinely rewarding, if strenuous, climb of 246 spiral steps to sweeping views from the crown steeple.",
+      "tip": "Genuinely not for those with mobility concerns — there is no lift to the top."
+    },
+    {
+      "title": "Walk Old Stirling Bridge",
+      "image": {
+        "file": "File:Approaching Old Stirling Bridge - geograph.org.uk - 7121344.jpg",
+        "alt": "Walking toward Old Stirling Bridge"
+      },
+      "text": "A genuinely easy, pleasant riverside walk near the site of Wallace's famous 1297 victory.",
+      "tip": "Genuinely combine with a longer walk along the River Forth on a fine day."
+    },
+    {
+      "title": "Learn Bruce's history at Bannockburn",
+      "image": {
+        "file": "File:Bannochburn 2000-1.jpg",
+        "alt": "The Bannockburn battlefield site near Stirling"
+      },
+      "text": "A genuinely engaging visitor centre experience, bringing the 1314 battle to life through interactive exhibits.",
+      "tip": "Genuinely book ahead for the 3D battle experience, which runs on a timed-entry basis."
+    },
+    {
+      "title": "Explore the Old Town Jail",
+      "image": {
+        "file": "File:Stirling Old Town Jail Building.jpg",
+        "alt": "The Old Town Jail building in Stirling"
+      },
+      "text": "A genuinely engaging hour exploring 19th-century prison life, with costumed guides throughout.",
+      "tip": "Genuinely combine easily with a Stirling Castle visit, given the short walk between them."
+    },
+    {
+      "title": "Take in the view from the castle esplanade",
+      "image": {
+        "file": "File:View of Stirling Castle from entrance.jpg",
+        "alt": "The view from Stirling Castle's esplanade"
+      },
+      "text": "A genuinely free, sweeping view over the city and surrounding plain, no ticket required.",
+      "tip": "Genuinely a good spot to get oriented before or after visiting the castle itself."
+    }
+  ],
+  "foodIntro": "Stirling's food genuinely leans on hearty Scottish classics well suited to a day of castle-touring.",
+  "foods": [
+    {
+      "name": "Haggis, neeps and tatties",
+      "image": {
+        "file": "File:Haggis, neeps and tatties.jpg",
+        "alt": "Haggis served with neeps and tatties, Scotland's national dish"
+      },
+      "text": "A genuinely warming classic, found across Stirling's restaurants at every price point.",
+      "whereToTry": "Traditional restaurants and pubs throughout the city centre."
+    },
+    {
+      "name": "Scotch whisky",
+      "image": {
+        "file": "File:Glen Moray Single Malt Scotch Whisky.jpg",
+        "alt": "A bottle of single malt Scotch whisky"
+      },
+      "text": "Genuinely well served in Stirling's traditional pubs, a fitting end to a day of castle and battlefield history.",
+      "whereToTry": "Traditional pubs throughout the city centre."
+    },
+    {
+      "name": "Cullen skink",
+      "image": {
+        "file": "File:Cullen Skink.JPG",
+        "alt": "Cullen skink, a traditional Scottish smoked haddock soup"
+      },
+      "text": "A genuinely warming choice after a day exploring the castle and Wallace Monument.",
+      "whereToTry": "Restaurants and pubs throughout Stirling."
+    },
+    {
+      "name": "Venison",
+      "text": "Genuinely a true Scottish specialty, wild-sourced game found on menus across the city.",
+      "whereToTry": "Restaurants throughout Stirling."
+    },
+    {
+      "name": "Scottish shortbread",
+      "image": {
+        "file": "File:Scottish Shortbread Biscuits.jpg",
+        "alt": "Traditional Scottish shortbread biscuits"
+      },
+      "text": "A genuinely simple, buttery treat found in cafés throughout the historic city centre.",
+      "whereToTry": "Bakeries and cafés throughout Stirling."
+    },
+    {
+      "name": "Scottish salmon",
+      "text": "Genuinely excellent, sourced from rivers and lochs across the surrounding region.",
+      "whereToTry": "Restaurants throughout Stirling."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stirling genuinely offers accommodation across every budget, concentrated within a compact, walkable city centre.",
+    "areas": [
+      {
+        "name": "City centre",
+        "bestFor": "Being genuinely central and walkable to the castle and old town",
+        "text": "The most convenient base, close to the castle, Old Town Jail and main shopping streets."
+      },
+      {
+        "name": "Near the Wallace Monument",
+        "bestFor": "A genuinely quieter, more scenic stay",
+        "text": "A short drive from the city centre, with easy access to the monument and Bannockburn."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse or B&B", "value": "£40–80 per night" },
+      { "label": "Mid-range hotel", "value": "£90–170 per night" },
+      { "label": "Stirling Castle entry", "value": "About £18" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About £20–35 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Stirling is genuinely easy to reach, sitting almost exactly between Glasgow and Edinburgh.",
+    "options": [
+      {
+        "mode": "Intercity train from Glasgow or Edinburgh",
+        "text": "Genuinely fast and direct, taking under an hour from either city.",
+        "detail": "Stirling's train station sits a short walk from the city centre and castle."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Genuinely convenient if combining Stirling with a wider Highlands or Loch Lomond trip.",
+        "detail": "About 45 minutes from either Glasgow or Edinburgh by road."
+      },
+      {
+        "mode": "Intercity bus",
+        "text": "Genuinely a budget-friendly alternative to the train.",
+        "detail": "Regular services connect Stirling to both major cities."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Stirling is genuinely compact enough to explore mostly on foot.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Genuinely covers the castle, Old Town Jail and city centre easily.",
+        "detail": "The castle sits on a hill above the town, a short, if steep, walk from the centre."
+      },
+      {
+        "mode": "Local bus or taxi",
+        "text": "Genuinely useful for reaching the Wallace Monument and Bannockburn.",
+        "detail": "Both sit a short drive from the city centre."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for the best weather, though Stirling works well year-round",
+    "summary": "Stirling's genuinely castle-and-museum-heavy character makes it a viable visit in any season.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely mild weather and thinner crowds than midsummer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The warmest and busiest season, with the best conditions for the Wallace Monument's views."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Genuinely mild with thinner crowds than summer."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Short days and frequent rain, though genuinely atmospheric, with far fewer visitors at the castle."
+      }
+    ],
+    "avoid": "Nothing strongly — Stirling's genuinely castle-and-museum-rich character makes it workable in any season."
+  },
+  "itinerary": {
+    "title": "One day in Stirling",
+    "intro": "A single, well-paced day covering the castle, the Wallace Monument and Bannockburn.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Castles and battlefields",
+        "summary": "Stirling Castle, the Wallace Monument and Bannockburn.",
+        "morning": "Stirling Castle and the Great Hall.",
+        "afternoon": "The Wallace Monument.",
+        "evening": "Bannockburn's visitor centre, then dinner in the city."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Stirling visit noticeably smoother.",
+  "tips": [
+    "Allow genuinely at least half a day for Stirling Castle alone — it's larger than it first appears.",
+    "Book genuinely the Bannockburn 3D battle experience ahead, given its timed-entry format.",
+    "Wear genuinely comfortable shoes for the Wallace Monument's 246-step climb.",
+    "Combine genuinely the Old Town Jail with your castle visit, given the short walk between them.",
+    "Pack a proper waterproof layer regardless of season — Stirling's weather genuinely shifts fast.",
+    "Consider genuinely Stirling as an easy day trip from Glasgow or Edinburgh if short on time."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Stirling?",
+      "a": "One day genuinely covers Stirling Castle, the Wallace Monument and Bannockburn comfortably; an overnight allows a more relaxed pace."
+    },
+    {
+      "q": "Can you visit Stirling as a day trip from Glasgow or Edinburgh?",
+      "a": "Yes, genuinely easily — direct trains take under an hour from either city."
+    },
+    {
+      "q": "Is Stirling Castle worth visiting?",
+      "a": "Yes, genuinely — its restored Royal Palace and Great Hall make it one of Scotland's most rewarding castle visits."
+    },
+    {
+      "q": "What is Stirling known for?",
+      "a": "Genuinely its central role in Scottish independence, including Stirling Castle and the nearby battlefields of Bannockburn and Stirling Bridge."
+    },
+    {
+      "q": "Is the Wallace Monument worth climbing?",
+      "a": "Yes, genuinely, for those able to manage the 246 steps — the views from the top are among the best in the region."
+    },
+    {
+      "q": "How far is Stirling from Glasgow and Edinburgh?",
+      "a": "Genuinely close to both, under an hour's drive or train ride from either city, making it an easy addition to a central Scotland trip."
+    }
+  ],
+  "related": ["glasgow", "loch-lomond-trossachs", "st-andrews"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

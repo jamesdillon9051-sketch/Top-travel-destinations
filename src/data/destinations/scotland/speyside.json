@@ -1,0 +1,374 @@
+{
+  "slug": "speyside",
+  "name": "Speyside",
+  "country": "scotland",
+  "region": "Moray",
+  "categories": ["whisky", "food-drink", "nature", "scenic-drive"],
+  "tagline": "The single densest concentration of whisky distilleries anywhere in Scotland, strung along a beautiful river valley.",
+  "highlight": "Standing in Glenfiddich's original stillhouse as a distiller explains a process barely changed since the distillery's founding in 1886.",
+  "shortDescription": "Scotland's whisky heartland, home to the highest concentration of distilleries anywhere in the country, strung along the scenic River Spey.",
+  "metaDescription": "A Speyside travel guide: the Malt Whisky Trail, Glenfiddich, Craigellachie, food and how to plan a visit to Scotland's whisky heartland.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Inverness Airport (INV)",
+  "knownFor": "The Malt Whisky Trail, Glenfiddich, the River Spey",
+  "budget": "£90–170 per day, mid-range",
+  "goodFor": "Whisky tours, scenic drives, riverside walks",
+  "coords": { "lat": 57.4442, "lng": -3.1383 },
+  "image": {
+    "file": "File:Malt Whisky Trail.jpg",
+    "alt": "A signpost on Speyside's Malt Whisky Trail"
+  },
+  "intro": [
+    "Speyside is genuinely Scotland's whisky heartland, home to the single densest concentration of distilleries found anywhere in the country, strung along the beautiful River Spey valley.",
+    "The region produces genuinely more than half of all Scotch whisky, its distinctly smooth, often fruity style shaped by the same river water that also makes the Spey one of the world's most celebrated salmon fishing rivers.",
+    "Most visitors genuinely base themselves in or near Dufftown, following the signposted Malt Whisky Trail between distilleries, historic bridges and small towns built almost entirely around whisky's long history here."
+  ],
+  "whyVisit": {
+    "intro": "Speyside's case rests on genuinely being the single best place in the world to understand and taste Scotch whisky at its source.",
+    "points": [
+      {
+        "title": "It's genuinely home to the highest distillery density in Scotland",
+        "text": "More working distilleries here than anywhere else in the country, many open for tours."
+      },
+      {
+        "title": "The Malt Whisky Trail is genuinely a real, signposted route",
+        "text": "A practical way to visit several distilleries and historic sites without getting lost."
+      },
+      {
+        "title": "Glenfiddich is genuinely one of the world's best-known distilleries",
+        "text": "Still family-owned, with a real working history stretching back to 1886."
+      },
+      {
+        "title": "The River Spey is genuinely beautiful beyond its whisky connection",
+        "text": "A celebrated salmon river with scenic walking paths along much of its length."
+      },
+      {
+        "title": "It works genuinely well alongside the Cairngorms and Loch Ness",
+        "text": "A natural stop on a wider Highland loop, both within easy reach."
+      }
+    ]
+  },
+  "attractionsIntro": "Speyside's essential sights combine working distilleries with the scenic river valley that shapes them.",
+  "attractions": [
+    {
+      "name": "Glenfiddich Distillery",
+      "image": {
+        "file": "File:Glenfiddich Distillery View.jpg",
+        "alt": "Glenfiddich Distillery in Speyside"
+      },
+      "text": "Genuinely one of the world's best-known single malt distilleries, still family-owned and operating since 1886.",
+      "tip": "Genuinely book a tour ahead — it remains one of the most popular distillery visits in Speyside."
+    },
+    {
+      "name": "Dufftown Clock Tower",
+      "image": {
+        "file": "File:Dufftown clocktower and old jail, Moray.jpg",
+        "alt": "The Clock Tower in Dufftown, Speyside"
+      },
+      "text": "Genuinely the centrepiece of Dufftown's town square, a Victorian landmark once housing the town's jail.",
+      "tip": "Genuinely a good orientation point before setting out to explore the surrounding distilleries."
+    },
+    {
+      "name": "Craigellachie Bridge",
+      "image": {
+        "file": "File:Autumn at Craigellachie Bridge.jpg",
+        "alt": "Craigellachie Bridge over the River Spey"
+      },
+      "text": "Genuinely a striking 19th-century iron bridge designed by Thomas Telford, spanning the River Spey in a single dramatic arch.",
+      "tip": "Genuinely especially photogenic in autumn, when the surrounding trees turn colour."
+    },
+    {
+      "name": "The River Spey at Aberlour",
+      "image": {
+        "file": "File:Looking downstream on the River Spey at Aberlour - geograph.org.uk - 8167886.jpg",
+        "alt": "The River Spey flowing through Aberlour"
+      },
+      "text": "Genuinely one of Scotland's most celebrated salmon rivers, its clean water also central to the region's whisky production.",
+      "tip": "The genuinely riverside path through Aberlour makes for an easy, scenic walk."
+    },
+    {
+      "name": "Allt-a-Bhainne Distillery",
+      "image": {
+        "file": "File:Allt-a-Bhainne Distillery.jpg",
+        "alt": "Allt-a-Bhainne Distillery in Speyside"
+      },
+      "text": "Genuinely a quieter, less-visited distillery, a good contrast to Speyside's larger, more famous names.",
+      "tip": "Genuinely check ahead, as smaller distilleries have more limited public tour schedules."
+    },
+    {
+      "name": "The Malt Whisky Trail",
+      "image": {
+        "file": "File:Malt Whisky Trail.jpg",
+        "alt": "A signpost on the Malt Whisky Trail in Speyside"
+      },
+      "text": "Genuinely an official signposted route connecting several of Speyside's distilleries and historic sites.",
+      "tip": "Genuinely pick up a printed trail map locally to plan a realistic day or two."
+    },
+    {
+      "name": "Glenfiddich's pagoda roofs",
+      "image": {
+        "file": "File:Glenfiddich Distillery Pagoda.jpg",
+        "alt": "The distinctive pagoda roofs of Glenfiddich Distillery"
+      },
+      "text": "Genuinely one of Speyside's most recognisable architectural details, distinctive kiln roofs found across the region's distilleries.",
+      "tip": "Genuinely a great photo opportunity, especially with the surrounding hills as a backdrop."
+    }
+  ],
+  "thingsToDoIntro": "Speyside genuinely rewards pacing distillery visits with time along the river itself.",
+  "thingsToDo": [
+    {
+      "title": "Tour Glenfiddich Distillery",
+      "image": {
+        "file": "File:Glenfiddich Distillery, Dufftown (43983940201).jpg",
+        "alt": "Touring Glenfiddich Distillery in Speyside"
+      },
+      "text": "A genuinely thorough introduction to whisky-making, from mash tun to warehouse, ending with a tasting.",
+      "tip": "Genuinely several tour tiers exist, from a basic introduction to more in-depth tasting experiences."
+    },
+    {
+      "title": "Walk the Speyside Way along the river",
+      "image": {
+        "file": "File:Looking upstream on the River Spey at Aberlour - geograph.org.uk - 8167883.jpg",
+        "alt": "Walking the Speyside Way along the River Spey"
+      },
+      "text": "A genuinely scenic long-distance path following the river, walkable in short, easy sections between towns.",
+      "tip": "Genuinely the Aberlour to Craigellachie stretch is an easy, well-marked introduction to the trail."
+    },
+    {
+      "title": "Cross Craigellachie Bridge",
+      "image": {
+        "file": "File:Craigellachie Bridge - geograph.org.uk - 2993230.jpg",
+        "alt": "Crossing Craigellachie Bridge over the River Spey"
+      },
+      "text": "A genuinely quick, worthwhile stop, walking Telford's dramatic iron span over the river below.",
+      "tip": "Genuinely combine with a stop at the nearby distillery of the same name."
+    },
+    {
+      "title": "Explore Dufftown's old jail",
+      "image": {
+        "file": "File:Dufftown Clock Tower - geograph.org.uk - 3589306.jpg",
+        "alt": "The Clock Tower and old jail in Dufftown"
+      },
+      "text": "A genuinely quick historical stop in the town centre, learning about the tower's varied past uses.",
+      "tip": "Genuinely combine with a wander through Dufftown's small, walkable town centre."
+    },
+    {
+      "title": "Follow the Malt Whisky Trail",
+      "image": {
+        "file": "File:Fotoreise-Whiskyreise-Schottland.jpg",
+        "alt": "Following the Malt Whisky Trail through Speyside"
+      },
+      "text": "A genuinely practical way to structure a Speyside visit, linking several distilleries by signposted road.",
+      "tip": "Genuinely designate a driver, or use a local tour, given the trail's multiple tasting stops."
+    },
+    {
+      "title": "Cross the Victoria Footbridge at Aberlour",
+      "image": {
+        "file": "File:The Victoria Footbridge over the River Spey at Aberlour - geograph.org.uk - 8167875.jpg",
+        "alt": "The Victoria Footbridge over the River Spey at Aberlour"
+      },
+      "text": "A genuinely pleasant, easy river crossing on foot, with good views up and down the Spey.",
+      "tip": "Genuinely a nice spot to pause and watch for salmon fishers working the river."
+    }
+  ],
+  "foodIntro": "Food and drink here genuinely centre on Speyside's whisky, alongside excellent local salmon and hearty Highland fare.",
+  "foods": [
+    {
+      "name": "Speyside single malt whisky",
+      "image": {
+        "file": "File:Tamdhu Ambar Speyside Single Malt Whisky, aged 14 years.jpg",
+        "alt": "A bottle of Speyside single malt Scotch whisky"
+      },
+      "text": "Genuinely the reason most visitors come, a distinctly smooth, often fruity style found across the region's distilleries.",
+      "whereToTry": "Distilleries throughout Speyside, and pubs in Dufftown and Aberlour."
+    },
+    {
+      "name": "Glen Moray whisky",
+      "image": {
+        "file": "File:Glen Moray Single Malt Scotch Whisky.jpg",
+        "alt": "A bottle of Glen Moray single malt Scotch whisky"
+      },
+      "text": "Genuinely one of Speyside's own well-regarded distilleries, a good introduction to the region's smoother style.",
+      "whereToTry": "The distillery itself, and pubs throughout the region."
+    },
+    {
+      "name": "River Spey salmon",
+      "text": "Genuinely some of Scotland's finest, from a river celebrated among anglers worldwide.",
+      "whereToTry": "Restaurants throughout Dufftown and Aberlour."
+    },
+    {
+      "name": "Haggis, neeps and tatties",
+      "image": {
+        "file": "File:Haggis, neeps and tatties.jpg",
+        "alt": "Haggis served with neeps and tatties, Scotland's national dish"
+      },
+      "text": "A genuinely warming classic, found on menus throughout the region.",
+      "whereToTry": "Restaurants and pubs throughout Dufftown."
+    },
+    {
+      "name": "Cullen skink",
+      "image": {
+        "file": "File:Cullen Skink.JPG",
+        "alt": "Cullen skink, a traditional Scottish smoked haddock soup"
+      },
+      "text": "A genuinely warming choice after a day walking the Speyside Way or touring distilleries.",
+      "whereToTry": "Restaurants and pubs throughout the region."
+    },
+    {
+      "name": "Scottish shortbread",
+      "image": {
+        "file": "File:Scottish Shortbread Biscuits.jpg",
+        "alt": "Traditional Scottish shortbread biscuits"
+      },
+      "text": "A genuinely simple, buttery treat found in cafés throughout Dufftown and Aberlour.",
+      "whereToTry": "Bakeries and cafés throughout the region."
+    }
+  ],
+  "accommodation": {
+    "intro": "Dufftown and Aberlour genuinely serve as Speyside's main bases, both well set up for whisky-focused travellers.",
+    "areas": [
+      {
+        "name": "Dufftown",
+        "bestFor": "Being genuinely central to the greatest concentration of distilleries",
+        "text": "The most practical base, within easy reach of Glenfiddich and several other well-known names."
+      },
+      {
+        "name": "Aberlour",
+        "bestFor": "A genuinely more scenic, riverside stay",
+        "text": "A small town directly on the River Spey, with easy access to the Speyside Way."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse or B&B", "value": "£40–80 per night" },
+      { "label": "Mid-range hotel", "value": "£90–170 per night" },
+      { "label": "Distillery tour and tasting", "value": "About £15–40" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About £20–35 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Speyside is genuinely best reached by road, with Inverness the closest major airport and rail connection.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Genuinely the most practical way in, and essential for visiting multiple distilleries in one trip.",
+        "detail": "About an hour from Inverness, or three hours from Glasgow or Edinburgh."
+      },
+      {
+        "mode": "Flight to Inverness Airport",
+        "text": "Genuinely the closest airport, under an hour's drive from Dufftown.",
+        "detail": "A practical option for visitors combining Speyside with Loch Ness or the Cairngorms."
+      },
+      {
+        "mode": "Organised whisky tours",
+        "text": "Genuinely a popular no-driving option from Inverness or Aberdeen.",
+        "detail": "A sensible choice for visitors planning to taste at every stop."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car genuinely helps for covering multiple distilleries, though a designated driver or tour is essential given the tastings.",
+    "options": [
+      {
+        "mode": "Rental car with a designated driver",
+        "text": "Genuinely the most flexible way to visit several distilleries in a day.",
+        "detail": "Essential given Speyside's rural roads and the region's obvious tasting temptations."
+      },
+      {
+        "mode": "Organised distillery tours",
+        "text": "Genuinely a relaxed, no-driving option covering several stops in one day.",
+        "detail": "Widely available from Dufftown, Aberlour and Inverness."
+      },
+      {
+        "mode": "On foot along the Speyside Way",
+        "text": "Genuinely a rewarding way to see the region slowly, between towns along the river.",
+        "detail": "Short sections between Aberlour and Craigellachie suit a casual walk."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for the best weather, though distilleries operate year-round",
+    "summary": "Speyside's genuinely indoor, tour-focused character makes it a workable visit in any season.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely mild weather, good for combining distillery visits with riverside walks."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The busiest season, with distilleries at their most crowded."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Genuinely beautiful, with the region's trees turning colour along the Spey."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Short days and frequent rain, though genuinely distilleries remain open and cosy year-round."
+      }
+    ],
+    "avoid": "Nothing strongly — Speyside's genuinely indoor, distillery-focused character makes it a workable destination in any season."
+  },
+  "itinerary": {
+    "title": "Two days in Speyside",
+    "intro": "Built around Glenfiddich and Dufftown on day one, the Speyside Way and Craigellachie on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Dufftown and Glenfiddich",
+        "summary": "Glenfiddich Distillery and Dufftown's town centre.",
+        "morning": "Tour Glenfiddich Distillery.",
+        "afternoon": "Explore Dufftown's Clock Tower and old jail.",
+        "evening": "Dinner in Dufftown."
+      },
+      {
+        "day": 2,
+        "title": "The River Spey",
+        "summary": "Craigellachie Bridge and the Speyside Way.",
+        "morning": "Walk a section of the Speyside Way from Aberlour.",
+        "afternoon": "Craigellachie Bridge and a second distillery visit.",
+        "evening": "A final dinner in Aberlour."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Speyside visit noticeably smoother.",
+  "tips": [
+    "Book distillery tours genuinely ahead, especially for well-known names like Glenfiddich.",
+    "Arrange genuinely a designated driver or organised tour given the region's tastings.",
+    "Pick up genuinely a printed Malt Whisky Trail map locally for realistic day planning.",
+    "Pack a proper waterproof layer regardless of season for riverside walks.",
+    "Book accommodation genuinely ahead during the region's whisky festival periods.",
+    "Allow genuinely more time than expected — tastings and tours run longer than a quick stop."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Speyside?",
+      "a": "Two days genuinely covers Glenfiddich, Dufftown and a stretch of the Speyside Way comfortably."
+    },
+    {
+      "q": "How many distilleries are in Speyside?",
+      "a": "Genuinely dozens — more working distilleries than anywhere else in Scotland, making it the country's whisky heartland."
+    },
+    {
+      "q": "Do you need to book distillery tours ahead?",
+      "a": "Yes, genuinely recommended, especially for well-known names like Glenfiddich, which can sell out in peak season."
+    },
+    {
+      "q": "What is Speyside known for?",
+      "a": "Genuinely its dense concentration of whisky distilleries and the distinctly smooth, often fruity style of Scotch they produce."
+    },
+    {
+      "q": "Can you visit Speyside without drinking whisky?",
+      "a": "Yes, genuinely — the Speyside Way, Craigellachie Bridge and the region's scenery are worthwhile on their own."
+    },
+    {
+      "q": "How do you get between distilleries safely?",
+      "a": "Genuinely arrange a designated driver, taxi or organised tour — driving after tastings is never advisable."
+    }
+  ],
+  "related": ["cairngorms-national-park", "loch-ness-inverness", "orkney-islands"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

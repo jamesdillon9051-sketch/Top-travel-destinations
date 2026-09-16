@@ -1,0 +1,374 @@
+{
+  "slug": "glasgow",
+  "name": "Glasgow",
+  "country": "scotland",
+  "region": "Greater Glasgow",
+  "categories": ["city", "culture", "museums", "nightlife"],
+  "tagline": "Scotland's largest city, a genuinely underrated mix of Victorian grandeur, world-class free museums and a fiercely loyal music scene.",
+  "highlight": "Wandering Kelvingrove's cathedral-like galleries, from a suspended Spitfire to a real stuffed giraffe, all free to enter.",
+  "shortDescription": "Scotland's largest city, home to world-class free museums, Victorian architecture and a genuinely legendary live music and nightlife scene.",
+  "metaDescription": "A Glasgow travel guide: Kelvingrove, Glasgow Cathedral, the Necropolis, food and how to plan a visit to Scotland's largest, most underrated city.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Glasgow Airport (GLA)",
+  "knownFor": "Free museums, Victorian architecture, live music",
+  "budget": "£100–190 per day, mid-range",
+  "goodFor": "City culture, museums, nightlife",
+  "coords": { "lat": 55.8642, "lng": -4.2518 },
+  "image": {
+    "file": "File:The Kelvingrove Art Gallery and Museum, Glasgow, Scotland, UK.jpg",
+    "alt": "Kelvingrove Art Gallery and Museum in Glasgow"
+  },
+  "intro": [
+    "Glasgow is genuinely Scotland's largest city and its cultural powerhouse, a place of Victorian sandstone grandeur that tends to surprise first-time visitors expecting something rougher around the edges.",
+    "It's also genuinely a city of exceptional free museums — Kelvingrove alone holds everything from a Salvador Dalí masterpiece to a suspended Spitfire — alongside a live music scene that has produced a disproportionate share of Britain's best bands.",
+    "Most visitors genuinely use Glasgow as a starting point for the wider Highlands, and a couple of days here earns its place on the itinerary well before you head north."
+  ],
+  "whyVisit": {
+    "intro": "Glasgow's case rests on genuinely world-class free museums and a cultural confidence that rarely gets enough credit.",
+    "points": [
+      {
+        "title": "Kelvingrove is genuinely one of Europe's best free museums",
+        "text": "A vast collection spanning fine art, natural history and technology, all at no cost."
+      },
+      {
+        "title": "The architecture is genuinely spectacular and underrated",
+        "text": "Victorian sandstone grandeur and Charles Rennie Mackintosh's pioneering Art Nouveau designs throughout the city."
+      },
+      {
+        "title": "The Necropolis is genuinely a striking, free hilltop walk",
+        "text": "A Victorian garden cemetery with sweeping views back over the cathedral and city."
+      },
+      {
+        "title": "Live music here is genuinely the real deal",
+        "text": "A legendary scene that has launched a disproportionate share of Britain's best-known bands."
+      },
+      {
+        "title": "It works genuinely well as a gateway to the Highlands",
+        "text": "Trains and rental cars to Loch Lomond and Skye both start here."
+      }
+    ]
+  },
+  "attractionsIntro": "Glasgow's essential sights combine world-class free museums with striking Victorian and Art Nouveau architecture.",
+  "attractions": [
+    {
+      "name": "Kelvingrove Art Gallery and Museum",
+      "image": {
+        "file": "File:The Kelvingrove Art Gallery and Museum, Glasgow, Scotland, UK.jpg",
+        "alt": "The Victorian facade of Kelvingrove Art Gallery and Museum"
+      },
+      "text": "Genuinely one of Europe's best free museums, a vast red sandstone building holding everything from fine art to a suspended Spitfire.",
+      "tip": "The genuinely organ recitals, held most days, are worth timing a visit around."
+    },
+    {
+      "name": "Glasgow Cathedral",
+      "image": {
+        "file": "File:Glasgow Cathedral main portal.jpg",
+        "alt": "The main portal of Glasgow Cathedral"
+      },
+      "text": "Genuinely one of Scotland's few medieval cathedrals to survive the Reformation intact, dating back to the 12th century.",
+      "tip": "Genuinely free to enter, and combines well with a walk up to the Necropolis right behind it."
+    },
+    {
+      "name": "George Square",
+      "image": {
+        "file": "File:George Square Glasgow 01.JPG",
+        "alt": "George Square, Glasgow's central civic square"
+      },
+      "text": "Genuinely the city's civic heart, ringed by grand Victorian buildings and statues of notable Scots including James Watt.",
+      "tip": "Genuinely a good landmark for getting oriented before exploring the surrounding Merchant City."
+    },
+    {
+      "name": "Glasgow Necropolis",
+      "image": {
+        "file": "File:Glasgow Necropolis in Sunset.jpg",
+        "alt": "Glasgow Necropolis, a Victorian hilltop cemetery"
+      },
+      "text": "A genuinely striking Victorian garden cemetery on a hill above the cathedral, its monuments offering sweeping views over the city.",
+      "tip": "Genuinely free to enter, and especially atmospheric at sunset."
+    },
+    {
+      "name": "Riverside Museum",
+      "image": {
+        "file": "File:Riverside Museum Glasgow EC2018.jpg",
+        "alt": "The Riverside Museum on the banks of the River Clyde in Glasgow"
+      },
+      "text": "A genuinely striking Zaha Hadid-designed building on the Clyde, home to Scotland's transport and travel collection.",
+      "tip": "Genuinely combine with the historic tall ship Glenlee, moored right outside."
+    },
+    {
+      "name": "Glasgow School of Art",
+      "image": {
+        "file": "File:Glasgow School of Art - September 2017.jpg",
+        "alt": "The Glasgow School of Art building"
+      },
+      "text": "Genuinely Charles Rennie Mackintosh's most celebrated building, a landmark of Art Nouveau design shaping the city's aesthetic identity.",
+      "tip": "Check genuinely ahead for guided tour availability, given the building's ongoing restoration history."
+    },
+    {
+      "name": "Merchant City",
+      "image": {
+        "file": "File:Merchant City, Glasgow 004.jpg",
+        "alt": "The Victorian streets of Glasgow's Merchant City"
+      },
+      "text": "Genuinely the city's old trading quarter, now full of independent shops, restaurants and Victorian architecture.",
+      "tip": "Genuinely one of the best areas for a relaxed evening of dinner and a wander."
+    }
+  ],
+  "thingsToDoIntro": "Glasgow genuinely rewards mixing its major museums with a wander through its distinct neighbourhoods.",
+  "thingsToDo": [
+    {
+      "title": "Wander Kelvingrove's galleries",
+      "image": {
+        "file": "File:Kelvingrove Art Gallery and Museum, Glasgow, interior with giraffe.jpg",
+        "alt": "The interior galleries of Kelvingrove Art Gallery and Museum"
+      },
+      "text": "A genuinely absorbing few hours, covering everything from Dutch old masters to natural history displays, entirely free.",
+      "tip": "Genuinely arrive early on weekends — it's one of Scotland's most popular free attractions."
+    },
+    {
+      "title": "Climb the Necropolis for skyline views",
+      "image": {
+        "file": "File:Glasgow Necropolis in the Summer.jpg",
+        "alt": "Views over Glasgow from the Necropolis hilltop"
+      },
+      "text": "A genuinely rewarding half-hour walk among Victorian monuments, ending with sweeping views over the cathedral and city.",
+      "tip": "Genuinely wear sturdy shoes — the paths can be uneven and occasionally muddy."
+    },
+    {
+      "title": "Explore the Riverside Museum's vehicles",
+      "image": {
+        "file": "File:Wheel detail Riverside Museum Glasgow Scotland.jpg",
+        "alt": "Transport exhibits at the Riverside Museum in Glasgow"
+      },
+      "text": "A genuinely engaging few hours for any transport enthusiast, from vintage cars to a full recreated 1930s street.",
+      "tip": "Genuinely free to enter, with the historic tall ship Glenlee included nearby."
+    },
+    {
+      "title": "Stroll Merchant City's Victorian streets",
+      "image": {
+        "file": "File:Merchant City, Glasgow 003.jpg",
+        "alt": "The historic streets of Glasgow's Merchant City"
+      },
+      "text": "A genuinely relaxed evening spent browsing independent shops and restaurants along the old trading quarter's grand streets.",
+      "tip": "Genuinely a good area to find dinner away from the busiest tourist streets."
+    },
+    {
+      "title": "Photograph George Square",
+      "image": {
+        "file": "File:Statue Of James Watt.jpg",
+        "alt": "The statue of James Watt in George Square, Glasgow"
+      },
+      "text": "A genuinely easy stop between sights, ringed by grand Victorian civic buildings and notable statues.",
+      "tip": "Genuinely check for seasonal events — the square regularly hosts markets and festivals."
+    },
+    {
+      "title": "Catch live music in the city",
+      "text": "A genuinely essential part of a Glasgow visit, with venues across the city hosting live acts most nights of the week.",
+      "tip": "Genuinely check listings ahead — the scene here is renowned well beyond Scotland."
+    }
+  ],
+  "foodIntro": "Glasgow's food genuinely spans serious modern Scottish dining and simple, hearty pub classics at every price point.",
+  "foods": [
+    {
+      "name": "Haggis, neeps and tatties",
+      "image": {
+        "file": "File:Haggis, neeps and tatties.jpg",
+        "alt": "Haggis served with neeps and tatties, Scotland's national dish"
+      },
+      "text": "Genuinely worth trying at a proper restaurant, Scotland's national dish served across the city at every price point.",
+      "whereToTry": "Traditional restaurants and pubs throughout the city centre."
+    },
+    {
+      "name": "Scotch whisky",
+      "image": {
+        "file": "File:Glen Moray Single Malt Scotch Whisky.jpg",
+        "alt": "A bottle of single malt Scotch whisky"
+      },
+      "text": "Genuinely well served in Glasgow's traditional pubs, with a serious whisky bar scene to match.",
+      "whereToTry": "Whisky bars and traditional pubs throughout the city."
+    },
+    {
+      "name": "Cullen skink",
+      "image": {
+        "file": "File:Cullen Skink.JPG",
+        "alt": "Cullen skink, a traditional Scottish smoked haddock soup"
+      },
+      "text": "A genuinely warming choice on menus across the city, a rich, smoky soup of haddock and potato.",
+      "whereToTry": "Traditional restaurants and pubs throughout Glasgow."
+    },
+    {
+      "name": "Scottish shortbread",
+      "image": {
+        "file": "File:Scottish Shortbread Biscuits.jpg",
+        "alt": "Traditional Scottish shortbread biscuits"
+      },
+      "text": "A genuinely essential Glasgow café treat, simple and buttery, found in bakeries across the city.",
+      "whereToTry": "Bakeries and cafés throughout the city centre."
+    },
+    {
+      "name": "Fish and chips",
+      "image": {
+        "file": "File:Fish and chips plate with peas.jpg",
+        "alt": "A plate of fish and chips"
+      },
+      "text": "A genuinely reliable classic, sold at chippers across the city, especially popular after a night out.",
+      "whereToTry": "Chip shops citywide, particularly in the West End."
+    },
+    {
+      "name": "Irn-Bru",
+      "image": {
+        "file": "File:Irn-Bru Bottles.jpg",
+        "alt": "Bottles of Irn-Bru, Scotland's beloved soft drink"
+      },
+      "text": "Genuinely a beloved Scottish institution, a bright orange, distinctively flavoured soft drink found everywhere.",
+      "whereToTry": "Shops, cafés and pubs citywide."
+    }
+  ],
+  "accommodation": {
+    "intro": "Glasgow genuinely offers accommodation across every budget, concentrated within a compact, walkable city centre.",
+    "areas": [
+      {
+        "name": "City centre",
+        "bestFor": "Being genuinely central and walkable to major sights",
+        "text": "The most convenient base, close to George Square, Merchant City and the main train stations."
+      },
+      {
+        "name": "The West End",
+        "bestFor": "A genuinely more relaxed, local neighbourhood feel",
+        "text": "Close to Kelvingrove and the university, with excellent cafés and a livelier evening scene."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "£30–60 per night" },
+      { "label": "Mid-range hotel", "value": "£95–180 per night" },
+      { "label": "Riverside Museum entry", "value": "Free" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About £20–35 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Glasgow is genuinely well connected by air and rail, one of Scotland's two main international gateways.",
+    "options": [
+      {
+        "mode": "Flight to Glasgow Airport",
+        "text": "Genuinely most international routes into western Scotland land here, about 20 minutes from the city centre.",
+        "detail": "A frequent express bus connects the airport to central Glasgow."
+      },
+      {
+        "mode": "Intercity train",
+        "text": "Genuinely fast and direct from Edinburgh, Stirling and Inverness.",
+        "detail": "Glasgow Central and Queen Street stations both sit right in the city centre."
+      },
+      {
+        "mode": "Intercity bus",
+        "text": "Genuinely a budget-friendly option from across the UK.",
+        "detail": "Buchanan Bus Station sits a short walk from the city centre."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Glasgow is genuinely compact enough to explore mostly on foot, with good public transport for the rest.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Genuinely covers the city centre and Merchant City easily.",
+        "detail": "Central Glasgow's main sights sit within a comfortable walking radius of each other."
+      },
+      {
+        "mode": "The Subway",
+        "text": "Genuinely a quick, simple way to reach the West End and Kelvingrove.",
+        "detail": "Scotland's only underground metro system, small and easy to navigate."
+      },
+      {
+        "mode": "Buses",
+        "text": "Genuinely reliable for reaching the Riverside Museum and other outer sights.",
+        "detail": "Frequent services cover the wider city well."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for the best weather, though Glasgow works well year-round",
+    "summary": "Glasgow's genuinely museum-heavy, walkable character makes it a viable destination in any season.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely mild weather and long daylight hours, with fewer crowds than midsummer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The warmest and busiest season, with festivals and outdoor events."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Genuinely mild with thinner crowds than summer."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Short days and frequent rain, though genuinely atmospheric, with cosy pubs and lower prices."
+      }
+    ],
+    "avoid": "Nothing strongly — Glasgow's genuinely museum-rich, compact character makes it a workable destination in any season."
+  },
+  "itinerary": {
+    "title": "Two days in Glasgow",
+    "intro": "Built around Kelvingrove and the West End on day one, the city's Victorian core on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Kelvingrove and the West End",
+        "summary": "Kelvingrove, the Riverside Museum and the West End.",
+        "morning": "Kelvingrove Art Gallery and Museum.",
+        "afternoon": "The Riverside Museum and the tall ship Glenlee.",
+        "evening": "Dinner in the West End."
+      },
+      {
+        "day": 2,
+        "title": "The Victorian core",
+        "summary": "Glasgow Cathedral, the Necropolis and Merchant City.",
+        "morning": "Glasgow Cathedral and the Necropolis.",
+        "afternoon": "George Square and Merchant City.",
+        "evening": "Live music and a final dinner in the city."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Glasgow stay noticeably smoother.",
+  "tips": [
+    "Visit Kelvingrove genuinely early on weekends to beat the crowds.",
+    "Take the genuinely Subway for a quick, easy hop between the city centre and the West End.",
+    "Budget for genuinely variable restaurant prices — Glasgow spans everything from cheap eats to fine dining.",
+    "Wear genuinely comfortable shoes — Glasgow's compact centre still adds up to real walking distances.",
+    "Check genuinely live music listings ahead — the scene here draws visitors in its own right.",
+    "Pack a proper waterproof layer regardless of season — Glasgow's weather genuinely shifts fast."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Glasgow?",
+      "a": "Two days genuinely covers the major museums and sights at a comfortable, unrushed pace."
+    },
+    {
+      "q": "Is Glasgow worth visiting before heading to the Highlands?",
+      "a": "Yes, genuinely — its museums add real cultural context, and it's the natural gateway for trains and rental cars heading north."
+    },
+    {
+      "q": "Is Glasgow expensive?",
+      "a": "Moderately, genuinely on par with other major UK cities — its many free museums help keep costs down."
+    },
+    {
+      "q": "Is Glasgow walkable?",
+      "a": "Yes, genuinely — most major sights sit within a comfortable walk of the city centre, with a simple Subway for the rest."
+    },
+    {
+      "q": "What is Glasgow famous for?",
+      "a": "Genuinely its world-class free museums, Victorian and Art Nouveau architecture, and a legendary live music scene."
+    },
+    {
+      "q": "Is Glasgow safer or better than Edinburgh for a first visit?",
+      "a": "Both are genuinely safe and welcoming — Glasgow offers a grittier, more underrated cultural scene, while Edinburgh leans more historic and picturesque. Many visitors combine both."
+    }
+  ],
+  "related": ["loch-lomond-trossachs", "stirling", "isle-of-skye"],
+  "relatedArticles": ["underrated-destinations", "europe-by-train"]
+}

@@ -1,0 +1,370 @@
+{
+  "slug": "loch-ness-inverness",
+  "name": "Loch Ness & Inverness",
+  "country": "scotland",
+  "region": "The Highlands",
+  "categories": ["history", "nature", "culture", "city"],
+  "tagline": "Scotland's most famous loch and the compact Highland capital beside it, where centuries of history sit as close to the surface as the legendary monster.",
+  "highlight": "Standing in the ruins of Urquhart Castle as a sudden gap in the cloud lights up the full length of Loch Ness below.",
+  "shortDescription": "Scotland's most famous loch, Urquhart Castle's dramatic ruins, and Inverness, the compact Highland capital, alongside the pivotal battlefield at Culloden.",
+  "metaDescription": "A Loch Ness and Inverness travel guide: Urquhart Castle, Culloden Battlefield, Clava Cairns, food and how to plan a visit to the Scottish Highlands.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Inverness Airport (INV)",
+  "knownFor": "Loch Ness, Urquhart Castle, Culloden Battlefield",
+  "budget": "£90–170 per day, mid-range",
+  "goodFor": "History, scenic drives, an easy Highland base",
+  "coords": { "lat": 57.4778, "lng": -4.2247 },
+  "image": {
+    "file": "File:The Loch Ness and Urquhart castle.jpg",
+    "alt": "Loch Ness and the ruins of Urquhart Castle"
+  },
+  "intro": [
+    "Loch Ness is genuinely Scotland's most famous body of water, a deep, narrow loch stretching over 35 kilometres through the Great Glen, its monster legend a fun draw but its real scenery genuinely dramatic in its own right.",
+    "Inverness, the compact Highland capital beside it, is genuinely small enough to explore in a day, yet sits within easy reach of two of Scotland's most significant historic sites — Culloden's pivotal 1746 battlefield and the far older Clava Cairns.",
+    "Most visitors genuinely use Inverness as a base for a couple of days, splitting time between the loch itself, Urquhart Castle's dramatic ruins, and the region's deep layers of history."
+  ],
+  "whyVisit": {
+    "intro": "Loch Ness and Inverness's case rests on genuinely combining famous scenery with pivotal, still-resonant Scottish history.",
+    "points": [
+      {
+        "title": "Loch Ness is genuinely dramatic beyond the monster legend",
+        "text": "A deep, narrow loch through the Great Glen, striking scenery on its own merits."
+      },
+      {
+        "title": "Urquhart Castle is genuinely one of Scotland's most photographed ruins",
+        "text": "A dramatic clifftop fortress overlooking the full length of the loch."
+      },
+      {
+        "title": "Culloden is genuinely a profoundly moving historic site",
+        "text": "The 1746 battlefield that ended the Jacobite rising, still marked and deeply significant today."
+      },
+      {
+        "title": "Clava Cairns are genuinely older than the pyramids",
+        "text": "A remarkably preserved Bronze Age burial cairn complex just outside the city."
+      },
+      {
+        "title": "Inverness is genuinely a compact, easy Highland base",
+        "text": "Small enough to explore quickly, with excellent access to the wider region."
+      }
+    ]
+  },
+  "attractionsIntro": "The region's essential sights combine Scotland's most famous loch with genuinely pivotal Highland history.",
+  "attractions": [
+    {
+      "name": "Loch Ness",
+      "image": {
+        "file": "File:The Loch Ness and Urquhart castle.jpg",
+        "alt": "Loch Ness stretching through the Great Glen"
+      },
+      "text": "Genuinely Scotland's most famous loch, a deep, narrow stretch of water running over 35 kilometres through the dramatic Great Glen.",
+      "tip": "Genuinely a boat cruise gives the best sense of the loch's scale, monster sightings not guaranteed."
+    },
+    {
+      "name": "Urquhart Castle",
+      "image": {
+        "file": "File:Urquhart Castle 2 20211024.jpg",
+        "alt": "The ruins of Urquhart Castle on Loch Ness"
+      },
+      "text": "Genuinely one of Scotland's most photographed ruins, a dramatic clifftop fortress with sweeping views down the full length of Loch Ness.",
+      "tip": "Genuinely visit the visitor centre first — it adds real context to the castle's long, turbulent history."
+    },
+    {
+      "name": "Inverness Castle",
+      "image": {
+        "file": "File:Inverness Castle, Scotland - Diliff.jpg",
+        "alt": "Inverness Castle overlooking the River Ness"
+      },
+      "text": "Genuinely the Highland capital's defining landmark, a striking red sandstone castle overlooking the River Ness.",
+      "tip": "The genuinely castle viewpoint offers one of the best views over the city and river below."
+    },
+    {
+      "name": "Culloden Battlefield",
+      "image": {
+        "file": "File:Battle of Culloden battlefield 2009.jpg",
+        "alt": "Culloden Battlefield near Inverness"
+      },
+      "text": "Genuinely the site of the 1746 battle that ended the Jacobite rising, marked with real clan gravestones across the open moor.",
+      "tip": "Genuinely the visitor centre's exhibition is essential before walking the battlefield itself."
+    },
+    {
+      "name": "Clava Cairns",
+      "image": {
+        "file": "File:Clava Cairns 1 20211025.jpg",
+        "alt": "The ancient stone burial cairns at Clava Cairns"
+      },
+      "text": "Genuinely a remarkably preserved Bronze Age burial cairn complex, older than Stonehenge and the Egyptian pyramids.",
+      "tip": "Genuinely combine with a Culloden visit, since the two sites sit only minutes apart."
+    },
+    {
+      "name": "The River Ness",
+      "image": {
+        "file": "File:River Ness from Inverness Castle - geograph.org.uk - 8274682.jpg",
+        "alt": "The River Ness flowing through Inverness"
+      },
+      "text": "Genuinely the heart of Inverness, a fast-flowing river with pleasant walking paths on both banks through the city centre.",
+      "tip": "Genuinely the Ness Islands, small wooded islands linked by footbridges, make a peaceful detour."
+    },
+    {
+      "name": "Old High Church",
+      "image": {
+        "file": "File:Old High Church Inverness Scotland (13175548103).jpg",
+        "alt": "The Old High Church in Inverness"
+      },
+      "text": "Genuinely Inverness's oldest church, built on a site with religious use stretching back over a thousand years.",
+      "tip": "Genuinely the churchyard has real, tangible connections to the aftermath of Culloden."
+    }
+  ],
+  "thingsToDoIntro": "The region genuinely rewards mixing Loch Ness's scenery with Inverness's compact, walkable history.",
+  "thingsToDo": [
+    {
+      "title": "Cruise Loch Ness",
+      "image": {
+        "file": "File:Loch ness , Urquhart castle exit .jpg",
+        "alt": "A boat cruise on Loch Ness near Urquhart Castle"
+      },
+      "text": "A genuinely essential way to experience the loch's real scale, with most cruises departing from near Urquhart Castle.",
+      "tip": "Genuinely many cruises use sonar equipment, adding a fun layer to the monster-hunting theme."
+    },
+    {
+      "title": "Explore Urquhart Castle's ruins",
+      "image": {
+        "file": "File:Urquhart Castle Ruin above Loch Ness.jpg",
+        "alt": "Exploring the ruins of Urquhart Castle"
+      },
+      "text": "A genuinely worthwhile hour or two, wandering the castle's dramatic remains and clifftop grounds above the loch.",
+      "tip": "Genuinely visit in late afternoon for the best light over the water."
+    },
+    {
+      "title": "Walk to Inverness Castle's viewpoint",
+      "image": {
+        "file": "File:Inverness Castle - Inverness Court.jpg",
+        "alt": "The grounds of Inverness Castle"
+      },
+      "text": "A genuinely easy stop in the city centre, with sweeping views over the River Ness and surrounding hills.",
+      "tip": "Genuinely free to view from outside, even without visiting any paid interior exhibition."
+    },
+    {
+      "title": "Learn Jacobite history at Culloden",
+      "image": {
+        "file": "File:Red Marker at the battlefield of the Culloden battle.jpg",
+        "alt": "A memorial marker at Culloden Battlefield"
+      },
+      "text": "A genuinely moving few hours, walking the open moor where clan graves are still marked among the heather.",
+      "tip": "Genuinely allow at least two hours to do the visitor centre and battlefield walk justice."
+    },
+    {
+      "title": "Visit the ancient Clava Cairns",
+      "image": {
+        "file": "File:Clava Cairns - geograph.org.uk - 4886386.jpg",
+        "alt": "The Bronze Age Clava Cairns near Inverness"
+      },
+      "text": "A genuinely quiet, atmospheric stop, standing among burial cairns built well over 4,000 years ago.",
+      "tip": "Genuinely free to visit, with an unstaffed site that rewards a quiet, unhurried visit."
+    },
+    {
+      "title": "Stroll along the River Ness",
+      "image": {
+        "file": "File:Autumn becomes Winter alongside the river Ness in Inverness Scotland (5212829108).jpg",
+        "alt": "A riverside walk along the River Ness in Inverness"
+      },
+      "text": "A genuinely easy, pleasant way to see the city, following footpaths along both banks through the centre.",
+      "tip": "Genuinely extend the walk to the Ness Islands for a quieter, greener stretch."
+    }
+  ],
+  "foodIntro": "Food here genuinely leans on Highland game and fresh loch and river produce.",
+  "foods": [
+    {
+      "name": "Haggis, neeps and tatties",
+      "image": {
+        "file": "File:Haggis, neeps and tatties.jpg",
+        "alt": "Haggis served with neeps and tatties, Scotland's national dish"
+      },
+      "text": "A genuinely warming classic, found across Inverness's restaurants and pubs at every price point.",
+      "whereToTry": "Restaurants and pubs throughout Inverness city centre."
+    },
+    {
+      "name": "Cullen skink",
+      "image": {
+        "file": "File:Cullen Skink.JPG",
+        "alt": "Cullen skink, a traditional Scottish smoked haddock soup"
+      },
+      "text": "A genuinely reliable, warming choice after a day at Loch Ness or Culloden.",
+      "whereToTry": "Restaurants throughout Inverness."
+    },
+    {
+      "name": "Venison",
+      "text": "Genuinely a true Highland specialty, wild-sourced game found on menus across the region.",
+      "whereToTry": "Restaurants throughout Inverness."
+    },
+    {
+      "name": "Scotch whisky",
+      "image": {
+        "file": "File:Glen Moray Single Malt Scotch Whisky.jpg",
+        "alt": "A bottle of single malt Scotch whisky"
+      },
+      "text": "Genuinely well served in Inverness's pubs, with Speyside's distilleries a short drive away.",
+      "whereToTry": "Traditional pubs throughout the city centre."
+    },
+    {
+      "name": "Scottish shortbread",
+      "image": {
+        "file": "File:Scottish Shortbread Biscuits.jpg",
+        "alt": "Traditional Scottish shortbread biscuits"
+      },
+      "text": "A genuinely simple, buttery treat found in cafés across Inverness.",
+      "whereToTry": "Bakeries and cafés throughout the city centre."
+    },
+    {
+      "name": "Scottish salmon",
+      "text": "Genuinely excellent, sourced from the rivers and lochs of the surrounding Highlands.",
+      "whereToTry": "Restaurants throughout Inverness."
+    }
+  ],
+  "accommodation": {
+    "intro": "Inverness genuinely offers the region's widest choice of accommodation, well set up as a Highland base.",
+    "areas": [
+      {
+        "name": "Inverness city centre",
+        "bestFor": "Being genuinely central and walkable to the castle and river",
+        "text": "The most convenient base, with the widest choice of restaurants and hotels."
+      },
+      {
+        "name": "Near Loch Ness",
+        "bestFor": "A genuinely more scenic, lochside stay",
+        "text": "Small guesthouses along the loch offer easier access to Urquhart Castle and boat cruises."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "£30–60 per night" },
+      { "label": "Mid-range hotel", "value": "£90–170 per night" },
+      { "label": "Urquhart Castle entry", "value": "About £13" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About £20–35 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Inverness is genuinely the Highland capital's main transport hub, well connected by air, rail and road.",
+    "options": [
+      {
+        "mode": "Flight to Inverness Airport",
+        "text": "Genuinely the main gateway to the Highlands, about 15 minutes from the city centre.",
+        "detail": "Connects to major UK cities and a growing number of European routes."
+      },
+      {
+        "mode": "Intercity train from Glasgow or Edinburgh",
+        "text": "Genuinely a scenic route through the Highlands, taking around three to three and a half hours.",
+        "detail": "Trains arrive right in the city centre."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Genuinely useful for reaching Loch Ness, Culloden and Clava Cairns independently.",
+        "detail": "About three hours from Glasgow or Edinburgh by road."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Inverness itself is genuinely compact and walkable, though a car helps for the wider sights.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Genuinely covers the castle, river and city centre easily.",
+        "detail": "Inverness's compact centre sits within a comfortable walking radius."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Genuinely the most flexible way to reach Loch Ness, Culloden and Clava Cairns.",
+        "detail": "All three sit within a short, easy drive of the city centre."
+      },
+      {
+        "mode": "Organised day tours",
+        "text": "Genuinely a relaxed, no-driving option covering Loch Ness and Culloden together.",
+        "detail": "Widely available from operators based in Inverness."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for the best weather, though Inverness works well year-round",
+    "summary": "Loch Ness and Inverness are genuinely visitable in any season, though outdoor sightseeing is easiest in the warmer months.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely mild weather and thinner crowds than midsummer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "The warmest and busiest season, with the longest days for exploring."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Genuinely mild with thinner crowds than summer."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Short days and frequent rain, though genuinely atmospheric, with far fewer visitors at Culloden and the loch."
+      }
+    ],
+    "avoid": "Nothing strongly — the mix of indoor and outdoor sights makes the region workable in any season."
+  },
+  "itinerary": {
+    "title": "Two days at Loch Ness and Inverness",
+    "intro": "Built around Loch Ness and Urquhart Castle on day one, Inverness and Culloden on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Loch Ness",
+        "summary": "Urquhart Castle and a loch cruise.",
+        "morning": "Drive to Urquhart Castle.",
+        "afternoon": "A boat cruise on Loch Ness.",
+        "evening": "Dinner in Inverness."
+      },
+      {
+        "day": 2,
+        "title": "Inverness and Culloden",
+        "summary": "Inverness Castle, Culloden and Clava Cairns.",
+        "morning": "Inverness Castle and the River Ness.",
+        "afternoon": "Culloden Battlefield and Clava Cairns.",
+        "evening": "A final dinner in Inverness."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Loch Ness and Inverness visit noticeably smoother.",
+  "tips": [
+    "Book a genuinely Loch Ness boat cruise ahead in peak summer.",
+    "Allow genuinely at least two hours at Culloden to do the visitor centre and battlefield justice.",
+    "Combine genuinely Culloden and Clava Cairns in one trip, since they sit only minutes apart.",
+    "Pack a proper waterproof layer regardless of season — Highland weather genuinely shifts fast.",
+    "Wear genuinely comfortable shoes for Urquhart Castle's uneven ruins.",
+    "Consider genuinely an organised day tour if travelling without a rental car."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need at Loch Ness and Inverness?",
+      "a": "Two days genuinely covers Loch Ness, Urquhart Castle, Inverness and Culloden comfortably."
+    },
+    {
+      "q": "Can you see the Loch Ness Monster?",
+      "a": "Genuinely no confirmed sightings exist, but the loch's scenery and history make the visit worthwhile regardless."
+    },
+    {
+      "q": "Is Culloden worth visiting?",
+      "a": "Yes, genuinely — it's one of Scotland's most significant and moving historic sites, central to understanding Highland history."
+    },
+    {
+      "q": "What is Loch Ness known for?",
+      "a": "Genuinely its monster legend and its real scenic drama, a long, deep loch through the dramatic Great Glen."
+    },
+    {
+      "q": "Are Clava Cairns worth the detour?",
+      "a": "Yes, genuinely — they're remarkably well preserved and sit just minutes from Culloden, making the detour easy."
+    },
+    {
+      "q": "Is Inverness a good Highland base?",
+      "a": "Yes, genuinely — it's compact, well connected, and sits within easy reach of Loch Ness, Culloden and the wider Highlands."
+    }
+  ],
+  "related": ["isle-of-skye", "cairngorms-national-park", "speyside"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around"]
+}
