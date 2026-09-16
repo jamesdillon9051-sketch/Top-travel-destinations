@@ -1,0 +1,361 @@
+{
+  "slug": "sacred-valley",
+  "name": "The Sacred Valley",
+  "country": "peru",
+  "region": "Cusco Region",
+  "categories": ["history", "nature", "culture", "scenic-drive"],
+  "tagline": "The Inca Empire's agricultural heartland, a fertile Andean valley strung with ruins, living villages and genuinely extraordinary engineering.",
+  "highlight": "Standing at the rim of Moray's perfectly concentric circular terraces, each level once its own distinct microclimate for testing crops.",
+  "shortDescription": "The Inca Empire's fertile agricultural heartland, a valley of ruins, salt pans and living villages between Cusco and Machu Picchu.",
+  "metaDescription": "A Sacred Valley travel guide: Pisac, Ollantaytambo, Moray, the Maras salt mines, food and how to plan a visit to Peru's Inca heartland.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Alejandro Velasco Astete International Airport (CUZ), via Cusco",
+  "knownFor": "Inca ruins, the Maras salt mines, living Andean villages",
+  "budget": "S/200–400 per day, mid-range",
+  "goodFor": "History, scenic drives, lower-altitude acclimatisation",
+  "coords": { "lat": -13.3050, "lng": -72.1167 },
+  "image": {
+    "file": "File:Salineras de Maras, Maras, Perú, 2015-07-30, DD 03-07 PAN.JPG",
+    "alt": "The Maras salt pans terracing down the Sacred Valley hillside"
+  },
+  "intro": [
+    "The Sacred Valley is genuinely the Inca Empire's agricultural heartland, a fertile stretch of the Urubamba River valley that fed Cusco and supported some of the empire's most sophisticated engineering.",
+    "Its villages are genuinely still living Andean communities, not just open-air museums, with Ollantaytambo in particular retaining its original Inca street grid, still inhabited after more than 500 years.",
+    "Most visitors genuinely pass through en route between Cusco and Machu Picchu, though the valley's own sites — Pisac, Ollantaytambo, Moray and the Maras salt pans — easily reward a dedicated day or two, and its lower altitude makes it a genuinely useful acclimatisation stop."
+  ],
+  "whyVisit": {
+    "intro": "The Sacred Valley's case rests on genuinely combining major Inca sites with living Andean culture and a gentler altitude.",
+    "points": [
+      {
+        "title": "Ollantaytambo is genuinely still a living Inca town",
+        "text": "Its original street grid and water channels remain in daily use after more than 500 years."
+      },
+      {
+        "title": "Moray's terraces are genuinely a feat of agricultural science",
+        "text": "Concentric circular terraces once used to test crops across distinct microclimates."
+      },
+      {
+        "title": "The Maras salt pans are genuinely still worked by hand",
+        "text": "Thousands of individual pools, harvested using techniques unchanged for centuries."
+      },
+      {
+        "title": "Pisac combines genuinely major ruins with an excellent market",
+        "text": "Impressive Inca terracing above town, and one of the region's best craft markets below."
+      },
+      {
+        "title": "It's genuinely lower altitude than Cusco",
+        "text": "A useful, gentler stop for acclimatising before higher-altitude activities."
+      }
+    ]
+  },
+  "attractionsIntro": "The valley's essential sights combine major Inca ruins with genuinely still-living Andean villages and landscapes.",
+  "attractions": [
+    {
+      "name": "Pisac ruins",
+      "image": {
+        "file": "File:Peru - Sacred Valley & Incan Ruins 217 - Pisac (8114883162).jpg",
+        "alt": "The Inca ruins above the town of Pisac"
+      },
+      "text": "Genuinely impressive Inca terracing and ceremonial structures on a ridge high above the town, among the valley's most significant sites.",
+      "tip": "Genuinely arrive early to explore the ruins before the midday tour groups arrive."
+    },
+    {
+      "name": "Pisac market",
+      "image": {
+        "file": "File:Market in Pisac, Peru.jpg",
+        "alt": "The market in Pisac in the Sacred Valley"
+      },
+      "text": "Genuinely one of the region's best craft markets, textiles, ceramics and jewellery sold in the town square below the ruins.",
+      "tip": "Genuinely Sunday brings the largest and most authentic version of the market."
+    },
+    {
+      "name": "Ollantaytambo fortress",
+      "image": {
+        "file": "File:Ruins at Ollantaytambo.jpg",
+        "alt": "The Inca fortress terraces at Ollantaytambo"
+      },
+      "text": "Genuinely a massive terraced fortress, the site of one of the few battles the Inca actually won against the invading Spanish.",
+      "tip": "Genuinely the steep climb to the top is rewarded with sweeping views over the whole town."
+    },
+    {
+      "name": "Ollantaytambo town",
+      "image": {
+        "file": "File:Town of Ollantaytambo.jpg",
+        "alt": "The living Inca town of Ollantaytambo"
+      },
+      "text": "Genuinely the valley's best-preserved living Inca town, its original street grid and stone water channels still in daily use.",
+      "tip": "Genuinely wander the back streets away from the fortress for the town's most authentic atmosphere."
+    },
+    {
+      "name": "Moray",
+      "image": {
+        "file": "File:Moray, Peru - Laslovarga (4).jpg",
+        "alt": "The circular terraces of Moray in the Sacred Valley"
+      },
+      "text": "Genuinely a remarkable feat of Inca agricultural science, concentric circular terraces creating distinct microclimates believed to have tested crops.",
+      "tip": "Genuinely the temperature difference between the terraces' top and bottom levels is real and noticeable."
+    },
+    {
+      "name": "The Maras salt mines",
+      "image": {
+        "file": "File:Salineras de Maras, Maras, Perú, 2015-07-30, DD 12.JPG",
+        "alt": "The Maras salt pans in the Sacred Valley"
+      },
+      "text": "Genuinely thousands of individual salt pools cascading down a hillside, fed by a natural spring and harvested by hand since Inca times.",
+      "tip": "Genuinely combine with a Moray visit, since both sit close together on the valley's northern side."
+    },
+    {
+      "name": "Chinchero",
+      "image": {
+        "file": "File:Site archéologique de Chinchero et Plaza de Chinchero en 2011.jpg",
+        "alt": "The archaeological site and plaza at Chinchero"
+      },
+      "text": "Genuinely a traditional weaving village with its own Inca ruins and a striking colonial church built directly atop an Inca palace.",
+      "tip": "Genuinely check out a local weaving demonstration, showing techniques passed down for generations."
+    }
+  ],
+  "thingsToDoIntro": "The valley genuinely rewards a full day or two combining ruins, markets and genuine Andean village life.",
+  "thingsToDo": [
+    {
+      "title": "Browse Pisac's artisan market",
+      "image": {
+        "file": "File:Souvenirs in Pisac market, Peru 2019-10-15-4.jpg",
+        "alt": "Crafts for sale at Pisac market"
+      },
+      "text": "A genuinely relaxed way to spend a morning, browsing textiles and crafts from across the wider region.",
+      "tip": "Genuinely polite bargaining is expected and normal here."
+    },
+    {
+      "title": "Explore Ollantaytambo's fortress terraces",
+      "image": {
+        "file": "File:Ollantaytambo ruins rocks.jpg",
+        "alt": "Climbing the fortress terraces at Ollantaytambo"
+      },
+      "text": "A genuinely rewarding, if steep, climb through massive terraces to the fortress's upper ceremonial sector.",
+      "tip": "Genuinely take it slowly — the climb is more strenuous than it first appears at altitude."
+    },
+    {
+      "title": "Walk Moray's circular terraces",
+      "image": {
+        "file": "File:Moray, Peru - Laslovarga (1).jpg",
+        "alt": "Walking down into Moray's circular terraces"
+      },
+      "text": "A genuinely striking descent into the terraces' concentric rings, appreciating the engineering up close.",
+      "tip": "Genuinely combine with the nearby Maras salt pans for a full half-day out from Cusco."
+    },
+    {
+      "title": "Photograph the Maras salt pans",
+      "image": {
+        "file": "File:Salineras de Maras, Maras, Perú, 2015-07-30, DD 09.JPG",
+        "alt": "The terraced salt pans at Maras"
+      },
+      "text": "A genuinely striking sight, thousands of small pools glinting white and gold across the hillside.",
+      "tip": "Genuinely stay on the marked paths — the pans themselves are still actively worked by local families."
+    },
+    {
+      "title": "Visit Chinchero's colonial church",
+      "image": {
+        "file": "File:Iglesia de Chinchero, Cusco en 2011 (1).jpg",
+        "alt": "The colonial church at Chinchero"
+      },
+      "text": "A genuinely striking blend of cultures, a Spanish colonial church built directly on Inca foundations, its interior richly painted.",
+      "tip": "Genuinely photography is often restricted inside the church itself — check current rules on arrival."
+    },
+    {
+      "title": "Wander Ollantaytambo's living Inca streets",
+      "image": {
+        "file": "File:Ollanta, Ollantaytambo, Peru - Laslovarga (3).jpg",
+        "alt": "Walking the Inca streets of Ollantaytambo"
+      },
+      "text": "A genuinely rare chance to walk streets still following their original Inca layout, water still running through centuries-old channels.",
+      "tip": "Genuinely a quiet early morning walk here feels genuinely different from the daytime tour crowds."
+    }
+  ],
+  "foodIntro": "The Sacred Valley's food genuinely reflects its agricultural roots, with fresh Andean produce at every turn.",
+  "foods": [
+    {
+      "name": "Lomo saltado",
+      "image": {
+        "file": "File:Lomo Saltado.JPG",
+        "alt": "Lomo saltado, a Peruvian stir-fry of beef, onions and fries"
+      },
+      "text": "A genuinely reliable classic found on menus throughout the valley's towns.",
+      "whereToTry": "Restaurants throughout Pisac and Ollantaytambo."
+    },
+    {
+      "name": "Cuy (guinea pig)",
+      "text": "Genuinely a traditional Andean delicacy, especially associated with the valley's rural communities.",
+      "whereToTry": "Traditional restaurants throughout Pisac and Urubamba."
+    },
+    {
+      "name": "Chicha morada",
+      "text": "Genuinely a refreshing, non-alcoholic purple corn drink found throughout the region, sweetened with fruit and spices.",
+      "whereToTry": "Restaurants and markets throughout the valley."
+    },
+    {
+      "name": "Ceviche",
+      "image": {
+        "file": "File:Ceviche del Perú.jpg",
+        "alt": "Ceviche, Peru's national dish of citrus-cured raw fish"
+      },
+      "text": "Genuinely available even this far inland, though a treat best saved for the coast.",
+      "whereToTry": "Peruvian restaurants throughout the valley's main towns."
+    },
+    {
+      "name": "Pisco sour",
+      "image": {
+        "file": "File:Pisco Sour Cocktail.jpg",
+        "alt": "A pisco sour, Peru's national cocktail"
+      },
+      "text": "Genuinely a fitting way to end a day of exploring the valley's ruins and villages.",
+      "whereToTry": "Restaurants and bars throughout Ollantaytambo and Urubamba."
+    },
+    {
+      "name": "Coca tea",
+      "text": "Genuinely useful for managing altitude symptoms, widely available throughout the valley.",
+      "whereToTry": "Hotels and cafés throughout the Sacred Valley."
+    }
+  ],
+  "accommodation": {
+    "intro": "Urubamba and Ollantaytambo genuinely serve as the valley's main bases, both well set up for exploring the wider region.",
+    "areas": [
+      {
+        "name": "Ollantaytambo",
+        "bestFor": "Being genuinely convenient for the Machu Picchu train",
+        "text": "The most practical base for onward travel, with direct access to the town's own fortress."
+      },
+      {
+        "name": "Urubamba",
+        "bestFor": "A genuinely more spacious, central valley location",
+        "text": "A larger town with a wider range of accommodation, central to Moray and the Maras salt pans."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "S/50–100 per night" },
+      { "label": "Mid-range hotel", "value": "S/200–450 per night" },
+      { "label": "Boleto Turístico (covers Pisac and Ollantaytambo)", "value": "About S/130" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About S/35–60 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Sacred Valley is genuinely reached by road from Cusco, and serves as a common onward point toward Machu Picchu.",
+    "options": [
+      {
+        "mode": "Rental car or taxi from Cusco",
+        "text": "Genuinely about an hour to Pisac, or ninety minutes to Ollantaytambo.",
+        "detail": "A flexible way to see multiple valley sites in one day."
+      },
+      {
+        "mode": "Organised day tours",
+        "text": "Genuinely the standard way most visitors see the valley, covering several sites in one trip.",
+        "detail": "Widely available from Cusco, often combining Pisac, Moray and Maras in a single day."
+      },
+      {
+        "mode": "Colectivo shared vans",
+        "text": "Genuinely a budget-friendly, if less flexible, way to reach individual towns.",
+        "detail": "Regular services connect Cusco to Pisac, Urubamba and Ollantaytambo."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car, tour or shared van genuinely helps for covering the valley's spread-out sites in one visit.",
+    "options": [
+      {
+        "mode": "Rental car or private driver",
+        "text": "Genuinely the most flexible way to combine Pisac, Moray, Maras and Ollantaytambo.",
+        "detail": "Roads throughout the valley are generally well maintained."
+      },
+      {
+        "mode": "On foot within each town",
+        "text": "Genuinely easy — Pisac, Ollantaytambo and Chinchero are all small and walkable.",
+        "detail": "Moving between towns requires a car, tour or shared van."
+      },
+      {
+        "mode": "Organised day tours",
+        "text": "Genuinely the simplest way to see several sites without arranging transport yourself.",
+        "detail": "Widely available from Cusco, typically covering four or more sites in one day."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for the dry season, though the valley works well year-round",
+    "summary": "The Sacred Valley is genuinely visitable in any season, given its slightly lower, milder altitude than Cusco.",
+    "seasons": [
+      {
+        "season": "Dry season (May–September)",
+        "rating": "best",
+        "text": "Genuinely the most reliable weather for exploring the valley's outdoor ruins and terraces."
+      },
+      {
+        "season": "Shoulder months (April, October)",
+        "rating": "good",
+        "text": "Genuinely fewer crowds with still-decent weather odds."
+      },
+      {
+        "season": "Wet season (November–March)",
+        "rating": "okay",
+        "text": "Genuinely lush and green, with the valley's agricultural roots on full display, though afternoon rain is common."
+      }
+    ],
+    "avoid": "Nothing strongly — the valley's genuinely lower altitude makes it a comfortable stop in any season."
+  },
+  "itinerary": {
+    "title": "Two days in the Sacred Valley",
+    "intro": "Built around Pisac on day one, Ollantaytambo, Moray and Maras on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Pisac",
+        "summary": "The Pisac ruins and market.",
+        "morning": "The Pisac ruins.",
+        "afternoon": "Pisac's craft market.",
+        "evening": "Dinner in Urubamba."
+      },
+      {
+        "day": 2,
+        "title": "Ollantaytambo, Moray and Maras",
+        "summary": "The valley's remaining major sites.",
+        "morning": "Moray's circular terraces and the Maras salt pans.",
+        "afternoon": "Ollantaytambo's fortress and living Inca streets.",
+        "evening": "Onward train to Machu Picchu, or dinner in Ollantaytambo."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Sacred Valley visit noticeably smoother.",
+  "tips": [
+    "Buy genuinely the Boleto Turístico ahead if planning to visit Pisac and Ollantaytambo's ruins.",
+    "Combine genuinely Moray and the Maras salt pans in one trip, since they sit close together.",
+    "Book genuinely your onward Machu Picchu train from Ollantaytambo well ahead in peak season.",
+    "Wear genuinely comfortable shoes for the valley's uneven ruins and cobbled streets.",
+    "Consider genuinely basing yourself here for a night or two to help acclimatise before higher-altitude activities.",
+    "Bring genuinely small cash for Pisac's market and rural stalls throughout the valley."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the Sacred Valley?",
+      "a": "Two days genuinely covers Pisac, Ollantaytambo, Moray and the Maras salt pans comfortably."
+    },
+    {
+      "q": "Is the Sacred Valley worth visiting separately from Machu Picchu?",
+      "a": "Yes, genuinely — its own sites, especially Ollantaytambo and Moray, are significant enough to justify dedicated time."
+    },
+    {
+      "q": "Can you use the Sacred Valley to help with altitude acclimatisation?",
+      "a": "Yes, genuinely — it sits notably lower than Cusco, making it a useful, gentler stop before higher-altitude activities."
+    },
+    {
+      "q": "What is the Sacred Valley known for?",
+      "a": "Genuinely being the Inca Empire's agricultural heartland, home to major ruins, the Maras salt pans and still-living traditional villages."
+    },
+    {
+      "q": "Is Ollantaytambo really still an Inca town?",
+      "a": "Yes, genuinely — its original Inca street grid and water channels remain in daily use, making it one of South America's oldest continuously inhabited urban layouts."
+    },
+    {
+      "q": "Can you visit the Sacred Valley on the way to Machu Picchu?",
+      "a": "Yes, genuinely a popular and efficient route — many visitors stop here before catching the train onward to Machu Picchu from Ollantaytambo."
+    }
+  ],
+  "related": ["cusco", "machu-picchu", "rainbow-mountain"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

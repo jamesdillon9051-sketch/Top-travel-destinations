@@ -1,0 +1,369 @@
+{
+  "slug": "arequipa-colca-canyon",
+  "name": "Arequipa & Colca Canyon",
+  "country": "peru",
+  "region": "Arequipa Region",
+  "categories": ["city", "nature", "wildlife", "unesco"],
+  "tagline": "Peru's genuinely underrated second city, built entirely from white volcanic stone, and one of the deepest canyons on Earth just beyond it.",
+  "highlight": "Watching an Andean condor rise on a thermal at eye level from Cruz del Cóndor, close enough to see every feather of its three-metre wingspan.",
+  "shortDescription": "Peru's beautifully preserved white volcanic-stone city, paired with Colca Canyon, one of the world's deepest, and reliable Andean condor sightings.",
+  "metaDescription": "An Arequipa and Colca Canyon travel guide: Santa Catalina Monastery, condor watching, El Misti, food and how to plan a visit to southern Peru.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Alfredo Rodríguez Ballón International Airport (AQP)",
+  "knownFor": "White volcanic architecture, Andean condors, colonial monasteries",
+  "budget": "S/200–400 per day, mid-range",
+  "goodFor": "Colonial architecture, wildlife, dramatic canyon scenery",
+  "coords": { "lat": -16.3989, "lng": -71.5350 },
+  "image": {
+    "file": "File:Plaza de Armas de Arequipa, Perú.jpg",
+    "alt": "The Plaza de Armas in Arequipa, built from white volcanic stone"
+  },
+  "intro": [
+    "Arequipa is genuinely one of Peru's most underrated cities, its historic centre built almost entirely from sillar, a pale volcanic stone that gives the whole city a striking, luminous white character.",
+    "Beyond the city, Colca Canyon is genuinely one of the deepest canyons on Earth, roughly twice the depth of the Grand Canyon, and one of the most reliable places anywhere to watch Andean condors soar at close range.",
+    "Most visitors genuinely spend a day or two in Arequipa itself before heading out to Colca for an early-morning condor watch at the famous Cruz del Cóndor viewpoint, a trip that also passes through genuinely traditional Andean villages along the way."
+  ],
+  "whyVisit": {
+    "intro": "Arequipa and Colca Canyon's case rests on genuinely beautiful colonial architecture paired with one of the world's great wildlife spectacles.",
+    "points": [
+      {
+        "title": "Arequipa's architecture is genuinely unlike anywhere else in Peru",
+        "text": "An entire historic centre built from pale volcanic sillar stone, earning it UNESCO World Heritage status."
+      },
+      {
+        "title": "Colca Canyon is genuinely one of the deepest on Earth",
+        "text": "Roughly twice the depth of the Grand Canyon at its deepest point."
+      },
+      {
+        "title": "Condor sightings here are genuinely among the most reliable anywhere",
+        "text": "Cruz del Cóndor offers close, dependable views of Andean condors in flight."
+      },
+      {
+        "title": "Santa Catalina Monastery is genuinely a city within a city",
+        "text": "A vast, colourful colonial convent complex, still partially inhabited by nuns today."
+      },
+      {
+        "title": "It's genuinely less crowded than the Cusco circuit",
+        "text": "A real sense of discovery for visitors willing to travel a little further south."
+      }
+    ]
+  },
+  "attractionsIntro": "The region's essential sights combine genuinely striking colonial architecture with one of South America's great wildlife experiences.",
+  "attractions": [
+    {
+      "name": "Arequipa's Plaza de Armas",
+      "image": {
+        "file": "File:Plaza de Armas de Arequipa, Perú.jpg",
+        "alt": "The Plaza de Armas in Arequipa"
+      },
+      "text": "Genuinely one of Peru's most beautiful main squares, ringed by arcaded colonial buildings all built from pale volcanic stone.",
+      "tip": "Genuinely the surrounding cathedral's rooftop tour offers sweeping views over the square and city."
+    },
+    {
+      "name": "Santa Catalina Monastery",
+      "image": {
+        "file": "File:Arequipa, Santa Catalina Monastery en 2011 (2).jpg",
+        "alt": "The colourful courtyards of Santa Catalina Monastery"
+      },
+      "text": "Genuinely a vast, walled convent complex resembling a small colonial town, its winding streets painted in vivid blues and reds.",
+      "tip": "Genuinely allow at least two hours — the complex is far larger than it first appears from outside."
+    },
+    {
+      "name": "El Misti volcano",
+      "image": {
+        "file": "File:Volcán Misti desde Arequipa, Perú, 2015-08-02, DD 03.JPG",
+        "alt": "El Misti volcano towering over Arequipa"
+      },
+      "text": "Genuinely a near-perfect symmetrical cone towering over the city, an active volcano that remains genuinely climbable for experienced trekkers.",
+      "tip": "Genuinely the volcano is most photogenic from the Yanahuara viewpoint, framed by stone arches."
+    },
+    {
+      "name": "Colca Canyon",
+      "image": {
+        "file": "File:Colca Canyon, Peru.jpg",
+        "alt": "The dramatic depths of Colca Canyon"
+      },
+      "text": "Genuinely one of the deepest canyons on Earth, roughly twice the depth of the Grand Canyon at its most dramatic point.",
+      "tip": "Genuinely the canyon's scale is difficult to grasp from photos alone — the trip out is worth the early start."
+    },
+    {
+      "name": "Cruz del Cóndor",
+      "image": {
+        "file": "File:Cruz del Condor no Colca Canyon - Peru (17963069742).jpg",
+        "alt": "The Cruz del Cóndor viewpoint over Colca Canyon"
+      },
+      "text": "Genuinely one of the most reliable places in the world to watch wild Andean condors, riding thermals at close range each morning.",
+      "tip": "Genuinely arrive by 8am — condor sightings become far less reliable as the morning progresses."
+    },
+    {
+      "name": "The Yanahuara viewpoint",
+      "image": {
+        "file": "File:Vista desde el mirador de Yanahuara en Arequipa.jpg",
+        "alt": "The Yanahuara viewpoint overlooking Arequipa and El Misti"
+      },
+      "text": "Genuinely one of the city's best free views, framed stone arches looking out toward El Misti and the surrounding volcanoes.",
+      "tip": "Genuinely visit in the late afternoon for the best light on the volcano."
+    },
+    {
+      "name": "Colca Valley's agricultural terraces",
+      "image": {
+        "file": "File:CBC - Agricultural terraces near Cabanaconde, Peru, 2013.jpg",
+        "alt": "Ancient agricultural terraces in the Colca Valley"
+      },
+      "text": "Genuinely still-farmed terraces built well before the Inca, tracing the valley's slopes near traditional villages.",
+      "tip": "Genuinely still-inhabited villages along the valley offer a real glimpse of traditional Andean life."
+    }
+  ],
+  "thingsToDoIntro": "Arequipa and Colca genuinely reward combining the city's colonial architecture with an early start for the canyon's condors.",
+  "thingsToDo": [
+    {
+      "title": "Tour Santa Catalina Monastery's colourful streets",
+      "image": {
+        "file": "File:ARE - Blue corridor in Santa Catalina Monastery, Arequipa, Peru, 2013.jpg",
+        "alt": "The colourful corridors of Santa Catalina Monastery"
+      },
+      "text": "A genuinely absorbing few hours, wandering a self-contained colonial world of chapels, courtyards and vividly painted walls.",
+      "tip": "Genuinely photography here is exceptional in the late-morning light."
+    },
+    {
+      "title": "Watch condors soar at Cruz del Cóndor",
+      "image": {
+        "file": "File:Andean condor (Vultur gryphus) at Colca Canyon.jpg",
+        "alt": "An Andean condor in flight at Colca Canyon"
+      },
+      "text": "A genuinely thrilling, dependable wildlife experience, watching condors ride thermals at near eye level from the viewpoint.",
+      "tip": "Genuinely an early departure from Arequipa is essential to reach the viewpoint before the best flying window ends."
+    },
+    {
+      "title": "Hike Colca Canyon's trails",
+      "image": {
+        "file": "File:205 - Vallée de Colca - Panorama - Juin 2010 - 2 de 6.jpg",
+        "alt": "Hiking trails through Colca Canyon"
+      },
+      "text": "A genuinely serious trekking destination for those with more time, descending into one of the world's deepest canyons.",
+      "tip": "Genuinely multi-day treks require real fitness and altitude acclimatisation — plan accordingly."
+    },
+    {
+      "title": "Photograph El Misti from Yanahuara",
+      "image": {
+        "file": "File:ARE - El Misti volcano above Arequipa, Peru, 2013.jpg",
+        "alt": "El Misti volcano viewed from Yanahuara"
+      },
+      "text": "A genuinely rewarding short excursion from central Arequipa, framing the volcano through the viewpoint's stone arches.",
+      "tip": "Genuinely combine with a wander through Yanahuara's own quiet colonial square."
+    },
+    {
+      "title": "Explore Arequipa's volcanic-stone streets",
+      "image": {
+        "file": "File:Plaza de armas de Arequipa.jpg",
+        "alt": "The white volcanic-stone streets of Arequipa"
+      },
+      "text": "A genuinely pleasant way to spend an afternoon, simply wandering the historic centre's striking white architecture.",
+      "tip": "Genuinely the city looks especially striking in the golden light just before sunset."
+    },
+    {
+      "title": "Soak in Colca's hot springs",
+      "text": "A genuinely welcome way to recover after an early condor-watching start, natural hot springs found near several valley villages.",
+      "tip": "Genuinely check with your tour or hotel for the most convenient hot springs option on your route."
+    }
+  ],
+  "foodIntro": "Arequipa's food genuinely has its own proud, distinct identity within Peru, built around the region's own spicy specialties.",
+  "foods": [
+    {
+      "name": "Rocoto relleno",
+      "image": {
+        "file": "File:Rocoto relleno arequipeño.jpg",
+        "alt": "Rocoto relleno, a stuffed spicy pepper from Arequipa"
+      },
+      "text": "Genuinely Arequipa's signature dish, a spicy rocoto pepper stuffed with meat, cheese and vegetables, then baked.",
+      "whereToTry": "Traditional picanterías throughout the city."
+    },
+    {
+      "name": "Ceviche",
+      "image": {
+        "file": "File:Ceviche del Perú.jpg",
+        "alt": "Ceviche, Peru's national dish of citrus-cured raw fish"
+      },
+      "text": "Genuinely well made here despite the inland location, given Arequipa's proximity to the coast.",
+      "whereToTry": "Restaurants throughout the historic centre."
+    },
+    {
+      "name": "Lomo saltado",
+      "image": {
+        "file": "File:Lomo Saltado.JPG",
+        "alt": "Lomo saltado, a Peruvian stir-fry of beef, onions and fries"
+      },
+      "text": "A genuinely reliable classic, found on menus throughout Arequipa's restaurants.",
+      "whereToTry": "Restaurants throughout the city centre."
+    },
+    {
+      "name": "Pisco sour",
+      "image": {
+        "file": "File:Pisco Sour Cocktail.jpg",
+        "alt": "A pisco sour, Peru's national cocktail"
+      },
+      "text": "Genuinely a fitting way to end a day of exploring the city or returning from Colca Canyon.",
+      "whereToTry": "Bars and restaurants throughout the Plaza de Armas area."
+    },
+    {
+      "name": "Cuy (guinea pig)",
+      "text": "Genuinely a traditional Andean specialty, found across the wider Arequipa region.",
+      "whereToTry": "Traditional picanterías throughout the city and Colca Valley."
+    },
+    {
+      "name": "Chicha morada",
+      "text": "Genuinely a refreshing non-alcoholic purple corn drink, a common accompaniment throughout the region.",
+      "whereToTry": "Restaurants and markets throughout Arequipa."
+    }
+  ],
+  "accommodation": {
+    "intro": "Arequipa genuinely offers the wider choice of accommodation, with the Colca Valley itself a good option for an early condor start.",
+    "areas": [
+      {
+        "name": "Arequipa's historic centre",
+        "bestFor": "Being genuinely central to Santa Catalina and the Plaza de Armas",
+        "text": "The most convenient base, with the widest choice of restaurants and hotels."
+      },
+      {
+        "name": "The Colca Valley",
+        "bestFor": "A genuinely closer base for an early Cruz del Cóndor start",
+        "text": "Villages like Chivay or Cabanaconde cut the early-morning drive time significantly."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "S/50–100 per night" },
+      { "label": "Mid-range hotel", "value": "S/200–400 per night" },
+      { "label": "Santa Catalina Monastery entry", "value": "About S/40" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About S/35–65 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Arequipa is genuinely well connected by flight and long-distance bus, Peru's second-largest city.",
+    "options": [
+      {
+        "mode": "Flight from Lima or Cusco",
+        "text": "Genuinely the fastest option, both under two hours.",
+        "detail": "Frequent daily flights make Arequipa an easy addition to a wider Peru itinerary."
+      },
+      {
+        "mode": "Bus from Puno",
+        "text": "Genuinely a comfortable overland option, taking around five to six hours.",
+        "detail": "A practical way to combine Arequipa with Lake Titicaca."
+      },
+      {
+        "mode": "Long-distance bus from Lima",
+        "text": "Genuinely a long but comfortable overnight option on reclining-seat services.",
+        "detail": "Takes around 16 hours, a budget alternative to flying."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Arequipa's historic centre is genuinely walkable, while Colca Canyon requires an organised tour or rental car.",
+    "options": [
+      {
+        "mode": "On foot in central Arequipa",
+        "text": "Genuinely covers the Plaza de Armas and Santa Catalina Monastery easily.",
+        "detail": "The historic centre is compact and pleasant to explore on foot."
+      },
+      {
+        "mode": "Organised Colca Canyon tours",
+        "text": "Genuinely the standard way to reach Cruz del Cóndor, given the early start required.",
+        "detail": "Widely available from Arequipa, typically as an overnight or two-day trip."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Genuinely useful for a more flexible Colca Canyon visit with an overnight in the valley.",
+        "detail": "Roads to the canyon are generally well maintained but wind through high mountain passes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for the dry season, best for clear canyon views",
+    "summary": "Arequipa's genuinely mild, sunny climate makes it pleasant year-round, though the dry season offers the clearest Colca Canyon conditions.",
+    "seasons": [
+      {
+        "season": "Dry season (May–September)",
+        "rating": "best",
+        "text": "Genuinely the clearest skies for condor watching and canyon views, also the busiest season."
+      },
+      {
+        "season": "Shoulder months (April, October)",
+        "rating": "good",
+        "text": "Genuinely fewer crowds with still-decent weather odds."
+      },
+      {
+        "season": "Wet season (November–March)",
+        "rating": "okay",
+        "text": "Genuinely lush and green in the valley, though cloud cover can affect condor sightings and mountain pass conditions."
+      }
+    ],
+    "avoid": "Skipping the early start for Cruz del Cóndor — genuinely condor activity drops off significantly after mid-morning."
+  },
+  "itinerary": {
+    "title": "Three days in Arequipa and Colca Canyon",
+    "intro": "Built around Arequipa's historic centre on day one, travel to Colca on day two, and condor watching on day three.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arequipa's historic centre",
+        "summary": "The Plaza de Armas, Santa Catalina Monastery and Yanahuara.",
+        "morning": "Santa Catalina Monastery.",
+        "afternoon": "The Plaza de Armas and cathedral.",
+        "evening": "Sunset at the Yanahuara viewpoint."
+      },
+      {
+        "day": 2,
+        "title": "Into the Colca Valley",
+        "summary": "The drive to Chivay or Cabanaconde.",
+        "morning": "Depart Arequipa for the Colca Valley.",
+        "afternoon": "Explore a traditional village and its terraces.",
+        "evening": "Overnight in the valley."
+      },
+      {
+        "day": 3,
+        "title": "Cruz del Cóndor",
+        "summary": "Condor watching and the return to Arequipa.",
+        "morning": "Early arrival at Cruz del Cóndor for condor watching.",
+        "afternoon": "Return drive to Arequipa.",
+        "evening": "A final dinner in the city."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make an Arequipa and Colca Canyon visit noticeably smoother.",
+  "tips": [
+    "Book genuinely an overnight Colca Canyon tour rather than a rushed single-day trip if possible.",
+    "Arrive genuinely at Cruz del Cóndor by 8am for the most reliable condor sightings.",
+    "Pack genuinely warm layers for the Colca Valley — mountain pass temperatures drop sharply.",
+    "Allow genuinely at least two hours for Santa Catalina Monastery, larger than it first appears.",
+    "Acclimatise genuinely before any Colca Canyon trek — the valley sits at real altitude.",
+    "Try genuinely rocoto relleno at a traditional picantería for an authentic taste of Arequipa."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need for Arequipa and Colca Canyon?",
+      "a": "Three days genuinely covers Arequipa's historic centre and a Colca Canyon condor-watching trip comfortably."
+    },
+    {
+      "q": "Is Colca Canyon deeper than the Grand Canyon?",
+      "a": "Yes, genuinely — Colca Canyon is roughly twice as deep as the Grand Canyon at its most dramatic point."
+    },
+    {
+      "q": "Are condor sightings at Cruz del Cóndor guaranteed?",
+      "a": "Not guaranteed, but genuinely very reliable, especially with an early morning arrival before around 9-10am."
+    },
+    {
+      "q": "What is Arequipa known for?",
+      "a": "Genuinely its striking white volcanic-stone architecture, earning it UNESCO World Heritage status, alongside Santa Catalina Monastery."
+    },
+    {
+      "q": "Do you need to acclimatise before visiting Colca Canyon?",
+      "a": "Genuinely helpful, yes — the surrounding valley sits at real altitude, and some viewpoints exceed 4,000 metres."
+    },
+    {
+      "q": "Can you visit Colca Canyon as a day trip from Arequipa?",
+      "a": "It's genuinely possible but rushed, given the early start required — an overnight in the valley allows a far more comfortable pace."
+    }
+  ],
+  "related": ["lake-titicaca-puno", "cusco", "nazca-lines"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

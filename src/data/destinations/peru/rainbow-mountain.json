@@ -1,0 +1,330 @@
+{
+  "slug": "rainbow-mountain",
+  "name": "Rainbow Mountain",
+  "country": "peru",
+  "region": "Cusco Region",
+  "categories": ["hiking", "nature", "mountains", "adventure"],
+  "tagline": "A genuinely real mineral-striped mountain at over 5,000 metres, its colours the product of geology rather than any filter or enhancement.",
+  "highlight": "Cresting the final ridge after hours of high-altitude hiking to see Vinicunca's full band of colours spread out below, genuinely more vivid in person than in any photo.",
+  "shortDescription": "A genuinely real mineral-striped mountain at over 5,000 metres above sea level, its bands of colour among the most photographed natural sights in the Andes.",
+  "metaDescription": "A Rainbow Mountain travel guide: the Vinicunca hike, altitude preparation, food and how to plan a day trip to Peru's colourful Andean peak.",
+  "suggestedStay": "1 day (as a day trip from Cusco)",
+  "nearestAirport": "Alejandro Velasco Astete International Airport (CUZ), via Cusco",
+  "knownFor": "Vinicunca's mineral-striped slopes, high-altitude hiking",
+  "budget": "S/150–300 per day (typically a single organised day trip)",
+  "goodFor": "Hiking, dramatic scenery, a serious high-altitude challenge",
+  "coords": { "lat": -13.8874, "lng": -71.3084 },
+  "image": {
+    "file": "File:Rainbow Mountain Peru.jpg",
+    "alt": "The mineral-striped slopes of Rainbow Mountain in the Peruvian Andes"
+  },
+  "intro": [
+    "Rainbow Mountain, known locally as Vinicunca, is genuinely a real mineral-striped peak at over 5,000 metres, its bands of red, gold, turquoise and lavender the product of layered sedimentary minerals exposed by erosion and weathering.",
+    "It's genuinely a relatively recent addition to Peru's must-see list, only becoming widely accessible and known outside local communities within the last decade as melting snow first revealed its full colours.",
+    "Most visitors genuinely do it as a demanding single-day trip from Cusco, a very early start and a genuinely serious high-altitude hike rewarded with one of the most photographed natural sights in the Andes."
+  ],
+  "whyVisit": {
+    "intro": "Rainbow Mountain's case rests on genuinely real, natural colour at an altitude that makes reaching it a real accomplishment.",
+    "points": [
+      {
+        "title": "The colours are genuinely real, not enhanced",
+        "text": "Layered mineral deposits create the striped effect, visible exactly as photographed."
+      },
+      {
+        "title": "It's genuinely one of the most photographed sights in the Andes",
+        "text": "A relatively recent addition to Peru's highlights, now firmly established."
+      },
+      {
+        "title": "The hike is genuinely a real high-altitude achievement",
+        "text": "Reaching over 5,000 metres on foot is no small undertaking, even for fit hikers."
+      },
+      {
+        "title": "Ausangate is genuinely visible from the summit",
+        "text": "One of the most sacred mountains in Inca cosmology, forming a dramatic backdrop."
+      },
+      {
+        "title": "It's genuinely doable as a single demanding day trip from Cusco",
+        "text": "No multi-day trek required, though the altitude genuinely makes it far from easy."
+      }
+    ]
+  },
+  "attractionsIntro": "Rainbow Mountain's essential sights are genuinely centred on the mountain itself and the high-altitude terrain surrounding it.",
+  "attractions": [
+    {
+      "name": "Vinicunca (Rainbow Mountain)",
+      "image": {
+        "file": "File:Rainbow Mountain Peru.jpg",
+        "alt": "The colourful slopes of Vinicunca, Rainbow Mountain"
+      },
+      "text": "Genuinely a real mineral-striped peak, its bands of colour created by layered sedimentary rock exposed through natural erosion.",
+      "tip": "Genuinely the colours appear most vivid in clear morning light, before clouds typically roll in."
+    },
+    {
+      "name": "The mountain's mineral bands",
+      "image": {
+        "file": "File:Vinicunca, Rainbow Mountain.jpg",
+        "alt": "The striped mineral bands of Rainbow Mountain"
+      },
+      "text": "Genuinely distinct layers of red, gold, turquoise and lavender, each colour created by a different mineral composition.",
+      "tip": "Genuinely a short zoom lens captures the layered detail better than a wide shot alone."
+    },
+    {
+      "name": "The summit viewpoint",
+      "image": {
+        "file": "File:Vinicunca (Rainbow Mountain).jpg",
+        "alt": "The summit viewpoint at Rainbow Mountain"
+      },
+      "text": "Genuinely reached after a demanding climb, offering the classic full view of the mountain's colour bands.",
+      "tip": "Genuinely the viewpoint sits at over 5,000 metres — take the final approach slowly."
+    },
+    {
+      "name": "Ausangate",
+      "image": {
+        "file": "File:Ausangate Mountain Peru 02.jpg",
+        "alt": "Ausangate, a sacred mountain visible from Rainbow Mountain"
+      },
+      "text": "Genuinely one of the most sacred mountains in Inca cosmology, its snow-capped peak visible from Rainbow Mountain's summit.",
+      "tip": "Genuinely ask your guide to point it out — it's easy to miss amid the more colourful foreground."
+    },
+    {
+      "name": "Local muleteers and their horses",
+      "image": {
+        "file": "File:Muleteer and her horse - Vinicunca.tif",
+        "alt": "A local muleteer with a horse at Vinicunca"
+      },
+      "text": "Genuinely local Andean families offering horses for hire partway up the trail, a real source of income for the community.",
+      "tip": "Genuinely hiring a horse for part of the climb is a legitimate, commonly used option, not just for those struggling."
+    },
+    {
+      "name": "The high-altitude trail",
+      "image": {
+        "file": "File:Montaña de colores en Cuzco Perú.jpg",
+        "alt": "The high-altitude hiking trail to Rainbow Mountain"
+      },
+      "text": "Genuinely a demanding path across open, high-altitude terrain, climbing steadily toward the mountain's colourful slopes.",
+      "tip": "Genuinely the trail is well marked, but the altitude makes even a gentle incline feel strenuous."
+    },
+    {
+      "name": "The colourful mountain ridges",
+      "image": {
+        "file": "File:Montaña Arcoíris.jpg",
+        "alt": "The colourful ridges surrounding Rainbow Mountain"
+      },
+      "text": "Genuinely extending beyond the main viewpoint, similar mineral striping visible across several surrounding ridges.",
+      "tip": "Genuinely a short additional walk along the ridge reveals views many visitors miss."
+    }
+  ],
+  "thingsToDoIntro": "Rainbow Mountain genuinely rewards careful altitude preparation more than any particular activity beyond the hike itself.",
+  "thingsToDo": [
+    {
+      "title": "Hike to Rainbow Mountain's summit",
+      "image": {
+        "file": "File:Rainbow mountain tourists.jpg",
+        "alt": "Hikers at the summit of Rainbow Mountain"
+      },
+      "text": "A genuinely demanding but achievable climb for reasonably fit visitors, typically taking two to three hours each way.",
+      "tip": "Genuinely go slowly and steadily — rushing at this altitude makes altitude sickness symptoms significantly worse."
+    },
+    {
+      "title": "Photograph the mineral-striped slopes",
+      "image": {
+        "file": "File:Montana de colores Cusco (Vinicunca) y Valle Rojo por Inka Time.jpg",
+        "alt": "Photographing the mineral-striped slopes of Rainbow Mountain"
+      },
+      "text": "A genuinely essential part of the visit, capturing the mountain's colours from the main viewpoint.",
+      "tip": "Genuinely arrive as early as possible — cloud cover often rolls in by mid-morning."
+    },
+    {
+      "title": "Ride a horse partway up the trail",
+      "image": {
+        "file": "File:Muleteer and her horse - Vinicunca.tif",
+        "alt": "Riding a horse on the trail to Rainbow Mountain"
+      },
+      "text": "A genuinely legitimate option for those finding the altitude challenging, hiring a horse for part of the ascent.",
+      "tip": "Genuinely agree the price and route clearly with the muleteer before setting off."
+    },
+    {
+      "title": "Spot alpacas along the trail",
+      "image": {
+        "file": "File:Alpaca (34206473641).jpg",
+        "alt": "An alpaca grazing near Rainbow Mountain"
+      },
+      "text": "A genuinely common, welcome distraction on the climb, alpacas grazing on the open high-altitude grassland.",
+      "tip": "Genuinely keep a respectful distance — these are working animals belonging to local herders."
+    },
+    {
+      "title": "View Ausangate from the summit",
+      "image": {
+        "file": "File:Ausangate Landscape.jpg",
+        "alt": "Ausangate viewed from near Rainbow Mountain"
+      },
+      "text": "A genuinely rewarding bonus view, the sacred snow-capped peak visible on a clear day from the main viewpoint.",
+      "tip": "Genuinely clear morning visibility offers the best chance of seeing Ausangate distinctly."
+    },
+    {
+      "title": "Acclimatise properly before attempting the hike",
+      "text": "Genuinely the single most important preparation, spending several days at altitude in Cusco before attempting Rainbow Mountain.",
+      "tip": "Genuinely do not attempt this hike within your first day or two in the Andes — the altitude here is genuinely serious."
+    }
+  ],
+  "foodIntro": "Food around Rainbow Mountain genuinely centres on what tour operators provide, plus a meal in Cusco before or after the trip.",
+  "foods": [
+    {
+      "name": "Coca tea",
+      "text": "Genuinely essential before and during the hike, a mild herbal tea that helps many visitors manage altitude symptoms.",
+      "whereToTry": "Offered by most tour operators before departure."
+    },
+    {
+      "name": "Quinoa soup",
+      "text": "Genuinely a warming, energising meal often provided by tour operators either before or after the hike.",
+      "whereToTry": "Included with many organised Rainbow Mountain day tours."
+    },
+    {
+      "name": "Hot chocolate",
+      "text": "Genuinely a welcome treat after a cold, demanding hike, often served at the trailhead café.",
+      "whereToTry": "Small cafés near the trailhead."
+    },
+    {
+      "name": "Lomo saltado",
+      "image": {
+        "file": "File:Lomo Saltado.JPG",
+        "alt": "Lomo saltado, a Peruvian stir-fry of beef, onions and fries"
+      },
+      "text": "A genuinely satisfying meal back in Cusco after a demanding day on the mountain.",
+      "whereToTry": "Restaurants throughout Cusco."
+    },
+    {
+      "name": "Cuy (guinea pig)",
+      "text": "Genuinely a traditional Andean delicacy, found in restaurants throughout the wider Cusco region.",
+      "whereToTry": "Traditional restaurants throughout Cusco."
+    },
+    {
+      "name": "Pisco sour",
+      "image": {
+        "file": "File:Pisco Sour Cocktail.jpg",
+        "alt": "A pisco sour, Peru's national cocktail"
+      },
+      "text": "Genuinely a fitting way to celebrate back in Cusco after a demanding high-altitude achievement.",
+      "whereToTry": "Bars and restaurants throughout Cusco."
+    }
+  ],
+  "accommodation": {
+    "intro": "Rainbow Mountain is genuinely visited as a day trip from Cusco, with no real accommodation infrastructure at the mountain itself.",
+    "areas": [
+      {
+        "name": "Cusco",
+        "bestFor": "Being genuinely the only practical base for a Rainbow Mountain day trip",
+        "text": "Nearly all visitors stay in Cusco, departing very early and returning the same evening."
+      }
+    ],
+    "budget": [
+      { "label": "Organised day tour from Cusco", "value": "About S/70–150 per person" },
+      { "label": "Horse rental for part of the trail", "value": "About S/60–90" },
+      { "label": "Entrance fee (community-managed)", "value": "About S/20–25" },
+      { "label": "Cusco dinner after the trip", "value": "About S/30–60 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Rainbow Mountain is genuinely reached only as a guided day trip from Cusco, given the very early departure and remote trailhead.",
+    "options": [
+      {
+        "mode": "Organised day tour from Cusco",
+        "text": "Genuinely the standard, near-universal way to visit, including transport, a guide and breakfast.",
+        "detail": "Departures typically leave Cusco around 3-4am for the roughly three-hour drive to the trailhead."
+      },
+      {
+        "mode": "Private tour or driver",
+        "text": "Genuinely an option for a more flexible schedule or smaller group.",
+        "detail": "Bookable through hotels or local agencies in Cusco."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Once at the trailhead, Rainbow Mountain is genuinely reached entirely on foot, or partway by hired horse.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Genuinely the standard way most visitors complete the hike, typically two to three hours each way.",
+        "detail": "A well-marked but genuinely demanding trail given the altitude."
+      },
+      {
+        "mode": "Horse for part of the ascent",
+        "text": "Genuinely available from local muleteers along the lower section of the trail.",
+        "detail": "A legitimate option for those finding the altitude particularly challenging."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for the dry season, best for clear views and stable trail conditions",
+    "summary": "Rainbow Mountain is genuinely most reliably visited in the dry season, when trail conditions and visibility are at their best.",
+    "seasons": [
+      {
+        "season": "Dry season (May–September)",
+        "rating": "best",
+        "text": "Genuinely the clearest skies and most stable trail conditions, also the busiest season."
+      },
+      {
+        "season": "Shoulder months (April, October)",
+        "rating": "good",
+        "text": "Genuinely fewer crowds with still-decent weather odds."
+      },
+      {
+        "season": "Wet season (November–March)",
+        "rating": "okay",
+        "text": "Genuinely muddier trail conditions and a real risk of cloud cover obscuring the summit view."
+      }
+    ],
+    "avoid": "Attempting the hike without proper altitude acclimatisation — genuinely a leading cause of visitors turning back before the summit."
+  },
+  "itinerary": {
+    "title": "One day at Rainbow Mountain",
+    "intro": "A single, demanding day trip from Cusco, structured around a very early departure.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Rainbow Mountain",
+        "summary": "The full-day trip from Cusco.",
+        "morning": "Very early departure from Cusco, breakfast en route, and the hike to the summit.",
+        "afternoon": "The descent and drive back toward Cusco.",
+        "evening": "Return to Cusco, typically by early evening."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Rainbow Mountain visit noticeably smoother.",
+  "tips": [
+    "Spend genuinely at least three to four days acclimatising in Cusco before attempting this hike.",
+    "Pack genuinely warm layers — temperatures at the trailhead and summit are genuinely cold, even in the dry season.",
+    "Bring genuinely sun protection — UV exposure is intense at this altitude despite the cold.",
+    "Consider genuinely hiring a horse for part of the ascent if you're concerned about the altitude.",
+    "Start genuinely as early as your tour allows — cloud cover typically increases through the morning.",
+    "Carry genuinely cash for the community-managed entrance fee, payable at the trailhead."
+  ],
+  "faq": [
+    {
+      "q": "How difficult is the Rainbow Mountain hike?",
+      "a": "Genuinely demanding, primarily due to the altitude rather than technical difficulty — the trail itself is well marked but reaches over 5,000 metres."
+    },
+    {
+      "q": "Do you need to be very fit to hike Rainbow Mountain?",
+      "a": "Reasonable fitness genuinely helps, but altitude acclimatisation matters more than raw fitness — many visitors of varying fitness levels complete it with proper preparation."
+    },
+    {
+      "q": "Are Rainbow Mountain's colours real?",
+      "a": "Yes, genuinely real — the colours come from layered sedimentary minerals, not photo editing, though clear weather does make them more vivid."
+    },
+    {
+      "q": "How long does the Rainbow Mountain day trip take?",
+      "a": "Genuinely a full day, typically departing Cusco around 3-4am and returning by early evening, given the drive and hike combined."
+    },
+    {
+      "q": "Can you ride a horse the whole way up?",
+      "a": "Horses genuinely cover most of the ascent but not the final, steepest stretch to the summit, which must be completed on foot."
+    },
+    {
+      "q": "Is Rainbow Mountain worth it?",
+      "a": "Yes, genuinely, for most visitors properly acclimatised beforehand — it's one of the most striking natural sights in the Andes, though the early start and altitude are real commitments."
+    }
+  ],
+  "related": ["cusco", "sacred-valley", "machu-picchu"],
+  "relatedArticles": ["underrated-destinations", "us-national-parks-road-trip"]
+}
