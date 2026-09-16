@@ -1,0 +1,362 @@
+{
+  "slug": "bandung",
+  "name": "Bandung",
+  "country": "indonesia",
+  "region": "West Java",
+  "categories": ["nature", "culture", "food", "volcanoes"],
+  "tagline": "A cool highland city ringed by volcanic craters and tea plantations, and the beating heart of Sundanese culture and food.",
+  "highlight": "Standing at the rim of Kawah Putih, its pale turquoise lake and bone-white shoreline looking more like another planet than West Java.",
+  "shortDescription": "A cool highland city in West Java, ringed by volcanic craters and tea plantations, with some of Indonesia's best regional food.",
+  "metaDescription": "A Bandung travel guide: Kawah Putih, Tangkuban Perahu, Sundanese food, tea plantations and how to plan a highland trip from Jakarta.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Husein Sastranegara (BDO), or Jakarta plus train",
+  "knownFor": "Volcanic craters, tea plantations, Sundanese culture and food",
+  "budget": "Rp 400,000–1,000,000 per day, mid-range",
+  "goodFor": "Cool highland air, food, nature day trips from Jakarta",
+  "coords": { "lat": -6.9175, "lng": 107.6191 },
+  "image": {
+    "file": "File:Bandung City 23.jpg",
+    "alt": "The city of Bandung surrounded by West Java's highlands"
+  },
+  "intro": [
+    "Bandung sits genuinely in a highland basin ringed by volcanoes, giving West Java's capital a noticeably cooler climate than Jakarta and making it a long-standing weekend escape for the capital's residents.",
+    "The surrounding countryside genuinely holds some of Java's most striking volcanic scenery — Kawah Putih's otherworldly turquoise crater lake and Tangkuban Perahu's smoking rim are both within easy day-trip distance, alongside genuinely photogenic tea plantations carpeting the highland slopes.",
+    "The city itself is genuinely the heart of Sundanese culture, with its own distinct language, traditional angklung bamboo music and a food scene locals will readily argue is Indonesia's best — a real claim worth testing for yourself."
+  ],
+  "whyVisit": {
+    "intro": "Bandung's case rests on genuinely dramatic volcanic scenery paired with some of Indonesia's best regional food.",
+    "points": [
+      {
+        "title": "Kawah Putih is genuinely otherworldly",
+        "text": "A pale turquoise crater lake with bone-white shores, looking more like another planet than West Java."
+      },
+      {
+        "title": "Tangkuban Perahu is genuinely an accessible active volcano",
+        "text": "Drivable right up to its smoking crater rim, unlike most volcanoes requiring a serious trek."
+      },
+      {
+        "title": "Sundanese food is genuinely a highlight of the whole trip",
+        "text": "Batagor, siomay and karedok are all Bandung specialties locals rightly consider Indonesia's best."
+      },
+      {
+        "title": "The climate is genuinely cool and refreshing",
+        "text": "Highland elevation keeps Bandung noticeably cooler than Jakarta or the coast, a real relief in the heat."
+      },
+      {
+        "title": "It's genuinely an easy trip from Jakarta",
+        "text": "A comfortable train ride connects the two cities directly, making Bandung an easy add-on."
+      }
+    ]
+  },
+  "attractionsIntro": "Bandung's essential sights combine dramatic volcanic craters with the city's own colonial and cultural landmarks.",
+  "attractions": [
+    {
+      "name": "Kawah Putih (White Crater Lake)",
+      "image": {
+        "file": "File:A view of Kawah Putih (White Crater Lake) - Bandung, Indonesia, 2022-04-22.jpg",
+        "alt": "The pale turquoise waters of Kawah Putih crater lake near Bandung"
+      },
+      "text": "A genuinely striking volcanic crater lake, its water shifting between turquoise and pale green, ringed by bone-white mineral shores.",
+      "tip": "The genuinely colour of the water can shift with sulphur levels — check recent photos before visiting for the best display."
+    },
+    {
+      "name": "Tangkuban Perahu",
+      "image": {
+        "file": "File:Tangkuban Parahu Crater.jpg",
+        "alt": "The crater of Tangkuban Perahu volcano near Bandung"
+      },
+      "text": "A genuinely active volcano shaped, by local legend, like an overturned boat, with a paved road running right up to its smoking crater rim.",
+      "tip": "Arrive genuinely early morning for the clearest views before afternoon cloud typically rolls in."
+    },
+    {
+      "name": "Gedung Sate",
+      "image": {
+        "file": "File:Gedung Sate Bandung Jawa Barat.jpg",
+        "alt": "Gedung Sate, the colonial-era government building in Bandung"
+      },
+      "text": "Genuinely Bandung's defining landmark, a striking colonial-era government building whose spire resembles a satay skewer, giving the building its name.",
+      "tip": "A genuinely small museum inside explains the building's unusual architecture and history."
+    },
+    {
+      "name": "Braga Street",
+      "image": {
+        "file": "File:Modern Bragaweg (27156618256).jpg",
+        "alt": "Art deco buildings along Braga Street in Bandung"
+      },
+      "text": "A genuinely atmospheric street of Art Deco buildings from Bandung's colonial-era heyday as 'Paris of Java,' now home to cafés and galleries.",
+      "tip": "Evening genuinely brings the street to life, with buskers and a lively café scene."
+    },
+    {
+      "name": "Saung Angklung Udjo",
+      "image": {
+        "file": "File:Pertunjukan Angklung di Saung Angklung Udjo.jpg",
+        "alt": "A traditional angklung bamboo music performance at Saung Angklung Udjo"
+      },
+      "text": "A genuinely beloved cultural venue keeping traditional Sundanese angklung bamboo music alive through daily performances.",
+      "tip": "Book genuinely ahead for the afternoon performance — it's a deservedly popular show."
+    },
+    {
+      "name": "Ciwidey Tea Plantations",
+      "image": {
+        "file": "File:8. Perkebunan teh Ciwidey, Bandung 2016 (1).jpg",
+        "alt": "Rolling tea plantations in the Ciwidey highlands near Bandung"
+      },
+      "text": "Genuinely photogenic rolling tea fields carpeting the highlands around Kawah Putih, easy to combine with a crater lake visit.",
+      "tip": "Morning genuinely light and mist often make for the most atmospheric photos here."
+    },
+    {
+      "name": "Dago Hills",
+      "image": {
+        "file": "File:Bandung night view, Dago.jpg",
+        "alt": "A view over Bandung city from the Dago hills at night"
+      },
+      "text": "Genuinely Bandung's elevated northern district, with cafés and viewpoints looking back down over the whole city.",
+      "tip": "Sunset genuinely and after-dark visits both give great views over the city lights."
+    }
+  ],
+  "thingsToDoIntro": "Bandung genuinely rewards mixing volcanic day trips with the city's café culture and food scene.",
+  "thingsToDo": [
+    {
+      "title": "Watch a traditional angklung performance",
+      "image": {
+        "file": "File:A Sundanese cultural dance performed at Saung Angklung Udjo, Bandung, West Java, Indonesia.jpg",
+        "alt": "A traditional Sundanese cultural performance at Saung Angklung Udjo"
+      },
+      "text": "A genuinely joyful, participatory show mixing traditional bamboo music with dance, often inviting the audience to join in.",
+      "tip": "Arrive genuinely a little early — the venue's grounds and small museum are worth a wander beforehand."
+    },
+    {
+      "title": "Walk Braga Street's Art Deco architecture",
+      "image": {
+        "file": "File:Modern Bragaweg (27156618256).jpg",
+        "alt": "The historic Art Deco buildings of Braga Street"
+      },
+      "text": "A genuinely relaxed evening wander among Bandung's colonial-era heyday architecture, now filled with cafés and small galleries.",
+      "tip": "Several genuinely buildings house small independent coffee shops worth a stop."
+    },
+    {
+      "title": "Shop Bandung's factory outlets",
+      "text": "A genuinely long-standing local specialty, with factory outlet stores selling discounted local and export-surplus clothing throughout the city.",
+      "tip": "The genuinely Riau Street (Jalan RE Martadinata) area holds the highest concentration of outlets."
+    },
+    {
+      "title": "Picnic among Ciwidey's tea plantations",
+      "image": {
+        "file": "File:Tea fields, Bandung Java.jpg",
+        "alt": "Rolling tea fields near Ciwidey outside Bandung"
+      },
+      "text": "A genuinely peaceful way to spend an afternoon, walking or picnicking among the rolling green tea fields near Kawah Putih.",
+      "tip": "Combine genuinely with a Kawah Putih visit — they sit close together on the same day-trip route."
+    },
+    {
+      "title": "Watch sunset from the Dago hills",
+      "image": {
+        "file": "File:Angkot Kalapa Dago at Dago Street in 2012.jpg",
+        "alt": "The Dago area of northern Bandung"
+      },
+      "text": "A genuinely popular local evening ritual, watching the city light up from one of Dago's elevated cafés or viewpoints.",
+      "tip": "Traffic genuinely up to Dago can be heavy in the evening — allow extra time."
+    },
+    {
+      "title": "Soak in Ciwidey's hot springs",
+      "text": "A genuinely relaxing way to end a day of crater and tea plantation sightseeing, with several natural hot springs in the Ciwidey area.",
+      "tip": "Combine genuinely with a Kawah Putih day trip for an easy, efficient itinerary."
+    }
+  ],
+  "foodIntro": "Bandung's food is genuinely a highlight in its own right, with Sundanese specialties locals rightly claim among Indonesia's best.",
+  "foods": [
+    {
+      "name": "Batagor",
+      "image": {
+        "file": "File:Batagor Bandung.jpg",
+        "alt": "Batagor, Bandung's famous fried fish dumplings with peanut sauce"
+      },
+      "text": "Genuinely Bandung's most famous street snack, fried fish and tofu dumplings served with a rich peanut sauce.",
+      "whereToTry": "Batagor stalls and restaurants throughout the city."
+    },
+    {
+      "name": "Siomay",
+      "image": {
+        "file": "File:Siomay Bandung.jpg",
+        "alt": "Siomay, steamed fish dumplings served with peanut sauce"
+      },
+      "text": "Batagor's genuinely steamed cousin, fish dumplings with vegetables served in the same rich peanut sauce.",
+      "whereToTry": "Street vendors and restaurants throughout Bandung."
+    },
+    {
+      "name": "Karedok",
+      "image": {
+        "file": "File:Karedok platter.JPG",
+        "alt": "Karedok, a Sundanese raw vegetable salad with peanut sauce"
+      },
+      "text": "A genuinely refreshing Sundanese salad of raw vegetables in peanut sauce, gado-gado's uncooked Bandung cousin.",
+      "whereToTry": "Sundanese restaurants throughout the city."
+    },
+    {
+      "name": "Nasi timbel",
+      "image": {
+        "file": "File:Nasi Timbel Dara Goreng.JPG",
+        "alt": "Nasi timbel, rice wrapped in banana leaf, served with fried chicken"
+      },
+      "text": "A genuinely traditional Sundanese meal, rice steamed in banana leaf and served with fried chicken, tofu and fresh vegetables.",
+      "whereToTry": "Traditional Sundanese restaurants throughout Bandung."
+    },
+    {
+      "name": "Surabi",
+      "text": "A genuinely traditional Sundanese pancake, cooked in a clay pan over charcoal and topped with either savoury or sweet toppings.",
+      "whereToTry": "Traditional surabi vendors throughout the city."
+    },
+    {
+      "name": "Es cendol",
+      "text": "A genuinely refreshing iced dessert drink of green rice-flour jelly, coconut milk and palm sugar syrup, welcome in Bandung's cooler air.",
+      "whereToTry": "Street vendors and dessert stalls throughout the city."
+    }
+  ],
+  "accommodation": {
+    "intro": "Bandung genuinely offers a wide range of accommodation, from budget guesthouses to highland resort hotels.",
+    "areas": [
+      {
+        "name": "City centre (near Braga and Gedung Sate)",
+        "bestFor": "Being genuinely central and walkable to major sights",
+        "text": "The most convenient base, with easy access to the city's colonial-era landmarks."
+      },
+      {
+        "name": "Dago and the northern highlands",
+        "bestFor": "A genuinely cooler climate and elevated views",
+        "text": "Slightly further out, but rewards with noticeably cooler air and good city views."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse (Bandung)", "value": "Rp 150,000–350,000 per night" },
+      { "label": "Mid-range hotel", "value": "Rp 400,000–1,000,000 per night" },
+      { "label": "Kawah Putih entry", "value": "About Rp 200,000 (foreign visitor rate)" },
+      { "label": "Angklung Udjo performance", "value": "About Rp 100,000–150,000" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Bandung is genuinely well connected to Jakarta, making it an easy add-on to a wider Java trip.",
+    "options": [
+      {
+        "mode": "Train from Jakarta",
+        "text": "Genuinely the most popular way in, a comfortable 3-3.5 hour ride through scenic highland countryside.",
+        "detail": "Executive-class trains run frequently between Jakarta and Bandung."
+      },
+      {
+        "mode": "Domestic flight",
+        "text": "Genuinely available from other major Indonesian cities, landing at Husein Sastranegara airport.",
+        "detail": "Flight options are more limited than the Jakarta train route."
+      },
+      {
+        "mode": "Toll road drive from Jakarta",
+        "text": "A genuinely straightforward 2.5-3 hour drive via the Cipularang toll road.",
+        "detail": "Weekend traffic can extend this noticeably — avoid Friday evening departures."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Bandung's volcanic day trips genuinely require a car, while the city centre is manageable on foot or by app.",
+    "options": [
+      {
+        "mode": "Ride-hailing apps (Gojek, Grab)",
+        "text": "Genuinely the easiest way around the city centre itself.",
+        "detail": "Widely available and reliably priced."
+      },
+      {
+        "mode": "Private driver or car charter",
+        "text": "Genuinely the standard way to reach Kawah Putih and Tangkuban Perahu, both some distance from the city.",
+        "detail": "Typically booked through a hotel or driver for a fixed daily rate."
+      },
+      {
+        "mode": "On foot",
+        "text": "Genuinely fine for exploring the city centre's colonial landmarks and Braga Street.",
+        "detail": "Central sights sit within a comfortable walking radius of each other."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April to October for the driest weather and clearest crater views",
+    "summary": "Bandung's genuinely cool highland climate stays pleasant year-round, though dry season brings the clearest views at Tangkuban Perahu and Kawah Putih.",
+    "seasons": [
+      {
+        "season": "Dry season (April–October)",
+        "rating": "best",
+        "text": "Genuinely the clearest weather for crater views and outdoor exploring."
+      },
+      {
+        "season": "Shoulder months (April, October)",
+        "rating": "good",
+        "text": "Genuinely good weather odds with thinner weekend crowds than peak season."
+      },
+      {
+        "season": "Wet season (November–March)",
+        "rating": "good",
+        "text": "Genuinely still workable, with short, heavy afternoon downpours and lush green tea plantations."
+      },
+      {
+        "season": "Weekends year-round",
+        "rating": "poor",
+        "text": "Genuinely busy with Jakarta day-trippers and weekend visitors — weekdays are noticeably quieter."
+      }
+    ],
+    "avoid": "Avoid genuinely weekend day trips to Kawah Putih and Tangkuban Perahu if possible — both get significantly busier with Jakarta visitors."
+  },
+  "itinerary": {
+    "title": "Two days in Bandung",
+    "intro": "Built around the volcanic craters and tea plantations on day one, the city itself on day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Craters and tea plantations",
+        "summary": "Kawah Putih and the Ciwidey highlands.",
+        "morning": "Kawah Putih's turquoise crater lake.",
+        "afternoon": "The tea plantations around Ciwidey.",
+        "evening": "Return to Bandung for dinner."
+      },
+      {
+        "day": 2,
+        "title": "The city and its culture",
+        "summary": "Colonial landmarks and Sundanese culture.",
+        "morning": "Gedung Sate and Braga Street.",
+        "afternoon": "A performance at Saung Angklung Udjo.",
+        "evening": "Sunset and dinner around the Dago hills."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Bandung trip run more smoothly.",
+  "tips": [
+    "Book the genuinely Jakarta-Bandung train ahead, especially on weekends.",
+    "Visit Kawah Putih and Tangkuban Perahu genuinely on weekdays if possible to avoid the busiest crowds.",
+    "Bring genuinely a light jacket — Bandung's highland air is noticeably cooler than Jakarta's.",
+    "Book Saung Angklung Udjo tickets genuinely ahead for the afternoon performance.",
+    "Allow genuinely extra time for Dago traffic in the evening.",
+    "Carry small rupiah notes for street food and market stalls."
+  ],
+  "faq": [
+    {
+      "q": "Is Bandung worth visiting?",
+      "a": "Yes, genuinely — its volcanic scenery, cool climate and Sundanese food make it a genuinely worthwhile add-on to a Jakarta or wider Java trip."
+    },
+    {
+      "q": "How far is Bandung from Jakarta?",
+      "a": "About genuinely 3 to 3.5 hours by train, or 2.5 to 3 hours by car outside peak traffic."
+    },
+    {
+      "q": "Can you visit Kawah Putih and Tangkuban Perahu in one day?",
+      "a": "It's genuinely possible but ambitious — most visitors split them across two separate day trips given the driving distances involved."
+    },
+    {
+      "q": "How many days do you need in Bandung?",
+      "a": "Two to three days genuinely covers the main craters, tea plantations and city sights at a comfortable pace."
+    },
+    {
+      "q": "Is Bandung cooler than Jakarta?",
+      "a": "Yes, genuinely noticeably so — its highland elevation keeps temperatures several degrees cooler than the coast."
+    },
+    {
+      "q": "What is Bandung famous for?",
+      "a": "Genuinely its volcanic craters, tea plantations, colonial Art Deco architecture and a Sundanese food scene widely considered among Indonesia's best."
+    }
+  ],
+  "related": ["jakarta", "yogyakarta-borobudur", "ubud"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}
