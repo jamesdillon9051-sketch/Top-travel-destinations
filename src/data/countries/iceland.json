@@ -1,0 +1,388 @@
+{
+  "slug": "iceland",
+  "name": "Iceland",
+  "continent": "Northern Europe",
+  "countryCode": "IS",
+  "tagline": "A volcanic island where glaciers, waterfalls, geysers and black sand beaches sit within a single day's drive of a capital city, under skies that barely darken in summer or brighten in winter.",
+  "cardDescription": "The Golden Circle's geysers and waterfalls, the South Coast's glacier lagoons and black beaches, and a Ring Road that circles a genuinely otherworldly landscape.",
+  "metaDescription": "A complete Iceland travel guide: the 10 best places to visit, the Ring Road, the Blue Lagoon, northern lights, costs and a practical eight-day itinerary.",
+  "image": {
+    "file": "File:Seljalandsfoss, Suðurland, Islandia, 2014-08-16, DD 201-203 HDR.JPG",
+    "alt": "Seljalandsfoss waterfall on Iceland's South Coast, with a path running behind the falling water"
+  },
+  "destinations": [
+    "reykjavik",
+    "golden-circle",
+    "south-coast",
+    "jokulsarlon-vatnajokull",
+    "snaefellsnes",
+    "blue-lagoon-reykjanes",
+    "lake-myvatn-north-iceland",
+    "westfjords",
+    "landmannalaugar-highlands",
+    "westman-islands"
+  ],
+  "intro": [
+    "Iceland sits directly on the Mid-Atlantic Ridge, and it genuinely shows — this is a country still actively being built by volcanoes, glaciers and geothermal heat, and the landscape changes character every hour's drive: black lava fields give way to green farmland, farmland gives way to glacier tongues, and glaciers give way to geothermal valleys steaming quietly in the cold.",
+    "The Ring Road (Route 1) circles the whole island and makes an astonishing amount of this genuinely accessible without technical skills — waterfalls you can walk behind, a glacier lagoon where icebergs drift out to sea, and geysers that erupt on a predictable schedule all sit within range of ordinary rental cars, at least outside the wilder interior Highlands.",
+    "Reykjavik, small and walkable, anchors the whole trip and holds the great majority of the country's quarter-million-plus population, but Iceland's real case is made outside it — this is a country where the drive between two sights is very often as memorable as either sight itself."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit — though the Westfjords and the Highlands reward a second trip just as much as a first.",
+  "thingsToDoIntro": "The experiences that recur across the country and that make an Iceland trip feel like more than a checklist of waterfalls.",
+  "thingsToDo": [
+    {
+      "title": "Chase the northern lights",
+      "image": {
+        "file": "File:Aurora Borealis-Northern Lights Iceland.jpg",
+        "alt": "The aurora borealis glowing green over an Icelandic landscape"
+      },
+      "text": "Genuinely one of the best places on Earth to see the aurora, visible on clear, dark nights roughly September to April, away from Reykjavik's light pollution.",
+      "tip": "Check the Icelandic Met Office's aurora forecast and cloud cover map — clear skies matter genuinely more than the forecast's activity number."
+    },
+    {
+      "title": "Soak in a geothermal pool",
+      "image": {
+        "file": "File:Blue Lagoon Geothermal pool 11.jpg",
+        "alt": "The milky blue water of a geothermal lagoon in Iceland"
+      },
+      "text": "The Blue Lagoon is genuinely famous, but every Icelandic town has its own naturally heated public pool, cheaper and just as authentic a local ritual.",
+      "tip": "A neighbourhood pool (sundlaug) in Reykjavik offers a genuinely more local experience than the tourist-focused lagoons, at a fraction of the price."
+    },
+    {
+      "title": "Drive the Ring Road",
+      "image": {
+        "file": "File:Route 1 in Mýrdalshreppur municipality, Iceland, 20240720 1104 2931.jpg",
+        "alt": "A stretch of Iceland's Ring Road running through open volcanic landscape"
+      },
+      "text": "A genuinely spectacular 1,332km loop around the whole island, taking anywhere from seven days to several weeks depending on how many detours you take.",
+      "tip": "Book accommodation well ahead in summer — the Ring Road's small towns genuinely sell out months in advance in peak season."
+    },
+    {
+      "title": "Walk on or into a glacier",
+      "image": {
+        "file": "File:Blue Ice Cave - Flickr - Eric Kilby.jpg",
+        "alt": "A blue ice cave inside Vatnajökull glacier"
+      },
+      "text": "Guided glacier hikes and, in winter, genuinely otherworldly blue ice caves are widely available on Vatnajökull, Europe's largest ice cap by volume.",
+      "tip": "Ice caves are genuinely only accessible in winter, when the ice is stable enough for safe entry — book well ahead."
+    },
+    {
+      "title": "See a geyser erupt",
+      "image": {
+        "file": "File:Strokkur in eruption, Geysir Geothermal Field, Haukadalur, Iceland, 20230501 0902 3743.jpg",
+        "alt": "Strokkur geyser erupting in a tall column of water and steam"
+      },
+      "text": "Strokkur, in the Golden Circle, erupts genuinely reliably every five to ten minutes, a far more active show than its dormant namesake, Geysir, next door.",
+      "tip": "Stand slightly upwind and to the side — the wind genuinely determines which direction the spray goes."
+    },
+    {
+      "title": "Try fermented shark and other local food",
+      "image": {
+        "file": "File:Hákarl (fermented shark).jpg",
+        "alt": "Cubes of hákarl, Iceland's fermented shark meat, served on toothpicks"
+      },
+      "text": "Hákarl is genuinely a rite of passage more than a regular meal, but Iceland's food is far more than this one dare — the lamb, the seafood and the skyr are all genuinely excellent.",
+      "tip": "Chase a small piece of hákarl with a shot of Brennivín, the traditional pairing that genuinely helps."
+    }
+  ],
+  "foodIntro": "Icelandic food's reputation abroad rarely does justice to a genuinely serious lamb, seafood and dairy culture found at every price point.",
+  "foods": [
+    {
+      "name": "Icelandic lamb",
+      "image": {
+        "file": "File:Rack-of-lambs.jpg",
+        "alt": "A roast lamb dish, an Icelandic specialty"
+      },
+      "text": "Free-range and grass-fed on wild herbs across the highlands, genuinely among the best lamb in the world, and a staple of Icelandic menus nationwide.",
+      "whereToTry": "Restaurants nationwide, particularly excellent in rural guesthouses."
+    },
+    {
+      "name": "Skyr",
+      "image": {
+        "file": "File:Skyr & Blackberries 20250816 143415.jpg",
+        "alt": "A bowl of skyr, Iceland's traditional dairy product, topped with berries"
+      },
+      "text": "A genuinely ancient, thick, protein-rich dairy product technically closer to strained yoghurt than cheese, eaten daily nationwide for over a thousand years.",
+      "whereToTry": "Supermarkets and cafés nationwide — a genuinely essential daily staple."
+    },
+    {
+      "name": "Fresh Icelandic seafood",
+      "image": {
+        "file": "File:Plokkfiskur.jpg",
+        "alt": "Plokkfiskur, a traditional Icelandic fish stew"
+      },
+      "text": "Genuinely some of the freshest seafood anywhere, from simple plokkfiskur fish stew to langoustine and Arctic char, landed daily at working harbours nationwide.",
+      "whereToTry": "Harbour-side restaurants in Reykjavik and coastal fishing towns."
+    },
+    {
+      "name": "Icelandic hot dog",
+      "image": {
+        "file": "File:The Icelandic pylsa (hot dog) (2502658407).jpg",
+        "alt": "An Icelandic hot dog topped with raw and fried onions, ketchup, mustard and remoulade"
+      },
+      "text": "A genuinely beloved lamb-and-pork sausage piled with raw and crispy onions, topped 'with everything' (ein með öllu) as the default order nationwide.",
+      "whereToTry": "Bæjarins Beztu Pylsur in Reykjavik, genuinely the country's most famous hot dog stand."
+    },
+    {
+      "name": "Rúgbrauð (geothermal rye bread)",
+      "image": {
+        "file": "File:Jonge vrouw stopt een blikken bus met deeg in de hete grond om brood te bakken, Bestanddeelnr 190-0313.jpg",
+        "alt": "A dark loaf of rúgbrauð, traditional Icelandic geothermally baked rye bread"
+      },
+      "text": "A genuinely dense, faintly sweet dark rye bread traditionally baked for a full day buried in geothermally heated ground, still made this way in some spots.",
+      "whereToTry": "Bakeries nationwide, and geothermal bakeries near Lake Mývatn for the traditional version."
+    },
+    {
+      "name": "Brennivín",
+      "image": {
+        "file": "File:Iceland Schnapps! (3083475243).jpg",
+        "alt": "A bottle of Brennivín, Iceland's traditional caraway-flavoured spirit"
+      },
+      "text": "A genuinely potent, unsweetened caraway-flavoured schnapps nicknamed 'Black Death,' traditionally the classic accompaniment to a piece of hákarl.",
+      "whereToTry": "Bars nationwide, and liquor stores (Vínbúðin) for a bottle to take home."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Iceland is straightforward and exceptionally well organised to travel in, with genuinely fast-changing weather and high prices the two practicalities that most often catch visitors out.",
+  "practical": {
+    "capital": "Reykjavik",
+    "language": "Icelandic nationally, with exceptionally high English fluency virtually everywhere.",
+    "currency": "Icelandic króna (kr, ISK)",
+    "money": "Genuinely card-first — cash is rarely needed anywhere, including for the smallest purchases.",
+    "visa": "Visa-free entry for up to 90 days within a 180-day period for many nationalities including the US, Canada, Australia and UK, under the Schengen Area's common rules.",
+    "plugs": "Type C and F (Europlug/Schuko), 230 V, 50 Hz — standard continental European two-pin plugs.",
+    "emergency": "112 for all emergencies, nationwide.",
+    "tipping": "Not customary and not expected — service is already included in prices nationwide.",
+    "safety": "Extremely safe overall, consistently ranked the world's most peaceful country. The real risks are environmental — weather, unstable coastlines and glacier crevasses — not crime.",
+    "connectivity": "Excellent 4G and 5G coverage along the Ring Road and in towns, though genuinely patchy in the remote Highlands and Westfjords interior.",
+    "timeZone": "Greenwich Mean Time (UTC+0) year-round — Iceland does not observe daylight saving time.",
+    "budget": [
+      { "label": "Backpacker", "value": "ISK 14,000–22,000 per day — hostels, supermarket meals, buses" },
+      { "label": "Mid-range", "value": "ISK 28,000–45,000 per day — guesthouses, restaurant meals, a rental car" },
+      { "label": "Comfortable", "value": "ISK 55,000–90,000 per day — hotels, guided tours, fuel for a longer loop" },
+      { "label": "Summer supplement", "value": "Add roughly 15–25% to any budget band specifically in June–August" }
+    ]
+  },
+  "bestTime": {
+    "headline": "June–August for the Highlands and midnight sun, or February–March for the northern lights with fewer crowds than winter's peak",
+    "summary": "Iceland is genuinely a year-round destination, but summer and winter offer such different experiences that the season you choose shapes the whole trip.",
+    "seasons": [
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Near-endless daylight, the Highlands' interior roads open, and the mildest, most reliable weather — also genuinely the busiest and most expensive season."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Genuinely quieter, with the northern lights becoming visible again as nights darken, though weather turns noticeably less predictable."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "good",
+        "text": "Short days but genuinely dramatic, with ice caves, the best northern lights odds, and a real chance of snow closing mountain roads."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "good",
+        "text": "Increasingly long days and thinner crowds than summer, though the Highlands' interior roads genuinely stay closed until June."
+      }
+    ],
+    "avoid": "Attempting the Highlands' F-roads outside June–September, when they are genuinely closed by snow and impassable without specific permission and equipment."
+  },
+  "tripDuration": {
+    "headline": "7–10 days for a first trip",
+    "summary": "Iceland's Ring Road and the distances between its major sights make a full loop genuinely rewarding but time-hungry — rushing it defeats much of the point.",
+    "options": [
+      {
+        "length": "3–4 days",
+        "text": "Reykjavik, the Golden Circle and the South Coast as far as Jökulsárlón and back, the classic short Iceland trip.",
+        "detail": "Genuinely the most popular short itinerary, covering the country's most famous sights without a full Ring Road commitment."
+      },
+      {
+        "length": "5–7 days",
+        "text": "The South Coast, Jökulsárlón and either Snæfellsnes or a first look at North Iceland, connected by longer driving days.",
+        "detail": "Enough time to add real depth to the classic South Coast route."
+      },
+      {
+        "length": "8–10 days",
+        "text": "The itinerary on this page: the full Ring Road, covering the South Coast, the East Fjords, North Iceland and Snæfellsnes.",
+        "detail": "A genuinely complete first circuit of the island at a reasonable, unrushed pace."
+      },
+      {
+        "length": "2 weeks or more",
+        "text": "Add the Westfjords or the Highlands in full, both genuinely worth a dedicated few days rather than a rushed detour.",
+        "detail": "The Westfjords and Landmannalaugar are where a second Iceland trip belongs."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "A rental car is genuinely the standard way to see Iceland — public transport beyond Reykjavik is limited, and the whole point of the country is the drive between sights.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Genuinely essential for the [[south-coast|South Coast]], [[golden-circle|Golden Circle]] and [[snaefellsnes|Snæfellsnes]] at a flexible pace.",
+        "detail": "A 4x4 is recommended outside summer, and genuinely required for any F-road into the Highlands."
+      },
+      {
+        "mode": "Domestic flights",
+        "text": "Connect [[reykjavik|Reykjavik]] to Akureyri and other regional airports in under an hour, useful for reaching the [[lake-myvatn-north-iceland|north]] or [[westfjords|Westfjords]] quickly.",
+        "detail": "Air Iceland Connect operates most domestic routes from Reykjavik's city airport, not Keflavík."
+      },
+      {
+        "mode": "Strætó buses",
+        "text": "A limited but genuinely workable public network connecting Reykjavik to major towns along the Ring Road.",
+        "detail": "Far less flexible than a car, and impractical for reaching most natural sights directly."
+      },
+      {
+        "mode": "Organised day tours",
+        "text": "Widely available from Reykjavik for the [[golden-circle|Golden Circle]], glacier hikes and northern lights, handling transport for visitors without a car.",
+        "detail": "A genuinely practical option for a short Reykjavik-based trip."
+      },
+      {
+        "mode": "Guided super-Jeep and F-road tours",
+        "text": "The only practical way to reach the [[landmannalaugar-highlands|Highlands]] without your own properly equipped 4x4.",
+        "detail": "Genuinely essential in shoulder season, when river crossings and road conditions change fast."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Eight days in Iceland",
+    "intro": "A full Ring Road loop from Reykjavik, covering the South Coast, the glacier lagoon, North Iceland and Snæfellsnes on the way back. Covers six of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Reykjavik",
+        "morning": "Land at Keflavík and drive or transfer into Reykjavik.",
+        "afternoon": "Walk the old harbour and Laugavegur, and see Hallgrímskirkja.",
+        "evening": "Dinner and a soak at a local geothermal pool."
+      },
+      {
+        "day": 2,
+        "title": "The Golden Circle",
+        "morning": "Þingvellir National Park and the rift valley.",
+        "afternoon": "Geysir and Strokkur, then Gullfoss waterfall.",
+        "evening": "Drive on toward the South Coast, or return to Reykjavik."
+      },
+      {
+        "day": 3,
+        "title": "The South Coast",
+        "morning": "Seljalandsfoss and Skógafoss waterfalls.",
+        "afternoon": "Reynisfjara's black sand beach near Vík.",
+        "evening": "Stay overnight near Vík or Skaftafell."
+      },
+      {
+        "day": 4,
+        "title": "Jökulsárlón and the glacier lagoon",
+        "morning": "Continue east through Skaftafell and Vatnajökull National Park.",
+        "afternoon": "Jökulsárlón's icebergs, and Diamond Beach across the road.",
+        "evening": "A glacier walk or ice cave tour, in season."
+      },
+      {
+        "day": 5,
+        "title": "The East Fjords",
+        "morning": "Drive the dramatic East Fjords coastal road.",
+        "afternoon": "Stop in a small fjord town such as Seyðisfjörður.",
+        "evening": "Continue toward North Iceland."
+      },
+      {
+        "day": 6,
+        "title": "Lake Mývatn and North Iceland",
+        "morning": "Goðafoss waterfall en route.",
+        "afternoon": "Lake Mývatn's craters, lava fields and geothermal areas.",
+        "evening": "A soak at the Mývatn Nature Baths."
+      },
+      {
+        "day": 7,
+        "title": "Back through the north and west",
+        "morning": "Akureyri, the 'capital of the north.'",
+        "afternoon": "Continue west toward Snæfellsnes.",
+        "evening": "Settle in on the Snæfellsnes peninsula."
+      },
+      {
+        "day": 8,
+        "title": "Snæfellsnes and depart",
+        "morning": "Snæfellsjökull glacier and the peninsula's dramatic coastline.",
+        "afternoon": "Drive back to Reykjavik or Keflavík.",
+        "evening": "Fly home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Icelandic culture is shaped by a genuine sense of self-reliance and closeness to nature, alongside real pride in its medieval sagas and a small, tightly connected population.",
+    "etiquette": [
+      {
+        "title": "Shoes off indoors, and before entering a pool",
+        "text": "Removing shoes at the door is genuinely standard in homes, and a proper shower before entering any public pool is not optional — it's enforced."
+      },
+      {
+        "title": "Icelanders are genuinely informal and direct",
+        "text": "First names are the norm everywhere, including with strangers and in business, and directness is not considered rude."
+      },
+      {
+        "title": "Respect the landscape and stay on marked paths",
+        "text": "Iceland's terrain is genuinely fragile — moss takes decades to regrow, and off-path driving is both illegal and seriously damaging."
+      },
+      {
+        "title": "Nature's risks are taken seriously here",
+        "text": "Unstable cliffs, sudden waves at black sand beaches and unpredictable weather are genuinely responsible for most visitor incidents — heed posted warnings."
+      },
+      {
+        "title": "Tipping is genuinely not expected",
+        "text": "Service is already included in prices nationwide, and offering a tip can read as slightly odd rather than generous."
+      },
+      {
+        "title": "Book ahead in summer, without exception",
+        "text": "Accommodation and popular tours genuinely sell out months ahead across the peak June–August season."
+      }
+    ],
+    "dos": [
+      "Take off your shoes when entering a home, and shower thoroughly before any public pool.",
+      "Book accommodation and car hire well ahead for a summer trip.",
+      "Check road.is and the aurora forecast before any winter driving or northern lights trip.",
+      "Bring layers for every season — weather genuinely changes within the same day."
+    ],
+    "donts": [
+      "Don't drive off marked roads or tracks — it's illegal and genuinely damages fragile terrain for decades.",
+      "Don't ignore posted warnings at waterfalls, cliffs and black sand beaches — sneaker waves are a genuine, serious hazard.",
+      "Don't expect to tip — it's built into prices and not customary.",
+      "Don't attempt Highland F-roads without a proper 4x4 and current road conditions checked."
+    ]
+  },
+  "tipsIntro": "The things that most often go wrong on an Iceland trip, in rough order of how much they cost people.",
+  "tips": [
+    "Book your rental car, accommodation and any glacier or ice cave tour well ahead for summer travel.",
+    "Check road.is and the aurora forecast before any winter driving or northern lights trip.",
+    "Budget for genuinely high prices — Iceland is one of the most expensive countries in Europe to visit.",
+    "Pack proper layers and a real waterproof shell regardless of season.",
+    "Never approach black sand beaches' waterline at Reynisfjara or similar spots — sneaker waves are genuinely dangerous.",
+    "Consider the Highlands only with a proper 4x4, and only between June and September when F-roads are open.",
+    "Fill up on fuel whenever you see a station outside the Ring Road's main towns — distances between them are genuinely longer than they look.",
+    "Buy alcohol at the duty-free shop on arrival at Keflavík — it's genuinely cheaper than anywhere else in the country."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Iceland?",
+      "a": "A week to ten days covers a full Ring Road loop comfortably, which is the itinerary on this page. Three to four days is enough for Reykjavik, the Golden Circle and the South Coast alone, and genuinely still worthwhile."
+    },
+    {
+      "q": "What is the best time of year to visit Iceland?",
+      "a": "June to August for long daylight and full access to the Highlands; February to March for a good balance of northern lights odds and thinner crowds than the depths of winter."
+    },
+    {
+      "q": "Do you need a car in Iceland?",
+      "a": "For anywhere beyond Reykjavik, genuinely yes — public transport is limited, and a rental car is the standard way most visitors see the country."
+    },
+    {
+      "q": "Is Iceland expensive?",
+      "a": "Yes, genuinely one of the most expensive countries in Europe — mid-range travel runs about ISK 28,000–45,000 per person per day. Supermarket meals and a hostel or guesthouse keep costs down."
+    },
+    {
+      "q": "Can you see the northern lights in Iceland?",
+      "a": "Yes, genuinely one of the best places in the world for it, roughly September to April on clear, dark nights away from Reykjavik's light pollution — never guaranteed, but a real, frequent possibility."
+    },
+    {
+      "q": "Is Iceland safe to visit?",
+      "a": "Extremely safe from a crime perspective, consistently ranked the world's most peaceful country. The real risks are environmental — unstable coastlines, glacier crevasses and fast-changing weather — treated with genuine respect by visitors and locals alike."
+    }
+  ]
+}

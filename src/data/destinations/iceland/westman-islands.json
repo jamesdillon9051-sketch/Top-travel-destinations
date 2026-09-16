@@ -1,0 +1,361 @@
+{
+  "slug": "westman-islands",
+  "name": "The Westman Islands",
+  "country": "iceland",
+  "region": "Vestmannaeyjar, South Iceland",
+  "categories": ["nature", "wildlife", "volcanic", "island"],
+  "tagline": "A volcanic archipelago off the south coast, home to a town half-buried by a 1973 eruption and one of the world's largest puffin colonies.",
+  "highlight": "Standing on the rim of Eldfell, a volcano that didn't exist before 1973, looking down over the town it nearly buried.",
+  "shortDescription": "A dramatic volcanic archipelago off Iceland's south coast, home to a 1973 eruption's frozen aftermath and vast puffin colonies.",
+  "metaDescription": "A Westman Islands (Vestmannaeyjar) travel guide: Eldfell volcano, the Eldheimar eruption museum, puffins, Surtsey and how to plan a visit by ferry or air.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Vestmannaeyjar (VEY), or ferry from Landeyjahöfn",
+  "knownFor": "The 1973 Eldfell eruption, puffins, dramatic sea cliffs",
+  "budget": "ISK 18,000–32,000 per day, mid-range",
+  "goodFor": "Volcanic history, birdwatching, an easy island escape",
+  "coords": { "lat": 63.4400, "lng": -20.2700 },
+  "image": {
+    "file": "File:Puerto de Vestmannaeyjar, Heimaey, Islas Vestman, Suðurland, Islandia, 2014-08-17, DD 006.JPG",
+    "alt": "The harbour town of Heimaey in Iceland's Westman Islands"
+  },
+  "intro": [
+    "The Westman Islands are genuinely one of Iceland's most dramatic volcanic stories made physical: in 1973, a new volcano, Eldfell, tore open on the edge of the main island's only town and buried a third of it in lava and ash over several months, in an eruption residents fought back against by pumping seawater onto the advancing flow.",
+    "Today Heimaey, the only inhabited island in the archipelago, is genuinely a thriving fishing town that has rebuilt itself around that eruption rather than away from it — the Eldheimar museum sits atop an excavated buried house, and Eldfell itself is now a short, popular climb.",
+    "The islands are genuinely just as famous for wildlife as for volcanism: they hold one of the world's largest Atlantic puffin colonies, and the nearby island of Surtsey, formed entirely by an eruption in the 1960s, is a UNESCO World Heritage Site studied as a living laboratory for how life colonises new land."
+  ],
+  "whyVisit": {
+    "intro": "The Westman Islands' case rests on a genuinely rare combination of recent volcanic drama and world-class wildlife.",
+    "points": [
+      {
+        "title": "Eldfell is genuinely a volcano within living memory",
+        "text": "It didn't exist before 1973, and residents who lived through the eruption still tell their stories on the island."
+      },
+      {
+        "title": "The Eldheimar museum is genuinely unlike any other in Iceland",
+        "text": "Built directly over an excavated house buried by the eruption, giving it a real claim to being Iceland's 'Pompeii of the North.'"
+      },
+      {
+        "title": "The islands genuinely hold one of the world's largest puffin colonies",
+        "text": "Hundreds of thousands of pairs nest on the sea cliffs each summer."
+      },
+      {
+        "title": "Surtsey is genuinely a UNESCO World Heritage natural laboratory",
+        "text": "An island born from the sea in the 1960s, visible from boat tours and still scientifically off-limits to casual visitors."
+      },
+      {
+        "title": "It's genuinely an easy, self-contained escape",
+        "text": "A short ferry or flight from the south coast, but with a distinct island character all its own."
+      }
+    ]
+  },
+  "attractionsIntro": "Heimaey's compact size means its genuinely essential sights are all within a short drive or walk of each other.",
+  "attractions": [
+    {
+      "name": "Heimaey Harbour & Town",
+      "image": {
+        "file": "File:Puerto de Vestmannaeyjar, Heimaey, Islas Vestman, Suðurland, Islandia, 2014-08-17, DD 016.JPG",
+        "alt": "The harbour and town of Heimaey backed by volcanic hills"
+      },
+      "text": "A genuinely busy working fishing harbour, still one of Iceland's most important, with the town rebuilt around and over the 1973 lava field.",
+      "tip": "Walk genuinely up to the harbour's northern breakwater for the best view back over the town."
+    },
+    {
+      "name": "Eldfell Volcano",
+      "image": {
+        "file": "File:Edge of the crater of the Eldfell.jpg",
+        "alt": "The crater rim of Eldfell volcano on Heimaey"
+      },
+      "text": "A genuinely young volcano, born in a 1973 eruption that buried much of the town below, now a popular hour-long climb with warm ground still detectable underfoot.",
+      "tip": "You can genuinely still feel residual heat by pushing a stick into the ground near the summit."
+    },
+    {
+      "name": "Eldheimar Museum",
+      "image": {
+        "file": "File:Eldfell - museum of the eruption, house under the tefra.jpg",
+        "alt": "An excavated house buried by ash, the centrepiece of the Eldheimar eruption museum"
+      },
+      "text": "A genuinely striking museum built directly over one of the houses excavated from the ash, telling the story of the 1973 eruption and evacuation.",
+      "tip": "The genuinely included audio guide, narrated partly by survivors, adds real emotional weight."
+    },
+    {
+      "name": "Stórhöfði Puffin Colony",
+      "image": {
+        "file": "File:Puffin Látrabjarg.jpg",
+        "alt": "An Atlantic puffin on a grassy cliff ledge"
+      },
+      "text": "One of Iceland's genuinely most reliable puffin-watching spots, a windswept headland at Heimaey's southern tip with a colony numbering in the hundreds of thousands.",
+      "tip": "Visit genuinely in the evening, when birds return to their burrows in the greatest numbers."
+    },
+    {
+      "name": "Beluga Whale Sanctuary",
+      "image": {
+        "file": "File:36 Die Belugawale.jpg",
+        "alt": "Beluga whales in the Sea Life Trust sanctuary bay"
+      },
+      "text": "A genuinely pioneering open-water sanctuary in Klettsvík bay, home to two beluga whales relocated from a Chinese aquarium in 2019.",
+      "tip": "The genuinely viewing platform lets you watch the belugas without a boat trip."
+    },
+    {
+      "name": "Herjólfsdalur",
+      "image": {
+        "file": "File:Herjólfsdalur, Heimaey - panoramio (1).jpg",
+        "alt": "The natural amphitheatre valley of Herjólfsdalur on Heimaey"
+      },
+      "text": "A genuinely striking natural amphitheatre valley, believed to be the archipelago's first Norse settlement site and now home to Iceland's biggest summer festival.",
+      "tip": "The genuinely short walking loop around the valley rim gives good views over the town."
+    },
+    {
+      "name": "Surtsey",
+      "image": {
+        "file": "File:Surtsey by Brian Gratwicke.jpg",
+        "alt": "Surtsey, a volcanic island formed by an eruption in the 1960s"
+      },
+      "text": "A genuinely brand-new island, formed entirely by an underwater eruption between 1963 and 1967, now a UNESCO World Heritage site studied for how life colonises new land.",
+      "tip": "Landing is genuinely restricted to scientists — most visitors see it only from a boat tour or scenic flight."
+    }
+  ],
+  "thingsToDoIntro": "Heimaey genuinely rewards a mix of volcanic history, wildlife watching and its own laid-back island pace.",
+  "thingsToDo": [
+    {
+      "title": "Climb Eldfell",
+      "image": {
+        "file": "File:Heimaey-22-Eldfell-Lavafeld-1980-gje.jpg",
+        "alt": "The lava field and slopes of Eldfell volcano"
+      },
+      "text": "A genuinely accessible hour-long round trip to the summit, with sweeping views over the town, harbour and surrounding islands.",
+      "tip": "Wear genuinely sturdy shoes — the loose volcanic gravel underfoot can be slippery."
+    },
+    {
+      "title": "Step inside the Eldheimar Museum",
+      "image": {
+        "file": "File:Eldfell - museum of the eruption, house under the tefra.jpg",
+        "alt": "The excavated buried house at the heart of the Eldheimar museum"
+      },
+      "text": "A genuinely moving hour spent among the artefacts and excavated remains of a house buried in the 1973 eruption.",
+      "tip": "Allow genuinely at least an hour, longer if you want the full audio guide experience."
+    },
+    {
+      "title": "Watch puffins return to their burrows",
+      "image": {
+        "file": "File:Puffin at Látrabjarg 2.JPG",
+        "alt": "A puffin on a grassy sea cliff at dusk"
+      },
+      "text": "A genuinely magical evening ritual in summer, as thousands of puffins wheel in from the sea to their cliffside nests.",
+      "tip": "Stórhöfði's genuinely viewing area is a short, easy drive from town."
+    },
+    {
+      "title": "See the rescued belugas",
+      "image": {
+        "file": "File:36 Die Belugawale.jpg",
+        "alt": "Beluga whales swimming in their open-water sanctuary bay"
+      },
+      "text": "A genuinely rare chance to see beluga whales up close in a real bay sanctuary, rather than a traditional aquarium tank.",
+      "tip": "The genuinely visitor centre explains the belugas' full rescue and relocation story."
+    },
+    {
+      "title": "Take a boat tour past the sea stacks and Surtsey",
+      "image": {
+        "file": "File:Islas Brandur, Álsey y Surtsey, Islas Vestman, Suðurland, Islandia, 2014-08-17, DD 046.JPG",
+        "alt": "Dramatic sea stacks and islands near Surtsey in the Westman archipelago"
+      },
+      "text": "A genuinely dramatic way to see the archipelago's sea stacks, sea caves and birdlife up close, with Surtsey visible in the distance.",
+      "tip": "Boats genuinely run only in summer and can be cancelled in rough weather — book flexibly."
+    },
+    {
+      "title": "Wander Herjólfsdalur",
+      "image": {
+        "file": "File:Herjólfsdalur, Heimaey - panoramio (2).jpg",
+        "alt": "The green valley of Herjólfsdalur ringed by cliffs"
+      },
+      "text": "A genuinely peaceful spot most of the year, exploding into Iceland's biggest festival crowd for one weekend each August.",
+      "tip": "Ask genuinely locally about the þjóðhátíð festival if visiting in early August — book accommodation well ahead."
+    }
+  ],
+  "foodIntro": "As a genuine working fishing community, Heimaey's food leans heavily on the daily catch alongside Iceland's usual staples.",
+  "foods": [
+    {
+      "name": "Fresh Icelandic seafood",
+      "image": {
+        "file": "File:Plokkfiskur.jpg",
+        "alt": "A bowl of plokkfiskur fish stew"
+      },
+      "text": "Genuinely as fresh as it comes — Heimaey remains one of Iceland's most important fishing ports.",
+      "whereToTry": "Harbourside restaurants in the town centre."
+    },
+    {
+      "name": "Icelandic lamb",
+      "image": {
+        "file": "File:Rack-of-lambs.jpg",
+        "alt": "A roast lamb dish"
+      },
+      "text": "Genuinely available at most restaurants in town, often from sheep grazed on the surrounding islands.",
+      "whereToTry": "Restaurants around Heimaey's town centre."
+    },
+    {
+      "name": "Skyr",
+      "image": {
+        "file": "File:Skyr & Blackberries 20250816 143415.jpg",
+        "alt": "A bowl of skyr topped with berries"
+      },
+      "text": "A genuinely easy breakfast or snack option at the town's cafés and small supermarket.",
+      "whereToTry": "Cafés in Heimaey town."
+    },
+    {
+      "name": "Puffin",
+      "text": "A genuinely traditional local delicacy, historically an important food source on the islands, though increasingly debated as puffin numbers decline.",
+      "whereToTry": "A small number of traditional restaurants in Heimaey town."
+    },
+    {
+      "name": "Rúgbrauð",
+      "image": {
+        "file": "File:Jonge vrouw stopt een blikken bus met deeg in de hete grond om brood te bakken, Bestanddeelnr 190-0313.jpg",
+        "alt": "A loaf of traditional Icelandic rye bread"
+      },
+      "text": "A genuinely traditional dark rye bread, often served with the day's fish catch at breakfast.",
+      "whereToTry": "Guesthouses and cafés in Heimaey town."
+    },
+    {
+      "name": "Brennivín",
+      "image": {
+        "file": "File:Iceland Schnapps! (3083475243).jpg",
+        "alt": "A bottle of Brennivín, Iceland's signature schnapps"
+      },
+      "text": "Iceland's genuinely famous caraway schnapps, a fitting way to end an evening of puffin watching in town.",
+      "whereToTry": "Bars in Heimaey town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Heimaey town genuinely holds all the archipelago's accommodation, easily walkable to most sights.",
+    "areas": [
+      {
+        "name": "Heimaey town centre",
+        "bestFor": "Being genuinely close to everything",
+        "text": "Guesthouses and small hotels within easy walking distance of the harbour, museum and Eldfell."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse (Heimaey)", "value": "ISK 20,000–35,000 per night" },
+      { "label": "Ferry (car and passengers, return)", "value": "About ISK 8,000–12,000" },
+      { "label": "Eldheimar museum entry", "value": "About ISK 3,500" },
+      { "label": "Boat tour around the islands", "value": "About ISK 10,000–14,000" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Westman Islands are genuinely reached by a short ferry crossing or a quick domestic flight.",
+    "options": [
+      {
+        "mode": "Ferry from Landeyjahöfn",
+        "text": "A genuinely quick 30-40 minute crossing, the most common way over, taking cars as well as foot passengers.",
+        "detail": "Landeyjahöfn is about 2.5 hours from Reykjavik by car."
+      },
+      {
+        "mode": "Domestic flight",
+        "text": "A genuinely fast option from Reykjavik, useful if you'd rather skip the drive to the ferry terminal.",
+        "detail": "Flights are limited and weather-dependent."
+      },
+      {
+        "mode": "Organised day tour",
+        "text": "Genuinely bundles the ferry crossing and island sights for visitors without a car.",
+        "detail": "Day tours typically depart from Reykjavik or the south coast."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Heimaey is genuinely small enough to see most of on foot, with a car useful only for Stórhöfði.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Genuinely covers the town, harbour, museum and Eldfell easily within a day.",
+        "detail": "Nothing in town is more than a 20-minute walk from anything else."
+      },
+      {
+        "mode": "Rental car or taxi",
+        "text": "Genuinely useful for the short drive out to Stórhöfði at the island's southern tip.",
+        "detail": "The whole island's road network covers only a few kilometres."
+      },
+      {
+        "mode": "Boat tours",
+        "text": "Genuinely the only way to see the sea stacks, caves and Surtsey up close.",
+        "detail": "Tours depart from Heimaey's harbour in summer."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "Summer for puffins and boat tours, any season for the volcanic history",
+    "summary": "Summer genuinely brings the puffins and reliable boat tours, though Eldfell and the Eldheimar museum are worth visiting in any season.",
+    "seasons": [
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Genuinely peak puffin season and the only reliable window for boat tours around the islands."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Genuinely quieter, though puffins have mostly left for the winter by late September."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "good",
+        "text": "Genuinely atmospheric for the museum and Eldfell, though ferries can face weather delays."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "good",
+        "text": "Genuinely quiet, with puffins beginning to return toward the end of the season."
+      }
+    ],
+    "avoid": "Avoid genuinely counting on boat tours or flights in winter — rough weather regularly disrupts both."
+  },
+  "itinerary": {
+    "title": "One day in the Westman Islands",
+    "intro": "Built around Eldfell and Eldheimar in the morning, wildlife in the afternoon.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Volcano and wildlife",
+        "summary": "The 1973 eruption story, then puffins and belugas.",
+        "morning": "Climb Eldfell, then visit the Eldheimar Museum.",
+        "afternoon": "Puffin watching at Stórhöfði and the Beluga Whale Sanctuary.",
+        "evening": "Dinner in Heimaey town before the evening ferry."
+      }
+    ]
+  },
+  "tipsIntro": "A handful of practical notes make a Westman Islands day trip run smoothly.",
+  "tips": [
+    "Book your genuinely ferry crossing ahead in summer — car spaces sell out.",
+    "Check genuinely ferry schedules carefully if doing this as a day trip from the south coast.",
+    "Visit Stórhöfði genuinely in the evening for the best puffin activity.",
+    "Allow genuinely a full day rather than rushing it between ferry times.",
+    "Book accommodation genuinely months ahead if visiting during the early August festival.",
+    "Bring genuinely a windproof layer — the islands are notably exposed even by Icelandic standards."
+  ],
+  "faq": [
+    {
+      "q": "Are the Westman Islands worth a day trip?",
+      "a": "Yes, genuinely — the combination of the 1973 eruption story, Eldfell and the puffin colonies makes for a genuinely distinctive day away from the south coast."
+    },
+    {
+      "q": "How do you get to the Westman Islands?",
+      "a": "By a genuinely short ferry from Landeyjahöfn, about 2.5 hours from Reykjavik, or by a quick domestic flight."
+    },
+    {
+      "q": "When is the best time to see puffins on Heimaey?",
+      "a": "Genuinely from around May to August, with evening visits to Stórhöfði giving the best activity."
+    },
+    {
+      "q": "Can you visit Surtsey?",
+      "a": "Not genuinely on land — access is restricted to scientists, but boat tours and scenic flights pass close by."
+    },
+    {
+      "q": "What happened on Heimaey in 1973?",
+      "a": "A new volcano, Eldfell, erupted genuinely without warning at the edge of town, eventually burying about a third of it in lava and ash over several months."
+    },
+    {
+      "q": "How long do you need in the Westman Islands?",
+      "a": "A genuinely full day covers the main sights comfortably; an overnight stay allows a more relaxed pace and an evening puffin visit."
+    }
+  ],
+  "related": ["south-coast", "reykjavik", "golden-circle"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}
