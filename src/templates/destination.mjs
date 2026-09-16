@@ -1,6 +1,8 @@
 import { html, join, plain } from '../lib/html.mjs';
 import { url, absolute } from '../lib/url.mjs';
 import { displayName, inlineName } from '../lib/text.mjs';
+import { categoryLabel } from '../lib/taxonomy.mjs';
+import { keywords as buildKeywords } from '../lib/seo.mjs';
 import { layout } from './layout.mjs';
 import {
   hero,
@@ -40,6 +42,21 @@ export function renderDestination(destination, { site }) {
   const inName = inlineName(destination);
   const pagePath = `${country.slug}/${destination.slug}`;
   const description = plain(destination.metaDescription || destination.intro[0], 158);
+  const keywords = buildKeywords(
+    destination.name,
+    `${destination.name} travel guide`,
+    `things to do in ${inName}`,
+    `${destination.name} attractions`,
+    `${destination.name} itinerary`,
+    `best time to visit ${inName}`,
+    `${destination.name} vacation`,
+    destination.region,
+    country.name,
+    (destination.categories || []).map((slug) => categoryLabel(slug)),
+    String(destination.knownFor || '').split(','),
+    destination.attractions.slice(0, 5).map((a) => plain(a.name)),
+    destination.foods.slice(0, 4).map((f) => plain(f.name))
+  );
 
   const content = html`
     ${hero({
@@ -274,6 +291,7 @@ export function renderDestination(destination, { site }) {
     image: destination.credit ? { src: destination.credit.hero } : null,
     bodyClass: 'page-destination',
     schema,
+    keywords,
     content
   });
 }

@@ -159,6 +159,8 @@ function footer(site) {
  * @param {string} options.path       Site path, e.g. "france/paris".
  * @param {object} [options.image]    { src, alt } for Open Graph.
  * @param {Array}  [options.schema]   JSON-LD objects.
+ * @param {string[]} [options.keywords] Terms for <meta name="keywords">, most relevant first.
+ * @param {string} [options.robots]   Robots directive, e.g. "noindex, follow" for utility pages.
  */
 export function layout({
   site,
@@ -167,6 +169,8 @@ export function layout({
   path: pagePath = '',
   image,
   schema = [],
+  keywords = [],
+  robots = 'index, follow',
   bodyClass = '',
   content
 }) {
@@ -183,6 +187,9 @@ ${GA_SCRIPT.toString()}
 <meta name="google-adsense-account" content="ca-pub-6702932117468670">
 <title>${esc(fullTitle)}</title>
 <meta name="description" content="${esc(description)}">
+<meta name="robots" content="${esc(robots)}">
+<meta name="author" content="${esc(site.title)}">
+${keywords.length ? `<meta name="keywords" content="${esc(keywords.join(', '))}">` : ''}
 <link rel="canonical" href="${esc(absolute(pagePath))}">
 <meta name="theme-color" content="#0f766e" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#14120f" media="(prefers-color-scheme: dark)">

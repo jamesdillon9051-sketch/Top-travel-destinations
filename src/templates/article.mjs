@@ -1,11 +1,20 @@
 import { html, join, plain } from '../lib/html.mjs';
 import { url, absolute } from '../lib/url.mjs';
+import { keywords as buildKeywords } from '../lib/seo.mjs';
 import { layout } from './layout.mjs';
 import { hero, sectionNav, section, prose, detailList, faqList, destinationGrid, articleCard } from './partials.mjs';
 
 export function renderArticle(article, { site, destinations, articles }) {
   const pagePath = `articles/${article.slug}`;
   const description = plain(article.summary, 158);
+  const keywords = buildKeywords(
+    plain(article.title),
+    article.kicker,
+    'travel guide',
+    'travel planning',
+    'travel tips',
+    article.sections.map((s) => plain(s.title))
+  );
 
   const featured = (article.featuredDestinations || [])
     .map((slug) => destinations.get(slug))
@@ -107,6 +116,7 @@ export function renderArticle(article, { site, destinations, articles }) {
     image: article.credit ? { src: article.credit.hero } : null,
     bodyClass: 'page-article',
     schema,
+    keywords,
     content
   });
 }

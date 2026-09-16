@@ -1,7 +1,8 @@
 import { html, join, plain } from '../lib/html.mjs';
 import { url, absolute } from '../lib/url.mjs';
-import { CATEGORY_ORDER } from '../lib/taxonomy.mjs';
+import { CATEGORY_ORDER, categoryLabel } from '../lib/taxonomy.mjs';
 import { inlineName, displayName } from '../lib/text.mjs';
+import { keywords as buildKeywords } from '../lib/seo.mjs';
 import { layout } from './layout.mjs';
 import { section, destinationGrid, articleCard, filterBar, breadcrumbs } from './partials.mjs';
 
@@ -62,6 +63,14 @@ export function renderDestinationsIndex({ site, countryList, destinationList }) 
     description: `Every destination on ${site.title}: ten hand-picked places to visit in each of ${countryList.length} countries, from major cities to national parks and quieter corners worth the detour.`,
     path: 'destinations',
     bodyClass: 'page-index',
+    keywords: buildKeywords(
+      'travel destinations',
+      'best places to visit',
+      'things to do',
+      'travel guide',
+      countryList.map((c) => c.name),
+      usedCategories.map((slug) => categoryLabel(slug))
+    ),
     schema: [
       {
         '@context': 'https://schema.org',
@@ -102,6 +111,13 @@ export function renderArticlesIndex({ site, articleList }) {
     description: `Planning articles from ${site.title}: seasons, budgets, rail travel, road trips and how to choose between destinations.`,
     path: 'articles',
     bodyClass: 'page-index',
+    keywords: buildKeywords(
+      'travel articles',
+      'travel planning',
+      'travel tips',
+      'trip planning guide',
+      articleList.map((a) => plain(a.title))
+    ),
     schema: [
       {
         '@context': 'https://schema.org',
@@ -198,6 +214,7 @@ export function renderCredits({ site, credits, countryList, destinationList, art
     description: 'Photographer and licence attribution for every image used on this site.',
     path: 'image-credits',
     bodyClass: 'page-index',
+    keywords: buildKeywords('image credits', 'photo attribution', 'Wikimedia Commons', 'free licence photography'),
     content
   });
 }
@@ -234,6 +251,7 @@ export function renderNotFound({ site, countryList }) {
     description: 'The page you were looking for could not be found.',
     path: '404.html',
     bodyClass: 'page-404',
+    robots: 'noindex, follow',
     content
   });
 }

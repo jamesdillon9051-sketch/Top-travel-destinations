@@ -1,6 +1,7 @@
 import { html, join, plain } from '../lib/html.mjs';
 import { url, absolute } from '../lib/url.mjs';
 import { inlineName, displayName } from '../lib/text.mjs';
+import { keywords as buildKeywords } from '../lib/seo.mjs';
 import { layout } from './layout.mjs';
 import { hero, sectionNav, section, prose, detailList, faqList, destinationGrid } from './partials.mjs';
 
@@ -15,6 +16,17 @@ export function renderGuide(guide, country, { site }) {
   const pagePath = `${country.slug}/travel-guide`;
   const description = plain(guide.summary, 158);
   const credit = guide.credit || country.credit;
+  const keywords = buildKeywords(
+    country.name,
+    `${name} travel guide`,
+    `how to plan a trip to ${inName}`,
+    `${name} itinerary`,
+    `how many days in ${inName}`,
+    `${name} travel tips`,
+    `best time to visit ${inName}`,
+    country.continent,
+    country.places.map((place) => place.name)
+  );
 
   const navItems = [
     ...guide.sections.map((s) => ({ id: s.id, label: s.navLabel || s.title })),
@@ -120,6 +132,7 @@ export function renderGuide(guide, country, { site }) {
     image: credit ? { src: credit.hero } : null,
     bodyClass: 'page-guide',
     schema,
+    keywords,
     content
   });
 }

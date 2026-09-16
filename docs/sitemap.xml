@@ -1,1642 +1,3262 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.w3.org/1999/sitemaps/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.sitemaps.org/schemas/sitemap-image/1.1">
   <url>
     <loc>https://travelvault.online/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/home/hero.webp</image:loc>
+      <image:caption>A lake town backed by snow-dusted mountains at golden hour</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/destinations/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://travelvault.online/austria/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/austria/hallstatt--attraction-1.webp</image:loc>
+      <image:caption>Hallstatt's lakeside village beneath the Alps in Austria's Salzkammergut</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/austria/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/austria/hallstatt--attraction-1.webp</image:loc>
+      <image:caption>Hallstatt's lakeside village beneath the Alps in Austria's Salzkammergut</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/austria/vienna/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/austria/vienna--attraction-1.webp</image:loc>
+      <image:caption>Schönbrunn Palace, the former imperial summer residence in Vienna</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/austria/salzburg/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/austria/salzburg.webp</image:loc>
+      <image:caption>Salzburg's baroque old town beneath the Hohensalzburg Fortress</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/austria/hallstatt/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/austria/hallstatt--attraction-1.webp</image:loc>
+      <image:caption>Hallstatt's lakeside village beneath the Alps in Austria's Salzkammergut</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/austria/innsbruck/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/austria/innsbruck.webp</image:loc>
+      <image:caption>Innsbruck's old town with the snow-capped Nordkette mountains rising directly behind it</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/austria/graz/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/austria/graz.webp</image:loc>
+      <image:caption>Graz's red-tiled old town seen from Schlossberg hill</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/austria/wachau-valley/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/austria/wachau-valley--food-1.webp</image:loc>
+      <image:caption>Vineyard terraces above the Danube in Austria's Wachau Valley</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/austria/kitzbuhel/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/austria/kitzbuhel.webp</image:loc>
+      <image:caption>Skiers on a slope in the Austrian Alps</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/austria/zell-am-see-grossglockner/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/austria/zell-am-see-grossglockner--attraction-1.webp</image:loc>
+      <image:caption>The Grossglockner High Alpine Road winding through Austria's highest mountains</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/austria/eisenstadt-neusiedler-see/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/austria/eisenstadt-neusiedler-see--attraction-3.webp</image:loc>
+      <image:caption>Reed beds along the shore of Lake Neusiedl in Austria's Burgenland region</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/austria/bregenz-lake-constance/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/austria/bregenz-lake-constance--attraction-1.webp</image:loc>
+      <image:caption>Bregenz on the shore of Lake Constance in Austria's Vorarlberg region</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/canada/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/canada/_country.webp</image:loc>
+      <image:caption>Lake Louise's turquoise water in Banff National Park</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/canada/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/canada/_country.webp</image:loc>
+      <image:caption>Lake Louise's turquoise water in Banff National Park</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/canada/banff-lake-louise/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/canada/banff-lake-louise--attraction-1.webp</image:loc>
+      <image:caption>Lake Louise's turquoise water in Banff National Park</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/canada/jasper-national-park/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/canada/jasper-national-park--attraction-1.webp</image:loc>
+      <image:caption>Spirit Island on Maligne Lake in Jasper National Park</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/canada/vancouver/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/canada/vancouver--attraction-7.webp</image:loc>
+      <image:caption>Vancouver's skyline against the Coast Mountains</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/canada/whistler/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/canada/whistler.webp</image:loc>
+      <image:caption>Whistler Village beneath its surrounding mountains</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/canada/toronto/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/canada/toronto--attraction-1.webp</image:loc>
+      <image:caption>The CN Tower above Toronto's skyline</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/canada/niagara-falls/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/canada/niagara-falls--attraction-1.webp</image:loc>
+      <image:caption>Horseshoe Falls at Niagara Falls</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/canada/montreal/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/canada/montreal--attraction-2.webp</image:loc>
+      <image:caption>Old Montreal's historic streets</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/canada/quebec-city/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/canada/quebec-city--attraction-1.webp</image:loc>
+      <image:caption>Château Frontenac at dusk above Quebec City</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/canada/prince-edward-island/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/canada/prince-edward-island--attraction-2.webp</image:loc>
+      <image:caption>Red sand cliffs at Prince Edward Island National Park</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/canada/churchill/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/canada/churchill.webp</image:loc>
+      <image:caption>A wild polar bear on the tundra near Churchill, Manitoba</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/china/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/china/_country.webp</image:loc>
+      <image:caption>The futuristic skyline of Pudong, Shanghai, across the Huangpu River</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/china/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/china/_country.webp</image:loc>
+      <image:caption>The futuristic skyline of Pudong, Shanghai, across the Huangpu River</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/china/beijing/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/china/beijing.webp</image:loc>
+      <image:caption>An aerial view over the golden roofs of the Forbidden City with Beijing's skyline behind</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/china/xi-an/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/china/xi-an.webp</image:loc>
+      <image:caption>Rows of life-size terracotta soldiers standing in Pit 1 of the Terracotta Army</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/china/shanghai/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/china/shanghai.webp</image:loc>
+      <image:caption>The futuristic skyline of Pudong, Shanghai, seen across the Huangpu River</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/china/guilin-yangshuo/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/china/guilin-yangshuo.webp</image:loc>
+      <image:caption>Limestone karst peaks reflected in the still water of the Li River</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/china/zhangjiajie/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/china/zhangjiajie.webp</image:loc>
+      <image:caption>Thousands of sandstone pillars rising through mist in Zhangjiajie National Forest Park</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/china/chengdu/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/china/chengdu.webp</image:loc>
+      <image:caption>A giant panda eating bamboo at the Chengdu panda base</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/china/hong-kong/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/china/hong-kong.webp</image:loc>
+      <image:caption>Hong Kong's skyscraper skyline lit up at night around Victoria Harbour</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/china/lijiang-yunnan/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/china/lijiang-yunnan.webp</image:loc>
+      <image:caption>The canal-lined rooftops of Lijiang's Old Town seen from above</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/china/huangshan-anhui-villages/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/china/huangshan-anhui-villages.webp</image:loc>
+      <image:caption>Granite peaks of Huangshan rising through cloud, with pine trees in the foreground</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/china/suzhou-hangzhou/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/china/suzhou-hangzhou.webp</image:loc>
+      <image:caption>A pavilion and pond in Suzhou's Humble Administrator's Garden</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/croatia/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/croatia/dubrovnik--attraction-1.webp</image:loc>
+      <image:caption>Dubrovnik's medieval city walls above the Adriatic</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/croatia/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/croatia/dubrovnik--attraction-1.webp</image:loc>
+      <image:caption>Dubrovnik's medieval city walls above the Adriatic</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/croatia/dubrovnik/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/croatia/dubrovnik--attraction-1.webp</image:loc>
+      <image:caption>Dubrovnik's medieval city walls above the Adriatic</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/croatia/split/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/croatia/split--attraction-1.webp</image:loc>
+      <image:caption>Diocletian's Palace in Split</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/croatia/hvar/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/croatia/hvar.webp</image:loc>
+      <image:caption>Hvar Town and St Stephen's Square</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/croatia/plitvice-lakes/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/croatia/plitvice-lakes--attraction-1.webp</image:loc>
+      <image:caption>Veliki Slap, the Great Waterfall at Plitvice Lakes</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/croatia/zagreb/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/croatia/zagreb--attraction-1.webp</image:loc>
+      <image:caption>St Mark's Church in Zagreb's Upper Town</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/croatia/rovinj/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/croatia/rovinj--attraction-4.webp</image:loc>
+      <image:caption>Rovinj's old town rising from the Adriatic</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/croatia/zadar/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/croatia/zadar--thing-6.webp</image:loc>
+      <image:caption>Sunset over Zadar's Sea Organ</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/croatia/korcula/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/croatia/korcula--attraction-1.webp</image:loc>
+      <image:caption>Korčula's walled old town on its peninsula</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/croatia/krka-national-park/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/croatia/krka-national-park--attraction-1.webp</image:loc>
+      <image:caption>Skradinski Buk waterfall at Krka National Park</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/croatia/pula/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/croatia/pula--attraction-1.webp</image:loc>
+      <image:caption>Pula Arena, a Roman amphitheatre in Croatia</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/czech-republic/prague.webp</image:loc>
+      <image:caption>Prague's skyline along the Vltava River, with St Vitus Cathedral rising above Prague Castle</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/czech-republic/prague.webp</image:loc>
+      <image:caption>Prague's skyline along the Vltava River, with St Vitus Cathedral rising above Prague Castle</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/prague/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/czech-republic/prague.webp</image:loc>
+      <image:caption>Prague's skyline along the Vltava River, with St Vitus Cathedral rising above Prague Castle</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/kutna-hora/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/czech-republic/kutna-hora.webp</image:loc>
+      <image:caption>The town of Kutná Hora with St Barbara's Cathedral rising above it</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/cesky-krumlov/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/czech-republic/cesky-krumlov--attraction-1.webp</image:loc>
+      <image:caption>Český Krumlov Castle above the old town</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/karlovy-vary/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/czech-republic/karlovy-vary--attraction-1.webp</image:loc>
+      <image:caption>The Mill Colonnade in Karlovy Vary</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/plzen/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/czech-republic/plzen--attraction-1.webp</image:loc>
+      <image:caption>The Pilsner Urquell Brewery in Plzeň</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/bohemian-switzerland/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/czech-republic/bohemian-switzerland--attraction-1.webp</image:loc>
+      <image:caption>Pravčická Gate, Europe's largest natural sandstone arch, in Bohemian Switzerland</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/telc/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/czech-republic/telc--attraction-1.webp</image:loc>
+      <image:caption>Telč's Renaissance main square</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/brno/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/czech-republic/brno--attraction-1.webp</image:loc>
+      <image:caption>Špilberk Castle overlooking Brno</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/lednice-valtice/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/czech-republic/lednice-valtice--attraction-1.webp</image:loc>
+      <image:caption>Lednice Chateau in South Moravia</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/olomouc/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/czech-republic/olomouc--attraction-1.webp</image:loc>
+      <image:caption>The Holy Trinity Column on Olomouc's Upper Square</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/egypt/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/egypt/cairo-giza--attraction-1.webp</image:loc>
+      <image:caption>The Great Pyramids of Giza rising from the desert outside Cairo</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/egypt/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/egypt/cairo-giza--attraction-1.webp</image:loc>
+      <image:caption>The Great Pyramids of Giza rising from the desert outside Cairo</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/egypt/cairo-giza/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/egypt/cairo-giza--attraction-1.webp</image:loc>
+      <image:caption>The Great Pyramids of Giza on the edge of Cairo</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/egypt/luxor/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/egypt/luxor--attraction-6.webp</image:loc>
+      <image:caption>Luxor and the Nile at sunrise, seen from above</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/egypt/aswan/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/egypt/aswan--attraction-3.webp</image:loc>
+      <image:caption>Feluccas sailing on the Nile at Aswan</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/egypt/nile-cruise/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/egypt/nile-cruise--attraction-1.webp</image:loc>
+      <image:caption>A Nile cruise ship sailing between Luxor and Aswan</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/egypt/alexandria/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/egypt/alexandria--attraction-1.webp</image:loc>
+      <image:caption>The Bibliotheca Alexandrina, Alexandria's striking modern library</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/egypt/sharm-el-sheikh/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/egypt/sharm-el-sheikh.webp</image:loc>
+      <image:caption>The South Sinai coastline near Sharm El Sheikh</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/egypt/dahab/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/egypt/dahab.webp</image:loc>
+      <image:caption>The coastal town of Dahab on the Gulf of Aqaba</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/egypt/hurghada/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/egypt/hurghada.webp</image:loc>
+      <image:caption>The beach at Hurghada on Egypt's Red Sea coast</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/egypt/white-desert-bahariya/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/egypt/white-desert-bahariya--attraction-1.webp</image:loc>
+      <image:caption>Chalk rock formations in Egypt's White Desert</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/egypt/siwa-oasis/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/egypt/siwa-oasis--attraction-2.webp</image:loc>
+      <image:caption>The Temple of the Oracle of Amun in Siwa Oasis</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/france/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/france/_country.webp</image:loc>
+      <image:caption>The white chalk arch and needle rock of Étretat rising from the sea in Normandy</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/france/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/france/_country.webp</image:loc>
+      <image:caption>The white chalk arch and needle rock of Étretat rising from the sea in Normandy</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/france/paris/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/france/paris.webp</image:loc>
+      <image:caption>The Eiffel Tower rising above the Paris rooftops at sunset</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/france/provence-luberon/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/france/provence-luberon.webp</image:loc>
+      <image:caption>The stone village of Gordes stacked up a hillside above the Luberon valley</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/france/nice-french-riviera/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/france/nice-french-riviera.webp</image:loc>
+      <image:caption>The curving seafront of the Promenade des Anglais along the Baie des Anges in Nice</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/france/loire-valley/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/france/loire-valley.webp</image:loc>
+      <image:caption>The turreted roofline and long facade of the Château de Chambord reflected in water</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/france/mont-saint-michel/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/france/mont-saint-michel.webp</image:loc>
+      <image:caption>The abbey of Mont-Saint-Michel rising from the tidal flats at sunrise</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/france/chamonix-mont-blanc/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/france/chamonix-mont-blanc.webp</image:loc>
+      <image:caption>The snow-covered peaks and glaciers of the Mont Blanc massif above the Chamonix valley</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/france/bordeaux/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/france/bordeaux.webp</image:loc>
+      <image:caption>The Place de la Bourse reflected in the water mirror at dusk in Bordeaux</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/france/normandy-d-day-beaches/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/france/normandy-d-day-beaches.webp</image:loc>
+      <image:caption>Rows of white marble crosses at the Normandy American Cemetery above Omaha Beach</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/france/strasbourg-alsace/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/france/strasbourg-alsace.webp</image:loc>
+      <image:caption>Half-timbered houses reflected in a canal in the Petite France quarter of Strasbourg</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/france/dordogne-sarlat/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/france/dordogne-sarlat.webp</image:loc>
+      <image:caption>The village of La Roque-Gageac beneath a limestone cliff on the banks of the Dordogne river</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/germany/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/germany/_country.webp</image:loc>
+      <image:caption>Neuschwanstein Castle in autumn sunlight, Bavaria</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/germany/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/germany/_country.webp</image:loc>
+      <image:caption>Neuschwanstein Castle in autumn sunlight, Bavaria</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/germany/berlin/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/germany/berlin.webp</image:loc>
+      <image:caption>The Brandenburg Gate illuminated at dusk</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/germany/munich/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/germany/munich.webp</image:loc>
+      <image:caption>The Gothic towers of Munich's New Town Hall on Marienplatz</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/germany/romantic-road-neuschwanstein/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/germany/romantic-road-neuschwanstein.webp</image:loc>
+      <image:caption>Neuschwanstein Castle rising from the forest above the Bavarian countryside</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/germany/hamburg/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/germany/hamburg.webp</image:loc>
+      <image:caption>The Elbphilharmonie concert hall rising above Hamburg's harbour</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/germany/cologne-rhine-valley/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/germany/cologne-rhine-valley.webp</image:loc>
+      <image:caption>Cologne Cathedral's twin Gothic spires above the city's old town</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/germany/dresden/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/germany/dresden.webp</image:loc>
+      <image:caption>Dresden's rebuilt baroque skyline seen across the Elbe river</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/germany/black-forest/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/germany/black-forest.webp</image:loc>
+      <image:caption>Dense fir forest covering the rolling hills of the Black Forest</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/germany/nuremberg/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/germany/nuremberg.webp</image:loc>
+      <image:caption>Nuremberg's old town rooftops seen from the walls of the Kaiserburg castle</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/germany/heidelberg-neckar-valley/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/germany/heidelberg-neckar-valley.webp</image:loc>
+      <image:caption>Heidelberg Castle above the old town, seen from the Alte Brücke</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/germany/rugen-baltic-coast/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/germany/rugen-baltic-coast.webp</image:loc>
+      <image:caption>The white chalk cliffs of Rügen's Jasmund National Park dropping into the Baltic Sea</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/greece/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/greece/_country.webp</image:loc>
+      <image:caption>Santorini's whitewashed villages above the volcanic caldera at sunset</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/greece/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/greece/_country.webp</image:loc>
+      <image:caption>Santorini's whitewashed villages above the volcanic caldera at sunset</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/greece/athens/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/greece/athens.webp</image:loc>
+      <image:caption>The Acropolis and Parthenon floodlit above Athens at dusk</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/greece/santorini/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/greece/santorini.webp</image:loc>
+      <image:caption>Oia's whitewashed cave houses and blue-domed churches above Santorini's caldera</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/greece/mykonos/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/greece/mykonos.webp</image:loc>
+      <image:caption>The windmills of Kato Mili above Mykonos Town</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/greece/crete/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/greece/crete.webp</image:loc>
+      <image:caption>Chania's Venetian harbour at dusk on the island of Crete</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/greece/rhodes/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/greece/rhodes.webp</image:loc>
+      <image:caption>The medieval walls and towers of Rhodes Old Town</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/greece/meteora/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/greece/meteora.webp</image:loc>
+      <image:caption>A monastery perched atop a sandstone pillar at Meteora</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/greece/delphi/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/greece/delphi.webp</image:loc>
+      <image:caption>The ruins of the Temple of Apollo at Delphi on the mountainside</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/greece/nafplio-peloponnese/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/greece/nafplio-peloponnese.webp</image:loc>
+      <image:caption>Nafplio's old town and the Bourtzi fortress in the harbour</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/greece/corfu/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/greece/corfu.webp</image:loc>
+      <image:caption>Corfu's Old Town and its Venetian fortress above the harbour</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/greece/thessaloniki/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/greece/thessaloniki.webp</image:loc>
+      <image:caption>The White Tower on Thessaloniki's waterfront</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/iceland/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/iceland/south-coast--attraction-1.webp</image:loc>
+      <image:caption>Seljalandsfoss waterfall on Iceland's South Coast, with a path running behind the falling water</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/iceland/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/iceland/south-coast--attraction-1.webp</image:loc>
+      <image:caption>Seljalandsfoss waterfall on Iceland's South Coast, with a path running behind the falling water</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/iceland/reykjavik/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/iceland/reykjavik--attraction-1.webp</image:loc>
+      <image:caption>Hallgrímskirkja, Reykjavik's landmark church, rising above the city</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/iceland/golden-circle/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/iceland/golden-circle--attraction-3.webp</image:loc>
+      <image:caption>Gullfoss waterfall cascading in two tiers on Iceland's Golden Circle</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/iceland/south-coast/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/iceland/south-coast--attraction-1.webp</image:loc>
+      <image:caption>Seljalandsfoss waterfall on Iceland's South Coast</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/iceland/jokulsarlon-vatnajokull/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/iceland/jokulsarlon-vatnajokull--attraction-1.webp</image:loc>
+      <image:caption>Icebergs drifting in the Jökulsárlón glacier lagoon</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/iceland/snaefellsnes/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/iceland/snaefellsnes--attraction-1.webp</image:loc>
+      <image:caption>Kirkjufell mountain rising above the Snæfellsnes peninsula</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/iceland/blue-lagoon-reykjanes/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/iceland/blue-lagoon-reykjanes.webp</image:loc>
+      <image:caption>The Blue Lagoon's milky-blue geothermal water with Mount Þorbjörn behind it</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/iceland/lake-myvatn-north-iceland/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/iceland/lake-myvatn-north-iceland--attraction-1.webp</image:loc>
+      <image:caption>Lake Mývatn surrounded by volcanic terrain in North Iceland</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/iceland/westfjords/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/iceland/westfjords--attraction-1.webp</image:loc>
+      <image:caption>Dynjandi, a tiered waterfall cascading down a mountainside in the Westfjords</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/iceland/landmannalaugar-highlands/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/iceland/landmannalaugar-highlands.webp</image:loc>
+      <image:caption>The colourful rhyolite mountains of Landmannalaugar in Iceland's highlands</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/iceland/westman-islands/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/iceland/westman-islands.webp</image:loc>
+      <image:caption>The harbour town of Heimaey in Iceland's Westman Islands</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/indonesia/_country.webp</image:loc>
+      <image:caption>The dramatic multi-bay silhouette of Padar Island in Komodo National Park, Indonesia</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/indonesia/_country.webp</image:loc>
+      <image:caption>The dramatic multi-bay silhouette of Padar Island in Komodo National Park, Indonesia</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/ubud/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/indonesia/ubud.webp</image:loc>
+      <image:caption>The stepped green tiers of the Tegalalang Rice Terraces near Ubud, Bali</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/seminyak-kuta/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/indonesia/seminyak-kuta.webp</image:loc>
+      <image:caption>Sunset over the ocean at Kuta Beach, Bali</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/yogyakarta-borobudur/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/indonesia/yogyakarta-borobudur.webp</image:loc>
+      <image:caption>Sunrise over Borobudur temple with a volcano visible in the background</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/bromo-tengger-semeru/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/indonesia/bromo-tengger-semeru.webp</image:loc>
+      <image:caption>Mount Bromo and Mount Semeru volcanoes in East Java, Indonesia</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/komodo-flores/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/indonesia/komodo-flores.webp</image:loc>
+      <image:caption>The dramatic multi-bay silhouette of Padar Island in Komodo National Park</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/raja-ampat/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/indonesia/raja-ampat.webp</image:loc>
+      <image:caption>Karst islands seen from the Piaynemo viewpoint in Raja Ampat</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/lombok-gili-islands/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/indonesia/lombok-gili-islands--attraction-1.webp</image:loc>
+      <image:caption>Palm trees at sunset on Gili Trawangan island</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/jakarta/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/indonesia/jakarta.webp</image:loc>
+      <image:caption>Monas, the National Monument, in central Jakarta</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/lake-toba-sumatra/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/indonesia/lake-toba-sumatra.webp</image:loc>
+      <image:caption>Lake Toba, the world's largest volcanic lake, in North Sumatra</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/bandung/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/indonesia/bandung.webp</image:loc>
+      <image:caption>The city of Bandung surrounded by West Java's highlands</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/ireland/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/ireland/_country.webp</image:loc>
+      <image:caption>The Cliffs of Moher rising sheer from the Atlantic in County Clare, Ireland</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/ireland/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/ireland/_country.webp</image:loc>
+      <image:caption>The Cliffs of Moher rising sheer from the Atlantic in County Clare, Ireland</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/ireland/dublin/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/ireland/dublin.webp</image:loc>
+      <image:caption>The River Liffey and the Ha'penny Bridge in central Dublin</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/ireland/killarney-ring-of-kerry/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/ireland/killarney-ring-of-kerry.webp</image:loc>
+      <image:caption>Ladies View overlooking the Lakes of Killarney on the Ring of Kerry</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/ireland/cliffs-of-moher-burren/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/ireland/cliffs-of-moher-burren.webp</image:loc>
+      <image:caption>The Cliffs of Moher rising sheer from the Atlantic Ocean</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/ireland/galway/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/ireland/galway.webp</image:loc>
+      <image:caption>The city of Galway on the River Corrib in the west of Ireland</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/ireland/cork-cobh/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/ireland/cork-cobh.webp</image:loc>
+      <image:caption>St Fin Barre's Cathedral rising above the city of Cork</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/ireland/connemara/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/ireland/connemara--attraction-1.webp</image:loc>
+      <image:caption>Kylemore Abbey reflected in the lake below the Connemara mountains</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/ireland/kilkenny/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/ireland/kilkenny--attraction-1.webp</image:loc>
+      <image:caption>Kilkenny Castle overlooking the River Nore</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/ireland/dingle-peninsula/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/ireland/dingle-peninsula.webp</image:loc>
+      <image:caption>The hills of the Dingle Peninsula in County Kerry</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/ireland/donegal/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/ireland/donegal.webp</image:loc>
+      <image:caption>The sea cliffs of Slieve League in County Donegal</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/ireland/aran-islands/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/ireland/aran-islands--attraction-2.webp</image:loc>
+      <image:caption>The cliffs at Dún Aengus, an Iron Age fort on Inis Mór</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/italy/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/italy/_country.webp</image:loc>
+      <image:caption>The lakeside village of Varenna on Lake Como with mountains rising behind it</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/italy/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/italy/_country.webp</image:loc>
+      <image:caption>The lakeside village of Varenna on Lake Como with mountains rising behind it</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/italy/rome/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/italy/rome.webp</image:loc>
+      <image:caption>The Colosseum seen across the ruins of the Roman Forum</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/italy/florence-tuscany/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/italy/florence-tuscany.webp</image:loc>
+      <image:caption>Florence's terracotta rooftops and towers seen from the terrace of the cathedral dome</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/italy/venice/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/italy/venice.webp</image:loc>
+      <image:caption>The Grand Canal curving past palace facades towards the Rialto Bridge in Venice</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/italy/amalfi-coast/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/italy/amalfi-coast.webp</image:loc>
+      <image:caption>The pastel houses of Positano stacked down a cliff to the beach on the Amalfi Coast</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/italy/naples-pompeii/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/italy/naples-pompeii.webp</image:loc>
+      <image:caption>The colonnaded forum of Pompeii with Mount Vesuvius rising behind it</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/italy/sicily/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/italy/sicily.webp</image:loc>
+      <image:caption>The Doric Temple of Concordia standing complete in the Valley of the Temples at Agrigento</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/italy/cinque-terre/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/italy/cinque-terre.webp</image:loc>
+      <image:caption>The stacked houses of Manarola above the sea, with terraced vineyards on the cliffs behind</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/italy/dolomites/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/italy/dolomites.webp</image:loc>
+      <image:caption>The three vertical rock towers of the Tre Cime di Lavaredo rising above alpine scree</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/italy/puglia-matera/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/italy/puglia-matera.webp</image:loc>
+      <image:caption>The stone cave dwellings of the Sassi di Matera stacked up the side of a ravine</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/italy/milan/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/italy/milan.webp</image:loc>
+      <image:caption>The marble west front of Milan's Duomo across the Piazza del Duomo</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/japan/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/japan/_country.webp</image:loc>
+      <image:caption>Mount Fuji rising above a traditional pagoda in autumn</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/japan/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/japan/_country.webp</image:loc>
+      <image:caption>Mount Fuji rising above a traditional pagoda in autumn</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/japan/tokyo/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/japan/tokyo.webp</image:loc>
+      <image:caption>Tokyo's Shibuya streets at night, illuminated by neon signage</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/japan/kyoto/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/japan/kyoto.webp</image:loc>
+      <image:caption>The vermillion torii gates of Fushimi Inari Shrine in Kyoto</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/japan/osaka-nara/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/japan/osaka-nara.webp</image:loc>
+      <image:caption>Dotonbori's neon signs reflected in the canal at night in Osaka</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/japan/hiroshima-miyajima/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/japan/hiroshima-miyajima.webp</image:loc>
+      <image:caption>Itsukushima Shrine's vermillion torii gate appearing to float at high tide off Miyajima</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/japan/mount-fuji-hakone/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/japan/mount-fuji-hakone.webp</image:loc>
+      <image:caption>Mount Fuji's snow-capped peak reflected in Lake Kawaguchiko</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/japan/hokkaido/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/japan/hokkaido.webp</image:loc>
+      <image:caption>Rolling lavender fields in Furano, Hokkaido, in full summer bloom</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/japan/okinawa/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/japan/okinawa.webp</image:loc>
+      <image:caption>Cape Manzamo's dramatic cliff dropping into turquoise water on Okinawa's coast</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/japan/takayama-shirakawa-go/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/japan/takayama-shirakawa-go.webp</image:loc>
+      <image:caption>Shirakawa-go's thatched-roof gassho-zukuri farmhouses beneath the mountains</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/japan/kanazawa/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/japan/kanazawa.webp</image:loc>
+      <image:caption>Kenrokuen Garden's Kotoji-toro stone lantern beside the pond in Kanazawa</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/japan/nikko/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/japan/nikko.webp</image:loc>
+      <image:caption>Toshogu Shrine's elaborately carved and gilded Yomeimon Gate in Nikko</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/malaysia/_country.webp</image:loc>
+      <image:caption>The Petronas Towers rising over Kuala Lumpur at dusk</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/malaysia/_country.webp</image:loc>
+      <image:caption>The Petronas Towers rising over Kuala Lumpur at dusk</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/kuala-lumpur/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/malaysia/kuala-lumpur.webp</image:loc>
+      <image:caption>The Kuala Lumpur skyline with the Petronas Towers</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/penang/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/malaysia/penang.webp</image:loc>
+      <image:caption>Street art on a wall in George Town, Penang</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/langkawi/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/malaysia/langkawi--attraction-2.webp</image:loc>
+      <image:caption>Pantai Cenang beach in Langkawi</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/malacca/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/malaysia/malacca--attraction-2.webp</image:loc>
+      <image:caption>Dutch Square in Malacca</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/cameron-highlands/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/malaysia/cameron-highlands.webp</image:loc>
+      <image:caption>Tea plantation terraces in the Cameron Highlands</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/kota-kinabalu/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/malaysia/kota-kinabalu.webp</image:loc>
+      <image:caption>The waterfront in Kota Kinabalu, Sabah</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/perhentian-islands/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/malaysia/perhentian-islands.webp</image:loc>
+      <image:caption>Sunset over the Perhentian Islands</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/taman-negara/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/malaysia/taman-negara.webp</image:loc>
+      <image:caption>The canopy walkway at Taman Negara</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/kuching/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/malaysia/kuching.webp</image:loc>
+      <image:caption>The Sarawak River waterfront in Kuching</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/ipoh/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/malaysia/ipoh--attraction-1.webp</image:loc>
+      <image:caption>The old town hall in Ipoh</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/netherlands/_country.webp</image:loc>
+      <image:caption>Gabled canal houses lining a tree-shaded Amsterdam canal</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/netherlands/_country.webp</image:loc>
+      <image:caption>Gabled canal houses lining a tree-shaded Amsterdam canal</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/amsterdam/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/netherlands/amsterdam.webp</image:loc>
+      <image:caption>Gabled canal houses reflected in an Amsterdam canal</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/rotterdam/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/netherlands/rotterdam.webp</image:loc>
+      <image:caption>The Erasmusbrug, Rotterdam's cable-stayed 'Swan' bridge, at dusk</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/the-hague/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/netherlands/the-hague--attraction-1.webp</image:loc>
+      <image:caption>The Mauritshuis art museum on the Hofvijver lake in The Hague</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/utrecht/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/netherlands/utrecht--thing-1.webp</image:loc>
+      <image:caption>The Dom Tower rising above the rooftops of Utrecht</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/delft/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/netherlands/delft--thing-1.webp</image:loc>
+      <image:caption>The Markt square in Delft, with the Nieuwe Kerk's spire rising above the historic buildings</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/keukenhof/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/netherlands/keukenhof--attraction-1.webp</image:loc>
+      <image:caption>Rows of red and yellow tulips in bloom at Keukenhof gardens</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/giethoorn/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/netherlands/giethoorn--thing-1.webp</image:loc>
+      <image:caption>Thatched farmhouses along a canal in the car-free village of Giethoorn</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/zaanse-schans/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/netherlands/amsterdam--thing-6.webp</image:loc>
+      <image:caption>Historic windmills standing along the Zaan river at Zaanse Schans</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/maastricht/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/netherlands/maastricht--thing-3.webp</image:loc>
+      <image:caption>The Vrijthof square in Maastricht, with the towers of St. Servatius Basilica and St. John's Church</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/kinderdijk/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/netherlands/_country--thing-3.webp</image:loc>
+      <image:caption>The row of 19 UNESCO-listed windmills at Kinderdijk</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/new-zealand/_country.webp</image:loc>
+      <image:caption>Mitre Peak rising above the still waters of Milford Sound</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/new-zealand/_country.webp</image:loc>
+      <image:caption>Mitre Peak rising above the still waters of Milford Sound</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/auckland/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/new-zealand/auckland--attraction-3.webp</image:loc>
+      <image:caption>Sailboats in Westhaven Bay with the Sky Tower rising above Auckland's skyline</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/wellington/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/new-zealand/wellington--thing-4.webp</image:loc>
+      <image:caption>Wellington's waterfront along Lambton Harbour, backed by hillside houses</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/christchurch/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/new-zealand/christchurch--attraction-1.webp</image:loc>
+      <image:caption>A historic tram passing through Cathedral Square in central Christchurch</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/queenstown/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/new-zealand/queenstown--attraction-2.webp</image:loc>
+      <image:caption>The jagged peaks of The Remarkables mountain range above Queenstown</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/rotorua/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/new-zealand/rotorua--thing-2.webp</image:loc>
+      <image:caption>The vividly coloured Champagne Pool at Wai-O-Tapu Thermal Wonderland near Rotorua</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/milford-sound/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/new-zealand/milford-sound--attraction-1.webp</image:loc>
+      <image:caption>Mitre Peak rising directly from the water at Milford Sound</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/bay-of-islands/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/new-zealand/bay-of-islands--thing-1.webp</image:loc>
+      <image:caption>The Hole in the Rock, a natural arch through Motukokako Island in the Bay of Islands</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/abel-tasman/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/new-zealand/abel-tasman--attraction-1.webp</image:loc>
+      <image:caption>The golden sand of Anchorage Bay in Abel Tasman National Park</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/tongariro/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/new-zealand/tongariro--thing-5.webp</image:loc>
+      <image:caption>Mount Ngauruhoe's near-perfect volcanic cone in Tongariro National Park</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/franz-josef-glacier/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/new-zealand/franz-josef-glacier--attraction-1.webp</image:loc>
+      <image:caption>Franz Josef Glacier descending from the Southern Alps</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/norway/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/norway/geirangerfjord.webp</image:loc>
+      <image:caption>Geirangerfjord seen from the Flydalsjuvet viewpoint in Norway</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/norway/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/norway/geirangerfjord.webp</image:loc>
+      <image:caption>Geirangerfjord seen from the Flydalsjuvet viewpoint in Norway</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/norway/oslo/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/norway/oslo.webp</image:loc>
+      <image:caption>The Oslo Opera House rising from the harbour like a sheet of ice</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/norway/bergen/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/norway/bergen.webp</image:loc>
+      <image:caption>The colourful wooden buildings of Bryggen wharf in Bergen</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/norway/geirangerfjord/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/norway/geirangerfjord.webp</image:loc>
+      <image:caption>Geirangerfjord seen from the Flydalsjuvet viewpoint</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/norway/lofoten-islands/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/norway/lofoten-islands.webp</image:loc>
+      <image:caption>The fishing village of Reine beneath jagged peaks in the Lofoten Islands</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/norway/stavanger-preikestolen/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/norway/stavanger-preikestolen--attraction-1.webp</image:loc>
+      <image:caption>Preikestolen, a flat cliff plateau high above Lysefjord in Norway</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/norway/tromso/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/norway/tromso.webp</image:loc>
+      <image:caption>The aurora borealis glowing green over the Arctic landscape near Tromsø</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/norway/trondheim/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/norway/trondheim.webp</image:loc>
+      <image:caption>Colourful old wooden warehouses along the Nidelva river in Trondheim</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/norway/alesund-atlantic-road/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/norway/alesund-atlantic-road.webp</image:loc>
+      <image:caption>The Art Nouveau town of Ålesund seen from the Aksla viewpoint</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/norway/jotunheimen/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/norway/jotunheimen--attraction-1.webp</image:loc>
+      <image:caption>The Besseggen ridge above Lake Gjende in Jotunheimen</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/norway/svalbard/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/norway/svalbard--attraction-2.webp</image:loc>
+      <image:caption>Nordenskiöldbreen, a vast glacier in the Svalbard archipelago</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/peru/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/peru/machu-picchu--attraction-6.webp</image:loc>
+      <image:caption>Machu Picchu, the ancient Inca citadel high in the Andes</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/peru/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/peru/machu-picchu--attraction-6.webp</image:loc>
+      <image:caption>Machu Picchu, the ancient Inca citadel high in the Andes</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/peru/cusco/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/peru/cusco--attraction-1.webp</image:loc>
+      <image:caption>The Plaza de Armas in Cusco, the former capital of the Inca Empire</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/peru/machu-picchu/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/peru/machu-picchu.webp</image:loc>
+      <image:caption>The Inca citadel of Machu Picchu high in the Andes</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/peru/sacred-valley/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/peru/sacred-valley.webp</image:loc>
+      <image:caption>The Maras salt pans terracing down the Sacred Valley hillside</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/peru/lima/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/peru/lima--attraction-5.webp</image:loc>
+      <image:caption>The Malecón coastal cliffs of Miraflores in Lima</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/peru/lake-titicaca-puno/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/peru/lake-titicaca-puno--thing-1.webp</image:loc>
+      <image:caption>The floating reed islands of the Uros people on Lake Titicaca</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/peru/arequipa-colca-canyon/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/peru/arequipa-colca-canyon--attraction-1.webp</image:loc>
+      <image:caption>The Plaza de Armas in Arequipa, built from white volcanic stone</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/peru/amazon-puerto-maldonado/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/peru/amazon-puerto-maldonado--attraction-6.webp</image:loc>
+      <image:caption>The Amazon rainforest canopy near Puerto Maldonado, Peru</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/peru/nazca-lines/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/peru/nazca-lines--attraction-1.webp</image:loc>
+      <image:caption>The Nazca Lines etched into the desert floor in southern Peru</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/peru/huacachina/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/peru/huacachina--thing-2.webp</image:loc>
+      <image:caption>The palm-fringed oasis of Huacachina surrounded by desert dunes</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/peru/rainbow-mountain/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/peru/rainbow-mountain--attraction-1.webp</image:loc>
+      <image:caption>The mineral-striped slopes of Rainbow Mountain in the Peruvian Andes</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/portugal/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/portugal/lisbon--thing-1.webp</image:loc>
+      <image:caption>A traditional yellow tram climbing through Lisbon's Alfama district</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/portugal/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/portugal/lisbon--thing-1.webp</image:loc>
+      <image:caption>A traditional yellow tram climbing through Lisbon's Alfama district</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/portugal/lisbon/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/portugal/lisbon--thing-1.webp</image:loc>
+      <image:caption>A traditional yellow tram climbing through Lisbon's Alfama district</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/portugal/porto/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/portugal/porto--attraction-1.webp</image:loc>
+      <image:caption>Porto's Ribeira district's colourful houses along the Douro River</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/portugal/sintra/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/portugal/sintra--attraction-1.webp</image:loc>
+      <image:caption>Pena Palace's colourful towers rising above the forested hills of Sintra</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/portugal/algarve/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/portugal/algarve--attraction-1.webp</image:loc>
+      <image:caption>The ochre limestone cliffs and sea stacks of Ponta da Piedade near Lagos</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/portugal/douro-valley/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/portugal/douro-valley--food-1.webp</image:loc>
+      <image:caption>Terraced vineyards in Portugal's Douro Valley</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/portugal/evora/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/portugal/evora--attraction-1.webp</image:loc>
+      <image:caption>The Roman Temple of Évora, its ancient columns standing at the heart of the city</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/portugal/obidos/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/portugal/obidos--attraction-1.webp</image:loc>
+      <image:caption>Óbidos's medieval castle walls surrounding the whitewashed old town</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/portugal/coimbra/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/portugal/coimbra--thing-5.webp</image:loc>
+      <image:caption>The clock tower and Paço das Escolas courtyard at the University of Coimbra</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/portugal/madeira/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/portugal/madeira.webp</image:loc>
+      <image:caption>The jagged volcanic peaks of Curral das Freiras in the mountains of Madeira</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/portugal/azores-sao-miguel/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/portugal/azores-sao-miguel--attraction-1.webp</image:loc>
+      <image:caption>The twin blue and green crater lakes of Sete Cidades seen from the Vista do Rei viewpoint</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/scotland/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/scotland/_country.webp</image:loc>
+      <image:caption>The dramatic landscape of the Quiraing on the Isle of Skye</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/scotland/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/scotland/_country.webp</image:loc>
+      <image:caption>The dramatic landscape of the Quiraing on the Isle of Skye</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/scotland/glasgow/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/scotland/glasgow--attraction-1.webp</image:loc>
+      <image:caption>Kelvingrove Art Gallery and Museum in Glasgow</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/scotland/isle-of-skye/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/scotland/isle-of-skye--attraction-2.webp</image:loc>
+      <image:caption>The dramatic landslip landscape of the Quiraing on the Isle of Skye</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/scotland/cairngorms-national-park/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/scotland/cairngorms-national-park.webp</image:loc>
+      <image:caption>The mountains and glens of Cairngorms National Park</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/scotland/loch-ness-inverness/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-kingdom/scottish-highlands-skye--attraction-2.webp</image:loc>
+      <image:caption>Loch Ness and the ruins of Urquhart Castle</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/scotland/st-andrews/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/scotland/st-andrews--attraction-1.webp</image:loc>
+      <image:caption>The Old Course at St Andrews, the home of golf</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/scotland/stirling/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/scotland/stirling--attraction-1.webp</image:loc>
+      <image:caption>Stirling Castle overlooking the city and surrounding plain</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/scotland/isle-of-mull-iona-staffa/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/scotland/isle-of-mull-iona-staffa--attraction-1.webp</image:loc>
+      <image:caption>The colourful harbourfront of Tobermory on the Isle of Mull</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/scotland/orkney-islands/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/scotland/orkney-islands--attraction-2.webp</image:loc>
+      <image:caption>The Ring of Brodgar stone circle on Orkney</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/scotland/speyside/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/scotland/speyside--attraction-6.webp</image:loc>
+      <image:caption>A signpost on Speyside's Malt Whisky Trail</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/scotland/loch-lomond-trossachs/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/scotland/loch-lomond-trossachs--attraction-1.webp</image:loc>
+      <image:caption>Loch Lomond and the surrounding Highland hills</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/spain/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/spain/_country.webp</image:loc>
+      <image:caption>The stacked skyline of Toledo above the Tagus river at dusk</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/spain/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/spain/_country.webp</image:loc>
+      <image:caption>The stacked skyline of Toledo above the Tagus river at dusk</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/spain/barcelona/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/spain/barcelona.webp</image:loc>
+      <image:caption>The city of Barcelona and the sea seen from the terraces of Park Güell</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/spain/granada/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/spain/granada.webp</image:loc>
+      <image:caption>The Alhambra palace complex on its ridge with the Sierra Nevada behind at dusk</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/spain/seville/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/spain/seville.webp</image:loc>
+      <image:caption>The curved brick and tile facade of the Plaza de España in Seville reflected in its canal</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/spain/madrid/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/spain/madrid.webp</image:loc>
+      <image:caption>The arcaded Plaza Mayor in Madrid with its red-painted facade and clock tower</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/spain/san-sebastian-basque/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/spain/san-sebastian-basque.webp</image:loc>
+      <image:caption>The curving sweep of La Concha bay and beach at San Sebastián seen from the hillside</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/spain/cordoba/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/spain/cordoba.webp</image:loc>
+      <image:caption>The forest of columns and red-and-white striped double arches inside the Mezquita of Córdoba</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/spain/valencia/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/spain/valencia.webp</image:loc>
+      <image:caption>The eye-shaped Hemisfèric building reflected in a pool at the City of Arts and Sciences in Valencia</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/spain/mallorca/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/spain/mallorca.webp</image:loc>
+      <image:caption>Terraced slopes and pine-covered ridges of the Serra de Tramuntana falling towards the sea in Mallorca</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/spain/tenerife-teide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/spain/tenerife-teide.webp</image:loc>
+      <image:caption>The volcanic cone of Mount Teide rising above the Las Cañadas caldera in Tenerife</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/spain/santiago-galicia/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/spain/santiago-galicia.webp</image:loc>
+      <image:caption>The baroque west facade of Santiago de Compostela cathedral rising above its granite square</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/thailand/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/thailand/bangkok--attraction-3.webp</image:loc>
+      <image:caption>Wat Arun, the Temple of Dawn, on the bank of the Chao Phraya River in Bangkok</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/thailand/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/thailand/bangkok--attraction-3.webp</image:loc>
+      <image:caption>Wat Arun, the Temple of Dawn, on the bank of the Chao Phraya River in Bangkok</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/thailand/bangkok/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/thailand/bangkok--attraction-3.webp</image:loc>
+      <image:caption>Wat Arun, the Temple of Dawn, on the bank of the Chao Phraya River</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/thailand/chiang-mai/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/thailand/chiang-mai--attraction-1.webp</image:loc>
+      <image:caption>Wat Phra That Doi Suthep, the gilded mountain temple above Chiang Mai</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/thailand/ayutthaya/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/thailand/ayutthaya--attraction-1.webp</image:loc>
+      <image:caption>The ruined temple complex of Wat Mahathat in Ayutthaya</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/thailand/sukhothai/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/thailand/sukhothai--attraction-1.webp</image:loc>
+      <image:caption>The lotus-bud chedi and Buddha statues of Wat Mahathat in Sukhothai Historical Park</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/thailand/chiang-rai/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/thailand/chiang-rai--attraction-1.webp</image:loc>
+      <image:caption>Wat Rong Khun, the White Temple, with its dazzling white facade and spires</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/thailand/phuket/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/thailand/phuket--attraction-4.webp</image:loc>
+      <image:caption>Limestone karst islands rising from the Andaman Sea near Phuket</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/thailand/krabi-railay/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/thailand/krabi-railay--attraction-1.webp</image:loc>
+      <image:caption>Railay Beach's limestone cliffs rising from the turquoise water</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/thailand/koh-samui-koh-phangan/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/thailand/koh-samui-koh-phangan--attraction-1.webp</image:loc>
+      <image:caption>Chaweng Beach's palm-lined sand on Koh Samui</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/thailand/kanchanaburi/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/thailand/kanchanaburi--attraction-1.webp</image:loc>
+      <image:caption>The Bridge on the River Kwai in Kanchanaburi</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/thailand/khao-sok/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/thailand/khao-sok--attraction-1.webp</image:loc>
+      <image:caption>Limestone karsts rising from Cheow Lan Lake in Khao Sok National Park</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/turkey/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/turkey/_country.webp</image:loc>
+      <image:caption>White timber-framed Ottoman houses stacked on a hillside in Safranbolu</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/turkey/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/turkey/_country.webp</image:loc>
+      <image:caption>White timber-framed Ottoman houses stacked on a hillside in Safranbolu</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/turkey/istanbul/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/turkey/istanbul.webp</image:loc>
+      <image:caption>The domes and minarets of Hagia Sophia in Istanbul against a clear sky</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/turkey/cappadocia/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/turkey/cappadocia.webp</image:loc>
+      <image:caption>Dozens of hot-air balloons rising over the eroded rock valleys of Cappadocia at dawn</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/turkey/ephesus/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/turkey/ephesus.webp</image:loc>
+      <image:caption>The two-storey marble facade of the Library of Celsus at Ephesus</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/turkey/pamukkale/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/turkey/pamukkale.webp</image:loc>
+      <image:caption>White stepped travertine terraces filled with pale blue water at Pamukkale</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/turkey/antalya-turquoise-coast/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/turkey/antalya-turquoise-coast.webp</image:loc>
+      <image:caption>The harbour and Ottoman houses of the walled Kaleiçi quarter in Antalya</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/turkey/fethiye-oludeniz/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/turkey/fethiye-oludeniz.webp</image:loc>
+      <image:caption>The sheltered turquoise lagoon and pine-backed spit at Ölüdeniz on Turkey's south-west coast</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/turkey/sanliurfa-gobekli-tepe/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/turkey/sanliurfa-gobekli-tepe.webp</image:loc>
+      <image:caption>Excavated circular enclosures with carved T-shaped limestone pillars at Göbekli Tepe near Şanlıurfa</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/turkey/bodrum/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/turkey/bodrum.webp</image:loc>
+      <image:caption>The Castle of St Peter standing on its headland above Bodrum's harbour and yachts</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/turkey/trabzon-black-sea/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/turkey/trabzon-black-sea.webp</image:loc>
+      <image:caption>Sumela Monastery built into a sheer cliff face above the forested Altındere valley near Trabzon</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/turkey/ankara/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/turkey/ankara.webp</image:loc>
+      <image:caption>The colonnaded hall of Anıtkabir, Atatürk's mausoleum, above its ceremonial plaza in Ankara</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-kingdom/_country.webp</image:loc>
+      <image:caption>The golden-stone cottages of Arlington Row in the Cotswolds village of Bibury</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-kingdom/_country.webp</image:loc>
+      <image:caption>The golden-stone cottages of Arlington Row in the Cotswolds village of Bibury</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/london/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-kingdom/london.webp</image:loc>
+      <image:caption>The Houses of Parliament and Big Ben seen across the Thames</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/edinburgh/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-kingdom/edinburgh.webp</image:loc>
+      <image:caption>Edinburgh Castle rising above the Old Town</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/bath-cotswolds/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-kingdom/bath-cotswolds.webp</image:loc>
+      <image:caption>Georgian townhouses curving around the Circus in Bath</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/scottish-highlands-skye/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-kingdom/scottish-highlands-skye.webp</image:loc>
+      <image:caption>The jagged rock pinnacle of the Old Man of Storr on the Isle of Skye</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/lake-district/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-kingdom/lake-district.webp</image:loc>
+      <image:caption>Derwentwater and the fells around Keswick seen from the Cat Bells ridge</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/york/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-kingdom/york.webp</image:loc>
+      <image:caption>York Minster's Gothic towers seen from the medieval city walls</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/oxford-cambridge/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-kingdom/oxford-cambridge.webp</image:loc>
+      <image:caption>Punts on the River Cam passing beneath the colleges of Cambridge</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/snowdonia-north-wales/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-kingdom/snowdonia-north-wales.webp</image:loc>
+      <image:caption>The ridge and lake of Yr Wyddfa (Snowdon), seen from near its summit</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/cornwall/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-kingdom/cornwall.webp</image:loc>
+      <image:caption>St Ives harbour beach with the pier and town beyond</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/belfast-giants-causeway/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-kingdom/belfast-giants-causeway.webp</image:loc>
+      <image:caption>The hexagonal basalt columns of the Giant's Causeway meeting the sea</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-states/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-states/_country.webp</image:loc>
+      <image:caption>A straight desert road running towards the sandstone buttes of Monument Valley</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-states/travel-guide/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-states/_country.webp</image:loc>
+      <image:caption>A straight desert road running towards the sandstone buttes of Monument Valley</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-states/new-york-city/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-states/new-york-city.webp</image:loc>
+      <image:caption>The Lower Manhattan skyline and the East River seen from Brooklyn</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-states/grand-canyon/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-states/grand-canyon.webp</image:loc>
+      <image:caption>Layered red and orange buttes of the Grand Canyon receding into haze at sunset</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-states/san-francisco/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-states/san-francisco.webp</image:loc>
+      <image:caption>The Golden Gate Bridge in orange light with the Pacific behind it at sunset</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-states/new-orleans/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-states/new-orleans.webp</image:loc>
+      <image:caption>Cast-iron balconies hung with plants above a busy street in the French Quarter of New Orleans</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-states/yellowstone/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-states/yellowstone.webp</image:loc>
+      <image:caption>The orange, yellow and deep blue bands of the Grand Prismatic Spring in Yellowstone</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-states/washington-dc/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-states/washington-dc.webp</image:loc>
+      <image:caption>The Lincoln Memorial reflected in the long rectangular pool on the National Mall</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-states/zion-southern-utah/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-states/zion-southern-utah.webp</image:loc>
+      <image:caption>The Watchman peak rising above the Virgin River in Zion Canyon at sunset</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-states/chicago/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-states/chicago.webp</image:loc>
+      <image:caption>A tour boat on the Chicago River between the glass and stone towers of the downtown Loop</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-states/maui/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-states/maui.webp</image:loc>
+      <image:caption>The winding coastal road on Maui above black volcanic cliffs and green rainforest</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/united-states/charleston/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/united-states/charleston.webp</image:loc>
+      <image:caption>The pastel-painted Georgian houses of Rainbow Row in Charleston</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/articles/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://travelvault.online/articles/best-time-southern-europe/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/articles/best-time-southern-europe.webp</image:loc>
+      <image:caption>White-washed buildings and blue domes above the sea on a Mediterranean island</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/articles/europe-by-train/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/articles/europe-by-train.webp</image:loc>
+      <image:caption>A double-decker TGV crossing a stone viaduct in the French countryside</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/articles/first-trip-to-europe/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/articles/first-trip-to-europe.webp</image:loc>
+      <image:caption>A wide panorama of a European city of red roofs, spires and a river at dusk</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/articles/food-primer/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/articles/food-primer.webp</image:loc>
+      <image:caption>Fruit and vegetable stalls under the ironwork roof of the Boqueria market in Barcelona</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/articles/mediterranean-coasts/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/articles/mediterranean-coasts.webp</image:loc>
+      <image:caption>White limestone cliffs and turquoise inlets of the Calanques near Cassis in southern France</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/articles/packing-by-season/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/articles/packing-by-season.webp</image:loc>
+      <image:caption>A wide open landscape of hills and trail under a broad sky</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/articles/underrated-destinations/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/articles/underrated-destinations.webp</image:loc>
+      <image:caption>A stone bridge spanning a deep gorge beneath a hilltop town</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/articles/unesco-worth-planning-around/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/articles/unesco-worth-planning-around.webp</image:loc>
+      <image:caption>Stone terraces and ruins of an ancient citadel on a mountain ridge</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/articles/us-national-parks-road-trip/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/articles/us-national-parks-road-trip.webp</image:loc>
+      <image:caption>A mountain highway curving along a cliff face beneath snow-streaked peaks</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/articles/week-cost-five-countries/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/articles/week-cost-five-countries.webp</image:loc>
+      <image:caption>A vegetable stall with prices chalked up at a market in Sulmona, Abruzzo</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://travelvault.online/image-credits/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.2</priority>
   </url>
   <url>
     <loc>https://travelvault.online/about/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://travelvault.online/privacy-policy/</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
   </url>

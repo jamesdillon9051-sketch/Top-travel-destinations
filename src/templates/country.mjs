@@ -1,7 +1,8 @@
 import { html, join, plain } from '../lib/html.mjs';
 import { url, absolute } from '../lib/url.mjs';
-import { CATEGORY_ORDER } from '../lib/taxonomy.mjs';
+import { CATEGORY_ORDER, categoryLabel } from '../lib/taxonomy.mjs';
 import { displayName, inlineName } from '../lib/text.mjs';
+import { keywords as buildKeywords } from '../lib/seo.mjs';
 import { layout } from './layout.mjs';
 import {
   hero,
@@ -41,6 +42,19 @@ export function renderCountry(country, { site }) {
   const description = plain(country.metaDescription || country.intro[0], 158);
   const usedCategories = CATEGORY_ORDER.filter((slug) =>
     country.places.some((place) => (place.categories || []).includes(slug))
+  );
+  const keywords = buildKeywords(
+    country.name,
+    `${name} travel guide`,
+    `best places to visit in ${inName}`,
+    `things to do in ${inName}`,
+    `${name} itinerary`,
+    `${name} vacation`,
+    `${name} trip planning`,
+    `${name} tourism`,
+    country.continent,
+    country.places.map((place) => place.name),
+    usedCategories.map((slug) => categoryLabel(slug))
   );
 
   const content = html`
@@ -279,6 +293,7 @@ export function renderCountry(country, { site }) {
     image: country.credit ? { src: country.credit.hero } : null,
     bodyClass: 'page-country',
     schema,
+    keywords,
     content
   });
 }

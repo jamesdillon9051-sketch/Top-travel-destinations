@@ -1,7 +1,7 @@
 {
   "title": "Travel Vault",
-  "tagline": "Ten places worth the trip, in ten countries",
-  "description": "A practical travel guide to France, Spain, the United States, Turkey, Italy, China, the United Kingdom, Germany, Japan and Greece — ten hand-picked destinations in each, with attractions, food, transport, seasons and day-by-day itineraries you can actually plan a trip from.",
+  "tagline": "Ten places worth the trip, in 26 countries",
+  "description": "A practical travel guide to 26 countries across every inhabited continent — ten hand-picked destinations in each, with attractions, food, transport, seasons and day-by-day itineraries you can actually plan a trip from.",
   "siteUrl": "https://travelvault.online",
   "basePath": "/",
   "customDomain": "travelvault.online",
@@ -11,7 +11,7 @@
     "alt": "A lake town backed by snow-dusted mountains at golden hour"
   },
   "home": {
-    "headline": "One hundred places worth building a trip around",
+    "headline": "260 places worth building a trip around",
     "subhead": "Not the ten most photographed spots in each country — the ten that give you the widest, most useful picture of it. Cities, coastlines, ruins, mountains and the odd place most lists forget.",
     "introTitle": "Lists are easy. Useful lists are not.",
     "intro": [
@@ -20,8 +20,8 @@
       "Each destination page covers the same ground: what is actually worth seeing, what to eat and where, which neighbourhood to sleep in, how to get around without a car (or why you need one), when to go, and a day-by-day plan you can follow or ignore. The country guides then show you how to string it all together."
     ],
     "stats": [
-      { "value": "10", "label": "Countries covered in depth" },
-      { "value": "100", "label": "Destinations, each with a full guide" },
+      { "value": "26", "label": "Countries covered in depth" },
+      { "value": "260", "label": "Destinations, each with a full guide" },
       { "value": "10", "label": "Per country — no filler entries" },
       { "value": "100%", "label": "Freely licensed photography" }
     ],

@@ -37,9 +37,12 @@ const STRICT = process.env.DEV !== '1';
 const REQUIRE_IMAGES = process.env.REQUIRE_IMAGES !== '0' && STRICT;
 
 const pages = [];
+/** One build-time timestamp reused for every <lastmod> — accurate in the sense
+ * that every page's HTML genuinely was regenerated at this instant. */
+const BUILD_DATE = new Date().toISOString().slice(0, 10);
 
-function addPage(sitePath, markup, { priority = 0.6, changefreq = 'monthly' } = {}) {
-  pages.push({ sitePath, markup, priority, changefreq });
+function addPage(sitePath, markup, { priority = 0.6, changefreq = 'monthly', image = null } = {}) {
+  pages.push({ sitePath, markup, priority, changefreq, image });
 }
 
 async function writePages() {
@@ -50,19 +53,37 @@ async function writePages() {
   }
 }
 
+/** Escapes text for XML content (sitemap image captions can contain & and quotes). */
+function xmlEscape(value) {
+  return String(value)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
 function sitemap() {
   const entries = pages
     .filter((page) => !page.sitePath.endsWith('.html'))
-    .map(
-      (page) => `  <url>
-    <loc>${absolute(page.sitePath)}</loc>
+    .map((page) => {
+      const image = page.image?.src
+        ? `
+    <image:image>
+      <image:loc>${xmlEscape(absolute(page.image.src))}</image:loc>${
+            page.image.alt ? `\n      <image:caption>${xmlEscape(page.image.alt)}</image:caption>` : ''
+          }
+    </image:image>`
+        : '';
+      return `  <url>
+    <loc>${xmlEscape(absolute(page.sitePath))}</loc>
+    <lastmod>${BUILD_DATE}</lastmod>
     <changefreq>${page.changefreq}</changefreq>
-    <priority>${page.priority.toFixed(1)}</priority>
-  </url>`
-    )
+    <priority>${page.priority.toFixed(1)}</priority>${image}
+  </url>`;
+    })
     .join('\n');
   return `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.w3.org/1999/sitemaps/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.sitemaps.org/schemas/sitemap-image/1.1">
 ${entries}
 </urlset>
 `;
@@ -92,22 +113,32 @@ async function main() {
   // ---- render ---------------------------------------------------------------
   addPage('', renderHome({ site, countryList, destinations, articles }), {
     priority: 1.0,
-    changefreq: 'weekly'
+    changefreq: 'weekly',
+    image: site.heroCredit ? { src: site.heroCredit.hero, alt: site.hero?.alt } : null
   });
   addPage('destinations', renderDestinationsIndex({ site, countryList, destinationList }), {
     priority: 0.9
   });
 
   for (const country of countryList) {
-    addPage(country.slug, renderCountry(country, { site }), { priority: 0.9 });
+    addPage(country.slug, renderCountry(country, { site }), {
+      priority: 0.9,
+      image: country.credit ? { src: country.credit.hero, alt: country.image?.alt } : null
+    });
     addPage(`${country.slug}/travel-guide`, renderGuide(country.guide, country, { site }), {
-      priority: 0.8
+      priority: 0.8,
+      image: country.credit ? { src: country.credit.hero, alt: country.image?.alt } : null
     });
     for (const destination of country.places) {
       addPage(
         `${country.slug}/${destination.slug}`,
         renderDestination(destination, { site }),
-        { priority: 0.8 }
+        {
+          priority: 0.8,
+          image: destination.credit
+            ? { src: destination.credit.hero, alt: destination.image?.alt }
+            : null
+        }
       );
     }
   }
@@ -116,7 +147,8 @@ async function main() {
     addPage('articles', renderArticlesIndex({ site, articleList }), { priority: 0.7 });
     for (const article of articleList) {
       addPage(`articles/${article.slug}`, renderArticle(article, { site, destinations, articles }), {
-        priority: 0.6
+        priority: 0.6,
+        image: article.credit ? { src: article.credit.hero, alt: article.image?.alt } : null
       });
     }
   }
