@@ -41,7 +41,7 @@ export function renderAbout({ site }) {
       body: prose([
         `${site.title} is a static site, written from scratch — no CMS, no page builder, no
          plugins. Every destination page is built from the same structured content and the same
-         templates, which is what keeps a hundred destinations across ten countries consistent
+         templates, which is what keeps 260 destinations across 26 countries consistent
          instead of drifting in quality from page to page.`,
         raw(`Every photograph on the site comes from Wikimedia Commons under a free licence, with
          full photographer and licence attribution on the
@@ -66,8 +66,9 @@ export function renderAbout({ site }) {
   return layout({
     site,
     title: 'About',
-    description: `Who builds ${site.title}: a hand-coded, one-person travel guide covering ten countries in depth, with no CMS and no plugins.`,
+    description: `Who builds ${site.title}: a hand-coded, one-person travel guide covering 26 countries in depth, with no CMS and no plugins.`,
     path: 'about',
+    keywords: ['about Travel Vault', 'independent travel guide', 'who runs this site'],
     bodyClass: 'page-simple',
     schema: [
       {
@@ -224,6 +225,7 @@ export function renderPrivacyPolicy({ site }) {
     description: `Privacy policy for ${site.title}: no accounts and no cookies of our own — the exceptions are third-party advertising and analytics, both covered in full below.`,
     path: 'privacy-policy',
     bodyClass: 'page-simple',
+    keywords: ['privacy policy', 'data collection', 'cookies', 'advertising disclosure'],
     schema: [
       {
         '@context': 'https://schema.org',

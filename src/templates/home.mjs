@@ -1,5 +1,6 @@
 import { html, join, plain } from '../lib/html.mjs';
 import { url, absolute } from '../lib/url.mjs';
+import { keywords as buildKeywords } from '../lib/seo.mjs';
 import { layout } from './layout.mjs';
 import { hero, section, prose, destinationGrid, countryCard, articleCard, detailList } from './partials.mjs';
 
@@ -8,6 +9,17 @@ export function renderHome({ site, countryList, destinations, articles }) {
   const featured = (home.featured || []).map((slug) => destinations.get(slug)).filter(Boolean);
   const featuredArticles = (home.featuredArticles || []).map((slug) => articles.get(slug)).filter(Boolean);
   const totalDestinations = countryList.reduce((sum, c) => sum + c.places.length, 0);
+  const keywords = buildKeywords(
+    'travel guide',
+    'trip planning',
+    'vacation planning',
+    'travel itinerary',
+    'best places to visit',
+    'things to do',
+    'travel destinations',
+    'world travel guide',
+    countryList.map((c) => c.name)
+  );
 
   const content = html`
     ${hero({
@@ -128,6 +140,7 @@ export function renderHome({ site, countryList, destinations, articles }) {
     image: site.heroCredit ? { src: site.heroCredit.hero } : null,
     bodyClass: 'page-home',
     schema,
+    keywords,
     content
   });
 }
