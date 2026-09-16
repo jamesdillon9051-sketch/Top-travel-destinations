@@ -1,0 +1,330 @@
+{
+  "slug": "cameron-highlands",
+  "name": "Cameron Highlands",
+  "country": "malaysia",
+  "region": "Pahang",
+  "categories": ["nature", "mountains", "scenic", "farms"],
+  "tagline": "A British colonial-era hill station where tea plantations, strawberry farms and cool mountain air replace the tropical heat below.",
+  "highlight": "Walking between rows of tea bushes at a Cameron Highlands plantation, the terraced hills stretching out in every direction.",
+  "shortDescription": "A cool-climate hill station in Pahang, known for tea plantations, strawberry farms and the ancient Mossy Forest.",
+  "metaDescription": "A Cameron Highlands travel guide: tea plantations, the Mossy Forest, strawberry farms and how to plan a visit.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Kuala Lumpur International Airport (KLIA), about 3.5-4 hours by road",
+  "knownFor": "Tea plantations, the Mossy Forest, strawberry farms",
+  "budget": "RM100-220 per day, budget to mid-range",
+  "goodFor": "Cool-climate scenery, farms, a break from tropical heat",
+  "coords": { "lat": 4.4711, "lng": 101.3833 },
+  "image": {
+    "file": "File:Cameron Highlands Tea Plantation 2012.JPG",
+    "alt": "Tea plantation terraces in the Cameron Highlands"
+  },
+  "intro": [
+    "The Cameron Highlands is a hill station in Pahang, developed by the British in the 1920s specifically to escape the heat of the lowlands, sitting at over 1,500 metres above sea level.",
+    "The temperature drop is genuinely dramatic — daytime highs rarely exceed the low 20s Celsius, a striking change from the tropical heat almost everywhere else in Malaysia.",
+    "Tea plantations, strawberry farms and an ancient mossy forest fill the highlands, making it a popular two-day detour on a longer Peninsular Malaysia itinerary."
+  ],
+  "whyVisit": {
+    "intro": "The Cameron Highlands' case rests almost entirely on being a genuine change of climate and landscape within a few hours of the lowlands.",
+    "points": [
+      {
+        "title": "The climate is a real change of pace",
+        "text": "Cool mountain air replaces tropical heat, a welcome break partway through a Malaysia trip."
+      },
+      {
+        "title": "The tea plantations are genuinely photogenic",
+        "text": "Rolling terraced hills that look transplanted from somewhere else entirely."
+      },
+      {
+        "title": "The Mossy Forest is a striking ancient ecosystem",
+        "text": "A stunted, moss-draped cloud forest walked on raised boardwalks."
+      },
+      {
+        "title": "It's an easy add-on to a Peninsular itinerary",
+        "text": "Sitting between Kuala Lumpur and Ipoh or Penang, it fits naturally into a west coast route."
+      },
+      {
+        "title": "Strawberry farms make for an easy, family-friendly stop",
+        "text": "A novelty in tropical Malaysia, and a popular reason locals visit too."
+      }
+    ]
+  },
+  "attractionsIntro": "The Cameron Highlands' sights are spread across tea estates, farms and the Mossy Forest above Brinchang.",
+  "attractions": [
+    {
+      "name": "Boh Tea Plantation",
+      "image": {
+        "file": "File:Cameron Bharat Tea Plantation, Cameron Highlands, Malaysia, 20250829 1535 4120.jpg",
+        "alt": "Tea plantation terraces in the Cameron Highlands"
+      },
+      "text": "Malaysia's best-known tea estate, its terraced hillsides among the most photographed scenes in the country.",
+      "tip": "Take the factory tour to see how the tea is processed, then relax with a cup at the estate café overlooking the plantation."
+    },
+    {
+      "name": "The Mossy Forest",
+      "image": {
+        "file": "File:Trees through the misty, Mossy Forest, Cameron Highlands.jpg",
+        "alt": "The misty Mossy Forest in the Cameron Highlands"
+      },
+      "text": "An ancient, stunted cloud forest near Brinchang's summit, its trees draped thickly in moss and ferns.",
+      "tip": "Go early morning for the mist that gives the forest its atmosphere and its name."
+    },
+    {
+      "name": "Raaju's Hill Strawberry Farm",
+      "image": {
+        "file": "File:Strawberries on a Stick - Raaju's Hill Strawberry Farm - Cameron Highlands - Malaysia (35435782151).jpg",
+        "alt": "A strawberry farm in the Cameron Highlands"
+      },
+      "text": "One of several strawberry farms in the highlands, popular for picking your own and strawberry-based treats.",
+      "tip": "Prices at farm cafés run higher than in town — factor that in if strawberry desserts are the goal."
+    },
+    {
+      "name": "An Orang Asli village",
+      "image": {
+        "file": "File:Orang Asli´s village - Cameron Highlands - Malaysia - panoramio.jpg",
+        "alt": "An Orang Asli village in the Cameron Highlands"
+      },
+      "text": "Indigenous communities living in and around the highlands, visited respectfully on some guided tours.",
+      "tip": "Only visit as part of a responsible, community-endorsed tour rather than showing up independently."
+    },
+    {
+      "name": "Kampung Taman Sedia's farms",
+      "image": {
+        "file": "File:Strawberry farm, Kampung Taman Sedia.jpg",
+        "alt": "A farm in Kampung Taman Sedia, Cameron Highlands"
+      },
+      "text": "A farming area outside Tanah Rata with strawberry, vegetable and flower farms open to visitors.",
+      "tip": "Combine with a stop at a roadside stall selling fresh highland produce."
+    },
+    {
+      "name": "Brinchang town and its night market",
+      "text": "The highlands' main town, with a lively night market selling local produce, snacks and strawberry treats.",
+      "tip": "The night market runs Friday, Saturday and Sunday evenings — plan around it if possible."
+    },
+    {
+      "name": "The highlands' terraced hillsides",
+      "image": {
+        "file": "File:Cameron Highlands (Tea Plantation).jpg",
+        "alt": "Terraced tea plantation hillsides in the Cameron Highlands"
+      },
+      "text": "The wider landscape itself is worth slowing down for, terraced farmland and tea rolling across the hills.",
+      "tip": "Several roadside viewpoints along the main routes offer good photo stops without a formal detour."
+    }
+  ],
+  "thingsToDoIntro": "The Cameron Highlands rewards a slower pace than the rest of a Malaysia itinerary, built around farms and walking trails.",
+  "thingsToDo": [
+    {
+      "title": "Tour a tea plantation and factory",
+      "text": "Boh's factory tour explains the full process from leaf to cup, finishing with tea tasting.",
+      "tip": "Arrive earlier in the day — the estate café and viewpoints get busy by midday."
+    },
+    {
+      "title": "Walk the Mossy Forest boardwalks",
+      "image": {
+        "file": "File:Walking into Mossy Forest, Cameron Highlands.jpg",
+        "alt": "Boardwalks through the Mossy Forest"
+      },
+      "text": "Raised wooden walkways lead through the stunted, moss-covered forest near Brinchang's summit.",
+      "tip": "Bring a light rain jacket — this altitude sees mist and drizzle even on otherwise dry days."
+    },
+    {
+      "title": "Pick your own strawberries",
+      "text": "Several farms let visitors pick strawberries directly, a popular activity for families.",
+      "tip": "Weigh expectations against price — this is a novelty experience more than a bargain."
+    },
+    {
+      "title": "Visit a local market for highland produce",
+      "text": "Cameron Highlands grows a large share of Malaysia's temperate vegetables and flowers, sold fresh at local markets.",
+      "tip": "The Kea Farm market near Brinchang is a popular, well-stocked stop."
+    },
+    {
+      "title": "Hike one of the highlands' jungle trails",
+      "text": "A network of numbered trails around Tanah Rata and Brinchang range from easy walks to fuller day hikes.",
+      "tip": "Stick to marked trails and inform your accommodation of your route — visitors have gotten lost here before."
+    },
+    {
+      "title": "Warm up with a steamboat dinner",
+      "text": "The highlands' cool evenings make a hot-pot-style steamboat dinner especially appealing.",
+      "tip": "A popular way to end a day here, and a genuine change from the rest of a tropical Malaysia trip."
+    }
+  ],
+  "foodIntro": "Cameron Highlands food leans into the cool climate, with produce, tea and steamboat all shaped by the altitude.",
+  "foods": [
+    {
+      "name": "Cameron Highlands tea",
+      "text": "Grown and processed on the highlands' own estates, best tried fresh at a plantation café.",
+      "whereToTry": "Boh Tea Plantation's café and shops throughout Tanah Rata and Brinchang."
+    },
+    {
+      "name": "Fresh strawberries and strawberry desserts",
+      "text": "The highlands' signature produce, sold fresh or made into jams, cakes and shakes.",
+      "whereToTry": "Strawberry farms and roadside stalls throughout the highlands."
+    },
+    {
+      "name": "Steamboat (hot pot)",
+      "text": "A shared pot of broth cooked at the table with vegetables, meat and seafood, well suited to the cool evenings.",
+      "whereToTry": "Restaurants throughout Tanah Rata and Brinchang."
+    },
+    {
+      "name": "Highland vegetables",
+      "text": "Temperate vegetables that don't grow well in lowland Malaysia, a genuine local specialty.",
+      "whereToTry": "Local markets and restaurants throughout the highlands."
+    },
+    {
+      "name": "Scones and English-style teatime",
+      "text": "A holdover from the highlands' colonial-era origins, still served at several plantation cafés.",
+      "whereToTry": "Boh Tea Plantation's café and heritage hotels in Tanah Rata."
+    },
+    {
+      "name": "Local honey",
+      "text": "Bee farms in the highlands sell raw honey, often available to sample before buying.",
+      "whereToTry": "Bee farms and markets around Brinchang."
+    }
+  ],
+  "accommodation": {
+    "intro": "The Cameron Highlands' accommodation ranges from simple guesthouses to colonial-era heritage hotels, mostly in Tanah Rata or Brinchang.",
+    "areas": [
+      {
+        "name": "Tanah Rata",
+        "bestFor": "A central, walkable base with plenty of restaurants",
+        "text": "The highlands' main town, well set up for visitors without a car."
+      },
+      {
+        "name": "Brinchang",
+        "bestFor": "Proximity to the Mossy Forest and tea estates",
+        "text": "A smaller town slightly higher up, closer to the highlands' natural attractions."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse room", "value": "RM60–120 per night" },
+      { "label": "Mid-range hotel", "value": "RM150–300 per night" },
+      { "label": "Steamboat dinner", "value": "RM25–45 per person" },
+      { "label": "Tea plantation tour and tasting", "value": "RM10–25 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Cameron Highlands are reached by road, with winding mountain roads making the final stretch slower than the distance suggests.",
+    "options": [
+      {
+        "mode": "Long-distance coach from Kuala Lumpur or Ipoh",
+        "text": "The standard option for visitors without a car.",
+        "detail": "Takes around 3.5-4 hours from Kuala Lumpur, less from Ipoh."
+      },
+      {
+        "mode": "Rental car or private transfer",
+        "text": "The most flexible option, allowing stops along the winding mountain road.",
+        "detail": "The final approach involves many curves — those prone to motion sickness should plan accordingly."
+      },
+      {
+        "mode": "Organised tour from Kuala Lumpur",
+        "text": "A convenient option for a focused day or overnight trip.",
+        "detail": "Typically covers tea plantations, the Mossy Forest and a strawberry farm in one itinerary."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The highlands are spread out enough that a car or organised tour helps, though Tanah Rata itself is walkable.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The most flexible way to combine tea estates, farms and the Mossy Forest in one trip.",
+        "detail": "Roads are well maintained but winding — drive cautiously in mist or rain."
+      },
+      {
+        "mode": "Local taxis",
+        "text": "A practical option for visitors without their own transport.",
+        "detail": "Agree a price for multi-stop trips ahead of time."
+      },
+      {
+        "mode": "On foot within Tanah Rata",
+        "text": "The town centre itself is compact and easily walkable.",
+        "detail": "Attractions outside town need other transport to reach."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "Year-round, with drier stretches from December to March",
+    "summary": "The highlands' cool climate holds steady year-round, with rainfall the main seasonal variable.",
+    "seasons": [
+      {
+        "season": "December–March",
+        "rating": "best",
+        "text": "Generally drier, with clearer conditions for the Mossy Forest and viewpoints."
+      },
+      {
+        "season": "April–June",
+        "rating": "good",
+        "text": "Warm days by highland standards, with a moderate chance of afternoon mist and rain."
+      },
+      {
+        "season": "July–November",
+        "rating": "okay",
+        "text": "The wetter stretch of the year, with more frequent mist and rain."
+      },
+      {
+        "season": "Any season",
+        "rating": "good",
+        "text": "The cool climate itself holds steady year-round, unlike the lowlands' more dramatic seasonal shifts."
+      }
+    ],
+    "avoid": "Nothing strongly — pack a light jacket regardless of season, since the highlands stay cool year-round."
+  },
+  "itinerary": {
+    "title": "Two days in the Cameron Highlands",
+    "intro": "Built around tea plantations, the Mossy Forest and the highlands' farms.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival and tea country",
+        "summary": "Travel up and a first taste of the highlands.",
+        "morning": "Travel from Kuala Lumpur or Ipoh.",
+        "afternoon": "Visit Boh Tea Plantation and its factory tour.",
+        "evening": "A steamboat dinner in Tanah Rata."
+      },
+      {
+        "day": 2,
+        "title": "The Mossy Forest and farms",
+        "summary": "A full day covering the highlands' natural side and produce.",
+        "morning": "Walk the Mossy Forest boardwalks near Brinchang.",
+        "afternoon": "Visit a strawberry farm and the Kea Farm market.",
+        "evening": "A final highland dinner before descending."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Cameron Highlands visit noticeably smoother.",
+  "tips": [
+    "Pack a light jacket — the highlands run noticeably cooler than the rest of Malaysia.",
+    "Book a tea plantation tour ahead in peak weekend periods.",
+    "Watch for motion sickness on the winding mountain roads if prone to it.",
+    "Visit the Mossy Forest early morning for the best mist and light.",
+    "Only visit Orang Asli villages through a responsible, community-endorsed tour.",
+    "Try steamboat dinner at least once — it suits the cool evenings especially well."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the Cameron Highlands?",
+      "a": "Two days covers the tea plantations, Mossy Forest and a strawberry farm comfortably."
+    },
+    {
+      "q": "How do you get to the Cameron Highlands?",
+      "a": "By coach or car from Kuala Lumpur or Ipoh, both taking a few hours on winding mountain roads."
+    },
+    {
+      "q": "Is it cold in the Cameron Highlands?",
+      "a": "Cool rather than cold by most standards — daytime highs rarely exceed the low 20s Celsius, with cooler nights."
+    },
+    {
+      "q": "What is the Cameron Highlands known for?",
+      "a": "Tea plantations, strawberry farms and the ancient Mossy Forest, all shaped by its cool mountain climate."
+    },
+    {
+      "q": "Do you need a car in the Cameron Highlands?",
+      "a": "Not essential, but genuinely useful for reaching tea estates and farms spread beyond Tanah Rata."
+    },
+    {
+      "q": "Is the Cameron Highlands worth visiting?",
+      "a": "Yes, especially as a change of pace partway through a warmer Malaysia itinerary."
+    }
+  ],
+  "related": ["ipoh", "kuala-lumpur", "penang"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

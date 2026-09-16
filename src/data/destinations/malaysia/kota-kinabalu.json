@@ -1,0 +1,332 @@
+{
+  "slug": "kota-kinabalu",
+  "name": "Kota Kinabalu",
+  "country": "malaysia",
+  "region": "Sabah, Borneo",
+  "categories": ["nature", "islands", "mountains", "city"],
+  "tagline": "Borneo's main gateway city, with Southeast Asia's highest peak inland and island-studded reef right off its waterfront.",
+  "highlight": "Watching the sun set from Kota Kinabalu's waterfront, with Mount Kinabalu's silhouette often visible on a clear evening.",
+  "shortDescription": "Sabah's capital and Borneo's main gateway, with Mount Kinabalu inland and the islands of Tunku Abdul Rahman Park just offshore.",
+  "metaDescription": "A Kota Kinabalu travel guide: Mount Kinabalu, Tunku Abdul Rahman Park's islands, Gaya Street market and how to plan a visit.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "Kota Kinabalu International Airport (BKI), about 20 minutes from the city centre",
+  "knownFor": "Mount Kinabalu, Tunku Abdul Rahman Park's islands, waterfront sunsets",
+  "budget": "RM130-300 per day, budget to mid-range",
+  "goodFor": "Island-hopping, mountain scenery, a Borneo gateway city",
+  "coords": { "lat": 5.9804, "lng": 116.0735 },
+  "image": {
+    "file": "File:Kota Kinabalu waterfront, 2024 (01).jpg",
+    "alt": "The waterfront in Kota Kinabalu, Sabah"
+  },
+  "intro": [
+    "Kota Kinabalu is the capital of Sabah, Malaysia's state on the island of Borneo, and the main arrival point for most visitors heading into the wider region.",
+    "The city sits between two genuine natural highlights — Mount Kinabalu, Southeast Asia's highest peak, rising inland, and the coral-fringed islands of Tunku Abdul Rahman Park just a short boat ride from the waterfront.",
+    "It's less an old-town destination than Penang or Malacca, working better as a comfortable base for island-hopping, mountain views and onward trips deeper into Sabah."
+  ],
+  "whyVisit": {
+    "intro": "Kota Kinabalu's case rests on having genuine mountain and island scenery within easy reach of a comfortable, well-connected city base.",
+    "points": [
+      {
+        "title": "Mount Kinabalu is a genuine landmark",
+        "text": "Southeast Asia's highest peak, visible from the city on clear days and reachable inland for a closer visit."
+      },
+      {
+        "title": "Island-hopping is remarkably easy",
+        "text": "Tunku Abdul Rahman Park's islands sit just 15-20 minutes from the city by boat."
+      },
+      {
+        "title": "It's Borneo's main gateway",
+        "text": "The natural starting point for trips deeper into Sabah's rainforest and wildlife areas."
+      },
+      {
+        "title": "The waterfront sunsets are genuinely excellent",
+        "text": "Kota Kinabalu faces west across the South China Sea, unusual for a Malaysian city."
+      },
+      {
+        "title": "It's more relaxed than the Peninsula's bigger cities",
+        "text": "A smaller, more laid-back pace than Kuala Lumpur or Penang."
+      }
+    ]
+  },
+  "attractionsIntro": "Kota Kinabalu's essential sights combine its waterfront and markets with easy trips to nearby islands and the mountain inland.",
+  "attractions": [
+    {
+      "name": "Mount Kinabalu",
+      "image": {
+        "file": "File:Morning view of Mount Kinabalu in Malaysia, with its peak clearly visible.jpg",
+        "alt": "Mount Kinabalu, Southeast Asia's highest peak"
+      },
+      "text": "Southeast Asia's highest mountain at 4,095 metres, visible from the city on clear days and climbable over two days for those prepared.",
+      "tip": "Summit permits are limited and must be booked well ahead through a registered operator."
+    },
+    {
+      "name": "Tunku Abdul Rahman Park's islands",
+      "image": {
+        "file": "File:Sapi Island 2.jpg",
+        "alt": "An island in Tunku Abdul Rahman Park near Kota Kinabalu"
+      },
+      "text": "Five islands with reefs and beaches just offshore, easily reached without an overnight stay.",
+      "tip": "Boats to the islands leave from the Jesselton Point jetty — no need to book a package tour."
+    },
+    {
+      "name": "The Kota Kinabalu waterfront",
+      "image": {
+        "file": "File:Tour boats, Kota Kinabalu waterfront, 2024 (01).jpg",
+        "alt": "Boats along the Kota Kinabalu waterfront"
+      },
+      "text": "A lively promenade of restaurants and markets, best known for sunset views over the South China Sea.",
+      "tip": "Arrive around 30 minutes before sunset to find a good spot and watch the sky change."
+    },
+    {
+      "name": "The Sabah State Mosque",
+      "image": {
+        "file": "File:KotaKinabalu Sabah CityMosque-08.jpg",
+        "alt": "The Sabah State Mosque in Kota Kinabalu"
+      },
+      "text": "A striking modern mosque with a distinctive golden dome, one of the city's most recognisable landmarks.",
+      "tip": "Visitors are welcome outside prayer times, dressed modestly; robes are typically available at the entrance."
+    },
+    {
+      "name": "Gaya Street Sunday Market",
+      "image": {
+        "file": "File:Cake in Gaya Street Market, Kota Kinabalu (7).jpg",
+        "alt": "Gaya Street Sunday Market in Kota Kinabalu"
+      },
+      "text": "A weekly street market selling local produce, snacks and crafts, one of the city's liveliest weekly events.",
+      "tip": "Arrive by mid-morning — the market winds down by early afternoon."
+    },
+    {
+      "name": "Signal Hill Observatory",
+      "text": "A hilltop viewpoint close to the city centre, offering a wide view over Kota Kinabalu and the islands beyond.",
+      "tip": "A good, low-effort spot for photos without needing a boat trip out to the islands."
+    },
+    {
+      "name": "Sabah's coastline and reef",
+      "image": {
+        "file": "File:20130426T175025 Lat 5 58 0.00183105 N Long 116 0 49.98779297 E.jpg",
+        "alt": "The coastal waters near Kota Kinabalu"
+      },
+      "text": "Clear, reef-fringed water just offshore, a big part of why the city works so well as a base for short island trips.",
+      "tip": "Snorkelling gear is available to rent on most of Tunku Abdul Rahman Park's islands."
+    }
+  ],
+  "thingsToDoIntro": "Kota Kinabalu mixes city-based food and markets with easy trips to nearby islands and mountain views.",
+  "thingsToDo": [
+    {
+      "title": "Island-hop in Tunku Abdul Rahman Park",
+      "image": {
+        "file": "File:Gaya Island 1.jpg",
+        "alt": "An island in Tunku Abdul Rahman Park"
+      },
+      "text": "A short boat ride reaches beaches and reefs suited to swimming, snorkelling or simply relaxing.",
+      "tip": "Visit two islands in one day if time allows — Sapi and Manukan are both popular, easy combinations."
+    },
+    {
+      "title": "Watch the sunset from the waterfront",
+      "image": {
+        "file": "File:Sunset of Segala Waterfront Kota Kinabalu, Sabah Malaysia.jpg",
+        "alt": "Sunset at the Kota Kinabalu waterfront"
+      },
+      "text": "A nightly ritual for locals and visitors alike, best enjoyed with dinner at one of the waterfront's seafood restaurants.",
+      "tip": "The night market along the waterfront is a good, casual dinner option before or after sunset."
+    },
+    {
+      "title": "Browse Gaya Street Sunday Market",
+      "text": "A weekly market spanning several blocks, selling everything from fresh produce to local snacks and crafts.",
+      "tip": "Only runs on Sundays — plan your itinerary around it if the market interests you."
+    },
+    {
+      "title": "Visit the Sabah State Mosque",
+      "text": "A quiet, respectful visit to one of the city's architectural landmarks, open to visitors outside prayer times.",
+      "tip": "Dress modestly and check visiting hours ahead, since they can shift around Friday prayers."
+    },
+    {
+      "title": "Take a day trip toward Mount Kinabalu",
+      "text": "Even without climbing, a day trip to Kinabalu Park's lower trails and botanical gardens is worthwhile.",
+      "tip": "The drive itself climbs through changing scenery, worth the trip on its own."
+    },
+    {
+      "title": "Try Sabah's seafood",
+      "text": "Fresh, simply prepared seafood is a genuine highlight of a Kota Kinabalu stay.",
+      "tip": "The Filipino Market and waterfront restaurants both offer good, affordable seafood options."
+    }
+  ],
+  "foodIntro": "Kota Kinabalu's food leans heavily on fresh seafood, alongside the wider Malaysian dishes found across the country.",
+  "foods": [
+    {
+      "name": "Fresh grilled seafood",
+      "text": "Fish, prawns and squid grilled simply, sold at markets where you pick your catch before it's cooked.",
+      "whereToTry": "The Filipino Market and waterfront restaurants."
+    },
+    {
+      "name": "Sabah-style laksa",
+      "text": "A regional take on laksa distinct from Penang's or Sarawak's versions, found in local restaurants around the city.",
+      "whereToTry": "Local kedai kopi and restaurants throughout Kota Kinabalu."
+    },
+    {
+      "name": "Hinava (Kadazan-Dusun ceviche)",
+      "text": "Raw fish marinated in lime juice, chilli and shallots, a traditional dish of Sabah's indigenous Kadazan-Dusun people.",
+      "whereToTry": "Restaurants specialising in Sabahan cuisine."
+    },
+    {
+      "name": "Tuaran noodles",
+      "text": "A dry noodle dish from a nearby town, now a common feature on Kota Kinabalu menus.",
+      "whereToTry": "Local noodle stalls and restaurants across the city."
+    },
+    {
+      "name": "Sago-based Sabahan snacks",
+      "text": "Traditional snacks made from sago, a starch staple in parts of Borneo distinct from Peninsular Malaysian cooking.",
+      "whereToTry": "Gaya Street Sunday Market and specialist local stalls."
+    },
+    {
+      "name": "Tropical fruit",
+      "text": "Borneo's markets sell excellent durian, rambutan and other tropical fruit, often varieties less common on the Peninsula.",
+      "whereToTry": "Local markets throughout the city."
+    }
+  ],
+  "accommodation": {
+    "intro": "Kota Kinabalu's accommodation ranges from budget guesthouses to waterfront resorts, with the city centre the most convenient base.",
+    "areas": [
+      {
+        "name": "The waterfront and city centre",
+        "bestFor": "Walking distance to the jetty, markets and restaurants",
+        "text": "The most convenient base for island-hopping and evening sunsets."
+      },
+      {
+        "name": "Tanjung Aru",
+        "bestFor": "Beach resorts a short drive from the centre",
+        "text": "A quieter, more resort-focused area with its own well-known sunset beach."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse room", "value": "RM60–120 per night" },
+      { "label": "Mid-range hotel", "value": "RM180–350 per night" },
+      { "label": "Island trip with boat transfer", "value": "RM30–60 per person" },
+      { "label": "Seafood dinner", "value": "RM35–70 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Kota Kinabalu is reached by air, requiring a separate domestic flight even from Peninsular Malaysia.",
+    "options": [
+      {
+        "mode": "Fly into Kota Kinabalu International Airport",
+        "text": "The only realistic option, with frequent flights from Kuala Lumpur and other Malaysian cities.",
+        "detail": "The airport sits about 20 minutes from the city centre."
+      },
+      {
+        "mode": "Connect onward within Sabah",
+        "text": "Domestic flights or long road transfers reach other parts of Sabah from here.",
+        "detail": "Kota Kinabalu functions as the main hub for the wider region."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The city centre is walkable, with boats needed for the islands and organised transport for Mount Kinabalu.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Covers the waterfront, Gaya Street and the city centre comfortably.",
+        "detail": "Most central sights sit within a compact area."
+      },
+      {
+        "mode": "Boat from Jesselton Point",
+        "text": "The only way to reach Tunku Abdul Rahman Park's islands.",
+        "detail": "Regular scheduled boats run throughout the day, no advance booking needed."
+      },
+      {
+        "mode": "Ride-hailing apps or organised tours",
+        "text": "Useful for reaching Mount Kinabalu or other sights outside the city.",
+        "detail": "A day tour is often the simplest way to visit Kinabalu Park without your own transport."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March to October for the best weather",
+    "summary": "Kota Kinabalu sees a wetter stretch from November to February, generally clearer conditions the rest of the year.",
+    "seasons": [
+      {
+        "season": "March–October",
+        "rating": "best",
+        "text": "Generally drier, with better visibility for Mount Kinabalu and calmer seas for island trips."
+      },
+      {
+        "season": "November–February",
+        "rating": "okay",
+        "text": "The wetter stretch of the year, with more frequent rain and occasional rougher seas."
+      },
+      {
+        "season": "Year-round",
+        "rating": "good",
+        "text": "Island-hopping and city sightseeing remain workable most of the year, weather permitting."
+      }
+    ],
+    "avoid": "Nothing strongly, though November to February brings the highest chance of rain disrupting island plans."
+  },
+  "itinerary": {
+    "title": "Three days in Kota Kinabalu",
+    "intro": "Built around the city, nearby islands and a taste of Mount Kinabalu.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival and the waterfront",
+        "summary": "Settling into the city and its evening ritual.",
+        "morning": "Arrive and check in to your hotel.",
+        "afternoon": "Explore the Sabah State Mosque and city centre.",
+        "evening": "Sunset and dinner at the waterfront night market."
+      },
+      {
+        "day": 2,
+        "title": "Island-hopping",
+        "summary": "A full day on the islands of Tunku Abdul Rahman Park.",
+        "morning": "Boat to Sapi or Manukan Island.",
+        "afternoon": "Snorkelling and beach time on a second island.",
+        "evening": "Return to the city for dinner."
+      },
+      {
+        "day": 3,
+        "title": "Mount Kinabalu day trip",
+        "summary": "A day trip inland toward Southeast Asia's highest peak.",
+        "morning": "Drive to Kinabalu Park.",
+        "afternoon": "Walk the park's lower trails and botanical gardens.",
+        "evening": "Return to Kota Kinabalu for a final dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Kota Kinabalu visit noticeably smoother.",
+  "tips": [
+    "Book Mount Kinabalu summit permits many months ahead if climbing is part of your plan.",
+    "Head to the jetty early for island trips — boats and good island spots fill up by mid-morning.",
+    "Bring reef-safe sunscreen and your own snorkel gear if you have it.",
+    "Check the Gaya Street market's Sunday-only schedule before planning around it.",
+    "Treat Kota Kinabalu as a genuinely separate trip from Peninsular Malaysia, not a quick add-on.",
+    "Dress modestly when visiting the Sabah State Mosque."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Kota Kinabalu?",
+      "a": "Three to four days covers the city, island-hopping and a Mount Kinabalu day trip comfortably."
+    },
+    {
+      "q": "Do you need to fly to Kota Kinabalu from Kuala Lumpur?",
+      "a": "Yes — Sabah is on Borneo, physically separate from the Peninsula, so a domestic flight is required."
+    },
+    {
+      "q": "Do you need to climb Mount Kinabalu to enjoy Kota Kinabalu?",
+      "a": "No, not at all — the city, islands and lower park trails are worthwhile even without attempting the summit."
+    },
+    {
+      "q": "How do you reach the islands from Kota Kinabalu?",
+      "a": "By a short boat ride from the Jesselton Point jetty, taking about 15-20 minutes to the nearest islands."
+    },
+    {
+      "q": "Is Kota Kinabalu expensive?",
+      "a": "No, generally affordable, though flights connecting it to Peninsular Malaysia add to an overall trip's cost."
+    },
+    {
+      "q": "Is Kota Kinabalu safe?",
+      "a": "Yes, generally — a safe, relaxed city, with normal precautions around belongings in markets and on boats."
+    }
+  ],
+  "related": ["kuching", "langkawi", "penang"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

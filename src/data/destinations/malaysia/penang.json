@@ -1,0 +1,362 @@
+{
+  "slug": "penang",
+  "name": "Penang",
+  "country": "malaysia",
+  "region": "Penang",
+  "categories": ["heritage", "food", "culture", "city"],
+  "tagline": "A UNESCO-listed port city where street art, colonial shophouses and Malaysia's best hawker food fill a compact, walkable old town.",
+  "highlight": "Wandering George Town's lanes at your own pace, turning a corner from a colourful mural straight into a century-old temple or a queue for assam laksa.",
+  "shortDescription": "George Town's UNESCO-listed streets, street art, clan jetties and a hawker food scene widely considered Malaysia's best.",
+  "metaDescription": "A Penang travel guide: George Town's street art, Kek Lok Si Temple, Penang Hill, hawker food and how to plan a visit.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Penang International Airport (PEN), about 30 minutes from George Town",
+  "knownFor": "George Town's street art, hawker food, Kek Lok Si Temple",
+  "budget": "RM120-280 per day, budget to mid-range",
+  "goodFor": "Food, heritage architecture, walkable sightseeing",
+  "coords": { "lat": 5.4141, "lng": 100.3288 },
+  "image": {
+    "file": "File:Penang Malaysia Street-art-06.jpg",
+    "alt": "Street art on a wall in George Town, Penang"
+  },
+  "intro": [
+    "Penang is an island off Peninsular Malaysia's northwest coast, its capital George Town a UNESCO World Heritage Site built on more than two centuries of trade between Malay, Chinese, Indian and European communities.",
+    "The old town rewards slow wandering more than almost anywhere else in Malaysia, its narrow streets mixing shophouses, temples, mosques and street art into a few square kilometres that are genuinely easy to cover on foot.",
+    "Food is the other reason people come — Penang's hawker culture is widely considered Malaysia's best, with dishes like char kway teow and assam laksa closely associated with the island itself."
+  ],
+  "whyVisit": {
+    "intro": "Penang's appeal rests on the combination of heritage streets, real multicultural depth and a food scene that draws visitors on its own merits.",
+    "points": [
+      {
+        "title": "George Town is a genuine UNESCO World Heritage old town",
+        "text": "Colonial-era streets and shophouses preserved rather than replaced, still lived in rather than museum pieces."
+      },
+      {
+        "title": "The street art is scattered, not concentrated",
+        "text": "Murals and wire sculptures reward slow exploration rather than a single photo stop."
+      },
+      {
+        "title": "The food scene is arguably Malaysia's best",
+        "text": "Char kway teow, assam laksa and countless other dishes are closely tied to Penang specifically."
+      },
+      {
+        "title": "It's genuinely walkable",
+        "text": "The old town is compact enough to explore almost entirely on foot, unusual for a Malaysian city."
+      },
+      {
+        "title": "Penang Hill offers an easy escape from the heat",
+        "text": "A short funicular ride up to noticeably cooler air and wide island views."
+      }
+    ]
+  },
+  "attractionsIntro": "Penang's essential sights sit mostly within George Town's old town, with Kek Lok Si Temple and Penang Hill a short trip beyond it.",
+  "attractions": [
+    {
+      "name": "George Town's street art",
+      "image": {
+        "file": "File:Street art mural of a monkey's face on Lebuh Armenian in George Town, Penang - 53830175193.jpg",
+        "alt": "A street art mural in George Town, Penang"
+      },
+      "text": "Murals and wire-frame sculptures scattered across the old town, many referencing local life and history.",
+      "tip": "Pick up a free street art map from a visitor centre to track down the best-known pieces without wandering aimlessly."
+    },
+    {
+      "name": "Kek Lok Si Temple",
+      "image": {
+        "file": "File:Penang Malaysia Kek-Lok-Si-Temple-03.jpg",
+        "alt": "Kek Lok Si Temple in Penang"
+      },
+      "text": "One of Southeast Asia's largest Buddhist temples, its multi-tiered pagoda and giant Kuan Yin statue visible from across the island.",
+      "tip": "Visit on a weekday morning to avoid the busiest crowds, especially around Chinese New Year."
+    },
+    {
+      "name": "Penang Hill",
+      "image": {
+        "file": "File:Penang Hill in 2023 01.jpg",
+        "alt": "The view from Penang Hill"
+      },
+      "text": "A funicular railway climbs to noticeably cooler air and views over George Town and the strait beyond.",
+      "tip": "Go in late afternoon for sunset, but book tickets ahead — queues build fast on clear days."
+    },
+    {
+      "name": "Armenian Street's heritage buildings",
+      "image": {
+        "file": "File:Still Life with Public Art - Armenian Street - George Town - Penang - Malaysia (35295517972).jpg",
+        "alt": "Heritage shophouses on Armenian Street, George Town"
+      },
+      "text": "One of George Town's best-preserved heritage streets, lined with shophouses, galleries and cafés.",
+      "tip": "Come early morning for photos before the street fills with visitors."
+    },
+    {
+      "name": "Chew Jetty",
+      "image": {
+        "file": "File:Chew Jetty, Georgetown, Penang, Malaysia (5257132429).jpg",
+        "alt": "Chew Jetty, one of George Town's clan jetties"
+      },
+      "text": "A wooden stilt village built by one Chinese clan over a century ago, still inhabited and now also open to visitors.",
+      "tip": "Be respectful of the fact that people genuinely live here — it's a community, not a theme park."
+    },
+    {
+      "name": "Cheong Fatt Tze Mansion (the Blue Mansion)",
+      "image": {
+        "file": "File:Penang Malaysia- Cheong-Fatt-Tze-Mansion-06.jpg",
+        "alt": "The Blue Mansion in George Town, Penang"
+      },
+      "text": "An indigo-painted 19th-century courtyard mansion, restored and now open for guided tours.",
+      "tip": "Guided tours run at set times daily and are the only way to see the interior."
+    },
+    {
+      "name": "Fort Cornwallis",
+      "image": {
+        "file": "File:Fort Cornwallis, Penang (I).jpg",
+        "alt": "Fort Cornwallis in George Town, Penang"
+      },
+      "text": "A star-shaped colonial fort marking the spot where the British first landed on Penang in 1786.",
+      "tip": "A modest sight on its own, best combined with a walk along the nearby waterfront esplanade."
+    }
+  ],
+  "thingsToDoIntro": "Penang rewards slow, food-focused wandering as much as any single sight, with Penang Hill as an easy half-day escape.",
+  "thingsToDo": [
+    {
+      "title": "Ride the Penang Hill funicular",
+      "image": {
+        "file": "File:Penang Hill funicular railway.jpg",
+        "alt": "The Penang Hill funicular railway"
+      },
+      "text": "One of the steepest funicular railways in the world, climbing over 800 metres in a few minutes.",
+      "tip": "Book tickets online ahead to skip the queue at the base station."
+    },
+    {
+      "title": "Follow the street art trail through George Town",
+      "image": {
+        "file": "File:Lanterns and street art in laneway off Jalan Doktor Lim Chwee Leong in George Town, Penang - 53782309972.jpg",
+        "alt": "A laneway with street art in George Town"
+      },
+      "text": "A self-guided walk through the old town's lanes turns up murals, wire art and heritage architecture in equal measure.",
+      "tip": "Go early morning or late afternoon — midday heat makes extended walking uncomfortable."
+    },
+    {
+      "title": "Eat your way through a hawker food crawl",
+      "image": {
+        "file": "File:Assam Laksa, Air Itam, Penang.JPG",
+        "alt": "Assam laksa, a Penang specialty"
+      },
+      "text": "Penang's hawker centres and street stalls are the main event for many visitors, not a side activity.",
+      "tip": "Order small portions from several stalls rather than filling up at the first one."
+    },
+    {
+      "title": "Tour the Blue Mansion",
+      "image": {
+        "file": "File:Cheong Fatt Tze - The Blue Mansion - George Town - Penang - Malaysia - 06 (35075685980).jpg",
+        "alt": "The interior courtyard of the Blue Mansion"
+      },
+      "text": "A guided tour reveals feng shui-informed architecture and the mansion's restoration story in detail.",
+      "tip": "Arrive a little before the tour time — spots are limited and it can sell out on busy days."
+    },
+    {
+      "title": "Visit the clan jetties",
+      "image": {
+        "file": "File:Cmglee Penang Chew Jetty view.jpg",
+        "alt": "A view along one of Penang's clan jetties"
+      },
+      "text": "Several wooden stilt villages along the waterfront, each built and still inhabited by a different Chinese clan.",
+      "tip": "Chew Jetty is the largest and most visited; the smaller jetties are quieter and equally worth a look."
+    },
+    {
+      "title": "Try Penang's night market food",
+      "text": "Rotating night markets set up across the island, drawing locals as much as visitors.",
+      "tip": "Ask your accommodation which pasar malam is running nearby that week — locations rotate."
+    }
+  ],
+  "foodIntro": "Penang's hawker food is widely considered Malaysia's best, with several dishes closely tied to the island itself.",
+  "foods": [
+    {
+      "name": "Assam laksa",
+      "image": {
+        "file": "File:Assam Laksa, Air Itam, Penang.JPG",
+        "alt": "Assam laksa, Penang's sour fish-based noodle soup"
+      },
+      "text": "A sour, spicy fish-based noodle soup considered Penang's signature dish above all others.",
+      "whereToTry": "Hawker stalls throughout George Town, especially around Air Itam."
+    },
+    {
+      "name": "Char kway teow",
+      "image": {
+        "file": "File:Char kway teow (kuetiau goreng) of Dann Char Kuey Teow at Permatang Tok Jaya, SPU 20240915 183329.jpg",
+        "alt": "Char kway teow, stir-fried flat rice noodles"
+      },
+      "text": "Flat rice noodles stir-fried over high heat with prawns, egg and Chinese sausage, a Penang specialty.",
+      "whereToTry": "Hawker centres throughout the island."
+    },
+    {
+      "name": "Nasi kandar",
+      "text": "A Penang-born rice dish, steamed rice served with a choice of curries ladled over the top.",
+      "whereToTry": "Nasi kandar restaurants throughout George Town, many open 24 hours."
+    },
+    {
+      "name": "Cendol",
+      "text": "A shaved-ice dessert with green rice-flour jelly, coconut milk and palm sugar syrup.",
+      "whereToTry": "Dessert stalls and hawker centres across the island."
+    },
+    {
+      "name": "Hokkien mee",
+      "text": "A rich prawn-based noodle soup, Penang's version notably different from the dish of the same name elsewhere in Malaysia.",
+      "whereToTry": "Hawker stalls throughout George Town."
+    },
+    {
+      "name": "Teh tarik",
+      "image": {
+        "file": "File:Teh tarik man pulling tea.jpg",
+        "alt": "Teh tarik being poured, showing its characteristic foam"
+      },
+      "text": "Sweet, frothy pulled tea, a fitting accompaniment to a Penang hawker meal.",
+      "whereToTry": "Kopitiams and hawker centres across the island."
+    }
+  ],
+  "accommodation": {
+    "intro": "George Town's heritage zone holds most of the best-located accommodation, from budget guesthouses to converted shophouse hotels.",
+    "areas": [
+      {
+        "name": "George Town's heritage core",
+        "bestFor": "Walking distance to the main sights and street art",
+        "text": "Boutique hotels in converted shophouses alongside budget guesthouses."
+      },
+      {
+        "name": "Batu Ferringhi",
+        "bestFor": "Beach resorts a short drive from the old town",
+        "text": "A quieter, resort-focused stretch on the island's north coast."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse room", "value": "RM60–120 per night" },
+      { "label": "Boutique heritage hotel", "value": "RM200–450 per night" },
+      { "label": "Hawker meal", "value": "RM6–12 per person" },
+      { "label": "Restaurant dinner", "value": "RM35–70 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Penang is reached easily by air or by train and road from Kuala Lumpur.",
+    "options": [
+      {
+        "mode": "Fly into Penang International Airport",
+        "text": "The fastest option, with frequent domestic flights from Kuala Lumpur.",
+        "detail": "The airport sits on the island, about 30 minutes from George Town."
+      },
+      {
+        "mode": "Take the KTM ETS train to Butterworth",
+        "text": "A comfortable rail option from Kuala Lumpur or Ipoh.",
+        "detail": "A short ferry or bridge crossing connects Butterworth to Penang island."
+      },
+      {
+        "mode": "Long-distance coach",
+        "text": "A budget-friendly option from most major Peninsular cities.",
+        "detail": "Buses typically cross directly onto the island via the Penang Bridge."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "George Town's old town is genuinely walkable, with other transport needed mainly for Penang Hill or the beaches.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The best way to explore George Town's heritage core and street art.",
+        "detail": "Most major sights sit within a compact, flat area."
+      },
+      {
+        "mode": "Ride-hailing apps",
+        "text": "Useful for reaching Kek Lok Si Temple, Penang Hill's base station, or Batu Ferringhi.",
+        "detail": "Cheap and widely used across the island."
+      },
+      {
+        "mode": "Rapid Penang buses",
+        "text": "A budget option covering the island more broadly.",
+        "detail": "Less convenient than ride-hailing for visitors on a short trip."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December to February for the driest weather",
+    "summary": "Penang follows the west coast's monsoon pattern, with the turn-of-the-year months generally driest.",
+    "seasons": [
+      {
+        "season": "December–February",
+        "rating": "best",
+        "text": "Generally the driest and most comfortable months to explore on foot."
+      },
+      {
+        "season": "March–May",
+        "rating": "good",
+        "text": "Warm with a moderate chance of afternoon showers."
+      },
+      {
+        "season": "June–September",
+        "rating": "good",
+        "text": "The southwest monsoon brings more rain, usually as short afternoon downpours."
+      },
+      {
+        "season": "October–November",
+        "rating": "okay",
+        "text": "The wettest stretch of the year for the island."
+      }
+    ],
+    "avoid": "Nothing strongly — Penang works year-round, with October and November simply the wettest months."
+  },
+  "itinerary": {
+    "title": "Two days in Penang",
+    "intro": "Built around George Town's old town, with Penang Hill and Kek Lok Si as a half-day extension.",
+    "days": [
+      {
+        "day": 1,
+        "title": "George Town's old town",
+        "summary": "Street art, heritage streets and hawker food.",
+        "morning": "Walk the street art trail through George Town's lanes.",
+        "afternoon": "Explore Armenian Street and the Blue Mansion.",
+        "evening": "A hawker food crawl through the old town."
+      },
+      {
+        "day": 2,
+        "title": "Penang Hill and Kek Lok Si",
+        "summary": "A half-day trip beyond the old town, followed by the clan jetties.",
+        "morning": "Ride the funicular up Penang Hill.",
+        "afternoon": "Visit Kek Lok Si Temple.",
+        "evening": "Sunset at the clan jetties, followed by dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Penang visit noticeably smoother.",
+  "tips": [
+    "Wear comfortable shoes — George Town's heritage streets are made for walking, not driving.",
+    "Book Penang Hill tickets online ahead, especially for sunset.",
+    "Carry small ringgit notes for hawker stalls and markets.",
+    "Start sightseeing early to avoid the worst of the midday heat.",
+    "Be respectful at the clan jetties — people genuinely live there.",
+    "Try dishes from all three communities, not just the Chinese hawker food Penang is best known for."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Penang?",
+      "a": "Two to three days covers George Town's old town, Penang Hill and Kek Lok Si Temple comfortably."
+    },
+    {
+      "q": "Is Penang walkable?",
+      "a": "Yes, very much so — George Town's heritage core is compact and best explored almost entirely on foot."
+    },
+    {
+      "q": "What is Penang's most famous dish?",
+      "a": "Assam laksa is usually considered Penang's signature dish, alongside char kway teow."
+    },
+    {
+      "q": "Is Penang expensive?",
+      "a": "No, generally affordable, with hawker meals and guesthouses both reasonably priced."
+    },
+    {
+      "q": "How do you get from Kuala Lumpur to Penang?",
+      "a": "By domestic flight, or by KTM ETS train to Butterworth followed by a short crossing to the island."
+    },
+    {
+      "q": "Is Penang safe?",
+      "a": "Yes, generally — a safe destination, with normal precautions around belongings in busy markets."
+    }
+  ],
+  "related": ["kuala-lumpur", "langkawi", "ipoh"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

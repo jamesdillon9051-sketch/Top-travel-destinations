@@ -1,0 +1,344 @@
+{
+  "slug": "kuching",
+  "name": "Kuching",
+  "country": "malaysia",
+  "region": "Sarawak, Borneo",
+  "categories": ["culture", "nature", "wildlife", "city"],
+  "tagline": "Sarawak's laid-back riverside capital, a base for wild orangutans, rainforest national parks and longhouse culture.",
+  "highlight": "Watching a wild orangutan swing through the canopy at Semenggoh, close enough to feel like a genuine encounter rather than a zoo visit.",
+  "shortDescription": "Sarawak's capital on Borneo, a riverside city known for its cat statues, and the gateway to wild orangutans and rainforest national parks.",
+  "metaDescription": "A Kuching travel guide: Semenggoh's orangutans, Bako National Park, the Sarawak River waterfront and how to plan a visit.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "Kuching International Airport (KCH), about 20 minutes from the city centre",
+  "knownFor": "Wild orangutans at Semenggoh, Bako National Park, the Sarawak River waterfront",
+  "budget": "RM120-280 per day, budget to mid-range",
+  "goodFor": "Wildlife, rainforest day trips, a relaxed riverside city",
+  "coords": { "lat": 1.5535, "lng": 110.3593 },
+  "image": {
+    "file": "File:Kuching Waterfront (17586631028).jpg",
+    "alt": "The Sarawak River waterfront in Kuching"
+  },
+  "intro": [
+    "Kuching is the capital of Sarawak, Malaysia's largest state on the island of Borneo, a genuinely relaxed riverside city that serves as the main base for exploring the surrounding rainforest.",
+    "Its name means \"cat\" in Malay, a link celebrated across the city in statues and a dedicated museum, though its real draw is what lies just outside it — wild orangutans, rainforest national parks and Iban longhouse culture.",
+    "Compared to Kota Kinabalu, Kuching leans more toward culture and rainforest day trips than beaches, making the two Borneo cities a genuinely different pair of gateways depending on what a trip is built around."
+  ],
+  "whyVisit": {
+    "intro": "Kuching's case rests on genuine access to wild orangutans and rainforest within day-trip range of a comfortable, walkable city.",
+    "points": [
+      {
+        "title": "Semenggoh's orangutans are genuinely wild",
+        "text": "Semi-wild orangutans roam free in the surrounding forest, visited rather than kept in enclosures."
+      },
+      {
+        "title": "Bako National Park packs a lot into a short trip",
+        "text": "Rainforest, proboscis monkeys and dramatic coastline reachable on a day trip from the city."
+      },
+      {
+        "title": "The waterfront is genuinely pleasant",
+        "text": "A landscaped promenade along the Sarawak River, lively with food stalls in the evening."
+      },
+      {
+        "title": "It's a genuine base for Iban longhouse culture",
+        "text": "Day trips and overnight stays at traditional longhouses are more accessible from here than from Kota Kinabalu."
+      },
+      {
+        "title": "The pace suits a slower few days",
+        "text": "A genuinely relaxed city, easier to settle into than a typical big Southeast Asian capital."
+      }
+    ]
+  },
+  "attractionsIntro": "Kuching's essential experiences combine the city's riverside centre with day trips to nearby wildlife and rainforest.",
+  "attractions": [
+    {
+      "name": "Semenggoh Wildlife Centre",
+      "image": {
+        "file": "File:Semenggoh Wildlife Center, Kuching, Sarawak.jpg",
+        "alt": "Semenggoh Wildlife Centre near Kuching"
+      },
+      "text": "A rehabilitation centre where semi-wild orangutans roam free in the surrounding forest, visited during scheduled feeding times.",
+      "tip": "Sightings aren't guaranteed outside fruiting season, when wild orangutans have less need to visit the feeding platform."
+    },
+    {
+      "name": "Bako National Park",
+      "image": {
+        "file": "File:Bako National Park, Kuching, Sarawak, Malaysia 06.jpg",
+        "alt": "Bako National Park near Kuching"
+      },
+      "text": "Malaysia's oldest national park, its sea cliffs, mangroves and rainforest trails home to proboscis monkeys found almost nowhere else.",
+      "tip": "Visit on a day trip via boat from Bako village, reachable by bus or taxi from Kuching."
+    },
+    {
+      "name": "The Sarawak River waterfront",
+      "image": {
+        "file": "File:Kuching Waterfront (17154119793).jpg",
+        "alt": "The Sarawak River waterfront in Kuching"
+      },
+      "text": "A landscaped riverside promenade lined with food stalls, gardens and views across to the Astana palace.",
+      "tip": "Come in the evening when the food stalls open and the heat of the day has eased."
+    },
+    {
+      "name": "Kuching's cat statues",
+      "image": {
+        "file": "File:Cat statue Kuching, Sarawak.jpg",
+        "alt": "A cat statue in Kuching"
+      },
+      "text": "Scattered across the city in reference to its name, from a large roundabout monument to smaller statues on street corners.",
+      "tip": "The main Cat Statue at the Padungan roundabout is the most photographed, but keep an eye out for smaller ones too."
+    },
+    {
+      "name": "The Old Sarawak State Mosque",
+      "image": {
+        "file": "File:Old Sarawak State Mosque - Kuching.jpg",
+        "alt": "The Old Sarawak State Mosque in Kuching"
+      },
+      "text": "A striking riverside mosque with golden domes, among the city's most recognisable landmarks.",
+      "tip": "Visible clearly from the opposite riverbank — a good photo spot even without visiting the interior."
+    },
+    {
+      "name": "A Sarawak longhouse",
+      "image": {
+        "file": "File:Sarawak 08-04-2023 19.jpg",
+        "alt": "A traditional longhouse in Sarawak"
+      },
+      "text": "Traditional communal Iban houses, some open to respectful day trips or overnight stays outside the city.",
+      "tip": "Book through a responsible tour operator with genuine community relationships rather than an informal arrangement."
+    },
+    {
+      "name": "The Sarawak Cultural Village",
+      "image": {
+        "file": "File:Sarawak Cultural Village, Kuching.jpg",
+        "alt": "The Sarawak Cultural Village near Kuching"
+      },
+      "text": "A living museum recreating traditional houses of Sarawak's different ethnic groups, with cultural performances.",
+      "tip": "A useful, accessible introduction to Sarawak's cultures for visitors without time for a genuine longhouse visit."
+    }
+  ],
+  "thingsToDoIntro": "Kuching rewards day trips into the surrounding rainforest as much as time spent in the city itself.",
+  "thingsToDo": [
+    {
+      "title": "See wild orangutans at Semenggoh",
+      "image": {
+        "file": "File:Orang Utan, Semenggok Forest Reserve, Sarawak, Borneo, Malaysia.JPG",
+        "alt": "A wild orangutan at Semenggoh Wildlife Centre"
+      },
+      "text": "Scheduled morning and afternoon feeding times offer the best chance of a sighting, though nothing is guaranteed.",
+      "tip": "Arrive well before the feeding time slot — spaces at the viewing platform fill up."
+    },
+    {
+      "title": "Day-trip to Bako National Park",
+      "image": {
+        "file": "File:Bako National Park, Kuching, Sarawak, Malaysia 02.jpg",
+        "alt": "Trails at Bako National Park"
+      },
+      "text": "A boat ride and short trek reveal sea cliffs, mangroves and a real chance of spotting proboscis monkeys.",
+      "tip": "Go early — both wildlife activity and boat conditions are better before midday."
+    },
+    {
+      "title": "Walk the Sarawak River waterfront",
+      "text": "An easy evening activity, mixing river views with food stalls and a relaxed local atmosphere.",
+      "tip": "Take the small river taxi across to the Astana side for a different view back at the city."
+    },
+    {
+      "title": "Visit or stay at a Sarawak longhouse",
+      "text": "A day trip or overnight stay offers a genuine look at Iban communal living and culture.",
+      "tip": "Choose an operator with an established, respectful relationship with the community you'll visit."
+    },
+    {
+      "title": "Explore the Sarawak Cultural Village",
+      "text": "A half-day visit covering traditional architecture and performances from Sarawak's various ethnic groups.",
+      "tip": "Time your visit around the scheduled cultural performances for the fullest experience."
+    },
+    {
+      "title": "Try Sarawak laksa for breakfast",
+      "image": {
+        "file": "File:Sarawak Laksa (17589850829).jpg",
+        "alt": "Sarawak laksa, a local noodle soup"
+      },
+      "text": "A genuinely essential Kuching food experience, distinct from laksa found elsewhere in Malaysia.",
+      "tip": "Try it at a busy local kopitiam rather than a tourist-oriented restaurant."
+    }
+  ],
+  "foodIntro": "Kuching's food centres on Sarawak laksa and other dishes distinct from Peninsular Malaysian cooking, shaped by the state's own traditions.",
+  "foods": [
+    {
+      "name": "Sarawak laksa",
+      "image": {
+        "file": "File:Sarawak Laksa Authentic.jpg",
+        "alt": "Sarawak laksa, a spiced coconut noodle soup"
+      },
+      "text": "A rich, spiced coconut-based noodle soup distinct from Penang's sour version, closely associated with Kuching.",
+      "whereToTry": "Kopitiams throughout the city, especially for breakfast."
+    },
+    {
+      "name": "Kolo mee",
+      "text": "Dry egg noodles tossed in a light sauce, topped with minced pork or char siu, a Sarawak staple.",
+      "whereToTry": "Noodle stalls and kopitiams throughout Kuching."
+    },
+    {
+      "name": "Manok pansoh (chicken cooked in bamboo)",
+      "text": "A traditional Iban dish of chicken and herbs cooked inside a bamboo tube over an open fire.",
+      "whereToTry": "Restaurants specialising in Sarawakian or Iban cuisine."
+    },
+    {
+      "name": "Midin (jungle fern)",
+      "text": "A local jungle fern, typically stir-fried with garlic or belacan, found on most Sarawakian menus.",
+      "whereToTry": "Local restaurants throughout Kuching."
+    },
+    {
+      "name": "Layer cake (kek lapis Sarawak)",
+      "text": "An elaborately patterned, multi-layered cake distinctly associated with Sarawak.",
+      "whereToTry": "Bakeries and markets throughout the city."
+    },
+    {
+      "name": "Tuak (rice wine)",
+      "text": "A traditional fermented rice wine from Sarawak's indigenous communities, often served at longhouse visits.",
+      "whereToTry": "Longhouse visits and some cultural restaurants in the city."
+    }
+  ],
+  "accommodation": {
+    "intro": "Kuching's accommodation is generally good value, concentrated near the waterfront and old town.",
+    "areas": [
+      {
+        "name": "Near the Sarawak River waterfront",
+        "bestFor": "Walking distance to the main sights and evening food stalls",
+        "text": "The most convenient base for a short city stay."
+      },
+      {
+        "name": "The old town's commercial district",
+        "bestFor": "A wider range of budget and mid-range hotels",
+        "text": "A short walk from the waterfront, with plenty of restaurants nearby."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse room", "value": "RM55–110 per night" },
+      { "label": "Mid-range hotel", "value": "RM160–320 per night" },
+      { "label": "Bako National Park day trip", "value": "RM40–80 per person, transport and boat included" },
+      { "label": "Longhouse overnight stay", "value": "RM150–350 per person, all-inclusive" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Kuching is reached by air, requiring a separate domestic flight from Peninsular Malaysia or Kota Kinabalu.",
+    "options": [
+      {
+        "mode": "Fly into Kuching International Airport",
+        "text": "The only realistic option for most visitors, with frequent flights from Kuala Lumpur.",
+        "detail": "The airport sits about 20 minutes from the city centre."
+      },
+      {
+        "mode": "Connect from Kota Kinabalu",
+        "text": "A domestic flight links Sarawak and Sabah's two main cities.",
+        "detail": "Useful for a Borneo trip covering both states, though it adds meaningful travel time."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Central Kuching is walkable, with taxis, ride-hailing or organised tours needed for day trips outside the city.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Covers the waterfront, old town and cat statues comfortably.",
+        "detail": "Most central sights sit within a compact, walkable core."
+      },
+      {
+        "mode": "Ride-hailing apps or taxis",
+        "text": "Useful for reaching Semenggoh or the Sarawak Cultural Village.",
+        "detail": "Cheap and reliable for point-to-point trips outside the centre."
+      },
+      {
+        "mode": "Organised day tours",
+        "text": "The standard way to reach Bako National Park or a longhouse visit.",
+        "detail": "Bundles transport, boat travel and guiding into one straightforward booking."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March to October for the best weather",
+    "summary": "Kuching sees a wetter stretch from November to February, similar to Kota Kinabalu's pattern.",
+    "seasons": [
+      {
+        "season": "March–October",
+        "rating": "best",
+        "text": "Generally drier, with better conditions for Bako National Park and other outdoor day trips."
+      },
+      {
+        "season": "November–February",
+        "rating": "okay",
+        "text": "The wetter stretch of the year, with more frequent rain."
+      },
+      {
+        "season": "Year-round",
+        "rating": "good",
+        "text": "Semenggoh's orangutan sightings and city sightseeing remain workable most of the year."
+      }
+    ],
+    "avoid": "Nothing strongly, though heavier rain from November to February can affect Bako National Park's boat access."
+  },
+  "itinerary": {
+    "title": "Three days in Kuching",
+    "intro": "Built around the city, wild orangutans and a rainforest day trip.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The city and waterfront",
+        "summary": "Settling into Kuching's riverside centre.",
+        "morning": "Arrive and check in to your hotel.",
+        "afternoon": "Explore the old town and Kuching's cat statues.",
+        "evening": "Dinner and a walk along the Sarawak River waterfront."
+      },
+      {
+        "day": 2,
+        "title": "Semenggoh and culture",
+        "summary": "Wild orangutans and a look at Sarawak's traditions.",
+        "morning": "Visit Semenggoh Wildlife Centre for the morning feeding.",
+        "afternoon": "Explore the Sarawak Cultural Village.",
+        "evening": "Try Sarawak laksa and other local dishes for dinner."
+      },
+      {
+        "day": 3,
+        "title": "Bako National Park",
+        "summary": "A full day trip into the rainforest.",
+        "morning": "Boat to Bako National Park.",
+        "afternoon": "Trek the park's trails, watching for proboscis monkeys.",
+        "evening": "Return to Kuching for a final dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Kuching visit noticeably smoother.",
+  "tips": [
+    "Check Semenggoh's feeding schedule and arrive early for the best chance of a sighting.",
+    "Book Bako National Park's boat transfer through an operator or the park itself in advance.",
+    "Only visit a longhouse through a responsible, community-endorsed tour operator.",
+    "Try Sarawak laksa for breakfast at least once — it's genuinely distinct from laksa elsewhere in Malaysia.",
+    "Pack for rainforest humidity even outside the wetter months.",
+    "Treat Kuching as a separate Borneo base from Kota Kinabalu unless you have time for both."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Kuching?",
+      "a": "Three to four days covers the city, Semenggoh's orangutans and a Bako National Park day trip comfortably."
+    },
+    {
+      "q": "Can you guarantee seeing orangutans at Semenggoh?",
+      "a": "No — sightings depend on wild fruit availability, though scheduled feeding times offer a good chance, especially outside fruiting season."
+    },
+    {
+      "q": "How do you get to Kuching?",
+      "a": "By domestic flight from Kuala Lumpur or other Malaysian cities — Sarawak has no land connection to the Peninsula."
+    },
+    {
+      "q": "Is Kuching better than Kota Kinabalu?",
+      "a": "They suit different trips — Kuching leans toward culture and rainforest, while Kota Kinabalu leans toward islands and Mount Kinabalu."
+    },
+    {
+      "q": "What is Kuching's most famous dish?",
+      "a": "Sarawak laksa, a rich, spiced coconut noodle soup distinct from laksa found elsewhere in Malaysia."
+    },
+    {
+      "q": "Is Kuching safe?",
+      "a": "Yes, generally — a relaxed, safe city, with normal precautions around belongings in markets and on tours."
+    }
+  ],
+  "related": ["kota-kinabalu", "taman-negara", "penang"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}
