@@ -4,8 +4,8 @@
   "country": "peru",
   "region": "Puno Region",
   "categories": ["nature", "culture", "island", "unesco"],
-  "tagline": "The world's highest navigable lake, home to a floating village built entirely from reeds and traditions still genuinely lived, not performed.",
-  "highlight": "Stepping onto a Uros floating island for the first time, the spongy reed ground shifting slightly underfoot, genuinely unlike anywhere else on Earth.",
+  "tagline": "The world's highest navigable lake, home to a floating village built entirely from reeds and traditions still lived, not performed.",
+  "highlight": "Stepping onto a Uros floating island for the first time, the spongy reed ground shifting slightly underfoot, unlike anywhere else on Earth.",
   "shortDescription": "The world's highest navigable lake, home to the Uros people's floating reed islands and the traditional weaving villages of Taquile and Amantaní.",
   "metaDescription": "A Lake Titicaca and Puno travel guide: the Uros floating islands, Taquile, Sillustani, food and how to plan a visit to Peru's high-altitude lake.",
   "suggestedStay": "2-3 days",
@@ -19,36 +19,36 @@
     "alt": "The floating reed islands of the Uros people on Lake Titicaca"
   },
   "intro": [
-    "Lake Titicaca is genuinely the world's highest navigable lake, a vast, deep-blue expanse straddling the Peru-Bolivia border at over 3,800 metres, ringed by traditional Andean communities.",
-    "Its most famous residents, the Uros people, genuinely live on floating islands built and continuously rebuilt from layers of totora reed, a way of life dating back centuries and still practised today, not staged for visitors.",
-    "Most visitors genuinely base themselves in Puno, a workaday lakeside city, using it to reach the Uros islands, Taquile's traditional weaving communities and the pre-Inca burial towers at nearby Sillustani."
+    "Lake Titicaca is the world's highest navigable lake, a vast, deep-blue expanse straddling the Peru-Bolivia border at over 3,800 metres, ringed by traditional Andean communities.",
+    "Its most famous residents, the Uros people, live on floating islands built and continuously rebuilt from layers of totora reed, a way of life dating back centuries and still practised today, not staged for visitors.",
+    "Most visitors base themselves in Puno, a workaday lakeside city, using it to reach the Uros islands, Taquile's traditional weaving communities and the pre-Inca burial towers at nearby Sillustani."
   ],
   "whyVisit": {
-    "intro": "Lake Titicaca's case rests on genuinely living Andean culture found nowhere else on Earth, set against extraordinary high-altitude scenery.",
+    "intro": "Lake Titicaca's case rests on living Andean culture found nowhere else on Earth, set against extraordinary high-altitude scenery.",
     "points": [
       {
-        "title": "The Uros floating islands are genuinely still inhabited",
+        "title": "The Uros floating islands are still inhabited",
         "text": "A real, ongoing way of life on islands rebuilt from reeds, not a recreation for tourists."
       },
       {
-        "title": "It's genuinely the world's highest navigable lake",
+        "title": "It's the world's highest navigable lake",
         "text": "A vast, deep-blue expanse at over 3,800 metres, striking simply for its scale."
       },
       {
-        "title": "Taquile Island's weaving is genuinely UNESCO-recognised",
+        "title": "Taquile Island's weaving is UNESCO-recognised",
         "text": "A textile tradition significant enough to be named Intangible Cultural Heritage."
       },
       {
-        "title": "Sillustani's burial towers are genuinely a serious archaeological site",
+        "title": "Sillustani's burial towers are a serious archaeological site",
         "text": "Pre-Inca funerary towers on a peninsula overlooking a smaller neighbouring lake."
       },
       {
-        "title": "It offers genuinely a different side of Peru from Cusco",
+        "title": "It offers a different side of Peru from Cusco",
         "text": "A quieter, more contemplative pace than the busier Machu Picchu circuit."
       }
     ]
   },
-  "attractionsIntro": "The region's essential sights combine genuinely living island communities with serious pre-Inca archaeology.",
+  "attractionsIntro": "The region's essential sights combine living island communities with serious pre-Inca archaeology.",
   "attractions": [
     {
       "name": "The Uros floating islands",
@@ -56,8 +56,8 @@
         "file": "File:Islas flotantes de los Uros, Lago Titicaca, Perú, 2015-08-01, DD 25.JPG",
         "alt": "The floating reed islands of the Uros people"
       },
-      "text": "Genuinely built entirely from layers of totora reed, continuously maintained as older layers rot away from below.",
-      "tip": "Genuinely a short boat ride from Puno's harbour, easily combined with Taquile in a single day trip."
+      "text": "Built entirely from layers of totora reed, continuously maintained as older layers rot away from below.",
+      "tip": "A short boat ride from Puno's harbour, easily combined with Taquile in a single day trip."
     },
     {
       "name": "Taquile Island",
@@ -65,8 +65,8 @@
         "file": "File:Isla Taquile Lago Titicaca (4463616812).jpg",
         "alt": "Taquile Island on Lake Titicaca"
       },
-      "text": "Genuinely home to a UNESCO-recognised weaving tradition, where men and women both knit and weave using techniques passed down for generations.",
-      "tip": "Genuinely an overnight homestay here offers a far deeper experience than a rushed day visit."
+      "text": "Home to a UNESCO-recognised weaving tradition, where men and women both knit and weave using techniques passed down for generations.",
+      "tip": "An overnight homestay here offers a far deeper experience than a rushed day visit."
     },
     {
       "name": "Amantaní Island",
@@ -74,8 +74,8 @@
         "file": "File:Amantaní island in Lake Titicaca.jpg",
         "alt": "Amantaní Island on Lake Titicaca"
       },
-      "text": "Genuinely a quieter, less-visited island than Taquile, known for its two hilltop temples and genuinely warm homestay tradition.",
-      "tip": "Genuinely the climb to the island's temples rewards sweeping views over the lake at sunset."
+      "text": "A quieter, less-visited island than Taquile, known for its two hilltop temples and warm homestay tradition.",
+      "tip": "The climb to the island's temples rewards sweeping views over the lake at sunset."
     },
     {
       "name": "Puno's Plaza de Armas",
@@ -83,8 +83,8 @@
         "file": "File:Catedral Plaza de armas, Puno 15.jpg",
         "alt": "Puno's Plaza de Armas and cathedral"
       },
-      "text": "Genuinely the heart of Puno, a colonial square anchored by a baroque cathedral overlooking the city.",
-      "tip": "Genuinely a good spot to acclimatise gently before heading out onto the lake."
+      "text": "The heart of Puno, a colonial square anchored by a baroque cathedral overlooking the city.",
+      "tip": "A good spot to acclimatise gently before heading out onto the lake."
     },
     {
       "name": "Sillustani",
@@ -92,8 +92,8 @@
         "file": "File:Sillustani, Perú, 2015-08-01, DD 84.JPG",
         "alt": "The pre-Inca burial towers at Sillustani"
       },
-      "text": "Genuinely striking pre-Inca funerary towers, called chullpas, standing on a peninsula overlooking a smaller neighbouring lake.",
-      "tip": "Genuinely visit in the late afternoon for the best light on the towers' stonework."
+      "text": "Striking pre-Inca funerary towers, called chullpas, standing on a peninsula overlooking a smaller neighbouring lake.",
+      "tip": "Visit in the late afternoon for the best light on the towers' stonework."
     },
     {
       "name": "Lake Titicaca",
@@ -101,8 +101,8 @@
         "file": "File:Vista del Lago Titicaca en Perú.jpg",
         "alt": "The vast expanse of Lake Titicaca"
       },
-      "text": "Genuinely the world's highest navigable lake, its scale and deep blue colour striking from nearly any vantage point.",
-      "tip": "Genuinely the light on the water changes dramatically through the day — worth seeing at more than one time."
+      "text": "The world's highest navigable lake, its scale and deep blue colour striking from nearly any vantage point.",
+      "tip": "The light on the water changes dramatically through the day — worth seeing at more than one time."
     },
     {
       "name": "Puno's waterfront",
@@ -110,11 +110,11 @@
         "file": "File:Vista de Puno y el Titicaca, Perú, 2015-08-01, DD 53-54 PAN.JPG",
         "alt": "Puno's waterfront along Lake Titicaca"
       },
-      "text": "Genuinely the departure point for nearly every lake excursion, a working harbour with sweeping views over the water.",
-      "tip": "Genuinely arrive early for boat departures — the harbour gets busy with day-trip groups."
+      "text": "The departure point for nearly every lake excursion, a working harbour with sweeping views over the water.",
+      "tip": "Arrive early for boat departures — the harbour gets busy with day-trip groups."
     }
   ],
-  "thingsToDoIntro": "The region genuinely rewards slowing down, whether on a boat, an island homestay, or exploring Puno itself.",
+  "thingsToDoIntro": "The region rewards slowing down, whether on a boat, an island homestay, or exploring Puno itself.",
   "thingsToDo": [
     {
       "title": "Visit the Uros floating islands",
@@ -122,8 +122,8 @@
         "file": "File:Islas flotantes de los Uros, Lago Titicaca, Perú, 2015-08-01, DD 44-48 PAN.jpg",
         "alt": "Visiting the Uros floating islands"
       },
-      "text": "A genuinely essential half-day, meeting Uros families and learning how the islands are continuously rebuilt from reeds.",
-      "tip": "Genuinely a small tip or purchase of local crafts is a welcome way to support the community you're visiting."
+      "text": "An essential half-day, meeting Uros families and learning how the islands are continuously rebuilt from reeds.",
+      "tip": "A small tip or purchase of local crafts is a welcome way to support the community you're visiting."
     },
     {
       "title": "Stay overnight on Taquile or Amantaní",
@@ -131,8 +131,8 @@
         "file": "File:Taquile from Amantani.jpg",
         "alt": "The view of Taquile Island from Amantaní"
       },
-      "text": "A genuinely rewarding homestay experience, sharing a simple meal with a local family far from the day-trip crowds.",
-      "tip": "Genuinely pack a warm layer — island nights get cold even when days are mild."
+      "text": "A rewarding homestay experience, sharing a simple meal with a local family far from the day-trip crowds.",
+      "tip": "Pack a warm layer — island nights get cold even when days are mild."
     },
     {
       "title": "Explore Sillustani's burial towers",
@@ -140,8 +140,8 @@
         "file": "File:Urna funeraria, Sillustani, Perú, 2015-08-01, DD 92.JPG",
         "alt": "Exploring the burial towers at Sillustani"
       },
-      "text": "A genuinely worthwhile half-day trip from Puno, examining pre-Inca funerary architecture up close.",
-      "tip": "Genuinely combine with a stop at a local llama and alpaca farm, common on organised tours here."
+      "text": "A worthwhile half-day trip from Puno, examining pre-Inca funerary architecture up close.",
+      "tip": "Combine with a stop at a local llama and alpaca farm, common on organised tours here."
     },
     {
       "title": "Watch sunset from Amantaní",
@@ -149,8 +149,8 @@
         "file": "File:Amantani Island Sunset, Lake Titicaca (8297324766).jpg",
         "alt": "Sunset over Lake Titicaca from Amantaní Island"
       },
-      "text": "A genuinely memorable evening, watching the light fade over the lake from one of the island's hilltop temples.",
-      "tip": "Genuinely bring a proper jacket — temperatures drop sharply once the sun goes down."
+      "text": "A memorable evening, watching the light fade over the lake from one of the island's hilltop temples.",
+      "tip": "Bring a proper jacket — temperatures drop sharply once the sun goes down."
     },
     {
       "title": "Wander Puno's Plaza de Armas",
@@ -158,30 +158,30 @@
         "file": "File:Plaza Mayor de Puno 2025 02.jpg",
         "alt": "Puno's Plaza de Armas"
       },
-      "text": "A genuinely gentle way to spend a first afternoon, adjusting to the altitude before heading out on the lake.",
-      "tip": "Genuinely combine with a coffee stop overlooking the square."
+      "text": "A gentle way to spend a first afternoon, adjusting to the altitude before heading out on the lake.",
+      "tip": "Combine with a coffee stop overlooking the square."
     },
     {
       "title": "Learn Taquile's weaving traditions",
-      "text": "A genuinely fascinating cultural experience, watching textiles produced using techniques recognised by UNESCO.",
-      "tip": "Genuinely handwoven textiles bought directly from Taquile's weavers make an especially meaningful souvenir."
+      "text": "A fascinating cultural experience, watching textiles produced using techniques recognised by UNESCO.",
+      "tip": "Handwoven textiles bought directly from Taquile's weavers make an especially meaningful souvenir."
     }
   ],
-  "foodIntro": "Food here genuinely leans on fresh lake trout and hearty Andean staples suited to the high altitude.",
+  "foodIntro": "Food here leans on fresh lake trout and hearty Andean staples suited to the high altitude.",
   "foods": [
     {
       "name": "Trucha (Titicaca trout)",
-      "text": "Genuinely the lake's signature dish, fresh trout served grilled or fried, often with quinoa or potatoes.",
+      "text": "The lake's signature dish, fresh trout served grilled or fried, often with quinoa or potatoes.",
       "whereToTry": "Restaurants throughout Puno and on the lake's islands."
     },
     {
       "name": "Quinoa soup",
-      "text": "Genuinely a warming Andean staple, hearty quinoa soup well suited to Puno's cold evenings.",
+      "text": "A warming Andean staple, hearty quinoa soup well suited to Puno's cold evenings.",
       "whereToTry": "Restaurants throughout Puno."
     },
     {
       "name": "Cuy (guinea pig)",
-      "text": "Genuinely a traditional Andean delicacy, found on menus throughout the wider Puno region.",
+      "text": "A traditional Andean delicacy, found on menus throughout the wider Puno region.",
       "whereToTry": "Traditional restaurants throughout Puno."
     },
     {
@@ -190,12 +190,12 @@
         "file": "File:Lomo Saltado.JPG",
         "alt": "Lomo saltado, a Peruvian stir-fry of beef, onions and fries"
       },
-      "text": "A genuinely reliable classic, found on menus throughout Puno even at this altitude and distance from the coast.",
+      "text": "A reliable classic, found on menus throughout Puno even at this altitude and distance from the coast.",
       "whereToTry": "Restaurants throughout Puno."
     },
     {
       "name": "Coca tea",
-      "text": "Genuinely essential at this altitude, a mild herbal tea served at nearly every hotel and café in Puno.",
+      "text": "Essential at this altitude, a mild herbal tea served at nearly every hotel and café in Puno.",
       "whereToTry": "Hotels and cafés throughout Puno."
     },
     {
@@ -204,22 +204,22 @@
         "file": "File:Pisco Sour Cocktail.jpg",
         "alt": "A pisco sour, Peru's national cocktail"
       },
-      "text": "Genuinely available throughout Puno, though best enjoyed in moderation given the altitude.",
+      "text": "Available throughout Puno, though best enjoyed in moderation given the altitude.",
       "whereToTry": "Bars and restaurants throughout the city."
     }
   ],
   "accommodation": {
-    "intro": "Puno genuinely serves as the region's main base, with island homestays a genuinely rewarding alternative for a night or two.",
+    "intro": "Puno serves as the region's main base, with island homestays a rewarding alternative for a night or two.",
     "areas": [
       {
         "name": "Puno city centre",
-        "bestFor": "Being genuinely central and convenient for lake excursions",
+        "bestFor": "Being central and convenient for lake excursions",
         "text": "The most practical base, close to the harbour and Plaza de Armas."
       },
       {
         "name": "Taquile or Amantaní homestays",
-        "bestFor": "A genuinely immersive island experience",
-        "text": "Basic but genuinely welcoming accommodation with local families, arranged through tour operators."
+        "bestFor": "An immersive island experience",
+        "text": "Basic but welcoming accommodation with local families, arranged through tour operators."
       }
     ],
     "budget": [
@@ -230,66 +230,66 @@
     ]
   },
   "gettingThere": {
-    "intro": "Puno is genuinely reached by bus or flight via nearby Juliaca, with Cusco the most common connecting point.",
+    "intro": "Puno is reached by bus or flight via nearby Juliaca, with Cusco the most common connecting point.",
     "options": [
       {
         "mode": "Overnight or day bus from Cusco",
-        "text": "Genuinely comfortable on reclining-seat services, taking around six to seven hours.",
+        "text": "Comfortable on reclining-seat services, taking around six to seven hours.",
         "detail": "Some routes stop at scenic and historic sites along the way."
       },
       {
         "mode": "Flight to Juliaca",
-        "text": "Genuinely the fastest option, with a short onward drive of about 45 minutes to Puno.",
+        "text": "The fastest option, with a short onward drive of about 45 minutes to Puno.",
         "detail": "Connects to Lima and Cusco with regular daily flights."
       },
       {
         "mode": "Bus or train from Arequipa",
-        "text": "Genuinely a practical link for combining Titicaca with southern Peru.",
+        "text": "A practical link for combining Titicaca with southern Peru.",
         "detail": "The scenic train route is a memorable, if slower, alternative to the bus."
       }
     ]
   },
   "gettingAround": {
-    "intro": "Boats are genuinely essential for reaching the lake's islands, with Puno itself easily walkable.",
+    "intro": "Boats are essential for reaching the lake's islands, with Puno itself easily walkable.",
     "options": [
       {
         "mode": "Organised boat tours",
-        "text": "Genuinely the standard way to reach the Uros islands, Taquile and Amantaní.",
+        "text": "The standard way to reach the Uros islands, Taquile and Amantaní.",
         "detail": "Widely available from Puno's harbour, bookable a day or more ahead."
       },
       {
         "mode": "On foot in Puno",
-        "text": "Genuinely easy — the city centre is compact and walkable, altitude permitting.",
+        "text": "Easy — the city centre is compact and walkable, altitude permitting.",
         "detail": "Take it slowly given Puno's elevation, even higher than Cusco."
       },
       {
         "mode": "Taxis for Sillustani",
-        "text": "Genuinely useful for reaching sites outside the city, such as Sillustani.",
+        "text": "Useful for reaching sites outside the city, such as Sillustani.",
         "detail": "Organised tours are also widely available for this route."
       }
     ]
   },
   "bestTime": {
     "headline": "May to September for the dry season, though the lake is visitable year-round",
-    "summary": "Puno's genuinely high altitude means it stays cool year-round, with the dry season offering the clearest lake views.",
+    "summary": "Puno's high altitude means it stays cool year-round, with the dry season offering the clearest lake views.",
     "seasons": [
       {
         "season": "Dry season (May–September)",
         "rating": "best",
-        "text": "Genuinely the clearest skies and most reliable boat conditions, though nights turn genuinely cold."
+        "text": "The clearest skies and most reliable boat conditions, though nights turn cold."
       },
       {
         "season": "Shoulder months (April, October)",
         "rating": "good",
-        "text": "Genuinely fewer crowds with still-decent weather odds."
+        "text": "Fewer crowds with still-decent weather odds."
       },
       {
         "season": "Wet season (November–March)",
         "rating": "okay",
-        "text": "Genuinely warmer nights, though afternoon rain and choppier lake conditions are more common."
+        "text": "Warmer nights, though afternoon rain and choppier lake conditions are more common."
       }
     ],
-    "avoid": "Arriving without prior altitude acclimatisation — genuinely Puno sits even higher than Cusco, at around 3,800 metres."
+    "avoid": "Arriving without prior altitude acclimatisation — Puno sits even higher than Cusco, at around 3,800 metres."
   },
   "itinerary": {
     "title": "Two days at Lake Titicaca and Puno",
@@ -315,37 +315,37 @@
   },
   "tipsIntro": "Practical notes that make a Lake Titicaca and Puno visit noticeably smoother.",
   "tips": [
-    "Acclimatise genuinely in Cusco or elsewhere before arriving — Puno sits even higher, at around 3,800 metres.",
-    "Book genuinely boat tours a day ahead through your hotel or a local agency.",
-    "Pack genuinely warm layers regardless of season — lake nights turn cold year-round.",
-    "Consider genuinely an island homestay for a deeper, less rushed cultural experience.",
-    "Bring genuinely small cash for craft purchases on the Uros islands and Taquile.",
-    "Drink genuinely plenty of water and coca tea to help manage the high altitude."
+    "Acclimatise in Cusco or elsewhere before arriving — Puno sits even higher, at around 3,800 metres.",
+    "Book boat tours a day ahead through your hotel or a local agency.",
+    "Pack warm layers regardless of season — lake nights turn cold year-round.",
+    "Consider an island homestay for a deeper, less rushed cultural experience.",
+    "Bring small cash for craft purchases on the Uros islands and Taquile.",
+    "Drink plenty of water and coca tea to help manage the high altitude."
   ],
   "faq": [
     {
       "q": "How many days do you need at Lake Titicaca?",
-      "a": "Two to three days genuinely covers the Uros islands, Taquile and Sillustani comfortably."
+      "a": "Two to three days covers the Uros islands, Taquile and Sillustani comfortably."
     },
     {
-      "q": "Are the Uros floating islands still genuinely inhabited?",
-      "a": "Yes, genuinely — around 1,200 Uros people still live on and maintain the islands, a real, ongoing way of life, not a recreation."
+      "q": "Are the Uros floating islands still inhabited?",
+      "a": "Yes — around 1,200 Uros people still live on and maintain the islands, a real, ongoing way of life, not a recreation."
     },
     {
       "q": "Is Puno's altitude higher than Cusco's?",
-      "a": "Yes, genuinely — Puno sits at around 3,800 metres, noticeably higher than Cusco's 3,400 metres, so prior acclimatisation genuinely helps."
+      "a": "Yes — Puno sits at around 3,800 metres, noticeably higher than Cusco's 3,400 metres, so prior acclimatisation helps."
     },
     {
       "q": "What is Lake Titicaca known for?",
-      "a": "Genuinely being the world's highest navigable lake, home to the Uros floating islands and traditional weaving communities on Taquile."
+      "a": "Being the world's highest navigable lake, home to the Uros floating islands and traditional weaving communities on Taquile."
     },
     {
       "q": "Can you visit Lake Titicaca as a day trip?",
-      "a": "The Uros islands genuinely work as a half-day trip from Puno, though an overnight island homestay offers a far richer experience."
+      "a": "The Uros islands work as a half-day trip from Puno, though an overnight island homestay offers a far richer experience."
     },
     {
       "q": "How do you get from Cusco to Lake Titicaca?",
-      "a": "Genuinely by overnight bus (around six to seven hours) or a short flight to nearby Juliaca, both common and comfortable options."
+      "a": "By overnight bus (around six to seven hours) or a short flight to nearby Juliaca, both common and comfortable options."
     }
   ],
   "related": ["cusco", "arequipa-colca-canyon", "rainbow-mountain"],

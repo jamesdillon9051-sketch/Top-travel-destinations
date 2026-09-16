@@ -19,31 +19,31 @@
     "alt": "Lake Mývatn surrounded by volcanic terrain in North Iceland"
   },
   "intro": [
-    "Lake Mývatn is genuinely North Iceland's answer to the Golden Circle: a compact area packed with geothermal fields, lava formations and a genuinely otherworldly volcanic lake, but with a fraction of the crowds since it sits a full day's drive from Reykjavik.",
-    "The region genuinely rewards a slower pace than a day trip — Hverir's roaring steam vents, Dimmuborgir's lava pillars and Goðafoss and Dettifoss waterfalls are all close together, while Akureyri, Iceland's genuine second city, and Húsavík, the country's best whale-watching town, are both under an hour away.",
-    "It's also genuinely one of the best bases for exploring the north as a whole, whether you're driving the full Ring Road or flying directly into Akureyri to skip the long drive from Reykjavik."
+    "Lake Mývatn is North Iceland's answer to the Golden Circle: a compact area packed with geothermal fields, lava formations and an otherworldly volcanic lake, but with a fraction of the crowds since it sits a full day's drive from Reykjavik.",
+    "The region rewards a slower pace than a day trip — Hverir's roaring steam vents, Dimmuborgir's lava pillars and Goðafoss and Dettifoss waterfalls are all close together, while Akureyri, Iceland's genuine second city, and Húsavík, the country's best whale-watching town, are both under an hour away.",
+    "It's also one of the best bases for exploring the north as a whole, whether you're driving the full Ring Road or flying directly into Akureyri to skip the long drive from Reykjavik."
   ],
   "whyVisit": {
     "intro": "North Iceland's case rests on genuine geological drama with far fewer crowds than the south.",
     "points": [
       {
-        "title": "Hverir is genuinely one of Iceland's most visceral geothermal fields",
+        "title": "Hverir is one of Iceland's most visceral geothermal fields",
         "text": "Roaring steam vents and bubbling mudpots on a stark, colourful, almost lunar landscape."
       },
       {
-        "title": "It's genuinely far quieter than the south coast or Golden Circle",
+        "title": "It's far quieter than the south coast or Golden Circle",
         "text": "The same volcanic drama, without anywhere near the same tour bus traffic."
       },
       {
-        "title": "Húsavík is genuinely Iceland's best whale-watching town",
+        "title": "Húsavík is Iceland's best whale-watching town",
         "text": "Calm bay waters and a high density of humpback and other whale species through the summer."
       },
       {
-        "title": "Akureyri is genuinely a real, charming small city",
+        "title": "Akureyri is a real, charming small city",
         "text": "A proper working town with good restaurants, unlike some of Iceland's more purely scenic stops."
       },
       {
-        "title": "It's genuinely rich in waterfalls beyond the famous ones",
+        "title": "It's rich in waterfalls beyond the famous ones",
         "text": "Goðafoss and Dettifoss both rival the south coast's headline falls for sheer drama."
       }
     ]
@@ -56,8 +56,8 @@
         "file": "File:A view to the lake Mývatn, Iceland 03.jpg",
         "alt": "Lake Mývatn surrounded by volcanic terrain and pseudocraters"
       },
-      "text": "A genuinely shallow volcanic lake dotted with pseudocraters and rich in birdlife, formed by a massive basalt lava eruption 2,300 years ago.",
-      "tip": "The genuinely short Höfði peninsula walk gives some of the lake's best photo angles."
+      "text": "A shallow volcanic lake dotted with pseudocraters and rich in birdlife, formed by a massive basalt lava eruption 2,300 years ago.",
+      "tip": "The short Höfði peninsula walk gives some of the lake's best photo angles."
     },
     {
       "name": "Hverir Geothermal Area",
@@ -65,8 +65,8 @@
         "file": "File:Hverir geothermal area1.jpg",
         "alt": "Steaming vents and bubbling mudpots at the Hverir geothermal field"
       },
-      "text": "A genuinely stark, almost lunar geothermal field of roaring steam vents, bubbling mudpots and mineral-stained orange earth beneath Námafjall mountain.",
-      "tip": "Stay genuinely on the marked paths — the ground here is scalding and unstable underfoot."
+      "text": "A stark, almost lunar geothermal field of roaring steam vents, bubbling mudpots and mineral-stained orange earth beneath Námafjall mountain.",
+      "tip": "Stay on the marked paths — the ground here is scalding and unstable underfoot."
     },
     {
       "name": "Dimmuborgir",
@@ -74,8 +74,8 @@
         "file": "File:Dimmuborgir, Iceland, 20240716 1305 1437.jpg",
         "alt": "Twisted black lava pillars and arches at Dimmuborgir"
       },
-      "text": "A genuinely eerie labyrinth of twisted lava pillars, caves and arches, formed when a lava lake drained and left its crust collapsed and standing.",
-      "tip": "The genuinely longer loop trail gets you well away from the crowds near the car park."
+      "text": "An eerie labyrinth of twisted lava pillars, caves and arches, formed when a lava lake drained and left its crust collapsed and standing.",
+      "tip": "The longer loop trail gets you well away from the crowds near the car park."
     },
     {
       "name": "Goðafoss",
@@ -83,8 +83,8 @@
         "file": "File:Goðafoss July 2014.JPG",
         "alt": "Goðafoss waterfall curving over a horseshoe-shaped basalt cliff"
       },
-      "text": "A genuinely striking horseshoe-shaped waterfall on the Skjálfandafljót river, its name meaning 'waterfall of the gods.'",
-      "tip": "Trails on genuinely both sides of the river offer different, equally good angles."
+      "text": "A striking horseshoe-shaped waterfall on the Skjálfandafljót river, its name meaning 'waterfall of the gods.'",
+      "tip": "Trails on both sides of the river offer different, equally good angles."
     },
     {
       "name": "Dettifoss",
@@ -92,8 +92,8 @@
         "file": "File:Dettifoss Waterfall, Iceland, 20240716 1514 1603.jpg",
         "alt": "Dettifoss, one of Europe's most powerful waterfalls, in Vatnajökull National Park"
       },
-      "text": "Genuinely one of Europe's most powerful waterfalls by volume, thundering into Jökulsárgljúfur canyon with a spray visible from a distance.",
-      "tip": "The genuinely rougher east-side road gives closer views, but the west side has an easier, paved approach."
+      "text": "One of Europe's most powerful waterfalls by volume, thundering into Jökulsárgljúfur canyon with a spray visible from a distance.",
+      "tip": "The rougher east-side road gives closer views, but the west side has an easier, paved approach."
     },
     {
       "name": "Akureyri",
@@ -102,7 +102,7 @@
         "alt": "Akureyrarkirkja church overlooking the town of Akureyri"
       },
       "text": "Iceland's genuine second city, a compact, colourful town at the head of Eyjafjörður fjord with good restaurants and a striking modernist church.",
-      "tip": "Climb the steps to genuinely Akureyrarkirkja for the best view down the town's main street."
+      "tip": "Climb the steps to Akureyrarkirkja for the best view down the town's main street."
     },
     {
       "name": "Húsavík",
@@ -110,11 +110,11 @@
         "file": "File:Húsavík harbor. Northern Iceland.jpg",
         "alt": "The harbour at Húsavík, Iceland's whale-watching capital"
       },
-      "text": "A genuinely picturesque fishing town on Skjálfandi Bay, widely considered Iceland's best base for whale watching.",
-      "tip": "Book a genuinely early morning tour for the calmest water and best sighting odds."
+      "text": "A picturesque fishing town on Skjálfandi Bay, widely considered Iceland's best base for whale watching.",
+      "tip": "Book an early morning tour for the calmest water and best sighting odds."
     }
   ],
-  "thingsToDoIntro": "North Iceland genuinely rewards mixing geothermal walks with wildlife and a proper town stop in Akureyri.",
+  "thingsToDoIntro": "North Iceland rewards mixing geothermal walks with wildlife and a proper town stop in Akureyri.",
   "thingsToDo": [
     {
       "title": "Go whale watching from Húsavík",
@@ -122,8 +122,8 @@
         "file": "File:Elding Whale Watching - Reykjavík (5866308105).jpg",
         "alt": "A whale-watching boat off the Icelandic coast"
       },
-      "text": "Genuinely Iceland's best whale-watching odds, with humpback, minke and sometimes blue whales spotted through the summer months.",
-      "tip": "Dress genuinely far warmer than you think you need to — the boat deck is cold even in summer."
+      "text": "Iceland's best whale-watching odds, with humpback, minke and sometimes blue whales spotted through the summer months.",
+      "tip": "Dress far warmer than you think you need to — the boat deck is cold even in summer."
     },
     {
       "title": "Soak in the Mývatn Nature Baths",
@@ -131,8 +131,8 @@
         "file": "File:Myvatn Nature Baths by Bruce McAdam.jpg",
         "alt": "The geothermal Mývatn Nature Baths overlooking the surrounding lava landscape"
       },
-      "text": "A genuinely quieter, cheaper alternative to the Blue Lagoon, with the same warm, mineral-rich water and far fewer crowds.",
-      "tip": "Sunset genuinely makes for the best light over the surrounding landscape."
+      "text": "A quieter, cheaper alternative to the Blue Lagoon, with the same warm, mineral-rich water and far fewer crowds.",
+      "tip": "Sunset makes for the best light over the surrounding landscape."
     },
     {
       "title": "Climb Hverfjall crater",
@@ -140,8 +140,8 @@
         "file": "File:Hverfjall, crater in Iceland (29013958351).jpg",
         "alt": "The rim trail around Hverfjall volcanic crater"
       },
-      "text": "A genuinely straightforward climb up the rim of this near-perfectly symmetrical explosion crater, with sweeping views over Mývatn.",
-      "tip": "The full rim loop takes genuinely about an hour, though the short climb alone is worth it too."
+      "text": "A straightforward climb up the rim of this near-perfectly symmetrical explosion crater, with sweeping views over Mývatn.",
+      "tip": "The full rim loop takes about an hour, though the short climb alone is worth it too."
     },
     {
       "title": "Wander Dimmuborgir's lava labyrinth",
@@ -149,8 +149,8 @@
         "file": "File:Walking path in Dimmuborgir, Iceland, 20240716 1303 1431.jpg",
         "alt": "A walking path winding through Dimmuborgir's lava formations"
       },
-      "text": "Genuinely several marked trails wind through the pillars and arches, ranging from a quick 20-minute loop to a longer hour-plus circuit.",
-      "tip": "Local folklore genuinely holds these formations are home to Iceland's Yule Lads — ask locally for the stories."
+      "text": "Several marked trails wind through the pillars and arches, ranging from a quick 20-minute loop to a longer hour-plus circuit.",
+      "tip": "Local folklore holds these formations are home to Iceland's Yule Lads — ask locally for the stories."
     },
     {
       "title": "Feel Dettifoss's power",
@@ -158,8 +158,8 @@
         "file": "File:Dettifoss waterfall, Iceland, 20240716 1506 1568.jpg",
         "alt": "The thundering spray of Dettifoss waterfall"
       },
-      "text": "Genuinely one of the most visceral waterfall experiences in Iceland — the ground itself seems to shake near the viewing platform.",
-      "tip": "A waterproof layer is genuinely essential — the spray carries a long way on a windy day."
+      "text": "One of the most visceral waterfall experiences in Iceland — the ground itself seems to shake near the viewing platform.",
+      "tip": "A waterproof layer is essential — the spray carries a long way on a windy day."
     },
     {
       "title": "Wander Akureyri's town centre",
@@ -167,11 +167,11 @@
         "file": "File:Akureyri-08-Panorama-2018-gje.jpg",
         "alt": "A panoramic view over the town of Akureyri and its fjord"
       },
-      "text": "A genuinely relaxed afternoon of cafés, a good bookshop and the excellent botanical garden, a rare treat this far north.",
-      "tip": "The genuinely free botanical garden is worth an hour even outside peak bloom season."
+      "text": "A relaxed afternoon of cafés, a good bookshop and the excellent botanical garden, a rare treat this far north.",
+      "tip": "The free botanical garden is worth an hour even outside peak bloom season."
     }
   ],
-  "foodIntro": "North Iceland genuinely leans on traditional preserved foods alongside fresh fish from Húsavík and Akureyri's harbours.",
+  "foodIntro": "North Iceland leans on traditional preserved foods alongside fresh fish from Húsavík and Akureyri's harbours.",
   "foods": [
     {
       "name": "Hangikjöt (smoked lamb)",
@@ -179,7 +179,7 @@
         "file": "File:Hangikjöt.jpg",
         "alt": "Sliced hangikjöt, traditional Icelandic smoked lamb"
       },
-      "text": "A genuinely traditional smoked lamb, historically cured over smouldering birch or dried sheep dung, served thinly sliced.",
+      "text": "A traditional smoked lamb, historically cured over smouldering birch or dried sheep dung, served thinly sliced.",
       "whereToTry": "Restaurants and guesthouses around Akureyri and Mývatn."
     },
     {
@@ -188,7 +188,7 @@
         "file": "File:Harðfiskur.jpg",
         "alt": "Harðfiskur, traditional Icelandic dried fish"
       },
-      "text": "A genuinely traditional wind-dried fish snack, often eaten with a thick smear of butter, sold at petrol stations and markets alike.",
+      "text": "A traditional wind-dried fish snack, often eaten with a thick smear of butter, sold at petrol stations and markets alike.",
       "whereToTry": "Supermarkets and fish shops in Húsavík and Akureyri."
     },
     {
@@ -197,7 +197,7 @@
         "file": "File:Skyr & Blackberries 20250816 143415.jpg",
         "alt": "A bowl of skyr topped with berries"
       },
-      "text": "A genuinely reliable breakfast staple across the north, often served with local berries in season.",
+      "text": "A reliable breakfast staple across the north, often served with local berries in season.",
       "whereToTry": "Cafés in Akureyri and guesthouses around Mývatn."
     },
     {
@@ -206,7 +206,7 @@
         "file": "File:Plokkfiskur.jpg",
         "alt": "A bowl of plokkfiskur fish stew"
       },
-      "text": "Genuinely excellent in Húsavík especially, a working fishing harbour where the catch barely travels before it's served.",
+      "text": "Excellent in Húsavík especially, a working fishing harbour where the catch barely travels before it's served.",
       "whereToTry": "Harbourside restaurants in Húsavík and Akureyri."
     },
     {
@@ -215,7 +215,7 @@
         "file": "File:Jonge vrouw stopt een blikken bus met deeg in de hete grond om brood te bakken, Bestanddeelnr 190-0313.jpg",
         "alt": "A loaf of traditional Icelandic rye bread"
       },
-      "text": "A genuinely dense, dark rye bread, often served alongside smoked fish or lamb at breakfast buffets.",
+      "text": "A dense, dark rye bread, often served alongside smoked fish or lamb at breakfast buffets.",
       "whereToTry": "Guesthouses and cafés around Mývatn."
     },
     {
@@ -224,26 +224,26 @@
         "file": "File:Iceland Schnapps! (3083475243).jpg",
         "alt": "A bottle of Brennivín, Iceland's signature schnapps"
       },
-      "text": "Iceland's genuinely famous caraway schnapps, a fitting way to end a day of geothermal walking in Akureyri's bars.",
+      "text": "Iceland's famous caraway schnapps, a fitting way to end a day of geothermal walking in Akureyri's bars.",
       "whereToTry": "Bars and restaurants in Akureyri."
     }
   ],
   "accommodation": {
-    "intro": "Most visitors genuinely split their nights between Akureyri and a guesthouse near Mývatn itself.",
+    "intro": "Most visitors split their nights between Akureyri and a guesthouse near Mývatn itself.",
     "areas": [
       {
         "name": "Akureyri",
         "bestFor": "Restaurants, services and a real small-city base",
-        "text": "Genuinely the north's main hub, about an hour from Mývatn and close to Húsavík."
+        "text": "The north's main hub, about an hour from Mývatn and close to Húsavík."
       },
       {
         "name": "Reykjahlíð (Mývatn village)",
-        "bestFor": "Being genuinely right at the lake itself",
+        "bestFor": "Being right at the lake itself",
         "text": "Small, but puts you within minutes of Hverir, Dimmuborgir and the Nature Baths."
       },
       {
         "name": "Húsavík",
-        "bestFor": "Prioritising genuinely early whale-watching tours",
+        "bestFor": "Prioritising early whale-watching tours",
         "text": "A charming small harbour town, useful if whale watching is your main priority."
       }
     ],
@@ -255,71 +255,71 @@
     ]
   },
   "gettingThere": {
-    "intro": "North Iceland is genuinely reached either by a long Ring Road drive or a short domestic flight.",
+    "intro": "North Iceland is reached either by a long Ring Road drive or a short domestic flight.",
     "options": [
       {
         "mode": "Domestic flight to Akureyri",
-        "text": "A genuinely quick 45-minute hop from Reykjavik, the fastest way to reach the north.",
+        "text": "A quick 45-minute hop from Reykjavik, the fastest way to reach the north.",
         "detail": "Multiple daily flights run year-round, weather permitting."
       },
       {
         "mode": "Self-drive via the Ring Road",
-        "text": "About genuinely 5-6 hours from Reykjavik, often broken up with stops along the way.",
+        "text": "About 5-6 hours from Reykjavik, often broken up with stops along the way.",
         "detail": "Route 1 runs directly through Akureyri and past Mývatn."
       },
       {
         "mode": "Organised multi-day tour",
-        "text": "Genuinely bundles transport, guiding and accommodation for visitors who'd rather not self-drive the whole Ring Road.",
+        "text": "Bundles transport, guiding and accommodation for visitors who'd rather not self-drive the whole Ring Road.",
         "detail": "Multi-day North Iceland tours typically depart from Reykjavik."
       }
     ]
   },
   "gettingAround": {
-    "intro": "The region's sights are genuinely spread along Route 1 and a few short side roads.",
+    "intro": "The region's sights are spread along Route 1 and a few short side roads.",
     "options": [
       {
         "mode": "Rental car",
-        "text": "Genuinely the most practical way to link Mývatn, Akureyri, Húsavík and the waterfalls.",
+        "text": "The most practical way to link Mývatn, Akureyri, Húsavík and the waterfalls.",
         "detail": "Route 1 and 87 connect all the main stops directly."
       },
       {
         "mode": "Local tours from Akureyri or Mývatn",
-        "text": "Genuinely cover Dettifoss, Goðafoss and whale watching for visitors without a car.",
+        "text": "Cover Dettifoss, Goðafoss and whale watching for visitors without a car.",
         "detail": "Day tours run regularly from both Akureyri and Mývatn village."
       },
       {
         "mode": "On foot at each stop",
-        "text": "Genuinely all the individual sights are short, well-marked walks from parking areas.",
+        "text": "All the individual sights are short, well-marked walks from parking areas.",
         "detail": "None require more than an hour or two on foot."
       }
     ]
   },
   "bestTime": {
     "headline": "Summer for easy access, winter for the northern lights",
-    "summary": "Summer genuinely gives the easiest driving and long daylight, while winter offers a real shot at the aurora away from Reykjavik's light pollution.",
+    "summary": "Summer gives the easiest driving and long daylight, while winter offers a real shot at the aurora away from Reykjavik's light pollution.",
     "seasons": [
       {
         "season": "Summer (June–August)",
         "rating": "best",
-        "text": "Genuinely easy driving, long daylight and the best whale-watching season."
+        "text": "Easy driving, long daylight and the best whale-watching season."
       },
       {
         "season": "Winter (November–February)",
         "rating": "good",
-        "text": "Genuinely excellent aurora viewing, though some roads and the airport can face weather delays."
+        "text": "Excellent aurora viewing, though some roads and the airport can face weather delays."
       },
       {
         "season": "Autumn (September–October)",
         "rating": "good",
-        "text": "Genuinely quiet, with good early-season aurora chances and mild weather."
+        "text": "Quiet, with good early-season aurora chances and mild weather."
       },
       {
         "season": "Spring (March–May)",
         "rating": "good",
-        "text": "Genuinely increasing daylight, though some minor roads may still be closed."
+        "text": "Increasing daylight, though some minor roads may still be closed."
       }
     ],
-    "avoid": "Avoid Hverir on genuinely still, windless days if you're sensitive to sulphur smell — it lingers close to the vents."
+    "avoid": "Avoid Hverir on still, windless days if you're sensitive to sulphur smell — it lingers close to the vents."
   },
   "itinerary": {
     "title": "Two days in North Iceland",
@@ -345,37 +345,37 @@
   },
   "tipsIntro": "A handful of practical notes make North Iceland far easier to plan around.",
   "tips": [
-    "Book whale-watching tours genuinely a day or two ahead in peak summer.",
-    "Fly into Akureyri genuinely if you want to skip the long Ring Road drive from Reykjavik.",
-    "Bring genuinely warm, windproof layers for the whale-watching boat deck, even in July.",
-    "Check road.is genuinely for the Dettifoss access roads, which can close in bad weather.",
-    "Base yourself near Mývatn genuinely village rather than driving in daily from Akureyri.",
-    "Allow genuinely a full two to three days rather than a rushed day trip from Akureyri."
+    "Book whale-watching tours a day or two ahead in peak summer.",
+    "Fly into Akureyri if you want to skip the long Ring Road drive from Reykjavik.",
+    "Bring warm, windproof layers for the whale-watching boat deck, even in July.",
+    "Check road.is for the Dettifoss access roads, which can close in bad weather.",
+    "Base yourself near Mývatn village rather than driving in daily from Akureyri.",
+    "Allow a full two to three days rather than a rushed day trip from Akureyri."
   ],
   "faq": [
     {
       "q": "Is Lake Mývatn worth visiting?",
-      "a": "Yes, genuinely — it's North Iceland's geothermal and volcanic highlight, with far fewer crowds than the south coast or Golden Circle."
+      "a": "Yes — it's North Iceland's geothermal and volcanic highlight, with far fewer crowds than the south coast or Golden Circle."
     },
     {
       "q": "Is Húsavík the best place for whale watching in Iceland?",
-      "a": "Yes, genuinely widely considered so — its calm bay waters and whale density are hard to match elsewhere in the country."
+      "a": "Yes, widely considered so — its calm bay waters and whale density are hard to match elsewhere in the country."
     },
     {
       "q": "How far is Mývatn from Reykjavik?",
-      "a": "About genuinely 5-6 hours by car, or a 45-minute flight to Akureyri followed by a short drive."
+      "a": "About 5-6 hours by car, or a 45-minute flight to Akureyri followed by a short drive."
     },
     {
       "q": "Can you visit North Iceland without a car?",
-      "a": "Yes — local tours from Akureyri and Mývatn village genuinely cover the main sights and whale watching."
+      "a": "Yes — local tours from Akureyri and Mývatn village cover the main sights and whale watching."
     },
     {
       "q": "How does Dettifoss compare to Gullfoss?",
-      "a": "Dettifoss is genuinely more powerful by volume and rawer in feel, while Gullfoss is more accessible and better set up for visitors."
+      "a": "Dettifoss is more powerful by volume and rawer in feel, while Gullfoss is more accessible and better set up for visitors."
     },
     {
       "q": "How many days do you need for North Iceland?",
-      "a": "Two to three days genuinely covers Mývatn's geothermal sights, the waterfalls, Húsavík and Akureyri at a relaxed pace."
+      "a": "Two to three days covers Mývatn's geothermal sights, the waterfalls, Húsavík and Akureyri at a relaxed pace."
     }
   ],
   "related": ["jokulsarlon-vatnajokull", "westfjords", "landmannalaugar-highlands"],

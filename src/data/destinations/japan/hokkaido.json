@@ -4,9 +4,9 @@
   "country": "japan",
   "region": "Hokkaido",
   "categories": ["nature-wildlife", "mountains", "food"],
-  "tagline": "Japan's northern frontier island, genuinely wilder and less crowded than the mainland, running from world-class powder snow to lavender fields to some of the country's best seafood.",
-  "highlight": "Furano's rolling lavender fields in full bloom, a genuinely different Japanese landscape from anywhere on the mainland.",
-  "shortDescription": "Japan's northern island, its wilderness, powder snow and seafood offering a genuinely different pace and climate from the rest of the country.",
+  "tagline": "Japan's northern frontier island, wilder and less crowded than the mainland, running from world-class powder snow to lavender fields to some of the country's best seafood.",
+  "highlight": "Furano's rolling lavender fields in full bloom, a different Japanese landscape from anywhere on the mainland.",
+  "shortDescription": "Japan's northern island, its wilderness, powder snow and seafood offering a different pace and climate from the rest of the country.",
   "metaDescription": "A Hokkaido travel guide: Sapporo, Niseko's powder snow, Furano's lavender fields, when to go and a practical five-day itinerary.",
   "suggestedStay": "5–7 days",
   "nearestAirport": "New Chitose Airport (CTS), near Sapporo",
@@ -19,31 +19,31 @@
     "alt": "Rolling lavender fields in Furano, Hokkaido, in full summer bloom"
   },
   "intro": [
-    "Hokkaido is Japan's second-largest and northernmost main island, genuinely different in pace, climate and character from the crowded corridor between Tokyo and Osaka. Settled and developed relatively late by Japanese standards, much of it still feels like a frontier — wide open landscapes, a distinct indigenous Ainu culture, and a population density a fraction of the mainland's.",
-    "The island's winters are genuinely world-renowned among skiers, with towns like Niseko drawing an international following for consistently excellent, famously dry powder snow, while summer brings a completely different draw in Furano's rolling lavender fields and generally milder temperatures than the sweltering mainland.",
-    "Hokkaido's food culture stands on its own within Japan — the island produces a genuinely outsized share of the country's dairy, seafood and produce, and Sapporo's ramen, fresh crab and corn have real, distinct regional identities rather than being a northern variation on mainland dishes."
+    "Hokkaido is Japan's second-largest and northernmost main island, different in pace, climate and character from the crowded corridor between Tokyo and Osaka. Settled and developed relatively late by Japanese standards, much of it still feels like a frontier — wide open landscapes, a distinct indigenous Ainu culture, and a population density a fraction of the mainland's.",
+    "The island's winters are world-renowned among skiers, with towns like Niseko drawing an international following for consistently excellent, famously dry powder snow, while summer brings a completely different draw in Furano's rolling lavender fields and generally milder temperatures than the sweltering mainland.",
+    "Hokkaido's food culture stands on its own within Japan — the island produces an outsized share of the country's dairy, seafood and produce, and Sapporo's ramen, fresh crab and corn have real, distinct regional identities rather than being a northern variation on mainland dishes."
   ],
   "whyVisit": {
     "intro": "Hokkaido's case is that no other part of Japan offers this different a landscape, pace and food culture within the same country.",
     "points": [
       {
-        "title": "The powder snow skiing is genuinely world class",
+        "title": "The powder snow skiing is world class",
         "text": "Niseko and other resorts draw an international following for consistently excellent, famously dry snow."
       },
       {
-        "title": "The seafood and produce are genuinely outstanding",
+        "title": "The seafood and produce are outstanding",
         "text": "Hokkaido produces an outsized share of Japan's dairy, crab, uni and other seafood, with real quality to match."
       },
       {
-        "title": "The landscape is genuinely different from the mainland",
+        "title": "The landscape is different from the mainland",
         "text": "Wide open spaces, national parks and Furano's lavender fields offer a Japan most visitors never see."
       },
       {
-        "title": "It's genuinely less crowded",
+        "title": "It's less crowded",
         "text": "A fraction of the mainland's population density makes for a noticeably calmer, less rushed travel pace."
       },
       {
-        "title": "The seasons offer two genuinely distinct trips",
+        "title": "The seasons offer two distinct trips",
         "text": "World-class winter skiing and a completely different summer of lavender fields and wildlife make Hokkaido worth two separate visits."
       }
     ]
@@ -56,7 +56,7 @@
         "file": "File:Odori park at Sapporo TV tower.jpg",
         "alt": "Odori Park with the Sapporo TV Tower in the background"
       },
-      "text": "Hokkaido's capital and largest city, its central Odori Park hosting the famous winter Snow Festival and offering a genuinely pleasant green spine through the city year-round.",
+      "text": "Hokkaido's capital and largest city, its central Odori Park hosting the famous winter Snow Festival and offering a pleasant green spine through the city year-round.",
       "tip": "The Sapporo TV Tower at the park's eastern end offers a good orientation view over the city grid."
     },
     {
@@ -65,8 +65,8 @@
         "file": "File:Otaru Canal HDR1.jpg",
         "alt": "Otaru's historic stone canal lined with former warehouses"
       },
-      "text": "A former warehouse district's picturesque stone canal, gas-lit at night, a genuinely atmospheric short trip from Sapporo.",
-      "tip": "Evening visits catch the canal's gas lamps lit, genuinely more atmospheric than the daytime version."
+      "text": "A former warehouse district's picturesque stone canal, gas-lit at night, an atmospheric short trip from Sapporo.",
+      "tip": "Evening visits catch the canal's gas lamps lit, more atmospheric than the daytime version."
     },
     {
       "name": "Furano's lavender fields",
@@ -74,7 +74,7 @@
         "file": "File:Sightseeing spot in Furano, Hokkaido Prefecture; July 2017 (04).jpg",
         "alt": "Rolling hillside lavender fields near Furano"
       },
-      "text": "Rolling hillside fields of lavender in full bloom through July, a genuinely striking landscape unlike anywhere else in Japan.",
+      "text": "Rolling hillside fields of lavender in full bloom through July, a striking landscape unlike anywhere else in Japan.",
       "tip": "Farm Tomita is the region's most famous and accessible lavender farm, with a small train station built specifically for summer visitors."
     },
     {
@@ -83,7 +83,7 @@
         "file": "File:Shiretoko Five Lakes 20140811-1.jpg",
         "alt": "The Shiretoko Five Lakes within Shiretoko National Park"
       },
-      "text": "A remote, genuinely wild UNESCO World Heritage peninsula, home to brown bears, drift ice in winter and some of Japan's least developed coastline.",
+      "text": "A remote, wild UNESCO World Heritage peninsula, home to brown bears, drift ice in winter and some of Japan's least developed coastline.",
       "tip": "Boat tours offer the most reliable way to spot brown bears and coastal wildlife safely from a respectful distance."
     },
     {
@@ -93,7 +93,7 @@
         "alt": "A ski slope in the Niseko resort area"
       },
       "text": "Hokkaido's most internationally famous ski destination, its consistently excellent powder snow drawing visitors from across the world each winter.",
-      "tip": "Summer transforms Niseko into a genuinely worthwhile hiking and rafting destination, considerably less crowded than ski season."
+      "tip": "Summer transforms Niseko into a worthwhile hiking and rafting destination, considerably less crowded than ski season."
     },
     {
       "name": "Mount Hakodate's night view",
@@ -105,7 +105,7 @@
       "tip": "Arrive before sunset to see the transition from daylight to the city's full evening illumination."
     }
   ],
-  "thingsToDoIntro": "Beyond the major sights, Hokkaido rewards its seasonal extremes and its genuinely serious food and drink culture.",
+  "thingsToDoIntro": "Beyond the major sights, Hokkaido rewards its seasonal extremes and its serious food and drink culture.",
   "thingsToDo": [
     {
       "title": "Ski or snowboard Niseko's powder",
@@ -113,7 +113,7 @@
         "file": "File:New Year's Eve in Niseko area. (55016930110).jpg",
         "alt": "Skiers on Niseko's powder snow slopes"
       },
-      "text": "Genuinely world-class, famously dry powder snow draws skiers and snowboarders from across the globe each winter season.",
+      "text": "World-class, famously dry powder snow draws skiers and snowboarders from across the globe each winter season.",
       "tip": "Book accommodation many months ahead for peak January and February powder season, when the best lodges sell out early."
     },
     {
@@ -122,7 +122,7 @@
         "file": "File:Sapporo Snow Festival 2025 (8848721).jpg",
         "alt": "Enormous snow and ice sculptures at the Sapporo Snow Festival"
       },
-      "text": "A genuinely spectacular week-long February festival of enormous snow and ice sculptures filling Odori Park and beyond.",
+      "text": "A spectacular week-long February festival of enormous snow and ice sculptures filling Odori Park and beyond.",
       "tip": "Book Sapporo accommodation extremely far ahead if visiting during the festival — the city fills completely."
     },
     {
@@ -131,8 +131,8 @@
         "file": "File:Jigokudani (Hell Valley), Noboribetsu Onsen, Hokkaido, April 2023 27.jpg",
         "alt": "Jigokudani, the volcanic Hell Valley that feeds Noboribetsu's hot springs"
       },
-      "text": "One of Japan's most famous hot spring towns, its 'Hell Valley' volcanic source feeding genuinely varied, mineral-rich baths.",
-      "tip": "Try more than one bathhouse if staying overnight — Noboribetsu's various springs genuinely differ in mineral content and effect."
+      "text": "One of Japan's most famous hot spring towns, its 'Hell Valley' volcanic source feeding varied, mineral-rich baths.",
+      "tip": "Try more than one bathhouse if staying overnight — Noboribetsu's various springs differ in mineral content and effect."
     },
     {
       "title": "Eat fresh seafood at Sapporo's Nijo Market",
@@ -140,8 +140,8 @@
         "file": "File:Nijo fish Market 2014.jpg",
         "alt": "Fresh seafood stalls at Sapporo's Nijo Market"
       },
-      "text": "A compact market of stalls and restaurants serving genuinely excellent fresh crab, uni and seasonal seafood, much of it caught locally.",
-      "tip": "Breakfast-hour crab and rice bowls at the market's small counters are a genuinely excellent, unpretentious way to start the day."
+      "text": "A compact market of stalls and restaurants serving excellent fresh crab, uni and seasonal seafood, much of it caught locally.",
+      "tip": "Breakfast-hour crab and rice bowls at the market's small counters are an excellent, unpretentious way to start the day."
     },
     {
       "title": "See Furano's lavender fields in bloom",
@@ -149,7 +149,7 @@
         "file": "File:Lavender, Furano (7662399108).jpg",
         "alt": "Lavender in full bloom near Furano"
       },
-      "text": "Peak bloom runs through July, transforming the region's hillsides into genuinely striking purple landscapes, a summer-only Hokkaido highlight.",
+      "text": "Peak bloom runs through July, transforming the region's hillsides into striking purple landscapes, a summer-only Hokkaido highlight.",
       "tip": "Weekday mornings offer noticeably thinner crowds than weekend afternoons at the region's most popular farms."
     },
     {
@@ -158,11 +158,11 @@
         "file": "File:Ussuri Brown Bear Hokkaido 2008.png",
         "alt": "An Ussuri brown bear, native to Hokkaido"
       },
-      "text": "Brown bears, Steller's sea eagles and, in winter, drift ice all make Shiretoko a genuinely serious wildlife destination by Japanese standards.",
-      "tip": "Winter drift-ice walking tours offer a genuinely unique way to experience the peninsula's frozen coastline directly."
+      "text": "Brown bears, Steller's sea eagles and, in winter, drift ice all make Shiretoko a serious wildlife destination by Japanese standards.",
+      "tip": "Winter drift-ice walking tours offer a unique way to experience the peninsula's frozen coastline directly."
     }
   ],
-  "foodIntro": "Hokkaido's food culture stands genuinely apart within Japan, built on the island's outsized dairy, seafood and produce output.",
+  "foodIntro": "Hokkaido's food culture stands apart within Japan, built on the island's outsized dairy, seafood and produce output.",
   "foods": [
     {
       "name": "Sapporo miso ramen",
@@ -170,7 +170,7 @@
         "file": "File:Miso ramen of Sapporo 01.jpg",
         "alt": "A bowl of Sapporo-style miso ramen"
       },
-      "text": "A rich miso-based broth, Sapporo's own defining ramen style and genuinely distinct from Tokyo's shoyu or Kyushu's tonkotsu versions.",
+      "text": "A rich miso-based broth, Sapporo's own defining ramen style and distinct from Tokyo's shoyu or Kyushu's tonkotsu versions.",
       "whereToTry": "Sapporo's Ramen Yokocho alley, a concentrated strip of dedicated ramen counters."
     },
     {
@@ -179,8 +179,8 @@
         "file": "File:三角市場, 小樽, 北海道, 日本, Otaru, Hokkaido, Japan, おたるし, ほっかいどう, にっぽん, にほん (47026024054).jpg",
         "alt": "Fresh crab on display at a Hokkaido seafood market"
       },
-      "text": "Hokkaido's cold northern waters produce genuinely exceptional king crab, snow crab and sea urchin, a defining regional luxury.",
-      "whereToTry": "Sapporo's Nijo Market or Hakodate's morning market, both serving genuinely fresh, locally caught seafood."
+      "text": "Hokkaido's cold northern waters produce exceptional king crab, snow crab and sea urchin, a defining regional luxury.",
+      "whereToTry": "Sapporo's Nijo Market or Hakodate's morning market, both serving fresh, locally caught seafood."
     },
     {
       "name": "Hokkaido dairy",
@@ -188,7 +188,7 @@
         "file": "File:Lavender soft serve at Farm Tomita.jpg",
         "alt": "Soft-serve ice cream made from Hokkaido dairy at Farm Tomita"
       },
-      "text": "The island produces a genuinely outsized share of Japan's milk, cheese and butter, with soft-serve ice cream a beloved local specialty.",
+      "text": "The island produces an outsized share of Japan's milk, cheese and butter, with soft-serve ice cream a beloved local specialty.",
       "whereToTry": "Farm shops and dedicated soft-serve stands throughout the Furano and Biei countryside."
     },
     {
@@ -206,7 +206,7 @@
         "file": "File:Sapporo Beer Museum.jpg",
         "alt": "The Sapporo Beer Museum building"
       },
-      "text": "Japan's oldest beer brand, brewed in the city since 1876, with a genuinely worthwhile museum and beer hall at its original brewery site.",
+      "text": "Japan's oldest beer brand, brewed in the city since 1876, with a worthwhile museum and beer hall at its original brewery site.",
       "whereToTry": "The Sapporo Beer Museum's beer hall, or any traditional izakaya across the city."
     },
     {
@@ -215,7 +215,7 @@
         "file": "File:コーン畑（Corn field） - panoramio.jpg",
         "alt": "A corn field in rural Hokkaido"
       },
-      "text": "The island's cool climate and rich volcanic soil produce genuinely exceptional sweetcorn and potatoes, a simple but beloved regional staple.",
+      "text": "The island's cool climate and rich volcanic soil produce exceptional sweetcorn and potatoes, a simple but beloved regional staple.",
       "whereToTry": "Roadside stalls throughout rural Hokkaido in late summer, selling corn grilled or boiled fresh."
     }
   ],
@@ -251,7 +251,7 @@
       {
         "mode": "New Chitose Airport (CTS)",
         "text": "A rapid train reaches central Sapporo in about 40 minutes, with both international and extensive domestic connections.",
-        "detail": "Budget carriers offer genuinely cheap domestic flights from Tokyo, often faster and cheaper than the shinkansen-plus-transfer alternative."
+        "detail": "Budget carriers offer cheap domestic flights from Tokyo, often faster and cheaper than the shinkansen-plus-transfer alternative."
       },
       {
         "mode": "Shinkansen from Tokyo",
@@ -260,13 +260,13 @@
       },
       {
         "mode": "Rental car",
-        "text": "Genuinely useful, often essential, for reaching Furano, Biei and Shiretoko at a flexible pace beyond Sapporo and Niseko.",
+        "text": "Useful, often essential, for reaching Furano, Biei and Shiretoko at a flexible pace beyond Sapporo and Niseko.",
         "detail": "Winter driving requires real caution and winter tyres — public transport or organised tours are safer for many visitors in snow season."
       }
     ]
   },
   "gettingAround": {
-    "intro": "Hokkaido's size makes a car or careful train and bus planning genuinely necessary beyond central Sapporo.",
+    "intro": "Hokkaido's size makes a car or careful train and bus planning necessary beyond central Sapporo.",
     "options": [
       {
         "mode": "JR trains",
@@ -276,7 +276,7 @@
       {
         "mode": "Rental car",
         "text": "The most flexible way to reach Furano's countryside, Biei's hills and Shiretoko's more remote corners.",
-        "detail": "Distances are genuinely larger than they appear on a map — build realistic driving time into any itinerary."
+        "detail": "Distances are larger than they appear on a map — build realistic driving time into any itinerary."
       },
       {
         "mode": "Sapporo subway and trams",
@@ -287,30 +287,30 @@
   },
   "bestTime": {
     "headline": "January–February for powder skiing, or July for lavender season",
-    "summary": "Hokkaido genuinely offers two distinct best times depending on the trip — deep winter for snow, midsummer for lavender and milder weather.",
+    "summary": "Hokkaido offers two distinct best times depending on the trip — deep winter for snow, midsummer for lavender and milder weather.",
     "seasons": [
       {
         "season": "Winter (December–February)",
         "rating": "best",
-        "text": "World-class powder snow in Niseko and beyond, plus February's spectacular Sapporo Snow Festival — genuinely the island's signature season."
+        "text": "World-class powder snow in Niseko and beyond, plus February's spectacular Sapporo Snow Festival — the island's signature season."
       },
       {
         "season": "Spring (March–May)",
         "rating": "shoulder",
-        "text": "A quieter transitional season as snow melts, with genuinely fewer crowds but less to specifically draw a visit."
+        "text": "A quieter transitional season as snow melts, with fewer crowds but less to specifically draw a visit."
       },
       {
         "season": "Summer (June–August)",
         "rating": "best",
-        "text": "Furano's lavender fields peak in July, alongside genuinely comfortable temperatures well below the mainland's summer humidity."
+        "text": "Furano's lavender fields peak in July, alongside comfortable temperatures well below the mainland's summer humidity."
       },
       {
         "season": "Autumn (September–November)",
         "rating": "good",
-        "text": "Comfortable temperatures and genuinely excellent foliage, particularly in Daisetsuzan National Park, Japan's earliest autumn colours."
+        "text": "Comfortable temperatures and excellent foliage, particularly in Daisetsuzan National Park, Japan's earliest autumn colours."
       }
     ],
-    "avoid": "Late autumn into early winter (November) without checking conditions, a genuinely unpredictable shoulder season between foliage and reliable snow."
+    "avoid": "Late autumn into early winter (November) without checking conditions, an unpredictable shoulder season between foliage and reliable snow."
   },
   "itinerary": {
     "title": "Five days in Hokkaido",
@@ -363,10 +363,10 @@
     "Book Niseko ski season and Sapporo Snow Festival accommodation many months ahead — both sell out extremely early.",
     "Consider flying rather than taking the train from Tokyo — it's often faster and cheaper to reach Sapporo directly.",
     "Rent a car for Furano, Biei and Shiretoko if visiting outside peak winter, when public transport thins out considerably.",
-    "Try the fresh crab and seafood at a morning market rather than a tourist restaurant for genuinely better value and quality.",
-    "Pack for real seasonal extremes — Hokkaido's winters are genuinely cold and its summers genuinely mild compared with the mainland.",
+    "Try the fresh crab and seafood at a morning market rather than a tourist restaurant for better value and quality.",
+    "Pack for real seasonal extremes — Hokkaido's winters are cold and its summers mild compared with the mainland.",
     "Book Shiretoko wildlife boat tours ahead in peak season, when the most reputable operators fill up.",
-    "Allow extra driving time in rural Hokkaido — distances are genuinely larger than mainland Japan trips typically involve."
+    "Allow extra driving time in rural Hokkaido — distances are larger than mainland Japan trips typically involve."
   ],
   "faq": [
     {
@@ -375,15 +375,15 @@
     },
     {
       "q": "Is Hokkaido worth visiting outside ski season?",
-      "a": "Yes, genuinely — Furano's lavender fields, Shiretoko's wildlife and the island's food culture all stand entirely on their own in summer, a completely different trip from winter skiing."
+      "a": "Yes — Furano's lavender fields, Shiretoko's wildlife and the island's food culture all stand entirely on their own in summer, a completely different trip from winter skiing."
     },
     {
       "q": "Do I need a car in Hokkaido?",
-      "a": "Not for Sapporo and Niseko, both well served by train and bus, but a car becomes genuinely useful, sometimes essential, for Furano, Biei and Shiretoko's more remote corners."
+      "a": "Not for Sapporo and Niseko, both well served by train and bus, but a car becomes useful, sometimes essential, for Furano, Biei and Shiretoko's more remote corners."
     },
     {
       "q": "What is the best time of year to visit?",
-      "a": "January and February for world-class powder skiing, or July for Furano's lavender fields and comfortable summer temperatures — the island genuinely offers two distinct best seasons depending on the trip."
+      "a": "January and February for world-class powder skiing, or July for Furano's lavender fields and comfortable summer temperatures — the island offers two distinct best seasons depending on the trip."
     },
     {
       "q": "Is Hokkaido easy to combine with the rest of a Japan trip?",

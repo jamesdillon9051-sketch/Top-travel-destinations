@@ -19,36 +19,36 @@
     "alt": "Dynjandi, a tiered waterfall cascading down a mountainside in the Westfjords"
   },
   "intro": [
-    "The Westfjords are genuinely Iceland's least-visited major region, a mountainous arm of fjords in the far northwest that most Ring Road itineraries skip entirely — which is exactly why the travellers who do make the detour tend to talk about it as their favourite part of the country.",
-    "The scenery here is genuinely on the same scale as the rest of Iceland — towering bird cliffs, a tiered waterfall that rivals anything on the south coast, a red sand beach — but with a fraction of the traffic, since reaching it means either a long, winding fjord drive or a short domestic flight.",
-    "It's genuinely not a place to rush: distances between sights look short on a map but take far longer on narrow, curving fjord roads, so most visitors give the Westfjords three or four unhurried days rather than a single loop."
+    "The Westfjords are Iceland's least-visited major region, a mountainous arm of fjords in the far northwest that most Ring Road itineraries skip entirely — which is exactly why the travellers who do make the detour tend to talk about it as their favourite part of the country.",
+    "The scenery here is on the same scale as the rest of Iceland — towering bird cliffs, a tiered waterfall that rivals anything on the south coast, a red sand beach — but with a fraction of the traffic, since reaching it means either a long, winding fjord drive or a short domestic flight.",
+    "It's not a place to rush: distances between sights look short on a map but take far longer on narrow, curving fjord roads, so most visitors give the Westfjords three or four unhurried days rather than a single loop."
   ],
   "whyVisit": {
     "intro": "The Westfjords' case rests on genuine remoteness and scenery that rivals anywhere else in Iceland.",
     "points": [
       {
-        "title": "Látrabjarg is genuinely one of Europe's great bird cliffs",
+        "title": "Látrabjarg is one of Europe's great bird cliffs",
         "text": "Iceland's westernmost point, home to hundreds of thousands of nesting puffins and other seabirds in summer."
       },
       {
-        "title": "Dynjandi genuinely rivals the south coast's famous waterfalls",
+        "title": "Dynjandi rivals the south coast's famous waterfalls",
         "text": "A dramatic tiered cascade widening as it drops, with almost none of Skógafoss's crowds."
       },
       {
-        "title": "It's genuinely Iceland's least-visited major region",
+        "title": "It's Iceland's least-visited major region",
         "text": "The same dramatic fjord and mountain scenery as elsewhere, without the tour buses."
       },
       {
-        "title": "Rauðasandur is a genuinely unique red-golden sand beach",
+        "title": "Rauðasandur is a unique red-golden sand beach",
         "text": "A striking colour shift from Iceland's usual black sand, backed by dramatic mountains."
       },
       {
-        "title": "Ísafjörður is genuinely a proper, characterful small town",
+        "title": "Ísafjörður is a proper, characterful small town",
         "text": "Colourful old wooden buildings and real local life at the head of a dramatic fjord."
       }
     ]
   },
-  "attractionsIntro": "The Westfjords' sights are genuinely spread far apart, so most visitors pick a loop rather than trying to cover everything.",
+  "attractionsIntro": "The Westfjords' sights are spread far apart, so most visitors pick a loop rather than trying to cover everything.",
   "attractions": [
     {
       "name": "Dynjandi",
@@ -56,8 +56,8 @@
         "file": "File:Cascada Dynjandi, Vestfirðir, Islandia, 2014-08-14, DD 133-135 HDR.JPG",
         "alt": "Dynjandi's tiered waterfall widening as it cascades down the mountainside"
       },
-      "text": "Genuinely the Westfjords' signature sight, a series of cascades widening as they drop nearly 100 metres, often called the region's Gullfoss.",
-      "tip": "The genuinely short but steep trail to the top tier is well worth the climb for the view back down."
+      "text": "The Westfjords' signature sight, a series of cascades widening as they drop nearly 100 metres, often called the region's Gullfoss.",
+      "tip": "The short but steep trail to the top tier is well worth the climb for the view back down."
     },
     {
       "name": "Látrabjarg Bird Cliffs",
@@ -66,7 +66,7 @@
         "alt": "A puffin standing on the grassy edge of the Látrabjarg cliffs"
       },
       "text": "Iceland's genuine westernmost point and one of Europe's largest bird cliffs, home to huge numbers of nesting puffins from May to August.",
-      "tip": "Approach the genuinely unfenced cliff edge slowly and stay well back — puffins are surprisingly unbothered by quiet visitors."
+      "tip": "Approach the unfenced cliff edge slowly and stay well back — puffins are surprisingly unbothered by quiet visitors."
     },
     {
       "name": "Rauðasandur",
@@ -74,8 +74,8 @@
         "file": "File:Rauðasandur, longest beach in WestFjords - panoramio.jpg",
         "alt": "The red-golden sands of Rauðasandur beach in the Westfjords"
       },
-      "text": "A genuinely striking red-golden sand beach, the longest in the Westfjords, in sharp contrast to Iceland's usual black sand coastline.",
-      "tip": "The colour genuinely shifts with the light and tide — late afternoon light is especially good."
+      "text": "A striking red-golden sand beach, the longest in the Westfjords, in sharp contrast to Iceland's usual black sand coastline.",
+      "tip": "The colour shifts with the light and tide — late afternoon light is especially good."
     },
     {
       "name": "Ísafjörður",
@@ -84,7 +84,7 @@
         "alt": "The town of Ísafjörður at the head of its fjord"
       },
       "text": "The Westfjords' genuine capital, a charming, colourful old fishing town squeezed onto a sandy spit at the head of a dramatic fjord.",
-      "tip": "The genuinely well-preserved old harbour district has some of the town's oldest wooden buildings."
+      "tip": "The well-preserved old harbour district has some of the town's oldest wooden buildings."
     },
     {
       "name": "Hornstrandir Nature Reserve",
@@ -92,8 +92,8 @@
         "file": "File:Hornstrandir Fox.jpg",
         "alt": "An Arctic fox in the remote Hornstrandir Nature Reserve"
       },
-      "text": "A genuinely roadless wilderness reachable only by boat or on foot, home to Iceland's healthiest population of curious, unafraid Arctic foxes.",
-      "tip": "Multi-day hikers genuinely need to be fully self-sufficient — there are no shops or roads inside the reserve."
+      "text": "A roadless wilderness reachable only by boat or on foot, home to Iceland's healthiest population of curious, unafraid Arctic foxes.",
+      "tip": "Multi-day hikers need to be fully self-sufficient — there are no shops or roads inside the reserve."
     },
     {
       "name": "Vigur Island",
@@ -101,8 +101,8 @@
         "file": "File:Island Vigur.jpg",
         "alt": "Vigur Island in Ísafjarðardjúp fjord, home to a working farm and seabird colonies"
       },
-      "text": "A genuinely tiny, car-free farming island in Ísafjarðardjúp fjord, home to Iceland's last working windmill and dense seabird colonies.",
-      "tip": "Guided boat tours genuinely include a walk around the whole island and its farm."
+      "text": "A tiny, car-free farming island in Ísafjarðardjúp fjord, home to Iceland's last working windmill and dense seabird colonies.",
+      "tip": "Guided boat tours include a walk around the whole island and its farm."
     },
     {
       "name": "Hólmavík",
@@ -110,11 +110,11 @@
         "file": "File:Hólmavík - Museo della stregoneria.jpg",
         "alt": "The Museum of Icelandic Sorcery and Witchcraft in Hólmavík"
       },
-      "text": "A genuinely small fishing town home to the Museum of Icelandic Sorcery and Witchcraft, telling the region's dark 17th-century witch-trial history.",
-      "tip": "The genuinely infamous necropants exhibit is stranger than any description does justice to."
+      "text": "A small fishing town home to the Museum of Icelandic Sorcery and Witchcraft, telling the region's dark 17th-century witch-trial history.",
+      "tip": "The infamous necropants exhibit is stranger than any description does justice to."
     }
   ],
-  "thingsToDoIntro": "The Westfjords genuinely reward slow travel — long drives between a handful of unhurried, uncrowded stops.",
+  "thingsToDoIntro": "The Westfjords reward slow travel — long drives between a handful of unhurried, uncrowded stops.",
   "thingsToDo": [
     {
       "title": "Hike into Hornstrandir",
@@ -122,8 +122,8 @@
         "file": "File:Hornstrandir Nature Reserve Iceland June 2013 (83892485).jpeg",
         "alt": "A remote hiking trail through the Hornstrandir Nature Reserve"
       },
-      "text": "A genuinely serious multi-day wilderness hike, or a shorter guided day trip by boat for a taste of Iceland's remotest terrain.",
-      "tip": "Book a genuinely reliable boat transfer in advance — services are limited and weather-dependent."
+      "text": "A serious multi-day wilderness hike, or a shorter guided day trip by boat for a taste of Iceland's remotest terrain.",
+      "tip": "Book a reliable boat transfer in advance — services are limited and weather-dependent."
     },
     {
       "title": "Spot puffins at Látrabjarg",
@@ -131,8 +131,8 @@
         "file": "File:Puffin at Látrabjarg 5.JPG",
         "alt": "A puffin at the Látrabjarg bird cliffs"
       },
-      "text": "Genuinely one of the best, easiest puffin-watching spots in Iceland, with birds often just metres from the cliff-top path in summer.",
-      "tip": "Visit genuinely in June or July for the highest concentration of nesting birds."
+      "text": "One of the best, easiest puffin-watching spots in Iceland, with birds often just metres from the cliff-top path in summer.",
+      "tip": "Visit in June or July for the highest concentration of nesting birds."
     },
     {
       "title": "Photograph Dynjandi's tiers",
@@ -140,8 +140,8 @@
         "file": "File:Cascada Dynjandi, Vestfirðir, Islandia, 2014-08-14, DD 142-144 HDR.JPG",
         "alt": "The cascading tiers of Dynjandi waterfall"
       },
-      "text": "A genuinely photogenic climb past several smaller falls before reaching the main cascade at the top.",
-      "tip": "Midday light genuinely works well here, unlike many waterfalls that favour early or late light."
+      "text": "A photogenic climb past several smaller falls before reaching the main cascade at the top.",
+      "tip": "Midday light works well here, unlike many waterfalls that favour early or late light."
     },
     {
       "title": "Take the boat to Vigur Island",
@@ -149,8 +149,8 @@
         "file": "File:Vigur Island - panoramio.jpg",
         "alt": "A boat approaching Vigur Island"
       },
-      "text": "A genuinely relaxed half-day trip from Ísafjörður, mixing farm life, seabird colonies and Iceland's last standing windmill.",
-      "tip": "Tours genuinely run only in summer and need booking ahead."
+      "text": "A relaxed half-day trip from Ísafjörður, mixing farm life, seabird colonies and Iceland's last standing windmill.",
+      "tip": "Tours run only in summer and need booking ahead."
     },
     {
       "title": "Learn Iceland's witchcraft history in Hólmavík",
@@ -158,8 +158,8 @@
         "file": "File:Strandagaldur sign.jpg",
         "alt": "The sign for the Museum of Icelandic Sorcery and Witchcraft in Hólmavík"
       },
-      "text": "A genuinely fascinating, slightly macabre look at 17th-century Icelandic witch trials and folk magic, including infamous necropants.",
-      "tip": "Allow genuinely about an hour, and read the English translations for the full context."
+      "text": "A fascinating, slightly macabre look at 17th-century Icelandic witch trials and folk magic, including infamous necropants.",
+      "tip": "Allow about an hour, and read the English translations for the full context."
     },
     {
       "title": "Wander Ísafjörður's old harbour",
@@ -167,11 +167,11 @@
         "file": "File:Ísafjörður Hafnarstræti.jpg",
         "alt": "Colourful old wooden buildings along Ísafjörður's Hafnarstræti"
       },
-      "text": "A genuinely relaxed wander among some of Iceland's oldest wooden buildings, with good cafés and a lively small-town feel.",
-      "tip": "The genuinely small maritime museum here gives useful context on the region's fishing history."
+      "text": "A relaxed wander among some of Iceland's oldest wooden buildings, with good cafés and a lively small-town feel.",
+      "tip": "The small maritime museum here gives useful context on the region's fishing history."
     }
   ],
-  "foodIntro": "The Westfjords are genuinely one of Iceland's great fishing regions, and the seafood here reflects it.",
+  "foodIntro": "The Westfjords are one of Iceland's great fishing regions, and the seafood here reflects it.",
   "foods": [
     {
       "name": "Fresh Icelandic seafood",
@@ -179,7 +179,7 @@
         "file": "File:Plokkfiskur.jpg",
         "alt": "A bowl of plokkfiskur fish stew"
       },
-      "text": "Genuinely as fresh as it gets — the Westfjords remain one of Iceland's most important fishing regions.",
+      "text": "As fresh as it gets — the Westfjords remain one of Iceland's most important fishing regions.",
       "whereToTry": "Harbourside restaurants in Ísafjörður."
     },
     {
@@ -188,7 +188,7 @@
         "file": "File:Harðfiskur.jpg",
         "alt": "Harðfiskur, traditional Icelandic dried fish"
       },
-      "text": "A genuinely defining regional product — the Westfjords' cold, windy climate is ideal for traditional fish drying.",
+      "text": "A defining regional product — the Westfjords' cold, windy climate is ideal for traditional fish drying.",
       "whereToTry": "Fish shops and markets in Ísafjörður and Bíldudalur."
     },
     {
@@ -197,7 +197,7 @@
         "file": "File:Rack-of-lambs.jpg",
         "alt": "A roast lamb dish"
       },
-      "text": "Genuinely common at guesthouses across the region, often raised on the same fjordside slopes you've been driving past.",
+      "text": "Common at guesthouses across the region, often raised on the same fjordside slopes you've been driving past.",
       "whereToTry": "Guesthouses and restaurants in Ísafjörður."
     },
     {
@@ -206,7 +206,7 @@
         "file": "File:Skyr & Blackberries 20250816 143415.jpg",
         "alt": "A bowl of skyr topped with berries"
       },
-      "text": "A genuinely reliable breakfast option at guesthouses throughout the Westfjords.",
+      "text": "A reliable breakfast option at guesthouses throughout the Westfjords.",
       "whereToTry": "Guesthouses and the few supermarkets in Ísafjörður."
     },
     {
@@ -215,7 +215,7 @@
         "file": "File:Jonge vrouw stopt een blikken bus met deeg in de hete grond om brood te bakken, Bestanddeelnr 190-0313.jpg",
         "alt": "A loaf of traditional Icelandic rye bread"
       },
-      "text": "A genuinely dense, traditional dark rye bread, often served alongside dried or smoked fish.",
+      "text": "A dense, traditional dark rye bread, often served alongside dried or smoked fish.",
       "whereToTry": "Cafés and guesthouses in Ísafjörður."
     },
     {
@@ -224,12 +224,12 @@
         "file": "File:Iceland Schnapps! (3083475243).jpg",
         "alt": "A bottle of Brennivín, Iceland's signature schnapps"
       },
-      "text": "Iceland's genuinely famous caraway schnapps, a fitting way to end a long day of fjord driving in Ísafjörður.",
+      "text": "Iceland's famous caraway schnapps, a fitting way to end a long day of fjord driving in Ísafjörður.",
       "whereToTry": "Bars and restaurants in Ísafjörður."
     }
   ],
   "accommodation": {
-    "intro": "Most visitors genuinely base themselves in Ísafjörður, with a guesthouse night further south near Látrabjarg.",
+    "intro": "Most visitors base themselves in Ísafjörður, with a guesthouse night further south near Látrabjarg.",
     "areas": [
       {
         "name": "Ísafjörður",
@@ -238,7 +238,7 @@
       },
       {
         "name": "Patreksfjörður area",
-        "bestFor": "Being genuinely close to Látrabjarg and Rauðasandur",
+        "bestFor": "Being close to Látrabjarg and Rauðasandur",
         "text": "Small guesthouses put you within easy reach of the region's southwestern sights."
       }
     ],
@@ -250,71 +250,71 @@
     ]
   },
   "gettingThere": {
-    "intro": "The Westfjords are genuinely reached either by a long fjord-road drive or a short domestic flight to Ísafjörður.",
+    "intro": "The Westfjords are reached either by a long fjord-road drive or a short domestic flight to Ísafjörður.",
     "options": [
       {
         "mode": "Domestic flight to Ísafjörður",
-        "text": "A genuinely quick 40-minute hop from Reykjavik, the fastest way in and out.",
+        "text": "A quick 40-minute hop from Reykjavik, the fastest way in and out.",
         "detail": "Flights run several times a week, weather permitting."
       },
       {
         "mode": "Self-drive from Reykjavik",
-        "text": "About genuinely 5-7 hours, mostly on narrow, winding fjord roads.",
+        "text": "About 5-7 hours, mostly on narrow, winding fjord roads.",
         "detail": "Route 60 is the main road into and through the region."
       },
       {
         "mode": "Ferry from Snæfellsnes",
-        "text": "The genuinely scenic Baldur ferry links Snæfellsnes to the southern Westfjords, cutting out some driving.",
+        "text": "The scenic Baldur ferry links Snæfellsnes to the southern Westfjords, cutting out some driving.",
         "detail": "Runs year-round, though less frequently in winter."
       }
     ]
   },
   "gettingAround": {
-    "intro": "The Westfjords genuinely demand a car — public transport barely reaches this far.",
+    "intro": "The Westfjords demand a car — public transport barely reaches this far.",
     "options": [
       {
         "mode": "Rental car (4x4 recommended)",
-        "text": "Genuinely essential — distances are long and some roads are gravel, especially in the south.",
+        "text": "Essential — distances are long and some roads are gravel, especially in the south.",
         "detail": "Route 60 and its side roads connect all the main sights."
       },
       {
         "mode": "Guided day tours from Ísafjörður",
-        "text": "Genuinely cover Vigur Island and some nearby sights for visitors without a car.",
+        "text": "Cover Vigur Island and some nearby sights for visitors without a car.",
         "detail": "Options are more limited than elsewhere in Iceland — book ahead."
       },
       {
         "mode": "Boat to Hornstrandir",
-        "text": "The genuinely only way into the roadless nature reserve.",
+        "text": "The only way into the roadless nature reserve.",
         "detail": "Boats run from Ísafjörður in summer only."
       }
     ]
   },
   "bestTime": {
     "headline": "Summer — many roads close outside it",
-    "summary": "The Westfjords are genuinely a summer destination for most visitors, since several key roads and the Hornstrandir boats only run from June to August.",
+    "summary": "The Westfjords are a summer destination for most visitors, since several key roads and the Hornstrandir boats only run from June to August.",
     "seasons": [
       {
         "season": "Summer (June–August)",
         "rating": "best",
-        "text": "Genuinely all roads open, puffins nesting at Látrabjarg, and Hornstrandir accessible by boat."
+        "text": "All roads open, puffins nesting at Látrabjarg, and Hornstrandir accessible by boat."
       },
       {
         "season": "Early autumn (September)",
         "rating": "good",
-        "text": "Genuinely still accessible with fewer visitors, though some services start winding down."
+        "text": "Still accessible with fewer visitors, though some services start winding down."
       },
       {
         "season": "Winter (November–March)",
         "rating": "poor",
-        "text": "Genuinely challenging — many roads close, and daylight is very short this far north."
+        "text": "Challenging — many roads close, and daylight is very short this far north."
       },
       {
         "season": "Late spring (May)",
         "rating": "good",
-        "text": "Genuinely quiet, with roads reopening but before the puffins fully arrive."
+        "text": "Quiet, with roads reopening but before the puffins fully arrive."
       }
     ],
-    "avoid": "Avoid genuinely relying on a self-drive winter visit — several key mountain roads close for the season."
+    "avoid": "Avoid relying on a self-drive winter visit — several key mountain roads close for the season."
   },
   "itinerary": {
     "title": "Three days in the Westfjords",
@@ -348,37 +348,37 @@
   },
   "tipsIntro": "The Westfjords reward extra planning — services and roads here are far sparser than elsewhere in Iceland.",
   "tips": [
-    "Book a genuinely reliable rental car with good gravel-road experience.",
-    "Fill up on genuinely fuel whenever you pass a station — they're far apart here.",
-    "Check road.is genuinely before setting out, even in summer.",
-    "Book Vigur Island and Hornstrandir boats genuinely well ahead — capacity is limited.",
-    "Allow genuinely more driving time than the map suggests — fjord roads are slow and winding.",
-    "Bring genuinely more cash and supplies than you think you'll need — shops are sparse."
+    "Book a reliable rental car with good gravel-road experience.",
+    "Fill up on fuel whenever you pass a station — they're far apart here.",
+    "Check road.is before setting out, even in summer.",
+    "Book Vigur Island and Hornstrandir boats well ahead — capacity is limited.",
+    "Allow more driving time than the map suggests — fjord roads are slow and winding.",
+    "Bring more cash and supplies than you think you'll need — shops are sparse."
   ],
   "faq": [
     {
       "q": "Are the Westfjords worth visiting?",
-      "a": "Yes, genuinely, for travellers with the extra time — it's Iceland's least-crowded major region, with scenery to match anywhere else in the country."
+      "a": "Yes, for travellers with the extra time — it's Iceland's least-crowded major region, with scenery to match anywhere else in the country."
     },
     {
       "q": "How do you get to the Westfjords?",
-      "a": "Either a genuinely long fjord-road drive from Reykjavik, a short domestic flight to Ísafjörður, or the Baldur ferry from Snæfellsnes."
+      "a": "Either a long fjord-road drive from Reykjavik, a short domestic flight to Ísafjörður, or the Baldur ferry from Snæfellsnes."
     },
     {
       "q": "Is Látrabjarg the best place to see puffins in Iceland?",
-      "a": "Yes, genuinely widely considered so — its cliff-top paths bring you remarkably close to huge nesting colonies in summer."
+      "a": "Yes, widely considered so — its cliff-top paths bring you remarkably close to huge nesting colonies in summer."
     },
     {
       "q": "Do you need a 4x4 in the Westfjords?",
-      "a": "Not always, but it's genuinely recommended — several roads are gravel and conditions change quickly."
+      "a": "Not always, but it's recommended — several roads are gravel and conditions change quickly."
     },
     {
       "q": "How many days do you need in the Westfjords?",
-      "a": "Three to four days genuinely lets you cover the main sights without rushing the long fjord drives."
+      "a": "Three to four days lets you cover the main sights without rushing the long fjord drives."
     },
     {
       "q": "When do the Westfjords' key roads close?",
-      "a": "Several mountain passes genuinely close from around October to May, making summer the most reliable season to visit."
+      "a": "Several mountain passes close from around October to May, making summer the most reliable season to visit."
     }
   ],
   "related": ["snaefellsnes", "lake-myvatn-north-iceland", "reykjavik"],

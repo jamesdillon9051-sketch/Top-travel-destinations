@@ -89,7 +89,7 @@ export function renderAbout({ site }) {
   });
 }
 
-/** /privacy-policy/ — deliberately short, because the site genuinely collects almost nothing. */
+/** /privacy-policy/ — deliberately short, because the site collects almost nothing. */
 export function renderPrivacyPolicy({ site }) {
   const updated = 'September 2026';
 
@@ -117,7 +117,7 @@ export function renderPrivacyPolicy({ site }) {
         `This site runs no analytics or advertising of its own, and sets no cookies of its own.
          Every stylesheet, script, font and image the site itself needs is served from this same
          domain — the analytics and advertising described in the next two sections are both
-         genuinely separate, third-party things rather than something this site's own code does.`
+         separate, third-party things rather than something this site's own code does.`
       ])
     })}
 

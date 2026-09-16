@@ -19,36 +19,36 @@
     "alt": "The Besseggen ridge above Lake Gjende in Jotunheimen"
   },
   "intro": [
-    "Jotunheimen, literally 'home of the giants,' genuinely holds all of Norway's peaks over 2,300 metres, including Galdhøpiggen, the country's highest point, and a landscape of real high-alpine terrain rare this far north in Europe.",
-    "It's also genuinely home to the Besseggen ridge, widely considered Norway's most famous single-day hike — a narrow ridge walk with two differently coloured lakes visible on either side, popular enough that it can draw real crowds in peak summer.",
-    "Beyond Besseggen, Jotunheimen genuinely rewards those with more time: a network of staffed DNT mountain huts links multi-day routes across the range, and Sognefjellet, Northern Europe's highest mountain pass road, gives access to genuinely dramatic scenery without technical climbing."
+    "Jotunheimen, literally 'home of the giants,' holds all of Norway's peaks over 2,300 metres, including Galdhøpiggen, the country's highest point, and a landscape of real high-alpine terrain rare this far north in Europe.",
+    "It's also home to the Besseggen ridge, widely considered Norway's most famous single-day hike — a narrow ridge walk with two differently coloured lakes visible on either side, popular enough that it can draw real crowds in peak summer.",
+    "Beyond Besseggen, Jotunheimen rewards those with more time: a network of staffed DNT mountain huts links multi-day routes across the range, and Sognefjellet, Northern Europe's highest mountain pass road, gives access to dramatic scenery without technical climbing."
   ],
   "whyVisit": {
-    "intro": "Jotunheimen's case rests on genuinely serious mountain scenery and hiking, rare at this latitude in Europe.",
+    "intro": "Jotunheimen's case rests on serious mountain scenery and hiking, rare at this latitude in Europe.",
     "points": [
       {
-        "title": "Besseggen is genuinely Norway's most famous hike",
-        "text": "A narrow ridge with two differently coloured lakes on either side, a genuinely unforgettable full-day walk."
+        "title": "Besseggen is Norway's most famous hike",
+        "text": "A narrow ridge with two differently coloured lakes on either side, an unforgettable full-day walk."
       },
       {
-        "title": "It's genuinely home to Norway's highest peaks",
-        "text": "Galdhøpiggen and Glittertind both exceed 2,400 metres, genuinely serious mountains by any European standard."
+        "title": "It's home to Norway's highest peaks",
+        "text": "Galdhøpiggen and Glittertind both exceed 2,400 metres, serious mountains by any European standard."
       },
       {
-        "title": "The DNT hut network is genuinely excellent",
+        "title": "The DNT hut network is excellent",
         "text": "Staffed mountain huts link multi-day routes across the range, hot meals and a bed included."
       },
       {
-        "title": "Sognefjellet is genuinely Northern Europe's highest mountain road",
+        "title": "Sognefjellet is Northern Europe's highest mountain road",
         "text": "Dramatic high-alpine scenery accessible by car, no technical hiking required."
       },
       {
-        "title": "It's genuinely less crowded than the fjord regions",
+        "title": "It's less crowded than the fjord regions",
         "text": "Distance from the coast keeps visitor numbers noticeably lower than Geirangerfjord or Bergen."
       }
     ]
   },
-  "attractionsIntro": "Jotunheimen's essential sights genuinely span its highest peaks, its most famous ridge walk, and the road connecting them.",
+  "attractionsIntro": "Jotunheimen's essential sights span its highest peaks, its most famous ridge walk, and the road connecting them.",
   "attractions": [
     {
       "name": "Besseggen Ridge",
@@ -56,8 +56,8 @@
         "file": "File:Besseggen above Gjende.jpg",
         "alt": "The narrow Besseggen ridge with Lake Gjende below"
       },
-      "text": "Genuinely Norway's most famous day hike, a narrow ridge with turquoise Lake Gjende on one side and deep blue Lake Bessvatnet on the other.",
-      "tip": "Take genuinely the boat across Lake Gjende to start the hike from Memurubu, making the route one-way and downhill-heavy."
+      "text": "Norway's most famous day hike, a narrow ridge with turquoise Lake Gjende on one side and deep blue Lake Bessvatnet on the other.",
+      "tip": "Take the boat across Lake Gjende to start the hike from Memurubu, making the route one-way and downhill-heavy."
     },
     {
       "name": "Galdhøpiggen",
@@ -65,8 +65,8 @@
         "file": "File:Galdhøpiggen summit - panoramio.jpg",
         "alt": "The summit of Galdhøpiggen, Norway's highest mountain"
       },
-      "text": "Genuinely Norway's highest peak at 2,469 metres, reachable by a demanding but non-technical hike in summer, including a glacier crossing.",
-      "tip": "The genuinely glacier crossing near the summit requires a guide — never attempt it independently."
+      "text": "Norway's highest peak at 2,469 metres, reachable by a demanding but non-technical hike in summer, including a glacier crossing.",
+      "tip": "The glacier crossing near the summit requires a guide — never attempt it independently."
     },
     {
       "name": "Storebjørn",
@@ -74,8 +74,8 @@
         "file": "File:Storebjørn mountain in Jotunheimen Nasjonal Park.jpg",
         "alt": "Storebjørn mountain in Jotunheimen National Park"
       },
-      "text": "Genuinely one of Jotunheimen's striking peaks, its name meaning 'big bear,' visible across much of the central park.",
-      "tip": "Several genuinely trailheads offer good views of Storebjørn without requiring a summit attempt."
+      "text": "One of Jotunheimen's striking peaks, its name meaning 'big bear,' visible across much of the central park.",
+      "tip": "Several trailheads offer good views of Storebjørn without requiring a summit attempt."
     },
     {
       "name": "Sognefjellet Road",
@@ -83,8 +83,8 @@
         "file": "File:Fv55 road at Sognefjellet, 2013 June.jpg",
         "alt": "The Sognefjellet mountain road crossing Jotunheimen's high peaks"
       },
-      "text": "Genuinely Northern Europe's highest mountain pass road, crossing dramatic high-alpine terrain between Jotunheimen and the Sognefjord region.",
-      "tip": "The genuinely road is open only from around May to October — check current status before planning a crossing."
+      "text": "Northern Europe's highest mountain pass road, crossing dramatic high-alpine terrain between Jotunheimen and the Sognefjord region.",
+      "tip": "The road is open only from around May to October — check current status before planning a crossing."
     },
     {
       "name": "Spiterstulen",
@@ -92,8 +92,8 @@
         "file": "File:Spiterstulen mountain lodge in Autumn.jpg",
         "alt": "Spiterstulen mountain lodge in Jotunheimen"
       },
-      "text": "A genuinely popular mountain lodge and trailhead, the most common starting point for Galdhøpiggen ascents.",
-      "tip": "Book genuinely accommodation here well ahead in peak summer — it's a busy trailhead hub."
+      "text": "A popular mountain lodge and trailhead, the most common starting point for Galdhøpiggen ascents.",
+      "tip": "Book accommodation here well ahead in peak summer — it's a busy trailhead hub."
     },
     {
       "name": "Valdresflya",
@@ -101,8 +101,8 @@
         "file": "File:Valdresflya (Jotunheimen).jpg",
         "alt": "The high mountain plateau of Valdresflya in Jotunheimen"
       },
-      "text": "A genuinely vast, open high mountain plateau, crossed by a scenic road with sweeping views and a real chance of wild reindeer sightings.",
-      "tip": "The genuinely plateau's open scale is best appreciated by stopping at one of several roadside viewpoints."
+      "text": "A vast, open high mountain plateau, crossed by a scenic road with sweeping views and a real chance of wild reindeer sightings.",
+      "tip": "The plateau's open scale is best appreciated by stopping at one of several roadside viewpoints."
     },
     {
       "name": "Loftet",
@@ -110,11 +110,11 @@
         "file": "File:Loftet mountain in Jotunheimen National Park.jpg",
         "alt": "Loftet, a peak in Jotunheimen National Park"
       },
-      "text": "Genuinely one of the range's many striking, less-visited peaks, offering a quieter alternative to the busier Besseggen trail.",
-      "tip": "Genuinely quieter trails like this reward hikers willing to research beyond the single most famous route."
+      "text": "One of the range's many striking, less-visited peaks, offering a quieter alternative to the busier Besseggen trail.",
+      "tip": "Quieter trails like this reward hikers willing to research beyond the single most famous route."
     }
   ],
-  "thingsToDoIntro": "Jotunheimen genuinely rewards serious hiking, whether a single iconic day route or a multi-day hut-to-hut trek.",
+  "thingsToDoIntro": "Jotunheimen rewards serious hiking, whether a single iconic day route or a multi-day hut-to-hut trek.",
   "thingsToDo": [
     {
       "title": "Hike the Besseggen Ridge",
@@ -122,8 +122,8 @@
         "file": "File:Besseggen1.jpg",
         "alt": "Hikers on the narrow Besseggen ridge trail"
       },
-      "text": "Genuinely the essential Jotunheimen experience, a demanding but non-technical full-day hike with unforgettable views throughout.",
-      "tip": "Allow genuinely 6-8 hours and start early — the trail can get crowded by midday in peak summer."
+      "text": "The essential Jotunheimen experience, a demanding but non-technical full-day hike with unforgettable views throughout.",
+      "tip": "Allow 6-8 hours and start early — the trail can get crowded by midday in peak summer."
     },
     {
       "title": "Summit Galdhøpiggen",
@@ -131,8 +131,8 @@
         "file": "File:Galdhøpiggen Close-up.JPG",
         "alt": "Hikers approaching the summit of Galdhøpiggen"
       },
-      "text": "A genuinely serious full-day undertaking to stand on Norway's highest point, including a guided glacier crossing.",
-      "tip": "Book genuinely a certified glacier guide through Spiterstulen or Juvasshytta — never cross independently."
+      "text": "A serious full-day undertaking to stand on Norway's highest point, including a guided glacier crossing.",
+      "tip": "Book a certified glacier guide through Spiterstulen or Juvasshytta — never cross independently."
     },
     {
       "title": "Drive Sognefjellet's high mountain pass",
@@ -140,13 +140,13 @@
         "file": "File:Tindevegen-Turtagrø juli2010.JPG",
         "alt": "The Sognefjellet mountain road through Jotunheimen"
       },
-      "text": "A genuinely spectacular way to see Jotunheimen's high peaks without hiking, crossing Northern Europe's highest road pass.",
-      "tip": "Several genuinely viewpoints along the road make worthwhile stops even on a through-drive."
+      "text": "A spectacular way to see Jotunheimen's high peaks without hiking, crossing Northern Europe's highest road pass.",
+      "tip": "Several viewpoints along the road make worthwhile stops even on a through-drive."
     },
     {
       "title": "Cross Lake Gjende by boat",
-      "text": "A genuinely popular way to shorten or extend the Besseggen hike, with a scenic boat service running the length of the lake.",
-      "tip": "Book genuinely boat tickets ahead in peak summer — services can fill up on busy days."
+      "text": "A popular way to shorten or extend the Besseggen hike, with a scenic boat service running the length of the lake.",
+      "tip": "Book boat tickets ahead in peak summer — services can fill up on busy days."
     },
     {
       "title": "Stay at a DNT mountain lodge",
@@ -154,16 +154,16 @@
         "file": "File:2018-06-16 Spiterstulen (2).jpg",
         "alt": "A DNT mountain lodge in Jotunheimen"
       },
-      "text": "A genuinely comfortable way to experience multi-day hiking, with staffed huts offering hot meals and real beds along the trail network.",
-      "tip": "Membership genuinely in the Norwegian Trekking Association (DNT) gets you discounted hut rates."
+      "text": "A comfortable way to experience multi-day hiking, with staffed huts offering hot meals and real beds along the trail network.",
+      "tip": "Membership in the Norwegian Trekking Association (DNT) gets you discounted hut rates."
     },
     {
       "title": "Spot wild reindeer on the high plateaus",
-      "text": "A genuinely real possibility across Jotunheimen's open highland areas, particularly around Valdresflya.",
-      "tip": "Bring genuinely binoculars and keep a respectful distance if you do spot a herd."
+      "text": "A real possibility across Jotunheimen's open highland areas, particularly around Valdresflya.",
+      "tip": "Bring binoculars and keep a respectful distance if you do spot a herd."
     }
   ],
-  "foodIntro": "Jotunheimen's food is genuinely simple, hearty mountain-lodge fare, with a distinctive regional specialty worth trying.",
+  "foodIntro": "Jotunheimen's food is simple, hearty mountain-lodge fare, with a distinctive regional specialty worth trying.",
   "foods": [
     {
       "name": "Rakfisk",
@@ -171,7 +171,7 @@
         "file": "File:Rakfisk.jpg",
         "alt": "Rakfisk, fermented trout, a specialty of the region near Jotunheimen"
       },
-      "text": "A genuinely distinctive regional specialty, trout fermented for months, traditionally eaten with flatbread, onion and sour cream.",
+      "text": "A distinctive regional specialty, trout fermented for months, traditionally eaten with flatbread, onion and sour cream.",
       "whereToTry": "Traditional restaurants in Valdres and Gudbrandsdalen, near Jotunheimen's edges."
     },
     {
@@ -180,7 +180,7 @@
         "file": "File:Får i kål.jpg",
         "alt": "Fårikål, Norway's national lamb and cabbage stew"
       },
-      "text": "Genuinely hearty mountain-lodge fare, a welcome hot meal after a long day's hike.",
+      "text": "Hearty mountain-lodge fare, a welcome hot meal after a long day's hike.",
       "whereToTry": "DNT mountain lodges and restaurants around Jotunheimen."
     },
     {
@@ -189,12 +189,12 @@
         "file": "File:Brunost - Brown cheese.jpg",
         "alt": "Brunost, Norway's caramel-coloured brown cheese"
       },
-      "text": "A genuinely reliable trail food, energy-dense and a breakfast staple at mountain lodges.",
+      "text": "A reliable trail food, energy-dense and a breakfast staple at mountain lodges.",
       "whereToTry": "DNT mountain lodges and guesthouses around Jotunheimen."
     },
     {
       "name": "Reindeer",
-      "text": "Genuinely found on some mountain-lodge menus, a rich, traditional dish suited to the high-altitude setting.",
+      "text": "Found on some mountain-lodge menus, a rich, traditional dish suited to the high-altitude setting.",
       "whereToTry": "Mountain lodges and restaurants around Jotunheimen."
     },
     {
@@ -203,17 +203,17 @@
         "file": "File:Cloudberry (Molte) (Rubus chamaemorus) - Tromsø, Norway 2023-07-07.jpg",
         "alt": "Cloudberries, a prized wild Norwegian berry"
       },
-      "text": "A genuinely prized wild berry found across Norway's highlands including Jotunheimen, in late summer.",
+      "text": "A prized wild berry found across Norway's highlands including Jotunheimen, in late summer.",
       "whereToTry": "Mountain lodges around Jotunheimen in late summer."
     },
     {
       "name": "Waffles at mountain lodges",
-      "text": "A genuinely welcome treat after a long hike, heart-shaped and simply topped with sour cream and jam.",
+      "text": "A welcome treat after a long hike, heart-shaped and simply topped with sour cream and jam.",
       "whereToTry": "DNT mountain lodges throughout Jotunheimen."
     }
   ],
   "accommodation": {
-    "intro": "Jotunheimen's genuinely defining accommodation is the DNT mountain hut network, alongside a handful of larger lodges at main trailheads.",
+    "intro": "Jotunheimen's defining accommodation is the DNT mountain hut network, alongside a handful of larger lodges at main trailheads.",
     "areas": [
       {
         "name": "Gjendesheim or Memurubu",
@@ -222,7 +222,7 @@
       },
       {
         "name": "Spiterstulen or Juvasshytta",
-        "bestFor": "Genuinely reaching Galdhøpiggen",
+        "bestFor": "Reaching Galdhøpiggen",
         "text": "The main trailhead lodges for Norway's highest peak."
       }
     ],
@@ -234,71 +234,71 @@
     ]
   },
   "gettingThere": {
-    "intro": "Jotunheimen is genuinely reached by a scenic drive from Oslo or Bergen, with no airport of its own within the park.",
+    "intro": "Jotunheimen is reached by a scenic drive from Oslo or Bergen, with no airport of its own within the park.",
     "options": [
       {
         "mode": "Rental car from Oslo",
-        "text": "Genuinely the most flexible way in, about 4-5 hours to the main trailheads.",
+        "text": "The most flexible way in, about 4-5 hours to the main trailheads.",
         "detail": "Route E6 and Route 51 connect Oslo to Jotunheimen's eastern trailheads."
       },
       {
         "mode": "Rental car from Bergen via Sognefjellet",
-        "text": "A genuinely spectacular approach, crossing Northern Europe's highest mountain pass road directly into the range.",
+        "text": "A spectacular approach, crossing Northern Europe's highest mountain pass road directly into the range.",
         "detail": "Only open roughly May to October — check current status."
       },
       {
         "mode": "Bus to Otta or Lom",
-        "text": "A genuinely workable option for visitors without a car, with onward local transport to trailheads.",
+        "text": "A workable option for visitors without a car, with onward local transport to trailheads.",
         "detail": "Connects to Oslo and other major towns, though less flexible than driving."
       }
     ]
   },
   "gettingAround": {
-    "intro": "Within Jotunheimen, getting around genuinely means hiking, with the Lake Gjende boat and mountain roads connecting trailheads.",
+    "intro": "Within Jotunheimen, getting around means hiking, with the Lake Gjende boat and mountain roads connecting trailheads.",
     "options": [
       {
         "mode": "On foot",
-        "text": "Genuinely the only way to reach the range's interior — this is a hiking destination, not a drive-through one.",
+        "text": "The only way to reach the range's interior — this is a hiking destination, not a drive-through one.",
         "detail": "A well-marked trail network connects trailheads and DNT huts throughout the park."
       },
       {
         "mode": "Lake Gjende boat",
-        "text": "Genuinely essential for many Besseggen hikers, shortening or extending the classic route.",
+        "text": "Essential for many Besseggen hikers, shortening or extending the classic route.",
         "detail": "Runs regularly between Gjendesheim and Memurubu in season."
       },
       {
         "mode": "Rental car between trailheads",
-        "text": "Genuinely necessary for reaching different parts of the park, since trailheads are spread across a wide area.",
+        "text": "Necessary for reaching different parts of the park, since trailheads are spread across a wide area.",
         "detail": "Roads connecting trailheads are well maintained but seasonal at higher elevations."
       }
     ]
   },
   "bestTime": {
     "headline": "Mid-June to September, when snow has cleared from the main trails",
-    "summary": "Jotunheimen's genuinely high elevation means a shorter hiking season than lower-lying parts of Norway, with snow lingering into early summer some years.",
+    "summary": "Jotunheimen's high elevation means a shorter hiking season than lower-lying parts of Norway, with snow lingering into early summer some years.",
     "seasons": [
       {
         "season": "Mid-summer (July–August)",
         "rating": "best",
-        "text": "Genuinely the safest window, with snow cleared from most trails and DNT huts fully staffed."
+        "text": "The safest window, with snow cleared from most trails and DNT huts fully staffed."
       },
       {
         "season": "Late June and September",
         "rating": "good",
-        "text": "Genuinely quieter, though some snow can linger on higher routes into late June."
+        "text": "Quieter, though some snow can linger on higher routes into late June."
       },
       {
         "season": "Winter (October–May)",
         "rating": "poor",
-        "text": "Genuinely for experienced winter mountaineers only — most facilities and roads close for the season."
+        "text": "For experienced winter mountaineers only — most facilities and roads close for the season."
       },
       {
         "season": "Any summer weekday",
         "rating": "good",
-        "text": "Genuinely quieter than weekends on the Besseggen trail specifically, worth considering if your schedule allows."
+        "text": "Quieter than weekends on the Besseggen trail specifically, worth considering if your schedule allows."
       }
     ],
-    "avoid": "Avoid genuinely attempting Besseggen or Galdhøpiggen outside roughly late June to September, when snow and ice make both routes genuinely hazardous."
+    "avoid": "Avoid attempting Besseggen or Galdhøpiggen outside roughly late June to September, when snow and ice make both routes hazardous."
   },
   "itinerary": {
     "title": "Two days in Jotunheimen",
@@ -324,37 +324,37 @@
   },
   "tipsIntro": "Jotunheimen demands more preparation than Norway's coastal regions — plan accordingly.",
   "tips": [
-    "Book DNT genuinely hut beds and Lake Gjende boat tickets well ahead in peak summer.",
-    "Never genuinely attempt a Galdhøpiggen glacier crossing without a certified guide.",
-    "Pack genuinely full hiking gear, even for a single day route — mountain weather changes fast.",
-    "Check genuinely Sognefjellet's seasonal opening status before planning your route around it.",
-    "Bring genuinely more cash and supplies than expected — facilities are limited outside main lodges.",
-    "Consider genuinely a DNT membership if planning multiple hut stays — it pays for itself quickly."
+    "Book DNT hut beds and Lake Gjende boat tickets well ahead in peak summer.",
+    "Never attempt a Galdhøpiggen glacier crossing without a certified guide.",
+    "Pack full hiking gear, even for a single day route — mountain weather changes fast.",
+    "Check Sognefjellet's seasonal opening status before planning your route around it.",
+    "Bring more cash and supplies than expected — facilities are limited outside main lodges.",
+    "Consider a DNT membership if planning multiple hut stays — it pays for itself quickly."
   ],
   "faq": [
     {
       "q": "Is the Besseggen ridge hike dangerous?",
-      "a": "Not genuinely for reasonably fit hikers on a clear day, though the narrow ridge sections and real elevation gain demand respect and proper gear."
+      "a": "Not for reasonably fit hikers on a clear day, though the narrow ridge sections and real elevation gain demand respect and proper gear."
     },
     {
       "q": "How long is the Besseggen hike?",
-      "a": "About genuinely 14km one-way, taking 6-8 hours for most hikers, often shortened using the Lake Gjende boat."
+      "a": "About 14km one-way, taking 6-8 hours for most hikers, often shortened using the Lake Gjende boat."
     },
     {
       "q": "Do you need a guide to climb Galdhøpiggen?",
-      "a": "Yes, genuinely, for the standard glacier-crossing route — never attempt this section independently."
+      "a": "Yes, for the standard glacier-crossing route — never attempt this section independently."
     },
     {
       "q": "When is Jotunheimen open for hiking?",
-      "a": "Genuinely roughly late June to September for the main routes, with snow often lingering into early summer at altitude."
+      "a": "Roughly late June to September for the main routes, with snow often lingering into early summer at altitude."
     },
     {
       "q": "How do you get to Jotunheimen?",
-      "a": "By genuinely rental car from Oslo or Bergen, or by bus to a gateway town like Otta or Lom with onward local transport."
+      "a": "By rental car from Oslo or Bergen, or by bus to a gateway town like Otta or Lom with onward local transport."
     },
     {
       "q": "Is Jotunheimen good for multi-day trekking?",
-      "a": "Yes, genuinely excellent — the DNT staffed hut network links multi-day routes across the range for hikers of varying experience."
+      "a": "Yes, excellent — the DNT staffed hut network links multi-day routes across the range for hikers of varying experience."
     }
   ],
   "related": ["geirangerfjord", "stavanger-preikestolen", "oslo"],
