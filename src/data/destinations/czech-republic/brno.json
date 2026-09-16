@@ -1,0 +1,378 @@
+{
+  "slug": "brno",
+  "name": "Brno",
+  "country": "czech-republic",
+  "region": "South Moravia",
+  "categories": ["major-city", "historic", "culture-arts", "nightlife"],
+  "tagline": "Moravia's underrated capital, a lively university city pairing a hilltop fortress and mummified crypt with one of the 20th century's most influential houses.",
+  "highlight": "Standing in Villa Tugendhat's open-plan living space, realising an entire century of modernist architecture traces back to this single 1930 house.",
+  "shortDescription": "Moravia's underrated capital, home to Špilberk Castle, the mummified Capuchin Crypt and the UNESCO-listed modernist Villa Tugendhat.",
+  "metaDescription": "A Brno travel guide: Špilberk Castle, the Capuchin Crypt, Villa Tugendhat, Freedom Square, food and how to plan a visit to Moravia's capital.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Brno–Tuřany Airport (BRQ)",
+  "knownFor": "Špilberk Castle, Villa Tugendhat, the Capuchin Crypt",
+  "budget": "Kč1,800–3,500 per day, budget to mid-range",
+  "goodFor": "Architecture, history, nightlife",
+  "coords": { "lat": 49.1951, "lng": 16.6068 },
+  "image": {
+    "file": "File:Brno Spilberk Castle-03.jpg",
+    "alt": "Špilberk Castle overlooking Brno"
+  },
+  "intro": [
+    "Brno is genuinely the Czech Republic's second city and Moravia's capital, a lively university town that most Prague-focused visitors skip entirely, to their own loss.",
+    "Its sights genuinely range from a hilltop fortress and a mummified monastic crypt to one of the most influential private houses of the 20th century, the UNESCO-listed Villa Tugendhat.",
+    "It's also genuinely South Moravia's natural gateway, well placed for day trips into the region's wine country and smaller historic towns."
+  ],
+  "whyVisit": {
+    "intro": "Brno's case rests genuinely on an unusually varied set of sights for a city that receives a fraction of Prague's visitors.",
+    "points": [
+      {
+        "title": "Villa Tugendhat is genuinely a landmark of modern architecture",
+        "text": "A UNESCO-listed 1930 house that helped define modernism worldwide."
+      },
+      {
+        "title": "The Capuchin Crypt is genuinely a singular, startling sight",
+        "text": "Naturally mummified monks and nobles, preserved by the crypt's own ventilation system."
+      },
+      {
+        "title": "Špilberk Castle is genuinely a real hilltop fortress",
+        "text": "Centuries as both a stronghold and a notorious political prison."
+      },
+      {
+        "title": "It's genuinely a lively, youthful city",
+        "text": "A large student population keeps Brno's bars, cafés and nightlife genuinely buzzing."
+      },
+      {
+        "title": "It works genuinely well as a Moravia base",
+        "text": "Close to Telč, Lednice-Valtice and the wider South Moravian wine country."
+      }
+    ]
+  },
+  "attractionsIntro": "Brno's essential sights are genuinely more varied than its low profile among visitors would suggest.",
+  "attractions": [
+    {
+      "name": "Špilberk Castle",
+      "image": {
+        "file": "File:Brno Spilberk Castle-03.jpg",
+        "alt": "Špilberk Castle above Brno"
+      },
+      "text": "Genuinely a hilltop fortress with a dark history as one of the Habsburg Empire's most feared political prisons.",
+      "tip": "Genuinely walk the castle walls for one of the best panoramic views over the city."
+    },
+    {
+      "name": "Cathedral of St Peter and Paul (Petrov)",
+      "image": {
+        "file": "File:Brno Cathedral St. Peter and Paul-03.jpg",
+        "alt": "The Cathedral of St Peter and Paul on Petrov Hill in Brno"
+      },
+      "text": "Genuinely Brno's defining skyline landmark, its twin neo-Gothic spires visible across the city.",
+      "tip": "Genuinely listen for the noon bells, which famously ring an hour 'early' to commemorate a local legend."
+    },
+    {
+      "name": "Villa Tugendhat",
+      "image": {
+        "file": "File:Villa Tugendhat, Brno.jpg",
+        "alt": "Villa Tugendhat, a UNESCO-listed modernist house in Brno"
+      },
+      "text": "Genuinely one of the most influential private houses of the 20th century, designed by Ludwig Mies van der Rohe in 1930.",
+      "tip": "Genuinely book the tour weeks ahead — timed entry slots are limited and sell out."
+    },
+    {
+      "name": "Freedom Square (náměstí Svobody)",
+      "image": {
+        "file": "File:Brno - Liberty square (Namesti svobody) 3.JPG",
+        "alt": "Freedom Square in central Brno"
+      },
+      "text": "Genuinely the city's social heart, a triangular square ringed by Renaissance and Art Nouveau facades.",
+      "tip": "Genuinely check for one of the square's regular markets or events during your visit."
+    },
+    {
+      "name": "The Capuchin Crypt",
+      "image": {
+        "file": "File:Capuchin Crypt in Brno 2013b.jpg",
+        "alt": "The Capuchin Crypt in Brno"
+      },
+      "text": "Genuinely a startling sight, monks and local nobles naturally mummified by the crypt's own ventilation system.",
+      "tip": "Genuinely a small, quick visit — allow 20 to 30 minutes."
+    },
+    {
+      "name": "Brno's Astronomical Clock",
+      "image": {
+        "file": "File:Brno Astronomical Clock, Brněnský orloj.jpg",
+        "alt": "Brno's black granite Astronomical Clock"
+      },
+      "text": "Genuinely a striking modern black granite obelisk on Freedom Square, releasing a glass marble each day at noon.",
+      "tip": "Genuinely arrive at noon and watch the crowd scramble to catch the falling marble."
+    },
+    {
+      "name": "The view from Špilberk's walls",
+      "image": {
+        "file": "File:Brno Spilberk Castle-06.jpg",
+        "alt": "The view over Brno from Špilberk Castle's walls"
+      },
+      "text": "Genuinely one of the city's best viewpoints, taking in Petrov's spires and the rooftops below.",
+      "tip": "Genuinely a lovely spot for sunset, with the cathedral lit up as the light fades."
+    }
+  ],
+  "thingsToDoIntro": "Brno genuinely rewards a full day or two, mixing fortress history with modernist architecture and a lively café scene.",
+  "thingsToDo": [
+    {
+      "title": "Tour Špilberk Castle's casemates",
+      "image": {
+        "file": "File:Brno Spilberk Castle-04.jpg",
+        "alt": "The casemates of Špilberk Castle in Brno"
+      },
+      "text": "A genuinely fascinating, slightly chilling tour through the fortress's former prison cells.",
+      "tip": "Genuinely combine with the castle museum for the fuller history of the site."
+    },
+    {
+      "title": "Climb Petrov Cathedral's towers",
+      "image": {
+        "file": "File:Petrov 9, Brno.JPG",
+        "alt": "The towers of Petrov Cathedral in Brno"
+      },
+      "text": "A genuinely rewarding climb, one of the best views over Brno's rooftops and surrounding hills.",
+      "tip": "Genuinely check the tower's separate opening hours before making the trip up Petrov Hill."
+    },
+    {
+      "title": "Visit the Capuchin Crypt",
+      "image": {
+        "file": "File:Capuchin Crypt in Brno 2013l.jpg",
+        "alt": "The mummified remains in the Capuchin Crypt in Brno"
+      },
+      "text": "A genuinely memorable, if slightly eerie, half-hour taking in the crypt's naturally preserved remains.",
+      "tip": "Genuinely treat it with the same quiet respect as the Sedlec Ossuary — this is a real burial site."
+    },
+    {
+      "title": "Tour Villa Tugendhat",
+      "image": {
+        "file": "File:Vila Tugendhat Brno 2016 5.jpg",
+        "alt": "The interior of Villa Tugendhat in Brno"
+      },
+      "text": "A genuinely essential visit for anyone interested in architecture, walking through a house that shaped modernism worldwide.",
+      "tip": "Genuinely book the 'basic' tour first if slots for the 'extended' version aren't available — both cover the key rooms."
+    },
+    {
+      "title": "Watch the Astronomical Clock's noon marble",
+      "image": {
+        "file": "File:Brno Namesti svobody orloj zpevaci.jpg",
+        "alt": "Crowds at Brno's Astronomical Clock at noon"
+      },
+      "text": "A genuinely fun, low-key local tradition, a small crowd gathering to catch the clock's daily glass marble.",
+      "tip": "Genuinely arrive a few minutes before noon to get a good spot."
+    },
+    {
+      "title": "Wander Freedom Square and its cafés",
+      "image": {
+        "file": "File:Namesti Svobody Brno 2010.JPG",
+        "alt": "Cafés on Freedom Square in Brno"
+      },
+      "text": "A genuinely relaxed way to spend an afternoon, taking in the square's mix of historic and modern architecture.",
+      "tip": "Genuinely Brno's café culture rivals Prague's, with noticeably fewer tourists competing for a table."
+    }
+  ],
+  "foodIntro": "Brno's food genuinely reflects its Moravian setting, with local wine standing in for Bohemia's beer-first culture.",
+  "foods": [
+    {
+      "name": "Svíčková (marinated beef in cream sauce)",
+      "image": {
+        "file": "File:Svickova with dumplings.jpg",
+        "alt": "Svíčková, marinated beef in cream sauce with bread dumplings"
+      },
+      "text": "Genuinely a reliable classic, found at traditional restaurants throughout the city.",
+      "whereToTry": "Traditional restaurants around Freedom Square and the old town."
+    },
+    {
+      "name": "Guláš with dumplings",
+      "image": {
+        "file": "File:Guláš s knedlíky.jpg",
+        "alt": "Czech goulash served with bread dumplings"
+      },
+      "text": "Genuinely a warming, filling classic, common on menus throughout the city.",
+      "whereToTry": "Traditional pubs throughout central Brno."
+    },
+    {
+      "name": "Moravian wine",
+      "image": {
+        "file": "File:Blatnice pod Svatým Antonínkem, wine cellars 01.jpg",
+        "alt": "Traditional Moravian wine cellars"
+      },
+      "text": "Genuinely a defining part of Brno's identity as Moravia's capital, with excellent regional wine on nearly every wine bar's list.",
+      "whereToTry": "Wine bars throughout the city centre."
+    },
+    {
+      "name": "Starobrno beer",
+      "image": {
+        "file": "File:Starobrno beer glass (2).jpg",
+        "alt": "A glass of Starobrno beer, brewed in Brno"
+      },
+      "text": "Genuinely the city's own brewery, a solid Moravian alternative to Bohemia's more famous pilsners.",
+      "whereToTry": "Pubs and beer halls throughout central Brno."
+    },
+    {
+      "name": "Smažený sýr (fried cheese)",
+      "image": {
+        "file": "File:Smažený sýr s tatarskou omáčkou a brambory.jpg",
+        "alt": "Smažený sýr, breaded fried cheese with tartar sauce and potatoes"
+      },
+      "text": "Genuinely a satisfying, inexpensive pub classic, just as popular here as in Bohemia.",
+      "whereToTry": "Traditional pubs throughout the city."
+    },
+    {
+      "name": "Koláče (fruit-filled pastries)",
+      "image": {
+        "file": "File:Traditional Czech koláče in Sušice.jpg",
+        "alt": "Traditional koláče pastries filled with fruit"
+      },
+      "text": "Genuinely a homely sweet treat, found at bakeries and cafés across the city.",
+      "whereToTry": "Bakeries and cafés throughout central Brno."
+    }
+  ],
+  "accommodation": {
+    "intro": "Brno genuinely offers noticeably better value than Prague, with everything of interest within easy reach of the centre.",
+    "areas": [
+      {
+        "name": "The old town centre",
+        "bestFor": "Being genuinely within walking distance of Petrov, Freedom Square and the crypt",
+        "text": "The most convenient base, close to restaurants, bars and the main sights."
+      },
+      {
+        "name": "Near Špilberk Castle",
+        "bestFor": "A genuinely quieter stay with easy castle access",
+        "text": "A short walk uphill from the old town centre."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "Kč500–900 per night" },
+      { "label": "Mid-range hotel", "value": "Kč2,000–3,800 per night" },
+      { "label": "Villa Tugendhat tour", "value": "About Kč350–600" },
+      { "label": "Dinner at a traditional restaurant", "value": "About Kč250–450 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Brno is genuinely well connected to both Prague and Vienna, making it an easy addition to a wider Central Europe trip.",
+    "options": [
+      {
+        "mode": "Train from Prague",
+        "text": "Genuinely fast and frequent, taking about 2.5 hours.",
+        "detail": "Direct high-speed services run throughout the day."
+      },
+      {
+        "mode": "Bus from Prague",
+        "text": "Genuinely a comfortable, budget-friendly alternative.",
+        "detail": "RegioJet and FlixBus both run frequent services, similar in journey time to the train."
+      },
+      {
+        "mode": "Train or bus from Vienna",
+        "text": "Genuinely an easy cross-border option.",
+        "detail": "Takes under two hours, making Brno an easy Central Europe add-on."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Brno's genuinely compact centre is easily walkable, with trams covering the rest of the city well.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Genuinely the best way to see the old town's main sights.",
+        "detail": "Petrov, Freedom Square and the crypt all sit within a comfortable walk of each other."
+      },
+      {
+        "mode": "Trams",
+        "text": "Genuinely useful for reaching Špilberk Castle or Villa Tugendhat.",
+        "detail": "A frequent, easy-to-use network covering the wider city."
+      },
+      {
+        "mode": "Taxi or rideshare app",
+        "text": "Genuinely useful late at night or for luggage.",
+        "detail": "Widely available and inexpensive compared to Prague."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for pleasant weather and a lively city",
+    "summary": "Brno is genuinely a year-round city destination, with its university calendar shaping the atmosphere as much as the weather.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely mild, comfortable weather with the city at its liveliest before summer break."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Genuinely warm and pleasant, though quieter with students away for the break."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Genuinely comfortable weather with the university term back in full swing."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Genuinely cold but atmospheric, with a good Christmas market on Freedom Square."
+      }
+    ],
+    "avoid": "Nothing strongly — Brno genuinely works well as a year-round city break."
+  },
+  "itinerary": {
+    "title": "Two days in Brno",
+    "intro": "Built around the old town's historic sights and Villa Tugendhat's modernist architecture.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Špilberk and the old town",
+        "summary": "The castle, cathedral and crypt.",
+        "morning": "Špilberk Castle and its casemates.",
+        "afternoon": "Petrov Cathedral and the Capuchin Crypt.",
+        "evening": "Dinner and drinks around Freedom Square."
+      },
+      {
+        "day": 2,
+        "title": "Villa Tugendhat",
+        "summary": "A slower day centred on modernist architecture.",
+        "morning": "Tour Villa Tugendhat.",
+        "afternoon": "Wander Freedom Square's cafés and shops.",
+        "evening": "A final dinner in the old town."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Brno visit noticeably smoother.",
+  "tips": [
+    "Book genuinely Villa Tugendhat's tour weeks ahead — it genuinely does sell out.",
+    "Check genuinely Petrov Cathedral's tower hours separately from the church itself.",
+    "Treat genuinely the Capuchin Crypt with the same quiet respect as any burial site.",
+    "Arrive genuinely at Freedom Square just before noon to catch the Astronomical Clock's marble.",
+    "Expect genuinely noticeably better prices than Prague for food, drink and accommodation.",
+    "Use genuinely Brno as a base for day trips to Telč or the Moravian wine country."
+  ],
+  "faq": [
+    {
+      "q": "Is Brno worth visiting?",
+      "a": "Yes, genuinely — it's a lively, underrated city with an unusually varied set of sights for its size."
+    },
+    {
+      "q": "How do you get from Prague to Brno?",
+      "a": "Genuinely easiest by direct train or bus, both taking around 2.5 hours."
+    },
+    {
+      "q": "Is Villa Tugendhat worth the visit?",
+      "a": "Yes, genuinely — it's a genuine landmark of 20th-century architecture, and the tour is well worth booking ahead."
+    },
+    {
+      "q": "How many days do you need in Brno?",
+      "a": "One to two days genuinely covers the main sights, with a second day allowing a more relaxed pace."
+    },
+    {
+      "q": "Is Brno cheaper than Prague?",
+      "a": "Yes, genuinely — accommodation, food and drink all tend to run noticeably cheaper than in the capital."
+    },
+    {
+      "q": "Can you day-trip from Brno into Moravian wine country?",
+      "a": "Yes, genuinely easily — Lednice-Valtice and other South Moravian wine villages are both within easy reach."
+    }
+  ],
+  "related": ["lednice-valtice", "telc", "olomouc"],
+  "relatedArticles": ["first-trip-to-europe", "underrated-destinations"]
+}

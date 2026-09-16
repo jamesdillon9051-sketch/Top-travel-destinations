@@ -1,0 +1,374 @@
+{
+  "slug": "cesky-krumlov",
+  "name": "Český Krumlov",
+  "country": "czech-republic",
+  "region": "South Bohemia",
+  "categories": ["historic", "unesco", "romantic", "scenic"],
+  "tagline": "Bohemia's fairy-tale town, a medieval castle and pastel old town wrapped almost entirely by a horseshoe bend in the Vltava River.",
+  "highlight": "Looking down from the castle tower at dusk, the old town's red rooftops curling around the river exactly as they have for centuries.",
+  "shortDescription": "Bohemia's fairy-tale town, a UNESCO-listed medieval old town wrapped in a horseshoe bend of the Vltava River beneath a dramatic hilltop castle.",
+  "metaDescription": "A Český Krumlov travel guide: the castle, the Cloak Bridge, the bear moat, the old town, food and how to plan a visit from Prague.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Václav Havel Airport Prague (PRG), about 2.5 hours by road",
+  "knownFor": "Český Krumlov Castle, the Vltava's horseshoe bend, the historic old town",
+  "budget": "Kč1,800–3,500 per day, budget to mid-range",
+  "goodFor": "History, architecture, romance, photography",
+  "coords": { "lat": 48.8127, "lng": 14.3175 },
+  "image": {
+    "file": "File:Český Krumlov Castle, Czechia, 20250504 1248 8849.jpg",
+    "alt": "Český Krumlov Castle above the old town"
+  },
+  "intro": [
+    "Český Krumlov is genuinely one of Central Europe's most complete fairy-tale towns, its pastel old town wrapped almost entirely by a dramatic horseshoe bend in the Vltava River.",
+    "Above it all sits genuinely the country's second-largest castle complex after Prague's own, a sprawling hilltop fortress with its own bear-filled moat and a colourfully painted tower.",
+    "It's small enough genuinely to see on a day trip from Prague, though an overnight stay lets the town's cobbled lanes empty out into something genuinely magical once the tour buses leave."
+  ],
+  "whyVisit": {
+    "intro": "Český Krumlov's case rests genuinely on being one of the best-preserved small medieval towns anywhere in Europe.",
+    "points": [
+      {
+        "title": "The setting is genuinely unmatched",
+        "text": "A near-complete horseshoe bend of the Vltava wraps the old town on three sides."
+      },
+      {
+        "title": "The castle is genuinely the country's second-largest",
+        "text": "A sprawling complex with its own bear moat, painted tower and elevated Cloak Bridge."
+      },
+      {
+        "title": "The old town is genuinely astonishingly intact",
+        "text": "A UNESCO World Heritage Site with barely a modern building in sight."
+      },
+      {
+        "title": "It's genuinely far quieter overnight",
+        "text": "Day-trippers clear out by early evening, leaving the streets wonderfully calm."
+      },
+      {
+        "title": "It works genuinely well paired with Prague",
+        "text": "An easy add-on to a Bohemia-focused itinerary, whether as a day trip or overnight stay."
+      }
+    ]
+  },
+  "attractionsIntro": "Český Krumlov's essential sights are genuinely centred on its castle complex and the old town beneath it.",
+  "attractions": [
+    {
+      "name": "Český Krumlov Castle",
+      "image": {
+        "file": "File:Český Krumlov Castle, Czechia, 20250504 1248 8849.jpg",
+        "alt": "Český Krumlov Castle rising above the town"
+      },
+      "text": "Genuinely the country's second-largest castle complex, its colourfully painted tower visible from almost anywhere in town.",
+      "tip": "Genuinely book the interior tour ahead in summer — time slots do sell out."
+    },
+    {
+      "name": "The Cloak Bridge (Plášťový most)",
+      "image": {
+        "file": "File:Cesky Krumlov from Cloak Bridge 5.jpg",
+        "alt": "The Cloak Bridge in Český Krumlov"
+      },
+      "text": "Genuinely a dramatic multi-tiered bridge connecting two parts of the castle high above the old town.",
+      "tip": "Genuinely stop halfway across for one of the town's best photo viewpoints."
+    },
+    {
+      "name": "The castle's bear moat",
+      "image": {
+        "file": "File:Bear moat of Český Krumlov Castle.jpg",
+        "alt": "Bears in the moat of Český Krumlov Castle"
+      },
+      "text": "Genuinely a centuries-old tradition, live bears kept in the castle's moat since the 1700s.",
+      "tip": "Genuinely visit late morning, when the bears tend to be most active."
+    },
+    {
+      "name": "The Castle Gardens",
+      "image": {
+        "file": "File:Cesky Krumlov 65.jpg",
+        "alt": "The Baroque gardens at Český Krumlov Castle"
+      },
+      "text": "Genuinely a peaceful baroque garden above the town, complete with a revolving summer theatre.",
+      "tip": "Genuinely free to enter and a lovely, quieter escape from the busier old town streets."
+    },
+    {
+      "name": "St Vitus Church",
+      "image": {
+        "file": "File:Český Krumlov - At St.Vitus Church - View East.jpg",
+        "alt": "St Vitus Church in Český Krumlov"
+      },
+      "text": "Genuinely the old town's Gothic parish church, its tower offering one of the best views over the rooftops.",
+      "tip": "Genuinely climb the tower if it's open — the view over the river bend is genuinely worth it."
+    },
+    {
+      "name": "The Vltava's horseshoe bend",
+      "image": {
+        "file": "File:Český Krumlov (Krummau) - panorama - old city.JPG",
+        "alt": "The Vltava River's horseshoe bend around Český Krumlov's old town"
+      },
+      "text": "Genuinely the geographic feature that defines the whole town, the river wrapping the old town on three sides.",
+      "tip": "Genuinely the castle tower and gardens both offer excellent views of the bend."
+    },
+    {
+      "name": "The old town's historic lanes",
+      "image": {
+        "file": "File:Old town in Český Krumlov with Jelení lávka, 20250504 1251 8862.jpg",
+        "alt": "Historic lanes in Český Krumlov's old town"
+      },
+      "text": "Genuinely worth simply wandering, a near-complete medieval townscape of narrow lanes and pastel facades.",
+      "tip": "Genuinely explore after the day-trip buses leave for the quietest, most atmospheric version of the town."
+    }
+  ],
+  "thingsToDoIntro": "Český Krumlov genuinely rewards slow wandering, split between the castle complex and the old town beneath it.",
+  "thingsToDo": [
+    {
+      "title": "Tour Český Krumlov Castle's interiors",
+      "image": {
+        "file": "File:Český Krumlov Castle, Czechia, 20250504 1250 8861.jpg",
+        "alt": "Touring the interior of Český Krumlov Castle"
+      },
+      "text": "A genuinely essential visit, taking in the castle's period-furnished rooms and elaborate masquerade hall.",
+      "tip": "Genuinely several separate tour routes cover different parts of the castle — pick one or two rather than all."
+    },
+    {
+      "title": "Cross the Cloak Bridge",
+      "image": {
+        "file": "File:Cesky Krumlov from Cloak Bridge 4.jpg",
+        "alt": "The view from the Cloak Bridge in Český Krumlov"
+      },
+      "text": "A genuinely quick but essential stop, the bridge's elevated walkway giving one of the town's best views.",
+      "tip": "Genuinely visit close to sunset for the best light over the old town below."
+    },
+    {
+      "title": "Spot the castle's resident bears",
+      "image": {
+        "file": "File:Český Krumlov, hrad (006).JPG",
+        "alt": "The bear moat at Český Krumlov Castle"
+      },
+      "text": "A genuinely fun stop for all ages, watching the moat's bears from the bridge above.",
+      "tip": "Genuinely a quick, easy stop on the way into the main castle courtyard."
+    },
+    {
+      "title": "Canoe or raft the Vltava",
+      "image": {
+        "file": "File:Český Krumlov, vodáci na Vltavě.jpg",
+        "alt": "Canoeing on the Vltava River in Český Krumlov"
+      },
+      "text": "A genuinely popular warm-weather activity, paddling beneath the castle and through the old town's bend.",
+      "tip": "Genuinely rent gear from one of several outfitters right along the riverbank."
+    },
+    {
+      "title": "Wander the Castle Gardens",
+      "image": {
+        "file": "File:Cesky Krumlov 66.jpg",
+        "alt": "The Baroque Castle Gardens in Český Krumlov"
+      },
+      "text": "A genuinely peaceful way to spend an hour, strolling formal baroque gardens above the town.",
+      "tip": "Genuinely check for a summer performance at the garden's revolving auditorium theatre."
+    },
+    {
+      "title": "Photograph the old town from a lookout",
+      "image": {
+        "file": "File:Sunset-over-cesky-krumlov-castle-old-town-latran.jpg",
+        "alt": "Sunset over Český Krumlov's old town from a castle lookout"
+      },
+      "text": "A genuinely essential evening ritual, watching the light turn golden over the river bend and rooftops.",
+      "tip": "Genuinely the castle tower and the Cloak Bridge both make excellent sunset viewpoints."
+    }
+  ],
+  "foodIntro": "Český Krumlov's food genuinely means South Bohemian classics, including a regional specialty in freshwater carp.",
+  "foods": [
+    {
+      "name": "Svíčková (marinated beef in cream sauce)",
+      "image": {
+        "file": "File:Svickova with dumplings.jpg",
+        "alt": "Svíčková, marinated beef in cream sauce with bread dumplings"
+      },
+      "text": "Genuinely a reliable classic, found on nearly every traditional restaurant menu in town.",
+      "whereToTry": "Traditional restaurants throughout the old town."
+    },
+    {
+      "name": "South Bohemian carp",
+      "text": "Genuinely a true regional specialty — South Bohemia's centuries-old fish ponds make carp a local staple, especially in winter.",
+      "whereToTry": "Traditional restaurants specialising in regional South Bohemian cuisine."
+    },
+    {
+      "name": "Guláš with dumplings",
+      "image": {
+        "file": "File:Guláš s knedlíky.jpg",
+        "alt": "Czech goulash served with bread dumplings"
+      },
+      "text": "Genuinely a warming, filling option after a day of hilly castle sightseeing.",
+      "whereToTry": "Traditional pubs throughout the old town."
+    },
+    {
+      "name": "Budweiser Budvar",
+      "image": {
+        "file": "File:Budweiser budvar beer glass (3).jpg",
+        "alt": "A glass of Budweiser Budvar beer"
+      },
+      "text": "Genuinely worth seeking out here — the original Budvar brewery sits in nearby České Budějovice, the region's capital.",
+      "whereToTry": "Pubs and restaurants throughout Český Krumlov."
+    },
+    {
+      "name": "Smažený sýr (fried cheese)",
+      "image": {
+        "file": "File:Smažený sýr s tatarskou omáčkou a brambory.jpg",
+        "alt": "Smažený sýr, breaded fried cheese with tartar sauce and potatoes"
+      },
+      "text": "Genuinely a satisfying pub classic, breaded fried cheese with tartar sauce and potatoes.",
+      "whereToTry": "Traditional pubs throughout the old town."
+    },
+    {
+      "name": "Trdelník (chimney cake)",
+      "image": {
+        "file": "File:Trdelnik in Prague.jpg",
+        "alt": "Trdelník, a rolled pastry cooked over an open flame"
+      },
+      "text": "Genuinely a popular sweet treat sold from stalls throughout the old town's tourist streets.",
+      "whereToTry": "Street stalls throughout the old town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Staying overnight genuinely transforms a Český Krumlov visit, emptying the streets of day-trippers by early evening.",
+    "areas": [
+      {
+        "name": "The old town",
+        "bestFor": "Being genuinely immersed in the town's medieval atmosphere",
+        "text": "Historic guesthouses and small hotels within the horseshoe bend itself."
+      },
+      {
+        "name": "Latrán, below the castle",
+        "bestFor": "A genuinely quieter stay with castle views",
+        "text": "A short walk from the old town, with somewhat better value accommodation."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "Kč1,000–1,800 per night" },
+      { "label": "Mid-range historic hotel", "value": "Kč2,500–4,500 per night" },
+      { "label": "Castle interior tour", "value": "About Kč180–320" },
+      { "label": "Dinner at a traditional restaurant", "value": "About Kč250–450 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Český Krumlov is genuinely a popular, well-connected day trip or stopover from Prague.",
+    "options": [
+      {
+        "mode": "Direct bus from Prague",
+        "text": "Genuinely the easiest option, taking about 2.5 to 3 hours.",
+        "detail": "RegioJet and FlixBus both run frequent, comfortable direct services."
+      },
+      {
+        "mode": "Train via České Budějovice",
+        "text": "Genuinely a scenic if slightly slower option, with one change.",
+        "detail": "Takes roughly 3.5 hours including the connection."
+      },
+      {
+        "mode": "Organised day trip or private transfer",
+        "text": "Genuinely convenient, especially if combined with other South Bohemian stops.",
+        "detail": "Widely available from Prague hotels and tour operators."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Český Krumlov's genuinely compact old town is entirely walkable, with no need for a car once you've arrived.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Genuinely the only way to properly explore the old town's narrow lanes.",
+        "detail": "Everything sits within a comfortable walk, though the castle hill involves some climbing."
+      },
+      {
+        "mode": "Local bus from the train station",
+        "text": "Genuinely useful for the uphill walk from the station to the old town.",
+        "detail": "A short, inexpensive ride connects the two."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Genuinely a nice way to explore the wider area beyond the old town itself.",
+        "detail": "Rental available from several shops near the river."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for pleasant weather and thinner crowds",
+    "summary": "Český Krumlov is genuinely at its best outside the peak summer day-tripper season.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely mild, comfortable weather with manageable crowds."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Genuinely warm and lively, though the old town gets genuinely busy with day-trippers by midday."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Genuinely golden light over the river and rooftops, with noticeably fewer visitors than summer."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Genuinely quiet and atmospheric under snow, though some attractions reduce their hours."
+      }
+    ],
+    "avoid": "Nothing strongly, though midday in July and August brings the heaviest day-tripper crowds."
+  },
+  "itinerary": {
+    "title": "Two days in Český Krumlov",
+    "intro": "An overnight stay, splitting the castle complex and old town across two unhurried days.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The castle complex",
+        "summary": "Arrival and the castle's main sights.",
+        "morning": "Arrive and settle into the old town.",
+        "afternoon": "Český Krumlov Castle, the Cloak Bridge and the bear moat.",
+        "evening": "Dinner beside the river, once the day-trippers have left."
+      },
+      {
+        "day": 2,
+        "title": "The old town and gardens",
+        "summary": "A slower day at ground level.",
+        "morning": "The Castle Gardens and St Vitus Church.",
+        "afternoon": "Wander the old town's lanes, or canoe the Vltava.",
+        "evening": "A final sunset view from the castle tower."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Český Krumlov visit noticeably smoother.",
+  "tips": [
+    "Book genuinely the castle interior tour online ahead in summer.",
+    "Stay genuinely overnight if you can — the town transforms once day-trippers leave.",
+    "Wear genuinely comfortable shoes — the old town and castle hill involve plenty of cobblestones and stairs.",
+    "Visit genuinely the bear moat late morning, when the bears tend to be more active.",
+    "Book genuinely a canoe or raft trip ahead in peak summer season.",
+    "Arrive genuinely early or stay late to see the old town without the day-trip crowds."
+  ],
+  "faq": [
+    {
+      "q": "Is Český Krumlov worth visiting from Prague?",
+      "a": "Yes, genuinely — it's one of Central Europe's best-preserved medieval towns, easily reached by direct bus or train."
+    },
+    {
+      "q": "Is Český Krumlov a day trip or an overnight stay?",
+      "a": "Genuinely either works, though an overnight stay lets you see the old town once the day-trip crowds have left, which is genuinely worth the extra time."
+    },
+    {
+      "q": "How do you get from Prague to Český Krumlov?",
+      "a": "Genuinely easiest by direct bus, taking about 2.5 to 3 hours; a train via České Budějovice is a scenic alternative."
+    },
+    {
+      "q": "Is the castle worth touring inside?",
+      "a": "Yes, genuinely — its period-furnished rooms and masquerade hall are among South Bohemia's finest interiors."
+    },
+    {
+      "q": "Are there really bears in the castle moat?",
+      "a": "Yes, genuinely — live bears have been kept in the moat since the 18th century, a well-established local tradition."
+    },
+    {
+      "q": "How many days do you need in Český Krumlov?",
+      "a": "One full day genuinely covers the essentials; two days allows a far more relaxed pace and an evening without the crowds."
+    }
+  ],
+  "related": ["prague", "kutna-hora", "karlovy-vary"],
+  "relatedArticles": ["unesco-worth-planning-around", "europe-by-train"]
+}

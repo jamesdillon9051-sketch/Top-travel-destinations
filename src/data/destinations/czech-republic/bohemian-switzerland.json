@@ -1,0 +1,366 @@
+{
+  "slug": "bohemian-switzerland",
+  "name": "Bohemian Switzerland",
+  "country": "czech-republic",
+  "region": "North Bohemia",
+  "categories": ["nature", "hiking", "national-park", "scenic"],
+  "tagline": "A dramatic sandstone wilderness of towering rock formations, deep gorges and Europe's largest natural stone arch, hard against the German border.",
+  "highlight": "Drifting silently through Edmund Gorge on a small boat, sheer sandstone walls rising on both sides of the narrow, still river.",
+  "shortDescription": "A dramatic sandstone wilderness in North Bohemia, home to Europe's largest natural rock arch, deep river gorges and towering rock formations.",
+  "metaDescription": "A Bohemian Switzerland travel guide: Pravčická Gate, Edmund Gorge, Hřensko, hiking, food and how to plan a visit to this Czech national park.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Václav Havel Airport Prague (PRG), about 2 hours by road",
+  "knownFor": "Pravčická Gate, Edmund Gorge boat trips, sandstone rock towers",
+  "budget": "Kč1,500–3,000 per day, budget to mid-range",
+  "goodFor": "Hiking, nature, photography",
+  "coords": { "lat": 50.8722, "lng": 14.2044 },
+  "image": {
+    "file": "File:Pravčická brána (Prebischtor) - by Pudelek.jpg",
+    "alt": "Pravčická Gate, Europe's largest natural sandstone arch, in Bohemian Switzerland"
+  },
+  "intro": [
+    "Bohemian Switzerland is genuinely one of the Czech Republic's most dramatic landscapes, a national park of sandstone towers, deep gorges and dense forest hard against the German border.",
+    "Its centrepiece is genuinely Pravčická Gate, the largest natural sandstone arch in Europe, though the wider park's gorges and rock labyrinths reward days of exploration beyond it.",
+    "It's genuinely popular as a day trip from Prague, though the park's scale and network of trails make an overnight stay in Hřensko or Mezní Louka a genuinely worthwhile extension."
+  ],
+  "whyVisit": {
+    "intro": "Bohemian Switzerland's case rests genuinely on landscape unlike anywhere else in the Czech Republic.",
+    "points": [
+      {
+        "title": "Pravčická Gate is genuinely Europe's largest natural sandstone arch",
+        "text": "A striking geological centrepiece that gave the whole park its name."
+      },
+      {
+        "title": "Edmund Gorge is genuinely a singular experience",
+        "text": "A silent boat ride between sheer sandstone walls rising straight from the water."
+      },
+      {
+        "title": "The hiking here is genuinely excellent",
+        "text": "Well-marked trails through sandstone labyrinths and dense forest for every fitness level."
+      },
+      {
+        "title": "It's genuinely dramatically different from Bohemia's castle towns",
+        "text": "A pure nature escape rather than another historic centre."
+      },
+      {
+        "title": "It works genuinely well as a Prague day trip or overnight stay",
+        "text": "Close enough for a full day, rewarding enough to justify staying longer."
+      }
+    ]
+  },
+  "attractionsIntro": "Bohemian Switzerland's essential sights are genuinely its sandstone arch, river gorges and rock formations.",
+  "attractions": [
+    {
+      "name": "Pravčická Gate",
+      "image": {
+        "file": "File:Pravčická brána (Prebischtor) - by Pudelek.jpg",
+        "alt": "Pravčická Gate, Europe's largest natural sandstone arch"
+      },
+      "text": "Genuinely the largest natural sandstone arch in Europe, and the park's defining landmark.",
+      "tip": "Genuinely arrive early — this is the park's single most visited spot and does get crowded by midday."
+    },
+    {
+      "name": "The trail to Pravčická Gate",
+      "image": {
+        "file": "File:20240317 xl 1116-Path to the Pravčická brána 2024 (Monoculture, man-made climate change, bark beetle infestation, fire) 76.jpg",
+        "alt": "The forest trail leading to Pravčická Gate"
+      },
+      "text": "Genuinely a rewarding walk in itself, climbing through forest and past smaller rock formations en route.",
+      "tip": "Genuinely allow an hour or so each way from Hřensko at an unhurried pace."
+    },
+    {
+      "name": "Edmund Gorge (Edmundova soutěska)",
+      "image": {
+        "file": "File:Edmundova Soutěska (Edmundsklamm) 2015-08 --2.JPG",
+        "alt": "Edmund Gorge in Bohemian Switzerland"
+      },
+      "text": "Genuinely one of the park's signature experiences, a narrow river gorge with sheer sandstone walls on both sides.",
+      "tip": "Genuinely a small boat ride covers part of the gorge — book at the entrance kiosk."
+    },
+    {
+      "name": "Hřensko village",
+      "image": {
+        "file": "File:Hřensko, okres Děčín.jpg",
+        "alt": "The riverside village of Hřensko"
+      },
+      "text": "Genuinely the park's main gateway village, tucked into a narrow valley where the Kamenice meets the Elbe.",
+      "tip": "Genuinely a natural base for hikes to both Pravčická Gate and Edmund Gorge."
+    },
+    {
+      "name": "Tiské stěny (Tisá Rocks)",
+      "image": {
+        "file": "File:Tiské stěny - vstup do skal.jpg",
+        "alt": "The rock labyrinth of Tiské stěny"
+      },
+      "text": "Genuinely a maze-like labyrinth of sandstone towers and narrow passages, a little away from the park's busier core.",
+      "tip": "Genuinely quieter than Pravčická Gate, a good choice if you want the scenery without the crowds."
+    },
+    {
+      "name": "The park's sandstone towers",
+      "image": {
+        "file": "File:Rock round Pravčická brána (1).jpg",
+        "alt": "Sandstone rock towers in Bohemian Switzerland"
+      },
+      "text": "Genuinely scattered throughout the park, dramatic eroded towers rising straight out of dense forest.",
+      "tip": "Genuinely several marked viewpoints offer a wide look over the formations at once."
+    },
+    {
+      "name": "Mezní Louka",
+      "image": {
+        "file": "File:Mezní Louka, hotel, zastávka Sächsisch-Böhmischer Nationalpark-Express.jpg",
+        "alt": "Mezní Louka, a hub for trails in Bohemian Switzerland"
+      },
+      "text": "Genuinely a useful hub deep in the park, with trail access and a National Park Express bus stop.",
+      "tip": "Genuinely a good alternative base to Hřensko if you want to be closer to the park's interior trails."
+    }
+  ],
+  "thingsToDoIntro": "Bohemian Switzerland genuinely rewards a full day of hiking, split between its signature sights and quieter corners.",
+  "thingsToDo": [
+    {
+      "title": "Hike to Pravčická Gate",
+      "image": {
+        "file": "File:20240317 xl 1116-Path to the Pravčická brána 2024 (Monoculture, man-made climate change, bark beetle infestation, fire) 34.jpg",
+        "alt": "Hiking the trail to Pravčická Gate"
+      },
+      "text": "A genuinely essential hike, climbing through forest to the park's iconic sandstone arch.",
+      "tip": "Genuinely start early from Hřensko to beat both the crowds and the midday heat."
+    },
+    {
+      "title": "Take a boat through Edmund Gorge",
+      "image": {
+        "file": "File:Edmundova Soutěska (Edmundsklamm) 2015-08 --1.jpg",
+        "alt": "A boat trip through Edmund Gorge"
+      },
+      "text": "A genuinely serene experience, gliding silently beneath sheer sandstone walls on a small wooden boat.",
+      "tip": "Genuinely combine with the Pravčická Gate hike for a full, satisfying day in the park."
+    },
+    {
+      "title": "Explore the Tiské stěny rock labyrinth",
+      "image": {
+        "file": "File:Tiské stěny - vstup do skal.jpg",
+        "alt": "Exploring the rock labyrinth at Tiské stěny"
+      },
+      "text": "A genuinely fun, slightly adventurous walk, squeezing through narrow passages between towering rock walls.",
+      "tip": "Genuinely wear sturdy shoes — the paths are uneven and occasionally narrow."
+    },
+    {
+      "title": "Wander Hřensko's riverside village",
+      "image": {
+        "file": "File:Hřensko 2007.jpg",
+        "alt": "The village of Hřensko in Bohemian Switzerland"
+      },
+      "text": "A genuinely relaxed way to start or end a day of hiking, strolling the village's short riverside stretch.",
+      "tip": "Genuinely stock up on water and snacks here before heading into the park."
+    },
+    {
+      "title": "Photograph the park's sandstone towers",
+      "image": {
+        "file": "File:Národní Park České Švýcarsko 07.jpg",
+        "alt": "Sandstone rock towers in the national park"
+      },
+      "text": "A genuinely rewarding pursuit, the park's marked viewpoints offering dramatic wide shots of the formations.",
+      "tip": "Genuinely golden hour light picks out the sandstone's texture particularly well."
+    },
+    {
+      "title": "Base yourself at Mezní Louka for the interior trails",
+      "image": {
+        "file": "File:Mezní Louka, hotel, zastávka Sächsisch-Böhmischer Nationalpark-Express.jpg",
+        "alt": "Mezní Louka, a trail hub in Bohemian Switzerland"
+      },
+      "text": "A genuinely useful option for a longer stay, putting you closer to trails deeper in the park.",
+      "tip": "Genuinely the National Park Express bus connects Mezní Louka easily back to Hřensko."
+    }
+  ],
+  "foodIntro": "Food here genuinely means simple countryside cooking, best enjoyed after a long day of hiking.",
+  "foods": [
+    {
+      "name": "Houbová polévka (wild mushroom soup)",
+      "text": "Genuinely a countryside classic, made with mushrooms foraged from the region's dense forests in season.",
+      "whereToTry": "Local restaurants and guesthouses in Hřensko."
+    },
+    {
+      "name": "Svíčková (marinated beef in cream sauce)",
+      "image": {
+        "file": "File:Svickova with dumplings.jpg",
+        "alt": "Svíčková, marinated beef in cream sauce with bread dumplings"
+      },
+      "text": "Genuinely a satisfying, warming meal after a long day on the trails.",
+      "whereToTry": "Guesthouses and restaurants in Hřensko and Mezní Louka."
+    },
+    {
+      "name": "Guláš with dumplings",
+      "image": {
+        "file": "File:Guláš s knedlíky.jpg",
+        "alt": "Czech goulash served with bread dumplings"
+      },
+      "text": "Genuinely a hearty, filling classic, common on menus throughout the park's small villages.",
+      "whereToTry": "Local restaurants in Hřensko."
+    },
+    {
+      "name": "Smažený sýr (fried cheese)",
+      "image": {
+        "file": "File:Smažený sýr s tatarskou omáčkou a brambory.jpg",
+        "alt": "Smažený sýr, breaded fried cheese with tartar sauce and potatoes"
+      },
+      "text": "Genuinely a reliable, satisfying option after a long hike.",
+      "whereToTry": "Local restaurants throughout the park's villages."
+    },
+    {
+      "name": "Czech beer (pivo)",
+      "image": {
+        "file": "File:Klasik svetle pivo.jpg",
+        "alt": "A glass of classic Czech pale lager"
+      },
+      "text": "Genuinely a well-earned reward after a day of hiking the park's trails.",
+      "whereToTry": "Local pubs and guesthouses in Hřensko."
+    },
+    {
+      "name": "Koláče (fruit-filled pastries)",
+      "image": {
+        "file": "File:Traditional Czech koláče in Sušice.jpg",
+        "alt": "Traditional koláče pastries filled with fruit"
+      },
+      "text": "Genuinely a nice trailside snack, found at village bakeries and shops.",
+      "whereToTry": "Small shops and bakeries in Hřensko."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors genuinely see Bohemian Switzerland as a Prague day trip, though staying overnight allows a far more relaxed pace.",
+    "areas": [
+      {
+        "name": "Hřensko",
+        "bestFor": "Being genuinely closest to Pravčická Gate and Edmund Gorge",
+        "text": "The park's main gateway village, with the widest choice of guesthouses."
+      },
+      {
+        "name": "Mezní Louka",
+        "bestFor": "A genuinely quieter base closer to the park's interior trails",
+        "text": "A smaller hub with hotel accommodation and direct trail access."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "Kč900–1,600 per night" },
+      { "label": "Mid-range hotel", "value": "Kč1,800–3,200 per night" },
+      { "label": "Edmund Gorge boat ride", "value": "About Kč100–150" },
+      { "label": "Lunch at a village restaurant", "value": "About Kč180–350 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Bohemian Switzerland is genuinely reachable as a day trip from Prague, though it takes a bit more effort than closer Bohemian towns.",
+    "options": [
+      {
+        "mode": "Organised day trip from Prague",
+        "text": "Genuinely the easiest option, covering both Pravčická Gate and Edmund Gorge in one day.",
+        "detail": "Widely available from Prague tour operators, typically a full-day trip."
+      },
+      {
+        "mode": "Train to Děčín, then bus",
+        "text": "Genuinely doable independently, with a change partway.",
+        "detail": "Takes around 2.5 to 3 hours total from Prague."
+      },
+      {
+        "mode": "Car or private driver",
+        "text": "Genuinely the most flexible option, especially for reaching quieter corners like Tiské stěny.",
+        "detail": "About two hours from Prague."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Getting around the park genuinely means hiking trails, with a shuttle bus covering the longer stretches.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Genuinely the only way to reach Pravčická Gate and most of the park's key sights.",
+        "detail": "Well-marked trails suit a range of fitness levels."
+      },
+      {
+        "mode": "National Park Express shuttle bus",
+        "text": "Genuinely useful for covering longer distances between trailheads.",
+        "detail": "Connects Hřensko, Mezní Louka and other key points through the park."
+      },
+      {
+        "mode": "Small boat through Edmund Gorge",
+        "text": "Genuinely the only way to properly experience the gorge itself.",
+        "detail": "Board at the entrance kiosk a short walk from Hřensko."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May, June and September for the best hiking conditions",
+    "summary": "Bohemian Switzerland is genuinely best visited outside peak summer crowds and winter's icy trails.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely comfortable hiking temperatures with fresh green forest."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Genuinely the busiest season, especially at Pravčická Gate — arrive early to beat the crowds."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Genuinely spectacular forest colour, with noticeably fewer visitors than summer."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "okay",
+        "text": "Genuinely beautiful under snow, though some trails and the gorge boat close for the season."
+      }
+    ],
+    "avoid": "Genuinely check for seasonal trail or gorge-boat closures before a winter visit."
+  },
+  "itinerary": {
+    "title": "One day in Bohemian Switzerland",
+    "intro": "A single full day covering the park's two signature experiences.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Pravčická Gate and Edmund Gorge",
+        "summary": "A full day of hiking and a gorge boat ride.",
+        "morning": "Hike from Hřensko up to Pravčická Gate.",
+        "afternoon": "Walk to Edmund Gorge and take the boat ride.",
+        "evening": "Dinner back in Hřensko before returning to Prague."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Bohemian Switzerland visit noticeably smoother.",
+  "tips": [
+    "Start genuinely early to reach Pravčická Gate before the day's tour groups.",
+    "Wear genuinely proper hiking shoes — trails are well maintained but uneven in places.",
+    "Check genuinely seasonal opening hours for the Edmund Gorge boat ride ahead of a visit.",
+    "Bring genuinely water and snacks — options thin out once you're on the trails.",
+    "Consider genuinely staying overnight for a far less rushed, less crowded experience.",
+    "Pack genuinely a rain layer — weather in the gorges can shift quickly."
+  ],
+  "faq": [
+    {
+      "q": "Is Bohemian Switzerland worth a day trip from Prague?",
+      "a": "Yes, genuinely — Pravčická Gate and Edmund Gorge together make for one of the most rewarding nature day trips near Prague."
+    },
+    {
+      "q": "How do you get to Bohemian Switzerland from Prague?",
+      "a": "Genuinely easiest by organised day trip, or independently by train to Děčín followed by a local bus."
+    },
+    {
+      "q": "How difficult is the hike to Pravčická Gate?",
+      "a": "Genuinely moderate — well-marked forest trails suited to most fitness levels, taking about an hour each way from Hřensko."
+    },
+    {
+      "q": "Is the Edmund Gorge boat ride worth it?",
+      "a": "Yes, genuinely — it's a uniquely peaceful way to see the park's sheer sandstone walls up close."
+    },
+    {
+      "q": "How many days do you need in Bohemian Switzerland?",
+      "a": "One full day genuinely covers the highlights; two days allows time for quieter spots like Tiské stěny."
+    },
+    {
+      "q": "Is Bohemian Switzerland crowded?",
+      "a": "Pravčická Gate genuinely gets busy by midday in summer; an early start or quieter corners of the park stay noticeably calmer."
+    }
+  ],
+  "related": ["prague", "karlovy-vary", "plzen"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}
