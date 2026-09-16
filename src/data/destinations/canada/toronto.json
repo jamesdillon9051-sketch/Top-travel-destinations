@@ -1,0 +1,382 @@
+{
+  "slug": "toronto",
+  "name": "Toronto",
+  "country": "canada",
+  "region": "Ontario",
+  "categories": ["major-city", "culture-arts", "food-and-wine", "family"],
+  "tagline": "Canada's largest and most multicultural city, a genuine United Nations of neighbourhoods anchored by a tower that dominated the world's skylines for over three decades.",
+  "highlight": "Standing on the CN Tower's glass floor, 342 metres of open air the only thing between your feet and the street below.",
+  "shortDescription": "Canada's largest and most multicultural city, home to the CN Tower, the Distillery District's Victorian warehouses and neighbourhoods representing the world.",
+  "metaDescription": "A Toronto travel guide: the CN Tower, the Distillery District, Kensington Market, Casa Loma, food and how to plan a visit to Canada's biggest city.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Toronto Pearson International Airport (YYZ)",
+  "knownFor": "The CN Tower, Kensington Market, the Distillery District",
+  "budget": "C$180–350 per day, mid-range",
+  "goodFor": "City life, food, museums",
+  "coords": { "lat": 43.6532, "lng": -79.3832 },
+  "image": {
+    "file": "File:CN Tower, Toronto, Canada (Unsplash DJ kOgH5u0o).jpg",
+    "alt": "The CN Tower above Toronto's skyline"
+  },
+  "intro": [
+    "Toronto is genuinely Canada's largest city and its most multicultural, with over half its population born outside Canada and neighbourhoods representing nearly every corner of the world.",
+    "Its skyline is genuinely still defined by the CN Tower, which held the record for the world's tallest freestanding structure for more than three decades.",
+    "The real draw, though, is genuinely street level — Kensington Market's eclectic shops, the Distillery District's Victorian warehouses, and a food scene that reflects the city's remarkable diversity."
+  ],
+  "whyVisit": {
+    "intro": "Toronto's case rests genuinely on being one of the world's most diverse cities, with the food and neighbourhood culture to prove it.",
+    "points": [
+      {
+        "title": "It's genuinely one of the most multicultural cities on Earth",
+        "text": "Neighbourhoods representing dozens of cultures, each with its own genuine character."
+      },
+      {
+        "title": "The CN Tower is genuinely still an icon",
+        "text": "A defining symbol of the skyline, with a glass floor and revolving restaurant."
+      },
+      {
+        "title": "The food scene is genuinely exceptional",
+        "text": "A direct reflection of the city's diversity, from dim sum to Jamaican patties to fine dining."
+      },
+      {
+        "title": "It's genuinely a real, walkable big city",
+        "text": "Distinct neighbourhoods connect easily by transit or on foot."
+      },
+      {
+        "title": "It works genuinely well as an Eastern Canada base",
+        "text": "An easy pairing with Niagara Falls, Montreal and Quebec City."
+      }
+    ]
+  },
+  "attractionsIntro": "Toronto's essential sights are genuinely spread across its downtown core and a handful of distinct historic neighbourhoods.",
+  "attractions": [
+    {
+      "name": "The CN Tower",
+      "image": {
+        "file": "File:CN Tower, Toronto, Canada (Unsplash DJ kOgH5u0o).jpg",
+        "alt": "The CN Tower above Toronto"
+      },
+      "text": "Genuinely the city's defining landmark, held the record for the world's tallest freestanding structure from 1975 to 2007.",
+      "tip": "Genuinely book a sunset time slot for the best light over Lake Ontario."
+    },
+    {
+      "name": "The Distillery District",
+      "image": {
+        "file": "File:Distillery District, looking northeast 2026.jpg",
+        "alt": "The Distillery District in Toronto"
+      },
+      "text": "Genuinely a car-free enclave of Victorian industrial architecture, once the largest whisky distillery in the British Empire.",
+      "tip": "Genuinely a lovely spot for a slow wander among galleries, boutiques and cafés."
+    },
+    {
+      "name": "Casa Loma",
+      "image": {
+        "file": "File:Casa Loma, Toronto, Ontario (29969262336).jpg",
+        "alt": "Casa Loma, a castle in Toronto"
+      },
+      "text": "Genuinely a full-scale early 20th-century castle, complete with secret passages and manicured gardens.",
+      "tip": "Genuinely allow a couple of hours to properly explore both the interior and the grounds."
+    },
+    {
+      "name": "St Lawrence Market",
+      "image": {
+        "file": "File:St Lawrence Market, Toronto, West partial view 20170417 1.jpg",
+        "alt": "St Lawrence Market in Toronto"
+      },
+      "text": "Genuinely a working market with real history, once named the world's best food market by National Geographic.",
+      "tip": "Genuinely visit on a Saturday for the additional farmers' market in the north building."
+    },
+    {
+      "name": "Kensington Market",
+      "image": {
+        "file": "File:Kensington Market Toronto August 2017 01.jpg",
+        "alt": "Kensington Market in Toronto"
+      },
+      "text": "Genuinely one of the city's most eclectic neighbourhoods, vintage shops and global food stalls packed into a few colourful blocks.",
+      "tip": "Genuinely visit on a car-free Pedestrian Sunday if your dates align, held on the last Sunday of warmer months."
+    },
+    {
+      "name": "The Toronto Islands",
+      "image": {
+        "file": "File:View of Toronto Skyline from Centre Island.jpg",
+        "alt": "Toronto's skyline seen from the Toronto Islands"
+      },
+      "text": "Genuinely a car-free escape a short ferry ride from downtown, with beaches, parkland and the city's best skyline view.",
+      "tip": "Genuinely rent a bike on the islands to cover more ground than walking alone."
+    },
+    {
+      "name": "The Royal Ontario Museum's Crystal",
+      "image": {
+        "file": "File:Royal Ontario Museum in Fall 2021.jpg",
+        "alt": "The Michael Lee-Chin Crystal at the Royal Ontario Museum"
+      },
+      "text": "Genuinely a striking architectural statement, a jagged crystalline extension bursting from the museum's original heritage building.",
+      "tip": "Genuinely allow a full afternoon — the collection inside is genuinely extensive."
+    }
+  ],
+  "thingsToDoIntro": "Toronto genuinely rewards exploring by neighbourhood, each with its own distinct food and character.",
+  "thingsToDo": [
+    {
+      "title": "Go up the CN Tower",
+      "image": {
+        "file": "File:Toronto - ON - CN Tower bei Nacht2.jpg",
+        "alt": "The CN Tower at night"
+      },
+      "text": "A genuinely essential Toronto experience, taking in the view from the observation deck or glass floor.",
+      "tip": "Genuinely consider the EdgeWalk if you want a real adrenaline rush — a hands-free walk around the tower's outer rim."
+    },
+    {
+      "title": "Wander the Distillery District's cobblestones",
+      "image": {
+        "file": "File:Toronto's Distillery District in 2014 (13955526085).jpg",
+        "alt": "Cobblestone streets in the Distillery District"
+      },
+      "text": "A genuinely relaxed way to spend an afternoon, browsing boutiques and galleries in converted Victorian warehouses.",
+      "tip": "Genuinely check the events calendar — the district regularly hosts markets and festivals."
+    },
+    {
+      "title": "Tour Casa Loma's castle rooms",
+      "image": {
+        "file": "File:Casa Loma, Toronto, Ontario (29709456210).jpg",
+        "alt": "Touring Casa Loma's interior"
+      },
+      "text": "A genuinely fun, slightly surreal visit, wandering a full-scale castle's period rooms and secret tunnel.",
+      "tip": "Genuinely check for seasonal light shows and special events held on the grounds."
+    },
+    {
+      "title": "Browse St Lawrence Market's food stalls",
+      "image": {
+        "file": "File:St. Lawrence Market - Toronto (26333843088).jpg",
+        "alt": "Food stalls at St Lawrence Market"
+      },
+      "text": "A genuinely essential food stop, sampling everything from peameal bacon sandwiches to international specialties.",
+      "tip": "Genuinely go hungry and share several stalls' offerings rather than filling up at just one."
+    },
+    {
+      "title": "Explore Kensington Market's eclectic shops",
+      "image": {
+        "file": "File:Kensington Market Toronto August 2017 04.jpg",
+        "alt": "Shops in Kensington Market"
+      },
+      "text": "A genuinely colourful way to spend a few hours, vintage stores and global street food packed into a compact area.",
+      "tip": "Genuinely pair with neighbouring Chinatown, just a short walk away."
+    },
+    {
+      "title": "Take the ferry to the Toronto Islands",
+      "image": {
+        "file": "File:Toronto Islands Yacht Club and Skyline.jpg",
+        "alt": "The ferry to the Toronto Islands"
+      },
+      "text": "A genuinely easy, scenic escape, swapping downtown streets for beaches and the city's best skyline photo.",
+      "tip": "Genuinely book ferry tickets online ahead on busy summer weekends."
+    }
+  ],
+  "foodIntro": "Toronto's food genuinely reflects its remarkable diversity, a real strength of the city's dining scene.",
+  "foods": [
+    {
+      "name": "Peameal bacon sandwich",
+      "image": {
+        "file": "File:Peameal bacon sandwich.jpg",
+        "alt": "A peameal bacon sandwich, a Toronto specialty"
+      },
+      "text": "Genuinely a true Toronto original, cornmeal-crusted back bacon piled onto a soft bun.",
+      "whereToTry": "St Lawrence Market's Carousel Bakery, the dish's most famous source."
+    },
+    {
+      "name": "Jamaican beef patty",
+      "image": {
+        "file": "File:Beef patty (2053394161).jpg",
+        "alt": "A Jamaican beef patty"
+      },
+      "text": "Genuinely a beloved staple reflecting Toronto's large Caribbean community.",
+      "whereToTry": "Bakeries and shops throughout the city, especially in Caribbean neighbourhoods."
+    },
+    {
+      "name": "Butter tarts",
+      "image": {
+        "file": "File:Butter tarts it's a Canadian thing. (47104703864).jpg",
+        "alt": "Butter tarts, a classic Canadian pastry"
+      },
+      "text": "Genuinely a beloved Ontario classic, found at bakeries throughout the city.",
+      "whereToTry": "Bakeries and cafés throughout Toronto."
+    },
+    {
+      "name": "Poutine",
+      "image": {
+        "file": "File:Poutine déjeuner.jpg",
+        "alt": "Poutine, Canada's fries, cheese curds and gravy dish"
+      },
+      "text": "Genuinely widely available, though this is Quebec's dish rather than a local specialty.",
+      "whereToTry": "Restaurants and food trucks throughout the city."
+    },
+    {
+      "name": "Dim sum",
+      "image": {
+        "file": "File:Three dim sum in steamer basket.jpg",
+        "alt": "Dim sum, small steamed dishes"
+      },
+      "text": "Genuinely excellent here too, a reflection of Toronto's own large Chinese community.",
+      "whereToTry": "Restaurants throughout Chinatown and Scarborough."
+    },
+    {
+      "name": "Ontario craft beer and wine",
+      "text": "Genuinely worth exploring, with a thriving local brewery scene and Niagara wine country nearby.",
+      "whereToTry": "Bars and restaurants throughout the city."
+    }
+  ],
+  "accommodation": {
+    "intro": "Toronto genuinely offers accommodation for every budget, with downtown commanding the highest prices.",
+    "areas": [
+      {
+        "name": "Downtown or the Entertainment District",
+        "bestFor": "Being genuinely within walking distance of the CN Tower and waterfront",
+        "text": "The most convenient, though also the priciest, part of the city to stay."
+      },
+      {
+        "name": "Queen West or Kensington",
+        "bestFor": "A genuinely more character-filled, slightly better value stay",
+        "text": "Close to Kensington Market and Chinatown, with easy transit downtown."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "C$45–80 per night" },
+      { "label": "Mid-range hotel", "value": "C$200–350 per night" },
+      { "label": "CN Tower observation deck ticket", "value": "About C$50–65" },
+      { "label": "Dinner at a mid-range restaurant", "value": "About C$30–55 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Toronto is genuinely one of North America's best-connected cities by air, with a large international airport.",
+    "options": [
+      {
+        "mode": "Direct international flights",
+        "text": "Genuinely available from across the world.",
+        "detail": "The UP Express train connects Pearson Airport to downtown Union Station in about 25 minutes."
+      },
+      {
+        "mode": "Train from Montreal or Ottawa",
+        "text": "Genuinely a comfortable, frequent option.",
+        "detail": "Via Rail's corridor service connects all three cities well."
+      },
+      {
+        "mode": "Bus or drive from Niagara Falls",
+        "text": "Genuinely an easy day-trip connection.",
+        "detail": "About 1.5 hours by road or a direct GO Transit train."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Toronto's genuinely extensive transit network covers the city well, with downtown itself easily walkable.",
+    "options": [
+      {
+        "mode": "Subway and streetcars",
+        "text": "Genuinely reliable and easy to use across the city.",
+        "detail": "The TTC's subway lines and streetcar network cover most major sights."
+      },
+      {
+        "mode": "On foot",
+        "text": "Genuinely the best way to explore individual downtown neighbourhoods.",
+        "detail": "Kensington Market, the Distillery District and the waterfront are all walkable once you're there."
+      },
+      {
+        "mode": "Ferry to the Toronto Islands",
+        "text": "Genuinely the only way to reach the islands.",
+        "detail": "Frequent departures from the downtown ferry terminal."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May to September for warm weather and outdoor events",
+    "summary": "Toronto is genuinely a year-round city, with summer bringing the most festivals and outdoor activity.",
+    "seasons": [
+      {
+        "season": "Late spring (May–June)",
+        "rating": "best",
+        "text": "Genuinely mild, comfortable weather before summer's full heat and humidity arrive."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Genuinely warm and humid, with the city's festival calendar in full swing."
+      },
+      {
+        "season": "Early autumn (September–October)",
+        "rating": "best",
+        "text": "Genuinely comfortable temperatures with excellent fall colour in the city's parks."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "okay",
+        "text": "Genuinely cold, with the city's extensive PATH underground walkway system a real asset."
+      }
+    ],
+    "avoid": "Genuinely nothing strongly — Toronto genuinely works as a year-round city break."
+  },
+  "itinerary": {
+    "title": "Three days in Toronto",
+    "intro": "Built around downtown's landmarks, historic neighbourhoods and a day trip to the islands.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Downtown and the CN Tower",
+        "summary": "The city's iconic sights.",
+        "morning": "The CN Tower's observation deck.",
+        "afternoon": "St Lawrence Market for lunch and browsing.",
+        "evening": "Dinner and drinks in the Distillery District."
+      },
+      {
+        "day": 2,
+        "title": "Neighbourhoods and Casa Loma",
+        "summary": "A day of distinct city character.",
+        "morning": "Kensington Market and Chinatown.",
+        "afternoon": "Tour Casa Loma's castle rooms and gardens.",
+        "evening": "Dinner reflecting the city's global food scene."
+      },
+      {
+        "day": 3,
+        "title": "The Toronto Islands",
+        "summary": "A relaxed day on the water.",
+        "morning": "Ferry to the Toronto Islands.",
+        "afternoon": "Cycle or walk the islands, with the skyline view.",
+        "evening": "A final dinner back downtown."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes that make a Toronto visit noticeably smoother.",
+  "tips": [
+    "Book genuinely CN Tower tickets online ahead, especially for sunset time slots.",
+    "Use genuinely the PATH underground walkway system in winter to avoid the cold.",
+    "Explore genuinely by neighbourhood — Toronto's real character lives outside downtown's tower district.",
+    "Book genuinely Toronto Islands ferry tickets ahead on busy summer weekends.",
+    "Try genuinely food from multiple different neighbourhoods rather than sticking to downtown alone.",
+    "Use genuinely Toronto as a base for day trips to Niagara Falls."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Toronto?",
+      "a": "Three days genuinely covers the city's main sights and a couple of its distinct neighbourhoods comfortably."
+    },
+    {
+      "q": "Is Toronto expensive?",
+      "a": "Genuinely comparable to other major North American cities, with food covering a wide range of budgets."
+    },
+    {
+      "q": "Is Toronto walkable?",
+      "a": "Yes, genuinely — downtown and its surrounding neighbourhoods are compact and well served by transit."
+    },
+    {
+      "q": "Is the CN Tower worth visiting?",
+      "a": "Yes, genuinely — it remains an iconic experience, and the glass floor is genuinely a memorable thrill."
+    },
+    {
+      "q": "Can you day-trip to Niagara Falls from Toronto?",
+      "a": "Yes, genuinely easily — it's about 1.5 hours by road or a direct train."
+    },
+    {
+      "q": "Is Toronto good for food?",
+      "a": "Yes, genuinely exceptional — its multicultural population makes it one of North America's best cities for diverse, authentic cuisine."
+    }
+  ],
+  "related": ["niagara-falls", "montreal", "quebec-city"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

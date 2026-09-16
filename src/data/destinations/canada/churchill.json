@@ -1,0 +1,366 @@
+{
+  "slug": "churchill",
+  "name": "Churchill",
+  "country": "canada",
+  "region": "Manitoba",
+  "categories": ["wildlife", "nature", "remote", "adventure"],
+  "tagline": "A subarctic outpost on Hudson Bay known worldwide as the polar bear capital, reachable only by plane or train.",
+  "highlight": "Watching wild polar bears from the safety of a Tundra Buggy as they wait on the shore for Hudson Bay to freeze.",
+  "shortDescription": "A remote town on Hudson Bay famous for wild polar bears, summer beluga whales and some of the best northern lights viewing in North America.",
+  "metaDescription": "A Churchill travel guide: polar bears, Tundra Buggy tours, beluga whales, the northern lights and how to plan a visit to this remote Hudson Bay outpost.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "Churchill Airport (YYQ), served by direct flights from Winnipeg — no road connects Churchill to the rest of Manitoba",
+  "knownFor": "Wild polar bears, Tundra Buggy tours, beluga whales, the northern lights",
+  "budget": "C$400-900+ per day, since multi-day guided packages dominate the cost of a visit",
+  "goodFor": "Wildlife, photography, remote adventure",
+  "coords": { "lat": 58.7684, "lng": -94.165 },
+  "image": {
+    "file": "File:Polar Bear - Churchill, Manitoba (40585701364).jpg",
+    "alt": "A wild polar bear on the tundra near Churchill, Manitoba"
+  },
+  "intro": [
+    "Churchill sits on the western shore of Hudson Bay, a town of under a thousand people with no road link to the rest of Manitoba — the only way in is a direct flight from Winnipeg or a two-night ride on the Hudson Bay train.",
+    "It has become world-famous as the polar bear capital, and each October and November the bears gather on the shore nearby waiting for the bay to freeze, close enough to watch safely from a Tundra Buggy built for exactly that.",
+    "Bears are only part of the story: thousands of beluga whales fill the Churchill River estuary every summer, and the town's far-north location and dark, wide-open skies make it one of the most reliable places on the continent to see the aurora borealis."
+  ],
+  "whyVisit": {
+    "intro": "Churchill's appeal comes from wildlife that's hard to see anywhere else, in a landscape unlike anywhere in southern Canada.",
+    "points": [
+      {
+        "title": "It's the best place on earth to see wild polar bears",
+        "text": "Nowhere else offers this concentration of bears this reliably, viewed at close range from purpose-built vehicles."
+      },
+      {
+        "title": "Tundra Buggies get you close without disturbing the bears",
+        "text": "Elevated, enclosed vehicles built specifically for the terrain and for keeping a respectful distance."
+      },
+      {
+        "title": "Summer brings thousands of beluga whales",
+        "text": "The Churchill River estuary hosts one of the largest beluga populations anywhere, visible from boats, kayaks or the shore."
+      },
+      {
+        "title": "It's among the most reliable spots for the northern lights",
+        "text": "Far enough north and dark enough to see strong displays on a large share of clear winter nights."
+      },
+      {
+        "title": "It's real subarctic wilderness, not a re-creation of it",
+        "text": "A working northern town on the tundra's edge, not a resort built around the wildlife."
+      }
+    ]
+  },
+  "attractionsIntro": "Churchill's sights are spread between the tundra outside town, the river mouth, and a handful of historic sites near the water.",
+  "attractions": [
+    {
+      "name": "Polar bears of the Churchill Wildlife Management Area",
+      "image": {
+        "file": "File:Polar Bear - Churchill, Manitoba (26427247447).jpg",
+        "alt": "A polar bear in the Churchill Wildlife Management Area"
+      },
+      "text": "The reason most people come — bears gathering on the tundra each autumn as they wait for sea ice to form.",
+      "tip": "Peak viewing runs from mid-October through November; book tours and flights many months ahead for this window."
+    },
+    {
+      "name": "Tundra Buggy expeditions",
+      "image": {
+        "file": "File:Tundra Buggy - Churchill, Manitoba (26427175967).jpg",
+        "alt": "A Tundra Buggy on the tundra near Churchill"
+      },
+      "text": "Elevated, enclosed vehicles that carry visitors safely out onto the tundra for close bear viewing.",
+      "tip": "Full-day trips give far better odds and better light than shorter tours."
+    },
+    {
+      "name": "Beluga whales of the Churchill River estuary",
+      "image": {
+        "file": "File:Beluga 1 1999-07-03.jpg",
+        "alt": "A beluga whale in the Churchill River estuary"
+      },
+      "text": "Thousands of belugas gather here each summer to calve and feed in the river's brackish water.",
+      "tip": "Visit from late June through August, when numbers are at their highest."
+    },
+    {
+      "name": "The aurora borealis",
+      "image": {
+        "file": "File:Aurora Borealis - Churchill, Manitoba (41299224291).jpg",
+        "alt": "The aurora borealis over the tundra near Churchill"
+      },
+      "text": "Churchill's latitude and dark skies make it one of the most consistent places in North America to see strong displays.",
+      "tip": "January through March offers the clearest, coldest skies and the longest nights to watch."
+    },
+    {
+      "name": "Prince of Wales Fort",
+      "image": {
+        "file": "File:Prince of Wales Fort, Churchill, MB.jpg",
+        "alt": "The stone walls of Prince of Wales Fort near Churchill"
+      },
+      "text": "A stone Hudson's Bay Company fort begun in 1731, reachable only by boat across the river mouth.",
+      "tip": "Only accessible by guided boat tour — check current access before planning a visit, since polar bear activity can close it."
+    },
+    {
+      "name": "Cape Merry",
+      "image": {
+        "file": "File:Cape Merry fortifications at sunset.JPG",
+        "alt": "The historic battery at Cape Merry near Churchill"
+      },
+      "text": "A rocky point at the mouth of the Churchill River with an old cannon battery and wide views over Hudson Bay.",
+      "tip": "A good spot for beluga sightings from shore in summer, without needing a boat."
+    },
+    {
+      "name": "Port of Churchill",
+      "image": {
+        "file": "File:Port of Churchill at dusk.JPG",
+        "alt": "The grain terminal at the Port of Churchill"
+      },
+      "text": "Canada's only Arctic deep-water port, its grain terminal a defining feature of the town's skyline.",
+      "tip": "Visible from several points around town; no need for a dedicated trip to see it."
+    }
+  ],
+  "thingsToDoIntro": "What fills a visit depends heavily on the season, since Churchill's three main draws barely overlap on the calendar.",
+  "thingsToDo": [
+    {
+      "title": "Ride a Tundra Buggy into the wildlife management area",
+      "image": {
+        "file": "File:Tundra Buggy and polar bears.jpg",
+        "alt": "A Tundra Buggy approaching polar bears on the tundra"
+      },
+      "text": "The standard way to see bears safely at close range during polar bear season.",
+      "tip": "Some operators run overnight Tundra Buggy Lodges out on the tundra itself for early-morning and late-evening light."
+    },
+    {
+      "title": "Snorkel or kayak with beluga whales",
+      "image": {
+        "file": "File:Beluga 1 1999-07-03 cropped.jpg",
+        "alt": "A beluga whale near the surface of the Churchill River"
+      },
+      "text": "A summer specialty — belugas are naturally curious and often approach boats, kayaks and swimmers.",
+      "tip": "Wetsuits are provided for snorkelling trips; the water stays cold even in midsummer."
+    },
+    {
+      "title": "Chase the aurora after dark",
+      "image": {
+        "file": "File:Aurora borealis2, Churchill, MB.JPG",
+        "alt": "The northern lights over Churchill, Manitoba"
+      },
+      "text": "Guided aurora tours head away from town lights for the clearest view of the sky.",
+      "tip": "Dress for far colder temperatures than you'd expect — standing still outdoors at night drops fast."
+    },
+    {
+      "title": "Go dog sledding across the tundra",
+      "image": {
+        "file": "File:Churchill dog sledding1.JPG",
+        "alt": "A dog sled team near Churchill, Manitoba"
+      },
+      "text": "A winter activity run by local mushers, following trails out across the snow-covered tundra.",
+      "tip": "Most operators offer both short rides and longer half-day trips."
+    },
+    {
+      "title": "Walk the tundra trail at Cape Merry",
+      "image": {
+        "file": "File:Tundra landscape on Cape Merry.JPG",
+        "alt": "The tundra landscape at Cape Merry near Churchill"
+      },
+      "text": "A short, easy walk through genuine subarctic tundra vegetation, right at the edge of town.",
+      "tip": "Check for recent bear activity at the visitor centre before walking anywhere outside town on your own."
+    },
+    {
+      "title": "Browse Inuit art at the Itsanitaq Museum",
+      "text": "A small museum in town holding one of Canada's older collections of Inuit carvings and artifacts.",
+      "tip": "A good option for a spare hour or on a day when weather keeps tours grounded."
+    }
+  ],
+  "foodIntro": "Food in Churchill blends northern Canadian staples with the practicalities of a town supplied almost entirely by plane and by an annual sealift.",
+  "foods": [
+    {
+      "name": "Arctic char",
+      "image": {
+        "file": "File:Arctic char drying outside in Ulukhaktok, Victoria Island, Canada.jpg",
+        "alt": "Arctic char, a fish native to Canada's far north"
+      },
+      "text": "A northern fish related to salmon and trout, served fresh, smoked or grilled at restaurants in town.",
+      "whereToTry": "Restaurants throughout Churchill."
+    },
+    {
+      "name": "Bannock",
+      "image": {
+        "file": "File:Bannock on the Cooking Stick (4708283300).jpg",
+        "alt": "Bannock, a traditional fried or baked bread"
+      },
+      "text": "A simple fried or baked bread with deep roots in Indigenous and northern Canadian cooking, served plain or alongside a meal.",
+      "whereToTry": "Cafés and restaurants throughout town."
+    },
+    {
+      "name": "Caribou or muskox stew",
+      "text": "Wild game from the surrounding tundra, slow-cooked into a hearty stew well suited to the climate.",
+      "whereToTry": "A handful of restaurants in town, seasonally."
+    },
+    {
+      "name": "Fresh-caught pickerel or whitefish",
+      "text": "Freshwater fish from nearby lakes and rivers, usually pan-fried and served simply.",
+      "whereToTry": "Restaurants throughout Churchill."
+    },
+    {
+      "name": "Baked goods from Gypsy's Bakery",
+      "text": "A long-running local institution and a popular stop for breakfast, coffee and fresh bread before a day out on the tundra.",
+      "whereToTry": "Gypsy's Bakery and Restaurant, in town."
+    },
+    {
+      "name": "A hot bowl of soup or chowder",
+      "text": "Simple, warming food that makes sense after hours outside in the cold, offered at most restaurants in town.",
+      "whereToTry": "Restaurants throughout Churchill."
+    }
+  ],
+  "accommodation": {
+    "intro": "Churchill has a small supply of hotels and lodges in town, with most visitors travelling on pre-booked multi-day packages that include accommodation.",
+    "areas": [
+      {
+        "name": "Churchill town",
+        "bestFor": "Being close to restaurants, the museum and tour departure points",
+        "text": "The town's small hotel selection, all within easy walking distance of each other."
+      },
+      {
+        "name": "Tundra Buggy Lodge (seasonal)",
+        "bestFor": "Being out on the tundra itself during polar bear season",
+        "text": "Mobile lodge units parked in the wildlife management area for guests on multi-day bear-viewing packages."
+      }
+    ],
+    "budget": [
+      { "label": "Hotel in town", "value": "C$150–300 per night" },
+      { "label": "Multi-day Tundra Buggy package", "value": "C$3,000–8,000+ per person, all-inclusive" },
+      { "label": "Return flight from Winnipeg", "value": "About C$800–1,400" },
+      { "label": "Dinner at a restaurant in town", "value": "About C$25–45 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "No road reaches Churchill — every visit starts with a flight or a long train ride from Winnipeg.",
+    "options": [
+      {
+        "mode": "Fly from Winnipeg",
+        "text": "The standard option, taking about two hours direct.",
+        "detail": "The only realistic choice for a shorter visit; book well ahead in polar bear season."
+      },
+      {
+        "mode": "Take the Hudson Bay train from Winnipeg",
+        "text": "A scenic but slow alternative, taking roughly two nights each way.",
+        "detail": "Runs a few times a week and is often used one-way, paired with a flight the other direction."
+      },
+      {
+        "mode": "Book a package tour",
+        "text": "Most visitors arrive on a pre-arranged multi-day package that includes flights, lodging and Tundra Buggy access.",
+        "detail": "Simplifies logistics considerably in a town with limited independent tourism infrastructure."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Churchill itself is small enough to walk, though tours out onto the tundra require specialist vehicles.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Covers the town centre easily, though bear activity can make walking outside town unsafe without a guide.",
+        "detail": "Check with the visitor centre about current bear activity before walking anywhere on your own."
+      },
+      {
+        "mode": "Tundra Buggy or tour vehicle",
+        "text": "The only way to reach the wildlife management area and see polar bears safely.",
+        "detail": "Included in bear-viewing tours; not something visitors arrange independently."
+      },
+      {
+        "mode": "Tour van or shuttle",
+        "text": "Used for beluga tours, museum visits and trips to Cape Merry or the fort.",
+        "detail": "Most operators include pickup from hotels in town."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–November for polar bears, June–August for belugas, January–March for the northern lights",
+    "summary": "Churchill effectively has three separate high seasons, each built around a different animal or phenomenon, with little overlap between them.",
+    "seasons": [
+      {
+        "season": "Polar bear season (October–November)",
+        "rating": "best",
+        "text": "The busiest and most famous window, with bears gathered on the shore waiting for the bay to freeze."
+      },
+      {
+        "season": "Beluga season (late June–August)",
+        "rating": "best",
+        "text": "Warmer, greener and centred on the river estuary rather than the tundra."
+      },
+      {
+        "season": "Aurora season (January–March)",
+        "rating": "good",
+        "text": "Extremely cold but clear, dark and among the most reliable northern lights viewing on the continent."
+      },
+      {
+        "season": "Late spring (April–May)",
+        "rating": "okay",
+        "text": "A quiet shoulder season between the bay's thaw and the belugas' arrival, with fewer organised tours running."
+      }
+    ],
+    "avoid": "Late spring offers the least to see, with the ice breaking up before belugas arrive and no snow left for winter activities."
+  },
+  "itinerary": {
+    "title": "Three days in Churchill",
+    "intro": "Built around whichever season you visit in, since the wildlife on offer changes completely between polar bear, beluga and aurora season.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival and orientation",
+        "summary": "Settling into town after the flight or train from Winnipeg.",
+        "morning": "Fly or arrive by train from Winnipeg.",
+        "afternoon": "Explore the town centre and the Itsanitaq Museum.",
+        "evening": "Dinner in town, and an aurora check outside if it's the season for it."
+      },
+      {
+        "day": 2,
+        "title": "Into the wild",
+        "summary": "The main wildlife day, built around whichever season you're visiting in.",
+        "morning": "A full-day Tundra Buggy tour, or a beluga boat or snorkel trip, depending on season.",
+        "afternoon": "Continue the same tour, or head out for dog sledding in winter.",
+        "evening": "Dinner in town, followed by an aurora tour if conditions allow."
+      },
+      {
+        "day": 3,
+        "title": "Cape Merry and the fort",
+        "summary": "A quieter day around the river mouth before departure.",
+        "morning": "A boat tour to Prince of Wales Fort, conditions permitting.",
+        "afternoon": "Walk the tundra trail at Cape Merry and browse shops in town.",
+        "evening": "A final dinner in town before departure."
+      }
+    ]
+  },
+  "tipsIntro": "A handful of practical points that matter more in Churchill than almost anywhere else on this list.",
+  "tips": [
+    "Book flights and tours many months ahead for polar bear season, when capacity sells out early.",
+    "Pack serious cold-weather layers for winter visits — temperatures regularly drop well below freezing.",
+    "Decide on a season before booking, since bears, belugas and the aurora rarely overlap.",
+    "Bring a zoom lens if you have one; wildlife is viewed at a respectful distance for good reason.",
+    "Check with your hotel or the visitor centre about bear activity before walking anywhere outside the town centre.",
+    "Build in a spare day where possible, since flights can be delayed by weather this far north."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Churchill?",
+      "a": "Three to four days is typical, enough for a couple of Tundra Buggy or beluga outings plus a spare day for weather."
+    },
+    {
+      "q": "How do you get to Churchill?",
+      "a": "By direct flight from Winnipeg, or by a much slower train — there's no road connection to the rest of Manitoba."
+    },
+    {
+      "q": "When is the best time to see polar bears in Churchill?",
+      "a": "Mid-October through November, when bears gather on the shore waiting for Hudson Bay to freeze."
+    },
+    {
+      "q": "Can you see polar bears and belugas on the same trip?",
+      "a": "Not usually — bears gather in autumn and belugas arrive in summer, so most visits focus on one or the other."
+    },
+    {
+      "q": "Is Churchill expensive to visit?",
+      "a": "Yes, relatively — remote flights and multi-day guided packages make it pricier than most Canadian destinations."
+    },
+    {
+      "q": "Is it safe to walk around Churchill given the polar bears?",
+      "a": "The town centre is generally fine, but bears do pass through at times, so it's worth checking current activity before walking outside the centre alone."
+    }
+  ],
+  "related": ["banff-lake-louise", "jasper-national-park", "vancouver"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}
