@@ -1,0 +1,304 @@
+{
+  "slug": "acre-old-city",
+  "name": "Acre (Akko) Old City",
+  "shortName": "Acre",
+  "country": "israel",
+  "region": "Northern District, western Galilee coast",
+  "categories": ["unesco", "historic", "coastal"],
+  "tagline": "A walled Ottoman port built on top of the Crusader capital, with underground halls of the Knights Hospitaller still intact beneath the streets.",
+  "highlight": "The Knights' Halls, a vaulted Crusader complex where the Order of St John's hospital stood, entered from a street of Ottoman shops.",
+  "shortDescription": "One of the oldest continuously inhabited ports in the world, with Crusader halls, an Ottoman citadel, a working harbour and a lively Arab market.",
+  "metaDescription": "An Acre travel guide: the Knights' Halls and Crusader tunnels, the Ottoman citadel and sea walls, the market and hummus, the harbour, day trips from Haifa and a one-day plan.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Haifa (HFA), about 30 minutes; Tel Aviv Ben Gurion (TLV), about 1 hour 45 minutes",
+  "knownFor": "Crusader Knights' Halls, the sea walls, the market, Ottoman khans, hummus",
+  "budget": "₪400–800 per day, mid-range",
+  "goodFor": "Crusader and Ottoman history, food, walking, day trips",
+  "coords": { "lat": 32.9236, "lng": 35.0684 },
+  "image": {
+    "file": "File:View over Akko (Acre) from Old City Walls - Akko - Israel (5693252457).jpg",
+    "alt": "The old city of Acre seen from its sea walls, with the harbour and minarets"
+  },
+  "intro": [
+    "Acre, called Akko in Hebrew and Akka in Arabic, has been a port for at least four thousand years. The Phoenicians, Greeks, Romans and Arabs all used it, and in the 12th century it became the capital of the Crusader Kingdom of Jerusalem after Saladin took the holy city. The Knights Hospitaller built a fortified quarter here, and Acre was the last major Crusader stronghold to fall, to the Mamluks in 1291.",
+    "The Mamluks razed much of the city, and it lay in ruins until the Ottomans rebuilt it in the 18th and 19th centuries. They built new walls, a citadel, mosques and khans on top of the Crusader remains, leaving the medieval city buried beneath the streets. The old city was inscribed on the UNESCO World Heritage List in 2001 as an outstanding example of a fortified port.",
+    "Today, Acre is a mixed city with a majority-Jewish population and a large Arab community, most of whom live in the old city. It has a working fishing port, an atmospheric market and a reputation for good food. It is small, easy to explore in a day, and much less visited than it deserves."
+  ],
+  "whyVisit": {
+    "intro": "Acre gives you a complete medieval and Ottoman city, and it is one of the most atmospheric places in the country.",
+    "points": [
+      {
+        "title": "Crusader Acre underground",
+        "text": "The Knights' Halls, the Templars' Tunnel and the Crusader city beneath the Ottoman streets are among the best-preserved medieval sites in the Middle East."
+      },
+      {
+        "title": "A real Ottoman port",
+        "text": "The khans, mosques, hammam and walls survive and are still in use, and the streets are lined with houses that are hundreds of years old."
+      },
+      {
+        "title": "A great market",
+        "text": "The old-city souk is one of the liveliest in the country, with spices, fish, sweets and hummus."
+      },
+      {
+        "title": "The sea walls",
+        "text": "You can walk along the top of the Ottoman sea wall, with views over the harbour, the bay and the fishing boats."
+      },
+      {
+        "title": "Not crowded",
+        "text": "Most tourists come for a short visit, so the streets are quiet early and late in the day."
+      }
+    ]
+  },
+  "attractionsIntro": "The old city is compact, and a day is enough to see the main sites and eat well.",
+  "attractions": [
+    {
+      "name": "The Knights' Halls (Hospitaller Fortress)",
+      "image": {
+        "file": "File:Acre - Knights Halls1.jpg",
+        "alt": "The vaulted stone hall of the Crusader Knights Hospitaller complex in Acre"
+      },
+      "text": "A vast Crusader complex of vaulted halls, a refectory, a crypt and a dormitory, built by the Knights of St John in the 12th and 13th centuries. It was buried and forgotten until excavations in the 1950s.",
+      "tip": "It is one of the most atmospheric medieval sites in the world. Go early, when it is quiet."
+    },
+    {
+      "name": "The Templars' Tunnel",
+      "text": "A 350-metre underground passage that once linked the Templar fortress to the harbour, reached via an entrance near the port. It is a short and dramatic underground walk.",
+      "tip": "Combine it with the Knights' Halls. Wear shoes with grip."
+    },
+    {
+      "name": "The Al-Jazzar Mosque",
+      "text": "The largest mosque in the Galilee, built in 1781 by the Ottoman governor Ahmed al-Jazzar, with an arcaded courtyard and a small museum. Its crypt holds the tombs of al-Jazzar and his successor.",
+      "tip": "Dress modestly, and avoid prayer times."
+    },
+    {
+      "name": "The Ottoman citadel and prison",
+      "text": "The citadel, built on Crusader foundations, served as a prison under the Ottomans and British Mandate. It now holds a museum on the fortress, the prisoners and the resistance to the British.",
+      "tip": "Check opening hours."
+    },
+    {
+      "name": "The sea walls",
+      "text": "The Ottoman-era walls along the south and west of the old city are open to walk on, and give a view over the Mediterranean, the harbour and the roofs of the old city.",
+      "tip": "Walk along the walls at sunset."
+    },
+    {
+      "name": "The harbour",
+      "image": {
+        "file": "File:Israel-05156 - Acre Harbour (33373247424).jpg",
+        "alt": "Fishing boats in Acre's small harbour"
+      },
+      "text": "A small fishing harbour with restaurants, boats and views of the walls. Boat trips run around the walls.",
+      "tip": "Lunch by the harbour is good, and the boat trip is pleasant."
+    },
+    {
+      "name": "The Khan al-Umdan and the caravanserais",
+      "text": "A 1780s Ottoman caravanserai with a two-storey arcaded courtyard, the largest and best preserved in the country. Several other khans lie nearby.",
+      "tip": "Look at the granite columns, which were taken from Caesarea."
+    }
+  ],
+  "thingsToDoIntro": "Acre is best explored on foot, with time to stop and eat.",
+  "thingsToDo": [
+    {
+      "title": "Explore the Crusader city underground",
+      "text": "See the Knights' Halls and the Templars' Tunnel in one visit. A combined ticket is available.",
+      "tip": "Go in the morning, and use a guide or audio guide."
+    },
+    {
+      "title": "Walk the sea wall at sunset",
+      "text": "The top of the walls gives a view over the boats, the bay and Haifa across the water.",
+      "tip": "Bring a jacket, as it is windy."
+    },
+    {
+      "title": "Eat hummus at a local favourite",
+      "text": "Acre has some of the best hummus in Israel, and locals are proud of it. Several places in the market have been serving it for generations.",
+      "tip": "Go for lunch, and be prepared to queue."
+    },
+    {
+      "title": "Wander the market",
+      "text": "The old souk is at its best in the morning, with fishmongers, spice sellers and sweet shops.",
+      "tip": "Try the fresh sweets and coffee."
+    },
+    {
+      "title": "Take a boat trip around the walls",
+      "text": "Small boats leave from the harbour and circle the sea walls, giving a fresh perspective.",
+      "tip": "The trip takes 20 minutes."
+    },
+    {
+      "title": "Visit the Baháʼí shrine at Bahji",
+      "text": "The Shrine of Baháʼu'lláh and its gardens, a few kilometres north of the old city, is the holiest place in the Baháʼí Faith and part of a UNESCO site.",
+      "tip": "Check opening times, as they are limited, and dress modestly."
+    }
+  ],
+  "foodIntro": "Acre is a good place to eat, and the old city is known for hummus, seafood and traditional Arab sweets.",
+  "foods": [
+    {
+      "name": "Hummus",
+      "text": "Creamy hummus served with fuul, olive oil and pita, at one of the many hummus restaurants in the old city.",
+      "whereToTry": "Old-city hummusiyot."
+    },
+    {
+      "name": "Fresh fish and seafood",
+      "text": "Grilled fish, calamari and shrimp, served at restaurants on the harbour.",
+      "whereToTry": "The harbour and the sea wall."
+    },
+    {
+      "name": "Knafeh",
+      "text": "A hot pastry filled with cheese and soaked in syrup.",
+      "whereToTry": "Sweet shops in the market."
+    },
+    {
+      "name": "Mezze",
+      "text": "A spread of small dishes with salads, olives and cheeses, served with fresh bread.",
+      "whereToTry": "Restaurants in the old city."
+    },
+    {
+      "name": "Fresh juice and coffee",
+      "text": "Fresh-squeezed juices and strong Arab coffee, both sold in the market.",
+      "whereToTry": "Stalls and cafés in the souk."
+    },
+    {
+      "name": "Arab sweets and pastries",
+      "text": "Baklava, ma'amoul and other pastries, sold in bakeries.",
+      "whereToTry": "Bakeries in the market."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors visit as a day trip from Haifa or Nahariya, but a few guesthouses and boutique hotels in old buildings are excellent for a night in the old city.",
+    "areas": [
+      {
+        "name": "The old city",
+        "bestFor": "Atmosphere and early starts",
+        "text": "Small hotels and guesthouses in restored Ottoman houses, some overlooking the sea. They are quiet at night."
+      },
+      {
+        "name": "Haifa or Nahariya",
+        "bestFor": "More choice and lower prices",
+        "text": "A wide range of accommodation, 20–30 minutes away by train."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "₪250–450 per night" },
+      { "label": "Boutique hotel", "value": "₪600–1,200 per night" },
+      { "label": "Combined ticket for Crusader sites", "value": "About ₪50–70" },
+      { "label": "Hummus lunch", "value": "₪30–60 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Acre is 25 km north of Haifa and 150 km from Tel Aviv, and it is easy to reach by train and bus.",
+    "options": [
+      {
+        "mode": "Train",
+        "text": "Coastal trains from Tel Aviv and Haifa reach Acre in roughly 75–90 minutes and 25 minutes respectively. The station is a 15-minute walk from the old city.",
+        "detail": "Trains do not run on Shabbat."
+      },
+      {
+        "mode": "Bus",
+        "text": "Buses run from Haifa, Nahariya and other towns to the bus station just outside the old city.",
+        "detail": "Buses run less often on Shabbat."
+      },
+      {
+        "mode": "Car",
+        "text": "About 25 minutes from Haifa. Park outside the old city and walk in.",
+        "detail": "Parking is limited at weekends."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The old city is small and pedestrian.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The old city takes a day to explore on foot, and everything is within 10–15 minutes' walk.",
+        "detail": "The streets are cobbled, so wear comfortable shoes."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Taxis take you to the train station and to Bahji.",
+        "detail": "Agree the price."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Bikes can be hired in the new city, but the old city is best on foot.",
+        "detail": "Watch out for pedestrians."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Acre has a Mediterranean climate. The sea breeze keeps it cooler than inland, and spring and autumn are the best seasons.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm, clear days and flowers. Comfortable for walking."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot and humid, but the sea wall and the underground sites are cool."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm and quiet, with good light."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool and wet, and sometimes stormy. The old city is atmospheric in the rain."
+      }
+    ],
+    "avoid": "Rainy days for the sea wall, and Saturdays, when some shops close."
+  },
+  "itinerary": {
+    "title": "One day in Acre",
+    "intro": "The Crusader sites in the morning, the market and lunch in the middle of the day, and the walls and harbour in the afternoon.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Crusaders, market and sea",
+        "summary": "A compact day in the old city.",
+        "morning": "The Knights' Halls and the Templars' Tunnel.",
+        "afternoon": "A hummus lunch, the market, and the Al-Jazzar Mosque.",
+        "evening": "The sea walls at sunset, then dinner at the harbour."
+      }
+    ]
+  },
+  "tipsIntro": "Acre is easy and friendly, and these tips help.",
+  "tips": [
+    "Start with the Knights' Halls, which are best in the morning, before the tour groups arrive.",
+    "Buy a combined ticket for the Crusader sites, which saves money.",
+    "Eat lunch in the old city, and try more than one hummus place.",
+    "Dress modestly, as the old city has a large Muslim population.",
+    "Walk the sea wall, but be careful of the edges and watch for rough weather.",
+    "Combine Acre with Haifa, and use the train.",
+    "Follow local advice on security in the north."
+  ],
+  "faq": [
+    {
+      "q": "Is Acre worth visiting?",
+      "a": "Yes. It is a UNESCO World Heritage Site with a well-preserved Crusader city, an Ottoman port and a lively market, and it is less visited than Jerusalem or Tel Aviv."
+    },
+    {
+      "q": "How long do you need in Acre?",
+      "a": "One day is enough for the main sites, and a second lets you add the sea walls, a boat trip and Bahji."
+    },
+    {
+      "q": "Is Acre safe?",
+      "a": "It is generally regarded as safe for visitors. The city is in the north, which has been affected by conflict, so check your government's advice."
+    },
+    {
+      "q": "What is the difference between Acre, Akko and Akka?",
+      "a": "They are the same city. Acre is the English and French name, Akko is the Hebrew, and Akka is the Arabic."
+    },
+    {
+      "q": "Is Acre a Jewish or an Arab city?",
+      "a": "It is mixed. Most of the population in the new city is Jewish, and most of the residents of the old city are Arab, and the two communities share the city."
+    },
+    {
+      "q": "Can I visit Acre as a day trip from Haifa or Tel Aviv?",
+      "a": "Yes. It is about 25 minutes by train from Haifa, and roughly 75–90 minutes from Tel Aviv. It also makes a good stop on the way to the Galilee."
+    }
+  ],
+  "related": ["haifa-bahai-gardens", "nazareth", "safed-tzfat"],
+  "relatedArticles": ["unesco-worth-planning-around", "food-primer"]
+}

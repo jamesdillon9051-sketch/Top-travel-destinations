@@ -1,0 +1,315 @@
+{
+  "slug": "sea-of-galilee",
+  "name": "The Sea of Galilee",
+  "shortName": "Sea of Galilee",
+  "country": "israel",
+  "region": "Northern District, Lower Galilee",
+  "categories": ["historic", "scenic", "nature"],
+  "tagline": "A freshwater lake ringed by hills, where the Gospels place the calling of the disciples, the Sermon on the Mount and several of Jesus's miracles.",
+  "highlight": "Capernaum, where the ruins of a 4th-century synagogue stand beside the traditional house of Peter on the water's edge.",
+  "shortDescription": "Israel's largest freshwater lake, with Capernaum, Tabgha and the Mount of Beatitudes on its north shore, hot springs and Tiberias to the west, and swimming and boats all year.",
+  "metaDescription": "A Sea of Galilee travel guide: Capernaum, Tabgha and the Mount of Beatitudes, Tiberias, boat trips, baptism at Yardenit, Beit She'an nearby, when to go and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Tel Aviv Ben Gurion (TLV), about 2 hours",
+  "knownFor": "Capernaum, Tabgha, the Mount of Beatitudes, Tiberias, Yardenit",
+  "budget": "₪500–900 per day, mid-range",
+  "goodFor": "Christian pilgrimage, lakeside scenery, boat trips, swimming",
+  "coords": { "lat": 32.8235, "lng": 35.5900 },
+  "image": {
+    "file": "File:104153 on the shore of the sea of galilee-tiberias PikiWiki Israel.jpg",
+    "alt": "The still waters of the Sea of Galilee at Tiberias with hills beyond"
+  },
+  "intro": [
+    "The Sea of Galilee, known in Hebrew as the Kinneret, is a freshwater lake of about 166 square kilometres, nearly 210 metres below sea level. It is Israel's largest freshwater lake and its main source of drinking water, and it is fed by the Jordan River, which flows in from the north and out to the south, eventually ending in the Dead Sea.",
+    "For Christians, the lake is the scene of much of the Gospel narrative. According to the Gospels, Jesus taught, healed and performed miracles on its shores, called his first disciples from among the local fishermen, and calmed a storm on the water. Capernaum, Tabgha and the Mount of Beatitudes are the principal pilgrimage sites, and they sit within a few kilometres of each other on the northern shore.",
+    "The lake also has a Jewish significance. Tiberias, on its western shore, was one of the four holy cities of Judaism and a centre of the compilation of the Talmud, and its hot springs have drawn visitors since Roman times. Today the area is a popular holiday destination for Israelis, with beaches, campsites and kibbutz guesthouses around the shore."
+  ],
+  "whyVisit": {
+    "intro": "The Galilee is one of the places where the biblical landscape survives most obviously, and it is also a beautiful, relaxed place in its own right.",
+    "points": [
+      {
+        "title": "The Gospel sites are close together",
+        "text": "Capernaum, Tabgha, the Mount of Beatitudes and the Primacy of Peter chapel are all within a short drive of each other, so a single morning covers them."
+      },
+      {
+        "title": "A lake, not just a landmark",
+        "text": "You can swim, take a boat across the water, cycle the shore or simply sit by the beach, and the scenery is peaceful and green."
+      },
+      {
+        "title": "Layers of history",
+        "text": "Roman and Byzantine synagogues, Crusader castles and Ottoman fortresses stand alongside the Gospel sites, and the surrounding area is rich in archaeology."
+      },
+      {
+        "title": "Hot springs and Tiberias",
+        "text": "The Hamat Tiberias hot springs, the tombs of Maimonides and other rabbis, and the town's promenade give the lakeside a distinct character."
+      },
+      {
+        "title": "A base for the north",
+        "text": "Nazareth, Safed, Beit She'an and the Golan are all within an hour, so the lake makes a natural base."
+      }
+    ]
+  },
+  "attractionsIntro": "The Gospel sites are on the north-west shore. Tiberias, the hot springs and the Jordan are to the west and south.",
+  "attractions": [
+    {
+      "name": "Capernaum",
+      "image": {
+        "file": "File:Capernaum Synagogue Ruins.jpg",
+        "alt": "The white limestone ruins of the ancient synagogue at Capernaum"
+      },
+      "text": "A fishing village where, according to the Gospels, Jesus lived and taught. Excavations show a 4th- or 5th-century white limestone synagogue built over an earlier basalt one, and a Franciscan-run octagonal church on the traditional site of Peter's house.",
+      "tip": "Go early, when it is quiet, and dress modestly. The site is run by the Franciscans and has a small entrance fee."
+    },
+    {
+      "name": "Tabgha and the Church of the Multiplication",
+      "image": {
+        "file": "File:Tabgha Church Multiplication Israel.jpg",
+        "alt": "The Church of the Multiplication of the Loaves and Fishes at Tabgha"
+      },
+      "text": "The traditional site of the feeding of the five thousand, with a Benedictine church built over a 5th-century Byzantine church that has a famous mosaic of a basket of loaves flanked by two fish.",
+      "tip": "The mosaic is near the altar. Be quiet, as it is a working church."
+    },
+    {
+      "name": "The Mount of Beatitudes",
+      "image": {
+        "file": "File:Church of the Beatitudes on the hill.jpg",
+        "alt": "The octagonal Church of the Beatitudes on the hill above the lake"
+      },
+      "text": "A hillside where tradition places the Sermon on the Mount, with an octagonal Italian-built church and gardens that overlook the lake. The setting is calm and the view is superb.",
+      "tip": "Modest dress is required. The gardens are lovely in spring."
+    },
+    {
+      "name": "The Church of the Primacy of Peter",
+      "text": "A small chapel on the shore, built on a rock said to be where Jesus, after the resurrection, appeared to his disciples and told Peter to feed his sheep. Steps lead down to the water.",
+      "tip": "It is quiet in the early morning."
+    },
+    {
+      "name": "Tiberias",
+      "text": "A town founded around 20 CE and a centre of Jewish learning for centuries. It has a lakeside promenade, ancient synagogues, the tomb of Maimonides and the Hamat Tiberias hot springs.",
+      "tip": "Visit the promenade in the evening, and check opening hours on Shabbat, when many businesses close."
+    },
+    {
+      "name": "Yardenit baptism site",
+      "image": {
+        "file": "File:Yardenit.jpg",
+        "alt": "Pilgrims in white robes at the Yardenit baptism site on the Jordan River"
+      },
+      "text": "A site on the Jordan River, just south of the lake, where pilgrims are baptised or renew their baptismal vows. It is a landscaped riverbank with changing rooms and shops.",
+      "tip": "It is popular with groups, so go early. The site also claims a link to the baptism of Jesus, a tradition that is also held for sites in Jordan and the West Bank."
+    }
+  ],
+  "thingsToDoIntro": "The lake is a place for a slow pace, and it is at its best when you build the day around the water.",
+  "thingsToDo": [
+    {
+      "title": "Take a boat on the lake",
+      "text": "Wooden 'Jesus boats' and modern pleasure boats run from Tiberias and Ein Gev, and often include a short service or a song for Christian groups.",
+      "tip": "Book in the morning for the calmest water."
+    },
+    {
+      "title": "Swim at a lakeside beach",
+      "text": "Several public and hotel beaches, such as Kinneret Beach and Ein Gev, are open in summer. The water is warm, and calm on most days.",
+      "tip": "Check for lifeguards and warning flags. The lake can be windy in the afternoon."
+    },
+    {
+      "title": "Walk or cycle the shore",
+      "text": "The Kinneret Trail runs around the lake for about 60 km, with marked stretches that suit walkers and cyclists.",
+      "tip": "Go in spring or autumn. It is hot from June to September."
+    },
+    {
+      "title": "Soak in the Hamat Tiberias hot springs",
+      "text": "Natural hot mineral springs in Tiberias have been used since Roman times, with a modern spa and the remains of an ancient synagogue with a mosaic floor.",
+      "tip": "Check the current opening times and the separate rules for men and women."
+    },
+    {
+      "title": "Visit the Hula Valley in winter",
+      "text": "North of the lake, the Hula Nature Reserve is one of the world's great bird-migration routes, with cranes and pelicans in their thousands from October to March.",
+      "tip": "Go at dawn or dusk."
+    },
+    {
+      "title": "Combine with Nazareth, Safed and Beit She'an",
+      "text": "All are within an hour's drive, so the lake works as a base for a broader northern trip.",
+      "tip": "Start with the lake in the morning and add one other site in the afternoon."
+    }
+  ],
+  "foodIntro": "Food around the lake is simple and local, with the lake's own fish as the highlight.",
+  "foods": [
+    {
+      "name": "St Peter's fish",
+      "text": "A tilapia from the lake, served whole, fried or grilled, usually with salads, chips and pita. It is the signature dish of the shore.",
+      "whereToTry": "Fish restaurants along the Tiberias shore and at Ein Gev."
+    },
+    {
+      "name": "Galilean salads and dips",
+      "text": "A spread of chopped salads, tahini, labneh, olives and fresh bread, served with most meals.",
+      "whereToTry": "Restaurants in Tiberias and the Arab villages around the lake."
+    },
+    {
+      "name": "Falafel and hummus",
+      "text": "The reliable Israeli staple, good in the towns around the lake.",
+      "whereToTry": "Stalls in Tiberias and Capernaum."
+    },
+    {
+      "name": "Local wine",
+      "text": "The Galilee has a growing wine industry, and small wineries in the hills above the lake offer tastings.",
+      "whereToTry": "Wineries in the Upper Galilee and Golan."
+    },
+    {
+      "name": "Fresh fruit and dates",
+      "text": "Bananas, dates and citrus grow around the lake, and stalls sell them by the road.",
+      "whereToTry": "Roadside stands and kibbutz shops."
+    },
+    {
+      "name": "Arab sweets",
+      "text": "Kunafa, baklava and other pastries from Arab villages around the lake.",
+      "whereToTry": "Sweet shops in Tiberias and nearby villages."
+    }
+  ],
+  "accommodation": {
+    "intro": "The lakeside has a wide range of places to stay, from kibbutz guesthouses to pilgrim hospices and hotels. Book early for holidays and Christian pilgrimage seasons.",
+    "areas": [
+      {
+        "name": "Tiberias",
+        "bestFor": "Restaurants, hot springs and the lake",
+        "text": "The largest town on the lake, with a promenade and a wide range of hotels and hostels. It is busy and a bit worn, but convenient."
+      },
+      {
+        "name": "Kibbutz guesthouses and the north shore",
+        "bestFor": "Quiet and views",
+        "text": "Guesthouses run by kibbutzim and Christian communities around Tabgha and Capernaum, with gardens, lake access and good breakfasts."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "₪200–400 per night" },
+      { "label": "Kibbutz guesthouse or hotel", "value": "₪500–900 per night" },
+      { "label": "Lakeside resort", "value": "₪900–1,800 per night" },
+      { "label": "Boat trip", "value": "₪40–80 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The lake is about two hours from Tel Aviv and 90 minutes from Jerusalem, and it is easiest to visit by car.",
+    "options": [
+      {
+        "mode": "Car",
+        "text": "About 2 hours from Tel Aviv and 90 minutes from Jerusalem. Roads are good, and the north-shore sites are close together.",
+        "detail": "Parking at the sites is straightforward but may fill up at peak times."
+      },
+      {
+        "mode": "Bus to Tiberias",
+        "text": "Buses run frequently from Tel Aviv, Jerusalem and Haifa to Tiberias, and local buses continue to Capernaum and Tabgha.",
+        "detail": "Local buses are infrequent and stop on Shabbat."
+      },
+      {
+        "mode": "Tour",
+        "text": "Day tours from Jerusalem and Tel Aviv cover Nazareth, Capernaum and the lake.",
+        "detail": "Check what is included, and how much time you have at each place."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car or a taxi is the practical way to link the sites around the lake.",
+    "options": [
+      {
+        "mode": "Car",
+        "text": "The best way to reach Capernaum, Tabgha and the Mount of Beatitudes, which are 10 km north of Tiberias.",
+        "detail": "The road around the lake is scenic and easy."
+      },
+      {
+        "mode": "Taxi or shared taxi",
+        "text": "Taxis from Tiberias take you to the north shore and wait, for a reasonable price.",
+        "detail": "Agree the fare before you leave."
+      },
+      {
+        "mode": "Bicycle or walking",
+        "text": "The Kinneret Trail is a pleasant way to explore parts of the shore, and it links several beaches and sites.",
+        "detail": "It is hot in summer. Bring water and go early."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and October–November",
+    "summary": "The lake is below sea level, so it is warm for much of the year and very hot in summer. Spring and autumn are the best seasons, and winter is mild and green.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Green hills, wildflowers and warm, comfortable days. Easter brings pilgrims."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Very hot and humid, often over 35°C. It is a beach and swimming season, but sightseeing is tiring."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm, quiet and clear. The lake is still warm, and the bird migration begins in the Hula Valley."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Mild, sometimes rainy, and green. It is a good time for sightseeing and the hot springs, and prices are lower."
+      }
+    ],
+    "avoid": "Midday in July and August, and the busiest pilgrim weeks around Easter and Christmas if you want quiet."
+  },
+  "itinerary": {
+    "title": "Two days at the Sea of Galilee",
+    "intro": "The Gospel sites on the first day, and the lake, Tiberias and Yardenit on the second. Assumes a car and a base in Tiberias or on the north shore.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The north shore",
+        "summary": "Capernaum, Tabgha and the Mount of Beatitudes.",
+        "morning": "Capernaum when it opens, then Tabgha and the Church of the Primacy of Peter.",
+        "afternoon": "The Mount of Beatitudes, then a swim at a beach.",
+        "evening": "St Peter's fish at a lakeside restaurant."
+      },
+      {
+        "day": 2,
+        "title": "Tiberias and the Jordan",
+        "summary": "The town, the water and the river.",
+        "morning": "A boat trip on the lake, or the Hamat Tiberias springs.",
+        "afternoon": "Tiberias's old quarter and tombs, then Yardenit.",
+        "evening": "Sunset on the promenade, and dinner."
+      }
+    ]
+  },
+  "tipsIntro": "The lake is peaceful, and a few tips help you enjoy it.",
+  "tips": [
+    "Go early to Capernaum and Tabgha. They are quieter in the morning, and tour groups arrive from about 10:00.",
+    "Dress modestly for the churches. Shoulders and knees should be covered, and a scarf is helpful.",
+    "Take water and sun protection. The lake is below sea level, and it gets very hot in summer.",
+    "Check opening hours for churches, which close for lunch and on some days.",
+    "Plan around Shabbat. Tiberias is more observant than the coast, and some places close.",
+    "Follow local advice on security. The lake is not far from the northern border, and conditions can change.",
+    "Combine the lake with Nazareth and Safed, but do not rush the Gospel sites."
+  ],
+  "faq": [
+    {
+      "q": "How long do you need at the Sea of Galilee?",
+      "a": "One day covers Capernaum, Tabgha and the Mount of Beatitudes. Two days let you add Tiberias, a boat trip and Yardenit at a relaxed pace."
+    },
+    {
+      "q": "Is the Sea of Galilee really a sea?",
+      "a": "No, it is a freshwater lake, about 21 km long and 13 km wide, though the Hebrew name Kinneret and the biblical name Sea of Galilee both use the word 'sea'."
+    },
+    {
+      "q": "Can I swim in the Sea of Galilee?",
+      "a": "Yes. There are public and hotel beaches with lifeguards during the summer. The water is warm and the lake can be windy in the afternoon."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "March to May and September to November. Spring has green hills and mild weather, and autumn is warm and quiet. Summer is very hot."
+    },
+    {
+      "q": "Is it safe to visit the Sea of Galilee?",
+      "a": "The lake is a popular destination and usually calm, but it lies close to the northern border with Lebanon and the Golan Heights. Check your government's current advice before you travel."
+    },
+    {
+      "q": "Can I visit as a day trip from Tel Aviv or Jerusalem?",
+      "a": "Yes, though it is a long day of about four to five hours of driving. Staying overnight lets you see the sites without rushing."
+    }
+  ],
+  "related": ["nazareth", "safed-tzfat", "megiddo-beit-shean"],
+  "relatedArticles": ["unesco-worth-planning-around", "packing-by-season"]
+}

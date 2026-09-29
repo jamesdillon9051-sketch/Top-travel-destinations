@@ -1,0 +1,331 @@
+{
+  "slug": "tel-aviv-jaffa",
+  "name": "Tel Aviv-Jaffa",
+  "shortName": "Tel Aviv",
+  "country": "israel",
+  "region": "Tel Aviv District, Mediterranean coast",
+  "categories": ["major-city", "coastal", "unesco"],
+  "tagline": "A young Mediterranean city of Bauhaus buildings, beaches and late-night cafés, next to one of the world's oldest working ports.",
+  "highlight": "The old port of Jaffa at sunset, with a promenade all the way back to Tel Aviv's white towers.",
+  "shortDescription": "Israel's coastal, secular and cosmopolitan centre: a UNESCO-listed White City, a long beach promenade, excellent markets and food, and Jaffa's ancient port.",
+  "metaDescription": "A Tel Aviv-Jaffa travel guide: the White City's Bauhaus architecture, the beaches, the Carmel Market, Old Jaffa, food, nightlife and a three-day plan, with Shabbat tips.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Tel Aviv Ben Gurion (TLV), about 25 minutes",
+  "knownFor": "Bauhaus architecture, beaches, food, Old Jaffa, nightlife",
+  "budget": "₪700–1,300 per day, mid-range",
+  "goodFor": "Beaches, food, architecture, nightlife, a relaxed city break",
+  "coords": { "lat": 32.0853, "lng": 34.7818 },
+  "image": {
+    "file": "File:Tel Aviv Promenade panoramics.jpg",
+    "alt": "The seafront promenade and skyline of Tel Aviv along the Mediterranean"
+  },
+  "intro": [
+    "Tel Aviv was founded in 1909 as a garden suburb of the ancient port of Jaffa, and it has grown into Israel's largest metropolitan area and its economic and cultural centre. Jaffa, by contrast, is one of the oldest ports in the world, with a history that goes back at least four thousand years. The two were merged into a single municipality in 1950, and they still feel like different places.",
+    "Tel Aviv's centrepiece is the White City, a large collection of Bauhaus and International Style buildings put up in the 1930s by Jewish architects who had trained in Europe. It was inscribed on the UNESCO World Heritage List in 2003. Between the buildings, there are boulevards, cafés and a long seafront with beaches, a promenade and an easy, sunlit mood.",
+    "Jaffa is more mixed, with a large Arab population, a stone-built old town, artists' galleries and a busy flea market. Tel Aviv is secular, liberal and fast-moving, and it is the easiest introduction to modern Israel. It is also a city that has been touched by the conflict of the last few years, and visitors should follow the current advice and local instructions."
+  ],
+  "whyVisit": {
+    "intro": "Tel Aviv is the country's relaxed counterpart to Jerusalem, and one of the best-value city breaks in the region for anyone who likes beaches and food.",
+    "points": [
+      {
+        "title": "A city built on the sea",
+        "text": "A continuous 14 km of beach and promenade runs the length of the city, and people swim, run, cycle and play matkot (paddle ball) all year."
+      },
+      {
+        "title": "The White City",
+        "text": "More than 4,000 modernist buildings, mostly from the 1930s, give the centre a coherent, walkable character unlike any other city in the region."
+      },
+      {
+        "title": "One of the best food scenes in the Mediterranean",
+        "text": "Markets, hummus counters, seafood, fusion restaurants and wine bars have made Tel Aviv a serious culinary city."
+      },
+      {
+        "title": "An ancient port next door",
+        "text": "Old Jaffa's stone lanes, its port and its hilltop churches and mosques are a short walk south, and they are where Jonah, in the Bible, is said to have set sail."
+      },
+      {
+        "title": "Easy to use as a base",
+        "text": "Jerusalem, Caesarea and Haifa are all within an hour or so, and Ben Gurion airport is 25 minutes away."
+      }
+    ]
+  },
+  "attractionsIntro": "The city is best explored on foot and by bicycle, from the north to Jaffa. Give yourself a day for the architecture and markets and another for Jaffa and the beach.",
+  "attractions": [
+    {
+      "name": "The White City and Rothschild Boulevard",
+      "image": {
+        "file": "File:White City (Bauhaus) Tel Aviv Yafo - 02.jpg",
+        "alt": "A white Bauhaus apartment building in Tel Aviv"
+      },
+      "text": "The heart of Tel Aviv's Bauhaus architecture, with tree-lined Rothschild Boulevard, Dizengoff Square and the streets around Bialik. The Bauhaus Center runs guided walks.",
+      "tip": "Many buildings are shabby, and some are beautifully restored. Look up at the balconies."
+    },
+    {
+      "name": "Old Jaffa",
+      "image": {
+        "file": "File:ISR-2013-Aerial-Jaffa-Port of Jaffa.jpg",
+        "alt": "Aerial view of the old port and stone town of Jaffa"
+      },
+      "text": "A hilltop old town of restored Ottoman stone houses, galleries, the Clock Tower, St Peter's Church and the Al-Bahr and Great mosques. The port at the foot has fishing boats and restaurants.",
+      "tip": "Go for sunset, and walk back to Tel Aviv along the promenade."
+    },
+    {
+      "name": "The Carmel Market (Shuk HaCarmel)",
+      "text": "Tel Aviv's main market, a noisy street of stalls selling fruit, vegetables, spices, fish, clothes and street food. Nearby Nachalat Binyamin has a craft market on Tuesdays and Fridays.",
+      "tip": "Go in the morning, and try the fresh juice. It is quieter on Fridays afternoon."
+    },
+    {
+      "name": "Jaffa Flea Market",
+      "text": "A network of lanes around the Clock Tower with antiques, furniture, jewellery, cafés and small restaurants. It is lively in the evening.",
+      "tip": "Haggle politely. It is at its best on weekend evenings."
+    },
+    {
+      "name": "The beaches and promenade",
+      "text": "Gordon, Frishman, Banana and Hilton beaches are the main city beaches, and the promenade links them all to Jaffa. Lifeguards are on duty in season, and there is a dedicated dog beach and quieter stretches.",
+      "tip": "Pay attention to the flag system. Currents can be strong."
+    },
+    {
+      "name": "The Tel Aviv Museum of Art and the Museum of the Jewish People",
+      "text": "The art museum has an excellent collection of Israeli and international art in a striking modern building. The Museum of the Jewish People (Anu) at Tel Aviv University tells the story of Jewish communities worldwide.",
+      "tip": "Check opening hours, which vary by day and by Shabbat."
+    },
+    {
+      "name": "Neve Tzedek",
+      "text": "The city's oldest Jewish neighbourhood, with pastel low-rise houses, designer shops, small galleries and cafés. The Suzanne Dellal Centre for dance is here.",
+      "tip": "Combine it with the walk from the Carmel Market to Jaffa."
+    }
+  ],
+  "thingsToDoIntro": "Tel Aviv is a city for slow days and long evenings. These are the ways that visitors most enjoy it.",
+  "thingsToDo": [
+    {
+      "title": "Walk the promenade to Jaffa",
+      "text": "A 5 km stroll from Gordon Beach to the old port, past cafés, surfers and volleyball courts. The best time is late afternoon.",
+      "tip": "Hire a bike or e-scooter if you would rather ride."
+    },
+    {
+      "title": "Take a Bauhaus walking tour",
+      "text": "A guided tour of the White City explains the history and details of the buildings, and helps you see what to look for.",
+      "tip": "Book in advance through the Bauhaus Center or a local guide."
+    },
+    {
+      "title": "Eat your way through the markets",
+      "text": "The Carmel Market and the Levinsky Market are ideal for street food, from falafel and sabich to burekas and fresh juice. Food tours are popular.",
+      "tip": "Arrive hungry, and go on a weekday."
+    },
+    {
+      "title": "Spend a day on the beach",
+      "text": "Rent a sunbed, swim in the Mediterranean and eat fresh fish at a beach restaurant. The season runs from about April to November.",
+      "tip": "Avoid the middle of a Saturday in summer, when the beaches are packed."
+    },
+    {
+      "title": "Explore Jaffa's lanes and galleries",
+      "text": "Wander the Old City's alleys, visit the artists' studios, and stop for coffee and knafeh. The port has good seafood restaurants.",
+      "tip": "Come at sunset, and stay for dinner."
+    },
+    {
+      "title": "Go out after dark",
+      "text": "Tel Aviv has a well-known nightlife, from bars in Florentin and along Rothschild Boulevard to clubs by the port. It is one of the most liberal cities in the region.",
+      "tip": "Nightlife in Jaffa is quieter and more mixed. Take a taxi at night."
+    },
+    {
+      "title": "Take a day trip",
+      "text": "Jerusalem is an hour away by train, Caesarea about 45 minutes north, and Haifa an hour. All are easy to reach by public transport.",
+      "tip": "On Shabbat, trains do not run."
+    }
+  ],
+  "foodIntro": "Tel Aviv's food is the most varied in Israel, drawing on Middle Eastern, North African, Eastern European and Mediterranean traditions, and many restaurants combine them. There is a large and creative vegetarian and vegan scene.",
+  "foods": [
+    {
+      "name": "Hummus",
+      "text": "Warm, silky hummus, served in a bowl with olive oil, chickpeas and warm pita. Locals argue endlessly over the best in the city.",
+      "whereToTry": "Hummusiyot in Jaffa and around the Carmel Market."
+    },
+    {
+      "name": "Sabich",
+      "text": "A pita filled with fried aubergine, hard-boiled egg, tahini, salad and amba (pickled mango sauce), an Iraqi-Jewish classic that Tel Aviv has adopted.",
+      "whereToTry": "Stalls near the Carmel Market, and in Givatayim and Ramat Gan."
+    },
+    {
+      "name": "Shakshuka",
+      "text": "Poached eggs in a tomato and pepper sauce. It is on every breakfast menu in the city.",
+      "whereToTry": "Cafés in Jaffa, Neve Tzedek and along Dizengoff Street."
+    },
+    {
+      "name": "Fresh seafood",
+      "text": "Grilled fish, calamari and mezze served at restaurants in Jaffa's port and on the seafront.",
+      "whereToTry": "Restaurants in Jaffa's port."
+    },
+    {
+      "name": "Bourekas and Yemeni pastries",
+      "text": "Flaky pastries filled with cheese, potato or spinach, and Yemeni jachnun and malawach, slow-baked breads served with tomato, egg and zhoug.",
+      "whereToTry": "Bakeries in the Carmel Market and the Yemenite Quarter."
+    },
+    {
+      "name": "Local wine and craft beer",
+      "text": "Israeli wines and a large craft-beer scene, served in bars and wine bars across the city.",
+      "whereToTry": "Bars in Florentin, Neve Tzedek and the port."
+    }
+  ],
+  "accommodation": {
+    "intro": "Tel Aviv is expensive, and hotel prices are among the highest in the country. Where you stay affects your days: choose the beach, the White City or Jaffa.",
+    "areas": [
+      {
+        "name": "Seafront hotels",
+        "bestFor": "Beach access",
+        "text": "A line of hotels along Hayarkon Street, close to the beach and the promenade. They are convenient but pricier and busier."
+      },
+      {
+        "name": "The White City and Rothschild Boulevard",
+        "bestFor": "Cafés, architecture and walkability",
+        "text": "Boutique hotels and apartments in restored Bauhaus buildings, close to the market, the beach and public transport."
+      },
+      {
+        "name": "Jaffa and Neve Tzedek",
+        "bestFor": "Atmosphere and character",
+        "text": "Small hotels and guesthouses in stone buildings in the old quarter, with quieter nights and lots of charm."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or budget hotel", "value": "₪250–500 per night" },
+      { "label": "Mid-range hotel", "value": "₪700–1,100 per night" },
+      { "label": "Boutique or luxury hotel", "value": "₪1,200–2,500 per night" },
+      { "label": "Meal at a market stall", "value": "₪30–60 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Tel Aviv is Israel's main gateway. Ben Gurion airport is about 20 km south-east of the city.",
+    "options": [
+      {
+        "mode": "Ben Gurion International Airport (TLV)",
+        "text": "Israel's main airport, with direct flights from Europe, North America and beyond. Trains reach central Tel Aviv in about 15–20 minutes, and taxis take about 25 minutes.",
+        "detail": "The train does not run on Shabbat, so use a taxi or the sherut."
+      },
+      {
+        "mode": "Train from Jerusalem, Haifa and elsewhere",
+        "text": "The Israel Railways network connects Tel Aviv's four main stations with Jerusalem, Haifa, Acre and Beersheba.",
+        "detail": "Use the Rav-Kav card, and buy tickets in the Rail app or at machines."
+      },
+      {
+        "mode": "Bus",
+        "text": "Intercity buses arrive at the Central Bus Station, and city buses go everywhere.",
+        "detail": "Use the Moovit app for timetables."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Tel Aviv is flat and compact, and easy to explore on foot, by bike and by public transport.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "Most of the centre, the beach and Jaffa can be covered on foot. Summer heat and humidity are the main problems.",
+        "detail": "Walk in the morning and evening."
+      },
+      {
+        "mode": "Bicycles and e-scooters",
+        "text": "Bike lanes are extensive, and share bikes and scooters are widely available.",
+        "detail": "Take care with traffic, and follow local rules on where to ride."
+      },
+      {
+        "mode": "Light rail, bus and taxi",
+        "text": "The Red Line light rail runs across the city, and buses cover the rest. Gett and other apps are useful for taxis.",
+        "detail": "On Shabbat public transport largely stops; use taxis or sherut."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–November",
+    "summary": "Tel Aviv has a Mediterranean climate with hot, humid summers and mild winters. It is a year-round destination, and the beach season runs from April to November.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm, sunny days of 22–28°C, and the beaches begin to fill. An excellent time to walk the city."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot and humid, often 30–34°C with high humidity. Good for the beach, but hard work for sightseeing."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "The sea is at its warmest, and the crowds are smaller. The High Holidays can disrupt travel."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Mild and sometimes wet, with days of about 15–19°C. Restaurants and museums are busy, and prices are lower."
+      }
+    ],
+    "avoid": "Yom Kippur, when the city stops entirely, and midday in July and August."
+  },
+  "itinerary": {
+    "title": "Three days in Tel Aviv-Jaffa",
+    "intro": "The White City and the market, Old Jaffa and the beach, and a day trip or a slow final day. Assumes a base in the centre.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The White City",
+        "summary": "Architecture, markets and cafés.",
+        "morning": "A Bauhaus walking tour along Rothschild Boulevard and Dizengoff Square.",
+        "afternoon": "The Carmel Market for lunch, then Neve Tzedek.",
+        "evening": "Dinner and a drink in Florentin or on Rothschild."
+      },
+      {
+        "day": 2,
+        "title": "Jaffa and the beach",
+        "summary": "Old stone, the port and the sunset.",
+        "morning": "The old city of Jaffa, its lanes, galleries and the flea market.",
+        "afternoon": "Lunch at the port, then a swim or a walk on the promenade.",
+        "evening": "Sunset over the sea and dinner on the seafront."
+      },
+      {
+        "day": 3,
+        "title": "Museums or a day trip",
+        "summary": "A slower final day.",
+        "morning": "The Tel Aviv Museum of Art, or the Museum of the Jewish People.",
+        "afternoon": "A train to Jerusalem or Caesarea, or another afternoon on the beach.",
+        "evening": "A last dinner in the port."
+      }
+    ]
+  },
+  "tipsIntro": "Tel Aviv is easy, and a few tips help it go more smoothly.",
+  "tips": [
+    "Plan for Shabbat. Trains and buses stop, and many shops and restaurants close from Friday afternoon to Saturday evening, though the city is more relaxed than Jerusalem and many cafés and beaches stay busy.",
+    "Book hotels early. Prices are high, and rooms fill up for holidays and events.",
+    "Bring sunscreen and a hat. The sun is strong, and the humidity in summer is very high.",
+    "Follow the beach flags and lifeguards. Strong currents cause accidents every year.",
+    "Follow local advice and the Home Front Command app. Rocket alerts have occurred in Tel Aviv in recent years, and you should know where the nearest shelter is.",
+    "Take a taxi or an app at night. Public transport is limited late at night and on Shabbat.",
+    "Eat where the locals eat. The best hummus and sabich are often in unassuming places.",
+    "Take a jacket. Air conditioning is fierce, and evenings by the sea can be cool."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Tel Aviv?",
+      "a": "Two or three days is enough for the White City, Jaffa, the markets and the beach. It also makes a good base for day trips to Jerusalem, Caesarea and Haifa."
+    },
+    {
+      "q": "Is Tel Aviv safe for tourists?",
+      "a": "Day-to-day crime is low, and the city is lively and welcoming, but there have been rocket alerts and security incidents in recent years. Check your government's current advice, download the Home Front Command app, and know where the nearest shelter is."
+    },
+    {
+      "q": "What is the White City?",
+      "a": "A UNESCO World Heritage Site made up of about 4,000 modernist buildings, in the Bauhaus and International Style, built in the 1930s and 1940s. Together they form the largest collection of such buildings in the world."
+    },
+    {
+      "q": "Is Tel Aviv very different from Jerusalem?",
+      "a": "Yes. Tel Aviv is secular, liberal and beachside, while Jerusalem is historic and religious. Dress codes, Shabbat observance and the pace of life differ, and most visitors enjoy both."
+    },
+    {
+      "q": "When are the beaches at their best?",
+      "a": "From May to October, when the sea is warm and the lifeguards are on duty. September and October are warm and less crowded than the summer."
+    },
+    {
+      "q": "What happens on Shabbat in Tel Aviv?",
+      "a": "Public transport stops, and some shops and restaurants close, but cafés, beaches, and many restaurants stay open. Jaffa's Arab-run restaurants are also open. It is a relaxed day and a good time to visit the beach."
+    }
+  ],
+  "related": ["jerusalem", "haifa-bahai-gardens", "acre-old-city"],
+  "relatedArticles": ["food-primer", "unesco-worth-planning-around"]
+}
