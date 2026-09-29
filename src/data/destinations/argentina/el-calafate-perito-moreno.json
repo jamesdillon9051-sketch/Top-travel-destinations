@@ -1,0 +1,319 @@
+{
+  "slug": "el-calafate-perito-moreno",
+  "name": "El Calafate and the Perito Moreno Glacier",
+  "shortName": "El Calafate",
+  "country": "argentina",
+  "region": "Santa Cruz, southern Patagonia",
+  "categories": ["unesco", "national-park", "nature", "scenic"],
+  "tagline": "A 60-metre wall of blue ice groaning and crashing into a turquoise lake, one of the few advancing glaciers on earth, seen from walkways, boats and crampons.",
+  "highlight": "Standing on the walkways as a house-sized block of ice breaks away and thunders into the lake.",
+  "shortDescription": "The gateway to Los Glaciares National Park, with the spectacular Perito Moreno Glacier, boat trips to the Upsala and Spegazzini glaciers, ice trekking and Patagonian estancias.",
+  "metaDescription": "An El Calafate travel guide: Perito Moreno Glacier walkways, boat trips, ice trekking, Upsala and Spegazzini glaciers, Lago Argentino, Patagonian lamb, how to get there, best time and a three-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "El Calafate (FTE), about 20 minutes from town",
+  "knownFor": "Perito Moreno Glacier, Lago Argentino, ice trekking, Patagonian lamb",
+  "budget": "US$120–250 per day, mid-range",
+  "goodFor": "Glaciers, boat trips, hiking, scenery",
+  "coords": { "lat": -50.4800, "lng": -73.0500 },
+  "image": {
+    "file": "File:Perito Moreno Glacier Patagonia Argentina Luca Galuzzi 2005.JPG",
+    "alt": "The blue ice face of the Perito Moreno Glacier meeting the turquoise water of Lago Argentino"
+  },
+  "intro": [
+    "El Calafate is a small town on the southern shore of Lago Argentino, the largest lake in Argentina, in Patagonia. It has grown from a sleepy sheep-farming outpost into a busy tourist town of hotels, restaurants and tour operators, and its purpose is one: to serve as the gateway to the Los Glaciares National Park, a UNESCO World Heritage Site since 1981, which covers a vast landscape of ice, lakes and mountains at the edge of the Southern Patagonian Ice Field.",
+    "The star of the park is the Perito Moreno Glacier, about 30 km long and 5 km wide, that descends from the ice field to Lago Argentino. It is one of very few glaciers in the world that is stable or advancing rather than retreating, and its front, about 60 metres above the water, regularly calves huge blocks of ice with a thunderous crack. A network of walkways offers close views from the opposite bank, and boat trips and guided ice treks allow closer encounters.",
+    "The town is 80 km from the glacier, and it makes a good base for two or three days. Boat trips to the Upsala and Spegazzini glaciers, walks, estancia visits and evening lamb asados round out a stay, and it is the departure point for El Chaltén and Torres del Paine in Chile."
+  ],
+  "whyVisit": {
+    "intro": "Perito Moreno is one of the world's most accessible and dramatic glaciers, and a highlight of Patagonia.",
+    "points": [
+      {
+        "title": "An active glacier",
+        "text": "Ice that groans, cracks and calves in view of the walkways."
+      },
+      {
+        "title": "Easy access",
+        "text": "Walkways, boats and treks for all abilities."
+      },
+      {
+        "title": "Other glaciers",
+        "text": "Boat trips reach Upsala and Spegazzini glaciers and icebergs."
+      },
+      {
+        "title": "Patagonian scenery",
+        "text": "Steppe, lakes and mountains beneath huge skies."
+      },
+      {
+        "title": "A base for El Chaltén",
+        "text": "The town links Patagonia's great sights."
+      }
+    ]
+  },
+  "attractionsIntro": "The glacier is the main event, with boat trips and estancias as options.",
+  "attractions": [
+    {
+      "name": "The Perito Moreno walkways",
+      "text": "About 4 km of steel walkways and viewing platforms facing the glacier, from which you can watch and hear the ice calving.",
+      "tip": "Go early or late, and be patient."
+    },
+    {
+      "name": "Boat trip on Lago Argentino",
+      "image": {
+        "file": "File:Glacier Face from boat Perito Moreno Glacier Los Glaciares National Park Argentina.jpg",
+        "alt": "The face of the Perito Moreno Glacier seen from a boat on Lago Argentino"
+      },
+      "text": "A boat trip along the glacier's face, at a safe distance, gives a sense of its scale, with cliffs of ice towering overhead.",
+      "tip": "Book combined tickets."
+    },
+    {
+      "name": "Ice trekking (Minitrekking or Big Ice)",
+      "image": {
+        "file": "File:Trekking at Perito Moreno Glacier.jpg",
+        "alt": "A group of trekkers wearing crampons walking on the surface of the Perito Moreno Glacier"
+      },
+      "text": "Guided walks on the glacier's surface with crampons, through crevasses and ice caves, ending with a whisky on the ice.",
+      "tip": "Book in advance, and check fitness and age limits."
+    },
+    {
+      "name": "Upsala and Spegazzini glaciers",
+      "text": "Full-day boat trips to other glaciers in the national park, passing through icebergs to great ice walls.",
+      "tip": "Go on a clear day."
+    },
+    {
+      "name": "Lago Argentino",
+      "image": {
+        "file": "File:Lago Argentino El Calafate (27812332160).jpg",
+        "alt": "Lago Argentino near El Calafate with mountains across the water"
+      },
+      "text": "A huge milky-turquoise glacial lake, with viewpoints along the shore of El Calafate and the road to the glacier.",
+      "tip": "Try Laguna Nimez, a bird reserve on the edge of town."
+    },
+    {
+      "name": "An estancia visit",
+      "text": "Patagonian sheep ranches near El Calafate, such as Estancia Cristina, offer horseback riding, lunch and tours.",
+      "tip": "Book a day visit."
+    }
+  ],
+  "thingsToDoIntro": "Most visitors spend at least one day at the glacier, and the rest exploring.",
+  "thingsToDo": [
+    {
+      "title": "Walk the Perito Moreno balconies",
+      "text": "Listen for the cracks, and watch for calving.",
+      "tip": "Bring a windproof jacket."
+    },
+    {
+      "title": "Trek on the glacier",
+      "text": "See crevasses and blue ice up close.",
+      "tip": "Wear waterproof layers."
+    },
+    {
+      "title": "Sail to Upsala Glacier",
+      "text": "See enormous icebergs and a vast glacier front.",
+      "tip": "Book the full-day trip."
+    },
+    {
+      "title": "Eat Patagonian lamb",
+      "text": "Cordero patagónico is slow-roasted on a cross over an open fire.",
+      "tip": "Try it at a local parrilla."
+    },
+    {
+      "title": "Visit the Glaciarium",
+      "text": "A museum about the ice field, with an ice bar.",
+      "tip": "Good for a rainy day."
+    },
+    {
+      "title": "Continue to El Chaltén",
+      "text": "A 3-hour bus ride takes you to Argentina's hiking capital.",
+      "tip": "Book the bus ahead."
+    }
+  ],
+  "foodIntro": "El Calafate's food centres on Patagonian lamb, along with trout, calafate berries and craft beer.",
+  "foods": [
+    {
+      "name": "Cordero patagónico",
+      "text": "Lamb slow-roasted over an open fire, tender and lightly smoky.",
+      "whereToTry": "Parrillas in El Calafate."
+    },
+    {
+      "name": "Trout",
+      "text": "Fresh river and lake trout, grilled or baked.",
+      "whereToTry": "Restaurants on the main street."
+    },
+    {
+      "name": "Calafate berry desserts",
+      "text": "The town's namesake berry, in jam, ice cream and liqueur. According to legend, those who eat it will return.",
+      "whereToTry": "Ice-cream shops."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Local microbreweries serve fresh beer.",
+      "whereToTry": "Brewpubs in town."
+    },
+    {
+      "name": "Mate and medialunas",
+      "text": "Traditional snacks.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors stay in town. Estancias offer a more remote experience.",
+    "areas": [
+      {
+        "name": "El Calafate town",
+        "bestFor": "Restaurants and tours",
+        "text": "Hotels and hostels along the main street."
+      },
+      {
+        "name": "Lakeside lodges",
+        "bestFor": "Views",
+        "text": "Boutique lodges along Lago Argentino."
+      },
+      {
+        "name": "Estancias",
+        "bestFor": "Patagonian ranch life",
+        "text": "Ranch stays with horse riding and meals."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "US$25–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$100–200 per night" },
+      { "label": "Luxury lodge", "value": "US$300–700 per night" },
+      { "label": "Park entry and boat trips", "value": "US$60–150 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "El Calafate is in southern Patagonia, about 2,700 km from Buenos Aires.",
+    "options": [
+      {
+        "mode": "Flight to El Calafate (FTE)",
+        "text": "Direct flights from Buenos Aires (about 3 hours), Ushuaia and Bariloche.",
+        "detail": "The airport is 20 minutes from town."
+      },
+      {
+        "mode": "Bus from El Chaltén",
+        "text": "About 3 hours, with frequent services.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Bus from Puerto Natales, Chile",
+        "text": "About 5 to 6 hours, with a border crossing.",
+        "detail": "Carry passports."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Buses and tours reach the glacier, and the town is walkable.",
+    "options": [
+      {
+        "mode": "Bus or tour to the glacier",
+        "text": "About 1 hour to the glacier, with regular buses and tours.",
+        "detail": "Buy tickets in advance."
+      },
+      {
+        "mode": "Hire car",
+        "text": "Gives freedom to visit at quieter times.",
+        "detail": "Watch out for wind and gravel."
+      },
+      {
+        "mode": "Walking",
+        "text": "The town centre.",
+        "detail": "Wear warm layers."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–April",
+    "summary": "Summers are cool, and winters are cold, with most services closed from May to September.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "best",
+        "text": "Longest days, the warmest weather and the busiest time."
+      },
+      {
+        "season": "Autumn (March–April)",
+        "rating": "best",
+        "text": "Fewer crowds, autumn colours and crisp days."
+      },
+      {
+        "season": "Winter (May–September)",
+        "rating": "avoid",
+        "text": "Cold, with limited services."
+      },
+      {
+        "season": "Spring (October–November)",
+        "rating": "good",
+        "text": "Cool and windy, with lower prices."
+      }
+    ],
+    "avoid": "Winter, when many hotels and tours close."
+  },
+  "itinerary": {
+    "title": "Three days in El Calafate",
+    "intro": "The glacier, the lake and a day of rest or estancia.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive",
+        "summary": "Settle in.",
+        "morning": "Arrive in El Calafate.",
+        "afternoon": "Laguna Nimez.",
+        "evening": "Lamb dinner."
+      },
+      {
+        "day": 2,
+        "title": "Perito Moreno",
+        "summary": "The main event.",
+        "morning": "The walkways.",
+        "afternoon": "A boat or ice trek.",
+        "evening": "Return to town."
+      },
+      {
+        "day": 3,
+        "title": "Upsala or an estancia",
+        "summary": "More ice or ranch life.",
+        "morning": "A full-day glacier boat trip or an estancia.",
+        "afternoon": "Lunch and views.",
+        "evening": "Depart or continue to El Chaltén."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan the glacier visit.",
+  "tips": [
+    "Book glacier trips and buses in advance in summer.",
+    "Bring windproof and waterproof layers, gloves and a hat.",
+    "Go to the walkways early or late, when tour groups are fewer.",
+    "Wear sturdy shoes, and sunglasses for the glare.",
+    "Carry cash for park entry and small purchases.",
+    "Check weather and wind forecasts.",
+    "Be patient and wait for calving."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in El Calafate?",
+      "a": "Two to three days. One is for the glacier, and one for other trips."
+    },
+    {
+      "q": "Is the Perito Moreno Glacier still growing?",
+      "a": "It has been relatively stable, unlike most glaciers, though it changes from year to year."
+    },
+    {
+      "q": "Can I walk on the glacier?",
+      "a": "Yes, on guided ice treks with crampons, from Minitrekking to longer Big Ice tours."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "October to April."
+    },
+    {
+      "q": "How far is the glacier from town?",
+      "a": "About 80 km, 1 hour by road."
+    },
+    {
+      "q": "Can I combine El Calafate with Torres del Paine?",
+      "a": "Yes. Buses cross the border to Puerto Natales, about 5 to 6 hours."
+    }
+  ],
+  "related": ["el-chalten-fitz-roy", "ushuaia-tierra-del-fuego", "bariloche-lake-district"],
+  "relatedArticles": ["packing-by-season", "unesco-worth-planning-around"]
+}

@@ -1,0 +1,348 @@
+{
+  "slug": "salta-jujuy-northwest",
+  "name": "Salta, Jujuy and the North-West",
+  "shortName": "Salta and Jujuy",
+  "country": "argentina",
+  "region": "Salta and Jujuy, north-west Argentina",
+  "categories": ["scenic", "unesco", "cultural", "off-the-beaten-path"],
+  "tagline": "A high, dry land of rainbow-coloured canyons, adobe villages, Andean traditions, salt flats and high-altitude vineyards, unlike the rest of Argentina.",
+  "highlight": "The Hill of Seven Colours at Purmamarca, glowing at dawn above the adobe village and the market.",
+  "shortDescription": "A colourful region of Salta's colonial centre, the canyons of Cafayate, the UNESCO-listed Quebrada de Humahuaca, Purmamarca's coloured hill, Salinas Grandes and the Train to the Clouds.",
+  "metaDescription": "A Salta and Jujuy travel guide: Salta city, Cafayate and the Quebrada de las Conchas, Purmamarca and the Seven Colours Hill, Quebrada de Humahuaca, Salinas Grandes, Tren a las Nubes, altitude, best time and a five-day plan.",
+  "suggestedStay": "5–6 days",
+  "nearestAirport": "Martín Miguel de Güemes, Salta (SLA); Jujuy (JUJ) is also served",
+  "knownFor": "Colourful canyons, Andean culture, folk music, empanadas, Torrontés wine",
+  "budget": "US$80–170 per day, mid-range",
+  "goodFor": "Landscapes, culture, road trips, wine, photography",
+  "coords": { "lat": -24.7859, "lng": -65.4117 },
+  "image": {
+    "file": "File:Cerro de los Siete Colores 05.jpg",
+    "alt": "The multicoloured Hill of Seven Colours above the village of Purmamarca in Jujuy"
+  },
+  "intro": [
+    "Argentina's north-west is a different country in feel from Buenos Aires or Patagonia. The region was part of the Inca Empire, and later a major route of Spanish colonial trade to the silver mines of Potosí, and its culture is strongly Andean, with Quechua and Aymara influences in language, food, music and clothing. Landscapes range from lush valleys and cloud forest to high desert and salt flats, and much of it lies above 2,000 metres.",
+    "Salta, the regional capital, is an elegant colonial city known as Salta la Linda, Salta the Beautiful, with a pink cathedral, a lively main square and excellent folk music venues, or peñas. From here, roads lead in two directions. South, the Calchaquí Valleys and Cafayate offer red canyons, adobe villages and some of the world's highest vineyards. North, in Jujuy Province, the Quebrada de Humahuaca, a UNESCO-listed valley, has villages such as Purmamarca and Tilcara, layered hills of red, pink and green, and pre-Inca ruins.",
+    "The region is best visited by road, with a hire car or a driver, since the sights are spread out and public transport is limited. Altitude is a factor, and the sun is strong. It is one of Argentina's most rewarding regions, with fewer visitors than Patagonia and a warm hospitality."
+  ],
+  "whyVisit": {
+    "intro": "The north-west offers landscapes and culture found nowhere else in Argentina.",
+    "points": [
+      {
+        "title": "Coloured mountains",
+        "text": "Hills striped in red, orange, green and purple, at Purmamarca, Cafayate and elsewhere."
+      },
+      {
+        "title": "Andean culture",
+        "text": "Weaving, folk music, markets and fiestas rooted in pre-Columbian tradition."
+      },
+      {
+        "title": "High-altitude wine",
+        "text": "Torrontés and Malbec from vineyards in Cafayate at 1,700 metres."
+      },
+      {
+        "title": "Empanadas and regional food",
+        "text": "Humitas, tamales, locro and llama, among Argentina's best regional cooking."
+      },
+      {
+        "title": "Epic road trips",
+        "text": "Winding mountain passes, salt flats and desert landscapes."
+      }
+    ]
+  },
+  "attractionsIntro": "Split your time between Salta, the southern valleys and the Quebrada de Humahuaca.",
+  "attractions": [
+    {
+      "name": "Salta city",
+      "image": {
+        "file": "File:Cathedral of Salta 03.jpg",
+        "alt": "The pink neo-baroque cathedral on the main square of Salta"
+      },
+      "text": "A colonial city with a pink cathedral, the Cabildo, lively squares and museums, including the Museum of High Altitude Archaeology. The cable car up Cerro San Bernardo gives a view of the valley.",
+      "tip": "Spend an evening in a peña with live folk music."
+    },
+    {
+      "name": "Cafayate and the Quebrada de las Conchas",
+      "image": {
+        "file": "File:Quebrada de las Conchas, Comuna de Cafayate, provincia de Salta, Argentina.JPG",
+        "alt": "The red rock formations of the Quebrada de las Conchas near Cafayate"
+      },
+      "text": "A dramatic gorge of red rock, with formations such as the Devil's Throat and the Amphitheatre, on the road to Cafayate, a wine town in the valleys, known for Torrontés.",
+      "tip": "Stop at viewpoints, and drive in the afternoon light."
+    },
+    {
+      "name": "Purmamarca and the Hill of Seven Colours",
+      "text": "A small adobe village at the foot of a striped hill, with a craft market and a 3-km circuit path, the Paseo de los Colorados.",
+      "tip": "Go at sunrise or sunset for the best colours."
+    },
+    {
+      "name": "Quebrada de Humahuaca",
+      "image": {
+        "file": "File:Municipalidad de Humahuaca 2.JPG",
+        "alt": "The colonial town hall in Humahuaca on the plaza"
+      },
+      "text": "A long valley inscribed by UNESCO in 2003, following an ancient route from the Andes to the plains, with villages such as Tilcara, Uquía and Humahuaca, and pre-Inca fortresses.",
+      "tip": "Allow a full day or two."
+    },
+    {
+      "name": "Salinas Grandes",
+      "image": {
+        "file": "File:Salinas Grandes (Jujuy and Salta) 02.jpg",
+        "alt": "The vast white Salinas Grandes salt flat under a blue sky"
+      },
+      "text": "A vast white salt flat at about 3,450 metres, reached by the high Cuesta de Lipán road, where salt is still harvested by hand.",
+      "tip": "Bring sunglasses and sun protection."
+    },
+    {
+      "name": "The Train to the Clouds",
+      "image": {
+        "file": "File:Tren a las nubes cruzando Viaducto la Polvorilla.jpg",
+        "alt": "The Train to the Clouds crossing the La Polvorilla viaduct high in the Andes"
+      },
+      "text": "A famous railway that climbs from Salta to the La Polvorilla viaduct, at over 4,000 metres. Services have been suspended at times, so check whether it is running.",
+      "tip": "Check schedules and book ahead."
+    }
+  ],
+  "thingsToDoIntro": "Driving, walking and eating make up most of the days.",
+  "thingsToDo": [
+    {
+      "title": "Drive the Quebrada de las Conchas",
+      "text": "Stop at rock formations and viewpoints on the road to Cafayate.",
+      "tip": "Go in the morning or late afternoon."
+    },
+    {
+      "title": "Taste Torrontés in Cafayate",
+      "text": "Visit bodegas, and try the aromatic white wine.",
+      "tip": "Book a tour with a driver."
+    },
+    {
+      "title": "Walk around Purmamarca",
+      "text": "Follow the Paseo de los Colorados at the base of the hill.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Visit Tilcara's pucará",
+      "text": "A restored pre-Inca fortress above the village.",
+      "tip": "Bring water and a hat."
+    },
+    {
+      "title": "Go to a peña",
+      "text": "Live folk music, empanadas and wine in a small venue.",
+      "tip": "Go late."
+    },
+    {
+      "title": "Try coca leaves or tea",
+      "text": "The traditional remedy for altitude sickness.",
+      "tip": "Drink water and rest."
+    }
+  ],
+  "foodIntro": "The north-west's cuisine is Andean, with corn, potatoes, quinoa and spicy stews.",
+  "foods": [
+    {
+      "name": "Empanadas salteñas",
+      "text": "Small, juicy empanadas with beef, onion and spices, baked in clay ovens.",
+      "whereToTry": "Empanada shops in Salta."
+    },
+    {
+      "name": "Humitas and tamales",
+      "text": "Sweet or savoury corn dishes, wrapped in husks and steamed.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Locro",
+      "text": "A thick stew of corn, beans and meat, eaten on national holidays.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Llama and goat",
+      "text": "Lean Andean meats, grilled or stewed.",
+      "whereToTry": "Restaurants in Jujuy."
+    },
+    {
+      "name": "Torrontés",
+      "text": "Aromatic white wine from Cafayate.",
+      "whereToTry": "Bodegas."
+    },
+    {
+      "name": "Quinoa and Andean grains",
+      "text": "Salads and stews.",
+      "whereToTry": "Restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Salta, and in small guesthouses in Cafayate and Purmamarca.",
+    "areas": [
+      {
+        "name": "Salta city",
+        "bestFor": "Restaurants and music",
+        "text": "Hotels and hostels near the main plaza."
+      },
+      {
+        "name": "Cafayate",
+        "bestFor": "Wine",
+        "text": "Boutique hotels near the vineyards."
+      },
+      {
+        "name": "Purmamarca and Tilcara",
+        "bestFor": "Village atmosphere",
+        "text": "Guesthouses in adobe houses."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "US$15–45 per night" },
+      { "label": "Mid-range hotel", "value": "US$60–130 per night" },
+      { "label": "Boutique lodge", "value": "US$180–400 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$8–22 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Salta is about 1,500 km north-west of Buenos Aires, and reached by air.",
+    "options": [
+      {
+        "mode": "Flight to Salta (SLA)",
+        "text": "Direct flights from Buenos Aires, about 2 hours.",
+        "detail": "The airport is 15 minutes from the centre."
+      },
+      {
+        "mode": "Flight to Jujuy (JUJ)",
+        "text": "Direct flights from Buenos Aires.",
+        "detail": "Useful for the Quebrada."
+      },
+      {
+        "mode": "Bus",
+        "text": "Long-distance buses run from Buenos Aires (about 20 hours) and Tucumán.",
+        "detail": "Fly instead unless you love buses."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car or driver is the best way to explore, and tours cover the main sights.",
+    "options": [
+      {
+        "mode": "Hire car",
+        "text": "Gives freedom, though roads can be unpaved and high.",
+        "detail": "Check fuel and road conditions."
+      },
+      {
+        "mode": "Tours and drivers",
+        "text": "Day trips from Salta and Jujuy.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Buses",
+        "text": "Local buses link villages.",
+        "detail": "Limited, and slow."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–October",
+    "summary": "The north-west has a dry winter and a rainy summer, with heavy afternoon storms from December to March. Altitude makes nights cold.",
+    "seasons": [
+      {
+        "season": "Autumn (April–May)",
+        "rating": "best",
+        "text": "Dry, warm days, and clear light."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "best",
+        "text": "Dry and sunny, with cold nights."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "good",
+        "text": "Warming, with clear skies."
+      },
+      {
+        "season": "Summer (December–March)",
+        "rating": "avoid",
+        "text": "Hot and wet, with afternoon storms and landslides."
+      }
+    ],
+    "avoid": "January and February, when rain can close roads."
+  },
+  "itinerary": {
+    "title": "Five days in the north-west",
+    "intro": "Salta, the southern valleys and the Quebrada de Humahuaca.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Salta",
+        "summary": "Colonial city.",
+        "morning": "Arrive and see the plaza and cathedral.",
+        "afternoon": "The cable car to San Bernardo.",
+        "evening": "A peña and empanadas."
+      },
+      {
+        "day": 2,
+        "title": "To Cafayate",
+        "summary": "Canyons and wine.",
+        "morning": "Drive the Quebrada de las Conchas.",
+        "afternoon": "Arrive in Cafayate and taste wine.",
+        "evening": "Dinner in the town."
+      },
+      {
+        "day": 3,
+        "title": "Back to Salta",
+        "summary": "The scenic road.",
+        "morning": "A winery.",
+        "afternoon": "Drive back to Salta.",
+        "evening": "Rest."
+      },
+      {
+        "day": 4,
+        "title": "Purmamarca and Salinas",
+        "summary": "Colour and salt.",
+        "morning": "Drive to Purmamarca.",
+        "afternoon": "The Salinas Grandes.",
+        "evening": "Sleep in Purmamarca or Tilcara."
+      },
+      {
+        "day": 5,
+        "title": "Humahuaca",
+        "summary": "The Quebrada.",
+        "morning": "Tilcara's pucará.",
+        "afternoon": "Humahuaca and the Cabildo.",
+        "evening": "Return to Salta."
+      }
+    ]
+  },
+  "tipsIntro": "The altitude and distances need some planning.",
+  "tips": [
+    "Take it easy on arrival, since altitude can cause headaches and fatigue.",
+    "Drink plenty of water, and avoid alcohol on the first day at altitude.",
+    "Wear sun protection, since the UV is strong.",
+    "Bring layers, since nights are cold.",
+    "Fill your fuel tank often, and check road conditions.",
+    "Check whether the Train to the Clouds is running.",
+    "Try coca tea, and buy crafts from local cooperatives."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the north-west?",
+      "a": "Five to six days, including Salta, Cafayate and the Quebrada de Humahuaca."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "April to October."
+    },
+    {
+      "q": "Is altitude a problem?",
+      "a": "It can be, particularly at Salinas Grandes and the high passes. Go slowly, drink water and rest."
+    },
+    {
+      "q": "Do I need a car?",
+      "a": "It is the best way to explore, though tours are available."
+    },
+    {
+      "q": "Is the Train to the Clouds running?",
+      "a": "Services have been suspended at times. Check the current status before planning."
+    },
+    {
+      "q": "Which is better, Salta or Jujuy?",
+      "a": "They are complementary. Salta has the city and wine, and Jujuy has the Quebrada de Humahuaca."
+    }
+  ],
+  "related": ["mendoza-wine-country", "buenos-aires", "esteros-del-ibera"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around"]
+}

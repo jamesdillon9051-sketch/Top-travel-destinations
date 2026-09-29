@@ -1,0 +1,322 @@
+{
+  "slug": "esteros-del-ibera",
+  "name": "Esteros del Iberá",
+  "country": "argentina",
+  "region": "Corrientes, north-east Argentina",
+  "categories": ["nature", "national-park", "off-the-beaten-path"],
+  "tagline": "A vast, quiet wetland of floating islands and lagoons, alive with caimans, capybaras and birds, where jaguars are being brought back to the wild.",
+  "highlight": "Drifting in a small boat at dawn among floating islands, with caimans, capybaras and hundreds of birds in every direction.",
+  "shortDescription": "One of South America's largest freshwater wetlands, a remote nature reserve of lagoons and marshes, with boat safaris, walking, horse riding, and a pioneering rewilding project.",
+  "metaDescription": "An Esteros del Iberá travel guide: boat safaris, caimans, capybaras, birdlife, Colonia Carlos Pellegrini, the jaguar rewilding project, best time, how to get there and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Corrientes (CNQ) or Posadas (PSS), about 4 to 5 hours' drive",
+  "knownFor": "Wetland wildlife, caimans, capybaras, birds, rewilding, quiet",
+  "budget": "US$120–300 per day, mid-range, with lodge stays",
+  "goodFor": "Wildlife, birdwatching, photography, quiet nature",
+  "coords": { "lat": -28.5500, "lng": -57.1800 },
+  "image": {
+    "file": "File:Esteros del Ibera Laguna.JPG",
+    "alt": "A calm lagoon covered with aquatic plants in the Esteros del Iberá wetlands"
+  },
+  "intro": [
+    "The Esteros del Iberá is one of the largest freshwater wetlands in South America, an area of about 13,000 square kilometres of lagoons, marshes and floating islands, fed by rainfall rather than rivers, in the province of Corrientes. Its shallow, still waters are covered with aquatic plants, and much of the surface is made up of camalotes, floating mats of vegetation. It is home to more than 350 species of bird, and to caimans, capybaras, marsh deer, howler monkeys and many others.",
+    "For decades, poaching and cattle ranching reduced the wildlife, but a large conservation project, begun by the American philanthropist Douglas Tompkins and continued by his foundation and the Argentine government, has bought and donated land, creating Iberá National Park in 2018. The project has reintroduced species that had disappeared from the area, including giant anteaters, pampas deer, giant otters and, in recent years, jaguars, and it is one of the most ambitious rewilding projects in South America.",
+    "Iberá is remote and quiet. The main base is the small village of Colonia Carlos Pellegrini, on the edge of a large lagoon, where lodges and guesthouses offer boat trips, walks, horseback rides and night safaris. It is not an easy place to reach, and it is not for those who want a big-name attraction, but it is a peaceful and rewarding place for wildlife lovers."
+  ],
+  "whyVisit": {
+    "intro": "Iberá offers close encounters with wetland wildlife in a quiet, uncrowded setting, and a chance to support conservation.",
+    "points": [
+      {
+        "title": "Wildlife everywhere",
+        "text": "Caimans, capybaras, marsh deer, howler monkeys and hundreds of bird species."
+      },
+      {
+        "title": "Quiet boat safaris",
+        "text": "Small motorless or low-noise boats drift through lagoons and among floating islands."
+      },
+      {
+        "title": "Rewilding in action",
+        "text": "A project bringing back anteaters, otters, deer and even jaguars."
+      },
+      {
+        "title": "Peace and stars",
+        "text": "Dark skies and a slow pace."
+      },
+      {
+        "title": "Gaucho culture",
+        "text": "Horse riding and estancia hospitality."
+      }
+    ]
+  },
+  "attractionsIntro": "Most experiences are guided, from Colonia Carlos Pellegrini and nearby lodges.",
+  "attractions": [
+    {
+      "name": "Laguna Iberá boat safari",
+      "image": {
+        "file": "File:Esteros del Ibera Marshes.JPG",
+        "alt": "A marsh of floating vegetation and water plants in the Iberá wetlands"
+      },
+      "text": "A boat trip on the large lagoon beside Carlos Pellegrini, with a guide who spots caimans, capybaras, snail kites and marsh deer among the floating islands.",
+      "tip": "Go at dawn or late afternoon."
+    },
+    {
+      "name": "Caimans and capybaras",
+      "image": {
+        "file": "File:Esteros Ibera Caiman Yacare.jpg",
+        "alt": "A yacaré caiman resting on the bank in the Iberá wetlands"
+      },
+      "text": "Yacaré caimans bask on banks and capybaras graze in groups, often at close range, in a landscape where wildlife has little fear of people.",
+      "tip": "Keep a safe distance."
+    },
+    {
+      "name": "Birdwatching",
+      "image": {
+        "file": "File:Sicalis flaveola Esteros del Iberá.jpg",
+        "alt": "A saffron finch perched among reeds in the Iberá wetlands"
+      },
+      "text": "More than 350 species, including jabiru storks, herons, spoonbills, ducks, kingfishers and the rare strange-tailed tyrant.",
+      "tip": "Bring binoculars."
+    },
+    {
+      "name": "The Laguna Iberá lookout",
+      "text": "A viewpoint over the lagoon, near the village, for sunset.",
+      "tip": "A short walk."
+    },
+    {
+      "name": "Rewilding centres",
+      "text": "Visitors can see where jaguars, giant otters and other species are prepared for release, though not the animals themselves in some cases.",
+      "tip": "Ask a guide about the project."
+    },
+    {
+      "name": "Flying over the marshes",
+      "image": {
+        "file": "File:Flying Over Esteros del Iberá The kingdom of water, North-eastern Argentina.jpg",
+        "alt": "An aerial view of the Iberá wetlands with lagoons and floating vegetation"
+      },
+      "text": "The vast scale of the wetland is best seen from above, on a small-plane flight.",
+      "tip": "Book at your lodge."
+    }
+  ],
+  "thingsToDoIntro": "Activities are quiet, guided and wildlife-focused.",
+  "thingsToDo": [
+    {
+      "title": "Take a boat safari",
+      "text": "Drift among floating islands, spotting wildlife.",
+      "tip": "Go at sunrise."
+    },
+    {
+      "title": "Go on a night safari",
+      "text": "See caimans, owls and nocturnal mammals by torchlight.",
+      "tip": "Bring a warm layer."
+    },
+    {
+      "title": "Ride a horse",
+      "text": "Gaucho-led rides through the marsh edge.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Walk with a guide",
+      "text": "Trails through palm savannah and wetland edges.",
+      "tip": "Bring repellent."
+    },
+    {
+      "title": "Kayak the lagoon",
+      "text": "Paddle quietly among wildlife.",
+      "tip": "Use a guide."
+    },
+    {
+      "title": "Watch the stars",
+      "text": "Clear, dark skies.",
+      "tip": "Bring a jacket."
+    }
+  ],
+  "foodIntro": "Food in Iberá is simple and regional, with river fish, beef and local sweets.",
+  "foods": [
+    {
+      "name": "Surubí and pacú",
+      "text": "River fish, grilled or in stews.",
+      "whereToTry": "Lodges and restaurants."
+    },
+    {
+      "name": "Chipa",
+      "text": "Cheesy cassava bread rolls.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Asado",
+      "text": "Grilled beef, the traditional meal.",
+      "whereToTry": "Lodges."
+    },
+    {
+      "name": "Mbaipy and sopa paraguaya",
+      "text": "Corn-based dishes of the Guaraní tradition.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Tereré",
+      "text": "Cold mate, a common drink.",
+      "whereToTry": "Everywhere."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Colonia Carlos Pellegrini, in a lodge or guesthouse.",
+    "areas": [
+      {
+        "name": "Colonia Carlos Pellegrini",
+        "bestFor": "Boat trips and walks",
+        "text": "Lodges and guesthouses beside the lagoon."
+      },
+      {
+        "name": "Estancias",
+        "bestFor": "Gaucho hospitality",
+        "text": "Ranches with horse riding."
+      },
+      {
+        "name": "Other entry points",
+        "bestFor": "Quieter stays",
+        "text": "Small lodges at other sides of the wetland."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "US$40–90 per night" },
+      { "label": "Mid-range lodge", "value": "US$120–250 per night" },
+      { "label": "Luxury lodge", "value": "US$350–700 per night, full board" },
+      { "label": "Guided boat safari", "value": "US$30–70 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Iberá is remote, and reached by road, with some unpaved sections.",
+    "options": [
+      {
+        "mode": "Fly to Corrientes or Posadas, then drive",
+        "text": "About 4 to 5 hours from either airport, with the last stretch unpaved.",
+        "detail": "Hire a car or arrange a transfer."
+      },
+      {
+        "mode": "Transfer or tour",
+        "text": "Lodges arrange transfers from airports and Iguazú.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Bus to Mercedes, then transfer",
+        "text": "Buses reach Mercedes, about 120 km from Carlos Pellegrini.",
+        "detail": "Book a shuttle."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Everything is guided and close to Carlos Pellegrini.",
+    "options": [
+      {
+        "mode": "Boat",
+        "text": "The main way to see wildlife.",
+        "detail": "Book at your lodge."
+      },
+      {
+        "mode": "On foot or by bicycle",
+        "text": "Around the village and trails.",
+        "detail": "Bring repellent."
+      },
+      {
+        "mode": "4WD vehicle",
+        "text": "For longer excursions.",
+        "detail": "Arranged by lodges."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–November",
+    "summary": "Iberá has a humid subtropical climate, with hot, rainy summers and mild winters. Winter is cooler and drier, with fewer insects.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "avoid",
+        "text": "Hot, humid and rainy, with mosquitoes."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Pleasant temperatures, good wildlife."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "best",
+        "text": "Mild days, cool nights and fewer insects."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Warm, with birds in breeding plumage."
+      }
+    ],
+    "avoid": "January and February for heat and insects."
+  },
+  "itinerary": {
+    "title": "Three days in Iberá",
+    "intro": "Boats, walks and a night safari.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive",
+        "summary": "Settle in.",
+        "morning": "Transfer to Carlos Pellegrini.",
+        "afternoon": "A walk and a lagoon lookout.",
+        "evening": "Sunset boat trip."
+      },
+      {
+        "day": 2,
+        "title": "Boat and horses",
+        "summary": "Wildlife and the countryside.",
+        "morning": "A dawn boat safari.",
+        "afternoon": "A horse ride.",
+        "evening": "A night safari."
+      },
+      {
+        "day": 3,
+        "title": "Walk and depart",
+        "summary": "A last look.",
+        "morning": "A guided walk.",
+        "afternoon": "Transfer to Corrientes or Posadas.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make the visit more comfortable.",
+  "tips": [
+    "Visit between March and November, avoiding the summer heat and insects.",
+    "Bring insect repellent, sun protection, binoculars and a hat.",
+    "Book lodges and transfers in advance.",
+    "Carry cash, since there are few ATMs.",
+    "Do not feed animals, and keep a safe distance.",
+    "Take a night safari for different wildlife.",
+    "Allow time to slow down."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Iberá?",
+      "a": "Three days is ideal."
+    },
+    {
+      "q": "Can I see jaguars?",
+      "a": "The rewilding project has released jaguars, but sightings are rare. Caimans, capybaras and birds are much easier."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "March to November."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "By road from Corrientes or Posadas, about 4 to 5 hours, or by lodge transfer."
+    },
+    {
+      "q": "Is Iberá like the Pantanal?",
+      "a": "Similar, though quieter and less visited. The Pantanal has more large mammals."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Yes, with guides and normal precautions."
+    }
+  ],
+  "related": ["iguazu-falls-argentina", "salta-jujuy-northwest", "buenos-aires"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

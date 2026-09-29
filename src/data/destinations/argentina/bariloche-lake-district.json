@@ -1,0 +1,323 @@
+{
+  "slug": "bariloche-lake-district",
+  "name": "Bariloche and the Lake District",
+  "shortName": "Bariloche",
+  "country": "argentina",
+  "region": "Río Negro and Neuquén, northern Patagonia",
+  "categories": ["mountains", "national-park", "scenic", "nature"],
+  "tagline": "A Swiss-style alpine town on a vast glacial lake, with forested peaks, chocolate shops, ski slopes and some of Argentina's most beautiful drives.",
+  "highlight": "The Circuito Chico at sunset, with the lake turning pink and Llao Llao on its peninsula.",
+  "shortDescription": "Argentina's lakes and mountains playground: Nahuel Huapi National Park, the Circuito Chico, Llao Llao, Cerro Catedral, the Seven Lakes road and Villa La Angostura, with skiing in winter and hiking in summer.",
+  "metaDescription": "A Bariloche and Lake District travel guide: Nahuel Huapi, Circuito Chico, Llao Llao, Cerro Catedral, Seven Lakes road, Villa La Angostura, chocolate, hiking, skiing, when to go and a three-day plan.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Bariloche (BRC), about 20 minutes",
+  "knownFor": "Lakes, mountains, chocolate, skiing, hiking, alpine architecture",
+  "budget": "US$100–200 per day, mid-range",
+  "goodFor": "Scenery, hiking, skiing, road trips, families",
+  "coords": { "lat": -41.1335, "lng": -71.3103 },
+  "image": {
+    "file": "File:Llao Llao Peninsula.jpg",
+    "alt": "The Llao Llao peninsula between two arms of Lake Nahuel Huapi with mountains behind"
+  },
+  "intro": [
+    "San Carlos de Bariloche sits on the southern shore of Lake Nahuel Huapi, a huge glacial lake in the Andes of northern Patagonia, surrounded by forested mountains and the snow-capped Cerro Tronador. It was settled in the early 20th century by Swiss, German and other European immigrants, and their influence shows in its alpine-style timber architecture, its chocolate shops and its restaurants serving fondue, smoked trout and venison.",
+    "Nahuel Huapi National Park, established in 1934, is the oldest in Argentina and encloses the town and the lakes. Its landscape offers many activities: a scenic loop called the Circuito Chico around the Llao Llao peninsula, chairlifts and cable cars to viewpoints, forest hikes, lake cruises to islands, and, in winter, skiing at Cerro Catedral, one of the largest ski areas in South America.",
+    "Further afield, the Route of the Seven Lakes leads north to San Martín de los Andes, passing a series of lakes and forests, and Villa La Angostura is a quieter alternative, with a small centre and waterfront. The region is popular with Argentines, particularly in January, July and for school graduation trips, and it is best to visit in autumn or spring, when it is quieter and the colours are striking."
+  ],
+  "whyVisit": {
+    "intro": "Bariloche and the Lake District are among the most scenic parts of Argentina, with a mix of outdoor activities and comfort.",
+    "points": [
+      {
+        "title": "Lakes and mountains",
+        "text": "Turquoise water, forested peaks and snowy summits in every direction."
+      },
+      {
+        "title": "Outdoor variety",
+        "text": "Hiking, skiing, kayaking, cycling and horse riding."
+      },
+      {
+        "title": "Scenic drives",
+        "text": "The Circuito Chico and the Route of the Seven Lakes are two of the great drives in Argentina."
+      },
+      {
+        "title": "Chocolate and food",
+        "text": "Artisan chocolate, craft beer, trout and lamb."
+      },
+      {
+        "title": "Year-round appeal",
+        "text": "Ski in winter, hike in summer, and see the colours in autumn."
+      }
+    ]
+  },
+  "attractionsIntro": "The best sights are around the lake, and a car or bike makes exploring easy.",
+  "attractions": [
+    {
+      "name": "The Circuito Chico",
+      "image": {
+        "file": "File:Bariloche circuito chico - panoramio.jpg",
+        "alt": "A viewpoint on the Circuito Chico scenic loop with lakes and forested hills"
+      },
+      "text": "A 60-km loop west of town along the lake shore, with viewpoints, small lakes, beaches, forest, chocolate cafés and the Llao Llao peninsula.",
+      "tip": "Drive, cycle or take a bus tour."
+    },
+    {
+      "name": "Llao Llao",
+      "text": "A peninsula with a famous 1938 hotel, forest trails and lake views, at the end of the Circuito Chico.",
+      "tip": "Walk the Bosque Encantado trail."
+    },
+    {
+      "name": "Cerro Catedral",
+      "image": {
+        "file": "File:Base del Cerro Catedral en Bariloche. (Patagonia Argentina) 16.JPG",
+        "alt": "The base area of Cerro Catedral ski resort near Bariloche"
+      },
+      "text": "The ski resort about 20 km from town, with lifts, runs and views of the lake in winter. In summer, lifts open for hiking and mountain biking.",
+      "tip": "Take a lift to the top for the views."
+    },
+    {
+      "name": "Cerro Campanario",
+      "text": "A short chairlift ride to a panoramic viewpoint over the lakes and islands, often ranked among the best views in the world.",
+      "tip": "Go on a clear afternoon."
+    },
+    {
+      "name": "Lake Nahuel Huapi and Isla Victoria",
+      "image": {
+        "file": "File:Lago Nahuel Huapi (vista).JPG",
+        "alt": "The wide blue waters of Lake Nahuel Huapi with mountains beyond"
+      },
+      "text": "Boat trips on the lake reach Isla Victoria and the Arrayanes forest, with unusual cinnamon-barked trees.",
+      "tip": "Book a half-day trip."
+    },
+    {
+      "name": "Villa La Angostura",
+      "image": {
+        "file": "File:Villa la Angostura ,Argentina.JPG",
+        "alt": "The lakeside village of Villa La Angostura with houses and mountains"
+      },
+      "text": "A charming village north of Bariloche, on a peninsula, with a small centre, lakes and walking trails.",
+      "tip": "A good quiet base."
+    }
+  ],
+  "thingsToDoIntro": "Outdoor activities and scenic drives make up the main things to do.",
+  "thingsToDo": [
+    {
+      "title": "Drive the Circuito Chico",
+      "text": "Stop at viewpoints, lakes and cafés.",
+      "tip": "Allow half a day."
+    },
+    {
+      "title": "Ski at Cerro Catedral",
+      "text": "Great skiing from June to September, with lake views.",
+      "tip": "Book lift tickets and lessons ahead."
+    },
+    {
+      "title": "Hike to a refuge",
+      "text": "Trails lead to mountain huts, such as Refugio Frey and Refugio López.",
+      "tip": "Check the weather."
+    },
+    {
+      "title": "Try Bariloche chocolate",
+      "text": "Shops on Mitre Street sell chocolate in many forms.",
+      "tip": "Visit a chocolate factory."
+    },
+    {
+      "title": "Drive the Seven Lakes route",
+      "text": "A scenic road with lakes, forest and mountain views, from Villa La Angostura to San Martín de los Andes.",
+      "tip": "Allow a full day."
+    },
+    {
+      "title": "Kayak on the lake",
+      "text": "Paddle to hidden coves in summer.",
+      "tip": "Go in the morning."
+    }
+  ],
+  "foodIntro": "Bariloche's food is Patagonian-Alpine, with lamb, trout, venison, fondue and chocolate.",
+  "foods": [
+    {
+      "name": "Chocolate",
+      "text": "Bariloche is Argentina's chocolate capital, with hot chocolate, truffles and eggs.",
+      "whereToTry": "Shops and cafés on Mitre Street."
+    },
+    {
+      "name": "Smoked trout and salmon",
+      "text": "Local fish, smoked or grilled.",
+      "whereToTry": "Restaurants and lodges."
+    },
+    {
+      "name": "Cordero and jabalí",
+      "text": "Patagonian lamb, wild boar and venison.",
+      "whereToTry": "Parrillas."
+    },
+    {
+      "name": "Fondue",
+      "text": "Swiss-style cheese and chocolate fondue.",
+      "whereToTry": "Alpine restaurants."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Bariloche has a strong microbrewery tradition.",
+      "whereToTry": "Brewpubs."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in town for restaurants, or on the Circuito Chico for views.",
+    "areas": [
+      {
+        "name": "Bariloche centre",
+        "bestFor": "Restaurants and shopping",
+        "text": "Hotels and hostels near the lake."
+      },
+      {
+        "name": "Llao Llao and the Circuito Chico",
+        "bestFor": "Views and quiet",
+        "text": "Lodges and luxury hotels."
+      },
+      {
+        "name": "Villa La Angostura",
+        "bestFor": "A calmer alternative",
+        "text": "Cabins and boutique hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "US$20–55 per night" },
+      { "label": "Mid-range hotel", "value": "US$90–180 per night" },
+      { "label": "Luxury lodge", "value": "US$300–700 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$12–30 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Bariloche is in the Andes of northern Patagonia, about 1,600 km from Buenos Aires.",
+    "options": [
+      {
+        "mode": "Flight to Bariloche (BRC)",
+        "text": "Direct flights from Buenos Aires (about 2 hours), El Calafate and other cities.",
+        "detail": "The airport is about 20 minutes from town."
+      },
+      {
+        "mode": "Bus",
+        "text": "Long-distance buses from Buenos Aires take about 20 hours, and from Mendoza about 17 hours.",
+        "detail": "Fly for long distances."
+      },
+      {
+        "mode": "From Chile",
+        "text": "Via the Puyehue pass, or the boat-and-bus Cruce de Lagos to Puerto Montt.",
+        "detail": "A scenic crossing."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is ideal, but buses and tours serve the main sights.",
+    "options": [
+      {
+        "mode": "Hire car",
+        "text": "Good for the Circuito Chico and Seven Lakes.",
+        "detail": "Roads can be icy in winter."
+      },
+      {
+        "mode": "Local buses",
+        "text": "Reach Llao Llao and Cerro Catedral.",
+        "detail": "Check timetables."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Popular for the Circuito Chico.",
+        "detail": "Roads can be busy."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–March, and April for autumn colour",
+    "summary": "Bariloche has a cool climate, with snowy winters and pleasant summers.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "best",
+        "text": "Warm, with long days and hiking weather. Busy in January."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Golden beech forests and fewer visitors."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "good",
+        "text": "Snow and skiing, cold days and busy in July."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "good",
+        "text": "Blossom, and lower prices."
+      }
+    ],
+    "avoid": "Early December, when high school graduation groups fill the town, and the busiest weeks in January and July."
+  },
+  "itinerary": {
+    "title": "Three days in Bariloche",
+    "intro": "The scenic circuit, the lake and the mountains.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Circuito Chico",
+        "summary": "Lake and peninsula.",
+        "morning": "Cerro Campanario.",
+        "afternoon": "Llao Llao and a forest walk.",
+        "evening": "Chocolate and dinner."
+      },
+      {
+        "day": 2,
+        "title": "The lake",
+        "summary": "By boat.",
+        "morning": "A boat to Isla Victoria.",
+        "afternoon": "The Arrayanes forest.",
+        "evening": "Fondue dinner."
+      },
+      {
+        "day": 3,
+        "title": "Mountains",
+        "summary": "Catedral.",
+        "morning": "Cerro Catedral lifts or a hike.",
+        "afternoon": "A brewpub.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make the Lakes District more enjoyable.",
+  "tips": [
+    "Book ski lift tickets and accommodation ahead for July and January.",
+    "Drive the Circuito Chico early to avoid traffic.",
+    "Bring layers. The weather can change quickly.",
+    "Try the chocolate, and the craft beer.",
+    "Check road conditions in winter.",
+    "Avoid the town in early December, when it is full of school groups.",
+    "Book boat trips in advance."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Bariloche?",
+      "a": "Three or four days for the main sights."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "December to March for hiking, and April for autumn colours. June to September for skiing."
+    },
+    {
+      "q": "Is Bariloche only for skiing?",
+      "a": "No. Summer and autumn are equally lovely, with lakes, hiking and drives."
+    },
+    {
+      "q": "What is Bariloche known for?",
+      "a": "Chocolate, lakes, mountains and skiing."
+    },
+    {
+      "q": "Can I visit Chile from Bariloche?",
+      "a": "Yes, by road via the Puyehue pass, or by the scenic Cruce de Lagos."
+    },
+    {
+      "q": "Is it better to hire a car?",
+      "a": "It helps for the Circuito Chico and the Seven Lakes route, though buses and tours are available."
+    }
+  ],
+  "related": ["el-chalten-fitz-roy", "mendoza-wine-country", "el-calafate-perito-moreno"],
+  "relatedArticles": ["packing-by-season", "us-national-parks-road-trip"]
+}

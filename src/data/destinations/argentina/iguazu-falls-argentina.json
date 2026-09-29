@@ -1,0 +1,311 @@
+{
+  "slug": "iguazu-falls-argentina",
+  "name": "Iguazú Falls (Argentine side)",
+  "shortName": "Iguazú",
+  "country": "argentina",
+  "region": "Misiones, north-east Argentina",
+  "categories": ["unesco", "national-park", "nature", "scenic"],
+  "tagline": "The closer, wetter side of the greatest waterfall system on earth: catwalks over the top of the falls, trails through the jungle and the Devil's Throat roaring below your feet.",
+  "highlight": "The walkway over the lip of the Devil's Throat, where the roar is deafening and mist surrounds you.",
+  "shortDescription": "The Argentine side of Iguazú Falls holds most of the 275 cascades, seen from a network of circuits and walkways in a subtropical rainforest national park, with the Devil's Throat as its finale.",
+  "metaDescription": "An Iguazú Falls Argentine side travel guide: the Devil's Throat, the Upper and Lower Circuits, Gran Aventura boat, the Macuco trail, wildlife, Puerto Iguazú, San Ignacio Miní, when to go and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Cataratas del Iguazú (IGR), about 20 minutes from the park",
+  "knownFor": "The Devil's Throat, jungle trails, boat rides, wildlife",
+  "budget": "US$100–200 per day, mid-range",
+  "goodFor": "Waterfalls, wildlife, families, photography",
+  "coords": { "lat": -25.6953, "lng": -54.4367 },
+  "image": {
+    "file": "File:A view of Iguazu Falls from the Argentina side.jpg",
+    "alt": "Many cascades of Iguazú Falls seen from the Argentine side, surrounded by rainforest"
+  },
+  "intro": [
+    "The Argentine side of Iguazú Falls includes about 80% of the falls, more than the Brazilian side, and the trails and walkways bring visitors closer to the water. The Iguazú National Park, on the Argentine bank, was inscribed by UNESCO in 1984, and protects a large area of subtropical Atlantic rainforest as well as the falls themselves.",
+    "The park is organised into several routes. The Upper Circuit walks along the top of the cascades, the Lower Circuit descends to the base, and a small train, the Tren Ecológico de la Selva, runs to the start of the walkway that ends at the Devil's Throat, or Garganta del Diablo, the most powerful cataract of all. The park also has a Macuco jungle trail, boat trips beneath the falls, and wildlife including coatis, toucans, butterflies and, more rarely, caiman and monkeys.",
+    "Most visitors base themselves at Puerto Iguazú, a small town at the meeting of the Iguazú and Paraná rivers, near the point where Argentina, Brazil and Paraguay meet. The Brazilian side offers panoramas, and the Argentine side offers immersion, and a two-day visit lets you see both."
+  ],
+  "whyVisit": {
+    "intro": "The Argentine side is the more immersive way to experience Iguazú, with the closest views of the falls.",
+    "points": [
+      {
+        "title": "The Devil's Throat",
+        "text": "A walkway over the edge of the largest and most powerful fall."
+      },
+      {
+        "title": "More trails",
+        "text": "Multiple circuits give different views over a full day."
+      },
+      {
+        "title": "Rainforest and wildlife",
+        "text": "Coatis, toucans, butterflies and monkeys in a lush park."
+      },
+      {
+        "title": "Boat rides",
+        "text": "Thrilling trips beneath the falls."
+      },
+      {
+        "title": "Easy from Puerto Iguazú",
+        "text": "A short bus ride to the entrance."
+      }
+    ]
+  },
+  "attractionsIntro": "Allow a full day for the Argentine side, starting with the Devil's Throat.",
+  "attractions": [
+    {
+      "name": "The Devil's Throat (Garganta del Diablo)",
+      "image": {
+        "file": "File:J31 180 Garganta del Diablo, Fallkante.jpg",
+        "alt": "The edge of the Devil's Throat with water pouring into the chasm"
+      },
+      "text": "A U-shaped chasm where much of the river plunges about 80 metres. A 1.1-km walkway takes you to a platform at the edge, in mist and thunder.",
+      "tip": "Go first thing in the morning, when it is less crowded."
+    },
+    {
+      "name": "The Upper Circuit",
+      "text": "A flat walkway of about 1.7 km along the top of the falls, with views down into the cascades.",
+      "tip": "Easy, with fine photo opportunities."
+    },
+    {
+      "name": "The Lower Circuit",
+      "image": {
+        "file": "File:Rainbows at Iguazu Falls frrom Argentina.jpg",
+        "alt": "Rainbows in the spray at the Lower Circuit of Iguazú Falls"
+      },
+      "text": "A trail of about 1.4 km with steps and walkways down to the base of the falls, including the Bossetti and Dos Hermanas falls, with rainbows in the mist.",
+      "tip": "Bring a rain jacket."
+    },
+    {
+      "name": "Gran Aventura boat trip",
+      "text": "A truck ride through the jungle and a speedboat that goes right under the falls, where you get drenched.",
+      "tip": "Bring a waterproof bag."
+    },
+    {
+      "name": "The Macuco Trail",
+      "text": "A jungle walk of about 3.5 km to a natural pool and the Arrechea waterfall, popular with birdwatchers.",
+      "tip": "Go early."
+    },
+    {
+      "name": "San Ignacio Miní",
+      "image": {
+        "file": "File:San Ignacio Miní mission ruins.jpg",
+        "alt": "Red sandstone ruins of the Jesuit mission of San Ignacio Miní"
+      },
+      "text": "A UNESCO-listed Jesuit mission of the 17th century, in red sandstone and jungle, about 240 km south of Puerto Iguazú.",
+      "tip": "A long day trip."
+    }
+  ],
+  "thingsToDoIntro": "Most experiences are in the park, but the region has other sights.",
+  "thingsToDo": [
+    {
+      "title": "Walk the Devil's Throat catwalk",
+      "text": "Feel the vibration and spray at the edge of the falls.",
+      "tip": "Go early, and keep camera gear dry."
+    },
+    {
+      "title": "Ride the jungle train",
+      "text": "The small train links the visitor centre and the trails.",
+      "tip": "Buy the ticket at the entrance."
+    },
+    {
+      "title": "Take the Gran Aventura",
+      "text": "A thrilling boat trip to the base of the falls.",
+      "tip": "Bring dry clothes."
+    },
+    {
+      "title": "Look for wildlife",
+      "text": "Watch for coatis, toucans and butterflies.",
+      "tip": "Never feed the coatis."
+    },
+    {
+      "title": "Do the full-moon walk",
+      "text": "On nights around the full moon, the park opens for a guided walk to the Devil's Throat.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "See the Three Borders",
+      "text": "The point where Argentina, Brazil and Paraguay meet.",
+      "tip": "Go at sunset."
+    }
+  ],
+  "foodIntro": "Food in Puerto Iguazú mixes Argentine, Paraguayan and Brazilian cooking, with river fish and beef.",
+  "foods": [
+    {
+      "name": "Surubí and river fish",
+      "text": "Large river fish, grilled or in stews.",
+      "whereToTry": "Restaurants in Puerto Iguazú."
+    },
+    {
+      "name": "Chipa",
+      "text": "Cheesy cassava rolls, a Paraguayan and Misiones staple.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Parrilla",
+      "text": "Argentine beef, grilled.",
+      "whereToTry": "Grill restaurants."
+    },
+    {
+      "name": "Mate and tereré",
+      "text": "Hot and cold herbal infusions.",
+      "whereToTry": "Everywhere."
+    },
+    {
+      "name": "Empanadas and pasta",
+      "text": "Simple meals for after the falls.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Puerto Iguazú for value, or inside the park for early access.",
+    "areas": [
+      {
+        "name": "Puerto Iguazú",
+        "bestFor": "Restaurants and value",
+        "text": "Hotels and hostels near the bus station."
+      },
+      {
+        "name": "Route to the falls",
+        "bestFor": "Lodges and pools",
+        "text": "Hotels along the road to the park."
+      },
+      {
+        "name": "Inside the park",
+        "bestFor": "First access",
+        "text": "One hotel beside the falls."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "US$20–50 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–160 per night" },
+      { "label": "Luxury hotel", "value": "US$250–500 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$10–25 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Iguazú is in the far north-east of Argentina, bordering Brazil and Paraguay.",
+    "options": [
+      {
+        "mode": "Flight to Iguazú (IGR)",
+        "text": "Direct flights from Buenos Aires, about 2 hours.",
+        "detail": "The airport is about 20 minutes from the park."
+      },
+      {
+        "mode": "Bus from Buenos Aires",
+        "text": "About 18 hours, with cama seats.",
+        "detail": "Fly instead unless you love buses."
+      },
+      {
+        "mode": "From Brazil",
+        "text": "Cross from Foz do Iguaçu by bus or taxi, about 30 minutes plus border formalities.",
+        "detail": "Carry passports and check visa requirements."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Buses and shuttles serve the park, and trails are on foot.",
+    "options": [
+      {
+        "mode": "Bus from Puerto Iguazú",
+        "text": "Regular buses reach the park in about 30 minutes.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "Taxi or tour",
+        "text": "Convenient for early starts.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "On foot",
+        "text": "Trails and walkways in the park.",
+        "detail": "Wear shoes with grip."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and August–October",
+    "summary": "Iguazú is subtropical, with hot, humid summers and mild winters. The falls are impressive all year, with the greatest flow in the wetter months.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Hot and humid, with busy trails."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Warm, with good flow and fewer visitors."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "good",
+        "text": "Mild, with lower flow but pleasant walking."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Warm, with good flow and few crowds."
+      }
+    ],
+    "avoid": "January and July school holidays, and periods of flooding, when the Devil's Throat walkway can close."
+  },
+  "itinerary": {
+    "title": "Two days at Iguazú",
+    "intro": "The Argentine side on the first day, and the Brazilian side on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Argentine side",
+        "summary": "The main circuits.",
+        "morning": "The Devil's Throat.",
+        "afternoon": "The Upper and Lower Circuits, and the boat.",
+        "evening": "Dinner in Puerto Iguazú."
+      },
+      {
+        "day": 2,
+        "title": "The Brazilian side",
+        "summary": "Panoramas.",
+        "morning": "Cross to Brazil for the falls.",
+        "afternoon": "The Bird Park.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make the visit smoother.",
+  "tips": [
+    "Go early, when it is cooler and quieter.",
+    "Do the Devil's Throat first, then the circuits.",
+    "Wear a rain jacket, and bring a waterproof bag.",
+    "Do not feed the coatis, which can bite.",
+    "Check whether the Devil's Throat walkway is open.",
+    "Bring cash for the park entrance and food.",
+    "Carry your passport if crossing to Brazil."
+  ],
+  "faq": [
+    {
+      "q": "Is the Argentine or Brazilian side better?",
+      "a": "The Argentine side is closer and has more trails. The Brazilian side has better panoramas. See both if you can."
+    },
+    {
+      "q": "How long do you need on the Argentine side?",
+      "a": "A full day, from morning to late afternoon."
+    },
+    {
+      "q": "Do I need a visa for Brazil?",
+      "a": "It depends on your nationality. Check the rules for both countries before crossing."
+    },
+    {
+      "q": "Is the Devil's Throat always open?",
+      "a": "No. High water can close the walkway."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "March to May and August to October."
+    },
+    {
+      "q": "Can I visit San Ignacio Miní?",
+      "a": "Yes, on a long day trip or on the way south."
+    }
+  ],
+  "related": ["buenos-aires", "esteros-del-ibera", "mendoza-wine-country"],
+  "relatedArticles": ["packing-by-season", "unesco-worth-planning-around"]
+}

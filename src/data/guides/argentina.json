@@ -1,0 +1,135 @@
+{
+  "country": "argentina",
+  "title": "The Complete Argentina Travel Guide",
+  "subtitle": "How the country divides, how to choose between the ten destinations, how to cover enormous distances, and what two weeks can realistically hold.",
+  "summary": "Argentina runs for 3,700 km from the tropics to the sub-Antarctic. This guide covers how the regions divide, how to choose between the ten destinations, how to fly and travel by bus, when to go, what it costs and three routes that work.",
+  "readingTime": "14 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Can I see Buenos Aires and Patagonia in one trip?",
+      "a": "Yes, with flights. Buenos Aires to El Calafate takes about three hours. Ten days is the minimum for Buenos Aires, one part of Patagonia and Iguazu."
+    },
+    {
+      "q": "Is it better to fly or take the bus?",
+      "a": "Fly for the long distances, such as Buenos Aires to Patagonia or Iguazu. Buses are excellent for shorter hops, like Mendoza to Santiago, or El Calafate to El Chaltén."
+    },
+    {
+      "q": "Should I take a tour or go independently?",
+      "a": "Independent travel is easy in Buenos Aires and the main Patagonian towns. Tours are useful for glaciers, wildlife and the north-west, where logistics are trickier."
+    },
+    {
+      "q": "When should I book?",
+      "a": "Flights and hotels for December to February in Patagonia should be booked two to three months ahead. Popular hikes and glacier trips sell out in summer."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-argentina-divides",
+      "title": "How Argentina divides",
+      "navLabel": "The regions",
+      "body": [
+        "Argentina's regions could be different countries, and five zones organise most trips.",
+        "**The capital and the pampas.** [[buenos-aires|Buenos Aires]] is the centre of Argentine life, with cafés, tango and steak. Around it, the flat pampas grasslands are gaucho country.",
+        "**Patagonia.** The far south has [[el-calafate-perito-moreno|El Calafate and the Perito Moreno Glacier]], [[el-chalten-fitz-roy|El Chaltén and Fitz Roy]], [[ushuaia-tierra-del-fuego|Ushuaia]] at the end of the world and the wildlife coast of [[peninsula-valdes|Península Valdés]].",
+        "**The Lakes District.** [[bariloche-lake-district|Bariloche]] and its neighbours have forested lakes, mountains and ski resorts on the Andean border with Chile.",
+        "**Cuyo.** [[mendoza-wine-country|Mendoza]] is Argentina's wine capital, at the foot of the Andes and Aconcagua.",
+        "**The north.** [[salta-jujuy-northwest|Salta and Jujuy]] have colourful canyons and Andean culture, and the north-east has [[iguazu-falls-argentina|Iguazu Falls]] and the wetlands of [[esteros-del-ibera|Iberá]]."
+      ],
+      "note": "The practical unit is two or three of these regions, joined by flights. Attempting more turns the trip into an exercise in airports."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[buenos-aires|Buenos Aires]] with [[iguazu-falls-argentina|Iguazu]], or Buenos Aires with [[el-calafate-perito-moreno|El Calafate]] and [[el-chalten-fitz-roy|El Chaltén]]."
+        },
+        {
+          "title": "If you love hiking",
+          "text": "[[el-chalten-fitz-roy|El Chaltén]] is the best base for day walks, and [[bariloche-lake-district|Bariloche]] and [[ushuaia-tierra-del-fuego|Ushuaia]] have superb trails too."
+        },
+        {
+          "title": "If you love wine and food",
+          "text": "[[mendoza-wine-country|Mendoza]] for Malbec, [[buenos-aires|Buenos Aires]] for parrillas and restaurants, and [[salta-jujuy-northwest|Salta]] for high-altitude Torrontés."
+        },
+        {
+          "title": "If you love wildlife",
+          "text": "[[peninsula-valdes|Península Valdés]] for whales, sea lions and orcas, [[ushuaia-tierra-del-fuego|Ushuaia]] for penguins, and [[esteros-del-ibera|Iberá]] for caimans and capybaras."
+        },
+        {
+          "title": "If you want dramatic scenery",
+          "text": "[[el-calafate-perito-moreno|The Perito Moreno Glacier]], [[iguazu-falls-argentina|Iguazu]] and the [[salta-jujuy-northwest|coloured canyons of the north-west]]."
+        },
+        {
+          "title": "If you like cities and culture",
+          "text": "[[buenos-aires|Buenos Aires]] is the great cultural capital, with tango, theatre and bookshops."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Covering enormous distances",
+      "navLabel": "Getting around",
+      "body": [
+        "Argentina is huge. Buenos Aires to Ushuaia is about 3,100 km, and Buenos Aires to Salta about 1,500 km.",
+        "**Flights.** The best way to link regions. Aerolíneas Argentinas, Flybondi and JetSMART fly from Buenos Aires's Aeroparque and Ezeiza airports. Book early for summer.",
+        "**Long-distance buses.** Excellent, with reclining seats, meals and good roads. A night bus from Buenos Aires to Mendoza takes about 14 hours.",
+        "**Hire cars.** Useful in Patagonia, the Lakes District, Mendoza and the north-west, though distances are long and services sparse.",
+        "**Local transport.** Buenos Aires has a metro (subte), buses and taxis. Elsewhere, taxis and local buses are the norm."
+      ],
+      "note": "Weather and strikes can disrupt travel, so build in slack. Avoid tight connections in Patagonia."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Argentina's seasons are the reverse of Europe and North America, and regional climates differ enormously.",
+        "December to February is summer, the peak season for Patagonia, with long days and warm weather. Buenos Aires is hot and humid, and many locals go on holiday.",
+        "March to May is autumn, with warm days, colour in the Lakes District and the harvest in Mendoza. It is an excellent time for most of the country.",
+        "June to August is winter, best for skiing in Bariloche, whales at Valdés and dry, sunny weather in the north-west. Patagonia is cold and many services close.",
+        "September to November is spring, with warm weather, blossom in Buenos Aires and good whale watching."
+      ],
+      "note": "Patagonia's weather is famously changeable and windy. Bring layers and a windproof jacket at any time of year."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Argentina's economy is volatile, with inflation and changing exchange rates, and prices in US dollars can shift quickly. It is generally cheaper than Western Europe or North America for food and wine, though flights and Patagonian accommodation can be expensive.",
+        "Rules about foreign cards, cash dollars and exchange rates have changed repeatedly. Check the latest advice before you go, and carry a mix of cash and cards.",
+        "Tip about 10% in restaurants. Meals are late, and portions are large.",
+        "Safety is generally good, but petty theft is common in Buenos Aires. Keep phones and bags out of sight, and use taxi apps."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: Buenos Aires and Iguazu",
+          "text": "Four nights in [[buenos-aires|Buenos Aires]] and two in [[iguazu-falls-argentina|Iguazu]], with a two-hour flight between them.",
+          "tip": "Fly into Buenos Aires and out of Iguazu or return."
+        },
+        {
+          "title": "Ten days: Buenos Aires and Patagonia",
+          "text": "Three nights in Buenos Aires, then [[el-calafate-perito-moreno|El Calafate]] and [[el-chalten-fitz-roy|El Chaltén]], with a return via Calafate.",
+          "tip": "Go between November and March."
+        },
+        {
+          "title": "Two weeks: the classic",
+          "text": "The itinerary on the country page: Buenos Aires, Iguazu, El Calafate, El Chaltén and Bariloche.",
+          "tip": "Swap Bariloche for [[mendoza-wine-country|Mendoza]] if you prefer wine to lakes."
+        }
+      ]
+    }
+  ]
+}
