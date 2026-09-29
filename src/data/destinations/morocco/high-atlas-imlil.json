@@ -1,0 +1,306 @@
+{
+  "slug": "high-atlas-imlil",
+  "name": "The High Atlas and Imlil",
+  "shortName": "Imlil",
+  "country": "morocco",
+  "region": "Marrakech-Safi, High Atlas Mountains",
+  "categories": ["mountains", "national-park", "nature", "scenic"],
+  "tagline": "Walnut groves, Amazigh villages and the highest peak in North Africa, an hour and a half from Marrakech.",
+  "highlight": "The first view of the snow-capped Toubkal massif from the trail above Imlil.",
+  "shortDescription": "A village base for walks in the Toubkal National Park, with valley treks between Amazigh villages, mule paths and the two-day ascent of Jebel Toubkal (4,167 m).",
+  "metaDescription": "An Imlil and High Atlas travel guide: Jebel Toubkal, valley walks, Amazigh villages, Toubkal National Park, when to go, guides, the 2023 earthquake and a two-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Marrakech Menara (RAK), about 1 hour 30 minutes",
+  "knownFor": "Jebel Toubkal, Amazigh villages, walking, mountain scenery",
+  "budget": "US$45–110 per day, including a guide",
+  "goodFor": "Hiking, mountain scenery, Amazigh culture, cool air",
+  "coords": { "lat": 31.1390, "lng": -7.9180 },
+  "image": {
+    "file": "File:Imlil and its valley and way to Jbel Toubkal 29.jpg",
+    "alt": "The Imlil valley in the High Atlas with the trail leading toward Jebel Toubkal"
+  },
+  "intro": [
+    "The High Atlas is the mountain range that runs across Morocco from the Atlantic to Algeria, and it holds the highest peaks in North Africa. Imlil, at about 1,740 metres, is a small village at the head of the Mizane Valley, roughly 60 km from Marrakech, and the starting point for most walks in Toubkal National Park. Jebel Toubkal (4,167 metres) rises above it.",
+    "The area is home to Amazigh (Berber) communities who farm terraced fields and walnut orchards, and who have hosted trekkers for decades. The villages are built of stone and earth, and the paths between them, once used by mules and shepherds, offer some of the finest walking in the country.",
+    "The September 2023 earthquake, which was centred in the Al Haouz province of the High Atlas, caused severe damage and killed close to 3,000 people, and the Imlil area was among those affected. Rebuilding has continued, and many guesthouses and trails have reopened, but conditions vary, so check locally before you travel."
+  ],
+  "whyVisit": {
+    "intro": "Imlil is the quickest escape from Marrakech into real mountains, with a warm welcome and superb walking.",
+    "points": [
+      {
+        "title": "North Africa's highest peak",
+        "text": "Toubkal is a straightforward, non-technical climb in summer, though demanding at altitude."
+      },
+      {
+        "title": "Village-to-village walks",
+        "text": "Easy day walks and multi-day treks connect Amazigh villages with mule tracks."
+      },
+      {
+        "title": "Cool air and space",
+        "text": "A refreshing change from the heat of Marrakech in summer."
+      },
+      {
+        "title": "Mountain hospitality",
+        "text": "Guesthouses and mountain gîtes serve home-cooked tagines, with tea on the terrace."
+      },
+      {
+        "title": "Close to Marrakech",
+        "text": "A day trip or a two-day stay is easily arranged."
+      }
+    ]
+  },
+  "attractionsIntro": "The scenery is the main attraction, and the walks range from short to demanding.",
+  "attractions": [
+    {
+      "name": "Jebel Toubkal",
+      "image": {
+        "file": "File:Jebel Toubkal and a group of hikers.jpg",
+        "alt": "A group of hikers on a ridge below the summit of Jebel Toubkal"
+      },
+      "text": "The highest summit in North Africa at 4,167 metres, usually climbed in two days, with a night at the Toubkal refuge (Neltner Refuge, at about 3,200 metres).",
+      "tip": "Allow time to acclimatise, and take a guide."
+    },
+    {
+      "name": "Aroumd (Armed) village",
+      "text": "A stone village on the slope above Imlil, with terraced fields and guesthouses, on the route to the refuge.",
+      "tip": "A pleasant half-day walk from Imlil."
+    },
+    {
+      "name": "Sidi Chamharouch",
+      "text": "A whitewashed shrine and a small settlement beside a river, revered locally, on the path to the refuge. Non-Muslims cannot enter the shrine.",
+      "tip": "Stop for mint tea."
+    },
+    {
+      "name": "The Imlil valley walks",
+      "text": "Trails lead through walnut and apple orchards to villages such as Tamatert, Tacheddirt and Ait Souka, with panoramic views.",
+      "tip": "Hire a local guide for less-marked paths."
+    },
+    {
+      "name": "Toubkal National Park",
+      "text": "A protected area of rocky peaks, juniper woods and high pastures, with Barbary macaques and birds of prey.",
+      "tip": "Bring a map and rain jacket."
+    }
+  ],
+  "thingsToDoIntro": "Most visitors walk, with the option of climbing Toubkal.",
+  "thingsToDo": [
+    {
+      "title": "Climb Jebel Toubkal",
+      "text": "A two-day ascent from Imlil with a night at the refuge, best from May to October when the route is free of snow.",
+      "tip": "In winter, crampons and an ice axe and a guide are needed."
+    },
+    {
+      "title": "Walk to a village",
+      "text": "Half-day and full-day routes visit nearby villages, with lunch in a family home.",
+      "tip": "Book a local guide through your guesthouse."
+    },
+    {
+      "title": "Take a mule trek",
+      "text": "Mules carry luggage and, if you wish, you.",
+      "tip": "Agree the price beforehand."
+    },
+    {
+      "title": "Stay in a mountain guesthouse",
+      "text": "Small hotels and gîtes offer terraces, home cooking and starry skies.",
+      "tip": "Book ahead in high season."
+    },
+    {
+      "title": "Try a multi-day trek",
+      "text": "Routes such as the Toubkal circuit or the Mgoun massif link villages over several days.",
+      "tip": "Use a licensed guide and agency."
+    },
+    {
+      "title": "Visit the Ourika Valley",
+      "text": "A neighbouring valley with waterfalls at Setti Fatma and popular day-trip restaurants.",
+      "tip": "Best on weekdays."
+    }
+  ],
+  "foodIntro": "Mountain food is simple and filling, based on bread, vegetables, eggs and tagines.",
+  "foods": [
+    {
+      "name": "Vegetable tagine",
+      "text": "Slow-cooked vegetables in a clay pot, often with lamb or chicken.",
+      "whereToTry": "Guesthouses."
+    },
+    {
+      "name": "Fresh bread and olive oil",
+      "text": "Warm home-baked bread with local olive oil and honey.",
+      "whereToTry": "Breakfast at guesthouses."
+    },
+    {
+      "name": "Walnuts and almonds",
+      "text": "Locally grown nuts.",
+      "whereToTry": "Village shops."
+    },
+    {
+      "name": "Mint tea",
+      "text": "Served on every trek, often with a view.",
+      "whereToTry": "Everywhere."
+    },
+    {
+      "name": "Couscous",
+      "text": "A Friday dish, with vegetables and meat.",
+      "whereToTry": "Family guesthouses."
+    }
+  ],
+  "accommodation": {
+    "intro": "Imlil and nearby villages have guesthouses and mountain lodges, and the Toubkal refuge is for climbers.",
+    "areas": [
+      {
+        "name": "Imlil",
+        "bestFor": "A base for walks",
+        "text": "Guesthouses and small hotels along the valley."
+      },
+      {
+        "name": "Aroumd and higher villages",
+        "bestFor": "Quiet",
+        "text": "Guesthouses on the mountainside, reached on foot or by mule."
+      },
+      {
+        "name": "The Toubkal refuge",
+        "bestFor": "The summit climb",
+        "text": "A mountain hut with dorm beds and meals."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$25–60 per night" },
+      { "label": "Mountain lodge", "value": "US$70–150 per night" },
+      { "label": "Refuge dorm bed", "value": "US$15–25 per night, with meals extra" },
+      { "label": "Guide for Toubkal", "value": "US$40–80 per day" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Imlil is about 60 km south of Marrakech, up a valley road.",
+    "options": [
+      {
+        "mode": "Grand taxi or shared taxi from Marrakech",
+        "text": "About 1 hour 30 minutes from Marrakech, with shared taxis available from taxi stands in the city.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Private driver",
+        "text": "An easy option, and useful for a day trip.",
+        "detail": "Arrange through your riad."
+      },
+      {
+        "mode": "Organised tour or trek",
+        "text": "Agencies in Marrakech offer one- to three-day trips.",
+        "detail": "Check the guide's qualifications."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Everything beyond the road end is on foot or by mule.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The main way to see the valley.",
+        "detail": "Wear boots and take water."
+      },
+      {
+        "mode": "Mules",
+        "text": "Carry luggage to the refuge and villages.",
+        "detail": "Agree the price in advance."
+      },
+      {
+        "mode": "Taxis",
+        "text": "Shared taxis run between Imlil and neighbouring villages.",
+        "detail": "Ask locally."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–October for Toubkal, and spring and autumn for valley walks",
+    "summary": "In summer the mountains are a cool escape, but winter brings snow and cold.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Wildflowers and blossom, with snow on the summits."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Hot in the lowlands, cool and clear in the mountains. Busy on the Toubkal path."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Clear, stable weather and colour in the walnut groves."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "avoid",
+        "text": "Snow and ice make Toubkal a winter mountaineering route."
+      }
+    ],
+    "avoid": "Winter for Toubkal, unless experienced and equipped."
+  },
+  "itinerary": {
+    "title": "Three days in the High Atlas",
+    "intro": "Easy walks first, then Toubkal for the fit and prepared.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive and walk the valley",
+        "summary": "Acclimatising.",
+        "morning": "Drive from Marrakech to Imlil.",
+        "afternoon": "A walk to Aroumd.",
+        "evening": "Dinner at a guesthouse."
+      },
+      {
+        "day": 2,
+        "title": "To the refuge",
+        "summary": "The climb begins.",
+        "morning": "Walk to Sidi Chamharouch.",
+        "afternoon": "Continue to the Toubkal refuge.",
+        "evening": "Early dinner and bed."
+      },
+      {
+        "day": 3,
+        "title": "The summit",
+        "summary": "Toubkal and descent.",
+        "morning": "The summit at sunrise.",
+        "afternoon": "Descend to Imlil.",
+        "evening": "Return to Marrakech."
+      }
+    ]
+  },
+  "tipsIntro": "The mountains are simple to reach but should be treated with respect.",
+  "tips": [
+    "Take a local guide for Toubkal. It is strongly recommended, and may be required.",
+    "Acclimatise, since altitude can cause headaches and nausea.",
+    "Wear sturdy boots, and carry layers and sun protection.",
+    "Check the weather and trail conditions before going.",
+    "Check the post-earthquake situation locally, including road and accommodation status.",
+    "Book guesthouses and the refuge in advance in summer.",
+    "Tip guides and muleteers appropriately."
+  ],
+  "faq": [
+    {
+      "q": "How hard is it to climb Toubkal?",
+      "a": "In summer, it is a non-technical walk, but at high altitude and steep in places. Fitness and acclimatisation matter. In winter, it needs mountaineering gear and experience."
+    },
+    {
+      "q": "Do I need a guide?",
+      "a": "It is strongly recommended and may be required in some conditions. Use a licensed guide through your guesthouse or a reputable agency."
+    },
+    {
+      "q": "How long does it take to climb?",
+      "a": "Usually two days: about 5–6 hours to the refuge, then 3–4 hours to the summit and a descent to Imlil."
+    },
+    {
+      "q": "Was Imlil affected by the earthquake?",
+      "a": "Yes. The September 2023 earthquake damaged villages in the area. Many have been rebuilt or reopened, but check current conditions before you go."
+    },
+    {
+      "q": "Can I visit Imlil on a day trip from Marrakech?",
+      "a": "Yes, though it is a long day. Staying a night is more rewarding."
+    },
+    {
+      "q": "When is the best time to go?",
+      "a": "May to October for Toubkal, and spring and autumn for valley walks."
+    }
+  ],
+  "related": ["marrakech", "ait-benhaddou-ouarzazate", "essaouira"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

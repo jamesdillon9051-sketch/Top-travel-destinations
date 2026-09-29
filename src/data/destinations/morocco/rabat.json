@@ -1,0 +1,296 @@
+{
+  "slug": "rabat",
+  "name": "Rabat",
+  "country": "morocco",
+  "region": "Rabat-Salé-Kénitra, Atlantic coast",
+  "categories": ["capital-city", "unesco", "historic", "cultural"],
+  "tagline": "The calm, green and surprisingly relaxed capital, with a blue-and-white kasbah above the river, an unfinished medieval minaret and a modern city of museums and boulevards.",
+  "highlight": "The Kasbah of the Udayas, with its blue-and-white lanes and Andalusian garden above the Bouregreg river.",
+  "shortDescription": "Morocco's capital: a UNESCO-listed city with the Hassan Tower, the Mohammed V Mausoleum, the Kasbah of the Udayas, the Chellah ruins and a relaxed medina.",
+  "metaDescription": "A Rabat travel guide: the Kasbah of the Udayas, Hassan Tower, Mohammed V Mausoleum, Chellah, the medina, museums, food, where to stay and a two-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Rabat–Salé (RBA), about 20 minutes; or Casablanca (CMN)",
+  "knownFor": "The Kasbah of the Udayas, Hassan Tower, Chellah, the Mausoleum",
+  "budget": "US$60–130 per day, mid-range",
+  "goodFor": "Relaxed sightseeing, history, museums, a calm base",
+  "coords": { "lat": 34.0209, "lng": -6.8416 },
+  "image": {
+    "file": "File:Walls of Kasbah of Udayas and new Mohammed VI Tower (2024).jpg",
+    "alt": "The walls of the Kasbah of the Udayas in Rabat with a modern tower behind"
+  },
+  "intro": [
+    "Rabat has been the capital of Morocco since the French made it the seat of the protectorate in 1912, and it remained the capital after independence in 1956. It sits on the Atlantic coast at the mouth of the Bouregreg river, facing its twin, Salé. Unlike Marrakech or Fes, it is calm, green and easy to navigate, and it has a more relaxed pace.",
+    "Its history goes back much further. The Romans had a settlement at Chellah, the Almohad sultan Yacoub al-Mansour began a great mosque in the 12th century whose unfinished minaret, the Hassan Tower, is now the city's symbol, and the Kasbah of the Udayas dates from the same period. In 2012 UNESCO listed the city as 'Rabat, Modern Capital and Historic City: a Shared Heritage', recognising both the historic monuments and the French-designed new city.",
+    "It is a good place to slow down, with pleasant cafés, a growing art scene, the Mohammed VI Museum of Modern and Contemporary Art, and an unhurried medina where shopkeepers rarely hassle. Many travellers spend a day here between Casablanca and the imperial cities."
+  ],
+  "whyVisit": {
+    "intro": "Rabat is one of the easiest and most relaxed Moroccan cities, with excellent monuments.",
+    "points": [
+      {
+        "title": "The Kasbah of the Udayas",
+        "text": "A 12th-century fortress above the river with a blue-and-white village and Andalusian garden."
+      },
+      {
+        "title": "The Hassan Tower and the Mausoleum",
+        "text": "An unfinished minaret and forest of columns face the elaborate tomb of Mohammed V."
+      },
+      {
+        "title": "The Chellah",
+        "text": "Roman and Marinid ruins in a walled garden, with storks nesting on the walls."
+      },
+      {
+        "title": "A relaxed medina",
+        "text": "Shopping without the pressure of Marrakech or Fes."
+      },
+      {
+        "title": "Easy connections",
+        "text": "Rabat is on the main train line between Tangier, Casablanca and Fes."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights can be seen in a day, with a second day for the Chellah and museums.",
+  "attractions": [
+    {
+      "name": "The Kasbah of the Udayas",
+      "text": "A fortified quarter above the river, entered by an ornate Almohad gate, with white-and-blue lanes, a small museum and the Andalusian Gardens. The café with terraces above the river serves mint tea.",
+      "tip": "Go in the morning, and walk to the river viewpoint."
+    },
+    {
+      "name": "The Hassan Tower",
+      "image": {
+        "file": "File:Hassan Tower 01.jpg",
+        "alt": "The unfinished red-sandstone Hassan Tower and rows of columns in Rabat"
+      },
+      "text": "The minaret of a mosque begun in 1195 that was meant to be the largest in the world. It was left unfinished after the sultan's death, and rows of columns remain in the space.",
+      "tip": "Visit with the Mausoleum next door."
+    },
+    {
+      "name": "The Mausoleum of Mohammed V",
+      "text": "A white marble tomb of the king who led Morocco to independence, and his sons, decorated with carved wood and tile, guarded by royal guards on horseback.",
+      "tip": "Open to visitors, and free."
+    },
+    {
+      "name": "The Chellah",
+      "text": "A walled necropolis on the site of a Roman town, later a Marinid burial ground, now overgrown with gardens and home to storks.",
+      "tip": "Go in the morning, when it is quiet."
+    },
+    {
+      "name": "The medina and Rue des Consuls",
+      "text": "A calm medina with a long market street and old consuls' houses, along which the shops sell crafts.",
+      "tip": "Bargain lightly."
+    },
+    {
+      "name": "The Mohammed VI Museum",
+      "text": "A modern museum of Moroccan and international art, with rotating exhibitions.",
+      "tip": "Check current shows."
+    }
+  ],
+  "thingsToDoIntro": "Rabat is a city for walking, with time for cafés and views.",
+  "thingsToDo": [
+    {
+      "title": "Stroll the Andalusian Gardens",
+      "text": "Shady paths with orange trees and Andalusian design inside the Kasbah.",
+      "tip": "Combine with mint tea in the café."
+    },
+    {
+      "title": "Walk along the river",
+      "text": "The Bouregreg promenade has views across to Salé and to the kasbah.",
+      "tip": "Cross by small boat for a few dirhams."
+    },
+    {
+      "title": "Visit Salé",
+      "text": "Rabat's twin across the river has a historic medina and the Marinid Medersa.",
+      "tip": "Go by tram or boat."
+    },
+    {
+      "title": "Watch the changing of the guard",
+      "text": "Ceremonial guards on horseback stand at the Mausoleum.",
+      "tip": "Photographs are welcome from a distance."
+    },
+    {
+      "title": "Try the beaches",
+      "text": "Rabat's beach, by the river mouth, is popular with locals in summer.",
+      "tip": "Currents can be strong."
+    },
+    {
+      "title": "Have a long café lunch",
+      "text": "The Ville Nouvelle has French-style cafés and restaurants, where Rabatis linger.",
+      "tip": "Try the Avenue Mohammed V."
+    }
+  ],
+  "foodIntro": "Rabat's food is fresh and simple, with strong seafood and pastry traditions.",
+  "foods": [
+    {
+      "name": "Seafood",
+      "text": "Fish and prawns grilled or in tagines, from restaurants along the river and the port.",
+      "whereToTry": "Restaurants near the Bouregreg."
+    },
+    {
+      "name": "Pastries",
+      "text": "French-influenced Moroccan pastries.",
+      "whereToTry": "Bakeries in the Ville Nouvelle."
+    },
+    {
+      "name": "Tagine",
+      "text": "Standard versions, served in family restaurants.",
+      "whereToTry": "Restaurants in the medina."
+    },
+    {
+      "name": "Harira",
+      "text": "The classic soup, with dates.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Street food",
+      "text": "Sandwiches, fried fish and sweets.",
+      "whereToTry": "The medina."
+    }
+  ],
+  "accommodation": {
+    "intro": "Rabat has a good mix of hotels and a few riads.",
+    "areas": [
+      {
+        "name": "The medina and Kasbah",
+        "bestFor": "Atmosphere",
+        "text": "Small riads and guesthouses."
+      },
+      {
+        "name": "The Ville Nouvelle",
+        "bestFor": "Cafés and transport",
+        "text": "Hotels near the station and Avenue Mohammed V."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel", "value": "US$30–60 per night" },
+      { "label": "Mid-range hotel or riad", "value": "US$70–140 per night" },
+      { "label": "Luxury hotel", "value": "US$170–350 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$6–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Rabat lies on the main north-south railway.",
+    "options": [
+      {
+        "mode": "Train",
+        "text": "About 1 hour from Casablanca, about 1 hour 20 minutes from Tangier on the Al Boraq, and about 3 hours from Fes.",
+        "detail": "Rabat Ville is the central station."
+      },
+      {
+        "mode": "Flight to Rabat–Salé (RBA)",
+        "text": "Limited flights from Europe.",
+        "detail": "Many visitors use Casablanca (CMN)."
+      },
+      {
+        "mode": "Bus",
+        "text": "CTM buses connect Rabat to Fes and other cities.",
+        "detail": "Book ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Rabat is compact, and a tram and taxis link the main sights.",
+    "options": [
+      {
+        "mode": "Tram",
+        "text": "Two lines run through Rabat and to Salé.",
+        "detail": "Cheap and reliable."
+      },
+      {
+        "mode": "Petits taxis",
+        "text": "Blue taxis serve the city.",
+        "detail": "Ask for the meter."
+      },
+      {
+        "mode": "Walking",
+        "text": "The centre is pleasant on foot.",
+        "detail": "Comfortable shoes help."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–June and September–November",
+    "summary": "Rabat has a mild, coastal climate, with cooler summers than the interior.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Mild and green."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Warm, with a sea breeze."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Pleasant."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool and rainy."
+      }
+    ],
+    "avoid": "Winter rain."
+  },
+  "itinerary": {
+    "title": "Two days in Rabat",
+    "intro": "The main monuments on the first day and a slower second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Monuments",
+        "summary": "Kasbah and tower.",
+        "morning": "The Kasbah of the Udayas.",
+        "afternoon": "The Hassan Tower and the Mausoleum.",
+        "evening": "Dinner in the Ville Nouvelle."
+      },
+      {
+        "day": 2,
+        "title": "Ruins and the medina",
+        "summary": "A slower day.",
+        "morning": "The Chellah.",
+        "afternoon": "The medina and Rue des Consuls.",
+        "evening": "A riverside walk."
+      }
+    ]
+  },
+  "tipsIntro": "Rabat is easy, and a few tips help.",
+  "tips": [
+    "Visit the Chellah in the morning.",
+    "Use the tram, which is cheap and clean.",
+    "Dress modestly at the Mausoleum.",
+    "Combine Rabat with Casablanca, an hour apart by train.",
+    "Cross the river by boat for the views.",
+    "Bargain gently in the medina, which is less pushy than others."
+  ],
+  "faq": [
+    {
+      "q": "Is Rabat worth visiting?",
+      "a": "Yes, for a day or two. It is more relaxed than the tourist cities, with excellent monuments."
+    },
+    {
+      "q": "Is Rabat the capital of Morocco?",
+      "a": "Yes, since 1912. Casablanca is larger, and Marrakech and Fes are better known."
+    },
+    {
+      "q": "Can I visit the Mausoleum of Mohammed V?",
+      "a": "Yes, the Mausoleum is open to visitors, including non-Muslims, free of charge."
+    },
+    {
+      "q": "How far is Rabat from Casablanca?",
+      "a": "About 90 km, an hour by train."
+    },
+    {
+      "q": "Is Rabat safe?",
+      "a": "Yes, it is one of the calmer Moroccan cities."
+    },
+    {
+      "q": "What is the Hassan Tower?",
+      "a": "An unfinished minaret from the 12th century, part of a mosque that was to be the largest in the world."
+    }
+  ],
+  "related": ["casablanca", "meknes-volubilis", "fes"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

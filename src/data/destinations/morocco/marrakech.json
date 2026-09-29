@@ -1,0 +1,336 @@
+{
+  "slug": "marrakech",
+  "name": "Marrakech",
+  "country": "morocco",
+  "region": "Marrakech-Safi, central Morocco",
+  "categories": ["major-city", "unesco", "historic", "cultural"],
+  "tagline": "A rose-red imperial city of souks, palaces and hidden gardens, with a square that turns into a theatre every evening and the snowy Atlas on the horizon.",
+  "highlight": "Jemaa el-Fnaa at dusk, when the storytellers, musicians and food stalls take over the square.",
+  "shortDescription": "The most visited city in Morocco: a walled medina of souks, madrasas and palaces, the great square of Jemaa el-Fnaa, the Majorelle Garden and a hundred riads.",
+  "metaDescription": "A Marrakech travel guide: Jemaa el-Fnaa, the souks, Bahia Palace, Saadian Tombs, Ben Youssef Madrasa, Majorelle Garden, riads, food, how many days you need and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Marrakech Menara (RAK), about 15 minutes",
+  "knownFor": "Jemaa el-Fnaa, the souks, riads, palaces, the Majorelle Garden",
+  "budget": "US$60–150 per day, mid-range",
+  "goodFor": "Souks, architecture, food, first-time visitors, base for the Atlas",
+  "coords": { "lat": 31.6295, "lng": -7.9811 },
+  "image": {
+    "file": "File:Jemaa el-Fnaa Marrakech at sunset.jpg",
+    "alt": "Jemaa el-Fnaa square in Marrakech at sunset with the Koutoubia minaret in the background"
+  },
+  "intro": [
+    "Marrakech was founded in the 11th century by the Almoravids, a Berber dynasty from the Sahara, and it gave the country its name. Its walls, built of local pink-red earth, still surround one of the largest medinas in Morocco, and the colour gives it the nickname of the Red City. The medina was inscribed by UNESCO in 1985.",
+    "Its centre is Jemaa el-Fnaa, a huge open square that by day holds snake charmers, orange-juice sellers and henna artists, and at dusk turns into a vast open-air restaurant with smoking grills, storytellers and musicians. Around it, the souks run north through a maze of lanes, each specialising in leather, metal, spices, carpets or lanterns.",
+    "Beyond the medina lies the newer city of Guéliz, with cafés and galleries, and beyond that palm groves, golf courses and the High Atlas. Marrakech is loud, hot and intense, and it rewards those who retreat to a riad courtyard between excursions."
+  ],
+  "whyVisit": {
+    "intro": "Marrakech is the most complete introduction to Morocco, and an easy place to fly into from Europe.",
+    "points": [
+      {
+        "title": "An extraordinary square",
+        "text": "Jemaa el-Fnaa is inscribed by UNESCO as a piece of intangible heritage for its oral traditions and performance, and it is a spectacle in its own right."
+      },
+      {
+        "title": "The souks",
+        "text": "Miles of covered lanes selling leather, brass, carpets, spices and babouches, with some of the best shopping in the country."
+      },
+      {
+        "title": "Palaces and madrasas",
+        "text": "The Bahia Palace, the Saadian Tombs and the Ben Youssef Madrasa show Moroccan decoration at its finest."
+      },
+      {
+        "title": "Riads and gardens",
+        "text": "Quiet courtyards behind plain walls, from budget guesthouses to palaces, and the Majorelle Garden in its blue."
+      },
+      {
+        "title": "A base for the mountains",
+        "text": "The Atlas, Ourika Valley, Essaouira and the desert road are all within a day's reach."
+      }
+    ]
+  },
+  "attractionsIntro": "Three days lets you see the main sights, with a slow pace in the middle of the day when it is hot.",
+  "attractions": [
+    {
+      "name": "Jemaa el-Fnaa",
+      "text": "The great square, quiet by day and thrilling at night. The food stalls, numbered and lit by lanterns, serve grilled meat, snail soup and sheep's head.",
+      "tip": "Watch from a rooftop café first, and agree prices before you photograph performers."
+    },
+    {
+      "name": "The Koutoubia Mosque",
+      "image": {
+        "file": "File:Mosquée de la Koutoubia - marakesh.jpg",
+        "alt": "The Koutoubia Mosque minaret rising above Marrakech"
+      },
+      "text": "A 12th-century Almohad mosque whose 77-metre minaret, one of the most elegant in the Islamic west, is the city's landmark. Non-Muslims cannot enter, but the gardens are open.",
+      "tip": "Walk around the gardens at sunset, when the stone glows."
+    },
+    {
+      "name": "The Bahia Palace",
+      "image": {
+        "file": "File:Bahia Palace large court.jpg",
+        "alt": "The large courtyard of the Bahia Palace in Marrakech"
+      },
+      "text": "A 19th-century palace of painted cedar ceilings, zellige tile and courtyards with orange trees, built for a grand vizier and his family.",
+      "tip": "Go at opening time, before the tour groups."
+    },
+    {
+      "name": "The Ben Youssef Madrasa",
+      "image": {
+        "file": "File:Medersa-Ben-Youssef-01.jpg",
+        "alt": "The courtyard of the Ben Youssef Madrasa with carved stucco and zellige tiles"
+      },
+      "text": "A former Islamic college, rebuilt in the 16th century, with a courtyard pool, carved cedar and stucco and rooms where students lived. It reopened after a long restoration.",
+      "tip": "Check opening days, and combine it with the nearby Marrakech Museum."
+    },
+    {
+      "name": "The Saadian Tombs",
+      "image": {
+        "file": "File:Detail of the Saadian tombs 1102.jpg",
+        "alt": "Ornate carved and tiled detail inside the Saadian Tombs"
+      },
+      "text": "A 16th-century royal cemetery sealed off for centuries and rediscovered in 1917, with intricate carved cedar and marble in the Hall of the Twelve Columns.",
+      "tip": "The queue can be long, so go early or late."
+    },
+    {
+      "name": "The Majorelle Garden",
+      "image": {
+        "file": "File:Le jardin des majorelle 16.JPG",
+        "alt": "Cobalt-blue buildings among cacti and palms in the Majorelle Garden"
+      },
+      "text": "A garden created by the French painter Jacques Majorelle, famous for its intense cobalt blue, later owned by Yves Saint Laurent. It also houses a Berber museum and a nearby YSL museum.",
+      "tip": "Buy timed tickets online, since entry is limited."
+    },
+    {
+      "name": "The souks",
+      "text": "North of Jemaa el-Fnaa, the covered markets sell spices, lanterns, leather bags, slippers and rugs, from the Souk Semmarine onward.",
+      "tip": "Explore in the morning, when it is cooler, and treat the first price as an opening offer."
+    }
+  ],
+  "thingsToDoIntro": "Marrakech is at its best on foot, at dawn and dusk, and inside its courtyards at noon.",
+  "thingsToDo": [
+    {
+      "title": "Eat at the Jemaa el-Fnaa stalls",
+      "text": "Sit at a numbered stall at dusk for grilled meat, merguez, salads and harira. Stalls run by families with long queues are usually the best.",
+      "tip": "Check the prices on the menu board."
+    },
+    {
+      "title": "Take a hammam",
+      "text": "A traditional bathhouse steam, scrub with black soap and massage, either in a local hammam or a more polished spa.",
+      "tip": "Bring a swimsuit for spas, and ask what to expect at a local hammam."
+    },
+    {
+      "title": "Take a cooking class",
+      "text": "Classes often start with a souk visit and end with a tagine lunch, and are a good way to understand the cuisine.",
+      "tip": "Book through your riad."
+    },
+    {
+      "title": "Have a rooftop mint tea",
+      "text": "Terrace cafés overlooking the square and the Koutoubia offer cool drinks and views.",
+      "tip": "Go at sunset."
+    },
+    {
+      "title": "Visit the Ourika Valley or the Agafay Desert",
+      "text": "Day trips take you to Berber villages and waterfalls in the Atlas, or to a stony desert 40 minutes from the city with camel rides and sunset dinners.",
+      "tip": "Agafay is a stony plain, not a sand desert, so do not treat it as a substitute for Merzouga."
+    },
+    {
+      "title": "Float over the palm groves at dawn",
+      "text": "Balloon flights over the palm groves and Atlas at sunrise are popular, and expensive.",
+      "tip": "Book with a reputable operator."
+    }
+  ],
+  "foodIntro": "Marrakech's cooking is rich in spices, dried fruit and slow-cooked meat, and the best of it is in family-run restaurants and at riads.",
+  "foods": [
+    {
+      "name": "Tanjia",
+      "text": "A Marrakech speciality: beef or lamb, preserved lemon, garlic and spices sealed in a clay urn and cooked slowly in the embers of a hammam furnace.",
+      "whereToTry": "Traditional restaurants in the medina."
+    },
+    {
+      "name": "Mechoui",
+      "text": "Lamb slow-roasted in an underground oven until it falls off the bone, served with cumin and salt.",
+      "whereToTry": "Mechoui alley near Jemaa el-Fnaa."
+    },
+    {
+      "name": "Tagine",
+      "text": "Lamb with prunes and almonds, or chicken with olives and preserved lemon.",
+      "whereToTry": "Restaurants and riads."
+    },
+    {
+      "name": "Orange juice",
+      "text": "Freshly squeezed on the square for a few dirhams, and the best refreshment for a hot afternoon.",
+      "whereToTry": "The stalls on Jemaa el-Fnaa."
+    },
+    {
+      "name": "Pastries and mint tea",
+      "text": "Almond pastries and sweets with sweet mint tea.",
+      "whereToTry": "Pastry shops in the medina."
+    },
+    {
+      "name": "Moroccan street food",
+      "text": "Skewers, kefta sandwiches, snail soup and fried fish.",
+      "whereToTry": "Jemaa el-Fnaa and the souks."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors stay in a riad in the medina, and a few in the modern city or in a resort out of town.",
+    "areas": [
+      {
+        "name": "The medina",
+        "bestFor": "Atmosphere and sights",
+        "text": "Riads of all price levels near Jemaa el-Fnaa, the Kasbah and Mouassine."
+      },
+      {
+        "name": "Guéliz",
+        "bestFor": "Modern hotels and restaurants",
+        "text": "The French-built new town, with cafés, galleries and larger hotels."
+      },
+      {
+        "name": "The Palmeraie",
+        "bestFor": "Pools and space",
+        "text": "Resorts in the palm grove 20 minutes from the centre."
+      }
+    ],
+    "budget": [
+      { "label": "Budget riad", "value": "US$30–70 per night" },
+      { "label": "Mid-range riad", "value": "US$80–160 per night" },
+      { "label": "Luxury riad or hotel", "value": "US$200–500 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$5–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Marrakech is the main gateway to southern Morocco, with direct flights from most European cities.",
+    "options": [
+      {
+        "mode": "Flight to Marrakech (RAK)",
+        "text": "Direct flights from Europe, including many low-cost routes, and from Casablanca.",
+        "detail": "The airport is 15 minutes from the medina."
+      },
+      {
+        "mode": "Train from Casablanca or Tangier",
+        "text": "About 2 hours 40 minutes from Casablanca, and on the ONCF line from Tangier and Rabat.",
+        "detail": "First-class seats are good value."
+      },
+      {
+        "mode": "Bus from Essaouira",
+        "text": "About 3 hours on CTM or Supratours coaches.",
+        "detail": "Book the day before."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The medina is on foot, and taxis help beyond it.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The best way to see the medina, but expect to get lost in the alleys.",
+        "detail": "Use Google Maps offline, and ask riad staff."
+      },
+      {
+        "mode": "Petits taxis",
+        "text": "Cheap and useful between the medina and the newer city.",
+        "detail": "Insist on the meter, or agree the fare."
+      },
+      {
+        "mode": "Horse carriages",
+        "text": "A tourist option along the walls.",
+        "detail": "Agree a price in advance."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and October–November",
+    "summary": "Marrakech has a hot, dry semi-arid climate. Spring and autumn are ideal, and winter is sunny by day but cold at night.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm and sunny, with the Atlas still snow-capped."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Extremely hot, often above 40°C."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm days and fewer visitors, cooler from October."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Mild days and chilly nights, and good for sightseeing."
+      }
+    ],
+    "avoid": "July and August, when heat makes sightseeing uncomfortable."
+  },
+  "itinerary": {
+    "title": "Three days in Marrakech",
+    "intro": "The main sights of the medina, the gardens and a change of pace on the third day.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The medina",
+        "summary": "Squares and souks.",
+        "morning": "The Koutoubia gardens and the Bahia Palace.",
+        "afternoon": "The souks and the Ben Youssef Madrasa.",
+        "evening": "Jemaa el-Fnaa at dusk."
+      },
+      {
+        "day": 2,
+        "title": "Palaces and gardens",
+        "summary": "History and colour.",
+        "morning": "The Saadian Tombs and the El Badi Palace.",
+        "afternoon": "A hammam and a rest.",
+        "evening": "The Majorelle Garden in the late light, and dinner in Guéliz."
+      },
+      {
+        "day": 3,
+        "title": "Out of the city",
+        "summary": "Mountains or coast.",
+        "morning": "A day trip to the Ourika Valley or Essaouira.",
+        "afternoon": "Village walks or the harbour.",
+        "evening": "A cooking class or a rooftop dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Marrakech is intense, and a few habits make it easier.",
+  "tips": [
+    "Arrange airport pick-up through your riad. Lanes are too narrow for taxis, and finding a riad alone is hard.",
+    "Say no politely to touts and ignore anyone who says the way is closed.",
+    "Agree prices for taxis, guides and photographs before you begin.",
+    "Sightsee in the morning and rest in the middle of the day.",
+    "Buy Majorelle tickets in advance.",
+    "Drink bottled water and avoid ice from doubtful sources.",
+    "Dress modestly, particularly outside the tourist areas."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Marrakech?",
+      "a": "Three days for the main sights. Add a day for each excursion to the Atlas, the desert or Essaouira."
+    },
+    {
+      "q": "Is Marrakech safe?",
+      "a": "Generally yes. The main problems are hassle, overcharging, and pickpocketing in crowded places. Solo women often experience unwanted attention, so dress modestly and stay alert."
+    },
+    {
+      "q": "Was Marrakech affected by the 2023 earthquake?",
+      "a": "The September 2023 earthquake, centred in the High Atlas about 70 km away, damaged parts of the medina, including some historic buildings, and many sites have since reopened or been restored. Check that the sights you want are open."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "March to May and October to November. July and August are extremely hot."
+    },
+    {
+      "q": "Is Marrakech better than Fes?",
+      "a": "They are different. Marrakech is livelier, more polished and easier for first-timers, while Fes is older, more medieval and less touristy."
+    },
+    {
+      "q": "Should I visit the Agafay Desert?",
+      "a": "It is a stony desert with camps and views, and convenient for a short trip, but it does not have the sand dunes of Merzouga."
+    }
+  ],
+  "related": ["essaouira", "high-atlas-imlil", "ait-benhaddou-ouarzazate", "fes"],
+  "relatedArticles": ["food-primer", "packing-by-season"]
+}

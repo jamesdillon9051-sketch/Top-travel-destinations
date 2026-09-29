@@ -1,0 +1,290 @@
+{
+  "slug": "essaouira",
+  "name": "Essaouira",
+  "country": "morocco",
+  "region": "Marrakech-Safi, Atlantic coast",
+  "categories": ["coastal", "unesco", "historic", "cultural"],
+  "tagline": "A wind-blown Atlantic fishing port of white-and-blue walls, Portuguese-era ramparts, seafood grills and an easygoing artistic streak.",
+  "highlight": "Grilled fish straight from the boats at the harbour stalls, with gulls wheeling above the blue fishing fleet.",
+  "shortDescription": "A whitewashed fortress town on the Atlantic, with a UNESCO-listed medina, a working port, long beaches and a relaxed, breezy atmosphere.",
+  "metaDescription": "An Essaouira travel guide: the medina, the Skala ramparts, the fishing port, seafood, the beach, kitesurfing, the Gnaoua festival, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Essaouira–Mogador (ESU), about 15 minutes; or Marrakech (RAK), about 3 hours",
+  "knownFor": "Ramparts, fishing port, seafood, wind sports, Gnaoua music",
+  "budget": "US$50–110 per day, mid-range",
+  "goodFor": "Relaxing, seafood, beaches, kitesurfing, arts and music",
+  "coords": { "lat": 31.5085, "lng": -9.7595 },
+  "image": {
+    "file": "File:Port of Essaouira 01.jpg",
+    "alt": "Blue fishing boats in the port of Essaouira with the town walls behind"
+  },
+  "intro": [
+    "Essaouira was known to the Portuguese as Mogador, and they built a fortress on the site in the early 16th century. The present town was laid out in the 1760s by Sultan Mohammed III, who wanted a port for trade with Europe and hired European engineers, including the Frenchman Théodore Cornut, to design its grid of streets and walls. It became Morocco's chief Atlantic trading port for a time, with a large Jewish and Muslim merchant community. UNESCO listed the medina in 2001.",
+    "Today Essaouira is a small, relaxed town, and a favourite for Moroccans as well as foreigners. The medina is easy to navigate, the ramparts are lined with old cannons, the port still launches blue fishing boats, and the constant Atlantic wind keeps the air cool, even in summer.",
+    "It has long attracted artists and musicians, from Orson Welles, who shot part of Othello here, to the Gnaoua World Music Festival, held every June. Galleries, craftspeople who work thuya wood and cooperatives making argan oil add to the appeal."
+  ],
+  "whyVisit": {
+    "intro": "Essaouira is an easy, friendly contrast to Marrakech, and a good place to relax.",
+    "points": [
+      {
+        "title": "A compact, walkable medina",
+        "text": "Small, calm and largely free of hassle, with blue-shuttered houses and craft workshops."
+      },
+      {
+        "title": "Ramparts and port",
+        "text": "The Skala walls, old cannons and the busy harbour are highlights."
+      },
+      {
+        "title": "Seafood",
+        "text": "Freshly caught fish grilled to order at the port stalls."
+      },
+      {
+        "title": "Beach and wind sports",
+        "text": "A long sandy beach and reliable wind for kitesurfing and windsurfing."
+      },
+      {
+        "title": "Arts and music",
+        "text": "Galleries, Gnaoua music and a creative community."
+      }
+    ]
+  },
+  "attractionsIntro": "The sights are small and close together, and a day and a half covers them.",
+  "attractions": [
+    {
+      "name": "The Skala de la Ville",
+      "image": {
+        "file": "File:Morocco Essaouira Portuguese Cannons.jpg",
+        "alt": "Old cannons on the ramparts of the Skala de la Ville in Essaouira"
+      },
+      "text": "The sea bastion with rows of old bronze and iron cannons pointing across the Atlantic, and ramparts you can walk. It is a fine place at sunset.",
+      "tip": "Go at sunset for the light."
+    },
+    {
+      "name": "The fishing port",
+      "text": "A working harbour of blue wooden boats, nets and squawking gulls, with fish auctions in the morning and grill stalls at lunch.",
+      "tip": "Choose your fish from the stall and have it grilled."
+    },
+    {
+      "name": "The medina",
+      "text": "A grid of lanes with craft workshops, thuya woodwork, argan oil sellers and small galleries.",
+      "tip": "Thuya wood is a local speciality."
+    },
+    {
+      "name": "The beach",
+      "image": {
+        "file": "File:Essaouira beach 03.jpg",
+        "alt": "The long sandy beach at Essaouira with the town in the distance"
+      },
+      "text": "A long sandy bay to the south of the town, usually windy, popular with kitesurfers and horse riders.",
+      "tip": "Windy days are common, so bring a jacket."
+    },
+    {
+      "name": "The Mellah and Jewish heritage",
+      "text": "The old Jewish quarter, with a synagogue and a cemetery, recalls the community that once made up a large part of the town.",
+      "tip": "Ask at your riad about opening."
+    }
+  ],
+  "thingsToDoIntro": "Essaouira is best enjoyed slowly, with a mix of sea, food and shopping.",
+  "thingsToDo": [
+    {
+      "title": "Eat grilled fish at the port",
+      "text": "Pick sardines, sole or prawns from the stall and eat at a communal table.",
+      "tip": "Agree the price before it is cooked."
+    },
+    {
+      "title": "Walk the ramparts",
+      "text": "A loop of the walls gives views of the sea and the harbour.",
+      "tip": "Go at sunset."
+    },
+    {
+      "title": "Try kitesurfing or windsurfing",
+      "text": "The Atlantic wind attracts riders, with schools and rentals on the beach.",
+      "tip": "Book a lesson at a reputable school."
+    },
+    {
+      "title": "Shop for crafts",
+      "text": "Thuya wood boxes, argan oil, painted ceramics and Gnaoua instruments.",
+      "tip": "Argan cooperatives outside town let you see how the oil is made."
+    },
+    {
+      "title": "Listen to Gnaoua music",
+      "text": "Music shops and cafés play and sell Gnaoua instruments, and the June festival fills the town.",
+      "tip": "Book accommodation well ahead for the festival."
+    },
+    {
+      "title": "Ride a horse or camel on the beach",
+      "text": "Rides at sunset along the shore south of the town.",
+      "tip": "Choose operators who look after their animals."
+    }
+  ],
+  "foodIntro": "Essaouira is about seafood, grilled simply with lemon and served with bread and salad.",
+  "foods": [
+    {
+      "name": "Grilled sardines and fish",
+      "text": "Freshly caught sardines, sole, sea bream and prawns, grilled over charcoal.",
+      "whereToTry": "The port stalls."
+    },
+    {
+      "name": "Fish tagine",
+      "text": "Fish cooked with tomatoes, peppers and preserved lemon.",
+      "whereToTry": "Restaurants in the medina."
+    },
+    {
+      "name": "Argan oil and amlou",
+      "text": "A nutty local oil, and amlou, a paste of argan oil, almonds and honey.",
+      "whereToTry": "Cooperatives and shops."
+    },
+    {
+      "name": "Pastries",
+      "text": "Almond pastries and sweets with mint tea.",
+      "whereToTry": "Cafés on the main square."
+    },
+    {
+      "name": "Sea urchins and oysters",
+      "text": "Fresh shellfish, sold from market stalls.",
+      "whereToTry": "The port."
+    }
+  ],
+  "accommodation": {
+    "intro": "Small riads and guesthouses in the medina are the best options.",
+    "areas": [
+      {
+        "name": "The medina",
+        "bestFor": "Atmosphere and walking",
+        "text": "Riads, many with roof terraces facing the sea."
+      },
+      {
+        "name": "The beach front",
+        "bestFor": "Sea views and wind sports",
+        "text": "Hotels and villas along the bay."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "US$25–55 per night" },
+      { "label": "Mid-range riad", "value": "US$60–120 per night" },
+      { "label": "Boutique hotel", "value": "US$130–250 per night" },
+      { "label": "Meal at a port stall", "value": "US$6–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Essaouira is about 175 km west of Marrakech.",
+    "options": [
+      {
+        "mode": "Bus from Marrakech",
+        "text": "About 3 hours on CTM or Supratours.",
+        "detail": "Book the day before."
+      },
+      {
+        "mode": "Private driver or shared taxi",
+        "text": "About 2 hours 30 minutes by road.",
+        "detail": "Agree the price."
+      },
+      {
+        "mode": "Flight to Essaouira–Mogador (ESU)",
+        "text": "Limited flights from Casablanca and some European cities.",
+        "detail": "Check the schedule."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The medina is small and largely pedestrian.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "Everything in the medina and along the beach is within reach.",
+        "detail": "Wear comfortable shoes."
+      },
+      {
+        "mode": "Petits taxis",
+        "text": "Useful for the beach and out-of-town cooperatives.",
+        "detail": "Agree the fare."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–October",
+    "summary": "Essaouira has a mild, breezy climate, and stays cooler than Marrakech in summer.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Mild and sunny."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Warm but windy, and a cool relief from the interior. Busy."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm and calmer."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool, windy and sometimes wet."
+      }
+    ],
+    "avoid": "The Gnaoua festival weekend, if you dislike crowds."
+  },
+  "itinerary": {
+    "title": "Two days in Essaouira",
+    "intro": "The town and port on the first day, the coast and the crafts on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Medina and ramparts",
+        "summary": "Walls and harbour.",
+        "morning": "The medina and the Skala.",
+        "afternoon": "Grilled fish at the port.",
+        "evening": "Sunset on the ramparts."
+      },
+      {
+        "day": 2,
+        "title": "Beach and crafts",
+        "summary": "Sea and shopping.",
+        "morning": "The beach, kitesurfing or a horse ride.",
+        "afternoon": "An argan cooperative and thuya workshops.",
+        "evening": "Dinner and Gnaoua music."
+      }
+    ]
+  },
+  "tipsIntro": "A few things make the visit easier.",
+  "tips": [
+    "Bring a windbreaker. Even in summer, the wind is strong.",
+    "Eat at the port stalls, but agree prices first.",
+    "Book ahead for the Gnaoua festival in June.",
+    "Buy thuya wood from workshops that use certified sources.",
+    "Use a bus or driver from Marrakech, avoiding driving at night.",
+    "Wear sun protection, since the wind masks the heat."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Essaouira?",
+      "a": "Two days are enough. It can also be a day trip from Marrakech, though a night is nicer."
+    },
+    {
+      "q": "Can you swim in Essaouira?",
+      "a": "The beach is windy, with strong Atlantic currents, and the water is cold. Most people paddle or watch the kitesurfers."
+    },
+    {
+      "q": "When is the Gnaoua festival?",
+      "a": "Usually in June. Check dates, and book accommodation early."
+    },
+    {
+      "q": "Is Essaouira safe?",
+      "a": "Yes, it is generally relaxed. Use normal precautions."
+    },
+    {
+      "q": "Is it a good day trip from Marrakech?",
+      "a": "It is doable, at about three hours each way, but staying a night is better."
+    },
+    {
+      "q": "Is Essaouira good for kitesurfing?",
+      "a": "Yes, it is one of Morocco's main wind sport centres, with strong summer winds."
+    }
+  ],
+  "related": ["marrakech", "casablanca", "high-atlas-imlil"],
+  "relatedArticles": ["mediterranean-coasts", "food-primer"]
+}
