@@ -1,0 +1,302 @@
+{
+  "slug": "mekong-delta",
+  "name": "The Mekong Delta",
+  "shortName": "Mekong Delta",
+  "country": "vietnam",
+  "region": "Mekong Delta, southern Vietnam",
+  "categories": ["nature", "cultural", "scenic", "off-the-beaten-path"],
+  "tagline": "A flat green maze of rivers, canals, orchards and floating markets, where life moves by boat and the best breakfast is a noodle soup served from a sampan.",
+  "highlight": "A dawn boat to a floating market, with fruit boats piled high and vendors hanging their wares from tall poles.",
+  "shortDescription": "Vietnam's rice bowl: a delta of waterways south of Ho Chi Minh City with floating markets at Can Tho, fruit orchards, homestays, coconut candy workshops and a slow river pace.",
+  "metaDescription": "A Mekong Delta travel guide: Can Tho and the Cai Rang floating market, Ben Tre, My Tho, Vinh Long homestays, Chau Doc, food, when to go, how to get there from Ho Chi Minh City and a three-day plan.",
+  "suggestedStay": "2 days, 1 night",
+  "nearestAirport": "Can Tho (VCA), or Tan Son Nhat, Ho Chi Minh City (SGN), about 2–3.5 hours away",
+  "knownFor": "Floating markets, rivers, orchards, homestays, coconut products",
+  "budget": "US$35–85 per day, mid-range",
+  "goodFor": "River life, food, cycling, homestays, a slow pace",
+  "coords": { "lat": 10.0452, "lng": 105.7469 },
+  "image": {
+    "file": "File:Can Tho, Vietnam, Floating market, Early morning.jpg",
+    "alt": "Boats gathering at the Cai Rang floating market near Can Tho in the early morning"
+  },
+  "intro": [
+    "The Mekong River ends its journey of 4,900 km in southern Vietnam, splitting into a fan of channels that empty into the South China Sea. The delta they form is one of the most fertile places in Asia, producing much of Vietnam's rice, fish and tropical fruit. It is a flat landscape of paddies, orchards, fish farms and villages linked by waterways, where boats are still as important as roads.",
+    "For visitors, the delta offers a glimpse of everyday rural life in the south, at a slow pace. Typical trips include boat rides through narrow canals lined with nipa palms, visits to workshops making coconut candy, rice paper and puffed rice, orchard walks with fruit tasting, and overnight stays in homestays. The most famous sight is the floating market at Cai Rang near Can Tho, where traders sell produce from boats, though it has shrunk as roads and bridges have improved.",
+    "The delta is easy to visit on a day trip from Ho Chi Minh City, but it repays a night or two, particularly for the early-morning atmosphere. Many visitors also use it as a route to or from Cambodia, by boat from Chau Doc to Phnom Penh."
+  ],
+  "whyVisit": {
+    "intro": "The Mekong Delta is a peaceful contrast to Vietnam's cities, and shows a different side of the country.",
+    "points": [
+      {
+        "title": "Waterways and boats",
+        "text": "Life on and beside the rivers, from small sampans to big barges."
+      },
+      {
+        "title": "Floating markets",
+        "text": "Early-morning trade on the water, with produce sold from boats."
+      },
+      {
+        "title": "Orchards and workshops",
+        "text": "Fruit tasting, coconut candy and rice-paper making."
+      },
+      {
+        "title": "Homestays",
+        "text": "A night with a local family, with home cooking."
+      },
+      {
+        "title": "Easy from Saigon",
+        "text": "A day trip or a relaxing overnight stay, within a few hours."
+      }
+    ]
+  },
+  "attractionsIntro": "The delta is large, and most visitors choose one or two bases.",
+  "attractions": [
+    {
+      "name": "The Cai Rang floating market, Can Tho",
+      "text": "The largest floating market in the delta, where wholesalers sell fruit and vegetables from big boats, hanging samples from poles. Best at dawn, from about 5 to 8 am.",
+      "tip": "Book a boat the evening before, and go early."
+    },
+    {
+      "name": "Can Tho",
+      "image": {
+        "file": "File:Can Tho, Vietnam, Floating Market, Boats.jpg",
+        "alt": "Boats loaded with fruit and vegetables at a floating market near Can Tho"
+      },
+      "text": "The largest city in the delta, with a pleasant waterfront, markets and pagodas, and a base for boat trips.",
+      "tip": "Stay a night."
+    },
+    {
+      "name": "My Tho and Ben Tre",
+      "image": {
+        "file": "File:Mekong Delta River.jpg",
+        "alt": "A wide channel of the Mekong River in the delta"
+      },
+      "text": "Delta towns about 1.5 to 2 hours from Ho Chi Minh City, known for canals, coconut candy workshops and orchard visits. Ben Tre is the coconut capital of Vietnam.",
+      "tip": "A good day trip for those short of time."
+    },
+    {
+      "name": "Vinh Long and homestays",
+      "text": "A delta town with islands, orchards and family-run homestays, quieter than My Tho.",
+      "tip": "Book a homestay for the evening."
+    },
+    {
+      "name": "Chau Doc",
+      "text": "A town near the Cambodian border with a floating village, Sam Mountain, Tra Su Cajuput forest and a mixed culture of Vietnamese, Khmer, Cham and Chinese people.",
+      "tip": "Take the boat to Phnom Penh if heading to Cambodia."
+    }
+  ],
+  "thingsToDoIntro": "Most activities revolve around the rivers and orchards.",
+  "thingsToDo": [
+    {
+      "title": "Visit a floating market at dawn",
+      "text": "Take a boat to the Cai Rang market and have breakfast on the water.",
+      "tip": "Go before 7 am."
+    },
+    {
+      "title": "Take a canoe through the canals",
+      "text": "A rowing boat takes you through narrow channels under nipa palms.",
+      "tip": "Ask for a small boat."
+    },
+    {
+      "title": "Try a homestay",
+      "text": "Sleep in a village house and eat home-cooked meals.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Watch a coconut candy workshop",
+      "text": "See coconut milk boiled and cut into sweets.",
+      "tip": "Buy fresh."
+    },
+    {
+      "title": "Cycle through orchards",
+      "text": "Quiet paths pass fruit trees, and you can taste tropical fruit.",
+      "tip": "Go in the morning."
+    },
+    {
+      "title": "Take a boat to Cambodia",
+      "text": "A river route from Chau Doc to Phnom Penh, about 5 to 6 hours.",
+      "tip": "Check visa rules."
+    }
+  ],
+  "foodIntro": "The delta's food is fresh, sweet and based on river fish, rice and tropical fruit.",
+  "foods": [
+    {
+      "name": "Elephant-ear fish",
+      "text": "A deep-fried whole fish served upright, wrapped in rice paper with herbs.",
+      "whereToTry": "Restaurants in My Tho and Can Tho."
+    },
+    {
+      "name": "Hu tieu My Tho",
+      "text": "A clear noodle soup with pork and seafood, the local breakfast.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Coconut candy",
+      "text": "Chewy sweets made from coconut cream, from Ben Tre.",
+      "whereToTry": "Workshops."
+    },
+    {
+      "name": "Banh xeo",
+      "text": "Sizzling pancakes with pork and shrimp.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Tropical fruit",
+      "text": "Mango, dragon fruit, rambutan and durian, according to season.",
+      "whereToTry": "Orchards and markets."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose between a hotel in Can Tho and a homestay on the river.",
+    "areas": [
+      {
+        "name": "Can Tho",
+        "bestFor": "Floating market access",
+        "text": "Hotels along the waterfront and in the centre."
+      },
+      {
+        "name": "Vinh Long and Ben Tre",
+        "bestFor": "Homestays",
+        "text": "Family-run guesthouses among orchards."
+      },
+      {
+        "name": "Chau Doc",
+        "bestFor": "The Cambodian route",
+        "text": "Riverside hotels near the border."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "US$10–25 per night" },
+      { "label": "Mid-range hotel or homestay", "value": "US$35–85 per night" },
+      { "label": "Luxury lodge", "value": "US$120–250 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$2–8 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The delta lies south and west of Ho Chi Minh City.",
+    "options": [
+      {
+        "mode": "Tour from Ho Chi Minh City",
+        "text": "Day tours to My Tho or Ben Tre, or two-day trips to Can Tho, are widely available.",
+        "detail": "Choose a small-group tour."
+      },
+      {
+        "mode": "Bus or private car",
+        "text": "About 3 to 4 hours from Ho Chi Minh City to Can Tho, and 1.5 to 2 hours to My Tho.",
+        "detail": "The new expressways have cut journey times."
+      },
+      {
+        "mode": "Flight to Can Tho (VCA)",
+        "text": "Flights from Hanoi and some other cities.",
+        "detail": "Check the schedule."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Boats, bicycles and taxis cover the delta.",
+    "options": [
+      {
+        "mode": "Boat",
+        "text": "The main way to see the rivers and markets.",
+        "detail": "Agree the price and length."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Good for orchard lanes.",
+        "detail": "Rent from your homestay."
+      },
+      {
+        "mode": "Grab and taxi",
+        "text": "Useful in Can Tho and towns.",
+        "detail": "Use the app."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–April",
+    "summary": "The delta is hot and humid all year, with a dry season and a wet season, and the water level rises from August to November.",
+    "seasons": [
+      {
+        "season": "Dry season (December–April)",
+        "rating": "best",
+        "text": "Sunny and comfortable, though hot by April."
+      },
+      {
+        "season": "Early wet (May–July)",
+        "rating": "good",
+        "text": "Afternoon showers, green fields and fruit season."
+      },
+      {
+        "season": "High water (August–November)",
+        "rating": "quiet",
+        "text": "Heavy rain, with the rivers in flood."
+      },
+      {
+        "season": "Tet (January or February)",
+        "rating": "avoid",
+        "text": "Many businesses close, though the celebrations are vivid."
+      }
+    ],
+    "avoid": "Tet, when many boats and shops are closed."
+  },
+  "itinerary": {
+    "title": "Two days in the Mekong Delta",
+    "intro": "A night in Can Tho, with the floating market at dawn.",
+    "days": [
+      {
+        "day": 1,
+        "title": "To Can Tho",
+        "summary": "Rivers and orchards.",
+        "morning": "Leave Ho Chi Minh City for My Tho or Ben Tre.",
+        "afternoon": "A canal boat and an orchard visit.",
+        "evening": "Arrive in Can Tho."
+      },
+      {
+        "day": 2,
+        "title": "The floating market",
+        "summary": "Dawn on the water.",
+        "morning": "The Cai Rang floating market.",
+        "afternoon": "Return to Ho Chi Minh City.",
+        "evening": "Arrive in Saigon."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you enjoy the delta.",
+  "tips": [
+    "Stay a night, to see the floating market at dawn.",
+    "Choose a small boat, not a big group boat.",
+    "Bring insect repellent and sun protection.",
+    "Bargain for boats, and agree the price beforehand.",
+    "Try fruit in season.",
+    "Book homestays in advance.",
+    "Do not expect the floating markets to be as big as in old photos."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the Mekong Delta?",
+      "a": "One day for a taste, two days with a night in Can Tho for the floating market."
+    },
+    {
+      "q": "Is the floating market worth it?",
+      "a": "Yes, at dawn. It is smaller than in the past, but still atmospheric."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "December to April, the dry season."
+    },
+    {
+      "q": "Can I do it as a day trip from Ho Chi Minh City?",
+      "a": "Yes, to My Tho or Ben Tre. Can Tho is better with a night."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Yes, generally. Use reputable boat operators."
+    },
+    {
+      "q": "Can I travel to Cambodia by boat?",
+      "a": "Yes, from Chau Doc to Phnom Penh, about 5 to 6 hours. Check the visa requirements."
+    }
+  ],
+  "related": ["ho-chi-minh-city", "phu-quoc", "hoi-an"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

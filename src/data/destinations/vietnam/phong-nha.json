@@ -1,0 +1,314 @@
+{
+  "slug": "phong-nha",
+  "name": "Phong Nha–Ke Bang",
+  "shortName": "Phong Nha",
+  "country": "vietnam",
+  "region": "Central Vietnam",
+  "categories": ["unesco", "national-park", "nature", "off-the-beaten-path"],
+  "tagline": "A limestone wilderness of jungle and rivers riddled with some of the largest caves on earth, from an easy boat ride to the expedition-only Son Doong.",
+  "highlight": "The huge chamber of Paradise Cave, with its glittering formations lit for the visitors.",
+  "shortDescription": "A UNESCO-listed national park with hundreds of caves, including Phong Nha, Paradise and the giant Son Doong, plus jungle, rivers, ziplines and quiet countryside.",
+  "metaDescription": "A Phong Nha travel guide: Paradise Cave, Phong Nha Cave, Dark Cave, Son Doong and Hang En expeditions, jungle, when to go, how to get there from Hue and a three-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Dong Hoi (VDH), about 45 minutes",
+  "knownFor": "Caves, including Son Doong, jungle, limestone karst, adventure",
+  "budget": "US$35–90 per day, mid-range; expeditions cost much more",
+  "goodFor": "Caves, adventure, nature, quiet countryside",
+  "coords": { "lat": 17.5901, "lng": 106.2833 },
+  "image": {
+    "file": "File:Cueva Paraíso, Parque Nacional Phong Nha - Ke Bang, Vietnam (41309962172).jpg",
+    "alt": "Stalactites and stalagmites inside Paradise Cave in Phong Nha–Ke Bang National Park"
+  },
+  "intro": [
+    "Phong Nha–Ke Bang National Park in central Vietnam holds one of the world's finest karst landscapes, with a system of caves and underground rivers cut into limestone that is about 400 million years old. UNESCO listed it as a World Heritage Site in 2003, and expanded it in 2015. Its caves range from short boat trips to some of the longest and largest in the world.",
+    "The best known is Son Doong, discovered by a local man in 1991 and first properly explored by a British caving team in 2009. It is considered the largest cave in the world by volume, with chambers so large that, it is often said, a city block of skyscrapers could fit inside, and its own jungle and river. Access is limited to organised expeditions with a strictly limited number of permits each year, and they are expensive. Other caves, such as Paradise, Phong Nha and the Dark Cave, are easily visited.",
+    "The park's other side is quiet. It is a district of small villages, rice fields, rivers and jungle, still far less visited than the coastal towns. The war has left its mark, as the Ho Chi Minh Trail passed through the region and many bombs were dropped here, and unexploded ordnance remains, so it is important to stay on marked paths."
+  ],
+  "whyVisit": {
+    "intro": "Phong Nha is the best place in Vietnam for cave and jungle adventure, and a good place to slow down.",
+    "points": [
+      {
+        "title": "Huge caves",
+        "text": "Paradise Cave and Son Doong are among the most spectacular caves anywhere."
+      },
+      {
+        "title": "Accessible adventure",
+        "text": "Boat trips, ziplines, kayaking and short treks suit most visitors."
+      },
+      {
+        "title": "Real jungle",
+        "text": "A wilderness of limestone forest, with rare wildlife and birds."
+      },
+      {
+        "title": "A quiet base",
+        "text": "Village life, rice fields and small guesthouses."
+      },
+      {
+        "title": "Wartime history",
+        "text": "Sites on the Ho Chi Minh Trail and the story of the region."
+      }
+    ]
+  },
+  "attractionsIntro": "There are dozens of caves, but a few stand out, with different experiences.",
+  "attractions": [
+    {
+      "name": "Paradise Cave (Thien Duong)",
+      "image": {
+        "file": "File:Paradise cave.JPG",
+        "alt": "A wooden walkway through the vast chamber of Paradise Cave"
+      },
+      "text": "A vast, dry cave with a wooden walkway through a huge chamber of stalactites and stalagmites. About 31 km long in total, though only the first kilometre or so is open to casual visitors.",
+      "tip": "Go early to avoid tour groups."
+    },
+    {
+      "name": "Phong Nha Cave",
+      "image": {
+        "file": "File:Phong Nha cave entrance.jpg",
+        "alt": "The entrance to Phong Nha Cave on the river with boats"
+      },
+      "text": "The first cave of the region to be opened to visitors, entered by boat along an underground river, with impressive formations.",
+      "tip": "Combine with Paradise Cave."
+    },
+    {
+      "name": "Dark Cave",
+      "text": "An adventure cave where you zipline in, swim through the river and mud-bathe in a chamber, popular with active visitors.",
+      "tip": "Not for those who dislike water or mud."
+    },
+    {
+      "name": "Son Doong and Hang En expeditions",
+      "image": {
+        "file": "File:Son Doong Cave DB (1).jpg",
+        "alt": "A giant chamber with jungle and light inside Son Doong Cave"
+      },
+      "text": "Son Doong is visited on multi-day guided expeditions with a limited number of permits and a high price, and requires good fitness. Hang En, the third-largest cave, is a cheaper three-day trek.",
+      "tip": "Book many months ahead, and check the season, as caves close in the wet months."
+    },
+    {
+      "name": "The Botanic Garden and Bong Lai Valley",
+      "text": "A nature area with trails and a wildlife rescue centre, and a valley of paddies and streams with swimming spots.",
+      "tip": "Good for a relaxed day."
+    }
+  ],
+  "thingsToDoIntro": "Most activities focus on caves and the outdoors.",
+  "thingsToDo": [
+    {
+      "title": "Explore Paradise Cave",
+      "text": "Walk the wooden path through the main chamber, or add a longer guided trek.",
+      "tip": "Bring a light jacket."
+    },
+    {
+      "title": "Take a boat into Phong Nha Cave",
+      "text": "Row along the underground river, and see formations by the boat's light.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Visit the Dark Cave",
+      "text": "Zipline into the entrance, swim in the river and bathe in mud.",
+      "tip": "Wear old clothes."
+    },
+    {
+      "title": "Cycle or ride through the countryside",
+      "text": "Quiet roads pass paddies and limestone hills.",
+      "tip": "Rent a bicycle or scooter."
+    },
+    {
+      "title": "Go on a jungle trek",
+      "text": "Guided treks visit smaller caves and jungle.",
+      "tip": "Use a licensed guide."
+    },
+    {
+      "title": "Visit wartime sites",
+      "text": "Sites along the Ho Chi Minh Trail and wartime shelters.",
+      "tip": "Stay on marked paths, since unexploded ordnance remains."
+    }
+  ],
+  "foodIntro": "Phong Nha's food is simple, rural and central Vietnamese, with specialities such as pancakes and river fish.",
+  "foods": [
+    {
+      "name": "Banh xeo",
+      "text": "Crisp savoury pancakes with pork and shrimp, wrapped in herbs.",
+      "whereToTry": "Local restaurants in Son Trach."
+    },
+    {
+      "name": "Fresh river fish",
+      "text": "Fish from the Son River, steamed or grilled.",
+      "whereToTry": "Riverside restaurants."
+    },
+    {
+      "name": "Grilled pork skewers",
+      "text": "Nem lui, lemongrass pork skewers served with rice paper and herbs.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Pig with local herbs",
+      "text": "Local pork cooked in jungle herbs.",
+      "whereToTry": "Farm restaurants."
+    },
+    {
+      "name": "Coffee and fresh fruit",
+      "text": "Locally grown coffee and fruit.",
+      "whereToTry": "Cafés in Son Trach."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors stay in Son Trach village, with a few lodges in the countryside.",
+    "areas": [
+      {
+        "name": "Son Trach village",
+        "bestFor": "Restaurants and tour offices",
+        "text": "Guesthouses, homestays and small hotels."
+      },
+      {
+        "name": "Countryside lodges",
+        "bestFor": "Peace and views",
+        "text": "Farmstays and boutique lodges among the paddies."
+      },
+      {
+        "name": "Dong Hoi",
+        "bestFor": "Transport",
+        "text": "A city with hotels, 45 km away."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "US$10–25 per night" },
+      { "label": "Mid-range hotel or lodge", "value": "US$35–90 per night" },
+      { "label": "Luxury lodge", "value": "US$120–250 per night" },
+      { "label": "Son Doong expedition (4 days)", "value": "US$3,000+ per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Phong Nha is in central Vietnam, about halfway between Hue and Vinh.",
+    "options": [
+      {
+        "mode": "Flight to Dong Hoi (VDH)",
+        "text": "Direct flights from Hanoi and Ho Chi Minh City. Then a 45-minute drive.",
+        "detail": "Arrange a transfer."
+      },
+      {
+        "mode": "Train to Dong Hoi",
+        "text": "The Reunification Express stops in Dong Hoi, about 3 to 4 hours from Hue.",
+        "detail": "Continue by taxi or bus."
+      },
+      {
+        "mode": "Road from Hue",
+        "text": "About 4 to 5 hours by car or bus.",
+        "detail": "Book a private car or a bus."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The area is spread out, with tours, scooters and bicycles as the main options.",
+    "options": [
+      {
+        "mode": "Scooter or bicycle",
+        "text": "Popular for reaching caves and countryside.",
+        "detail": "Wear a helmet."
+      },
+      {
+        "mode": "Tour vehicles",
+        "text": "Most cave tours include transport.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Available for longer trips.",
+        "detail": "Agree the fare."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "February–August",
+    "summary": "Phong Nha is dry in spring and summer, and wet from September to December, when caves close and floods occur.",
+    "seasons": [
+      {
+        "season": "Spring (February–April)",
+        "rating": "best",
+        "text": "Dry, mild and pleasant."
+      },
+      {
+        "season": "Summer (May–August)",
+        "rating": "good",
+        "text": "Hot and dry. Good for caves and swimming."
+      },
+      {
+        "season": "Autumn (September–December)",
+        "rating": "avoid",
+        "text": "Wet, with flooding and closed caves."
+      },
+      {
+        "season": "Winter (January)",
+        "rating": "quiet",
+        "text": "Cool and drizzly."
+      }
+    ],
+    "avoid": "The flood season from September to December, when Son Doong and many caves are closed."
+  },
+  "itinerary": {
+    "title": "Three days in Phong Nha",
+    "intro": "The main caves, a jungle adventure and a day among the paddies.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Paradise and Phong Nha",
+        "summary": "Two classic caves.",
+        "morning": "Paradise Cave.",
+        "afternoon": "A boat into Phong Nha Cave.",
+        "evening": "Dinner in Son Trach."
+      },
+      {
+        "day": 2,
+        "title": "Dark Cave and adventure",
+        "summary": "Zipline and mud.",
+        "morning": "The Dark Cave.",
+        "afternoon": "Bong Lai Valley.",
+        "evening": "A rest."
+      },
+      {
+        "day": 3,
+        "title": "The countryside",
+        "summary": "Paddies and hills.",
+        "morning": "Cycle through the paddies.",
+        "afternoon": "A jungle trek or wartime sites.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book Son Doong expeditions many months ahead through the official operator, and check the season.",
+    "Stay on marked paths. Unexploded ordnance is still present.",
+    "Bring a light jacket for the caves, and waterproof shoes for the Dark Cave.",
+    "Avoid the flood season, when caves can close.",
+    "Go early to Paradise Cave.",
+    "Use licensed guides.",
+    "Carry water and sun protection."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Phong Nha?",
+      "a": "Two to three days for the main caves and countryside. Expeditions take three to five days."
+    },
+    {
+      "q": "Can anyone visit Son Doong?",
+      "a": "It requires a permit, a guided expedition, good fitness and a significant budget, and is only offered in the dry season."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "February to August. Autumn brings floods and closed caves."
+    },
+    {
+      "q": "Is Phong Nha safe?",
+      "a": "Yes, but stay on marked paths because of unexploded ordnance from the war."
+    },
+    {
+      "q": "How do I get there from Hue?",
+      "a": "By car or bus, about 4 to 5 hours, or by train to Dong Hoi."
+    },
+    {
+      "q": "Is Paradise Cave worth visiting?",
+      "a": "Yes. It is one of the most spectacular caves in Vietnam and easy to reach."
+    }
+  ],
+  "related": ["hue", "hoi-an", "ninh-binh"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

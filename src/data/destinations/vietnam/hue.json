@@ -1,0 +1,318 @@
+{
+  "slug": "hue",
+  "name": "Hue",
+  "country": "vietnam",
+  "region": "Perfume River, central Vietnam",
+  "categories": ["unesco", "historic", "cultural", "capital-city"],
+  "tagline": "The imperial capital of Vietnam's last dynasty: a walled citadel, royal tombs in pine forests, a pagoda on the Perfume River and the country's most refined cooking.",
+  "highlight": "The Meridian Gate of the Imperial City, and the calm of a royal tomb reflected in its lotus pond.",
+  "shortDescription": "The former imperial capital on the Perfume River, with the Imperial City, the tombs of the Nguyen emperors, Thien Mu Pagoda and a distinctive royal cuisine.",
+  "metaDescription": "A Hue travel guide: the Imperial City, the tombs of Tu Duc, Minh Mang and Khai Dinh, Thien Mu Pagoda, the Perfume River, Hue food, when to go and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Phu Bai (HUI), about 30 minutes",
+  "knownFor": "The Imperial City, royal tombs, Thien Mu Pagoda, imperial cuisine",
+  "budget": "US$40–100 per day, mid-range",
+  "goodFor": "History, architecture, food, cycling, a quiet pace",
+  "coords": { "lat": 16.4637, "lng": 107.5909 },
+  "image": {
+    "file": "File:Meridian Gate, Hue (I).jpg",
+    "alt": "The Meridian Gate of the Imperial City in Hue"
+  },
+  "intro": [
+    "Hue was the capital of Vietnam from 1802 to 1945, under the Nguyen dynasty, the last of the country's imperial families. Modelled on the Forbidden City in Beijing, the Imperial City, or Citadel, sits on the north bank of the Perfume River, surrounded by walls and moats. UNESCO inscribed the complex of Hue monuments in 1993.",
+    "Much of the palace area was damaged during the Battle of Hue in the 1968 Tet Offensive, and restoration continues. What survives, or has been rebuilt, includes the great Meridian Gate, the Thai Hoa throne hall and several temples and gardens, with more to see in the surrounding countryside. Along the river to the south are the tombs of the emperors, built as palaces of the afterlife among pines, lakes and pavilions.",
+    "Hue is quieter and more reserved than Hanoi or Ho Chi Minh City, a city of bicycles, river boats and slow lunches. It is also the birthplace of Vietnamese imperial cuisine, and its spicy beef noodle soup, bun bo Hue, is famous across the country."
+  ],
+  "whyVisit": {
+    "intro": "Hue is the best place in Vietnam to see imperial history and enjoy a slower pace.",
+    "points": [
+      {
+        "title": "The Imperial City",
+        "text": "A walled palace enclosure with ceremonial gates, halls and gardens, partly restored."
+      },
+      {
+        "title": "Royal tombs",
+        "text": "Each emperor designed his own tomb in a landscape of water, trees and buildings."
+      },
+      {
+        "title": "The Perfume River",
+        "text": "A calm river with dragon boats, riverside pagodas and cyclists."
+      },
+      {
+        "title": "Imperial cuisine",
+        "text": "Delicate dishes once served to the court, and hearty street food."
+      },
+      {
+        "title": "A gentle base",
+        "text": "Beaches, lagoons and the Hai Van Pass are all close by."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights are the Imperial City and three or four tombs.",
+  "attractions": [
+    {
+      "name": "The Imperial City (Citadel)",
+      "text": "A walled compound of about 500 hectares, entered by the Ngo Mon (Meridian Gate). Inside are the Thai Hoa Palace, temples, courtyards and gardens, some restored and some in ruins, including the Forbidden Purple City.",
+      "tip": "Allow half a day, and bring a hat."
+    },
+    {
+      "name": "Thien Mu Pagoda",
+      "image": {
+        "file": "File:Hue Vietnam Thien-Mu-Temple-and-Pagoda-01.jpg",
+        "alt": "The seven-storey Phuoc Duyen tower of Thien Mu Pagoda above the Perfume River"
+      },
+      "text": "A 17th-century pagoda on a hill above the river, with a seven-storey octagonal tower. It is the symbol of Hue.",
+      "tip": "Go by boat or bicycle, and visit late in the afternoon."
+    },
+    {
+      "name": "The Tomb of Minh Mang",
+      "image": {
+        "file": "File:Hue Vietnam Tomb-of-Emperor-Minh-Mang-03a.jpg",
+        "alt": "Pavilions and a lake at the Tomb of Emperor Minh Mang in Hue"
+      },
+      "text": "A symmetrical and elegant tomb complex of courtyards, pavilions and a lake, built between 1840 and 1843.",
+      "tip": "Reach it by boat for the full experience."
+    },
+    {
+      "name": "The Tomb of Khai Dinh",
+      "image": {
+        "file": "File:Khai Dinh tomb Hue (27767136409).jpg",
+        "alt": "The ornate concrete Tomb of Khai Dinh above terraced steps"
+      },
+      "text": "The last of the great tombs, built in the 1920s in a mix of Vietnamese and European styles, with an ornate interior of glass and ceramic mosaics.",
+      "tip": "Climb to the top for the interior."
+    },
+    {
+      "name": "The Tomb of Tu Duc",
+      "text": "A tranquil complex of lakes, pavilions and pine trees, built as a retreat during the emperor's life, and often considered the most romantic of the tombs.",
+      "tip": "Visit in the morning."
+    },
+    {
+      "name": "The Perfume River and Dong Ba Market",
+      "image": {
+        "file": "File:Hue Vietnam Perfume-River-01.jpg",
+        "alt": "Boats on the Perfume River in Hue"
+      },
+      "text": "A slow river that flows through the city, with dragon boats for hire, and the busy Dong Ba Market on its bank.",
+      "tip": "A sunset boat trip is popular."
+    }
+  ],
+  "thingsToDoIntro": "Hue is a place for cycling, cooking and river trips.",
+  "thingsToDo": [
+    {
+      "title": "Visit the tombs by bicycle or boat",
+      "text": "A day trip along the river visits several tombs and the Thien Mu Pagoda.",
+      "tip": "Start early, and bring water."
+    },
+    {
+      "title": "Take a cooking class",
+      "text": "Learn to make bun bo Hue and imperial dishes.",
+      "tip": "Book through your hotel."
+    },
+    {
+      "title": "Try imperial dining",
+      "text": "Several restaurants serve elaborate multi-course menus in the style of the royal court.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Ride over the Hai Van Pass",
+      "text": "A spectacular road between Hue and Da Nang, with sea views.",
+      "tip": "Hire a car or an easy rider."
+    },
+    {
+      "title": "See the Hue Festival",
+      "text": "A biennial arts festival with music and processions, usually in spring or summer.",
+      "tip": "Check the dates."
+    },
+    {
+      "title": "Visit the Truong Tien Bridge at night",
+      "text": "The bridge over the river is lit in changing colours after dark.",
+      "tip": "A pleasant evening walk."
+    }
+  ],
+  "foodIntro": "Hue's food is known for spice, subtlety and small portions, a legacy of the imperial kitchens.",
+  "foods": [
+    {
+      "name": "Bun bo Hue",
+      "image": {
+        "file": "File:Bún bò Huế minh28397.jpg",
+        "alt": "A bowl of spicy Hue-style beef noodle soup"
+      },
+      "text": "A spicy, lemongrass-scented beef and pork noodle soup with thick rice noodles.",
+      "whereToTry": "Street stalls and family shops."
+    },
+    {
+      "name": "Banh khoai",
+      "text": "A crisp rice-flour pancake filled with shrimp, pork and bean sprouts, served with a peanut dipping sauce.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Com hen",
+      "text": "Rice with small river clams, herbs and chilli.",
+      "whereToTry": "Restaurants on the river."
+    },
+    {
+      "name": "Banh beo and banh loc",
+      "text": "Small steamed rice cakes topped with shrimp and pork, served with fish sauce.",
+      "whereToTry": "Specialist eateries."
+    },
+    {
+      "name": "Imperial cuisine",
+      "text": "Elaborate dishes, once served to the emperors, presented like art.",
+      "whereToTry": "Restaurants in the old town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay south of the river near the Perfume River for restaurants, or north for the Imperial City.",
+    "areas": [
+      {
+        "name": "South bank (Le Loi street)",
+        "bestFor": "Food, cafés and river views",
+        "text": "Hotels and guesthouses along the river."
+      },
+      {
+        "name": "Near the Citadel",
+        "bestFor": "Quiet",
+        "text": "Small guesthouses in residential streets."
+      },
+      {
+        "name": "Countryside and river",
+        "bestFor": "Spa retreats",
+        "text": "Resorts near the tombs."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel", "value": "US$10–30 per night" },
+      { "label": "Mid-range hotel", "value": "US$40–90 per night" },
+      { "label": "Luxury hotel", "value": "US$120–300 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$2–8 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Hue is on the north-south railway, and has an airport.",
+    "options": [
+      {
+        "mode": "Flight to Phu Bai (HUI)",
+        "text": "Direct flights from Hanoi and Ho Chi Minh City.",
+        "detail": "The airport is about 30 minutes from town."
+      },
+      {
+        "mode": "Train",
+        "text": "The Reunification Express stops in Hue, about 13 hours from Hanoi and about 2.5 to 3 hours from Da Nang along a scenic coast.",
+        "detail": "Book a seat by the window."
+      },
+      {
+        "mode": "Road from Hoi An or Da Nang",
+        "text": "About 3 to 4 hours, with the option of stopping over the Hai Van Pass.",
+        "detail": "Hire a driver."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The town is small, and bicycles and boats are good options.",
+    "options": [
+      {
+        "mode": "Bicycle",
+        "text": "A pleasant way to see the Citadel and nearby tombs.",
+        "detail": "Watch the heat."
+      },
+      {
+        "mode": "Grab and taxi",
+        "text": "Convenient for the tombs, some of which are a few kilometres away.",
+        "detail": "Use the app."
+      },
+      {
+        "mode": "Dragon boat",
+        "text": "A boat on the river connects several sights.",
+        "detail": "Agree the price."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "February–August",
+    "summary": "Hue is one of the wettest cities in Vietnam, with heavy rain and occasional flooding from September to December.",
+    "seasons": [
+      {
+        "season": "Spring (February–May)",
+        "rating": "best",
+        "text": "Warm, dry and pleasant."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Hot, but usually dry."
+      },
+      {
+        "season": "Autumn (September–December)",
+        "rating": "avoid",
+        "text": "Heavy rain, typhoons and flooding."
+      },
+      {
+        "season": "Winter (January)",
+        "rating": "quiet",
+        "text": "Cool and drizzly."
+      }
+    ],
+    "avoid": "October to December, the wettest and most flood-prone months."
+  },
+  "itinerary": {
+    "title": "Two days in Hue",
+    "intro": "The citadel on the first day, and the tombs and river on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Imperial City",
+        "summary": "Palaces and food.",
+        "morning": "The Imperial City.",
+        "afternoon": "Dong Ba Market and a cooking class.",
+        "evening": "Imperial-style dinner."
+      },
+      {
+        "day": 2,
+        "title": "Tombs and river",
+        "summary": "Royal tombs and a pagoda.",
+        "morning": "Tomb of Minh Mang and Khai Dinh.",
+        "afternoon": "Thien Mu Pagoda by boat.",
+        "evening": "Bun bo Hue and a river walk."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make the visit smoother.",
+  "tips": [
+    "Start early. It gets hot by late morning.",
+    "Choose the tombs you want to see. Visiting all takes a full day.",
+    "Hire a guide for the Imperial City, where signs are limited.",
+    "Bring a raincoat outside the dry months.",
+    "Check whether tombs are open, and their opening times.",
+    "Try bun bo Hue at breakfast.",
+    "Dress modestly at pagodas."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Hue?",
+      "a": "Two days lets you see the Imperial City, three tombs and the pagoda."
+    },
+    {
+      "q": "Is Hue worth visiting?",
+      "a": "Yes, for its imperial history and food. It is a good stop between Hanoi and Hoi An."
+    },
+    {
+      "q": "Which tombs should I visit?",
+      "a": "Minh Mang for symmetry, Khai Dinh for architecture and Tu Duc for atmosphere."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "February to August. Autumn is wet and often flooded."
+    },
+    {
+      "q": "How do I get from Hue to Hoi An?",
+      "a": "By car over the Hai Van Pass, about 3 to 4 hours, or by train to Da Nang and a taxi."
+    },
+    {
+      "q": "Is the Imperial City fully restored?",
+      "a": "No. Some areas were rebuilt and others remain ruins after damage in the 1968 battle."
+    }
+  ],
+  "related": ["hoi-an", "hanoi", "phong-nha"],
+  "relatedArticles": ["unesco-worth-planning-around", "food-primer"]
+}

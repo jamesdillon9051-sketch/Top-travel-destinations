@@ -1,0 +1,305 @@
+{
+  "slug": "sapa",
+  "name": "Sapa",
+  "country": "vietnam",
+  "region": "Hoang Lien Son mountains, north-west Vietnam",
+  "categories": ["mountains", "scenic", "nature", "cultural"],
+  "tagline": "Cloud-wrapped mountains near the Chinese border, with terraced rice fields, ethnic-minority villages, homestay treks and the highest peak in Indochina.",
+  "highlight": "Trekking through the Muong Hoa Valley when the terraces turn gold in September.",
+  "shortDescription": "A former French hill station at 1,500 metres, gateway to the terraced valleys of the Hoang Lien Son range, Hmong and Red Dao villages, homestays and Fansipan, Indochina's highest peak.",
+  "metaDescription": "A Sapa travel guide: rice terrace treks, Muong Hoa Valley, Fansipan, Hmong and Red Dao villages, homestays, Bac Ha market, when to go, how to get there and a three-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Noi Bai, Hanoi (HAN), then 5–6 hours by road; Dien Bien Phu (DIN) is further",
+  "knownFor": "Rice terraces, trekking, ethnic-minority villages, Fansipan",
+  "budget": "US$35–90 per day, mid-range",
+  "goodFor": "Trekking, landscapes, homestays, culture, photography",
+  "coords": { "lat": 22.3364, "lng": 103.8438 },
+  "image": {
+    "file": "File:Rice terraces in Sapa, Vietnam.jpg",
+    "alt": "Terraced rice fields curving around a hillside in the mountains of Sapa"
+  },
+  "intro": [
+    "Sapa is a small town in the Hoang Lien Son mountains in Vietnam's far north-west, at about 1,500 metres, close to the border with China. The French discovered its cool climate in the early 20th century and built a hill station with villas and a church, much of which was later destroyed in the wars with China and France. Today it is a busy, growing tourist town of hotels, cafés and trekking agencies, surrounded by some of the finest mountain scenery in Vietnam.",
+    "The countryside around it is home to several ethnic minorities, notably the Hmong, Red Dao, Tay, Giay and Xa Pho, who farm the steep hillsides with terraces built over centuries. Rice terraces climb the slopes of the Muong Hoa Valley, and trekking between villages, with overnight stays in local homestays, is the main reason to visit. The peak of Fansipan, at 3,143 metres, is the highest mountain in Indochina, reached by a two-day trek or a cable car.",
+    "Sapa's popularity has brought change, including souvenir sellers, crowds around the closest villages and a rapid building boom. It is best to go beyond the immediate town, use local guides, and choose homestays that spread the benefit. Done well, a trek here is memorable, and the terraces at harvest time in September are among the most beautiful sights in Vietnam."
+  ],
+  "whyVisit": {
+    "intro": "Sapa offers dramatic scenery and a way of life unlike the lowlands, with excellent trekking.",
+    "points": [
+      {
+        "title": "Terraced valleys",
+        "text": "Rice terraces that turn green in summer and golden in September and October."
+      },
+      {
+        "title": "Homestay treks",
+        "text": "Walk between villages and stay with families in traditional houses."
+      },
+      {
+        "title": "Fansipan",
+        "text": "The roof of Indochina, reached on foot or by cable car."
+      },
+      {
+        "title": "Ethnic-minority cultures",
+        "text": "Hmong, Red Dao and other communities with distinctive dress and markets."
+      },
+      {
+        "title": "Cool mountain air",
+        "text": "A refreshing change from the lowland heat in summer."
+      }
+    ]
+  },
+  "attractionsIntro": "The best of Sapa is in the valleys and villages, reached on foot, with some sights near the town.",
+  "attractions": [
+    {
+      "name": "The Muong Hoa Valley and its terraces",
+      "text": "A broad valley below the town with terraced rice fields, villages such as Lao Chai and Ta Van, and a river. It is the classic trekking route, of about 10 km.",
+      "tip": "Hire a local guide from a village."
+    },
+    {
+      "name": "Fansipan",
+      "image": {
+        "file": "File:Fansipan Summit 3143m aerial view Sa Pa Lao Cai Vietnam.jpg",
+        "alt": "The summit of Fansipan with its temple complex above the clouds"
+      },
+      "text": "The highest peak in Indochina at 3,143 metres. Adventurers can climb it in two days with a guide, while a cable car from Sapa town reaches the summit area in about 20 minutes.",
+      "tip": "Clouds often cover the top, so choose a clear day."
+    },
+    {
+      "name": "Cat Cat Village",
+      "text": "A Hmong village a short walk from Sapa town, with terraced fields and handicrafts. It is close and touristy, but easy to reach.",
+      "tip": "Go early."
+    },
+    {
+      "name": "Bac Ha Sunday market",
+      "text": "A large weekly market about 3 hours from Sapa where Flower Hmong and other groups trade animals, cloth and food.",
+      "tip": "It is best visited on a Sunday, with a guide."
+    },
+    {
+      "name": "Tram Ton Pass and Silver Waterfall",
+      "text": "The highest road pass in Vietnam, with views and a waterfall nearby, about 15 km from the town.",
+      "tip": "Bring a jacket, since it is cold and misty."
+    }
+  ],
+  "thingsToDoIntro": "Sapa is for walking, and for time in the villages.",
+  "thingsToDo": [
+    {
+      "title": "Trek to a homestay",
+      "text": "Walk through terraces to a village, share dinner with a family and sleep in their house.",
+      "tip": "Book with a local guide or a reputable operator."
+    },
+    {
+      "title": "Climb Fansipan",
+      "text": "A two-day trek, or take the cable car and walk the last steps.",
+      "tip": "Bring warm clothes."
+    },
+    {
+      "title": "Visit Bac Ha market",
+      "text": "See the colourful market on a Sunday.",
+      "tip": "Go with a guide."
+    },
+    {
+      "title": "Try Hmong dishes and local rice wine",
+      "text": "Village meals of pork, vegetables and sticky rice.",
+      "tip": "Ask about the ingredients."
+    },
+    {
+      "title": "Take photographs at sunrise",
+      "text": "Terraces at dawn, with cloud in the valleys.",
+      "tip": "Take a tripod."
+    },
+    {
+      "title": "Relax in a herbal bath",
+      "text": "The Red Dao are known for medicinal herbal baths.",
+      "tip": "Ask your guesthouse."
+    }
+  ],
+  "foodIntro": "Sapa's food is mountain fare: hearty, simple and based on local produce.",
+  "foods": [
+    {
+      "name": "Thang co",
+      "text": "A Hmong stew of horse or buffalo meat and offal, cooked in a big pot.",
+      "whereToTry": "Market stalls."
+    },
+    {
+      "name": "Grilled skewers",
+      "text": "Pork, chicken and vegetables grilled over charcoal on the street.",
+      "whereToTry": "Sapa's night market."
+    },
+    {
+      "name": "Salmon and trout hotpot",
+      "text": "Cold-water fish raised in the mountains, served in a hotpot.",
+      "whereToTry": "Restaurants in town."
+    },
+    {
+      "name": "Sticky rice and bamboo rice",
+      "text": "Rice cooked in bamboo tubes.",
+      "whereToTry": "Villages and markets."
+    },
+    {
+      "name": "Corn wine",
+      "text": "Strong local spirit, made from corn or rice.",
+      "whereToTry": "Villages and homestays."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose between a comfortable hotel in Sapa town with valley views, and a homestay in a village.",
+    "areas": [
+      {
+        "name": "Sapa town",
+        "bestFor": "Convenience",
+        "text": "Hotels and restaurants, with views of the valley."
+      },
+      {
+        "name": "Muong Hoa Valley villages",
+        "bestFor": "Authentic stays",
+        "text": "Homestays and lodges in Lao Chai, Ta Van and other villages."
+      },
+      {
+        "name": "Eco-lodges",
+        "bestFor": "Comfort in the countryside",
+        "text": "Boutique lodges in the valley."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel or homestay", "value": "US$10–30 per night" },
+      { "label": "Mid-range hotel", "value": "US$40–90 per night" },
+      { "label": "Luxury lodge", "value": "US$120–300 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$3–10 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Sapa is about 320 km north-west of Hanoi, reached via Lao Cai.",
+    "options": [
+      {
+        "mode": "Bus or limousine van from Hanoi",
+        "text": "About 5 to 6 hours on the expressway to Lao Cai and the mountain road to Sapa.",
+        "detail": "Book a reputable operator."
+      },
+      {
+        "mode": "Overnight train to Lao Cai",
+        "text": "About 8 hours, with sleeper cabins, followed by a 1-hour road transfer to Sapa.",
+        "detail": "A classic route."
+      },
+      {
+        "mode": "Private car",
+        "text": "A comfortable option for a small group.",
+        "detail": "Arrange in advance."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Sapa town is compact. Villages are reached on foot or by motorbike.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The main way to see the villages.",
+        "detail": "Wear boots."
+      },
+      {
+        "mode": "Motorbike taxi",
+        "text": "Useful for reaching the trailheads.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Cable car and taxi",
+        "text": "To reach Fansipan and Tram Ton.",
+        "detail": "Book tickets ahead."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Sapa has a cool, misty climate, with cold winters and warm, wet summers.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Mild and flowering, with flooded terraces reflecting the sky."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Warm, green and wet, with landslides possible."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Golden terraces at harvest time, clear skies and cooler weather."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold and misty, with occasional frost or snow."
+      }
+    ],
+    "avoid": "The peak of the rainy season in July and August, and mist-covered weeks in winter."
+  },
+  "itinerary": {
+    "title": "Three days in Sapa",
+    "intro": "A trek to a homestay and a day on the mountain.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive and walk",
+        "summary": "Town and terraces.",
+        "morning": "Arrive in Sapa.",
+        "afternoon": "A walk to Cat Cat Village.",
+        "evening": "Dinner and a warm drink."
+      },
+      {
+        "day": 2,
+        "title": "Muong Hoa Valley trek",
+        "summary": "Terraces and a homestay.",
+        "morning": "Trek from Sapa to Lao Chai.",
+        "afternoon": "Continue to Ta Van.",
+        "evening": "A homestay dinner."
+      },
+      {
+        "day": 3,
+        "title": "Fansipan or return",
+        "summary": "The summit.",
+        "morning": "The cable car to Fansipan.",
+        "afternoon": "Return to Hanoi.",
+        "evening": "Arrive in Hanoi."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you trek respectfully and enjoyably.",
+  "tips": [
+    "Hire a local guide from a village, so that the money stays local.",
+    "Wear sturdy shoes, and bring a rain jacket, since it can be muddy.",
+    "Ask before photographing people, and do not hand out sweets or money to children.",
+    "Buy handicrafts directly from artisans.",
+    "Book Fansipan cable car tickets in advance in high season.",
+    "Pack layers, since it is cool at night in every season.",
+    "Book Hanoi transport in advance."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Sapa?",
+      "a": "Two nights is enough for a trek and a homestay. Three allows Fansipan or Bac Ha market."
+    },
+    {
+      "q": "When are the terraces at their best?",
+      "a": "September and early October, when the rice is golden. In May and June, flooded terraces mirror the sky."
+    },
+    {
+      "q": "Do I need a guide?",
+      "a": "Yes, a local guide is recommended for treks and homestays."
+    },
+    {
+      "q": "Is Sapa too touristy?",
+      "a": "The town is touristy. The valleys beyond are quieter, and treks and homestays can be authentic."
+    },
+    {
+      "q": "How do I get to Sapa?",
+      "a": "By bus, limousine or overnight train from Hanoi, about 5 to 8 hours."
+    },
+    {
+      "q": "Can I climb Fansipan?",
+      "a": "Yes, in one to two days with a guide, or by cable car."
+    }
+  ],
+  "related": ["hanoi", "ha-long-bay", "ninh-binh"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

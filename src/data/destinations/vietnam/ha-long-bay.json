@@ -1,0 +1,301 @@
+{
+  "slug": "ha-long-bay",
+  "name": "Ha Long Bay",
+  "country": "vietnam",
+  "region": "Quang Ninh, north-east Vietnam",
+  "categories": ["unesco", "nature", "coastal", "scenic"],
+  "tagline": "Nearly two thousand limestone towers rising from emerald water, best seen from the deck of a traditional junk at sunrise, with kayaks, caves and floating villages among them.",
+  "highlight": "Waking on deck to mist lifting from the karst islands.",
+  "shortDescription": "A UNESCO-listed seascape of limestone islands and hidden lagoons in the Gulf of Tonkin, explored by overnight cruise, kayak and cave, with quieter Lan Ha and Bai Tu Long bays nearby.",
+  "metaDescription": "A Ha Long Bay travel guide: overnight cruises, Lan Ha Bay, Bai Tu Long, Cat Ba Island, kayaking, caves, floating villages, how to choose a cruise, best time and a two-day plan.",
+  "suggestedStay": "2 days, 1 night on board",
+  "nearestAirport": "Van Don (VDO), or Noi Bai, Hanoi (HAN) about 2.5–3.5 hours",
+  "knownFor": "Limestone karsts, cruises, caves, kayaking, floating villages",
+  "budget": "US$100–400 per person for an overnight cruise",
+  "goodFor": "Scenery, cruising, kayaking, photography",
+  "coords": { "lat": 20.9101, "lng": 107.1839 },
+  "image": {
+    "file": "File:Ha Long Bay - Halong1407.jpg",
+    "alt": "Limestone karst islands rising from the green waters of Ha Long Bay"
+  },
+  "intro": [
+    "Ha Long Bay, in the Gulf of Tonkin, is a seascape of nearly 2,000 limestone islands and islets rising steeply from calm green water, many topped with jungle and pierced by caves and lagoons. The name means Bay of the Descending Dragon, from a legend in which a dragon family came down to defend the Vietnamese from invaders and their spitting jewels became the islands. UNESCO inscribed the bay in 1994.",
+    "It is the most visited natural attraction in Vietnam, and the standard way to see it is an overnight cruise on a wooden-style junk, with kayaking, a cave visit, a swim and a seafood dinner. The classic route, from Bai Chay near Ha Long City, is popular and busy, and many travellers prefer the quieter waters of Lan Ha Bay, south of Cat Ba Island, or Bai Tu Long Bay to the north-east.",
+    "Cruise quality varies widely, and it is worth choosing carefully. The bay is at its best in the early morning and evening, when the tour boats thin out and the mist gives the islands a painterly look."
+  ],
+  "whyVisit": {
+    "intro": "Ha Long Bay is one of the natural wonders of Southeast Asia, and worth the trip from Hanoi.",
+    "points": [
+      {
+        "title": "Extraordinary scenery",
+        "text": "Thousands of limestone towers in a sheltered bay, unlike anywhere else."
+      },
+      {
+        "title": "A night on the water",
+        "text": "Sleeping on a junk, watching the sunset and sunrise, is the highlight."
+      },
+      {
+        "title": "Kayaks and caves",
+        "text": "Paddle into hidden lagoons and explore caves such as Sung Sot."
+      },
+      {
+        "title": "Floating villages",
+        "text": "See fishing communities living on the water, though many have been resettled."
+      },
+      {
+        "title": "Quieter alternatives",
+        "text": "Lan Ha and Bai Tu Long bays offer similar scenery with fewer boats."
+      }
+    ]
+  },
+  "attractionsIntro": "The main experience is the bay itself, with a few key stops.",
+  "attractions": [
+    {
+      "name": "The karst seascape",
+      "image": {
+        "file": "File:Junk Halong Bay Vietnam.jpg",
+        "alt": "A traditional junk sailing among limestone islands in Ha Long Bay"
+      },
+      "text": "The islands and channels that form the bay, best seen from a boat at sunrise or sunset, when the light and the mist are at their best.",
+      "tip": "Spend at least one night on board."
+    },
+    {
+      "name": "Sung Sot (Surprise) Cave",
+      "text": "One of the largest caves in the bay, with three huge chambers and stalactites, on Bo Hon Island. It is a standard stop on the route.",
+      "tip": "Go early to avoid crowds."
+    },
+    {
+      "name": "Kayaking in the lagoons",
+      "text": "Paddle through low arches into hidden lagoons and around floating villages, such as at Luon Cave and Vung Vieng.",
+      "tip": "Choose small groups."
+    },
+    {
+      "name": "Cat Ba Island and Lan Ha Bay",
+      "image": {
+        "file": "File:Islands southeast of Cat Ba Island in Vietnam, 20240131 1402 4656.jpg",
+        "alt": "Karst islands southeast of Cat Ba Island in Lan Ha Bay"
+      },
+      "text": "The largest island in the bay, with a national park and beaches, and the calmer, less crowded Lan Ha Bay on its south side, with scenery as good as Ha Long.",
+      "tip": "Book a cruise starting from Cat Ba or Hai Phong."
+    },
+    {
+      "name": "Ti Top Island",
+      "text": "A small island with a beach and a viewpoint accessed by a short climb, offering a panorama over the bay.",
+      "tip": "The climb takes about 15 minutes."
+    }
+  ],
+  "thingsToDoIntro": "Most activities are organised as part of a cruise.",
+  "thingsToDo": [
+    {
+      "title": "Take an overnight cruise",
+      "text": "A junk or a modern ship takes you through the bay, with meals, activities and a cabin.",
+      "tip": "Read recent reviews on safety and cabin quality."
+    },
+    {
+      "title": "Kayak among the islands",
+      "text": "See lagoons and arches close-up, in a quiet, personal way.",
+      "tip": "Wear sun protection."
+    },
+    {
+      "title": "Do a tai chi class at sunrise",
+      "text": "Many cruises offer a morning session on the deck.",
+      "tip": "Bring a warm layer."
+    },
+    {
+      "title": "Visit a cave",
+      "text": "See the huge chambers of Sung Sot, or smaller caves off the main route.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Swim from a beach",
+      "text": "Some cruises stop at Ti Top or small beaches for a swim.",
+      "tip": "Check water quality."
+    },
+    {
+      "title": "Explore Cat Ba National Park",
+      "text": "Hiking trails, viewpoints and wildlife, including the rare golden-headed langur.",
+      "tip": "Add a night on the island."
+    }
+  ],
+  "foodIntro": "Cruise meals are typically fresh seafood and Vietnamese dishes, and the region has its own specialities.",
+  "foods": [
+    {
+      "name": "Fresh seafood",
+      "text": "Squid, prawns, crab and fish, often served as a set dinner on board.",
+      "whereToTry": "Cruises and floating restaurants."
+    },
+    {
+      "name": "Cha muc (squid cake)",
+      "text": "Pounded squid fried into bouncy patties, a Ha Long speciality.",
+      "whereToTry": "Ha Long City markets and restaurants."
+    },
+    {
+      "name": "Sa sung",
+      "text": "Sipunculid worms, dried or fried, a local delicacy.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Spring rolls",
+      "text": "Fried or fresh rolls, served at many cruise dinners.",
+      "whereToTry": "Cruise boats."
+    },
+    {
+      "name": "Fruit and tea",
+      "text": "Fresh fruit and green tea for breakfast on deck.",
+      "whereToTry": "Cruises."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors sleep on a cruise ship. Alternatively, stay on Cat Ba or in Ha Long City.",
+    "areas": [
+      {
+        "name": "On a cruise",
+        "bestFor": "The full experience",
+        "text": "Cabins on junks and modern ships, with meals included."
+      },
+      {
+        "name": "Cat Ba Town",
+        "bestFor": "Islands and hiking",
+        "text": "Hotels and guesthouses on the main island."
+      },
+      {
+        "name": "Ha Long City (Bai Chay)",
+        "bestFor": "Convenience",
+        "text": "Hotels near the cruise piers."
+      }
+    ],
+    "budget": [
+      { "label": "Budget cruise (1 night)", "value": "US$80–150 per person" },
+      { "label": "Mid-range cruise (1 night)", "value": "US$150–300 per person" },
+      { "label": "Luxury cruise (1 night)", "value": "US$300–600+ per person" },
+      { "label": "Hotel in Cat Ba or Ha Long City", "value": "US$25–100 per night" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Ha Long Bay is about 160 km east of Hanoi.",
+    "options": [
+      {
+        "mode": "Cruise transfer from Hanoi",
+        "text": "Most cruise operators include a bus or limousine transfer from Hanoi, about 2.5 to 3 hours on the expressway.",
+        "detail": "Confirm what is included."
+      },
+      {
+        "mode": "Private car or bus",
+        "text": "Buses and cars go from Hanoi to Ha Long City.",
+        "detail": "Book reputable companies."
+      },
+      {
+        "mode": "Via Hai Phong to Cat Ba",
+        "text": "About 2 hours from Hanoi to Hai Phong, then a ferry or speedboat to Cat Ba.",
+        "detail": "A good option for Lan Ha Bay."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Once in the bay, everything is by boat.",
+    "options": [
+      {
+        "mode": "Cruise boat",
+        "text": "Your cruise follows a set route.",
+        "detail": "Ask about the route in advance."
+      },
+      {
+        "mode": "Tender and kayak",
+        "text": "Small boats and kayaks reach lagoons and caves.",
+        "detail": "Life jackets are provided."
+      },
+      {
+        "mode": "Ferry",
+        "text": "Ferries link Cat Ba with Hai Phong and the mainland.",
+        "detail": "Check schedules."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–April",
+    "summary": "The bay is misty in spring and can be cold in winter, and typhoons in summer occasionally cancel cruises.",
+    "seasons": [
+      {
+        "season": "Spring (March–April)",
+        "rating": "good",
+        "text": "Warm, often misty and drizzly, with atmospheric scenery."
+      },
+      {
+        "season": "Summer (May–August)",
+        "rating": "avoid",
+        "text": "Hot and humid, with storms and typhoons."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Clear skies, warm days and calm seas."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "good",
+        "text": "Cool and misty, with fewer visitors."
+      }
+    ],
+    "avoid": "July to September, when typhoons can disrupt cruises."
+  },
+  "itinerary": {
+    "title": "Two days in Ha Long Bay",
+    "intro": "A cruise with a night on board.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Into the bay",
+        "summary": "Sail and paddle.",
+        "morning": "Transfer from Hanoi.",
+        "afternoon": "Board the cruise, and kayak in a lagoon.",
+        "evening": "Sunset and dinner on deck."
+      },
+      {
+        "day": 2,
+        "title": "Sunrise and return",
+        "summary": "Caves and back.",
+        "morning": "Tai chi and a cave visit.",
+        "afternoon": "Brunch, then return to the pier.",
+        "evening": "Back in Hanoi."
+      }
+    ]
+  },
+  "tipsIntro": "A good cruise makes a great trip, so it pays to choose with care.",
+  "tips": [
+    "Read recent reviews and check the safety record of the operator.",
+    "Compare itineraries. Some cruises spend most of the time on the water, and others on tourist stops.",
+    "Consider Lan Ha or Bai Tu Long Bay for fewer crowds.",
+    "Bring layers. It can be chilly on deck at night and in the morning.",
+    "Avoid the cheapest cruises, since quality is often poor.",
+    "Do not litter or feed wildlife.",
+    "Book ahead in October and April."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need for Ha Long Bay?",
+      "a": "One night on a cruise is the standard. Two nights allows a slower pace and quieter areas."
+    },
+    {
+      "q": "Which is better, Ha Long or Lan Ha Bay?",
+      "a": "Lan Ha has similar scenery with fewer boats, and is often preferred. Ha Long has the best-known sights."
+    },
+    {
+      "q": "Can I visit Ha Long Bay on a day trip?",
+      "a": "Yes, but the transfer takes 5 to 7 hours in all. An overnight cruise is much better."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Cruises are generally safe, but standards vary. Choose reputable operators, and check the weather."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "October to April. Summer typhoons can disrupt cruises."
+    },
+    {
+      "q": "Can I swim?",
+      "a": "Yes, at certain stops, though water quality varies."
+    }
+  ],
+  "related": ["hanoi", "ninh-binh", "sapa"],
+  "relatedArticles": ["mediterranean-coasts", "packing-by-season"]
+}

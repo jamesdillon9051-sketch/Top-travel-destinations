@@ -1,0 +1,323 @@
+{
+  "slug": "hoi-an",
+  "name": "Hoi An",
+  "country": "vietnam",
+  "region": "Central coast, near Da Nang",
+  "categories": ["unesco", "historic", "cultural", "coastal"],
+  "tagline": "A perfectly preserved trading port of yellow shophouses, silk lanterns and river reflections, with tailors, cooking classes and rice paddies on the doorstep.",
+  "highlight": "The old town at dusk, when the lanterns are lit and the river fills with candle-lit boats.",
+  "shortDescription": "A UNESCO-listed trading town of Chinese assembly halls, Japanese bridge and merchants' houses, famed for lanterns, tailors, food and its easy access to beaches and the ruins of My Son.",
+  "metaDescription": "A Hoi An travel guide: the ancient town, Japanese Covered Bridge, lantern nights, tailors, cooking classes, cao lau, An Bang beach, My Son, where to stay and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Da Nang International (DAD), about 45 minutes",
+  "knownFor": "Lantern-lit old town, tailors, food, Japanese Covered Bridge",
+  "budget": "US$45–110 per day, mid-range",
+  "goodFor": "Food, culture, cycling, shopping, a relaxed pace",
+  "coords": { "lat": 15.8801, "lng": 108.3380 },
+  "image": {
+    "file": "File:Hội An, Ancient Town, 2020-01 CN-10.jpg",
+    "alt": "Yellow-walled houses and hanging lanterns in the ancient town of Hoi An"
+  },
+  "intro": [
+    "Hoi An was a major Southeast Asian trading port from the 15th to the 19th century, where Chinese, Japanese, Dutch and European merchants came for silk, ceramics and spices. When the river silted up and the trade moved to Da Nang, the town slipped into quiet decline, and its wooden shophouses, temples and assembly halls were left largely untouched. UNESCO inscribed the ancient town in 1999.",
+    "Today the old town is a compact, largely pedestrian area of low, ochre-yellow buildings, tiled roofs and narrow lanes, with lanterns in every colour lit at night. Chinese assembly halls, merchants' houses and the famed Japanese Covered Bridge give the town its character, while restaurants, cafés and tailors fill the ground floors.",
+    "Hoi An is touristy, but it remains charming, especially early in the morning and away from the busiest lanes. Beyond the old town are rice paddies, riverside villages, the beaches of An Bang and Cua Dai, and the Cham ruins of My Son, and it is a good base for several days."
+  ],
+  "whyVisit": {
+    "intro": "Hoi An is the most beautiful town in Vietnam, and a highlight for most visitors.",
+    "points": [
+      {
+        "title": "A preserved trading town",
+        "text": "Wooden houses, assembly halls and pagodas from the 17th and 18th centuries."
+      },
+      {
+        "title": "Lantern nights",
+        "text": "The old town is lit by silk lanterns each evening, and on full-moon nights the electric lights are switched off."
+      },
+      {
+        "title": "Superb food",
+        "text": "Cao lau, white rose dumplings, banh mi and chicken rice are local specialities."
+      },
+      {
+        "title": "Tailors and crafts",
+        "text": "Made-to-measure clothes, shoes and leather goods at good prices."
+      },
+      {
+        "title": "Beaches and countryside",
+        "text": "Cycling through rice paddies, and An Bang beach five kilometres away."
+      }
+    ]
+  },
+  "attractionsIntro": "The old town is small and can be covered in a day, but its pleasures come from wandering.",
+  "attractions": [
+    {
+      "name": "The Japanese Covered Bridge",
+      "image": {
+        "file": "File:Hội An, Chùa Cầu, 2020-01 CN-02.jpg",
+        "alt": "The covered Japanese Bridge in Hoi An with its curved roof"
+      },
+      "text": "A roofed wooden bridge from the late 16th century, said to have been built by the Japanese community, with a small temple inside. It is the symbol of Hoi An.",
+      "tip": "The bridge is part of the old-town ticket."
+    },
+    {
+      "name": "Merchants' houses and assembly halls",
+      "text": "Old houses such as Tan Ky, and the Chinese assembly halls of the Fujian, Cantonese and other communities, decorated with carved wood and colourful tiles.",
+      "tip": "The old-town ticket covers a choice of sites."
+    },
+    {
+      "name": "The night market and lantern river",
+      "text": "In the evenings, the Hoai River fills with candle-lit boats and the bank with lanterns and stalls.",
+      "tip": "Go early to see the town before crowds."
+    },
+    {
+      "name": "My Son Sanctuary",
+      "image": {
+        "file": "File:Mỹ Sơn sanctuary group A.jpg",
+        "alt": "Brick towers of the Cham temple complex at My Son"
+      },
+      "text": "A UNESCO-listed complex of Hindu temples of the Cham kingdom from the 4th to 13th centuries, about 40 km from Hoi An, partly damaged by bombing in the 1960s.",
+      "tip": "Go early to avoid the heat."
+    },
+    {
+      "name": "An Bang Beach",
+      "text": "A relaxed beach about 5 km from town, with seafood restaurants and beach clubs.",
+      "tip": "Go by bicycle."
+    },
+    {
+      "name": "Cam Thanh coconut village",
+      "image": {
+        "file": "File:Basket Boat and the Bamboo forest (Unsplash).jpg",
+        "alt": "A round basket boat among the nipa palms at Cam Thanh near Hoi An"
+      },
+      "text": "A water-coconut forest where round basket boats are paddled through narrow channels.",
+      "tip": "The experience is touristy but fun."
+    }
+  ],
+  "thingsToDoIntro": "Hoi An suits slow days of walking, eating and cycling.",
+  "thingsToDo": [
+    {
+      "title": "Get clothes made",
+      "text": "Hundreds of tailors will make shirts, dresses and suits in 24 to 48 hours.",
+      "tip": "Allow time for fittings, and choose a tailor with good reviews."
+    },
+    {
+      "title": "Take a cooking class",
+      "text": "Learn to make local dishes, often after a market visit and a boat ride.",
+      "tip": "Book a morning class."
+    },
+    {
+      "title": "Cycle through the rice fields",
+      "text": "Bicycles are free at many hotels, and quiet lanes lead to villages and the beach.",
+      "tip": "Go in the early morning."
+    },
+    {
+      "title": "Float a lantern",
+      "text": "Buy a paper lantern and set it on the river at night.",
+      "tip": "Best on full-moon nights."
+    },
+    {
+      "title": "Try a craft workshop",
+      "text": "Lantern-making, pottery at Thanh Ha or woodcarving at Kim Bong.",
+      "tip": "Ask your hotel."
+    },
+    {
+      "title": "Go to the beach",
+      "text": "Swim and eat seafood at An Bang.",
+      "tip": "Swimming is best from March to August."
+    }
+  ],
+  "foodIntro": "Hoi An's food is a highlight, with several dishes found only here.",
+  "foods": [
+    {
+      "name": "Cao lau",
+      "text": "Chewy noodles with pork, greens and crisp croutons, made with local ash water.",
+      "whereToTry": "Market stalls and small restaurants."
+    },
+    {
+      "name": "White rose dumplings",
+      "text": "Delicate steamed shrimp dumplings shaped like flowers.",
+      "whereToTry": "Specialist restaurants."
+    },
+    {
+      "name": "Banh mi",
+      "text": "Hoi An's baguettes are among the best in Vietnam.",
+      "whereToTry": "Bakeries near the market."
+    },
+    {
+      "name": "Com ga (chicken rice)",
+      "text": "Rice cooked in chicken stock and topped with shredded poached chicken and herbs.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Mi quang",
+      "text": "Turmeric noodles with pork or shrimp, peanuts and rice crackers.",
+      "whereToTry": "Market stalls."
+    },
+    {
+      "name": "Fresh juice and coffee",
+      "text": "Smoothies, coconut coffee and iced Vietnamese coffee.",
+      "whereToTry": "Cafés in the old town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in or near the old town for atmosphere, or near the beach for space.",
+    "areas": [
+      {
+        "name": "Old town and around",
+        "bestFor": "Walking to everything",
+        "text": "Boutique hotels, guesthouses and homestays."
+      },
+      {
+        "name": "Countryside near the old town",
+        "bestFor": "Quiet and pools",
+        "text": "Rice-paddy hotels a short cycle from the centre."
+      },
+      {
+        "name": "An Bang and Cua Dai beach",
+        "bestFor": "The sea",
+        "text": "Beachside hotels and resorts."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel or homestay", "value": "US$15–35 per night" },
+      { "label": "Mid-range hotel", "value": "US$45–110 per night" },
+      { "label": "Luxury resort", "value": "US$150–400 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$3–10 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Hoi An has no airport or railway station, and most travellers arrive via Da Nang.",
+    "options": [
+      {
+        "mode": "Flight to Da Nang (DAD)",
+        "text": "Direct flights from Hanoi, Ho Chi Minh City and international destinations. The transfer to Hoi An takes about 45 minutes.",
+        "detail": "Use Grab or a hotel shuttle."
+      },
+      {
+        "mode": "Train to Da Nang",
+        "text": "The Reunification Express stops at Da Nang, with the scenic Hue to Da Nang stretch.",
+        "detail": "Continue by taxi or bus."
+      },
+      {
+        "mode": "From Hue over the Hai Van Pass",
+        "text": "About 4 hours by car, with stops, on the scenic coastal road.",
+        "detail": "Hire a driver for the day."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The old town is pedestrian-friendly, and bicycles are the best way to reach the countryside and beach.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The old town is small, and motor vehicles are restricted in parts.",
+        "detail": "Watch for bicycles and motorbikes."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Free or cheap at most hotels.",
+        "detail": "The best way to reach An Bang."
+      },
+      {
+        "mode": "Grab",
+        "text": "Cars and motorbikes for longer trips.",
+        "detail": "Use the app."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "February–May",
+    "summary": "Hoi An has a tropical monsoon climate, with heavy rain and occasional flooding from October to December.",
+    "seasons": [
+      {
+        "season": "Spring (February–May)",
+        "rating": "best",
+        "text": "Warm, dry and sunny, ideal for the beach and the old town."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Hot, sunny and humid."
+      },
+      {
+        "season": "Autumn (September–December)",
+        "rating": "avoid",
+        "text": "Wet, typhoon-prone and often flooded, particularly in October and November."
+      },
+      {
+        "season": "Winter (January)",
+        "rating": "good",
+        "text": "Cool and showery, with fewer visitors."
+      }
+    ],
+    "avoid": "October and November, when flooding is common and the old town can be under water."
+  },
+  "itinerary": {
+    "title": "Three days in Hoi An",
+    "intro": "The old town, a day in the countryside and a day at My Son and the coast.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town",
+        "summary": "Bridges and lanterns.",
+        "morning": "The Japanese Bridge and merchants' houses.",
+        "afternoon": "A tailor visit and lunch.",
+        "evening": "Lanterns and dinner by the river."
+      },
+      {
+        "day": 2,
+        "title": "Countryside and cooking",
+        "summary": "Rice fields and a class.",
+        "morning": "Cycle to the rice paddies and Cam Thanh.",
+        "afternoon": "A cooking class.",
+        "evening": "A last fitting, and dinner."
+      },
+      {
+        "day": 3,
+        "title": "My Son and the beach",
+        "summary": "Ruins and the sea.",
+        "morning": "The My Son Sanctuary.",
+        "afternoon": "An Bang Beach.",
+        "evening": "Farewell dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Hoi An is easy, and a few tips help.",
+  "tips": [
+    "Buy an old-town ticket, needed to enter many sites. Check rules and prices, which change.",
+    "Go early in the morning, when the old town is quiet.",
+    "Choose a tailor by reviews, and allow at least two fittings.",
+    "Check the weather in the wet season, as floods happen.",
+    "Bring cash for small shops, and carry small notes.",
+    "Visit My Son early, before the heat.",
+    "Consider staying a little outside the old town to escape the noise."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Hoi An?",
+      "a": "Three days is ideal: one for the old town, one for the countryside or a class, and one for My Son and the beach."
+    },
+    {
+      "q": "Do I need to buy a ticket for the old town?",
+      "a": "Yes, a ticket is required to enter many of the main sights. Rules and prices change, so check locally."
+    },
+    {
+      "q": "Is it worth getting clothes made?",
+      "a": "Yes, if you choose a good tailor and allow time. Quality varies, so read reviews."
+    },
+    {
+      "q": "What is the best time to visit Hoi An?",
+      "a": "February to May. Autumn is wet and prone to floods."
+    },
+    {
+      "q": "How far is Hoi An from Da Nang?",
+      "a": "About 30 km, or 45 minutes by taxi."
+    },
+    {
+      "q": "Is Hoi An crowded?",
+      "a": "It can be at midday and in the evenings. Mornings are much calmer."
+    }
+  ],
+  "related": ["hue", "ho-chi-minh-city", "phong-nha"],
+  "relatedArticles": ["food-primer", "packing-by-season"]
+}

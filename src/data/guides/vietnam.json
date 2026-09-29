@@ -1,0 +1,134 @@
+{
+  "country": "vietnam",
+  "title": "The Complete Vietnam Travel Guide",
+  "subtitle": "How the country divides, how to choose between the ten destinations, how to cover a long, narrow country, and what two weeks can realistically hold.",
+  "summary": "Vietnam is 1,650 km from top to bottom, with three distinct regions, each with its own food, climate and character. This guide covers how the regions divide, how to choose between the ten destinations, how to move around, when to go, what it costs and three routes that work.",
+  "readingTime": "13 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Should I travel north to south or south to north?",
+      "a": "Either works. North to south is the most popular, with the cool north first and the beaches later. Choose the direction that matches your flights and the season, so that you reach the centre in its dry months."
+    },
+    {
+      "q": "Is it better to fly or take the train?",
+      "a": "Fly for the long legs between Hanoi, Hue or Da Nang and Ho Chi Minh City. Trains are good for Hanoi to Ninh Binh and for the scenic Hue to Da Nang stretch."
+    },
+    {
+      "q": "Do I need to book Ha Long Bay cruises far ahead?",
+      "a": "Book a few weeks ahead for the best boats, and earlier for peak season and holidays. Read recent reviews carefully."
+    },
+    {
+      "q": "When is Tet, and how does it affect travel?",
+      "a": "Tet, the Lunar New Year, falls in late January or February. Many shops and restaurants close for several days, and transport is very crowded. Book far ahead or avoid it."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-vietnam-divides",
+      "title": "How Vietnam divides",
+      "navLabel": "The regions",
+      "body": [
+        "Vietnam is shaped like a long S, and the country splits into three regions, each with a different history, climate and cuisine.",
+        "**The north.** [[hanoi|Hanoi]] is the capital and a city of lakes, temples and French colonial villas. Around it are the limestone seascape of [[ha-long-bay|Ha Long Bay]], the river landscapes of [[ninh-binh|Ninh Binh]] and the mountain terraces of [[sapa|Sapa]].",
+        "**The centre.** [[hue|Hue]] was the imperial capital, and [[hoi-an|Hoi An]] is a former trading port on the coast. Inland, [[phong-nha|Phong Nha]] has vast caves and jungle.",
+        "**The south.** [[ho-chi-minh-city|Ho Chi Minh City]], still often called Saigon, is the largest city and commercial centre. South of it, the [[mekong-delta|Mekong Delta]] is a maze of rivers and orchards, and [[phu-quoc|Phu Quoc]] is the main beach island.",
+        "**Not covered.** The Central Highlands around Da Lat, the beaches of Nha Trang and Mui Ne, and the Ha Giang Loop in the far north are also popular, and easy to add if you have more time."
+      ],
+      "note": "Most first trips run north to south across all three regions, using two or three domestic flights to save time."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[hanoi]] with [[ha-long-bay|Ha Long Bay]] and [[ninh-binh|Ninh Binh]], or [[hue]] and [[hoi-an|Hoi An]] with a flight into Da Nang."
+        },
+        {
+          "title": "If you care about food",
+          "text": "[[hanoi]] for pho, bun cha and egg coffee, [[hoi-an|Hoi An]] for cao lau and white rose dumplings, and [[ho-chi-minh-city|Ho Chi Minh City]] for the widest choice."
+        },
+        {
+          "title": "If you like history",
+          "text": "[[hue]] for imperial Vietnam, [[hanoi]] for the old capital and [[ho-chi-minh-city|Ho Chi Minh City]] for the war story and the Cu Chi Tunnels."
+        },
+        {
+          "title": "If you want nature and adventure",
+          "text": "[[phong-nha|Phong Nha]] for caves, [[sapa]] for trekking, [[ha-long-bay|Ha Long Bay]] for kayaking and [[ninh-binh|Ninh Binh]] for boats and cycling."
+        },
+        {
+          "title": "If you want beaches and rest",
+          "text": "[[phu-quoc|Phu Quoc]] for the sea, or [[hoi-an|Hoi An]] with An Bang beach nearby."
+        },
+        {
+          "title": "If you want local life",
+          "text": "The [[mekong-delta|Mekong Delta]] for floating markets and orchards, and [[sapa]] for hill-tribe villages."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Moving around a long, narrow country",
+      "navLabel": "Getting around",
+      "body": [
+        "Vietnam's shape means that long journeys are the norm. Hanoi to Ho Chi Minh City is about 1,700 km by road, roughly 30 hours by train and two hours by air.",
+        "**Flights.** Cheap and frequent, and by far the best option for the long hops. Vietjet, Vietnam Airlines and others fly between all the main cities.",
+        "**Trains.** The Reunification Express runs the whole length of the country, with sleepers and seats. The Hue to Da Nang section has spectacular coastal views.",
+        "**Buses.** Sleeper buses and limousine vans are cheap and frequent for shorter distances, such as Hanoi to Ninh Binh or Sapa.",
+        "**Local transport.** Grab is the easiest way to get around cities, and covers cars and motorbike taxis. In Hoi An and Hue, bicycles are a delight."
+      ],
+      "note": "Traffic in Hanoi and Ho Chi Minh City is intense, and crossing the road takes practice. Walk slowly and steadily."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Vietnam's climate is complicated, and there is no single best month. Aim for the dry season in the regions you plan to visit most.",
+        "The north is best from October to April, with clear, golden days in autumn and misty, cool weather in winter. Summer is hot and rainy.",
+        "The centre is driest from February to August. Typhoons and floods hit from around October to December, and it can be wet and cool in winter.",
+        "The south is best from December to April, with dry, sunny weather. The wet season from May to October brings afternoon storms, though it can be pleasant.",
+        "Phu Quoc and the southern islands are at their best from November to April."
+      ],
+      "note": "Tet, the Lunar New Year, usually falls in late January or February, and the whole country slows down for several days."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Vietnam is one of the best-value countries in Asia. A bowl of pho costs US$1–3, a good restaurant meal US$5–15, a comfortable hotel US$30–80 and a private car with driver about US$60–100 per day.",
+        "Ha Long Bay cruises range from about US$100 to US$400 per person for an overnight trip. Domestic flights are often under US$50.",
+        "Carry cash, since many street vendors and small shops do not take cards. ATMs are plentiful, but withdrawal limits are low and fees apply.",
+        "Safety is good, but bag-snatching from motorbikes and overcharging are real problems in big cities. Keep bags on the side away from the road, and use Grab."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: the north",
+          "text": "Three nights in [[hanoi|Hanoi]], a night on [[ha-long-bay|Ha Long Bay]] and two in [[ninh-binh|Ninh Binh]]. It uses buses or trains, with no internal flights.",
+          "tip": "Fly in and out of Hanoi to avoid backtracking."
+        },
+        {
+          "title": "Ten days: Hanoi to Hoi An",
+          "text": "Hanoi, Ha Long Bay, [[hue|Hue]] and [[hoi-an|Hoi An]], with one internal flight and a scenic drive over the Hai Van Pass.",
+          "tip": "Fly Hanoi to Hue, and out of Da Nang."
+        },
+        {
+          "title": "Two weeks: north to south",
+          "text": "The itinerary on the country page: Hanoi, Ha Long Bay, Ninh Binh, Hue, Hoi An, Ho Chi Minh City and the Mekong Delta.",
+          "tip": "Add [[phu-quoc|Phu Quoc]] for beach days, or [[sapa]] and [[phong-nha|Phong Nha]] if you have a third week."
+        }
+      ]
+    }
+  ]
+}

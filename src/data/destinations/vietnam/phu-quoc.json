@@ -1,0 +1,326 @@
+{
+  "slug": "phu-quoc",
+  "name": "Phu Quoc",
+  "country": "vietnam",
+  "region": "Gulf of Thailand, southern Vietnam",
+  "categories": ["island", "coastal", "nature"],
+  "tagline": "Vietnam's largest island: white-sand beaches, warm calm water, fish-sauce factories, pepper farms and a jungle-covered interior, only a short hop from Saigon.",
+  "highlight": "Swimming off Sao Beach in calm turquoise water, then dinner at the Duong Dong night market.",
+  "shortDescription": "A tropical island in the Gulf of Thailand with long beaches, snorkelling, a national park, pepper and fish-sauce farms, night markets and a cable car to the offshore islands.",
+  "metaDescription": "A Phu Quoc travel guide: Sao Beach, Long Beach, Duong Dong night market, Hon Thom cable car, pepper farms, fish sauce, snorkelling, best time, how to get there and a four-day plan.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Phu Quoc International (PQC), about 10 minutes from Duong Dong",
+  "knownFor": "Beaches, seafood, fish sauce, snorkelling, sunsets",
+  "budget": "US$50–130 per day, mid-range",
+  "goodFor": "Beaches, relaxing, snorkelling, seafood, families",
+  "coords": { "lat": 10.2899, "lng": 103.9840 },
+  "image": {
+    "file": "File:1 Phu Quoc sunset.jpg",
+    "alt": "The sun setting over the sea at a beach on Phu Quoc island"
+  },
+  "intro": [
+    "Phu Quoc is Vietnam's largest island, about 45 km long, lying in the Gulf of Thailand, closer to Cambodia than to the Vietnamese mainland. Its interior is covered with forest, much of it a national park, and its western coast has long sandy beaches facing the sunset. For decades it was a quiet place of fishing villages and plantations, and it has become the country's leading beach resort, with big resorts, a new international airport and a growing list of attractions.",
+    "The island is still known for its traditional industries. Its fish sauce, made by fermenting anchovies in large wooden barrels, is prized across Vietnam and protected by an EU geographical indication. Black pepper farms, pearl farms and a local breed of dog, the Phu Quoc ridgeback, are other symbols. Night markets in Duong Dong sell seafood, and the south of the island has fishing communities and offshore islands.",
+    "Development has been rapid, and some of the best-known beaches now have resorts and traffic, but there are still quieter corners, particularly in the north and the south-east. It is a good place for a few days of rest at the end of a Vietnam trip, particularly in the dry season."
+  ],
+  "whyVisit": {
+    "intro": "Phu Quoc is the easiest place in Vietnam for a beach holiday, with a mix of resorts and rustic corners.",
+    "points": [
+      {
+        "title": "Beautiful beaches",
+        "text": "Sao Beach, Long Beach, Ong Lang and others offer fine sand and calm water."
+      },
+      {
+        "title": "Snorkelling and boat trips",
+        "text": "The An Thoi islands in the south have coral reefs and clear water."
+      },
+      {
+        "title": "Seafood and night markets",
+        "text": "Fresh fish, squid and crab at low prices."
+      },
+      {
+        "title": "Local products",
+        "text": "Fish sauce, pepper, pearls and honey."
+      },
+      {
+        "title": "Nature",
+        "text": "A national park with forest trails and waterfalls."
+      }
+    ]
+  },
+  "attractionsIntro": "The island is spread out, and the sights are best combined by area.",
+  "attractions": [
+    {
+      "name": "Sao Beach",
+      "image": {
+        "file": "File:Bai-sao-phu-quoc-tuonglamphotos.jpg",
+        "alt": "White sand and turquoise water at Sao Beach on Phu Quoc"
+      },
+      "text": "The island's most beautiful beach, on the south-east coast, with soft white sand and calm, clear water.",
+      "tip": "Go on a weekday, and arrive early."
+    },
+    {
+      "name": "Long Beach and Duong Dong",
+      "text": "A long strip of sand on the west coast, with resorts, restaurants and the main town, and the Dinh Cau night market.",
+      "tip": "Stay for sunset."
+    },
+    {
+      "name": "Dinh Cau Night Market",
+      "image": {
+        "file": "File:Dinh Cau Night Market - panoramio.jpg",
+        "alt": "Stalls at the Dinh Cau Night Market in Duong Dong, Phu Quoc"
+      },
+      "text": "A nightly market with seafood stalls, souvenirs and local snacks, beside the Dinh Cau temple.",
+      "tip": "Check prices before you order."
+    },
+    {
+      "name": "Hon Thom Cable Car",
+      "image": {
+        "file": "File:Hon Thom Cable Car aerial view Phu Quoc Island Vietnam.jpg",
+        "alt": "The Hon Thom cable car crossing the sea from Phu Quoc"
+      },
+      "text": "One of the longest sea-crossing cable cars in the world, from An Thoi to Hon Thom island, with a water park and views.",
+      "tip": "Go in the morning."
+    },
+    {
+      "name": "The southern islands",
+      "text": "The An Thoi archipelago, with snorkelling and diving among coral reefs, reached by boat tours.",
+      "tip": "Book a tour with a good operator."
+    },
+    {
+      "name": "Fish sauce factories and pepper farms",
+      "text": "Visit the barrels of fermenting fish sauce and the peppercorn plantations in the north.",
+      "tip": "Buy directly from producers."
+    }
+  ],
+  "thingsToDoIntro": "Phu Quoc is for the beach first, and for day trips second.",
+  "thingsToDo": [
+    {
+      "title": "Snorkel or dive",
+      "text": "Coral reefs and clear water off the An Thoi islands.",
+      "tip": "Best from November to April."
+    },
+    {
+      "title": "Eat seafood at the night market",
+      "text": "Grilled squid, prawns and fish.",
+      "tip": "Check prices and weights."
+    },
+    {
+      "title": "Watch the sunset",
+      "text": "The west coast is ideal, with beach bars and restaurants.",
+      "tip": "Bring a jacket for the breeze."
+    },
+    {
+      "title": "Visit a fish sauce factory",
+      "text": "See how the sauce is made, and taste it.",
+      "tip": "Buy a bottle to take home."
+    },
+    {
+      "title": "Explore the national park",
+      "text": "Forest trails, waterfalls and viewpoints in the north.",
+      "tip": "Wear good shoes."
+    },
+    {
+      "title": "Take a squid-fishing trip",
+      "text": "An evening trip to fish for squid with lights.",
+      "tip": "Book through your hotel."
+    }
+  ],
+  "foodIntro": "Phu Quoc's food is seafood and fish sauce, with a range of local specialities.",
+  "foods": [
+    {
+      "name": "Grilled seafood",
+      "text": "Squid, crab, prawns, scallops and fish, cooked to order.",
+      "whereToTry": "The night market and beach restaurants."
+    },
+    {
+      "name": "Bun quay",
+      "text": "Fresh noodles in a broth with fish, a Phu Quoc speciality.",
+      "whereToTry": "Restaurants in Duong Dong."
+    },
+    {
+      "name": "Herring salad (goi ca trich)",
+      "text": "Raw herring with coconut, herbs and peanuts.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Sea urchin and sea snails",
+      "text": "Fresh shellfish grilled with spring onions.",
+      "whereToTry": "Night market."
+    },
+    {
+      "name": "Sim wine and pepper",
+      "text": "Wine made from rose myrtle, and local black pepper.",
+      "whereToTry": "Shops and farms."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose the coast that suits you. The west has the most choice, and the south-east is quieter.",
+    "areas": [
+      {
+        "name": "Long Beach",
+        "bestFor": "Restaurants and sunsets",
+        "text": "Hotels, resorts and beach bars, near Duong Dong."
+      },
+      {
+        "name": "Ong Lang and the north-west",
+        "bestFor": "Quiet beaches",
+        "text": "Boutique resorts and bungalows."
+      },
+      {
+        "name": "South-east (Sao Beach and Bai Khem)",
+        "bestFor": "The best beaches",
+        "text": "Luxury resorts and quieter stays."
+      }
+    ],
+    "budget": [
+      { "label": "Budget bungalow", "value": "US$15–40 per night" },
+      { "label": "Mid-range hotel or resort", "value": "US$50–130 per night" },
+      { "label": "Luxury resort", "value": "US$160–500 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$3–12 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Phu Quoc is reached by air, or by ferry from the mainland.",
+    "options": [
+      {
+        "mode": "Flight to Phu Quoc (PQC)",
+        "text": "Direct flights from Ho Chi Minh City (about 1 hour), Hanoi and other cities, and some international routes.",
+        "detail": "The airport is close to Duong Dong."
+      },
+      {
+        "mode": "Ferry from Rach Gia or Ha Tien",
+        "text": "About 2 to 3 hours by ferry from mainland ports in the Mekong Delta.",
+        "detail": "Combine with a delta trip."
+      },
+      {
+        "mode": "From Cambodia",
+        "text": "Via Ha Tien, near the Cambodian border, and then by ferry.",
+        "detail": "Check visa requirements."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The island is large, and a scooter or taxi is needed.",
+    "options": [
+      {
+        "mode": "Scooter",
+        "text": "The most popular way to explore.",
+        "detail": "Wear a helmet, and check insurance."
+      },
+      {
+        "mode": "Taxi and Grab",
+        "text": "Available around the main areas.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Tours and resort shuttles",
+        "text": "Most resorts arrange transfers and day trips.",
+        "detail": "Ask your hotel."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–April",
+    "summary": "Phu Quoc has a tropical climate, with a dry season from November to April and a wet season with rough seas from May to October.",
+    "seasons": [
+      {
+        "season": "Dry season (November–February)",
+        "rating": "best",
+        "text": "Sunny, dry, calm seas and clear water."
+      },
+      {
+        "season": "Hot season (March–April)",
+        "rating": "best",
+        "text": "Hot and dry, with warm seas."
+      },
+      {
+        "season": "Wet season (May–October)",
+        "rating": "avoid",
+        "text": "Heavy rain, rougher seas and some closures. Green and cheap."
+      },
+      {
+        "season": "Tet (January or February)",
+        "rating": "quiet",
+        "text": "Busy with domestic tourists."
+      }
+    ],
+    "avoid": "August to October, the wettest months, when the sea is rough and murky."
+  },
+  "itinerary": {
+    "title": "Four days in Phu Quoc",
+    "intro": "Beach days with a mix of tours and markets.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive and relax",
+        "summary": "Beach and sunset.",
+        "morning": "Arrive and check in.",
+        "afternoon": "Long Beach.",
+        "evening": "Dinner at the night market."
+      },
+      {
+        "day": 2,
+        "title": "The south",
+        "summary": "Islands and cable car.",
+        "morning": "Hon Thom cable car.",
+        "afternoon": "Snorkelling in the An Thoi islands.",
+        "evening": "Sunset dinner."
+      },
+      {
+        "day": 3,
+        "title": "The north",
+        "summary": "Pepper, sauce and nature.",
+        "morning": "A pepper farm and fish sauce factory.",
+        "afternoon": "The national park.",
+        "evening": "A rest."
+      },
+      {
+        "day": 4,
+        "title": "Sao Beach",
+        "summary": "A last swim.",
+        "morning": "Sao Beach.",
+        "afternoon": "A lazy lunch.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan the island.",
+  "tips": [
+    "Visit in the dry season, from November to April.",
+    "Rent a scooter only if you have experience, a licence and insurance.",
+    "Choose the beach area carefully, as they differ a lot.",
+    "Check prices at seafood stalls before ordering.",
+    "Book snorkelling tours with reputable operators.",
+    "Bring reef-safe sunscreen.",
+    "Buy fish sauce and pepper from producers."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Phu Quoc?",
+      "a": "Three or four days for beaches and the main attractions."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "November to April. The wet season has rougher seas."
+    },
+    {
+      "q": "Which beach is best?",
+      "a": "Sao Beach for beauty, Long Beach for services, and Ong Lang for quiet."
+    },
+    {
+      "q": "Is Phu Quoc worth visiting?",
+      "a": "Yes, for a beach break, though it is more developed than it used to be."
+    },
+    {
+      "q": "Can I visit from Ho Chi Minh City?",
+      "a": "Yes, about one hour by air."
+    },
+    {
+      "q": "Is it safe to ride a scooter?",
+      "a": "Roads are quiet outside the main areas, but accidents are common. Take care and wear a helmet."
+    }
+  ],
+  "related": ["ho-chi-minh-city", "mekong-delta", "hoi-an"],
+  "relatedArticles": ["mediterranean-coasts", "packing-by-season"]
+}
