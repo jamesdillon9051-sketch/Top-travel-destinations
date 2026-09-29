@@ -1,0 +1,323 @@
+{
+  "slug": "kerala-backwaters-kochi",
+  "name": "Kerala: Backwaters and Kochi",
+  "shortName": "Kerala",
+  "country": "india",
+  "region": "Kerala, south-western India",
+  "categories": ["nature", "scenic", "cultural", "coastal"],
+  "tagline": "A green, laid-back coast of palm-fringed backwaters, spice hills, old Portuguese and Dutch trading quarters and one of India's best regional cuisines.",
+  "highlight": "A dawn canoe ride on a quiet backwater canal, with kingfishers on the palms and village life waking up.",
+  "shortDescription": "Kerala's slow, watery landscapes: houseboats and canoes on the Alleppey backwaters, the historic port of Fort Kochi, the tea hills of Munnar and a rich food and dance heritage.",
+  "metaDescription": "A Kerala travel guide: the Alleppey backwaters and houseboats, Fort Kochi, Chinese fishing nets, Kathakali, Munnar tea hills, Kerala food, Ayurveda, when to go and a four-day plan.",
+  "suggestedStay": "4 days",
+  "nearestAirport": "Cochin International (COK), about 45 minutes from Kochi",
+  "knownFor": "Backwaters, houseboats, Fort Kochi, tea hills, Ayurveda, seafood",
+  "budget": "US$45–120 per day, mid-range",
+  "goodFor": "Relaxing, nature, food, culture, a gentler India",
+  "coords": { "lat": 9.4981, "lng": 76.3388 },
+  "image": {
+    "file": "File:Houseboat on Alleppey backwaters (Kerala, India 2023) (52703799562).jpg",
+    "alt": "A traditional houseboat on the palm-lined backwaters near Alleppey in Kerala"
+  },
+  "intro": [
+    "Kerala is a narrow strip of land on India's south-western coast, between the Arabian Sea and the Western Ghats. Its long trading history brought Arab, Chinese, Portuguese, Dutch, British and Jewish merchants to its ports, and the mix of influences shows in its architecture, food and religion. Hindus, Muslims and Christians live side by side, and the state has some of the highest literacy and health indicators in India.",
+    "The backwaters, a network of lagoons, canals and rivers running behind the coast for hundreds of kilometres, are the region's signature. Around Alleppey (Alappuzha) and Kumarakom, villages, rice paddies and coconut groves line the water, and life moves by boat. A night on a traditional houseboat, or a day in a canoe, is the standard way to experience it.",
+    "Kochi (Cochin) is the gateway. Its old quarter, Fort Kochi, has Portuguese and Dutch buildings, a 16th-century synagogue, art galleries and the famous cantilevered Chinese fishing nets. In the hills inland, Munnar's tea plantations offer cool air and views. Kerala is the easiest and calmest part of India for a first visit, and a natural counterpart to the north."
+  ],
+  "whyVisit": {
+    "intro": "Kerala offers a slower, greener India, with excellent food and easy travel.",
+    "points": [
+      {
+        "title": "The backwaters",
+        "text": "A maze of canals and lagoons, best seen from a small boat or a canoe."
+      },
+      {
+        "title": "Fort Kochi",
+        "text": "Colonial buildings, galleries and cafés in an atmospheric old port."
+      },
+      {
+        "title": "Tea hills and spices",
+        "text": "Munnar's rolling plantations and the spice gardens near Thekkady."
+      },
+      {
+        "title": "Superb food",
+        "text": "Coconut-based curries, fresh seafood, appam and banana-leaf meals."
+      },
+      {
+        "title": "Living traditions",
+        "text": "Kathakali dance-drama, temple festivals and Ayurvedic treatment."
+      }
+    ]
+  },
+  "attractionsIntro": "A typical trip runs from Kochi to the backwaters, with an optional detour to the hills.",
+  "attractions": [
+    {
+      "name": "The Alleppey backwaters",
+      "text": "The heart of the backwater region, with canals and lagoons around Alleppey and the huge Vembanad Lake. Houseboats, shared ferries and canoes all travel through them.",
+      "tip": "Choose a small canal in the early morning, when it is calm."
+    },
+    {
+      "name": "The Chinese fishing nets, Fort Kochi",
+      "image": {
+        "file": "File:Sunset with Chinese Fishing Nets, Fort Kochi 2.jpg",
+        "alt": "Chinese fishing nets silhouetted at sunset in Fort Kochi"
+      },
+      "text": "Huge cantilevered nets, lowered into the water by teams of fishermen, along the waterfront at Fort Kochi. They are traditionally linked to Chinese traders, and are best at sunset.",
+      "tip": "Buy fresh fish and have it cooked nearby."
+    },
+    {
+      "name": "Jew Town and the Paradesi Synagogue",
+      "text": "A quarter of antique shops and spice warehouses in Mattancherry, with a synagogue dating from 1568, one of the oldest in the Commonwealth, decorated with blue Chinese tiles.",
+      "tip": "Check opening days, as it is closed on Saturdays."
+    },
+    {
+      "name": "Mattancherry Palace and St. Francis Church",
+      "text": "A Portuguese-built palace with Kerala murals, and one of the oldest European churches in India, where Vasco da Gama was first buried in 1524.",
+      "tip": "See both in the same morning."
+    },
+    {
+      "name": "Munnar tea plantations",
+      "image": {
+        "file": "File:Munnar - Tea Plantations.jpg",
+        "alt": "Rolling green tea plantations in the hills around Munnar"
+      },
+      "text": "A hill station at about 1,500 metres in the Western Ghats, surrounded by tea estates, waterfalls and viewpoints. It is about 4 hours by road from Kochi.",
+      "tip": "Allow at least one night."
+    }
+  ],
+  "thingsToDoIntro": "Kerala is for slowing down, and for time on and beside the water.",
+  "thingsToDo": [
+    {
+      "title": "Stay on a houseboat",
+      "text": "A converted kettuvallam, a traditional rice barge, with a crew and cook, drifts through the backwaters.",
+      "tip": "Choose a licensed boat and check the type of fuel and waste practices."
+    },
+    {
+      "title": "Take a canoe trip",
+      "text": "A small boat can reach narrow canals that big houseboats cannot, past homes, rice fields and temples.",
+      "tip": "Go early in the morning."
+    },
+    {
+      "title": "Watch a Kathakali performance",
+      "text": "A traditional dance-drama with elaborate make-up and costumes, based on epics.",
+      "tip": "Arrive early to watch the make-up."
+    },
+    {
+      "title": "Try an Ayurvedic massage",
+      "text": "Kerala is a centre for Ayurveda, with treatments from short massages to multi-week programmes.",
+      "tip": "Choose accredited centres."
+    },
+    {
+      "title": "Visit a spice plantation",
+      "text": "See pepper, cardamom, cinnamon and vanilla growing, near Thekkady and Munnar.",
+      "tip": "Buy spices directly."
+    },
+    {
+      "title": "Take a ferry",
+      "text": "A public ferry from Alleppey to Kottayam offers a cheap backwater trip of a few hours.",
+      "tip": "Check the schedule."
+    }
+  ],
+  "foodIntro": "Kerala's cuisine relies on coconut, curry leaves, pepper, seafood and rice, and it is one of the best in India.",
+  "foods": [
+    {
+      "name": "Appam and stew",
+      "text": "A lacy rice-flour pancake with a soft centre, eaten with a mild coconut milk stew of vegetables or chicken.",
+      "whereToTry": "Breakfast in homestays and restaurants."
+    },
+    {
+      "name": "Kerala fish curry",
+      "text": "Fish cooked in a sour, spicy sauce with coconut milk and kokum, often in a clay pot.",
+      "whereToTry": "Toddy shops and local restaurants."
+    },
+    {
+      "name": "Sadya",
+      "text": "A vegetarian feast served on a banana leaf, with more than 20 dishes, at festivals such as Onam.",
+      "whereToTry": "Restaurants and homes during Onam."
+    },
+    {
+      "name": "Karimeen pollichathu",
+      "text": "Pearl spot fish marinated in spices, wrapped in banana leaf and grilled.",
+      "whereToTry": "Backwater restaurants."
+    },
+    {
+      "name": "Puttu and kadala curry",
+      "text": "Steamed cylinders of rice flour and coconut with a black chickpea curry.",
+      "whereToTry": "Breakfast stalls."
+    },
+    {
+      "name": "Toddy",
+      "text": "A mild palm sap alcohol, sold in licensed toddy shops with spicy food.",
+      "whereToTry": "Toddy shops near Alleppey."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Fort Kochi for its atmosphere, and choose a houseboat or a homestay for the backwaters.",
+    "areas": [
+      {
+        "name": "Fort Kochi",
+        "bestFor": "Heritage and cafés",
+        "text": "Restored colonial houses and small hotels."
+      },
+      {
+        "name": "Alleppey and Kumarakom",
+        "bestFor": "Backwaters",
+        "text": "Houseboats, resorts and homestays by the water."
+      },
+      {
+        "name": "Munnar",
+        "bestFor": "Tea hills and cool air",
+        "text": "Plantation bungalows and hill resorts."
+      }
+    ],
+    "budget": [
+      { "label": "Budget homestay", "value": "US$15–40 per night" },
+      { "label": "Mid-range hotel or houseboat", "value": "US$60–150 per night" },
+      { "label": "Luxury heritage hotel or houseboat", "value": "US$200–500 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$4–12 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Kochi is the main gateway to Kerala, with an international airport and rail links.",
+    "options": [
+      {
+        "mode": "Flight to Cochin (COK)",
+        "text": "Direct flights from Delhi, Mumbai, Bengaluru, and some Gulf and international cities.",
+        "detail": "The airport is about 45 minutes from Fort Kochi."
+      },
+      {
+        "mode": "Train",
+        "text": "Long-distance trains reach Ernakulam Junction from Mumbai, Bengaluru and Chennai.",
+        "detail": "Book well ahead."
+      },
+      {
+        "mode": "Road to Alleppey",
+        "text": "About 1 hour 30 minutes to 2 hours from Kochi by car or bus.",
+        "detail": "Trains and buses run frequently."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Kerala's compact size makes it easy to move between the main places by road, train or boat.",
+    "options": [
+      {
+        "mode": "Taxi or driver",
+        "text": "The easiest way to link Kochi, Alleppey and Munnar.",
+        "detail": "Agree the itinerary and price."
+      },
+      {
+        "mode": "Trains and buses",
+        "text": "Frequent services on the coast.",
+        "detail": "Buses are cheap, and trains are comfortable."
+      },
+      {
+        "mode": "Ferries and boats",
+        "text": "Public ferries in Kochi and on the backwaters.",
+        "detail": "Very cheap."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–March",
+    "summary": "Kerala is tropical, with a strong monsoon from June to September.",
+    "seasons": [
+      {
+        "season": "Winter (November–February)",
+        "rating": "best",
+        "text": "Warm, dry and pleasant. Peak season."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "good",
+        "text": "Hot and humid, cooler in the hills."
+      },
+      {
+        "season": "Monsoon (June–September)",
+        "rating": "quiet",
+        "text": "Heavy rain, lush landscapes and cheaper rates. Popular for Ayurveda."
+      },
+      {
+        "season": "Post-monsoon (October–November)",
+        "rating": "good",
+        "text": "Green and warm, with showers."
+      }
+    ],
+    "avoid": "The heaviest monsoon weeks in July if you want to be outdoors."
+  },
+  "itinerary": {
+    "title": "Four days in Kerala",
+    "intro": "Kochi's heritage first, then the backwaters, and a rest.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Fort Kochi",
+        "summary": "Heritage and a sunset.",
+        "morning": "Arrive and walk Fort Kochi.",
+        "afternoon": "Jew Town, Mattancherry and St. Francis Church.",
+        "evening": "The Chinese fishing nets and a Kathakali show."
+      },
+      {
+        "day": 2,
+        "title": "To the backwaters",
+        "summary": "A houseboat afternoon.",
+        "morning": "Drive to Alleppey.",
+        "afternoon": "Board a houseboat.",
+        "evening": "Dinner on board."
+      },
+      {
+        "day": 3,
+        "title": "Dawn on the canals",
+        "summary": "Canoes and villages.",
+        "morning": "A canoe trip at dawn.",
+        "afternoon": "A village walk.",
+        "evening": "A rest, or a beach at Marari."
+      },
+      {
+        "day": 4,
+        "title": "Munnar or return",
+        "summary": "Hills or home.",
+        "morning": "Drive to Munnar, or return to Kochi.",
+        "afternoon": "Tea plantations, or shopping.",
+        "evening": "Depart or stay in the hills."
+      }
+    ]
+  },
+  "tipsIntro": "A few things help you enjoy Kerala.",
+  "tips": [
+    "Choose a small houseboat, or a canoe, for a quieter experience.",
+    "Check that a houseboat is licensed, and ask about waste disposal.",
+    "Carry insect repellent for the evenings on the water.",
+    "Try a banana-leaf meal at a local restaurant.",
+    "Dress modestly at temples, and ask before entering.",
+    "Carry a rain jacket, even outside the monsoon.",
+    "Book Munnar accommodation in advance in high season."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Kerala?",
+      "a": "Four days for Kochi and the backwaters, and six or seven if you add Munnar and the beaches."
+    },
+    {
+      "q": "Are houseboats worth it?",
+      "a": "For one night, yes, for the experience. Big, crowded houseboats can be less pleasant than small boats or canoes."
+    },
+    {
+      "q": "What is the best time to visit Kerala?",
+      "a": "October to March. The monsoon is wet but green, and popular for Ayurveda."
+    },
+    {
+      "q": "Is Kerala safe?",
+      "a": "It is considered one of the safest and calmest parts of India."
+    },
+    {
+      "q": "Is Kerala vegetarian?",
+      "a": "No. Seafood, chicken and beef are all eaten, though there are excellent vegetarian dishes."
+    },
+    {
+      "q": "Do I need to worry about the monsoon?",
+      "a": "It brings heavy rain and some travel disruption, but many visitors enjoy the green landscapes and quiet."
+    }
+  ],
+  "related": ["goa", "hampi", "mumbai"],
+  "relatedArticles": ["food-primer", "packing-by-season"]
+}

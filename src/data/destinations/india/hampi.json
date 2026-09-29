@@ -1,0 +1,318 @@
+{
+  "slug": "hampi",
+  "name": "Hampi",
+  "country": "india",
+  "region": "Karnataka, southern India",
+  "categories": ["unesco", "archaeological", "historic", "scenic"],
+  "tagline": "The ruined capital of the Vijayanagara Empire, scattered among giant granite boulders, banana fields and a river: temples, bazaars and royal enclosures in a surreal landscape.",
+  "highlight": "Sunrise from Matanga Hill, with the boulders and temple towers glowing across the valley.",
+  "shortDescription": "A UNESCO-listed archaeological landscape of temples, palaces and markets from the 14th to 16th centuries, with a living temple town, river crossings and a rocky, otherworldly setting.",
+  "metaDescription": "A Hampi travel guide: Virupaksha Temple, Vittala Temple and the stone chariot, Matanga Hill, the Royal Enclosure, Anegundi, coracle rides, when to go, how to get there and a three-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Vidyanagar (VDY), about 40 km; Hubballi (HBX) and Bengaluru (BLR) are further",
+  "knownFor": "The Vijayanagara ruins, boulders, temples, the stone chariot, a relaxed backpacker scene",
+  "budget": "US$30–80 per day, mid-range",
+  "goodFor": "Archaeology, cycling, sunsets, quiet exploration, a gentle pace",
+  "coords": { "lat": 15.3350, "lng": 76.4600 },
+  "image": {
+    "file": "File:Hampi - Hemakuta Hill, Virupaksha Temple.jpg",
+    "alt": "The gopuram of the Virupaksha Temple rising among boulders on Hemakuta Hill in Hampi"
+  },
+  "intro": [
+    "Hampi was the capital of the Vijayanagara Empire, the great Hindu kingdom that dominated southern India from the 14th to the 16th century. At its height, in the early 1500s, its capital was one of the largest cities in the world, with markets full of pearls and diamonds, according to foreign visitors. In 1565 the armies of the Deccan sultanates defeated the empire at the Battle of Talikota, and Hampi was sacked and abandoned over several months.",
+    "The ruins spread across some 25 square kilometres of a landscape of huge granite boulders, banana and rice fields and the Tungabhadra river. The site holds temples, royal enclosures, water tanks, elephant stables, stepwells and market streets, more than 1,600 monuments in all. UNESCO listed it in 1986. Unlike most ruined cities, one part, the Virupaksha Temple, is still a place of worship, and the village of Hampi Bazaar has tea shops and guesthouses among the old stones.",
+    "Hampi is one of the most atmospheric places in India, and a favourite of backpackers and photographers. It is best explored slowly, by bicycle or scooter, with time for sunrise and sunset viewpoints. It is also relatively free of the hassle that comes with the Golden Triangle, and a good place to slow down."
+  ],
+  "whyVisit": {
+    "intro": "Hampi is a unique combination of archaeology and landscape, and one of the great historical sites of India.",
+    "points": [
+      {
+        "title": "A vanished empire",
+        "text": "Temples, palaces and markets of a city that was among the richest in the world."
+      },
+      {
+        "title": "A strange landscape",
+        "text": "Enormous boulders piled on hills, and lush green fields between them."
+      },
+      {
+        "title": "Exceptional sculpture",
+        "text": "The stone chariot and the musical pillars at Vittala Temple are outstanding."
+      },
+      {
+        "title": "A living temple",
+        "text": "The Virupaksha Temple is still in daily use, with pilgrims, priests and daily rituals."
+      },
+      {
+        "title": "Slow travel",
+        "text": "Cycling, coracle rides and sunset viewpoints suit the pace."
+      }
+    ]
+  },
+  "attractionsIntro": "The monuments fall into two areas: the sacred centre around Hampi Bazaar and the royal centre to the south. Give each half a day.",
+  "attractions": [
+    {
+      "name": "The Virupaksha Temple",
+      "image": {
+        "file": "File:Complex of Virupaksha Temple, Hampi (04).jpg",
+        "alt": "The gateway tower of the Virupaksha Temple complex in Hampi"
+      },
+      "text": "A temple to Shiva dating from at least the 7th century, and still active, with a towering gateway at the end of the main bazaar street. It survived the sack of the city.",
+      "tip": "Go in the morning, when the rituals are under way."
+    },
+    {
+      "name": "The Vittala Temple",
+      "image": {
+        "file": "File:Iconic Stone Chariot @ Vittala Temple, Hampi, Karnataka.jpg",
+        "alt": "The stone chariot shrine in the courtyard of the Vittala Temple at Hampi"
+      },
+      "text": "The masterpiece of Vijayanagara architecture, with an ornately carved stone chariot in its courtyard and a hall of pillars that once produced musical notes when tapped. Tapping is now prohibited to protect them.",
+      "tip": "Go early, and note that entry is ticketed."
+    },
+    {
+      "name": "The Royal Enclosure",
+      "text": "The palace precinct in the south, with the Lotus Mahal, the elephant stables, the Queen's Bath and the great platform of the Mahanavami Dibba.",
+      "tip": "A combined ticket covers several sites."
+    },
+    {
+      "name": "Matanga Hill",
+      "image": {
+        "file": "File:Hampi, India, Rocky landscape of Hampi, Granite rocks of Matanga Hill.jpg",
+        "alt": "The rocky landscape of Hampi seen from Matanga Hill with granite boulders and green fields"
+      },
+      "text": "The highest hill in the area, about 20 minutes to climb, with a panorama of the ruins and river at sunrise.",
+      "tip": "Bring a torch for the climb in the dark."
+    },
+    {
+      "name": "Hemakuta Hill",
+      "text": "A hill near the Virupaksha Temple with early Jain and Shiva shrines, and one of the best sunset spots.",
+      "tip": "Go at sunset."
+    },
+    {
+      "name": "Anegundi and the Tungabhadra",
+      "text": "The village across the river, reached by coracle boat, with older ruins, a hilltop Hanuman temple and quiet rural scenery.",
+      "tip": "Cross by coracle, and take a bicycle."
+    }
+  ],
+  "thingsToDoIntro": "Hampi is best explored slowly, on two wheels or on foot.",
+  "thingsToDo": [
+    {
+      "title": "Cycle among the ruins",
+      "text": "Bicycles are the ideal way to move between the monuments, and can be rented in the village.",
+      "tip": "Start early, and carry water."
+    },
+    {
+      "title": "Watch sunrise from Matanga Hill",
+      "text": "Climb the hill before dawn for a view over the ruins and river.",
+      "tip": "Go with a torch."
+    },
+    {
+      "title": "Ride a coracle",
+      "text": "Round wicker boats, covered in leather or plastic, ferry people across the river.",
+      "tip": "Agree the price."
+    },
+    {
+      "title": "Try bouldering at Hampi Island",
+      "text": "The boulders across the river are famous for rock climbing.",
+      "tip": "Go with an experienced local guide."
+    },
+    {
+      "title": "Visit the Archaeological Museum",
+      "text": "A small museum at Kamalapura that gives useful context to the site.",
+      "tip": "Go before the ruins."
+    },
+    {
+      "title": "Relax in a riverside café",
+      "text": "Hampi's cafés serve simple food with views of the temples.",
+      "tip": "Try the local thali."
+    }
+  ],
+  "foodIntro": "Hampi's food is simple South Indian and traveller fare. The area near the temple is largely vegetarian.",
+  "foods": [
+    {
+      "name": "South Indian breakfast",
+      "text": "Idli, dosa and vada with sambar and chutney.",
+      "whereToTry": "Local cafés."
+    },
+    {
+      "name": "Thali",
+      "text": "A rice and curry meal served on a banana leaf or metal plate.",
+      "whereToTry": "Restaurants in Hampi Bazaar."
+    },
+    {
+      "name": "North Karnataka meals",
+      "text": "Jolada rotti (sorghum bread) with spicy curries.",
+      "whereToTry": "Local restaurants in Hospet."
+    },
+    {
+      "name": "Fresh fruit",
+      "text": "Bananas from the local fields, sold everywhere.",
+      "whereToTry": "Stalls."
+    },
+    {
+      "name": "Chai and lassi",
+      "text": "Refreshments at tea stalls.",
+      "whereToTry": "Hampi Bazaar."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose between the atmosphere of Hampi village, the peace of the river's north bank, and the comforts of Hospet.",
+    "areas": [
+      {
+        "name": "Hampi Bazaar",
+        "bestFor": "Walking distance to the temple",
+        "text": "Simple guesthouses and cafés."
+      },
+      {
+        "name": "Virupapur Gadde (Hampi Island)",
+        "bestFor": "A relaxed, traveller scene",
+        "text": "Guesthouses and cafés across the river."
+      },
+      {
+        "name": "Hospet and Kamalapura",
+        "bestFor": "Comfort and transport",
+        "text": "Mid-range hotels, 13 km away."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "US$10–30 per night" },
+      { "label": "Mid-range hotel", "value": "US$40–90 per night" },
+      { "label": "Heritage resort", "value": "US$120–250 per night" },
+      { "label": "Meal at a local café", "value": "US$2–8 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Hampi is about 350 km from Bengaluru and 260 km from Goa.",
+    "options": [
+      {
+        "mode": "Train to Hospet",
+        "text": "An overnight train from Bengaluru takes about 7 to 9 hours to Hospet, 13 km from Hampi.",
+        "detail": "Book early."
+      },
+      {
+        "mode": "Bus or road",
+        "text": "Overnight buses from Bengaluru and Goa, and a 6 to 8 hour drive from Goa.",
+        "detail": "Roads can be slow."
+      },
+      {
+        "mode": "Flight",
+        "text": "Limited flights to Vidyanagar (VDY), or fly to Hubballi or Bengaluru.",
+        "detail": "Check schedules."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The site is spread out, and the best ways to see it are by bicycle or scooter.",
+    "options": [
+      {
+        "mode": "Bicycle",
+        "text": "The best way to explore, at a low price.",
+        "detail": "Start early in the day."
+      },
+      {
+        "mode": "Auto-rickshaw",
+        "text": "A day hire covers the main monuments.",
+        "detail": "Agree the price."
+      },
+      {
+        "mode": "Scooter",
+        "text": "Popular for the wider area.",
+        "detail": "Wear a helmet."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–February",
+    "summary": "Hampi is hot and dry for much of the year, and the rocky landscape amplifies the heat.",
+    "seasons": [
+      {
+        "season": "Winter (November–February)",
+        "rating": "best",
+        "text": "Warm, dry and pleasant. Peak season."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "avoid",
+        "text": "Very hot."
+      },
+      {
+        "season": "Monsoon (June–September)",
+        "rating": "quiet",
+        "text": "The landscape is green, rain is moderate, and there are few visitors."
+      },
+      {
+        "season": "Post-monsoon (October)",
+        "rating": "good",
+        "text": "Green and warm."
+      }
+    ],
+    "avoid": "March to May. The Hampi Utsav in winter brings crowds."
+  },
+  "itinerary": {
+    "title": "Three days in Hampi",
+    "intro": "The sacred centre, the royal enclosure and the far bank.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The sacred centre",
+        "summary": "Temples and the bazaar.",
+        "morning": "The Virupaksha Temple.",
+        "afternoon": "Hampi Bazaar and Hemakuta Hill.",
+        "evening": "Sunset on Hemakuta Hill."
+      },
+      {
+        "day": 2,
+        "title": "The royal centre",
+        "summary": "Palaces and stones.",
+        "morning": "The Vittala Temple and its stone chariot.",
+        "afternoon": "The Royal Enclosure and the Lotus Mahal.",
+        "evening": "A café by the river."
+      },
+      {
+        "day": 3,
+        "title": "Across the river",
+        "summary": "A quiet day.",
+        "morning": "Sunrise from Matanga Hill.",
+        "afternoon": "Anegundi by coracle and bicycle.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you make the most of the site.",
+  "tips": [
+    "Start early, since the sun is intense and the site is shadeless.",
+    "Hire a bicycle, and carry water.",
+    "Get a local guide for context, since there are few signs.",
+    "Dress modestly at temples.",
+    "Keep to marked paths, and watch for monkeys.",
+    "Book accommodation ahead for Hampi Utsav.",
+    "Note that alcohol and meat are restricted in the temple area."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Hampi?",
+      "a": "Two days for the highlights, three if you want to explore slowly."
+    },
+    {
+      "q": "What is the best way to see Hampi?",
+      "a": "By bicycle or scooter, starting early, with a local guide for context."
+    },
+    {
+      "q": "Is Hampi worth visiting?",
+      "a": "Yes. It is one of the most remarkable historic sites in India, and quieter than the north."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "November to February. Summer is extremely hot."
+    },
+    {
+      "q": "Can I combine Hampi with Goa?",
+      "a": "Yes. It is about 6 to 8 hours by road, or by overnight train and bus."
+    },
+    {
+      "q": "Why was Hampi abandoned?",
+      "a": "After the Battle of Talikota in 1565, the city was captured and sacked, and it was never rebuilt as a capital."
+    }
+  ],
+  "related": ["goa", "kerala-backwaters-kochi", "mumbai"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

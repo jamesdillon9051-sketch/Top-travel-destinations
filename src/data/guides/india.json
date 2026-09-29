@@ -1,0 +1,135 @@
+{
+  "country": "india",
+  "title": "The Complete India Travel Guide",
+  "subtitle": "How the country divides, how to choose between the ten destinations, how to cover enormous distances, and what two weeks can realistically hold.",
+  "summary": "India is a subcontinent, and no single trip covers it. This guide covers how the regions divide, how to choose between the ten destinations, how to use trains and flights, when to go, what it costs and three routes that work for a first visit.",
+  "readingTime": "15 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Can I see the Taj Mahal as a day trip from Delhi?",
+      "a": "Yes. Fast trains take about two hours each way, and many visitors do it in a day. Staying a night lets you see the Taj at sunrise and sunset, and is worth it if you have the time."
+    },
+    {
+      "q": "Is it better to travel by train or fly?",
+      "a": "Use trains for shorter hops of up to about six hours, and flights for the long distances between north and south. An overnight sleeper train saves a hotel night, and is an experience in itself."
+    },
+    {
+      "q": "Should I go north or south first?",
+      "a": "Most first-timers start in the north for the monuments, which suits October to March. The south is calmer and easier for those who want a gentler introduction, and it is good in the monsoon months for Kerala."
+    },
+    {
+      "q": "When should I book?",
+      "a": "Trains open for booking about two months ahead and popular ones sell out quickly. Hotels for Diwali, Holi and the winter peak should be booked a month or two ahead. Flights are cheapest a month or more in advance."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-india-divides",
+      "title": "How India divides",
+      "navLabel": "The regions",
+      "body": [
+        "India is roughly 3,200 km from north to south and east to west, and its regions differ in language, food, religion and climate almost as much as European countries do. Five zones organise most trips.",
+        "**Delhi and the Golden Triangle.** [[delhi|Delhi]] is the capital and the usual arrival point, with [[agra]] and [[jaipur]] each a few hours away, forming the classic Golden Triangle of Mughal and Rajput monuments.",
+        "**Rajasthan.** Beyond Jaipur, [[udaipur]] is the lake city of the south of the state, with palaces on the water, and the deserts of Jodhpur, Jaisalmer and Bikaner lie further west, though they are not among the ten places here.",
+        "**The Ganges plain and the Punjab.** [[varanasi|Varanasi]] is the holy city of the Ganges, and [[amritsar|Amritsar]] in the north-west is the home of the Golden Temple.",
+        "**The west coast.** [[mumbai|Mumbai]] is the country's largest city and financial capital, and [[goa]] to the south has beaches, Portuguese-era churches and a relaxed pace.",
+        "**The south.** [[kerala-backwaters-kochi|Kerala]] has backwaters, spice hills and Fort Kochi, and [[hampi]] in Karnataka has the ruins of the Vijayanagara Empire among boulder-strewn hills."
+      ],
+      "note": "The practical unit is one or two of these regions per trip, linked by flight or train. Trying to see north and south in a week ends in airports."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "The Golden Triangle: [[delhi]], [[agra]] and [[jaipur]], with three or four nights split between them. It is the most efficient first introduction to India."
+        },
+        {
+          "title": "If you want spiritual India",
+          "text": "[[varanasi]] for the Ganges, [[amritsar]] for the Golden Temple and its community kitchen, and [[hampi]] for temples still in use among ruined ones."
+        },
+        {
+          "title": "If you love palaces and forts",
+          "text": "[[jaipur]] and [[udaipur]] for Rajasthan, [[agra]] for the Mughal forts and the Taj, and [[delhi]] for the Red Fort and Humayun's Tomb."
+        },
+        {
+          "title": "If you want a beach or a rest",
+          "text": "[[goa]] for beaches and nightlife, or [[kerala-backwaters-kochi|Kerala]] for slower days on the water and Ayurveda."
+        },
+        {
+          "title": "If you care about food",
+          "text": "[[mumbai]] for street food and Irani cafés, [[amritsar]] for Punjabi cooking, [[kerala-backwaters-kochi|Kerala]] for coconut-rich seafood and [[delhi|Old Delhi]] for kebabs and chaat."
+        },
+        {
+          "title": "If you want something less trodden",
+          "text": "[[hampi]] is quieter than the north, and [[amritsar]] sees fewer foreign visitors than the Golden Triangle."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Moving around a very large country",
+      "navLabel": "Getting around",
+      "body": [
+        "India's size and traffic mean journeys take longer than the map suggests. Delhi to Mumbai is about 1,400 km, and Delhi to Kochi is about 2,700 km.",
+        "**Trains.** The best way to cover 200–800 km. Book online through IRCTC, choose air-conditioned classes and, for popular routes, book as soon as tickets open. The Vande Bharat and Shatabdi trains are fast and comfortable on main lines.",
+        "**Flights.** Cheap and frequent on domestic routes, and essential for the north–south journey. IndiGo, Air India, Akasa and others compete on price.",
+        "**Private driver.** Excellent for the Golden Triangle and Rajasthan, where the sights are spread out and a driver waits while you explore. Agree the itinerary and the price before you set off.",
+        "**City transport.** Delhi and Mumbai have metros and suburban trains. Auto-rickshaws and app cabs cover the rest, and agreeing the fare or using the meter is important."
+      ],
+      "note": "Delays are normal in winter fog, particularly on trains and flights around Delhi. Do not schedule a tight connection on the same day as an international flight."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "India has three seasons that matter: a cool dry winter, a scorching hot spring and a monsoon summer. Where you go changes the answer.",
+        "November to February is the best time for almost everywhere, with dry, sunny days. Northern nights are cold, Delhi is often smoggy, and it is the peak season for prices and crowds.",
+        "March and April are warm, with Holi in March. Rajasthan and the plains start to get hot, and this is when the hill stations open.",
+        "May and June are extremely hot in the plains, often above 40°C, and best avoided apart from the Himalayas.",
+        "July to September is monsoon, with heavy rain across most of the country. Kerala's green season is popular for Ayurveda and cheap rates, and Goa closes down. Ladakh is accessible in these months."
+      ],
+      "note": "Diwali falls in October or November, and Holi in March, both on lunar dates. Trains and hotels fill up during the week around them."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and health",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "India is one of the best-value countries to travel in. A thali costs a couple of dollars, a good restaurant dinner US$10–25, a comfortable hotel US$50–120 and a private car with driver about US$50–90 per day.",
+        "Foreign visitors pay much higher entry fees than Indians at major monuments. The Taj Mahal, Agra Fort and Amber Fort are the priciest, and many can be booked online.",
+        "Cash is still important for rickshaws, street food and tips, so withdraw rupees from bank ATMs. Cards work in hotels and larger restaurants.",
+        "Health is the main concern. Drink bottled water, choose freshly cooked food, and consult a travel doctor about vaccinations well before you leave. Carry rehydration salts, and travel insurance is essential."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: the Golden Triangle",
+          "text": "Three nights in [[delhi|Delhi]], one in [[agra|Agra]], with a stop at Fatehpur Sikri on the way, and two in [[jaipur|Jaipur]]. Use fast trains or a private driver.",
+          "tip": "Fly into Delhi and out of Jaipur or Delhi, and book the Taj visit for a day that is not Friday."
+        },
+        {
+          "title": "Ten days: the north with palaces and the Ganges",
+          "text": "The Golden Triangle plus [[udaipur|Udaipur]] and [[varanasi|Varanasi]], joined by two internal flights.",
+          "tip": "Fly Jaipur or Udaipur to Delhi, then Delhi to Varanasi."
+        },
+        {
+          "title": "Two weeks: north and south",
+          "text": "The itinerary on the country page: Delhi, Agra, Jaipur, Udaipur, Varanasi and Kerala's backwaters.",
+          "tip": "Swap Kerala for [[goa|Goa]] if you want a beach, or add [[hampi|Hampi]] on a longer trip."
+        }
+      ]
+    }
+  ]
+}
