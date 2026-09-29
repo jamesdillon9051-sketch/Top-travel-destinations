@@ -1,0 +1,322 @@
+{
+  "slug": "fernando-de-noronha",
+  "name": "Fernando de Noronha",
+  "country": "brazil",
+  "region": "Pernambuco, Atlantic Ocean archipelago",
+  "categories": ["island", "unesco", "coastal", "national-park"],
+  "tagline": "A protected volcanic archipelago far out in the Atlantic, with some of Brazil's best beaches, spinner dolphins, sea turtles and diving, and strictly limited visitor numbers.",
+  "highlight": "The Baía do Sancho at sunrise, reached down a cliff-side ladder to an empty crescent of sand.",
+  "shortDescription": "A UNESCO-listed island 350 km off the north-east coast, with turquoise bays, marine life, snorkelling, diving and a low-key, high-price resort atmosphere.",
+  "metaDescription": "A Fernando de Noronha travel guide: Baía do Sancho, Baía dos Porcos, Morro Dois Irmãos, spinner dolphins, sea turtles, diving, fees and limits, best time, how to get there and a four-day plan.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "Fernando de Noronha (FEN)",
+  "knownFor": "Beaches, diving, dolphins, turtles, protected environment",
+  "budget": "US$200–400 per day, mid-range; the island is expensive",
+  "goodFor": "Beaches, diving, snorkelling, couples, nature",
+  "coords": { "lat": -3.8549, "lng": -32.4259 },
+  "image": {
+    "file": "File:Fernando De Noronha Strand Baia Do Sancho (125363049).jpeg",
+    "alt": "The turquoise water and white sand of Baía do Sancho beach on Fernando de Noronha"
+  },
+  "intro": [
+    "Fernando de Noronha is an archipelago of 21 islands and islets about 350 km off the coast of north-east Brazil, the tips of an underwater volcanic chain. Only the main island is inhabited, with about 3,000 residents, and about 70% of it is a national marine park. UNESCO inscribed the islands in 2001 as part of the Brazilian Atlantic Islands.",
+    "The archipelago's beaches, bays and cliffs are widely considered the best in Brazil, and Baía do Sancho has been ranked among the best beaches in the world. The waters are warm and clear, with visibility often more than 30 metres, and full of marine life, including green turtles, spinner dolphins, rays and sharks. Diving and snorkelling are outstanding.",
+    "Because of its protected status, visits are tightly controlled. There are daily visitor limits, a mandatory environmental preservation fee that rises with length of stay, and separate park entry tickets. The island is expensive, but it is also unspoilt, quiet and beautiful, with pousadas, small restaurants and buggies, and a relaxed pace. The dry season from August to January is best."
+  ],
+  "whyVisit": {
+    "intro": "Noronha is one of the best places in Brazil for beaches and marine wildlife, in a carefully protected environment.",
+    "points": [
+      {
+        "title": "Superb beaches",
+        "text": "Baía do Sancho, Baía dos Porcos and Praia do Leão, among the best in Brazil."
+      },
+      {
+        "title": "Diving and snorkelling",
+        "text": "Clear water, wrecks and abundant marine life."
+      },
+      {
+        "title": "Dolphins and turtles",
+        "text": "Spinner dolphins gather in the Baía dos Golfinhos, and turtles nest on beaches."
+      },
+      {
+        "title": "A protected paradise",
+        "text": "Visitor limits and strict rules keep it unspoilt."
+      },
+      {
+        "title": "Tranquillity",
+        "text": "A slow pace, sunsets and stars."
+      }
+    ]
+  },
+  "attractionsIntro": "The beaches and viewpoints are close together, and easily reached by buggy or on foot.",
+  "attractions": [
+    {
+      "name": "Baía do Sancho",
+      "text": "A hidden bay with white sand and turquoise water below cliffs, reached by a steep path and a ladder in the rock. Widely ranked among the world's best beaches.",
+      "tip": "Go early, and do not touch the reef."
+    },
+    {
+      "name": "Baía dos Porcos and Praia do Leão",
+      "text": "A bay with natural tidal pools and calm snorkelling, and a beach where turtles nest at night in season.",
+      "tip": "Check the tides."
+    },
+    {
+      "name": "Morro Dois Irmãos",
+      "image": {
+        "file": "File:Morro Dois Irmãos - Fernando de Noronha.jpg",
+        "alt": "The twin rock peaks of Morro Dois Irmãos rising from the sea at Fernando de Noronha"
+      },
+      "text": "The island's iconic twin peaks, which rise from the water at Sancho and Porcos bays.",
+      "tip": "Admire them from the beach and the boat."
+    },
+    {
+      "name": "Baía dos Golfinhos",
+      "text": "A bay where spinner dolphins gather in the morning, seen from a lookout. Boat approaches are prohibited to protect them.",
+      "tip": "Go at sunrise."
+    },
+    {
+      "name": "Sea turtles",
+      "image": {
+        "file": "File:Parque Nacional Marinho de Fernando de Noronha - João Paulo Marques DAndretta 12.jpg",
+        "alt": "A green sea turtle swimming over the reef at Fernando de Noronha"
+      },
+      "text": "Green turtles are often seen snorkelling, and the Tamar Project protects nesting beaches.",
+      "tip": "Keep your distance."
+    },
+    {
+      "name": "Forte dos Remédios and Vila dos Remédios",
+      "text": "A historic fort and the village, the island's small centre with a church, restaurants and sunset views.",
+      "tip": "Visit at sunset."
+    }
+  ],
+  "thingsToDoIntro": "Water activities dominate, with a few land experiences.",
+  "thingsToDo": [
+    {
+      "title": "Snorkel with turtles",
+      "text": "Baía do Sancho and Baía dos Porcos have clear water and marine life.",
+      "tip": "Use reef-safe sunscreen."
+    },
+    {
+      "title": "Dive the reefs and wrecks",
+      "text": "Excellent diving for beginners and experts.",
+      "tip": "Book with a licensed operator."
+    },
+    {
+      "title": "Watch dolphins from the lookout",
+      "text": "Spinner dolphins gather in the morning.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Take a boat trip",
+      "text": "Sail around the island, with stops for snorkelling.",
+      "tip": "Book a sunset trip."
+    },
+    {
+      "title": "Go on an island buggy tour",
+      "text": "Explore beaches and viewpoints by rented buggy.",
+      "tip": "Drive slowly."
+    },
+    {
+      "title": "Watch the sunset at Forte dos Remédios",
+      "text": "A traditional way to end the day.",
+      "tip": "Bring a jacket."
+    }
+  ],
+  "foodIntro": "Food on the island is seafood, and prices are high because of transport costs.",
+  "foods": [
+    {
+      "name": "Fresh fish",
+      "text": "Tuna, wahoo and other pelagic fish, grilled or in stews.",
+      "whereToTry": "Restaurants in Vila dos Remédios."
+    },
+    {
+      "name": "Lobster and seafood",
+      "text": "Locally caught lobster and shrimp.",
+      "whereToTry": "Pousada restaurants."
+    },
+    {
+      "name": "Tapioca and coconut",
+      "text": "Cassava pancakes, and fresh coconut water.",
+      "whereToTry": "Beach kiosks."
+    },
+    {
+      "name": "Tropical fruit juices",
+      "text": "Cashew, mango and passionfruit.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Caipirinha",
+      "text": "The national cocktail, with local flavours.",
+      "whereToTry": "Sunset bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Accommodation is mainly small pousadas, and prices are high. Book well ahead.",
+    "areas": [
+      {
+        "name": "Vila dos Remédios",
+        "bestFor": "Restaurants and convenience",
+        "text": "Guesthouses and small hotels near the centre."
+      },
+      {
+        "name": "Vila do Trinta and Floresta Velha",
+        "bestFor": "A quieter stay",
+        "text": "Pousadas in residential areas."
+      },
+      {
+        "name": "Coastal pousadas",
+        "bestFor": "Sea views",
+        "text": "Luxury properties with sea views."
+      }
+    ],
+    "budget": [
+      { "label": "Budget pousada", "value": "US$100–200 per night" },
+      { "label": "Mid-range pousada", "value": "US$200–400 per night" },
+      { "label": "Luxury pousada", "value": "US$500–1,000 per night" },
+      { "label": "Environmental fee", "value": "Per day, rising with length of stay" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The island is reached only by air, from Recife or Natal.",
+    "options": [
+      {
+        "mode": "Flight from Recife",
+        "text": "About 1 hour 20 minutes, with daily flights.",
+        "detail": "Book early, as seats are limited."
+      },
+      {
+        "mode": "Flight from Natal",
+        "text": "About 1 hour.",
+        "detail": "Daily flights."
+      },
+      {
+        "mode": "Cruise or private boat",
+        "text": "Some cruises stop at the island, but landing is limited.",
+        "detail": "Check the rules."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The island is small, and buggies are the main way to move.",
+    "options": [
+      {
+        "mode": "Buggy rental",
+        "text": "Popular and flexible.",
+        "detail": "Drive slowly."
+      },
+      {
+        "mode": "Taxis and shuttles",
+        "text": "Serve the main roads and beaches.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Walking",
+        "text": "Trails to some beaches.",
+        "detail": "Wear sun protection."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "August–January",
+    "summary": "Noronha is warm year-round, with a dry season from August to January and a rainy season from February to July.",
+    "seasons": [
+      {
+        "season": "Dry season (August–October)",
+        "rating": "best",
+        "text": "Clear skies, calm seas and the best visibility."
+      },
+      {
+        "season": "Late dry (November–January)",
+        "rating": "best",
+        "text": "Hot and dry, with good conditions."
+      },
+      {
+        "season": "Rainy season (February–April)",
+        "rating": "quiet",
+        "text": "Warm and showery, with rougher seas and low prices."
+      },
+      {
+        "season": "Late rainy (May–July)",
+        "rating": "good",
+        "text": "Showers, with big surf on the north."
+      }
+    ],
+    "avoid": "The wettest months, from March to June."
+  },
+  "itinerary": {
+    "title": "Four days on Fernando de Noronha",
+    "intro": "Beaches, dolphins and the sea.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive",
+        "summary": "Settle in.",
+        "morning": "Fly in.",
+        "afternoon": "Vila dos Remédios.",
+        "evening": "Sunset at the fort."
+      },
+      {
+        "day": 2,
+        "title": "Beaches",
+        "summary": "Sancho and Porcos.",
+        "morning": "Baía do Sancho.",
+        "afternoon": "Baía dos Porcos.",
+        "evening": "Dinner in the village."
+      },
+      {
+        "day": 3,
+        "title": "Dolphins and diving",
+        "summary": "Sea life.",
+        "morning": "The dolphin lookout.",
+        "afternoon": "A dive or snorkelling trip.",
+        "evening": "A rest."
+      },
+      {
+        "day": 4,
+        "title": "Boat and departure",
+        "summary": "Around the island.",
+        "morning": "A boat trip.",
+        "afternoon": "Fly out.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "The island has strict rules and high prices.",
+  "tips": [
+    "Book flights and accommodation many months ahead.",
+    "Pay the environmental fee and buy park tickets in advance.",
+    "Use reef-safe sunscreen and do not touch marine life.",
+    "Do not use plastic straws or bring single-use items.",
+    "Bring cash, since ATMs are limited.",
+    "Follow all park rules.",
+    "Stay a minimum of four days to make the trip worthwhile."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Fernando de Noronha?",
+      "a": "Four to five days is ideal."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Yes. Accommodation, food and fees are high, partly because of the island's isolation and protected status."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "August to January."
+    },
+    {
+      "q": "Can I swim with dolphins?",
+      "a": "No. Contact with spinner dolphins is prohibited. You can watch them from the lookout."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "By flight from Recife or Natal."
+    },
+    {
+      "q": "Do I need to pay fees?",
+      "a": "Yes, an environmental preservation fee and a national park entry ticket. Check current prices."
+    }
+  ],
+  "related": ["salvador", "lencois-maranhenses", "rio-de-janeiro"],
+  "relatedArticles": ["mediterranean-coasts", "packing-by-season"]
+}

@@ -1,0 +1,313 @@
+{
+  "slug": "lencois-maranhenses",
+  "name": "Lençóis Maranhenses",
+  "country": "brazil",
+  "region": "Maranhão, north-east Brazil",
+  "categories": ["national-park", "nature", "scenic", "off-the-beaten-path"],
+  "tagline": "A landscape of rolling white sand dunes filled with turquoise rainwater lagoons, like bedsheets thrown across the coast, at its most spectacular in the middle of the year.",
+  "highlight": "Wading through a warm, clear lagoon between dunes at sunset, with not another person in sight.",
+  "shortDescription": "A national park of about 1,500 square kilometres of dunes and seasonal lagoons on Brazil's north coast, explored from Barreirinhas and Santo Amaro by 4x4, boat and on foot.",
+  "metaDescription": "A Lençóis Maranhenses travel guide: dunes and lagoons, Barreirinhas, Santo Amaro, Atins, the Preguiças River, best time to see the lagoons, how to get there from São Luís and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "São Luís (SLZ), about 260 km, or Barreirinhas (BRB) small airport",
+  "knownFor": "White dunes, turquoise lagoons, remote scenery, kitesurfing",
+  "budget": "US$70–150 per day, mid-range",
+  "goodFor": "Landscapes, photography, hiking, adventure, quiet",
+  "coords": { "lat": -2.5320, "lng": -43.1290 },
+  "image": {
+    "file": "File:Parque Nacional dos Lençóis Maranhenses Paulo Cattelan (03).jpg",
+    "alt": "White sand dunes and blue lagoons in the Lençóis Maranhenses National Park"
+  },
+  "intro": [
+    "The Lençóis Maranhenses National Park is a strip of coastline in the state of Maranhão, about 70 km long and 50 km deep, where huge white sand dunes roll inland from the Atlantic. The name means the bedsheets of Maranhão, from the way the dunes look like sheets spread across the land. It is not a desert, since the region receives heavy rain from January to June, and the water collects in hollows between the dunes, forming thousands of lagoons that can be several metres deep.",
+    "The lagoons are at their fullest from about June to September, when the water is a striking blue or green against white sand, and in the dry months from November to January many dry out. The dunes are made of quartz sand blown from the coast, and they move each year with the wind. Fish arrive in the lagoons from the rivers and the sea, and survive the dry season buried in the mud as eggs.",
+    "The park is remote and uncrowded. Most visitors base themselves at Barreirinhas, the gateway town, or at small villages such as Santo Amaro and Atins, and explore the dunes on 4x4 tours or on foot. It is a landscape that photographs superbly, and a good addition to a longer trip in north-east Brazil."
+  ],
+  "whyVisit": {
+    "intro": "Lençóis Maranhenses is a uniquely beautiful landscape, and one of the great natural wonders of Brazil.",
+    "points": [
+      {
+        "title": "Dunes and lagoons",
+        "text": "Wave after wave of white sand with clear lagoons between them."
+      },
+      {
+        "title": "Swimming in the dunes",
+        "text": "The lagoons are safe and warm, ideal for a swim."
+      },
+      {
+        "title": "Remote and quiet",
+        "text": "Far from large crowds and cities."
+      },
+      {
+        "title": "River and coast",
+        "text": "Boat trips on the Preguiças River and the Atlantic coast."
+      },
+      {
+        "title": "Adventure",
+        "text": "4x4 tours, multi-day hikes and kitesurfing."
+      }
+    ]
+  },
+  "attractionsIntro": "There are several entry points to the park, each with a different style of visit.",
+  "attractions": [
+    {
+      "name": "Lagoa Azul and Lagoa Bonita",
+      "image": {
+        "file": "File:Parque Nacional dos Lencois Maranhenses Filo Vasconcellos (24).jpg",
+        "alt": "A blue lagoon among white sand dunes in Lençóis Maranhenses National Park"
+      },
+      "text": "Two of the best-known lagoons, near Barreirinhas, reached by 4x4 and a short walk through the dunes.",
+      "tip": "Go at sunset for the light and cooler temperatures."
+    },
+    {
+      "name": "Santo Amaro do Maranhão",
+      "text": "A small village on the eastern edge of the dunes, with lagoons that can be reached on foot from the village, and a quiet atmosphere.",
+      "tip": "A good base for multi-day treks."
+    },
+    {
+      "name": "Rio Preguiças boat trip",
+      "image": {
+        "file": "File:Barreirinhas - Lençois Maranhenses (8245493806).jpg",
+        "alt": "A boat on the Rio Preguiças with dunes and mangroves at Barreirinhas"
+      },
+      "text": "A river trip from Barreirinhas past mangroves, dunes, the fishing village of Mandacaru and the Vassouras dunes, ending at the lighthouse.",
+      "tip": "Bring a hat and sunscreen."
+    },
+    {
+      "name": "Atins",
+      "text": "A remote beach village at the river mouth, with kitesurfing, fresh fish and quiet dunes right at the coast.",
+      "tip": "Best reached by boat or 4x4."
+    },
+    {
+      "name": "The dunes at sunset",
+      "image": {
+        "file": "File:Casal de turistas caminha em uma duna, enquanto o dia morre nos Lençóis Maranhenses (edited).jpg",
+        "alt": "Two tourists walking on a dune at sunset in Lençóis Maranhenses"
+      },
+      "text": "The dunes change colour as the sun sets, and the lagoons reflect the sky. It is the most popular time for tours.",
+      "tip": "Bring a flashlight for the walk back."
+    }
+  ],
+  "thingsToDoIntro": "Tours and guides are the main way to see the dunes.",
+  "thingsToDo": [
+    {
+      "title": "Swim in a lagoon",
+      "text": "Wade and swim in warm, clear water, in the middle of the dunes.",
+      "tip": "Go from June to September."
+    },
+    {
+      "title": "Take a 4x4 tour to the dunes",
+      "text": "A bumpy ride to the lagoons, with time to walk and swim.",
+      "tip": "Book a small group."
+    },
+    {
+      "title": "Do a multi-day trek",
+      "text": "The Travessia is a walk across the dunes from Atins to Santo Amaro, with overnight stays in villages.",
+      "tip": "Go with a guide."
+    },
+    {
+      "title": "Ride down the Preguiças River",
+      "text": "See mangroves, monkeys and dunes from a boat.",
+      "tip": "Book a half- or full-day trip."
+    },
+    {
+      "title": "Try kitesurfing at Atins",
+      "text": "Strong, steady winds make the coast a kite destination.",
+      "tip": "Best from August to December."
+    },
+    {
+      "title": "Fly over the dunes",
+      "text": "A small-plane flight gives a view of the lagoons.",
+      "tip": "Book in advance."
+    }
+  ],
+  "foodIntro": "Maranhão's food is fish- and shellfish-based, with regional specialities.",
+  "foods": [
+    {
+      "name": "Arroz de cuxá",
+      "text": "Rice with a paste of roasted sesame seeds, sorrel and dried shrimp, a Maranhão speciality.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Fresh fish and shrimp",
+      "text": "Grilled or fried, with rice and beans.",
+      "whereToTry": "Riverside restaurants."
+    },
+    {
+      "name": "Torta de camarão",
+      "text": "A shrimp pie.",
+      "whereToTry": "Restaurants in Barreirinhas."
+    },
+    {
+      "name": "Juçara açaí",
+      "text": "Local açaí, eaten as a thick bowl.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Tropical fruit and cachaça",
+      "text": "Juices and local cachaça.",
+      "whereToTry": "Bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Barreirinhas or in villages near the park.",
+    "areas": [
+      {
+        "name": "Barreirinhas",
+        "bestFor": "Transport and tours",
+        "text": "Hotels, pousadas and restaurants."
+      },
+      {
+        "name": "Santo Amaro",
+        "bestFor": "Quiet and lagoons",
+        "text": "Small guesthouses close to the dunes."
+      },
+      {
+        "name": "Atins",
+        "bestFor": "Kitesurfing and remoteness",
+        "text": "Simple pousadas."
+      }
+    ],
+    "budget": [
+      { "label": "Budget pousada", "value": "US$25–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$70–150 per night" },
+      { "label": "Boutique lodge", "value": "US$180–350 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$6–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Barreirinhas is about 260 km east of São Luís, the state capital.",
+    "options": [
+      {
+        "mode": "Flight to São Luís (SLZ)",
+        "text": "Direct flights from Brasília, São Paulo, Rio and other cities.",
+        "detail": "Then a 3 to 4-hour transfer."
+      },
+      {
+        "mode": "Transfer to Barreirinhas",
+        "text": "Vans and buses run from São Luís to Barreirinhas, about 3 to 4 hours.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Onward to Jericoacoara",
+        "text": "A popular route by 4x4 and boat, called the Rota das Emoções.",
+        "detail": "Book a tour."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Tours are the main way to move, since the park is roadless.",
+    "options": [
+      {
+        "mode": "4x4 tours",
+        "text": "Vehicles run from Barreirinhas to the dunes.",
+        "detail": "Choose a reputable operator."
+      },
+      {
+        "mode": "Boat",
+        "text": "On the Rio Preguiças.",
+        "detail": "Wear a life jacket."
+      },
+      {
+        "mode": "On foot",
+        "text": "Walking in the dunes is the best way to see the lagoons.",
+        "detail": "Go with a guide."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June–September",
+    "summary": "The rainy season from January to June fills the lagoons, which are at their fullest between June and September, and start to dry from October.",
+    "seasons": [
+      {
+        "season": "Wet season (January–May)",
+        "rating": "good",
+        "text": "Rain fills the lagoons, but skies can be cloudy."
+      },
+      {
+        "season": "Peak lagoons (June–September)",
+        "rating": "best",
+        "text": "Lagoons full, skies clear and days sunny."
+      },
+      {
+        "season": "Drying (October–November)",
+        "rating": "good",
+        "text": "Lagoons shrink, with hot, windy weather."
+      },
+      {
+        "season": "Dry (December)",
+        "rating": "avoid",
+        "text": "Many lagoons are dry."
+      }
+    ],
+    "avoid": "November to January, when most lagoons have dried up."
+  },
+  "itinerary": {
+    "title": "Three days in Lençóis Maranhenses",
+    "intro": "A dune tour, a river trip and a day for the coast.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Barreirinhas",
+        "summary": "Settle in.",
+        "morning": "Transfer from São Luís.",
+        "afternoon": "Explore Barreirinhas.",
+        "evening": "Dinner by the river."
+      },
+      {
+        "day": 2,
+        "title": "The dunes",
+        "summary": "Lagoons at sunset.",
+        "morning": "Rest.",
+        "afternoon": "A 4x4 tour to Lagoa Azul and Lagoa Bonita.",
+        "evening": "Sunset on the dunes."
+      },
+      {
+        "day": 3,
+        "title": "River and coast",
+        "summary": "Preguiças River.",
+        "morning": "A boat trip to Atins and Vassouras.",
+        "afternoon": "Lunch and a swim.",
+        "evening": "Return to Barreirinhas."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you get the best from the dunes.",
+  "tips": [
+    "Visit from June to September for full lagoons.",
+    "Take a hat, sunscreen and water, since there is no shade.",
+    "Go at sunset for cooler temperatures.",
+    "Book a reputable tour and guide.",
+    "Bring a flashlight and cash.",
+    "Do not leave litter, and stay on marked areas.",
+    "Book accommodation ahead in July."
+  ],
+  "faq": [
+    {
+      "q": "When are the lagoons full?",
+      "a": "From about June to September, after the rainy season."
+    },
+    {
+      "q": "How many days do you need?",
+      "a": "Three days is enough for the dunes, river and coast."
+    },
+    {
+      "q": "Is it a desert?",
+      "a": "No. It receives heavy rain, which fills the lagoons."
+    },
+    {
+      "q": "Can I swim in the lagoons?",
+      "a": "Yes. They are safe, warm and clear."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "Fly to São Luís, then take a van or car to Barreirinhas, about 3 to 4 hours."
+    },
+    {
+      "q": "Can I visit without a tour?",
+      "a": "Most areas require a tour or guide, since the dunes are confusing."
+    }
+  ],
+  "related": ["fernando-de-noronha", "salvador", "amazon-manaus"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

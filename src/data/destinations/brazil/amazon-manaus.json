@@ -1,0 +1,331 @@
+{
+  "slug": "amazon-manaus",
+  "name": "The Amazon and Manaus",
+  "shortName": "The Amazon",
+  "country": "brazil",
+  "region": "Amazonas State, northern Brazil",
+  "categories": ["nature", "national-park", "off-the-beaten-path", "cultural"],
+  "tagline": "The world's largest rainforest and its greatest river, reached from a jungle city with an opera house, by boat, canoe and lodge, past pink dolphins and giant water lilies.",
+  "highlight": "Gliding by canoe through flooded forest at dawn, with monkeys calling and the river black as coffee.",
+  "shortDescription": "Manaus and the Rio Negro: the Meeting of the Waters, jungle lodges, the Anavilhanas archipelago, pink river dolphins, giant water lilies and the Teatro Amazonas.",
+  "metaDescription": "An Amazon and Manaus travel guide: the Teatro Amazonas, Meeting of the Waters, Anavilhanas, jungle lodges, pink river dolphins, high and low water seasons, health advice and a four-day plan.",
+  "suggestedStay": "4 days",
+  "nearestAirport": "Manaus Eduardo Gomes (MAO), about 30 minutes",
+  "knownFor": "The Amazon rainforest, Rio Negro, wildlife, river life, Teatro Amazonas",
+  "budget": "US$120–300 per day, mid-range, with lodge stays",
+  "goodFor": "Wildlife, rainforest, river life, adventure",
+  "coords": { "lat": -3.1190, "lng": -60.0217 },
+  "image": {
+    "file": "File:Arquipélago de Anavilhanas 06.jpg",
+    "alt": "The forested islands of the Anavilhanas archipelago in the Rio Negro"
+  },
+  "intro": [
+    "The Amazon rainforest covers about 5.5 million square kilometres, more than half of the world's remaining tropical forest, and about 60% of it lies in Brazil. It holds around one in ten known species on earth, and its great rivers, the Amazon and its tributaries, carry more water than any others. Manaus, a city of about two million people, stands on the Rio Negro, about 1,500 km from the Atlantic, and is the main gateway for visitors.",
+    "Manaus boomed in the late 19th century, when rubber made it one of the richest cities in the world, and the opulent Teatro Amazonas opera house, opened in 1896, is a legacy of that time. Today it is a busy commercial centre and free-trade zone, a base for river trips and lodge stays. Just outside the city, the Meeting of the Waters, where the dark Rio Negro and the sandy Solimões run side by side without mixing for kilometres, is a striking sight.",
+    "A trip to the Amazon means time on the water: canoes into flooded forest, jungle walks, night walks for caiman, fishing for piranha, swimming with pink river dolphins at Novo Airão and stays in lodges or on riverboats. The experience varies with the season, as the river rises and falls by up to 10–15 metres over the year."
+  ],
+  "whyVisit": {
+    "intro": "The Amazon is one of the planet's greatest natural wonders, and Manaus is the easiest place to reach it.",
+    "points": [
+      {
+        "title": "The world's biggest rainforest",
+        "text": "Its scale, biodiversity and importance to the planet are unmatched."
+      },
+      {
+        "title": "River life",
+        "text": "Boats, floating villages and caboclo communities on the water."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Monkeys, sloths, caiman, macaws, river dolphins and thousands of insects and birds."
+      },
+      {
+        "title": "The Meeting of the Waters",
+        "text": "Two rivers of different colours, flowing side by side."
+      },
+      {
+        "title": "Manaus itself",
+        "text": "An opera house, markets and a rubber-boom past."
+      }
+    ]
+  },
+  "attractionsIntro": "Split your time between a day in Manaus and a stay in the forest.",
+  "attractions": [
+    {
+      "name": "Teatro Amazonas",
+      "image": {
+        "file": "File:Amazon Theatre, Teatro Amazonas. Manaus, Brazil. 04.jpg",
+        "alt": "The pink and white Teatro Amazonas opera house in Manaus with its dome"
+      },
+      "text": "The great opera house built in 1896 with European materials, including Italian marble, French glass and Scottish iron, topped by a dome of tiles in the Brazilian colours. Tours and performances are offered.",
+      "tip": "Book a tour, or see a concert."
+    },
+    {
+      "name": "The Meeting of the Waters",
+      "text": "About 10 km from Manaus, where the black Rio Negro and the sandy Solimões flow side by side for several kilometres, separated by differences in temperature, speed and density.",
+      "tip": "Go by boat on a half-day trip."
+    },
+    {
+      "name": "Anavilhanas Archipelago",
+      "image": {
+        "file": "File:Arquipélago de Anavilhanas 12.jpg",
+        "alt": "Islands and channels of the Anavilhanas archipelago in the Rio Negro"
+      },
+      "text": "One of the largest river archipelagos in the world, with hundreds of forested islands in the Rio Negro, about 100 km upriver. A national park, it has canoe routes, beaches in the dry season and birdlife.",
+      "tip": "Go with a guide."
+    },
+    {
+      "name": "Giant water lilies at Janauary",
+      "image": {
+        "file": "File:Victoria Amazonia - Giant water lilies in the Amazon basin near Manaus, Brazil.jpg",
+        "alt": "Giant Victoria amazonica water lilies floating on a lake near Manaus"
+      },
+      "text": "A lake near Manaus where giant Victoria amazonica water lilies, with leaves up to 2.5 metres across, float on the surface.",
+      "tip": "Best from January to July."
+    },
+    {
+      "name": "Mercado Adolpho Lisboa",
+      "text": "A cast-iron market from 1883, modelled on Paris's Les Halles, selling fish, fruit, herbs and Amazonian crafts.",
+      "tip": "Go in the early morning."
+    },
+    {
+      "name": "Jungle lodges and riverboats",
+      "image": {
+        "file": "File:Sunset at Amazon rainforest, Brazil - 2026 1.jpg",
+        "alt": "The sun setting over the Amazon rainforest and river"
+      },
+      "text": "Lodges on the Rio Negro and its tributaries offer guided walks, canoe trips, fishing and night excursions, and riverboats allow multi-day cruises.",
+      "tip": "Choose a lodge with local guides and a good reputation."
+    }
+  ],
+  "thingsToDoIntro": "Most experiences are guided and centred on the river.",
+  "thingsToDo": [
+    {
+      "title": "Canoe through the flooded forest",
+      "text": "In high water, paddle among tree canopies, spotting birds and monkeys.",
+      "tip": "Go at dawn or dusk."
+    },
+    {
+      "title": "Take a jungle walk",
+      "text": "A guide shows medicinal plants, insects and tracks, and explains the ecology of the forest.",
+      "tip": "Wear long sleeves and closed shoes."
+    },
+    {
+      "title": "Swim with pink river dolphins",
+      "text": "In some places, at Novo Airão, dolphins come to feeding platforms. Regulation and welfare issues apply.",
+      "tip": "Choose a responsible operator, and do not touch."
+    },
+    {
+      "title": "Go on a night walk or caiman spotting",
+      "text": "See the nocturnal forest, with frogs, spiders and caiman eyes shining in torchlight.",
+      "tip": "Bring a torch and repellent."
+    },
+    {
+      "title": "Try piranha fishing",
+      "text": "Local guides show how to catch piranha with simple lines.",
+      "tip": "Release or eat with care."
+    },
+    {
+      "title": "Visit a riverside community",
+      "text": "Meet families who live along the river, and learn about their way of life.",
+      "tip": "Be respectful, and buy crafts directly."
+    }
+  ],
+  "foodIntro": "Amazonian food uses river fish, tropical fruits and manioc, and is distinct from the rest of Brazil.",
+  "foods": [
+    {
+      "name": "Tambaqui and pirarucu",
+      "text": "Large river fish, grilled or in stews. Pirarucu is one of the world's largest freshwater fish.",
+      "whereToTry": "Restaurants and lodges."
+    },
+    {
+      "name": "Tacacá",
+      "text": "A hot soup of tucupi (manioc juice), dried shrimp and jambu leaves that make the mouth tingle.",
+      "whereToTry": "Street stalls in the evening."
+    },
+    {
+      "name": "Açaí with fish",
+      "text": "In the Amazon, açaí is eaten as a savoury accompaniment.",
+      "whereToTry": "Local markets."
+    },
+    {
+      "name": "Cupuaçu and tropical fruit",
+      "text": "Cupuaçu, guaraná, camu-camu and other fruits, as juice, ice cream and desserts.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Manioc farofa",
+      "text": "Toasted manioc flour, sprinkled over dishes.",
+      "whereToTry": "Everywhere."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay one night in Manaus, then in a lodge or on a riverboat.",
+    "areas": [
+      {
+        "name": "Manaus",
+        "bestFor": "Arrival and the city sights",
+        "text": "Hotels near the Teatro Amazonas and Ponta Negra."
+      },
+      {
+        "name": "Jungle lodges",
+        "bestFor": "The forest experience",
+        "text": "Lodges on the Rio Negro and its tributaries, with guided activities."
+      },
+      {
+        "name": "Riverboats",
+        "bestFor": "Cruising",
+        "text": "Multi-day cruises on the Amazon and Rio Negro."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel or basic lodge", "value": "US$40–100 per night" },
+      { "label": "Mid-range lodge", "value": "US$150–300 per night, including activities" },
+      { "label": "Luxury lodge or cruise", "value": "US$400–800 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$8–20 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Manaus is in the middle of the rainforest, reached by air or by river.",
+    "options": [
+      {
+        "mode": "Flight to Manaus (MAO)",
+        "text": "Direct flights from Rio, São Paulo, Brasília and other cities, about 4 hours from Rio, and some from Miami and Panama.",
+        "detail": "The airport is about 30 minutes from the centre."
+      },
+      {
+        "mode": "River journey",
+        "text": "Slow boats link Manaus with Belém (about 5 to 7 days) and other towns.",
+        "detail": "Bring a hammock."
+      },
+      {
+        "mode": "Lodge transfer",
+        "text": "Lodges arrange transfers by boat and road.",
+        "detail": "Book together with your stay."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "In the forest, everything is by boat and on foot.",
+    "options": [
+      {
+        "mode": "Boat",
+        "text": "The main way to explore.",
+        "detail": "Wear a life jacket."
+      },
+      {
+        "mode": "Taxi and Uber in Manaus",
+        "text": "Convenient in the city.",
+        "detail": "Use the app."
+      },
+      {
+        "mode": "On foot with a guide",
+        "text": "Jungle trails.",
+        "detail": "Do not go alone."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "July–December for trekking, December–June for canoeing",
+    "summary": "The Amazon has a hot, humid climate with rain all year. The rivers rise from December to June, flooding the forest, and fall from July to November.",
+    "seasons": [
+      {
+        "season": "High water (March–June)",
+        "rating": "good",
+        "text": "Flooded forest and easy canoe access, with rain and fewer trails."
+      },
+      {
+        "season": "Falling water (July–September)",
+        "rating": "best",
+        "text": "Drier, with trails opening and beaches appearing, and wildlife easier to see."
+      },
+      {
+        "season": "Low water (October–December)",
+        "rating": "good",
+        "text": "Hot, with sandbanks and concentrated wildlife, though some channels are shallow."
+      },
+      {
+        "season": "Rising water (January–February)",
+        "rating": "quiet",
+        "text": "Rainy and humid, with fewer visitors."
+      }
+    ],
+    "avoid": "Periods of extreme drought or flooding, which can disrupt travel."
+  },
+  "itinerary": {
+    "title": "Four days in the Amazon",
+    "intro": "One day in Manaus and three at a lodge.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Manaus",
+        "summary": "City and opera.",
+        "morning": "Mercado Adolpho Lisboa.",
+        "afternoon": "The Teatro Amazonas.",
+        "evening": "Dinner in the centre."
+      },
+      {
+        "day": 2,
+        "title": "To the lodge",
+        "summary": "Rivers and forest.",
+        "morning": "The Meeting of the Waters.",
+        "afternoon": "Arrive at the lodge and take a jungle walk.",
+        "evening": "A night walk."
+      },
+      {
+        "day": 3,
+        "title": "The forest",
+        "summary": "Canoe and wildlife.",
+        "morning": "Sunrise canoe trip.",
+        "afternoon": "A community visit and fishing.",
+        "evening": "Stargazing."
+      },
+      {
+        "day": 4,
+        "title": "Return",
+        "summary": "Back to the city.",
+        "morning": "A last walk.",
+        "afternoon": "Return to Manaus.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "The Amazon needs preparation.",
+  "tips": [
+    "Get yellow fever vaccination and check malaria advice with a travel clinic well ahead.",
+    "Choose reputable lodges and local guides.",
+    "Wear long, light clothes and use repellent.",
+    "Bring a headlamp, binoculars and a rain jacket.",
+    "Do not touch or feed wildlife.",
+    "Carry a waterproof bag for your electronics.",
+    "Do not swim unless the guide says it is safe."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the Amazon?",
+      "a": "Three to five days, including a lodge stay."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "July to December for walking, and March to June for canoeing in flooded forest."
+    },
+    {
+      "q": "Do I need vaccinations?",
+      "a": "Yellow fever vaccination is recommended, and malaria prevention may apply. Check with a travel clinic."
+    },
+    {
+      "q": "Can I see pink dolphins?",
+      "a": "Yes. Boto dolphins live in the rivers, and trips can spot them. Choose responsible operators."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Guided trips are generally safe. Follow the guide, and take health precautions."
+    },
+    {
+      "q": "Is Manaus worth visiting?",
+      "a": "For a day, mainly for the opera house and market, before heading into the forest."
+    }
+  ],
+  "related": ["pantanal", "salvador", "rio-de-janeiro"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

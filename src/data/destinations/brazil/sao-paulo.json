@@ -1,0 +1,327 @@
+{
+  "slug": "sao-paulo",
+  "name": "São Paulo",
+  "country": "brazil",
+  "region": "São Paulo State, south-east Brazil",
+  "categories": ["major-city", "cultural", "food-and-wine"],
+  "tagline": "South America's biggest metropolis: skyscrapers, street art, world-class museums, immigrant neighbourhoods and one of the best restaurant scenes on the continent.",
+  "highlight": "A mortadella sandwich in the Mercado Municipal, followed by an evening among the murals of Vila Madalena.",
+  "shortDescription": "Brazil's financial and cultural capital: Avenida Paulista and MASP, Ibirapuera Park, the Municipal Market, Beco do Batman, Liberdade and a spectacular food and nightlife scene.",
+  "metaDescription": "A São Paulo travel guide: Avenida Paulista, MASP, Ibirapuera Park, the Municipal Market, Beco do Batman, Liberdade, the Copan building, food, safety, where to stay and a three-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Guarulhos (GRU) for international flights, Congonhas (CGH) for domestic",
+  "knownFor": "Museums, food, street art, nightlife, immigrant cultures, skyscrapers",
+  "budget": "US$90–190 per day, mid-range",
+  "goodFor": "Food, art, nightlife, architecture, business travel",
+  "coords": { "lat": -23.5505, "lng": -46.6333 },
+  "image": {
+    "file": "File:Webysther 20150427002640 - Edifícios Terraço Itália e Copan.jpg",
+    "alt": "The São Paulo skyline with the curving Copan building and the Terraço Itália tower"
+  },
+  "intro": [
+    "São Paulo is the largest city in Brazil and in the southern hemisphere, with more than 12 million people in the city itself and over 20 million in the wider metropolitan area. It began as a Jesuit mission in 1554, grew rich on coffee in the 19th century and became the industrial and financial engine of Brazil in the 20th. Waves of immigrants from Italy, Japan, Lebanon, Germany, Spain and elsewhere, as well as migrants from the north-east of Brazil, have shaped its culture.",
+    "It is not a conventional beauty. The city is a concrete sea of towers, elevated highways and traffic, but it rewards those who look closer. Avenida Paulista, the main artery, has museums and cultural centres, Ibirapuera Park is a green oasis designed by Oscar Niemeyer, and neighbourhoods such as Vila Madalena and Liberdade have street art, bars and restaurants. Its food is among the best in Latin America.",
+    "São Paulo works well as a two- or three-day stop for people who like cities, food and culture. It is not a beach destination, and safety needs the usual big-city care, but its energy and diversity are unlike any other Brazilian city."
+  ],
+  "whyVisit": {
+    "intro": "São Paulo is the place to see modern, urban, multicultural Brazil, and to eat well.",
+    "points": [
+      {
+        "title": "A world-class food scene",
+        "text": "From street food and Italian pizza to Japanese and Lebanese cooking, and top modern Brazilian restaurants."
+      },
+      {
+        "title": "Museums and art",
+        "text": "MASP, the Pinacoteca, the Museum of the Portuguese Language and the Bienal."
+      },
+      {
+        "title": "Street art",
+        "text": "Beco do Batman and the walls of Vila Madalena and the centre."
+      },
+      {
+        "title": "Immigrant neighbourhoods",
+        "text": "Liberdade for Japanese and Asian culture, Bixiga for Italian, and Bom Retiro for Korean and Jewish heritage."
+      },
+      {
+        "title": "Nightlife and music",
+        "text": "Clubs, live music and bars open every night."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are along or near Avenida Paulista and in the historic centre.",
+  "attractions": [
+    {
+      "name": "Avenida Paulista and MASP",
+      "image": {
+        "file": "File:MASP Brazil.jpg",
+        "alt": "The Museu de Arte de São Paulo, MASP, a red modernist building raised on pillars"
+      },
+      "text": "The city's main avenue, with skyscrapers, cultural centres and cafés. MASP, a modernist museum on red pillars by Lina Bo Bardi, has one of the best art collections in Latin America. The avenue is closed to cars on Sundays.",
+      "tip": "Go on a Sunday for a street party."
+    },
+    {
+      "name": "Ibirapuera Park",
+      "image": {
+        "file": "File:Ibirapuera Park in São Paulo 2.jpg",
+        "alt": "Trees and a pond in Ibirapuera Park in São Paulo"
+      },
+      "text": "The city's central park, with lakes, trails and buildings designed by Oscar Niemeyer, including the Bienal pavilion and museums.",
+      "tip": "A calm break from the city."
+    },
+    {
+      "name": "The Mercado Municipal",
+      "image": {
+        "file": "File:Municipal Market of São Paulo city.jpg",
+        "alt": "The interior of the Mercado Municipal with stalls and stained glass"
+      },
+      "text": "A grand 1933 market hall with stained glass, selling fruit, spices, cheese and cured meats, and famous for its mortadella sandwich and pastel de bacalhau.",
+      "tip": "Go for a late breakfast or early lunch."
+    },
+    {
+      "name": "Beco do Batman",
+      "image": {
+        "file": "File:Beco do Batman - 55334479612.jpg",
+        "alt": "Colourful murals and street art covering the walls of Beco do Batman"
+      },
+      "text": "An alley in Vila Madalena covered in graffiti and murals, changing constantly, and surrounded by galleries and bars.",
+      "tip": "Go in the afternoon, and stay for dinner."
+    },
+    {
+      "name": "Liberdade",
+      "text": "The Japanese and Asian quarter, said to be home to the largest Japanese community outside Japan, with markets, temples and restaurants.",
+      "tip": "Go on a Sunday for the street fair."
+    },
+    {
+      "name": "The Copan Building and Terraço Itália",
+      "text": "Oscar Niemeyer's serpentine Copan apartment block, and the Terraço Itália rooftop, which give views across the city.",
+      "tip": "Go at sunset."
+    }
+  ],
+  "thingsToDoIntro": "São Paulo rewards curiosity and appetite.",
+  "thingsToDo": [
+    {
+      "title": "Eat a mortadella sandwich",
+      "text": "A towering sandwich at the Mercado Municipal.",
+      "tip": "Share it."
+    },
+    {
+      "title": "Visit MASP",
+      "text": "See European masters and Brazilian art.",
+      "tip": "Free on Tuesdays, check the schedule."
+    },
+    {
+      "title": "Join a street art tour",
+      "text": "Learn about the artists and history of the city's murals.",
+      "tip": "Book a walking tour."
+    },
+    {
+      "title": "Eat pizza",
+      "text": "The city has some of the best pizza outside Italy.",
+      "tip": "Try a Brazilian topping."
+    },
+    {
+      "title": "Explore Liberdade",
+      "text": "Sushi, ramen, Japanese sweets and shops.",
+      "tip": "Go on a weekend."
+    },
+    {
+      "title": "Go out in Vila Madalena",
+      "text": "Bars, live music and restaurants, with a lively atmosphere.",
+      "tip": "Use ride-hailing apps."
+    }
+  ],
+  "foodIntro": "São Paulo's food is the most diverse in Brazil, shaped by immigration.",
+  "foods": [
+    {
+      "name": "Mortadella sandwich",
+      "text": "A giant sandwich of thin-sliced mortadella at the Municipal Market.",
+      "whereToTry": "Mercado Municipal."
+    },
+    {
+      "name": "Pastel",
+      "text": "Crisp fried pastry filled with cheese, meat or cod, served with sugar-cane juice at street fairs.",
+      "whereToTry": "Street markets and feiras."
+    },
+    {
+      "name": "Pizza",
+      "text": "Thin, crisp pizzas in Italian-Brazilian tradition, in neighbourhoods such as Bixiga.",
+      "whereToTry": "Pizzerias throughout the city."
+    },
+    {
+      "name": "Japanese food",
+      "text": "Sushi, sashimi and ramen, in the Liberdade and Aclimação neighbourhoods.",
+      "whereToTry": "Liberdade."
+    },
+    {
+      "name": "Feijoada",
+      "text": "Black bean stew, served on Wednesdays and Saturdays.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Coffee and pão de queijo",
+      "text": "Coffee from the state's plantations, and cheese bread.",
+      "whereToTry": "Cafés everywhere."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose a base near Avenida Paulista or in Jardins and Vila Madalena.",
+    "areas": [
+      {
+        "name": "Jardins and Avenida Paulista",
+        "bestFor": "Safety and convenience",
+        "text": "Hotels close to museums and restaurants."
+      },
+      {
+        "name": "Vila Madalena and Pinheiros",
+        "bestFor": "Nightlife and art",
+        "text": "Boutique hotels and guesthouses."
+      },
+      {
+        "name": "The centre",
+        "bestFor": "History",
+        "text": "Budget hotels, but avoid at night."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel or hotel", "value": "US$25–70 per night" },
+      { "label": "Mid-range hotel", "value": "US$90–180 per night" },
+      { "label": "Luxury hotel", "value": "US$220–500 per night" },
+      { "label": "Meal at a mid-range restaurant", "value": "US$15–40 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "São Paulo is Brazil's busiest air hub.",
+    "options": [
+      {
+        "mode": "Flight to Guarulhos (GRU)",
+        "text": "Direct flights from Europe, North America and other South American cities.",
+        "detail": "Allow 1 to 1.5 hours to the centre, or take a train and metro."
+      },
+      {
+        "mode": "Flight from Rio",
+        "text": "About 1 hour to Congonhas or Guarulhos.",
+        "detail": "Frequent departures."
+      },
+      {
+        "mode": "Bus from Rio",
+        "text": "About 6 hours.",
+        "detail": "Comfortable coaches."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The metro is efficient, and ride-hailing covers the rest.",
+    "options": [
+      {
+        "mode": "Metro and trains",
+        "text": "Clean and reliable, reaching many sights.",
+        "detail": "Avoid rush hours."
+      },
+      {
+        "mode": "Uber and 99",
+        "text": "The safest way to move at night.",
+        "detail": "Use the app."
+      },
+      {
+        "mode": "Walking",
+        "text": "Good along Paulista and in Vila Madalena.",
+        "detail": "Watch traffic."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and August–October",
+    "summary": "São Paulo has a mild, humid subtropical climate, with warm, rainy summers and cooler, drier winters.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Warm and rainy, with afternoon storms."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Mild and pleasant."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "good",
+        "text": "Cool and dry, with occasional cold snaps."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Warm, with jacaranda blossom."
+      }
+    ],
+    "avoid": "January and February for heavy afternoon rain."
+  },
+  "itinerary": {
+    "title": "Three days in São Paulo",
+    "intro": "The avenue and museums, markets and street art, and the parks.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Avenida Paulista",
+        "summary": "Art and culture.",
+        "morning": "MASP and the avenue.",
+        "afternoon": "The Pinacoteca or Japan House.",
+        "evening": "Dinner in Jardins."
+      },
+      {
+        "day": 2,
+        "title": "Markets and art",
+        "summary": "Food and murals.",
+        "morning": "The Mercado Municipal.",
+        "afternoon": "Beco do Batman and Vila Madalena.",
+        "evening": "A bar in Pinheiros."
+      },
+      {
+        "day": 3,
+        "title": "Parks and Liberdade",
+        "summary": "Green and Asian São Paulo.",
+        "morning": "Ibirapuera Park.",
+        "afternoon": "Liberdade.",
+        "evening": "Sunset at Terraço Itália."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you get the most out of the city.",
+  "tips": [
+    "Use the metro, and use Uber or 99 at night.",
+    "Avoid the Cracolândia area and empty streets in the centre after dark.",
+    "Keep your phone out of sight, and carry only what you need.",
+    "Go to Avenida Paulista on Sunday.",
+    "Book popular restaurants in advance.",
+    "Visit museums on weekdays, when they are less crowded.",
+    "Allow time for traffic."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in São Paulo?",
+      "a": "Two or three days for museums, food and neighbourhoods."
+    },
+    {
+      "q": "Is São Paulo worth visiting?",
+      "a": "Yes, for food and culture, if you like cities."
+    },
+    {
+      "q": "Is São Paulo safe?",
+      "a": "The main visitor areas are generally fine. Take the usual big-city precautions and avoid certain parts of the centre at night."
+    },
+    {
+      "q": "Rio or São Paulo?",
+      "a": "Rio for scenery and beaches, and São Paulo for food and culture. Many visitors do both."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "March to May and August to October."
+    },
+    {
+      "q": "What food should I try?",
+      "a": "A mortadella sandwich, pastel, pizza and Japanese food in Liberdade."
+    }
+  ],
+  "related": ["rio-de-janeiro", "paraty-ilha-grande", "ouro-preto", "iguazu-falls"],
+  "relatedArticles": ["food-primer", "week-cost-five-countries"]
+}

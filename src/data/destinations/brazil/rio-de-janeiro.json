@@ -1,0 +1,347 @@
+{
+  "slug": "rio-de-janeiro",
+  "name": "Rio de Janeiro",
+  "country": "brazil",
+  "region": "Rio de Janeiro State, south-east Brazil",
+  "categories": ["major-city", "coastal", "unesco", "cultural"],
+  "tagline": "A city squeezed between granite peaks and golden beaches, with a statue of Christ above it all, samba in the streets and a way of life that revolves around the sea.",
+  "highlight": "Sunset from the top of Sugarloaf Mountain, as the city lights come on around the bay.",
+  "shortDescription": "Brazil's most famous city: Christ the Redeemer, Sugarloaf Mountain, Copacabana and Ipanema beaches, the Tijuca rainforest, Santa Teresa, samba and Carnival.",
+  "metaDescription": "A Rio de Janeiro travel guide: Christ the Redeemer, Sugarloaf, Copacabana and Ipanema, Selarón Steps, Santa Teresa, Lapa, Tijuca Forest, Maracanã, safety, where to stay and a four-day plan.",
+  "suggestedStay": "4 days",
+  "nearestAirport": "Rio Galeão (GIG) for international flights, Santos Dumont (SDU) for domestic",
+  "knownFor": "Christ the Redeemer, Sugarloaf, Copacabana, Carnival, samba, football",
+  "budget": "US$100–200 per day, mid-range",
+  "goodFor": "Beaches, views, music, nightlife, hiking, first-time visitors",
+  "coords": { "lat": -22.9068, "lng": -43.1729 },
+  "image": {
+    "file": "File:Rio skyline and Cristo Redentor from Sugarloaf Mountain, Brazil.jpg",
+    "alt": "The skyline of Rio de Janeiro with Christ the Redeemer on Corcovado seen from Sugarloaf Mountain"
+  },
+  "intro": [
+    "Rio de Janeiro was founded by the Portuguese in 1565, and it grew rich on the gold, sugar and coffee trades. It was the capital of Portugal's empire for a time in the early 19th century, and then of Brazil until 1960, when the capital moved to Brasília. It is still the country's cultural heart, and the world's image of Brazil.",
+    "Its setting is extraordinary. Steep granite mountains, cloaked in rainforest, rise directly from the sea, dividing the city into neighbourhoods separated by tunnels and beaches. The great sights are among the most photographed anywhere: the statue of Christ the Redeemer on Corcovado, the cable car to Sugarloaf Mountain, and the crescent of Copacabana. UNESCO inscribed the city's landscapes 'between the mountain and the sea' in 2012.",
+    "Rio is also a city of contrasts, with rich neighbourhoods and favelas built on the hillsides, and crime is a real concern. But its culture, from samba and bossa nova to football and Carnival, is irresistible, and its people, the cariocas, are famously friendly and relaxed."
+  ],
+  "whyVisit": {
+    "intro": "Rio is one of the most beautiful and lively cities in the world, and the first stop for most visitors to Brazil.",
+    "points": [
+      {
+        "title": "Spectacular scenery",
+        "text": "Mountains, beaches and a rainforest within the city limits."
+      },
+      {
+        "title": "Iconic sights",
+        "text": "Christ the Redeemer and Sugarloaf are among the world's great views."
+      },
+      {
+        "title": "Beach life",
+        "text": "Copacabana and Ipanema are social spaces, with sport, drinks and people-watching."
+      },
+      {
+        "title": "Music and nightlife",
+        "text": "Samba in Lapa, bossa nova bars, and street parties throughout the year."
+      },
+      {
+        "title": "Football and Carnival",
+        "text": "Maracanã stadium and the samba schools bring the city's passions to life."
+      }
+    ]
+  },
+  "attractionsIntro": "Rio's sights are spread out, so group them by area and plan around the weather.",
+  "attractions": [
+    {
+      "name": "Christ the Redeemer (Cristo Redentor)",
+      "image": {
+        "file": "File:Redentor Over Clouds 1.jpg",
+        "alt": "The statue of Christ the Redeemer rising above the clouds on Corcovado"
+      },
+      "text": "A 30-metre Art Deco statue on the summit of Corcovado, 710 metres above the city, completed in 1931. Reach it by the historic rack railway through the Tijuca forest, or by van.",
+      "tip": "Go early, and check the cloud cover first."
+    },
+    {
+      "name": "Sugarloaf Mountain (Pão de Açúcar)",
+      "image": {
+        "file": "File:Sugarloaf Cable Car viewed from Rio de Janeiro, Brazil.jpg",
+        "alt": "The cable car ascending to Sugarloaf Mountain over Guanabara Bay"
+      },
+      "text": "A 396-metre granite peak at the mouth of Guanabara Bay, reached by two cable-car stages. The views at sunset, with the city lit up, are famous.",
+      "tip": "Go about an hour before sunset."
+    },
+    {
+      "name": "Copacabana and Ipanema",
+      "image": {
+        "file": "File:Copacabana, Rio de Janeiro.jpg",
+        "alt": "The curving Copacabana beach with buildings and mountains behind"
+      },
+      "text": "Two of the world's most famous beaches. Copacabana is a long, lively curve of sand and mosaic pavement, and Ipanema is more elegant, with Arpoador Rock at its end, a favourite sunset spot.",
+      "tip": "Keep only what you need on the beach, and use kiosks for drinks."
+    },
+    {
+      "name": "Selarón Steps and Lapa",
+      "image": {
+        "file": "File:Colorful Selaron Stairs 3.jpg",
+        "alt": "The colourful tiled Selarón Steps in Rio de Janeiro"
+      },
+      "text": "A staircase covered in tiles from around the world, created by the Chilean-born artist Jorge Selarón, beside the Lapa Arches, the centre of the city's music and nightlife.",
+      "tip": "Visit the steps in the morning, and Lapa at night with a group."
+    },
+    {
+      "name": "Santa Teresa",
+      "image": {
+        "file": "File:Bondinho de Santa Teresa na Estação Carioca 02.jpg",
+        "alt": "A yellow Santa Teresa tram at its station in Rio"
+      },
+      "text": "A hilltop neighbourhood of old mansions, artists' studios and cafés, reached by a historic yellow tram or by taxi.",
+      "tip": "Go by app taxi, and walk in daylight."
+    },
+    {
+      "name": "Tijuca National Park",
+      "image": {
+        "file": "File:Floresta da Tijuca 60.jpg",
+        "alt": "Trees and waterfalls in the Tijuca Forest above Rio"
+      },
+      "text": "One of the world's largest urban rainforests, with waterfalls, viewpoints and trails, replanted in the 19th century after coffee planting.",
+      "tip": "Hire a guide or join a tour."
+    },
+    {
+      "name": "Maracanã Stadium",
+      "image": {
+        "file": "File:Maracana Stadium 2013.jpg",
+        "alt": "The Maracanã football stadium in Rio de Janeiro"
+      },
+      "text": "The legendary stadium that hosted the 1950 and 2014 World Cup finals, and is the home of several football clubs. Tours run on non-match days.",
+      "tip": "Watch a match if you can."
+    }
+  ],
+  "thingsToDoIntro": "Rio is best enjoyed by mixing sights, beaches and evenings out.",
+  "thingsToDo": [
+    {
+      "title": "Watch the sunset at Arpoador",
+      "text": "Locals applaud as the sun sets behind the Two Brothers mountains.",
+      "tip": "Arrive early for a spot."
+    },
+    {
+      "title": "Hike to a viewpoint",
+      "text": "Trails lead up to Morro Dois Irmãos and Pedra da Gávea.",
+      "tip": "Go with a guide, in daylight."
+    },
+    {
+      "title": "Go to a samba night in Lapa",
+      "text": "Live samba and choro in bars and clubs.",
+      "tip": "Go with a group, and use ride-hailing apps."
+    },
+    {
+      "title": "See a football match",
+      "text": "A match at the Maracanã is a memorable experience of drums, songs and flags.",
+      "tip": "Book through a reputable tour."
+    },
+    {
+      "title": "Visit the Botanical Garden",
+      "text": "A green retreat with palms, orchids and monkeys.",
+      "tip": "Go in the morning."
+    },
+    {
+      "title": "Try a favela tour with a local guide",
+      "text": "A responsible guided walk by a resident shows the community, its culture and challenges.",
+      "tip": "Choose a community-led operator."
+    }
+  ],
+  "foodIntro": "Rio's food is casual and beach-centred, with local specialities such as feijoada and street snacks.",
+  "foods": [
+    {
+      "name": "Feijoada",
+      "text": "Black bean stew with pork, served with rice and collard greens, traditionally on Saturdays.",
+      "whereToTry": "Traditional restaurants in Lapa and Santa Teresa."
+    },
+    {
+      "name": "Beach snacks",
+      "text": "Grilled cheese (queijo coalho), shrimp skewers, fresh coconut water and mate, sold by vendors.",
+      "whereToTry": "Copacabana and Ipanema."
+    },
+    {
+      "name": "Pastel and coxinha",
+      "text": "Fried pastries and chicken croquettes, sold in botecos and bakeries.",
+      "whereToTry": "Corner bars."
+    },
+    {
+      "name": "Caipirinha",
+      "text": "Cachaça, lime and sugar, the national cocktail.",
+      "whereToTry": "Beach kiosks and bars."
+    },
+    {
+      "name": "Açaí",
+      "text": "Cold, thick purple bowls with granola and banana.",
+      "whereToTry": "Juice bars across the city."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose Ipanema or Copacabana for the beach, Santa Teresa for atmosphere, or Botafogo for value.",
+    "areas": [
+      {
+        "name": "Ipanema and Leblon",
+        "bestFor": "Safety and restaurants",
+        "text": "Stylish hotels and apartments near the beach."
+      },
+      {
+        "name": "Copacabana",
+        "bestFor": "Convenience and value",
+        "text": "Big hotels along the beachfront, more crowded."
+      },
+      {
+        "name": "Santa Teresa and Botafogo",
+        "bestFor": "Atmosphere and budget",
+        "text": "Guesthouses, hostels and boutique hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel or hotel", "value": "US$25–70 per night" },
+      { "label": "Mid-range hotel", "value": "US$100–200 per night" },
+      { "label": "Luxury hotel", "value": "US$250–600 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$8–20 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Rio is Brazil's second-largest international gateway.",
+    "options": [
+      {
+        "mode": "Flight to Galeão (GIG)",
+        "text": "Direct flights from Europe, North America and other South American cities.",
+        "detail": "Use an app taxi or a pre-booked transfer."
+      },
+      {
+        "mode": "Flight from São Paulo",
+        "text": "About 1 hour between the two cities, with many daily flights to Santos Dumont.",
+        "detail": "The airport is central."
+      },
+      {
+        "mode": "Bus",
+        "text": "About 6 hours from São Paulo and 4 hours from Paraty.",
+        "detail": "Book leito seats for comfort."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Use the metro and ride-hailing apps, and avoid walking at night.",
+    "options": [
+      {
+        "mode": "Metro",
+        "text": "Clean and efficient, linking Copacabana, Ipanema, the centre and the north.",
+        "detail": "Avoid rush hours."
+      },
+      {
+        "mode": "Uber and 99",
+        "text": "The safest and easiest way to move, especially at night.",
+        "detail": "Check the plate."
+      },
+      {
+        "mode": "Walking and cycling",
+        "text": "Beach promenades are walkable and have cycle lanes.",
+        "detail": "Keep valuables hidden."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–October",
+    "summary": "Rio is hot and humid in summer, and mild and drier in winter. Carnival, in February or March, is the peak.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Hot and humid, with storms. Carnival and New Year, with high prices."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Warm and less humid, with lower prices."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "best",
+        "text": "Mild and dry, with clear views."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Warm and sunny, with fewer crowds."
+      }
+    ],
+    "avoid": "Carnival and New Year if you want low prices and quiet."
+  },
+  "itinerary": {
+    "title": "Four days in Rio",
+    "intro": "The icons, the beaches, the culture and a day in nature.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The icons",
+        "summary": "Christ and the bay.",
+        "morning": "Christ the Redeemer.",
+        "afternoon": "Lunch in Santa Teresa and the Selarón Steps.",
+        "evening": "Sunset at Sugarloaf."
+      },
+      {
+        "day": 2,
+        "title": "Beaches",
+        "summary": "Sun and sea.",
+        "morning": "Copacabana and Ipanema.",
+        "afternoon": "Arpoador Rock.",
+        "evening": "Dinner in Ipanema."
+      },
+      {
+        "day": 3,
+        "title": "Nature",
+        "summary": "Green Rio.",
+        "morning": "Tijuca Forest.",
+        "afternoon": "The Botanical Garden.",
+        "evening": "Samba in Lapa."
+      },
+      {
+        "day": 4,
+        "title": "Culture and football",
+        "summary": "Museums and stadium.",
+        "morning": "Museum of Tomorrow and the port.",
+        "afternoon": "A Maracanã tour.",
+        "evening": "Farewell dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Rio rewards awareness and common sense.",
+  "tips": [
+    "Use Uber or 99 rather than street taxis, especially at night.",
+    "Carry only what you need on the beach, and leave valuables at the hotel.",
+    "Keep your phone out of sight in the street.",
+    "Do not walk on the beaches or quiet streets at night.",
+    "Visit Christ the Redeemer early, and check the cloud.",
+    "Use a reputable guide for hikes and favela tours.",
+    "Book Carnival accommodation and tickets many months ahead."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Rio?",
+      "a": "Three or four days for the main sights and beaches."
+    },
+    {
+      "q": "Is Rio safe?",
+      "a": "It has serious street crime, but millions visit safely. Take precautions, use apps, stay in well-known areas and avoid isolated places."
+    },
+    {
+      "q": "When is Carnival?",
+      "a": "In February or March, before Lent. The dates change each year."
+    },
+    {
+      "q": "What is the best time to visit Rio?",
+      "a": "April to October is drier and cooler."
+    },
+    {
+      "q": "Can I swim at Copacabana?",
+      "a": "Yes, but currents can be strong, and water quality varies. Swim near lifeguards."
+    },
+    {
+      "q": "Is it worth going up both Christ the Redeemer and Sugarloaf?",
+      "a": "Yes. They give different views, and both are highlights."
+    }
+  ],
+  "related": ["paraty-ilha-grande", "sao-paulo", "iguazu-falls", "salvador"],
+  "relatedArticles": ["packing-by-season", "week-cost-five-countries"]
+}
