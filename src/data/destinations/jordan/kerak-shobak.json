@@ -1,0 +1,301 @@
+{
+  "slug": "kerak-shobak",
+  "name": "Kerak & Shobak Castles",
+  "shortName": "Kerak and Shobak",
+  "country": "jordan",
+  "region": "Kerak and Ma'an governorates, southern Jordan",
+  "categories": ["historic", "off-the-beaten-path"],
+  "tagline": "Two Crusader fortresses on the King's Highway, one dark and vaulted and lived in by a town, the other a ruined hilltop looking over an orchard valley.",
+  "highlight": "Kerak's underground galleries and corridors, a vaulted labyrinth that you can explore with a torch.",
+  "shortDescription": "Two of the best-preserved medieval castles in the Middle East, built by the Crusaders in the 12th century and fought over by Saladin and the Mamluks.",
+  "metaDescription": "A Kerak and Shobak travel guide: the Crusader castles on the King's Highway, what to see inside, mansaf in Kerak, how to combine them with Petra and a one-day plan.",
+  "suggestedStay": "Half a day to a day",
+  "nearestAirport": "Amman Queen Alia (AMM), about 2 hours to Kerak; Aqaba (AQJ), about 2 hours to Shobak",
+  "knownFor": "Crusader castles, the King's Highway, vaulted galleries, mansaf",
+  "budget": "JD 40–80 per day, including entry",
+  "goodFor": "Castles, medieval history, road trips, off-the-beaten-path travel",
+  "coords": { "lat": 31.1800, "lng": 35.7048 },
+  "image": {
+    "file": "File:Kerak BW 1.JPG",
+    "alt": "The stone walls and towers of Kerak Castle on its hilltop"
+  },
+  "intro": [
+    "In the 12th century, the Crusader Kingdom of Jerusalem controlled the King's Highway, an ancient road along the top of the Transjordan plateau that linked Damascus with the Red Sea. To hold it, they built a chain of castles. Two of the largest, Kerak and Shobak, survive in remarkably good condition, and both are now reachable on a day's drive between Amman and Petra.",
+    "Shobak, called Montreal by its builders, was founded by King Baldwin I in 1115 on a hill above a valley of orchards. Kerak, the Crac des Moabites, was built in the 1140s on a spur above the town of the same name, and it became the base of the notorious Reynald of Châtillon, who raided caravans and provoked Saladin. Saladin took Kerak after a siege in 1188, and Shobak fell the following year.",
+    "The castles were later held by the Ayyubids and the Mamluks, and Kerak remained a strong point into the Ottoman period. Neither is as polished as a European castle, but both are large, atmospheric and far less visited than Petra, and Kerak in particular rewards a couple of hours of exploring."
+  ],
+  "whyVisit": {
+    "intro": "These are two of the best medieval castles in the region, and they sit on a road most visitors are already driving.",
+    "points": [
+      {
+        "title": "Kerak's underground galleries",
+        "text": "Long vaulted halls, stables and passages, some lit by narrow slits, run through the castle's lower levels. You can walk through them, and it feels like a real fortress."
+      },
+      {
+        "title": "Shobak's setting",
+        "text": "Sitting on a lone hilltop above a green valley, Shobak is a beautiful ruin, with a long view and few visitors."
+      },
+      {
+        "title": "A different part of Jordan",
+        "text": "The King's Highway crosses high plateaus, gorges and small towns that most people miss on the Desert Highway."
+      },
+      {
+        "title": "A good stop on the way to Petra",
+        "text": "Both castles lie along the route from Amman to Petra, and they turn a transfer day into a day of sightseeing."
+      },
+      {
+        "title": "Real hospitality",
+        "text": "Kerak is a proud, welcoming town, and mansaf here is regarded as the national dish at its best."
+      }
+    ]
+  },
+  "attractionsIntro": "Kerak takes two to three hours, Shobak one to two. Both are on the King's Highway.",
+  "attractions": [
+    {
+      "name": "Kerak Castle",
+      "text": "A large fortress on a spur, with high walls, towers and a maze of vaulted passages. It has Crusader, Ayyubid and Mamluk phases, and you can climb to the roof for views over the town and the Dead Sea.",
+      "tip": "Bring a torch for the underground galleries, and stay on the marked paths."
+    },
+    {
+      "name": "Kerak Archaeological Museum",
+      "text": "A small museum inside the castle complex, with finds from the site and the region, including Nabataean and Roman pieces.",
+      "tip": "Combine it with the castle."
+    },
+    {
+      "name": "Kerak town",
+      "text": "A hilltop town with a mostly Muslim population and an old and significant Christian minority, and a lively market and old streets around the castle.",
+      "tip": "Have lunch in town, and try the local mansaf."
+    },
+    {
+      "name": "Shobak Castle (Montreal)",
+      "image": {
+        "file": "File:Montreal Castle 05.jpg",
+        "alt": "The hilltop ruins of Shobak Castle above its valley"
+      },
+      "text": "The ruined fortress of Montreal, founded in 1115 and rebuilt by the Mamluks, with a chapel, a large tower and an unusual passage that descends through the rock to a spring.",
+      "tip": "Go with a torch and try the spiral stairway to the spring, which is 375 steps down."
+    },
+    {
+      "name": "The King's Highway",
+      "text": "The ancient route between the two castles crosses green hills, olive groves and dramatic gorges, including the deep Wadi Mujib and Wadi Hasa.",
+      "tip": "Drive it by day, and stop at the viewpoints."
+    },
+    {
+      "name": "Wadi Hasa and Wadi Mujib viewpoints",
+      "text": "The road drops and climbs across deep river canyons with spectacular views. Wadi Mujib is best known for its reserve and hiking.",
+      "tip": "Pull over at the marked viewpoints and take photographs."
+    },
+    {
+      "name": "Local markets and villages",
+      "text": "Markets and small villages along the road sell fruit, herbs, honey and bread.",
+      "tip": "Stop for tea and snacks."
+    }
+  ],
+  "thingsToDoIntro": "These are easy to do on a driving day, and they help make the most of the route.",
+  "thingsToDo": [
+    {
+      "title": "Explore Kerak's galleries",
+      "text": "Walk through the castle's vaulted passages, stables and kitchens with a torch or a phone light. It is atmospheric and you can go for hours.",
+      "tip": "Watch your head, and take care on uneven floors."
+    },
+    {
+      "title": "Have mansaf in Kerak",
+      "text": "Kerak is the home of mansaf, and a lunch here is a good way to try it. Local restaurants serve it in generous portions.",
+      "tip": "Ask for a portion to share."
+    },
+    {
+      "title": "Climb the walls",
+      "text": "Kerak's ramparts and towers offer wide views over the town and the countryside, and on a clear day the Dead Sea.",
+      "tip": "Go in the late afternoon for the best light."
+    },
+    {
+      "title": "Walk down to the spring at Shobak",
+      "text": "A stepped tunnel cut into the hill leads to a spring beneath the castle, which supplied the garrison with water. It is a strange and memorable descent.",
+      "tip": "Only go if you are comfortable in dark, enclosed spaces."
+    },
+    {
+      "title": "Combine both castles in a day",
+      "text": "Kerak in the morning, lunch in town, Shobak in the afternoon, and Petra or Dana in the evening. It makes a full day.",
+      "tip": "Start early, and plan for the road to take longer than expected."
+    },
+    {
+      "title": "Detour to Wadi Mujib",
+      "text": "The reserve's Siq trail is a short drive from Kerak, and combines with the castles.",
+      "tip": "Book in advance, and check the season."
+    }
+  ],
+  "foodIntro": "Kerak is proud of its food, and it is regarded as the source of the best mansaf in Jordan. Elsewhere on the route, simple cafés and roadside restaurants dominate.",
+  "foods": [
+    {
+      "name": "Kerak mansaf",
+      "text": "Lamb in a sauce of dried yoghurt, over rice and bread, often with pine nuts. Kerak claims to make the best version, and locals take it seriously.",
+      "whereToTry": "Traditional restaurants in Kerak, particularly at lunchtime."
+    },
+    {
+      "name": "Zarb",
+      "text": "Meat and vegetables cooked in a pit oven. It is more common at camps than restaurants but available by arrangement.",
+      "whereToTry": "Ask locally and book ahead."
+    },
+    {
+      "name": "Falafel and hummus",
+      "text": "The staple lunch, and good in every town.",
+      "whereToTry": "Stalls and small cafés on the main street."
+    },
+    {
+      "name": "Fresh bread and cheese",
+      "text": "Local bakeries sell round loaves, and shops sell white cheese and olives.",
+      "whereToTry": "Bakeries in Kerak and the villages."
+    },
+    {
+      "name": "Mountain honey and herbs",
+      "text": "Wild thyme, sage and honey are sold in roadside stalls in the highlands.",
+      "whereToTry": "Stalls on the King's Highway."
+    },
+    {
+      "name": "Sweet tea",
+      "text": "Offered generously, and always welcome.",
+      "whereToTry": "Everywhere."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors visit the castles as a stop and stay in Amman, Madaba, Dana or Petra. A few small hotels in Kerak and Shobak offer a simple overnight stay.",
+    "areas": [
+      {
+        "name": "Kerak",
+        "bestFor": "An early start at the castle",
+        "text": "A few small hotels and guesthouses in and near the town. The rooms are simple and the welcome warm."
+      },
+      {
+        "name": "Petra or Dana",
+        "bestFor": "Most itineraries",
+        "text": "Both are a comfortable distance from Shobak, and they have a much wider choice of accommodation."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse in Kerak", "value": "JD 20–40 per night" },
+      { "label": "Mid-range hotel", "value": "JD 45–90 per night" },
+      { "label": "Castle entry", "value": "Included in the Jordan Pass; a few dinars otherwise" },
+      { "label": "Mansaf lunch", "value": "JD 5–10 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Both castles lie on the King's Highway. A car or a driver is the practical way to see them.",
+    "options": [
+      {
+        "mode": "Car or private driver",
+        "text": "Kerak is about two hours from Amman by the Dead Sea Highway or the King's Highway. Shobak is another hour and a half south, and about 30 minutes from Petra.",
+        "detail": "This is the best way to combine the two in a day."
+      },
+      {
+        "mode": "Public bus",
+        "text": "Buses run to Kerak from Amman's Wihdat station, and minibuses continue to Shobak and Petra. It is slow and needs planning.",
+        "detail": "Ask about times before you go."
+      },
+      {
+        "mode": "Tour",
+        "text": "Day tours from Amman combine Kerak, Shobak and Petra or the Dead Sea.",
+        "detail": "Check what is included."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Both castles are on foot once you arrive. The towns are small.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "Kerak town and castle are on a hill, and paths are steep. Shobak is a short walk from the car park.",
+        "detail": "Wear good shoes."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Taxis in Kerak and Shobak run to the castles and the bus station.",
+        "detail": "Agree the price in advance."
+      },
+      {
+        "mode": "Hire car",
+        "text": "Easy, with good roads. A hire car is the most flexible way to explore the King's Highway.",
+        "detail": "Drive carefully. The road has sharp bends and steep drops."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "The castles are at about 900 m and are comfortable in spring and autumn. Summers are hot and winters are cold and wet, with occasional snow at Kerak.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Green hills, warm days and clear views. The best time to drive the King's Highway."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot, but the highland setting is cooler than the desert. Visit in the morning."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm and clear, with good light and few visitors."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold, wet and sometimes snowy. The castles are quiet and atmospheric, though roads may be affected."
+      }
+    ],
+    "avoid": "Days of heavy rain or snow, when the King's Highway can be treacherous."
+  },
+  "itinerary": {
+    "title": "A day on the King's Highway",
+    "intro": "Kerak in the morning, lunch in town and Shobak in the afternoon, ending at Petra or Dana. Assumes a driver or hire car from Amman or Madaba.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Two castles and a highway",
+        "summary": "Crusader history and mountain scenery.",
+        "morning": "Kerak Castle when it opens, with time in the galleries and on the walls.",
+        "afternoon": "Lunch of mansaf in Kerak, then drive to Shobak for the ruins and the spring.",
+        "evening": "Continue to Petra or Dana for the night."
+      }
+    ]
+  },
+  "tipsIntro": "These are easy sites, and a few habits help.",
+  "tips": [
+    "Bring a torch or use your phone light at Kerak and Shobak. Many of the best areas are dark.",
+    "Start early. The castles are quieter in the morning, and the day involves a lot of driving.",
+    "Take the King's Highway for the scenery, and the Desert Highway when you are in a hurry.",
+    "Wear sturdy shoes. Floors are uneven and often worn smooth.",
+    "Combine the castles with Petra or Dana rather than making a separate trip.",
+    "Have lunch in Kerak. It is a good place to try mansaf.",
+    "Carry cash for small purchases and entry, since some places do not take cards.",
+    "Check weather before driving in winter, as snow and fog can close roads."
+  ],
+  "faq": [
+    {
+      "q": "Which is better, Kerak or Shobak?",
+      "a": "Kerak is larger, more complete and more interesting to explore, with vaulted galleries you can walk through. Shobak is more ruined, but its setting is beautiful and it is quieter. If you have time for only one, choose Kerak."
+    },
+    {
+      "q": "How long do you need at the castles?",
+      "a": "Two to three hours at Kerak and one to two at Shobak, plus driving and lunch. Together they make a full day."
+    },
+    {
+      "q": "Are the castles included in the Jordan Pass?",
+      "a": "Yes, both are on the list of included sites. Check the current terms."
+    },
+    {
+      "q": "Can I visit the castles on the way to Petra?",
+      "a": "Yes, and many visitors do. Kerak is about two hours from Petra by the King's Highway, and Shobak is only 30 minutes away."
+    },
+    {
+      "q": "Who built Kerak and Shobak?",
+      "a": "The Crusaders, in the 12th century. Shobak was founded by King Baldwin I in 1115, and Kerak was built in the 1140s. Both were captured by Saladin in the 1180s and later expanded by the Mamluks."
+    },
+    {
+      "q": "Is Kerak safe to visit?",
+      "a": "Yes. It is a friendly town that receives visitors regularly. Dress modestly, and check current travel advice as usual."
+    }
+  ],
+  "related": ["petra", "dana-biosphere-reserve", "madaba-mount-nebo"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

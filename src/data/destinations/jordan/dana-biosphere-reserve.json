@@ -1,0 +1,318 @@
+{
+  "slug": "dana-biosphere-reserve",
+  "name": "Dana Biosphere Reserve",
+  "shortName": "Dana",
+  "country": "jordan",
+  "region": "Tafilah Governorate, southern Jordan",
+  "categories": ["national-park", "nature", "off-the-beaten-path"],
+  "tagline": "Jordan's largest nature reserve — a stone village on a cliff edge above a wadi that drops from juniper hills to desert, walked in a day and slept in by candlelight.",
+  "highlight": "The Dana–Feynan trail, a one-way descent of about 16 km through changing landscapes to an eco-lodge lit only by candles and solar power.",
+  "shortDescription": "A protected reserve of mountains, canyons and desert with an Ottoman-era village, a range of wildlife and Jordan's best walking.",
+  "metaDescription": "A Dana Biosphere Reserve travel guide: the Dana–Feynan trail, Dana village, Feynan Ecolodge and the Rummana campsite, wildlife, when to go and a two-day plan.",
+  "suggestedStay": "1–2 nights",
+  "nearestAirport": "Aqaba King Hussein (AQJ), about 2 hours; Amman Queen Alia (AMM), about 3 hours",
+  "knownFor": "Walking, wildlife, Dana village, Feynan Ecolodge",
+  "budget": "JD 60–120 per day, mid-range",
+  "goodFor": "Hiking, nature, quiet, eco-tourism, stargazing",
+  "coords": { "lat": 30.6800, "lng": 35.6100 },
+  "image": {
+    "file": "File:Dana Reserve 02.jpg",
+    "alt": "Dry mountain ridges and valleys in the Dana Biosphere Reserve"
+  },
+  "intro": [
+    "Dana is Jordan's largest nature reserve, covering about 320 square kilometres on the edge of the Rift Valley. It is managed by the Royal Society for the Conservation of Nature (RSCN), and its landscapes change dramatically as they fall from around 1,500 m above sea level in the mountains to about 50 m below it on the floor of Wadi Araba. In that drop it passes through four different bio-geographical zones, from cool juniper hills to sandstone canyons and desert.",
+    "At the top of the reserve sits the village of Dana, a cluster of old stone houses on a cliff edge that was largely abandoned by its residents in the late 20th century. It has been restored in part, and it looks over the wadi below. At the bottom is Wadi Feynan, an ancient copper-mining area with Neolithic and Roman remains, and the Feynan Ecolodge, an award-winning, solar-powered lodge run with local Bedouin communities.",
+    "The wildlife includes Nubian ibex, red foxes, hyenas and a wide variety of birds, though most visitors see only a fraction of it. The real draw is the walking, the quiet and the sense of being in a landscape untouched by traffic."
+  ],
+  "whyVisit": {
+    "intro": "Dana is one of the few places in Jordan where the appeal is the land itself and not the ruins.",
+    "points": [
+      {
+        "title": "Jordan's best walk",
+        "text": "The Dana–Feynan trail runs for about 16 km downhill through juniper woodland, canyon and desert, and it is a full and satisfying day."
+      },
+      {
+        "title": "A village with a view",
+        "text": "Dana village clings to the edge of a huge valley, with stone houses, a small mosque and a view that changes with the light."
+      },
+      {
+        "title": "Community-run eco-tourism",
+        "text": "The reserve and the Feynan Ecolodge are run in partnership with local communities, and your money goes directly to them."
+      },
+      {
+        "title": "Quiet and dark",
+        "text": "There are few visitors and almost no light pollution. The night sky is superb."
+      },
+      {
+        "title": "Close to Petra",
+        "text": "Only an hour from Petra by road, so it is an easy way to add a different kind of day to the itinerary."
+      }
+    ]
+  },
+  "attractionsIntro": "Dana is a place for walking, and its attractions are landscapes and small places, rather than monuments.",
+  "attractions": [
+    {
+      "name": "Dana village",
+      "image": {
+        "file": "File:Dana village, Jordan 02.jpg",
+        "alt": "Old stone houses of Dana village on a cliff edge"
+      },
+      "text": "A restored 15th-century village of stone houses on a ridge above the Dana Valley, with a small guesthouse, a craft shop and a viewpoint. Most of the original residents moved down to a modern settlement.",
+      "tip": "Stay a night if you can. The village is at its best at dawn and dusk."
+    },
+    {
+      "name": "The Dana–Feynan trail",
+      "image": {
+        "file": "File:21 Dana Feynan Trail - In the Valley - panoramio.jpg",
+        "alt": "The Dana–Feynan trail passing through a valley in the reserve"
+      },
+      "text": "A one-way walk of about 16 km, dropping from Dana village to Wadi Feynan via a series of wadis and ridges. It takes five to seven hours.",
+      "tip": "You need a guide, and you must book through the RSCN or a licensed operator."
+    },
+    {
+      "name": "Feynan Ecolodge",
+      "text": "A remote lodge lit by candles and powered by solar energy, at the foot of the reserve. It is run in partnership with a Bedouin community and is a highlight of the reserve.",
+      "tip": "Book well in advance, especially for spring and autumn."
+    },
+    {
+      "name": "Rummana Campsite",
+      "text": "A simple campsite set among the juniper trees a short walk from the village, with tents and shared facilities. It is a good budget option.",
+      "tip": "Open in the main seasons only; check with the RSCN."
+    },
+    {
+      "name": "Khirbat Faynan copper mines",
+      "text": "The ruins of one of the oldest copper-mining areas in the world, with remains of Neolithic, Bronze Age and Roman workings. It is close to the lodge and can be visited on a guided walk.",
+      "tip": "Ask at the lodge about guided walks to the mines."
+    },
+    {
+      "name": "Wadi Ghuweir and Wadi Dana walks",
+      "text": "Several other trails, including the challenging Wadi Ghuweir trail, that lead through narrow canyons with pools and rock formations.",
+      "tip": "All routes need a guide, and some involve scrambling."
+    },
+    {
+      "name": "The nature reserve wildlife",
+      "text": "The reserve is home to rare species, including the Nubian ibex, Arabian wolf and striped hyena, although you are unlikely to see them. Bird-watching is good, especially in spring and autumn.",
+      "tip": "Go with a guide and bring binoculars."
+    }
+  ],
+  "thingsToDoIntro": "Most activities in Dana involve walking, and it is best to book through the reserve and its partners.",
+  "thingsToDo": [
+    {
+      "title": "Walk the Dana–Feynan trail",
+      "text": "Start early from Dana village and walk downhill to Feynan, with a vehicle waiting for you at the end or your luggage taken ahead.",
+      "tip": "Carry more water than you think you need."
+    },
+    {
+      "title": "Stay at the Feynan Ecolodge",
+      "text": "A night in a candle-lit room with a rooftop for stargazing, and a good vegetarian dinner. Activities include guided walks, a visit to a Bedouin family and a sunrise hike.",
+      "tip": "Book months ahead in spring and autumn."
+    },
+    {
+      "title": "Visit a Bedouin family",
+      "text": "The lodge arranges visits to local families for tea, bread and conversation, a way to meet the community that runs the reserve.",
+      "tip": "Bring small gifts, such as fruit or sweets, if you are invited into a home."
+    },
+    {
+      "title": "Take a night walk under the stars",
+      "text": "With no artificial light for miles, the sky is spectacular. Some lodges run guided stargazing sessions.",
+      "tip": "Bring a warm layer; nights are cold."
+    },
+    {
+      "title": "Buy silverwork and crafts",
+      "text": "The reserve's workshops produce silver jewellery, dried-fruit products and soap, sold in the village. The proceeds support local women.",
+      "tip": "These make good, ethical gifts."
+    },
+    {
+      "title": "Combine with Petra",
+      "text": "Dana lies about an hour north of Petra. It can be an overnight stop on the way from Amman, or a second stage after a day at Petra.",
+      "tip": "A night in Dana between Amman and Petra is a good way to break up the journey."
+    }
+  ],
+  "foodIntro": "The food at Dana and Feynan is simple, seasonal and largely vegetarian, cooked by local communities.",
+  "foods": [
+    {
+      "name": "Feynan Ecolodge dinner",
+      "text": "A buffet of local vegetarian dishes, including salads, stuffed vegetables and bread baked in the lodge's oven. It is a highlight of the stay.",
+      "whereToTry": "At the Feynan Ecolodge, included in the room price."
+    },
+    {
+      "name": "Bedouin bread",
+      "text": "Thin flat bread baked on a hot metal dome or in embers.",
+      "whereToTry": "At breakfast in local homes and the lodge."
+    },
+    {
+      "name": "Dried fruit and jam",
+      "text": "Locally produced dried apricots, figs and jams, made by women in the village and sold in the craft shop.",
+      "whereToTry": "The Dana village craft shop."
+    },
+    {
+      "name": "Sage tea",
+      "text": "Hot black tea infused with wild sage, served everywhere.",
+      "whereToTry": "In the village and at the lodge."
+    },
+    {
+      "name": "Hummus and salads",
+      "text": "Simple and fresh, served with olive oil and bread.",
+      "whereToTry": "The village guesthouse."
+    },
+    {
+      "name": "Local honey and olive oil",
+      "text": "Made in the region and sold in the shops.",
+      "whereToTry": "The village and Tafilah market."
+    }
+  ],
+  "accommodation": {
+    "intro": "Options are limited, and this is part of the appeal. Book in advance for the busy seasons.",
+    "areas": [
+      {
+        "name": "Dana village",
+        "bestFor": "Views and atmosphere",
+        "text": "A few guesthouses and a small hotel in the village, with rooms and a terrace. It is basic, but the views are worth it."
+      },
+      {
+        "name": "Feynan Ecolodge",
+        "bestFor": "A memorable night",
+        "text": "A lodge at the foot of the reserve, powered by the sun and lit by candles at night. The most distinctive place to stay in Jordan."
+      },
+      {
+        "name": "Rummana Campsite",
+        "bestFor": "Budget travellers",
+        "text": "Tents in a woodland setting, with basic facilities and a friendly atmosphere."
+      }
+    ],
+    "budget": [
+      { "label": "Campsite", "value": "JD 15–30 per person" },
+      { "label": "Village guesthouse", "value": "JD 30–60 per night" },
+      { "label": "Feynan Ecolodge", "value": "JD 90–170 per person, with dinner and breakfast" },
+      { "label": "Guided walk", "value": "JD 25–70 per group, depending on the route" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Dana is about 200 km south of Amman, off the King's Highway. It is remote, and a car or a driver is the practical way to reach it.",
+    "options": [
+      {
+        "mode": "Car or driver from Amman or Petra",
+        "text": "About three hours from Amman and an hour from Petra. The last few kilometres are a steep, winding road.",
+        "detail": "Fuel up before you go."
+      },
+      {
+        "mode": "Public bus",
+        "text": "Buses run to Tafilah on the King's Highway, and taxis go from there to the village. It is slow and needs planning.",
+        "detail": "Check the schedule at your hotel."
+      },
+      {
+        "mode": "Transfer to Feynan",
+        "text": "The Feynan Ecolodge is reached by a 4x4 track from the road in Wadi Araba, and the lodge can arrange transfers.",
+        "detail": "Ask when you book."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Everything in the reserve is on foot, or by transfer with the lodges.",
+    "options": [
+      {
+        "mode": "Walking with a guide",
+        "text": "The trails are marked in places but not reliably, and guides are compulsory on most routes.",
+        "detail": "Book through the RSCN, or your accommodation."
+      },
+      {
+        "mode": "4x4 transfers",
+        "text": "Vehicles take walkers and luggage between the village and the lodge.",
+        "detail": "Arrange in advance."
+      },
+      {
+        "mode": "Walking in the village",
+        "text": "Dana village is tiny and walkable.",
+        "detail": "The paths are steep, and stone steps are uneven."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and October–November",
+    "summary": "The best conditions for walking are in spring and autumn. Summer is hot at the bottom of the reserve, and winter can be cold and wet in the mountains.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm, clear days and wildflowers. The best time for walking and the busiest."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "The trail is hot and shadeless at the lower end. Walking is not advised in the heat, and Dana village is cooler."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "October and November are ideal, with warm days, cool evenings and clear light."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold in Dana village and the upper trail, with occasional rain and snow. Feynan is warmer. Trails may be closed after heavy rain."
+      }
+    ],
+    "avoid": "Midday in summer, and the days after heavy rain, when flash floods are possible in the wadis."
+  },
+  "itinerary": {
+    "title": "Two days at Dana",
+    "intro": "A night in the village, the Dana–Feynan trail on the second day, and a night at the ecolodge. Assumes a car or a driver.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive at Dana",
+        "summary": "The village and the view.",
+        "morning": "Drive from Amman or Petra to Dana village.",
+        "afternoon": "Explore the village and its viewpoints, and walk a short trail.",
+        "evening": "Sunset over the valley and dinner at the guesthouse."
+      },
+      {
+        "day": 2,
+        "title": "Walk to Feynan",
+        "summary": "A full day on foot.",
+        "morning": "Start the Dana–Feynan trail early with a guide.",
+        "afternoon": "Arrive at the Feynan Ecolodge, and rest.",
+        "evening": "Dinner by candlelight, stargazing on the roof."
+      }
+    ]
+  },
+  "tipsIntro": "Dana is remote and simple, and these tips help you get the most from it.",
+  "tips": [
+    "Book everything in advance, especially the ecolodge and the guides. Places are limited and popular in the spring and autumn.",
+    "Use a guide for every trail. It is required, and the routes can be hard to follow.",
+    "Wear sturdy shoes and carry plenty of water. Paths are rocky, and there is little shade.",
+    "Bring a torch for the ecolodge, where lighting is by candle.",
+    "Bring cash. There are no ATMs, and cards may not work.",
+    "Avoid summer for the trail, and choose October or April for the best conditions.",
+    "Respect the reserve. Stay on marked paths, take rubbish out, and do not pick plants.",
+    "Buy local crafts. The shops support the community directly."
+  ],
+  "faq": [
+    {
+      "q": "Do I need a guide for the Dana–Feynan trail?",
+      "a": "Yes. Most trails in the reserve require a guide, who can be booked through the Royal Society for the Conservation of Nature or your accommodation. It is safer, and it supports local people."
+    },
+    {
+      "q": "How long is the Dana–Feynan trail?",
+      "a": "About 16 km, and it takes five to seven hours at a steady pace. It is mostly downhill, but the terrain is uneven."
+    },
+    {
+      "q": "Is Dana worth visiting?",
+      "a": "Yes, especially for walkers and anyone who wants a quiet, natural counterpoint to Petra and Wadi Rum. It is remote and takes some planning."
+    },
+    {
+      "q": "Can I visit Dana as a day trip?",
+      "a": "Yes, from Petra, but staying a night is much better. The village is at its best at dawn and dusk."
+    },
+    {
+      "q": "What is the Feynan Ecolodge?",
+      "a": "A remote lodge at the bottom of the reserve, powered by solar energy and lit by candles at night. It is run with a Bedouin community and is regularly praised for its sustainability."
+    },
+    {
+      "q": "When is the best time to visit Dana?",
+      "a": "March to May and October to November. Summer is hot at the lower end, and winter can be cold and wet."
+    }
+  ],
+  "related": ["petra", "kerak-shobak", "wadi-rum"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

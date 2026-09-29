@@ -1,0 +1,321 @@
+{
+  "slug": "amman",
+  "name": "Amman",
+  "country": "jordan",
+  "region": "Amman Governorate, central Jordan",
+  "categories": ["capital-city", "major-city", "historic"],
+  "tagline": "A hilly capital with a Roman theatre in the middle of downtown, a hilltop citadel and some of the best falafel in the Middle East.",
+  "highlight": "The Citadel at sunset, with the Temple of Hercules in the foreground and the white city spread across its hills below.",
+  "shortDescription": "Jordan's relaxed, layered capital, where Roman columns, Umayyad palaces and bustling souks sit beside cafés, galleries and a good museum.",
+  "metaDescription": "An Amman travel guide: the Citadel and Roman Theatre, downtown souks and food, Rainbow Street, the Jordan Museum, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Amman Queen Alia (AMM), about 40 minutes",
+  "knownFor": "The Citadel, the Roman Theatre, Rainbow Street, falafel and kunafa",
+  "budget": "JD 60–120 per day, mid-range",
+  "goodFor": "Food, history, museums, a gateway city",
+  "coords": { "lat": 31.9539, "lng": 35.9106 },
+  "image": {
+    "file": "File:Roman theater of Amman 01.jpg",
+    "alt": "The steeply raked Roman Theatre in the centre of downtown Amman"
+  },
+  "intro": [
+    "Amman is built on hills, and it began with a hill. The Citadel, Jabal al-Qal'a, has been occupied since the Bronze Age, and the city that grew below it was called Rabbath-Ammon, then Philadelphia under the Ptolemies and the Romans, and finally Amman. The Umayyads left a palace on the summit, and after centuries of neglect the city grew rapidly during the 20th century, as the capital of the new Hashemite kingdom and as a refuge for waves of people from across the region.",
+    "That history shows on the ground. A 6,000-seat Roman theatre sits in the middle of the old downtown, known as al-Balad, surrounded by souks, coffee shops and street-food stalls. Above it, the Citadel looks over a city that has spread across nineteen or so hills, and beyond it lie the cafés and galleries of Jabal Amman, Jabal al-Weibdeh and Abdoun.",
+    "Amman is not a beautiful city in the postcard sense, and it is not trying to be. It is a place to eat well, walk through layers of history, visit a good museum and get your bearings before heading to the desert, the Dead Sea or the north."
+  ],
+  "whyVisit": {
+    "intro": "Amman is the gateway to Jordan, and it is worth more than a night between flights.",
+    "points": [
+      {
+        "title": "A living Roman theatre",
+        "text": "The Roman Theatre dates from the 2nd century AD and is still used for concerts and events, with a small museum of Jordanian folklore in its wings."
+      },
+      {
+        "title": "The Citadel",
+        "text": "A hilltop site with the remains of a Roman Temple of Hercules, a Byzantine church and an Umayyad palace complex, and the best viewpoint in the city."
+      },
+      {
+        "title": "Food that rewards curiosity",
+        "text": "Falafel, hummus, fuul, kunafa and mansaf are all done at a very high standard, and often cost less than a coffee elsewhere."
+      },
+      {
+        "title": "A real museum",
+        "text": "The Jordan Museum in Ras al-Ain displays some of the world's oldest known statues, the 9,000-year-old Ain Ghazal figures, along with fragments of the Dead Sea Scrolls."
+      },
+      {
+        "title": "A useful base",
+        "text": "Jerash, Madaba, Mount Nebo and the Dead Sea are all day trips of one to two hours, so you can stay in one hotel and go out each morning."
+      }
+    ]
+  },
+  "attractionsIntro": "Downtown and the Citadel can be done in a day on foot, with the museum and Rainbow Street in the evenings or a second day.",
+  "attractions": [
+    {
+      "name": "The Citadel (Jabal al-Qal'a)",
+      "image": {
+        "file": "File:Temple of Hercules - Amman citadel.jpg",
+        "alt": "The columns of the Temple of Hercules on the Amman Citadel"
+      },
+      "text": "The hill above downtown, home to the giant columns of the Temple of Hercules, a small archaeological museum, the ruined Byzantine church and the 8th-century Umayyad Palace with its domed audience hall.",
+      "tip": "Go in the late afternoon for the light and the view, and combine it with the Roman Theatre before dinner."
+    },
+    {
+      "name": "The Roman Theatre and Odeon",
+      "text": "A steeply raked theatre built in the 2nd century AD with room for around 6,000 people. A smaller Odeon sits alongside it, and two small museums are tucked into the wings.",
+      "tip": "Climb to the top for a panorama over downtown, and go early in the day to avoid the heat."
+    },
+    {
+      "name": "Downtown (al-Balad)",
+      "text": "The old centre of the city, a maze of shops, coffee stalls and market streets around the Husseini Mosque. It is busy, loud, and the best place to eat, drink coffee and watch daily life.",
+      "tip": "Go in the evening, when the city comes out, and have a light stomach."
+    },
+    {
+      "name": "King Abdullah I Mosque",
+      "image": {
+        "file": "File:Amman BW 29.JPG",
+        "alt": "The blue-domed King Abdullah I Mosque in Amman"
+      },
+      "text": "A large mosque with a blue mosaic dome, built in the 1980s. Non-Muslim visitors can enter outside prayer times, and a small museum inside covers the history of Islam.",
+      "tip": "Dress modestly and remove your shoes. Women will be given a robe if needed."
+    },
+    {
+      "name": "The Jordan Museum",
+      "text": "Jordan's national museum, with the Ain Ghazal statues, Dead Sea Scroll fragments including the Copper Scroll, and displays covering the country's history from the Stone Age to the present.",
+      "tip": "Allow two to three hours. It is a good place to visit before you go to Petra or Jerash."
+    },
+    {
+      "name": "Rainbow Street",
+      "image": {
+        "file": "File:Rainbow Street in Jordan.jpg",
+        "alt": "Rainbow Street in Amman, lined with cafés and shops"
+      },
+      "text": "A lively street on Jabal Amman with cafés, bookshops and restaurants, and a view over the old city. It is the most relaxed and international part of Amman.",
+      "tip": "Go in the evening, and look for the side streets and stairs down to the downtown."
+    },
+    {
+      "name": "Jabal al-Weibdeh",
+      "text": "A hilltop neighbourhood of galleries, small cafés and murals, and the base for the city's arts scene. It is a good place for a quiet coffee and a walk.",
+      "tip": "Look for the murals on the stairs and the Darat al-Funun gallery."
+    }
+  ],
+  "thingsToDoIntro": "Amman rewards wandering and eating, and it is at its best in the evening.",
+  "thingsToDo": [
+    {
+      "title": "Eat falafel and hummus downtown",
+      "text": "Downtown holds several no-frills restaurants that serve the same menu of falafel, hummus, fuul and bread that they have served for decades, at tables that often spill into the alley.",
+      "tip": "Expect to queue at peak times, and order too much."
+    },
+    {
+      "title": "Watch the sunset from the Citadel",
+      "text": "The view over the city at golden hour is the best in Amman, and the Temple of Hercules is stunning in the light.",
+      "tip": "Arrive an hour before sunset so you have time to see the museum first."
+    },
+    {
+      "title": "Wander the souks",
+      "text": "The gold souk, the spice sellers, the vegetable market and the coffee sellers are all within a few streets of the theatre.",
+      "tip": "Bargain politely for anything that does not have a marked price."
+    },
+    {
+      "title": "Try a Turkish-style bath or hammam",
+      "text": "A few traditional hammams operate in and around the city and offer a scrub and massage in a historic setting.",
+      "tip": "Book ahead and check whether there are separate times for men and women."
+    },
+    {
+      "title": "Take a day trip",
+      "text": "Jerash is an hour north, the Dead Sea 45 minutes south-west, and Madaba and Mount Nebo about 40 minutes south. All are easy with a hire car or a driver.",
+      "tip": "Combine Madaba, Mount Nebo and the Dead Sea for a single long day."
+    },
+    {
+      "title": "Have a coffee and a game of backgammon",
+      "text": "Traditional coffee houses across the city serve tea and coffee, and locals play cards, backgammon and dominoes for hours.",
+      "tip": "Try Turkish coffee, ask for it medium sweet, and do not stir it."
+    }
+  ],
+  "foodIntro": "Amman's food is the best introduction to Jordanian cooking. The city has an unusually high standard of cheap eating, and the real specialities are simple.",
+  "foods": [
+    {
+      "name": "Falafel and hummus",
+      "text": "Crisp falafel, warm hummus with olive oil, fuul and fresh bread. The heart of a Jordanian breakfast and a classic lunch.",
+      "whereToTry": "The old downtown, where crowded, no-frills places have served the same menu for decades."
+    },
+    {
+      "name": "Mansaf",
+      "text": "Lamb cooked in dried fermented yoghurt and served with rice and bread. Traditionally eaten on special occasions, and now in restaurants.",
+      "whereToTry": "Traditional restaurants in Jabal Amman and Abdoun; ask for a half portion if you are alone."
+    },
+    {
+      "name": "Kunafa",
+      "text": "A warm cheese pastry soaked in syrup and topped with pistachio. It is eaten hot from the tray and often bought by weight.",
+      "whereToTry": "Long-established sweet shops downtown."
+    },
+    {
+      "name": "Shawarma",
+      "text": "Marinated chicken or lamb carved from a spit into flatbread with garlic sauce and pickles. It is a cheap and ubiquitous street-food staple.",
+      "whereToTry": "Stalls and small shops throughout the city."
+    },
+    {
+      "name": "Maqluba",
+      "text": "A one-pot dish of rice, chicken or lamb and vegetables, turned upside down onto a platter. It is a home-cooked favourite.",
+      "whereToTry": "Home-style restaurants on the side streets of Jabal Amman."
+    },
+    {
+      "name": "Fresh juice and Arabic coffee",
+      "text": "Fresh-squeezed orange, pomegranate and carrot juice sold from stalls, and small cups of cardamom coffee in cafés.",
+      "whereToTry": "Downtown stalls and any traditional café."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose between the atmosphere of downtown, the café culture of Jabal Amman and Weibdeh, and the polish of Abdoun and the western hotels. All are within 20 minutes of each other.",
+    "areas": [
+      {
+        "name": "Downtown (al-Balad)",
+        "bestFor": "Atmosphere and cheap food",
+        "text": "Simple hotels and guesthouses within walking distance of the Roman Theatre and the souks. Noisy and busy, but the most authentic part of the city."
+      },
+      {
+        "name": "Jabal Amman and Jabal al-Weibdeh",
+        "bestFor": "Cafés, culture and walkability",
+        "text": "Boutique hotels, cafés and galleries near Rainbow Street and the Weibdeh galleries, with easy access to downtown."
+      },
+      {
+        "name": "Abdoun and western Amman",
+        "bestFor": "Comfort and business travel",
+        "text": "Modern hotels, malls and restaurants. It is quieter and pricier and you will need taxis to get downtown."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or budget hotel", "value": "JD 15–35 per night" },
+      { "label": "Mid-range hotel", "value": "JD 50–100 per night" },
+      { "label": "Boutique or five-star hotel", "value": "JD 110–250 per night" },
+      { "label": "Meal at a local restaurant", "value": "JD 3–10 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Amman is the main gateway to Jordan. Queen Alia International Airport is about 35 km south of the city.",
+    "options": [
+      {
+        "mode": "Queen Alia International Airport (AMM)",
+        "text": "The main international airport, with connections across Europe, the Gulf and beyond. Taxis and airport buses reach the city in about 40 minutes.",
+        "detail": "The official airport taxi has a fixed price, and the Airport Express bus is cheaper."
+      },
+      {
+        "mode": "JETT and intercity buses",
+        "text": "Comfortable air-conditioned coaches connect Amman with Petra, Aqaba and other cities. The JETT station is in Abdali.",
+        "detail": "Book a day ahead in busy periods."
+      },
+      {
+        "mode": "Car or private driver",
+        "text": "Amman is the hub for road trips to Jerash, Madaba, the Dead Sea and Petra. Hire cars are available at the airport and in the city.",
+        "detail": "Collect the car on the way out of the city rather than in the centre, where traffic is hard."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Amman is hilly and spread out, and public transport is limited. Taxis and ride-hailing apps are the practical choice.",
+    "options": [
+      {
+        "mode": "Taxis and ride-hailing",
+        "text": "Yellow taxis are cheap and widely available, and ride-hailing apps such as Uber and Careem work well and avoid haggling.",
+        "detail": "If you use a taxi, insist on the meter or agree a price first."
+      },
+      {
+        "mode": "Walking",
+        "text": "Downtown and Rainbow Street are walkable, though the hills and the traffic make longer walks tiring. Stairs link the hills, and crossing roads requires care.",
+        "detail": "Wear comfortable shoes, and avoid midday in summer."
+      },
+      {
+        "mode": "Buses and BRT",
+        "text": "A bus rapid transit line and regular buses operate in the city, though they are aimed at commuters rather than visitors.",
+        "detail": "For most tourists, taxis are easier."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Amman sits at about 900 m and has a mild climate compared with the south. It is pleasant for much of the year, with hot summers and cool, sometimes wet winters.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm, sunny days and cool evenings. The hills are green after winter rain, and it is comfortable for walking."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot by day but often cooler than the south, with dry heat and pleasant evenings. It is manageable if you plan for early mornings and long lunches."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm days and mild nights, with fewer crowds. Excellent for exploring on foot."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold and wet, with occasional snow. Bring a coat, and expect fewer visitors and lower prices."
+      }
+    ],
+    "avoid": "Public holidays and Ramadan afternoons, when many restaurants and shops close early or open later."
+  },
+  "itinerary": {
+    "title": "Two days in Amman",
+    "intro": "The Citadel, Roman Theatre and downtown on the first day, and the museum and neighbourhoods on the second. Assumes a hotel in Jabal Amman or downtown.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old city",
+        "summary": "History, food and sunset.",
+        "morning": "Breakfast of falafel and hummus downtown, then the Roman Theatre and Odeon.",
+        "afternoon": "The souks and a coffee, then a taxi up to the Citadel.",
+        "evening": "Sunset at the Temple of Hercules and dinner on Rainbow Street."
+      },
+      {
+        "day": 2,
+        "title": "Museums and neighbourhoods",
+        "summary": "A slower day.",
+        "morning": "The Jordan Museum in Ras al-Ain.",
+        "afternoon": "Lunch in Jabal al-Weibdeh, its galleries and murals, and the King Abdullah I Mosque.",
+        "evening": "Kunafa downtown and a stroll through the old centre."
+      }
+    ]
+  },
+  "tipsIntro": "Amman is an easy and friendly city, and a few habits help.",
+  "tips": [
+    "Use ride-hailing apps. They save haggling, and they avoid the risk of overcharging that can come with street taxis.",
+    "Eat downtown at least once, at a place with a queue. It is the best way to taste the city at a low price.",
+    "Wear comfortable shoes. The hills and the stairs are steeper than they look.",
+    "Visit the Citadel in the late afternoon. It is cooler, and the light is better.",
+    "Dress modestly when you leave the tourist areas, particularly downtown and in mosques.",
+    "Take cash. Small restaurants and street stalls do not accept cards.",
+    "Give yourself time for the traffic. Amman roads get very congested at rush hour and on Thursday and Friday evenings.",
+    "Take the museum seriously. The Jordan Museum is a good introduction to what you will see at Petra and Jerash."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Amman?",
+      "a": "Two is enough for the Citadel, the Roman Theatre, downtown, the museum and a couple of good meals. Add extra days if you want to use the city as a base for Jerash, Madaba and the Dead Sea."
+    },
+    {
+      "q": "Is Amman safe?",
+      "a": "Amman is generally regarded as safe for visitors, with low levels of violent crime. Normal precautions apply, particularly against pickpockets in crowded areas. Check your government's current travel advice."
+    },
+    {
+      "q": "What is the best area to stay in Amman?",
+      "a": "Jabal Amman or Jabal al-Weibdeh for cafés, culture and walkability, or downtown for atmosphere and cheap food. Abdoun and western Amman suit those who want modern hotels."
+    },
+    {
+      "q": "Can I visit the King Abdullah I Mosque as a non-Muslim?",
+      "a": "Yes, outside prayer times. Dress modestly, remove your shoes at the entrance, and expect to be given a robe if you need one. Check current opening hours locally."
+    },
+    {
+      "q": "How do I get from the airport to Amman?",
+      "a": "By taxi (fixed price), the Airport Express bus or a pre-arranged transfer. It takes about 40 minutes without traffic. Ride-hailing apps also work at the airport."
+    },
+    {
+      "q": "Is Amman good for a day trip?",
+      "a": "Amman is a good base for day trips to Jerash, Madaba and Mount Nebo, and the Dead Sea. All are between 45 minutes and 90 minutes by road."
+    }
+  ],
+  "related": ["jerash", "madaba-mount-nebo", "dead-sea-jordan"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

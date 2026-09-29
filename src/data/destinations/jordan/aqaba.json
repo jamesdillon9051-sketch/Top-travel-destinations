@@ -1,0 +1,322 @@
+{
+  "slug": "aqaba",
+  "name": "Aqaba",
+  "country": "jordan",
+  "region": "Aqaba Governorate, southern Jordan",
+  "categories": ["coastal", "major-city"],
+  "tagline": "Jordan's only seaport and its only beach resort, with a Red Sea reef a few metres from the shore and desert mountains behind.",
+  "highlight": "Diving or snorkelling a coral reef in the morning, and standing in the Wadi Rum desert by the evening.",
+  "shortDescription": "A relaxed Red Sea port city with warm winters, coral reefs, a Mamluk fort and a good base for Wadi Rum and Petra.",
+  "metaDescription": "An Aqaba travel guide: diving and snorkelling on the Red Sea, the fort and the old city, beaches and resorts, when to go, and a two-day plan with Wadi Rum and Petra.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Aqaba King Hussein (AQJ), about 15 minutes",
+  "knownFor": "Red Sea diving, warm winters, Aqaba Fort, a gateway to Wadi Rum",
+  "budget": "JD 60–130 per day, mid-range",
+  "goodFor": "Diving and snorkelling, beaches, winter sun, a rest at the end of a trip",
+  "coords": { "lat": 29.5320, "lng": 35.0063 },
+  "image": {
+    "file": "File:South Beach, Aqaba, Jordan.jpg",
+    "alt": "The South Beach at Aqaba with the Red Sea and mountains behind"
+  },
+  "intro": [
+    "Aqaba sits at the head of the Gulf of Aqaba, a narrow arm of the Red Sea, at the meeting point of Jordan, Israel, Egypt and Saudi Arabia. There has been a port here for thousands of years, and the city is Jordan's only outlet to the sea. Its ancient predecessor Ayla was one of the earliest Islamic towns, and in 1917 Lawrence and the Arab forces captured Aqaba from the Ottomans in a famous overland assault.",
+    "Today it is a small, relaxed and rapidly changing city. It has a special economic zone with hotels, marinas and a waterfront development, and the old town has a lively market and a Mamluk-period fort. The sea is the main attraction: the Gulf of Aqaba has some of the northernmost coral reefs in the world, and they are in surprisingly good health.",
+    "Aqaba is also a very practical base. It is an hour from Wadi Rum, two from Petra, and it has an airport with low-cost connections. For many visitors it is the last stop on the trip: a chance to swim, snorkel and rest after the desert and the walking."
+  ],
+  "whyVisit": {
+    "intro": "Aqaba is where the Jordan trip turns into a beach holiday, if you want it to.",
+    "points": [
+      {
+        "title": "A Red Sea reef within a few minutes",
+        "text": "Coral gardens, sea turtles and reef fish can be reached from the shore or by a short boat ride, and diving is excellent and inexpensive."
+      },
+      {
+        "title": "Warm winters",
+        "text": "While the rest of the country is cold, Aqaba is often 20–25°C in January, which makes it a good winter beach destination."
+      },
+      {
+        "title": "Wreck diving",
+        "text": "The Cedar Pride, a cargo ship deliberately sunk in 1985 as an artificial reef, is one of the best-known wreck dives in the Red Sea."
+      },
+      {
+        "title": "A relaxed, small city",
+        "text": "Aqaba has none of Amman's bustle. It has a promenade, a market and a fort, and it is easy to walk."
+      },
+      {
+        "title": "A convenient base",
+        "text": "Wadi Rum and Petra are both within two hours, and there are ferry and land connections to Egypt and Israel."
+      }
+    ]
+  },
+  "attractionsIntro": "Most of what Aqaba offers is on or under the water, with a few land sights to fill a rest day.",
+  "attractions": [
+    {
+      "name": "The Red Sea reef",
+      "text": "The reef along the southern coast has walls, coral gardens and a huge variety of fish, with excellent visibility. Sites such as the Japanese Garden and the Seven Sisters are popular with divers.",
+      "tip": "Sea temperatures are comfortable all year, from about 21°C in winter to 28°C in summer."
+    },
+    {
+      "name": "The Cedar Pride wreck",
+      "text": "A 74 m cargo ship sunk deliberately in 1985 after a fire, lying on its side in about 25 m of water. Now covered in coral, it is one of the best-known dives in the region.",
+      "tip": "Suitable for certified divers, and usually done as part of a two-dive trip."
+    },
+    {
+      "name": "Aqaba Fort",
+      "image": {
+        "file": "File:Aqaba-fort-flickr01.jpg",
+        "alt": "The Mamluk fort at Aqaba beside the Red Sea"
+      },
+      "text": "A small fort of Mamluk origin, later rebuilt by the Ottomans, with an inscription above the gate. It stands on the waterfront and contains a small museum.",
+      "tip": "It is close to the market, so combine the two."
+    },
+    {
+      "name": "The Great Arab Revolt Flagpole",
+      "text": "One of the tallest free-standing flagpoles in the world, at about 130 m, flying the flag of the Arab Revolt. It is a dramatic landmark visible from across the Gulf.",
+      "tip": "It is best seen at dusk, when it is lit up."
+    },
+    {
+      "name": "Ayla, the early Islamic city",
+      "text": "The excavated remains of one of the first Islamic settlements, a walled town from the 7th century AD, with streets, a mosque and houses. It is close to the Ayla marina.",
+      "tip": "Visit in the late afternoon, and combine it with the Aqaba Archaeological Museum."
+    },
+    {
+      "name": "The Aqaba Marine Park and beaches",
+      "image": {
+        "file": "File:Marina Berthing on the red sea, in Aqaba.jpg",
+        "alt": "Boats moored in the marina at Aqaba on the Red Sea"
+      },
+      "text": "The public and private beaches along the southern coast, with the marine park reserve and the best snorkelling. A number of resorts run beaches for day guests.",
+      "tip": "Public beaches can be conservative, so check dress codes, and bring water shoes."
+    },
+    {
+      "name": "The souk",
+      "text": "A lively market in the old centre, with spices, coffee, sweets and everyday goods. It is a good place for a walk in the evening.",
+      "tip": "Try the roasted nuts and fresh juice."
+    }
+  ],
+  "thingsToDoIntro": "Aqaba is best for activities on the water, and the rest of your time can be spent relaxing.",
+  "thingsToDo": [
+    {
+      "title": "Snorkel or dive on the reef",
+      "text": "Dive centres offer courses, boat dives and shore dives at prices that are among the lowest in the Red Sea. Snorkelling from the shore or a boat is also excellent.",
+      "tip": "Book through a PADI or SSI centre with good reviews and check that the equipment is in good condition."
+    },
+    {
+      "title": "Take a glass-bottom boat or a sailing trip",
+      "text": "Short boat trips run along the coast and out to the reef, with time to swim and snorkel.",
+      "tip": "Go in the morning, when the sea is calmer."
+    },
+    {
+      "title": "Spend a day at a beach club",
+      "text": "Several resorts have private beaches open to day visitors, with sunbeds, showers and restaurants.",
+      "tip": "Check the fee and what is included."
+    },
+    {
+      "title": "Walk the corniche at sunset",
+      "text": "The seafront promenade is a good place to see the sun set behind the mountains of Sinai.",
+      "tip": "The view across the gulf includes the lights of Eilat, Taba and Saudi Arabia."
+    },
+    {
+      "title": "Visit Wadi Rum",
+      "text": "Wadi Rum is about an hour away, and many visitors combine it with a night at Aqaba. Half-day and day trips are easy to book.",
+      "tip": "A night in the desert is better than a day trip."
+    },
+    {
+      "title": "Take a short trip to the Red Sea islands",
+      "text": "Boat trips run to nearby reefs and islands, some with snorkelling and lunch on board.",
+      "tip": "Check what is included, and take sun protection."
+    }
+  ],
+  "foodIntro": "Aqaba is a seafood town, and it is one of the few places in Jordan where fish is a staple. The rest of the menu is the standard Jordanian mix.",
+  "foods": [
+    {
+      "name": "Sayadieh",
+      "text": "A dish of fish cooked with rice, onions and spices, a regional speciality of the Levantine coast and popular in Aqaba.",
+      "whereToTry": "Seafood restaurants along the corniche and in the old town."
+    },
+    {
+      "name": "Grilled fresh fish",
+      "text": "Whole fish, such as sea bream or red snapper, grilled and served with lemon, salad and bread. You often choose the fish yourself.",
+      "whereToTry": "Fish restaurants on the seafront and in the old town."
+    },
+    {
+      "name": "Fish and prawn dishes",
+      "text": "Prawns, calamari and mixed seafood platters, spiced in a Jordanian way, are common at restaurants along the coast.",
+      "whereToTry": "Waterfront restaurants."
+    },
+    {
+      "name": "Falafel and hummus",
+      "text": "Cheap and good, as everywhere in Jordan.",
+      "whereToTry": "Stalls and cafés in the town centre."
+    },
+    {
+      "name": "Fresh juice",
+      "text": "Pomegranate, orange and lemon-mint juices are very good in the heat.",
+      "whereToTry": "Juice bars in the souk and along the promenade."
+    },
+    {
+      "name": "Kunafa and sweets",
+      "text": "Hot cheese pastry and other sweets are sold in shops in the centre.",
+      "whereToTry": "Sweet shops around the souk."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose between the resorts along the beach, the town centre and the new marina development. All are close to each other.",
+    "areas": [
+      {
+        "name": "The southern beach strip",
+        "bestFor": "Diving, beaches and resorts",
+        "text": "Larger hotels and dive centres along the coast, with private beaches. It is quiet and a few kilometres from the centre."
+      },
+      {
+        "name": "Town centre",
+        "bestFor": "Value and local atmosphere",
+        "text": "Small hotels and guesthouses near the corniche and the souk. It is convenient for restaurants and buses."
+      },
+      {
+        "name": "Ayla and the marina",
+        "bestFor": "Newer, upmarket hotels",
+        "text": "A modern development with luxury hotels, restaurants and a lagoon, at the northern end of the coast."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel or hostel", "value": "JD 20–40 per night" },
+      { "label": "Mid-range hotel", "value": "JD 60–110 per night" },
+      { "label": "Beach resort", "value": "JD 120–300 per night" },
+      { "label": "Two-dive boat trip", "value": "JD 45–70 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Aqaba has its own airport and is connected by road to Amman, Petra and Wadi Rum.",
+    "options": [
+      {
+        "mode": "Aqaba King Hussein International Airport (AQJ)",
+        "text": "About 15 minutes from the town centre, with low-cost flights from Amman and several European and regional cities.",
+        "detail": "Flying into Amman and out of Aqaba avoids the long drive back."
+      },
+      {
+        "mode": "JETT bus from Amman",
+        "text": "Around four hours by air-conditioned coach along the Desert Highway. Book a day ahead in busy periods.",
+        "detail": "The bus station is in the town centre."
+      },
+      {
+        "mode": "From Petra and Wadi Rum",
+        "text": "About two hours from Petra and an hour from Wadi Rum, by taxi, private driver or minibus.",
+        "detail": "Arrange transfers through your hotel."
+      },
+      {
+        "mode": "Regional crossings",
+        "text": "Ferries connect to Nuweiba in Egypt, and a land border links Aqaba to Eilat in Israel. Both change with conditions, so check them before you plan.",
+        "detail": "Check visa rules, opening hours and current advice for both crossings."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Aqaba is small enough for taxis and short walks.",
+    "options": [
+      {
+        "mode": "Taxi",
+        "text": "Cheap and plentiful. A ride across town costs a few dinars.",
+        "detail": "Use the meter or agree a price first."
+      },
+      {
+        "mode": "Walking",
+        "text": "The centre, corniche and souk are walkable, though summer heat makes it unpleasant.",
+        "detail": "Go early or late."
+      },
+      {
+        "mode": "Hire car",
+        "text": "Useful for going to Wadi Rum, Petra and the southern beaches.",
+        "detail": "Hire cars are available at the airport and in town."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–April",
+    "summary": "Aqaba is hot for much of the year. It is at its best from October to April, when the days are warm and the sea is comfortable, and summer is extremely hot but good for diving.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm days of 25–33°C, warm sea and clear water. An excellent time for diving and beach days."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Very hot, often over 40°C, and humid. The sea is warm and diving is fine, but the land is punishing."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Hot in September and pleasant from October. The sea is at its warmest."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Mild and sunny, with days of about 20–24°C. Sea temperatures are cooler, so a wetsuit is useful, and it is a good escape from cold weather elsewhere."
+      }
+    ],
+    "avoid": "Midday in summer. Many visitors avoid July and August altogether."
+  },
+  "itinerary": {
+    "title": "Two days in Aqaba",
+    "intro": "A dive or snorkel on the first day, the fort and old town in the evening, and a trip to Wadi Rum or a beach day on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "On the water",
+        "summary": "Diving, snorkelling and a seafood dinner.",
+        "morning": "A boat trip to the reef, with two dives or a snorkel session.",
+        "afternoon": "Rest by the pool or beach, then the fort.",
+        "evening": "A walk along the corniche and a seafood dinner in the old town."
+      },
+      {
+        "day": 2,
+        "title": "Ayla and the beach",
+        "summary": "A slower day.",
+        "morning": "Ayla's early Islamic ruins and the museum.",
+        "afternoon": "A beach club or a half-day trip to Wadi Rum.",
+        "evening": "Sunset by the Arab Revolt flagpole and a last dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Aqaba is easy, and a few tips make the water better.",
+  "tips": [
+    "Choose a reputable dive centre, and check equipment and safety briefings. Standards are generally good, but they vary.",
+    "Do not touch or stand on coral. The reef is protected and easily damaged.",
+    "Wear a rash vest or T-shirt when snorkelling. The sun is intense, and it stops you burning.",
+    "Dress modestly in the town. Beachwear is for the beach, and locals will notice.",
+    "Book flights into Amman and out of Aqaba, or the reverse, to avoid the long drive.",
+    "Check ferry and border crossings before you rely on them.",
+    "Avoid midday in summer. Plan water activities in the morning and late afternoon.",
+    "Take cash for small purchases. Cards work at hotels and larger restaurants, but not in the souk."
+  ],
+  "faq": [
+    {
+      "q": "Is Aqaba worth visiting?",
+      "a": "Yes, for diving, snorkelling and a rest at the end of a trip. It is a small, relaxed city with a good reef and warm winter weather. It is not a major sightseeing destination on its own."
+    },
+    {
+      "q": "How many days do you need in Aqaba?",
+      "a": "Two days is enough for a dive, the old town and a rest. Add one more if you want to visit Wadi Rum or take a diving course."
+    },
+    {
+      "q": "Is diving in Aqaba good?",
+      "a": "Very good. The reef is in good condition, visibility is excellent, and prices are lower than in many Red Sea resorts. The Cedar Pride wreck is a highlight."
+    },
+    {
+      "q": "Can I cross to Israel or Egypt from Aqaba?",
+      "a": "Yes, by land to Eilat or by ferry to Nuweiba. Crossings change with conditions and may close, so check opening hours, visa rules and government advice before you go."
+    },
+    {
+      "q": "What is the best time to visit Aqaba?",
+      "a": "October to April for comfortable weather, and March to May and October for the best balance of warmth and comfort. Summer is very hot."
+    },
+    {
+      "q": "Can I swim in Aqaba in winter?",
+      "a": "Yes. The sea is about 21–23°C, cool but swimmable, and a wetsuit is useful for diving. Air temperatures are pleasant."
+    }
+  ],
+  "related": ["wadi-rum", "petra", "dana-biosphere-reserve"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

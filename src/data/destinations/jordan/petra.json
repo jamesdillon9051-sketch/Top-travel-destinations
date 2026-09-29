@@ -1,0 +1,333 @@
+{
+  "slug": "petra",
+  "name": "Petra",
+  "country": "jordan",
+  "region": "Ma'an Governorate, southern Jordan",
+  "categories": ["unesco", "archaeological", "historic"],
+  "tagline": "A Nabataean capital carved into rose-coloured cliffs, reached through a mile-long canyon that ends at a temple facade in a slot of light.",
+  "highlight": "The Monastery — an 800-step climb to a rock-cut facade almost as large as the Treasury, with a fraction of the crowd.",
+  "shortDescription": "The Nabataean capital that the desert hid from the West for centuries, with tombs, temples, a theatre and a colonnaded street cut from the sandstone of a hidden valley.",
+  "metaDescription": "A Petra travel guide: the Siq and the Treasury, the Monastery and the High Place of Sacrifice, tickets and the Jordan Pass, where to stay in Wadi Musa and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Aqaba King Hussein (AQJ), about 2 hours; Amman Queen Alia (AMM), about 3 hours",
+  "knownFor": "The Treasury, the Siq, the Monastery, the Royal Tombs",
+  "budget": "JD 80–160 per day, mid-range, plus entry",
+  "goodFor": "Archaeology, walking, photography, history",
+  "coords": { "lat": 30.3285, "lng": 35.4444 },
+  "image": {
+    "file": "File:Petra , Al-Khazneh 2.jpg",
+    "alt": "The rock-cut facade of Al-Khazneh, the Treasury, at Petra"
+  },
+  "intro": [
+    "Petra was the capital of the Nabataeans, an Arab people who grew rich two thousand years ago by controlling the caravan routes that carried frankincense, myrrh and spices between southern Arabia and the Mediterranean. They carved their tombs and temples into the sandstone of a hidden valley, and built a city of water channels, cisterns and dams that made a desert basin habitable for tens of thousands of people.",
+    "After the Romans annexed the kingdom in 106 AD, the city declined, and after earthquakes and shifts in trade routes it faded from the wider world. The Swiss explorer Johann Ludwig Burckhardt, disguised as a Muslim scholar, reached it in 1812 and brought it to Western attention. Bedouin families lived among the ruins until the 1980s, and Petra was inscribed as a UNESCO World Heritage Site in 1985.",
+    "What you see is only part of the story. The site covers about 260 square kilometres, and most visitors follow a single line through it: the Siq, the Treasury, the Street of Facades, the theatre and the Royal Tombs. The Monastery, the High Place of Sacrifice and the back-country trails are where a second day pays off."
+  ],
+  "whyVisit": {
+    "intro": "Petra is one of the most spectacular archaeological sites in the world and, unusually, the approach is as good as the destination.",
+    "points": [
+      {
+        "title": "The approach is theatre",
+        "text": "The Siq is a canyon over a kilometre long, narrow enough in places that you can touch both walls, and it opens onto the Treasury with the timing of a stage set. Nobody has designed a better entrance."
+      },
+      {
+        "title": "It is a city, not just a facade",
+        "text": "Beyond the Treasury are hundreds of tombs, a Roman-style colonnaded street, a theatre, temples and the remains of houses. It takes a day to see and rewards two."
+      },
+      {
+        "title": "The Monastery is worth the climb",
+        "text": "Around 800 rock-cut steps lead up to a facade about 47 metres wide, larger than the Treasury and often almost empty. It is the best hour of most people's visit."
+      },
+      {
+        "title": "The colours change through the day",
+        "text": "The sandstone glows pink, orange and deep red with the angle of the sun, and the tombs of the Street of Facades are at their best in the late afternoon."
+      },
+      {
+        "title": "Petra is only one part of a valley of sites",
+        "text": "Little Petra, the desert of Wadi Rum and the reserve of Dana are all within a couple of hours, so the trip can grow around it."
+      }
+    ]
+  },
+  "attractionsIntro": "The main route takes a full day on foot. The Monastery and the High Place of Sacrifice each add a half-day if you want to do them properly.",
+  "attractions": [
+    {
+      "name": "The Siq",
+      "image": {
+        "file": "File:Petra, Siq, Canyon, Jordan.jpg",
+        "alt": "The narrow sandstone canyon of the Siq at Petra"
+      },
+      "text": "The 1.2 km canyon that forms the main entrance to the city, with walls up to 80 m high and traces of the Nabataean water channels and carved votive niches along the way. It ends at the Treasury.",
+      "tip": "Walk it slowly and look at the walls, not the person in front. The light is soft at opening and the crowds thin by about 15:00."
+    },
+    {
+      "name": "Al-Khazneh, the Treasury",
+      "text": "The famous facade, about 39 m high, carved in the 1st century AD, probably as a royal tomb or a mausoleum. The name comes from a Bedouin legend that pirates hid treasure in the urn at the top. The interior is a plain, unadorned chamber.",
+      "tip": "The best light is in the morning when the sun reaches the facade. Take the photo at opening and again in the afternoon when the crowds have gone."
+    },
+    {
+      "name": "The Street of Facades and the Royal Tombs",
+      "image": {
+        "file": "File:Royal Tombs in Petra 009.jpg",
+        "alt": "The Royal Tombs of Petra carved into the cliff face"
+      },
+      "text": "A row of tombs cut into the cliff face beyond the Treasury, leading to the Theatre and the huge Royal Tombs — the Urn Tomb, the Silk Tomb, the Corinthian Tomb and the Palace Tomb — high up on the eastern cliff.",
+      "tip": "The Royal Tombs are best photographed in the afternoon, when the sun is on the rock."
+    },
+    {
+      "name": "The Colonnaded Street and Qasr al-Bint",
+      "text": "The Roman-era main street, lined by the remains of markets, temples and a nymphaeum, leads to Qasr al-Bint, one of the few free-standing Nabataean buildings still upright. The Petra Archaeological Museum is close by.",
+      "tip": "The restaurant at the end of the street is expensive; bring water and snacks and stop for a rest in the shade here."
+    },
+    {
+      "name": "Ad Deir, the Monastery",
+      "image": {
+        "file": "File:The Monastery, Petra, Jordan8.jpg",
+        "alt": "The rock-cut Monastery at Petra, framed by cliffs"
+      },
+      "text": "A monumental facade about 47 m wide and 48 m high, carved at the top of an 800-step climb from the Colonnaded Street. It was probably a temple, and the name Monastery is a later Christian label.",
+      "tip": "Allow at least 45 minutes each way and start early. The best light is in the afternoon."
+    },
+    {
+      "name": "The High Place of Sacrifice",
+      "text": "A ceremonial platform on the summit of Jabal al-Madhbah, reached by a stepped path from near the theatre. The view over the valley is one of the best in Petra, and the path down the far side passes several lesser monuments.",
+      "tip": "Take the path up from the theatre and come down the back way through Wadi Farasa to the Colonnaded Street. It is quieter and takes about two hours."
+    },
+    {
+      "name": "Little Petra (Siq al-Barid)",
+      "image": {
+        "file": "File:Little Petra, Jordan - 49785442382.jpg",
+        "alt": "Rock-cut buildings at Little Petra"
+      },
+      "text": "A smaller Nabataean settlement about 9 km north of Wadi Musa, in a narrow canyon of carved rooms and painted ceilings. It is free to enter, uncrowded, and it makes a good half-day trip.",
+      "tip": "Combine it with a sunset walk, or hike the trail from Little Petra to the Monastery for a very different way in."
+    }
+  ],
+  "thingsToDoIntro": "Petra is best done on foot and in stages. These are the choices that most improve a visit.",
+  "thingsToDo": [
+    {
+      "title": "Be at the gate at opening",
+      "text": "The site opens around 06:00 in summer and slightly later in winter. The Siq is cool, quiet and lit softly, and you will have the Treasury to yourself for a short time before the tour groups.",
+      "tip": "Check opening hours locally the day before, as they change with the season."
+    },
+    {
+      "title": "Climb to the Monastery first",
+      "text": "Start with the hardest part of the day while it is cool, and reach the Monastery before the afternoon crowds. The way down is easier and you reach the Treasury with time to spare.",
+      "tip": "Carry at least two litres of water; there are cafés along the way but prices are high."
+    },
+    {
+      "title": "See Petra by Night",
+      "image": {
+        "file": "File:Petra by night (8695132917).jpg",
+        "alt": "Candles lining the Siq at Petra by night"
+      },
+      "text": "On certain evenings the Siq is lined with candles and the Treasury is lit by lanterns, with Bedouin music and tea. It is a popular experience, though crowded, and it is a good way to see the Treasury without the heat.",
+      "tip": "It runs only on selected evenings and needs a separate ticket. Check the current schedule and book at the visitor centre."
+    },
+    {
+      "title": "Take the back way in or out",
+      "text": "The trail between Little Petra and the Monastery, a 2–3 hour scramble, gives a very different view of the site. The Wadi Farasa trail from the High Place of Sacrifice is a gentler alternative.",
+      "tip": "Hire a local guide for the Little Petra route; the path is not always obvious."
+    },
+    {
+      "title": "Take a cooking class",
+      "text": "Several places in Wadi Musa run evening classes in Jordanian cooking, a good way to spend the night after a long day on foot.",
+      "tip": "Book ahead in peak seasons."
+    },
+    {
+      "title": "Spend a night in a Bedouin camp nearby",
+      "text": "Camps near Petra and Little Petra offer a simple dinner, music and star-filled night, a quieter counterpoint to the tourist town.",
+      "tip": "Compare packages and confirm what is included."
+    }
+  ],
+  "foodIntro": "The food in Wadi Musa is Jordanian and simple — grilled meat, salads, hummus and bread — and it is at its best in small, family-run places rather than at the site.",
+  "foods": [
+    {
+      "name": "Mansaf",
+      "image": {
+        "file": "File:Mansaf 1.jpg",
+        "alt": "Mansaf served on a large platter of rice and flatbread"
+      },
+      "text": "Lamb in a sauce of dried fermented yoghurt, served over rice, and the national dish of Jordan. It is rich and filling and traditionally shared.",
+      "whereToTry": "Traditional restaurants in Wadi Musa and family-run places on the King's Highway."
+    },
+    {
+      "name": "Zarb",
+      "text": "Meat and vegetables cooked underground in a sealed pit oven, a Bedouin technique now offered at many camps and restaurants near Petra.",
+      "whereToTry": "Desert camps around Petra, or ask your hotel for a zarb dinner."
+    },
+    {
+      "name": "Maqluba",
+      "text": "An upside-down dish of rice, vegetables and meat, turned out onto a platter. It is common as a home-cooked family meal and appears on many restaurant menus.",
+      "whereToTry": "Home-style restaurants in Wadi Musa; ask what is cooked that day."
+    },
+    {
+      "name": "Falafel, hummus and fuul",
+      "text": "The staple breakfast and snack: falafel in bread, hummus with olive oil, and fuul, stewed fava beans. Cheap, quick and good.",
+      "whereToTry": "Small stalls along the main street of Wadi Musa, particularly at breakfast."
+    },
+    {
+      "name": "Knafeh",
+      "text": "Hot, sweet cheese pastry soaked in syrup. It is a treat to have after a long day on your feet.",
+      "whereToTry": "Sweet shops on the main street of Wadi Musa."
+    },
+    {
+      "name": "Bedouin tea",
+      "text": "Sweet, sage-scented tea served by vendors along the site's paths and in every camp. Accept the offer, and drink it slowly.",
+      "whereToTry": "Tea stalls inside Petra, and everywhere in Wadi Musa."
+    }
+  ],
+  "accommodation": {
+    "intro": "Wadi Musa, the town at the gate, is the base for almost everyone. It stretches along the road down to the site, so choose by distance from the entrance rather than by the hotel's name.",
+    "areas": [
+      {
+        "name": "Near the visitor centre",
+        "bestFor": "Early starts and convenience",
+        "text": "Several hotels sit within a few minutes' walk of the entrance, which makes a dawn start easy. They are pricier, and quality varies more than the prices suggest."
+      },
+      {
+        "name": "Central Wadi Musa",
+        "bestFor": "Restaurants and value",
+        "text": "The main road and its side streets hold the best range of guesthouses and restaurants, a short taxi or a 15–20 minute walk from the gate."
+      },
+      {
+        "name": "A Bedouin camp outside town",
+        "bestFor": "A quiet night",
+        "text": "Camps in the hills near Little Petra or Umm Sayhoun offer an atmospheric alternative, though you will need a car or a driver."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse or budget hotel", "value": "JD 20–40 per night" },
+      { "label": "Mid-range hotel", "value": "JD 50–100 per night" },
+      { "label": "Upscale hotel near the gate", "value": "JD 120–220 per night" },
+      { "label": "Bedouin camp with dinner", "value": "JD 40–90 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Petra is about 230 km south of Amman and 120 km north of Aqaba. Most visitors arrive by road.",
+    "options": [
+      {
+        "mode": "Car or private driver from Amman",
+        "text": "About three hours by the Desert Highway, or four to five by the scenic King's Highway. A driver is a good option if you do not want to navigate.",
+        "detail": "Take the King's Highway on the way down and the Desert Highway on the way back, or vice versa."
+      },
+      {
+        "mode": "JETT bus",
+        "text": "A daily air-conditioned coach runs between Amman and Wadi Musa, and takes around four hours. Book a day ahead in peak season.",
+        "detail": "The bus drops you in Wadi Musa, not at the gate, so take a taxi to your hotel."
+      },
+      {
+        "mode": "From Aqaba or Wadi Rum",
+        "text": "About two hours from Aqaba and 90 minutes from Wadi Rum, by taxi, private driver or a scheduled minibus.",
+        "detail": "Wadi Rum to Petra is the classic transfer for anyone doing the desert first."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Wadi Musa is a linear town and the archaeological site is best seen on foot.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The Siq and the main path are walked, and a full day at Petra can mean 12–16 km on foot. Comfortable shoes with grip are essential.",
+        "detail": "The sandstone is slippery when worn, especially after rain."
+      },
+      {
+        "mode": "Horses, carts and donkeys",
+        "text": "Horse rides through the Siq are included in some tickets, and carts and donkeys operate on the main path and the Monastery climb. Standards of animal care vary.",
+        "detail": "If you do use them, choose an animal that looks in good condition, and never overload one."
+      },
+      {
+        "mode": "Taxi in Wadi Musa",
+        "text": "Taxis take you between the gate and your hotel for a few dinars. Agree the price first or check that the meter is on.",
+        "detail": "There are also shared minibuses along the main road."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Petra sits at about 900 m, so it is cooler than the coast but still a desert. Spring and autumn are comfortable, summer is hot and shadeless, and winter can be cold, wet and briefly dangerous in the Siq.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm, clear days of 18–27°C and wildflowers in the valleys. The busiest time, so start early and book ahead."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Often 33–38°C with little shade. It is possible if you go at dawn and leave by late morning, but the climb to the Monastery becomes hard work."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm days that cool through October. Fewer visitors than spring and an excellent time to walk."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold and occasionally snowy, with far fewer visitors. Heavy rain can cause flash floods in the Siq, and the site sometimes closes for safety."
+      }
+    ],
+    "avoid": "Midday in summer, and any day of heavy rain in winter. Flash floods in the Siq are a serious danger and the authorities close it when they are forecast."
+  },
+  "itinerary": {
+    "title": "Two days at Petra",
+    "intro": "The main route and the Monastery on the first day, the High Place of Sacrifice and Little Petra on the second. Assumes a Wadi Musa base.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Siq, the Treasury and the Monastery",
+        "summary": "The classic route, done early.",
+        "morning": "In at opening, down the Siq, a first look at the Treasury, and on to the Colonnaded Street and the climb to the Monastery.",
+        "afternoon": "Down through the Royal Tombs, the Theatre and the Street of Facades in the afternoon light.",
+        "evening": "Rest, a hot shower and a mansaf dinner in Wadi Musa."
+      },
+      {
+        "day": 2,
+        "title": "High places and Little Petra",
+        "summary": "The quieter side of Petra.",
+        "morning": "Climb to the High Place of Sacrifice from the theatre and descend by Wadi Farasa.",
+        "afternoon": "Little Petra, about 9 km north of town, or a rest and a cooking class.",
+        "evening": "Sunset drive or a walk, and dinner at a small family restaurant."
+      }
+    ]
+  },
+  "tipsIntro": "Petra is a long day on foot and a few small decisions make a large difference.",
+  "tips": [
+    "Buy the Jordan Pass before arrival. If you stay three nights in Jordan it waives the visa fee and includes Petra entry, and it costs less than paying separately. Day-visit tickets for people not staying overnight are significantly more expensive, so check the official price list.",
+    "Be at the gate at opening and walk straight to the Monastery. You will beat both the tour groups and the heat, and you will reach the Treasury with the light on it.",
+    "Wear proper shoes. The sandstone is worn and slippery, and the paths are uneven. Trainers with grip are better than sandals.",
+    "Carry two litres of water and eat before you go in. There are stalls and cafés inside, but they are expensive and the queues are long.",
+    "Do the High Place of Sacrifice by the back route, up from the theatre and down Wadi Farasa. It is quieter, and gives you a different view of the site.",
+    "Check the weather forecast in winter. Flash floods in the Siq are dangerous, and the site can close.",
+    "Be wary of pushy sellers and unofficial guides. If you want a guide, hire one at the visitor centre with a licence and agree the price first.",
+    "Petra is a UNESCO World Heritage Site, so do not climb on the monuments or remove anything. Bedouin families who live nearby depend on visitors behaving well."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Petra?",
+      "a": "Two is ideal: one for the Siq, Treasury and Monastery, and one for the High Place of Sacrifice and Little Petra. One day is enough to see the highlights but is long, hot and tiring."
+    },
+    {
+      "q": "How much does it cost to visit Petra?",
+      "a": "Entry is included in the Jordan Pass, which is the best option for most visitors staying at least three nights in Jordan. Otherwise there is a separate entry fee, which is lower for overnight visitors and much higher for day-trippers. Prices change, so check the official price list."
+    },
+    {
+      "q": "How far is the walk to the Monastery?",
+      "a": "About 4 km each way from the Treasury, ending in around 800 rock-cut steps. Allow two to three hours for the round trip from the Colonnaded Street, or longer if you stop often."
+    },
+    {
+      "q": "What is the best time of day to visit Petra?",
+      "a": "The first hour after opening, when it is cool and quiet, for the Siq and the Treasury. Afternoon light is best for the Street of Facades and the Royal Tombs, and late afternoon for the Monastery."
+    },
+    {
+      "q": "Is Petra worth it in summer?",
+      "a": "It is possible if you go at dawn and leave by late morning, and take water and sun protection. The climb to the Monastery is hard work in the heat, and spring or autumn is a much better choice."
+    },
+    {
+      "q": "Can I visit Petra as a day trip from Aqaba or Amman?",
+      "a": "Yes, but it makes for a long day, with three to four hours of driving each way from Amman. Staying the night in Wadi Musa gives you a dawn start and a second day, and is well worth it."
+    }
+  ],
+  "related": ["wadi-rum", "dana-biosphere-reserve", "kerak-shobak"],
+  "relatedArticles": ["unesco-worth-planning-around", "packing-by-season"]
+}
