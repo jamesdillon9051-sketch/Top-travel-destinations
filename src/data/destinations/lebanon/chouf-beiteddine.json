@@ -1,0 +1,304 @@
+{
+  "slug": "chouf-beiteddine",
+  "name": "The Chouf & Beiteddine Palace",
+  "shortName": "The Chouf",
+  "country": "lebanon",
+  "region": "Mount Lebanon Governorate, Chouf District",
+  "categories": ["historic", "mountains", "national-park"],
+  "tagline": "Lebanon's southern mountains: an Ottoman-era palace of courtyards and mosaics, a stone village that was once the emirs' capital, and the country's largest cedar reserve.",
+  "highlight": "Beiteddine Palace, a huge 19th-century mountain palace of arcaded courtyards, mosaics and gardens, and one of the finest Ottoman-era buildings in the Levant.",
+  "shortDescription": "A green, terraced mountain region 45 km south-east of Beirut, with Beiteddine Palace, the historic village of Deir al-Qamar, Druze and Christian villages and the Chouf Cedar Reserve.",
+  "metaDescription": "A Chouf and Beiteddine travel guide: Beiteddine Palace and its mosaics, Deir al-Qamar's old village, the Chouf Cedar Reserve, Druze culture, the summer festival and hiking, with a one-day plan from Beirut.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Beirut Rafic Hariri (BEY), about 1 hour 15 minutes",
+  "knownFor": "Beiteddine Palace, Deir al-Qamar, the Chouf Cedar Reserve, Druze villages",
+  "budget": "US$80–150 per day, mid-range",
+  "goodFor": "Mountain scenery, Ottoman architecture, walking, a cool summer day",
+  "coords": { "lat": 33.6944, "lng": 35.5789 },
+  "image": {
+    "file": "File:Courtyard at Beiteddine Palace - 2009.jpg",
+    "alt": "The arcaded courtyard of Beiteddine Palace in the Chouf mountains"
+  },
+  "intro": [
+    "The Chouf is the range of terraced mountains south-east of Beirut, rising from the coastal plain to about 2,000 metres. It is the historic heartland of the Druze, a religious community that split from Ismaili Islam in the 11th century, and it has a long Christian, particularly Maronite, presence as well. For centuries the emirs of Mount Lebanon, notably Fakhr al-Din II and Bashir II Shihab, ruled from these hills, and their palaces and villages are the region's great heritage.",
+    "The biggest is Beiteddine Palace, built between about 1788 and 1818 by Emir Bashir II Shihab, with a series of courtyards, arcades, fountains, baths, mosaics and painted ceilings on a hilltop. Nearby, the village of Deir al-Qamar, the former capital of the emirs, is a well-preserved stone town of red-tiled roofs and cobbled squares. Above them, the Chouf Cedar Reserve is Lebanon's largest nature reserve, protecting a quarter of the country's remaining cedars.",
+    "The Chouf is a peaceful region of orchards, olive groves and villages, and it is a favourite summer escape for people from Beirut. It has been affected less directly by recent conflict than the south, but check your government's advice."
+  ],
+  "whyVisit": {
+    "intro": "The Chouf is the most scenic and cooling day out from Beirut, and it shows a different side of Lebanon.",
+    "points": [
+      {
+        "title": "Beiteddine Palace",
+        "text": "A masterpiece of 19th-century Lebanese architecture, with limestone courtyards, Ottoman and Italianate details and one of the largest collections of Byzantine mosaics in the country."
+      },
+      {
+        "title": "Deir al-Qamar",
+        "text": "A village of old stone houses, a mosque, a church and a palace that was once the seat of Mount Lebanon's emirs."
+      },
+      {
+        "title": "The Chouf Cedar Reserve",
+        "text": "Three groves of ancient cedars, oak and juniper, with marked trails and views over the mountains and the sea."
+      },
+      {
+        "title": "Druze culture",
+        "text": "The region is the centre of the Druze community in Lebanon, with villages, shrines and traditions that are distinct."
+      },
+      {
+        "title": "A summer festival",
+        "text": "The Beiteddine Art Festival, held in the palace courtyards in summer, features concerts, theatre and dance."
+      }
+    ]
+  },
+  "attractionsIntro": "The palace and the village are close together, and the reserve is a short drive.",
+  "attractions": [
+    {
+      "name": "Beiteddine Palace",
+      "text": "A hilltop palace built by Emir Bashir Shihab II, with three main courtyards, a harem, baths, a mosque, stables and gardens. It is now a national monument and houses a museum of mosaics and a collection of weapons.",
+      "tip": "Allow two hours, and go on a weekday morning."
+    },
+    {
+      "name": "The Beiteddine Mosaic Museum",
+      "text": "A museum in the palace displaying Byzantine mosaics from Jiyeh and other sites, including a well-known scene of the cycle of life.",
+      "tip": "Visit before the tour groups arrive."
+    },
+    {
+      "name": "Deir al-Qamar",
+      "image": {
+        "file": "File:Deir El-Qamar 10.jpg",
+        "alt": "Stone houses and cobbled lanes in the village of Deir al-Qamar"
+      },
+      "text": "A stone village 5 km from Beiteddine, with a main square, the Fakhreddine Mosque, the Palace of Youssef Shehab and a Maronite church. It is one of the best-preserved historic villages in Lebanon.",
+      "tip": "Walk around the square and lanes, and have coffee."
+    },
+    {
+      "name": "The Chouf Cedar Reserve",
+      "image": {
+        "file": "File:Réserve naturelle du Chouf neige 04.jpg",
+        "alt": "Snow-covered cedars in the Chouf Cedar Reserve"
+      },
+      "text": "A protected area of about 550 km² that covers a large part of the southern mountains, with cedar groves at Maaser el Chouf, Barouk and Ain Zhalta. Marked trails, guesthouses and a visitor centre help walkers.",
+      "tip": "Go in spring or autumn, and check trail conditions."
+    },
+    {
+      "name": "Moukhtara Palace",
+      "text": "The seat of the Jumblatt family, one of the leading Druze families, with a palace and gardens in a village near Beiteddine. It is usually closed to the public.",
+      "tip": "It can be seen from the road."
+    },
+    {
+      "name": "The Barouk Cedar Forest",
+      "text": "One of the largest cedar groves in Lebanon, in the reserve, with walking trails.",
+      "tip": "Combine with a picnic."
+    },
+    {
+      "name": "Druze villages",
+      "text": "Villages such as Niha, Baakleen and Mukhtara have shrines, old houses and a distinct religious culture. The Druze faith is secretive, and visitors are welcomed at some sites.",
+      "tip": "Ask before entering religious places."
+    }
+  ],
+  "thingsToDoIntro": "The Chouf is a place for a relaxed day of walking and looking.",
+  "thingsToDo": [
+    {
+      "title": "Tour Beiteddine Palace",
+      "text": "Walk through the courtyards, the baths and the museum, and enjoy the views.",
+      "tip": "Go at opening."
+    },
+    {
+      "title": "Walk in Deir al-Qamar",
+      "text": "Stroll around the square and old lanes, and stop at the cafés.",
+      "tip": "Go in the afternoon."
+    },
+    {
+      "title": "Hike in the cedar reserve",
+      "text": "Follow marked trails through cedar groves and along the ridge, with views to the Mediterranean.",
+      "tip": "Take water, and wear sturdy shoes."
+    },
+    {
+      "title": "Have lunch in a mountain village",
+      "text": "Restaurants serve mezze and grills on terraces with mountain views.",
+      "tip": "Ask for the local specialities."
+    },
+    {
+      "title": "Attend the Beiteddine Art Festival",
+      "text": "Concerts and performances in the palace courtyards during summer, when held.",
+      "tip": "Check the programme and book tickets."
+    },
+    {
+      "title": "Combine with Sidon",
+      "text": "Sidon is about 40 minutes from Beiteddine, and the two make a full day.",
+      "tip": "Start in the mountains and finish on the coast."
+    }
+  ],
+  "foodIntro": "Chouf cooking is mountain cooking: grilled meats, mezze, fruit and preserves, and specialities of the Druze villages.",
+  "foods": [
+    {
+      "name": "Mezze",
+      "text": "Salads, dips, kibbeh and pastries, often with local olive oil.",
+      "whereToTry": "Restaurants in Deir al-Qamar and Beiteddine."
+    },
+    {
+      "name": "Grilled meats",
+      "text": "Lamb and chicken cooked over charcoal, served with garlic sauce.",
+      "whereToTry": "Restaurants in the villages."
+    },
+    {
+      "name": "Mountain fruit",
+      "text": "Apples, cherries, figs and grapes grown in the terraces, sold fresh and as jams.",
+      "whereToTry": "Roadside stalls."
+    },
+    {
+      "name": "Olive oil and soap",
+      "text": "The Chouf produces olive oil and traditional soap.",
+      "whereToTry": "Village shops and cooperatives."
+    },
+    {
+      "name": "Manakish",
+      "text": "Flatbread with za'atar, cheese or meat.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Sweets and coffee",
+      "text": "Traditional sweets and strong coffee in the village cafés.",
+      "whereToTry": "Cafés in Deir al-Qamar."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors visit as a day trip from Beirut, but guesthouses in the villages and the reserve are a pleasant option.",
+    "areas": [
+      {
+        "name": "Deir al-Qamar and Beiteddine",
+        "bestFor": "Palace and village access",
+        "text": "Small hotels and guesthouses in restored stone houses."
+      },
+      {
+        "name": "The cedar reserve villages",
+        "bestFor": "Walking",
+        "text": "Guesthouses in Ain Zhalta, Maaser el Chouf and Barouk run in partnership with the reserve."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$50–90 per night" },
+      { "label": "Mid-range hotel", "value": "US$90–150 per night" },
+      { "label": "Palace entry", "value": "A few US dollars" },
+      { "label": "Reserve entry", "value": "A few US dollars" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Beiteddine is about 45 km south-east of Beirut by winding mountain roads.",
+    "options": [
+      {
+        "mode": "Private driver or car",
+        "text": "About 1 hour 15 minutes from Beirut without traffic. The road climbs from the coast.",
+        "detail": "Avoid driving in the dark."
+      },
+      {
+        "mode": "Bus or service taxi",
+        "text": "Shared taxis run from Beirut's Cola station to Beiteddine and Deir al-Qamar.",
+        "detail": "Ask for Beiteddine."
+      },
+      {
+        "mode": "Tour",
+        "text": "Day tours from Beirut often include Beiteddine, Deir al-Qamar and the cedars.",
+        "detail": "Check what is included."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car or driver is the easiest way to link the palace, the village and the reserve.",
+    "options": [
+      {
+        "mode": "Car or driver",
+        "text": "Roads link the villages, though they are narrow and winding.",
+        "detail": "Drive carefully."
+      },
+      {
+        "mode": "Walking",
+        "text": "Deir al-Qamar and the palace grounds are walkable, and trails link the villages in the reserve.",
+        "detail": "Wear sturdy shoes."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Local taxis take you between villages.",
+        "detail": "Agree the fare."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "The Chouf is at 800–1,900 m and is cooler than the coast. Spring and autumn are best for walking, and summer is a pleasant escape.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Green hills and wildflowers, with snow on the peaks until April."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Warm and dry, with cool evenings and the Beiteddine festival."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm and clear, with autumn colours."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold and often snowy, with few visitors. Higher roads can close."
+      }
+    ],
+    "avoid": "Snowstorms in winter, and August weekends."
+  },
+  "itinerary": {
+    "title": "One day in the Chouf",
+    "intro": "Beiteddine Palace in the morning, lunch in Deir al-Qamar, a walk in the cedar reserve in the afternoon.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Palace, village and cedars",
+        "summary": "A scenic day in the mountains.",
+        "morning": "Beiteddine Palace and its mosaic museum.",
+        "afternoon": "Lunch in Deir al-Qamar, then the Chouf Cedar Reserve.",
+        "evening": "Drive back to Beirut or on to Sidon."
+      }
+    ]
+  },
+  "tipsIntro": "The Chouf is easy, and a few tips help.",
+  "tips": [
+    "Go on a weekday. Weekends and summer evenings are busy with Lebanese visitors.",
+    "Check whether the palace is open, and confirm festival dates if you want to attend.",
+    "Dress modestly in the villages and religious sites.",
+    "Bring a jacket and walking shoes for the reserve.",
+    "Hire a driver. The roads are narrow and winding.",
+    "Bring cash, as small shops may not take cards.",
+    "Respect Druze customs, and ask before entering religious places."
+  ],
+  "faq": [
+    {
+      "q": "What is Beiteddine Palace?",
+      "a": "A 19th-century palace built by Emir Bashir II Shihab, with courtyards, baths and a museum of mosaics. It is one of the best examples of Lebanese architecture of the period."
+    },
+    {
+      "q": "Who are the Druze?",
+      "a": "A religious community that emerged in the 11th century from Ismaili Islam, and is centred in Lebanon, Syria, Israel and Jordan. Their beliefs are known only to initiated members."
+    },
+    {
+      "q": "How long do you need in the Chouf?",
+      "a": "One day covers the palace, the village and a short walk. Two days let you hike and stay in a guesthouse."
+    },
+    {
+      "q": "Is the Chouf safe to visit?",
+      "a": "It has been less affected by recent conflict than the south, but conditions in Lebanon can change quickly. Check your government's advice."
+    },
+    {
+      "q": "What is the Chouf Cedar Reserve?",
+      "a": "Lebanon's largest nature reserve, protecting about a quarter of the country's remaining cedar forest, together with oak, juniper and wildlife."
+    },
+    {
+      "q": "When is the Beiteddine festival?",
+      "a": "It has traditionally been held in summer, usually July and August. Dates vary and the festival has been suspended in difficult years, so check."
+    }
+  ],
+  "related": ["sidon", "beirut", "tyre"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

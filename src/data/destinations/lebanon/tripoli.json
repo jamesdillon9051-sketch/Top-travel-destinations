@@ -1,0 +1,304 @@
+{
+  "slug": "tripoli",
+  "name": "Tripoli",
+  "country": "lebanon",
+  "region": "North Governorate, northern coast",
+  "categories": ["major-city", "historic", "food-and-wine"],
+  "tagline": "Lebanon's second city and its best-preserved medieval one, with a Crusader citadel above a Mamluk old town of mosques, madrasas, hammams, soap khans and sweet shops.",
+  "highlight": "The Mamluk old town, one of the most complete in the Middle East, and the sweets at the shops that have made them for over a century.",
+  "shortDescription": "A large, hard-working and rarely visited northern port city with a Crusader citadel, a labyrinth of Mamluk souks and khans, and the best sweets in the country.",
+  "metaDescription": "A Tripoli travel guide: the Citadel of Raymond de Saint-Gilles, the Mamluk mosques, madrasas and hammams, the souks and soap khans, the famous sweets, the Niemeyer fair, safety context and a one-day plan.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Beirut Rafic Hariri (BEY), about 1 hour 30 minutes by road",
+  "knownFor": "The Mamluk old city, the citadel, sweets, soap khans",
+  "budget": "US$60–120 per day, mid-range",
+  "goodFor": "Medieval architecture, food, old souks, culture",
+  "coords": { "lat": 34.4367, "lng": 35.8497 },
+  "image": {
+    "file": "File:The Citadel of Raymond de Saint-Gilles, skyline of Tripoli, Lebanon.jpg",
+    "alt": "The Crusader citadel of Tripoli rising above the rooftops of the old city"
+  },
+  "intro": [
+    "Tripoli, in Arabic Trablus, lies on the northern coast of Lebanon, about 85 km from Beirut. Its name means 'three cities' in Greek, referring to the three Phoenician settlements that existed here. It was refounded by the Crusaders in the 12th century as the capital of the County of Tripoli, and their citadel, built by Raymond de Saint-Gilles in 1103, still dominates the old town.",
+    "In 1289, the Mamluk sultan Qalawun destroyed the Crusader city and rebuilt it a little inland, and for the next two hundred years it was among the great cities of the Mamluk empire. That legacy is what survives: a dense old city of mosques, madrasas, hammams, khans and covered souks, built of the local honey-coloured stone, with elaborate carved doorways and striped masonry. It is one of the most complete Mamluk cities in the Middle East, though its condition varies.",
+    "Tripoli is the second-largest city in Lebanon and one of the poorest, and it has a reputation that it does not fully deserve. It was the scene of clashes between neighbourhoods in earlier years, and has suffered from neglect, but visitors who go find a proud, hospitable city with fine architecture and food, and very few tourists. The north has been calmer than the south and the Bekaa, but check your government's advice."
+  ],
+  "whyVisit": {
+    "intro": "Tripoli is the best place in Lebanon to see a real, working medieval Islamic city.",
+    "points": [
+      {
+        "title": "A Mamluk old city",
+        "text": "Dozens of 13th- to 15th-century mosques, madrasas, khans and hammams survive within the old city, many still in use."
+      },
+      {
+        "title": "The Crusader citadel",
+        "text": "One of the largest Crusader castles in the region, on a hill above the town, with a Mamluk and Ottoman overlay."
+      },
+      {
+        "title": "Souks and soap khans",
+        "text": "Covered markets selling spices, sweets, gold and textiles, and Khan al-Saboun, the soap khan, where traditional soap is still sold."
+      },
+      {
+        "title": "The best sweets in Lebanon",
+        "text": "Tripoli's pastry shops, particularly the famous Hallab, have been making sweets for well over a century, and people travel from Beirut for them."
+      },
+      {
+        "title": "A modernist landmark",
+        "text": "Oscar Niemeyer's unfinished Rachid Karami International Fair, from the 1960s, is a remarkable piece of modernist architecture and on Lebanon's tentative World Heritage list."
+      }
+    ]
+  },
+  "attractionsIntro": "The old city is compact, and the sights are within walking distance of each other.",
+  "attractions": [
+    {
+      "name": "The Citadel of Raymond de Saint-Gilles",
+      "image": {
+        "file": "File:The Citadel of Tripoli (Citadel of Raymond de Saint-Gilles), Tripoli, Lebanon.jpg",
+        "alt": "The walls and towers of the Citadel of Tripoli"
+      },
+      "text": "A large fortress on a hill above the old city, begun by the Crusader count Raymond de Saint-Gilles in 1103 and rebuilt by the Mamluks and Ottomans. It has a series of gates, courtyards, towers and a mosque.",
+      "tip": "Go in the morning, and walk around the walls for the views."
+    },
+    {
+      "name": "The Great Mosque (Mansouri Grand Mosque)",
+      "text": "A 14th-century Mamluk mosque built on a Crusader church, with a large courtyard and a square minaret that was once a bell tower.",
+      "tip": "Dress modestly and check visiting hours."
+    },
+    {
+      "name": "The Mamluk madrasas and mosques",
+      "text": "The Qartawiyya Madrasa, the Taynal Mosque, and dozens of other Mamluk buildings with striped masonry, muqarnas portals and domed interiors.",
+      "tip": "Walk the lanes and look up at the stonework."
+    },
+    {
+      "name": "Hammam al-Jadid and Hammam Ezzedine",
+      "text": "Historic bathhouses of the 14th to 17th centuries, some of which still function, with domed rooms and marble basins.",
+      "tip": "Check the hours for men and women."
+    },
+    {
+      "name": "Khan al-Saboun and the souks",
+      "text": "A 16th-century soap khan and the surrounding souks with soap, spices, textiles and gold. It is the best place to feel the atmosphere of the old city.",
+      "tip": "Buy handmade soap."
+    },
+    {
+      "name": "Khan al-Askar and the old caravanserais",
+      "text": "Several Ottoman-era caravanserais with courtyards and arches, some restored.",
+      "tip": "Ask permission before entering courtyards."
+    },
+    {
+      "name": "The Rachid Karami International Fair",
+      "text": "A huge unfinished modernist complex designed by Oscar Niemeyer in the 1960s, with a dome, a curved experimental theatre and a large hall.",
+      "tip": "Check whether access is permitted."
+    }
+  ],
+  "thingsToDoIntro": "Tripoli is a day for wandering and eating.",
+  "thingsToDo": [
+    {
+      "title": "Walk the old city",
+      "text": "Follow the lanes past mosques, madrasas and khans, and let yourself get lost.",
+      "tip": "Go in the morning, and take a guide if you can."
+    },
+    {
+      "title": "Climb the citadel",
+      "text": "Walk through the towers and courtyards for a view over the city and the sea.",
+      "tip": "Go at opening."
+    },
+    {
+      "title": "Eat sweets at Hallab",
+      "text": "Try knefe, baklava and the city's pastries at one of the famous shops.",
+      "tip": "Buy a box to take home."
+    },
+    {
+      "title": "Visit the soap khan",
+      "text": "See traditional soap-making, and buy olive-oil soap.",
+      "tip": "Ask about a tour."
+    },
+    {
+      "title": "Have a hammam",
+      "text": "A traditional bath and scrub in a historic setting.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Combine with the Qadisha Valley",
+      "text": "The Holy Valley and the Cedars are about an hour's drive up the mountain.",
+      "tip": "Stay overnight in Bsharri."
+    }
+  ],
+  "foodIntro": "Tripoli is the sweets capital of Lebanon, and it also has a strong tradition of savoury food.",
+  "foods": [
+    {
+      "name": "Tripoli sweets",
+      "text": "Baklava, knefe, ma'amoul and Halawet el Jibn, a cheese and semolina roll filled with cream and served with syrup, made in shops that have been open for generations.",
+      "whereToTry": "Sweet shops such as Hallab and others in the old city."
+    },
+    {
+      "name": "Knefe in a bun",
+      "text": "Hot knefe served inside a sesame bun, a local breakfast.",
+      "whereToTry": "Small shops in the old town."
+    },
+    {
+      "name": "Mezze and grills",
+      "text": "Traditional restaurants serve mezze and charcoal grills.",
+      "whereToTry": "Restaurants in the centre."
+    },
+    {
+      "name": "Fresh seafood",
+      "text": "Grilled fish in the port area of Al Mina.",
+      "whereToTry": "Restaurants at the harbour."
+    },
+    {
+      "name": "Falafel and sandwiches",
+      "text": "Cheap street food in the souks.",
+      "whereToTry": "Stalls in the old town."
+    },
+    {
+      "name": "Fresh juice and coffee",
+      "text": "Orange, pomegranate and other juices, and strong coffee.",
+      "whereToTry": "Cafés in the souks."
+    }
+  ],
+  "accommodation": {
+    "intro": "Tripoli has few hotels, and most visitors come as a day trip from Beirut or Byblos or stay in the mountains.",
+    "areas": [
+      {
+        "name": "Al Mina",
+        "bestFor": "Seafront and restaurants",
+        "text": "A port district with a promenade, restaurants and a few hotels."
+      },
+      {
+        "name": "Old city",
+        "bestFor": "Atmosphere",
+        "text": "A small number of guesthouses in restored buildings."
+      },
+      {
+        "name": "Beirut, Byblos or Bsharri",
+        "bestFor": "Most visitors",
+        "text": "A wider choice within one to two hours."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$40–80 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–130 per night" },
+      { "label": "Citadel entry", "value": "A few US dollars" },
+      { "label": "Sweets and coffee", "value": "US$5–15" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Tripoli is about 85 km north of Beirut on the coastal highway.",
+    "options": [
+      {
+        "mode": "Private driver or car",
+        "text": "About 1 hour 30 minutes from Beirut without traffic, and longer at rush hour. A driver can combine Byblos or Batroun on the way.",
+        "detail": "Avoid rush hour."
+      },
+      {
+        "mode": "Bus or service taxi",
+        "text": "Buses and shared taxis run from Beirut's Charles Helou and Dora stations to Tripoli, and are cheap.",
+        "detail": "Ask for Trablus."
+      },
+      {
+        "mode": "Tour",
+        "text": "Some tours combine Tripoli with Byblos or the Cedars.",
+        "detail": "Check the itinerary."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The old city is compact and best explored on foot.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The citadel, mosques, souks and khans are within 15 minutes' walk.",
+        "detail": "The lanes are narrow and can be crowded."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Taxis take you between the old city, Al Mina and the Niemeyer fair.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Local guide",
+        "text": "A guide can take you into places that are hard to find.",
+        "detail": "Ask your hotel."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–November",
+    "summary": "Tripoli has a Mediterranean climate. Spring and autumn are the best seasons for walking, and winters are wet.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm and clear."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot and humid, with the souks in shade."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm and calm."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Mild and rainy. Sweets taste better in the cold."
+      }
+    ],
+    "avoid": "Rainy days for the citadel, and any period of unrest."
+  },
+  "itinerary": {
+    "title": "One day in Tripoli",
+    "intro": "The citadel and the old city in the morning, lunch and sweets, and the souks and hammam in the afternoon.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Citadel, souks and sweets",
+        "summary": "A full day in the old city.",
+        "morning": "The citadel and the Great Mosque.",
+        "afternoon": "Lunch, the soap khan and the souks.",
+        "evening": "Sweets at Hallab, then the drive back."
+      }
+    ]
+  },
+  "tipsIntro": "Tripoli is friendly and lively, and a few tips help.",
+  "tips": [
+    "Read your government's advice. The north has been calmer than the south, but Tripoli has seen unrest in the past.",
+    "Go with a local guide if you can. It helps you find your way and get into the buildings.",
+    "Dress modestly. Tripoli is more conservative than Beirut.",
+    "Ask before photographing people, and avoid military and political sites.",
+    "Bring cash and buy from local shops.",
+    "Leave time for sweets, and take a box home.",
+    "Go in the morning, and return before dark."
+  ],
+  "faq": [
+    {
+      "q": "Is Tripoli safe to visit?",
+      "a": "The old city and the sights are welcoming to visitors, though Tripoli has seen unrest and clashes in the past, and it is a poor city. The north has been calmer than the south, but conditions can change. Check your government's advice."
+    },
+    {
+      "q": "What is Tripoli known for?",
+      "a": "Its Mamluk old city, its Crusader citadel, its sweets and its soap."
+    },
+    {
+      "q": "How long do you need in Tripoli?",
+      "a": "One day is enough for the citadel, the old city and sweets."
+    },
+    {
+      "q": "How do I get to Tripoli from Beirut?",
+      "a": "By car, driver, bus or shared taxi. It takes about 90 minutes without traffic."
+    },
+    {
+      "q": "What is the Niemeyer fair?",
+      "a": "An unfinished exhibition complex designed by the Brazilian architect Oscar Niemeyer in the 1960s, halted by the civil war. It is a striking example of modernist architecture."
+    },
+    {
+      "q": "Can I combine Tripoli with other places?",
+      "a": "Yes. Byblos and Batroun are on the way from Beirut, and the Qadisha Valley and the Cedars are about an hour's drive up the mountain."
+    }
+  ],
+  "related": ["qadisha-valley-cedars", "batroun", "byblos"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

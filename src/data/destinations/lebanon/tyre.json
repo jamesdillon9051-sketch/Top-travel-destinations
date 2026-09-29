@@ -1,0 +1,304 @@
+{
+  "slug": "tyre",
+  "name": "Tyre (Sour)",
+  "shortName": "Tyre",
+  "country": "lebanon",
+  "region": "South Governorate, southern coast",
+  "categories": ["unesco", "archaeological", "coastal"],
+  "tagline": "The Phoenician city of purple dye, the legendary mother of Carthage, with a Roman hippodrome, a colonnaded road and a long beach — in the part of Lebanon closest to the Israeli border.",
+  "highlight": "The Roman hippodrome, one of the largest and best-preserved circuses of the ancient world, with a necropolis and triumphal arch beside it.",
+  "shortDescription": "An ancient island-turned-peninsula with major Phoenician and Roman ruins and one of Lebanon's best beaches, in an area where travel has been heavily affected by conflict since 2023.",
+  "metaDescription": "A Tyre travel guide: the Al Mina and Al Bass archaeological sites, the Roman hippodrome, Alexander's causeway, the fishing port and beach, and what conflict since 2023 has changed for visitors.",
+  "suggestedStay": "Half a day to a day",
+  "nearestAirport": "Beirut Rafic Hariri (BEY), about 1 hour 30 minutes by road",
+  "knownFor": "The Roman hippodrome, Al Mina, Phoenician history, a beach and nature reserve",
+  "budget": "US$70–130 per day, mid-range",
+  "goodFor": "Roman archaeology, Phoenician history, the beach",
+  "coords": { "lat": 33.2705, "lng": 35.2038 },
+  "image": {
+    "file": "File:Roman Hippodrome, Tyre, Lebanon.jpg",
+    "alt": "The long curved seating and track of the Roman hippodrome at Tyre"
+  },
+  "intro": [
+    "Tyre, called Sour in Arabic, was one of the greatest cities of the ancient Mediterranean. It was built on an island just off the coast, which made it almost impregnable, and it grew rich as a trading power and a colonising one: according to tradition, Tyrian settlers founded Carthage in the 9th century BCE. It was famous for Tyrian purple, a dye extracted from murex sea-snails that was worth more than gold and was reserved for royalty.",
+    "In 332 BCE, after a seven-month siege, Alexander the Great built a causeway from the mainland to capture the city, and the sand that gathered against it eventually turned the island into a peninsula, which is why Tyre is now joined to the land. Under the Romans it became a major city, and its ruins, the Al Mina site near the old harbour and the Al Bass site to the north, include a colonnaded street, baths, a triumphal arch, a vast necropolis and a hippodrome, the largest in Lebanon. UNESCO inscribed the site in 1984.",
+    "Tyre is about 80 km south of Beirut and 20 km from the Israeli border, and it has been strongly affected by conflict since 2023. It was the subject of Israeli evacuation orders and strikes in 2024, including near the archaeological sites, and UNESCO gave provisional enhanced protection to the site. Many governments advised against travel to south Lebanon at the time of writing. Check current advice and conditions before you consider going."
+  ],
+  "whyVisit": {
+    "intro": "In normal times, Tyre is one of the most rewarding day trips from Beirut, and one of the few places where Phoenician and Roman history can be seen side by side.",
+    "points": [
+      {
+        "title": "The Roman hippodrome",
+        "text": "About 480 metres long, with seating for around 20,000 spectators, it is one of the largest and best-preserved Roman circuses anywhere."
+      },
+      {
+        "title": "A Phoenician and Roman harbour city",
+        "text": "The Al Mina site has streets, baths, a colonnade and a Byzantine church, and stands near the old port, which is still in use."
+      },
+      {
+        "title": "The Al Bass necropolis and arch",
+        "text": "A huge cemetery with hundreds of sarcophagi and a Roman road that leads to a monumental triumphal arch."
+      },
+      {
+        "title": "A long sandy beach",
+        "text": "The Tyre Coast Nature Reserve has one of the longest public beaches in Lebanon, and sea turtles nest there in summer."
+      },
+      {
+        "title": "A working fishing town",
+        "text": "The old harbour has fishing boats, seafood restaurants and a small souk in narrow lanes."
+      }
+    ]
+  },
+  "attractionsIntro": "The two archaeological sites, Al Mina and Al Bass, are about 2 km apart. This describes the sites as they were before 2023, subject to current access.",
+  "attractions": [
+    {
+      "name": "Al Mina archaeological site",
+      "image": {
+        "file": "File:Al Mina site, Tyre, Lebanon.jpg",
+        "alt": "Columns and paved streets of the Al Mina archaeological site in Tyre"
+      },
+      "text": "The main city excavation, on the peninsula near the port, with a Roman colonnaded street, a Byzantine road, public baths, an arena and remains of shops and houses.",
+      "tip": "Go in the morning, when it is cool."
+    },
+    {
+      "name": "The Roman hippodrome",
+      "text": "A circus about 480 metres long, dating from the 2nd century CE, with the remains of seating, a central spine and starting gates. It is one of the best-preserved in the Roman world.",
+      "tip": "Walk the length of the track to appreciate the size."
+    },
+    {
+      "name": "The Al Bass necropolis and Roman road",
+      "image": {
+        "file": "File:TyreAlBass RomanTriumphalArch-RomanRoad RomanDeckert19112019.jpg",
+        "alt": "The Roman triumphal arch and paved road at Al Bass in Tyre"
+      },
+      "text": "A vast burial ground with hundreds of sarcophagi, stone tombs and mausolea, and a paved Roman road that leads to a triumphal arch and an ancient aqueduct.",
+      "tip": "Combine it with the hippodrome, which is next to it."
+    },
+    {
+      "name": "The Tyre Coast Nature Reserve",
+      "text": "A protected stretch of sand dunes and beach south of the town, where green and loggerhead turtles nest from May to August. It is one of the last unspoiled stretches of Lebanese coast.",
+      "tip": "Visit the beach in the morning and observe the turtle-protection rules."
+    },
+    {
+      "name": "The old port and fishing harbour",
+      "text": "A lively harbour with a working fish market, a few restaurants and cafés, and views of the old town.",
+      "tip": "Go in the late afternoon."
+    },
+    {
+      "name": "The Christian quarter and the Cathedral ruins",
+      "text": "Narrow lanes in the old town, with churches and the ruins of a Crusader cathedral, a reminder of Tyre's role as one of the last Crusader strongholds.",
+      "tip": "Ask permission to enter churches."
+    }
+  ],
+  "thingsToDoIntro": "In normal times, Tyre is a day trip built around the ruins and the sea.",
+  "thingsToDo": [
+    {
+      "title": "Walk through the Roman ruins",
+      "text": "See the streets, the baths and the hippodrome, with a guide or an audio guide if available.",
+      "tip": "Go early, as there is little shade."
+    },
+    {
+      "title": "Have fish at the harbour",
+      "text": "Local restaurants serve the day's catch with mezze and arak.",
+      "tip": "Ask the price before you order."
+    },
+    {
+      "title": "Swim at the public beach",
+      "text": "The nature reserve's long sandy beach is one of the best in Lebanon, with clean water.",
+      "tip": "Check current conditions and the rules on protected areas."
+    },
+    {
+      "title": "Wander the old town",
+      "text": "See the fish market, small shops and the harbour.",
+      "tip": "Dress modestly, as the town is conservative."
+    },
+    {
+      "title": "Visit in the sea turtle nesting season",
+      "text": "From May to August, turtles come ashore to nest at the reserve. Conservation groups run guided watches.",
+      "tip": "Follow the instructions and use no lights."
+    },
+    {
+      "title": "Combine with Sidon",
+      "text": "Sidon is 40 km north, with a sea castle and old souks, and the two make a good day.",
+      "tip": "Start in Tyre, and head north in the afternoon."
+    }
+  ],
+  "foodIntro": "Tyre is a seafood town, and its restaurants serve the day's catch. The nearby south also has good fruit, particularly citrus.",
+  "foods": [
+    {
+      "name": "Grilled fish",
+      "text": "Sea bream, sea bass and red mullet, grilled with olive oil and lemon.",
+      "whereToTry": "Restaurants at the harbour."
+    },
+    {
+      "name": "Sayyadieh",
+      "text": "Fish cooked with rice, onions and spices, a coastal dish across the Levant.",
+      "whereToTry": "Traditional restaurants in the old town."
+    },
+    {
+      "name": "Mezze",
+      "text": "Hummus, tabbouleh and other starters, served with arak.",
+      "whereToTry": "Restaurants in the old town."
+    },
+    {
+      "name": "Fresh citrus and bananas",
+      "text": "Oranges, lemons and bananas grown around Tyre and sold by the roadside.",
+      "whereToTry": "Roadside stalls and markets."
+    },
+    {
+      "name": "Sweets",
+      "text": "Knefe, baklava and other Arab sweets, sold in shops in the old town.",
+      "whereToTry": "Sweet shops."
+    },
+    {
+      "name": "Ice cream",
+      "text": "Rose, orange blossom and pistachio flavours.",
+      "whereToTry": "Shops in the centre."
+    }
+  ],
+  "accommodation": {
+    "intro": "Accommodation in Tyre has been limited and affected by conflict. Most visitors have come as a day trip from Beirut or Sidon.",
+    "areas": [
+      {
+        "name": "Old town and harbour",
+        "bestFor": "Atmosphere",
+        "text": "A few guesthouses and hotels near the port, when open."
+      },
+      {
+        "name": "The beach and nature reserve",
+        "bestFor": "The sea",
+        "text": "Beach resorts along the coast, several open in summer."
+      },
+      {
+        "name": "Beirut or Sidon",
+        "bestFor": "Most visitors",
+        "text": "A wider choice, 40 to 90 minutes away."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$40–80 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–140 per night" },
+      { "label": "Site entry", "value": "A few US dollars" },
+      { "label": "Seafood lunch", "value": "US$15–30 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Tyre is about 80 km south of Beirut along the coastal highway. Check current advice and conditions before you travel.",
+    "options": [
+      {
+        "mode": "Private driver",
+        "text": "About 1 hour 30 minutes from Beirut, often more in traffic. Drivers know the latest conditions and checkpoints.",
+        "detail": "Ask about road and checkpoint conditions."
+      },
+      {
+        "mode": "Bus or service taxi",
+        "text": "Buses and shared taxis run from Beirut's Cola station to Sidon and Tyre.",
+        "detail": "Check current services."
+      },
+      {
+        "mode": "Tour",
+        "text": "Some tours combine Tyre with Sidon and Beiteddine.",
+        "detail": "Check the itinerary and whether it operates."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The two sites are 2 km apart, with the town in between.",
+    "options": [
+      {
+        "mode": "Taxi",
+        "text": "Cheap and convenient between the sites and the harbour.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Walking",
+        "text": "The old town and Al Mina are walkable.",
+        "detail": "Wear a hat."
+      },
+      {
+        "mode": "Car",
+        "text": "Easiest for the two archaeological sites and the beach.",
+        "detail": "Parking is available at both sites."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "Tyre has a hot Mediterranean climate. The beach season is May to October, and spring and autumn are best for the ruins.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm, clear days and green fields."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot and humid. Good for the beach, and the turtles nest."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm and calm, with a warm sea."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Mild and rainy. Few visitors."
+      }
+    ],
+    "avoid": "Any period of conflict or tension in the south, and midday in summer."
+  },
+  "itinerary": {
+    "title": "One day in Tyre",
+    "intro": "The ruins in the morning, seafood at the harbour, and the beach in the afternoon. Assumes a driver from Beirut and current conditions that allow it.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Ruins, harbour and beach",
+        "summary": "A compact day.",
+        "morning": "The Al Bass necropolis and hippodrome, then Al Mina.",
+        "afternoon": "A fish lunch at the harbour and a swim.",
+        "evening": "Drive back via Sidon."
+      }
+    ]
+  },
+  "tipsIntro": "Tyre needs more caution than most places.",
+  "tips": [
+    "Read your government's advice before you plan a visit. The south has been the focus of conflict since 2023, and advice is strict.",
+    "Check conditions on the day with your driver or hotel. Access can change at short notice.",
+    "Follow any instructions from the army or UN forces, and do not enter closed areas.",
+    "Go in the morning, and take water and sun protection.",
+    "Avoid photographing military positions, checkpoints and political posters.",
+    "Dress modestly. The town is conservative.",
+    "Respect the turtle nesting areas on the beach."
+  ],
+  "faq": [
+    {
+      "q": "Is Tyre safe to visit?",
+      "a": "Tyre and the south have been the focus of conflict since 2023, and Israeli evacuation orders and strikes affected the city in 2024. Many governments advise against travel to south Lebanon. Check current advice and do not visit if advised against it."
+    },
+    {
+      "q": "What is Tyre known for?",
+      "a": "For being a great Phoenician city, the source of Tyrian purple dye, the legendary founder of Carthage, and a major Roman city with a huge hippodrome."
+    },
+    {
+      "q": "How long do you need in Tyre?",
+      "a": "Half a day for the ruins, and a full day with lunch and the beach."
+    },
+    {
+      "q": "Is Tyre a UNESCO World Heritage Site?",
+      "a": "Yes, since 1984. UNESCO gave it provisional enhanced protection during the 2024 conflict."
+    },
+    {
+      "q": "How do I get to Tyre?",
+      "a": "By car or driver from Beirut, about 90 minutes, or by bus or shared taxi. Check conditions first."
+    },
+    {
+      "q": "What is Tyrian purple?",
+      "a": "A dye made from the mucus of murex sea-snails, extremely expensive in antiquity and associated with royalty. Phoenician Tyre made its fortune on it."
+    }
+  ],
+  "related": ["sidon", "beirut", "chouf-beiteddine"],
+  "relatedArticles": ["unesco-worth-planning-around", "mediterranean-coasts"]
+}

@@ -1,0 +1,294 @@
+{
+  "slug": "batroun",
+  "name": "Batroun",
+  "country": "lebanon",
+  "region": "North Governorate, north coast",
+  "categories": ["coastal", "food-and-wine", "off-the-beaten-path"],
+  "tagline": "A small fishing town with a Phoenician sea wall, a stone old quarter, lemonade, wineries and the most relaxed beach scene on the Lebanese coast.",
+  "highlight": "Sunset over the sea from the old harbour, with a glass of the town's famous lemonade or a bottle of local wine.",
+  "shortDescription": "An easy-going coastal town 55 km north of Beirut, with Phoenician and Ottoman remains, a lively harbour, beaches, restaurants and vineyards in the hills behind.",
+  "metaDescription": "A Batroun travel guide: the Phoenician wall, the old town and cathedral, beaches and beach clubs, seafood and lemonade, the wine region behind the town, and a one-day plan from Beirut.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Beirut Rafic Hariri (BEY), about 1 hour by road",
+  "knownFor": "The Phoenician wall, the old town, beaches, lemonade, wine",
+  "budget": "US$90–160 per day, mid-range",
+  "goodFor": "Beaches, food, wine, nightlife, a slow coastal stop",
+  "coords": { "lat": 34.2553, "lng": 35.6586 },
+  "image": {
+    "file": "File:Lebanon - 20150614 - Batroun 5.jpg",
+    "alt": "The harbour and old stone houses of Batroun on the Lebanese coast"
+  },
+  "intro": [
+    "Batroun is a small town on a rocky headland about 55 km north of Beirut. It was a Phoenician port, known as Botrys, and it later became a Roman and Crusader town, and its old quarter is a tight cluster of stone houses, churches, mosques and shops around a small harbour. It is less historic than Byblos and less of a tourist site, and it has become in recent years one of the most fashionable places on the coast.",
+    "The best-known relic is the Phoenician sea wall, a line of rock about 225 metres long that stretches into the sea, shaped and reinforced by Phoenician builders to make a natural breakwater for the harbour. The town also has a 19th-century Greek Orthodox cathedral, a Maronite church, and a market where fishermen sell their catch. In the summer, its beaches, beach clubs, cafés and restaurants make it a favourite weekend spot for Beirutis.",
+    "Behind the coast, the hills are dotted with vineyards, and Batroun has become the centre of a small wine region. The town also has a reputation for its lemonade, made from local lemons and served in the old town. It is in the north, a part of the country that has generally been calm compared with the south and the Bekaa, but check your government's advice."
+  ],
+  "whyVisit": {
+    "intro": "Batroun combines sea, food and wine in a small and attractive setting, and is a good place to rest between sightseeing days.",
+    "points": [
+      {
+        "title": "The Phoenician wall",
+        "text": "A natural rock breakwater reinforced by the Phoenicians, believed to be about 2,500 years old, which still shelters the harbour."
+      },
+      {
+        "title": "A walkable old town",
+        "text": "Narrow lanes of stone houses, churches and workshops lead to the harbour and the sea."
+      },
+      {
+        "title": "Beaches and beach clubs",
+        "text": "Small sandy beaches and rocky bays with clubs offer swimming and sunset drinks from May to October."
+      },
+      {
+        "title": "Food and lemonade",
+        "text": "Seafood restaurants, bakeries and the famous Batroun lemonade make it a good place to eat."
+      },
+      {
+        "title": "Wine and hills",
+        "text": "Wineries in the hills behind the town welcome visitors for tastings and lunches."
+      }
+    ]
+  },
+  "attractionsIntro": "The old town, the wall and the harbour can be seen in a couple of hours, and the beaches and wineries fill the rest of a day.",
+  "attractions": [
+    {
+      "name": "The Phoenician Wall",
+      "image": {
+        "file": "File:Batroun Phoenician Wall.jpg",
+        "alt": "The Phoenician sea wall at Batroun stretching into the Mediterranean"
+      },
+      "text": "A rocky sea wall of about 225 metres, part natural and part shaped by Phoenician builders, which formed a harbour and a defence. It is best seen from the shore near the old port.",
+      "tip": "Walk along the rocks at sunset."
+    },
+    {
+      "name": "The old town and the souk",
+      "text": "A network of narrow lanes, restored stone houses, small shops and cafés around the harbour. It is pleasant to wander in the morning or evening.",
+      "tip": "Try the lemonade at a café."
+    },
+    {
+      "name": "The Cathedral of St Stephen",
+      "text": "A 19th-century Maronite cathedral in the old town, with a dome and a bell tower, and a Greek Orthodox church nearby.",
+      "tip": "Dress modestly."
+    },
+    {
+      "name": "The Roman theatre and rock-cut remains",
+      "text": "The remains of a small Roman theatre carved out of the rock, and ancient rock-cut tombs on the outskirts.",
+      "tip": "Ask locally for directions."
+    },
+    {
+      "name": "The harbour and fish market",
+      "text": "A small port with fishing boats, a fish market and restaurants with tables at the water's edge.",
+      "tip": "Go in the late afternoon."
+    },
+    {
+      "name": "Beaches and beach clubs",
+      "text": "Small sandy beaches and clubs along the coast, some public and some private.",
+      "tip": "Check entry fees and dress codes."
+    }
+  ],
+  "thingsToDoIntro": "Batroun is a place for slow days, sunsets and long lunches.",
+  "thingsToDo": [
+    {
+      "title": "Watch the sunset at the wall",
+      "text": "The sun sets over the sea behind the Phoenician wall and the harbour.",
+      "tip": "Bring a drink and a jacket."
+    },
+    {
+      "title": "Drink lemonade in the old town",
+      "text": "Batroun's lemonade, sometimes mixed with orange blossom water, is a local speciality.",
+      "tip": "Try it at several cafés."
+    },
+    {
+      "title": "Visit a winery",
+      "text": "Vineyards in the hills produce good wines, and several offer tastings and meals.",
+      "tip": "Book ahead and hire a driver."
+    },
+    {
+      "title": "Spend a day at a beach",
+      "text": "Swim, sunbathe and have lunch at a beach club.",
+      "tip": "Go on a weekday to avoid crowds."
+    },
+    {
+      "title": "Eat fresh seafood",
+      "text": "Restaurants serve fish, calamari and prawns.",
+      "tip": "Choose your fish at the counter."
+    },
+    {
+      "title": "Go out in the evening",
+      "text": "Bars and restaurants stay busy until late in summer.",
+      "tip": "Take a taxi or driver."
+    }
+  ],
+  "foodIntro": "Batroun is a good place to eat well, with seafood, mezze and local produce.",
+  "foods": [
+    {
+      "name": "Batroun lemonade",
+      "text": "Fresh lemon juice with sugar, mint or orange blossom water, served over ice.",
+      "whereToTry": "Cafés in the old town."
+    },
+    {
+      "name": "Grilled fish",
+      "text": "Sea bream, sea bass and red mullet, grilled and served whole.",
+      "whereToTry": "Harbour restaurants."
+    },
+    {
+      "name": "Mezze",
+      "text": "Hummus, tabbouleh and other starters, served with local wine or arak.",
+      "whereToTry": "Restaurants in the old town."
+    },
+    {
+      "name": "Local wine",
+      "text": "Wines from vineyards in the hills, including whites and rosés.",
+      "whereToTry": "Wineries and restaurants."
+    },
+    {
+      "name": "Bread and manakish",
+      "text": "Freshly baked flatbread with za'atar or cheese.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Sweets and ice cream",
+      "text": "Knefe, baklava and ice cream.",
+      "whereToTry": "Shops in the old town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Batroun has a growing number of boutique hotels and guesthouses, particularly in the old town and along the coast.",
+    "areas": [
+      {
+        "name": "The old town",
+        "bestFor": "Atmosphere and restaurants",
+        "text": "Small guesthouses and boutique hotels in stone houses, close to the harbour."
+      },
+      {
+        "name": "The coast",
+        "bestFor": "Beaches",
+        "text": "Beach resorts and hotels north and south of the town."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$70–120 per night" },
+      { "label": "Boutique hotel", "value": "US$130–250 per night" },
+      { "label": "Beach club entry", "value": "US$15–40" },
+      { "label": "Seafood lunch", "value": "US$20–40 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Batroun is about 55 km north of Beirut on the coastal highway, about 20 minutes beyond Byblos.",
+    "options": [
+      {
+        "mode": "Private driver or car",
+        "text": "About an hour from Beirut without traffic, and longer at the weekend.",
+        "detail": "Avoid leaving Beirut on Friday evening or returning on Sunday evening."
+      },
+      {
+        "mode": "Bus or service taxi",
+        "text": "Buses and shared taxis run from Beirut to Batroun.",
+        "detail": "Ask for Batroun."
+      },
+      {
+        "mode": "Tour",
+        "text": "Some tours combine Batroun with Byblos and Jeita.",
+        "detail": "Check the itinerary."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The old town is walkable, and a car or taxi helps to reach the beaches and wineries.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The old town, the harbour and the wall are within 10 minutes' walk.",
+        "detail": "Wear comfortable shoes."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Taxis take you to the beaches and wineries.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Car",
+        "text": "Useful for the wine region.",
+        "detail": "Do not drink and drive."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–October",
+    "summary": "Batroun has a Mediterranean climate, and the beach season runs from May to October. Spring and autumn are the most comfortable.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm and green, with the sea still cool."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot and humid, and the busiest and most expensive season."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm sea, fewer people, and the grape harvest."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Mild and wet, with many places closed."
+      }
+    ],
+    "avoid": "August weekends, when the town is packed."
+  },
+  "itinerary": {
+    "title": "One day in Batroun",
+    "intro": "The old town and wall in the morning, lunch and the beach, a winery in the late afternoon.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Sea, sun and wine",
+        "summary": "A relaxed day.",
+        "morning": "The old town and the Phoenician wall.",
+        "afternoon": "A seafood lunch and a swim.",
+        "evening": "A winery tasting and sunset in town."
+      }
+    ]
+  },
+  "tipsIntro": "Batroun is relaxed, and a few tips help.",
+  "tips": [
+    "Go on a weekday in summer. The weekend crowd from Beirut can be heavy.",
+    "Book restaurants and beach clubs in advance in July and August.",
+    "Bring cash in US dollars, and check card fees.",
+    "Do not drink and drive. Use a driver for the wineries.",
+    "Check the current situation. Batroun has generally been calm, but conditions in Lebanon can change.",
+    "Dress modestly in the old town and churches.",
+    "Bring a jacket for the evening."
+  ],
+  "faq": [
+    {
+      "q": "What is Batroun known for?",
+      "a": "Its Phoenician sea wall, its lemonade, its old town, its beaches and its growing wine scene."
+    },
+    {
+      "q": "How long do you need in Batroun?",
+      "a": "One day is enough for the town, a swim and a winery. A night lets you enjoy the evening."
+    },
+    {
+      "q": "Is Batroun safe to visit?",
+      "a": "It is in the north, which has generally been calm compared with the south and the Bekaa, but conditions in Lebanon can change. Check your government's advice."
+    },
+    {
+      "q": "How far is Batroun from Beirut?",
+      "a": "About 55 km, or an hour without traffic."
+    },
+    {
+      "q": "When is the beach season?",
+      "a": "From May to October, with the water at its warmest in August and September."
+    },
+    {
+      "q": "Can I combine Batroun with Byblos?",
+      "a": "Yes. They are about 20 minutes apart, and are often visited together."
+    }
+  ],
+  "related": ["byblos", "tripoli", "beirut"],
+  "relatedArticles": ["mediterranean-coasts", "food-primer"]
+}

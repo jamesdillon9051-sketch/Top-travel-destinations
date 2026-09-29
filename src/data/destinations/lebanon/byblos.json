@@ -1,0 +1,295 @@
+{
+  "slug": "byblos",
+  "name": "Byblos (Jbeil)",
+  "shortName": "Byblos",
+  "country": "lebanon",
+  "region": "Mount Lebanon Governorate, north coast",
+  "categories": ["unesco", "archaeological", "coastal"],
+  "tagline": "One of the oldest continuously inhabited cities on Earth, a small Phoenician port where the alphabet was carried to the world, with a Crusader castle, Roman ruins and a stone harbour.",
+  "highlight": "The Crusader castle above the Phoenician and Roman ruins, with the harbour and the sea behind.",
+  "shortDescription": "A small, charming coastal town of stone lanes, a Crusader castle and layers of ruins going back seven thousand years, 40 minutes north of Beirut.",
+  "metaDescription": "A Byblos travel guide: the Crusader castle and archaeological site, the Phoenician alphabet, the old souk and harbour, seafood and beaches, how to combine it with Jeita Grotto and Batroun, and a one-day plan.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Beirut Rafic Hariri (BEY), about 45 minutes",
+  "knownFor": "The Crusader castle, the archaeological site, the old harbour, the Phoenician alphabet",
+  "budget": "US$80–150 per day, mid-range",
+  "goodFor": "History, a relaxed coastal day, seafood, a day trip from Beirut",
+  "coords": { "lat": 34.1236, "lng": 35.6519 },
+  "image": {
+    "file": "File:Byblos Castle in 2018.jpg",
+    "alt": "The Crusader castle of Byblos above the ruins and the sea"
+  },
+  "intro": [
+    "Byblos, called Jbeil in Arabic and Gebal by the Phoenicians, is a small town 37 km north of Beirut, and one of the oldest continuously inhabited places on Earth, with settlement going back around seven thousand years. It was a great Phoenician trading city, exporting the cedar wood of Lebanon to Egypt and importing papyrus in return, and the Greek word for book, biblos, and so the word Bible, are said to derive from its name.",
+    "The Phoenicians developed one of the earliest alphabets here, and the sarcophagus of King Ahiram, found in a royal tomb, carries an inscription of about 1000 BCE that is among the oldest examples. The town was later ruled by Assyrians, Persians, Greeks and Romans, and in the 12th century the Crusaders built a castle from the stones of earlier buildings. UNESCO listed the site in 1984.",
+    "Today, Byblos is a compact and relaxed place, with a small archaeological site, the castle, a restored old souk and a harbour with fishing boats and seafood restaurants. It is very easy to reach from Beirut and works as a day trip or the start of a trip up the coast. It is in a part of the country that has been calm compared with the south and the Bekaa, though you should check your government's advice."
+  ],
+  "whyVisit": {
+    "intro": "Byblos combines deep history with an easy, pleasant setting.",
+    "points": [
+      {
+        "title": "Seven thousand years of history",
+        "text": "Neolithic huts, Bronze Age temples, Phoenician royal tombs, a Roman theatre and a Crusader castle lie within a few hundred metres."
+      },
+      {
+        "title": "The Phoenician alphabet",
+        "text": "The Ahiram inscription and other finds connect Byblos with one of the most important inventions in history."
+      },
+      {
+        "title": "A small, walkable town",
+        "text": "The site, the old souk and the harbour can all be seen on foot in a few hours."
+      },
+      {
+        "title": "A working harbour",
+        "text": "Fishing boats, seafood restaurants and cafés overlook the stone-built port, one of the prettiest on the Lebanese coast."
+      },
+      {
+        "title": "Easy to combine",
+        "text": "Jeita Grotto, Harissa and Batroun are all close, so a day out from Beirut can include two or three of them."
+      }
+    ]
+  },
+  "attractionsIntro": "Byblos is small, and the main sights can be seen in half a day.",
+  "attractions": [
+    {
+      "name": "The Crusader castle",
+      "text": "A 12th-century fortress built by the Crusaders from stones taken from Roman and earlier buildings, with a keep, a moat and towers, and views over the site and the sea.",
+      "tip": "Climb the keep for the view."
+    },
+    {
+      "name": "The archaeological site",
+      "text": "A hillside of ruins from many periods: Neolithic houses, the Temple of Baalat Gebal, the Temple of the Obelisks, the Phoenician royal necropolis and a Roman colonnade and theatre.",
+      "tip": "Walk the site with a guide or an audio guide."
+    },
+    {
+      "name": "The old souk",
+      "image": {
+        "file": "File:ByblosOldSouk.jpg",
+        "alt": "The stone lanes of the old souk at Byblos lined with shops"
+      },
+      "text": "A restored network of lanes of stone-built shops selling crafts, jewellery, antiques and souvenirs, and cafés. It is the most touristy part of Byblos but also its most pleasant.",
+      "tip": "Go in the morning or early evening."
+    },
+    {
+      "name": "The old harbour",
+      "text": "A small stone-walled port, thought to be among the oldest in the world, with fishing boats, cafés and restaurants.",
+      "tip": "Have lunch by the water."
+    },
+    {
+      "name": "The Church of St John-Marc",
+      "text": "A 12th-century Crusader church, built as a cathedral, with a fine vaulted interior, close to the castle.",
+      "tip": "Modest dress is required."
+    },
+    {
+      "name": "The Wax Museum and the Fossil Museum",
+      "text": "Two small private museums, one telling Byblos's story with wax figures and the other displaying fossils found in Lebanese limestone.",
+      "tip": "Check opening hours."
+    }
+  ],
+  "thingsToDoIntro": "Byblos is a day for walking, eating and looking.",
+  "thingsToDo": [
+    {
+      "title": "Walk the archaeological site",
+      "text": "See the layers of history from the Neolithic to the Crusader period, and enjoy the setting.",
+      "tip": "Go in the morning."
+    },
+    {
+      "title": "Have a seafood lunch at the port",
+      "text": "Fish restaurants along the harbour serve the day's catch, grilled or fried.",
+      "tip": "Choose the fish yourself at the counter."
+    },
+    {
+      "title": "Browse the old souk",
+      "text": "Look for hand-made jewellery, pottery and antiques, and stop for a coffee.",
+      "tip": "Bargain politely."
+    },
+    {
+      "title": "Swim from a small beach",
+      "text": "Small public and private beaches near the harbour offer a place to cool off in summer.",
+      "tip": "Check the water quality and the entry fee."
+    },
+    {
+      "title": "Visit Jeita Grotto on the way",
+      "text": "The caves are about halfway between Beirut and Byblos, and can be combined in a day.",
+      "tip": "Go on a weekday morning."
+    },
+    {
+      "title": "Continue to Batroun",
+      "text": "The seaside town of Batroun is 20 minutes north, with a Phoenician wall and a lively nightlife.",
+      "tip": "Stay for sunset."
+    }
+  ],
+  "foodIntro": "Byblos is a seafood town, and it is also a good place for mezze and local bread.",
+  "foods": [
+    {
+      "name": "Grilled fish",
+      "text": "Sea bream, sea bass and red snapper grilled with lemon and olive oil, served whole.",
+      "whereToTry": "Restaurants along the harbour."
+    },
+    {
+      "name": "Mezze",
+      "text": "A range of Lebanese starters including hummus, tabbouleh and kibbeh.",
+      "whereToTry": "Restaurants in the old town."
+    },
+    {
+      "name": "Fried calamari and prawns",
+      "text": "Small dishes of squid and prawns, fried and served with lemon.",
+      "whereToTry": "Harbour-side restaurants."
+    },
+    {
+      "name": "Manakish",
+      "text": "Flatbread with za'atar or cheese, served hot from the oven.",
+      "whereToTry": "Bakeries in the old town."
+    },
+    {
+      "name": "Sweets and ice cream",
+      "text": "Knefe, baklava and ice cream flavoured with rose water and pistachio.",
+      "whereToTry": "Shops in the souk."
+    },
+    {
+      "name": "Local wine and arak",
+      "text": "Wines from Batroun and the mountains, and arak, the aniseed spirit.",
+      "whereToTry": "Restaurants and bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors visit as a day trip from Beirut, but staying overnight lets you see the harbour in the evening and enjoy a quiet morning.",
+    "areas": [
+      {
+        "name": "The old town and harbour",
+        "bestFor": "Atmosphere",
+        "text": "Small boutique hotels and guesthouses in stone houses, close to the site and the restaurants."
+      },
+      {
+        "name": "The coast road",
+        "bestFor": "Resorts and sea views",
+        "text": "Beach resorts and larger hotels a few kilometres north and south of the town."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$60–100 per night" },
+      { "label": "Boutique hotel", "value": "US$120–220 per night" },
+      { "label": "Site entry", "value": "A few US dollars" },
+      { "label": "Seafood lunch", "value": "US$20–40 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Byblos is about 37 km north of Beirut, on the coastal highway.",
+    "options": [
+      {
+        "mode": "Car or driver from Beirut",
+        "text": "About 40 minutes without traffic, and up to 90 minutes at rush hour. A driver can combine Jeita and Harissa.",
+        "detail": "Avoid leaving Beirut at rush hour."
+      },
+      {
+        "mode": "Bus or service taxi",
+        "text": "Buses and shared taxis run from Beirut's Charles Helou and Dora stations to Byblos frequently, and are cheap.",
+        "detail": "Ask for Jbeil."
+      },
+      {
+        "mode": "Tour",
+        "text": "Many day tours from Beirut combine Byblos, Jeita and Harissa.",
+        "detail": "Check what is included."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Byblos is small and walkable.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The site, the old town and the harbour are within 10 minutes' walk of each other.",
+        "detail": "Wear comfortable shoes."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Taxis and ride-hailing apps take you to Jeita and Batroun.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Car",
+        "text": "Useful for the wider area.",
+        "detail": "Parking in the old town is limited."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "Byblos has a Mediterranean climate, and the beach season runs from May to October. Spring and autumn are the best seasons for sightseeing.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm, sunny days with wildflowers on the hills."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot and humid, with a busy harbour. Go early or in the evening."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm and calm, with a warm sea."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Mild and wet, with few visitors. Many restaurants are quiet."
+      }
+    ],
+    "avoid": "August weekends, when the town is crowded, and rainy winter days."
+  },
+  "itinerary": {
+    "title": "One day in Byblos",
+    "intro": "The site and the castle in the morning, lunch by the harbour, the souk in the afternoon. Assumes a start from Beirut.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Ruins, harbour and souk",
+        "summary": "A compact day of history and food.",
+        "morning": "Jeita Grotto on the way, then the archaeological site and castle.",
+        "afternoon": "A seafood lunch at the harbour and the old souk.",
+        "evening": "Sunset at the harbour, and dinner or a drive on to Batroun."
+      }
+    ]
+  },
+  "tipsIntro": "Byblos is easy, and a few tips help.",
+  "tips": [
+    "Go on a weekday. Weekends and summer evenings are busy with Lebanese visitors.",
+    "Buy a ticket for the archaeological site and take an audio guide or a guide. The layers are hard to read alone.",
+    "Bring cash in US dollars. Some places take cards at poor rates.",
+    "Combine Byblos with Jeita and Batroun, and hire a driver.",
+    "Check the current situation. Byblos is generally calm, but advice for Lebanon can change quickly.",
+    "Dress modestly for the churches.",
+    "Eat lunch early, before the harbour restaurants fill up."
+  ],
+  "faq": [
+    {
+      "q": "Is Byblos really the oldest city in the world?",
+      "a": "It is one of several, including Jericho, Aleppo and Damascus, that claim to be. Byblos has been inhabited for about seven thousand years, and it was certainly one of the earliest Mediterranean ports."
+    },
+    {
+      "q": "How long do you need in Byblos?",
+      "a": "Half a day for the site, the castle and the souk, and a full day with lunch and a swim."
+    },
+    {
+      "q": "What is the connection with the Bible?",
+      "a": "The Greek word biblos, meaning book, came from the town's name, since it exported papyrus. The word Bible derives from the same root."
+    },
+    {
+      "q": "Is Byblos safe to visit?",
+      "a": "It is in a part of the country that has been calm compared with the south and the Bekaa, but advice for Lebanon can change quickly. Check your government's advice."
+    },
+    {
+      "q": "How do I get to Byblos from Beirut?",
+      "a": "By car, driver, bus or service taxi. It takes about 40 minutes without traffic and longer at rush hour."
+    },
+    {
+      "q": "Can I combine Byblos with other places?",
+      "a": "Yes. Jeita Grotto and Harissa are on the way from Beirut, and Batroun is 20 minutes further north. Tripoli is about an hour away."
+    }
+  ],
+  "related": ["batroun", "beirut", "tripoli"],
+  "relatedArticles": ["mediterranean-coasts", "unesco-worth-planning-around"]
+}

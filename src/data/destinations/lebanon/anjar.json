@@ -1,0 +1,305 @@
+{
+  "slug": "anjar",
+  "name": "Anjar & the Bekaa Wine Country",
+  "shortName": "Anjar",
+  "country": "lebanon",
+  "region": "Bekaa Governorate, Zahle District",
+  "categories": ["unesco", "archaeological", "food-and-wine"],
+  "tagline": "A walled city founded by an Umayyad caliph in the early 8th century and abandoned within decades, set among Armenian villages and the vineyards of the Bekaa Valley.",
+  "highlight": "The Umayyad city's grid of streets, with tetrapylons at the crossroads and arcaded shops, and the snow-capped mountains behind.",
+  "shortDescription": "A UNESCO-listed Umayyad city of arcades, palaces and baths, a short drive from the Ksara and Kefraya wineries — in a border area where visiting depends on current conditions.",
+  "metaDescription": "An Anjar travel guide: the Umayyad city and its cardo, the Armenian town and its trout and sujuk, Bekaa wineries such as Ksara and Kefraya, the Ksara caves, and what the Syrian border means for visitors.",
+  "suggestedStay": "Half a day to a day",
+  "nearestAirport": "Beirut Rafic Hariri (BEY), about 1 hour 30 minutes by road",
+  "knownFor": "The Umayyad city, Armenian food, Bekaa wineries, Ksara caves",
+  "budget": "US$70–130 per day, mid-range",
+  "goodFor": "Archaeology, wine, food, combining with Baalbek",
+  "coords": { "lat": 33.7267, "lng": 35.9297 },
+  "image": {
+    "file": "File:Umayyad city of Anjar, March 2017 05.jpg",
+    "alt": "The ruined arcades and columns of the Umayyad city of Anjar in the Bekaa Valley"
+  },
+  "intro": [
+    "Anjar sits on the plain of the Bekaa Valley in eastern Lebanon, about 58 km east of Beirut and a few kilometres from the Syrian border. In the early 8th century, the Umayyad caliph al-Walid I, or possibly his son, founded a city here, on the trade route between Damascus and the coast. It was laid out on a Roman-inspired grid, enclosed by walls with towers, and it contained palaces, a mosque, baths and arcaded shops.",
+    "It did not last long. The Umayyad dynasty fell in 750, and the Abbasids, who took power, abandoned the city, which was ruined by an earthquake and forgotten. Because it was abandoned so soon and never built over, the layout is unusually clear: two main streets crossing at a tetrapylon, lined with rows of shops, and palaces and a mosque behind. UNESCO listed the site in 1984 as an important example of early Islamic urban planning.",
+    "The modern village of Anjar was founded in 1939 by Armenian refugees from Musa Dagh, in what is now Turkey, and its inhabitants are still mostly Armenian. Nearby, the Bekaa is Lebanon's main wine region, with the wineries of Ksara and Kefraya. Anjar's position close to the Syrian border has meant that it has been affected by regional tension, and Israeli strikes hit the border area in 2024. Many governments advised against travel to the Bekaa at the time of writing, so check the current situation before you consider going."
+  ],
+  "whyVisit": {
+    "intro": "Anjar is one of the few surviving early Islamic cities, and it is easy to grasp in a couple of hours.",
+    "points": [
+      {
+        "title": "A planned Umayyad city",
+        "text": "A regular grid of streets, a walled enclosure and monumental gates show how the early Umayyads borrowed from Roman town planning."
+      },
+      {
+        "title": "Reused Roman stone",
+        "text": "Many of the columns and capitals were taken from earlier Roman buildings, and the builders alternated courses of stone and brick in the Byzantine manner."
+      },
+      {
+        "title": "An Armenian village",
+        "text": "The modern town has its own culture, with Armenian churches, food and shops, including restaurants known for their trout and mezze."
+      },
+      {
+        "title": "Wine country",
+        "text": "Ksara, Kefraya and other wineries lie nearby, with tastings and lunches."
+      },
+      {
+        "title": "Close to Baalbek",
+        "text": "Anjar and Baalbek are about an hour and a half apart, and are often visited together."
+      }
+    ]
+  },
+  "attractionsIntro": "The archaeological site takes an hour or two, and the wineries and caves can fill the rest of a day.",
+  "attractions": [
+    {
+      "name": "The Umayyad city",
+      "text": "A walled rectangle of about 350 by 370 metres, with four gates and a grid of streets. The remains of two palaces, a mosque, baths and arcades survive, with several restored colonnades.",
+      "tip": "Go early and walk the main street from gate to gate."
+    },
+    {
+      "name": "The tetrapylon and the cardo",
+      "text": "The crossroads at the heart of the city, marked by four groups of columns. The main street is flanked by arcades of small shops.",
+      "tip": "Look at the mix of stone and brick courses in the walls."
+    },
+    {
+      "name": "The Grand Palace and the mosque",
+      "text": "The remains of the caliph's palace and of the mosque, with a court, a prayer hall and carved decoration.",
+      "tip": "Read the information boards to make sense of the ruins."
+    },
+    {
+      "name": "The Ksara caves and winery",
+      "image": {
+        "file": "File:Château Ksara headquarters, Bekaa, Lebanon.JPG",
+        "alt": "The Château Ksara winery headquarters in the Bekaa Valley"
+      },
+      "text": "About 20 km from Anjar, Ksara is the oldest and best-known winery in Lebanon, founded by Jesuit monks in 1857, with a network of Roman-era caves used to store wine.",
+      "tip": "Book a tour and tasting in advance."
+    },
+    {
+      "name": "Kefraya and other wineries",
+      "text": "A number of wineries in the western Bekaa and near Zahle offer visits, tastings and meals.",
+      "tip": "Confirm that they are open."
+    },
+    {
+      "name": "The Armenian village and Aanjar's church",
+      "text": "A small town with Armenian churches and shops, and the memorial to the Musa Dagh refugees.",
+      "tip": "Ask permission to enter churches."
+    },
+    {
+      "name": "Zahle and the Berdawni river",
+      "text": "The largest city of the Bekaa, with riverside restaurants along the Berdawni, known for arak and mezze.",
+      "tip": "Have lunch at a riverside restaurant."
+    }
+  ],
+  "thingsToDoIntro": "A day in the Bekaa combines ruins, food and wine.",
+  "thingsToDo": [
+    {
+      "title": "Walk the Umayyad city",
+      "text": "Wander the arcades and streets, and see how the city was laid out.",
+      "tip": "Go in the morning."
+    },
+    {
+      "title": "Eat at an Armenian restaurant",
+      "text": "Try the local trout, kebabs, sujuk, mante and other Armenian dishes.",
+      "tip": "Book for lunch on weekends."
+    },
+    {
+      "title": "Visit a winery",
+      "text": "Tasting at Ksara or Kefraya, with a tour of the vineyards and cellars.",
+      "tip": "Book in advance, and use a driver."
+    },
+    {
+      "title": "Explore the Ksara caves",
+      "text": "A tour of the cellar tunnels, cut into the rock by the Romans.",
+      "tip": "Wear warm clothes."
+    },
+    {
+      "title": "Lunch by the river at Zahle",
+      "text": "Riverside restaurants serve arak and mezze under the trees.",
+      "tip": "Go on a weekday to avoid crowds."
+    },
+    {
+      "title": "Combine with Baalbek",
+      "text": "Baalbek is about 90 minutes away, and the two make a full day, if conditions allow.",
+      "tip": "Check the current situation."
+    }
+  ],
+  "foodIntro": "The Bekaa is Lebanon's breadbasket, and its cooking includes both traditional Lebanese and Armenian dishes.",
+  "foods": [
+    {
+      "name": "Bekaa wine",
+      "text": "Reds, whites and rosés from the high-altitude vineyards, including Cabernet Sauvignon, Cinsault and Obaideh.",
+      "whereToTry": "Wineries and restaurants."
+    },
+    {
+      "name": "Fresh trout",
+      "text": "Trout from the rivers, grilled or fried, served with lemon.",
+      "whereToTry": "Restaurants in Anjar."
+    },
+    {
+      "name": "Armenian sujuk and basturma",
+      "text": "Spiced sausage and cured beef, served as starters or in sandwiches.",
+      "whereToTry": "Armenian shops and restaurants."
+    },
+    {
+      "name": "Mezze",
+      "text": "Lebanese starters, often with fresh herbs from the valley.",
+      "whereToTry": "Restaurants in Anjar and Zahle."
+    },
+    {
+      "name": "Bekaa cheese and labneh",
+      "text": "Fresh dairy from the valley.",
+      "whereToTry": "Shops and restaurants."
+    },
+    {
+      "name": "Arak",
+      "text": "The aniseed spirit distilled from Bekaa grapes, served with a meal.",
+      "whereToTry": "Restaurants in Zahle."
+    }
+  ],
+  "accommodation": {
+    "intro": "Accommodation in Anjar is limited, and most visitors visit on a day trip. Zahle has more choice.",
+    "areas": [
+      {
+        "name": "Anjar",
+        "bestFor": "The ruins",
+        "text": "A few guesthouses and small hotels near the site."
+      },
+      {
+        "name": "Zahle",
+        "bestFor": "Restaurants and wineries",
+        "text": "Hotels and guesthouses in a larger town, about 25 km from Anjar."
+      },
+      {
+        "name": "Beirut",
+        "bestFor": "Most visitors",
+        "text": "A wider choice, an hour and a half away."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$40–80 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–140 per night" },
+      { "label": "Site entry", "value": "A few US dollars" },
+      { "label": "Winery tasting", "value": "US$10–30 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Anjar is about 58 km east of Beirut on the Beirut–Damascus highway. Check current conditions and advice.",
+    "options": [
+      {
+        "mode": "Private driver or car",
+        "text": "About 1 hour 30 minutes from Beirut, over the mountain pass. A driver can combine Anjar with wineries and Baalbek.",
+        "detail": "Ask about road and border-area conditions."
+      },
+      {
+        "mode": "Bus or service taxi",
+        "text": "Buses and shared taxis run to Chtaura and Anjar.",
+        "detail": "Ask about current services."
+      },
+      {
+        "mode": "Tour",
+        "text": "Some tours combine Anjar, Ksara and Baalbek.",
+        "detail": "Check what is included."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The site is on foot, and a car or taxi links the wineries and towns.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The Umayyad city is flat and easy to walk.",
+        "detail": "Bring a hat and water."
+      },
+      {
+        "mode": "Taxi or driver",
+        "text": "The best way to reach Ksara, Kefraya and Zahle.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Car",
+        "text": "Useful for the valley.",
+        "detail": "Do not drive after wine tastings."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "The Bekaa is at about 900 m, with hot dry summers and cold winters. Spring and autumn are the most comfortable, and the grape harvest is in September and October.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Green fields, warm days and snow on the mountains."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot and dry, but cooler than the coast. Visit in the morning."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "The grape harvest, golden light and warm days."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold and often snowy. The pass over the mountains may close."
+      }
+    ],
+    "avoid": "Snowstorms and any period of tension near the border."
+  },
+  "itinerary": {
+    "title": "One day in the Bekaa",
+    "intro": "Anjar's ruins in the morning, an Armenian lunch, and a winery in the afternoon. Assumes a driver from Beirut and conditions that allow it.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Ruins, lunch and wine",
+        "summary": "A day of history and taste.",
+        "morning": "The Umayyad city of Anjar.",
+        "afternoon": "Lunch in the Armenian village and a tour of a winery.",
+        "evening": "Return to Beirut over the pass."
+      }
+    ]
+  },
+  "tipsIntro": "The Bekaa needs more caution than most places.",
+  "tips": [
+    "Read your government's advice. Anjar is close to the Syrian border, and the area has been affected by conflict.",
+    "Check conditions on the day with your driver or hotel.",
+    "Go early. The site has little shade.",
+    "Book winery visits in advance and confirm they are open.",
+    "Do not drink and drive.",
+    "Carry your passport for checkpoints.",
+    "Do not photograph military sites."
+  ],
+  "faq": [
+    {
+      "q": "Is Anjar safe to visit?",
+      "a": "Anjar is a quiet village, but it lies close to the Syrian border, and the Bekaa was affected by Israeli strikes in 2024. Many governments advise against travel to the Bekaa. Check current advice."
+    },
+    {
+      "q": "Who built Anjar?",
+      "a": "The Umayyad caliph al-Walid I, or possibly his son al-Walid II, in the early 8th century. It was abandoned after the fall of the dynasty in 750."
+    },
+    {
+      "q": "Why are there Armenians in Anjar?",
+      "a": "The modern village was founded in 1939 by refugees from Musa Dagh, in Turkey, who fled the Armenian genocide of 1915 and then the transfer of the region to Turkey."
+    },
+    {
+      "q": "How long do you need?",
+      "a": "Half a day for the ruins and lunch, and a full day with a winery and Zahle."
+    },
+    {
+      "q": "Where is Lebanon's wine region?",
+      "a": "The Bekaa Valley, at about 900 to 1,100 metres, where Ksara, Kefraya, Musar and other wineries are located."
+    },
+    {
+      "q": "Can I combine Anjar with Baalbek?",
+      "a": "Yes, in normal conditions. They are about 90 minutes apart, and make a full day out of Beirut. Check the security situation first."
+    }
+  ],
+  "related": ["baalbek", "beirut", "chouf-beiteddine"],
+  "relatedArticles": ["unesco-worth-planning-around", "food-primer"]
+}

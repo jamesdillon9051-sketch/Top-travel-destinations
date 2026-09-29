@@ -1,0 +1,325 @@
+{
+  "slug": "beirut",
+  "name": "Beirut",
+  "country": "lebanon",
+  "region": "Beirut Governorate, Mediterranean coast",
+  "categories": ["capital-city", "major-city", "cultural"],
+  "tagline": "A rebuilt, scarred and endlessly lively capital on the Mediterranean, with a superb museum, a sea-front promenade, and some of the best food and nightlife in the Middle East.",
+  "highlight": "A long dinner in Gemmayzeh or Mar Mikhael, after a sunset walk along the Corniche to the Pigeon Rocks.",
+  "shortDescription": "Lebanon's capital: a dense, cosmopolitan city of Ottoman houses and glass towers, with the National Museum, the Corniche, cafés, bars and a food scene that outclasses its size.",
+  "metaDescription": "A Beirut travel guide: the National Museum, the Corniche and Pigeon Rocks, the Mohammad Al-Amin Mosque, Gemmayzeh and Mar Mikhael, Jeita Grotto, food and nightlife, current safety context and a two-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Beirut Rafic Hariri (BEY), about 20 minutes",
+  "knownFor": "The National Museum, the Corniche, food, nightlife, resilience",
+  "budget": "US$100–200 per day, mid-range",
+  "goodFor": "Food, museums, nightlife, city walks, a base for the country",
+  "coords": { "lat": 33.8938, "lng": 35.5018 },
+  "image": {
+    "file": "File:Mohammad Al-Amin Mosque and St. George Maronite Cathedral, Beirut (2).jpg",
+    "alt": "The blue-domed Mohammad Al-Amin Mosque beside St George Maronite Cathedral in downtown Beirut"
+  },
+  "intro": [
+    "Beirut has been continuously inhabited for at least five thousand years, and the Phoenician city of Bêryte, the Roman colony of Berytus and its famous law school lie under the modern streets. It has been destroyed and rebuilt many times, by earthquake and tsunami in 551, by the Crusaders, and by fifteen years of civil war from 1975 to 1990. The war left the centre in ruins, and it has been reconstructed since the 1990s, in a way that many Lebanese still argue about.",
+    "Today the city is a patchwork. Downtown has Ottoman and French Mandate buildings beside glass towers, the Roman baths and the mosque of Mohammad Al-Amin. Hamra is a lively university district of cafés and bookshops, Gemmayzeh and Mar Mikhael are the centre of the bar and restaurant scene, and the Corniche runs along the seafront past the Pigeon Rocks, a pair of sea-stacks that are the symbol of the city.",
+    "Beirut has been through a great deal since 2019: the economic collapse, the port explosion of 4 August 2020, which killed more than 200 people and damaged large parts of the city, and the war of 2024, which mostly affected the southern suburbs. Its residents are known for their resilience, and the city's cafés, galleries and restaurants remain lively. Check your government's advice before you go, since parts of the city, especially the southern suburbs, are subject to stricter warnings."
+  ],
+  "whyVisit": {
+    "intro": "Beirut is one of the most stimulating cities in the region, and the easiest base for the rest of the country.",
+    "points": [
+      {
+        "title": "An outstanding museum",
+        "text": "The National Museum holds the best collection of Phoenician, Roman and Byzantine antiquities in Lebanon, including the sarcophagus of King Ahiram, whose inscription is among the earliest examples of the Phoenician alphabet."
+      },
+      {
+        "title": "Food that rewards curiosity",
+        "text": "From street manakish to mezze, from seafood to fine dining, Beirut is where Lebanese cuisine is at its best and most varied."
+      },
+      {
+        "title": "A layered, walkable centre",
+        "text": "Roman baths, Ottoman mansions, French Mandate arcades and modern towers stand within a few blocks of each other."
+      },
+      {
+        "title": "Nightlife and culture",
+        "text": "Bars, live-music venues, theatres and galleries have kept going through repeated crises, and the city is famous for its energy."
+      },
+      {
+        "title": "A gateway to everything",
+        "text": "Byblos, Jeita Grotto, Harissa and the Chouf are all within an hour or two, so it works as a base for the whole country."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights are spread across the city, and a driver or taxi is the easiest way to move between them.",
+  "attractions": [
+    {
+      "name": "The National Museum of Beirut",
+      "image": {
+        "file": "File:National Museum of Beirut, Beirut, Lebanon.jpg",
+        "alt": "The Egyptian Revival facade of the National Museum of Beirut"
+      },
+      "text": "A museum of Lebanese archaeology from prehistory to the Ottoman period, with Phoenician sarcophagi, Roman mosaics and painted tombs. It survived the civil war partly by being walled in with concrete, and reopened in 1997.",
+      "tip": "Allow two hours, and visit the basement galleries with the sarcophagi and tomb paintings."
+    },
+    {
+      "name": "The Corniche and the Pigeon Rocks",
+      "image": {
+        "file": "File:Pigeon Rocks of Beirut, Rock of Raouche, Beirut, Lebanon.jpg",
+        "alt": "The Pigeon Rocks of Raouche rising from the sea off Beirut"
+      },
+      "text": "A 4.8 km sea-front promenade that is the city's living room, full of walkers, cyclists and fishermen, and ending at Raouche, where the Pigeon Rocks stand offshore.",
+      "tip": "Go at sunset, and walk from the lighthouse to the rocks."
+    },
+    {
+      "name": "The Mohammad Al-Amin Mosque and downtown",
+      "text": "A large mosque with blue domes and four minarets, completed in 2007 in Ottoman style, next to the Maronite Cathedral of St George, and close to the Roman baths and the Nejmeh Square. Non-Muslims can visit outside prayer times.",
+      "tip": "Dress modestly, and check the visiting hours."
+    },
+    {
+      "name": "Gemmayzeh and Mar Mikhael",
+      "image": {
+        "file": "File:Steps Of Mar Mikhael (154437631).jpeg",
+        "alt": "The Mar Mikhael stairs in Beirut, a well-known landmark of the neighbourhood"
+      },
+      "text": "Two neighbouring districts of old Levantine houses, with bars, restaurants, galleries and design shops. They were badly damaged by the port explosion, and have been rebuilt in part.",
+      "tip": "Go in the evening, and reserve for dinner."
+    },
+    {
+      "name": "The Sursock Museum",
+      "text": "An art museum in an early 20th-century Italianate mansion, showing modern and contemporary Lebanese art. It was damaged in the 2020 explosion and reopened in 2021.",
+      "tip": "Check the opening hours and exhibitions."
+    },
+    {
+      "name": "Hamra and the American University",
+      "text": "A lively area of bookshops, cafés and theatres around Hamra Street and the campus of the American University of Beirut, with a museum of archaeology and a botanical garden.",
+      "tip": "It is a good place to spend a relaxed afternoon."
+    },
+    {
+      "name": "Jeita Grotto and Harissa",
+      "image": {
+        "file": "File:Jeita Grotto ITH041.jpg",
+        "alt": "Limestone formations inside Jeita Grotto"
+      },
+      "text": "About 18 km north of the city, Jeita is a spectacular pair of limestone caves with a lake, walkways and boats. Nearby, a cable car climbs to Harissa, where a statue of Our Lady of Lebanon overlooks the bay.",
+      "tip": "Combine them on the way to Byblos."
+    }
+  ],
+  "thingsToDoIntro": "Beirut is best for walking, eating and staying up late. These are the ways to spend a short visit.",
+  "thingsToDo": [
+    {
+      "title": "Walk the Corniche at sunset",
+      "text": "Join locals on the sea-front promenade, buy roasted corn or sweets from the vendors, and watch the sun go down behind the Pigeon Rocks.",
+      "tip": "Go on a weekday evening, when it is less crowded."
+    },
+    {
+      "title": "Spend a morning at the National Museum",
+      "text": "See the Phoenician and Roman collections that prepare you for Byblos, Tyre and Baalbek.",
+      "tip": "Go early, then have lunch nearby."
+    },
+    {
+      "title": "Eat your way through the city",
+      "text": "Try manakish at a bakery for breakfast, a full mezze lunch, and a long dinner in Mar Mikhael. Beirut has restaurants at every price.",
+      "tip": "Book for dinner on weekends."
+    },
+    {
+      "title": "Go out in Mar Mikhael and Gemmayzeh",
+      "text": "Bars, live music and late-night restaurants fill the two neighbourhoods on most nights.",
+      "tip": "Take a taxi or a ride-hailing app at night."
+    },
+    {
+      "title": "Visit Jeita Grotto",
+      "text": "A boat trip through the lower cave and a walk through the upper gallery, with huge stalactites and stalagmites.",
+      "tip": "Go on a weekday morning to avoid queues."
+    },
+    {
+      "title": "Explore the port area and its recovery",
+      "text": "The port explosion site and neighbouring districts show the city's damage and the work of rebuilding. A memorial and a guided walk help explain what happened.",
+      "tip": "Go respectfully, and with a local guide."
+    }
+  ],
+  "foodIntro": "Beirut is the best place in Lebanon to eat, with everything from street food to fine dining. Tables fill up slowly and late.",
+  "foods": [
+    {
+      "name": "Mezze",
+      "text": "A spread of hot and cold dishes shared across the table, the essence of Lebanese dining. Beirut's mezze range from traditional to inventive.",
+      "whereToTry": "Restaurants in Gemmayzeh, Mar Mikhael and Achrafieh."
+    },
+    {
+      "name": "Manakish",
+      "text": "Flatbread with za'atar, cheese or meat, baked to order and eaten for breakfast or as a snack.",
+      "whereToTry": "Bakeries across the city, particularly in the morning."
+    },
+    {
+      "name": "Shawarma and falafel",
+      "text": "Sandwiches of spit-roasted meat or fried chickpea balls with pickles and garlic sauce, sold at street stands and small shops.",
+      "whereToTry": "Hamra and downtown."
+    },
+    {
+      "name": "Fresh seafood",
+      "text": "Grilled fish, calamari and prawns, served at restaurants along the coast and in the old port.",
+      "whereToTry": "Restaurants near the sea in Ain el Mreisseh and the Zaitunay Bay marina."
+    },
+    {
+      "name": "Sweets and ice cream",
+      "text": "Knefe, baklava and ice cream flavoured with rose, orange blossom and pistachio, sold from shops in almost every neighbourhood.",
+      "whereToTry": "Sweet shops in Hamra and Achrafieh."
+    },
+    {
+      "name": "Arak and Lebanese wine",
+      "text": "Arak with mezze is the traditional pairing, and Lebanese wines are served in most restaurants.",
+      "whereToTry": "Bars and restaurants in Mar Mikhael."
+    }
+  ],
+  "accommodation": {
+    "intro": "Beirut has a good range of hotels and guesthouses. Choose the area for the atmosphere: Hamra for cafés, Gemmayzeh and Mar Mikhael for nightlife, or Achrafieh for a residential feel.",
+    "areas": [
+      {
+        "name": "Hamra",
+        "bestFor": "Cafés, bookshops and easy transport",
+        "text": "A central, lively district with a wide range of hotels and guesthouses near the seafront and the university."
+      },
+      {
+        "name": "Gemmayzeh, Mar Mikhael and Achrafieh",
+        "bestFor": "Nightlife and restaurants",
+        "text": "Boutique hotels and guesthouses in restored Ottoman houses, close to the bars and restaurants. Noisy at night."
+      },
+      {
+        "name": "Downtown and the waterfront",
+        "bestFor": "Luxury and convenience",
+        "text": "Large hotels near the marina and the souks, more polished and more expensive."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or budget guesthouse", "value": "US$30–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$90–170 per night" },
+      { "label": "Boutique or luxury hotel", "value": "US$200–400 per night" },
+      { "label": "Meal at a mid-range restaurant", "value": "US$20–40 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Beirut is Lebanon's main gateway, and Rafic Hariri International Airport is about 9 km south of the centre.",
+    "options": [
+      {
+        "mode": "Beirut Rafic Hariri International Airport (BEY)",
+        "text": "The country's only international airport, with flights from Europe, the Gulf and beyond. Taxis reach the centre in about 20 minutes, and longer in traffic.",
+        "detail": "Agree the fare or book a transfer in advance."
+      },
+      {
+        "mode": "Road from the north",
+        "text": "Service taxis and buses run from Tripoli, Byblos and other towns to Beirut's main bus stations, at Charles Helou and Cola.",
+        "detail": "Journeys take longer than the distance suggests."
+      },
+      {
+        "mode": "Road from the south and the Bekaa",
+        "text": "Buses, service taxis and drivers link Beirut with Sidon, the Chouf and the Bekaa. Conditions and advice for the south and the Bekaa vary.",
+        "detail": "Check current conditions before travelling."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Beirut is spread out and heavily trafficked. Taxis and ride-hailing apps are the practical option, and some areas are walkable.",
+    "options": [
+      {
+        "mode": "Ride-hailing and taxis",
+        "text": "Uber and Bolt work well and avoid haggling. Street taxis are cheap but usually unmetered.",
+        "detail": "Agree the fare before you start."
+      },
+      {
+        "mode": "Walking",
+        "text": "Hamra, Gemmayzeh, downtown and the Corniche are walkable. Pavements can be poor and drivers assertive.",
+        "detail": "Cross roads carefully."
+      },
+      {
+        "mode": "Service taxis and buses",
+        "text": "Shared taxis run set routes for a small fee, and buses cover the city but are hard to use as a visitor.",
+        "detail": "Ask your hotel."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–November",
+    "summary": "Beirut has a Mediterranean climate: hot and humid summers, mild and wet winters. Spring and autumn are the most comfortable.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm, sunny days of 20–26°C, with the sea still cool. Ideal for walking."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot and humid, often over 30°C. Good for swimming, but the city is at its busiest and most expensive."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm days and a warm sea. Quieter than summer."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Mild but wet, at around 12–17°C. Restaurants and museums are busy and prices are lower."
+      }
+    ],
+    "avoid": "August, for the humidity and the prices, and any period of political or security tension."
+  },
+  "itinerary": {
+    "title": "Two days in Beirut",
+    "intro": "Museums, downtown and the Corniche on the first day, Gemmayzeh, Jeita or Byblos on the second. Assumes a hotel in Hamra or Gemmayzeh.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Museums and the sea",
+        "summary": "History in the morning, the seafront in the evening.",
+        "morning": "The National Museum and its Phoenician sarcophagi.",
+        "afternoon": "Downtown: the Roman baths, the Mohammad Al-Amin Mosque and Nejmeh Square.",
+        "evening": "The Corniche at sunset, then dinner in Hamra."
+      },
+      {
+        "day": 2,
+        "title": "Neighbourhoods and caves",
+        "summary": "A mix of art, food and nature.",
+        "morning": "The Sursock Museum and Gemmayzeh's Ottoman houses, or a morning at Jeita Grotto.",
+        "afternoon": "Lunch in Achrafieh and a walk in Mar Mikhael.",
+        "evening": "A long dinner and a drink in Mar Mikhael."
+      }
+    ]
+  },
+  "tipsIntro": "Beirut is easy and lively, and a few tips help.",
+  "tips": [
+    "Read your government's advice, and note the areas it tells you to avoid. Beirut's southern suburbs have been the subject of strict warnings since 2024.",
+    "Bring cash in US dollars. Many places quote in dollars, and cards can be unreliable.",
+    "Use ride-hailing apps. They avoid haggling and are generally safer than street taxis.",
+    "Book restaurants ahead on Thursday to Saturday, and expect to dine late.",
+    "Expect power cuts, and carry a power bank.",
+    "Allow extra time for traffic. Crossing the city can take an hour at rush hour.",
+    "Be respectful at the port explosion site and in neighbouring districts, and ask before photographing people.",
+    "Dress modestly for mosques and churches."
+  ],
+  "faq": [
+    {
+      "q": "Is Beirut safe to visit?",
+      "a": "Much of the city, including Hamra, Gemmayzeh and downtown, is lively and welcoming, but Lebanon has faced economic collapse, the 2020 port explosion and the war of 2024, and advice for parts of the city, especially the southern suburbs, is strict. Check your government's advice before you go and while you are there."
+    },
+    {
+      "q": "How many days do you need in Beirut?",
+      "a": "Two or three days cover the museum, downtown, the Corniche and the neighbourhoods. More lets you add Jeita Grotto and day trips to Byblos or the Chouf."
+    },
+    {
+      "q": "What happened at the Beirut port in 2020?",
+      "a": "On 4 August 2020, a huge explosion of stored ammonium nitrate destroyed the port and damaged much of the city, killing more than 200 people and injuring thousands. Rebuilding has been slow, and questions about accountability remain."
+    },
+    {
+      "q": "Is Beirut expensive?",
+      "a": "More than most visitors expect. Hotels, restaurants and taxis are priced mostly in US dollars and are comparable to southern Europe, though street food and local transport are cheap."
+    },
+    {
+      "q": "What should I wear in Beirut?",
+      "a": "Casual Western clothing is normal in most of the city. Cover shoulders and knees for mosques and churches, and carry a scarf."
+    },
+    {
+      "q": "What is the best area to stay in?",
+      "a": "Hamra for cafés and convenience, Gemmayzeh, Mar Mikhael or Achrafieh for restaurants and nightlife, and downtown for luxury. All are within a short taxi ride of each other."
+    }
+  ],
+  "related": ["byblos", "batroun", "chouf-beiteddine"],
+  "relatedArticles": ["food-primer", "mediterranean-coasts"]
+}

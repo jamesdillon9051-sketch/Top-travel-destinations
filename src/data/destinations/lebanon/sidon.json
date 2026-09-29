@@ -1,0 +1,300 @@
+{
+  "slug": "sidon",
+  "name": "Sidon (Saida)",
+  "shortName": "Sidon",
+  "country": "lebanon",
+  "region": "South Governorate, southern coast",
+  "categories": ["historic", "coastal", "cultural"],
+  "tagline": "A Phoenician port with a 13th-century sea castle on a causeway, a maze of Ottoman souks and khans, a soap museum and some of the best sweets in the south.",
+  "highlight": "The Sea Castle, a Crusader fortress on a tiny island linked to the shore by a stone causeway, with the old harbour and souks beside it.",
+  "shortDescription": "A relaxed, atmospheric port city, 40 km south of Beirut, with a Crusader sea castle, a well-preserved old town, a soap museum and a lively fishing harbour.",
+  "metaDescription": "A Sidon travel guide: the Sea Castle and Land Castle, the old souks and Khan al-Franj, the Soap Museum, the Eshmun Temple, sweets and seafood, and current safety context for the south, with a one-day plan.",
+  "suggestedStay": "Half a day to a day",
+  "nearestAirport": "Beirut Rafic Hariri (BEY), about 1 hour by road",
+  "knownFor": "The Sea Castle, the old souks, the soap museum, Phoenician history",
+  "budget": "US$60–120 per day, mid-range",
+  "goodFor": "Old-city walking, castles, food, a day trip from Beirut",
+  "coords": { "lat": 33.5631, "lng": 35.3689 },
+  "image": {
+    "file": "File:Sidon Sea Castle, Mediterranean Sea, Sidon, Lebanon.jpg",
+    "alt": "The Crusader Sea Castle of Sidon on its islet, joined to the shore by a causeway"
+  },
+  "intro": [
+    "Sidon, called Saida in Arabic, is one of the oldest Phoenician cities, and for a time in the 1st millennium BCE was the most important of them, before Tyre took the lead. It was famous for its glass and purple dye, and it was a rich port under the Persians, the Greeks and the Romans. Its history is mostly buried beneath the modern city, with the exception of a temple at Eshmun, about 2 km to the north-east, and a Phoenician royal necropolis.",
+    "The most visible landmarks are medieval. The Sea Castle, built by the Crusaders in 1228 on a small island and connected to the shore by a causeway, dominates the harbour, and the Castle of St Louis on the hill, sometimes called the Land Castle, overlooks the old town. The old city is a maze of covered souks, khans and small mosques from the Mamluk and Ottoman periods, with the most notable being Khan al-Franj, a 17th-century inn built by the Emir Fakhr al-Din for French merchants.",
+    "Sidon is about 40 km south of Beirut and 45 km north of the Israeli border. It has been affected by conflict, with Israeli strikes near the city in 2024, and many governments advised against travel to south Lebanon at the time of writing. Check current advice and conditions before you consider going."
+  ],
+  "whyVisit": {
+    "intro": "Sidon is one of the easiest and most agreeable old cities in Lebanon, and it is less touristy than Byblos.",
+    "points": [
+      {
+        "title": "A castle on a causeway",
+        "text": "The Sea Castle is one of the most photogenic Crusader fortresses on the coast, with towers, a causeway and a view along the shore."
+      },
+      {
+        "title": "A living old city",
+        "text": "The souks are still full of ordinary shops, craft workshops and cafés rather than souvenir stalls."
+      },
+      {
+        "title": "The Soap Museum",
+        "text": "A restored 17th-century soap factory shows how traditional olive-oil soap was made, a craft that Sidon and Tripoli were once famous for."
+      },
+      {
+        "title": "A fishing harbour",
+        "text": "Fishermen sell the catch from the harbour, and restaurants serve it at the water's edge."
+      },
+      {
+        "title": "Sweets",
+        "text": "Sidon has a reputation for its sweets, particularly the pastries filled with cream and nuts."
+      }
+    ]
+  },
+  "attractionsIntro": "The old town, the castles and the port are within a short walk of each other, and the temple is a short drive.",
+  "attractions": [
+    {
+      "name": "The Sea Castle",
+      "text": "A Crusader fortress built in 1228 on a small island, reached by a stone causeway. It was partly destroyed by the Mamluks and rebuilt, and has two towers and a chapel.",
+      "tip": "Walk the causeway for views of the harbour, and go in the late afternoon."
+    },
+    {
+      "name": "The old souks and Khan al-Franj",
+      "image": {
+        "file": "File:Streets of Sidon, Lebanon.jpg",
+        "alt": "A narrow lane in the old souk of Sidon"
+      },
+      "text": "A network of vaulted lanes with shops selling spices, sweets and everyday goods, and Khan al-Franj, a 17th-century merchants' inn with a large courtyard.",
+      "tip": "Go in the morning, when the souk is busiest."
+    },
+    {
+      "name": "The Audi Soap Museum",
+      "text": "A restored soap factory with displays explaining the history of soap-making in Sidon and the region, and a shop selling handmade soap.",
+      "tip": "Buy a bar or two."
+    },
+    {
+      "name": "The Castle of St Louis (Land Castle)",
+      "text": "The ruins of a Crusader castle on a hill above the old city, with views over the harbour and the coast. It is reached by a short climb.",
+      "tip": "Go for the view at sunset."
+    },
+    {
+      "name": "The Great Mosque and old mosques",
+      "text": "The Great Mosque, built in the 13th century on the site of a Crusader church, and several smaller mosques and shrines in the old town.",
+      "tip": "Dress modestly and observe prayer times."
+    },
+    {
+      "name": "The Debbané Palace and Sidon Museum",
+      "text": "An 18th-century mansion with a museum of local history, with rooms furnished as in a wealthy family's home.",
+      "tip": "Check opening hours."
+    },
+    {
+      "name": "The Temple of Eshmun",
+      "text": "A Phoenician temple complex dedicated to the god of healing, about 2 km north-east of the city, with terraces, mosaics and a large ritual basin. It dates from the 7th century BCE onwards.",
+      "tip": "Combine it with a drive through the orange groves."
+    }
+  ],
+  "thingsToDoIntro": "Sidon is a day for walking, eating and looking.",
+  "thingsToDo": [
+    {
+      "title": "Walk the old souk",
+      "text": "Wander through the lanes, stopping for coffee and sweets.",
+      "tip": "Go in the morning."
+    },
+    {
+      "title": "Cross the causeway to the Sea Castle",
+      "text": "See the interior and climb the tower for a view.",
+      "tip": "Check whether it is open."
+    },
+    {
+      "title": "Visit the Soap Museum",
+      "text": "Learn about traditional soap-making, and see the restored building.",
+      "tip": "Allow an hour."
+    },
+    {
+      "title": "Eat at the harbour",
+      "text": "Fish restaurants along the port serve grilled fish and mezze.",
+      "tip": "Ask the price."
+    },
+    {
+      "title": "Try Sidon's sweets",
+      "text": "Sample the local pastries, including sfouf, knefe and ma'amoul.",
+      "tip": "Buy a small box to take home."
+    },
+    {
+      "title": "Drive to Eshmun",
+      "text": "See the Phoenician temple in its hillside setting.",
+      "tip": "Combine with a walk in the citrus orchards."
+    }
+  ],
+  "foodIntro": "Sidon is known for its sweets and its fish, and the old town's small restaurants serve simple local food.",
+  "foods": [
+    {
+      "name": "Grilled fish",
+      "text": "The day's catch, grilled with olive oil and lemon.",
+      "whereToTry": "Restaurants at the harbour."
+    },
+    {
+      "name": "Sidon sweets",
+      "text": "Baklava, ma'amoul, sfouf and other pastries, sold in the old town.",
+      "whereToTry": "Sweet shops in the souk."
+    },
+    {
+      "name": "Knefe",
+      "text": "A hot cheese pastry with syrup, often served in a sesame bun for breakfast.",
+      "whereToTry": "Small shops in the old town."
+    },
+    {
+      "name": "Mezze",
+      "text": "Hummus, tabbouleh, kibbeh and other small dishes.",
+      "whereToTry": "Restaurants in the old town."
+    },
+    {
+      "name": "Fresh orange juice",
+      "text": "Sidon is surrounded by citrus groves, and fresh juice is sold in the streets.",
+      "whereToTry": "Juice stalls."
+    },
+    {
+      "name": "Arabic coffee",
+      "text": "Strong coffee flavoured with cardamom.",
+      "whereToTry": "Cafés in the souk."
+    }
+  ],
+  "accommodation": {
+    "intro": "Sidon has a small number of hotels and guesthouses, and most visitors come as a day trip from Beirut.",
+    "areas": [
+      {
+        "name": "Old town and harbour",
+        "bestFor": "Atmosphere",
+        "text": "A few guesthouses and boutique hotels in old buildings, when open."
+      },
+      {
+        "name": "Beirut",
+        "bestFor": "Most visitors",
+        "text": "A wider choice, about an hour away."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$40–80 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–140 per night" },
+      { "label": "Sea Castle entry", "value": "A few US dollars" },
+      { "label": "Meal at a local restaurant", "value": "US$10–25 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Sidon is about 40 km south of Beirut on the coastal highway. Check current advice before you travel.",
+    "options": [
+      {
+        "mode": "Private driver or car",
+        "text": "About an hour from Beirut, often more in traffic.",
+        "detail": "Avoid rush hour."
+      },
+      {
+        "mode": "Bus or service taxi",
+        "text": "Buses and shared taxis run from Beirut's Cola station to Sidon, and are cheap.",
+        "detail": "Ask for Saida."
+      },
+      {
+        "mode": "Tour",
+        "text": "Some tours combine Sidon with Tyre or Beiteddine.",
+        "detail": "Check the itinerary."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The old town is compact and walkable.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The castle, souks, khans and museum are within 15 minutes' walk.",
+        "detail": "Wear comfortable shoes."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Taxis take you to Eshmun and around the modern city.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Car",
+        "text": "Parking near the old town is limited.",
+        "detail": "Park near the harbour."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "Sidon has a Mediterranean climate with hot, humid summers and mild wet winters. Spring and autumn are the most comfortable.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm and green, with orange blossom in the groves."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot and humid. Visit in the morning."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm and calm."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Mild and wet, with few visitors."
+      }
+    ],
+    "avoid": "Periods of conflict or tension in the south, and midday in summer."
+  },
+  "itinerary": {
+    "title": "One day in Sidon",
+    "intro": "The Sea Castle and the souk in the morning, lunch by the harbour, the soap museum and Eshmun in the afternoon.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Castle, souk and soap",
+        "summary": "A relaxed day in a working old town.",
+        "morning": "The Sea Castle and the old souk.",
+        "afternoon": "A fish lunch, the Soap Museum and Khan al-Franj.",
+        "evening": "The Temple of Eshmun, then back to Beirut."
+      }
+    ]
+  },
+  "tipsIntro": "Sidon is easy and friendly, but it is in the south.",
+  "tips": [
+    "Read your government's advice, and check conditions before you go. The south has been affected by conflict since 2023.",
+    "Go in the morning, when the souk is busiest and the light is best for photographs.",
+    "Dress modestly. Sidon is more conservative than Beirut.",
+    "Buy sweets and soap as souvenirs, and carry cash.",
+    "Avoid photographing military positions and political posters.",
+    "Combine with Tyre or Beiteddine, if conditions allow.",
+    "Follow any instructions from the army or UN forces."
+  ],
+  "faq": [
+    {
+      "q": "Is Sidon safe to visit?",
+      "a": "Sidon has generally been calmer than the border areas, but the south has been affected by conflict since 2023, and many governments advise against travel to south Lebanon. Check current advice."
+    },
+    {
+      "q": "What is Sidon known for?",
+      "a": "Its Crusader Sea Castle, its old souks and khans, its soap and its sweets, and its history as one of the great Phoenician cities."
+    },
+    {
+      "q": "How long do you need in Sidon?",
+      "a": "Half a day for the castle and the old town, and a day with the Soap Museum, lunch and Eshmun."
+    },
+    {
+      "q": "How do I get to Sidon from Beirut?",
+      "a": "By car, driver, bus or shared taxi along the coast. It takes about an hour without traffic."
+    },
+    {
+      "q": "What is the Sea Castle?",
+      "a": "A Crusader fortress built in 1228 on an island in the harbour and connected to the shore by a causeway. It is Sidon's main landmark."
+    },
+    {
+      "q": "Can I combine Sidon and Tyre in a day?",
+      "a": "Yes, in normal conditions. They are about 40 km apart, and a driver can do both, with time for lunch."
+    }
+  ],
+  "related": ["tyre", "beirut", "chouf-beiteddine"],
+  "relatedArticles": ["mediterranean-coasts", "food-primer"]
+}

@@ -1,0 +1,364 @@
+{
+  "slug": "lebanon",
+  "name": "Lebanon",
+  "continent": "Western Asia (Middle East)",
+  "countryCode": "LB",
+  "tagline": "Phoenician harbours, the largest Roman temples ever built, cedar forests and monasteries in a mountain gorge, and a capital that never stops eating — in a country you can cross in three hours.",
+  "cardDescription": "A small Mediterranean country with an outsized history: Baalbek, Byblos and Tyre, Crusader castles, Ottoman palaces, mountain villages, wine and one of the best cuisines in the Middle East — and a difficult present that visitors need to read up on.",
+  "metaDescription": "A complete Lebanon travel guide: the 10 best places to visit, Baalbek, Byblos, Beirut and the Cedars, Lebanese food and wine, when to go, money after the crisis, current safety context and an eight-day itinerary.",
+  "image": {
+    "file": "File:Lebanon, Baalbek, Temple of Jupiter.jpg",
+    "alt": "The giant columns of the Temple of Jupiter at Baalbek against the sky"
+  },
+  "destinations": [
+    "beirut",
+    "baalbek",
+    "byblos",
+    "qadisha-valley-cedars",
+    "tyre",
+    "sidon",
+    "tripoli",
+    "batroun",
+    "chouf-beiteddine",
+    "anjar"
+  ],
+  "intro": [
+    "Lebanon is about half the size of Wales, and in that space it holds an extraordinary run of history. The Phoenicians, who gave the world its alphabet, built their great ports at Byblos, Sidon and Tyre. The Romans raised the biggest temple complex in their empire at Baalbek. The Umayyads laid out a walled city at Anjar, the Crusaders built castles along the coast and the Mamluks and Ottomans filled Tripoli and Sidon with mosques, khans and souks. Christian monks hid from persecution in the sheer-sided Qadisha Valley, beneath the last groves of the cedars that appear on the national flag.",
+    "It is also a country of unusual variety for its size. You can swim in the Mediterranean in the morning and ski in the Cedars in winter, or eat mezze in Beirut and taste wine in the Bekaa Valley within the same day. Lebanon has eighteen officially recognised religious communities, and its cooking, its architecture and its politics reflect that. Lebanese food, with its mezze, its grills, its bread and its sweets, is one of the great cuisines of the region.",
+    "It is also a country in a hard moment, and this guide tries to be straight about that. Since 2019 the economy has collapsed, the banking system has frozen and electricity is unreliable. In August 2020 a huge explosion at Beirut's port killed more than 200 people and damaged large parts of the city. From October 2023 fighting between Israel and Hezbollah escalated into a full-scale war in the autumn of 2024, with airstrikes across the south, the Bekaa Valley and Beirut's southern suburbs. A ceasefire took effect in late November 2024, but at the time of writing it was fragile and some governments advised against all travel to parts of the country. Lebanese hospitality has not changed, but you should read your government's advice before you book and again before you go."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit, in normal conditions. Beirut, Baalbek and Byblos are the headline places; the south (Tyre and Sidon) and the Bekaa Valley (Baalbek and Anjar) are the areas where advice has been strictest since 2024, so check those first and be ready to skip them.",
+  "thingsToDoIntro": "The experiences that recur across the country and that make a Lebanese trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Stand among the Roman temples at Baalbek",
+      "image": {
+        "file": "File:Lebanon, Baalbek, Temple of Jupiter in Baalbek.jpg",
+        "alt": "The six surviving columns of the Temple of Jupiter at Baalbek"
+      },
+      "text": "The six giant columns of the Temple of Jupiter and the almost complete Temple of Bacchus, built over two centuries in the Bekaa Valley, are among the largest and best-preserved Roman monuments anywhere. See [[baalbek]].",
+      "tip": "Go early and check the security situation for the Bekaa the day before. The site has been affected by strikes and closures since 2024."
+    },
+    {
+      "title": "Eat a full mezze meal",
+      "image": {
+        "file": "File:Nourriture terreste dans un restaurant libanais, quartie des Grottes à Genêve (cropped).jpg",
+        "alt": "A spread of Lebanese mezze dishes on a table"
+      },
+      "text": "Dozens of small dishes — hummus, tabbouleh, kibbeh, stuffed vine leaves, grilled halloumi — arrive one after the other and are shared. It is how Lebanese people eat at home and in restaurants, and it is best done slowly, with arak.",
+      "tip": "Order less than you think and let the table fill up gradually."
+    },
+    {
+      "title": "Walk in the Qadisha Valley and the Cedars",
+      "text": "Trails run down a deep gorge to cliffside monasteries, and a nearby grove holds some of the oldest surviving cedars of Lebanon, some more than a thousand years old. See [[qadisha-valley-cedars|the Qadisha Valley and the Cedars]].",
+      "tip": "Late spring and autumn are the best seasons. The valley is snowbound in winter."
+    },
+    {
+      "title": "Wander an old souk",
+      "text": "Byblos, Sidon, Tripoli and Batroun all keep old covered markets of stone arches, soap khans and sweet shops, largely without tourists. [[tripoli|Tripoli's]] Mamluk souks are the most extensive.",
+      "tip": "Go in the morning, and take cash. Lebanese shopkeepers will often offer coffee before conversation."
+    },
+    {
+      "title": "Taste Lebanese wine",
+      "image": {
+        "file": "File:Vineyards-chateau-ksara-lebanese-winery-wine.jpg",
+        "alt": "Vineyards of the Château Ksara winery in the Bekaa Valley"
+      },
+      "text": "Wine has been made in Lebanon for about five thousand years, and the Bekaa Valley, at over 1,000 metres, produces a growing number of serious reds and whites. Wineries near [[anjar]] and [[batroun]] welcome visitors.",
+      "tip": "Book tastings ahead and confirm the winery is open, since access to the Bekaa has been variable."
+    },
+    {
+      "title": "Spend an evening in Beirut",
+      "text": "Gemmayzeh, Mar Mikhael and Hamra have bars, restaurants and live music, and the Corniche fills at sunset with walkers, joggers and vendors. See [[beirut]].",
+      "tip": "The city runs late, and dinner is rarely before 21:00."
+    }
+  ],
+  "foodIntro": "Lebanese cooking is built on olive oil, lemon, garlic, herbs, grains and pulses, with grilled and raw meats, fresh vegetables and some of the best bread and sweets in the Middle East. Meals are generous and shared.",
+  "foods": [
+    {
+      "name": "Mezze",
+      "text": "A spread of small hot and cold dishes: hummus, baba ghanoush, tabbouleh, fattoush, kibbeh, labneh, sambousek and stuffed vine leaves. It is the centrepiece of a Lebanese meal, and it can be a meal in itself.",
+      "whereToTry": "Restaurants in [[beirut|Beirut]], [[batroun|Batroun]] and mountain villages."
+    },
+    {
+      "name": "Manakish",
+      "image": {
+        "file": "File:Manakish Za'atar.jpg",
+        "alt": "Manakish, flatbread baked with a topping of za'atar and olive oil"
+      },
+      "text": "Flatbread baked with za'atar and olive oil, cheese, or minced meat, and folded or rolled. It is the classic breakfast and street food.",
+      "whereToTry": "Bakeries throughout the country, particularly in the early morning."
+    },
+    {
+      "name": "Kibbeh",
+      "text": "Bulgur and minced meat pounded into a paste and served fried, baked, grilled or raw. Kibbeh nayyeh, the raw version with lamb and spices, is a northern and mountain specialty.",
+      "whereToTry": "Traditional restaurants in [[qadisha-valley-cedars|the north]] and in the Chouf."
+    },
+    {
+      "name": "Grills and shawarma",
+      "text": "Lamb, chicken and mixed meat grilled over charcoal, served with garlic paste, pickles and bread. Shawarma sandwiches are sold on almost every street.",
+      "whereToTry": "Grill houses in [[beirut|Beirut]] and [[tripoli|Tripoli]]."
+    },
+    {
+      "name": "Arab sweets",
+      "text": "Knefe, baklava, ma'amoul and ashta-filled pastries. Tripoli is known across the Arab world for its sweets, with shops that have been making them for well over a century.",
+      "whereToTry": "Sweet shops in [[tripoli|Tripoli]] and [[sidon|Sidon]]."
+    },
+    {
+      "name": "Arak and Lebanese wine",
+      "text": "Arak, an aniseed spirit diluted with water and ice, turns milky and is the drink of a long meal. Lebanese wines from the Bekaa and Batroun regions are increasingly well regarded.",
+      "whereToTry": "Restaurants and wineries around the country, with a meal."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Lebanon is straightforward to reach and easy to move around, but money, electricity and safety all work differently from most of the world, and details change.",
+  "practical": {
+    "capital": "Beirut",
+    "language": "Arabic. French and English are very widely spoken, particularly in Beirut and among younger people, and many signs and menus are trilingual.",
+    "currency": "Lebanese pound (LBP), which has lost more than 90% of its value since 2019. In practice the US dollar is widely used alongside it, and many prices are quoted in dollars.",
+    "money": "Bring US dollars in small, clean notes. Cards work at many hotels, restaurants and shops but are often processed at unfavourable rates or as 'fresh' dollars, and ATM access is unreliable. Ask how you will be charged before you order, and keep some cash.",
+    "visa": "Many nationalities receive a visa on arrival, often free and valid for one month, but rules depend on your passport, and some nationalities need a visa in advance. Evidence of a visit to Israel, such as a stamp, can lead to refusal of entry. Check the official rules before you travel.",
+    "plugs": "Types A, B, C, D and G are in use, 220 V, 50 Hz. A universal adapter is the safe option.",
+    "emergency": "112 for the Internal Security Forces and 140 for the Lebanese Red Cross ambulance. Keep your embassy's number with you.",
+    "tipping": "Around 10–15% in restaurants if service is not included, and a small tip for hotel staff and drivers. Tips are often expected in dollars.",
+    "safety": "Lebanon has faced an economic collapse since 2019, the 2020 Beirut port explosion and, from October 2023, conflict between Israel and Hezbollah that became a full war in September–November 2024. A ceasefire in late November 2024 was fragile at the time of writing, with Israeli strikes and a military presence in the south continuing. Many governments advise against all travel to the south, the border areas of the Bekaa and Beirut's southern suburbs, and some advise against all travel to Lebanon. Kidnapping, civil unrest and the risk of renewed fighting are also cited. Check your government's current advice before you book.",
+    "connectivity": "Mobile data is available across most of the country, though it can be slow and expensive. Local SIMs can be bought at the airport. Power cuts are common, so most buildings run on generators.",
+    "timeZone": "UTC+2 in winter and UTC+3 in summer, with daylight saving starting on the last Sunday of March and ending on the last Sunday of October. Lebanon has changed the dates in some years, so check for the current year.",
+    "budget": [
+      { "label": "Backpacker", "value": "US$45–70 per day — hostel or guesthouse, street food, service taxis" },
+      { "label": "Mid-range", "value": "US$100–170 per day — three- or four-star hotel, restaurant meals, a driver for some days" },
+      { "label": "Comfortable", "value": "US$200–350 per day — boutique hotels, private guides, good restaurants" },
+      { "label": "A note on prices", "value": "Lebanon is expensive by regional standards, and almost everything is priced in US dollars" }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–November",
+    "summary": "Lebanon has a Mediterranean climate on the coast and a mountain climate above it. Spring and autumn are the most comfortable, summers are hot and humid on the coast, and winters are wet, with snow on the peaks from December to March.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm and green, with wildflowers in the mountains and the sea still cool. April and May are ideal for the ruins and for walking, though snow can linger in the Cedars."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot and humid on the coast, and pleasantly warm in the mountains. It is the season for beaches, festivals and mountain villages, and the busiest time for diaspora visitors."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm days, a warm sea and fewer crowds. The grape harvest in the Bekaa takes place in September and October."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Mild on the coast but wet, and cold in the mountains, where you can ski in the Cedars, Faraya and other resorts. Higher roads can close after heavy snow."
+      }
+    ],
+    "avoid": "Periods of political or military tension, and the peak of August, when prices rise and the coast is crowded. Ramadan changes opening hours in less touristy areas."
+  },
+  "tripDuration": {
+    "headline": "6–8 days for a first trip",
+    "summary": "Lebanon is small, and nowhere is more than about three hours from Beirut by road, so most visitors base themselves in the capital and make day trips, or move between two or three bases. Traffic is heavy around Beirut, so distances are longer than they look.",
+    "options": [
+      {
+        "length": "3–4 days",
+        "text": "Beirut, with day trips to Byblos and Jeita Grotto, and to Baalbek or the Chouf.",
+        "detail": "A good introduction that stays close to the capital."
+      },
+      {
+        "length": "6–8 days",
+        "text": "Beirut, the north coast, the Qadisha Valley and the Chouf, with the south and the Bekaa added if conditions allow.",
+        "detail": "The itinerary on this page, and our recommendation for most first-time visitors."
+      },
+      {
+        "length": "10–12 days",
+        "text": "Adds a slower pace, hiking in the mountains, wineries in the Bekaa and time on the coast at Batroun.",
+        "detail": "A fuller trip for walkers and anyone who likes to linger."
+      },
+      {
+        "length": "2 weeks or more",
+        "text": "Adds sections of the Lebanon Mountain Trail, the Akkar region and the far north.",
+        "detail": "For hikers and repeat visitors."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Lebanon has no railway and little reliable public transport, so visitors normally hire a driver or a car, or use service taxis. Roads are generally good, but traffic is dense around Beirut and mountain roads are steep and winding.",
+    "options": [
+      {
+        "mode": "Private driver",
+        "text": "The easiest and most common way to see the country. A driver knows the roads, the current conditions and the checkpoints, and can take you to several places in a day. It is comparatively expensive but usually worth it.",
+        "detail": "Ask your hotel to arrange a driver, and agree the price and route in advance."
+      },
+      {
+        "mode": "Hire car",
+        "text": "Useful for the mountains and the north, and cheaper for groups. Lebanese driving is fast and assertive, road signs are inconsistent and some roads are poorly lit.",
+        "detail": "Avoid driving in central Beirut, and avoid driving in the dark on mountain roads."
+      },
+      {
+        "mode": "Service taxis and minibuses",
+        "text": "Shared taxis and minibuses run along the main routes, cheaply and without timetables. They are the local way of getting around, but confusing for visitors.",
+        "detail": "Ask locals or your hotel where to catch them, and agree the fare first."
+      },
+      {
+        "mode": "Taxis and ride-hailing",
+        "text": "Apps such as Uber and Bolt work in Beirut and are safer and easier than street taxis. Street taxis usually have no meter.",
+        "detail": "Agree the fare before you start, or use an app."
+      },
+      {
+        "mode": "Organised tours",
+        "text": "Small-group and day tours run to Baalbek, Byblos, the Cedars and the Chouf from Beirut. They handle logistics and current conditions.",
+        "detail": "Check what is included, and what happens if a site is closed."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Eight days in Lebanon",
+    "intro": "Beirut, the north, the mountains, the south and the Bekaa Valley, with a driver throughout. The south and the Bekaa depend on current advice and can be swapped for more time elsewhere. Covers all ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Beirut",
+        "morning": "Land at Beirut airport and transfer to the city.",
+        "afternoon": "A walk along the Corniche to the Pigeon Rocks.",
+        "evening": "Dinner in Gemmayzeh or Mar Mikhael."
+      },
+      {
+        "day": 2,
+        "title": "Beirut",
+        "morning": "The National Museum and the downtown Roman baths.",
+        "afternoon": "The Mohammad Al-Amin Mosque and the Sursock Museum, or Hamra's cafés.",
+        "evening": "A long mezze dinner and a drink in Mar Mikhael."
+      },
+      {
+        "day": 3,
+        "title": "Byblos and Batroun",
+        "morning": "Drive north past Jeita Grotto to Byblos for the castle, the ruins and the old souk.",
+        "afternoon": "Lunch in Byblos, then on to Batroun for the Phoenician wall and the old town.",
+        "evening": "Sunset by the sea at Batroun."
+      },
+      {
+        "day": 4,
+        "title": "Tripoli",
+        "morning": "The Crusader citadel and the Mamluk old city.",
+        "afternoon": "The souks, a soap khan and a hammam, then Tripoli's famous sweets.",
+        "evening": "Drive up into the mountains to Bsharri."
+      },
+      {
+        "day": 5,
+        "title": "The Qadisha Valley and the Cedars",
+        "morning": "The Cedars of God and a walk through the grove.",
+        "afternoon": "Down into the Qadisha Valley to a cliffside monastery, and the Gibran Museum in Bsharri.",
+        "evening": "Dinner and a night in the mountains."
+      },
+      {
+        "day": 6,
+        "title": "The Chouf",
+        "morning": "Drive south through the mountains to Deir al-Qamar.",
+        "afternoon": "Beiteddine Palace, then a walk in the Chouf Cedar Reserve.",
+        "evening": "Return to the coast."
+      },
+      {
+        "day": 7,
+        "title": "Sidon and Tyre",
+        "morning": "Sidon's Sea Castle, old souk and soap museum.",
+        "afternoon": "Continue to Tyre for the Al Mina ruins and the hippodrome, if advice allows.",
+        "evening": "Return to Beirut."
+      },
+      {
+        "day": 8,
+        "title": "The Bekaa Valley and departure",
+        "morning": "Anjar's Umayyad city and a winery on the Bekaa plain.",
+        "afternoon": "Baalbek's temples, if advice allows, or a slower day in Beirut.",
+        "evening": "Fly home from Beirut."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Lebanon is one of the most religiously and culturally mixed countries in the Middle East, with Maronite, Greek Orthodox, Sunni, Shia, Druze and other communities living side by side, and often in distinct areas. Beirut and the coast are relaxed and cosmopolitan; the mountains and the south and the north can be more conservative. Etiquette is easygoing, but politics and history are painful subjects.",
+    "etiquette": [
+      {
+        "title": "Dress varies by place",
+        "text": "In Beirut, the coast and the mountain resorts, Western dress is normal. In mosques, in Tripoli, and in the south and the Bekaa, cover shoulders and knees and carry a scarf for women. Swimwear belongs on the beach."
+      },
+      {
+        "title": "Politics is a sensitive topic",
+        "text": "Lebanon's politics are tied to religion, family and foreign powers, and the war of 2024 and the civil war of 1975–1990 are still raw. Listen more than you talk, and avoid taking sides, particularly on Hezbollah, Israel and Syria."
+      },
+      {
+        "title": "Hospitality is generous",
+        "text": "You will be offered coffee, tea, sweets and meals, and refusing a second helping takes some effort. Accepting is polite."
+      },
+      {
+        "title": "Photography needs care",
+        "text": "Do not photograph soldiers, checkpoints, military installations or government buildings, and ask before photographing people. Some areas, such as Hezbollah-controlled parts of the south and Beirut's southern suburbs, are particularly sensitive."
+      },
+      {
+        "title": "Israel is a sensitive subject",
+        "text": "Lebanon and Israel are formally at war, and entry can be refused to anyone with evidence of a visit to Israel. Do not raise it casually, and do not carry Israeli products or stamps."
+      },
+      {
+        "title": "Religious sites have rules",
+        "text": "Remove your shoes at mosques, dress modestly at churches and monasteries, and observe local customs during Ramadan and religious festivals."
+      }
+    ],
+    "dos": [
+      "Accept coffee and hospitality graciously",
+      "Carry a scarf for mosques and conservative areas",
+      "Carry small US dollar notes for tips and taxis",
+      "Learn a few words: marhaba (hello), shukran (thank you), yalla (let's go)",
+      "Check your government's advice before every leg of the trip",
+      "Hire local drivers and guides who know the current conditions"
+    ],
+    "donts": [
+      "Don't photograph soldiers, checkpoints or military sites",
+      "Don't carry evidence of a visit to Israel",
+      "Don't discuss politics or religion casually",
+      "Don't drive at night in the mountains or unfamiliar areas",
+      "Don't rely on cards or ATMs alone",
+      "Don't approach demonstrations or unexploded ordnance"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Lebanon, several of which are specific to how the country works right now.",
+  "tips": [
+    "Read your government's travel advice before you book and again a week before you go. Lebanon's situation has changed more than once since 2023, and advice varies a lot by region.",
+    "Bring cash in US dollars, in small clean notes. The banking system is dysfunctional, card acceptance is unpredictable and ATMs may not dispense dollars.",
+    "Ask how you will be charged before you order or check in. Some places quote in dollars, some in Lebanese pounds at an exchange rate of their choosing, and card charges can differ.",
+    "Expect power cuts. Most hotels and restaurants have generators, but bring a power bank and do not rely on air conditioning in older buildings.",
+    "Hire a driver for the days you go beyond Beirut. Roads are challenging, and a local driver knows the checkpoints, the traffic and which areas to avoid.",
+    "Check conditions in the south and the Bekaa the day before you go. Access can change at short notice, and these are the areas where advice is strictest.",
+    "Leave time in Beirut for traffic. A 40-kilometre journey can take two hours at rush hour.",
+    "Avoid photographing military or political sites, and be discreet about flags, posters and party symbols."
+  ],
+  "faq": [
+    {
+      "q": "Is Lebanon safe to visit?",
+      "a": "It depends on where and when. Much of the country, including Beirut, the north and the mountains, has been calm for long stretches, but Lebanon has faced economic collapse, the 2020 port explosion and, in 2024, a war between Israel and Hezbollah. A ceasefire in November 2024 was fragile at the time of writing, and many governments advise against travel to the south, the Bekaa border areas and parts of Beirut, with some advising against all travel. Read your government's advice and be ready to change plans."
+    },
+    {
+      "q": "How many days do you need in Lebanon?",
+      "a": "Six to eight days for a first trip. Three or four days covers Beirut, Byblos and one other excursion, and eight lets you add the north, the Chouf and, if advice allows, the south and the Bekaa."
+    },
+    {
+      "q": "What is the best time to visit Lebanon?",
+      "a": "April to June and September to November. Spring has wildflowers and comfortable temperatures, and autumn has a warm sea and the wine harvest. Summer is hot on the coast, and winter is good for skiing."
+    },
+    {
+      "q": "Do I need a visa for Lebanon?",
+      "a": "Many nationalities receive a visa on arrival, often free for a month, but rules depend on your passport. Entry can be refused to anyone with evidence of a visit to Israel. Check the current rules on official sites."
+    },
+    {
+      "q": "What currency should I bring?",
+      "a": "US dollars, in small clean notes. The Lebanese pound has collapsed and dollars are widely accepted, and the banking system is unreliable for foreign cards. Keep enough cash for the whole trip."
+    },
+    {
+      "q": "Can I combine Lebanon with Syria, Jordan or Israel?",
+      "a": "Land borders with Israel are closed and there is no crossing between the two countries. The border with Syria has been closed or restricted for long periods, and most governments advise against crossing. Most visitors fly onward to Jordan or Turkey. See our guides to [[c:jordan|Jordan]] and [[c:israel|Israel]]."
+    },
+    {
+      "q": "Is Lebanon expensive?",
+      "a": "It is more expensive than its neighbours for what you get, mainly because prices are in US dollars and the country depends on imports. Restaurants, hotels and drivers cost about the same as in southern Europe, though street food and local transport are cheap."
+    }
+  ]
+}
