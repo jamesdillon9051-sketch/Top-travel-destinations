@@ -3,7 +3,16 @@ import { url, absolute } from '../lib/url.mjs';
 import { inlineName, displayName } from '../lib/text.mjs';
 import { keywords as buildKeywords } from '../lib/seo.mjs';
 import { layout } from './layout.mjs';
-import { hero, sectionNav, section, prose, detailList, faqList, destinationGrid } from './partials.mjs';
+import {
+  hero,
+  sectionNav,
+  section,
+  prose,
+  detailList,
+  faqList,
+  destinationGrid,
+  advisoryBanner
+} from './partials.mjs';
 
 /**
  * Long-form country travel guide. Distinct from the country page: the country
@@ -11,22 +20,34 @@ import { hero, sectionNav, section, prose, detailList, faqList, destinationGrid 
  * that ties the ten destinations into actual trips.
  */
 export function renderGuide(guide, country, { site }) {
+  const overview = country.mode === 'overview';
+  const kind = overview ? 'Heritage overview' : 'Travel guide';
   const name = displayName(country);
   const inName = inlineName(country);
   const pagePath = `${country.slug}/travel-guide`;
   const description = plain(guide.summary, 158);
   const credit = guide.credit || country.credit;
-  const keywords = buildKeywords(
-    country.name,
-    `${name} travel guide`,
-    `how to plan a trip to ${inName}`,
-    `${name} itinerary`,
-    `how many days in ${inName}`,
-    `${name} travel tips`,
-    `best time to visit ${inName}`,
-    country.continent,
-    country.places.map((place) => place.name)
-  );
+  const keywords = overview
+    ? buildKeywords(
+        country.name,
+        `${name} history`,
+        `${name} heritage sites`,
+        `${name} UNESCO World Heritage sites`,
+        `is it safe to travel to ${inName}`,
+        country.continent,
+        country.places.map((place) => place.name)
+      )
+    : buildKeywords(
+        country.name,
+        `${name} travel guide`,
+        `how to plan a trip to ${inName}`,
+        `${name} itinerary`,
+        `how many days in ${inName}`,
+        `${name} travel tips`,
+        `best time to visit ${inName}`,
+        country.continent,
+        country.places.map((place) => place.name)
+      );
 
   const navItems = [
     ...guide.sections.map((s) => ({ id: s.id, label: s.navLabel || s.title })),
@@ -38,20 +59,22 @@ export function renderGuide(guide, country, { site }) {
     ${hero({
       credit,
       alt: guide.image?.alt || country.image?.alt || country.name,
-      eyebrow: `${name} · Travel guide`,
+      eyebrow: `${name} · ${kind}`,
       title: guide.title,
       tagline: guide.subtitle,
       meta: [
         { label: 'Reading time', value: guide.readingTime },
-        { label: 'Covers', value: `${country.places.length} destinations` },
+        { label: 'Covers', value: overview ? `${country.places.length} heritage sites` : `${country.places.length} destinations` },
         { label: 'Updated', value: guide.updated }
       ].filter((m) => m.value),
       trail: [
         { label: 'Home', href: '' },
         { label: country.name, href: country.slug },
-        { label: 'Travel guide' }
+        { label: kind }
       ]
     })}
+
+    ${overview ? advisoryBanner(country.advisory, { compact: true, moreHref: country.slug }) : ''}
 
     ${sectionNav(navItems)}
 
@@ -78,8 +101,10 @@ export function renderGuide(guide, country, { site }) {
     ${section({
       id: 'the-ten',
       eyebrow: 'Reference',
-      title: `The 10 destinations in this guide`,
-      lead: `Every place named above has its own detailed guide — attractions, food, where to stay, how to get around and a suggested day-by-day plan.`,
+      title: overview ? `The 10 sites in this overview` : `The 10 destinations in this guide`,
+      lead: overview
+        ? `Every place named above has its own page — its history, its key monuments and, importantly, what condition it is in today.`
+        : `Every place named above has its own detailed guide — attractions, food, where to stay, how to get around and a suggested day-by-day plan.`,
       tone: 'section--tint',
       body: html`
         ${destinationGrid(country.places, { ranked: true })}
@@ -95,7 +120,7 @@ export function renderGuide(guide, country, { site }) {
       ? section({
           id: 'guide-faq',
           eyebrow: 'FAQ',
-          title: `Planning a trip to ${inName}`,
+          title: overview ? `${name}: common questions` : `Planning a trip to ${inName}`,
           body: faqList(guide.faq)
         })
       : ''}
@@ -119,7 +144,7 @@ export function renderGuide(guide, country, { site }) {
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'Home', item: absolute('') },
         { '@type': 'ListItem', position: 2, name: country.name, item: absolute(country.slug) },
-        { '@type': 'ListItem', position: 3, name: 'Travel guide', item: absolute(pagePath) }
+        { '@type': 'ListItem', position: 3, name: kind, item: absolute(pagePath) }
       ]
     }
   ];

@@ -1,0 +1,308 @@
+{
+  "slug": "masada-dead-sea",
+  "name": "Masada & the Dead Sea",
+  "shortName": "Masada and Dead Sea",
+  "country": "israel",
+  "region": "Southern District, Judean Desert",
+  "categories": ["unesco", "historic", "nature"],
+  "tagline": "A rock plateau above the Dead Sea where Herod built a palace-fortress and where, in Roman-era accounts, a Jewish revolt made its last stand.",
+  "highlight": "Watching the sun rise over the Dead Sea and the mountains of Jordan from the top of Masada.",
+  "shortDescription": "A UNESCO-listed hilltop fortress, the desert oasis of Ein Gedi, and the lowest, saltiest and strangest swim in the world.",
+  "metaDescription": "A Masada and Dead Sea travel guide: the Snake Path and cable car, Herod's palaces, Ein Gedi nature reserve, floating in the Dead Sea, heat and timing, and a one-day plan.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Tel Aviv Ben Gurion (TLV), about 2 hours; Jerusalem is about 1 hour 15 minutes away",
+  "knownFor": "Masada, Ein Gedi, the Dead Sea, the Snake Path, Herod's palaces",
+  "budget": "₪500–900 per day, mid-range, with entries",
+  "goodFor": "Archaeology, hiking, sunrise, swimming, a day from Jerusalem",
+  "coords": { "lat": 31.3156, "lng": 35.3536 },
+  "image": {
+    "file": "File:ISR-2016-Masada 04.jpg",
+    "alt": "The flat-topped rock of Masada rising above the Judean Desert"
+  },
+  "intro": [
+    "Masada is a rocky plateau that rises about 450 metres above the western shore of the Dead Sea. Herod the Great built a palace-fortress on it between about 37 and 31 BCE, with storerooms, cisterns, bathhouses and a hanging palace on three levels on the northern cliff. It is one of the most dramatic archaeological sites in the world, and it was inscribed on the UNESCO World Heritage List in 2001.",
+    "Its fame comes from the account by the Roman-Jewish historian Josephus. He wrote that in 73 or 74 CE, after the fall of Jerusalem, a group of Jewish rebels held the fortress against a Roman siege, and when the Romans breached the walls, its 960 defenders chose mass suicide rather than capture. Historians debate the details, and archaeologists have not found evidence for all of it, but Masada has long been a powerful symbol in Israel.",
+    "Below the fortress, the Dead Sea lies about 430 metres below sea level, the lowest point on land, with a shoreline of hotels, spas and public beaches. The oasis of Ein Gedi, a nature reserve with waterfalls and pools, is 20 minutes to the north. Together they make up one of the best day trips in the country."
+  ],
+  "whyVisit": {
+    "intro": "It is one of the best day trips from Jerusalem, and one of the few places where the landscape is as striking as the history.",
+    "points": [
+      {
+        "title": "A fortress on a mountain",
+        "text": "The remains of Herod's palaces, baths and storerooms are spread across the flat top, and the ancient Roman siege camps and ramp survive at the foot."
+      },
+      {
+        "title": "A superb sunrise",
+        "text": "The Snake Path climb in the dark and the view of the sunrise over the Dead Sea and the mountains of Jordan is a highlight of many visitors' trips."
+      },
+      {
+        "title": "Floating in the Dead Sea",
+        "text": "The water is roughly ten times saltier than the ocean, and you float without effort. It is odd, memorable and easy to do."
+      },
+      {
+        "title": "Ein Gedi's oasis",
+        "text": "A green canyon in the desert with waterfalls, pools and ibex, reached by short and easy trails, and a welcome relief from the heat."
+      },
+      {
+        "title": "Close to Jerusalem",
+        "text": "The drive down through the Judean Desert takes about 75 minutes, and the change in scenery is dramatic."
+      }
+    ]
+  },
+  "attractionsIntro": "Masada takes two to three hours, Ein Gedi two to four and the Dead Sea an hour or two. All three fit in one day with an early start.",
+  "attractions": [
+    {
+      "name": "The Snake Path",
+      "image": {
+        "file": "File:Masada snake path 11.jpg",
+        "alt": "The Snake Path winding up the steep eastern slope of Masada"
+      },
+      "text": "A winding trail from the eastern base to the summit, gaining about 350 metres in 45–60 minutes. The path opens before sunrise so that hikers can reach the top for dawn.",
+      "tip": "Bring a head torch, water and a jacket for the cold at the top. The path can close in extreme heat or weather."
+    },
+    {
+      "name": "The cable car",
+      "text": "A cable car from the visitor centre carries visitors to the top in a few minutes. It is popular with families and those who prefer to avoid the climb.",
+      "tip": "Book in advance for busy periods. Consider going up by cable car and walking down."
+    },
+    {
+      "name": "Herod's Northern Palace",
+      "text": "A three-tiered palace on the northern edge of the plateau, with frescoes, columns and a private bathhouse, and a spectacular position on the cliff.",
+      "tip": "Go here first, as it is the most impressive and quietest in the morning."
+    },
+    {
+      "name": "The bathhouse, synagogue and storerooms",
+      "text": "The main part of the summit, with a Roman-style bathhouse, one of the oldest synagogues found in Israel, and a huge storeroom complex that held food and supplies.",
+      "tip": "Look for the mosaic floors and the cisterns cut into the rock."
+    },
+    {
+      "name": "The Roman siege ramp and camps",
+      "text": "The western side of the plateau shows a huge ramp built by the Romans, and eight camps and a siege wall around the base, among the best-preserved Roman siege works in the world.",
+      "tip": "The best view of the ramp is from the top, on the western side."
+    },
+    {
+      "name": "Ein Gedi Nature Reserve",
+      "image": {
+        "file": "File:Waterfall at Ein Gedi.jpg",
+        "alt": "A waterfall and pool in the Ein Gedi nature reserve"
+      },
+      "text": "An oasis in the desert with springs, waterfalls, pools and wildlife such as Nubian ibex and hyraxes. The trails are short and suitable for families, with longer hikes to the David Falls and the Ein Gedi spring.",
+      "tip": "Go early, bring water and swimming gear, and stay on the marked paths."
+    },
+    {
+      "name": "Dead Sea beaches",
+      "image": {
+        "file": "File:Ein Bokek. Dead Sea. Israel. 05.jpg",
+        "alt": "Bathers on the Dead Sea shore at Ein Bokek"
+      },
+      "text": "Public and hotel beaches such as Ein Gedi Beach and Ein Bokek offer showers, mud and access to the sea. The water is about ten times as salty as the ocean, and you float on the surface.",
+      "tip": "Do not stay in for more than 15–20 minutes, avoid getting water in your eyes, and shower afterwards."
+    }
+  ],
+  "thingsToDoIntro": "Most people combine two or three of these in a day, and an early start is the key to enjoying any of them.",
+  "thingsToDo": [
+    {
+      "title": "Climb Masada for sunrise",
+      "text": "Start the Snake Path in the dark and reach the top as the sun rises over the Dead Sea. It is a memorable experience, and it avoids the midday heat.",
+      "tip": "Book a tour or drive to the visitor centre. The path opens in the pre-dawn hours."
+    },
+    {
+      "title": "Explore the summit with a guide",
+      "text": "The ruins make more sense with a guide who can explain the palaces, baths and siege. Audio guides and guided tours are available.",
+      "tip": "Go with a guide, or read up on Josephus first."
+    },
+    {
+      "title": "Hike at Ein Gedi",
+      "text": "Trails follow the streams to the waterfalls and pools, and offer refreshing dips. The longer routes climb through canyons and to the Dead Sea Scroll caves.",
+      "tip": "Pick the trail that suits your energy. The Wadi David trail is the most popular."
+    },
+    {
+      "title": "Float in the Dead Sea",
+      "text": "Walk in slowly, lie back and float. Try the mineral mud on your skin and rinse off in the fresh-water showers.",
+      "tip": "Do not shave before you go, and keep the water out of your eyes."
+    },
+    {
+      "title": "Visit a spa",
+      "text": "Ein Bokek and Ein Gedi have spas and hotels that use Dead Sea minerals in treatments and baths.",
+      "tip": "Check whether day access is offered at the hotels."
+    },
+    {
+      "title": "See the Qumran caves",
+      "text": "Qumran, where the Dead Sea Scrolls were found in 1947, is about 30 km north of Ein Gedi, in the West Bank, and is administered by Israel. It is a national park with the remains of a settlement and a view of the caves.",
+      "tip": "It is a short detour on the way to or from Jerusalem. Check the current status and advice."
+    }
+  ],
+  "foodIntro": "Food here is simple: cafés and restaurants at the visitor centres and hotels, and picnic supplies. Bring your own lunch for Ein Gedi.",
+  "foods": [
+    {
+      "name": "Picnic lunch",
+      "text": "Pita, hummus, vegetables, olives and fruit bought in a supermarket or bakery before you go. There is no shade at Masada, so plan to eat somewhere cool.",
+      "whereToTry": "Supermarkets in Jerusalem and Arad, or the kibbutz shop at Ein Gedi."
+    },
+    {
+      "name": "Kibbutz cafés",
+      "text": "Ein Gedi's kibbutz has a shop and café that serves salads, sandwiches and coffee. It is a pleasant stop.",
+      "whereToTry": "Ein Gedi kibbutz."
+    },
+    {
+      "name": "Hotel buffets",
+      "text": "The hotels at Ein Bokek serve large Israeli-style buffets with salads, fish, eggs and pastries.",
+      "whereToTry": "The hotels at Ein Bokek and Ein Gedi."
+    },
+    {
+      "name": "Dates",
+      "text": "Medjool dates grow in the Dead Sea region and are sold fresh and dried. They are a good snack for the trail.",
+      "whereToTry": "Roadside stalls and kibbutz shops."
+    },
+    {
+      "name": "Cold drinks and ice cream",
+      "text": "Essential in the heat. Kiosks at the visitor centres sell water, juice and ice cream.",
+      "whereToTry": "Kiosks at Masada and Ein Gedi."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors visit as a day trip, but staying overnight lets you climb Masada at dawn. A range of hotels, hostels and kibbutz guesthouses is available.",
+    "areas": [
+      {
+        "name": "Ein Bokek",
+        "bestFor": "Spas and beach hotels",
+        "text": "A resort strip of large hotels with spas and beach access, about 20 minutes from Masada."
+      },
+      {
+        "name": "Ein Gedi",
+        "bestFor": "Nature and quiet",
+        "text": "A kibbutz guesthouse and a youth hostel by the nature reserve, more low-key than Ein Bokek."
+      },
+      {
+        "name": "Masada Guest House",
+        "bestFor": "A dawn climb",
+        "text": "A hostel at the foot of Masada, ideal for a pre-dawn ascent, with basic rooms."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "₪200–400 per night" },
+      { "label": "Mid-range hotel", "value": "₪600–1,000 per night" },
+      { "label": "Spa hotel", "value": "₪1,000–2,000 per night" },
+      { "label": "Masada national park entry", "value": "About ₪30–40; cable car extra" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Masada is about 100 km from Jerusalem and 200 km from Tel Aviv, and a car is the easiest way to reach it.",
+    "options": [
+      {
+        "mode": "Car",
+        "text": "About 75 minutes from Jerusalem and 2 hours from Tel Aviv. The Dead Sea road is scenic and well maintained.",
+        "detail": "Fill the tank before you go, and take plenty of water."
+      },
+      {
+        "mode": "Bus",
+        "text": "Buses run from Jerusalem and Beersheba to Masada, Ein Gedi and Ein Bokek, though services are limited and do not run on Shabbat.",
+        "detail": "Check the timetable and the last return bus."
+      },
+      {
+        "mode": "Tour",
+        "text": "Sunrise and full-day tours run from Jerusalem and Tel Aviv, and take care of logistics.",
+        "detail": "Confirm what is included."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The sites are spread along the Dead Sea road, and a car or a bus is required between them.",
+    "options": [
+      {
+        "mode": "Car",
+        "text": "Allows flexibility to fit Masada, Ein Gedi and the sea into one day.",
+        "detail": "Parking is easy at all the main sites."
+      },
+      {
+        "mode": "Bus along Route 90",
+        "text": "Buses stop at Ein Gedi, Masada and Ein Bokek, though the schedule is thin.",
+        "detail": "Ask the driver where to get off."
+      },
+      {
+        "mode": "On foot",
+        "text": "Each site is explored on foot. The Snake Path and Ein Gedi trails are the main walks.",
+        "detail": "Wear sturdy shoes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–April",
+    "summary": "The Dead Sea region is a desert below sea level, and summers are extremely hot. October to April is the comfortable season, with the sunrise climb best from late autumn to early spring.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm to hot days and the desert in bloom after winter rain. Start early, and expect heat by May."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Extremely hot, often over 40°C, with the sites and trails close to unbearable. The Snake Path may close during the heat. Go only at sunrise if you must."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "October and November are ideal, with warm days and cooler mornings."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "Mild, sunny and pleasant, often 18–24°C. Rain can cause flash floods in the wadis, and trails at Ein Gedi may close."
+      }
+    ],
+    "avoid": "Midday in summer, and rainy days when flash floods are a danger in the desert canyons."
+  },
+  "itinerary": {
+    "title": "One day at Masada and the Dead Sea",
+    "intro": "Sunrise at Masada, a hike at Ein Gedi and a float in the sea. Assumes a start from Jerusalem before dawn, or a night nearby.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Sunrise, oasis and salt",
+        "summary": "A packed desert day that beats the heat.",
+        "morning": "The Snake Path at first light, sunrise from the top, and the summit ruins.",
+        "afternoon": "A cool-down and a hike at Ein Gedi, with a swim in the pools.",
+        "evening": "A float in the Dead Sea and dinner at a hotel, before the drive back."
+      }
+    ]
+  },
+  "tipsIntro": "The desert is unforgiving, and a few tips make the day comfortable.",
+  "tips": [
+    "Start early. Masada and Ein Gedi are much better before the heat builds, and the Snake Path can close in the afternoon.",
+    "Drink water constantly. Bring at least two litres per person, more in summer, and salty snacks.",
+    "Wear a hat, sunglasses and sunscreen. There is almost no shade on the plateau.",
+    "Do not swim in the Dead Sea with open cuts, and do not swallow the water or splash. Rinse off afterwards.",
+    "Check the weather before hiking. Flash floods in desert canyons can be deadly, and trails close when rain is forecast.",
+    "Bring water shoes for the pebbly Dead Sea shore and Ein Gedi pools.",
+    "Book the cable car and any tours in advance for busy days and holidays."
+  ],
+  "faq": [
+    {
+      "q": "How long does it take to climb Masada?",
+      "a": "The Snake Path takes about 45–60 minutes at a steady pace, and most people spend two to three hours on the summit. The cable car takes a few minutes."
+    },
+    {
+      "q": "Is Masada worth visiting?",
+      "a": "Yes. It is a UNESCO World Heritage Site with remarkable ruins and a dramatic setting, and it has a powerful place in Israeli history. Go at sunrise if you can."
+    },
+    {
+      "q": "Can I swim in the Dead Sea?",
+      "a": "Yes. It is easy and safe if you follow the rules: enter slowly, float on your back, keep the water out of your eyes, and stay in for no more than about 15–20 minutes."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "October to April, when temperatures are comfortable. Avoid summer, when the heat is severe."
+    },
+    {
+      "q": "Is the Dead Sea shrinking?",
+      "a": "Yes, by about a metre a year. The retreat is visible along the shore, where old beaches and hotels are now some distance from the water."
+    },
+    {
+      "q": "Can I visit Masada as a day trip from Jerusalem or Tel Aviv?",
+      "a": "Yes. It is about 75 minutes from Jerusalem and 2 hours from Tel Aviv, and tours run daily. A sunrise visit requires an early start or a night nearby."
+    }
+  ],
+  "related": ["jerusalem", "negev-mitzpe-ramon", "megiddo-beit-shean"],
+  "relatedArticles": ["packing-by-season", "unesco-worth-planning-around"]
+}

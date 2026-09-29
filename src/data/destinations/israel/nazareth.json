@@ -1,0 +1,303 @@
+{
+  "slug": "nazareth",
+  "name": "Nazareth",
+  "country": "israel",
+  "region": "Northern District, Lower Galilee",
+  "categories": ["historic", "cultural", "major-city"],
+  "tagline": "The hillside town where Christian tradition places the Annunciation and Jesus's childhood, and today the largest Arab city in Israel.",
+  "highlight": "The Basilica of the Annunciation, the largest church in the Middle East, built over the traditional site of Mary's home.",
+  "shortDescription": "A lively Arab town with major Christian pilgrimage sites, an old-city market and some of the best food in the north.",
+  "metaDescription": "A Nazareth travel guide: the Basilica of the Annunciation, Mary's Well and the old market, Arab food, day trips to Cana and Mount Tabor, where to stay and a one-day plan.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Tel Aviv Ben Gurion (TLV), about 1 hour 45 minutes",
+  "knownFor": "The Basilica of the Annunciation, the old market, Palestinian-Arab food",
+  "budget": "₪400–800 per day, mid-range",
+  "goodFor": "Christian pilgrimage, food, culture, day trips",
+  "coords": { "lat": 32.6996, "lng": 35.3035 },
+  "image": {
+    "file": "File:Basilica of the Annunciation Nazareth 290314 06.jpg",
+    "alt": "The Basilica of the Annunciation and its dome in Nazareth"
+  },
+  "intro": [
+    "Nazareth appears in the Gospels as the hometown of Mary and Joseph, where, according to the Gospel of Luke, the angel Gabriel announced to Mary that she would bear a son, and where Jesus grew up. It was a small village in the time of Jesus, and archaeological finds suggest a farming community of a few hundred people. Over the centuries Christian pilgrims built churches on the traditional sites.",
+    "Today Nazareth is the largest Arab city in Israel, with a population of about 80,000 that is roughly two-thirds Muslim and one-third Christian. It is a working town rather than a museum piece, with a busy market, a strong food culture and a thriving Arab arts and business scene. The pilgrimage sites are close together in the old quarter, and the surrounding hills of the Lower Galilee offer day trips.",
+    "Nazareth can feel overlooked, squeezed between the Sea of Galilee and the coast. It rewards visitors who stay for a meal and an evening, and gives a picture of Arab life in Israel that is rarely seen in a tourist itinerary."
+  ],
+  "whyVisit": {
+    "intro": "Nazareth is one of the most important sites in Christianity, and it offers much more than the church.",
+    "points": [
+      {
+        "title": "The Basilica of the Annunciation",
+        "text": "The largest Christian church in the Middle East, completed in 1969 over the traditional site of Mary's house, with a lower church that preserves the grotto and mosaics from many countries in the upper church."
+      },
+      {
+        "title": "A different side of Israel",
+        "text": "Nazareth is an Arab city, and visiting it gives a view of Palestinian-Arab culture, cuisine and daily life inside Israel."
+      },
+      {
+        "title": "A superb market",
+        "text": "The old souk, with its spices, sweets and street food, is one of the best in the north."
+      },
+      {
+        "title": "Some of the best food in the north",
+        "text": "Arab restaurants here serve Galilean dishes that are hard to find elsewhere, and many are excellent value."
+      },
+      {
+        "title": "An easy base",
+        "text": "The Sea of Galilee, Mount Tabor, Cana and Sepphoris are all within half an hour."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sites are within a few minutes' walk of each other in the old quarter. A full day covers them and the market.",
+  "attractions": [
+    {
+      "name": "The Basilica of the Annunciation",
+      "text": "A large modern church built in the 1960s over earlier Byzantine and Crusader churches. The lower level has the Grotto of the Annunciation, and the upper church has huge mosaics of Mary from Catholic communities around the world.",
+      "tip": "Dress modestly, and expect crowds around midday. Mass times are posted."
+    },
+    {
+      "name": "St Joseph's Church",
+      "image": {
+        "file": "File:Church of St Joseph in Nazareth 3.jpg",
+        "alt": "The Franciscan Church of St Joseph in Nazareth"
+      },
+      "text": "A Franciscan church next to the Basilica, built over a site traditionally identified with Joseph's carpentry workshop. The lower level has caves and cisterns that date from the time of Jesus.",
+      "tip": "It is quieter than the Basilica, and combine the two."
+    },
+    {
+      "name": "The Old Market (Souk)",
+      "image": {
+        "file": "File:Nazareth, Old City, market.JPG",
+        "alt": "A street in the old market in Nazareth"
+      },
+      "text": "A network of stone alleys near the Basilica with spice merchants, sweet shops, textile stalls and cafés. It is lively in the morning and late afternoon.",
+      "tip": "Taste the sweets and buy spices. Most shops close on Sunday."
+    },
+    {
+      "name": "Mary's Well and the Greek Orthodox Church of the Annunciation",
+      "text": "A spring in a nearby church that Orthodox Christians hold to be where Mary received the annunciation while drawing water. It is an atmospheric church with icons and painted walls.",
+      "tip": "Check opening hours, which are limited."
+    },
+    {
+      "name": "The White Mosque",
+      "text": "An Ottoman-era mosque with a green-and-white minaret in the old town, one of the town's main Muslim landmarks. It sits in the centre of the market.",
+      "tip": "Respect the dress code and prayer times."
+    },
+    {
+      "name": "Nazareth Village",
+      "text": "A living-history site that recreates a first-century farming village, with costumed guides, terraces, a synagogue and a carpenter's workshop. It shows how ordinary people lived in Jesus's time.",
+      "tip": "Book a guided visit, and allow about two hours."
+    },
+    {
+      "name": "Mount Precipice",
+      "text": "A cliff on the edge of the city, identified by tradition as the place where the townspeople tried to throw Jesus off a hill. It has a fine view across the Jezreel Valley to Mount Tabor.",
+      "tip": "Go in the late afternoon for the view."
+    }
+  ],
+  "thingsToDoIntro": "Nazareth is best on foot and best with an appetite.",
+  "thingsToDo": [
+    {
+      "title": "Visit the Basilica early",
+      "text": "The Basilica is quiet in the first hour, and the grotto is much more atmospheric without a crowd.",
+      "tip": "Check opening hours and Mass times."
+    },
+    {
+      "title": "Wander the old souk",
+      "text": "Explore the stone alleys, taste sweets, and pick up spices. The souk is a good place to see everyday life.",
+      "tip": "Go in the morning, and dress modestly."
+    },
+    {
+      "title": "Have a long Arab lunch",
+      "text": "Nazareth has some of the best Palestinian-Arab food in Israel, with dozens of restaurants serving mezze, grills and Galilean specialities.",
+      "tip": "Ask about the day's specials."
+    },
+    {
+      "title": "Visit Nazareth Village",
+      "text": "A guided walk through a reconstructed first-century village, useful for context on Jesus's life and the landscape.",
+      "tip": "Book ahead for a guided tour."
+    },
+    {
+      "title": "Take a day trip to Cana, Sepphoris and Mount Tabor",
+      "text": "Sepphoris (Tzippori) has Roman mosaics, including the famous 'Mona Lisa of the Galilee', Cana is the traditional site of the wedding miracle, and Mount Tabor is the traditional site of the Transfiguration.",
+      "tip": "A car or a taxi is essential."
+    },
+    {
+      "title": "Watch the sunset from Mount Precipice",
+      "text": "The Jezreel Valley spreads out beneath you, and Mount Tabor rises in the distance.",
+      "tip": "Go late in the afternoon in clear weather."
+    }
+  ],
+  "foodIntro": "Nazareth is a food destination in its own right, and one of the best places in Israel to eat Palestinian-Arab cooking.",
+  "foods": [
+    {
+      "name": "Galilean mezze",
+      "text": "Dozens of small dishes, from hummus and baba ghanoush to stuffed vine leaves, salads and cheeses, served at the start of a meal.",
+      "whereToTry": "Family restaurants in the old town."
+    },
+    {
+      "name": "Grilled meats",
+      "text": "Kebabs, lamb chops and shishlik grilled over charcoal and served with salads and bread.",
+      "whereToTry": "Grill restaurants on the main streets."
+    },
+    {
+      "name": "Knafeh",
+      "text": "A hot cheese pastry with syrup, and Nazareth's speciality. Locals eat it for breakfast or dessert.",
+      "whereToTry": "Sweet shops in the old town."
+    },
+    {
+      "name": "Musakhan",
+      "text": "Roasted chicken with sumac, caramelised onions and olive oil on taboon bread, a dish from the West Bank and Galilee.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Fresh bread and pastries",
+      "text": "Bakeries make bread, pastries and sfiha, and open early.",
+      "whereToTry": "Bakeries near the market."
+    },
+    {
+      "name": "Arabic coffee and tea",
+      "text": "Strong cardamom coffee and sweet tea, served in cafés and shops.",
+      "whereToTry": "Cafés in the old town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors visit Nazareth as a day trip, but staying overnight gives you a quiet evening and a proper meal. Options range from pilgrim guesthouses to boutique hotels.",
+    "areas": [
+      {
+        "name": "The old town",
+        "bestFor": "Atmosphere and walking",
+        "text": "A handful of boutique hotels and guesthouses in restored Ottoman houses, close to the Basilica and the market."
+      },
+      {
+        "name": "Upper Nazareth and the Mount Precipice area",
+        "bestFor": "Modern hotels and parking",
+        "text": "Larger hotels with parking and views, a short drive from the old town."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse or hostel", "value": "₪200–400 per night" },
+      { "label": "Boutique hotel", "value": "₪500–900 per night" },
+      { "label": "Basilica entry", "value": "Free, with donations welcome" },
+      { "label": "Lunch in the old town", "value": "₪50–100 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Nazareth is about 100 km from Tel Aviv and 150 km from Jerusalem, and most visitors arrive by car or bus.",
+    "options": [
+      {
+        "mode": "Car",
+        "text": "About 90 minutes from Tel Aviv and 40 minutes from Haifa. Parking in the old town is limited, so use a car park at the edge and walk.",
+        "detail": "The roads are good."
+      },
+      {
+        "mode": "Bus",
+        "text": "Buses run from Tel Aviv, Haifa and Tiberias to Nazareth's central bus station.",
+        "detail": "Buses are less frequent on Shabbat."
+      },
+      {
+        "mode": "Train and bus",
+        "text": "Trains reach Afula or Haifa, with onward buses to Nazareth.",
+        "detail": "Check the timetable and connections."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The old town is walkable, and the hills are steep.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The Basilica, the market and the old town are within a 15-minute walk.",
+        "detail": "The streets are steep and sometimes crowded."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Taxis take you to Mount Precipice, Cana, Sepphoris and Nazareth Village.",
+        "detail": "Agree the fare in advance."
+      },
+      {
+        "mode": "Car",
+        "text": "Useful for day trips, with parking outside the old town.",
+        "detail": "Traffic in the centre can be heavy."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Nazareth sits in the hills of the Lower Galilee and has a Mediterranean climate. It is pleasant for much of the year, hot in summer and wet in winter.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Green hills and warm, clear weather. Easter is very busy."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot, typically around 30°C, but milder than the coast. Go early and late."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm, quiet and clear, with good light."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool, wet and occasionally cold. Christmas brings a festive atmosphere and pilgrims."
+      }
+    ],
+    "avoid": "Sunday mornings, when many shops are closed, and Easter and Christmas weeks if you want quiet."
+  },
+  "itinerary": {
+    "title": "One day in Nazareth",
+    "intro": "The churches and the market in the morning, a long lunch and a trip to Sepphoris or Mount Precipice in the afternoon. Assumes a car or taxi.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Churches, the souk and a long lunch",
+        "summary": "The pilgrimage sites and the town's food.",
+        "morning": "The Basilica of the Annunciation and St Joseph's Church.",
+        "afternoon": "The old souk, then lunch at a family restaurant.",
+        "evening": "Sunset at Mount Precipice, or a trip to Sepphoris."
+      }
+    ]
+  },
+  "tipsIntro": "Nazareth is friendly and easy, and these tips help.",
+  "tips": [
+    "Start with the Basilica, early. The church fills up by late morning.",
+    "Dress modestly for the churches and mosques, with shoulders and knees covered.",
+    "Have lunch in the old town. The food is a highlight and much better value than the tourist restaurants near the coach parks.",
+    "Sunday is quieter, as many Christian-owned businesses close. Friday is the day of prayer for Muslims and some shops close at midday.",
+    "Take a taxi or a car to the day-trip sites. Public transport is limited.",
+    "Ask before photographing people, and be respectful of worshippers.",
+    "Check the security advice for the north, and avoid areas your government advises against."
+  ],
+  "faq": [
+    {
+      "q": "Is Nazareth worth visiting?",
+      "a": "Yes, for its significance to Christianity and for its living Arab culture and food. It is a good addition to a Galilee trip, and one day is enough to see the main sites."
+    },
+    {
+      "q": "Why is Nazareth important?",
+      "a": "It is the traditional site of the Annunciation and the hometown of Jesus in the Gospels. The Basilica of the Annunciation is one of the most important Christian pilgrimage sites."
+    },
+    {
+      "q": "Is Nazareth safe for tourists?",
+      "a": "Nazareth is generally regarded as safe for visitors, and it is a popular stop for pilgrims and tourists. Check current advice for the north, and follow local guidance."
+    },
+    {
+      "q": "What is the best way to see Nazareth?",
+      "a": "On foot in the old town, and by car or taxi for day trips to Cana, Sepphoris and Mount Tabor. A guided tour can help with the history."
+    },
+    {
+      "q": "Is Nazareth an Arab city?",
+      "a": "Yes. It is the largest Arab city in Israel, with a majority Muslim and a large Christian population. Arabic is the main language, and Hebrew and English are widely understood."
+    },
+    {
+      "q": "Can I visit Nazareth from Tel Aviv or Jerusalem in a day?",
+      "a": "Yes, though it is a long day. Staying overnight and combining it with the Sea of Galilee is much more relaxed."
+    }
+  ],
+  "related": ["sea-of-galilee", "haifa-bahai-gardens", "megiddo-beit-shean"],
+  "relatedArticles": ["food-primer", "unesco-worth-planning-around"]
+}

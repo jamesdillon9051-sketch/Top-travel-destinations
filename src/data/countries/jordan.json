@@ -1,0 +1,365 @@
+{
+  "slug": "jordan",
+  "name": "Jordan",
+  "continent": "Western Asia (Middle East)",
+  "countryCode": "JO",
+  "tagline": "A rose-red city carved into a cliff, a Martian desert you sleep in, and a Roman city that still has its chariot track — in a country you can cross in a day.",
+  "cardDescription": "A small, stable and unusually welcoming country that holds Petra, the Wadi Rum desert, the best-preserved Roman city in the region and the lowest point on land.",
+  "metaDescription": "A complete Jordan travel guide: the 10 best places to visit, Petra and Wadi Rum, Jordanian food, when to go, the Jordan Pass, costs, etiquette and a one-week itinerary.",
+  "image": {
+    "file": "File:Jordan, Wadi Rum Desert, Infinite Spaces.jpg",
+    "alt": "Sandstone hills rising from the red desert floor of Wadi Rum under a wide sky"
+  },
+  "destinations": [
+    "petra",
+    "wadi-rum",
+    "amman",
+    "jerash",
+    "dead-sea-jordan",
+    "madaba-mount-nebo",
+    "aqaba",
+    "dana-biosphere-reserve",
+    "kerak-shobak",
+    "ajloun-umm-qais"
+  ],
+  "intro": [
+    "Jordan is about the size of Portugal, and in that space it holds a remarkable proportion of the ancient Near East. The Nabataeans carved their capital, Petra, into the sandstone here two thousand years ago. Rome left Jerash and a chain of Decapolis cities across the north. The Crusaders and their opponents fought over the castles along the King's Highway. And Christian tradition places the baptism of Jesus and the last view of Moses within a short drive of the capital.",
+    "The landscape is as varied as the history. In the south the desert of Wadi Rum is a maze of sandstone and granite towers, with Bedouin camps that offer a night under a very dark sky. To the west the land falls away to the Dead Sea, the lowest point on the surface of the Earth, and to the south-west it reaches the Red Sea at Aqaba, where you can snorkel a coral reef the same afternoon you stand in a desert.",
+    "It is also an easy country to travel in. The distances are short, the roads are good, and Jordanians are widely known for hospitality that is not a sales technique. Visitor numbers have moved with regional events over the last few years, which means the headline sites are often quieter than their reputation suggests, but it also means you should read current government advice before you book."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Petra and Wadi Rum are the two that justify the flight; the rest can be assembled around them along the King's Highway or the Desert Highway, and nothing is more than about five hours from anything else.",
+  "thingsToDoIntro": "The experiences that recur across the country and that make a Jordanian trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Walk into Petra through the Siq",
+      "image": {
+        "file": "File:Petra, Siq, Canyon, Jordan.jpg",
+        "alt": "The narrow sandstone canyon of the Siq leading towards Petra"
+      },
+      "text": "The approach is half the drama: a 1.2 km canyon between rock walls up to 80 m high, narrowing until the Treasury appears in a slot of light at the far end. Then keep going — the Royal Tombs, the Colonnaded Street and the climb to the Monastery are all still ahead. See [[petra]].",
+      "tip": "Arrive at opening, walk straight through to the Monastery first while it is cool and quiet, and come back to the Treasury when the tour groups thin out."
+    },
+    {
+      "title": "Sleep in the desert at Wadi Rum",
+      "image": {
+        "file": "File:Wadi Rum BW 20.JPG",
+        "alt": "Bedouin tents pitched beneath sandstone cliffs in Wadi Rum"
+      },
+      "text": "A Bedouin-run camp, a jeep tour through red-sand valleys and rock bridges, a dinner cooked in a sand oven and a night with almost no light pollution. It is a touristy experience and a good one. See [[wadi-rum]].",
+      "tip": "Book a camp directly or through a reputable local operator, and check what is included. Winter nights are close to freezing, so ask about heating and bedding."
+    },
+    {
+      "title": "Float in the Dead Sea",
+      "image": {
+        "file": "File:Effortlessly floating on the Dead Sea (11663842305).jpg",
+        "alt": "A swimmer floating effortlessly on the surface of the Dead Sea"
+      },
+      "text": "The water is nearly ten times as salty as the ocean, so you cannot sink. Read a newspaper if you must, coat yourself in the mineral mud, and rinse off afterwards. See [[dead-sea-jordan|the Dead Sea]].",
+      "tip": "Do not shave that morning and keep the water away from your eyes. Fifteen to twenty minutes in the water is plenty."
+    },
+    {
+      "title": "Walk through a Roman city",
+      "text": "[[jerash]] is among the best-preserved Roman provincial cities anywhere, with a triumphal arch, a colonnaded main street, an oval forum and two theatres. Umm Qais in the far north adds a black basalt theatre with a view over the Sea of Galilee. See [[ajloun-umm-qais|Ajloun and Umm Qais]].",
+      "tip": "Go on a weekday morning, and walk the site from the south gate to the north so the light is behind you."
+    },
+    {
+      "title": "Follow the biblical geography",
+      "text": "Jordan holds sites that pilgrims have visited for centuries: the Baptism Site at Bethany beyond the Jordan, Mount Nebo where tradition says Moses viewed the Promised Land, and the 6th-century Madaba Map. See [[madaba-mount-nebo|Madaba and Mount Nebo]].",
+      "tip": "Most of these are within an hour of Amman, so they combine easily with the Dead Sea for a single day."
+    },
+    {
+      "title": "Hike the Dana–Feynan trail",
+      "text": "A one-way walk of about 16 km from the stone village of Dana down through several ecosystems to a solar-and-candle-lit eco-lodge in Wadi Feynan. It is Jordan's best introduction to walking. See [[dana-biosphere-reserve|Dana]].",
+      "tip": "Book through the Royal Society for the Conservation of Nature, and do it between October and April."
+    }
+  ],
+  "foodIntro": "Jordanian cooking sits within the Levantine tradition — mezze, grilled meat, olive oil, yoghurt — with a strong Bedouin core built around lamb, rice and spiced bread. Portions are generous and sharing is the default.",
+  "foods": [
+    {
+      "name": "Mansaf",
+      "image": {
+        "file": "File:Jordanian Traditional Mansaf, Petra Restaurant, 2026 (01).jpg",
+        "alt": "A platter of mansaf — lamb on rice and flatbread with dried-yoghurt sauce"
+      },
+      "text": "The national dish: lamb cooked in jameed, a sauce of dried fermented yoghurt, and served over rice and thin bread, often with toasted pine nuts and almonds. It is traditionally eaten communally at weddings and celebrations.",
+      "whereToTry": "Traditional restaurants in [[amman]] and [[kerak-shobak|Kerak]], and Bedouin-run camps if you ask ahead. In Kerak it is a point of local pride."
+    },
+    {
+      "name": "Zarb",
+      "text": "Meat, potatoes and vegetables cooked in a sealed pit oven in the ground, then dug up and served on a platter. It is a Bedouin method and the highlight of the evening at most Wadi Rum camps.",
+      "whereToTry": "Desert camps at [[wadi-rum]] and around [[petra]], usually included in a camp package."
+    },
+    {
+      "name": "Falafel and hummus",
+      "text": "Fried chickpea balls in fresh bread, and hummus served warm with olive oil, often with fuul (stewed fava beans) for breakfast. Simple, cheap and eaten everywhere.",
+      "whereToTry": "The old downtown of [[amman]], where crowded, no-frills places have served the same menu for decades."
+    },
+    {
+      "name": "Maqluba",
+      "image": {
+        "file": "File:Makluba.JPG",
+        "alt": "Maqluba, an upside-down dish of rice, meat and vegetables, turned out onto a platter"
+      },
+      "text": "The name means 'upside down': rice, aubergine, cauliflower and chicken or lamb are cooked in a pot and turned out onto a platter in a single dramatic movement. It is a family favourite.",
+      "whereToTry": "Home-style restaurants in [[amman]] and [[ajloun-umm-qais|Ajloun]]; ask for the daily special."
+    },
+    {
+      "name": "Kunafa",
+      "text": "A hot, sweet cheese pastry, crisp on the outside and soft within, soaked in syrup and topped with crushed pistachio. It is served straight from a large tray and eaten on the street.",
+      "whereToTry": "Sweet shops in downtown [[amman]], where you can buy a portion by weight."
+    },
+    {
+      "name": "Bedouin tea and coffee",
+      "image": {
+        "file": "File:Arabic copper coffee Dallah (3).jpg",
+        "alt": "A traditional copper dallah coffee pot"
+      },
+      "text": "Sweet, sage-scented black tea and cardamom coffee poured from a dallah (a long-spouted pot) into tiny cups. Accepting is polite; shaking the empty cup from side to side is the signal that you have had enough.",
+      "whereToTry": "Everywhere, and often offered free. Take it whenever it is offered in a shop or a camp."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Jordan is straightforward to travel in, but visa and ticket prices change, so check the official sites before you go.",
+  "practical": {
+    "capital": "Amman",
+    "language": "Arabic. English is widely spoken in Amman, at hotels and at the main sites, and reasonably common among younger people elsewhere. A few Arabic phrases are well received.",
+    "currency": "Jordanian dinar (JOD, also written JD), divided into 1,000 fils and pegged to the US dollar at roughly 0.71 JD per dollar. One dinar is worth around US$1.40.",
+    "money": "Cards are widely accepted in Amman, at hotels and at the larger restaurants and sites; carry cash for taxis, small shops, snacks and rural areas. ATMs are common in towns. Exchange offices give better rates than airports and hotels.",
+    "visa": "Most nationalities receive a visa on arrival, or one at land borders, for a fee that is currently around JD 40. The Jordan Pass, bought online before you travel, waives that fee if you stay at least three nights and includes entry to Petra and most major sites, so it is almost always worth buying. Rules change: confirm on the official government and Jordan Pass sites before you go.",
+    "plugs": "Type C, D, F, G and J, 230 V, 50 Hz. A universal adapter avoids any guesswork.",
+    "emergency": "911 for all emergencies. Tourist police officers are stationed at the main sites.",
+    "tipping": "Around 10% in restaurants if a service charge has not been added, a small tip for guides and drivers, and a dinar or two for hotel porters. Round up for taxis.",
+    "safety": "Jordan has a long record of stability compared with much of the region and is generally safe for visitors, with normal precautions against petty theft. The security situation nearby can change quickly, so read your government's current travel advice before booking, and avoid the border areas with Syria and Iraq unless your advice says otherwise. Check advice again before you go.",
+    "connectivity": "Good 4G in towns and along the main routes, with patchy coverage in Wadi Rum and remote areas. Local SIM cards are cheap and easy to buy at the airport, and eSIMs work well.",
+    "timeZone": "UTC+3 all year. Jordan moved to permanent summer time in 2022 and no longer changes its clocks.",
+    "budget": [
+      { "label": "Backpacker", "value": "JD 35–55 per day — dorm or basic hotel, falafel and shawarma, buses" },
+      { "label": "Mid-range", "value": "JD 80–140 per day — three-star hotels, restaurant meals, a hired car or driver for some days" },
+      { "label": "Comfortable", "value": "JD 160–280 per day — good hotels, private guides, desert camp with private tent" },
+      { "label": "Petra and Jordan Pass", "value": "Around JD 70–80 for the Pass, which covers the visa fee and Petra entry; worth budgeting separately" }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Jordan has a desert climate that is mild in spring and autumn, cold at night in winter and very hot in summer, particularly in the south, at Aqaba and around the Dead Sea. The shoulder seasons are the reliable window for Petra, Wadi Rum and the walking.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "The best period. Warm, dry days of 20–28°C, wildflowers on the hills in March and April, and comfortable conditions for the long walks at Petra and in Dana. It is also the busiest time, so book ahead."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Very hot in the south and the valleys — Aqaba and the Dead Sea regularly exceed 40°C, and Wadi Rum in the middle of the day is punishing. Amman and the northern highlands are pleasant, and the Red Sea is warm for diving."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Very comfortable from late September, with warm days, cooler nights and the sea at its warmest. October is arguably the finest month for the whole country."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool and sometimes wet in Amman and the highlands, with occasional snow in the north; it is cold at night in Wadi Rum and Petra. Prices and crowds fall, Aqaba and the Dead Sea stay pleasant, and heavy rain can briefly close canyon trails."
+      }
+    ],
+    "avoid": "The middle of summer for the south, and the days around Eid holidays, when domestic travel and prices peak. Ramadan changes opening hours and restaurants outside tourist areas may close by day, though the major sites operate normally."
+  },
+  "tripDuration": {
+    "headline": "7–10 days for a first trip",
+    "summary": "Jordan is compact enough that a week covers the essentials, and distances between the main sites are measured in hours rather than days. The constraint is Petra, which deserves two days, and the pleasure of the desert, which is best given a night.",
+    "options": [
+      {
+        "length": "4–5 days",
+        "text": "Amman, Jerash, Petra and Wadi Rum, in that order, using private drivers or a hired car between them.",
+        "detail": "A rushed but rewarding introduction that reaches both headline sites."
+      },
+      {
+        "length": "7–8 days",
+        "text": "Adds the Dead Sea, Madaba and Mount Nebo, and a second day at Petra, with Aqaba as a final beach stop.",
+        "detail": "The itinerary on this page, and the version we would recommend to most first-time visitors."
+      },
+      {
+        "length": "10–12 days",
+        "text": "Adds Dana and the King's Highway castles at Kerak and Shobak, a night in the Dead Sea area and the north around Ajloun and Umm Qais.",
+        "detail": "A fuller trip that shows Jordan's variety, and gives you time to slow down."
+      },
+      {
+        "length": "2 weeks or more",
+        "text": "Everything above at a slower pace, with several nights in the desert, some multi-day hiking on the Jordan Trail and time in Aqaba.",
+        "detail": "Worth it for walkers and anyone who likes to see a country properly."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Jordan is small, the roads are good and public transport is limited, so most visitors either hire a car or use private drivers between the main sites.",
+    "options": [
+      {
+        "mode": "Hire car",
+        "text": "The most flexible way to travel and easy on the main highways. The Desert Highway is fast; the King's Highway is slower but more scenic. Roads are generally in good condition.",
+        "detail": "Driving in Amman is intense, and police checkpoints on the roads are routine and usually friendly. Hire a car outside the city and have your licence and passport ready."
+      },
+      {
+        "mode": "Private driver or taxi",
+        "text": "Widely used and good value for a small group. A driver between Amman and Petra costs roughly the same as a couple of good meals per person.",
+        "detail": "Agree the price before you set off, or use a metered taxi or a ride-hailing app in the city. Hotels can arrange reputable drivers."
+      },
+      {
+        "mode": "JETT and intercity buses",
+        "text": "JETT runs comfortable air-conditioned coaches between Amman, Petra (Wadi Musa), Aqaba and a few other places; Aqaba takes about four hours from the capital. Minibuses cover most other routes.",
+        "detail": "Book JETT seats a day ahead in high season. Minibuses leave when full and can be slow."
+      },
+      {
+        "mode": "Domestic and regional flights",
+        "text": "There are few domestic flights, but Aqaba's King Hussein International Airport has a growing set of low-cost connections, which can make an open-jaw trip (into Amman, out of Aqaba) practical.",
+        "detail": "Check airline schedules, which change often."
+      },
+      {
+        "mode": "Organised tours",
+        "text": "Multi-day tours with a driver and guide are common and suit anyone who prefers to hand over the logistics, particularly for Wadi Rum and the Dead Sea.",
+        "detail": "Read recent reviews and confirm what is included, including entry tickets."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "One week in Jordan",
+    "intro": "Amman, Jerash, the Dead Sea, Petra, Wadi Rum and Aqaba, with a hire car or a private driver between them. Covers eight of the ten destinations in this guide, counting a stop at Kerak Castle on the drive south.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Amman",
+        "morning": "Land at Queen Alia airport and transfer to the city.",
+        "afternoon": "The Citadel and Roman Theatre, a first walk through downtown.",
+        "evening": "Falafel and hummus in the old centre, then kunafa for dessert."
+      },
+      {
+        "day": 2,
+        "title": "Jerash and Amman",
+        "morning": "Drive to Jerash and walk the site from the Arch of Hadrian to the Temple of Artemis.",
+        "afternoon": "Lunch in Jerash, then back to Amman for the Jordan Museum.",
+        "evening": "Rainbow Street for dinner and views."
+      },
+      {
+        "day": 3,
+        "title": "Madaba, Mount Nebo and the Dead Sea",
+        "morning": "The Madaba Map and Mount Nebo.",
+        "afternoon": "Down to the Dead Sea for a float and mud.",
+        "evening": "Stay at a Dead Sea hotel and watch the sunset over the water."
+      },
+      {
+        "day": 4,
+        "title": "Drive to Petra",
+        "morning": "The King's Highway south, with a stop at Kerak Castle if you have time.",
+        "afternoon": "Arrive in Wadi Musa and settle in.",
+        "evening": "Petra by Night if it is running, or a quiet dinner in town."
+      },
+      {
+        "day": 5,
+        "title": "Petra",
+        "morning": "In at opening, straight to the Monastery via the Siq and the Colonnaded Street.",
+        "afternoon": "Back down to the Royal Tombs and the Treasury.",
+        "evening": "A hot bath or a cold drink; you will have walked 15 km."
+      },
+      {
+        "day": 6,
+        "title": "Wadi Rum",
+        "morning": "Drive south to Wadi Rum and meet your guide.",
+        "afternoon": "A jeep tour with a stop at a rock bridge and time for the sunset.",
+        "evening": "Zarb dinner and a night under the stars in a Bedouin camp."
+      },
+      {
+        "day": 7,
+        "title": "Aqaba and depart",
+        "morning": "Sunrise in the desert, then on to Aqaba.",
+        "afternoon": "Snorkel or dive on the Red Sea reef, or simply swim.",
+        "evening": "Fly home from Aqaba or return to Amman."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Jordan is a Muslim-majority country with a significant Christian minority and a long tradition of hospitality. Amman is cosmopolitan and relaxed; smaller towns and rural areas are more conservative. Dress and behave with modest respect and you will be met with warmth.",
+    "etiquette": [
+      {
+        "title": "Dress modestly outside tourist resorts",
+        "text": "Shoulders and knees should be covered in towns and at religious sites for both men and women. Swimwear belongs at the beach or the pool; in Amman and rural areas, loose lightweight clothing that covers your arms and legs works best."
+      },
+      {
+        "title": "Accepting hospitality",
+        "text": "You will be offered tea, coffee and often food. Accepting is polite, and refusing more than once can be seen as rude; you can say 'shukran' with a hand on your heart if you have had enough."
+      },
+      {
+        "title": "Use your right hand",
+        "text": "Eat, pass things and shake hands with your right hand. Wait for a hand to be offered before shaking with a person of the opposite sex."
+      },
+      {
+        "title": "Photography needs permission",
+        "text": "Always ask before photographing people, especially women and children. Do not photograph military or security installations, or checkpoints."
+      },
+      {
+        "title": "Respect the royal family",
+        "text": "The Hashemite monarchy is widely respected, and pictures of the king are everywhere. Do not make jokes or critical remarks about the royal family in public."
+      },
+      {
+        "title": "Ramadan etiquette",
+        "text": "Avoid eating, drinking or smoking in public during daylight hours during Ramadan, particularly outside tourist areas. Evenings are festive and often a good time to be out."
+      }
+    ],
+    "dos": [
+      "Accept the tea and coffee — it is a courtesy, not a sales technique",
+      "Carry a scarf or light layer for mosques and sun",
+      "Bargain politely in souks and for taxis without a meter",
+      "Learn a few Arabic words: marhaba (hello), shukran (thank you)",
+      "Ask before taking photographs of people",
+      "Book Wadi Rum and Petra experiences with reputable local operators"
+    ],
+    "donts": [
+      "Don't wear swimwear anywhere but the beach or hotel pool",
+      "Don't discuss the royal family, politics or the region's conflicts casually",
+      "Don't take photographs of military sites or checkpoints",
+      "Don't enter a mosque without covering up, and never during prayer",
+      "Don't show public displays of affection",
+      "Don't drink alcohol in public; it is available in licensed hotels and bars"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Jordan, several of which are specific to how the country works.",
+  "tips": [
+    "Buy the Jordan Pass before you arrive. If you stay three nights it waives the visa fee and includes entry to Petra and most major sites, and it is almost always cheaper than paying separately. Check the current price and terms on the official site.",
+    "Give Petra two days if you can. One day is enough to see the Treasury and the Monastery, but it will be a long, hot and tiring day, and the second day lets you climb to the High Place of Sacrifice and see the site in different light.",
+    "Do not plan Wadi Rum as a day trip from Petra or Aqaba. The desert is at its best at sunrise and sunset, so spend the night, even if you only have one.",
+    "Plan a drive carefully in the dark. Roads outside cities are often unlit and may have livestock, speed bumps and unmarked checkpoints, so aim to reach your destination before dusk.",
+    "Take cash with you to the smaller towns and to the desert camps. Cards are widely taken in cities but not at every roadside stop.",
+    "Carry your passport in cities and on the highways. Police checkpoints are routine and usually quick and friendly.",
+    "Water is the one thing not to skimp on. Carry at least a litre or two per person per day, more in summer, and sunscreen and a hat all year.",
+    "Check the regional situation before booking, then again a week before you go. Travel advice for Jordan and its neighbours can change quickly."
+  ],
+  "faq": [
+    {
+      "q": "Is Jordan safe to visit?",
+      "a": "The places covered in this guide — Amman, Petra, Wadi Rum, the Dead Sea, Aqaba and the King's Highway — are generally regarded as safe for visitors, and Jordan has been stable compared with much of the region. The wider security situation can change, so read your government's current travel advice before you book and again before you travel, and avoid the border areas with Syria and Iraq."
+    },
+    {
+      "q": "How many days do you need in Jordan?",
+      "a": "Seven to ten for a first trip. A week covers Amman, Jerash, the Dead Sea, Petra, Wadi Rum and Aqaba comfortably; four or five days does the highlights in a rush. Petra deserves two days if you can spare them."
+    },
+    {
+      "q": "What is the best time to visit Jordan?",
+      "a": "March to May and September to November. Spring and autumn have warm days and cool nights, and both suit the long walks in Petra. Summer is hot in the south, and winter is cold at night in the desert and the highlands, though it is a good time for Aqaba and the Dead Sea."
+    },
+    {
+      "q": "Do I need a visa for Jordan?",
+      "a": "Most nationalities can get a visa on arrival, usually for a fee of around JD 40. If you buy the Jordan Pass in advance and stay at least three nights, the visa fee is waived. Rules change, so check the official government site or Jordan Pass site before you travel."
+    },
+    {
+      "q": "Is the Jordan Pass worth it?",
+      "a": "For most visitors, yes. It combines the visa-fee waiver with entry to Petra (one to three days, depending on the tier) and dozens of other sites, and it usually costs less than paying for the visa and Petra separately. It is not worth it if you are not staying three nights or are not visiting Petra."
+    },
+    {
+      "q": "What should I wear in Jordan?",
+      "a": "Lightweight, loose clothing that covers shoulders and knees, particularly outside Amman and at religious sites. Bring a scarf or light layer for the sun and for mosques, sturdy shoes for Petra, and a warm layer for desert nights. Swimwear is fine at hotel pools and beaches."
+    },
+    {
+      "q": "Can I combine Jordan with Israel and the Palestinian Territories?",
+      "a": "Yes, and many trips do. Land crossings connect Jordan with [[c:israel|Israel]] and the [[c:palestinian-territories|West Bank]], and Aqaba and Eilat sit side by side on the Red Sea. Border crossings can change opening times or close at short notice, and rules for onward travel are strict, so check current conditions with your government and the border authorities."
+    }
+  ]
+}

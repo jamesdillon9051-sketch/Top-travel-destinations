@@ -38,7 +38,12 @@ export function renderAbout({ site }) {
          Wikimedia Commons on the <a href="${url('image-credits')}">image credits page</a>, and
          the code itself is open on
          <a href="${esc(site.repoUrl)}" rel="noopener">GitHub</a> if you're curious how it's put
-         together.`)
+         together.`),
+        raw(`One entry is deliberately different. <a href="${url('syria')}">Syria</a> is written as a
+         heritage overview rather than a trip to plan: it holds some of the most important
+         historic places in the world, but most governments still advise against visiting, so
+         those pages describe the sites and their condition and leave out itineraries and
+         hotel advice.`)
       ])
     })}
 
@@ -54,7 +59,7 @@ export function renderAbout({ site }) {
          places that looked good on paper and weren't, and the ones nobody told me about that
          turned out to be the best three days of the whole trip.`,
         `Everything else on the site stays exactly as it is — the destination guides you'll find
-         across all 26 countries aren't going anywhere, and they'll stay just as thorough. The
+         across all ${site.countryList.length} countries aren't going anywhere, and they'll stay just as thorough. The
          Indonesia trip is new territory for me specifically: writing about a place while I'm
          still standing in it, rather than months later. I'm genuinely curious how it turns out,
          and if you're planning your own Indonesia trip, this is the place the itineraries will

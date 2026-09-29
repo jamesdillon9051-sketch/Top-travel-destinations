@@ -1,0 +1,133 @@
+{
+  "slug": "bosra",
+  "name": "Bosra",
+  "country": "syria",
+  "mode": "overview",
+  "region": "Daraa Governorate, southern Syria",
+  "categories": ["unesco", "archaeological", "historic"],
+  "tagline": "A black-basalt city that was the capital of Rome's province of Arabia, with a 15,000-seat theatre so well preserved because it was turned into a medieval fortress.",
+  "highlight": "The Roman theatre inside the Ayyubid citadel, one of the finest and best-preserved Roman theatres in the world.",
+  "shortDescription": "A Nabataean, Roman, Byzantine and early Islamic city built of dark volcanic stone, with a fortified theatre, one of the oldest mosques in the world and a monastery linked to the prophet Muhammad's youth.",
+  "metaDescription": "A Bosra heritage overview: the Roman theatre and citadel, the Mosque of Omar, the Bahira monastery and the basalt old city, what the war and looting did to them, and what is known of the site today.",
+  "knownFor": "The Roman theatre, the citadel, the Mosque of Omar, black basalt architecture",
+  "coords": { "lat": 32.5187, "lng": 36.4816 },
+  "image": {
+    "file": "File:Bosra theatre cavea 0671.jpg",
+    "alt": "The tiered seating of the Roman theatre at Bosra, photographed in 2009, before the war"
+  },
+  "intro": [
+    "Bosra, or Bosra al-Sham, lies on the edge of the volcanic Hauran plain in southern Syria, close to the Jordanian border. It was a Nabataean town and, after the Romans annexed the Nabataean kingdom in 106 CE, it became the capital of the province of Arabia, at the start of a road that led to the Red Sea. It grew into a wealthy city, and in the 3rd century it was raised to the rank of a Roman colony under the emperor Philip the Arab, who came from nearby Shahba.",
+    "Everything is built from the local black basalt, giving the city a dark and austere look. The Romans built a colonnaded street, baths, a triumphal arch and an enormous theatre, while the Byzantines added churches and the early Muslims a mosque, said to be one of the oldest still standing. In the 12th and 13th centuries, the Ayyubids enclosed the theatre within a fortress, an act that preserved it almost intact.",
+    "Bosra was listed by UNESCO in 1980. It has also been a site of Christian pilgrimage since the tradition that a monk named Bahira recognised the young Muhammad here as a prophet. The old town was inhabited until the war, and was fought over for years. This page describes the history and what is known of the site's condition, and is not a guide to visiting."
+  ],
+  "whyVisit": {
+    "intro": "Bosra matters because it is a rare city where Roman, Christian and Islamic architecture stand side by side, in a single, consistent stone.",
+    "points": [
+      {
+        "title": "The Roman theatre",
+        "text": "A semicircular theatre with seating for around 15,000 people, built in the 2nd century CE and still with its stage building, and one of the best-preserved Roman theatres anywhere."
+      },
+      {
+        "title": "A fortress built around it",
+        "text": "In the 12th and 13th centuries, the Ayyubids wrapped the theatre in towers and walls, producing a fortress that is unlike any other."
+      },
+      {
+        "title": "The Mosque of Omar",
+        "text": "One of the oldest mosques in the world, traditionally founded during the caliphate of Umar in the 7th century, with columns reused from Roman buildings."
+      },
+      {
+        "title": "Christian and Nabataean layers",
+        "text": "A large 6th-century cathedral, the Bahira monastery and a Nabataean arch show the city's mixed history."
+      },
+      {
+        "title": "A pilgrimage and trade centre",
+        "text": "For centuries Bosra was a stopping point on the Hajj route from Damascus to Mecca, and its market and caravanserais reflect this."
+      }
+    ]
+  },
+  "attractionsIntro": "The following are the main monuments as they were documented before the war. It is not a visitor route.",
+  "attractions": [
+    {
+      "name": "The Roman theatre",
+      "text": "A 2nd-century theatre with a semicircular auditorium in three tiers, a decorated stage building and a vaulted corridor, encased in the medieval citadel. It was used for festivals until the war."
+    },
+    {
+      "name": "The Ayyubid citadel",
+      "image": {
+        "file": "File:Bosra, Daraa, Syria, Citadel of Bosra, Walls.jpg",
+        "alt": "The basalt walls of the citadel of Bosra, photographed in 2008"
+      },
+      "text": "A fortress of massive towers, built around the theatre in the 12th and 13th centuries in response to the Crusader threat. It has a moat, arrow slits and vaulted passages."
+    },
+    {
+      "name": "The Mosque of Omar",
+      "text": "A mosque in the centre of the old town, with an arcaded courtyard and a minaret, traditionally dated to the 7th century, with later rebuilding. It is one of the oldest mosques in the world."
+    },
+    {
+      "name": "The Cathedral and the Bahira monastery",
+      "text": "The remains of a large domed cathedral, built in 512 CE, and a monastery where, according to tradition, the monk Bahira recognised the young Muhammad as a future prophet."
+    },
+    {
+      "name": "The Roman city",
+      "text": "A colonnaded main street, a triumphal arch, baths and a nymphaeum, from the Roman capital, and a Nabataean arch, dating from the earlier period."
+    },
+    {
+      "name": "The old town",
+      "text": "Houses, madrasas and khans built of reused basalt blocks, with traditional streets. Until the war, local families lived among the ruins."
+    }
+  ],
+  "status": {
+    "headline": "Damaged and looted",
+    "intro": "Bosra was in the middle of the war in southern Syria, and the site was hit by shelling, looting and the construction of military positions. Information on the present state is limited.",
+    "points": [
+      {
+        "title": "Fighting and damage",
+        "text": "The old town was fought over from 2012 to 2018, with bombardment and street fighting. UNESCO reported damage to the Mosque of Omar and to parts of the citadel and the old town."
+      },
+      {
+        "title": "The theatre",
+        "text": "The theatre was reported to have suffered damage from shelling and from the use of the citadel as a military position, though its basic structure survived."
+      },
+      {
+        "title": "Looting",
+        "text": "Illegal excavations and looting were reported across the site, and military trenches were dug into archaeological areas."
+      },
+      {
+        "title": "After 2018 and 2024",
+        "text": "The Syrian government retook the town in 2018 under a reconciliation deal, and some restoration and repair work has been reported. The region has seen further political and security changes since December 2024."
+      },
+      {
+        "title": "Advice",
+        "text": "Most governments advised against travel to Syria, including the south, at the time of writing. Check your government's current advice. This page is not a recommendation to go."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "Why is Bosra built of black stone?",
+      "a": "Because it stands on the edge of the Hauran, a volcanic plain covered in basalt. The dark stone was the local building material for Nabataean, Roman, Byzantine and Islamic builders."
+    },
+    {
+      "q": "Is Bosra's theatre the best-preserved in the world?",
+      "a": "It is considered one of the best preserved. It survived largely because the Ayyubids fortified it, and because it was embedded in the citadel."
+    },
+    {
+      "q": "What is the Bahira monastery?",
+      "a": "A Christian monastery, traditionally where the monk Bahira met the young Muhammad on a trading journey and recognised him as a prophet. It is an important site for Christian and Muslim tradition."
+    },
+    {
+      "q": "How badly was Bosra damaged in the war?",
+      "a": "The old town and monuments suffered shelling, fighting and looting, but the theatre and citadel remain largely standing. Detailed information on the condition of individual monuments is limited."
+    },
+    {
+      "q": "Is Bosra safe to visit?",
+      "a": "Most governments advised against all travel to Syria, including the south, at the time of writing. This site does not recommend travel. Check your government's current advice."
+    },
+    {
+      "q": "What other Roman theatres are like it?",
+      "a": "Jerash and Amman in Jordan, Aspendos in Turkey and Palmyra's theatre are similar, and many can be visited. See our guides to Jerash and Amman in Jordan."
+    }
+  ],
+  "related": ["damascus", "palmyra", "jerash"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

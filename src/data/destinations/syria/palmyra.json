@@ -1,0 +1,145 @@
+{
+  "slug": "palmyra",
+  "name": "Palmyra",
+  "country": "syria",
+  "mode": "overview",
+  "region": "Homs Governorate, Syrian Desert",
+  "categories": ["unesco", "archaeological", "historic"],
+  "tagline": "A desert oasis city that grew rich on the caravan trade between Rome and Persia, and whose colonnaded streets and temples were among the great sights of the ancient world.",
+  "highlight": "The Great Colonnade, a kilometre-long avenue of columns running through the desert, much of which survives.",
+  "shortDescription": "The ruins of the Roman-era caravan city of Tadmor, with a great colonnaded street, tower tombs and temples — some of which were destroyed by Islamic State in 2015.",
+  "metaDescription": "A Palmyra heritage overview: the Great Colonnade, the Temple of Bel, the Valley of the Tombs and Queen Zenobia, what Islamic State destroyed in 2015 and 2017, and what is known of the site's condition.",
+  "knownFor": "The Great Colonnade, the Temple of Bel, the tower tombs, Queen Zenobia",
+  "coords": { "lat": 34.5505, "lng": 38.2686 },
+  "image": {
+    "file": "File:Palmyra - Decumanus Maximus.jpg",
+    "alt": "The Great Colonnade of Palmyra, photographed in 2010, before the war"
+  },
+  "intro": [
+    "Palmyra, known in ancient Aramaic as Tadmor, was an oasis in the Syrian Desert, about 210 km north-east of Damascus. It became a wealthy trading city from the 1st century BCE, when its merchants organised caravans carrying silk, spices and other goods between the Roman Empire and Persia and India. Its culture blended Greek, Roman, Persian and local Aramaean traditions, in its art, its religion and its language.",
+    "In the 3rd century CE, the city's rulers rebelled against Rome. Queen Zenobia, who ruled after her husband Odenathus, briefly conquered Syria, Egypt and part of Anatolia before the Roman emperor Aurelian defeated her in 272 CE and sacked the city. Palmyra declined, and by the medieval period it was a village inside the walls of the Temple of Bel, a state that lasted until the early 20th century, when the villagers were moved and the site was excavated.",
+    "The ruins, which UNESCO listed in 1980, covered a vast area: a colonnaded main street about a kilometre long, a theatre, an agora, a series of temples, and the Valley of the Tombs, where tower tombs and underground burial chambers contained portrait busts of the wealthy families of the city. The site was captured by Islamic State in 2015, and much of what was most famous was destroyed. This page describes the city's history and what is known of its condition, and is not a guide to visiting."
+  ],
+  "whyVisit": {
+    "intro": "Palmyra matters because it shows a cosmopolitan trading culture on the edge of the Roman world that left almost no equivalent.",
+    "points": [
+      {
+        "title": "A trading city between empires",
+        "text": "Palmyra's wealth came from the caravan trade, and its inscriptions record merchants, tax laws and the routes to Mesopotamia and the Persian Gulf."
+      },
+      {
+        "title": "The Great Colonnade",
+        "text": "A colonnaded street about 1.1 km long, running through the city, with monumental arches and tetrapylons, was among the finest examples of Roman urban planning in the Near East."
+      },
+      {
+        "title": "Funerary art",
+        "text": "The tower tombs and hypogea of the Valley of the Tombs, and the portrait busts of the dead, offer a vivid picture of the city's families and their dress."
+      },
+      {
+        "title": "Zenobia",
+        "text": "The queen who challenged Rome remains a symbol of resistance and female leadership across the Middle East."
+      },
+      {
+        "title": "A symbol of heritage destruction",
+        "text": "The events of 2015 turned Palmyra into a global symbol of the deliberate destruction of cultural heritage, and of the courage of those who tried to protect it, including the archaeologist Khaled al-Asaad, who was murdered."
+      }
+    ]
+  },
+  "attractionsIntro": "The following are the main monuments as they were documented before 2015, with notes on what has happened to each. It is not a tour route.",
+  "attractions": [
+    {
+      "name": "The Temple of Bel",
+      "image": {
+        "file": "File:Temple of Bel, Palmyra 02.jpg",
+        "alt": "The Temple of Bel at Palmyra, photographed in 2010; the temple was destroyed in 2015"
+      },
+      "text": "The largest and best-preserved temple in Palmyra, dedicated in 32 CE to the Mesopotamian god Bel, and surrounded by a huge courtyard. Its cella and colonnade were blown up in August 2015."
+    },
+    {
+      "name": "The Great Colonnade and Decumanus",
+      "text": "The main street of the city, lined with Corinthian columns, running from the Temple of Bel to the Funerary Temple. Many columns still stand, though some were damaged."
+    },
+    {
+      "name": "The Temple of Baalshamin",
+      "image": {
+        "file": "File:Temple of Baal-Shamin, Palmyra.jpg",
+        "alt": "The Temple of Baalshamin at Palmyra, photographed in 2010; it was destroyed in 2015"
+      },
+      "text": "A smaller temple to the Phoenician-Canaanite god of storms, with an elegant portico, built in the 1st and 2nd centuries CE. It was destroyed in August 2015."
+    },
+    {
+      "name": "The Tetrapylon and the Arch of Triumph",
+      "text": "A monumental group of four columns at the crossing of the streets, and a triple arch at the start of the colonnade. The Arch of Triumph was destroyed in October 2015, and the Tetrapylon was damaged in 2017."
+    },
+    {
+      "name": "The Roman theatre",
+      "image": {
+        "file": "File:Roman theatre of Palmyra 02.jpg",
+        "alt": "The Roman theatre of Palmyra, photographed in 2010, before the war"
+      },
+      "text": "A well-preserved 2nd-century theatre with a stage building, which was used by Islamic State for public executions in 2015 and damaged in 2017."
+    },
+    {
+      "name": "The Valley of the Tombs",
+      "text": "A necropolis west of the city with tower tombs, underground tombs and family mausolea. Several tombs, including the Tower of Elahbel, were destroyed or damaged in 2015 and looted."
+    },
+    {
+      "name": "The Palmyra Museum and Qalaat Ibn Maan",
+      "text": "The museum's statues and busts, including the Lion of Al-Lat, were damaged or looted, and some were carried off. The 17th-century Arab castle overlooking the site was used by the fighters and damaged."
+    }
+  ],
+  "status": {
+    "headline": "Partly destroyed, under partial restoration",
+    "intro": "Palmyra was captured by Islamic State twice, in May 2015 and December 2016, and suffered deliberate destruction, looting and occupation. Information on its present state is limited.",
+    "points": [
+      {
+        "title": "The destruction of 2015",
+        "text": "In August 2015 the Temple of Baalshamin and the Temple of Bel were blown up, and in October the Arch of Triumph was destroyed. Khaled al-Asaad, the 82-year-old former head of antiquities, was murdered in August 2015 after refusing to reveal where objects had been hidden."
+      },
+      {
+        "title": "Recapture and second damage",
+        "text": "Syrian government forces supported by Russia retook Palmyra in March 2016. Islamic State recaptured it in December 2016 and damaged the theatre and the Tetrapylon before it was retaken in March 2017."
+      },
+      {
+        "title": "Looting and mass graves",
+        "text": "The Valley of the Tombs and the museum were looted, and Islamic State killed hundreds of people in and around the city. Military positions and trenches were built within the site."
+      },
+      {
+        "title": "Restoration and debate",
+        "text": "Restoration projects, including work by Polish, Russian and Syrian teams, have been announced or begun. Debate continues about whether to rebuild the destroyed monuments, or to leave them as records of the destruction."
+      },
+      {
+        "title": "Security and advice",
+        "text": "Islamic State remnants have remained active in the surrounding desert, and most governments advised against travel to Syria at the time of writing. Check your government's current advice. This page is not a recommendation to go."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "What was destroyed at Palmyra?",
+      "a": "In 2015 Islamic State destroyed the Temple of Baalshamin, the main structures of the Temple of Bel and the Arch of Triumph, along with several tower tombs, and damaged the museum. In 2017 the theatre and the Tetrapylon were damaged. Much of the Great Colonnade and other parts of the site survive."
+    },
+    {
+      "q": "Who was Zenobia?",
+      "a": "The queen of Palmyra in the 3rd century CE, who took power after her husband's death and expanded her empire across Syria, Egypt and Anatolia before being defeated by the Roman emperor Aurelian in 272 CE. She has been an icon of female leadership and resistance ever since."
+    },
+    {
+      "q": "Who was Khaled al-Asaad?",
+      "a": "The Syrian archaeologist who directed Palmyra's antiquities for about 40 years. He was murdered by Islamic State in August 2015 after refusing to reveal where the museum's treasures had been hidden. He is regarded as a martyr of heritage protection."
+    },
+    {
+      "q": "Can Palmyra be rebuilt?",
+      "a": "Some structures could be reassembled using the surviving stones and detailed records, but there is a debate about whether reconstruction is appropriate. Some experts favour restoring the destroyed monuments, and others prefer to leave them as a witness to what happened."
+    },
+    {
+      "q": "Is Palmyra safe to visit?",
+      "a": "Most governments advised against all travel to Syria at the time of writing, and the desert around Palmyra has been a stronghold for Islamic State remnants. This site does not recommend travel. Check your government's current advice."
+    },
+    {
+      "q": "Where can I see objects from Palmyra?",
+      "a": "The Louvre, the National Museum of Denmark, the British Museum and the Metropolitan Museum of Art all hold Palmyrene funerary busts and inscriptions. Digital records of the site have been made by several projects."
+    }
+  ],
+  "related": ["bosra", "damascus", "apamea"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

@@ -1,0 +1,307 @@
+{
+  "slug": "ramallah",
+  "name": "Ramallah",
+  "country": "palestinian-territories",
+  "region": "Ramallah and al-Bireh Governorate, central West Bank",
+  "categories": ["major-city", "cultural", "food-and-wine"],
+  "tagline": "The administrative and cultural capital of the West Bank, a hill city of galleries, cafés and restaurants where the political and the everyday sit side by side.",
+  "highlight": "The Arafat Museum and the Mahmoud Darwish Museum, then a long dinner of Palestinian food in the evening.",
+  "shortDescription": "A modern, lively city 15 km north of Jerusalem with museums, a thriving arts and music scene, a good restaurant and bar scene, and the mausoleum of Yasser Arafat.",
+  "metaDescription": "A Ramallah travel guide: the Arafat Museum and mausoleum, the Mahmoud Darwish Museum, Al-Manara Square, restaurants and nightlife, the old town and art scene, how to get there and a two-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Tel Aviv Ben Gurion (TLV), about 1 hour 15 minutes; Jerusalem is about 15 km away",
+  "knownFor": "Museums, the arts scene, restaurants, Al-Manara Square, Yasser Arafat's mausoleum",
+  "budget": "₪350–700 per day, mid-range",
+  "goodFor": "Culture, food, politics, nightlife, a base for the north",
+  "coords": { "lat": 31.9038, "lng": 35.2034 },
+  "image": {
+    "file": "File:Al-Manara Square, Ramallah 01.jpg",
+    "alt": "Al-Manara Square in the centre of Ramallah with its stone lions and busy traffic"
+  },
+  "intro": [
+    "Ramallah is about 15 km north of Jerusalem, on a ridge at 850 metres above sea level, and it is the de facto administrative centre of the Palestinian Authority. It was a small Christian village until the 20th century, and grew rapidly after 1948 as refugees arrived and after the Oslo Accords as the PA's offices and foreign missions settled here. Together with its twin city of al-Bireh it now has about 70,000 people.",
+    "It is not an old or a beautiful city, but it is a lively one. The centre has traffic, cafés and shops, and around it are museums, art galleries, a busy music and theatre scene, universities, NGOs and a bar and restaurant scene that is unusual in the West Bank. It is the most cosmopolitan Palestinian city and the easiest to visit, with a reputation, sometimes called 'the Ramallah bubble', as more liberal and comfortable than other towns.",
+    "For visitors, Ramallah works as a base for the central and northern West Bank, and as a place to meet people and learn about the politics and culture in a relaxed setting. It has also been affected by the wider conflict, with periods of tension and Israeli raids, and its access to Jerusalem is governed by the Qalandiya checkpoint. Check the situation before you go."
+  ],
+  "whyVisit": {
+    "intro": "Ramallah is a good place to see Palestinian life beyond the headlines.",
+    "points": [
+      {
+        "title": "Excellent museums",
+        "text": "The Palestinian Museum in Birzeit, the Mahmoud Darwish Museum and the Yasser Arafat Museum tell the story of Palestinian culture and politics."
+      },
+      {
+        "title": "A lively arts scene",
+        "text": "Galleries, theatres, film festivals and concert venues make Ramallah the centre of Palestinian contemporary culture."
+      },
+      {
+        "title": "Food and nightlife",
+        "text": "The city has some of the best restaurants, cafés and bars in the West Bank, from traditional Palestinian to international."
+      },
+      {
+        "title": "Easy to reach",
+        "text": "It is only 15 km from Jerusalem, with frequent buses and service taxis, and a good base for Nablus, Taybeh and Jericho."
+      },
+      {
+        "title": "Conversation",
+        "text": "Students, artists, journalists and activists are open to talking about their lives, and it is one of the best places to hear a range of Palestinian views."
+      }
+    ]
+  },
+  "attractionsIntro": "Ramallah's sights are spread across the city, and a taxi is the easiest way to move between them.",
+  "attractions": [
+    {
+      "name": "Yasser Arafat Museum and Mausoleum",
+      "image": {
+        "file": "File:Mausoleum of Yasser Arafat 001.jpeg",
+        "alt": "The stone mausoleum of Yasser Arafat in Ramallah with its guards"
+      },
+      "text": "The museum tells the story of the Palestinian national movement through the life of its most famous leader, in a modern building next to his tomb. Guards stand watch at the mausoleum.",
+      "tip": "The museum is a good introduction to Palestinian history, told from a Palestinian perspective."
+    },
+    {
+      "name": "The Mahmoud Darwish Museum",
+      "text": "A museum dedicated to the poet Mahmoud Darwish, who is widely regarded as the national poet of Palestine, with his manuscripts, personal belongings and a garden where he is buried.",
+      "tip": "Read a few of his poems before you go."
+    },
+    {
+      "name": "Al-Manara Square",
+      "text": "The busy central roundabout, with its stone lions and a clock tower, is the heart of the city. Streets around it are lined with cafés, shops and food stalls.",
+      "tip": "Go in the evening, when it is at its liveliest."
+    },
+    {
+      "name": "The Old Town and Rukab Street",
+      "text": "A small area of old stone houses and a market with pastry shops, including the famous Rukab ice cream, made with mastic and salep.",
+      "tip": "Try the ice cream and a coffee in the old town."
+    },
+    {
+      "name": "Khalil Sakakini Cultural Centre",
+      "text": "A restored Ottoman-era house that hosts exhibitions, concerts and events, and a place to meet the city's artists and writers.",
+      "tip": "Check the programme before you go."
+    },
+    {
+      "name": "The Palestinian Museum (Birzeit)",
+      "text": "A striking modern museum in the village of Birzeit, 10 km north of Ramallah, with exhibitions on Palestinian culture and history, and a hillside garden.",
+      "tip": "Check current exhibitions and opening hours."
+    },
+    {
+      "name": "Birzeit and the Ottoman villages",
+      "text": "The university town of Birzeit and villages such as Jifna and Taybeh have old stone houses, restaurants and a country feel.",
+      "tip": "Go with a driver to combine several in a day."
+    }
+  ],
+  "thingsToDoIntro": "Ramallah is a place to spend time in, rather than to tick off, and its pleasures are cultural and social.",
+  "thingsToDo": [
+    {
+      "title": "Visit the Arafat and Darwish museums",
+      "text": "Two museums that together give you a view of the Palestinian story, political and poetic.",
+      "tip": "Allow half a day."
+    },
+    {
+      "title": "Eat a proper Palestinian dinner",
+      "text": "Try modern Palestinian restaurants that revive old dishes, and traditional places that serve musakhan and maqluba.",
+      "tip": "Ask your host or hotel for a recommendation."
+    },
+    {
+      "title": "Go out in the evening",
+      "text": "Ramallah has bars, cafés and live music venues, with a relaxed, cosmopolitan crowd of students, artists and professionals.",
+      "tip": "Ask locals about events and dress code."
+    },
+    {
+      "title": "Visit galleries and cultural centres",
+      "text": "The Sakakini Centre, Qattan Foundation and Zawyeh Gallery show contemporary Palestinian art.",
+      "tip": "Check the programmes online."
+    },
+    {
+      "title": "Take a walking tour",
+      "text": "Local guides run tours of the city, the refugee camps and the wall, discussing politics and history.",
+      "tip": "Book through your hotel."
+    },
+    {
+      "title": "Use it as a base",
+      "text": "Nablus, Sebastia, Taybeh, Jericho and Birzeit are all within an hour or two.",
+      "tip": "Hire a driver, and check the conditions."
+    }
+  ],
+  "foodIntro": "Ramallah is the best place in the West Bank to eat, with a mix of traditional and modern Palestinian cooking, and a good café culture.",
+  "foods": [
+    {
+      "name": "Musakhan and maqluba",
+      "text": "The classic Palestinian dishes, served at both traditional restaurants and modern ones.",
+      "whereToTry": "Restaurants around Al-Manara and in the old town."
+    },
+    {
+      "name": "Rukab ice cream",
+      "text": "A stretchy, chewy ice cream made with mastic and salep, sold from a shop in the old town.",
+      "whereToTry": "The old-town Rukab shop."
+    },
+    {
+      "name": "Falafel and hummus",
+      "text": "Hot falafel and creamy hummus, served everywhere.",
+      "whereToTry": "Stalls and small restaurants."
+    },
+    {
+      "name": "Knafeh",
+      "text": "The hot cheese pastry, sold from trays in the centre.",
+      "whereToTry": "Sweet shops near Al-Manara."
+    },
+    {
+      "name": "Taybeh beer",
+      "text": "A local craft beer from a village 12 km away, served in bars and restaurants.",
+      "whereToTry": "Bars and restaurants in the centre."
+    },
+    {
+      "name": "Coffee and tea",
+      "text": "Ramallah's café culture ranges from traditional Arabic coffee to specialty roasters.",
+      "whereToTry": "Cafés across the city."
+    }
+  ],
+  "accommodation": {
+    "intro": "Ramallah has the widest choice of hotels and guesthouses in the West Bank, from budget to upscale. Most are in the centre or the nearby neighbourhoods.",
+    "areas": [
+      {
+        "name": "The centre near Al-Manara",
+        "bestFor": "Restaurants and nightlife",
+        "text": "Hotels and apartments within walking distance of the main square and the cafés."
+      },
+      {
+        "name": "Al-Masyoun and the northern neighbourhoods",
+        "bestFor": "Quiet and residential streets",
+        "text": "Modern hotels and guesthouses in quieter areas, a short taxi ride from the centre."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "₪150–300 per night" },
+      { "label": "Mid-range hotel", "value": "₪350–600 per night" },
+      { "label": "Upscale hotel", "value": "₪600–1,000 per night" },
+      { "label": "Dinner at a good restaurant", "value": "₪80–160 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Ramallah is 15 km north of Jerusalem, and reached through the Qalandiya checkpoint.",
+    "options": [
+      {
+        "mode": "Bus 218 or service taxi from Jerusalem",
+        "text": "Palestinian buses and shared vans run from near Damascus Gate to the Qalandiya checkpoint, from which you take a bus or taxi to the centre. The trip takes 30–60 minutes, depending on the queues.",
+        "detail": "Carry your passport, and expect delays at rush hour."
+      },
+      {
+        "mode": "Private driver or taxi",
+        "text": "A Palestinian taxi can take you across the checkpoint and to your hotel.",
+        "detail": "Agree the price in advance."
+      },
+      {
+        "mode": "From other West Bank cities",
+        "text": "Service taxis link Ramallah with Nablus, Bethlehem, Jericho and Hebron.",
+        "detail": "Ask locals where to catch them."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Taxis are the easiest way to get around Ramallah. The city is hilly and spread out.",
+    "options": [
+      {
+        "mode": "Taxi",
+        "text": "Cheap and plentiful, with fixed fares for common routes. Use a local app or ask your hotel to call.",
+        "detail": "Agree the fare or check that the meter is on."
+      },
+      {
+        "mode": "Walking",
+        "text": "The centre and the old town are walkable, though the hills and traffic can be tiring.",
+        "detail": "Take care crossing the road."
+      },
+      {
+        "mode": "Service taxi",
+        "text": "Shared vans go to other West Bank cities and Birzeit.",
+        "detail": "Ask locals."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Ramallah's altitude gives it a milder climate than the coast or the Jordan Valley. It is pleasant for much of the year.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm, green and clear, with a lively cultural calendar."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Warm and dry, with cool evenings. Festivals and outdoor events."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm and clear, with the olive harvest in the surrounding villages."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool, wet and sometimes snowy. Museums and cafés are cosy."
+      }
+    ],
+    "avoid": "Days of unrest or clashes, when the checkpoint may close, and Ramadan afternoons if you want a restaurant lunch."
+  },
+  "itinerary": {
+    "title": "Two days in Ramallah",
+    "intro": "Museums and the old town on the first day, Birzeit and a long dinner on the second. Assumes a base in the centre.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Museums and the city",
+        "summary": "History, poetry and the old town.",
+        "morning": "The Arafat Museum and the Mahmoud Darwish Museum.",
+        "afternoon": "Lunch, then the old town and Rukab ice cream.",
+        "evening": "Al-Manara Square and dinner."
+      },
+      {
+        "day": 2,
+        "title": "Birzeit and a long dinner",
+        "summary": "A slower day outside the city.",
+        "morning": "The Palestinian Museum and gardens in Birzeit.",
+        "afternoon": "A village lunch, and a visit to a gallery.",
+        "evening": "Live music or a bar."
+      }
+    ]
+  },
+  "tipsIntro": "Ramallah is easy and relaxed, and a few tips help.",
+  "tips": [
+    "Check conditions before you go. Ramallah is generally calm, but access through Qalandiya and the wider situation can change.",
+    "Take your passport. You will need it at the checkpoint and may be asked for it elsewhere.",
+    "Do not assume the whole West Bank is like Ramallah. It is more liberal and cosmopolitan than most Palestinian towns.",
+    "Dress smartly but modestly, particularly if you visit museums and offices.",
+    "Talk to people. It is one of the best places to hear Palestinian views and to ask questions.",
+    "Take cash in shekels for taxis and small purchases.",
+    "Plan for Fridays, when many shops open late and the city is quieter."
+  ],
+  "faq": [
+    {
+      "q": "Is Ramallah safe to visit?",
+      "a": "Ramallah is generally regarded as one of the safer and easier places in the West Bank, and it is popular with foreign visitors and journalists. Conditions can change quickly, and there have been periods of tension. Check your government's advice."
+    },
+    {
+      "q": "Why is Ramallah important?",
+      "a": "It is the administrative centre of the Palestinian Authority and the cultural and economic hub of the West Bank. It also holds the tomb of Yasser Arafat."
+    },
+    {
+      "q": "How do I get to Ramallah from Jerusalem?",
+      "a": "By bus 218 or a service taxi from near Damascus Gate to the Qalandiya checkpoint, then a bus or taxi into the centre. It takes 30–60 minutes."
+    },
+    {
+      "q": "How long do you need in Ramallah?",
+      "a": "One day covers the museums and old town, and two lets you add Birzeit and an evening out."
+    },
+    {
+      "q": "What is Ramallah like compared with other cities?",
+      "a": "More cosmopolitan, more liberal and much more lively at night than most Palestinian cities, though it is smaller and more modern than Jerusalem. It is sometimes called a bubble."
+    },
+    {
+      "q": "Is it appropriate to drink alcohol in Ramallah?",
+      "a": "Some restaurants and bars serve alcohol, particularly in Christian areas and Ramallah's centre. Elsewhere in the West Bank it is less common, so ask before you order."
+    }
+  ],
+  "related": ["taybeh", "nablus", "sebastia"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

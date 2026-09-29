@@ -1,0 +1,386 @@
+{
+  "slug": "israel",
+  "name": "Israel",
+  "continent": "Western Asia (Middle East)",
+  "countryCode": "IL",
+  "tagline": "The Old City of Jerusalem, a Crusader port, a desert fortress and a Mediterranean beach city, all within a morning's drive of each other.",
+  "cardDescription": "A small country that holds sites sacred to Judaism, Christianity, Islam and the Baháʼí Faith, plus Roman and Crusader ruins, desert craters and a lively Mediterranean coast.",
+  "metaDescription": "An Israel travel guide: Jerusalem and the holy sites, the Sea of Galilee, Nazareth, Masada, Acre and Tel Aviv, plus food, seasons, transport, Shabbat, safety context and a ten-day itinerary.",
+  "image": {
+    "file": "File:Old City Walls and Tower of David in Jerusalem (2019) 03.jpg",
+    "alt": "The stone walls of Jerusalem's Old City and the Tower of David"
+  },
+  "destinations": [
+    "jerusalem",
+    "tel-aviv-jaffa",
+    "sea-of-galilee",
+    "nazareth",
+    "masada-dead-sea",
+    "haifa-bahai-gardens",
+    "acre-old-city",
+    "safed-tzfat",
+    "megiddo-beit-shean",
+    "negev-mitzpe-ramon"
+  ],
+  "intro": [
+    "Israel is a small country — roughly the size of Wales — with an unusual density of places that matter to more than a billion people. Jerusalem holds the Western Wall, the Church of the Holy Sepulchre and the Dome of the Rock within a few hundred metres of each other. Nazareth and the Sea of Galilee are central to the story of Jesus. Safed is a centre of Jewish mysticism, and Haifa is home to the world centre of the Baháʼí Faith, a UNESCO World Heritage Site.",
+    "The history runs well beyond the religious. Megiddo, the biblical Armageddon, has twenty-six layers of ancient cities. Beit She'an is one of the great Roman-Byzantine cities of the Levant. Acre's Crusader halls lie buried under an Ottoman port, and Masada, the hilltop palace-fortress of Herod, sits above the Dead Sea. Tel Aviv, by contrast, is a young, secular Mediterranean city with a huge stock of Bauhaus buildings and a beach culture.",
+    "This guide covers Israel within its internationally recognised borders, together with East Jerusalem's Old City, which is where most of the holy sites are and whose status is disputed. The West Bank is covered in our separate [[c:palestinian-territories|Palestinian Territories guide]]. The security situation has been volatile since 2023 and travel advice changes quickly, so read your government's current guidance before you book and again before you travel."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit, with a bias towards the historical and religious sites. Jerusalem is the centre of gravity for almost any trip; the others fan out from it and from Tel Aviv, and nothing is more than about three hours from either.",
+  "thingsToDoIntro": "The experiences that recur across the country and that make an Israeli trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Walk through the Old City of Jerusalem",
+      "image": {
+        "file": "File:Western Wall at night (20063).jpg",
+        "alt": "Worshippers at the Western Wall in Jerusalem's Old City at night"
+      },
+      "text": "The Old City is a square kilometre of stone alleys, markets and sacred places, divided into Jewish, Christian, Muslim and Armenian quarters. The Western Wall, the Church of the Holy Sepulchre and the Haram al-Sharif (the Temple Mount) are the three anchors. See [[jerusalem]].",
+      "tip": "Start early and give it a full day. Dress modestly, and check opening hours for Fridays and holidays."
+    },
+    {
+      "title": "Take a Shabbat break",
+      "text": "From Friday afternoon to Saturday evening, Jewish Israel slows down: public transport stops, shops close and families gather. In Jerusalem it is quiet; in Tel Aviv and Arab towns much stays open. It is worth experiencing once.",
+      "tip": "Plan travel and meals for Shabbat in advance. Many hotels serve a Friday-night dinner that is open to guests."
+    },
+    {
+      "title": "Climb Masada at sunrise",
+      "image": {
+        "file": "File:Masada snake path 03.jpg",
+        "alt": "The Snake Path winding up the cliff to Masada"
+      },
+      "text": "The Snake Path climb takes about 45 minutes in the dark and ends with the sun rising over the Dead Sea and the mountains of Jordan. The fortress ruins are best visited before the heat. See [[masada-dead-sea|Masada and the Dead Sea]].",
+      "tip": "Bring a head torch and water, and check the opening time of the path the day before."
+    },
+    {
+      "title": "Eat at the markets",
+      "image": {
+        "file": "File:Carmel Market, 2019 (07).jpg",
+        "alt": "Stalls of fruit and vegetables at the Carmel Market in Tel Aviv"
+      },
+      "text": "Mahane Yehuda in Jerusalem and the Carmel Market in Tel Aviv are loud, colourful places to eat, from hummus and shakshuka to halva and fresh pastries. See [[tel-aviv-jaffa|Tel Aviv-Jaffa]].",
+      "tip": "Go on a weekday morning, and eat lunch standing up."
+    },
+    {
+      "title": "Visit a Crusader city",
+      "text": "Under the Ottoman lanes of [[acre-old-city|Acre]] lie the underground halls of the Knights Hospitaller, a vast medieval complex that looks like a film set and is one of the best-preserved Crusader sites in the world.",
+      "tip": "Combine it with a walk along the sea wall and lunch at the harbour."
+    },
+    {
+      "title": "Walk in the footsteps of the Gospels",
+      "text": "[[nazareth|Nazareth]] and the [[sea-of-galilee|Sea of Galilee]] hold the traditional sites of the Annunciation, the Sermon on the Mount and the miracles of Jesus, together with Capernaum and Tabgha. They are easy to combine into a two-day trip.",
+      "tip": "Many are working churches. Dress modestly, and expect crowds around Christian holidays."
+    }
+  ],
+  "foodIntro": "Israeli cooking is a blend of Middle Eastern, Mediterranean and the many Jewish diaspora traditions, from Iraq and Morocco to Poland and Yemen. Fresh vegetables, herbs, tahini, olive oil and grilled meats appear everywhere, and a kosher or halal menu is not unusual.",
+  "foods": [
+    {
+      "name": "Hummus and mezze",
+      "text": "Warm, creamy hummus served in a bowl with olive oil, chickpeas and pita, often at a specialist hummusia. It is the classic lunch, and locals debate which is best.",
+      "whereToTry": "Hummusiyot in [[acre-old-city|Acre]], [[tel-aviv-jaffa|Jaffa]] and Jerusalem's Old City."
+    },
+    {
+      "name": "Shakshuka",
+      "image": {
+        "file": "File:Shakshuka by Calliopejen1.jpg",
+        "alt": "Eggs poached in a spiced tomato and pepper sauce in a pan"
+      },
+      "text": "Eggs poached in a spicy tomato and pepper sauce, served in the pan with bread. It is North African in origin and is now a staple breakfast across the country.",
+      "whereToTry": "Cafés in [[tel-aviv-jaffa|Tel Aviv]] and Jaffa, and any breakfast place."
+    },
+    {
+      "name": "Falafel and sabich",
+      "image": {
+        "file": "File:Sabich.jpg",
+        "alt": "A sabich sandwich of pita filled with eggplant, egg and salad"
+      },
+      "text": "Falafel in pita with salad and tahini is the national street food. Sabich, an Iraqi-Jewish sandwich of fried aubergine, hard-boiled egg, tahini and amba (pickled mango sauce), is a Tel Aviv favourite.",
+      "whereToTry": "Falafel stalls in every city; sabich in Ramat Gan and central Tel Aviv."
+    },
+    {
+      "name": "Israeli breakfast",
+      "text": "A generous spread of salads, cheeses, eggs, breads, olives and dips, often included at hotels and served at cafés all day. It is one of the best hotel breakfasts anywhere.",
+      "whereToTry": "Hotel buffets and cafés across the country."
+    },
+    {
+      "name": "Knafeh and Arab sweets",
+      "image": {
+        "file": "File:Knafeh From Yaffa Knafeh.jpg",
+        "alt": "A tray of hot knafeh, a cheese pastry with syrup and pistachios"
+      },
+      "text": "Hot, sweet cheese pastry soaked in syrup, sold from big trays in the Arab towns and in the old cities. Halva and baklava are also common.",
+      "whereToTry": "Old Jaffa, [[nazareth|Nazareth]], [[acre-old-city|Acre]] and Jerusalem's Old City."
+    },
+    {
+      "name": "Wine and craft beer",
+      "text": "Israel has a serious wine industry, in the Galilee, the Golan, the Judean Hills and the Negev, alongside a growing craft beer scene. Many wineries welcome visitors for tastings.",
+      "whereToTry": "Wineries in the Galilee and Judean Hills, and bars in Tel Aviv."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Israel is straightforward to travel in, but entry rules and the security situation have both changed in recent years, so check official sources before you go.",
+  "practical": {
+    "capital": "Jerusalem, as proclaimed by Israel. The status of the city is disputed, and the international community has not universally recognised it as Israel's capital; many embassies are in Tel Aviv.",
+    "language": "Hebrew and Arabic. English is very widely spoken, particularly in Tel Aviv, Jerusalem and tourist areas, and most signs are in Hebrew, Arabic and English.",
+    "currency": "New Israeli shekel (₪, ILS). Around ₪3.5–4 to the US dollar in recent years, though it moves.",
+    "money": "Cards and contactless payments are accepted almost everywhere, including markets and taxis. Carry a little cash for small stalls and tips. ATMs are common.",
+    "visa": "Many nationalities can enter without a visa for up to 90 days, but visa-exempt visitors are now required to obtain an electronic travel authorisation (ETA-IL) online before travel. Check the official government sites for the current rules and fees, and for any restrictions on entry.",
+    "plugs": "Type C and H, 230 V, 50 Hz. A universal adapter is the safe option.",
+    "emergency": "100 for police, 101 for ambulance (Magen David Adom), 102 for fire. Download the Home Front Command app for alerts.",
+    "tipping": "10–15% in restaurants if service is not included, and rounding up for taxis. Tips for hotel staff and guides are appreciated.",
+    "safety": "Israel has a strong security presence, and normal urban crime is low. However, since 2023 the region has experienced sustained conflict, with rocket and drone alerts at times across the country, and many governments advise against travel to areas near the Gaza Strip, the northern border and parts of the West Bank. Follow your government's current advice, learn the location of the nearest shelter, and follow instructions on the Home Front Command app.",
+    "connectivity": "Excellent 4G and 5G. Free Wi-Fi is common in cities and cafés. Local SIM cards and eSIMs are easy to get.",
+    "timeZone": "UTC+2 in winter and UTC+3 during daylight saving time, which runs from late March to late October.",
+    "budget": [
+      { "label": "Backpacker", "value": "₪300–450 per day — hostel dorm, falafel and hummus, buses" },
+      { "label": "Mid-range", "value": "₪700–1,100 per day — three- or four-star hotels, restaurant meals, some car hire" },
+      { "label": "Comfortable", "value": "₪1,300–2,200 per day — good hotels, guides, taxis" },
+      { "label": "A note on prices", "value": "Israel is expensive by regional standards, especially in Tel Aviv and Jerusalem" }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Israel has a Mediterranean climate on the coast, cooler hills at Jerusalem and Galilee, and a hot desert in the south. Spring and autumn are the most comfortable, summer is hot, and winters are mild and wet on the coast and cold in the hills.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm, clear days and green hillsides after the winter rain, with wildflowers in the Galilee. Easter and Passover bring crowds and higher prices to Jerusalem and Nazareth."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Hot and humid on the coast, and extremely hot in the Dead Sea and the desert. The beach is at its best, and the hills are more bearable, but sightseeing needs to happen early and late."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "The sea is warm, the heat eases and the crowds thin. The Jewish High Holidays in September and October affect opening hours and transport."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool and wet in Jerusalem and the north, sometimes with snow in Jerusalem and on Mount Hermon. The south, Eilat and the Dead Sea are pleasant, and prices and crowds drop."
+      }
+    ],
+    "avoid": "The Jewish holidays of Passover, Rosh Hashanah, Yom Kippur and Sukkot, when transport stops, prices peak and many places close. Yom Kippur is especially strict: almost everything, including public transport and many roads, stops for a full day."
+  },
+  "tripDuration": {
+    "headline": "8–12 days for a first trip",
+    "summary": "Israel is compact, and distances between the main sites are short, but Jerusalem alone can fill four or five days. A well-planned week covers the essentials, and ten days gives room for the north.",
+    "options": [
+      {
+        "length": "4–5 days",
+        "text": "Jerusalem, with a day trip to Masada and the Dead Sea, and a night or two in Tel Aviv.",
+        "detail": "A tight but rewarding introduction that reaches the centre of the country."
+      },
+      {
+        "length": "7–8 days",
+        "text": "Adds Nazareth, the Sea of Galilee and the north, with Haifa and Acre on the coast.",
+        "detail": "A good balance of history, religion and coast."
+      },
+      {
+        "length": "10 days",
+        "text": "Jerusalem, Tel Aviv, Masada, the north and the coast at an unhurried pace.",
+        "detail": "The itinerary on this page, and our recommendation for most first-time visitors."
+      },
+      {
+        "length": "2 weeks or more",
+        "text": "Adds the Negev and Mitzpe Ramon, Safed, Megiddo and Beit She'an, and a visit to the West Bank.",
+        "detail": "For anyone who wants to understand the country's range and its complexity."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Israel has an efficient network of trains and buses and good roads, but almost everything stops on Shabbat, so plan for it.",
+    "options": [
+      {
+        "mode": "Trains",
+        "text": "Israel Railways runs modern services along the coast from Nahariya and Acre through Haifa and Tel Aviv, and a fast line from Tel Aviv and Ben Gurion airport to Jerusalem's Yitzhak Navon station.",
+        "detail": "Trains stop on Shabbat, from Friday afternoon until Saturday evening. Buy tickets in the Rail app or use a Rav-Kav card."
+      },
+      {
+        "mode": "Buses",
+        "text": "Egged and other operators run frequent intercity buses across the country, and they are cheap and reach places trains do not. Jerusalem has a light rail and a dense city bus network.",
+        "detail": "Buses stop on Shabbat, apart from a few routes in Arab towns. Use the Moovit app for timetables."
+      },
+      {
+        "mode": "Hire car",
+        "text": "The best way to see the Galilee, the Dead Sea and the Negev. Roads are good and signage is in English.",
+        "detail": "Israeli driving is fast. Check that your rental agreement allows travel where you plan to go, particularly in the West Bank."
+      },
+      {
+        "mode": "Taxis and ride-hailing",
+        "text": "Gett and other apps work in Tel Aviv and Jerusalem, and taxis are readily available. Sherut (shared taxis) run on some routes and on Shabbat.",
+        "detail": "Insist on the meter or use an app."
+      },
+      {
+        "mode": "Domestic flights",
+        "text": "Flights connect Tel Aviv, Haifa and Eilat, and Ramon airport near Eilat is an alternative gateway for the south.",
+        "detail": "Book early for busy periods."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Ten days in Israel",
+    "intro": "Tel Aviv and Jaffa, Jerusalem, the Dead Sea and Masada, then the north: Nazareth, the Sea of Galilee, Safed, Haifa and Acre. Uses trains and a hire car. Covers eight of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Tel Aviv",
+        "morning": "Land at Ben Gurion and check into a hotel by the beach.",
+        "afternoon": "A walk along the promenade and through the White City's Bauhaus streets.",
+        "evening": "Dinner at the Carmel Market's restaurants and a drink at the beach."
+      },
+      {
+        "day": 2,
+        "title": "Jaffa and Tel Aviv",
+        "morning": "The old port and lanes of Jaffa, then the flea market.",
+        "afternoon": "The Museum of the Jewish People or a beach afternoon.",
+        "evening": "Shakshuka or a seafood dinner on the waterfront."
+      },
+      {
+        "day": 3,
+        "title": "Jerusalem: the Old City",
+        "morning": "Train to Jerusalem, then the Western Wall, the Jewish Quarter and the Church of the Holy Sepulchre.",
+        "afternoon": "The Via Dolorosa and the Muslim Quarter's souk.",
+        "evening": "Sunset from the ramparts, then dinner in the new city."
+      },
+      {
+        "day": 4,
+        "title": "Jerusalem: the Mount of Olives and beyond",
+        "morning": "The Mount of Olives and the Garden of Gethsemane, then the City of David.",
+        "afternoon": "The Israel Museum and the Shrine of the Book.",
+        "evening": "Mahane Yehuda market at dusk."
+      },
+      {
+        "day": 5,
+        "title": "Masada and the Dead Sea",
+        "morning": "Drive to Masada for sunrise, climbing the Snake Path.",
+        "afternoon": "A float in the Dead Sea and a walk in Ein Gedi.",
+        "evening": "Return to Jerusalem or continue north."
+      },
+      {
+        "day": 6,
+        "title": "Haifa and the Baháʼí Gardens",
+        "morning": "Drive or take the train to Haifa.",
+        "afternoon": "The Baháʼí Gardens' terraces and the German Colony.",
+        "evening": "Dinner in the Wadi Nisnas neighbourhood."
+      },
+      {
+        "day": 7,
+        "title": "Acre",
+        "morning": "The Knights' Halls and the Old City walls.",
+        "afternoon": "The market, the harbour and a hummus lunch.",
+        "evening": "Drive to Nazareth or Tiberias."
+      },
+      {
+        "day": 8,
+        "title": "Nazareth",
+        "morning": "The Basilica of the Annunciation and the old souk.",
+        "afternoon": "Lunch at a local restaurant and a walk in the old town.",
+        "evening": "Drive to the Sea of Galilee."
+      },
+      {
+        "day": 9,
+        "title": "The Sea of Galilee",
+        "morning": "Capernaum, Tabgha and the Mount of Beatitudes.",
+        "afternoon": "A swim or a boat trip on the lake, then Safed's old quarter for sunset.",
+        "evening": "Dinner in Tiberias or Safed."
+      },
+      {
+        "day": 10,
+        "title": "Return and depart",
+        "morning": "Drive back to Tel Aviv, stopping at Caesarea if you have time.",
+        "afternoon": "Last souvenirs at the Carmel Market.",
+        "evening": "Fly home from Ben Gurion."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Israel is a diverse country with Jewish, Muslim, Christian and Druze communities, secular and religious, and many immigrant traditions. The atmosphere changes from Tel Aviv's beaches to Jerusalem's religious neighbourhoods, and it helps to adjust your dress and expectations as you go.",
+    "etiquette": [
+      {
+        "title": "Dress modestly at religious sites",
+        "text": "Cover shoulders and knees at all holy places, and carry a scarf. Women may need to cover their hair at some sites, and men to cover their heads at the Western Wall (paper kippot are provided)."
+      },
+      {
+        "title": "Respect Shabbat",
+        "text": "From Friday sunset to Saturday night, observant Jews do not use electricity, drive or handle money. Do not drive or smoke in religious neighbourhoods, and be discreet."
+      },
+      {
+        "title": "Ask before photographing people",
+        "text": "Many religious Jews, Muslims and Christians do not want to be photographed. Ask first, and avoid photographing military personnel, checkpoints and security sites."
+      },
+      {
+        "title": "Be careful with politics",
+        "text": "Israelis and Palestinians talk freely about politics, but the conflict is a painful subject for many. Listen more than you speak, and avoid making assumptions about anyone's views."
+      },
+      {
+        "title": "Kosher and halal rules",
+        "text": "Many restaurants are kosher, and do not serve meat and dairy together or open on Shabbat. In Arab towns, alcohol may be less available and restaurants operate on different days."
+      },
+      {
+        "title": "Security checks are routine",
+        "text": "Expect bag checks at entrances to malls, stations and many public buildings, and detailed questions at the airport. Answer calmly and honestly."
+      }
+    ],
+    "dos": [
+      "Dress modestly at holy sites and carry a scarf",
+      "Plan around Shabbat and holidays",
+      "Carry your passport or a copy",
+      "Ask before taking photographs of people",
+      "Listen to local views on politics with an open mind",
+      "Learn a few words of Hebrew and Arabic: shalom and marhaba (hello), toda and shukran (thank you)"
+    ],
+    "donts": [
+      "Don't drive, smoke or play music loudly in religious neighbourhoods on Shabbat",
+      "Don't enter holy sites in revealing clothing",
+      "Don't photograph military installations, soldiers or checkpoints",
+      "Don't leave bags unattended",
+      "Don't assume everyone shares a political view",
+      "Don't pray or display religious symbols on the Temple Mount / Haram al-Sharif; non-Muslims are not allowed to pray there"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Israel, several of which are specific to how the country works.",
+  "tips": [
+    "Plan around Shabbat. From Friday afternoon to Saturday evening, public transport stops and many businesses close, so book taxis, meals and activities in advance. Tel Aviv and Arab towns are more relaxed.",
+    "Check holiday dates. Passover, Rosh Hashanah, Yom Kippur and Sukkot close places and raise prices. Yom Kippur shuts almost everything for a day.",
+    "Read your government's advice and register your trip if it offers that service. The security situation can change quickly, and it is your best guide.",
+    "Know the location of the nearest shelter. If sirens sound, follow the instructions of hotel staff and the Home Front Command app.",
+    "Carry your passport or a copy. You may need it at checkpoints, hotels and for security checks.",
+    "Book the Western Wall tunnels, Masada cable car and popular tours in advance in busy periods.",
+    "Ask the airline and the border staff about stamps and entry records if you plan to visit countries that refuse entry to visitors with evidence of a visit to Israel. Israel does not stamp passports at the border, but other records can exist.",
+    "Drink a lot of water. The heat can be intense, especially at Masada, the Dead Sea and in the south."
+  ],
+  "faq": [
+    {
+      "q": "Is Israel safe to visit?",
+      "a": "Day-to-day crime is low and the tourist areas are heavily protected, but since 2023 the wider region has been in sustained conflict, with rocket alerts at times across the country. Many governments advise against travel to areas near the Gaza Strip, the northern border and parts of the West Bank. Read current advice before you book and again before you travel."
+    },
+    {
+      "q": "How many days do you need in Israel?",
+      "a": "Eight to ten days for a first trip. Jerusalem alone can fill four days, and a week lets you add Tel Aviv, Masada and the Dead Sea. A day or two in the north gives you the Galilee, Nazareth and Acre."
+    },
+    {
+      "q": "What is the best time to visit Israel?",
+      "a": "March to May and September to November. Spring has green landscapes and comfortable temperatures, and autumn has warm seas and thinner crowds. Summer is hot, and winter can be cold in Jerusalem and the north."
+    },
+    {
+      "q": "Do I need a visa for Israel?",
+      "a": "Many nationalities can enter without a visa for up to 90 days, but visa-exempt visitors must apply for an electronic travel authorisation (ETA-IL) before they travel. Rules and fees change, so check the official government site."
+    },
+    {
+      "q": "What should I wear in Israel?",
+      "a": "Lightweight clothing that covers shoulders and knees for holy sites, and a scarf for women. In Tel Aviv, casual summer clothes and swimwear are fine. Wear comfortable shoes for the cobbled streets of Jerusalem and Acre."
+    },
+    {
+      "q": "Is it possible to visit both Israel and the West Bank?",
+      "a": "Yes. Bethlehem and Jericho are easy day trips from Jerusalem, and many visitors also see Ramallah, Hebron and Nablus. Conditions and rules at the checkpoints change, and some governments advise against travel to parts of the West Bank, so check current advice. See our [[c:palestinian-territories|Palestinian Territories guide]], including [[bethlehem]] and [[jericho]]."
+    },
+    {
+      "q": "How does Shabbat affect travel?",
+      "a": "From Friday afternoon to Saturday evening, trains and most buses stop, and many shops and restaurants close in Jewish areas. Arab towns and parts of Tel Aviv and Haifa remain lively. Plan your transport and meals the day before."
+    }
+  ]
+}

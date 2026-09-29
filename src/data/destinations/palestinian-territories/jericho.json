@@ -1,0 +1,307 @@
+{
+  "slug": "jericho",
+  "name": "Jericho",
+  "country": "palestinian-territories",
+  "region": "Jericho Governorate, Jordan Valley",
+  "categories": ["unesco", "archaeological", "historic"],
+  "tagline": "The lowest city on Earth and one of the oldest, an oasis with a ten-thousand-year-old mound, a cliffside monastery and a desert palace.",
+  "highlight": "Tell es-Sultan, where a stone tower more than ten thousand years old is among the oldest monumental structures ever found.",
+  "shortDescription": "A palm-fringed oasis about 250 metres below sea level with Neolithic ruins, an Umayyad palace and mosaics, a Greek Orthodox monastery on a cliff and a cable car above it all.",
+  "metaDescription": "A Jericho travel guide: Tell es-Sultan and the Neolithic tower, the Mount of Temptation and its cable car, Hisham's Palace, Wadi Qelt, food, heat, how to get there and a one-day plan.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Tel Aviv Ben Gurion (TLV), about 1 hour 45 minutes; Amman Queen Alia (AMM) via the Allenby Bridge, about 2 hours",
+  "knownFor": "Tell es-Sultan, the Mount of Temptation, Hisham's Palace, the Sycamore of Zacchaeus",
+  "budget": "₪250–500 per day, mid-range",
+  "goodFor": "Archaeology, winter sun, history, a day from Jerusalem or Bethlehem",
+  "coords": { "lat": 31.8611, "lng": 35.4619 },
+  "image": {
+    "file": "File:Tell es-Sultan, Jericho, Palestine2.jpg",
+    "alt": "The excavated mound of Tell es-Sultan at Jericho with the Mount of Temptation behind"
+  },
+  "intro": [
+    "Jericho lies in the Jordan Valley, about 250 metres below sea level and about 10 km north of the Dead Sea. It is a green oasis in a barren landscape, fed by a spring that has flowed for millennia, and it is often called the oldest city in the world. Excavations at Tell es-Sultan, the mound at the edge of the modern town, have revealed a settlement that dates back around ten thousand years, with a stone tower and wall from about 8000 BCE that are among the oldest such structures ever found.",
+    "The Bible describes the walls of Jericho falling to Joshua and the Israelites, and the New Testament tells of Jesus passing through and healing a blind man, and of Zacchaeus climbing a sycamore tree to see him. Christian tradition places Jesus's forty days of temptation on a cliff above the town, where a Greek Orthodox monastery now clings to the rock.",
+    "The town is also in the Palestinian Authority's Area A, and it is the West Bank's most easily reached destination outside Bethlehem. It is small and hot in summer, and best in winter. Tell es-Sultan was inscribed on the UNESCO World Heritage List in 2023."
+  ],
+  "whyVisit": {
+    "intro": "Jericho is a small town, and its interest comes from its age and its setting.",
+    "points": [
+      {
+        "title": "One of the oldest places on Earth",
+        "text": "Tell es-Sultan's layers span the Neolithic period to the Bronze Age, and a massive stone tower, about 8.5 metres high, is thought to date from around 8000 BCE."
+      },
+      {
+        "title": "A cliffside monastery",
+        "text": "The Monastery of the Temptation is built into the sheer wall of the Mount of Temptation, and a cable car carries visitors up from the valley floor for the view."
+      },
+      {
+        "title": "A desert palace with a famous mosaic",
+        "text": "Hisham's Palace, an 8th-century Umayyad complex, holds a large bathhouse floor covered in one of the finest mosaics of the early Islamic world."
+      },
+      {
+        "title": "Winter sun",
+        "text": "While Jerusalem is cold, Jericho is warm and green, and it is the best place in the West Bank to visit between November and March."
+      },
+      {
+        "title": "Easy to reach",
+        "text": "It is only 35 km from Jerusalem and 10 km from the Dead Sea, and it makes a good day trip or a stop on the way to Jordan."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sites are a few kilometres apart, and a taxi or driver makes the day easy.",
+  "attractions": [
+    {
+      "name": "Tell es-Sultan (Ancient Jericho)",
+      "text": "The excavated mound of the ancient city, with the remains of the Neolithic tower, walls and houses. A modern shelter protects part of the site, and the tell rises above the modern town.",
+      "tip": "Go in the morning, and take water. There is no shade on the mound."
+    },
+    {
+      "name": "The Mount of Temptation and the Monastery of the Temptation",
+      "image": {
+        "file": "File:Monastery of the Temptation from Jericho wall ruins.jpg",
+        "alt": "The Greek Orthodox Monastery of the Temptation built into the cliff above Jericho"
+      },
+      "text": "A Greek Orthodox monastery built in the 19th century into the cliff where Christian tradition places the Temptation of Jesus. The Temptation Cable Car runs from the base of the mound to the top.",
+      "tip": "Dress modestly. The cable car does not always run, so check before you go."
+    },
+    {
+      "name": "Hisham's Palace (Khirbat al-Mafjar)",
+      "image": {
+        "file": "File:Hisham Palace in Jericho2.jpg",
+        "alt": "The ruins of Hisham's Palace, an Umayyad desert palace near Jericho"
+      },
+      "text": "An 8th-century Umayyad palace and bathhouse, with a huge mosaic floor showing a tree with gazelles and a lion, one of the largest mosaics of its era. The site has arches, carved stonework and a large courtyard.",
+      "tip": "The mosaic is under a protective roof, and best seen from the walkway."
+    },
+    {
+      "name": "The Sycamore of Zacchaeus",
+      "text": "An ancient sycamore fig tree in the town centre, traditionally identified as the tree that Zacchaeus, the tax collector, climbed to see Jesus. It is a place of pilgrimage.",
+      "tip": "It is close to the main square and the Russian church."
+    },
+    {
+      "name": "Ein es-Sultan (Elisha's Spring)",
+      "text": "A spring at the foot of the tell that has watered Jericho for millennia, according to the Bible cleansed by the prophet Elisha. It is the reason the city exists.",
+      "tip": "Visit it with the tell."
+    },
+    {
+      "name": "Wadi Qelt and St George's Monastery",
+      "image": {
+        "file": "File:PikiWiki 34272 St. George Monastery in Wadi Qelt.jpg",
+        "alt": "St George's Monastery clinging to the cliff of Wadi Qelt"
+      },
+      "text": "A deep desert canyon west of Jericho, with a 5th-century Greek Orthodox monastery that clings to its wall, and a walking trail through the wadi.",
+      "tip": "Go in winter or spring. The trail is steep and hot in summer."
+    },
+    {
+      "name": "Nabi Musa",
+      "text": "A whitewashed complex south of Jericho, built in the 13th century and traditionally regarded by Muslims as the burial place of Moses. It has a domed shrine, a mosque and a courtyard.",
+      "tip": "Ask about opening hours and access. It is in a militarised area."
+    }
+  ],
+  "thingsToDoIntro": "A day in Jericho is best planned around the morning heat.",
+  "thingsToDo": [
+    {
+      "title": "Visit Tell es-Sultan early",
+      "text": "See the ancient tower and the excavations before the sun climbs. The site is small, and the view of the oasis is superb.",
+      "tip": "Take a guide or a guidebook."
+    },
+    {
+      "title": "Ride the cable car",
+      "text": "The cable car rises about 350 metres to the Mount of Temptation, with a view over the valley, the Dead Sea and the mountains of Jordan.",
+      "tip": "Check that it is running, and buy tickets at the base."
+    },
+    {
+      "title": "See the mosaic at Hisham's Palace",
+      "text": "The bath-house floor is a dazzling mosaic tree of life, protected by a roof. The site is quiet and atmospheric.",
+      "tip": "Go in the afternoon, when the light is soft."
+    },
+    {
+      "title": "Try fresh juice and dates",
+      "text": "Jericho is famous for its Medjool dates, bananas and oranges, and juice stalls line the streets.",
+      "tip": "Buy dates by the kilo at the market."
+    },
+    {
+      "title": "Walk in Wadi Qelt",
+      "text": "A trail through a desert canyon past springs, caves and the St George Monastery. It is the best walk near Jericho.",
+      "tip": "Go with a guide and take plenty of water."
+    },
+    {
+      "title": "Soak in a spa or pool",
+      "text": "Some hotels in Jericho have gardens and pools that are open to day visitors, a pleasant way to spend the afternoon.",
+      "tip": "Ask about day rates."
+    }
+  ],
+  "foodIntro": "Jericho's food is simple, and the produce of the oasis is the highlight: dates, bananas, citrus and vegetables.",
+  "foods": [
+    {
+      "name": "Medjool dates",
+      "text": "Large, soft, sweet dates grown in the Jordan Valley, among the best in the world. They are sold fresh, dried and stuffed.",
+      "whereToTry": "The market and roadside stalls."
+    },
+    {
+      "name": "Fresh juice",
+      "text": "Orange, pomegranate and carrot juice, squeezed to order, are refreshing in the heat.",
+      "whereToTry": "Juice stalls in the town centre."
+    },
+    {
+      "name": "Grilled meat and salads",
+      "text": "Kebabs, shish tawook and lamb, served with salads, hummus and bread at garden restaurants.",
+      "whereToTry": "Restaurants around the central square."
+    },
+    {
+      "name": "Falafel and hummus",
+      "text": "The standard lunch, cheap and good.",
+      "whereToTry": "Stalls and small restaurants in the centre."
+    },
+    {
+      "name": "Fresh bananas",
+      "text": "Small, sweet bananas grow in the valley and are sold by the bunch.",
+      "whereToTry": "Roadside stalls."
+    },
+    {
+      "name": "Arab sweets",
+      "text": "Knafeh, baklava and ma'amoul are sold in bakeries.",
+      "whereToTry": "Sweet shops in the centre."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors go as a day trip, but a night or two in winter is pleasant. Jericho has a few hotels and guesthouses with gardens.",
+    "areas": [
+      {
+        "name": "Central Jericho",
+        "bestFor": "Restaurants and walking",
+        "text": "A handful of hotels and guesthouses near the main square, within walking distance of the sycamore and the market."
+      },
+      {
+        "name": "Near Tell es-Sultan",
+        "bestFor": "Gardens and views",
+        "text": "Hotels with gardens and pools near the tell and the cable car."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "₪150–300 per night" },
+      { "label": "Mid-range hotel", "value": "₪300–550 per night" },
+      { "label": "Cable car", "value": "About ₪60–90 return" },
+      { "label": "Tell es-Sultan entry", "value": "A few shekels" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Jericho is about 35 km east of Jerusalem, down a steep road to the Jordan Valley.",
+    "options": [
+      {
+        "mode": "Bus or service taxi",
+        "text": "Palestinian buses and service taxis run from Jerusalem's Damascus Gate area, Ramallah and Bethlehem, passing through a checkpoint on the way. The trip takes about an hour.",
+        "detail": "Ask your host about the latest schedule."
+      },
+      {
+        "mode": "Private driver or tour",
+        "text": "A driver can combine Jericho with Bethlehem, Mar Saba or the Dead Sea. Many day tours from Jerusalem include Jericho.",
+        "detail": "Check the itinerary and what is included."
+      },
+      {
+        "mode": "From Jordan",
+        "text": "The Allenby/King Hussein Bridge crosses the Jordan River about 10 km from Jericho, and connects to Amman.",
+        "detail": "Check the hours and rules, which change."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Jericho is flat and small, but the sites are spread out.",
+    "options": [
+      {
+        "mode": "Taxi",
+        "text": "The easiest way to reach Hisham's Palace, Tell es-Sultan and Wadi Qelt. Fares are low.",
+        "detail": "Agree the fare and waiting time in advance."
+      },
+      {
+        "mode": "Walking",
+        "text": "The centre of town and the sycamore are walkable.",
+        "detail": "It is very hot in summer."
+      },
+      {
+        "mode": "Cable car",
+        "text": "Links the base of the tell with the Mount of Temptation.",
+        "detail": "It does not always run."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–March",
+    "summary": "Jericho is a desert oasis, hot for much of the year. The cooler months from November to March are the best time to go.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "shoulder",
+        "text": "Warm to hot, with pleasant mornings. It is still good in March and April."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Extremely hot, often over 40°C. Visit only at dawn if you must."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "shoulder",
+        "text": "Hot in September, and comfortable from late October."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "Warm and sunny, often 18–22°C, while Jerusalem is cold. The best season."
+      }
+    ],
+    "avoid": "Summer afternoons, and days after heavy rain, when the wadis can flood."
+  },
+  "itinerary": {
+    "title": "One day in Jericho",
+    "intro": "Tell es-Sultan and the cable car in the morning, lunch in town and Hisham's Palace in the afternoon.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Ancient Jericho",
+        "summary": "Ten thousand years in a day.",
+        "morning": "Tell es-Sultan and Elisha's Spring, then the cable car to the Mount of Temptation.",
+        "afternoon": "Lunch in town, the Sycamore of Zacchaeus and Hisham's Palace.",
+        "evening": "A drink of fresh juice, and the drive back to Jerusalem or Bethlehem."
+      }
+    ]
+  },
+  "tipsIntro": "Jericho is hot and small, and a few tips help.",
+  "tips": [
+    "Visit between November and March. Summer is very hot.",
+    "Start early. The sites are exposed, and the light is best in the morning.",
+    "Take water, a hat and sunscreen.",
+    "Check conditions before you go. Jericho has been a quiet destination, but checkpoints and roads can close at short notice.",
+    "Dress modestly for the monastery and in the town.",
+    "Take a taxi or driver, as the sites are spread out.",
+    "Combine Jericho with Bethlehem or Mar Saba."
+  ],
+  "faq": [
+    {
+      "q": "Is Jericho really the oldest city in the world?",
+      "a": "It is one of the oldest continuously inhabited places. Excavations at Tell es-Sultan show settlement from about 10,000 years ago, with a stone tower from about 8000 BCE, though other sites also claim great age."
+    },
+    {
+      "q": "How long do you need in Jericho?",
+      "a": "A day is enough for the tell, the cable car, Hisham's Palace and lunch. Add Wadi Qelt and Nabi Musa if you have more time."
+    },
+    {
+      "q": "Is Jericho safe?",
+      "a": "It is generally regarded as one of the easier and calmer places to visit in the West Bank, but conditions can change and advice differs. Check your government's current advice."
+    },
+    {
+      "q": "When is the best time to visit Jericho?",
+      "a": "November to March, when it is warm rather than hot. Summer is very hot."
+    },
+    {
+      "q": "Can I visit Jericho from Jerusalem?",
+      "a": "Yes. It is about an hour away, and many tours combine it with Bethlehem or the Dead Sea. Take your passport."
+    },
+    {
+      "q": "What is the Mount of Temptation?",
+      "a": "A cliff above Jericho where Christian tradition says Jesus fasted for forty days and was tempted by the devil. A Greek Orthodox monastery clings to its side."
+    }
+  ],
+  "related": ["mar-saba-monastery", "bethlehem", "herodium"],
+  "relatedArticles": ["unesco-worth-planning-around", "packing-by-season"]
+}

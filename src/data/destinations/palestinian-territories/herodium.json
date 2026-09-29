@@ -1,0 +1,290 @@
+{
+  "slug": "herodium",
+  "name": "Herodium",
+  "country": "palestinian-territories",
+  "region": "Bethlehem Governorate, southeast of Bethlehem",
+  "categories": ["archaeological", "historic", "scenic"],
+  "tagline": "A palace-fortress built by Herod the Great on top of an artificial cone of earth, with a tomb, hidden tunnels and views over the Judean Desert.",
+  "highlight": "The tunnels beneath the mountain, first dug by Jewish rebels against Rome, and the view from the rim across the Dead Sea to Jordan.",
+  "shortDescription": "A striking man-made hill with the remains of Herod's palace, bathhouse and tomb, about 12 km south of Jerusalem and a short drive from Bethlehem.",
+  "metaDescription": "A Herodium travel guide: Herod's mountain palace and tomb, the tunnels and cisterns, the view over the Judean Desert, who runs the site and how to get there from Bethlehem, plus a half-day plan.",
+  "suggestedStay": "Half a day",
+  "nearestAirport": "Tel Aviv Ben Gurion (TLV), about 1 hour 15 minutes; Bethlehem is 5 km away",
+  "knownFor": "Herod's palace-fortress, the tomb of Herod, the tunnels, the view",
+  "budget": "₪200–400 per day, including entry",
+  "goodFor": "Archaeology, history, views, a half-day from Bethlehem",
+  "coords": { "lat": 31.6656, "lng": 35.2411 },
+  "image": {
+    "file": "File:Herodium, Palestine (27728204965).jpg",
+    "alt": "The conical hill of Herodium with the ruins of Herod's palace-fortress on top"
+  },
+  "intro": [
+    "Herodium is one of the strangest and most striking ancient sites in the region. Around 23 BCE, Herod the Great, the Roman-appointed king of Judaea, chose a place south-east of Bethlehem, where he was believed to have won a battle, and built a palace-fortress on a hill. He had the summit raised into an artificial cone, about 60 metres high, with a circular wall and four towers, and built a second palace, a bathhouse, a theatre and a pool complex at the foot.",
+    "Herod died in 4 BCE, and according to the historian Josephus, he was buried here. In 2007, the Israeli archaeologist Ehud Netzer announced that he had found the tomb, on the slope of the hill, and the discovery was widely reported, although some scholars question the identification. The fortress was later used by Jewish rebels in the First Jewish Revolt and the Bar Kokhba Revolt, who dug tunnels and hiding places inside it, and by Byzantine monks who built a monastery.",
+    "The site lies in the West Bank, in Area C, under Israeli civil control, and it is run as a national park by the Israel Nature and Parks Authority. It is close to Israeli settlements, and the road links to Jerusalem are on the Israeli side, while visitors from Bethlehem can reach it by road. Palestinian and Israeli sources present its history and status differently, and it is a good place to bring an open mind."
+  ],
+  "whyVisit": {
+    "intro": "Herodium is dramatic, easy to visit and full of stories, and it takes only half a day.",
+    "points": [
+      {
+        "title": "A palace on an artificial mountain",
+        "text": "The scale of the engineering is extraordinary, and the view from the top over the desert and the hills is superb."
+      },
+      {
+        "title": "Herod's tomb",
+        "text": "The claimed tomb, with its carved stone sarcophagus fragments, is one of the most talked-about discoveries of recent decades."
+      },
+      {
+        "title": "Underground tunnels",
+        "text": "Passages and cisterns beneath the fortress were dug by rebels and by Herod's engineers, and you can walk through them."
+      },
+      {
+        "title": "A landscape view",
+        "text": "From the rim, you can see the Judean Desert, the Dead Sea and, on a clear day, the mountains of Jordan."
+      },
+      {
+        "title": "Easy to combine",
+        "text": "It is close to Bethlehem, Battir and Mar Saba, and fits easily into a day with them."
+      }
+    ]
+  },
+  "attractionsIntro": "The site takes two to three hours, including the climb and the tunnels.",
+  "attractions": [
+    {
+      "name": "The mountain palace and fortress",
+      "text": "The circular wall, the round towers and the remains of the palace's courtyard, bathhouse and dining rooms sit on the summit. Some are restored, and a museum has been built.",
+      "tip": "Go in the morning, when it is cooler and the light is good."
+    },
+    {
+      "name": "The tunnels and cisterns",
+      "text": "Passages inside the hill, dug by Jewish rebels in the 1st and 2nd centuries CE, and underground cisterns that stored water for the palace.",
+      "tip": "Bring a torch, and watch your head. The tunnels are narrow."
+    },
+    {
+      "name": "Herod's tomb",
+      "text": "A tomb on the hillside, excavated in 2007, that Ehud Netzer identified as the burial place of Herod. The ornate sarcophagus and fragments are displayed elsewhere.",
+      "tip": "The identification is disputed by some scholars."
+    },
+    {
+      "name": "The Lower Herodium",
+      "text": "The remains of a huge complex at the foot of the hill, with a pool that was over 60 metres long, a palace, gardens and a monumental building.",
+      "tip": "Walk around the base to see the scale."
+    },
+    {
+      "name": "The Herodium Museum and visitor centre",
+      "text": "A small museum on the site, displaying finds from the excavations and a model of the fortress.",
+      "tip": "See it before you climb."
+    },
+    {
+      "name": "The Byzantine church and monastery",
+      "text": "Remains of a chapel and monastery built inside the fortress in the 5th century, showing later use of the site.",
+      "tip": "Look for the mosaic floor fragments."
+    }
+  ],
+  "thingsToDoIntro": "Herodium is best enjoyed in a slow morning.",
+  "thingsToDo": [
+    {
+      "title": "Climb to the summit",
+      "text": "A path leads up the artificial hill to the fortress, with steep steps. The view over the desert is the reward.",
+      "tip": "Go early, take water and wear sturdy shoes."
+    },
+    {
+      "title": "Walk through the tunnels",
+      "text": "Descend the steps into the hill, and walk through the narrow passages, cisterns and hiding places.",
+      "tip": "Not suitable for those who dislike enclosed spaces."
+    },
+    {
+      "title": "See the view",
+      "text": "On a clear day you can see Jerusalem, the Dead Sea and the hills of Moab in Jordan.",
+      "tip": "Go in the late afternoon for the best light."
+    },
+    {
+      "title": "Combine with Bethlehem and Mar Saba",
+      "text": "Herodium, Mar Saba and Bethlehem fit into a single day with a driver.",
+      "tip": "Start with the church, and finish at Herodium for the sunset."
+    },
+    {
+      "title": "Explore the surrounding villages",
+      "text": "Villages such as Tuqu' and Beit Ta'mir have farms and small shops.",
+      "tip": "Ask your driver."
+    },
+    {
+      "title": "Hear more than one story",
+      "text": "Palestinian, Israeli and international guides describe the site's history and status differently.",
+      "tip": "Ask about the perspective of your guide."
+    }
+  ],
+  "foodIntro": "There is no restaurant on the site, so eat in Bethlehem or in a nearby village.",
+  "foods": [
+    {
+      "name": "Picnic supplies",
+      "text": "Bring bread, hummus, fruit and olives from Bethlehem.",
+      "whereToTry": "Shops in Bethlehem."
+    },
+    {
+      "name": "Bedouin hospitality",
+      "text": "Bedouin communities live in the hills nearby and sometimes offer tea and bread to visitors.",
+      "whereToTry": "Ask your driver about a visit."
+    },
+    {
+      "name": "Falafel and hummus",
+      "text": "Available in Bethlehem and Beit Sahour.",
+      "whereToTry": "Stalls near Manger Square."
+    },
+    {
+      "name": "Village restaurants",
+      "text": "Small restaurants in nearby villages serve grilled meat and salads.",
+      "whereToTry": "Ask your driver."
+    },
+    {
+      "name": "Fresh fruit",
+      "text": "Sold at roadside stalls in season.",
+      "whereToTry": "Roadside stands."
+    },
+    {
+      "name": "Coffee and tea",
+      "text": "Served at the site's kiosk and in nearby villages.",
+      "whereToTry": "The visitor centre."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors base themselves in Bethlehem or Jerusalem and visit for the morning.",
+    "areas": [
+      {
+        "name": "Bethlehem",
+        "bestFor": "Most visitors",
+        "text": "Hotels and guesthouses, and 15 minutes by road."
+      },
+      {
+        "name": "Beit Sahour",
+        "bestFor": "Quiet",
+        "text": "A pleasant town with guesthouses and restaurants close to Herodium."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse in Bethlehem", "value": "₪150–300 per night" },
+      { "label": "Mid-range hotel", "value": "₪350–600 per night" },
+      { "label": "Site entry", "value": "About ₪30 per adult" },
+      { "label": "Taxi from Bethlehem", "value": "₪60–120 round trip" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Herodium is about 5 km south-east of Bethlehem and 12 km from Jerusalem. Access routes depend on where you start.",
+    "options": [
+      {
+        "mode": "Taxi from Bethlehem",
+        "text": "About 15–20 minutes. Palestinian taxis take you to the site, and can wait or return.",
+        "detail": "Agree the fare and waiting time."
+      },
+      {
+        "mode": "Car from Jerusalem",
+        "text": "About 25 minutes via Israeli roads, though the route and checkpoints can change.",
+        "detail": "Check your car rental terms before you go."
+      },
+      {
+        "mode": "Tour",
+        "text": "Some operators include Herodium in tours of Bethlehem and the Judean Desert.",
+        "detail": "Check what is included."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The site is explored on foot, and the walk up to the fortress is steep.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "Paths lead up the hill and around the base. It takes two to three hours.",
+        "detail": "Wear sturdy shoes."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Useful for moving between the site and nearby villages.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Guided tour",
+        "text": "A guide brings the history to life.",
+        "detail": "Book in advance."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Herodium sits at about 750 m. Spring and autumn are the best seasons, and summer is hot with little shade.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Green hills and clear views."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot and exposed. Go early."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm, clear and quiet."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool, wet and windy at the top."
+      }
+    ],
+    "avoid": "Midday in summer, and days of unrest or road closures."
+  },
+  "itinerary": {
+    "title": "Half a day at Herodium",
+    "intro": "A morning climb, tunnels and the view, then lunch in Bethlehem.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Palace, tunnels and view",
+        "summary": "A compact archaeological visit.",
+        "morning": "The museum, then the climb to the fortress and the tunnels.",
+        "afternoon": "The Lower Herodium, then lunch in Bethlehem.",
+        "evening": "Return to Bethlehem or Jerusalem."
+      }
+    ]
+  },
+  "tipsIntro": "Herodium is easy, and a few tips help.",
+  "tips": [
+    "Go early. There is little shade, and the light is best in the morning.",
+    "Bring water, a hat and sturdy shoes.",
+    "Take a torch for the tunnels.",
+    "Check who runs the site and the current entry arrangements. It is administered by the Israel Nature and Parks Authority.",
+    "Combine Herodium with Bethlehem or Mar Saba.",
+    "Check your car rental terms if you plan to drive.",
+    "Read about the site's history and status from more than one perspective."
+  ],
+  "faq": [
+    {
+      "q": "Who built Herodium?",
+      "a": "Herod the Great, the Roman client king of Judaea, around 23 BCE. He built a palace-fortress on an artificial hill, and, according to Josephus, was buried there."
+    },
+    {
+      "q": "Has Herod's tomb been found?",
+      "a": "In 2007, the archaeologist Ehud Netzer announced that he had found it on the slope of the hill, but some scholars are not convinced by the identification."
+    },
+    {
+      "q": "Who runs Herodium?",
+      "a": "It lies in the West Bank in Area C and is run as a national park by the Israel Nature and Parks Authority. The status of the site and the wider area is disputed."
+    },
+    {
+      "q": "How long do you need at Herodium?",
+      "a": "Two to three hours, including the climb, the tunnels and the museum."
+    },
+    {
+      "q": "Can I visit Herodium from Bethlehem?",
+      "a": "Yes. It is about 15–20 minutes by taxi, and many visitors combine it with the Church of the Nativity."
+    },
+    {
+      "q": "Is Herodium safe to visit?",
+      "a": "It is generally regarded as safe in normal times, but it is in the West Bank near settlements and checkpoints, and conditions can change. Check your government's advice."
+    }
+  ],
+  "related": ["bethlehem", "mar-saba-monastery", "battir"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

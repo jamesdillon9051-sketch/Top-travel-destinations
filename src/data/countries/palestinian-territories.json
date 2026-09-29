@@ -1,0 +1,358 @@
+{
+  "slug": "palestinian-territories",
+  "name": "Palestinian Territories",
+  "inlineName": "the Palestinian Territories",
+  "continent": "Western Asia (Middle East)",
+  "countryCode": "PS",
+  "tagline": "The birthplace of Jesus, one of the oldest cities on Earth, a UNESCO terraced village and a monastery in a desert canyon — in the West Bank, with all the complexity that means.",
+  "cardDescription": "The West Bank holds Bethlehem, Jericho, Hebron and Nablus, together with some of the oldest continuously inhabited places on Earth, and offers unusually warm hospitality alongside a complicated present.",
+  "metaDescription": "A Palestinian Territories (West Bank) travel guide: Bethlehem, Jericho, Ramallah, Nablus, Hebron, Battir, Herodium and Mar Saba, plus food, checkpoints, current advice, respectful travel and a one-week itinerary.",
+  "image": {
+    "file": "File:Palestine- West Bank- Batter- agricultural lands-UAWC.jpg",
+    "alt": "Ancient stone terraces and olive groves in the Battir valley in the West Bank"
+  },
+  "destinations": [
+    "bethlehem",
+    "jericho",
+    "hebron",
+    "nablus",
+    "ramallah",
+    "battir",
+    "herodium",
+    "sebastia",
+    "mar-saba-monastery",
+    "taybeh"
+  ],
+  "intro": [
+    "This guide covers the West Bank, the part of the Palestinian territories that visitors can travel to. It has been under Israeli military control since 1967, and is administered in part by the Palestinian Authority. The State of Palestine is recognised by a majority of UN member states, but not by Israel and a number of other countries, and the status of the territory remains one of the most disputed questions in the world. We do not cover the Gaza Strip, which is not open to independent travel.",
+    "It is also a place of extraordinary depth. Bethlehem is the traditional birthplace of Jesus and holds one of the oldest continuously used churches in the world. Jericho is among the oldest inhabited cities on Earth, with a settlement at Tell es-Sultan that goes back some ten thousand years. Hebron has a market and a shrine that is holy to Jews, Muslims and Christians, and Nablus has a soap-and-sweets old city that is one of the best-preserved Ottoman centres in the region. Battir's ancient irrigated terraces are a UNESCO World Heritage Site.",
+    "Visiting also means seeing things that most travel guides skip: checkpoints, a separation barrier, restricted roads and communities living under a military occupation. The hospitality is exceptional and people are eager to tell their stories, and many visitors find the trip among the most memorable they have made. It requires more planning and more attention to current conditions than anywhere else in this guide, and we set out the practical detail and honest safety context below. Please read your government's advice before you book."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Bethlehem and Jericho are the easiest to reach and the most visited; Ramallah, Battir and Herodium are close behind. Hebron and Nablus are rewarding but subject to frequent closures and stronger travel advice, and should be checked closely before you go.",
+  "thingsToDoIntro": "The experiences that recur across the West Bank, and that give a trip here its distinctive character.",
+  "thingsToDo": [
+    {
+      "title": "Visit the Church of the Nativity",
+      "text": "The basilica in Bethlehem, built in the 6th century over an earlier 4th-century church, stands over the grotto that Christian tradition identifies as the birthplace of Jesus. It is one of the oldest continuously used churches in the world and a UNESCO World Heritage Site. See [[bethlehem]].",
+      "tip": "Go early or on a weekday, and duck through the low Door of Humility. Queues for the grotto can be long around Christmas."
+    },
+    {
+      "title": "Walk the terraces at Battir",
+      "image": {
+        "file": "File:Village of Battir, Palestine 2009.jpg",
+        "alt": "The village of Battir above its ancient terraced valley"
+      },
+      "text": "An easy walk along ancient irrigation channels through some of the oldest terraced farmland in the Middle East, with an Ottoman-era railway line at the bottom of the valley. See [[battir]].",
+      "tip": "Go in spring, when the terraces are green, and ask for a local guide at the village."
+    },
+    {
+      "title": "Stay with a Palestinian family",
+      "text": "Homestays and guesthouses in villages and towns give a personal way to see daily life, share meals and hear stories that do not appear in official histories.",
+      "tip": "Arrange through a local tourism cooperative, and bring a small gift such as sweets or fruit."
+    },
+    {
+      "title": "Eat a proper Palestinian meal",
+      "image": {
+        "file": "File:Mushakhan Dish.jpg",
+        "alt": "A platter of musakhan, roast chicken with onions and sumac on flatbread"
+      },
+      "text": "Musakhan, maqluba, freekeh, olive oil from ancient trees and Nablus knafeh are among the best-known dishes. Food is central to hospitality, and refusing a second helping is difficult.",
+      "tip": "Come hungry, and bring an appetite for olive oil."
+    },
+    {
+      "title": "Go down to Jericho",
+      "text": "The lowest city in the world, about 250 metres below sea level, and the site of a settlement that is roughly ten thousand years old. A cable car climbs to a monastery on the Mount of Temptation. See [[jericho]].",
+      "tip": "Go in the cooler months, and go early."
+    },
+    {
+      "title": "Take a walking tour with a local guide",
+      "text": "Palestinian guides and organisations run walking tours in Hebron, Bethlehem and Ramallah that explain the politics and history on the ground, from a Palestinian perspective. Israeli and international groups offer other perspectives.",
+      "tip": "Consider both perspectives, and book a licensed guide."
+    }
+  ],
+  "foodIntro": "Palestinian cooking is one of the great Levantine cuisines, built on olive oil, za'atar, sumac, lamb, chicken and seasonal vegetables. Meals are generous and communal, and hospitality is taken seriously.",
+  "foods": [
+    {
+      "name": "Musakhan",
+      "text": "Taboon bread topped with sumac-roasted chicken, caramelised onions and olive oil, eaten with the hands. It is the national dish for many Palestinians and is especially associated with the olive harvest.",
+      "whereToTry": "Family restaurants in [[ramallah|Ramallah]], [[nablus|Nablus]] and village homes."
+    },
+    {
+      "name": "Maqluba",
+      "text": "The name means 'upside down': rice, chicken or lamb and vegetables are cooked in a pot and turned out onto a platter. A family favourite.",
+      "whereToTry": "Home-style restaurants across the West Bank."
+    },
+    {
+      "name": "Nablus knafeh",
+      "image": {
+        "file": "File:Nablus souq kanafeh 134 - Aug 2011.jpg",
+        "alt": "A large tray of Nablus knafeh in the old city souk"
+      },
+      "text": "A hot dessert of white Nabulsi cheese under crisp shredded pastry, drenched in syrup, and sold from huge trays in the old city. It is the best-known Palestinian sweet.",
+      "whereToTry": "The old-city souk in [[nablus|Nablus]]."
+    },
+    {
+      "name": "Palestinian breakfast",
+      "image": {
+        "file": "File:Palestinian breakfast 01.jpg",
+        "alt": "A Palestinian breakfast spread with olives, labneh, hummus, eggs and bread"
+      },
+      "text": "A spread of olive oil, za'atar, labneh, hummus, fuul, cheeses and eggs, with fresh bread. It is a leisurely start to the day.",
+      "whereToTry": "Guesthouses and cafés across the West Bank."
+    },
+    {
+      "name": "Fatteh and hummus",
+      "text": "Hummus served warm with olive oil, and fatteh, a layered dish of chickpeas, yoghurt and toasted bread, are popular for breakfast and lunch.",
+      "whereToTry": "Hummusiyot in [[hebron|Hebron]] and [[bethlehem|Bethlehem]]."
+    },
+    {
+      "name": "Taybeh beer and West Bank wine",
+      "text": "Palestine's first craft brewery, founded in 1994, is in the Christian village of [[taybeh|Taybeh]], and the Cremisan monastery near Bethlehem is known for its wine.",
+      "whereToTry": "The Taybeh Brewery, and bars and restaurants in [[ramallah|Ramallah]]."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Travel in the West Bank involves Israeli-controlled borders and checkpoints, so entry rules are Israel's, and conditions can change at short notice.",
+  "practical": {
+    "capital": "Ramallah is the administrative centre of the Palestinian Authority. The State of Palestine proclaims East Jerusalem as its capital; the status of Jerusalem is disputed.",
+    "language": "Arabic. English is widely spoken in Bethlehem, Ramallah and tourist areas, and many people also speak some Hebrew.",
+    "currency": "The Israeli new shekel (₪, ILS) is the main currency. US dollars and Jordanian dinars are accepted in some places.",
+    "money": "Cards are accepted in Ramallah and Bethlehem, but cash is needed in villages, markets and small restaurants. ATMs are available in the main towns.",
+    "visa": "Entry to the West Bank is through Israel or Jordan, and the rules are set by Israel. Most visitors enter with an Israeli entry permission or the Allenby/King Hussein Bridge from Jordan. Israeli border officials may ask about your plans and have sometimes refused entry to visitors who say they intend to visit the West Bank. Check the current rules on official government sites.",
+    "plugs": "Type C and H, 230 V, 50 Hz.",
+    "emergency": "100 for police, 101 for ambulance and 102 for fire in most Palestinian towns. Ask your hotel or host for local numbers, and keep your embassy's contact details with you.",
+    "tipping": "About 10% in restaurants if service is not included, and rounding up for taxis. Small tips for guides and drivers are appreciated.",
+    "safety": "Conditions in the West Bank have deteriorated since 2023, with more military operations, raids, checkpoint closures and settler violence in some areas. Many governments advise against travel to parts of the West Bank, particularly the north and Hebron, and some advise against all but essential travel. Bethlehem, Jericho and Ramallah are the most visited, but conditions can change quickly. Check your government's current advice, travel with local guidance, and be prepared for delays and closures.",
+    "connectivity": "Mobile coverage is good in towns, and Palestinian and Israeli networks overlap. Roaming can be expensive, and eSIMs work well. Wi-Fi is common in cafés and guesthouses.",
+    "timeZone": "UTC+2 in winter and UTC+3 in summer, but the Palestinian Authority and Israel change their clocks on different dates, so times can differ by an hour for a few weeks in spring and autumn.",
+    "budget": [
+      { "label": "Backpacker", "value": "₪200–350 per day — hostels or homestays, falafel and hummus, service taxis" },
+      { "label": "Mid-range", "value": "₪450–800 per day — guesthouses, restaurant meals, taxis and guides" },
+      { "label": "Comfortable", "value": "₪900–1,500 per day — good hotels, private drivers and guides" },
+      { "label": "A note on prices", "value": "The West Bank is cheaper than Israel, though tour and guide costs vary" }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "The hills of the West Bank have a Mediterranean climate, with a dry, warm summer and a cool, wet winter. Jericho and the Jordan Valley are much hotter, and the Jordan Valley is best in winter.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Green hills, wildflowers and warm, clear days. The best season for walking at Battir and the hills. Easter is busy in Bethlehem."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot and dry in the hills and very hot in Jericho, often over 40°C. Evenings are pleasant, and it is the season for weddings and festivals."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm, clear and pleasant. October and November are the olive-harvest season, when families pick and press olives together."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool and often wet, sometimes with snow in the hills. Jericho is at its best. Christmas brings pilgrims and celebrations to Bethlehem."
+      }
+    ],
+    "avoid": "Days of heavy rain or snow, when roads and checkpoints can close, and summer in Jericho. Check for Israeli and Palestinian holidays, as checkpoints and crossings close and public transport changes."
+  },
+  "tripDuration": {
+    "headline": "3–7 days",
+    "summary": "Many visitors see Bethlehem and Jericho on a day trip from Jerusalem, but a few days gives you time for the hospitality, food and landscapes that are the main reason to visit. Delays at checkpoints mean you should allow more time than distances suggest.",
+    "options": [
+      {
+        "length": "1 day",
+        "text": "Bethlehem, on a day trip from Jerusalem, with the Church of the Nativity and lunch in the old town.",
+        "detail": "A rushed but rewarding introduction."
+      },
+      {
+        "length": "3 days",
+        "text": "Bethlehem and its surroundings, then Jericho and the Judean Desert monasteries.",
+        "detail": "The classic short trip."
+      },
+      {
+        "length": "5 days",
+        "text": "Adds Ramallah, Taybeh and Nablus, with time to eat and meet people.",
+        "detail": "A good pace that includes the northern towns."
+      },
+      {
+        "length": "7 days",
+        "text": "The itinerary on this page, covering all ten destinations, including Hebron and Sebastia.",
+        "detail": "For visitors with time and an interest in the politics and history."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Transport in the West Bank is mostly by service taxi, bus and private driver. Checkpoints and closures can affect journey times, and Israeli-registered vehicles and drivers face restrictions in Palestinian-administered areas.",
+    "options": [
+      {
+        "mode": "Service taxis (servees) and minibuses",
+        "text": "Shared minivans run between towns on fixed routes and leave when full. They are cheap and the local way to travel between Ramallah, Nablus, Hebron, Bethlehem and Jericho.",
+        "detail": "Ask your host where to catch them. They do not always run on Fridays."
+      },
+      {
+        "mode": "Private drivers and taxis",
+        "text": "The most comfortable and flexible option. Palestinian drivers know the checkpoints and the roads, and a driver can also act as a guide.",
+        "detail": "Agree the price and route in advance, and use a driver recommended by your hotel."
+      },
+      {
+        "mode": "Crossing from Jerusalem",
+        "text": "Bethlehem is reached from Jerusalem through Checkpoint 300 by bus 231 or a taxi, and Ramallah through the Qalandiya checkpoint. Foreign visitors are usually waved through, but conditions vary.",
+        "detail": "Carry your passport, and expect delays."
+      },
+      {
+        "mode": "Hire car",
+        "text": "Israeli rental cars are usually not insured for Palestinian-administered areas, and many agreements forbid driving there. Some Palestinian companies offer rentals.",
+        "detail": "Check the terms carefully before you drive."
+      },
+      {
+        "mode": "Organised tours",
+        "text": "Palestinian, Israeli and international operators run day and multi-day tours from Jerusalem and Tel Aviv, with different perspectives.",
+        "detail": "Compare the operators, and check who is guiding and what is included."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "One week in the Palestinian Territories",
+    "intro": "A route through the West Bank from south to north, using Bethlehem and Ramallah as bases. Conditions in Hebron and Nablus may make parts of this impractical, so check current advice and be ready to adapt. Covers all ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Bethlehem",
+        "morning": "Cross from Jerusalem and visit the Church of the Nativity and the Milk Grotto.",
+        "afternoon": "The old town, Manger Square and a Palestinian lunch.",
+        "evening": "Dinner in the old town and a night in Bethlehem."
+      },
+      {
+        "day": 2,
+        "title": "Battir, Herodium and Mar Saba",
+        "morning": "A walk in the terraces at Battir.",
+        "afternoon": "Herodium's mountain fortress, then the desert canyon at Mar Saba.",
+        "evening": "Return to Bethlehem."
+      },
+      {
+        "day": 3,
+        "title": "Jericho",
+        "morning": "Tell es-Sultan and the Mount of Temptation cable car.",
+        "afternoon": "Hisham's Palace and lunch, with a swim at a hotel pool if it is hot.",
+        "evening": "Drive to Ramallah."
+      },
+      {
+        "day": 4,
+        "title": "Ramallah and Taybeh",
+        "morning": "The Arafat Museum and the city centre.",
+        "afternoon": "The Taybeh Brewery and village.",
+        "evening": "Dinner and a drink in Ramallah's restaurants."
+      },
+      {
+        "day": 5,
+        "title": "Nablus",
+        "morning": "The old city, soap factories and the souk.",
+        "afternoon": "Knafeh, a hammam or Jacob's Well.",
+        "evening": "Back to Ramallah."
+      },
+      {
+        "day": 6,
+        "title": "Sebastia and the north",
+        "morning": "The ruins of ancient Samaria at Sebastia.",
+        "afternoon": "Lunch in a village and an olive-oil farm visit.",
+        "evening": "A quiet evening in Ramallah."
+      },
+      {
+        "day": 7,
+        "title": "Hebron and departure",
+        "morning": "Hebron's Old City and the Ibrahimi Mosque, with a local guide.",
+        "afternoon": "Glass and pottery workshops, and lunch.",
+        "evening": "Return to Jerusalem or Bethlehem."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Palestinian society is warm, family-centred and hospitable. Most Palestinians are Muslim, with a significant Christian minority, and communities are proud of their history and food. Politics is part of daily life, and people are usually happy to talk about it if you listen.",
+    "etiquette": [
+      {
+        "title": "Accept hospitality",
+        "text": "You will be offered tea, coffee, sweets and meals. Accepting is a courtesy, and you should say 'shukran' and try a little of everything. Refusing repeatedly can cause offence."
+      },
+      {
+        "title": "Dress modestly",
+        "text": "Cover shoulders and knees, and women should consider a scarf for mosques and conservative towns such as Hebron and Nablus. Ramallah and Bethlehem are more relaxed."
+      },
+      {
+        "title": "Listen more than you speak on politics",
+        "text": "Conversations about the occupation, Jerusalem and history are common. Ask questions, avoid arguing, and accept that people may see things differently from you."
+      },
+      {
+        "title": "Ask before photographing",
+        "text": "Always ask before photographing people. Do not photograph soldiers, checkpoints or military areas, and avoid taking pictures of children without permission."
+      },
+      {
+        "title": "Respect Ramadan and Fridays",
+        "text": "During Ramadan, avoid eating, drinking or smoking in public in daylight in conservative areas. Friday is the day of prayer, and many shops close in the morning."
+      },
+      {
+        "title": "Be discreet about your itinerary",
+        "text": "Israeli border officials may ask about your plans. Answer honestly and calmly, and be aware that visiting the West Bank may be questioned, and it is best to carry evidence of your accommodation."
+      }
+    ],
+    "dos": [
+      "Accept the tea and coffee — it is a courtesy",
+      "Carry your passport at all times",
+      "Hire local guides and drivers where you can",
+      "Buy from local shops, workshops and cooperatives",
+      "Ask before taking photographs of people",
+      "Learn a few Arabic words: marhaba (hello), shukran (thank you)"
+    ],
+    "donts": [
+      "Don't photograph soldiers, checkpoints or military areas",
+      "Don't assume everyone shares a political view",
+      "Don't wear revealing clothing in conservative towns",
+      "Don't drive an Israeli-plated rental car into Palestinian-administered areas without checking your insurance",
+      "Don't approach demonstrations, checkpoints or military operations",
+      "Don't travel at night on unfamiliar roads"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in the West Bank, several of which are specific to how the territory works.",
+  "tips": [
+    "Read your government's travel advice before you go, and check again a few days before. Conditions in the West Bank can change quickly, and advice differs by area.",
+    "Hire local guides. A licensed Palestinian guide will know the roads, the checkpoints and the history, and can help with logistics.",
+    "Carry your passport at all times. You will be asked for it at checkpoints and may be asked for it at other times.",
+    "Allow extra time. Checkpoints, closures and traffic can add hours to a journey, and you should not plan too tightly.",
+    "Book accommodation directly, or through a local tourism cooperative, so that the money stays in the community.",
+    "Check the rules for rental cars. Israeli rental agreements generally forbid travel to Area A, and insurance may not cover you.",
+    "Carry cash in shekels for markets, service taxis and small restaurants, though cards are accepted in cities.",
+    "Be prepared to change plans. Roads and towns can close at short notice, particularly Hebron and Nablus."
+  ],
+  "faq": [
+    {
+      "q": "Is it safe to travel in the West Bank?",
+      "a": "It depends on where and when. Bethlehem, Jericho and Ramallah are the most visited and are generally regarded as safe for tourists in normal times, but conditions have worsened since 2023 and many governments advise against travel to parts of the West Bank, particularly the north and Hebron. Check current advice, travel with local guidance and be prepared for closures."
+    },
+    {
+      "q": "Can I visit the West Bank from Israel?",
+      "a": "Yes. Bethlehem, Jericho and Ramallah are easy day trips from Jerusalem, with foreign passport holders usually crossing without difficulty. Israeli citizens are barred from Area A, and some rental cars are not permitted. Check current conditions and the rules for your nationality, and see our [[c:israel|Israel guide]] for the Jerusalem side."
+    },
+    {
+      "q": "Do I need a visa for the West Bank?",
+      "a": "There is no separate Palestinian visa for most visitors. Entry is through Israel or the Allenby/King Hussein Bridge from Jordan, so Israeli entry rules apply. Israeli officials have questioned visitors about travel to the West Bank, and some have been refused entry. Check the current rules."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "March to May and September to November. Spring has green hills and mild weather, and autumn brings the olive harvest. Jericho is best in winter, and summer is hot."
+    },
+    {
+      "q": "How many days do you need?",
+      "a": "One day covers Bethlehem from Jerusalem. Three to five days let you see Jericho, Ramallah and some of the countryside, and a week covers the whole territory if conditions allow."
+    },
+    {
+      "q": "Is Gaza open to visitors?",
+      "a": "No. The Gaza Strip is not open to independent travel and is not covered in this guide. Conditions there have been dire since October 2023."
+    },
+    {
+      "q": "How can I travel responsibly in the West Bank?",
+      "a": "Stay in local guesthouses, eat in local restaurants, hire Palestinian guides and buy from local workshops. Listen to a range of perspectives, respect local customs, and be honest with border officials."
+    }
+  ]
+}

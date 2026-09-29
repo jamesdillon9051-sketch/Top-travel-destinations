@@ -20,7 +20,8 @@ import {
   faqList,
   optionList,
   destinationGrid,
-  articleCard
+  articleCard,
+  advisoryBanner
 } from './partials.mjs';
 
 const SECTIONS = [
@@ -36,27 +37,50 @@ const SECTIONS = [
   { id: 'faq', label: 'FAQ' }
 ];
 
+/** Sections that only make sense for a trip someone can actually plan. */
+const TRIP_ONLY = new Set(['things-to-do', 'food', 'stay', 'getting-around', 'best-time', 'itinerary', 'tips']);
+const OVERVIEW_NAV = [
+  { id: 'why-visit', label: 'Why it matters' },
+  { id: 'attractions', label: 'Key sites' },
+  { id: 'status', label: 'Condition and access' },
+  { id: 'faq', label: 'FAQ' }
+];
+
 export function renderDestination(destination, { site }) {
+  const overview = destination.mode === 'overview';
   const country = destination.countryData;
   const name = displayName(destination);
   const inName = inlineName(destination);
   const pagePath = `${country.slug}/${destination.slug}`;
   const description = plain(destination.metaDescription || destination.intro[0], 158);
-  const keywords = buildKeywords(
-    destination.name,
-    `${destination.name} travel guide`,
-    `things to do in ${inName}`,
-    `${destination.name} attractions`,
-    `${destination.name} itinerary`,
-    `best time to visit ${inName}`,
-    `${destination.name} vacation`,
-    destination.region,
-    country.name,
-    (destination.categories || []).map((slug) => categoryLabel(slug)),
-    String(destination.knownFor || '').split(','),
-    destination.attractions.slice(0, 5).map((a) => plain(a.name)),
-    destination.foods.slice(0, 4).map((f) => plain(f.name))
-  );
+  const keywords = overview
+    ? buildKeywords(
+        destination.name,
+        `${destination.name} history`,
+        `${destination.name} heritage`,
+        `${destination.name} UNESCO`,
+        `${destination.name} attractions`,
+        destination.region,
+        country.name,
+        (destination.categories || []).map((slug) => categoryLabel(slug)),
+        String(destination.knownFor || '').split(','),
+        destination.attractions.slice(0, 5).map((a) => plain(a.name))
+      )
+    : buildKeywords(
+        destination.name,
+        `${destination.name} travel guide`,
+        `things to do in ${inName}`,
+        `${destination.name} attractions`,
+        `${destination.name} itinerary`,
+        `best time to visit ${inName}`,
+        `${destination.name} vacation`,
+        destination.region,
+        country.name,
+        (destination.categories || []).map((slug) => categoryLabel(slug)),
+        String(destination.knownFor || '').split(','),
+        destination.attractions.slice(0, 5).map((a) => plain(a.name)),
+        destination.foods.slice(0, 4).map((f) => plain(f.name))
+      );
 
   const content = html`
     ${hero({
@@ -66,10 +90,14 @@ export function renderDestination(destination, { site }) {
       title: destination.name,
       tagline: destination.tagline,
       meta: [
-        { label: 'Best time', value: destination.bestTime.headline },
-        { label: 'Stay', value: destination.suggestedStay },
-        { label: 'Good for', value: destination.goodFor }
-      ].filter((m) => m.value),
+        overview
+          ? { label: 'Site status', value: destination.status?.headline }
+          : { label: 'Best time', value: destination.bestTime?.headline },
+        overview ? null : { label: 'Stay', value: destination.suggestedStay },
+        overview
+          ? { label: 'Known for', value: destination.knownFor }
+          : { label: 'Good for', value: destination.goodFor }
+      ].filter((m) => m && m.value),
       trail: [
         { label: 'Home', href: '' },
         { label: country.name, href: country.slug },
@@ -77,7 +105,9 @@ export function renderDestination(destination, { site }) {
       ]
     })}
 
-    ${sectionNav(SECTIONS)}
+    ${overview ? advisoryBanner(country.advisory, { compact: true, moreHref: country.slug }) : ''}
+
+    ${sectionNav(overview ? OVERVIEW_NAV : SECTIONS)}
 
     <section class="section section--intro" id="introduction">
       <div class="wrap layout-split">
@@ -92,14 +122,14 @@ export function renderDestination(destination, { site }) {
             ${factTable([
               { label: 'Region', value: destination.region },
               { label: 'Country', value: html`<a href="${url(country.slug)}">${country.name}</a>` },
-              { label: 'Best time', value: destination.bestTime.headline },
+              { label: 'Best time', value: destination.bestTime?.headline },
               { label: 'Suggested stay', value: destination.suggestedStay },
               { label: 'Nearest airport', value: destination.nearestAirport },
               { label: 'Known for', value: destination.knownFor },
               { label: 'Budget', value: destination.budget }
             ])}
             <a class="btn btn--ghost panel__btn" href="${url(`${country.slug}/travel-guide`)}">
-              ${country.name} travel guide
+              ${overview ? `${country.name} heritage overview` : `${country.name} travel guide`}
             </a>
           </div>
         </aside>
@@ -108,8 +138,8 @@ export function renderDestination(destination, { site }) {
 
     ${section({
       id: 'why-visit',
-      eyebrow: 'Why visit',
-      title: `Why visit ${inName}?`,
+      eyebrow: overview ? 'Why it matters' : 'Why visit',
+      title: overview ? `Why ${inName} matters` : `Why visit ${inName}?`,
       lead: destination.whyVisit.intro,
       body: detailList(destination.whyVisit.points, { numbered: false })
     })}
@@ -117,91 +147,115 @@ export function renderDestination(destination, { site }) {
     ${section({
       id: 'attractions',
       eyebrow: 'Main attractions',
-      title: `Top things to see in ${inName}`,
+      title: overview ? `Key sites and monuments in ${inName}` : `Top things to see in ${inName}`,
       lead: destination.attractionsIntro,
       tone: 'section--tint',
       body: attractionList(destination.attractions)
     })}
 
-    ${section({
-      id: 'things-to-do',
-      eyebrow: 'Things to do',
-      title: `Best things to do in ${inName}`,
-      lead: destination.thingsToDoIntro,
-      body: detailList(destination.thingsToDo)
-    })}
+    ${overview && destination.status
+      ? section({
+          id: 'status',
+          eyebrow: 'Condition and access',
+          title: `${name} today`,
+          lead: destination.status.intro,
+          body: detailList(destination.status.points, { numbered: false })
+        })
+      : ''}
 
-    ${section({
-      id: 'food',
-      eyebrow: 'Local food',
-      title: `What to eat in ${inName}`,
-      lead: destination.foodIntro,
-      tone: 'section--tint',
-      body: foodList(destination.foods)
-    })}
+    ${overview
+      ? ''
+      : section({
+          id: 'things-to-do',
+          eyebrow: 'Things to do',
+          title: `Best things to do in ${inName}`,
+          lead: destination.thingsToDoIntro,
+          body: detailList(destination.thingsToDo)
+        })}
 
-    ${section({
-      id: 'stay',
-      eyebrow: 'Accommodation',
-      title: `Where to stay in ${inName}`,
-      lead: destination.accommodation.intro,
-      body: html`
-        ${optionList(destination.accommodation.areas.map((a) => ({ name: a.name, text: a.text, detail: a.bestFor ? `Best for: ${a.bestFor}` : null })))}
-        ${destination.accommodation.budget
-          ? html`<div class="budget-bands">
-              <h3 class="budget-bands__title">What a night costs</h3>
-              ${factTable(
-                destination.accommodation.budget.map((b) => ({ label: b.label, value: b.value }))
-              )}
-            </div>`
-          : ''}
-      `
-    })}
+    ${overview
+      ? ''
+      : section({
+          id: 'food',
+          eyebrow: 'Local food',
+          title: `What to eat in ${inName}`,
+          lead: destination.foodIntro,
+          tone: 'section--tint',
+          body: foodList(destination.foods)
+        })}
 
-    ${section({
-      id: 'getting-around',
-      eyebrow: 'Transport',
-      title: `Getting to and around ${inName}`,
-      lead: destination.gettingThere.intro,
-      tone: 'section--tint',
-      body: html`
-        <h3 class="subhead">Getting there</h3>
-        ${optionList(destination.gettingThere.options)}
-        <h3 class="subhead">Getting around</h3>
-        <p class="section__lead section__lead--inline">${destination.gettingAround.intro}</p>
-        ${optionList(destination.gettingAround.options)}
-      `
-    })}
+    ${overview
+      ? ''
+      : section({
+          id: 'stay',
+          eyebrow: 'Accommodation',
+          title: `Where to stay in ${inName}`,
+          lead: destination.accommodation.intro,
+          body: html`
+            ${optionList(destination.accommodation.areas.map((a) => ({ name: a.name, text: a.text, detail: a.bestFor ? `Best for: ${a.bestFor}` : null })))}
+            ${destination.accommodation.budget
+              ? html`<div class="budget-bands">
+                  <h3 class="budget-bands__title">What a night costs</h3>
+                  ${factTable(
+                    destination.accommodation.budget.map((b) => ({ label: b.label, value: b.value }))
+                  )}
+                </div>`
+              : ''}
+          `
+        })}
 
-    ${section({
-      id: 'best-time',
-      eyebrow: 'When to go',
-      title: `Best time to visit ${inName}`,
-      lead: destination.bestTime.summary,
-      body: html`
-        ${seasonList(destination.bestTime.seasons)}
-        ${destination.bestTime.avoid
-          ? html`<p class="note note--warn"><strong>Worth planning around:</strong> ${destination.bestTime.avoid}</p>`
-          : ''}
-      `
-    })}
+    ${overview
+      ? ''
+      : section({
+          id: 'getting-around',
+          eyebrow: 'Transport',
+          title: `Getting to and around ${inName}`,
+          lead: destination.gettingThere.intro,
+          tone: 'section--tint',
+          body: html`
+            <h3 class="subhead">Getting there</h3>
+            ${optionList(destination.gettingThere.options)}
+            <h3 class="subhead">Getting around</h3>
+            <p class="section__lead section__lead--inline">${destination.gettingAround.intro}</p>
+            ${optionList(destination.gettingAround.options)}
+          `
+        })}
 
-    ${section({
-      id: 'itinerary',
-      eyebrow: 'Itinerary',
-      title: destination.itinerary.title || `${destination.itinerary.days.length} days in ${inName}`,
-      lead: destination.itinerary.intro,
-      tone: 'section--tint',
-      body: itineraryList(destination.itinerary.days)
-    })}
+    ${overview
+      ? ''
+      : section({
+          id: 'best-time',
+          eyebrow: 'When to go',
+          title: `Best time to visit ${inName}`,
+          lead: destination.bestTime.summary,
+          body: html`
+            ${seasonList(destination.bestTime.seasons)}
+            ${destination.bestTime.avoid
+              ? html`<p class="note note--warn"><strong>Worth planning around:</strong> ${destination.bestTime.avoid}</p>`
+              : ''}
+          `
+        })}
 
-    ${section({
-      id: 'tips',
-      eyebrow: 'Travel tips',
-      title: `${name} travel tips`,
-      lead: destination.tipsIntro,
-      body: tipList(destination.tips)
-    })}
+    ${overview
+      ? ''
+      : section({
+          id: 'itinerary',
+          eyebrow: 'Itinerary',
+          title: destination.itinerary.title || `${destination.itinerary.days.length} days in ${inName}`,
+          lead: destination.itinerary.intro,
+          tone: 'section--tint',
+          body: itineraryList(destination.itinerary.days)
+        })}
+
+    ${overview
+      ? ''
+      : section({
+          id: 'tips',
+          eyebrow: 'Travel tips',
+          title: `${name} travel tips`,
+          lead: destination.tipsIntro,
+          body: tipList(destination.tips)
+        })}
 
     ${section({
       id: 'faq',
@@ -215,7 +269,9 @@ export function renderDestination(destination, { site }) {
       id: 'related',
       eyebrow: 'Keep exploring',
       title: 'Related destinations',
-      lead: `Places that pair well with ${inName}, whether you have a few spare days or are building a longer route.`,
+      lead: overview
+        ? `Other sites in this overview that connect with ${inName}, historically or geographically.`
+        : `Places that pair well with ${inName}, whether you have a few spare days or are building a longer route.`,
       body: html`
         ${destinationGrid(destination.relatedPlaces, { showCountry: true })}
         <p class="section__more">

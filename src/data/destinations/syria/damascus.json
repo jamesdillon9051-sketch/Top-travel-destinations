@@ -1,0 +1,141 @@
+{
+  "slug": "damascus",
+  "name": "Damascus",
+  "country": "syria",
+  "mode": "overview",
+  "region": "Damascus Governorate",
+  "categories": ["capital-city", "unesco", "historic"],
+  "tagline": "One of the oldest continuously inhabited cities in the world, with an Umayyad mosque built on the site of a Roman temple and a Byzantine church, and an old city of covered souks and courtyard houses.",
+  "highlight": "The Umayyad Mosque, one of the great buildings of early Islam, with its mosaics, its courtyard and a shrine to John the Baptist.",
+  "shortDescription": "Syria's capital and one of the great ancient cities: a walled old city with the Umayyad Mosque, the Hamidiyeh souk and the Street Called Straight, which came through the war with relatively limited damage.",
+  "metaDescription": "A Damascus heritage overview: the Umayyad Mosque, the old city and the Street Called Straight, the souks and the Azm Palace, what the war did to the capital and what is known of its condition.",
+  "knownFor": "The Umayyad Mosque, the Hamidiyeh souk, the Street Called Straight, courtyard houses",
+  "coords": { "lat": 33.5138, "lng": 36.2765 },
+  "image": {
+    "file": "File:The Umayyad Mosque, the Courtyard, Damascus, Syria.jpg",
+    "alt": "The courtyard of the Umayyad Mosque in Damascus, photographed in 2008, before the war"
+  },
+  "intro": [
+    "Damascus lies in an oasis at the foot of Mount Qasioun, watered by the Barada River, and there has probably been a settlement on the site for more than four thousand years. It is often described as the oldest continuously inhabited capital in the world, a claim shared with Aleppo and a few other cities and impossible to prove, but not implausible. It was an Aramaean kingdom, then a Greek, Roman and Byzantine city, and in the 7th century it became the capital of the Umayyad caliphate, which ruled from Spain to the borders of India.",
+    "The old city, enclosed by walls that are mostly Roman and Ayyubid in origin, is a maze of lanes lined with houses built around courtyards with fountains, small mosques and churches, khans and bazaars. The great landmarks are the Umayyad Mosque, completed in the early 8th century on the site of a Byzantine basilica and a Roman temple, and the Hamidiyeh souk, a covered market that runs towards it along the line of a Roman street. The New Testament tells of Paul's conversion on the road to Damascus and his stay in a house on the Street Called Straight.",
+    "Damascus was struck by the war, but much less than Aleppo. Front lines ran through parts of the suburbs, mortar shells hit the old city, and neighbourhoods such as Jobar and the Yarmouk camp were devastated, but the historic core survived largely intact. The government fell here in December 2024. This page describes the city's history and what is known of its condition, but it is not a guide to visiting it."
+  ],
+  "whyVisit": {
+    "intro": "Damascus matters because it is one of the few great ancient cities that is still a living capital, with its old quarters lived in and used.",
+    "points": [
+      {
+        "title": "The Umayyad Mosque",
+        "text": "Built between 706 and 715 by the caliph al-Walid I, it is among the oldest and largest mosques in the world, with a vast courtyard, glittering mosaics of paradise-like landscapes and a shrine said to hold the head of John the Baptist."
+      },
+      {
+        "title": "A living old city",
+        "text": "The walled city has continued to serve as a home, a market and a workplace, with craftspeople making brocade, inlaid woodwork and glass in the same streets for centuries."
+      },
+      {
+        "title": "A layered history",
+        "text": "Aramaean, Greek, Roman, Byzantine, Islamic, Mamluk and Ottoman remains are all present in a small area, from the Roman temple gateway to Ottoman palaces."
+      },
+      {
+        "title": "Christian and Muslim heritage side by side",
+        "text": "The Christian quarter of Bab Touma, the Chapel of Ananias and the Street Called Straight sit alongside the great mosques and shrines."
+      },
+      {
+        "title": "Food and hospitality",
+        "text": "Damascus has one of the great Levantine cuisines, and a long tradition of sweets, ice cream and coffee houses."
+      }
+    ]
+  },
+  "attractionsIntro": "The key monuments are concentrated in the walled old city. This is a description of the sites as they were documented, and not an itinerary.",
+  "attractions": [
+    {
+      "name": "The Umayyad Mosque",
+      "text": "The centrepiece of the old city, with a courtyard framed by arcades decorated with gold-ground mosaics of trees, rivers and pavilions, three minarets and a prayer hall with a shrine to Yahya, John the Baptist. Its site has been sacred since the Roman temple of Jupiter and, later, the Byzantine Cathedral of St John."
+    },
+    {
+      "name": "The Hamidiyeh and Bzouriyeh souks",
+      "image": {
+        "file": "File:Damascus Souk El-Hamidiyeh 2.jpg",
+        "alt": "The arched iron roof of the Hamidiyeh souk in Damascus, photographed in 2010"
+      },
+      "text": "A long covered market, built in the 19th century under an arched metal roof, leading to the mosque past the columns of the Roman temple of Jupiter. The Bzouriyeh souk, nearby, was famous for spices, sweets and soap."
+    },
+    {
+      "name": "The Street Called Straight (Via Recta)",
+      "image": {
+        "file": "File:Damascus Straight Street.jpg",
+        "alt": "The Street Called Straight in the old city of Damascus"
+      },
+      "text": "The ancient east–west axis of the Roman city, mentioned in the Acts of the Apostles, lined with Ottoman-era shops and houses. It runs to the Roman arch of Bab Sharqi, the Eastern Gate."
+    },
+    {
+      "name": "The Chapel of Ananias and Bab Kisan",
+      "text": "An underground chapel in the Christian quarter, traditionally the house of Ananias, who restored the sight of Paul. Nearby, Bab Kisan marks the traditional site where Paul was lowered from the city walls in a basket."
+    },
+    {
+      "name": "The Azm Palace",
+      "text": "An 18th-century palace built for a governor of Damascus, with courtyards, fountains and alternating bands of black and white stone. It now houses a museum of arts and popular traditions, and is a fine example of Damascene domestic architecture."
+    },
+    {
+      "name": "The Citadel and Saladin's tomb",
+      "text": "The Ayyubid citadel at the north-west corner of the old city, built around the 12th and 13th centuries. Just outside the Umayyad Mosque is the mausoleum of Saladin, who died in Damascus in 1193."
+    },
+    {
+      "name": "The National Museum of Damascus",
+      "text": "Syria's national museum, with collections from Ebla, Mari, Ugarit, Palmyra and the painted synagogue of Dura-Europos, among the greatest archaeological collections in the Middle East."
+    }
+  ],
+  "status": {
+    "headline": "Old city largely intact",
+    "intro": "Damascus suffered far less physical damage to its historic core than Aleppo or Palmyra, but the wider city was heavily affected, and information on the condition of individual monuments is limited.",
+    "points": [
+      {
+        "title": "The old city",
+        "text": "The walled city and the Umayyad Mosque came through the war with limited damage from mortar shells, though some buildings were hit and maintenance was neglected. UNESCO and others have documented the damage and continued to list the Ancient City of Damascus as a World Heritage Site in Danger, since 2013."
+      },
+      {
+        "title": "The suburbs and surrounding areas",
+        "text": "Districts around the capital, including Jobar, eastern Ghouta and the Yarmouk refugee camp, were devastated by sieges and bombardment, and hundreds of thousands were displaced. Many have not been rebuilt."
+      },
+      {
+        "title": "The National Museum",
+        "text": "The museum's collections were packed and protected during the war, and the building was reported to have reopened in 2018. Some pieces have been shown abroad."
+      },
+      {
+        "title": "Political change",
+        "text": "The government of Bashar al-Assad fell in December 2024, after Damascus was taken by opposition forces. The city is now the seat of a transitional authority, and conditions there have been changing."
+      },
+      {
+        "title": "Travel advice",
+        "text": "Most governments advised against travel to Damascus at the time of writing. Check your government's current advice. This page is not a recommendation to go."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "Is Damascus really the oldest inhabited city in the world?",
+      "a": "It is one of several cities, including Aleppo, Jericho, Byblos and Jerusalem, that claim the title. Damascus has been inhabited for at least four thousand years and possibly much longer, but claims of continuous habitation are hard to prove."
+    },
+    {
+      "q": "What is the Umayyad Mosque?",
+      "a": "A great mosque built between 706 and 715 by the Umayyad caliph al-Walid I on the site of a Byzantine cathedral and a Roman temple. It is one of the largest and most important mosques in the Islamic world and contains a shrine associated with John the Baptist."
+    },
+    {
+      "q": "Was Damascus badly damaged in the war?",
+      "a": "The historic core was less damaged than Aleppo, Homs or Palmyra, but the suburbs and surrounding areas were devastated. The old city and the Umayyad Mosque survived largely intact."
+    },
+    {
+      "q": "Is Damascus safe to visit now?",
+      "a": "Most governments advised against all travel to Syria at the time of writing, including Damascus, and conditions can change quickly. This site does not recommend travel. Check your government's current advice."
+    },
+    {
+      "q": "What was the Street Called Straight?",
+      "a": "The main east–west street of Roman Damascus, mentioned in the Book of Acts as the place where Paul stayed after his conversion. It survives as a long, narrow street through the old city."
+    },
+    {
+      "q": "Where can I see Syrian art and antiquities outside Syria?",
+      "a": "The Louvre, the Pergamon Museum in Berlin, the British Museum and the Metropolitan Museum of Art all hold significant Syrian collections, including material from Palmyra, Mari and Ugarit."
+    }
+  ],
+  "related": ["aleppo", "maaloula", "bosra"],
+  "relatedArticles": ["unesco-worth-planning-around", "food-primer"]
+}

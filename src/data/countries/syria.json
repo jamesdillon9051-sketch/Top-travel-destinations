@@ -1,0 +1,185 @@
+{
+  "slug": "syria",
+  "name": "Syria",
+  "mode": "overview",
+  "continent": "Western Asia (Middle East)",
+  "countryCode": "SY",
+  "tagline": "Damascus and Aleppo, two of the oldest continuously inhabited cities on Earth, the ruins of Palmyra and the Crusader castles of the coast — a heritage the world is only beginning to reassess after fourteen years of war.",
+  "cardDescription": "One of the richest heritage countries in the world, and one that most governments still advise against visiting. We describe its ten great historic places and what has happened to them, without offering a trip to plan.",
+  "metaDescription": "A Syria heritage overview: Damascus, Aleppo, Palmyra, Krak des Chevaliers, Bosra, Apamea, Hama, Maaloula, Saladin's Castle and the Dead Cities — their history, what the war did to them and their condition today. Not a travel itinerary.",
+  "image": {
+    "file": "File:Palmyra, Syria, The Great Colonnade, Columns.jpg",
+    "alt": "The Great Colonnade of Palmyra, photographed in 2008, before the war"
+  },
+  "advisory": {
+    "short": "Most governments advise against travel",
+    "title": "This is a heritage overview, not a trip to plan.",
+    "text": [
+      "Syria has lived through more than a decade of war and, since December 2024, an uncertain political transition. At the time of writing (mid-2026), most governments advised their citizens against all travel to Syria, or against all but essential travel, and security, medical care and consular help remained unreliable across much of the country. Landmines and unexploded ordnance are widespread. Advice changes, so check your own government's current guidance before drawing any conclusion.",
+      "We describe Syria's ten most important historic places so that you can understand them, not so that you can book them. These pages contain no itineraries, hotel or transport advice, and we are not suggesting that anyone goes. Where a site has been damaged, closed or looted we say so, and we say where our information may be out of date.",
+      "Most of the photographs on these pages were taken between 2008 and 2010, before the war. They show these places as they were, and not necessarily as they are."
+    ]
+  },
+  "overview": {
+    "heroTitle": "Syria: A Heritage Overview",
+    "metaTitle": "Syria Heritage Overview — 10 Historic Places and Their Condition",
+    "placesTitle": "Ten places that define Syria's heritage",
+    "placesButton": "See the ten heritage sites",
+    "guideButton": "Read the full heritage overview",
+    "panelButton": "Read the heritage overview",
+    "practicalTitle": "Basic facts about Syria",
+    "foodTitle": "Syrian cooking",
+    "ctaTitle": "Understand first",
+    "ctaText": "The heritage overview explains what makes Syria one of the most important historical countries in the world, what the war did to it, and what would need to change before travel could be considered.",
+    "ctaButton": "Read the Syria heritage overview"
+  },
+  "destinations": [
+    "damascus",
+    "aleppo",
+    "palmyra",
+    "krak-des-chevaliers",
+    "bosra",
+    "apamea",
+    "hama",
+    "maaloula",
+    "saladin-castle",
+    "ancient-villages-dead-cities"
+  ],
+  "intro": [
+    "Syria sits where Mesopotamia, Anatolia, the Mediterranean and Arabia meet, and almost every empire of the ancient and medieval world passed through it. Damascus and Aleppo each claim to be among the oldest continuously inhabited cities on Earth. Ebla, in the north, left clay tablets that are among the earliest written archives. The Romans built a caravan city at Palmyra and a colonnaded metropolis at Apamea, and made Bosra the capital of their Arabian province. Early Christianity spread from Damascus, and the Umayyad caliphs ruled a vast empire from it.",
+    "The Middle Ages left the Crusader castles of Krak des Chevaliers and Saladin's Castle, the great mosques and covered souks of Damascus and Aleppo, and the norias, the huge wooden waterwheels of Hama. The limestone hills of the north are dotted with the abandoned Byzantine villages known as the Dead Cities. Six Syrian sites are on UNESCO's World Heritage List — Damascus, Aleppo, Palmyra, Bosra, Krak des Chevaliers with Saladin's Castle, and the Ancient Villages of Northern Syria — and all six have been on the List of World Heritage in Danger since 2013.",
+    "The civil war that began in 2011 killed several hundred thousand people and displaced millions. Its effects on heritage were devastating and uneven: Aleppo's old city was heavily damaged, Palmyra's temples were destroyed by Islamic State, and sites across the country were looted, shelled or occupied, while others, including much of old Damascus, came through relatively intact. The government of Bashar al-Assad fell in December 2024, and a transitional authority now governs much of the country, with other forces holding parts of the north, north-east and south. This overview tells the story of each of the ten great sites and what is known of their condition, but it is not a guide to visiting them."
+  ],
+  "placesIntro": "Ordered by historical importance rather than by ease of access. Each page describes the site's history, its key monuments and, importantly, what is known about its condition today and how reliable that information is.",
+  "foodIntro": "Syrian cooking is one of the great cuisines of the Levant, and Aleppo in particular has long been considered the culinary capital of the Arab world. It is worth understanding as part of the country's heritage, and much of it survives in the kitchens of Syrians at home and abroad.",
+  "foods": [
+    {
+      "name": "Kibbeh",
+      "image": {
+        "file": "File:Kibbeh3.jpg",
+        "alt": "Fried kibbeh, torpedo-shaped croquettes of bulgur and minced meat"
+      },
+      "text": "Bulgur wheat and minced lamb pounded into a paste and shaped around a filling of spiced meat and pine nuts, then fried, baked, grilled or cooked in yoghurt. Aleppo is famous for having dozens of varieties."
+    },
+    {
+      "name": "Muhammara",
+      "image": {
+        "file": "File:Muhammara.jpg",
+        "alt": "A bowl of muhammara, a red dip of roasted peppers and walnuts"
+      },
+      "text": "A dip of roasted red peppers, walnuts, breadcrumbs, pomegranate molasses and olive oil, originally from Aleppo. It is sweet, sour, smoky and slightly hot, and is now eaten across the region."
+    },
+    {
+      "name": "Mezze",
+      "image": {
+        "file": "File:Syria, Al-Husn, Arabic meze or mezze.jpg",
+        "alt": "A spread of Arabic mezze dishes on a table"
+      },
+      "text": "A table of small dishes — hummus, baba ghanoush, tabbouleh, stuffed vine leaves, pickles and salads — that is central to hospitality and celebrations. The Syrian versions are known for their freshness and variety."
+    },
+    {
+      "name": "Damascene sweets",
+      "image": {
+        "file": "File:Baklava shop, Damascus, Syria.jpg",
+        "alt": "Trays of baklava and Arab pastries in a Damascus shop"
+      },
+      "text": "Baklava, ma'amoul, barazek (sesame and pistachio biscuits) and knafeh, sold from glittering trays. Syrian confectionery has a reputation across the Arab world."
+    },
+    {
+      "name": "Booza",
+      "image": {
+        "file": "File:Bakdash ice-cream shop in the old souk in Damascus.jpg",
+        "alt": "The Bakdash ice-cream shop in the old souk in Damascus"
+      },
+      "text": "A stretchy, chewy ice cream made with mastic and salep, pounded until it stretches, and rolled in pistachios. The Bakdash shop in Damascus, founded in 1885, was among its best-known makers."
+    },
+    {
+      "name": "Aleppo pepper and spice blends",
+      "text": "The mildly hot, fruity, dried Aleppo pepper and the spice blends of Aleppo's old markets flavour the cooking of much of the Middle East and, in recent years, of restaurants worldwide."
+    }
+  ],
+  "practicalIntro": "Basic facts, for context. Because of the situation described above, this is not a practical guide, and almost everything about entry, money and safety is unsettled.",
+  "practical": {
+    "capital": "Damascus",
+    "language": "Arabic (Levantine dialect). Kurdish, Aramaic, Armenian, Circassian and other languages are spoken by minorities, and Western Neo-Aramaic survives in a few villages near Maaloula.",
+    "currency": "Syrian pound (SYP). It has lost most of its value since 2011, and the authorities have been redenominating it, so figures in older sources are meaningless.",
+    "money": "Banking has been badly disrupted, sanctions have complicated payments, and foreign cards have generally not worked. Do not assume you will be able to withdraw or pay for anything. Sanctions rules have been changing since the government fell, so check current conditions.",
+    "visa": "Entry rules and consular capacity have been in flux since December 2024. Most nationalities have needed a visa arranged in advance, and many governments advise against all travel. Do not rely on any general statement, including this one.",
+    "plugs": "Type C, E and L, 220 V, 50 Hz. Power cuts have been severe and long in much of the country.",
+    "emergency": "Emergency services are unreliable in much of the country. Do not depend on them.",
+    "safety": "Most governments advise against all travel to Syria or against all but essential travel. The risks include armed conflict, sectarian violence, kidnapping, landmines and unexploded ordnance, military strikes, criminality, and a lack of consular help and functioning medical care. Conditions differ by region and can change without warning. Check your own government's current advice.",
+    "connectivity": "Mobile and internet services are patchy and heavily disrupted in many areas.",
+    "timeZone": "UTC+3 all year. Syria adopted permanent summer time in 2022."
+  },
+  "culture": {
+    "intro": "Syrian society is diverse: Sunni, Alawite, Shia, Druze, Ismaili and Christian communities, and Arabs, Kurds, Armenians, Circassians, Turkmen and others, live in a country that has been deeply divided by the war. The generalisations below are about traditions of courtesy that Syrians themselves describe, and not a prediction of what a visitor would experience.",
+    "etiquette": [
+      {
+        "title": "Hospitality is a serious value",
+        "text": "Syrians are known across the region for generosity to guests, including offering tea, coffee, sweets and meals. Refusing food or drink repeatedly can cause offence, and a guest is expected to leave a little on the plate."
+      },
+      {
+        "title": "Greetings matter",
+        "text": "Greetings are long and warm, with enquiries about health and family. A handshake is common, and men and women may not shake hands with people of the opposite sex in more conservative settings."
+      },
+      {
+        "title": "Modest dress",
+        "text": "Both men and women are expected to cover shoulders and knees, particularly at religious sites, in the old cities and outside the big cities. Women often cover their hair in mosques."
+      },
+      {
+        "title": "Politics and the war are painful subjects",
+        "text": "Almost everyone in Syria has lost someone, and the war divides families and communities. Do not raise it casually, and listen without judging."
+      },
+      {
+        "title": "Photography needs care",
+        "text": "Photographing soldiers, checkpoints, government buildings, bridges and military sites has long been illegal and dangerous, and photographing people requires permission."
+      },
+      {
+        "title": "Respect for religious sites and practice",
+        "text": "Remove shoes at mosques, do not walk in front of people praying and observe the customs of each community, including the fasting month of Ramadan."
+      }
+    ],
+    "dos": [
+      "Read your government's current advice before drawing any conclusion",
+      "Learn about the country's history before you think about its present",
+      "Listen to Syrian voices, in person and in writing",
+      "Support reputable heritage and humanitarian organisations",
+      "Treat every person you meet as an individual",
+      "Respect local dress and religious customs"
+    ],
+    "donts": [
+      "Don't treat Syria as a tourist destination while advice says otherwise",
+      "Don't photograph soldiers, checkpoints or military sites",
+      "Don't take or buy antiquities, which are often looted",
+      "Don't assume every community shares the same political view",
+      "Don't raise the war or politics casually",
+      "Don't rely on old guidebooks, maps or prices"
+    ]
+  },
+  "faq": [
+    {
+      "q": "Is it safe to travel to Syria?",
+      "a": "At the time of writing (mid-2026), most governments advised against all travel to Syria or against all but essential travel. The risks include armed conflict, sectarian violence, landmines, kidnapping and a lack of consular and medical support. Check your own government's current advice, which may have changed."
+    },
+    {
+      "q": "Can I visit Damascus, Palmyra or Aleppo?",
+      "a": "Some visitors, mostly journalists, aid workers and a few specialist tour groups, have visited parts of the country, but most governments advise against it and conditions are unpredictable. We do not recommend or plan trips. This site describes these places so that you can understand them."
+    },
+    {
+      "q": "What happened to Syria's historic sites during the war?",
+      "a": "The damage was widespread and uneven. Aleppo's old city and its souks were heavily damaged, Palmyra's temples of Bel and Baalshamin and its Arch of Triumph were destroyed by Islamic State in 2015, many sites were looted, and Krak des Chevaliers and Bosra were shelled. Much of old Damascus survived relatively intact. Each destination page describes what is known."
+    },
+    {
+      "q": "Which Syrian sites are UNESCO World Heritage Sites?",
+      "a": "Six: the Ancient City of Damascus, the Ancient City of Aleppo, the Ancient City of Bosra, Palmyra, Crac des Chevaliers and Qal'at Salah El-Din, and the Ancient Villages of Northern Syria. All six have been on the List of World Heritage in Danger since 2013."
+    },
+    {
+      "q": "How can I learn more or help?",
+      "a": "Read Syrian writers and historians, follow the work of UNESCO and heritage organisations documenting the damage, and support reputable humanitarian and cultural-preservation groups. Museums abroad, including the British Museum, the Louvre and the Metropolitan Museum, hold important Syrian collections."
+    },
+    {
+      "q": "Why does this site cover Syria if it is not a travel destination right now?",
+      "a": "Because Syria holds some of the most important historical places in the world, and understanding them matters whether or not anyone can visit. We have written it as a heritage overview, with a clear notice on every page, so that it is useful without encouraging anyone to take risks."
+    }
+  ]
+}

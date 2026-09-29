@@ -149,6 +149,7 @@ export function destinationCard(destination, { rank, showCountry = false } = {})
     </a>
     <div class="card__body">
       <div class="card__cats">
+        ${destination.mode === 'overview' ? html`<span class="pill pill--sm pill--flag">Heritage overview</span>` : ''}
         ${join(categories.map((slug) => html`<span class="pill pill--sm">${categoryLabel(slug)}</span>`))}
       </div>
       <h3 class="card__title"><a href="${href}">${destination.name}</a></h3>
@@ -158,9 +159,9 @@ export function destinationCard(destination, { rank, showCountry = false } = {})
           : ''}
       </p>
       <p class="card__text">${destination.shortDescription}</p>
-      <p class="card__highlight"><span>Don't miss</span> ${destination.highlight}</p>
+      <p class="card__highlight"><span>${destination.mode === 'overview' ? 'Best known for' : "Don't miss"}</span> ${destination.highlight}</p>
       <a class="btn btn--primary card__btn" href="${href}">
-        Explore Destination<span aria-hidden="true"> →</span>
+        ${destination.mode === 'overview' ? 'Read the overview' : 'Explore Destination'}<span aria-hidden="true"> →</span>
         <span class="sr-only"> — ${destination.name}</span>
       </a>
     </div>
@@ -199,6 +200,7 @@ export function countryCard(country) {
     </a>
     <div class="country-card__body">
       <h3 class="country-card__title"><a href="${url(country.slug)}">${country.name}</a></h3>
+      ${country.mode === 'overview' ? html`<p class="country-card__flag">Heritage overview — not a trip to plan</p>` : ''}
       <p class="country-card__text">${country.cardDescription || country.tagline}</p>
       <p class="country-card__meta">
         ${country.places.length} destinations · ${country.continent}
@@ -214,6 +216,29 @@ export function countryCard(country) {
 }
 
 /* ------------------------------------------------------------------- blocks */
+
+/**
+ * Prominent notice on "overview" pages — places this site describes but does
+ * not recommend planning a trip to. Deliberately impossible to miss: it sits
+ * directly under the hero on every country, guide and destination page.
+ */
+export function advisoryBanner(advisory, { compact = false, moreHref = '' } = {}) {
+  if (!advisory) return '';
+  // Compact form (destination and guide pages) keeps the safety statement and
+  // the note about photographs, and links back to the full notice.
+  const paragraphs = compact
+    ? [advisory.text?.[0], advisory.text?.[advisory.text.length - 1]].filter(Boolean)
+    : advisory.text || [];
+  return html`<aside class="advisory" role="note" aria-label="Travel advisory">
+    <div class="wrap advisory__inner">
+      <p class="advisory__title">${advisory.title}</p>
+      ${join(paragraphs.map((paragraph) => html`<p class="advisory__text">${paragraph}</p>`))}
+      ${compact && moreHref
+        ? html`<p class="advisory__text"><a href="${url(moreHref)}">Read the full notice</a></p>`
+        : ''}
+    </div>
+  </aside>`;
+}
 
 /** Numbered detail list used for Things to Do (and, unillustrated, for culture/etiquette). */
 export function detailList(items, { numbered = true } = {}) {

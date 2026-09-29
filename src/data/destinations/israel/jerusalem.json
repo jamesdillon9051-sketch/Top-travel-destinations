@@ -1,0 +1,357 @@
+{
+  "slug": "jerusalem",
+  "name": "Jerusalem",
+  "country": "israel",
+  "region": "Jerusalem District",
+  "categories": ["capital-city", "unesco", "historic"],
+  "tagline": "A walled city of golden stone where the holiest places of three religions sit within a few hundred metres of each other.",
+  "highlight": "The Old City, where the Western Wall, the Church of the Holy Sepulchre and the Dome of the Rock can be reached on foot in an hour.",
+  "shortDescription": "One of the oldest cities in the world and a centre of pilgrimage for Jews, Christians and Muslims, with a dense Old City, a lively market and a fine museum.",
+  "metaDescription": "A Jerusalem travel guide: the Old City's four quarters, the Western Wall, Church of the Holy Sepulchre and Haram al-Sharif, the Mount of Olives, museums, Shabbat, safety and a three-day plan.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Tel Aviv Ben Gurion (TLV), about 45 minutes by train or road",
+  "knownFor": "The Western Wall, the Church of the Holy Sepulchre, the Dome of the Rock, the Old City",
+  "budget": "₪600–1,100 per day, mid-range",
+  "goodFor": "Religious history, archaeology, pilgrimage, walking, food markets",
+  "coords": { "lat": 31.7767, "lng": 35.2345 },
+  "image": {
+    "file": "File:Jerusalem-2013(2)-View of the Dome of the Rock & Temple Mount 02.jpg",
+    "alt": "The golden Dome of the Rock and the Temple Mount seen from the Mount of Olives"
+  },
+  "intro": [
+    "Jerusalem has been fought over, rebuilt and revered for at least three thousand years. To Jews it is the site of the First and Second Temples and the focus of their prayers for two millennia. To Christians it is where Jesus was crucified and, according to tradition, buried and resurrected. To Muslims it is the site of al-Haram al-Sharif, the Noble Sanctuary, from which Muhammad is believed to have ascended to heaven, and the third holiest city in Islam.",
+    "The core of the city is the Old City, a square kilometre enclosed by Ottoman walls built in the 16th century and divided into four quarters — Jewish, Christian, Muslim and Armenian. It is a maze of stone lanes, souks, courtyards and domes, and it is on the UNESCO World Heritage List, listed as being in danger. It lies in East Jerusalem, which Israel captured from Jordan in 1967 and later annexed, a step that most of the international community does not recognise. Israel regards the whole of Jerusalem as its capital, while the Palestinians claim East Jerusalem as the capital of a future state. The Old City is one of the most sensitive places in the world.",
+    "Beyond the walls, West Jerusalem is a modern city of neighbourhoods, museums and the Mahane Yehuda market, with the Israel Museum and Yad Vashem among its major institutions. East Jerusalem's Palestinian neighbourhoods, the Mount of Olives and the American Colony add another layer. The city rewards slow exploration, an early start and an open mind."
+  ],
+  "whyVisit": {
+    "intro": "Jerusalem is not like anywhere else, and even people who are not religious find it moving.",
+    "points": [
+      {
+        "title": "Three faiths within a short walk",
+        "text": "The Western Wall, the Church of the Holy Sepulchre and the Haram al-Sharif can be visited in a single morning, and watching people pray at each is unforgettable."
+      },
+      {
+        "title": "Layers of history",
+        "text": "Canaanite, Israelite, Roman, Byzantine, Crusader, Mamluk and Ottoman remains are stacked on top of each other, and archaeological tunnels and museums let you see them."
+      },
+      {
+        "title": "A working old city",
+        "text": "The Old City is a living neighbourhood, with schools, shops and families, and the markets remain a good place to eat, drink coffee and watch daily life."
+      },
+      {
+        "title": "Extraordinary museums",
+        "text": "The Israel Museum holds the Dead Sea Scrolls in the Shrine of the Book, and Yad Vashem, Israel's Holocaust memorial, is a profound and important visit."
+      },
+      {
+        "title": "Food and markets",
+        "text": "Mahane Yehuda is one of the best food markets in the region, and the restaurants of the Old City and East Jerusalem serve some of the best hummus and knafeh in the country."
+      }
+    ]
+  },
+  "attractionsIntro": "The Old City takes at least a full day. The Mount of Olives, Mount Zion and the museums fill a second and third.",
+  "attractions": [
+    {
+      "name": "The Western Wall",
+      "image": {
+        "file": "File:Westen (Wailing) Wall, Jerusalem, 2007.jpg",
+        "alt": "Worshippers at the Western Wall in Jerusalem's Old City"
+      },
+      "text": "A retaining wall of the platform of the Second Temple, built by Herod, and the holiest place where Jews can pray. There are separate sections for men and women, and prayers and notes are pushed into the cracks.",
+      "tip": "Cover your shoulders and knees, and men should cover their heads (paper kippot are provided). Open 24 hours; it is especially moving on Friday evening."
+    },
+    {
+      "name": "Haram al-Sharif (Temple Mount)",
+      "text": "A large platform that holds the Dome of the Rock, built in 691 CE, and the Al-Aqsa Mosque. It is the holiest site in Judaism and the third holiest in Islam. It is administered by the Islamic Waqf, and non-Muslim visitors may enter at limited hours through the Mughrabi Gate, but may not enter the buildings or pray.",
+      "tip": "Hours and access change often and are restricted during Ramadan, on Fridays and at times of tension. Check on the day, dress modestly and expect a security check."
+    },
+    {
+      "name": "Church of the Holy Sepulchre",
+      "image": {
+        "file": "File:Jerusalem Holy Sepulchre BW 19.JPG",
+        "alt": "The facade of the Church of the Holy Sepulchre in Jerusalem"
+      },
+      "text": "The church built over the traditional sites of Jesus's crucifixion and tomb, shared by six Christian denominations under a delicate arrangement known as the Status Quo. The keys have been held by two Muslim families for centuries.",
+      "tip": "Arrive at opening to avoid queues at the tomb (the Edicule), and look for the Stone of Anointing and the stairs up to Calvary."
+    },
+    {
+      "name": "The Via Dolorosa",
+      "text": "The route that Christian tradition says Jesus walked to the crucifixion, with fourteen stations that lead through the Muslim Quarter to the Holy Sepulchre. Franciscan pilgrims follow it on Friday afternoons.",
+      "tip": "It is a working street with shops and traffic. Walk it slowly and stay for the Friday procession if you can."
+    },
+    {
+      "name": "The Mount of Olives and Gethsemane",
+      "image": {
+        "file": "File:Jerusalem Church of all nations BW 7.jpg",
+        "alt": "The Church of All Nations at the foot of the Mount of Olives"
+      },
+      "text": "The ridge east of the Old City with the best panorama of Jerusalem, the ancient Jewish cemetery, the Church of All Nations and the Garden of Gethsemane. The view of the golden Dome across the Kidron Valley is one of the world's great city views.",
+      "tip": "Go in the morning, when the light is on the Old City, and walk down to Gethsemane."
+    },
+    {
+      "name": "Mount Zion",
+      "text": "A hill just outside the Old City walls with the Dormition Abbey, the traditional Tomb of David and the Room of the Last Supper (Cenacle). It has been a pilgrimage centre for centuries.",
+      "tip": "Check opening hours, which vary on Shabbat and religious holidays."
+    },
+    {
+      "name": "The Tower of David and the Old City walls",
+      "image": {
+        "file": "File:Jerusalem-Tower-of-David-V2-348.jpg",
+        "alt": "The Tower of David citadel at the Jaffa Gate in Jerusalem"
+      },
+      "text": "A citadel at the Jaffa Gate with a museum on the history of Jerusalem, and a rampart walk around parts of the Old City walls with excellent views.",
+      "tip": "The evening sound-and-light show has run in summer and is worth checking."
+    },
+    {
+      "name": "The Israel Museum and the Shrine of the Book",
+      "text": "Israel's national museum, with archaeology, art and the Shrine of the Book, which houses the Dead Sea Scrolls, some of the oldest known biblical manuscripts. A large model of Jerusalem in the Second Temple period is close by.",
+      "tip": "Allow at least three hours, and visit the Shrine of the Book first."
+    },
+    {
+      "name": "Yad Vashem",
+      "text": "Israel's world Holocaust remembrance centre, with an extraordinary museum that follows the story of the Holocaust, and the Hall of Names and the Children's Memorial. It is powerful and important.",
+      "tip": "Allow three to four hours, and consider it before the rest of the day. It is not recommended for young children."
+    },
+    {
+      "name": "The Garden Tomb",
+      "image": {
+        "file": "File:Jerusalem-Garden-Tomb-KTM-1262.jpg",
+        "alt": "The rock-cut tomb in the Garden Tomb in Jerusalem"
+      },
+      "text": "A peaceful garden north of the Old City where many Protestants believe the crucifixion and resurrection took place, as an alternative to the Holy Sepulchre. The site is quiet and welcoming.",
+      "tip": "The site has guided tours in many languages. Check opening hours."
+    }
+  ],
+  "thingsToDoIntro": "Jerusalem rewards a slow pace, an early start, and letting the city surprise you.",
+  "thingsToDo": [
+    {
+      "title": "Walk the four quarters",
+      "text": "Start at the Jaffa Gate and work through the Armenian, Jewish, Muslim and Christian quarters, stopping for coffee and a snack in each. A walking tour or a good map helps.",
+      "tip": "Go early, when the streets are quiet and shopkeepers are opening."
+    },
+    {
+      "title": "Attend a service or a prayer",
+      "text": "Friday evening at the Western Wall, an Orthodox liturgy at the Holy Sepulchre or the call to prayer from the Old City's minarets are unforgettable ways of experiencing the city's religious life.",
+      "tip": "Observe respectfully from the side and do not photograph worshippers without consent."
+    },
+    {
+      "title": "Visit the Western Wall Tunnels",
+      "text": "A guided walk along the length of the Western Wall underground, past Herodian stones and Hasmonean passages. Tours must be booked in advance.",
+      "tip": "Book early, particularly in spring and autumn."
+    },
+    {
+      "title": "Eat at Mahane Yehuda",
+      "text": "The city's main market is a warren of fruit, spice, cheese, halva and baked-goods stalls by day and a bar and restaurant scene by night. Many stalls close early on Friday and for Shabbat.",
+      "tip": "Go on a Thursday or Friday morning for the atmosphere, and eat before the Shabbat rush."
+    },
+    {
+      "title": "Watch the sunset from the Mount of Olives",
+      "text": "As the sun goes down, the Old City walls and the Dome glow gold, and the city lights come on. It is one of the great views in the Middle East.",
+      "tip": "Go with other people, and take a taxi back. The walk down is quiet after dark."
+    },
+    {
+      "title": "Explore East Jerusalem",
+      "text": "Palestinian neighbourhoods around Salah al-Din Street and the American Colony hotel have good restaurants and shops, and a different perspective on the city.",
+      "tip": "Ask your hotel about current conditions before you go."
+    },
+    {
+      "title": "Take a day trip to Bethlehem or the Dead Sea",
+      "text": "Bethlehem is about 10 km south, and the Dead Sea 45 minutes east. Both can be visited in a day, though crossing to Bethlehem involves a checkpoint.",
+      "tip": "Book a guide or tour for Bethlehem, and take your passport."
+    }
+  ],
+  "foodIntro": "Jerusalem's cooking reflects its mix of communities: Ashkenazi, Sephardi, Palestinian and Armenian. Most of the city's restaurants are kosher on the Jewish side, and Palestinian places in the Old City and East Jerusalem are halal.",
+  "foods": [
+    {
+      "name": "Hummus",
+      "text": "Warm, creamy hummus is a staple of Jerusalem's Old City and East Jerusalem, often served with fuul, tahini and fresh bread.",
+      "whereToTry": "Small hummus restaurants in the Old City and East Jerusalem."
+    },
+    {
+      "name": "Knafeh",
+      "text": "A hot pastry of cheese and syrup, popular in the Old City and in East Jerusalem.",
+      "whereToTry": "Sweet shops in the Muslim Quarter."
+    },
+    {
+      "name": "Jerusalem bagel and sesame bread",
+      "text": "Ka'ak, a ring of soft sesame bread sold from carts in the Old City, often eaten with za'atar or a boiled egg.",
+      "whereToTry": "Street carts near the Damascus Gate."
+    },
+    {
+      "name": "Jerusalem mixed grill",
+      "text": "A local speciality of chicken hearts, livers and lamb, grilled on a flat plate with onions and spices. It is a Mahane Yehuda classic.",
+      "whereToTry": "Grill restaurants around the Mahane Yehuda market."
+    },
+    {
+      "name": "Halva and Middle Eastern sweets",
+      "text": "Blocks of halva in many flavours, plus baklava and dried fruit, sold by weight at Mahane Yehuda.",
+      "whereToTry": "Stalls in the Mahane Yehuda market."
+    },
+    {
+      "name": "Cholent and Shabbat food",
+      "text": "A slow-cooked stew of beans, barley and meat traditionally eaten on Shabbat lunch. Some restaurants and hotels serve it.",
+      "whereToTry": "Restaurants and hotels serving a traditional Shabbat menu."
+    }
+  ],
+  "accommodation": {
+    "intro": "Jerusalem is a compact city, and the best base depends on whether you want the Old City, the market district or a quieter neighbourhood. Book well ahead for spring, autumn and holidays.",
+    "areas": [
+      {
+        "name": "The Old City",
+        "bestFor": "Atmosphere and early starts",
+        "text": "A handful of guesthouses and hospices, some in historic buildings, inside the walls. It is atmospheric and quiet at night, with limited food options."
+      },
+      {
+        "name": "Downtown and Mahane Yehuda",
+        "bestFor": "Restaurants, nightlife and transport",
+        "text": "Hotels, hostels and apartments near the light rail and the market. It is lively and convenient, but Shabbat is quiet."
+      },
+      {
+        "name": "German Colony and Emek Refaim",
+        "bestFor": "Cafés and a residential feel",
+        "text": "A leafy, upmarket neighbourhood with restaurants and boutique hotels, a short taxi ride or a 30-minute walk from the Old City."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "₪150–350 per night" },
+      { "label": "Mid-range hotel", "value": "₪500–900 per night" },
+      { "label": "Luxury or historic hotel", "value": "₪1,000–2,000 per night" },
+      { "label": "Guided Old City tour", "value": "₪100–300 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Jerusalem is about 55 km from Tel Aviv and Ben Gurion airport, and it is well connected by train, bus and road.",
+    "options": [
+      {
+        "mode": "Train from Ben Gurion airport or Tel Aviv",
+        "text": "The high-speed line reaches Jerusalem's Yitzhak Navon station in roughly 30–40 minutes from Tel Aviv and from Ben Gurion airport, depending on the service. The station is a short tram ride from the centre.",
+        "detail": "The train does not run on Shabbat. Check the timetable and book online."
+      },
+      {
+        "mode": "Bus or sherut",
+        "text": "Buses from Tel Aviv, Haifa and other cities arrive at the Central Bus Station. Shared taxis (sherut) and a few routes run on Shabbat.",
+        "detail": "Use a taxi or the light rail from the bus station."
+      },
+      {
+        "mode": "Car",
+        "text": "Route 1 from Tel Aviv takes about an hour. Parking in the Old City is limited, so park outside and walk or take a taxi.",
+        "detail": "Avoid driving on Shabbat in religious neighbourhoods."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The Old City is walkable only, and the rest of the city is served by a light rail, buses and taxis.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The Old City is entirely on foot, with stairs, slopes and uneven cobbles. Comfortable shoes are essential.",
+        "detail": "Use a map app, but expect to get lost; the alleys are confusing and signs are limited."
+      },
+      {
+        "mode": "Light rail",
+        "text": "A single line runs from the north to the southwest, past the Old City's Jaffa Gate and Damascus Gate and through the downtown area.",
+        "detail": "Pay with a Rav-Kav card. It does not run on Shabbat."
+      },
+      {
+        "mode": "Taxi and ride-hailing",
+        "text": "Taxis and apps such as Gett are useful for the Mount of Olives, museums and evenings.",
+        "detail": "On Shabbat, only a few taxis operate and prices are higher."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Jerusalem sits at about 750 m and is cooler than the coast. Spring and autumn are ideal, summer is hot but dry, and winter is cold and wet with occasional snow.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm, sunny days and green hills. Easter and Passover bring crowds and high prices."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot and dry, typically 28–33°C, and busy. Sightseeing is best in the early morning and evening."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm days and clear light, though the High Holidays in September and October disrupt transport and opening hours."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold and wet, sometimes with snow, and few visitors. Christmas draws pilgrims. The city is atmospheric in the rain."
+      }
+    ],
+    "avoid": "Yom Kippur, when the whole city stops, and the major holiday weeks unless you want to see the celebrations and are ready for the prices."
+  },
+  "itinerary": {
+    "title": "Three days in Jerusalem",
+    "intro": "The Old City on the first day, the Mount of Olives and museums on the second, and Mount Zion and Mahane Yehuda on the third. Assumes a base in or near the Old City.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Old City",
+        "summary": "The three great sites and the four quarters.",
+        "morning": "The Haram al-Sharif when it opens, then the Western Wall.",
+        "afternoon": "The Church of the Holy Sepulchre and the Via Dolorosa, with lunch in the Muslim Quarter.",
+        "evening": "The Tower of David and a walk along the ramparts."
+      },
+      {
+        "day": 2,
+        "title": "Olives, Gethsemane and museums",
+        "summary": "The view, and the story behind the city.",
+        "morning": "The Mount of Olives at sunrise, and the Garden of Gethsemane.",
+        "afternoon": "The Israel Museum and the Shrine of the Book, or Yad Vashem.",
+        "evening": "Dinner in the German Colony."
+      },
+      {
+        "day": 3,
+        "title": "Zion, the market and the wider city",
+        "summary": "A gentler final day.",
+        "morning": "Mount Zion, the Dormition Abbey and the Cenacle.",
+        "afternoon": "Mahane Yehuda for lunch, or a half-day trip to Bethlehem.",
+        "evening": "A drink at the market, or Friday-night prayers at the Western Wall."
+      }
+    ]
+  },
+  "tipsIntro": "Jerusalem is intense, and a few habits help you enjoy it.",
+  "tips": [
+    "Start early. The Old City is quieter in the first hours, and the Haram al-Sharif has limited visiting times for non-Muslims.",
+    "Dress modestly for every holy site, with shoulders and knees covered, and carry a scarf. Wear shoes that are easy to take off.",
+    "Plan around Shabbat and holidays. From Friday afternoon to Saturday evening, public transport stops and many places close, though the Old City's Muslim and Christian quarters stay open.",
+    "Check the situation on the day. Access to the Haram al-Sharif and to the Old City can change at short notice, and your government's advice is the best guide.",
+    "Carry your passport. You may be asked for it at security checkpoints and if you cross to the West Bank.",
+    "Take small notes and coins. Cards are accepted in most places, but small stalls and tips need cash.",
+    "Use a guide for the archaeological sites and the Old City. A good one brings layers of history to life and helps you find your way.",
+    "Respect worshippers. Keep your voice low, do not photograph people at prayer, and follow the rules at each site."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Jerusalem?",
+      "a": "Three to four is ideal. One is enough for the Old City's highlights, but a second and third let you see the Mount of Olives, the museums and the market at a reasonable pace."
+    },
+    {
+      "q": "Is Jerusalem safe for tourists?",
+      "a": "Millions of visitors go each year without incident, and the Old City is heavily patrolled. The security situation can change quickly, and there have been periods of tension and violence in the city, so check current advice from your government before you go and while you are there."
+    },
+    {
+      "q": "Can non-Muslims visit the Dome of the Rock?",
+      "a": "Non-Muslims can visit the Haram al-Sharif compound at limited times, through the Mughrabi Gate, but cannot enter the Dome of the Rock or the Al-Aqsa Mosque. Access and hours change and can be restricted, so check before you go."
+    },
+    {
+      "q": "What should I wear in Jerusalem?",
+      "a": "Modest clothing with shoulders and knees covered, especially in the Old City and at holy sites. Carry a scarf, wear comfortable shoes, and bring a light jacket in winter and evenings."
+    },
+    {
+      "q": "What happens in Jerusalem on Shabbat?",
+      "a": "From Friday afternoon to Saturday evening, public transport stops, and most Jewish-area shops and restaurants close. The Old City's Muslim and Christian quarters and East Jerusalem remain open. The quiet streets and Friday-night prayers are an experience in themselves."
+    },
+    {
+      "q": "Can I visit Bethlehem from Jerusalem?",
+      "a": "Yes. Bethlehem is about 10 km south, and many visitors go on a half-day trip, with a checkpoint on the way. Take your passport and check current conditions. See [[bethlehem|our guide to Bethlehem]] in the [[c:palestinian-territories|Palestinian Territories]]."
+    }
+  ],
+  "related": ["masada-dead-sea", "tel-aviv-jaffa", "nazareth"],
+  "relatedArticles": ["unesco-worth-planning-around", "packing-by-season"]
+}

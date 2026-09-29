@@ -1,0 +1,310 @@
+{
+  "slug": "ajloun-umm-qais",
+  "name": "Ajloun & Umm Qais",
+  "shortName": "Ajloun and Umm Qais",
+  "country": "jordan",
+  "region": "Ajloun and Irbid governorates, northern Jordan",
+  "categories": ["historic", "off-the-beaten-path", "nature"],
+  "tagline": "A hilltop castle built against the Crusaders in green oak forest, and a Roman city of black basalt looking over the Sea of Galilee.",
+  "highlight": "Umm Qais at sunset, with the black basalt columns of ancient Gadara in the foreground and the Sea of Galilee and the Golan Heights beyond.",
+  "shortDescription": "Northern Jordan's green highlands: a 12th-century Ayyubid castle above forested hills, and a Decapolis hilltop town with a view across three countries.",
+  "metaDescription": "An Ajloun and Umm Qais travel guide: Ajloun Castle and its forest reserve, the basalt ruins of Gadara, Pella and the Jordan Valley, when to go, where to stay and a one-day plan from Amman.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Amman Queen Alia (AMM), about 1 hour 30 minutes to Ajloun",
+  "knownFor": "Ajloun Castle, Gadara's basalt ruins, forests, views over the Sea of Galilee",
+  "budget": "JD 40–80 per day, including entry",
+  "goodFor": "Castles, Roman ruins, forests, walking, quiet day trips",
+  "coords": { "lat": 32.6560, "lng": 35.6850 },
+  "image": {
+    "file": "File:Umm Qais 25.JPG",
+    "alt": "The basalt colonnade and ruins of ancient Gadara at Umm Qais"
+  },
+  "intro": [
+    "Northern Jordan is greener than most visitors expect. The highlands above the Jordan Valley catch enough rainfall to support oak, pine and pistachio forest, olive groves and orchards, and the landscape is more Mediterranean than desert. Two sites stand out: the castle at Ajloun and the ancient city of Gadara, now the village of Umm Qais.",
+    "Ajloun Castle, known in Arabic as Qal'at ar-Rabad, was built in 1184–85 by Izz ad-Din Usama, a general of Saladin, on the top of a hill overlooking the Jordan Valley. It was a lookout and a link in a chain of signal fires and pigeon posts that connected Saladin's territories against the Crusaders, and it was rebuilt by the Mamluks in the 13th century after the Mongols damaged it.",
+    "Umm Qais, 45 km further north, sits on a ridge above the Yarmouk River and was one of the ten cities of the Decapolis. Its ruins are built of black basalt, giving it a very different character from the pale limestone of Jerash. From its terraces you can see the Sea of Galilee, the Golan Heights and the hills of northern Israel, in one of the most striking views in the country."
+  ],
+  "whyVisit": {
+    "intro": "This is a gentle, green part of Jordan, and a good contrast to the desert in the south.",
+    "points": [
+      {
+        "title": "A castle in a forest",
+        "text": "Ajloun's hilltop fortress is surrounded by oak and pine, and its towers and vaulted rooms are well preserved. The views from the top stretch across the Jordan Valley."
+      },
+      {
+        "title": "Black basalt ruins",
+        "text": "Gadara's theatre, colonnaded street and church are built of dark volcanic stone, and the effect is dramatic, especially in the low light of late afternoon."
+      },
+      {
+        "title": "The view",
+        "text": "Umm Qais overlooks the Sea of Galilee, the Golan Heights and the Yarmouk valley, and on a clear day, Mount Hermon."
+      },
+      {
+        "title": "Hiking and nature",
+        "text": "The Ajloun Forest Reserve has marked trails through woodland, and the region's mild climate makes it attractive for walking."
+      },
+      {
+        "title": "Few visitors",
+        "text": "Most travellers head south, so the north is quiet, and local people are keen to welcome visitors."
+      }
+    ]
+  },
+  "attractionsIntro": "Ajloun and Umm Qais are 45 km apart, so a day trip takes in both, with time for lunch in between.",
+  "attractions": [
+    {
+      "name": "Ajloun Castle",
+      "image": {
+        "file": "File:Ajloun Castle (Interior).jpg",
+        "alt": "The vaulted interior of Ajloun Castle"
+      },
+      "text": "A compact fortress with thick walls, towers and a network of vaulted chambers, built in the 1180s and expanded later. From the roof you can see across to the Jordan Valley and, on a clear day, the Sea of Galilee.",
+      "tip": "Go at opening, when it is quiet, and combine with a walk through the forest."
+    },
+    {
+      "name": "Ajloun Forest Reserve",
+      "text": "A protected area of oak, pistachio and strawberry-tree woodland, managed by the Royal Society for the Conservation of Nature. It has marked trails, a small visitor centre and a few basic cabins.",
+      "tip": "Trails are best in spring and autumn, and you can arrange a guide at the reserve."
+    },
+    {
+      "name": "Mar Elias (Tishbe)",
+      "text": "A ruined Byzantine church on a hill said to be the birthplace of the prophet Elijah, a site of Christian pilgrimage. The views over the hills are good.",
+      "tip": "It is reached by a short drive from Ajloun, and is best visited with a local guide."
+    },
+    {
+      "name": "Gadara (Umm Qais) archaeological site",
+      "image": {
+        "file": "File:Gadara BW 5.JPG",
+        "alt": "The black basalt theatre at Gadara, Umm Qais"
+      },
+      "text": "A hilltop town with a basalt theatre, a colonnaded street, a Byzantine church and a nymphaeum. Much of the site is unrestored, giving it a quiet, unfinished character.",
+      "tip": "Go in the late afternoon, when the light on the dark stone is best."
+    },
+    {
+      "name": "The Umm Qais viewpoint",
+      "text": "A terrace at the edge of the site with a panoramic view of the Sea of Galilee, the Golan Heights and Mount Hermon. There is a small café.",
+      "tip": "Stay for sunset, and bring a light jacket."
+    },
+    {
+      "name": "Pella (Tabaqat Fahl)",
+      "text": "One of the oldest continuously inhabited sites in the Jordan Valley, with ruins from the Bronze Age to the Islamic period, including Roman and Byzantine churches.",
+      "tip": "It is off the main route, so visit with a driver."
+    },
+    {
+      "name": "The Ottoman village of Umm Qais",
+      "text": "An old Ottoman-period village of black stone houses within the archaeological site, including a small museum in a former governor's residence.",
+      "tip": "Look for the mosaics in the museum."
+    }
+  ],
+  "thingsToDoIntro": "The main activity is sightseeing at a leisurely pace, and a few extras help fill the day.",
+  "thingsToDo": [
+    {
+      "title": "Climb Ajloun Castle at opening",
+      "text": "Explore the corridors, staircases and towers, then climb to the roof for the view. The castle takes about an hour and a half.",
+      "tip": "Bring a torch, as some of the passages are dark."
+    },
+    {
+      "title": "Walk in the Ajloun Forest",
+      "text": "A network of marked trails runs through the reserve, from short strolls to half-day hikes, with wildflowers in spring.",
+      "tip": "Ask at the visitor centre about routes and guides."
+    },
+    {
+      "title": "Watch the sunset at Umm Qais",
+      "text": "The sun sinks over the hills of the Galilee and the sea turns gold. It is a peaceful and beautiful moment.",
+      "tip": "Bring a jacket, and arrive an hour before sunset."
+    },
+    {
+      "title": "Have lunch with a view",
+      "text": "Several restaurants at Umm Qais and along the road serve Jordanian food on terraces overlooking the lake.",
+      "tip": "Ask for the daily special."
+    },
+    {
+      "title": "Visit Pella",
+      "text": "A quiet archaeological site in the Jordan Valley with ruins spanning thousands of years and no crowds.",
+      "tip": "Combine it with a drive along the Jordan Valley."
+    },
+    {
+      "title": "Stay in a village guesthouse",
+      "text": "A few families and RSCN-run cabins offer overnight stays with home cooking, an unusual and personal way to see the north.",
+      "tip": "Book in advance."
+    }
+  ],
+  "foodIntro": "Northern Jordan is agricultural, and its food reflects that: olive oil, fresh vegetables, herbs and farm-produced cheese.",
+  "foods": [
+    {
+      "name": "Maqluba",
+      "text": "The upside-down rice, meat and vegetable dish is a specialty of the north, and locals will often insist you try it.",
+      "whereToTry": "Home-style restaurants in Ajloun and Umm Qais."
+    },
+    {
+      "name": "Mansaf",
+      "text": "Lamb in a dried-yoghurt sauce, served over rice. The classic Jordanian celebration dish.",
+      "whereToTry": "Restaurants in Ajloun town and at Umm Qais."
+    },
+    {
+      "name": "Olive oil and olives",
+      "text": "The hills around Ajloun are covered in olive groves, and the oil is excellent. Look for it in local shops.",
+      "whereToTry": "Shops and stalls in Ajloun and the villages."
+    },
+    {
+      "name": "Labneh and cheese",
+      "text": "Strained yoghurt, often rolled in herbs and olive oil, and white cheese, served with fresh bread.",
+      "whereToTry": "Breakfast at guesthouses and local cafés."
+    },
+    {
+      "name": "Fresh fruit and figs",
+      "text": "In summer and autumn, the orchards produce figs, grapes, pomegranates and apples, which are sold at roadside stands.",
+      "whereToTry": "Roadside stalls."
+    },
+    {
+      "name": "Za'atar and bread",
+      "text": "Fresh flatbread baked with olive oil and the herb mix za'atar, a simple and delicious breakfast.",
+      "whereToTry": "Bakeries in Ajloun."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors go as a day trip from Amman or Jerash, but staying nearby gives you the forest and the quiet evenings.",
+    "areas": [
+      {
+        "name": "Ajloun Forest Reserve",
+        "bestFor": "Nature and walking",
+        "text": "Simple cabins and a campsite in the woodland, run by the RSCN. A short drive from the castle."
+      },
+      {
+        "name": "Umm Qais",
+        "bestFor": "Views and sunset",
+        "text": "A few guesthouses and small hotels in and near the village, some with views over the lake."
+      },
+      {
+        "name": "Amman or Jerash",
+        "bestFor": "Most visitors",
+        "text": "A wider choice of places to stay, and easy day trips north."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse or cabin", "value": "JD 25–50 per night" },
+      { "label": "Mid-range hotel", "value": "JD 50–90 per night" },
+      { "label": "Castle and site entry", "value": "Included in the Jordan Pass; a few dinars otherwise" },
+      { "label": "Lunch with a view", "value": "JD 5–12 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Ajloun is about 75 km from Amman and Umm Qais about 110 km. A car or a driver is easiest.",
+    "options": [
+      {
+        "mode": "Car or private driver",
+        "text": "About 75 minutes to Ajloun from Amman, and another hour to Umm Qais. It is a good combination with Jerash, which lies between them.",
+        "detail": "Roads are good but can be winding."
+      },
+      {
+        "mode": "Bus",
+        "text": "Buses run from Amman to Ajloun and Irbid, and minibuses connect to Umm Qais, though it takes time and planning.",
+        "detail": "Check schedules, and allow extra time."
+      },
+      {
+        "mode": "Tour",
+        "text": "Some Amman operators run day trips to Jerash and Ajloun, or to Umm Qais and Pella.",
+        "detail": "Confirm what is included."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Both sites are on foot once you arrive, and the region needs a vehicle between them.",
+    "options": [
+      {
+        "mode": "Hire car or driver",
+        "text": "The most convenient way to link Ajloun, Jerash and Umm Qais.",
+        "detail": "Agree the itinerary and price in advance."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Taxis run between the towns and the sites, and are cheap.",
+        "detail": "Agree the price before you set off."
+      },
+      {
+        "mode": "Walking",
+        "text": "The castle and the archaeological sites are easy to explore on foot, and the forest is criss-crossed by trails.",
+        "detail": "Wear sturdy shoes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "The north has a Mediterranean climate, with mild springs and autumns, warm summers and cool, wet winters. Spring is greenest.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Green hills, wildflowers and comfortable temperatures. The best time for walking."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Warm and dry, and cooler than the south. Visit in the morning and evening."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm, clear and quiet, with the olive harvest in October and November."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold, wet and misty, occasionally with snow. The castle is atmospheric in the mist."
+      }
+    ],
+    "avoid": "Days of heavy rain or snow, when roads may be affected and views are lost."
+  },
+  "itinerary": {
+    "title": "A day in the north",
+    "intro": "Ajloun Castle in the morning, lunch at Umm Qais and sunset over the Sea of Galilee. Assumes a driver from Amman.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Ajloun and Umm Qais",
+        "summary": "A castle, a Roman town and a sunset.",
+        "morning": "Ajloun Castle when it opens, then a short walk in the forest reserve.",
+        "afternoon": "Drive north to Umm Qais, have lunch on a terrace and walk the ruins.",
+        "evening": "Sunset at the viewpoint, then the drive back to Amman."
+      }
+    ]
+  },
+  "tipsIntro": "The north is quiet and easy, and a few points help.",
+  "tips": [
+    "Combine Ajloun and Umm Qais in a single day, with lunch in between. They are 45 km apart.",
+    "Start early. The drive is long, and both sites are best in the soft light of morning or late afternoon.",
+    "Bring a jacket. It is cooler and windier in the northern hills, especially at sunset.",
+    "Take a torch to Ajloun Castle for the dark passages.",
+    "Buy the Jordan Pass. Both sites are included.",
+    "Respect the border. Umm Qais looks over the frontier with Israel and Syria, and you should not photograph military installations.",
+    "Ask before hiking in the reserve, and go with a guide on longer trails.",
+    "Support local guesthouses and craft shops, which are often run by community groups."
+  ],
+  "faq": [
+    {
+      "q": "Is Ajloun Castle worth visiting?",
+      "a": "Yes. It is a well-preserved Ayyubid fortress with fine views, in attractive forest. It takes about an hour and a half, and pairs well with Jerash."
+    },
+    {
+      "q": "What is special about Umm Qais?",
+      "a": "The ancient city of Gadara is built of black basalt, unlike most Roman sites, and it sits on a ridge with views across the Sea of Galilee, the Golan Heights and the Yarmouk valley."
+    },
+    {
+      "q": "Can I visit both in a day from Amman?",
+      "a": "Yes, but it is a long day, with about four hours of driving in total. Combining Ajloun with Jerash is easier, and Umm Qais deserves a separate trip or an overnight stay."
+    },
+    {
+      "q": "Is the area safe to visit?",
+      "a": "The tourist sites are regarded as safe, but Umm Qais lies close to the borders with Israel and Syria. Check your government's current travel advice and avoid photographing military areas."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "March to May for green hills and wildflowers, and September to November for warm, clear weather. Summer is hot but cooler than the south."
+    },
+    {
+      "q": "Are there hiking options?",
+      "a": "Yes. The Ajloun Forest Reserve has marked trails, and the Jordan Trail passes through the north. Check with the reserve for routes and guides."
+    }
+  ],
+  "related": ["jerash", "amman", "dead-sea-jordan"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around"]
+}

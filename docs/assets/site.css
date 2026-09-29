@@ -2373,3 +2373,50 @@ table {
   text-transform: uppercase;
   color: var(--muted);
 }
+
+/* -------------------------------------------------- overview-mode advisory */
+
+.advisory {
+  background: var(--warm-soft);
+  border-top: 1px solid var(--line);
+  border-bottom: 3px solid var(--warm);
+  color: var(--ink);
+}
+
+.advisory__inner {
+  padding-top: 1.1rem;
+  padding-bottom: 1.2rem;
+}
+
+.advisory__title {
+  font-family: var(--font-display, inherit);
+  font-size: var(--step-1);
+  font-weight: 700;
+  color: var(--warm);
+  margin-bottom: 0.4rem;
+}
+
+.advisory__text {
+  font-size: 0.98rem;
+  max-width: 62rem;
+  margin: 0.35rem 0 0;
+}
+
+.pill--flag {
+  background: var(--warm-soft);
+  color: var(--warm);
+  border-color: var(--warm);
+}
+
+.country-card__flag {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--warm);
+  background: var(--warm-soft);
+  border: 1px solid var(--warm);
+  border-radius: 999px;
+  padding: 0.12rem 0.65rem;
+  margin: 0 0 0.6rem;
+}

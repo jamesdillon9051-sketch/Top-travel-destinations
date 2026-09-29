@@ -1,0 +1,312 @@
+{
+  "slug": "negev-mitzpe-ramon",
+  "name": "The Negev & Mitzpe Ramon",
+  "shortName": "Negev and Mitzpe Ramon",
+  "country": "israel",
+  "region": "Southern District, Negev Desert",
+  "categories": ["nature", "unesco", "off-the-beaten-path"],
+  "tagline": "Israel's great desert, with the world's largest erosion crater, the Nabataean spice-route city of Avdat and some of the darkest skies in the Middle East.",
+  "highlight": "The rim of Makhtesh Ramon at dawn, a 40-km crater of coloured sandstone that falls 500 metres to the desert floor.",
+  "shortDescription": "A desert of canyons, craters and Nabataean cities, with a small town on the edge of the world's largest makhtesh and an easy base for hiking and stargazing.",
+  "metaDescription": "A Negev and Mitzpe Ramon travel guide: Makhtesh Ramon, Ein Avdat, the Nabataean city of Avdat, stargazing and hiking, Bedouin hospitality, when to go and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Ramon Airport near Eilat (ETM), about 2 hours; Tel Aviv Ben Gurion (TLV), about 2 hours 15 minutes",
+  "knownFor": "Makhtesh Ramon, Ein Avdat, Nabataean Avdat, desert hiking, dark skies",
+  "budget": "₪450–800 per day, mid-range",
+  "goodFor": "Desert scenery, hiking, stargazing, Nabataean history, a quiet stop",
+  "coords": { "lat": 30.6100, "lng": 34.8011 },
+  "image": {
+    "file": "File:Mitzpe Ramon Mitzpe Ramon Crater with black rocks (15453728405).jpg",
+    "alt": "Black rocks and desert cliffs in the Ramon Crater at Mitzpe Ramon"
+  },
+  "intro": [
+    "The Negev covers more than half of Israel, about 12,000 square kilometres of desert that stretches south from Beersheba to the Red Sea at Eilat. It is a landscape of dry riverbeds, limestone plateaus, canyons and craters, punctuated by oases and small kibbutzim, and home to a large Bedouin population. Although it is sparsely populated, it has a great deal to see.",
+    "The centrepiece is Makhtesh Ramon, a crater-shaped landform about 40 kilometres long, 9 kilometres wide and up to 500 metres deep. It is not a meteor crater, but a 'makhtesh', an erosion cirque unique to the Negev and Sinai, formed as water and wind wore away layers of rock. Its walls show bands of red, yellow, black and white sandstone. The small town of Mitzpe Ramon perches on the northern rim.",
+    "The Negev also holds the remains of a string of Nabataean and Byzantine towns along the Incense Route, which carried frankincense and myrrh from Arabia to the Mediterranean. Four of them — Haluza, Mamshit, Avdat and Shivta — are listed by UNESCO, with their fortresses and farmland, as the Incense Route and Desert Cities in the Negev. Together with Ein Avdat's canyon and the night skies, they make the Negev a rewarding stop for anyone who likes open landscapes."
+  ],
+  "whyVisit": {
+    "intro": "It is the quietest, most open part of Israel, and one of the best places in the Middle East for a desert landscape.",
+    "points": [
+      {
+        "title": "The largest erosion crater in the world",
+        "text": "Makhtesh Ramon is a geological marvel, and the viewpoints along the rim are among the best in the country."
+      },
+      {
+        "title": "Nabataean Avdat",
+        "text": "The ruins of a hilltop city on the Incense Route, with a Roman-era acropolis, bathhouses and a winepress, part of a UNESCO site."
+      },
+      {
+        "title": "A perfect place to walk",
+        "text": "The Israel National Trail runs through the region, and a network of shorter trails takes you into the crater, canyons and springs."
+      },
+      {
+        "title": "Dark skies",
+        "text": "With little light pollution and clear air, the Negev offers some of the best stargazing in the region, and the crater has been recognised as a dark-sky park."
+      },
+      {
+        "title": "Bedouin hospitality",
+        "text": "Tents and guesthouses run by Negev Bedouin families offer tea, food and an insight into desert life."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights are around Mitzpe Ramon and Sde Boker, about 30 minutes apart.",
+  "attractions": [
+    {
+      "name": "Makhtesh Ramon viewpoints",
+      "image": {
+        "file": "File:Ramon crater, israel.jpg",
+        "alt": "The vast Ramon Crater seen from the rim at Mitzpe Ramon"
+      },
+      "text": "The town sits on the rim, and a path along the edge gives views over the whole crater. The visitor centre has exhibits on the geology and wildlife, and a large amphitheatre-like viewing deck.",
+      "tip": "Go at dawn or dusk, when the colours are most intense."
+    },
+    {
+      "name": "Ein Avdat National Park",
+      "image": {
+        "file": "File:Israel-2013-Ein Avdat 02.jpg",
+        "alt": "The canyon and pools of Ein Avdat in the Negev"
+      },
+      "text": "A deep canyon with pools, waterfalls and cliffs, in the middle of the desert. A trail runs through it, and Nubian ibex often appear on the cliffs.",
+      "tip": "The lower trail is easy, and the upper trail is more strenuous. Bring water."
+    },
+    {
+      "name": "Avdat National Park",
+      "text": "The remains of a Nabataean city on a hilltop, on the Incense Route, later a Byzantine settlement. There are churches, a winepress, a bathhouse and the ruins of a Roman military camp.",
+      "tip": "Visit in the morning or late afternoon, when it is cooler."
+    },
+    {
+      "name": "Ben-Gurion's Desert Home and Sde Boker",
+      "text": "The simple hut where Israel's first prime minister lived after retiring to the Negev, and his grave overlooking the Zin valley. It is a moving and modest site.",
+      "tip": "Check the opening hours, which are limited."
+    },
+    {
+      "name": "The Animal Path and the Bio-Ramon Nature Museum",
+      "text": "A short walk to see Nubian ibex, and a small museum on the local wildlife.",
+      "tip": "Go at dawn or dusk to see animals."
+    },
+    {
+      "name": "The Ramon Crater hiking trails",
+      "text": "Trails take you down into the crater, past colourful rocks, ancient fossils and the Ammonite Wall. Some are short and easy, and some require a 4x4 or a guide.",
+      "tip": "Ask at the visitor centre about routes."
+    },
+    {
+      "name": "Bedouin encampments and desert camps",
+      "text": "Camps around the crater and the surrounding desert offer tea, food and overnight stays in tents, with music and stargazing.",
+      "tip": "Book in advance, and check what is included."
+    }
+  ],
+  "thingsToDoIntro": "The Negev is best explored on foot and with a night under the stars.",
+  "thingsToDo": [
+    {
+      "title": "Walk the rim at sunrise",
+      "text": "The light on the crater is spectacular at dawn, and the walk along the edge is easy.",
+      "tip": "Bring a jacket, as it is cold in the early morning."
+    },
+    {
+      "title": "Hike in Ein Avdat",
+      "text": "Walk through the canyon to the pools and waterfalls, and look for ibex on the cliffs.",
+      "tip": "Spring and autumn are the best times."
+    },
+    {
+      "title": "Go stargazing",
+      "text": "Evening tours and observatory visits help you find planets, stars and the Milky Way in the clear desert sky.",
+      "tip": "Go around the new moon for the darkest skies."
+    },
+    {
+      "title": "Take a jeep tour into the crater",
+      "text": "Guided 4x4 tours travel along the crater floor and to sites not reachable on foot.",
+      "tip": "Book through a reputable local operator."
+    },
+    {
+      "title": "Visit a Bedouin camp",
+      "text": "A Bedouin family or camp can host you for tea, a meal and an evening of music.",
+      "tip": "Ask your accommodation for recommendations."
+    },
+    {
+      "title": "Ride a bicycle or camel",
+      "text": "Cycling and camel rides on desert trails are offered around Mitzpe Ramon.",
+      "tip": "Go early or late in the day."
+    }
+  ],
+  "foodIntro": "The Negev's food scene is small but interesting, with desert restaurants that mix Bedouin and modern Israeli traditions.",
+  "foods": [
+    {
+      "name": "Bedouin bread and tea",
+      "text": "Flat bread baked on a hot dome or in embers, served with sweet sage tea.",
+      "whereToTry": "Bedouin camps and tents."
+    },
+    {
+      "name": "Goat and sheep cheese",
+      "text": "The Negev has small dairies that produce cheeses, sold in local shops.",
+      "whereToTry": "Farms and shops around Mitzpe Ramon and Sde Boker."
+    },
+    {
+      "name": "Desert restaurants",
+      "text": "Mitzpe Ramon has restaurants serving modern Israeli cooking, with local ingredients and a good wine list.",
+      "whereToTry": "Restaurants on the main street of Mitzpe Ramon."
+    },
+    {
+      "name": "Negev wine",
+      "text": "Vineyards in the Negev Highlands produce wines from grapes grown in the desert.",
+      "whereToTry": "Wineries near Sde Boker and Mitzpe Ramon."
+    },
+    {
+      "name": "Falafel and hummus",
+      "text": "Classic Israeli food, available in the main streets.",
+      "whereToTry": "Stalls in Mitzpe Ramon."
+    },
+    {
+      "name": "Fresh fruit and dates",
+      "text": "Desert farms grow dates, figs and pomegranates, sold in local shops.",
+      "whereToTry": "Farm shops and roadside stalls."
+    }
+  ],
+  "accommodation": {
+    "intro": "Mitzpe Ramon is the best base, with guesthouses, hotels and hostels along the rim. Desert camps offer an alternative.",
+    "areas": [
+      {
+        "name": "Mitzpe Ramon",
+        "bestFor": "Views, hiking and stargazing",
+        "text": "A small town on the crater rim with a wide range of accommodation, from hostels to boutique hotels with views."
+      },
+      {
+        "name": "Desert camps and guesthouses",
+        "bestFor": "A night under the stars",
+        "text": "Bedouin and private camps around the crater and the Negev, offering tents and simple rooms."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "₪200–400 per night" },
+      { "label": "Boutique hotel", "value": "₪600–1,200 per night" },
+      { "label": "Desert camp", "value": "₪300–700 per person" },
+      { "label": "Jeep tour", "value": "₪200–450 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Mitzpe Ramon is about 150 km south of Beersheba and 2 hours by road from Tel Aviv. A car is the best way to see the Negev.",
+    "options": [
+      {
+        "mode": "Car",
+        "text": "About 2 hours from Tel Aviv and 2.5 hours from Jerusalem, via Beersheba and Route 40. Fuel stations are limited, so fill up in Beersheba.",
+        "detail": "Drive carefully on desert roads, and watch for camels and wildlife."
+      },
+      {
+        "mode": "Bus",
+        "text": "Buses run from Beersheba and Tel Aviv to Mitzpe Ramon, though they are infrequent and do not run on Shabbat.",
+        "detail": "Check the timetable."
+      },
+      {
+        "mode": "Tour",
+        "text": "Organised tours to the Negev and Ramon Crater leave from Tel Aviv, Jerusalem and Eilat.",
+        "detail": "Confirm what is included."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The sites are spread out, and a car is the easiest way to move.",
+    "options": [
+      {
+        "mode": "Car",
+        "text": "The best way to reach Avdat, Ein Avdat and Sde Boker from Mitzpe Ramon.",
+        "detail": "Roads are good, but distances are long."
+      },
+      {
+        "mode": "Jeep tours",
+        "text": "Guided tours reach areas not accessible by car.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "On foot",
+        "text": "Mitzpe Ramon is walkable, and the rim trail is easy.",
+        "detail": "Wear sturdy shoes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–April",
+    "summary": "The Negev is a desert with hot summers and cool winters. The best months are October to April, when the days are warm and the nights cool, and spring brings wildflowers after rain.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm days and wildflowers after winter rain. The best season for hiking."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Very hot, often over 38°C, with limited shade. Only visit for early morning and stargazing."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "October and November are warm and clear."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "Cool days and cold nights, sometimes near freezing. Rain can cause flash floods, and trails may close."
+      }
+    ],
+    "avoid": "Midday in summer, and rainy days when flash floods are dangerous in canyons and wadis."
+  },
+  "itinerary": {
+    "title": "Two days in the Negev",
+    "intro": "The crater and stargazing on the first day, and Ein Avdat, Avdat and Sde Boker on the second. Assumes a car and a night at Mitzpe Ramon.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The crater and the stars",
+        "summary": "The main sight, then the sky.",
+        "morning": "Drive to Mitzpe Ramon and walk the rim.",
+        "afternoon": "A hike or jeep tour into the crater.",
+        "evening": "Sunset on the rim, and a stargazing session."
+      },
+      {
+        "day": 2,
+        "title": "Canyons and Nabataeans",
+        "summary": "Ein Avdat, the Incense Route and Ben-Gurion's home.",
+        "morning": "Ein Avdat's canyon at opening.",
+        "afternoon": "Avdat National Park and Sde Boker.",
+        "evening": "Drive back to Tel Aviv, Jerusalem or Eilat."
+      }
+    ]
+  },
+  "tipsIntro": "The desert is beautiful and easy to underestimate.",
+  "tips": [
+    "Carry a lot of water, at least two litres per person, more in summer, and sunscreen and a hat.",
+    "Check the weather before hiking. Flash floods are a danger in canyons and wadis, and trails close when rain is forecast.",
+    "Fill up with fuel in Beersheba or Mitzpe Ramon, as petrol stations are far apart.",
+    "Bring warm clothes in winter. Desert nights can be near freezing.",
+    "Stay on marked trails, and never enter a military training area or closed zone.",
+    "Book jeep tours and camps in advance for spring and autumn.",
+    "Follow local advice on security. The Negev is close to the Gaza Strip and Egypt, and some areas may be restricted."
+  ],
+  "faq": [
+    {
+      "q": "What is Makhtesh Ramon?",
+      "a": "The largest erosion crater in the world, about 40 km long, 9 km wide and up to 500 m deep. It is not a meteor crater but was formed by erosion, and it is unique to the Negev and Sinai."
+    },
+    {
+      "q": "How many days do you need in the Negev?",
+      "a": "Two days is enough for Mitzpe Ramon, Ein Avdat and Avdat. Add a day for a jeep tour, a night at a desert camp or a visit to Timna Park near Eilat."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "October to April for comfortable temperatures. Spring has wildflowers, and winter can be cold at night. Summer is very hot."
+    },
+    {
+      "q": "Is it safe to visit the Negev?",
+      "a": "Most of the Negev's tourist sites are generally regarded as safe, but parts of the region are close to the Gaza Strip and the Egyptian border, and conditions can change. Check your government's advice and follow local guidance."
+    },
+    {
+      "q": "Can I go stargazing in Mitzpe Ramon?",
+      "a": "Yes. It is one of the best places in Israel for stargazing, with clear air and little light pollution. Several operators offer guided night tours."
+    },
+    {
+      "q": "Can I visit as a day trip from Tel Aviv or Jerusalem?",
+      "a": "Yes, but it is a long day. Staying overnight lets you see the crater at dawn and go stargazing."
+    }
+  ],
+  "related": ["masada-dead-sea", "jerusalem", "tel-aviv-jaffa"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

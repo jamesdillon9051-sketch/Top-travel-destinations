@@ -1,0 +1,146 @@
+{
+  "country": "israel",
+  "title": "The Complete Israel Travel Guide",
+  "subtitle": "How the country divides, how to combine the holy sites with the coast and the desert, and what to plan around.",
+  "summary": "Israel holds sites sacred to Judaism, Christianity, Islam and the Baháʼí Faith, Roman and Crusader cities, desert craters and a Mediterranean beach capital, in a country the size of Wales. This guide covers how the regions divide, how to choose between the ten destinations, how Shabbat and holidays affect travel, when to go, safety context and three routes that work.",
+  "readingTime": "14 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Should I base myself in Jerusalem or Tel Aviv?",
+      "a": "Many visitors use both. Jerusalem is the centre for the holy sites and history, and Tel Aviv is the base for beaches, food and nightlife. They are 40 minutes apart by train, so you can stay in one and day-trip to the other, though a night or two in each is best."
+    },
+    {
+      "q": "Do I need a car?",
+      "a": "Not for Jerusalem, Tel Aviv, Haifa and Acre, which are on the train network. A car is useful for the Galilee, Masada and the Negev, but buses and tours can cover most places. Remember that public transport stops on Shabbat."
+    },
+    {
+      "q": "How does the security situation affect a trip?",
+      "a": "It can affect access and advice at short notice. Some governments advise against travel to parts of the country, particularly near Gaza and the northern border. Read current advice before you book, buy flexible tickets and insurance, and follow the Home Front Command app once you are there."
+    },
+    {
+      "q": "Is it appropriate to visit the holy sites as a non-religious traveller?",
+      "a": "Yes. All of the main sites welcome visitors, and many of them are also museums and archaeological sites. Dress modestly, follow the rules of each place and behave respectfully around worshippers."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-israel-divides",
+      "title": "How Israel divides",
+      "navLabel": "The regions",
+      "body": [
+        "Israel is about 420 km from north to south and rarely more than 100 km wide, and it falls into five zones that differ sharply in landscape, history and mood.",
+        "**Jerusalem and the Judean hills.** The historic and religious centre. [[jerusalem|Jerusalem]] holds the Western Wall, the Church of the Holy Sepulchre, the Dome of the Rock and Al-Aqsa Mosque, within a few hundred metres of each other in the Old City. The city is high, cool in winter and more conservative in feel than the coast.",
+        "**The coast.** A Mediterranean strip of beaches and cities. [[tel-aviv-jaffa|Tel Aviv and Jaffa]] are the country's secular, cosmopolitan heart, with a huge stock of Bauhaus architecture and a beach culture. To the north, [[haifa-bahai-gardens|Haifa]] climbs Mount Carmel with the Baháʼí Gardens, and [[acre-old-city|Acre]] is an Ottoman port built over a Crusader city.",
+        "**The Galilee and the north.** Green, hilly and multi-faith. [[nazareth]] is the largest Arab city in Israel and holds the traditional site of the Annunciation. The [[sea-of-galilee|Sea of Galilee]] is central to the Gospel stories, and [[safed-tzfat|Safed]] is a hilltop centre of Jewish mysticism. In the valleys, [[megiddo-beit-shean|Megiddo and Beit She'an]] hold two of the country's finest archaeological sites.",
+        "**The Dead Sea and the Judean Desert.** A short drive east of Jerusalem the land falls to the lowest point on land. [[masada-dead-sea|Masada and the Dead Sea]] combine a hilltop fortress, an oasis at Ein Gedi and salt-water swimming.",
+        "**The Negev.** More than half of Israel's land area is desert. [[negev-mitzpe-ramon|The Negev and Mitzpe Ramon]] offer craters, Nabataean ruins and some of the country's clearest night skies, and the Red Sea resort of Eilat lies at the far end."
+      ],
+      "note": "The natural unit for a first trip is a loop: Tel Aviv, Jerusalem, the Dead Sea, then north through the Galilee and back down the coast."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have four or five days",
+          "text": "[[jerusalem]] for at least three days, with a day trip to [[masada-dead-sea|Masada and the Dead Sea]] and a night or two in [[tel-aviv-jaffa|Tel Aviv]]. That is the core of the country."
+        },
+        {
+          "title": "If you are interested in religious history",
+          "text": "[[jerusalem]] first, then [[nazareth]] and the [[sea-of-galilee|Sea of Galilee]] for the Gospel sites, [[safed-tzfat|Safed]] for Jewish mysticism, and [[haifa-bahai-gardens|Haifa]] for the Baháʼí World Centre. Together they cover four faiths."
+        },
+        {
+          "title": "If you like archaeology",
+          "text": "[[megiddo-beit-shean|Megiddo and Beit She'an]] for layers of ancient and Roman history, [[masada-dead-sea|Masada]] for Herod's fortress, and [[acre-old-city|Acre]] for the Crusader halls."
+        },
+        {
+          "title": "If you want beaches and food",
+          "text": "[[tel-aviv-jaffa|Tel Aviv and Jaffa]] for the city, the beach and the markets, with [[haifa-bahai-gardens|Haifa]] for its mix of cultures and food."
+        },
+        {
+          "title": "If you like deserts and stargazing",
+          "text": "[[negev-mitzpe-ramon|Mitzpe Ramon and the Negev]] for the crater, hiking and dark skies, and [[masada-dead-sea|the Dead Sea]] for a float."
+        },
+        {
+          "title": "If you want a slower, quieter trip",
+          "text": "[[safed-tzfat|Safed]] and the [[sea-of-galilee|Sea of Galilee]] in the north, both slower and cooler than the coast in summer."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Moving around a compact country",
+      "navLabel": "Getting around",
+      "body": [
+        "Israel's small size means nearly everything is a day trip from somewhere, but distances feel longer than they look because of traffic and Shabbat.",
+        "**Trains.** The best way to move between Tel Aviv, Ben Gurion airport, Jerusalem, Haifa and Acre. Services are frequent, modern and cheap, and the fast line to Jerusalem takes about 30 minutes.",
+        "**Buses.** Extensive and cheap, reaching places the train does not, such as Nazareth, Tiberias and Safed. Routes are easy to plan with the Moovit app.",
+        "**Car.** The most flexible option for the Galilee, the Dead Sea and the Negev. Roads are good, and driving in Israel is fast but manageable. Check your rental agreement for restrictions, particularly for the West Bank.",
+        "**Shabbat.** Public transport stops from Friday afternoon until Saturday evening. Sherut taxis and a few routes in Arab towns continue, and Tel Aviv and Haifa are more relaxed, but you should plan Friday evening to Saturday as a day for walking or resting."
+      ],
+      "note": "The security situation can close roads or change advice at short notice. Check current guidance before long drives, and avoid areas your government advises against."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Israel has a Mediterranean climate on the coast and in the hills, and a desert climate in the south and in the Jordan Valley. The seasons are more extreme than many visitors expect.",
+        "March to May and September to November are the best months. The days are warm and clear, and the hills of the Galilee are green in spring. Autumn is warm enough to swim, and the crowds are thinner.",
+        "Summer is hot and humid on the coast, and extremely hot at the Dead Sea and in the Negev, where daytime temperatures often exceed 40°C. Sightseeing needs to be early or late, and the beach and the hills are the best options.",
+        "Winter is wet and cool in Jerusalem and the north, occasionally with snow, and mild on the coast. It is a good time for the desert and the Dead Sea, and hotels are cheaper.",
+        "The religious calendar matters. Passover and Easter fill Jerusalem and Nazareth, and Christmas is busy in Nazareth and the West Bank. Rosh Hashanah, Yom Kippur and Sukkot in September and October affect transport and prices, and Ramadan affects opening hours in Arab towns."
+      ],
+      "note": "Yom Kippur stops almost everything for about 25 hours: no public transport, most roads empty, and shops and restaurants closed. Plan to be where you want to be."
+    },
+    {
+      "id": "money",
+      "title": "Costs and money",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Israel is one of the more expensive countries in the region. Hotels, restaurants and taxis in Tel Aviv and Jerusalem cost about the same as in Western Europe, and eating out is a major expense.",
+        "There are ways to keep costs down. Hummus, falafel, sabich and shawarma are cheap and filling, markets are good for lunch, and the trains and buses are inexpensive. Hostels and guesthouses offer good value, and the Israel Pass or National Parks Pass can save money on entries.",
+        "Cards are accepted almost everywhere, including markets, and there are ATMs in all towns. Carry small notes for tips and the smallest stalls.",
+        "Prices are quoted in shekels, and the exchange rate has varied. Check current rates and any recommendations for tourist VAT refunds when you shop or book hotels."
+      ]
+    },
+    {
+      "id": "etiquette",
+      "title": "Culture, religion and etiquette",
+      "navLabel": "Etiquette",
+      "body": [
+        "Israel is a diverse society, and etiquette depends on where you are. Tel Aviv is relaxed, and Jerusalem's religious neighbourhoods are conservative. Arab towns such as Nazareth and Acre have their own customs.",
+        "At holy sites, cover shoulders and knees, keep your voice low and follow the rules posted at each entrance. Women may need to cover their hair in some churches and synagogues, and men to cover their heads at the Western Wall.",
+        "On Shabbat, avoid driving, smoking or making noise in religious neighbourhoods. Do not photograph people without their consent, and avoid photographing soldiers or checkpoints.",
+        "The conflict is a painful subject for many people, and opinions vary widely. Listen with an open mind, avoid stereotyping, and treat everyone as an individual."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "Five days: Jerusalem and the Dead Sea",
+          "text": "Three nights in [[jerusalem]], a day at [[masada-dead-sea|Masada and the Dead Sea]], and a final night in [[tel-aviv-jaffa|Tel Aviv]]. A tight introduction to the holy sites and the desert.",
+          "tip": "Fly into Tel Aviv, take the train to Jerusalem, and leave time on the last day for the beach."
+        },
+        {
+          "title": "One week: the holy sites and the north",
+          "text": "Jerusalem for three days, then [[nazareth]] and the [[sea-of-galilee|Sea of Galilee]] for two, and [[haifa-bahai-gardens|Haifa]] and [[acre-old-city|Acre]] on the way back to Tel Aviv. It combines four faiths, a Crusader city and the coast.",
+          "tip": "Rent a car for the north, and return it in Tel Aviv."
+        },
+        {
+          "title": "Ten days: the full loop",
+          "text": "The itinerary on the country page: Tel Aviv, Jerusalem, Masada and the Dead Sea, Haifa, Acre, Nazareth, the Sea of Galilee and Safed. It covers nearly everything in a comfortable rhythm.",
+          "tip": "Add [[negev-mitzpe-ramon|Mitzpe Ramon]] or [[megiddo-beit-shean|Megiddo and Beit She'an]] if you have two or three more days."
+        }
+      ]
+    }
+  ]
+}

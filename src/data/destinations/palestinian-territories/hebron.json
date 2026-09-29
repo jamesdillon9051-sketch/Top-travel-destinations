@@ -1,0 +1,300 @@
+{
+  "slug": "hebron",
+  "name": "Hebron (Al-Khalil)",
+  "shortName": "Hebron",
+  "country": "palestinian-territories",
+  "region": "Hebron Governorate, southern West Bank",
+  "categories": ["unesco", "historic", "cultural"],
+  "tagline": "The city of Abraham, the largest in the West Bank, with a shrine holy to three faiths and an old city that is also one of its most contested places.",
+  "highlight": "The Ibrahimi Mosque (Cave of the Patriarchs), a Herodian-era enclosure over the traditional tombs of Abraham, Isaac, Jacob and their wives.",
+  "shortDescription": "A historic Palestinian commercial city and a pilgrimage site, with a Mamluk-era old city, glass and pottery workshops and a divided centre where visitors see the occupation at its most concentrated.",
+  "metaDescription": "A Hebron travel guide: the Ibrahimi Mosque and Cave of the Patriarchs, the Old City souk and glass and pottery workshops, the divided city explained fairly, current advice and how to visit with a guide.",
+  "suggestedStay": "Half a day to a day",
+  "nearestAirport": "Tel Aviv Ben Gurion (TLV), about 1 hour 45 minutes; Jerusalem is about 35 km away",
+  "knownFor": "The Ibrahimi Mosque, the Old City, glass and pottery, grapes, a divided city",
+  "budget": "₪200–450 per day, mid-range",
+  "goodFor": "Religious history, understanding the conflict, crafts, food",
+  "coords": { "lat": 31.5326, "lng": 35.0998 },
+  "image": {
+    "file": "File:Old City - Hebron..jpg",
+    "alt": "A stone street in the Old City of Hebron with shops and arches"
+  },
+  "intro": [
+    "Hebron, called al-Khalil in Arabic, is the largest city in the West Bank, with about 200,000 people, and one of the oldest continuously inhabited cities in the world. It sits in the Judean hills, 35 km south of Jerusalem, and it is a commercial centre known for its glass, pottery, leather, marble and grapes. Its name in Arabic, 'the Friend', refers to Abraham, whom the Quran calls the friend of God.",
+    "At its heart is the Ibrahimi Mosque, known to Jews as the Cave of the Patriarchs, a large stone enclosure built by Herod the Great over a cave traditionally regarded as the burial place of Abraham, Isaac, Jacob and their wives. It is holy to Muslims, Jews and Christians, and it has been the focus of tension for a long time. UNESCO inscribed the Old City of Hebron on the World Heritage List in 2017, and on the list of sites in danger, a decision that Israel and the United States opposed.",
+    "Hebron is also unique in the West Bank. Under the 1997 Hebron Protocol, the city was divided into an area administered by the Palestinian Authority (H1) and an area under Israeli control (H2), which includes the Old City and the Ibrahimi Mosque. A small number of Israeli settlers, several hundred, live in H2 amid tens of thousands of Palestinians, protected by a large military presence. Palestinians and human rights groups describe severe restrictions on movement and daily life, including closed streets and shops; Israeli officials and settlers cite security threats and historical Jewish ties to the city. Visitors see this directly, and it is worth going with a local guide who can explain what you see."
+  ],
+  "whyVisit": {
+    "intro": "Hebron is not an easy or comfortable place to visit, and it is one of the most revealing.",
+    "points": [
+      {
+        "title": "A shrine holy to three faiths",
+        "text": "The Ibrahimi Mosque is a Herodian-era enclosure with Mamluk and Ottoman additions, and it is a functioning mosque and synagogue, divided between the two communities."
+      },
+      {
+        "title": "A Mamluk and Ottoman old city",
+        "text": "Stone alleys, markets and arches from the 13th to 19th centuries make up one of the best-preserved old cities in the West Bank."
+      },
+      {
+        "title": "Traditional crafts",
+        "text": "Hebron's blue glass, ceramics and leather goods are famous across Palestine, and some workshops welcome visitors."
+      },
+      {
+        "title": "Understanding the conflict on the ground",
+        "text": "Nowhere else shows so plainly how the occupation affects daily life, and hearing from residents gives a perspective that reports cannot."
+      },
+      {
+        "title": "Warm hospitality",
+        "text": "Even in difficult conditions, people are generous and welcoming to visitors."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights are in the Old City, and access varies with checkpoints and closures. Visit with a local guide.",
+  "attractions": [
+    {
+      "name": "The Ibrahimi Mosque (Cave of the Patriarchs)",
+      "image": {
+        "file": "File:Holy Land 2022 (1) P193 Hebron Cave of the Patriarchs Ibrahimi Mosque Isaac hall.jpg",
+        "alt": "The Isaac Hall inside the Ibrahimi Mosque in Hebron"
+      },
+      "text": "A massive stone enclosure built by Herod, with a mosque inside, where the cenotaphs of Abraham, Isaac, Jacob and their wives can be seen. Since a massacre of 29 Muslim worshippers by a Jewish settler in 1994, it has been divided into a mosque and a synagogue, with separate entrances.",
+      "tip": "Access is through Israeli security checks and can be restricted on Fridays and on Jewish and Muslim holidays. Dress modestly, and check the hours."
+    },
+    {
+      "name": "The Old City souk",
+      "text": "A network of narrow covered lanes with fruit, spice and clothing stalls, some with nets overhead that catch rubbish thrown from above. Many shops in the streets closest to the mosque have been closed since the 1990s and 2000s.",
+      "tip": "Go with a local guide, and buy from the shops that are open."
+    },
+    {
+      "name": "Shuhada Street",
+      "text": "Once the main commercial street of Hebron, it has been largely closed to Palestinians since the 1990s, with a heavy military presence. It is often the focus of guided tours.",
+      "tip": "A guide is essential. Do not photograph soldiers or checkpoints."
+    },
+    {
+      "name": "Glass and pottery workshops",
+      "text": "Family workshops produce blue Hebron glass and painted ceramics, using techniques that go back generations. Visitors can watch the glassblowers and buy pieces.",
+      "tip": "Buying directly supports the families."
+    },
+    {
+      "name": "The Tel Rumeida area",
+      "text": "A hillside neighbourhood in H2 where an archaeological site, a small Israeli settlement and Palestinian homes sit close together. It shows the city's divisions clearly.",
+      "tip": "Visits are usually part of a guided tour."
+    },
+    {
+      "name": "The Qaitbay Mosque and old city buildings",
+      "text": "Mamluk-era mosques, madrasas and merchants' houses survive in parts of the Old City, and some have been restored with international support.",
+      "tip": "Ask your guide which are open."
+    },
+    {
+      "name": "The Abraham's Oak (Tree of Abraham) area",
+      "text": "A site just outside the city, revered in tradition as the place where Abraham received three angels, with a Russian Orthodox monastery and an ancient tree.",
+      "tip": "Check access and opening hours."
+    }
+  ],
+  "thingsToDoIntro": "Visit with care and with a local guide, and be ready for the possibility that access will be limited.",
+  "thingsToDo": [
+    {
+      "title": "Take a guided walk of the Old City",
+      "text": "Palestinian, Israeli and international organisations run tours that give different accounts of what you see. Hearing more than one is worthwhile.",
+      "tip": "Book in advance, and check which organisation runs the tour and its perspective."
+    },
+    {
+      "title": "Visit a glass or pottery workshop",
+      "text": "See craftspeople at work and buy a piece to take home. It is a good way to support local families.",
+      "tip": "Ask about workshops in H1, outside the Old City."
+    },
+    {
+      "title": "Eat a Hebron meal",
+      "text": "Local restaurants serve dishes such as qidreh (rice and lamb baked in a clay pot), musakhan and freshly grilled meats.",
+      "tip": "Ask your guide for a family-run place."
+    },
+    {
+      "title": "Taste Hebron grapes and sweets",
+      "text": "The region is known for its grapes, and shops sell grape molasses (dibs) and dried fruit.",
+      "tip": "Try the sweets in the central market."
+    },
+    {
+      "title": "Talk to residents",
+      "text": "Many local people, from shopkeepers to guides, are happy to speak about life in the city and their perspective.",
+      "tip": "Listen respectfully, and do not argue."
+    },
+    {
+      "title": "Visit the Abraham's Oak area",
+      "text": "A peaceful place outside the city with a monastery garden.",
+      "tip": "Check access before you go."
+    }
+  ],
+  "foodIntro": "Hebron is known for its rich, meat-based cooking, and its grapes and sweets are famous across Palestine.",
+  "foods": [
+    {
+      "name": "Qidreh",
+      "text": "A Hebron speciality: lamb and rice with chickpeas and spices, slow-cooked in a sealed clay pot in a wood-fired oven. Traditionally served at gatherings.",
+      "whereToTry": "Family restaurants in H1, ideally arranged by your guide."
+    },
+    {
+      "name": "Musakhan",
+      "text": "Roast chicken with sumac and onions on taboon bread.",
+      "whereToTry": "Restaurants and family homes."
+    },
+    {
+      "name": "Hebron grapes and dibs",
+      "text": "Hebron's grapes are famous, and the grape syrup, dibs, is used in sweets and drinks.",
+      "whereToTry": "Markets and shops."
+    },
+    {
+      "name": "Falafel and hummus",
+      "text": "The reliable staple, good and cheap.",
+      "whereToTry": "Stalls near the central market."
+    },
+    {
+      "name": "Knafeh",
+      "text": "Hot cheese pastry with syrup, sold by weight from big trays.",
+      "whereToTry": "Sweet shops in the centre."
+    },
+    {
+      "name": "Arabic coffee and tea",
+      "text": "Strong, cardamom-scented coffee and sweet tea are offered wherever you go.",
+      "whereToTry": "Shops and workshops."
+    }
+  ],
+  "accommodation": {
+    "intro": "Few visitors stay in Hebron, and most come as a day trip from Jerusalem or Bethlehem. A small number of guesthouses and hotels operate in H1.",
+    "areas": [
+      {
+        "name": "H1 (Palestinian-administered area)",
+        "bestFor": "A night in the city",
+        "text": "A few simple hotels and guesthouses in the modern centre, away from the Old City."
+      },
+      {
+        "name": "Bethlehem or Jerusalem",
+        "bestFor": "Most visitors",
+        "text": "A wider range of accommodation, and a much shorter trip to Hebron than from Tel Aviv."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "₪150–250 per night" },
+      { "label": "Mid-range hotel", "value": "₪250–450 per night" },
+      { "label": "Guided Old City tour", "value": "₪100–250 per person" },
+      { "label": "Meal at a local restaurant", "value": "₪30–70 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Hebron is about 35 km south of Jerusalem and 30 km south of Bethlehem. Access can change at short notice.",
+    "options": [
+      {
+        "mode": "Service taxi from Bethlehem or Jerusalem",
+        "text": "Shared vans run from Bethlehem's bus station and from Jerusalem, taking about 45 minutes to an hour, depending on checkpoints.",
+        "detail": "Ask about the latest route and timetable."
+      },
+      {
+        "mode": "Private driver or tour",
+        "text": "A Palestinian driver or a guided tour is the easiest and often the safest way to visit.",
+        "detail": "Agree the itinerary in advance."
+      },
+      {
+        "mode": "Checkpoints",
+        "text": "Israeli checkpoints control access to the Old City and to H2. Foreign passport holders are usually admitted, though delays and closures are common.",
+        "detail": "Carry your passport, and expect security checks."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The Old City is on foot, and the rest of Hebron is served by taxis.",
+    "options": [
+      {
+        "mode": "Walking with a guide",
+        "text": "The Old City's lanes are narrow and some are closed. A guide can show you the open routes.",
+        "detail": "Do not go alone."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Taxis are cheap, and can take you to the workshops and the Abraham's Oak area.",
+        "detail": "Agree the fare first."
+      },
+      {
+        "mode": "Service taxi",
+        "text": "Shared vans link Hebron with Bethlehem, Ramallah and villages.",
+        "detail": "Ask locals where to catch them."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Hebron is in the hills at about 930 m and has a Mediterranean climate. Spring and autumn are the best seasons, and the grape harvest in late summer is a highlight.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Mild and green, with pleasant days."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Warm and dry, with the grape harvest in August and September."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm and clear, with fewer visitors."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold, wet and occasionally snowy. Some routes may close."
+      }
+    ],
+    "avoid": "Fridays, when the mosque is busy and access is restricted, and Jewish and Muslim holidays, when the Ibrahimi Mosque is closed to one or other group."
+  },
+  "itinerary": {
+    "title": "One day in Hebron",
+    "intro": "A guided visit to the Old City and the Ibrahimi Mosque, lunch at a local restaurant, and a glass workshop. Assumes a day trip from Bethlehem or Jerusalem with a guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Old City and the shrine",
+        "summary": "History, craft and context.",
+        "morning": "A guided walk through the Old City and the Ibrahimi Mosque.",
+        "afternoon": "Lunch in H1, then a glass or pottery workshop.",
+        "evening": "Return to Bethlehem or Jerusalem before dark."
+      }
+    ]
+  },
+  "tipsIntro": "Hebron requires more care than any other place in this guide.",
+  "tips": [
+    "Read your government's advice before you go. Some governments advise against travel to Hebron, and conditions can change at short notice.",
+    "Go with a local guide. It is the safest and most informative way to see the city, and it helps with access.",
+    "Carry your passport, and be prepared for security checks and delays.",
+    "Do not photograph soldiers, checkpoints or military installations, and be careful with photographs of people.",
+    "Dress modestly, particularly for the mosque, and behave respectfully.",
+    "Hear more than one perspective. Palestinian, Israeli and international guides give different accounts of the city.",
+    "Leave before dark, and avoid Fridays and holidays."
+  ],
+  "faq": [
+    {
+      "q": "Is it safe to visit Hebron?",
+      "a": "Hebron is one of the more tense places in the West Bank. Many visitors go without incident, particularly on guided tours, but there have been periods of violence, and some governments advise against travel there. Check current advice and go with a local guide."
+    },
+    {
+      "q": "What is the Ibrahimi Mosque?",
+      "a": "A stone enclosure built by Herod over the cave traditionally regarded as the burial place of Abraham, Isaac, Jacob and their wives. It is holy to Muslims, Jews and Christians, and is divided between a mosque and a synagogue."
+    },
+    {
+      "q": "Why is Hebron divided?",
+      "a": "After a 1994 massacre at the Ibrahimi Mosque, and under the 1997 Hebron Protocol, the city was divided into H1 under Palestinian Authority control and H2, including the Old City, under Israeli control. A small number of Israeli settlers live in H2, protected by the military."
+    },
+    {
+      "q": "Should I go with a Palestinian or an Israeli guide?",
+      "a": "They give different perspectives on the same streets. Many visitors choose one, and some do both. Whichever you choose, ask questions, and read more widely."
+    },
+    {
+      "q": "How long do you need in Hebron?",
+      "a": "Half a day covers the Old City, the mosque and a workshop. A full day lets you add lunch and Abraham's Oak."
+    },
+    {
+      "q": "Can I visit Hebron from Jerusalem or Bethlehem?",
+      "a": "Yes. It is 35 km south of Jerusalem and about 45 minutes by road, though checkpoints add time. Take your passport and a guide."
+    }
+  ],
+  "related": ["bethlehem", "battir", "herodium"],
+  "relatedArticles": ["unesco-worth-planning-around", "food-primer"]
+}

@@ -1,0 +1,309 @@
+{
+  "slug": "dead-sea-jordan",
+  "name": "The Dead Sea",
+  "shortName": "Dead Sea",
+  "country": "jordan",
+  "region": "Balqa and Madaba governorates, western Jordan",
+  "categories": ["nature", "scenic", "historic"],
+  "tagline": "The lowest point on the surface of the Earth, where the water is ten times saltier than the sea and you float without trying.",
+  "highlight": "Floating on your back in water too salty to sink in, with the hills of the West Bank across the water.",
+  "shortDescription": "A salt lake about 430 metres below sea level with spa hotels, mineral mud, hot springs, a canyon walk and the traditional site of the baptism of Jesus.",
+  "metaDescription": "A Jordan Dead Sea travel guide: floating and mud, resorts and public beaches, Wadi Mujib, Zara hot springs and the Baptism Site at Bethany, when to go and a one-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Amman Queen Alia (AMM), about 1 hour",
+  "knownFor": "Floating, mineral mud, Wadi Mujib, the Baptism Site",
+  "budget": "JD 60–150 per day, mid-range, more at resorts",
+  "goodFor": "Relaxation, unusual experiences, spa hotels, short stops",
+  "coords": { "lat": 31.5590, "lng": 35.5680 },
+  "image": {
+    "file": "File:Dead Sea, Jordan 02.jpg",
+    "alt": "The still blue waters of the Dead Sea on the Jordanian shore"
+  },
+  "intro": [
+    "The Dead Sea is a landlocked salt lake on the border between Jordan to the east and Israel and the West Bank to the west. Its shore lies about 430 metres below sea level, making it the lowest point on land, and its water is roughly nine or ten times as salty as the ocean. Almost nothing can live in it, hence the name, and swimmers float on the surface almost without effort.",
+    "The lake is shrinking. The rivers that feed it, especially the Jordan, have been diverted for farms and cities, and the level has been falling by roughly a metre a year for decades. It is worth seeing now, and the retreat of the shoreline is visible in the hotels that were once on the water and are now a walk or a shuttle from the beach.",
+    "The Jordanian shore is a strip of hotels, spas and public beaches along the Dead Sea Highway, about an hour from Amman. It also holds some of the country's most interesting sights nearby: the Wadi Mujib canyon, the hot springs at Zara Ma'in and the Baptism Site of Bethany beyond the Jordan, which Christian tradition identifies as the place where Jesus was baptised."
+  ],
+  "whyVisit": {
+    "intro": "It is a short day trip from the capital and an unusual experience in its own right.",
+    "points": [
+      {
+        "title": "You float without trying",
+        "text": "The water's density means you bob on the surface like a cork. It is one of the strangest sensations a visitor can have, and it costs almost nothing."
+      },
+      {
+        "title": "The lowest place on land",
+        "text": "About 430 m below sea level, and the air is denser, giving a slightly muted sunlight and easy breathing."
+      },
+      {
+        "title": "Mud and minerals",
+        "text": "The black mud is rich in minerals and is smeared over the body and washed off in the sea. Whether it does any good is debated, but it is fun."
+      },
+      {
+        "title": "The Baptism Site",
+        "text": "Bethany beyond the Jordan is a UNESCO World Heritage Site and a major pilgrimage destination, with churches and excavated remains near the river."
+      },
+      {
+        "title": "Wadi Mujib and hot springs",
+        "text": "The canyon is a spectacular water-walk, and the Zara Ma'in springs and waterfalls are a rare hot-water oasis in the desert."
+      }
+    ]
+  },
+  "attractionsIntro": "The sea itself is the main event, and the other sites round out a day.",
+  "attractions": [
+    {
+      "name": "Floating in the Dead Sea",
+      "image": {
+        "file": "File:Dead Sea beach in Jordan.jpg",
+        "alt": "A public beach on the Jordanian shore of the Dead Sea"
+      },
+      "text": "Wade in slowly and lie back. Stay away from open cuts, avoid swallowing the water, and keep it out of your eyes. Most people stay in for 15–20 minutes.",
+      "tip": "Do not shave that morning, and rinse off in a fresh-water shower afterwards."
+    },
+    {
+      "name": "Mineral mud",
+      "text": "Dark mud is dug from the shore and smeared on the skin, left to dry and then rinsed off. Resorts sell it by the bucket.",
+      "tip": "Avoid your face and eyes, and be sure to wash off thoroughly."
+    },
+    {
+      "name": "The Baptism Site (Bethany beyond the Jordan)",
+      "image": {
+        "file": "File:Entrance pathway to the Baptism site at Bethany.jpg",
+        "alt": "The path leading to the Baptism Site at Bethany beyond the Jordan"
+      },
+      "text": "A site on the east bank of the Jordan River, inscribed by UNESCO in 2015, with the remains of Roman and Byzantine churches and pools. It is identified by Christian tradition as the place where John baptised Jesus, a tradition that is also claimed for the western bank.",
+      "tip": "Visits are made by a guided shuttle, and the site is very hot in summer. Go in the morning."
+    },
+    {
+      "name": "Wadi Mujib",
+      "image": {
+        "file": "File:Wadi Mujib BW 1.JPG",
+        "alt": "The Wadi Mujib canyon where it meets the Dead Sea"
+      },
+      "text": "A deep canyon that drains into the Dead Sea and is a nature reserve. The Siq trail is a wet, easy walk that ends at a waterfall, and longer guided routes exist for experienced walkers.",
+      "tip": "Trails are closed in the wet season, usually from about November to March, and you must book in advance."
+    },
+    {
+      "name": "Zara Ma'in hot springs",
+      "text": "Hot springs and waterfalls in a green valley, a short drive from the shore. There is a resort and a public area, and it is a dramatic contrast to the surrounding desert.",
+      "tip": "It is especially good on a cool winter evening."
+    },
+    {
+      "name": "Public beaches",
+      "text": "Amman Beach and other public beaches offer access to the sea, showers and changing rooms for a modest fee, without having to stay at a resort.",
+      "tip": "Bring your own towel and check what is included."
+    },
+    {
+      "name": "Mount Nebo and Madaba, above the sea",
+      "text": "The plateau above the sea holds the Moses memorial on Mount Nebo and the mosaic map at Madaba, easy to combine with a swim.",
+      "tip": "See the separate guide to Madaba and Mount Nebo."
+    }
+  ],
+  "thingsToDoIntro": "Most people combine a swim with a spa, a sunset and one other site.",
+  "thingsToDo": [
+    {
+      "title": "Take a float and a mud wrap",
+      "text": "The classic experience: wade in, float, come out, cover yourself in mud, dry in the sun, and rinse in the sea.",
+      "tip": "Follow the advice of the lifeguards on the beach."
+    },
+    {
+      "title": "Spend a day at a resort",
+      "text": "Several hotels sell day passes that include pools, private beaches, spas and food, and are a good option for a day trip from Amman.",
+      "tip": "Compare the day-pass prices and what is included."
+    },
+    {
+      "title": "Visit the Baptism Site",
+      "text": "A guided visit to Bethany takes about 90 minutes and includes a walk to the river and the excavated churches.",
+      "tip": "Take a hat and water, and go early."
+    },
+    {
+      "title": "Walk the Siq Trail at Wadi Mujib",
+      "text": "A short, wet route through a narrow canyon, with pools and a waterfall at the end. It is one of the best half-day activities in the country.",
+      "tip": "Wear shoes that can get wet, and check the trail is open."
+    },
+    {
+      "title": "Watch the sunset over the water",
+      "text": "The sun sets behind the hills of the West Bank and the sea turns pink and orange. It is a good evening ritual from a resort terrace.",
+      "tip": "Stay an extra night so that you see it."
+    },
+    {
+      "title": "Soak in the hot springs at Zara Ma'in",
+      "text": "A warm bath in a desert canyon is a relaxing end to a day.",
+      "tip": "Check the current opening hours and prices."
+    }
+  ],
+  "foodIntro": "Most people eat at their hotel, and resort food is international, but there are good Jordanian restaurants along the road and in the towns nearby.",
+  "foods": [
+    {
+      "name": "Mezze",
+      "text": "A spread of hummus, baba ghanoush, tabbouleh and other small dishes, ideal for sharing and for a lazy lunch by the water.",
+      "whereToTry": "Hotel terraces and restaurants along the Dead Sea Highway."
+    },
+    {
+      "name": "Grilled meats",
+      "text": "Chicken, lamb and mixed grills with rice and salad. A staple at roadside restaurants.",
+      "whereToTry": "Restaurants at the public beaches and in Sweimeh."
+    },
+    {
+      "name": "Fresh juice",
+      "text": "Pomegranate, orange and carrot juice are refreshing in the heat.",
+      "whereToTry": "Stalls along the shore road."
+    },
+    {
+      "name": "Dates",
+      "text": "The Jordan Valley grows some of the country's best dates, sold fresh or dried at roadside stalls.",
+      "whereToTry": "Markets in the valley and along the road from Amman."
+    },
+    {
+      "name": "Bedouin coffee and tea",
+      "text": "Hot sweet tea and cardamom coffee, served in resorts and roadside stops.",
+      "whereToTry": "Everywhere, and often free with a meal."
+    },
+    {
+      "name": "Local wine and olive oil",
+      "text": "Jordan produces a small amount of wine and olive oil in the valley and highlands, sold in shops and served in some hotels.",
+      "whereToTry": "Resort restaurants and shops in Madaba."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most people stay at a resort on the shore, and a few stay in Amman or Madaba and visit for the day. The shore has a cluster of large hotels.",
+    "areas": [
+      {
+        "name": "Sweimeh resort strip",
+        "bestFor": "Beach, spas and pools",
+        "text": "A group of five-star hotels and a few mid-range ones near the northern end of the sea, with private beaches and spas."
+      },
+      {
+        "name": "Madaba",
+        "bestFor": "A cheaper base",
+        "text": "About 45 minutes from the sea, and close to Mount Nebo. A better choice if you want to combine the sea with a day of sightseeing."
+      }
+    ],
+    "budget": [
+      { "label": "Mid-range hotel", "value": "JD 80–150 per night" },
+      { "label": "Luxury resort", "value": "JD 150–350 per night" },
+      { "label": "Public beach entry", "value": "JD 10–25 per person" },
+      { "label": "Resort day pass", "value": "JD 30–70 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Dead Sea Highway runs along the shore, and it is about an hour from Amman.",
+    "options": [
+      {
+        "mode": "Car or taxi from Amman",
+        "text": "About an hour, down a long descent through the hills. Taxis and drivers make a fixed-price round trip.",
+        "detail": "Agree the waiting time in advance."
+      },
+      {
+        "mode": "Shuttle from Amman",
+        "text": "Some hotels and tour operators run shuttles to the resorts, and a bus service runs to the public beaches.",
+        "detail": "Check the schedule, which varies with the season."
+      },
+      {
+        "mode": "From the airport",
+        "text": "Queen Alia airport is about an hour from the resort area, so it is a convenient first or last night.",
+        "detail": "Arrange a transfer in advance."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The resort strip is small, and most people use their hotel shuttle or a taxi.",
+    "options": [
+      {
+        "mode": "Hotel shuttle",
+        "text": "Most resorts run shuttles to the beach, since the shore has retreated from the hotels.",
+        "detail": "Ask at reception for the timetable."
+      },
+      {
+        "mode": "Taxi and private driver",
+        "text": "The easiest way to reach Wadi Mujib, the Baptism Site and Zara Ma'in.",
+        "detail": "Ask your hotel to arrange a half-day driver."
+      },
+      {
+        "mode": "Hire car",
+        "text": "Roads are good, and the highway is straightforward.",
+        "detail": "Fuel stations are limited on the shore road, so fill up first."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–April",
+    "summary": "The Dead Sea is at its most comfortable in the cooler months. Summers are extremely hot, often over 40°C, and winters are mild and pleasant.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm, sunny days of 25–33°C and pleasant water. The best combination of weather and swimming."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Very hot, with temperatures regularly above 40°C. You can swim, but the beach is brutal in the middle of the day."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm and comfortable, and the water is at its warmest. A good time for a Dead Sea stay."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Mild, often 18–22°C, and less crowded. A good time to visit when Amman is cold, though the water is cool and Wadi Mujib is closed."
+      }
+    ],
+    "avoid": "Midday in summer, and the winter rains, when the roads and canyons can be affected by flash floods."
+  },
+  "itinerary": {
+    "title": "One day at the Dead Sea",
+    "intro": "A morning at the Baptism Site, a float and lunch at the shore, and a sunset by the water. Assumes a start from Amman or Madaba.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Bethany and the sea",
+        "summary": "Pilgrimage in the morning, a swim in the afternoon.",
+        "morning": "The Baptism Site at Bethany, arriving as it opens.",
+        "afternoon": "A float, a mud wrap and lunch at a resort or public beach.",
+        "evening": "Sunset over the water and dinner at the resort, or the drive back to Amman."
+      }
+    ]
+  },
+  "tipsIntro": "The water is unlike any other, and a few rules make it more comfortable.",
+  "tips": [
+    "Do not shave, and avoid the sea if you have cuts or scratches. The salt stings badly.",
+    "Keep the water out of your eyes and do not splash. If it gets in, rinse immediately with fresh water.",
+    "Do not stay in for more than 15–20 minutes. The salt is dehydrating and hard on the skin.",
+    "Do not swim on your stomach. Float on your back, and do not try to dive.",
+    "Take a fresh-water shower afterwards, and moisturise your skin.",
+    "Bring water shoes. The shore is rocky and salty.",
+    "Take sun protection. The sun is intense, though the extra atmosphere filters some UV.",
+    "Book Wadi Mujib in advance, and check that the trail is open before you go."
+  ],
+  "faq": [
+    {
+      "q": "Can you really not sink in the Dead Sea?",
+      "a": "Effectively, yes. The water is about nine or ten times saltier than the ocean, which makes it dense enough that you float on the surface. Stay on your back, and do not try to swim on your front."
+    },
+    {
+      "q": "Is the Dead Sea worth visiting?",
+      "a": "For most visitors, yes, at least for a short stop. It is a unique experience, easy to reach from Amman, and it combines well with Madaba, Mount Nebo and the Baptism Site."
+    },
+    {
+      "q": "Is the Dead Sea shrinking?",
+      "a": "Yes. The level has been falling by around a metre a year, as the rivers that feed it are diverted and water is extracted for industry. The retreat is visible along the shoreline."
+    },
+    {
+      "q": "What should I bring?",
+      "a": "Swimwear, a towel, water shoes, sunscreen, a hat and a change of clothes. Avoid wearing jewellery, as the salt tarnishes it."
+    },
+    {
+      "q": "Is the Baptism Site worth a visit?",
+      "a": "Yes, especially for anyone interested in Christian history. It is a pleasant and moving site with excavated remains. Note that the tradition is also claimed for the western bank of the river."
+    },
+    {
+      "q": "Can I visit as a day trip from Amman?",
+      "a": "Yes. It takes an hour each way, and many people combine it with Madaba and Mount Nebo. A resort day pass gives access to the beach, pool and facilities."
+    }
+  ],
+  "related": ["madaba-mount-nebo", "amman", "kerak-shobak"],
+  "relatedArticles": ["packing-by-season", "unesco-worth-planning-around"]
+}

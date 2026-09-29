@@ -1,0 +1,316 @@
+{
+  "slug": "wadi-rum",
+  "name": "Wadi Rum",
+  "country": "jordan",
+  "region": "Aqaba Governorate, southern Jordan",
+  "categories": ["unesco", "nature", "scenic"],
+  "tagline": "A red-sand valley of sandstone towers, rock bridges and Bedouin camps, where the sky at night is the main attraction.",
+  "highlight": "A night in a Bedouin camp, with a zarb dinner from the sand oven and a sky with almost no light pollution.",
+  "shortDescription": "A protected desert of sandstone and granite that looks like another planet, explored by jeep, camel or on foot, and slept in under the stars.",
+  "metaDescription": "A Wadi Rum travel guide: jeep tours, rock bridges and canyons, Bedouin camps, sunrise and sunset, when to go and how to choose an operator, plus a two-day plan.",
+  "suggestedStay": "1–2 nights",
+  "nearestAirport": "Aqaba King Hussein (AQJ), about 1 hour",
+  "knownFor": "Red sand, rock bridges, Lawrence of Arabia, Bedouin camps",
+  "budget": "JD 60–120 per day, mid-range, with a camp night",
+  "goodFor": "Landscape, stargazing, adventure, photography",
+  "coords": { "lat": 29.5747, "lng": 35.4198 },
+  "image": {
+    "file": "File:Wadi rum desert.jpg",
+    "alt": "Sandstone mountains rising from the red sand of Wadi Rum"
+  },
+  "intro": [
+    "Wadi Rum, also called the Valley of the Moon, is a protected desert in the far south of Jordan. Its floor is deep red sand, and its walls are sandstone and granite cliffs that rise 500 metres or more, weathered into arches, bridges and canyons. It was inscribed as a UNESCO mixed cultural and natural site in 2011.",
+    "The area has been inhabited for thousands of years, and rock carvings and inscriptions from the Thamudic and Nabataean periods survive along the valleys. Its modern fame comes from T. E. Lawrence, who used it as a base during the Arab Revolt of 1917–18 and wrote about it in Seven Pillars of Wisdom, and from a long list of films shot here, including Lawrence of Arabia and, more recently, The Martian and Dune.",
+    "Today the desert is home to Bedouin communities who run the camps and jeep tours, which are the main way to visit. It is touristy in the best sense: there is a real infrastructure, the guides are usually local, and the scenery is large enough to absorb hundreds of visitors without feeling crowded."
+  ],
+  "whyVisit": {
+    "intro": "Wadi Rum is not a place you look at from a car window. It is a place to spend a night.",
+    "points": [
+      {
+        "title": "The scale is extraordinary",
+        "text": "Sandstone mountains rise straight out of flat red sand, and the valleys are so wide that you can drive for an hour without leaving the scenery."
+      },
+      {
+        "title": "The night sky",
+        "text": "With almost no light pollution, the Milky Way is visible for much of the year, and a clear night here is one of the best places for stargazing in the region."
+      },
+      {
+        "title": "It is a working Bedouin landscape",
+        "text": "Local families run the camps and tours, and you eat what they eat: tea, bread and a dinner from a sand oven. The hospitality is part of the experience."
+      },
+      {
+        "title": "There is more to do than look",
+        "text": "Jeep tours, camel rides, guided canyon scrambles, rock-bridge climbs and even hot-air balloon flights at sunrise, in the right conditions."
+      },
+      {
+        "title": "It is close to Petra and Aqaba",
+        "text": "A little under two hours from Petra and about an hour from Aqaba, so it fits easily into the classic loop."
+      }
+    ]
+  },
+  "attractionsIntro": "Most tours combine several of these in a half-day or full-day jeep circuit. Ask what your route includes before you book.",
+  "attractions": [
+    {
+      "name": "The Seven Pillars of Wisdom",
+      "image": {
+        "file": "File:Wadi Rum Desert, Jordan, The \"Seven Pillars of Wisdom\".jpg",
+        "alt": "The Seven Pillars of Wisdom rock formation in Wadi Rum"
+      },
+      "text": "A tall sandstone massif with seven rounded towers, named after T. E. Lawrence's book, though the book has no connection to this particular rock. It is visible from the village and a standard photo stop.",
+      "tip": "Light is best in the early morning or late afternoon."
+    },
+    {
+      "name": "Lawrence's Spring",
+      "image": {
+        "file": "File:Lawrence Spring, Wadi Rum, Jordan.jpg",
+        "alt": "Lawrence's Spring in Wadi Rum, a water source on a rocky hillside"
+      },
+      "text": "A natural spring on the flank of Jabal Umm Ishrin, said to have been used by Lawrence. There is a short climb to a good view over the desert and the village.",
+      "tip": "The climb takes about 20 minutes. The water is not safe to drink."
+    },
+    {
+      "name": "Khazali Canyon",
+      "text": "A narrow slot in the rock with ancient Nabataean and Thamudic carvings on the walls, and standing water after rain. It is short, easy and well worth the walk.",
+      "tip": "Go early or late, as it is in shade for only part of the day."
+    },
+    {
+      "name": "Burdah Rock Bridge",
+      "text": "A natural arch about 80 m above the desert floor, the highest in Wadi Rum. It is reached by a guided scramble over sandstone, and it is a highlight for confident walkers.",
+      "tip": "Guides are essential. The route includes steep sections, so wear sturdy shoes."
+    },
+    {
+      "name": "Umm Fruth and Jabal Um Ishrin",
+      "text": "A photogenic rock bridge, low enough to climb onto with a scramble, that is on the standard jeep circuit. Nearby Um Ishrin is one of the highest peaks in the area.",
+      "tip": "Ask your guide to time the stop for the best light."
+    },
+    {
+      "name": "The Red Sand Dune",
+      "text": "A steep dune of red sand that visitors climb for the view and roll or slide down for fun. It is a fixture of every half-day tour.",
+      "tip": "Bring a scarf for the wind and take off your shoes for the climb."
+    },
+    {
+      "name": "The Visitor Centre and village",
+      "text": "The entry point for the protected area, where you buy tickets, meet your guide and find basic supplies. The village of Rum has a few shops and cafés.",
+      "tip": "Your Jordan Pass includes entry to the area, but not the jeep tour."
+    }
+  ],
+  "thingsToDoIntro": "The desert is designed for slow travel, and the best experiences involve a guide and a bit of time.",
+  "thingsToDo": [
+    {
+      "title": "Take a jeep tour",
+      "text": "Local guides run half-day, full-day and multi-day tours in 4x4 pickups, covering the main sights and some quieter valleys. Fixed prices per vehicle are posted at the visitor centre.",
+      "tip": "A full day gives a comfortable amount of time and a much better sense of the desert."
+    },
+    {
+      "title": "Sleep in a Bedouin camp",
+      "image": {
+        "file": "File:Wadi Rum Traditional Desert Bedouin Camp in Jordan.jpg",
+        "alt": "Traditional Bedouin camp tents in Wadi Rum"
+      },
+      "text": "Camps range from basic goat-hair tents with shared bathrooms to 'bubble' domes and private cabins. Dinner is usually zarb, and the night sky is the point of staying.",
+      "tip": "Winter nights are near freezing, so check heating and blankets. Camps in the desert proper are quieter than ones close to the village."
+    },
+    {
+      "title": "Watch the sunrise and sunset",
+      "text": "The sand turns orange and pink and the shadows lengthen. Guides know the best viewpoints, and it is worth timing your day around them.",
+      "tip": "Climb a rock in the late afternoon and stay for the colours."
+    },
+    {
+      "title": "Ride a camel",
+      "text": "A camel trek is a slower way to see the desert, from a one-hour ride to a multi-day trek. It is a genuine Bedouin form of transport, and a fun way to spend a morning.",
+      "tip": "Book through your camp or the visitor centre, and expect sore legs after a long ride."
+    },
+    {
+      "title": "Try a guided scramble or climb",
+      "text": "Wadi Rum has world-class sandstone climbing and scrambling, from easy walks to multi-pitch routes led by local guides.",
+      "tip": "Only go with an experienced guide."
+    },
+    {
+      "title": "Take a hot-air balloon flight",
+      "text": "Balloon flights operate at sunrise in suitable weather and give a view over the whole valley. They are an expensive treat and dependent on wind.",
+      "tip": "Book in advance and have a backup plan if the weather turns."
+    }
+  ],
+  "foodIntro": "Food in Wadi Rum is Bedouin cooking, based on meat, rice, bread and tea, and it is eaten in camps. You are unlikely to eat anywhere else.",
+  "foods": [
+    {
+      "name": "Zarb",
+      "text": "A whole meal of chicken or lamb with vegetables, cooked in a sealed pit oven in the sand for a couple of hours and dug up before dinner. It is a Bedouin speciality.",
+      "whereToTry": "Most camps serve it as the evening meal; ask in advance."
+    },
+    {
+      "name": "Bedouin bread",
+      "text": "Flat bread baked in the embers of a fire or on a hot metal dome. It is served with dips and oil.",
+      "whereToTry": "At breakfast in camps, warm from the fire."
+    },
+    {
+      "name": "Sweet sage tea",
+      "text": "Black tea brewed with sage, sugar and sometimes cardamom, poured throughout the day. It is the standard welcome.",
+      "whereToTry": "Everywhere; refusing it once is acceptable, twice is unusual."
+    },
+    {
+      "name": "Mezze and salads",
+      "text": "Hummus, moutabal, tomato and cucumber salads, and grilled vegetables usually come with the main dish.",
+      "whereToTry": "At camps and the few restaurants in Rum village."
+    },
+    {
+      "name": "Mansaf",
+      "text": "Lamb in a dried-yoghurt sauce, served on rice. It is sometimes on offer if you ask a camp in advance.",
+      "whereToTry": "Ask your camp when you book."
+    },
+    {
+      "name": "Dates and fresh fruit",
+      "text": "Dates, oranges and bananas are common as a dessert or a snack. Dates are traditional for breaking a fast in Ramadan.",
+      "whereToTry": "At camps and in the shops in Rum village."
+    }
+  ],
+  "accommodation": {
+    "intro": "Almost everyone sleeps in a camp in the desert, and camps vary more in style than in price. Choose by location and by what is included.",
+    "areas": [
+      {
+        "name": "Camps in the desert",
+        "bestFor": "The full Wadi Rum experience",
+        "text": "Camps set among the rocks, some a few kilometres from the village, others a couple of hours away by jeep. They are quieter and darker, with better stars."
+      },
+      {
+        "name": "Rum village and near the visitor centre",
+        "bestFor": "Simplicity and low cost",
+        "text": "A few guesthouses in Rum village and camps near the entrance. They are easy to reach and cheaper, but you hear more traffic."
+      }
+    ],
+    "budget": [
+      { "label": "Basic tent with shared facilities", "value": "JD 25–45 per person, with dinner and breakfast" },
+      { "label": "Mid-range camp with private bathroom", "value": "JD 60–120 per person" },
+      { "label": "Luxury dome or suite", "value": "JD 150–300 per night" },
+      { "label": "Jeep tour, half-day to full-day", "value": "JD 60–130 per vehicle" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Wadi Rum is about 60 km from Aqaba and 110 km from Petra. It has no train and limited public transport.",
+    "options": [
+      {
+        "mode": "From Aqaba",
+        "text": "About an hour by taxi or private driver. A shared minibus runs between Aqaba and Rum village on a limited schedule.",
+        "detail": "Book a driver through your camp, who can also arrange pickup."
+      },
+      {
+        "mode": "From Petra",
+        "text": "About 90 minutes by taxi or private driver, or a scheduled minibus. A number of tour groups combine the two.",
+        "detail": "Ask your hotel to arrange a transfer, and confirm the price beforehand."
+      },
+      {
+        "mode": "From Amman",
+        "text": "Around four hours by the Desert Highway. Most visitors go via Petra or Aqaba rather than direct.",
+        "detail": "The JETT bus to Aqaba can drop you at the Wadi Rum junction, though a pre-arranged pickup is better."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Inside the reserve, you need a local guide and a 4x4 vehicle.",
+    "options": [
+      {
+        "mode": "Jeep tour",
+        "text": "The standard way to explore. Book at the visitor centre or through your camp, and agree the route and the price before setting off.",
+        "detail": "Prices are set per vehicle, not per person, so a group shares the cost."
+      },
+      {
+        "mode": "Camel trek",
+        "text": "Bedouin guides offer camel treks from an hour to several days. It is slow but atmospheric.",
+        "detail": "Long treks need a lot of planning, so book ahead."
+      },
+      {
+        "mode": "On foot with a guide",
+        "text": "Some of the best places, including the canyons and rock bridges, are only reached on foot and with a guide.",
+        "detail": "Do not try to walk far unaccompanied. It is easy to lose the way in the desert."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Wadi Rum is a desert. Spring and autumn are warm by day and cool at night, summer is extremely hot, and winter is cold and can be wet.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm, clear days and pleasant evenings. Some wildflowers after winter rain, and the busiest season."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Day temperatures often exceed 38°C and can reach the mid-40s, with no shade. Tours run early morning and late afternoon, and camps are much quieter."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm days, cool nights and long, clear evenings. October and November are ideal for stargazing."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold at night, sometimes near or below freezing, with occasional rain and even snow. Bring warm clothes and check what your camp provides."
+      }
+    ],
+    "avoid": "The middle of the day in summer, and the days after heavy rain, when tracks can be closed."
+  },
+  "itinerary": {
+    "title": "Two days in Wadi Rum",
+    "intro": "A jeep circuit on the first day and a night in the desert, followed by a slow morning and a sunrise walk. Assumes an overnight camp.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive and tour",
+        "summary": "Meet your guide and see the highlights.",
+        "morning": "Arrive at the visitor centre, meet your driver and set off on a full-day jeep circuit.",
+        "afternoon": "Stops at Lawrence's Spring, Khazali Canyon and a rock bridge, with a picnic lunch.",
+        "evening": "Sunset from a rock, zarb dinner and stargazing at camp."
+      },
+      {
+        "day": 2,
+        "title": "Sunrise and departure",
+        "summary": "A slow start and an easy drive out.",
+        "morning": "Watch the sunrise, have breakfast at camp and, if you like, take a short walk or camel ride.",
+        "afternoon": "Drive to Aqaba or Petra.",
+        "evening": "Dinner in Aqaba or Wadi Musa."
+      }
+    ]
+  },
+  "tipsIntro": "A few practical points make the difference between a good night in the desert and a great one.",
+  "tips": [
+    "Stay a night. A day trip from Petra or Aqaba is possible, but the best hours are sunrise, sunset and the night, and you miss all three.",
+    "Book through a local operator or directly with your camp. The visitor centre sets standard prices for jeep tours, so you should not need to negotiate.",
+    "Check what your camp provides. Sleeping arrangements, showers, heating and food vary a lot, and you do not want surprises in the cold.",
+    "Bring warm clothes. Desert nights are cold in most months, and near freezing in winter.",
+    "Carry cash for tips and small purchases. Guides and drivers usually expect a tip, and cards are not accepted in the desert.",
+    "Bring a scarf and sunglasses. Wind and sand are constant, and a scarf is also useful for the sun.",
+    "Respect the desert. Leave no rubbish, keep to tracks and do not climb on carved inscriptions or damage the rock art.",
+    "Carry plenty of water and drink regularly, even in cooler months."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Wadi Rum?",
+      "a": "One night is the minimum and works well, giving you an afternoon jeep tour, a sunset and a sunrise. Two nights lets you add a camel trek or a guided scramble."
+    },
+    {
+      "q": "Is Wadi Rum worth it?",
+      "a": "Yes, for most visitors. The scenery is exceptional and the experience of a Bedouin camp is unusual and memorable. It is touristy, but the scale of the landscape absorbs the crowds."
+    },
+    {
+      "q": "Do I need a guide in Wadi Rum?",
+      "a": "Yes. Jeep tours and guided walks are the only permitted way to explore the interior, and it is easy to get lost. Book at the visitor centre or through your camp."
+    },
+    {
+      "q": "How cold does it get at night?",
+      "a": "In winter, temperatures can fall to 0°C or below. Even in spring and autumn, nights are cool. Camps provide blankets, but bring a warm layer."
+    },
+    {
+      "q": "Is the Jordan Pass valid in Wadi Rum?",
+      "a": "The Jordan Pass includes entry to the protected area, but not the jeep tour or accommodation. Check the current terms."
+    },
+    {
+      "q": "Can I visit Wadi Rum as a day trip?",
+      "a": "Yes, from Aqaba or Petra. You will see the main sights, but you will miss the sunrise, sunset and stars, which are the best part."
+    }
+  ],
+  "related": ["petra", "aqaba", "dana-biosphere-reserve"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

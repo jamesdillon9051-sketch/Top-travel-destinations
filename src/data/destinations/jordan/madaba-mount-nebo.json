@@ -1,0 +1,301 @@
+{
+  "slug": "madaba-mount-nebo",
+  "name": "Madaba & Mount Nebo",
+  "shortName": "Madaba and Nebo",
+  "country": "jordan",
+  "region": "Madaba Governorate, central Jordan",
+  "categories": ["historic", "cultural"],
+  "tagline": "The town of the 6th-century mosaic map of the Holy Land, and the mountain from which tradition says Moses saw the Promised Land.",
+  "highlight": "The Madaba Map, a Byzantine floor mosaic showing Jerusalem and the Holy Land, and the view from Mount Nebo across the Jordan Valley.",
+  "shortDescription": "A small Christian-majority town famous for Byzantine floor mosaics, and a nearby mountain that has drawn pilgrims for centuries.",
+  "metaDescription": "A Madaba and Mount Nebo travel guide: the Madaba Map in St George's Church, the Moses Memorial and the view over the Dead Sea, plus Umm ar-Rasas, where to stay and a one-day plan.",
+  "suggestedStay": "Half a day to a day",
+  "nearestAirport": "Amman Queen Alia (AMM), about 30 minutes",
+  "knownFor": "The Madaba Map, Byzantine mosaics, the Moses Memorial at Mount Nebo",
+  "budget": "JD 40–90 per day, including entry",
+  "goodFor": "Religious history, mosaics, pilgrimage, a short stop from Amman",
+  "coords": { "lat": 31.7161, "lng": 35.7935 },
+  "image": {
+    "file": "File:Memorial of Moses in Mount Nebo (East facade).jpg",
+    "alt": "The Franciscan memorial of Moses on the summit of Mount Nebo"
+  },
+  "intro": [
+    "Madaba is a small town about 30 km south of Amman, and it is known as the City of Mosaics. It was a prosperous Byzantine bishopric in the 5th and 6th centuries, and it holds one of the densest collections of floor mosaics in the Middle East. The best known is a 6th-century map of the Holy Land on the floor of the Greek Orthodox Church of St George, the oldest surviving map of the region.",
+    "Ten kilometres to the north-west is Mount Nebo, a ridge at around 800 m that looks down on the Jordan Valley, the Dead Sea and, on a clear day, the hills around Jerusalem. According to the Book of Deuteronomy, Moses was shown the Promised Land from here before he died. The site is a place of Christian pilgrimage, and a Franciscan monastery and a Byzantine church stand on the summit.",
+    "Together, they make a compact visit of religious and archaeological interest. It is easy to combine with the Baptism Site and the Dead Sea for a single long day from Amman, and it sits at the start of the King's Highway."
+  ],
+  "whyVisit": {
+    "intro": "Small, walkable and full of history, the Madaba area is one of the best short stops in Jordan.",
+    "points": [
+      {
+        "title": "The Madaba Map",
+        "text": "A floor mosaic of the Holy Land, made in the 6th century AD, showing Jerusalem, the Dead Sea and towns from the Nile Delta to Lebanon. About two million tesserae were used, according to commonly cited estimates."
+      },
+      {
+        "title": "The view from Mount Nebo",
+        "text": "A broad panorama over the Jordan Valley, the Dead Sea and, in clear weather, towards Jerusalem and Jericho. It is a serene place, and its association with Moses gives it a special significance."
+      },
+      {
+        "title": "A collection of mosaics",
+        "text": "Beyond the map, several churches and an archaeological park display Byzantine and Umayyad mosaics of extraordinary quality."
+      },
+      {
+        "title": "A gentle, walkable town",
+        "text": "Madaba is relaxed and small, with a Christian and Muslim community that has coexisted for generations. It is easy to explore on foot."
+      },
+      {
+        "title": "Close to everything",
+        "text": "Amman, the Dead Sea, the Baptism Site and the King's Highway are all within an hour, so it works as a base or a stop."
+      }
+    ]
+  },
+  "attractionsIntro": "Madaba's sights are all within a short walk of each other. Mount Nebo is a 15-minute drive.",
+  "attractions": [
+    {
+      "name": "The Madaba Map, St George's Church",
+      "image": {
+        "file": "File:The Madaba Map, part of a floor mosaic in the early Byzantine church of Saint George depicting the Holy Land in the 6th century AD, Madaba, Jordan (33798361303).jpg",
+        "alt": "The Byzantine floor mosaic map of the Holy Land in the church of St George at Madaba"
+      },
+      "text": "The mosaic map, in the Greek Orthodox Church of St George, is part of a much larger original that once covered the church floor. Jerusalem is the centrepiece, drawn in detail with its walls, gates and the Church of the Holy Sepulchre.",
+      "tip": "Go early or late, when there are fewer tour groups. Opening hours vary, and photography rules are posted."
+    },
+    {
+      "name": "Mount Nebo and the Moses Memorial",
+      "text": "A Franciscan sanctuary on the summit, with a serpent-shaped cross sculpture that commemorates Moses's bronze serpent. The 4th-century church on the site has been restored and has mosaics of great beauty.",
+      "tip": "Go in the late afternoon for the best light over the Jordan Valley. On a very clear day you can see Jerusalem."
+    },
+    {
+      "name": "The Madaba Archaeological Park",
+      "text": "A compound of Byzantine and Umayyad ruins, including the Hippolytus Hall, with a mosaic floor of extraordinary quality, and the Burnt Palace. It is a good place to see more mosaics.",
+      "tip": "Combine it with the small museum nearby."
+    },
+    {
+      "name": "The Church of the Apostles",
+      "text": "A 6th-century church with a floor mosaic showing the personification of the sea, surrounded by fish and mythical creatures. It is small and less crowded than St George's.",
+      "tip": "Look at the central medallion, which is the highlight."
+    },
+    {
+      "name": "The Madaba Museum",
+      "text": "A small museum in old houses that shows mosaics, traditional costumes and local finds.",
+      "tip": "It is a nice, quiet half-hour."
+    },
+    {
+      "name": "Umm ar-Rasas",
+      "text": "A UNESCO-listed Roman, Byzantine and early Islamic site about 30 km south-east of Madaba, with a floor mosaic in the Church of Saint Stephen and a tall stylite tower that may have been used by an ascetic monk.",
+      "tip": "It is remote and best visited with your own driver."
+    },
+    {
+      "name": "Machaerus",
+      "text": "The ruined hilltop fortress of Herod the Great and Herod Antipas, where, according to the historian Josephus, John the Baptist was imprisoned and executed. It has views over the Dead Sea.",
+      "tip": "Allow half a day. The site is about 25 km west of Madaba."
+    }
+  ],
+  "thingsToDoIntro": "The main sights fill half a day, and the rest is for walking and eating.",
+  "thingsToDo": [
+    {
+      "title": "See the Madaba Map",
+      "text": "The map is best appreciated slowly, with a guidebook or a guide. Look for Jerusalem at the centre, the Dead Sea with ships, and the Nile Delta at the edge.",
+      "tip": "There is a small admission fee, and photography is allowed."
+    },
+    {
+      "title": "Watch the sunset from Mount Nebo",
+      "text": "The sun sinks over the hills of Palestine and the lights come on in the valley. It is an evocative place at dusk.",
+      "tip": "Bring a jacket; it is cool and windy at the top."
+    },
+    {
+      "title": "Visit a mosaic workshop",
+      "text": "Some local workshops and schools produce contemporary mosaics, including Madaba's Institute for Mosaic Art and Restoration. You can see the craft and buy a small piece.",
+      "tip": "Check that a piece is handmade before buying."
+    },
+    {
+      "title": "Walk the old town",
+      "text": "Madaba's centre is compact, with churches, cafés and restaurants. The pace is slow and the mood friendly.",
+      "tip": "Walk along the main street and look at the old stone houses."
+    },
+    {
+      "title": "Combine with the Dead Sea",
+      "text": "The Dead Sea is 40 minutes downhill from Mount Nebo, so the two combine easily. Many visitors also add the Baptism Site.",
+      "tip": "Start at Nebo in the morning and finish with a swim."
+    },
+    {
+      "title": "Take a cooking class",
+      "text": "A few families and guesthouses in Madaba offer cooking classes and home meals.",
+      "tip": "Ask at your hotel or a local tourist office."
+    }
+  ],
+  "foodIntro": "Madaba has a distinct food culture, influenced by its Christian community and its position near the desert. It is small enough that a couple of restaurants cover most of what you need.",
+  "foods": [
+    {
+      "name": "Mansaf",
+      "text": "The national dish of lamb, rice and dried-yoghurt sauce is served in traditional restaurants in the town.",
+      "whereToTry": "Family-run restaurants on the main street."
+    },
+    {
+      "name": "Maqluba",
+      "text": "An upside-down dish of rice, vegetables and meat, popular as a home-cooked meal.",
+      "whereToTry": "Home-style restaurants and cooking classes."
+    },
+    {
+      "name": "Local wine",
+      "text": "Madaba's Christian community has a tradition of winemaking, and a few small wineries and restaurants serve local wines.",
+      "whereToTry": "Restaurants in the old town."
+    },
+    {
+      "name": "Falafel and hummus",
+      "text": "A standard cheap lunch, and good.",
+      "whereToTry": "Stalls near St George's Church."
+    },
+    {
+      "name": "Fresh bread",
+      "text": "Madaba's bakeries produce round loaves and pastries, often filled with cheese or herbs.",
+      "whereToTry": "Bakeries in the centre in the early morning."
+    },
+    {
+      "name": "Sweet pastries",
+      "text": "Kunafa, baklava and other pastries are sold in shops around the centre.",
+      "whereToTry": "Sweet shops near the main square."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most people visit as a day trip from Amman, but Madaba is a pleasant place to stay and useful for early access to Mount Nebo and the Dead Sea.",
+    "areas": [
+      {
+        "name": "Madaba town centre",
+        "bestFor": "Walking and atmosphere",
+        "text": "A handful of small hotels and guesthouses, some in restored old houses, within walking distance of the churches."
+      },
+      {
+        "name": "Mount Nebo area",
+        "bestFor": "Quiet and views",
+        "text": "A few lodges and small hotels near the mountain, with views over the valley."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "JD 25–45 per night" },
+      { "label": "Mid-range hotel", "value": "JD 50–90 per night" },
+      { "label": "Entry to Mount Nebo", "value": "A few dinars, included in the Jordan Pass" },
+      { "label": "Meal at a local restaurant", "value": "JD 4–10 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Madaba is about 30 km south of Amman, and Mount Nebo is a short drive beyond it.",
+    "options": [
+      {
+        "mode": "Car or taxi from Amman",
+        "text": "About 40 minutes by road. A taxi to Madaba and Mount Nebo with waiting time is good value for a small group.",
+        "detail": "Agree the price and the stops in advance."
+      },
+      {
+        "mode": "Bus from Amman",
+        "text": "Buses and minibuses run from Amman's Wihdat station to Madaba regularly, taking about 45 minutes.",
+        "detail": "For Mount Nebo you will need a taxi from Madaba."
+      },
+      {
+        "mode": "Tour",
+        "text": "Many day tours from Amman combine Madaba, Mount Nebo and the Dead Sea.",
+        "detail": "Check what is included, including entry tickets."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The centre of Madaba is walkable. Mount Nebo and the wider region need a taxi or car.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "Madaba's main sights are within about ten minutes' walk of each other.",
+        "detail": "The town is on a gentle hill, and the roads are quiet."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Taxis take you to Mount Nebo, the Dead Sea and Machaerus for a fixed price.",
+        "detail": "Agree the price and waiting time in advance."
+      },
+      {
+        "mode": "Hire car",
+        "text": "Useful if you want to visit Umm ar-Rasas and Machaerus.",
+        "detail": "Roads are good but signs can be confusing, so use a map app."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Madaba and Nebo are at about 800 m and have a comfortable climate. The best views over the valley come in spring and autumn, when the air is clear.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm, clear days and wildflowers. The best views from Mount Nebo."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot but not extreme, often with haze that reduces the view from Nebo."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Clear and warm, with good light and fewer visitors."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool and sometimes wet, but on a clear day the views are excellent and the site is quiet."
+      }
+    ],
+    "avoid": "Hazy summer afternoons, when the view over the Dead Sea disappears."
+  },
+  "itinerary": {
+    "title": "One day at Madaba and Mount Nebo",
+    "intro": "Mount Nebo at opening, Madaba's mosaics at midday and the Dead Sea in the late afternoon. Assumes a driver from Amman.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Nebo, Madaba and the sea",
+        "summary": "A pilgrimage day with a swim at the end.",
+        "morning": "Mount Nebo when it opens, with time at the memorial and the viewpoint.",
+        "afternoon": "Madaba: St George's Church and the map, the archaeological park and lunch in the old town.",
+        "evening": "Down to the Dead Sea for a swim at sunset, then back to Amman."
+      }
+    ]
+  },
+  "tipsIntro": "This is a compact, easy area, and a few suggestions make it better.",
+  "tips": [
+    "Go to Mount Nebo first, when it opens. The light is soft, the crowds are small and you have the whole day ahead.",
+    "Dress modestly for churches, with shoulders and knees covered. Some are active places of worship.",
+    "Bring a guidebook or hire a guide at St George's to make sense of the map.",
+    "Check opening hours, particularly on Sundays and holidays, when churches may close to visitors.",
+    "Buy the Jordan Pass. It includes entry to Mount Nebo and the archaeological park.",
+    "Take a jacket to Mount Nebo. It is often windy and cool.",
+    "Combine your visit with the Dead Sea, but do not try to fit in too much in a single day.",
+    "Use a driver if you plan to visit Umm ar-Rasas or Machaerus, as public transport is limited."
+  ],
+  "faq": [
+    {
+      "q": "What is the Madaba Map?",
+      "a": "A floor mosaic from the 6th century AD in the Greek Orthodox Church of St George. It shows the Holy Land from Lebanon to Egypt, with Jerusalem at the centre, and is the oldest surviving map of the region."
+    },
+    {
+      "q": "Why is Mount Nebo important?",
+      "a": "According to the Bible, Moses was shown the Promised Land from Mount Nebo before he died. The site is a place of Christian pilgrimage, with a Franciscan sanctuary and a Byzantine church. Its location is traditional and not proved by archaeology."
+    },
+    {
+      "q": "How long do you need in Madaba and Mount Nebo?",
+      "a": "Half a day covers the map, Nebo and one or two other sites. A full day lets you add the archaeological park, Machaerus or the Dead Sea."
+    },
+    {
+      "q": "Can I visit as a day trip from Amman?",
+      "a": "Yes. It is about 40 minutes each way, and many visitors combine it with the Dead Sea."
+    },
+    {
+      "q": "Is Madaba safe and welcoming to visitors?",
+      "a": "Yes. It is a small, friendly town with a mixed Christian and Muslim population, and it is generally regarded as very safe. Dress modestly and respect the churches."
+    },
+    {
+      "q": "Can I see Jerusalem from Mount Nebo?",
+      "a": "On a very clear day you can see the hills around Jerusalem and Jericho. Haze often reduces the view, so go in spring or autumn and in the morning."
+    }
+  ],
+  "related": ["dead-sea-jordan", "amman", "kerak-shobak"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}
