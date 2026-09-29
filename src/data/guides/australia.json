@@ -1,0 +1,135 @@
+{
+  "country": "australia",
+  "title": "The Complete Australia Travel Guide",
+  "subtitle": "How the country divides, how to choose between the ten destinations, how to handle enormous distances, and what two weeks can realistically hold.",
+  "summary": "Australia is an island continent, and no trip covers more than a slice of it. This guide covers how the regions divide, how to choose between the ten destinations, how to fly and drive, when to go, what it costs and three routes that work.",
+  "readingTime": "14 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Can I see Sydney, the Reef and Uluru in one trip?",
+      "a": "Yes, with domestic flights. Sydney to Cairns takes about three hours and Cairns to Uluru about three hours plus a connection. Ten days is a comfortable minimum."
+    },
+    {
+      "q": "Is it better to hire a car or take tours?",
+      "a": "A hire car is best for the Great Ocean Road, Tasmania and the coast. Tours are easier for the Great Barrier Reef, Uluru and Kakadu, where distances and permits complicate independent travel."
+    },
+    {
+      "q": "What time of year should I avoid?",
+      "a": "The far north during the wet season from January to March, and the Red Centre in summer. Christmas and January school holidays are also busy and expensive."
+    },
+    {
+      "q": "When should I book?",
+      "a": "Flights, Uluru accommodation and reef tours should be booked two to three months ahead for peak periods. City hotels can often be arranged closer to the date."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-australia-divides",
+      "title": "How Australia divides",
+      "navLabel": "The regions",
+      "body": [
+        "Australia is about 4,000 km from east to west, and its regions differ enormously in climate and character. Six zones organise most trips.",
+        "**The south-east.** [[sydney|Sydney]] and [[melbourne|Melbourne]] are the two great cities, about 880 km apart. Around them are the [[blue-mountains|Blue Mountains]] and the coastal drive of the [[great-ocean-road|Great Ocean Road]].",
+        "**Tasmania.** [[tasmania|Tasmania]] is an island of mountains, wilderness, food and convict history, south of the mainland.",
+        "**Tropical Queensland.** [[great-barrier-reef-cairns|Cairns and the Great Barrier Reef]] sit beside the Daintree Rainforest, and the [[whitsundays|Whitsundays]] have white beaches and sailing in the south.",
+        "**The Red Centre and the Top End.** [[uluru-red-centre|Uluru]] is the heart of the desert, and [[kakadu-top-end|Kakadu]] is the great wetland and rock-art region of the tropical north.",
+        "**Western Australia.** [[perth-margaret-river|Perth and Margaret River]] have sunshine, wine, beaches and the world's most remote big-city location."
+      ],
+      "note": "The practical unit is two or three of these regions, joined by flights. Trying to see more turns the trip into an exercise in airports."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[sydney|Sydney]] with a day in the [[blue-mountains|Blue Mountains]], or [[great-barrier-reef-cairns|Cairns and the Reef]] combined with the Daintree."
+        },
+        {
+          "title": "If you love beaches and the sea",
+          "text": "[[whitsundays|The Whitsundays]] for white sand and sailing, [[great-barrier-reef-cairns|the Reef]] for snorkelling, and [[sydney|Sydney]] for surf."
+        },
+        {
+          "title": "If you want wilderness",
+          "text": "[[tasmania|Tasmania]] for mountains and coast, [[kakadu-top-end|Kakadu]] for wetlands and rock art, and [[uluru-red-centre|Uluru]] for desert."
+        },
+        {
+          "title": "If you like cities and food",
+          "text": "[[melbourne|Melbourne]] for coffee, laneways and dining, [[sydney|Sydney]] for harbour views, and [[perth-margaret-river|Perth]] for wine and beaches."
+        },
+        {
+          "title": "If you like driving",
+          "text": "[[great-ocean-road|The Great Ocean Road]], [[tasmania|Tasmania]] and [[perth-margaret-river|Margaret River]] all reward a hire car."
+        },
+        {
+          "title": "If you want Indigenous culture",
+          "text": "[[uluru-red-centre|Uluru]] and [[kakadu-top-end|Kakadu]], both jointly managed with Aboriginal traditional owners, and with Aboriginal-led tours."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Handling enormous distances",
+      "navLabel": "Getting around",
+      "body": [
+        "Australia's size dominates any plan. Sydney to Perth is about 3,300 km, and Sydney to Cairns about 2,400 km.",
+        "**Flights.** The only sensible way between regions. Qantas, Virgin Australia, Jetstar and Rex fly all major routes, and fares are lowest when booked early.",
+        "**Hire cars.** Ideal for regional exploring, such as the Great Ocean Road, Tasmania and Margaret River. Drive on the left, avoid dawn and dusk in rural areas and take rests every two hours.",
+        "**Trains.** The Ghan, the Indian Pacific and other long-distance trains offer scenic journeys, though they are slow and expensive.",
+        "**Tours.** Organised tours suit the reef, Uluru and Kakadu, where guides and permits make things easier."
+      ],
+      "note": "In the outback, carry extra water and fuel, tell someone your route and do not leave your vehicle if it breaks down."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Australia's seasons are reversed from the northern hemisphere, and the far north has a wet and dry season rather than four seasons.",
+        "December to February is summer, with hot weather in the south and centre and the monsoon in the north. It is beach season in Sydney, Melbourne and Perth, and the peak for domestic holidays.",
+        "March to May is autumn, with warm days and fewer crowds in the south. The north dries out from April.",
+        "June to August is winter, the best time for the reef, Kakadu and Uluru, with clear skies and mild days. The south is cool, with snow in the mountains.",
+        "September to November is spring, with wildflowers in Western Australia, warm weather and few crowds in the south."
+      ],
+      "note": "Cyclone season in the north runs from November to April, with the highest risk from January to March."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Australia is expensive by global standards. A coffee costs about A$5, a restaurant main meal A$25–40, a mid-range hotel A$200–350 and a hire car A$60–120 per day.",
+        "Tours to the reef, Uluru and Kakadu are a large part of the budget, at A$150–400 per day. Booking ahead and choosing shoulder seasons can save money.",
+        "Cards are accepted nearly everywhere, and tipping is not expected. Sales tax is included in prices.",
+        "The main risks are natural. Sun, surf, crocodiles, marine stingers and heat all need respect, and local advice is usually clear and sensible."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: Sydney and the Reef",
+          "text": "Four nights in [[sydney|Sydney]], with a day in the [[blue-mountains|Blue Mountains]], then a flight north for three nights in [[great-barrier-reef-cairns|Cairns and the Reef]].",
+          "tip": "Fly into Sydney and out of Cairns."
+        },
+        {
+          "title": "Ten days: the south-east",
+          "text": "[[sydney|Sydney]], [[melbourne|Melbourne]] and the [[great-ocean-road|Great Ocean Road]], with a short flight between them, plus a side trip to [[tasmania|Tasmania]] if time allows.",
+          "tip": "Fly Sydney to Melbourne, and rent a car for the coast."
+        },
+        {
+          "title": "Two weeks: the classic",
+          "text": "The itinerary on the country page: Sydney, the Blue Mountains, Cairns and the Reef, Uluru, Melbourne and the Great Ocean Road.",
+          "tip": "Swap Uluru for the [[whitsundays|Whitsundays]] if you prefer beaches to desert."
+        }
+      ]
+    }
+  ]
+}

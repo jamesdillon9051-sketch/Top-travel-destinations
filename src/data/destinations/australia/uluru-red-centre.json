@@ -1,0 +1,315 @@
+{
+  "slug": "uluru-red-centre",
+  "name": "Uluru and the Red Centre",
+  "shortName": "Uluru",
+  "country": "australia",
+  "region": "Northern Territory, central Australia",
+  "categories": ["unesco", "nature", "cultural", "national-park"],
+  "tagline": "A monolith of red sandstone rising from the desert, the domes of Kata Tjuta and the canyon of Kings Canyon, at the spiritual heart of the world's oldest living culture.",
+  "highlight": "Uluru at sunrise, as the rock turns from purple to orange to red.",
+  "shortDescription": "A UNESCO-listed desert landscape of Uluru and Kata Tjuta, owned by the Anangu people, with base walks, sunsets, cultural experiences and Kings Canyon within a day's drive.",
+  "metaDescription": "An Uluru and Red Centre travel guide: Uluru sunrise and base walk, Kata Tjuta and the Valley of the Winds, Field of Light, Kings Canyon, Anangu culture, best time, park passes and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Ayers Rock Connellan (AYQ), about 10 minutes from Yulara",
+  "knownFor": "Uluru, Kata Tjuta, red desert, sunrise and sunset colours, Anangu culture",
+  "budget": "A$300–550 per day, mid-range",
+  "goodFor": "Landscapes, Indigenous culture, photography, stargazing",
+  "coords": { "lat": -25.3444, "lng": 131.0369 },
+  "image": {
+    "file": "File:Petermann Ranges (AU), Uluru-Kata Tjuta National Park, Uluru -- 2019 -- 3688.jpg",
+    "alt": "Uluru, the great red sandstone monolith, standing above the desert plain"
+  },
+  "intro": [
+    "Uluru, a vast sandstone monolith 348 metres high and about 9 km around, rises abruptly from the flat red plains of central Australia. It is sacred to the Anangu, the traditional owners, whose ancestors have lived in the region for tens of thousands of years, and its caves, waterholes and rock art are tied to creation stories called Tjukurpa. The rock, and the nearby domes of Kata Tjuta, are protected in Uluru-Kata Tjuta National Park, which was listed by UNESCO for both natural and cultural values.",
+    "Climbing Uluru was closed permanently on 26 October 2019, at the wish of the Anangu, who had long asked visitors not to climb. Instead, visitors walk the base of the rock, join guided walks with Anangu guides, watch the colours change at sunrise and sunset and visit the cultural centre. The 10.6-km base walk circles the rock, passing waterholes, caves and sacred sites.",
+    "The Red Centre is remote and dramatic. The resort of Yulara, 20 km from the rock, is the only place to stay, while Alice Springs is about 450 km away and Kings Canyon about 300 km. It rewards visitors who arrive with time, respect for the country and a willingness to see the desert in early morning and late afternoon light."
+  ],
+  "whyVisit": {
+    "intro": "Uluru is one of the most powerful natural and cultural sites in the world, and Australia's iconic image.",
+    "points": [
+      {
+        "title": "A landmark unlike any other",
+        "text": "The scale, colour and isolation of the rock are astonishing, particularly at dawn and dusk."
+      },
+      {
+        "title": "Anangu culture",
+        "text": "Guided walks and the cultural centre share stories, art and knowledge of the land."
+      },
+      {
+        "title": "Kata Tjuta",
+        "text": "A group of 36 large domes, with excellent walks in the Valley of the Winds and Walpa Gorge."
+      },
+      {
+        "title": "Desert skies",
+        "text": "Some of the clearest night skies on earth, with installations such as the Field of Light."
+      },
+      {
+        "title": "Kings Canyon",
+        "text": "A dramatic sandstone canyon with a rim walk, about 300 km away."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights are within the national park, with Kings Canyon an optional extra.",
+  "attractions": [
+    {
+      "name": "Uluru base walk",
+      "text": "A flat 10.6-km walk around the rock, passing waterholes, caves and rock art, with signs describing the stories. Some parts are sacred and photography is restricted.",
+      "tip": "Start at sunrise, and bring water and a hat."
+    },
+    {
+      "name": "Uluru sunrise and sunset",
+      "text": "The rock changes colour through the day, from dark purple to glowing orange and deep red. There are designated viewing areas for both.",
+      "tip": "Arrive early to secure a spot."
+    },
+    {
+      "name": "Kata Tjuta and the Valley of the Winds",
+      "image": {
+        "file": "File:Kata-Tjuta.jpg",
+        "alt": "The rounded red domes of Kata Tjuta in the desert"
+      },
+      "text": "Thirty-six rock domes, about 30 km west of Uluru, with walks through the Valley of the Winds (about 7 km) and Walpa Gorge (2.6 km). The Valley of the Winds may close in extreme heat.",
+      "tip": "Start early, as the walk is closed later on very hot days."
+    },
+    {
+      "name": "The Cultural Centre",
+      "text": "A centre at the base of Uluru, where Anangu artists and guides share Tjukurpa, and where you can buy art directly.",
+      "tip": "Visit before you walk."
+    },
+    {
+      "name": "Field of Light",
+      "text": "An art installation of about 50,000 slender stems of light spread across the desert at dusk, created by Bruce Munro. Check whether it is still open.",
+      "tip": "Book a sunrise or sunset session."
+    },
+    {
+      "name": "Kings Canyon (Watarrka)",
+      "image": {
+        "file": "File:ViewFromKingsCanyon.JPG",
+        "alt": "The red sandstone walls and desert view at Kings Canyon"
+      },
+      "text": "A 270-metre-deep canyon with a 6-km rim walk and a green oasis called the Garden of Eden, about 3 to 4 hours' drive from Uluru.",
+      "tip": "Start the rim walk early, when it is cool."
+    }
+  ],
+  "thingsToDoIntro": "Most experiences are about the light, the rock and the stories.",
+  "thingsToDo": [
+    {
+      "title": "Watch sunrise at Uluru",
+      "text": "See the rock's colours change, in a peaceful desert dawn.",
+      "tip": "Dress warmly, since it is cold before sunrise."
+    },
+    {
+      "title": "Take an Anangu-guided walk",
+      "text": "Learn about bush foods, rock art and creation stories directly from the traditional owners.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Walk the Valley of the Winds",
+      "text": "A rewarding hike among the domes of Kata Tjuta.",
+      "tip": "Check for heat closures."
+    },
+    {
+      "title": "Dine under the stars",
+      "text": "Evening dinners with astronomers, in the open desert, are popular.",
+      "tip": "Book early."
+    },
+    {
+      "title": "Ride a camel at sunset",
+      "text": "Camel tours cross the dunes at Yulara.",
+      "tip": "Check the operator's welfare record."
+    },
+    {
+      "title": "Go on a helicopter flight",
+      "text": "A scenic flight gives a view of the whole landscape.",
+      "tip": "Expensive but memorable."
+    }
+  ],
+  "foodIntro": "Food in the Red Centre is mostly resort dining, with some bush foods on the menus.",
+  "foods": [
+    {
+      "name": "Bush tucker",
+      "text": "Native ingredients, such as wattleseed, quandong and lemon myrtle, appear in dishes and drinks.",
+      "whereToTry": "Restaurants at Ayers Rock Resort."
+    },
+    {
+      "name": "Kangaroo and emu",
+      "text": "Lean native meats, grilled or in stews.",
+      "whereToTry": "Restaurants at Yulara."
+    },
+    {
+      "name": "Barbecue",
+      "text": "Steaks, sausages and seafood cooked on open grills.",
+      "whereToTry": "Campground and resort barbecues."
+    },
+    {
+      "name": "Damper",
+      "text": "Traditional bush bread baked in the coals.",
+      "whereToTry": "Outback dinners."
+    },
+    {
+      "name": "Australian wine and beer",
+      "text": "Local wines and craft beers at sunset events.",
+      "whereToTry": "Sunset viewing areas."
+    }
+  ],
+  "accommodation": {
+    "intro": "All accommodation is at Yulara, the resort village near the park, with options from campsites to luxury.",
+    "areas": [
+      {
+        "name": "Ayers Rock Resort (Yulara)",
+        "bestFor": "Convenience",
+        "text": "A range of hotels, apartments and a campground."
+      },
+      {
+        "name": "Longitude 131°",
+        "bestFor": "Luxury",
+        "text": "Luxury tents with views of Uluru."
+      },
+      {
+        "name": "Kings Canyon Resort",
+        "bestFor": "Canyon visits",
+        "text": "A resort and campground near Kings Canyon."
+      }
+    ],
+    "budget": [
+      { "label": "Campsite or dorm", "value": "A$40–120 per night" },
+      { "label": "Mid-range hotel", "value": "A$300–550 per night" },
+      { "label": "Luxury lodge", "value": "A$1,500+ per night" },
+      { "label": "Park pass (3 days)", "value": "About A$38 per adult" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Uluru is in the middle of the continent, far from anywhere.",
+    "options": [
+      {
+        "mode": "Flight to Ayers Rock (AYQ)",
+        "text": "Direct flights from Sydney, Melbourne, Alice Springs and some other cities.",
+        "detail": "About 3 hours from Sydney."
+      },
+      {
+        "mode": "Flight to Alice Springs and drive",
+        "text": "A 4.5-hour drive of about 450 km from Alice Springs.",
+        "detail": "Fill up with fuel and carry water."
+      },
+      {
+        "mode": "Tour or train",
+        "text": "Multi-day tours run from Alice Springs, and the Ghan stops at Alice Springs.",
+        "detail": "Book ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Distances are long, and tours are a common choice.",
+    "options": [
+      {
+        "mode": "Resort shuttle",
+        "text": "Free shuttles run between Yulara and the rock.",
+        "detail": "Check the timetable."
+      },
+      {
+        "mode": "Hire car",
+        "text": "Gives freedom for sunrise and sunset.",
+        "detail": "Book early."
+      },
+      {
+        "mode": "Tour",
+        "text": "Sunrise and sunset tours, and day trips to Kings Canyon.",
+        "detail": "Book in advance."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–September",
+    "summary": "The desert is extremely hot in summer and cold at night in winter. Autumn and spring are best.",
+    "seasons": [
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Warm days, cool nights and settled weather."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "best",
+        "text": "Mild to warm days, but freezing nights."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "good",
+        "text": "Warming up, with wildflowers after rain."
+      },
+      {
+        "season": "Summer (December–February)",
+        "rating": "avoid",
+        "text": "Extremely hot, often above 40°C, with flies and closures."
+      }
+    ],
+    "avoid": "December to February, when walks may close because of heat."
+  },
+  "itinerary": {
+    "title": "Three days at Uluru",
+    "intro": "The rock, Kata Tjuta and an evening under the stars.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive and see Kata Tjuta",
+        "summary": "Domes and sunset.",
+        "morning": "Fly to Uluru.",
+        "afternoon": "Kata Tjuta and Walpa Gorge.",
+        "evening": "Sunset at the dune viewing area."
+      },
+      {
+        "day": 2,
+        "title": "Uluru at dawn",
+        "summary": "The base walk.",
+        "morning": "Sunrise and the base walk.",
+        "afternoon": "The Cultural Centre.",
+        "evening": "A dinner under the stars."
+      },
+      {
+        "day": 3,
+        "title": "Kings Canyon or rest",
+        "summary": "A canyon day.",
+        "morning": "Drive to Kings Canyon for the rim walk.",
+        "afternoon": "Return or continue to Alice Springs.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "The desert needs some preparation.",
+  "tips": [
+    "Do not climb Uluru. It is closed and the Anangu ask visitors to respect that.",
+    "Bring a hat, sunscreen, water and a warm layer.",
+    "Follow the rules about photography at sacred sites.",
+    "Book Uluru accommodation and tours well in advance.",
+    "Start walks at dawn to avoid the heat.",
+    "Buy a park pass in advance.",
+    "Carry extra water and fuel if driving."
+  ],
+  "faq": [
+    {
+      "q": "Can I climb Uluru?",
+      "a": "No. It was permanently closed to climbers in October 2019, at the request of the Anangu traditional owners."
+    },
+    {
+      "q": "How many days do you need at Uluru?",
+      "a": "Two to three days for the rock, Kata Tjuta and the cultural centre."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "April to September. Summer is very hot."
+    },
+    {
+      "q": "Do I need a park pass?",
+      "a": "Yes, a pass is required to enter Uluru-Kata Tjuta National Park. Check the current price and validity."
+    },
+    {
+      "q": "Is it worth visiting Kings Canyon?",
+      "a": "Yes, if you have an extra day or are driving to Alice Springs."
+    },
+    {
+      "q": "Can I take photos of Uluru?",
+      "a": "Yes, in most areas, but some sacred sites are off limits. Follow the signs."
+    }
+  ],
+  "related": ["kakadu-top-end", "sydney", "great-barrier-reef-cairns"],
+  "relatedArticles": ["unesco-worth-planning-around", "packing-by-season"]
+}

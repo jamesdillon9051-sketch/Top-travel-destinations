@@ -1,0 +1,348 @@
+{
+  "slug": "perth-margaret-river",
+  "name": "Perth and Margaret River",
+  "shortName": "Perth",
+  "country": "australia",
+  "region": "Western Australia, south-west",
+  "categories": ["major-city", "coastal", "food-and-wine", "nature"],
+  "tagline": "The sunniest capital in Australia, with white-sand beaches, a huge city park and a port town of markets, and, three hours south, a coast of surf breaks, caves and world-class wine.",
+  "highlight": "Sunset over the Indian Ocean from Cottesloe Beach, or a glass of cabernet in the Margaret River vines.",
+  "shortDescription": "Perth's Kings Park, Fremantle and Cottesloe Beach, the quokkas of Rottnest Island and the wineries, caves, surf and forests of Margaret River, in Australia's remote west.",
+  "metaDescription": "A Perth and Margaret River travel guide: Kings Park, Cottesloe Beach, Fremantle, Rottnest Island quokkas, Swan Valley, Margaret River wine, caves, Busselton Jetty, Pinnacles, when to go and a five-day plan.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "Perth (PER), about 20 minutes",
+  "knownFor": "Beaches, sunshine, Rottnest quokkas, Margaret River wine, isolation",
+  "budget": "A$230–420 per day, mid-range",
+  "goodFor": "Beaches, wine, wildlife, road trips, a relaxed pace",
+  "coords": { "lat": -31.9505, "lng": 115.8605 },
+  "image": {
+    "file": "File:Perth (AU), View from Kings Park -- 2019 -- 0525-30.jpg",
+    "alt": "The Perth skyline and the Swan River seen from Kings Park"
+  },
+  "intro": [
+    "Perth is the capital of Western Australia and one of the most isolated major cities in the world, closer to Jakarta than to Sydney. It sits on the Swan River, with the Indian Ocean coast just to the west, and has a Mediterranean climate with more sunshine than any other Australian capital. It grew rich on gold and mining, and it is a relaxed, prosperous and outdoorsy city of about two million people.",
+    "Its centrepiece is Kings Park, a 400-hectare park with bushland, botanic gardens and a view over the city and river, and it is easy to reach beaches such as Cottesloe and Scarborough by train and bus. Fremantle, at the mouth of the river, has a historic port, a convict prison listed by UNESCO, a market and a lively food and music scene. Off the coast, Rottnest Island is home to the quokka, the small, smiling marsupial.",
+    "The wider south-west is superb. Margaret River, three hours south, is one of Australia's premier wine regions, with cabernet sauvignon and chardonnay, caves, tall forests and surf breaks along a rugged coast. Perth is a good base for a few days of road tripping, and many visitors use it as a stop between the east coast and Asia."
+  ],
+  "whyVisit": {
+    "intro": "Perth and Margaret River show a sunnier, more relaxed side of Australia.",
+    "points": [
+      {
+        "title": "Beaches and sunsets",
+        "text": "Long white beaches facing the Indian Ocean, with sunsets over the water."
+      },
+      {
+        "title": "Kings Park",
+        "text": "One of the world's largest inner-city parks, with wildflowers and views."
+      },
+      {
+        "title": "Rottnest Island and quokkas",
+        "text": "Cycle round a car-free island with beaches and friendly marsupials."
+      },
+      {
+        "title": "Margaret River wine and coast",
+        "text": "Cellar doors, caves, forests and surf on a rugged coast."
+      },
+      {
+        "title": "Fremantle",
+        "text": "A historic port with markets, pubs and heritage buildings."
+      }
+    ]
+  },
+  "attractionsIntro": "The city sights can be covered in two days, and Margaret River rewards a couple of nights.",
+  "attractions": [
+    {
+      "name": "Kings Park and Botanic Garden",
+      "text": "A vast park above the city, with the Federation Walkway through the treetops, lookouts and native gardens, and spectacular wildflowers in spring.",
+      "tip": "Go for sunrise or sunset."
+    },
+    {
+      "name": "Cottesloe Beach",
+      "image": {
+        "file": "File:Cottesloe Beach, May 2021 02.jpg",
+        "alt": "White sand and blue water at Cottesloe Beach in Perth"
+      },
+      "text": "Perth's favourite city beach, with white sand, clear water, a pub above the sand and sunsets over the Indian Ocean.",
+      "tip": "Swim between the flags."
+    },
+    {
+      "name": "Fremantle",
+      "image": {
+        "file": "File:Fremantle Markets, July 2023 04.jpg",
+        "alt": "Fremantle Markets, an old market hall in the port town of Fremantle"
+      },
+      "text": "A port town with Victorian buildings, a heritage market, Fremantle Prison, a UNESCO convict site, and a lively cafe and brewery scene.",
+      "tip": "Go on a weekend for the market."
+    },
+    {
+      "name": "Rottnest Island",
+      "image": {
+        "file": "File:Quokka with joey on Rottnest Island, April 2026 06.jpg",
+        "alt": "A quokka with a joey on Rottnest Island"
+      },
+      "text": "A car-free island 19 km offshore, reached by ferry from Fremantle or Perth, where you can cycle around beaches and coves and see quokkas. Do not feed or touch them.",
+      "tip": "Take a day trip, or stay overnight."
+    },
+    {
+      "name": "Margaret River wine region",
+      "text": "More than 100 wineries between Cape Naturaliste and Cape Leeuwin, known for cabernet sauvignon and chardonnay, with cellar doors, restaurants and forest.",
+      "tip": "Hire a driver for tastings."
+    },
+    {
+      "name": "Busselton Jetty",
+      "image": {
+        "file": "File:00 1701 Busselton Jetty - Western Australia.jpg",
+        "alt": "The long timber Busselton Jetty stretching over the sea"
+      },
+      "text": "A timber jetty extending about 1.8 km into Geographe Bay, one of the longest in the world, with a small train and an underwater observatory.",
+      "tip": "Walk or take the train."
+    },
+    {
+      "name": "Cape Leeuwin Lighthouse",
+      "image": {
+        "file": "File:00 1650 Australien - Cape Leeuwin Lighthouse.jpg",
+        "alt": "The Cape Leeuwin Lighthouse standing at the south-western tip of Australia"
+      },
+      "text": "The lighthouse at the corner where the Indian and Southern Oceans meet, at the south-west tip of the continent.",
+      "tip": "Go for the view."
+    }
+  ],
+  "thingsToDoIntro": "Perth mixes city, beach and wine country, with time on the coast.",
+  "thingsToDo": [
+    {
+      "title": "Cycle around Rottnest Island",
+      "text": "A 22-km circuit of beaches, bays and viewpoints, with quokkas.",
+      "tip": "Rent a bike at the ferry."
+    },
+    {
+      "title": "Taste Margaret River wine",
+      "text": "Visit cellar doors, restaurants and breweries.",
+      "tip": "Book tastings or a tour."
+    },
+    {
+      "title": "Explore the caves",
+      "text": "Lake Cave, Jewel Cave and Mammoth Cave are in the region.",
+      "tip": "Check the tours."
+    },
+    {
+      "title": "Watch sunset at Cottesloe",
+      "text": "A local ritual, with a drink.",
+      "tip": "Arrive early."
+    },
+    {
+      "title": "Visit the Pinnacles Desert",
+      "text": "Thousands of limestone spires in Nambung National Park, about 2 hours north.",
+      "tip": "Go at sunset."
+    },
+    {
+      "title": "Look for wildflowers",
+      "text": "August to October, the state is covered with wildflowers.",
+      "tip": "Kings Park is an easy place to see them."
+    }
+  ],
+  "foodIntro": "Perth's food scene is fresh and outdoorsy, with seafood, produce and wine.",
+  "foods": [
+    {
+      "name": "Rock lobster",
+      "text": "Western rock lobster, or crayfish, is a local delicacy.",
+      "whereToTry": "Fremantle and coastal restaurants."
+    },
+    {
+      "name": "Margaret River wine",
+      "text": "Cabernet sauvignon, chardonnay and semillon sauvignon blanc.",
+      "whereToTry": "Cellar doors and restaurants."
+    },
+    {
+      "name": "Craft beer",
+      "text": "A strong local brewing scene, particularly in Fremantle.",
+      "whereToTry": "Breweries in Fremantle and Margaret River."
+    },
+    {
+      "name": "Fish and chips",
+      "text": "Fresh fish and chips at the harbour.",
+      "whereToTry": "Fremantle's Fishing Boat Harbour."
+    },
+    {
+      "name": "Local produce and chocolate",
+      "text": "Cheese, olive oil and chocolate from farms.",
+      "whereToTry": "Margaret River farm gates."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Perth's centre or Fremantle, and choose a base near Margaret River.",
+    "areas": [
+      {
+        "name": "Perth CBD",
+        "bestFor": "Transport and dining",
+        "text": "Hotels near the river."
+      },
+      {
+        "name": "Fremantle and Cottesloe",
+        "bestFor": "Beaches and character",
+        "text": "Boutique hotels and guesthouses."
+      },
+      {
+        "name": "Margaret River and Yallingup",
+        "bestFor": "Wine and surf",
+        "text": "Lodges, cottages and resorts."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "A$40–100 per night" },
+      { "label": "Mid-range hotel", "value": "A$190–330 per night" },
+      { "label": "Luxury hotel or lodge", "value": "A$400–800 per night" },
+      { "label": "Meal at a mid-range restaurant", "value": "A$30–60 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Perth is a long way from everywhere, and is reached by air.",
+    "options": [
+      {
+        "mode": "Flight to Perth (PER)",
+        "text": "Direct flights from Asia and the Middle East, and domestic flights from east coast cities, about 5 hours from Sydney.",
+        "detail": "The airport is close to the city."
+      },
+      {
+        "mode": "Drive to Margaret River",
+        "text": "About 3 hours south, on good roads.",
+        "detail": "Hire a car in Perth."
+      },
+      {
+        "mode": "Indian Pacific train",
+        "text": "A multi-day journey from Sydney to Perth.",
+        "detail": "Book well ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Perth has good public transport, and a car is needed for the south-west.",
+    "options": [
+      {
+        "mode": "Trains, buses and ferries",
+        "text": "An integrated system for Perth and Fremantle, with a SmartRider card.",
+        "detail": "The free CAT buses serve the centre."
+      },
+      {
+        "mode": "Hire car",
+        "text": "Essential for Margaret River and the coast.",
+        "detail": "Roads are quiet."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Popular on Rottnest and along the river.",
+        "detail": "Wear a helmet."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "September–November and March–April",
+    "summary": "Perth has hot dry summers and mild wet winters. Spring and autumn are best.",
+    "seasons": [
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Warm and sunny, with wildflowers and whales."
+      },
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Hot and dry, with sea breezes and beach weather."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Warm and settled, the wine harvest."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "quiet",
+        "text": "Cool and wet, with fewer visitors."
+      }
+    ],
+    "avoid": "Extremely hot days in January and February."
+  },
+  "itinerary": {
+    "title": "Five days in Perth and Margaret River",
+    "intro": "Perth and Fremantle, Rottnest Island, and two days in the south-west.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Perth",
+        "summary": "The park and the river.",
+        "morning": "Kings Park.",
+        "afternoon": "The city centre and river.",
+        "evening": "Sunset at Cottesloe."
+      },
+      {
+        "day": 2,
+        "title": "Fremantle",
+        "summary": "History and markets.",
+        "morning": "Fremantle Prison and the market.",
+        "afternoon": "A brewery.",
+        "evening": "Dinner at the harbour."
+      },
+      {
+        "day": 3,
+        "title": "Rottnest Island",
+        "summary": "Quokkas and beaches.",
+        "morning": "Ferry to Rottnest.",
+        "afternoon": "Cycle round the island.",
+        "evening": "Return to Perth."
+      },
+      {
+        "day": 4,
+        "title": "South to Margaret River",
+        "summary": "Wine country.",
+        "morning": "Drive south.",
+        "afternoon": "Busselton Jetty and cellar doors.",
+        "evening": "Dinner at a winery."
+      },
+      {
+        "day": 5,
+        "title": "Margaret River",
+        "summary": "Caves and coast.",
+        "morning": "A cave visit.",
+        "afternoon": "Cape Leeuwin and the coast.",
+        "evening": "Return to Perth or stay."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan Western Australia.",
+  "tips": [
+    "Allow time. Distances are long, and Perth is far from other cities.",
+    "Hire a car for Margaret River, and share driving.",
+    "Do not feed or touch quokkas. It is illegal on Rottnest.",
+    "Wear sunscreen and a hat all year.",
+    "Book Rottnest ferries and accommodation ahead in summer.",
+    "Check bushfire warnings in summer.",
+    "Note that Perth is 2–3 hours behind the east coast."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Perth?",
+      "a": "Two or three days for Perth and Fremantle, plus two for Margaret River."
+    },
+    {
+      "q": "Is Rottnest Island worth it?",
+      "a": "Yes, for the quokkas, beaches and cycling. A day trip is enough."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "September to November and March to April."
+    },
+    {
+      "q": "Can I visit Margaret River as a day trip?",
+      "a": "It is a long day of about 6 hours' driving. An overnight stay is better."
+    },
+    {
+      "q": "Can I touch a quokka?",
+      "a": "No. It is illegal to touch or feed them, and they are wild animals."
+    },
+    {
+      "q": "Is Perth safe?",
+      "a": "Yes, generally. Usual city precautions apply."
+    }
+  ],
+  "related": ["sydney", "melbourne", "kakadu-top-end"],
+  "relatedArticles": ["food-primer", "week-cost-five-countries"]
+}

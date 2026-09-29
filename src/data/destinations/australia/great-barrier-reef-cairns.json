@@ -1,0 +1,339 @@
+{
+  "slug": "great-barrier-reef-cairns",
+  "name": "Cairns, the Great Barrier Reef and the Daintree",
+  "shortName": "Cairns and the Reef",
+  "country": "australia",
+  "region": "Far North Queensland",
+  "categories": ["nature", "unesco", "coastal", "national-park"],
+  "tagline": "The world's largest coral reef system and the world's oldest tropical rainforest, side by side, with a laid-back tropical city as the gateway to both.",
+  "highlight": "Floating over a coral garden on the outer reef, with turtles and shoals of fish drifting past.",
+  "shortDescription": "Two UNESCO World Heritage wonders in one: reef trips from Cairns and Port Douglas, and the Daintree Rainforest and Cape Tribulation, plus the scenic railway to Kuranda.",
+  "metaDescription": "A Cairns and Great Barrier Reef travel guide: outer reef snorkelling and diving, Green Island, Daintree Rainforest, Cape Tribulation, Kuranda, Port Douglas, best time, stinger season and a four-day plan.",
+  "suggestedStay": "4 days",
+  "nearestAirport": "Cairns (CNS), about 10 minutes",
+  "knownFor": "The Great Barrier Reef, the Daintree Rainforest, tropical weather",
+  "budget": "A$250–450 per day, mid-range",
+  "goodFor": "Snorkelling, diving, rainforest, wildlife, families",
+  "coords": { "lat": -16.9186, "lng": 145.7781 },
+  "image": {
+    "file": "File:Aerial View of Great Barrier Reef (Ank Kumar) 09.jpg",
+    "alt": "An aerial view of coral reefs and turquoise water on the Great Barrier Reef"
+  },
+  "intro": [
+    "The Great Barrier Reef is the largest coral reef system on earth, stretching about 2,300 km along the Queensland coast, made up of almost 3,000 individual reefs and around 900 islands. It is visible from space, home to thousands of species of fish, corals, turtles and other marine life, and was inscribed by UNESCO in 1981. Cairns and Port Douglas, in Far North Queensland, are the main gateways to its northern section.",
+    "The reef is under pressure. Rising sea temperatures have caused repeated mass coral bleaching events in recent years, and parts of it are damaged, but large areas remain healthy, particularly on the outer reef, and it is still one of the world's great natural experiences. Choosing reputable, eco-certified operators and visiting the outer reef rather than the inner fringing reefs helps to see the best of it.",
+    "Beside the reef, the Daintree Rainforest, part of the Wet Tropics of Queensland World Heritage Area, is thought to be around 180 million years old, older than the Amazon. At Cape Tribulation, the rainforest meets the reef. Cairns itself is a relaxed tropical city, with a free lagoon pool on its waterfront, and the base for trips to Kuranda, the Atherton Tablelands and the islands."
+  ],
+  "whyVisit": {
+    "intro": "It is one of the few places in the world where two great natural World Heritage areas sit next to each other.",
+    "points": [
+      {
+        "title": "The reef",
+        "text": "Snorkel or dive among coral gardens, tropical fish, turtles and reef sharks."
+      },
+      {
+        "title": "Ancient rainforest",
+        "text": "Walk through the Daintree, with cassowaries, tree kangaroos and giant ferns."
+      },
+      {
+        "title": "Two ecosystems in a day",
+        "text": "Reef trips and rainforest walks are within a few hours of each other."
+      },
+      {
+        "title": "Scenic journeys",
+        "text": "The Kuranda Scenic Railway and Skyrail cross the rainforest."
+      },
+      {
+        "title": "Tropical ease",
+        "text": "Warm weather, beach towns and relaxed dining."
+      }
+    ]
+  },
+  "attractionsIntro": "A reef day, a rainforest day and a scenic day cover the main experiences.",
+  "attractions": [
+    {
+      "name": "The outer Great Barrier Reef",
+      "image": {
+        "file": "File:GBR-snorkeling-chris-brown.jpg",
+        "alt": "A snorkeller swimming above coral on the Great Barrier Reef"
+      },
+      "text": "Day boats leave Cairns and Port Douglas for reefs such as Agincourt, Norman and Moore, about 1.5 to 2 hours offshore. Pontoons and boats offer snorkelling, diving and glass-bottom viewing.",
+      "tip": "Choose a smaller boat, or a reef with fewer visitors, if you can."
+    },
+    {
+      "name": "Green Island",
+      "image": {
+        "file": "File:Great Barrier Reef Corals.jpg",
+        "alt": "Colourful corals on a reef in the Great Barrier Reef"
+      },
+      "text": "A coral cay about 45 minutes by boat from Cairns, with a beach, rainforest walk and snorkelling right off the sand. Easier and shorter than the outer reef.",
+      "tip": "Good for families and shorter trips."
+    },
+    {
+      "name": "The Daintree Rainforest and Cape Tribulation",
+      "image": {
+        "file": "File:Daintree Rainforest - 2013.04 - panoramio.jpg",
+        "alt": "Dense green rainforest of the Daintree in Far North Queensland"
+      },
+      "text": "The Daintree River, boardwalks and beaches north of Port Douglas, crossed by a short ferry. Cape Tribulation is where the rainforest meets the reef, and crocodile and cassowary warnings are on the signs.",
+      "tip": "Go with a guide, and never swim in rivers or the sea without a safe area."
+    },
+    {
+      "name": "Kuranda Scenic Railway and Skyrail",
+      "image": {
+        "file": "File:Kuranda Scenic Railway, 2022.jpg",
+        "alt": "A vintage train of the Kuranda Scenic Railway climbing through rainforest"
+      },
+      "text": "A heritage railway built in the 1880s climbs from Cairns to the village of Kuranda through gorges and waterfalls, and a cable car (Skyrail) crosses the canopy. Together they make a classic day.",
+      "tip": "Take the train up and the Skyrail down, or vice versa."
+    },
+    {
+      "name": "Port Douglas and Four Mile Beach",
+      "image": {
+        "file": "File:Four Mile Beach, Port Douglas, Queensland 2020.jpg",
+        "alt": "Four Mile Beach at Port Douglas with palm trees and sand"
+      },
+      "text": "A small resort town with a long white beach, restaurants and a Sunday market, and the departure point for many reef and rainforest trips.",
+      "tip": "Stay a night if you want a quieter base."
+    },
+    {
+      "name": "The Cairns Esplanade Lagoon",
+      "image": {
+        "file": "File:Esplanade Lagoon, Cairns, 2025, 05.jpg",
+        "alt": "The saltwater lagoon swimming pool on the Cairns Esplanade"
+      },
+      "text": "A free, saltwater swimming lagoon on the waterfront, since the seafront itself has mudflats and stingers.",
+      "tip": "It is patrolled, and popular in the evening."
+    }
+  ],
+  "thingsToDoIntro": "The area combines water and forest activities, and it is best to plan around the weather.",
+  "thingsToDo": [
+    {
+      "title": "Snorkel or dive the outer reef",
+      "text": "Book a day trip with a reputable operator, for coral, fish, turtles and sometimes reef sharks.",
+      "tip": "Bring a stinger suit in summer."
+    },
+    {
+      "title": "Try an introductory dive",
+      "text": "No experience is needed for a supervised dive, and dive schools offer courses.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "See a cassowary",
+      "text": "The Daintree is home to these large, rare flightless birds.",
+      "tip": "Keep your distance."
+    },
+    {
+      "title": "Take a Daintree River cruise",
+      "text": "A boat trip along the river spots saltwater crocodiles, birds and tree snakes.",
+      "tip": "Go at dawn or dusk."
+    },
+    {
+      "title": "Visit an Aboriginal cultural experience",
+      "text": "Kuku Yalanji guides at Mossman Gorge and Cape Tribulation share stories of the rainforest.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Go white-water rafting",
+      "text": "Rapids on the Barron and Tully rivers, an adventure activity in the wet season.",
+      "tip": "Best from December to April."
+    }
+  ],
+  "foodIntro": "Far North Queensland's food is tropical, with seafood, fruit and Australian bush foods.",
+  "foods": [
+    {
+      "name": "Barramundi",
+      "text": "The famous northern fish, grilled or pan-fried with lemon and salad.",
+      "whereToTry": "Waterfront restaurants in Cairns and Port Douglas."
+    },
+    {
+      "name": "Moreton Bay bugs and prawns",
+      "text": "Sweet, flat-headed lobsters and large prawns.",
+      "whereToTry": "Seafood restaurants."
+    },
+    {
+      "name": "Tropical fruit",
+      "text": "Mango, lychee, custard apple and black sapote, sold at roadside stalls and markets.",
+      "whereToTry": "Rusty's Markets in Cairns and the Tablelands."
+    },
+    {
+      "name": "Local coffee and tea",
+      "text": "Atherton Tablelands coffee and Australian-grown tea.",
+      "whereToTry": "Cafés in Cairns and Kuranda."
+    },
+    {
+      "name": "Bush tucker",
+      "text": "Native ingredients such as lemon myrtle and wattleseed on modern menus.",
+      "whereToTry": "Restaurants in Port Douglas."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose Cairns for convenience, Port Douglas for style, or a rainforest lodge in the Daintree.",
+    "areas": [
+      {
+        "name": "Cairns",
+        "bestFor": "Transport and reef access",
+        "text": "Hotels and hostels along the Esplanade and city centre."
+      },
+      {
+        "name": "Port Douglas",
+        "bestFor": "Resort comfort",
+        "text": "Resorts and boutique hotels near Four Mile Beach."
+      },
+      {
+        "name": "Daintree and Cape Tribulation",
+        "bestFor": "Rainforest immersion",
+        "text": "Eco-lodges and treehouse stays."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "A$40–90 per night" },
+      { "label": "Mid-range hotel", "value": "A$180–320 per night" },
+      { "label": "Luxury resort", "value": "A$400–900 per night" },
+      { "label": "Reef day trip", "value": "A$200–300 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Cairns is in Far North Queensland, about 1,700 km north of Brisbane.",
+    "options": [
+      {
+        "mode": "Flight to Cairns (CNS)",
+        "text": "Direct flights from Sydney, Melbourne and Brisbane, and some from Asia.",
+        "detail": "The airport is 10 minutes from the city."
+      },
+      {
+        "mode": "Drive from Port Douglas",
+        "text": "About 1 hour to 1 hour 15 minutes along the coast.",
+        "detail": "A scenic road."
+      },
+      {
+        "mode": "Fly and drive",
+        "text": "Hire a car for the Daintree and Tablelands.",
+        "detail": "Watch for wildlife on roads."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A hire car is best for the Daintree, and tours are simple for the reef.",
+    "options": [
+      {
+        "mode": "Hire car",
+        "text": "Good for the Daintree and Tablelands.",
+        "detail": "Drive on the left, with care at dusk."
+      },
+      {
+        "mode": "Tours",
+        "text": "Reef and rainforest tours pick up from hotels.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Local buses and taxis",
+        "text": "Cover Cairns and Port Douglas.",
+        "detail": "Limited beyond."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June–October",
+    "summary": "The dry season from May to October is best, with clear water and cooler weather. The wet season from November to April is hot and humid, with stingers and cyclone risk.",
+    "seasons": [
+      {
+        "season": "Dry season (June–October)",
+        "rating": "best",
+        "text": "Warm, dry, low humidity and calm seas, with clear water for snorkelling."
+      },
+      {
+        "season": "Build-up (November–December)",
+        "rating": "good",
+        "text": "Hotter and more humid, with stingers arriving."
+      },
+      {
+        "season": "Wet season (January–March)",
+        "rating": "avoid",
+        "text": "Heavy rain, storms and cyclones, and marine stingers in the water."
+      },
+      {
+        "season": "Late wet (April–May)",
+        "rating": "good",
+        "text": "Drying out, with green landscapes and fewer visitors."
+      }
+    ],
+    "avoid": "January to March, when cyclones, flooding and stingers are most likely."
+  },
+  "itinerary": {
+    "title": "Four days in Far North Queensland",
+    "intro": "A day on the reef, a day in the rainforest, and a day of scenery.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Cairns",
+        "summary": "A gentle start.",
+        "morning": "Arrive and check in.",
+        "afternoon": "The Esplanade Lagoon.",
+        "evening": "Seafood dinner."
+      },
+      {
+        "day": 2,
+        "title": "The Great Barrier Reef",
+        "summary": "A day on the water.",
+        "morning": "A boat to the outer reef.",
+        "afternoon": "Snorkelling or diving.",
+        "evening": "Return to Cairns."
+      },
+      {
+        "day": 3,
+        "title": "The Daintree",
+        "summary": "Rainforest and river.",
+        "morning": "Drive north to the Daintree.",
+        "afternoon": "A rainforest walk and river cruise.",
+        "evening": "Dinner at Port Douglas."
+      },
+      {
+        "day": 4,
+        "title": "Kuranda",
+        "summary": "Rail and cable car.",
+        "morning": "The Kuranda Scenic Railway.",
+        "afternoon": "Kuranda village and Skyrail.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make the reef and the rainforest safer and better.",
+  "tips": [
+    "Choose an eco-certified reef operator, and go to the outer reef.",
+    "Wear reef-safe sunscreen, or a rash vest, to protect the coral and your skin.",
+    "In stinger season (November–May), swim only in netted areas and wear a stinger suit.",
+    "Never swim in rivers or estuaries, where saltwater crocodiles live.",
+    "Bring seasickness tablets for the outer reef.",
+    "Book Daintree and reef tours a few days ahead.",
+    "Check the weather and cyclone warnings in the wet season."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need for the Great Barrier Reef?",
+      "a": "At least one day for a reef trip, and four days if you include the Daintree and Kuranda."
+    },
+    {
+      "q": "Is the Great Barrier Reef still worth seeing?",
+      "a": "Yes. Parts have been damaged by bleaching, but large areas remain healthy and spectacular, particularly on the outer reef."
+    },
+    {
+      "q": "What is the best time to go?",
+      "a": "June to October, the dry season with clear water and few stingers."
+    },
+    {
+      "q": "Are there crocodiles and stingers?",
+      "a": "Yes. Do not swim in rivers or the open sea in the north without local advice, and wear a stinger suit in summer."
+    },
+    {
+      "q": "Can I visit the reef without diving?",
+      "a": "Yes. Snorkelling, glass-bottom boats and semi-submersibles let you see the reef without diving."
+    },
+    {
+      "q": "Cairns or Port Douglas?",
+      "a": "Cairns is the practical base with more transport, and Port Douglas is quieter and more upmarket, closer to the Daintree."
+    }
+  ],
+  "related": ["whitsundays", "sydney", "kakadu-top-end"],
+  "relatedArticles": ["mediterranean-coasts", "packing-by-season"]
+}

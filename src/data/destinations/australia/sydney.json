@@ -1,0 +1,326 @@
+{
+  "slug": "sydney",
+  "name": "Sydney",
+  "country": "australia",
+  "region": "New South Wales, east coast",
+  "categories": ["major-city", "coastal", "cultural", "unesco"],
+  "tagline": "A sparkling harbour city of sails and ferries, with the world's most recognisable opera house, a steel arch, surf beaches within a tram ride and coastal walks along the cliffs.",
+  "highlight": "A ferry across the harbour at sunset, with the Opera House and the Harbour Bridge lit gold behind you.",
+  "shortDescription": "Australia's largest city: the Opera House and Harbour Bridge, The Rocks, the Botanic Garden, Bondi and Manly beaches, cliff walks, ferries and a lively food and café scene.",
+  "metaDescription": "A Sydney travel guide: the Opera House, Harbour Bridge and BridgeClimb, The Rocks, Bondi to Coogee coastal walk, Manly ferry, Royal Botanic Garden, food, where to stay and a three-day plan.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Sydney Kingsford Smith (SYD), about 20 minutes",
+  "knownFor": "The Opera House, Harbour Bridge, Bondi Beach, harbour ferries",
+  "budget": "A$250–450 per day, mid-range",
+  "goodFor": "Harbour views, beaches, coastal walks, food, first-time visitors",
+  "coords": { "lat": -33.8688, "lng": 151.2093 },
+  "image": {
+    "file": "File:Sydney Opera House and Harbour Bridge Dusk (2) 2019-06-21.jpg",
+    "alt": "The Sydney Opera House and Harbour Bridge at dusk across the harbour"
+  },
+  "intro": [
+    "Sydney sits on one of the world's great natural harbours, a drowned river valley of coves, headlands and islands that runs deep into the city. The British established their first colony here in 1788, on the land of the Eora people, and it grew from a convict settlement into Australia's largest city, with more than five million people.",
+    "Two structures define the skyline. The Sydney Opera House, designed by Danish architect Jørn Utzon and opened in 1973, is one of the most recognisable buildings on earth, with sail-like shells of white tile, and it was inscribed by UNESCO in 2007. The Sydney Harbour Bridge, completed in 1932 and nicknamed the Coathanger, spans the water beside it, and adventurous visitors can climb its arch.",
+    "But Sydney is as much about the outdoors as the landmarks. Beaches such as Bondi, Coogee and Manly are a short bus or ferry ride from the centre, cliff-top walks connect them, and ferries are a normal way to commute. It is an expensive city, but a beautiful one, with a relaxed outdoor lifestyle."
+  ],
+  "whyVisit": {
+    "intro": "Sydney is one of the most beautiful cities in the world, and the easiest introduction to Australia.",
+    "points": [
+      {
+        "title": "An incredible harbour",
+        "text": "Ferries, sails and headlands, with the Opera House and Harbour Bridge as the backdrop."
+      },
+      {
+        "title": "City and beach together",
+        "text": "Surf beaches and coastal walks within half an hour of the centre."
+      },
+      {
+        "title": "History and culture",
+        "text": "The Rocks, the Botanic Garden and Aboriginal heritage tours tell layered stories."
+      },
+      {
+        "title": "Food and coffee",
+        "text": "A multicultural food scene, harbourside dining and excellent cafés."
+      },
+      {
+        "title": "A gateway",
+        "text": "The Blue Mountains, the wine regions and the south coast are easy trips."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights cluster around Circular Quay and the harbour, with the beaches a short trip away.",
+  "attractions": [
+    {
+      "name": "The Sydney Opera House",
+      "image": {
+        "file": "File:Sydney Opera House - Dec 2008.jpg",
+        "alt": "The white sail-shaped roofs of the Sydney Opera House"
+      },
+      "text": "The great performing arts centre on Bennelong Point, best seen from the water, from the Botanic Garden and from close up. Tours take you inside, or you can see a performance.",
+      "tip": "Book a tour or a show in advance."
+    },
+    {
+      "name": "The Sydney Harbour Bridge",
+      "image": {
+        "file": "File:Sydney Harbour Bridge, New South Wales (483531) (9440428703).jpg",
+        "alt": "The steel arch of the Sydney Harbour Bridge over the water"
+      },
+      "text": "A steel arch bridge that opened in 1932. You can walk across the pedestrian footway for free, or climb the arch with a guide for a panoramic view.",
+      "tip": "The BridgeClimb takes about three hours and sells out at weekends."
+    },
+    {
+      "name": "The Rocks",
+      "image": {
+        "file": "File:Sydney (AU), The Rocks -- 2019 -- 2133.jpg",
+        "alt": "Historic sandstone buildings and streets in The Rocks in Sydney"
+      },
+      "text": "The oldest part of Sydney, where the first settlers landed, with sandstone buildings, pubs, a Saturday and Sunday market and museums.",
+      "tip": "Visit early or in the evening."
+    },
+    {
+      "name": "The Royal Botanic Garden",
+      "image": {
+        "file": "File:Sydney (AU), Royal Botanic Gardens -- 2019 -- 3082.jpg",
+        "alt": "Lawns and trees in the Royal Botanic Garden beside Sydney Harbour"
+      },
+      "text": "A free, waterfront garden with lawns, palms and fig trees, ending at Mrs Macquarie's Chair with the best view of the Opera House and Bridge together.",
+      "tip": "Walk here from the Opera House."
+    },
+    {
+      "name": "Bondi Beach and the coastal walk",
+      "image": {
+        "file": "File:Sydney (AU), Bondi Beach -- 2019 -- 2354.jpg",
+        "alt": "Surfers and swimmers at Bondi Beach in Sydney"
+      },
+      "text": "The most famous surf beach in Australia, and the start of the 6-km Bondi to Coogee cliff walk, which passes rock pools, coves and sculptures.",
+      "tip": "Swim between the flags."
+    },
+    {
+      "name": "Manly and the ferry",
+      "text": "A 30-minute ferry from Circular Quay to Manly, a beach suburb with a surf beach, a harbour beach and the Corso, with fine views on the way.",
+      "tip": "Sit on the outside deck, on the right side going out."
+    }
+  ],
+  "thingsToDoIntro": "Sydney is best enjoyed in the open air, on foot and on the water.",
+  "thingsToDo": [
+    {
+      "title": "Ride a harbour ferry",
+      "text": "Sydney's ferries are working public transport with the best views in the city, to Manly, Taronga Zoo, Watsons Bay and Parramatta.",
+      "tip": "Use an Opal card or contactless payment."
+    },
+    {
+      "title": "Walk from Bondi to Coogee",
+      "text": "A coastal path of about 6 km past headlands, beaches and rock pools.",
+      "tip": "Start early, and bring sunscreen and water."
+    },
+    {
+      "title": "Climb the Harbour Bridge",
+      "text": "A guided climb of the arch with harnesses, at dawn, day, twilight or night.",
+      "tip": "Book weeks ahead for sunset."
+    },
+    {
+      "title": "See a show at the Opera House",
+      "text": "Opera, ballet, concerts and comedy in an iconic setting.",
+      "tip": "Check for last-minute tickets."
+    },
+    {
+      "title": "Visit Taronga Zoo",
+      "text": "Koalas, kangaroos and a view of the harbour, reached by ferry.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Learn about Aboriginal Sydney",
+      "text": "Walking tours by Aboriginal guides in the Botanic Garden and The Rocks explain the history of the Eora.",
+      "tip": "Book in advance."
+    }
+  ],
+  "foodIntro": "Sydney's dining is diverse, fresh and casual, with seafood, brunch, Asian food and excellent coffee.",
+  "foods": [
+    {
+      "name": "Seafood",
+      "text": "Sydney rock oysters, prawns, barramundi and fish and chips by the harbour.",
+      "whereToTry": "Waterfront restaurants and fish markets."
+    },
+    {
+      "name": "Brunch",
+      "text": "Smashed avocado, eggs and coffee, served in cafés across the city.",
+      "whereToTry": "Surry Hills, Bondi and Paddington."
+    },
+    {
+      "name": "Meat pie",
+      "text": "A traditional pie with a flaky crust.",
+      "whereToTry": "Bakeries and pubs."
+    },
+    {
+      "name": "Asian food",
+      "text": "Excellent Chinese, Thai, Vietnamese and Japanese food, in Chinatown and the suburbs.",
+      "whereToTry": "Haymarket and Cabramatta."
+    },
+    {
+      "name": "Flat white and coffee",
+      "text": "Strong, well-made coffee is the norm.",
+      "whereToTry": "Cafés everywhere."
+    }
+  ],
+  "accommodation": {
+    "intro": "Sydney is expensive, and location matters. Stay near Circular Quay for sights, or in a beach suburb for the coast.",
+    "areas": [
+      {
+        "name": "Circular Quay and The Rocks",
+        "bestFor": "Sights and ferries",
+        "text": "Hotels close to the Opera House and harbour."
+      },
+      {
+        "name": "Surry Hills and the CBD",
+        "bestFor": "Restaurants and transport",
+        "text": "Boutique hotels and hostels in lively streets."
+      },
+      {
+        "name": "Bondi and Manly",
+        "bestFor": "Beach life",
+        "text": "Apartments and guesthouses near the sand."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel or hotel", "value": "A$80–160 per night" },
+      { "label": "Mid-range hotel", "value": "A$220–380 per night" },
+      { "label": "Luxury hotel", "value": "A$450–1,000 per night" },
+      { "label": "Meal at a mid-range restaurant", "value": "A$35–60 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Sydney is Australia's main international gateway.",
+    "options": [
+      {
+        "mode": "Flight to Sydney (SYD)",
+        "text": "Direct flights from Asia, North America, Europe via hubs and New Zealand, and domestic flights from every state.",
+        "detail": "The airport is connected to the city by train in about 15 minutes."
+      },
+      {
+        "mode": "Flight or train from Melbourne",
+        "text": "About 1 hour 30 minutes by air, or a long overnight train or a day's drive of about 9 hours.",
+        "detail": "Fly for speed."
+      },
+      {
+        "mode": "Road",
+        "text": "Sydney to Melbourne is about 880 km, and to Brisbane about 920 km.",
+        "detail": "Allow two days."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Public transport is good, and the harbour ferries are part of it.",
+    "options": [
+      {
+        "mode": "Trains, light rail and buses",
+        "text": "An integrated system, paid with an Opal card or contactless card.",
+        "detail": "Tap on and off."
+      },
+      {
+        "mode": "Ferries",
+        "text": "Routes to Manly, Taronga Zoo and Watsons Bay.",
+        "detail": "The best way to see the harbour."
+      },
+      {
+        "mode": "Walking",
+        "text": "The centre and the coastal paths are walkable.",
+        "detail": "Wear a hat."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "September–November and March–May",
+    "summary": "Sydney has a mild, temperate climate, with warm summers and cool winters.",
+    "seasons": [
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Warm and sunny, with fewer crowds."
+      },
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Hot and humid, the peak beach season. Busy and expensive at Christmas and New Year."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Warm, dry days and settled weather."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "good",
+        "text": "Cool and mostly sunny, with the Vivid light festival in May and June."
+      }
+    ],
+    "avoid": "New Year's Eve, unless you want the fireworks and the crowds."
+  },
+  "itinerary": {
+    "title": "Three days in Sydney",
+    "intro": "The harbour landmarks, the beaches, and a slower day on the water.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The harbour",
+        "summary": "Icons and views.",
+        "morning": "The Opera House and the Botanic Garden.",
+        "afternoon": "The Rocks and the Harbour Bridge.",
+        "evening": "Dinner at Circular Quay."
+      },
+      {
+        "day": 2,
+        "title": "Beaches",
+        "summary": "Surf and cliff paths.",
+        "morning": "The Bondi to Coogee walk.",
+        "afternoon": "A swim and lunch at Bondi.",
+        "evening": "Dinner in Surry Hills."
+      },
+      {
+        "day": 3,
+        "title": "Ferries and the north",
+        "summary": "Manly and views.",
+        "morning": "The Manly ferry.",
+        "afternoon": "A walk at Manly and lunch.",
+        "evening": "A sunset ferry back."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make Sydney easier and cheaper.",
+  "tips": [
+    "Use an Opal card or contactless payment on public transport.",
+    "Take the ferry for the best views. It is public transport, and cheap.",
+    "Swim only between the red and yellow flags.",
+    "Wear sunscreen, a hat and sunglasses, even on cloudy days.",
+    "Book the Bridge Climb and Opera House shows in advance.",
+    "Stay near the ferry wharves and stations.",
+    "Avoid New Year's Eve unless you plan far ahead."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Sydney?",
+      "a": "Three days for the highlights, four or five with the Blue Mountains."
+    },
+    {
+      "q": "Is Sydney expensive?",
+      "a": "Yes, particularly accommodation and eating out. Free attractions such as the beaches, the garden and the ferries help."
+    },
+    {
+      "q": "Is it safe to swim at Bondi?",
+      "a": "Yes, at the patrolled area between the flags. Rips are common, so follow the lifeguards."
+    },
+    {
+      "q": "Can I walk across the Harbour Bridge for free?",
+      "a": "Yes, the pedestrian footway on the east side is free."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "September to November and March to May."
+    },
+    {
+      "q": "Is it worth visiting the Blue Mountains?",
+      "a": "Yes, as a day trip by train, about two hours each way."
+    }
+  ],
+  "related": ["blue-mountains", "melbourne", "great-barrier-reef-cairns"],
+  "relatedArticles": ["packing-by-season", "week-cost-five-countries"]
+}

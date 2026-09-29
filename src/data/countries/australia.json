@@ -1,0 +1,423 @@
+{
+  "slug": "australia",
+  "name": "Australia",
+  "continent": "Oceania",
+  "countryCode": "AU",
+  "tagline": "A continent-sized country of harbour cities, red desert, coral reef, tropical rainforest and the world's oldest living cultures, where the distances are vast and the outdoors is the main attraction.",
+  "cardDescription": "A vast island continent of surf beaches, coral reefs, red-earth deserts, rainforests, great coastal drives and lively cities, with a laid-back culture and the oldest continuous living cultures on earth.",
+  "metaDescription": "A complete Australia travel guide: the 10 best places to visit, Sydney, the Great Barrier Reef, Uluru, Melbourne and the Great Ocean Road, when to go, flights, visas, costs, safety and a two-week itinerary.",
+  "image": {
+    "file": "File:Wineglass Bay from Lookout.jpg",
+    "alt": "The white crescent of Wineglass Bay between forested granite peaks in Tasmania"
+  },
+  "destinations": [
+    "sydney",
+    "great-barrier-reef-cairns",
+    "uluru-red-centre",
+    "melbourne",
+    "great-ocean-road",
+    "tasmania",
+    "whitsundays",
+    "blue-mountains",
+    "perth-margaret-river",
+    "kakadu-top-end"
+  ],
+  "intro": [
+    "Australia is the sixth-largest country in the world, roughly the size of the contiguous United States, but with a population of only about 27 million, most of them living in a handful of cities on the coast. Aboriginal and Torres Strait Islander peoples have lived here for at least 60,000 years, making theirs the oldest continuous living cultures on earth, and their art, stories and connection to Country are increasingly part of the visitor experience. European settlement began in 1788 at Sydney, and the country became a federation in 1901.",
+    "For visitors, the country has some of the most varied natural attractions anywhere: the Great Barrier Reef, the tropical rainforest of the Daintree, the red centre around Uluru, the wildernesses of Tasmania and Kakadu, and thousands of kilometres of beaches. The cities are equally appealing, with Sydney's harbour, Melbourne's cafés and laneways and Perth's beaches and sunshine. Australians are relaxed, friendly and outdoorsy, and the infrastructure is excellent.",
+    "The main challenge is distance. Sydney to Perth is about as far as London to Baghdad, and Sydney to Cairns is a three-hour flight. It is best to choose a few regions and fly between them, rather than trying to see everything. Prices are also high by international standards, and seasons are reversed from the northern hemisphere, so summer runs from December to February."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Sydney, the Great Barrier Reef, Uluru and Melbourne are the classic four; the Great Ocean Road and Blue Mountains are easy additions, and Tasmania, the Whitsundays, Perth and Kakadu reward those with more time.",
+  "thingsToDoIntro": "The experiences that recur across the country and make an Australian trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Snorkel or dive the Great Barrier Reef",
+      "text": "The world's largest coral reef system is a marvel, with colourful fish, turtles and coral gardens, reached by boat from Cairns, Port Douglas or the Whitsundays. See [[great-barrier-reef-cairns|Cairns and the Reef]].",
+      "tip": "Choose an eco-certified operator, and a trip to the outer reef, where the coral is healthiest."
+    },
+    {
+      "title": "See a kangaroo or koala in the wild",
+      "image": {
+        "file": "File:Cute Kangaroo 1 (Unsplash).jpg",
+        "alt": "A kangaroo standing in dry grass in the Australian bush"
+      },
+      "text": "Kangaroos, wallabies and koalas are common in national parks, on golf courses and along the coast, especially at dawn and dusk. Wildlife sanctuaries offer close encounters.",
+      "tip": "Drive slowly at dusk, when animals cross roads."
+    },
+    {
+      "title": "Learn from Aboriginal culture",
+      "image": {
+        "file": "File:Aboriginal Dot Painting Detail (4669858379).jpg",
+        "alt": "Detail of an Aboriginal dot painting"
+      },
+      "text": "Guided walks with Aboriginal guides at Uluru, Kakadu and elsewhere share stories, bush foods and rock art that are tens of thousands of years old. See [[uluru-red-centre|Uluru]] and [[kakadu-top-end|Kakadu]].",
+      "tip": "Choose Aboriginal-owned tours, and follow local rules about sacred sites and photography."
+    },
+    {
+      "title": "Take a coastal road trip",
+      "text": "Australia is made for road trips, from the Great Ocean Road to the Pacific Highway and the west coast. See [[great-ocean-road|the Great Ocean Road]].",
+      "tip": "Drive on the left, take breaks every two hours and never drive tired."
+    },
+    {
+      "title": "Swim, surf and lounge on the beach",
+      "text": "There are more than 10,000 beaches, from Bondi's surf to Whitehaven's white sand. See [[sydney|Sydney]] and [[whitsundays|the Whitsundays]].",
+      "tip": "Swim between the red and yellow flags, patrolled by lifesavers."
+    },
+    {
+      "title": "Ride a great train journey",
+      "image": {
+        "file": "File:Journey Beyond Rail Ghan passenger train.jpg",
+        "alt": "The Ghan passenger train travelling through the Australian outback"
+      },
+      "text": "The Ghan (Adelaide to Darwin) and the Indian Pacific (Sydney to Perth) are among the world's great rail journeys, crossing the continent in comfort.",
+      "tip": "Book months ahead, and allow several days."
+    },
+    {
+      "title": "Wander a market and try a flat white",
+      "text": "Melbourne and Sydney's cafés, laneways and food markets are among the best in the world, and Australian coffee culture has spread across the globe. See [[melbourne|Melbourne]].",
+      "tip": "Order a flat white or a long black."
+    }
+  ],
+  "foodIntro": "Modern Australian cooking is a mix of British roots, Mediterranean and Asian influence and excellent local produce, from seafood and beef to wine and coffee. Each region has its specialities.",
+  "foods": [
+    {
+      "name": "Meat pie",
+      "image": {
+        "file": "File:Meat pie from Milang Bakery, South Australia.jpg",
+        "alt": "A traditional Australian meat pie on a plate"
+      },
+      "text": "A flaky pastry filled with minced beef and gravy, and the classic Aussie snack, often with tomato sauce. Bakeries in small towns compete for the best.",
+      "whereToTry": "Bakeries and footy stadiums, especially in [[melbourne|Melbourne]]."
+    },
+    {
+      "name": "Flat white",
+      "image": {
+        "file": "File:Flat white coffee with pretty feather pattern.jpg",
+        "alt": "A flat white coffee with a feather pattern in the microfoam"
+      },
+      "text": "Espresso with velvety steamed milk, invented in Australia or New Zealand, depending on who you ask. Melbourne and Sydney cafés serve some of the best coffee anywhere.",
+      "whereToTry": "Cafés in [[melbourne|Melbourne]]'s laneways and [[sydney|Sydney]]'s suburbs."
+    },
+    {
+      "name": "Lamington",
+      "image": {
+        "file": "File:Lamingtons.jpg",
+        "alt": "Lamington sponge cakes coated in chocolate and coconut"
+      },
+      "text": "Squares of sponge cake dipped in chocolate and rolled in desiccated coconut, a national sweet often filled with cream and jam.",
+      "whereToTry": "Bakeries and cafés across the country."
+    },
+    {
+      "name": "Pavlova",
+      "image": {
+        "file": "File:Pavlova garnished with cream and strawberries.jpg",
+        "alt": "A pavlova meringue dessert topped with cream and strawberries"
+      },
+      "text": "A crisp meringue with a soft centre, topped with cream and fresh fruit, a summer and Christmas dessert.",
+      "whereToTry": "Cafés and family tables, especially at Christmas."
+    },
+    {
+      "name": "Barramundi and fresh seafood",
+      "text": "Barramundi from the tropical north, Moreton Bay bugs, Tasmanian oysters and Western Australian rock lobster are among the many local specialities.",
+      "whereToTry": "Waterfront restaurants in [[kakadu-top-end|the Top End]], [[tasmania|Tasmania]] and [[sydney|Sydney]]."
+    },
+    {
+      "name": "Wine",
+      "text": "Australia produces excellent wine, from Barossa shiraz to Margaret River cabernet and Yarra Valley pinot noir. Many regions offer tastings within easy reach of cities.",
+      "whereToTry": "Wineries in [[perth-margaret-river|Margaret River]] and near [[melbourne|Melbourne]]."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Australia is very easy to visit, though distances, sun and prices need planning.",
+  "practical": {
+    "capital": "Canberra",
+    "language": "English. Australian English is informal, with plenty of slang, and there are many Aboriginal languages spoken in communities.",
+    "currency": "Australian dollar (AUD, A$). Roughly A$1.50 to the US dollar in recent years.",
+    "money": "Cards and contactless payments are accepted almost everywhere, including small shops and taxis. ATMs are common in cities but scarce in remote areas, so carry some cash outback. Prices in shops are quoted without tips, and tax is included.",
+    "visa": "Most visitors need a visa or electronic authority before travel, usually an ETA (subclass 601), applied for through the official Australian app or an eVisitor for some European passports. New Zealand citizens do not need one. Check the official Australian government site for your passport.",
+    "plugs": "Type I, 230 V, 50 Hz.",
+    "emergency": "000 for police, fire and ambulance (112 also works from mobiles).",
+    "tipping": "Not expected, since wages are high, though rounding up or leaving 10% for great service is appreciated in restaurants.",
+    "safety": "Australia is very safe, but nature is powerful. Wear sunscreen and a hat, since the UV is intense; swim between the flags, since rips are common; do not swim in northern waters where saltwater crocodiles live or in the stinger season without protection; and carry water in the outback. In bushfire season, check warnings and follow local advice.",
+    "connectivity": "Excellent in cities and along the main highways. Coverage is patchy or absent in remote areas. Local SIM and eSIM plans are cheap.",
+    "timeZone": "Three main zones: Eastern (UTC+10), Central (UTC+9:30) and Western (UTC+8), with daylight saving in some states from October to April.",
+    "budget": [
+      { "label": "Backpacker", "value": "A$100–160 per day — hostels, self-catering, buses" },
+      { "label": "Mid-range", "value": "A$250–400 per day — hotels, restaurants, car hire and tours" },
+      { "label": "Comfortable", "value": "A$450–700 per day — boutique hotels, guided tours" },
+      { "label": "Luxury", "value": "A$800+ per day — top hotels and lodges, private tours" }
+    ]
+  },
+  "bestTime": {
+    "headline": "Varies by region, see below",
+    "summary": "Australia's climate ranges from tropical in the north to temperate in the south, and the seasons are reversed from the northern hemisphere. The north has a dry season from May to October and a wet season from November to April.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Hot in the south and warm on the beaches, but wet, humid and stinger-prone in the tropical north, and very hot in the centre. Peak domestic holidays."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Warm and settled in the south, with fewer crowds. The north dries out from April."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "best",
+        "text": "Mild and sunny in the north and centre, the best time for the reef, Uluru and Kakadu. Cool in the south, with snow in the mountains."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Warm, sunny and green in the south, with wildflowers in Western Australia."
+      }
+    ],
+    "avoid": "The tropical north from January to March (cyclones, floods and stingers), and the Red Centre in summer, when temperatures often exceed 40°C."
+  },
+  "tripDuration": {
+    "headline": "2–3 weeks for a first trip",
+    "summary": "Australia is enormous, and flights eat time. Two weeks allow for three or four bases, and three weeks add a slower pace or a road trip.",
+    "options": [
+      {
+        "length": "7–8 days",
+        "text": "Sydney with the Blue Mountains, and a few days on the Great Barrier Reef.",
+        "detail": "A first taste with one flight."
+      },
+      {
+        "length": "12–14 days",
+        "text": "The itinerary on this page: Sydney, the Blue Mountains, Cairns, Uluru, Melbourne and the Great Ocean Road.",
+        "detail": "The classic first trip, with four flights."
+      },
+      {
+        "length": "3 weeks",
+        "text": "Adds Tasmania, the Whitsundays or Perth.",
+        "detail": "A more relaxed pace."
+      },
+      {
+        "length": "4 weeks or more",
+        "text": "Adds Kakadu, the west coast and a road trip.",
+        "detail": "For those with time to explore."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Distances mean that most visitors combine domestic flights with hire cars, and use public transport within the cities.",
+    "options": [
+      {
+        "mode": "Domestic flights",
+        "text": "Qantas, Virgin Australia, Jetstar and Rex link all major cities and tourist regions. Flights are frequent, and often cheap if booked ahead.",
+        "detail": "Book early for school holidays. Budget carriers charge for bags."
+      },
+      {
+        "mode": "Hire cars and campervans",
+        "text": "The best way to see coastlines and national parks. Drive on the left. Distances between towns can be huge, and fuel stops far apart in the outback.",
+        "detail": "Book insurance carefully, and avoid driving at dusk and dawn when kangaroos are active."
+      },
+      {
+        "mode": "Trains",
+        "text": "City trains are good in Sydney, Melbourne and Perth, and long-distance services include the Ghan, the Indian Pacific and the Overland. Journeys are slow but scenic.",
+        "detail": "Book scenic trains months ahead."
+      },
+      {
+        "mode": "Coaches and tours",
+        "text": "Coach services cover the coasts, and organised tours are the easiest way to reach Uluru, Kakadu and the Reef.",
+        "detail": "Small-group tours suit solo travellers."
+      },
+      {
+        "mode": "City transport",
+        "text": "Sydney, Melbourne and Perth have trams, trains, buses and ferries on integrated smartcards. Ride-hailing is widespread.",
+        "detail": "Use contactless payment or the local card."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Australia",
+    "intro": "Sydney and the Blue Mountains, the reef and rainforest of the north, the red centre and Melbourne with the Great Ocean Road, with four domestic flights. Covers six of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Sydney",
+        "morning": "Land and check in.",
+        "afternoon": "A ferry across the harbour.",
+        "evening": "Dinner near the Opera House."
+      },
+      {
+        "day": 2,
+        "title": "Sydney",
+        "morning": "The Opera House and the Botanic Garden.",
+        "afternoon": "The Rocks and the Harbour Bridge.",
+        "evening": "Dinner in Surry Hills."
+      },
+      {
+        "day": 3,
+        "title": "Bondi and the coast",
+        "morning": "The Bondi to Coogee coastal walk.",
+        "afternoon": "A swim at Bondi.",
+        "evening": "Fish and chips by the sea."
+      },
+      {
+        "day": 4,
+        "title": "Blue Mountains",
+        "morning": "Train to Katoomba.",
+        "afternoon": "Echo Point and the Three Sisters.",
+        "evening": "Return to Sydney."
+      },
+      {
+        "day": 5,
+        "title": "Fly to Cairns",
+        "morning": "Flight north.",
+        "afternoon": "The Esplanade and a swim.",
+        "evening": "Dinner by the sea."
+      },
+      {
+        "day": 6,
+        "title": "The Great Barrier Reef",
+        "morning": "A boat to the outer reef.",
+        "afternoon": "Snorkelling.",
+        "evening": "Return to Cairns."
+      },
+      {
+        "day": 7,
+        "title": "Daintree Rainforest",
+        "morning": "Drive north to the Daintree.",
+        "afternoon": "A rainforest walk and Cape Tribulation.",
+        "evening": "Return via Port Douglas."
+      },
+      {
+        "day": 8,
+        "title": "Fly to Uluru",
+        "morning": "Flight to the Red Centre.",
+        "afternoon": "Kata Tjuta at sunset.",
+        "evening": "A dinner under the stars."
+      },
+      {
+        "day": 9,
+        "title": "Uluru",
+        "morning": "Sunrise at Uluru and the base walk.",
+        "afternoon": "The cultural centre.",
+        "evening": "Sunset viewing."
+      },
+      {
+        "day": 10,
+        "title": "Fly to Melbourne",
+        "morning": "Flight south.",
+        "afternoon": "Laneways and coffee.",
+        "evening": "Dinner in the city."
+      },
+      {
+        "day": 11,
+        "title": "Melbourne",
+        "morning": "Queen Victoria Market.",
+        "afternoon": "Federation Square and the gallery.",
+        "evening": "A show or a bar."
+      },
+      {
+        "day": 12,
+        "title": "The Great Ocean Road",
+        "morning": "Drive along the coast.",
+        "afternoon": "The Twelve Apostles.",
+        "evening": "Sunset and dinner in Apollo Bay."
+      },
+      {
+        "day": 13,
+        "title": "Back to Melbourne",
+        "morning": "Rainforest in the Otways.",
+        "afternoon": "Drive back.",
+        "evening": "A last dinner."
+      },
+      {
+        "day": 14,
+        "title": "Depart",
+        "morning": "A last flat white.",
+        "afternoon": "Fly home.",
+        "evening": "Home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Australia is a multicultural, egalitarian and informal country. People are direct and friendly, use first names and expect good humour. Respect for Aboriginal and Torres Strait Islander peoples, and awareness of the land's history, is an important part of modern Australian life.",
+    "etiquette": [
+      {
+        "title": "Be relaxed and friendly",
+        "text": "Australians value informality and a sense of humour. Chat with people and do not stand on ceremony."
+      },
+      {
+        "title": "Respect Aboriginal culture",
+        "text": "Follow local rules about sacred sites and ask before photographing people. Choose Aboriginal-led tours where possible."
+      },
+      {
+        "title": "Queue and wait your turn",
+        "text": "Queuing is taken seriously, in shops, bars and at bus stops."
+      },
+      {
+        "title": "Shout your round",
+        "text": "In pubs, people take turns buying rounds of drinks for the group. Join in."
+      },
+      {
+        "title": "Stay safe in the sun and sea",
+        "text": "Follow the lifesavers' advice, wear sunscreen, and take signs about wildlife seriously."
+      },
+      {
+        "title": "Look after the environment",
+        "text": "Take your rubbish with you, do not feed wildlife and stay on marked tracks."
+      }
+    ],
+    "dos": [
+      "Wear a hat and sunscreen, all year",
+      "Swim between the flags",
+      "Book accommodation ahead in school holidays",
+      "Learn a few local terms, such as 'arvo' (afternoon) and 'no worries'",
+      "Respect signs about crocodiles and closed tracks",
+      "Carry plenty of water in remote areas"
+    ],
+    "donts": [
+      "Don't climb Uluru, which has been closed to climbing since 2019",
+      "Don't swim in northern rivers or estuaries without a safe-swimming sign",
+      "Don't drive tired or at dusk in rural areas",
+      "Don't feed wild animals",
+      "Don't bring in fresh food, plants or animal products without declaring them",
+      "Don't photograph or enter sacred sites where signs ask you not to"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Australia, several of which are specific to how the country works.",
+  "tips": [
+    "Be realistic about distances. Choose three or four bases and fly between them.",
+    "Wear sunscreen, a hat and sunglasses every day, even when it is cloudy.",
+    "Swim only at patrolled beaches, between the flags, and check for rips.",
+    "Book Uluru, the Reef and popular tours well ahead in high season.",
+    "Fill up with fuel and water before long drives in remote areas.",
+    "Drive on the left, and be careful of animals at dawn and dusk.",
+    "Declare all food and outdoor gear at the border. Biosecurity rules are strict, and fines are large.",
+    "Check bushfire, flood and cyclone warnings, particularly from November to April."
+  ],
+  "faq": [
+    {
+      "q": "Is Australia safe?",
+      "a": "Yes, it is very safe for visitors. The biggest risks are the sun, the surf, driving and the outdoors, which is best handled with common sense and local advice."
+    },
+    {
+      "q": "How many days do you need in Australia?",
+      "a": "Two weeks for a first trip, and three if you can. A week lets you do Sydney and one other place."
+    },
+    {
+      "q": "What is the best time to visit Australia?",
+      "a": "It depends where. Spring and autumn suit the south, and May to October suits the north and the Red Centre."
+    },
+    {
+      "q": "Do I need a visa for Australia?",
+      "a": "Most visitors need an ETA or eVisitor, applied for online before travel. Check the official government site."
+    },
+    {
+      "q": "Is Australia expensive?",
+      "a": "Yes, by many standards, particularly for accommodation, food and internal flights. Camping, self-catering and off-peak travel help."
+    },
+    {
+      "q": "Are the animals dangerous?",
+      "a": "Some are, but attacks are rare. Take care with crocodiles in the north, marine stingers in summer and snakes and spiders in the bush, and follow local advice."
+    },
+    {
+      "q": "Can I climb Uluru?",
+      "a": "No. The climb was closed permanently in October 2019, at the request of the Anangu traditional owners. You can walk around the base."
+    }
+  ]
+}
