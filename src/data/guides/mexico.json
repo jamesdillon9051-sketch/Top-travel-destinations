@@ -1,0 +1,135 @@
+{
+  "country": "mexico",
+  "title": "The Complete Mexico Travel Guide",
+  "subtitle": "How the country divides, how to choose between the ten destinations, how to cover the distances, and what a fortnight can realistically hold.",
+  "summary": "Mexico holds Aztec and Maya monuments, silver-boom colonial cities, one of the world's great cuisines and two oceans of beaches, in a country nearly as large as Western Europe. This guide covers how the regions divide, how to choose between the ten destinations, how to move around, when to go, what it costs and three routes that work.",
+  "readingTime": "14 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Can I do Mexico City and the Yucatán in one trip?",
+      "a": "Yes, with a flight. Mexico City to Cancún or Mérida takes about two hours and costs little. Ten days is enough for Mexico City plus either Oaxaca or the Yucatán; two weeks allows all three."
+    },
+    {
+      "q": "Do I need to speak Spanish?",
+      "a": "Not strictly, since English is common in resorts and among younger people in cities, but a few phrases help enormously elsewhere. Downloading an offline translation app is a good idea."
+    },
+    {
+      "q": "Is it better to rent a car?",
+      "a": "Usually not, except in the Yucatán and around Oaxaca's valleys. Buses are good, flights are cheap and driving in Mexico City is difficult. Avoid driving at night on rural roads."
+    },
+    {
+      "q": "When should I book?",
+      "a": "Flights and hotels for Semana Santa, Christmas and Día de Muertos should be booked two to three months ahead. Elsewhere, a few weeks is enough."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-mexico-divides",
+      "title": "How Mexico divides",
+      "navLabel": "The regions",
+      "body": [
+        "Mexico is about 3,200 km from its north-west to its south-east tip, and its regions differ enormously in climate, culture and history. Five zones organise almost any trip.",
+        "**The centre.** [[mexico-city|Mexico City]] is the capital, a metropolis of more than 20 million on a high volcanic plateau. Around it lie [[teotihuacan|Teotihuacán]] and [[puebla-cholula|Puebla and Cholula]], within an hour or two.",
+        "**The colonial highlands.** North-west of the capital, the Bajío region holds [[guanajuato]] and [[san-miguel-de-allende|San Miguel de Allende]], silver towns with UNESCO-listed centres, and [[guadalajara-tequila|Guadalajara and Tequila]] to the west, the birthplace of mariachi and tequila.",
+        "**The south.** [[oaxaca|Oaxaca]] is the centre of Zapotec and Mixtec culture, with Mexico's best food and crafts. Further south-east, [[chiapas-palenque-san-cristobal|Chiapas]] has highland Maya villages, jungle ruins at Palenque and the Sumidero Canyon.",
+        "**The Yucatán Peninsula.** A flat limestone plain with the Maya ruins of Chichén Itzá and Uxmal, the colonial city of Mérida and hundreds of cenotes, on [[yucatan-merida-chichen-itza|the Mérida side]].",
+        "**The Caribbean coast.** [[tulum-riviera-maya|Tulum and the Riviera Maya]] have white beaches, coral reefs, cenotes and a ruin above the sea, on the same peninsula but a different world from Mérida."
+      ],
+      "note": "The practical unit is two or three of these, linked by cheap flights or long buses. Attempting five turns the trip into an exercise in airports."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[mexico-city]] and [[teotihuacan]], with a day in [[puebla-cholula|Puebla]]. Or a week on the Yucatán Peninsula covering [[yucatan-merida-chichen-itza|Mérida and Chichén Itzá]] and [[tulum-riviera-maya|Tulum]]."
+        },
+        {
+          "title": "If you care about food",
+          "text": "[[oaxaca]] first, then [[mexico-city]] and [[yucatan-merida-chichen-itza|Mérida]]. Puebla is the home of mole and chiles en nogada."
+        },
+        {
+          "title": "If you like ruins",
+          "text": "[[teotihuacan]] and [[yucatan-merida-chichen-itza|Chichén Itzá]] are the giants. [[chiapas-palenque-san-cristobal|Palenque]] in the jungle and Monte Albán at [[oaxaca]] are quieter."
+        },
+        {
+          "title": "If you like colonial cities",
+          "text": "[[guanajuato]] and [[san-miguel-de-allende|San Miguel de Allende]] are the classics, and [[puebla-cholula|Puebla]] and [[oaxaca]] are larger and more varied."
+        },
+        {
+          "title": "If you want a beach",
+          "text": "[[tulum-riviera-maya|Tulum and the Riviera Maya]] for the Caribbean. The Pacific coast is not covered here but is easy to add."
+        },
+        {
+          "title": "If you like drinks and music",
+          "text": "[[guadalajara-tequila|Guadalajara and Tequila]] for tequila and mariachi, and [[oaxaca]] for mezcal."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Moving around a very large country",
+      "navLabel": "Getting around",
+      "body": [
+        "Mexico's size is the constraint. Mexico City to Cancún is 1,700 km, and to Oaxaca is 460 km, though the road takes six or seven hours.",
+        "**Flights.** Cheap, frequent and the sensible way to cross regions. Volaris and Viva Aerobus have low fares if you can travel with hand luggage.",
+        "**Buses.** First-class buses (ADO, ETN, Primera Plus) are very good. Within regions they are the best and cheapest option.",
+        "**Trains.** The Tren Maya links Cancún, Tulum, Mérida and Palenque. Check current schedules and routes.",
+        "**Driving.** Useful in the Yucatán and the Oaxaca valleys, less so elsewhere. Toll roads are good; avoid driving at night and take care with speed bumps (topes)."
+      ],
+      "note": "Avoid overnight buses in unfamiliar regions, and use registered taxis or ride-hailing in cities."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Mexico's climate is dominated by altitude and a wet-dry cycle. The wet season runs from June to October, and the dry season from November to May.",
+        "November to April is the best time for almost everywhere: dry, sunny and comfortable, with the highlands cool at night. It is also the high season, and prices peak at Christmas, New Year and Easter.",
+        "May to June is hot, particularly in the lowlands and on the coasts, before the rains break. The highlands are pleasant.",
+        "July to October is rainy, though rain usually falls in the afternoon, and it is the cheapest time to travel. It is also the hurricane season for the Caribbean and the Pacific, with the peak from August to October.",
+        "Día de Muertos on 1–2 November is the most rewarding time to be in Oaxaca or the central highlands, but it books out early."
+      ],
+      "note": "Semana Santa, the week before Easter, is the busiest domestic holiday of the year, with many Mexicans travelling to the coasts."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Mexico is much cheaper than the United States or Europe, but not as cheap as it once was. Street tacos cost a dollar or two, a good restaurant dinner US$20–40, and hotels range from US$25 hostels to US$300 boutique rooms.",
+        "Resort areas such as Tulum and Cancún cost significantly more than the rest of the country, and prices in Tulum now rival Miami.",
+        "Carry pesos, and use ATMs inside banks. Cards are widely accepted, but always choose pesos when asked. Tip 10–15% in restaurants.",
+        "Safety varies a great deal by state. The tourist areas in this guide receive millions of visitors annually, but some states have serious violence and are subject to strong travel warnings. Check your government's advice, and use common sense."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: Mexico City and its neighbours",
+          "text": "Four nights in [[mexico-city|Mexico City]], with a day at [[teotihuacan|Teotihuacán]] and a day in [[puebla-cholula|Puebla and Cholula]]. Uses buses and no internal flights.",
+          "tip": "Book the pyramids for early morning, and spend the evenings eating."
+        },
+        {
+          "title": "Ten days: the south",
+          "text": "Three nights in [[mexico-city|Mexico City]], four in [[oaxaca|Oaxaca]] and three in [[yucatan-merida-chichen-itza|Mérida]] or [[tulum-riviera-maya|Tulum]], linked by two flights. It covers capital, indigenous south and Maya coast.",
+          "tip": "Fly into Mexico City and out of Cancún."
+        },
+        {
+          "title": "Two weeks: the classic",
+          "text": "The itinerary on the country page: Mexico City, Teotihuacán, Puebla, Oaxaca, Mérida, Chichén Itzá and Tulum. The strands of Mexico in a single trip.",
+          "tip": "Swap Puebla for [[guanajuato]] and [[san-miguel-de-allende|San Miguel de Allende]] if you prefer colonial towns."
+        }
+      ]
+    }
+  ]
+}

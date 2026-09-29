@@ -1,0 +1,303 @@
+{
+  "slug": "san-miguel-de-allende",
+  "name": "San Miguel de Allende",
+  "country": "mexico",
+  "region": "Guanajuato State, Bajío highlands",
+  "categories": ["unesco", "cultural", "historic"],
+  "tagline": "A pink-stone colonial town with a neo-Gothic parish church, cobbled lanes, courtyard hotels, galleries and rooftop terraces, popular with artists and expats for decades.",
+  "highlight": "The pink spires of the Parroquia at sunset, from a rooftop bar on the Jardín.",
+  "shortDescription": "A UNESCO-listed highland town of baroque churches, bougainvillea and galleries, with a big expatriate community, excellent restaurants and hot springs nearby.",
+  "metaDescription": "A San Miguel de Allende travel guide: the Parroquia and the Jardín, Atotonilco sanctuary, galleries and rooftop bars, hot springs, Cañada de la Virgen, restaurants, where to stay and a two-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Del Bajío (BJX), about 1 hour 15 minutes; Querétaro (QRO) about 1 hour",
+  "knownFor": "The Parroquia, galleries, rooftop bars, expat community, hot springs",
+  "budget": "US$100–190 per day, mid-range",
+  "goodFor": "Relaxed sightseeing, art, restaurants, a romantic break",
+  "coords": { "lat": 20.9144, "lng": -100.7452 },
+  "image": {
+    "file": "File:ParroquiaSanMiguelFacade2019.jpg",
+    "alt": "The pink neo-Gothic facade of the Parroquia de San Miguel Arcángel in San Miguel de Allende"
+  },
+  "intro": [
+    "San Miguel de Allende sits at 1,900 metres in the highlands of central Mexico, founded by the Spanish in 1542 and enriched by silver and the road that carried it. It was almost abandoned in the early 20th century, and that neglect preserved its colonial centre. In the 1930s American artists arrived, including Stirling Dickinson, who founded an art school, and the town has been a magnet for creative visitors and retirees ever since.",
+    "Its symbol is the Parroquia de San Miguel Arcángel, whose pink neo-Gothic spires were designed in the 1880s by a self-taught indigenous builder who reportedly used postcards of European cathedrals as a guide. Around it, the Jardín, the central square, hosts musicians, vendors and families every evening, and the surrounding streets are lined with pastel houses, arched doorways and hidden courtyards. UNESCO listed the centre, and the nearby Sanctuary of Atotonilco, in 2008.",
+    "It is polished and relatively expensive, with a large foreign community, and some visitors find it too gentrified. Others enjoy it for that reason: good restaurants, boutique hotels, galleries and rooftop bars, with hot springs, vineyards and hiking a few minutes away."
+  ],
+  "whyVisit": {
+    "intro": "San Miguel is an easy, beautiful town for a relaxed few days, and a comfortable introduction to colonial Mexico.",
+    "points": [
+      {
+        "title": "A perfectly preserved centre",
+        "text": "Cobbled streets, ochre and pink façades and courtyards make a compact and photogenic centre."
+      },
+      {
+        "title": "Art and crafts",
+        "text": "Galleries, artisan markets and the Fábrica La Aurora arts complex reflect the town's artistic tradition."
+      },
+      {
+        "title": "Food and drink",
+        "text": "Some of the best restaurants outside Mexico City, and rooftop terraces with views."
+      },
+      {
+        "title": "Hot springs and countryside",
+        "text": "Natural thermal pools, wineries and hills lie close to the town."
+      },
+      {
+        "title": "A base for the region",
+        "text": "Guanajuato and Querétaro are both within a couple of hours."
+      }
+    ]
+  },
+  "attractionsIntro": "The centre is compact, and the sights are all within walking distance.",
+  "attractions": [
+    {
+      "name": "The Parroquia and the Jardín",
+      "text": "The town's main church and its central square, shaded by laurel trees and busy on weekends. The pink stone glows at sunset.",
+      "tip": "Sit on a bench and watch the evening promenade."
+    },
+    {
+      "name": "The Bellas Artes Cultural Centre",
+      "text": "A former convent with a courtyard, murals by David Alfaro Siqueiros and a rotating programme of exhibitions and concerts.",
+      "tip": "Free to enter."
+    },
+    {
+      "name": "Fábrica La Aurora",
+      "text": "A former textile factory turned into a complex of galleries, design shops and cafés.",
+      "tip": "Good for an afternoon."
+    },
+    {
+      "name": "Mercado de Artesanías",
+      "text": "A large craft market with tin, glass, ceramics and textiles.",
+      "tip": "Bargain politely."
+    },
+    {
+      "name": "The Santuario de Atotonilco",
+      "text": "An 18th-century sanctuary with vividly painted walls and ceilings, called the Sistine Chapel of Mexico, and a key site for pilgrims.",
+      "tip": "About 15 minutes' drive from town."
+    },
+    {
+      "name": "Cañada de la Virgen",
+      "text": "A pre-Hispanic pyramid complex 30 minutes from town, with astronomical alignments.",
+      "tip": "Visit with a guide."
+    },
+    {
+      "name": "The Mirador",
+      "text": "A hilltop viewpoint with a panorama of the town and its spires.",
+      "tip": "Go at sunset."
+    }
+  ],
+  "thingsToDoIntro": "San Miguel is for wandering, eating and unwinding.",
+  "thingsToDo": [
+    {
+      "title": "Watch the sunset from a rooftop",
+      "text": "Several rooftop bars overlook the Parroquia, with mezcal cocktails.",
+      "tip": "Arrive before sunset to get a table."
+    },
+    {
+      "title": "Soak in hot springs",
+      "text": "Thermal pools at La Gruta, Escondido Place and Xote, a short drive outside town.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Take a cooking class",
+      "text": "Learn to make salsas, tortillas and mole from local cooks.",
+      "tip": "Combine with a market visit."
+    },
+    {
+      "title": "Visit galleries and studios",
+      "text": "Dozens of galleries show contemporary Mexican art.",
+      "tip": "Many close on Mondays."
+    },
+    {
+      "title": "Go horse-riding or hiking",
+      "text": "Trails run through the hills and along the Cañada de la Virgen.",
+      "tip": "Book a guide."
+    },
+    {
+      "title": "Sample local wine",
+      "text": "Vineyards in the Guanajuato wine region offer tastings.",
+      "tip": "Hire a driver."
+    }
+  ],
+  "foodIntro": "San Miguel's restaurants range from Mexican classics to international cuisine, and the town has a strong farm-to-table scene.",
+  "foods": [
+    {
+      "name": "Modern Mexican",
+      "text": "Chefs reinterpret regional dishes with local ingredients.",
+      "whereToTry": "Restaurants around the centre."
+    },
+    {
+      "name": "Tacos and street food",
+      "text": "Carnitas, al pastor and birria at stalls and taquerías.",
+      "whereToTry": "Ignacio Ramírez market."
+    },
+    {
+      "name": "Churros and hot chocolate",
+      "text": "Fresh churros with thick chocolate.",
+      "whereToTry": "Churrerías near the Jardín."
+    },
+    {
+      "name": "Guanajuato wine",
+      "text": "Reds and whites from nearby vineyards.",
+      "whereToTry": "Wine bars and restaurants."
+    },
+    {
+      "name": "Coffee and pastries",
+      "text": "Excellent cafés serve local coffee and baked goods.",
+      "whereToTry": "Cafés in the centre."
+    },
+    {
+      "name": "Mezcal cocktails",
+      "text": "Cocktail bars pour mezcal-based drinks.",
+      "whereToTry": "Rooftop bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Boutique hotels in restored mansions dominate, with a range of prices.",
+    "areas": [
+      {
+        "name": "Centro",
+        "bestFor": "Walking",
+        "text": "Boutique hotels and guesthouses within a few blocks of the Jardín."
+      },
+      {
+        "name": "Guadiana and Ojo de Agua",
+        "bestFor": "Quiet and value",
+        "text": "Residential neighbourhoods with guesthouses, a 15-minute walk from the centre."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel", "value": "US$40–80 per night" },
+      { "label": "Mid-range hotel", "value": "US$120–220 per night" },
+      { "label": "Luxury hotel", "value": "US$250–600 per night" },
+      { "label": "Dinner at a good restaurant", "value": "US$25–60 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "San Miguel is about 3.5 hours from Mexico City by road.",
+    "options": [
+      {
+        "mode": "Bus from Mexico City",
+        "text": "About 4 hours from the Terminal Norte.",
+        "detail": "Buy tickets in advance."
+      },
+      {
+        "mode": "Flight to Del Bajío or Querétaro",
+        "text": "Then a transfer of 1 to 1 hour 15 minutes.",
+        "detail": "Book a shuttle."
+      },
+      {
+        "mode": "From Guanajuato",
+        "text": "About 1 hour 30 minutes by bus or car.",
+        "detail": "Buses run regularly."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The centre is small and walkable.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "Sights are within 15 minutes of each other, on cobbled, sloping streets.",
+        "detail": "Wear flat shoes."
+      },
+      {
+        "mode": "Taxis",
+        "text": "Cheap and plentiful.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Tours",
+        "text": "For hot springs, wineries and Atotonilco.",
+        "detail": "Book through your hotel."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–April",
+    "summary": "The climate is mild at 1,900 m, with a rainy season from June to September.",
+    "seasons": [
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "Dry, sunny and cool in the evenings."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm and dry."
+      },
+      {
+        "season": "Summer (June–September)",
+        "rating": "quiet",
+        "text": "Afternoon rain, green hills and lower prices."
+      },
+      {
+        "season": "Autumn (October–November)",
+        "rating": "best",
+        "text": "Clear and pleasant, with Día de Muertos."
+      }
+    ],
+    "avoid": "Semana Santa and Christmas for crowds."
+  },
+  "itinerary": {
+    "title": "Two days in San Miguel de Allende",
+    "intro": "The centre on the first day, hot springs and the sanctuary on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The centre",
+        "summary": "Churches and galleries.",
+        "morning": "The Parroquia, the Jardín and the Bellas Artes centre.",
+        "afternoon": "Fábrica La Aurora.",
+        "evening": "Sunset on a rooftop."
+      },
+      {
+        "day": 2,
+        "title": "Outside town",
+        "summary": "Sanctuary and springs.",
+        "morning": "Atotonilco.",
+        "afternoon": "Hot springs.",
+        "evening": "A last dinner."
+      }
+    ]
+  },
+  "tipsIntro": "San Miguel is easy, and a few tips help.",
+  "tips": [
+    "Book weekends and holidays ahead.",
+    "Wear flat shoes for the cobbles.",
+    "Visit the Jardín on a Sunday evening.",
+    "Prices are higher than elsewhere in Mexico.",
+    "Bring a jacket for the evenings.",
+    "Book hot springs in advance.",
+    "Use taxis at night."
+  ],
+  "faq": [
+    {
+      "q": "Is San Miguel de Allende worth visiting?",
+      "a": "Yes, for its architecture, food and atmosphere. It is touristy and expensive but very pretty."
+    },
+    {
+      "q": "How many days do you need?",
+      "a": "Two or three, longer if you want to relax."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "The town centre is generally safe, and popular with expats. Check your government's advice for Guanajuato state."
+    },
+    {
+      "q": "How far is it from Mexico City?",
+      "a": "About 280 km, or 3.5 to 4 hours by road."
+    },
+    {
+      "q": "What is Atotonilco?",
+      "a": "A pilgrimage sanctuary with painted walls, a UNESCO-listed site, near San Miguel."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "October to April for dry weather."
+    }
+  ],
+  "related": ["guanajuato", "guadalajara-tequila", "mexico-city"],
+  "relatedArticles": ["underrated-destinations", "food-primer"]
+}

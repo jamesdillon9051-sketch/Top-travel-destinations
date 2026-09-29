@@ -1,0 +1,294 @@
+{
+  "slug": "teotihuacan",
+  "name": "Teotihuacán",
+  "country": "mexico",
+  "region": "State of Mexico, 50 km north-east of Mexico City",
+  "categories": ["unesco", "archaeological", "historic"],
+  "tagline": "The City of the Gods: a vast grid of pyramids, temples and avenues, built two thousand years ago by a civilisation whose name we do not know, centred on the Pyramid of the Sun.",
+  "highlight": "Climbing the Pyramid of the Sun or walking the Avenue of the Dead at opening, when the site is quiet and the light is low.",
+  "shortDescription": "One of the largest cities of the ancient Americas, with the third-largest pyramid in the world, murals, a citadel and a two-kilometre ceremonial avenue, an hour from Mexico City.",
+  "metaDescription": "A Teotihuacán travel guide: the Pyramid of the Sun and Moon, the Avenue of the Dead, the Temple of the Feathered Serpent, murals, how to get there from Mexico City and a half-day plan.",
+  "suggestedStay": "Half a day to a day",
+  "nearestAirport": "Mexico City Benito Juárez (MEX), about 1 hour 15 minutes",
+  "knownFor": "The Pyramids of the Sun and Moon, the Avenue of the Dead, the murals",
+  "budget": "US$50–100 per day including entry",
+  "goodFor": "Archaeology, walking, history, a day from Mexico City",
+  "coords": { "lat": 19.6925, "lng": -98.8438 },
+  "image": {
+    "file": "File:Pyramid of the Sun, Teotihuacan, from path to parking lot.jpg",
+    "alt": "The Pyramid of the Sun at Teotihuacán rising above the site's paths"
+  },
+  "intro": [
+    "Teotihuacán was, at its height around 450 CE, one of the largest cities in the world, with perhaps 100,000 or more inhabitants. It was laid out on a grid, with a ceremonial avenue, the Avenue of the Dead, running for about 2 km between monumental pyramids and palaces. Its people are known as the Teotihuacanos, but we do not know what they called themselves or what language they spoke.",
+    "The Aztecs found the city in ruins in the 14th century, and, awed, named it Teotihuacán, 'the place where the gods were created', and they believed the gods had sacrificed themselves there to create the sun. The names of its buildings, such as the Pyramid of the Sun and the Avenue of the Dead, are Aztec inventions.",
+    "The site, about 50 km north-east of Mexico City, was inscribed by UNESCO in 1987. Its central monuments are the Pyramid of the Sun, about 65 metres high, the Pyramid of the Moon and the Citadel, with the Temple of the Feathered Serpent, and many of its apartment compounds still hold painted murals. It is a big, hot, open site, and its scale is best absorbed early in the morning."
+  ],
+  "whyVisit": {
+    "intro": "Teotihuacán is the most impressive pre-Hispanic site near Mexico City, and one of the great cities of the ancient world.",
+    "points": [
+      {
+        "title": "The Pyramid of the Sun",
+        "text": "About 65 metres high and 220 metres on each side, it is one of the largest pyramids in the world, and visitors can climb its 248 steps."
+      },
+      {
+        "title": "The Avenue of the Dead",
+        "text": "A grand 2 km avenue lined with platforms and temples, which gives a sense of the city's scale and planning."
+      },
+      {
+        "title": "The Temple of the Feathered Serpent",
+        "text": "A pyramid covered in carved serpent heads and stylised feathers, in the Citadel."
+      },
+      {
+        "title": "Murals",
+        "text": "Painted murals in the residential compounds and the site museum show gods, animals and ritual scenes in bright colours."
+      },
+      {
+        "title": "An hour from the capital",
+        "text": "It is easy to visit in half a day, and it combines well with a lunch in a nearby cave restaurant."
+      }
+    ]
+  },
+  "attractionsIntro": "The site is large and mostly exposed. Allow three to four hours.",
+  "attractions": [
+    {
+      "name": "The Pyramid of the Sun",
+      "text": "The largest structure in Teotihuacán, built around 100 CE, with a steep stair to the top and views over the whole city.",
+      "tip": "Climb early. Rules change, so check whether climbing is allowed."
+    },
+    {
+      "name": "The Pyramid of the Moon",
+      "text": "A smaller pyramid at the northern end of the Avenue of the Dead, with a plaza in front. Its view down the avenue is the best in the site.",
+      "tip": "Climbing may be limited."
+    },
+    {
+      "name": "The Avenue of the Dead",
+      "image": {
+        "file": "File:Avenue of the Dead at Teotihuacan2.jpg",
+        "alt": "The long Avenue of the Dead at Teotihuacán with the Pyramid of the Sun beyond"
+      },
+      "text": "The ceremonial spine of the city, about 2 km long, lined with the remains of temples and palaces. Walking it takes about 40 minutes.",
+      "tip": "Walk from the south entrance to the Pyramid of the Moon."
+    },
+    {
+      "name": "The Ciudadela and the Temple of the Feathered Serpent",
+      "text": "A vast sunken enclosure with the Temple of the Feathered Serpent, decorated with carved serpent heads and thought to have been the centre of political power.",
+      "tip": "Near the south entrance."
+    },
+    {
+      "name": "The Palace of Quetzalpapalotl",
+      "text": "A residential compound with carved columns and painted murals of butterflies and birds.",
+      "tip": "Near the Pyramid of the Moon."
+    },
+    {
+      "name": "The site museum",
+      "text": "A well-designed museum with finds, models and murals, which helps you make sense of the site.",
+      "tip": "Visit it at the start."
+    }
+  ],
+  "thingsToDoIntro": "A visit to Teotihuacán is best planned around the heat and the crowds.",
+  "thingsToDo": [
+    {
+      "title": "Arrive at opening",
+      "text": "The gates open at about 09:00, and the site is cool, quiet and photogenic for the first hour.",
+      "tip": "Take the first bus from Mexico City."
+    },
+    {
+      "title": "Walk the avenue",
+      "text": "Start at the Pyramid of the Moon and walk south, stopping at the palaces and the Citadel.",
+      "tip": "Bring a hat, water and sunscreen."
+    },
+    {
+      "title": "Hire a guide",
+      "text": "A licensed guide explains the symbolism and history, which is hard to grasp alone.",
+      "tip": "Agree the price."
+    },
+    {
+      "title": "Have lunch in a cave restaurant",
+      "text": "La Gruta, a restaurant in a natural cave near the site, serves Mexican food in an atmospheric setting.",
+      "tip": "Book on weekends."
+    },
+    {
+      "title": "Take a balloon flight",
+      "text": "Sunrise hot-air balloon flights float over the pyramids.",
+      "tip": "Book well ahead."
+    },
+    {
+      "title": "Try obsidian and craft shops",
+      "text": "Obsidian carvers sell tools and jewellery near the site.",
+      "tip": "Buy from workshops."
+    }
+  ],
+  "foodIntro": "Eating options near the site are limited, but the area is known for barbacoa and pulque.",
+  "foods": [
+    {
+      "name": "Barbacoa",
+      "text": "Lamb slow-cooked in an underground pit and served in tacos or by the kilo.",
+      "whereToTry": "Restaurants and stalls near the site."
+    },
+    {
+      "name": "Pulque",
+      "text": "A slightly fermented agave drink, sweet and sour, traditional in this region.",
+      "whereToTry": "Pulquerías in nearby towns."
+    },
+    {
+      "name": "Tlacoyos and quesadillas",
+      "text": "Masa cakes and folded tortillas with fillings.",
+      "whereToTry": "Stalls along the paths."
+    },
+    {
+      "name": "Nopales and mole",
+      "text": "Cactus paddles and sauces, prepared traditionally.",
+      "whereToTry": "Restaurants near the site."
+    },
+    {
+      "name": "Fresh fruit and juices",
+      "text": "Prickly pear (tuna) and other fruit sold by vendors.",
+      "whereToTry": "Entrance stalls."
+    },
+    {
+      "name": "Mezcal and agave spirits",
+      "text": "Tasted at local shops.",
+      "whereToTry": "Shops and restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors go as a day trip from Mexico City, but a few hotels and guesthouses near the site allow an early start.",
+    "areas": [
+      {
+        "name": "San Juan Teotihuacán",
+        "bestFor": "An early start",
+        "text": "Simple hotels and guesthouses within a few kilometres of the site."
+      },
+      {
+        "name": "Mexico City",
+        "bestFor": "Most visitors",
+        "text": "A much wider range, an hour away."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$30–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$70–130 per night" },
+      { "label": "Site entry", "value": "About US$5–10" },
+      { "label": "Guide", "value": "US$30–60 for a group" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Teotihuacán is about 50 km north-east of Mexico City.",
+    "options": [
+      {
+        "mode": "Bus from Mexico City",
+        "text": "Buses run from the Terminal Norte to the site, about 1 hour to 1 hour 15 minutes, and cost a few dollars.",
+        "detail": "Go early. Ask for Pirámides."
+      },
+      {
+        "mode": "Tour or private driver",
+        "text": "A tour from Mexico City includes transport and a guide, and often a stop at a shop or restaurant.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Uber or taxi",
+        "text": "A taxi or Uber for the day is affordable in a group.",
+        "detail": "Agree the price and waiting time."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The site is large and walkable, with five entrances.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "About 4–6 km round trip on flat paths. Very little shade.",
+        "detail": "Wear a hat and comfortable shoes."
+      },
+      {
+        "mode": "Between entrances",
+        "text": "Taxis and tuk-tuks operate between gates.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Guided tour",
+        "text": "A guide can plan an efficient route.",
+        "detail": "Ask for a licensed guide."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–April",
+    "summary": "The site is exposed and hot. The dry winter months are best, and the rainy season brings afternoon storms.",
+    "seasons": [
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "Dry, sunny and cool in the morning."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "shoulder",
+        "text": "Hot and dry. Go at opening. The spring equinox brings crowds."
+      },
+      {
+        "season": "Summer (June–September)",
+        "rating": "quiet",
+        "text": "Afternoon rain. Mornings are often clear."
+      },
+      {
+        "season": "Autumn (October–November)",
+        "rating": "best",
+        "text": "Clear and pleasant."
+      }
+    ],
+    "avoid": "The spring equinox (around 21 March), when huge crowds gather, and Sundays, when the site is free for Mexicans and crowded."
+  },
+  "itinerary": {
+    "title": "A day at Teotihuacán",
+    "intro": "The site at opening, lunch in a cave restaurant, and the museum. Assumes a bus or tour from Mexico City.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The City of the Gods",
+        "summary": "A morning of pyramids.",
+        "morning": "The Avenue of the Dead and the pyramids of the Sun and Moon.",
+        "afternoon": "Lunch, the Citadel and the museum.",
+        "evening": "Back in Mexico City."
+      }
+    ]
+  },
+  "tipsIntro": "Teotihuacán is big and hot, and a few tips help.",
+  "tips": [
+    "Go at opening, and take water, a hat and sunscreen.",
+    "Avoid Sundays and the spring equinox.",
+    "Book a licensed guide, or read up first.",
+    "Wear comfortable shoes, and expect steep steps.",
+    "Do not buy from unlicensed vendors pressing you on the paths.",
+    "Check whether climbing the pyramids is permitted.",
+    "Bring cash for entry, food and tips."
+  ],
+  "faq": [
+    {
+      "q": "How long do you need at Teotihuacán?",
+      "a": "Three to four hours for the main sights, and half a day with lunch and the museum."
+    },
+    {
+      "q": "Can I climb the pyramids?",
+      "a": "Rules change. The Pyramid of the Sun has generally been open to climbing, while the Pyramid of the Moon has been closed. Check on arrival."
+    },
+    {
+      "q": "Who built Teotihuacán?",
+      "a": "An unknown civilisation. The name is Aztec, and we do not know what its builders called themselves."
+    },
+    {
+      "q": "How do I get there from Mexico City?",
+      "a": "By bus from the Terminal Norte (about an hour), a tour or a taxi."
+    },
+    {
+      "q": "What is the best time of day to visit?",
+      "a": "Early morning, when it is cool and quiet."
+    },
+    {
+      "q": "Can I combine it with other places?",
+      "a": "Yes. It combines with the Basilica of Guadalupe, and with Tepotzotlán or Puebla on the way onwards."
+    }
+  ],
+  "related": ["mexico-city", "puebla-cholula", "oaxaca"],
+  "relatedArticles": ["unesco-worth-planning-around", "packing-by-season"]
+}
