@@ -1,0 +1,121 @@
+{
+  "country": "syria",
+  "title": "Syria: A Heritage Overview",
+  "subtitle": "What makes Syria one of the great historical countries, what the war did to its monuments, and why we describe rather than recommend.",
+  "summary": "Syria holds six UNESCO World Heritage Sites, the oldest continuously inhabited cities on Earth, the finest Crusader castles in the world and a culture of hospitality and food that spread across the Middle East. It is also a country that most governments still advise against visiting. This overview explains the history behind its ten great sites, what happened to them during and after the war, where things stand and how to engage with this heritage responsibly from a distance. It is not a travel guide.",
+  "readingTime": "12 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Why isn't there an itinerary or a where-to-stay section?",
+      "a": "Because we do not think it is responsible to suggest that readers plan a trip to a country that most governments advise against visiting. Where we cover other places with practical detail, we do it because a reader can act on it. Here we do not want anyone to act on it without their own government's advice."
+    },
+    {
+      "q": "Will this overview become a full travel guide later?",
+      "a": "If the security situation and government advice change substantially, we would revisit it. We would start from current advice and from what people who have been there report, and we would say what we do not know."
+    },
+    {
+      "q": "How reliable is the information about the sites' condition?",
+      "a": "It is the best we could establish from UNESCO reports, published assessments and reporting up to mid-2026, but conditions change and access has been limited. Each page says what we know and how up to date it is. Please treat it as a snapshot, not a survey."
+    },
+    {
+      "q": "Where can I find Syrian heritage without going there?",
+      "a": "Museums abroad hold important Syrian collections, and several organisations have documented the country's sites in detail through photography and 3D scans. Reading Syrian historians and writers is the best way to understand the country as they see it."
+    }
+  ],
+  "sections": [
+    {
+      "id": "what-syria-holds",
+      "title": "What Syria holds",
+      "navLabel": "Why it matters",
+      "body": [
+        "Few countries in the world contain as many layers of history as Syria. It lies between the Mediterranean and the Euphrates, on the routes that linked Egypt, Mesopotamia, Anatolia and Arabia, and it was fought over, traded through and settled by every civilisation of the ancient and medieval Near East.",
+        "**The ancient cities.** [[damascus|Damascus]] and [[aleppo|Aleppo]] are two of the oldest continuously inhabited cities on Earth, each with a citadel, a great mosque and a maze of covered souks, and each with a long claim to have been settled before almost anywhere else. In the desert, [[palmyra|Palmyra]] was a caravan city that grew rich on the trade between Rome and Persia, and in the south [[bosra|Bosra]] was a Roman provincial capital built in black basalt.",
+        "**Rome and Byzantium.** [[apamea|Apamea]] had one of the longest colonnaded streets in the Roman world. In the limestone hills of the north, the [[ancient-villages-dead-cities|Dead Cities]] are around forty Byzantine villages abandoned between the 8th and 10th centuries, so complete that they show how ordinary people lived 1,500 years ago.",
+        "**The Middle Ages.** [[krak-des-chevaliers|Krak des Chevaliers]] and [[saladin-castle|Saladin's Castle]] are among the finest surviving medieval fortresses anywhere, and [[hama|Hama]] has its norias, giant wooden waterwheels that lifted water from the Orontes River for centuries.",
+        "**Living traditions.** In [[maaloula|Maaloula]], villagers still speak a form of Aramaic, the language of Jesus's time. Syrian cooking, music, crafts and hospitality have shaped the culture of the whole Levant."
+      ],
+      "note": "Six of these places — Damascus, Aleppo, Palmyra, Bosra, Krak des Chevaliers with Saladin's Castle, and the Dead Cities — are on the UNESCO World Heritage List. All six have been on the List in Danger since 2013."
+    },
+    {
+      "id": "the-war-and-heritage",
+      "title": "What the war did to the heritage",
+      "navLabel": "The war and the sites",
+      "tone": "tint",
+      "body": [
+        "Fighting began in 2011 as a revolt against the government of Bashar al-Assad that turned into a multi-sided civil war involving Syrian factions, Islamist groups, Kurdish forces, Iran, Russia, Turkey, the United States and others. Hundreds of thousands of people were killed, and millions fled abroad or were displaced within the country.",
+        "The effect on heritage varied a great deal from site to site. Aleppo's old city was the scene of prolonged street fighting in 2012–2016 and suffered some of the worst destruction of any historic city in modern times, including the burning of much of its souk and the collapse of the Umayyad Mosque's minaret in 2013. Palmyra was captured twice by Islamic State, which destroyed the Temple of Bel, the Temple of Baalshamin and the Arch of Triumph in 2015 and murdered the archaeologist Khaled al-Asaad. Krak des Chevaliers was shelled, Bosra suffered bombardment and looting, and Apamea was so heavily looted that satellite images show it pitted with thousands of holes.",
+        "Other places came through better. Much of the old city of Damascus survived relatively intact, as did the Great Mosque of Hama and parts of Saladin's Castle. But even where the stones are standing, the people, craftsmen, museums and institutions that kept them alive have been scattered, and sites have been used by soldiers and left without conservation for over a decade."
+      ]
+    },
+    {
+      "id": "where-things-stand",
+      "title": "Where things stand",
+      "navLabel": "Where things stand",
+      "body": [
+        "In December 2024, an opposition offensive led by Hayat Tahrir al-Sham swept through Aleppo, Hama and Homs and reached Damascus, and the Assad government collapsed. A transitional government under Ahmed al-Sharaa now governs much of the country. Sanctions have been eased, and there is cautious hope of reconstruction.",
+        "But the situation remains fragile. There have been outbreaks of sectarian violence, most seriously on the coast and in the south in 2025. Other armed groups control parts of the north and north-east, and Israel has carried out military operations in the south. Landmines and unexploded ordnance contaminate large areas, the economy is shattered, and basic services are unreliable. Many of the ten sites in this overview were not accessible to outsiders for more than a decade, and independent, up-to-date information about their condition is limited.",
+        "For all these reasons, most governments continued to advise against travel to Syria at the time of writing. We do not pretend to know how quickly or how far that will change."
+      ],
+      "note": "Read your own government's current advice. It is the only reliable guide, and it is more up to date than anything written on this site."
+    },
+    {
+      "id": "the-ten",
+      "title": "The ten sites and their condition",
+      "navLabel": "Ten sites",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "[[damascus|Damascus]] — largely intact",
+          "text": "The old city, the Umayyad Mosque and the Hamidiyeh souk survived the war with relatively limited damage, though the surrounding suburbs and the Yarmouk camp were devastated."
+        },
+        {
+          "title": "[[aleppo|Aleppo]] — heavily damaged, reconstruction under way",
+          "text": "Large parts of the old city, its covered souks and the Umayyad Mosque's minaret were destroyed or damaged. The citadel is standing but scarred, and restoration is in its early stages."
+        },
+        {
+          "title": "[[palmyra|Palmyra]] — partly destroyed",
+          "text": "The Temple of Bel, the Temple of Baalshamin, the Arch of Triumph and many tombs were destroyed in 2015 and 2017. The great colonnade and much of the site survive, and the museum was looted and damaged."
+        },
+        {
+          "title": "[[krak-des-chevaliers|Krak des Chevaliers]] — damaged, largely standing",
+          "text": "Shelling in 2013 damaged towers and walls, but the fortress remains substantially intact, and repairs have begun."
+        },
+        {
+          "title": "[[bosra|Bosra]] — damaged and looted",
+          "text": "The Roman theatre and Umayyad mosque survive, but the old city suffered shelling, looting and neglect."
+        },
+        {
+          "title": "[[apamea|Apamea]] — extensively looted",
+          "text": "The colonnaded street is standing, but the site is riddled with looters' pits, and many of its mosaics were stolen."
+        },
+        {
+          "title": "[[hama|Hama]] — norias standing, city scarred",
+          "text": "The waterwheels survive, though some are neglected and none supplies water as it once did. Much of the old quarter was destroyed in the 1982 massacre and rebuilt only in part."
+        },
+        {
+          "title": "[[maaloula|Maaloula]] — damaged and partly restored",
+          "text": "The village was captured, damaged and looted in 2013–2014, and its monasteries were badly harmed. Restoration has taken place, and many villagers returned."
+        },
+        {
+          "title": "[[saladin-castle|Saladin's Castle]] — largely intact",
+          "text": "The remote mountain fortress suffered relatively little, though its surroundings were contested and access has been limited."
+        },
+        {
+          "title": "[[ancient-villages-dead-cities|The Dead Cities]] — damaged and looted",
+          "text": "Fighting, looting and occupation in the north-west damaged many of the villages, and the Church of St Simeon was hit by an airstrike in 2016."
+        }
+      ]
+    },
+    {
+      "id": "engaging-responsibly",
+      "title": "Engaging with Syria's heritage responsibly",
+      "navLabel": "What you can do",
+      "body": [
+        "There is a great deal you can do without travelling. Read Syrian historians, novelists and journalists, and listen to Syrian musicians. Visit the museums that hold Syrian objects, and look at the extensive photographic and 3D records that heritage organisations have made.",
+        "Support reputable organisations that document and protect heritage, and humanitarian groups that help the millions of Syrians affected by the war. Be wary of anyone selling antiquities, which are frequently looted, and of any tour operator that suggests Syria is safe without evidence.",
+        "If and when the situation changes and governments revise their advice, the questions to ask will be practical: what is the current guidance, what insurance is available, what is the state of the site, who benefits from a visit, and does going add to or take away from the recovery of the people who live there? We do not think the answers are settled."
+      ]
+    }
+  ]
+}

@@ -38,6 +38,24 @@ const DESTINATION_SECTIONS = [
   ['relatedArticles', (d) => nonEmptyArray(d.relatedArticleData)]
 ];
 
+/**
+ * "Overview" entries (a country or destination with `mode: "overview"`) describe
+ * a place's heritage without offering a plannable trip — so the sections that
+ * only make sense for a bookable trip are not required, and destinations must
+ * instead say honestly what condition the site is in.
+ */
+const OVERVIEW_COUNTRY_SKIP = new Set(['thingsToDo', 'bestTime', 'tripDuration', 'transport', 'tips', 'itinerary']);
+const OVERVIEW_DESTINATION_SKIP = new Set([
+  'thingsToDo',
+  'foods',
+  'accommodation',
+  'gettingThere',
+  'gettingAround',
+  'bestTime',
+  'itinerary',
+  'tips'
+]);
+
 const COUNTRY_SECTIONS = [
   ['intro', (c) => nonEmptyArray(c.intro)],
   ['thingsToDo', (c) => nonEmptyArray(c.thingsToDo)],
@@ -99,10 +117,15 @@ export function validate(content, { root = process.cwd(), requireImages = true, 
       }
     }
 
-    checkListSize(country.thingsToDo, `${at} thingsToDo`, fail);
+    const countryOverview = country.mode === 'overview';
+    if (countryOverview && !country.advisory?.title) {
+      fail(`${at}: is an overview entry, so it needs an "advisory" notice with a title and text.`);
+    }
+    if (!countryOverview) checkListSize(country.thingsToDo, `${at} thingsToDo`, fail);
     checkListSize(country.foods, `${at} foods`, fail);
 
     for (const [name, present] of COUNTRY_SECTIONS) {
+      if (countryOverview && OVERVIEW_COUNTRY_SKIP.has(name)) continue;
       if (!present(country)) fail(`${at}: section "${name}" is missing or empty.`);
     }
 
@@ -129,8 +152,17 @@ export function validate(content, { root = process.cwd(), requireImages = true, 
     }
     namesSeen.set(nameKey, destination.slug);
 
-    checkListSize(destination.thingsToDo, `${at} thingsToDo`, fail);
-    checkListSize(destination.foods, `${at} foods`, fail);
+    const overview = destination.mode === 'overview';
+    if (overview && destination.countryData && destination.countryData.mode !== 'overview') {
+      fail(`${at}: is an overview entry but its country is not — use mode "overview" on both.`);
+    }
+    if (overview && !nonEmptyArray(destination.status?.points)) {
+      fail(`${at}: is an overview entry, so it needs a "status" block describing the site's condition and access.`);
+    }
+    if (!overview) {
+      checkListSize(destination.thingsToDo, `${at} thingsToDo`, fail);
+      checkListSize(destination.foods, `${at} foods`, fail);
+    }
 
     if ((destination.attractions || []).length < 5) {
       fail(`${at}: has ${(destination.attractions || []).length} main attractions, expected at least 5.`);
@@ -138,11 +170,12 @@ export function validate(content, { root = process.cwd(), requireImages = true, 
     if ((destination.faq || []).length < 5) {
       fail(`${at}: has ${(destination.faq || []).length} FAQ entries, expected at least 5.`);
     }
-    if ((destination.tips || []).length < 5) {
+    if (!overview && (destination.tips || []).length < 5) {
       fail(`${at}: has ${(destination.tips || []).length} travel tips, expected at least 5.`);
     }
 
     for (const [name, present] of DESTINATION_SECTIONS) {
+      if (overview && OVERVIEW_DESTINATION_SKIP.has(name)) continue;
       if (!present(destination)) fail(`${at}: section "${name}" is missing or empty.`);
     }
 

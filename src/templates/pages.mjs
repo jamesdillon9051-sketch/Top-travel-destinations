@@ -38,7 +38,12 @@ export function renderAbout({ site }) {
          Wikimedia Commons on the <a href="${url('image-credits')}">image credits page</a>, and
          the code itself is open on
          <a href="${esc(site.repoUrl)}" rel="noopener">GitHub</a> if you're curious how it's put
-         together.`)
+         together.`),
+        raw(`One entry is deliberately different. <a href="${url('syria')}">Syria</a> is written as a
+         heritage overview rather than a trip to plan: it holds some of the most important
+         historic places in the world, but most governments still advise against visiting, so
+         those pages describe the sites and their condition and leave out itineraries and
+         hotel advice.`)
       ])
     })}
 

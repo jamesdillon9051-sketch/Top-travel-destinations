@@ -99,7 +99,16 @@ async function main() {
 
   // Copy that quotes the site's size ("{{countries}} countries") is filled in
   // from the data, so adding a country never leaves a stale number behind.
-  const counts = { countries: countryList.length, destinations: destinationList.length };
+  // Overview entries (mode: "overview", currently Syria) describe a place without
+  // offering a trip to plan, so copy that promises "places worth the trip" counts
+  // only the entries that are — `{{tripCountries}}` / `{{tripDestinations}}`.
+  const tripCountries = countryList.filter((c) => c.mode !== 'overview');
+  const counts = {
+    countries: countryList.length,
+    destinations: destinationList.length,
+    tripCountries: tripCountries.length,
+    tripDestinations: destinationList.filter((d) => d.mode !== 'overview').length
+  };
   const fillCounts = (node) => {
     if (Array.isArray(node)) return node.forEach((item, i) => (node[i] = fillValue(item)));
     if (node && typeof node === 'object') {
@@ -109,7 +118,7 @@ async function main() {
     }
   };
   const fillValue = (value) => {
-    if (typeof value === 'string') return value.replace(/\{\{(countries|destinations)\}\}/g, (_, k) => counts[k]);
+    if (typeof value === 'string') return value.replace(/\{\{(countries|destinations|tripCountries|tripDestinations)\}\}/g, (_, k) => counts[k]);
     fillCounts(value);
     return value;
   };

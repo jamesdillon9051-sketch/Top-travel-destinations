@@ -1,0 +1,141 @@
+{
+  "slug": "aleppo",
+  "name": "Aleppo",
+  "country": "syria",
+  "mode": "overview",
+  "region": "Aleppo Governorate, northern Syria",
+  "categories": ["major-city", "unesco", "historic"],
+  "tagline": "A great caravan city and Syria's commercial heart, with a hilltop citadel, one of the longest covered markets in the world and a culinary reputation that spread across the Arab world.",
+  "highlight": "The citadel and the covered souks — the most heavily damaged of any Syrian historic centre, and the focus of the country's largest heritage reconstruction effort.",
+  "shortDescription": "One of the world's oldest continuously inhabited cities, with a medieval citadel, the Great Mosque, khans and about thirteen kilometres of covered market, much of which was damaged or destroyed between 2012 and 2016.",
+  "metaDescription": "An Aleppo heritage overview: the citadel, the Great Mosque, the souks and khans, Aleppo soap and cuisine, what the fighting of 2012–2016 destroyed and how reconstruction has begun.",
+  "knownFor": "The Citadel, the covered souks, the Great Mosque, the khans, Aleppo soap and cooking",
+  "coords": { "lat": 36.2021, "lng": 37.1343 },
+  "image": {
+    "file": "File:Aleppo Citadel 05 - Inner gate.jpg",
+    "alt": "The fortified inner gate of the Aleppo Citadel, photographed in 2010, before the war"
+  },
+  "intro": [
+    "Aleppo, in north-western Syria, has been inhabited for at least five thousand years, and for most of that time it has been a trading city. It stood at the western end of the Silk Road and at the meeting point of roads from Anatolia, Mesopotamia and the Mediterranean, and in the Ottoman period it was the third-largest city of the empire after Istanbul and Cairo. Its wealth built the great khans, the mosques and the covered markets that made up its old city, which UNESCO listed in 1986.",
+    "The city is dominated by the citadel, a huge fortified mound with walls, a monumental entrance bridge and gate, and the remains of Ayyubid and Mamluk palaces. Below it, the old city was a dense grid of covered souks running for around thirteen kilometres, with khans, madrasas, hammams and hundreds of houses and mosques. Aleppo was also known for its food, its soap, its music and its diverse population of Sunni Muslims, Christians, Armenians, Kurds and others.",
+    "The war changed the city more than any other Syrian place. From 2012, Aleppo was divided into government and opposition zones, and the old city became a front line. The souks burned in 2012, the Umayyad Mosque's minaret collapsed in 2013, and the fighting until the end of 2016 left large parts of the historic core in ruins. This page describes what was lost and what is known of the recovery, and is not a guide to visiting."
+  ],
+  "whyVisit": {
+    "intro": "Aleppo matters because it was among the best-preserved medieval and Ottoman cities in the Middle East, and its damage is among the greatest heritage losses of modern times.",
+    "points": [
+      {
+        "title": "A citadel over a living city",
+        "text": "The citadel, with its fortified gateway, throne hall and mosques, has been the city's symbol since the Middle Ages and dominated the skyline from almost every street."
+      },
+      {
+        "title": "The longest covered market",
+        "text": "The old-city souks, called al-Madina, formed one of the largest covered markets in the world, with each street devoted to a trade, from spices and soap to textiles and gold."
+      },
+      {
+        "title": "The Great Mosque",
+        "text": "Founded in the Umayyad period, with a 45-metre Seljuk minaret from 1090 that was a symbol of the city, and a courtyard that was among the most beautiful in Syria."
+      },
+      {
+        "title": "The khans and Ottoman houses",
+        "text": "Merchants' hostels such as Khan al-Wazir and Khan al-Jumruk, and the mansions of the Christian Jdeideh quarter, showed Aleppo's trading wealth."
+      },
+      {
+        "title": "A culinary capital",
+        "text": "Aleppo's cooking, with its dozens of kibbeh varieties, muhammara, Aleppo pepper and pistachio sweets, is widely regarded as the finest in the Levant. Aleppo soap, made with olive and laurel oil, is among the world's oldest."
+      }
+    ]
+  },
+  "attractionsIntro": "The following are the main monuments as they were documented before and during the war, and not a tour route.",
+  "attractions": [
+    {
+      "name": "The Citadel of Aleppo",
+      "text": "A fortified hill in the middle of the city, occupied for thousands of years, with Ayyubid and Mamluk walls, a monumental bridge and gate, a throne hall, a small mosque and a Roman-era temple beneath. Its walls and gate were damaged during the fighting."
+    },
+    {
+      "name": "The Great Mosque (Umayyad Mosque)",
+      "text": "A large mosque founded in the early 8th century, with a courtyard, a prayer hall, and a Seljuk minaret built in 1090, which was destroyed in April 2013 during the fighting. The courtyard and hall were damaged."
+    },
+    {
+      "name": "Souq al-Madina",
+      "text": "About thirteen kilometres of covered lanes, mostly from the 14th to 17th centuries, that formed the commercial heart of the old city. Much of it was burned in September 2012 and destroyed in later fighting."
+    },
+    {
+      "name": "Khan al-Wazir and the khans",
+      "image": {
+        "file": "File:Khan Al Wazir.JPG",
+        "alt": "The courtyard of Khan al-Wazir in Aleppo, photographed in 2008"
+      },
+      "text": "A 17th-century merchants' inn with a courtyard and two storeys of vaulted rooms. Aleppo had dozens of khans, including Khan al-Jumruk and Khan al-Sabun, the soap khan, which made the city's reputation for trade."
+    },
+    {
+      "name": "Aleppo soap",
+      "image": {
+        "file": "File:Aleppo soap 01.jpg",
+        "alt": "Stacks of traditional Aleppo soap bars, photographed in 2010"
+      },
+      "text": "A traditional soap made from olive oil and laurel oil, aged for months, and sold across the world. Its workshops and khans were at the heart of the old city's economy, and many were destroyed or forced to relocate."
+    },
+    {
+      "name": "The Jdeideh quarter",
+      "text": "A Christian and Armenian district north of the old city, with Ottoman merchants' houses with carved stone facades, churches and courtyards. It was hit by shelling but survived in part."
+    },
+    {
+      "name": "Bimaristan Arghun and the madrasas",
+      "text": "A 14th-century hospital and a series of Ayyubid and Mamluk madrasas, such as al-Firdaws, that showed the city's learning and its role as a centre of Islamic medicine and scholarship."
+    }
+  ],
+  "status": {
+    "headline": "Heavily damaged, reconstruction begun",
+    "intro": "The old city of Aleppo suffered some of the worst destruction of any historic centre in modern times. Information on the present state of individual monuments is limited and changing.",
+    "points": [
+      {
+        "title": "The battle for the old city",
+        "text": "From 2012 to the end of 2016, front lines ran through and around the old city, with shelling, tunnel bombs and airstrikes. UNESCO estimated that a large part of the historic centre was damaged, and a substantial part was destroyed."
+      },
+      {
+        "title": "The souks and the Great Mosque",
+        "text": "Much of Souq al-Madina burned in 2012, and the Great Mosque's minaret fell in 2013. The mosque's courtyard and hall were heavily damaged. Restoration work has been carried out by Syrian authorities and international partners, and the minaret has been reported to be reconstructed."
+      },
+      {
+        "title": "The citadel",
+        "text": "The citadel survived, but its gateway, walls and several buildings were damaged by fighting and by explosions from tunnels dug beneath it. Consolidation and restoration work has taken place."
+      },
+      {
+        "title": "Reconstruction",
+        "text": "Some souks, houses and mosques have been rebuilt or repaired, with funding from Syrian, Russian, Gulf, Iranian and international sources and organisations such as the Aga Khan Trust for Culture. Debate continues about how to rebuild, and how far reconstruction serves residents."
+      },
+      {
+        "title": "Political change and advice",
+        "text": "Aleppo changed hands again in late November 2024 as the Assad government collapsed, reportedly with limited further damage to the old city. Most governments advised against travel to Syria at the time of writing. This page is not a recommendation to go."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "Why is Aleppo's old city a World Heritage Site?",
+      "a": "UNESCO listed it in 1986 as an outstanding example of a medieval Islamic trading city that preserved layers of Hittite, Hellenistic, Byzantine, Ayyubid, Mamluk and Ottoman history. It has been on the List of World Heritage in Danger since 2013."
+    },
+    {
+      "q": "How much of Aleppo was destroyed?",
+      "a": "Estimates vary, but UNESCO and other bodies reported that a large proportion of the old city was damaged and a significant part destroyed, including most of the souks and many mosques, khans and houses. The citadel and some monuments survived."
+    },
+    {
+      "q": "What happened to Aleppo's Great Mosque minaret?",
+      "a": "The 11th-century minaret was destroyed in April 2013 during fighting. Its reconstruction has been reported, but details and the reliability of reports vary."
+    },
+    {
+      "q": "Is Aleppo safe to visit?",
+      "a": "Most governments advised against travel to Syria, including Aleppo, at the time of writing, and conditions are unpredictable. This site does not recommend travel. Check your government's current advice."
+    },
+    {
+      "q": "What is Aleppo soap?",
+      "a": "A hard soap made from olive oil and laurel berry oil, aged for months, traditionally produced in Aleppo. It is one of the oldest soaps in the world and is still made and sold internationally."
+    },
+    {
+      "q": "How can I learn more about Aleppo's recovery?",
+      "a": "UNESCO and the Aga Khan Trust for Culture publish reports on the state of the old city, and several Syrian and international researchers have documented the damage and reconstruction in detail."
+    }
+  ],
+  "related": ["damascus", "ancient-villages-dead-cities", "hama"],
+  "relatedArticles": ["unesco-worth-planning-around", "food-primer"]
+}

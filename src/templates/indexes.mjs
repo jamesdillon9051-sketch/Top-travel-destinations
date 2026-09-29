@@ -20,7 +20,8 @@ export function renderDestinationsIndex({ site, countryList, destinationList }) 
         <p class="page-head__lead">
           Ten hand-picked places in each of ${countryList.length} countries — major cities, historic
           sites, coastlines, national parks and a few places most lists leave out. Filter by the
-          kind of trip you want, or jump straight to a country.
+          kind of trip you want, or jump straight to a country. One entry, Syria, is a heritage
+          overview rather than a trip to plan, and is marked as such.
         </p>
         <ul class="chip-row">
           ${join(
@@ -39,16 +40,22 @@ export function renderDestinationsIndex({ site, countryList, destinationList }) 
         section({
           id: country.slug,
           eyebrow: country.continent,
-          title: `Best places to visit in ${inlineName(country)}`,
+          title:
+            country.mode === 'overview'
+              ? `Heritage sites of ${inlineName(country)}`
+              : `Best places to visit in ${inlineName(country)}`,
           lead: country.tagline,
           body: html`
+            ${country.mode === 'overview'
+              ? html`<p class="note note--warn"><strong>${country.advisory?.title}</strong> ${country.advisory?.text?.[0]}</p>`
+              : ''}
             ${destinationGrid(country.places, { ranked: true })}
             <p class="section__more">
               <a class="btn btn--ghost" href="${url(country.slug)}">
-                ${displayName(country)} country guide<span aria-hidden="true"> →</span>
+                ${displayName(country)} country ${country.mode === 'overview' ? 'overview' : 'guide'}<span aria-hidden="true"> →</span>
               </a>
               <a class="btn btn--ghost" href="${url(`${country.slug}/travel-guide`)}">
-                ${displayName(country)} travel guide<span aria-hidden="true"> →</span>
+                ${displayName(country)} ${country.mode === 'overview' ? 'heritage overview' : 'travel guide'}<span aria-hidden="true"> →</span>
               </a>
             </p>
           `

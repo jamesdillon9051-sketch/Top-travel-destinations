@@ -19,7 +19,8 @@ import {
   faqList,
   optionList,
   calloutList,
-  filterBar
+  filterBar,
+  advisoryBanner
 } from './partials.mjs';
 
 const SECTIONS = [
@@ -36,54 +37,75 @@ const SECTIONS = [
   { id: 'faq', label: 'FAQ' }
 ];
 
+/** Sections that only make sense for a trip someone can actually plan. */
+const TRIP_ONLY = new Set(['things-to-do', 'best-time', 'duration', 'transport', 'itinerary', 'tips']);
+
 export function renderCountry(country, { site }) {
+  const overview = country.mode === 'overview';
+  const copy = country.overview || {};
   const name = displayName(country);
   const inName = inlineName(country);
   const description = plain(country.metaDescription || country.intro[0], 158);
   const usedCategories = CATEGORY_ORDER.filter((slug) =>
     country.places.some((place) => (place.categories || []).includes(slug))
   );
-  const keywords = buildKeywords(
-    country.name,
-    `${name} travel guide`,
-    `best places to visit in ${inName}`,
-    `things to do in ${inName}`,
-    `${name} itinerary`,
-    `${name} vacation`,
-    `${name} trip planning`,
-    `${name} tourism`,
-    country.continent,
-    country.places.map((place) => place.name),
-    usedCategories.map((slug) => categoryLabel(slug))
-  );
+  const keywords = overview
+    ? buildKeywords(
+        country.name,
+        `${name} heritage sites`,
+        `${name} history`,
+        `${name} UNESCO World Heritage sites`,
+        `historic places in ${inName}`,
+        `is it safe to travel to ${inName}`,
+        country.continent,
+        country.places.map((place) => place.name),
+        usedCategories.map((slug) => categoryLabel(slug))
+      )
+    : buildKeywords(
+        country.name,
+        `${name} travel guide`,
+        `best places to visit in ${inName}`,
+        `things to do in ${inName}`,
+        `${name} itinerary`,
+        `${name} vacation`,
+        `${name} trip planning`,
+        `${name} tourism`,
+        country.continent,
+        country.places.map((place) => place.name),
+        usedCategories.map((slug) => categoryLabel(slug))
+      );
 
   const content = html`
     ${hero({
       credit: country.credit,
       alt: country.image?.alt || country.name,
       eyebrow: country.continent,
-      title: `${name} Travel Guide`,
+      title: copy.heroTitle || `${name} Travel Guide`,
       tagline: country.tagline,
       meta: [
         { label: 'Destinations', value: `${country.places.length} hand-picked` },
-        { label: 'Best time', value: country.bestTime.headline },
-        { label: 'Ideal trip', value: country.tripDuration.headline }
-      ].filter((m) => m.value),
+        overview
+          ? { label: 'Travel status', value: country.advisory?.short }
+          : { label: 'Best time', value: country.bestTime?.headline },
+        overview ? null : { label: 'Ideal trip', value: country.tripDuration?.headline }
+      ].filter((m) => m && m.value),
       trail: [{ label: 'Home', href: '' }, { label: country.name }],
       actions: html`
-        <a class="btn btn--primary" href="#places">See the 10 best places</a>
+        <a class="btn btn--primary" href="#places">${copy.placesButton || 'See the 10 best places'}</a>
         <a class="btn btn--ghost btn--on-dark" href="${url(`${country.slug}/travel-guide`)}">
-          Full ${name} travel guide
+          ${copy.guideButton || `Full ${name} travel guide`}
         </a>
       `
     })}
 
-    ${sectionNav(SECTIONS)}
+    ${overview ? advisoryBanner(country.advisory) : ''}
+
+    ${sectionNav(overview ? SECTIONS.filter((item) => !TRIP_ONLY.has(item.id)) : SECTIONS)}
 
     <section class="section section--intro" id="introduction">
       <div class="wrap layout-split">
         <div class="layout-split__main">
-          <h2 class="section__title">${`Why go to ${inName}`}</h2>
+          <h2 class="section__title">${overview ? `Why ${inName} matters` : `Why go to ${inName}`}</h2>
           ${prose(country.intro)}
         </div>
         <aside class="layout-split__aside">
@@ -94,11 +116,11 @@ export function renderCountry(country, { site }) {
               { label: 'Language', value: country.practical.language },
               { label: 'Currency', value: country.practical.currency },
               { label: 'Time zone', value: country.practical.timeZone },
-              { label: 'Best time', value: country.bestTime.headline },
-              { label: 'Ideal trip', value: country.tripDuration.headline }
+              { label: 'Best time', value: country.bestTime?.headline },
+              { label: 'Ideal trip', value: country.tripDuration?.headline }
             ])}
             <a class="btn btn--ghost panel__btn" href="${url(`${country.slug}/travel-guide`)}">
-              Read the full travel guide
+              ${copy.panelButton || 'Read the full travel guide'}
             </a>
           </div>
         </aside>
@@ -108,7 +130,7 @@ export function renderCountry(country, { site }) {
     ${section({
       id: 'places',
       eyebrow: 'Where to go',
-      title: `Best Places to Visit in ${inName}`,
+      title: copy.placesTitle || `Best Places to Visit in ${inName}`,
       lead: country.placesIntro,
       tone: 'section--tint',
       body: html`
@@ -122,18 +144,20 @@ export function renderCountry(country, { site }) {
       `
     })}
 
-    ${section({
-      id: 'things-to-do',
-      eyebrow: 'Experiences',
-      title: `Best things to do in ${inName}`,
-      lead: country.thingsToDoIntro,
-      body: detailList(country.thingsToDo)
-    })}
+    ${overview
+      ? ''
+      : section({
+          id: 'things-to-do',
+          eyebrow: 'Experiences',
+          title: `Best things to do in ${inName}`,
+          lead: country.thingsToDoIntro,
+          body: detailList(country.thingsToDo)
+        })}
 
     ${section({
       id: 'food',
-      eyebrow: 'Food and drink',
-      title: `${name} foods to try`,
+      eyebrow: overview ? 'Food and culture' : 'Food and drink',
+      title: copy.foodTitle || `${name} foods to try`,
       lead: country.foodIntro,
       tone: 'section--tint',
       body: foodList(country.foods)
@@ -142,7 +166,7 @@ export function renderCountry(country, { site }) {
     ${section({
       id: 'practical',
       eyebrow: 'Before you go',
-      title: `Practical travel information for ${inName}`,
+      title: copy.practicalTitle || `Practical travel information for ${inName}`,
       lead: country.practicalIntro,
       body: html`
         ${factTable([
@@ -168,44 +192,52 @@ export function renderCountry(country, { site }) {
       `
     })}
 
-    ${section({
-      id: 'best-time',
-      eyebrow: 'When to go',
-      title: `Best time to visit ${inName}`,
-      lead: country.bestTime.summary,
-      tone: 'section--tint',
-      body: html`
-        ${seasonList(country.bestTime.seasons)}
-        ${country.bestTime.avoid
-          ? html`<p class="note note--warn"><strong>Worth planning around:</strong> ${country.bestTime.avoid}</p>`
-          : ''}
-      `
-    })}
+    ${overview
+      ? ''
+      : section({
+          id: 'best-time',
+          eyebrow: 'When to go',
+          title: `Best time to visit ${inName}`,
+          lead: country.bestTime.summary,
+          tone: 'section--tint',
+          body: html`
+            ${seasonList(country.bestTime.seasons)}
+            ${country.bestTime.avoid
+              ? html`<p class="note note--warn"><strong>Worth planning around:</strong> ${country.bestTime.avoid}</p>`
+              : ''}
+          `
+        })}
 
-    ${section({
-      id: 'duration',
-      eyebrow: 'Trip length',
-      title: `How long to spend in ${inName}`,
-      lead: country.tripDuration.summary,
-      body: optionList(country.tripDuration.options)
-    })}
+    ${overview
+      ? ''
+      : section({
+          id: 'duration',
+          eyebrow: 'Trip length',
+          title: `How long to spend in ${inName}`,
+          lead: country.tripDuration.summary,
+          body: optionList(country.tripDuration.options)
+        })}
 
-    ${section({
-      id: 'transport',
-      eyebrow: 'Getting around',
-      title: `Transportation in ${inName}`,
-      lead: country.transport.intro,
-      tone: 'section--tint',
-      body: optionList(country.transport.options)
-    })}
+    ${overview
+      ? ''
+      : section({
+          id: 'transport',
+          eyebrow: 'Getting around',
+          title: `Transportation in ${inName}`,
+          lead: country.transport.intro,
+          tone: 'section--tint',
+          body: optionList(country.transport.options)
+        })}
 
-    ${section({
-      id: 'itinerary',
-      eyebrow: 'Sample route',
-      title: country.itinerary.title,
-      lead: country.itinerary.intro,
-      body: itineraryList(country.itinerary.days)
-    })}
+    ${overview
+      ? ''
+      : section({
+          id: 'itinerary',
+          eyebrow: 'Sample route',
+          title: country.itinerary.title,
+          lead: country.itinerary.intro,
+          body: itineraryList(country.itinerary.days)
+        })}
 
     ${section({
       id: 'culture',
@@ -222,31 +254,33 @@ export function renderCountry(country, { site }) {
       `
     })}
 
-    ${section({
-      id: 'tips',
-      eyebrow: 'Travel tips',
-      title: `${name} travel tips`,
-      lead: country.tipsIntro,
-      body: tipList(country.tips)
-    })}
+    ${overview
+      ? ''
+      : section({
+          id: 'tips',
+          eyebrow: 'Travel tips',
+          title: `${name} travel tips`,
+          lead: country.tipsIntro,
+          body: tipList(country.tips)
+        })}
 
     ${section({
       id: 'faq',
       eyebrow: 'FAQ',
-      title: `Visiting ${inName}: frequently asked questions`,
+      title: overview ? `${name}: frequently asked questions` : `Visiting ${inName}: frequently asked questions`,
       tone: 'section--tint',
       body: faqList(country.faq)
     })}
 
     <section class="section section--cta">
       <div class="wrap cta">
-        <h2 class="cta__title">Ready to plan your ${name} trip?</h2>
+        <h2 class="cta__title">${copy.ctaTitle || `Ready to plan your ${name} trip?`}</h2>
         <p class="cta__text">
-          The full travel guide covers routes, budgets, regional differences and how to
-          string these ten destinations into a trip that actually works.
+          ${copy.ctaText ||
+          'The full travel guide covers routes, budgets, regional differences and how to string these ten destinations into a trip that actually works.'}
         </p>
         <a class="btn btn--primary btn--lg" href="${url(`${country.slug}/travel-guide`)}">
-          Read the ${name} travel guide<span aria-hidden="true"> →</span>
+          ${copy.ctaButton || `Read the ${name} travel guide`}<span aria-hidden="true"> →</span>
         </a>
       </div>
     </section>
@@ -287,7 +321,7 @@ export function renderCountry(country, { site }) {
 
   return layout({
     site,
-    title: `${name} Travel Guide — 10 Best Places to Visit`,
+    title: copy.metaTitle || `${name} Travel Guide — 10 Best Places to Visit`,
     description,
     path: country.slug,
     image: country.credit ? { src: country.credit.hero } : null,
