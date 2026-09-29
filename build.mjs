@@ -97,6 +97,25 @@ async function main() {
   // which every template already threads through to layout().
   site.countryList = countryList;
 
+  // Copy that quotes the site's size ("{{countries}} countries") is filled in
+  // from the data, so adding a country never leaves a stale number behind.
+  const counts = { countries: countryList.length, destinations: destinationList.length };
+  const fillCounts = (node) => {
+    if (Array.isArray(node)) return node.forEach((item, i) => (node[i] = fillValue(item)));
+    if (node && typeof node === 'object') {
+      for (const key of Object.keys(node)) {
+        if (key !== 'countryList') node[key] = fillValue(node[key]);
+      }
+    }
+  };
+  const fillValue = (value) => {
+    if (typeof value === 'string') return value.replace(/\{\{(countries|destinations)\}\}/g, (_, k) => counts[k]);
+    fillCounts(value);
+    return value;
+  };
+  fillCounts(site);
+  articleList.forEach(fillCounts);
+
   const { errors, warnings } = validate(content, {
     root: ROOT,
     requireImages: REQUIRE_IMAGES,

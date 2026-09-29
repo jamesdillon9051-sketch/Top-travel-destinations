@@ -54,7 +54,7 @@ export function renderAbout({ site }) {
          places that looked good on paper and weren't, and the ones nobody told me about that
          turned out to be the best three days of the whole trip.`,
         `Everything else on the site stays exactly as it is — the destination guides you'll find
-         across all 26 countries aren't going anywhere, and they'll stay just as thorough. The
+         across all ${site.countryList.length} countries aren't going anywhere, and they'll stay just as thorough. The
          Indonesia trip is new territory for me specifically: writing about a place while I'm
          still standing in it, rather than months later. I'm genuinely curious how it turns out,
          and if you're planning your own Indonesia trip, this is the place the itineraries will
