@@ -1,0 +1,303 @@
+{
+  "slug": "nablus",
+  "name": "Nablus",
+  "country": "palestinian-territories",
+  "region": "Nablus Governorate, northern West Bank",
+  "categories": ["historic", "food-and-wine", "cultural"],
+  "tagline": "A valley city of Ottoman soap factories, hammams and hot knafeh, between two mountains with sacred places for Samaritans, Jews, Christians and Muslims.",
+  "highlight": "The old city's souk at breakfast, with knafeh coming out of huge trays and the smell of olive-oil soap in the air.",
+  "shortDescription": "The commercial and cultural capital of the northern West Bank, with a well-preserved Ottoman old city, a famous soap-making tradition, the best knafeh in Palestine and Roman remains close by.",
+  "metaDescription": "A Nablus travel guide: the old city and its soap factories, Nabulsi knafeh, Ottoman hammams, Jacob's Well and the Samaritans, Mount Gerizim, current advice and a one-day plan.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Tel Aviv Ben Gurion (TLV), about 1 hour 30 minutes; Ramallah is 50 km south",
+  "knownFor": "Knafeh, olive-oil soap, the old city, Ottoman hammams, the Samaritans",
+  "budget": "₪200–450 per day, mid-range",
+  "goodFor": "Food, history, crafts, local culture",
+  "coords": { "lat": 32.2211, "lng": 35.2544 },
+  "image": {
+    "file": "File:Nablus old city 16.jpg",
+    "alt": "A vaulted stone lane in the old city of Nablus"
+  },
+  "intro": [
+    "Nablus lies in a narrow valley between Mount Gerizim to the south and Mount Ebal to the north, in the northern West Bank, about 50 km north of Jerusalem. It was founded by the Romans as Neapolis, a name that became Nablus, and it is one of the oldest cities in Palestine, with a population of about 150,000. It has long been the region's commercial and cultural hub, and is known as the 'Little Damascus' for its old trading links with Syria.",
+    "The old city is one of the best-preserved Ottoman urban centres in the region, with covered souks, stone khans, hammams and mosques from the 16th to 19th centuries. Nablus was famous for its olive-oil soap, made in factories that date back centuries, and for knafeh, the hot cheese and syrup dessert that is now eaten around the Middle East. The city is also the centre of the Samaritan community, an ancient people that traces its origins to the Israelites, of whom fewer than a thousand remain, and who still live on Mount Gerizim.",
+    "Nablus has been affected by the conflict in the West Bank, including military operations in recent years, and conditions change often. Some governments advise against travel to the city. It is included here because it is one of the most rewarding places in Palestine, but it is one where you must check current advice and local conditions before you go."
+  ],
+  "whyVisit": {
+    "intro": "Nablus is a real Palestinian city, and it is one of the best places in the West Bank for food, craft and a sense of everyday life.",
+    "points": [
+      {
+        "title": "The best knafeh in Palestine",
+        "text": "Nabulsi knafeh, made with local white cheese, is the original, and it is eaten hot from vast trays in the old city."
+      },
+      {
+        "title": "An Ottoman old city",
+        "text": "Vaulted passages, khans, hammams and mosques make up a dense and largely unrestored old town that is still lived and worked in."
+      },
+      {
+        "title": "Soap-making",
+        "text": "Family soap factories still make olive-oil soap in the traditional way, stacking the bars into towers to dry."
+      },
+      {
+        "title": "The Samaritans",
+        "text": "A tiny ancient community with its own version of the Torah, its own festivals and a mountain-top village that can be visited."
+      },
+      {
+        "title": "Sacred places of several faiths",
+        "text": "Jacob's Well, Joseph's Tomb and Mount Gerizim are important to Jews, Christians, Muslims and Samaritans in different ways."
+      }
+    ]
+  },
+  "attractionsIntro": "The old city takes a morning, and the sites outside the centre take a second half-day.",
+  "attractions": [
+    {
+      "name": "The Old City souk",
+      "text": "A network of covered lanes with spices, sweets, textiles and everyday goods. The main streets are lively from morning to late afternoon, and the alleys are quieter.",
+      "tip": "Go in the morning, and be prepared to be offered tea."
+    },
+    {
+      "name": "Nabulsi soap factories",
+      "text": "A number of family factories, such as Al-Shakaa and Touqan, still produce olive-oil soap by hand and stack it in towers to dry. Some welcome visitors.",
+      "tip": "Ask before you go in, and buy a few bars."
+    },
+    {
+      "name": "Knafeh at the old-city shops",
+      "image": {
+        "file": "File:Nablus souq kanafeh 134 - Aug 2011.jpg",
+        "alt": "Trays of freshly made knafeh in the old-city souk of Nablus"
+      },
+      "text": "Several shops in the old city serve the original Nabulsi knafeh, made from a special white cheese under crisp pastry and syrup. It is sold by weight and eaten standing up.",
+      "tip": "Try it hot and fresh, in the morning."
+    },
+    {
+      "name": "Ottoman hammams",
+      "text": "Traditional bathhouses, such as Hammam al-Shifa, offer a steam and a scrub in a domed room. One of the oldest is still in use.",
+      "tip": "Check the days and times for men and women."
+    },
+    {
+      "name": "Jacob's Well",
+      "image": {
+        "file": "File:Jacob's Well in 2013.jpg",
+        "alt": "The Greek Orthodox church built over Jacob's Well in Nablus"
+      },
+      "text": "A Greek Orthodox church built over a deep well where, according to the Gospel of John, Jesus met a Samaritan woman. It is one of the oldest Christian sites in Palestine.",
+      "tip": "Modest dress is required. Check opening hours."
+    },
+    {
+      "name": "Mount Gerizim and the Samaritan community",
+      "text": "The mountain that the Samaritans hold sacred, with the remains of a Hellenistic temple and a Byzantine church, and a village where the community lives. A small museum tells their story.",
+      "tip": "Visit during Passover if you can, when the Samaritans hold a sacrifice on the mountain."
+    },
+    {
+      "name": "Ottoman mansions and small museums",
+      "text": "Merchants' houses and palaces of the great Nablus families, some restored as museums and cultural centres, with displays on soap-making, textiles and local history.",
+      "tip": "Ask your guide which are open, as hours change."
+    }
+  ],
+  "thingsToDoIntro": "Nablus is best for eating and wandering, with a guide if you want to get more out of it.",
+  "thingsToDo": [
+    {
+      "title": "Eat knafeh for breakfast",
+      "text": "Local people eat knafeh in the morning, with a glass of tea, standing at the counters. It is a ritual.",
+      "tip": "Go before 10:00, when it is freshest."
+    },
+    {
+      "title": "Take a soap factory tour",
+      "text": "See the process from the olive oil to the stacked bars, and hear the history of the craft.",
+      "tip": "Ask your host to arrange a visit."
+    },
+    {
+      "title": "Have a hammam",
+      "text": "A traditional bath and scrub is a relaxing way to spend an afternoon.",
+      "tip": "Bring a swimsuit or a towel, and check the rules."
+    },
+    {
+      "title": "Walk the old city with a guide",
+      "text": "A local guide can explain the buildings and history, and get you into places that are hard to find.",
+      "tip": "Book through your accommodation or a local organisation."
+    },
+    {
+      "title": "Visit the Samaritans",
+      "text": "Learn about a very old and very small community with its own Bible and its own festivals.",
+      "tip": "Ask about the museum's hours."
+    },
+    {
+      "title": "Stay with a family",
+      "text": "Homestays in Nablus and the surrounding villages give you a chance to share meals and meet people.",
+      "tip": "Arrange through a local tourism cooperative."
+    }
+  ],
+  "foodIntro": "Nablus is the food capital of the West Bank, and its cuisine is central to Palestinian identity.",
+  "foods": [
+    {
+      "name": "Nabulsi knafeh",
+      "text": "Hot, sweet, stringy cheese under a layer of crisp orange pastry, soaked in syrup and topped with pistachios. It is the star of the city.",
+      "whereToTry": "Old-city knafeh shops."
+    },
+    {
+      "name": "Musakhan",
+      "text": "Roast chicken with sumac and caramelised onions on taboon bread.",
+      "whereToTry": "Restaurants and homes."
+    },
+    {
+      "name": "Maqluba",
+      "text": "A one-pot dish of rice, vegetables and meat, flipped onto a platter.",
+      "whereToTry": "Home-style restaurants."
+    },
+    {
+      "name": "Nabulsi soap and olive oil",
+      "text": "Not to eat, but to buy: olive-oil soap in stacks, and good olive oil from the surrounding hills.",
+      "whereToTry": "Soap factories and shops."
+    },
+    {
+      "name": "Sweets and pastries",
+      "text": "Nablus has an enormous range of sweets, including baklava, ma'amoul and qatayef in Ramadan.",
+      "whereToTry": "Bakeries and sweet shops."
+    },
+    {
+      "name": "Arabic coffee and tea",
+      "text": "Served everywhere, and refused rarely.",
+      "whereToTry": "Cafés and shops in the old city."
+    }
+  ],
+  "accommodation": {
+    "intro": "Nablus has a few hotels and guesthouses, some in restored old houses. Most visitors come on a day trip from Ramallah, but a night in the old city is worth it if conditions allow.",
+    "areas": [
+      {
+        "name": "The old city",
+        "bestFor": "Atmosphere",
+        "text": "A few guesthouses in restored Ottoman houses, with courtyards and traditional decoration."
+      },
+      {
+        "name": "The modern centre",
+        "bestFor": "Hotels and convenience",
+        "text": "Larger hotels and apartments near the main streets."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "₪150–300 per night" },
+      { "label": "Mid-range hotel", "value": "₪300–500 per night" },
+      { "label": "Knafeh", "value": "₪10–20 per portion" },
+      { "label": "Hammam", "value": "₪80–150" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Nablus is about 50 km north of Ramallah and 65 km from Jerusalem. Roads pass through checkpoints, and access can change.",
+    "options": [
+      {
+        "mode": "Service taxi from Ramallah",
+        "text": "Shared vans run from Ramallah to Nablus, taking about an hour and a half, depending on the checkpoints.",
+        "detail": "Ask for the latest information on the route."
+      },
+      {
+        "mode": "Private driver",
+        "text": "A driver is the most comfortable option and knows the current conditions.",
+        "detail": "Agree the route and the price."
+      },
+      {
+        "mode": "Tour",
+        "text": "Some Palestinian operators run day trips from Jerusalem or Ramallah.",
+        "detail": "Check the itinerary and current advice."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The old city is on foot, and taxis cover the rest.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The old city is compact and full of stairs and arches. A guide can help you find your way.",
+        "detail": "Wear comfortable shoes."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Cheap and plentiful, useful for Mount Gerizim, Jacob's Well and Sebastia.",
+        "detail": "Agree the fare first."
+      },
+      {
+        "mode": "Service taxi",
+        "text": "Shared vans link Nablus with Ramallah and surrounding villages.",
+        "detail": "Ask locals where to catch them."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Nablus has a Mediterranean climate, with warm summers and cool wet winters. Spring is greenest, and the olive harvest in autumn is a special time.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Green hills and warm days. Passover brings the Samaritan sacrifice on Mount Gerizim."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Warm and dry. The old city is shaded and cool."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "The olive harvest and clear weather make it an excellent season."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool and wet. Some roads and routes may be closed."
+      }
+    ],
+    "avoid": "Days of unrest or military operations, when the city may be closed, and Ramadan afternoons, when restaurants are shut."
+  },
+  "itinerary": {
+    "title": "One day in Nablus",
+    "intro": "Knafeh for breakfast, the old city and a soap factory in the morning, lunch and a hammam or Jacob's Well in the afternoon. Assumes a day trip from Ramallah with a guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Knafeh, soap and history",
+        "summary": "The city's best-loved sights.",
+        "morning": "Knafeh, then the old-city souk and a soap factory.",
+        "afternoon": "Lunch, then the hammam or Jacob's Well.",
+        "evening": "Return to Ramallah before dark."
+      }
+    ]
+  },
+  "tipsIntro": "Nablus is welcoming and lively, and a few tips help.",
+  "tips": [
+    "Read your government's advice, and check the situation on the day. Nablus has had military operations, and some governments advise against travel there.",
+    "Go with a local guide or host. They can tell you what is open and safe, and arrange the visits.",
+    "Eat knafeh in the morning, when it is freshest.",
+    "Dress modestly, as Nablus is more conservative than Ramallah.",
+    "Carry your passport for checkpoints.",
+    "Return before dark, and do not travel at night.",
+    "Buy soap, olive oil and sweets from local producers."
+  ],
+  "faq": [
+    {
+      "q": "Is Nablus safe to visit?",
+      "a": "Nablus is welcoming to visitors, but the northern West Bank has seen military operations and closures in recent years, and some governments advise against travel there. Check advice, go with local guidance and be prepared to change plans."
+    },
+    {
+      "q": "What is Nabulsi knafeh?",
+      "a": "A dessert of white cheese, crisp pastry and syrup, originally from Nablus. It is eaten hot, usually in the morning, and is the best-known Palestinian sweet."
+    },
+    {
+      "q": "Who are the Samaritans?",
+      "a": "An ancient community that traces its origins to the Israelites and follows its own version of the Torah. Fewer than a thousand remain, split between Mount Gerizim and Holon in Israel."
+    },
+    {
+      "q": "How long do you need in Nablus?",
+      "a": "A day covers the old city, a soap factory, knafeh and one site. A night lets you experience the city in the evening."
+    },
+    {
+      "q": "Can I visit Nablus from Ramallah or Jerusalem?",
+      "a": "Yes. It is about 90 minutes from Ramallah and two hours from Jerusalem, depending on checkpoints. Take your passport."
+    },
+    {
+      "q": "What should I wear in Nablus?",
+      "a": "Modest clothing with shoulders and knees covered, and for women, a scarf is useful for mosques and conservative areas."
+    }
+  ],
+  "related": ["sebastia", "ramallah", "taybeh"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

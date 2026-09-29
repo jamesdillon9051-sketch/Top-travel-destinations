@@ -1,0 +1,290 @@
+{
+  "slug": "taybeh",
+  "name": "Taybeh",
+  "country": "palestinian-territories",
+  "region": "Ramallah and al-Bireh Governorate, central West Bank",
+  "categories": ["food-and-wine", "cultural", "off-the-beaten-path"],
+  "tagline": "The last fully Christian village in the West Bank, with a Byzantine church, a hilltop view towards the Jordan Valley and Palestine's first craft brewery.",
+  "highlight": "A tasting at the Taybeh Brewery, followed by a walk through the old village to the ruins of the Byzantine church of St George.",
+  "shortDescription": "A small hilltop village of stone houses and olive groves, 13 km from Ramallah, best known for the Taybeh Brewery, its Oktoberfest and its Christian heritage.",
+  "metaDescription": "A Taybeh travel guide: the Taybeh Brewery and winery, the Byzantine church of St George, village life and the biblical Ephraim, food, how to get there from Ramallah and a half-day plan.",
+  "suggestedStay": "Half a day",
+  "nearestAirport": "Tel Aviv Ben Gurion (TLV), about 1 hour 30 minutes; Ramallah is 13 km away",
+  "knownFor": "The Taybeh Brewery, its Christian community, a Byzantine church, hilltop views",
+  "budget": "₪150–300 per day",
+  "goodFor": "Craft beer, village life, Christian heritage, a half-day from Ramallah",
+  "coords": { "lat": 31.9528, "lng": 35.2879 },
+  "image": {
+    "file": "File:Taybeh Brewery.jpg",
+    "alt": "The Taybeh Brewery, the first Palestinian craft brewery, in the village of Taybeh"
+  },
+  "intro": [
+    "Taybeh is a village of about 1,500 people on a hilltop 13 km north-east of Ramallah, with a view that on a clear day stretches down to the Jordan Valley and the mountains of Jordan. Its name means 'delicious' or 'good' in Arabic, and it is said to have got its name from the reputation of its food. It is one of the last entirely Christian villages in the West Bank, with Greek Orthodox, Latin (Catholic) and Melkite communities, and it is often identified with the biblical town of Ephraim, where the Gospel of John says that Jesus withdrew before the Passover.",
+    "It is best known today for the Taybeh Brewery, founded in 1994 by Nadim Khoury, who returned from the United States with a dream of brewing beer in his home village. It is the first craft brewery in Palestine, and it has grown into a source of local pride. Its Oktoberfest, held each autumn, has drawn thousands of visitors, though it has been scaled down or cancelled in some recent years because of the security situation. There is also a small winery, and olive oil is produced in the village.",
+    "The village also has the ruins of a Byzantine church of St George, known as al-Khader, and several working churches, including the Latin church of the Good Shepherd and the Greek Orthodox church. Taybeh has been affected by land disputes and settler attacks in recent years, and its people are welcoming to visitors, who support the local economy."
+  ],
+  "whyVisit": {
+    "intro": "Taybeh is small and easy, and it is one of the friendliest places in the West Bank.",
+    "points": [
+      {
+        "title": "Palestine's first craft brewery",
+        "text": "A tour and a tasting at the Taybeh Brewery gives you a taste of the village's story and its beer."
+      },
+      {
+        "title": "A Christian village",
+        "text": "Unusually for the West Bank, Taybeh is entirely Christian, and its churches and traditions give it a distinct character."
+      },
+      {
+        "title": "A Byzantine church",
+        "text": "The ruins of the church of St George, with its mosaic floors and carved stone, sit at the edge of the village."
+      },
+      {
+        "title": "Views and quiet",
+        "text": "The village is high and quiet, with olive groves, terraces and sweeping views."
+      },
+      {
+        "title": "An easy half-day from Ramallah",
+        "text": "Taybeh is only 20 minutes from Ramallah, so it fits easily into a day with the Palestinian Museum or the old town."
+      }
+    ]
+  },
+  "attractionsIntro": "Taybeh is small, and a visit takes a few hours. Book a brewery tour in advance.",
+  "attractions": [
+    {
+      "name": "The Taybeh Brewery",
+      "text": "A small brewery on the edge of the village, producing lager, golden, dark and amber beers, and a non-alcoholic malt drink. Tours cover the story and the process, and end with a tasting.",
+      "tip": "Book a tour in advance, and check the current opening hours."
+    },
+    {
+      "name": "The Taybeh Winery",
+      "text": "A small family winery in the village, producing local wines from grapes grown in the hills. It offers tastings and sells bottles.",
+      "tip": "Ask about tours and tastings."
+    },
+    {
+      "name": "The Church of St George (al-Khader)",
+      "text": "The ruins of a 5th-century Byzantine church at the southern edge of the village, with mosaic fragments and carved stone. A later Crusader church stands next to it.",
+      "tip": "Ask the villagers for the key or a guide."
+    },
+    {
+      "name": "The Latin Church of the Good Shepherd",
+      "text": "A small church built in the 19th century, with a peaceful courtyard and a view over the valley.",
+      "tip": "Modest dress is required, and services are on Sundays."
+    },
+    {
+      "name": "The Greek Orthodox Church of St George",
+      "text": "The active Greek Orthodox church, with icons and a carved wooden screen.",
+      "tip": "Check when it is open."
+    },
+    {
+      "name": "The old village and viewpoint",
+      "text": "Narrow lanes with stone houses and terraces lead to a viewpoint that faces east across the Jordan Valley.",
+      "tip": "Go at sunset."
+    }
+  ],
+  "thingsToDoIntro": "A slow half-day in Taybeh is best spent talking to people and tasting the local products.",
+  "thingsToDo": [
+    {
+      "title": "Tour the brewery",
+      "text": "Visit the brewery, learn its story and taste the beers with a snack.",
+      "tip": "Book a tour and check hours."
+    },
+    {
+      "title": "Have lunch in the village",
+      "text": "Small restaurants serve Palestinian dishes, often with local olive oil and beer.",
+      "tip": "Ask for a recommendation at the brewery."
+    },
+    {
+      "title": "Visit the ruins of St George's church",
+      "text": "See the Byzantine mosaics and the view.",
+      "tip": "Ask a villager to show you."
+    },
+    {
+      "title": "Attend the Oktoberfest, if it is held",
+      "text": "The annual festival brings music, food and beer to the village, though it is scaled down or cancelled in difficult years.",
+      "tip": "Check whether it is being held before you plan."
+    },
+    {
+      "title": "Meet the villagers",
+      "text": "People are curious about visitors and often invite you to tea.",
+      "tip": "Accept, and bring a small gift."
+    },
+    {
+      "title": "Combine with Ramallah and Birzeit",
+      "text": "All are close, and can be combined in a day.",
+      "tip": "Hire a driver."
+    }
+  ],
+  "foodIntro": "Taybeh's food is traditional Palestinian, and its most famous product is beer.",
+  "foods": [
+    {
+      "name": "Taybeh beer",
+      "text": "Palestine's best-known beer, brewed locally, sold across the West Bank and exported to a few other countries.",
+      "whereToTry": "The brewery and restaurants in Ramallah."
+    },
+    {
+      "name": "Local wine",
+      "text": "Wine from the village's winery, made in a small way from local grapes.",
+      "whereToTry": "The winery."
+    },
+    {
+      "name": "Olive oil",
+      "text": "Made from village olives, with a fragrant and slightly bitter flavour.",
+      "whereToTry": "Village shops."
+    },
+    {
+      "name": "Musakhan",
+      "text": "Roast chicken with sumac and onions on taboon bread.",
+      "whereToTry": "Village restaurants and homes."
+    },
+    {
+      "name": "Village mezze",
+      "text": "Salads, dips and pickles.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Tea and coffee",
+      "text": "Served as a welcome.",
+      "whereToTry": "Homes and shops."
+    }
+  ],
+  "accommodation": {
+    "intro": "Taybeh is normally a day trip from Ramallah, but a few guesthouses and homestays are available.",
+    "areas": [
+      {
+        "name": "Taybeh village",
+        "bestFor": "A quiet overnight stay",
+        "text": "A few guesthouses and homestays, run by local families."
+      },
+      {
+        "name": "Ramallah",
+        "bestFor": "Most visitors",
+        "text": "A wide choice of hotels, 20 minutes away."
+      }
+    ],
+    "budget": [
+      { "label": "Homestay or guesthouse", "value": "₪120–250 per night" },
+      { "label": "Brewery tour and tasting", "value": "₪40–80 per person" },
+      { "label": "Village lunch", "value": "₪40–80 per person" },
+      { "label": "Taxi from Ramallah", "value": "₪60–100 each way" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Taybeh is about 13 km north-east of Ramallah, on a road that climbs through the hills.",
+    "options": [
+      {
+        "mode": "Taxi from Ramallah",
+        "text": "About 20 minutes. Taxis can wait or come back for you.",
+        "detail": "Agree the fare and return time."
+      },
+      {
+        "mode": "Service taxi",
+        "text": "Shared vans run from Ramallah to nearby villages, but not always to Taybeh.",
+        "detail": "Ask locals for the latest information."
+      },
+      {
+        "mode": "Private driver or tour",
+        "text": "Many tours from Ramallah and Jerusalem include Taybeh with Birzeit or Jericho.",
+        "detail": "Check the itinerary."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The village is small, and everything is on foot.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The brewery, the churches and the ruins are within a 15-minute walk of each other.",
+        "detail": "Wear sturdy shoes."
+      },
+      {
+        "mode": "Taxi",
+        "text": "For trips to Ramallah and other villages.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Guided visit",
+        "text": "A local guide explains the village's history and gets you into places.",
+        "detail": "Ask at the brewery."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Taybeh is in the hills at about 850 m. Spring and autumn are the best seasons, and the Oktoberfest, when held, is in October.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Green hills and warm days."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Warm and dry. Evenings are pleasant."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm and clear, with the olive harvest and the Oktoberfest."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool and wet. Christmas is celebrated in the village."
+      }
+    ],
+    "avoid": "Days of unrest or road closures, and Sundays for some shops."
+  },
+  "itinerary": {
+    "title": "Half a day in Taybeh",
+    "intro": "A brewery tour, lunch and a walk to the church ruins. Assumes a driver from Ramallah.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Beer, church and village",
+        "summary": "A relaxed half-day.",
+        "morning": "The Taybeh Brewery tour and tasting.",
+        "afternoon": "Lunch in the village, then the Byzantine church of St George.",
+        "evening": "Sunset at the viewpoint, and the return to Ramallah."
+      }
+    ]
+  },
+  "tipsIntro": "Taybeh is small and friendly, and a few tips help.",
+  "tips": [
+    "Book a brewery tour in advance. It is a small business, and hours can be limited.",
+    "Check conditions before you go. The village has faced land disputes and attacks in recent years, and access can change.",
+    "Go with a driver. Public transport is limited.",
+    "Buy beer, wine and olive oil in the village. It supports the community directly.",
+    "Dress modestly for the churches.",
+    "Bring cash, as small shops do not always take cards.",
+    "Do not drink and drive. Ramallah is 20 minutes away."
+  ],
+  "faq": [
+    {
+      "q": "What is Taybeh known for?",
+      "a": "The Taybeh Brewery, founded in 1994 and the first craft brewery in Palestine, and for being one of the last entirely Christian villages in the West Bank."
+    },
+    {
+      "q": "Can I visit the brewery?",
+      "a": "Yes, by appointment. Tours cover the story of the brewery and end with a tasting. Book in advance and check the hours."
+    },
+    {
+      "q": "How long do you need in Taybeh?",
+      "a": "Half a day is enough for the brewery, lunch and a walk to the church ruins."
+    },
+    {
+      "q": "Is Taybeh safe to visit?",
+      "a": "It is a quiet and welcoming village, but it is in the West Bank, and conditions can change. The village has experienced land disputes and attacks in recent years. Check your government's advice and local information."
+    },
+    {
+      "q": "Is Taybeh the biblical Ephraim?",
+      "a": "Many scholars and villagers identify it with Ephraim, the town where, according to the Gospel of John, Jesus withdrew with his disciples before Passover. The identification is not certain."
+    },
+    {
+      "q": "Can I visit Taybeh from Ramallah?",
+      "a": "Yes. It is about 20 minutes by taxi or car, and is often combined with Birzeit or Jericho."
+    }
+  ],
+  "related": ["ramallah", "nablus", "sebastia"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

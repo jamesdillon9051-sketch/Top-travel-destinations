@@ -1,0 +1,300 @@
+{
+  "slug": "sebastia",
+  "name": "Sebastia (Ancient Samaria)",
+  "shortName": "Sebastia",
+  "country": "palestinian-territories",
+  "region": "Nablus Governorate, northern West Bank",
+  "categories": ["archaeological", "historic", "off-the-beaten-path"],
+  "tagline": "The hilltop capital of the northern Kingdom of Israel, rebuilt by Herod as a Roman city, with a forum, theatre and a cathedral said to hold the head of John the Baptist.",
+  "highlight": "The Roman forum and its colonnade on the summit, with the olive groves of Samaria stretching away on all sides.",
+  "shortDescription": "A small village on a hill above Nablus, built over the ruins of biblical Samaria and Roman Sebaste, with two thousand years of layers and almost no visitors.",
+  "metaDescription": "A Sebastia (Samaria) travel guide: the Israelite acropolis, Herod's Roman forum, theatre and temple, the Crusader cathedral and mosque of John the Baptist, village life, and a half-day plan from Nablus.",
+  "suggestedStay": "Half a day",
+  "nearestAirport": "Tel Aviv Ben Gurion (TLV), about 1 hour 30 minutes; Nablus is 12 km away",
+  "knownFor": "Ancient Samaria, the Roman forum, the John the Baptist church and mosque, the hilltop views",
+  "budget": "₪150–300 per day",
+  "goodFor": "Archaeology, biblical history, views, a quiet half-day",
+  "coords": { "lat": 32.2764, "lng": 35.1936 },
+  "image": {
+    "file": "File:Drone Aerial View of the Acropolis and Palace Site of King Omri in Samaria Sebastia.jpg",
+    "alt": "Aerial view of the acropolis and ruins at Sebastia, ancient Samaria"
+  },
+  "intro": [
+    "Sebastia is a village of about 3,000 people on a hilltop in the northern West Bank, 12 km north-west of Nablus, and it sits on top of one of the most important archaeological sites in the region. In the 9th century BCE, King Omri bought the hill and built the capital of the northern Kingdom of Israel here, called Samaria, and his son Ahab and his wife Jezebel are associated with it in the Bible. The city fell to the Assyrians in about 722 BCE.",
+    "Around 30 BCE, the Roman emperor Augustus gave Samaria to Herod the Great, who rebuilt it as a grand Roman city and renamed it Sebaste, the Greek form of Augustus. He built a temple to Augustus, a forum with a basilica, a stadium and a long colonnaded street, and their remains still line the hill. Later, the Byzantines built a church over what was believed to be the tomb of John the Baptist, and the Crusaders replaced it with a cathedral, part of which is now a mosque.",
+    "The site is now spread between the village, which is in an area administered by the Palestinian Authority, and an archaeological park in Area C, which is administered by Israel. It has very few visitors, and the village is a quiet, agricultural place with a small tourism cooperative that offers guides, meals and accommodation. Some of the outer land has seen disputes between villagers and settlers, so conditions can change."
+  ],
+  "whyVisit": {
+    "intro": "Sebastia is a rarely visited place where Israelite, Hellenistic, Roman, Byzantine and Crusader history are layered on one hilltop.",
+    "points": [
+      {
+        "title": "A biblical capital",
+        "text": "The remains of the Israelite royal quarter, with walls and a large courtyard from the 9th century BCE, sit at the top of the hill."
+      },
+      {
+        "title": "A Roman city on a hill",
+        "text": "Herod's forum, basilica, stadium and a long colonnade survive in part, and some of the columns still stand."
+      },
+      {
+        "title": "A cathedral and a mosque",
+        "text": "The 12th-century Crusader cathedral, later partly turned into the Mosque of Nabi Yahya, holds a shrine that both Christians and Muslims associate with John the Baptist."
+      },
+      {
+        "title": "Few visitors",
+        "text": "You can walk the site alone, and the village guides can show you around."
+      },
+      {
+        "title": "A landscape of olives",
+        "text": "The hills around Sebastia are covered in ancient olive groves, and the views are wide and green."
+      }
+    ]
+  },
+  "attractionsIntro": "The site is spread across the hill, and a half-day covers the main sights.",
+  "attractions": [
+    {
+      "name": "The Israelite acropolis",
+      "text": "The hilltop remains of the palace and royal quarter of the kings of Israel, with massive walls, a courtyard and terraces, dating from the 9th to 8th centuries BCE.",
+      "tip": "The view from the top is excellent."
+    },
+    {
+      "name": "The Roman forum and basilica",
+      "image": {
+        "file": "File:The Basilica and Forum - panoramio.jpg",
+        "alt": "The columns of the Roman forum and basilica at Sebastia"
+      },
+      "text": "A large paved area with a row of standing columns, and the foundation of a basilica, all built by Herod's engineers. It was the heart of the Roman city.",
+      "tip": "Go in the late afternoon for the light on the stones."
+    },
+    {
+      "name": "The Temple of Augustus",
+      "text": "The base of Herod's temple to the emperor, with a huge stepped platform at the top of the hill. It was one of the most impressive buildings of the Roman east.",
+      "tip": "Look at the size of the foundation stones."
+    },
+    {
+      "name": "The Roman theatre and stadium",
+      "text": "A theatre on the northern slope and a stadium that once seated thousands. Both are partly ruined but their shape is clear.",
+      "tip": "The theatre has good views over the valley."
+    },
+    {
+      "name": "The Colonnaded Street",
+      "text": "A long paved road with a line of columns, running along the hillside. Some of the columns have been re-erected.",
+      "tip": "Walk the length of it to see the scale of the city."
+    },
+    {
+      "name": "The Crusader cathedral and the Mosque of Nabi Yahya",
+      "text": "The ruins of a 12th-century cathedral built over a Byzantine church, and a mosque built into part of it. The crypt is traditionally identified as the burial place of John the Baptist, and is venerated by Christians and Muslims.",
+      "tip": "Dress modestly, and ask permission before entering the mosque."
+    },
+    {
+      "name": "The village of Sebastia",
+      "text": "A hilltop village of old stone houses and olive presses, with a small tourism centre, restaurants and a friendly atmosphere.",
+      "tip": "Buy olive oil and crafts from the village."
+    }
+  ],
+  "thingsToDoIntro": "Sebastia is best for a slow half-day, with a guide from the village.",
+  "thingsToDo": [
+    {
+      "title": "Take a guided walk",
+      "text": "Local guides from the village know the site well and can show the parts that are hard to find.",
+      "tip": "Book in advance through the village cooperative."
+    },
+    {
+      "title": "Climb to the acropolis",
+      "text": "A short climb leads to the top of the hill and the view over the olive groves.",
+      "tip": "Go in the evening, when the light is soft."
+    },
+    {
+      "title": "Have lunch in the village",
+      "text": "Village restaurants serve Palestinian food, often with local olive oil and vegetables.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Visit an olive press",
+      "text": "A local olive press shows how oil is made, and in autumn you can watch the harvest.",
+      "tip": "Ask your guide."
+    },
+    {
+      "title": "Stay with a family",
+      "text": "Homestays let you see village life and share meals.",
+      "tip": "Arrange through the cooperative."
+    },
+    {
+      "title": "Combine with Nablus",
+      "text": "Sebastia and Nablus are 20 minutes apart, so they make a good day.",
+      "tip": "Start with the old city in Nablus, and end at Sebastia for sunset."
+    }
+  ],
+  "foodIntro": "Sebastia's food is simple and rural, and depends on the produce of the hills.",
+  "foods": [
+    {
+      "name": "Musakhan",
+      "text": "Roast chicken with sumac and onions on taboon bread, drizzled with the local olive oil.",
+      "whereToTry": "Village restaurants and homes."
+    },
+    {
+      "name": "Olive oil",
+      "text": "The hills around Sebastia are known for their old olive groves and their oil.",
+      "whereToTry": "Village shops and cooperatives."
+    },
+    {
+      "name": "Fresh bread with za'atar",
+      "text": "Warm bread baked in a clay oven, served with za'atar and oil.",
+      "whereToTry": "Village homes and cafés."
+    },
+    {
+      "name": "Village mezze",
+      "text": "Salads, cheeses, olives and dips.",
+      "whereToTry": "Restaurants in the village."
+    },
+    {
+      "name": "Seasonal fruit",
+      "text": "Figs, grapes and pomegranates in autumn.",
+      "whereToTry": "Farms and roadside stalls."
+    },
+    {
+      "name": "Tea and coffee",
+      "text": "A welcome for every visitor.",
+      "whereToTry": "Homes and cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Sebastia is normally a day trip from Nablus or Ramallah, but the village has guesthouses and homestays for those who want to stay.",
+    "areas": [
+      {
+        "name": "Sebastia village",
+        "bestFor": "Quiet and an authentic experience",
+        "text": "A handful of guesthouses and homestays, run by local families."
+      },
+      {
+        "name": "Nablus or Ramallah",
+        "bestFor": "More choice",
+        "text": "Hotels and restaurants, about 20–90 minutes away."
+      }
+    ],
+    "budget": [
+      { "label": "Homestay or guesthouse", "value": "₪120–250 per night" },
+      { "label": "Local guide", "value": "₪100–200 for a half-day" },
+      { "label": "Village lunch", "value": "₪40–80 per person" },
+      { "label": "Site entry", "value": "A few shekels" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Sebastia is about 12 km north-west of Nablus. Roads can be affected by checkpoints and closures.",
+    "options": [
+      {
+        "mode": "Taxi or service taxi from Nablus",
+        "text": "About 25 minutes by road. Service taxis run irregularly, and a taxi is easier.",
+        "detail": "Agree the fare and return time."
+      },
+      {
+        "mode": "Private driver or tour",
+        "text": "A driver from Ramallah or Nablus can combine Sebastia with other sites.",
+        "detail": "Check the current situation."
+      },
+      {
+        "mode": "Local tourism cooperative",
+        "text": "The village cooperative arranges guides, meals and transport.",
+        "detail": "Book in advance."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The site and village are on foot.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "Paths link the main areas, and the village is compact.",
+        "detail": "Wear sturdy shoes."
+      },
+      {
+        "mode": "Guided walk",
+        "text": "A local guide knows the site and the paths.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Useful for the journey to and from Nablus.",
+        "detail": "Agree the fare."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Sebastia is in the hills of Samaria at about 400 m. Spring and autumn are the best seasons, and the olive harvest is a highlight.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Green hills and wildflowers, with pleasant temperatures."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Warm and dry. Visit early or late."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm and clear, with the olive harvest."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool and wet, with muddy paths."
+      }
+    ],
+    "avoid": "Rainy days, and days of unrest or road closures in the Nablus area."
+  },
+  "itinerary": {
+    "title": "Half a day at Sebastia",
+    "intro": "A guided walk through the ruins, a village lunch and an olive-oil visit. Assumes a base in Nablus or Ramallah.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Samaria and its stones",
+        "summary": "A quiet day among the ruins.",
+        "morning": "The forum, the colonnade and the theatre.",
+        "afternoon": "Lunch in the village, then the acropolis and the cathedral.",
+        "evening": "Return to Nablus or Ramallah before dark."
+      }
+    ]
+  },
+  "tipsIntro": "Sebastia is small and quiet, and a few tips help.",
+  "tips": [
+    "Go with a local guide or the village cooperative. It adds a great deal and supports the community.",
+    "Check conditions before you go. Sebastia is in the northern West Bank, where roads and access can change.",
+    "Bring water and a hat. There is little shade on the hill.",
+    "Dress modestly for the mosque and the village.",
+    "Buy olive oil and crafts from the village.",
+    "Do not remove anything from the site.",
+    "Combine Sebastia with Nablus for a full day."
+  ],
+  "faq": [
+    {
+      "q": "What is Sebastia?",
+      "a": "A village built over ancient Samaria, the capital of the northern Kingdom of Israel, which Herod the Great rebuilt as the Roman city of Sebaste. It has Israelite, Roman, Byzantine and Crusader remains."
+    },
+    {
+      "q": "How long do you need in Sebastia?",
+      "a": "Half a day covers the main ruins and the village. A night lets you enjoy the quiet."
+    },
+    {
+      "q": "Is Sebastia connected to John the Baptist?",
+      "a": "A tradition, held by both Christians and Muslims, places his burial here, and a Byzantine church and a Crusader cathedral were built over the spot. The crypt is now within a mosque."
+    },
+    {
+      "q": "Can I visit from Nablus or Ramallah?",
+      "a": "Yes. It is about 25 minutes from Nablus and 90 minutes from Ramallah, depending on checkpoints. Go with a local guide."
+    },
+    {
+      "q": "Is Sebastia safe?",
+      "a": "It is a quiet village that welcomes visitors, but it is in the northern West Bank, where conditions and advice can change. Check current advice and local information."
+    },
+    {
+      "q": "Who runs the archaeological site?",
+      "a": "The site lies partly in an area administered by Israel and partly in the village, and management is shared and disputed. A local guide can explain the current arrangements."
+    }
+  ],
+  "related": ["nablus", "ramallah", "taybeh"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

@@ -1,0 +1,303 @@
+{
+  "slug": "bethlehem",
+  "name": "Bethlehem",
+  "country": "palestinian-territories",
+  "region": "Bethlehem Governorate, southern West Bank",
+  "categories": ["unesco", "historic", "cultural"],
+  "tagline": "The traditional birthplace of Jesus, with one of the oldest working churches in the world and a small, resilient town of craftspeople and cooks around it.",
+  "highlight": "The Church of the Nativity, where you stoop through the Door of Humility and descend to the grotto marked by a silver star.",
+  "shortDescription": "A UNESCO-listed pilgrimage town ten kilometres south of Jerusalem, with the Church of the Nativity, an old town of stone lanes and olive-wood workshops, and warm hospitality.",
+  "metaDescription": "A Bethlehem travel guide: the Church of the Nativity and Manger Square, the Milk Grotto and old town, olive-wood and food, crossing from Jerusalem, current advice and a one-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Tel Aviv Ben Gurion (TLV), about 1 hour 15 minutes; Jerusalem is 10 km away",
+  "knownFor": "The Church of the Nativity, Manger Square, olive-wood carving, Christmas",
+  "budget": "₪300–600 per day, mid-range",
+  "goodFor": "Christian pilgrimage, culture, food, day trips from Jerusalem",
+  "coords": { "lat": 31.7054, "lng": 35.2024 },
+  "image": {
+    "file": "File:Manger Square, Bethlehem (25894141005).jpg",
+    "alt": "Manger Square in Bethlehem with the Church of the Nativity and the Mosque of Omar"
+  },
+  "intro": [
+    "Bethlehem sits on a ridge in the Judean hills, about ten kilometres south of Jerusalem. The Gospels of Matthew and Luke place the birth of Jesus here, and from at least the 4th century Christians have venerated a cave beneath the town as the place. The Emperor Constantine built the first church over it, and the present Church of the Nativity, largely from the 6th century, is among the oldest continuously used Christian churches in the world. UNESCO inscribed it in 2012, the first World Heritage Site in the State of Palestine.",
+    "The town today has about 30,000 people in the municipality and many more in the surrounding area, and it is mainly Muslim with a significant Christian minority. It is a town of craft workshops, family restaurants and churches, with an old quarter of stone houses, an olive-wood carving tradition that goes back centuries and a lively centre in Manger Square. It lies inside the separation barrier, and getting in from Jerusalem usually means crossing at a checkpoint.",
+    "Bethlehem's tourist economy has been badly affected by the events of recent years. Numbers fell sharply after 2023, and many hotels and shops struggled or closed for periods. Visiting supports a community that depends on it, and the welcome for visitors is warm. Conditions can change quickly, so check your government's advice and local information before you go."
+  ],
+  "whyVisit": {
+    "intro": "Bethlehem is one of the most significant places in Christianity, and it is much more than a single church.",
+    "points": [
+      {
+        "title": "The Church of the Nativity",
+        "text": "A 6th-century basilica with a forest of red limestone columns, remains of a mosaic floor from the earlier church, and the grotto below where tradition places the birth."
+      },
+      {
+        "title": "A working old town",
+        "text": "The stone lanes around Manger Square and the Star Street have workshops, cafés and houses that have been in the same families for generations."
+      },
+      {
+        "title": "Olive-wood and craft",
+        "text": "Bethlehem has been famous for mother-of-pearl and olive-wood carving for centuries, and many workshops welcome visitors."
+      },
+      {
+        "title": "Palestinian hospitality",
+        "text": "Guesthouses, cafés and restaurants are family-run, and visitors are received warmly and asked where they are from and how they like the town."
+      },
+      {
+        "title": "A gateway to the countryside",
+        "text": "Battir, Herodium, Mar Saba and the desert monasteries are all within half an hour, so Bethlehem makes a good base."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights are within a short walk of Manger Square. Allow half a day for the church and old town, and more if you visit the surrounding sites.",
+  "attractions": [
+    {
+      "name": "The Church of the Nativity",
+      "image": {
+        "file": "File:Church of the Nativity (Bethlehem) 02.jpg",
+        "alt": "The interior of the Church of the Nativity with its rows of columns"
+      },
+      "text": "The basilica is entered through the low Door of Humility. Inside are 44 columns with faded Crusader paintings, mosaic fragments and, at the front, a stairway to the Grotto of the Nativity, where a silver star marks the traditional birthplace. It is shared by the Greek Orthodox, Armenian Apostolic and Roman Catholic churches.",
+      "tip": "Go early, before the tour groups arrive. Queues for the grotto can last an hour or more at midday and at Christmas."
+    },
+    {
+      "name": "The Church of St Catherine",
+      "image": {
+        "file": "File:Catholic Grottos under the Church of the Nativity, Bethlehem, Palestine5.jpg",
+        "alt": "The Catholic grottos beneath the Church of the Nativity"
+      },
+      "text": "The Roman Catholic church next door, entered from the Nativity's courtyard, where Midnight Mass is broadcast at Christmas. It links to a set of underground grottos, including the traditional cell of St Jerome.",
+      "tip": "It is quieter than the Nativity and worth a short visit."
+    },
+    {
+      "name": "Manger Square",
+      "text": "The main square in front of the church, with a tall Christmas tree in December, the Mosque of Omar and a busy set of cafés and shops. It is the centre of the town.",
+      "tip": "Visit again in the evening, when the square is quieter and lit up."
+    },
+    {
+      "name": "The Milk Grotto",
+      "text": "A small chapel carved in a soft white rock, where tradition says a drop of Mary's milk fell as she nursed the infant Jesus. It is a place of prayer for Christians and Muslims, particularly women seeking fertility.",
+      "tip": "It is a short walk from Manger Square, and usually quiet."
+    },
+    {
+      "name": "Star Street and the old town",
+      "text": "The ancient route from Jerusalem to Bethlehem runs through a lane of stone houses, workshops and small museums. Bethlehem's old town is a UNESCO-listed cultural landscape with the church.",
+      "tip": "Wander slowly, and visit the workshops and the Palestinian Heritage Center."
+    },
+    {
+      "name": "Olive-wood and mother-of-pearl workshops",
+      "text": "Family workshops carve olive wood, and inlay mother-of-pearl into crosses, nativity scenes and jewellery. Some let you watch the craftspeople at work.",
+      "tip": "Buy directly from the workshops, and ask whether the wood is from pruned trees."
+    },
+    {
+      "name": "The separation barrier and street art",
+      "text": "Along Bethlehem's northern edge, the wall that divides the town from Jerusalem is covered in murals, graffiti and messages. There is a museum and a hotel with a view that draw visitors interested in the politics.",
+      "tip": "Consider a guided tour to understand the context, and ask before photographing people."
+    }
+  ],
+  "thingsToDoIntro": "Bethlehem is a small town, and it repays a slow visit with time for the local food and craft.",
+  "thingsToDo": [
+    {
+      "title": "Visit the church early",
+      "text": "The Church of the Nativity is calm in the first hour, and you may have the Grotto to yourself.",
+      "tip": "Check opening hours, and dress modestly."
+    },
+    {
+      "title": "Take a walking tour",
+      "text": "Palestinian guides lead walking tours of the old town, the refugee camps and the wall, and explain the town's history and politics.",
+      "tip": "Book through your hotel or a local cooperative."
+    },
+    {
+      "title": "Have lunch in the old town",
+      "text": "Family restaurants near Manger Square serve musakhan, maqluba, mezze and grilled meat. It is the best way to experience local hospitality.",
+      "tip": "Ask about the day's specials."
+    },
+    {
+      "title": "Visit a cooking class or a workshop",
+      "text": "Several cooperatives offer cooking classes and craft workshops with local women and craftspeople.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Go to Christmas in Bethlehem",
+      "text": "On 24 December, Manger Square fills with pilgrims and a Christmas Eve procession and Midnight Mass. Orthodox and Armenian communities celebrate on 6–7 and 18 January.",
+      "tip": "Book accommodation months ahead, and expect crowds and security checks."
+    },
+    {
+      "title": "Combine with Battir, Herodium or Mar Saba",
+      "text": "All are 15–30 minutes by road, and a driver makes it possible to see more than one in a day.",
+      "tip": "Start early and check the road conditions."
+    }
+  ],
+  "foodIntro": "Bethlehem's food is a mix of Palestinian and Christian traditions, with plenty of olive oil, herbs and lamb. Restaurants are mostly family-run and serve generous portions.",
+  "foods": [
+    {
+      "name": "Musakhan",
+      "text": "Roast chicken with sumac and onions on taboon bread, drizzled with olive oil. A staple of Palestinian cooking.",
+      "whereToTry": "Family restaurants near Manger Square."
+    },
+    {
+      "name": "Maqluba",
+      "text": "An upside-down dish of rice, vegetables and meat, turned out onto a platter.",
+      "whereToTry": "Home-style restaurants and cooking classes."
+    },
+    {
+      "name": "Falafel and hummus",
+      "text": "Warm hummus and freshly fried falafel, eaten with bread and pickles.",
+      "whereToTry": "Small hummus places near Manger Square."
+    },
+    {
+      "name": "Local wine and beer",
+      "text": "The Cremisan Monastery and other local wineries make wine, and Taybeh beer is widely available.",
+      "whereToTry": "Restaurants and bars in the old town."
+    },
+    {
+      "name": "Knafeh and Arab sweets",
+      "text": "Hot cheese pastry with syrup and pistachios, and other sweets sold from shops around the square.",
+      "whereToTry": "Sweet shops near Manger Square."
+    },
+    {
+      "name": "Arabic coffee and tea",
+      "text": "Cardamom coffee and sweet tea, offered everywhere and rarely refused.",
+      "whereToTry": "Cafés and shops in the old town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Bethlehem has hotels, guesthouses and homestays, some of them in restored old houses. Tourism dropped sharply after 2023, and it is worth checking that your accommodation is open.",
+    "areas": [
+      {
+        "name": "The old town and Manger Square",
+        "bestFor": "Convenience and atmosphere",
+        "text": "Guesthouses and small hotels within walking distance of the church, with views over the square or the hills."
+      },
+      {
+        "name": "Beit Sahour",
+        "bestFor": "Quiet and a local feel",
+        "text": "A town next to Bethlehem with guesthouses, restaurants and the Shepherds' Fields, a short ride from the centre."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or guesthouse", "value": "₪150–300 per night" },
+      { "label": "Mid-range hotel", "value": "₪350–600 per night" },
+      { "label": "Boutique or upscale hotel", "value": "₪600–1,000 per night" },
+      { "label": "Guided walking tour", "value": "₪100–250 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Bethlehem is 10 km south of Jerusalem, and the crossing at Checkpoint 300 is the usual route. Conditions there can change, so check them before you go.",
+    "options": [
+      {
+        "mode": "Bus 231 from Jerusalem",
+        "text": "A public bus leaves from near Damascus Gate, runs to Checkpoint 300 and takes about 30–40 minutes. You cross the checkpoint on foot and take a taxi or walk to the centre.",
+        "detail": "Carry your passport, and expect delays. Check the latest timetable and crossing conditions."
+      },
+      {
+        "mode": "Taxi or private driver",
+        "text": "Israeli and Palestinian taxis and drivers cross to Bethlehem. A Palestinian driver can take you to the centre and onward to other sites.",
+        "detail": "Agree the price in advance, and ask your hotel to recommend a driver."
+      },
+      {
+        "mode": "Tour from Jerusalem",
+        "text": "Many day tours run from Jerusalem and include the church, the old town and lunch.",
+        "detail": "Check who is guiding and what is included."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The centre of Bethlehem is walkable, and taxis cover the rest.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The Church of the Nativity, the old town and the Milk Grotto are within a 10-minute walk. The streets are steep.",
+        "detail": "Wear comfortable shoes."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Taxis are cheap and plentiful. They take you to Beit Sahour, Herodium, Battir and the wall.",
+        "detail": "Agree the fare in advance."
+      },
+      {
+        "mode": "Service taxi",
+        "text": "Shared vans run to Hebron, Ramallah and villages.",
+        "detail": "Ask locals where to catch them."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Bethlehem is in the Judean hills at about 750 m. It is mild for most of the year, with a hot summer and a cool wet winter.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Green hills and warm days. Easter brings pilgrims."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Warm and dry, with pleasant evenings. Visit the church early."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm and clear, with the olive harvest in October and November."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool and wet, with occasional snow. Christmas is the busiest and most atmospheric time."
+      }
+    ],
+    "avoid": "Days of political tension, and the crowded weeks around Christmas and Easter if you want quiet."
+  },
+  "itinerary": {
+    "title": "One day in Bethlehem",
+    "intro": "The church and the old town in the morning, lunch and a workshop in the afternoon. Assumes a day trip from Jerusalem, or a night in the town.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Nativity and the old town",
+        "summary": "A compact day of church, food and craft.",
+        "morning": "The Church of the Nativity at opening, then the grotto and St Catherine's.",
+        "afternoon": "Lunch in the old town, the Milk Grotto and an olive-wood workshop.",
+        "evening": "Coffee in Manger Square, then the walk to the checkpoint or dinner in town."
+      }
+    ]
+  },
+  "tipsIntro": "Bethlehem is welcoming, and a few tips make a visit smoother.",
+  "tips": [
+    "Check conditions before you go. Checkpoints and access can change at short notice, and advice for the West Bank can be strict.",
+    "Carry your passport for the crossing and for any checks.",
+    "Go early. The church is quietest in the first hour of the day.",
+    "Dress modestly for the churches, with shoulders and knees covered.",
+    "Buy from local workshops and cooperatives. Your money supports families who depend on visitors.",
+    "Consider staying a night. It is a different town in the evening, and it helps the local economy.",
+    "Listen to local voices. A local guide can explain the town's history and its present."
+  ],
+  "faq": [
+    {
+      "q": "Is Bethlehem safe to visit?",
+      "a": "Bethlehem has long been a popular pilgrimage destination and is generally regarded as safe for tourists in normal times, but conditions in the West Bank have changed since 2023. Read your government's advice before you go, and check access at the checkpoint on the day."
+    },
+    {
+      "q": "How do I get to Bethlehem from Jerusalem?",
+      "a": "By bus 231 from near Damascus Gate, or by taxi, crossing the Checkpoint 300 on foot. It takes about 30–40 minutes. Carry your passport."
+    },
+    {
+      "q": "How long do you need in Bethlehem?",
+      "a": "Half a day covers the church and old town. A full day or a night lets you add the Milk Grotto, a workshop, a walking tour and a meal."
+    },
+    {
+      "q": "Why is the Church of the Nativity important?",
+      "a": "It is built over the grotto traditionally identified as the birthplace of Jesus, and is one of the oldest continuously used Christian churches in the world. It was the first place in Palestine to be listed as a UNESCO World Heritage Site."
+    },
+    {
+      "q": "Is Bethlehem in Israel?",
+      "a": "No. It is in the West Bank, in an area administered by the Palestinian Authority, and you cross a checkpoint to enter. Its status is part of the wider dispute over the territory."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "March to May and September to November. Christmas is atmospheric but very busy, and you should book well ahead."
+    }
+  ],
+  "related": ["battir", "herodium", "mar-saba-monastery"],
+  "relatedArticles": ["unesco-worth-planning-around", "food-primer"]
+}
