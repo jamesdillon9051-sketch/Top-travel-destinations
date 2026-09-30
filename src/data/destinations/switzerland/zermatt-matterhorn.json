@@ -1,0 +1,315 @@
+{
+  "slug": "zermatt-matterhorn",
+  "name": "Zermatt and the Matterhorn",
+  "shortName": "Zermatt",
+  "country": "switzerland",
+  "region": "Valais, south-west Switzerland",
+  "categories": ["mountains", "scenic", "nature"],
+  "tagline": "A car-free village beneath the most famous mountain in the world, with a cog railway to a glacier balcony, alpine lakes and 38 peaks over 4,000 metres.",
+  "highlight": "The Matterhorn's reflection in the Riffelsee at dawn, from the Gornergrat railway.",
+  "shortDescription": "A car-free Alpine village at the foot of the Matterhorn, with the Gornergrat railway, Riffelsee reflections, hiking, year-round skiing and the highest cable car in Europe.",
+  "metaDescription": "A Zermatt and Matterhorn travel guide: the Gornergrat railway, Riffelsee, Matterhorn Glacier Paradise, Five Lakes walk, Zermatt village, hiking, where to stay, how to get there and a two-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Geneva (GVA) or Zurich (ZRH), about 3.5 hours by train",
+  "knownFor": "The Matterhorn, Gornergrat, hiking, skiing",
+  "budget": "US$300–500 per day, mid-range",
+  "goodFor": "Mountain views, hiking, skiing, photographers",
+  "coords": { "lat": 46.0207, "lng": 7.7491 },
+  "image": {
+    "file": "File:Matterhorn reflection in the Riffelsee at sunrise.jpg",
+    "alt": "The Matterhorn reflected in the Riffelsee at sunrise"
+  },
+  "intro": [
+    "Zermatt is a village of about 6,000 people at 1,600 metres in the Mattertal valley in Valais, and it is the base for the Matterhorn, a pyramid of rock at 4,478 metres that is one of the best known mountains on earth. First climbed in 1865, in an ascent that ended in tragedy, it still draws climbers, and it is the shape on the Toblerone wrapper.",
+    "The village bans petrol cars, and electric taxis and carts move along the main street, which keeps the air clean and the mood calm. Around it are more than 35 lifts and trains, including the Gornergrat cog railway, which climbs to 3,089 metres for a panorama of the Monte Rosa massif and the Gorner Glacier, and the Matterhorn Glacier Paradise cable car, which reaches 3,883 metres, the highest in Europe.",
+    "Zermatt is expensive, but the setting is unbeatable. In summer there are walks such as the Five Lakes trail, where each lake mirrors the Matterhorn if the water is calm, and in winter there is skiing, which is possible on glaciers almost all year. It takes about three and a half hours from Zurich or Geneva, and is best with two nights."
+  ],
+  "whyVisit": {
+    "intro": "Zermatt gives the best view of Switzerland's icon and a car-free village to enjoy it in.",
+    "points": [
+      {
+        "title": "The Matterhorn",
+        "text": "Visible from the village streets."
+      },
+      {
+        "title": "Gornergrat railway",
+        "text": "A cog railway to a 3,089-metre balcony."
+      },
+      {
+        "title": "Hiking and lakes",
+        "text": "The Five Lakes walk and Riffelsee."
+      },
+      {
+        "title": "Car-free calm",
+        "text": "Electric taxis and clean air."
+      },
+      {
+        "title": "Year-round skiing",
+        "text": "Glacier slopes."
+      }
+    ]
+  },
+  "attractionsIntro": "The village is the base, and the lifts do the work.",
+  "attractions": [
+    {
+      "name": "Gornergrat",
+      "image": {
+        "file": "File:Gornergrat Railway with Matterhorn view.jpg",
+        "alt": "The Gornergrat railway with the Matterhorn in the distance"
+      },
+      "text": "A cog railway climbing to a 3,089-metre viewpoint with a panorama of 29 peaks over 4,000 metres and the Gorner Glacier.",
+      "tip": "Take an early train for clear skies."
+    },
+    {
+      "name": "Riffelsee",
+      "image": {
+        "file": "File:Reflections at Zermatt (14788316912).jpg",
+        "alt": "The Matterhorn's reflection in a still Alpine lake near Zermatt"
+      },
+      "text": "A small lake at 2,757 metres where the Matterhorn reflects on calm mornings, reached by a short walk from Riffelberg station.",
+      "tip": "Go at sunrise if the weather is calm."
+    },
+    {
+      "name": "Zermatt village",
+      "image": {
+        "file": "File:Matterhorn in winter with Zermatt village.jpg",
+        "alt": "Zermatt village in winter with the Matterhorn rising behind"
+      },
+      "text": "A village of wooden chalets, shops and restaurants, with the Matterhorn Museum and the Hinterdorf old quarter.",
+      "tip": "Look at the mountain at dusk."
+    },
+    {
+      "name": "Gornergrat panorama",
+      "image": {
+        "file": "File:Panorama vom Gornergrat-Zermatt.jpg",
+        "alt": "A wide panorama of glaciers and peaks from Gornergrat"
+      },
+      "text": "The view from the summit terrace, over glaciers, Monte Rosa and the Matterhorn.",
+      "tip": "Take warm clothes."
+    },
+    {
+      "name": "Matterhorn Glacier Paradise",
+      "text": "A cable car to 3,883 metres, with an ice palace and views into Italy.",
+      "tip": "Go early."
+    },
+    {
+      "name": "Matterhorn Museum",
+      "text": "An underground museum about the first ascent and the history of Zermatt.",
+      "tip": "Good for cloudy days."
+    }
+  ],
+  "thingsToDoIntro": "Zermatt is about views and walking.",
+  "thingsToDo": [
+    {
+      "title": "Ride the Gornergrat",
+      "text": "Take the cog railway to the top.",
+      "tip": "Buy a return ticket, or walk down."
+    },
+    {
+      "title": "Walk the Five Lakes trail",
+      "text": "A hike past five mountain lakes.",
+      "tip": "Start early."
+    },
+    {
+      "title": "Hike to Schwarzsee",
+      "text": "A lake and chapel at the foot of the Matterhorn.",
+      "tip": "Take the cable car up."
+    },
+    {
+      "title": "Ski on the glacier",
+      "text": "Year-round runs at high altitude.",
+      "tip": "Check the snow report."
+    },
+    {
+      "title": "Eat fondue in a hut",
+      "text": "Mountain huts serve cheese and rösti.",
+      "tip": "Book for sunset."
+    },
+    {
+      "title": "Visit the Gorner Gorge",
+      "text": "A short walk through a gorge.",
+      "tip": "Open in summer."
+    }
+  ],
+  "foodIntro": "Zermatt's food is Valais cheese, meat and wine.",
+  "foods": [
+    {
+      "name": "Raclette",
+      "text": "Cheese melted and scraped over potatoes.",
+      "whereToTry": "Village restaurants."
+    },
+    {
+      "name": "Cheese fondue",
+      "text": "A pot of melted cheese.",
+      "whereToTry": "Mountain huts."
+    },
+    {
+      "name": "Valais dried meat",
+      "text": "Air-dried beef and ham.",
+      "whereToTry": "Butchers and restaurants."
+    },
+    {
+      "name": "Valais wine",
+      "text": "Fendant and Pinot Noir.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Rye bread",
+      "text": "A dark, dense Valais loaf.",
+      "whereToTry": "Bakeries."
+    }
+  ],
+  "accommodation": {
+    "intro": "Zermatt is expensive, so book early or stay in the valley.",
+    "areas": [
+      {
+        "name": "Zermatt village",
+        "bestFor": "Convenience",
+        "text": "Hotels and chalets."
+      },
+      {
+        "name": "Mountain hotels",
+        "bestFor": "Views",
+        "text": "Riffelberg and Gornergrat."
+      },
+      {
+        "name": "Täsch and Randa",
+        "bestFor": "Saving money",
+        "text": "Cheaper, a short train ride away."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$55–100 per night" },
+      { "label": "Mid-range hotel", "value": "US$250–450 per night" },
+      { "label": "Luxury hotel", "value": "US$500–1,200 per night" },
+      { "label": "Gornergrat return ticket", "value": "US$100–150 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Zermatt is reached by train only.",
+    "options": [
+      {
+        "mode": "Train from Visp",
+        "text": "About 1 hour on the Matterhorn Gotthard Railway.",
+        "detail": "Reserve for scenic trains."
+      },
+      {
+        "mode": "From Zurich or Bern",
+        "text": "About 3.5 hours with a change in Visp.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Drive to Täsch",
+        "text": "Park at Täsch and take the shuttle train.",
+        "detail": "Cars cannot enter Zermatt."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The village is small and walkable.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Everything in the village.",
+        "detail": "Wear comfortable shoes."
+      },
+      {
+        "mode": "Electric taxi",
+        "text": "For luggage and hotels.",
+        "detail": "Book."
+      },
+      {
+        "mode": "Mountain lifts",
+        "text": "Cable cars and railways.",
+        "detail": "Buy a lift pass."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "July–September and December–April",
+    "summary": "Zermatt suits summer hikers and winter skiers.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "quiet",
+        "text": "Some lifts closed."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Hiking and clear views."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Clear skies and fewer crowds."
+      },
+      {
+        "season": "Winter (December–March)",
+        "rating": "good",
+        "text": "Skiing and snow."
+      }
+    ],
+    "avoid": "Cloudy days, since the Matterhorn may hide."
+  },
+  "itinerary": {
+    "title": "Two days in Zermatt",
+    "intro": "Gornergrat and lakes.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Gornergrat",
+        "summary": "The big view.",
+        "morning": "Cog railway to Gornergrat.",
+        "afternoon": "Walk down to Riffelsee.",
+        "evening": "Raclette in the village."
+      },
+      {
+        "day": 2,
+        "title": "Lakes and glacier",
+        "summary": "Five Lakes or Glacier Paradise.",
+        "morning": "Sunnegga and the Five Lakes trail.",
+        "afternoon": "Or the Glacier Paradise cable car.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you make the most of Zermatt.",
+  "tips": [
+    "Check the Matterhorn webcam.",
+    "Go early for clear views.",
+    "Bring layers and sun protection.",
+    "Book hotels early.",
+    "Consider staying in Täsch to save money.",
+    "Buy a lift pass for several days.",
+    "Take a picnic."
+  ],
+  "faq": [
+    {
+      "q": "Can I drive to Zermatt?",
+      "a": "No. Park in Täsch and take the train."
+    },
+    {
+      "q": "How high is the Matterhorn?",
+      "a": "4,478 metres."
+    },
+    {
+      "q": "How many days do you need?",
+      "a": "Two or three."
+    },
+    {
+      "q": "Is Zermatt expensive?",
+      "a": "Yes, among the priciest Swiss resorts."
+    },
+    {
+      "q": "When is the best view?",
+      "a": "Early morning, when the sky is clear."
+    },
+    {
+      "q": "Can I ski in summer?",
+      "a": "Yes on the high glacier."
+    }
+  ],
+  "related": ["interlaken-jungfrau", "lausanne-lavaux", "geneva"],
+  "relatedArticles": ["europe-by-train", "best-time-southern-europe"]
+}

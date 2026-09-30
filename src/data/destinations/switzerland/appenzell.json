@@ -1,0 +1,311 @@
+{
+  "slug": "appenzell",
+  "name": "Appenzell and the Säntis",
+  "shortName": "Appenzell",
+  "country": "switzerland",
+  "region": "Eastern Switzerland, Appenzell",
+  "categories": ["mountains", "cultural", "off-the-beaten-path", "scenic"],
+  "tagline": "Rolling green hills, painted wooden houses, a famous cheese and a cliff-hugging mountain inn, the quietest, most traditional corner of Switzerland.",
+  "highlight": "Berggasthaus Äscher, a mountain inn built into an overhanging cliff, with a view of the valley 500 metres below.",
+  "shortDescription": "A traditional region of gentle hills, with colourful Appenzell village, the Säntis peak, the cliffside Berggasthaus Äscher, Appenzeller cheese and folk customs, away from the crowds.",
+  "metaDescription": "An Appenzell and Säntis travel guide: Appenzell village, Berggasthaus Äscher, Ebenalp, Säntis cable car, Appenzeller cheese, hiking, where to stay, how to get there from Zurich and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Zurich (ZRH), about 2 hours by train",
+  "knownFor": "Painted houses, Appenzeller cheese, Säntis, Äscher inn",
+  "budget": "US$180–300 per day, mid-range",
+  "goodFor": "Hiking, folk culture, cheese lovers, quiet travel",
+  "coords": { "lat": 47.3306, "lng": 9.4090 },
+  "image": {
+    "file": "File:Berggasthaus Äscher 2023 (3).jpg",
+    "alt": "The Berggasthaus Äscher mountain inn built into a rock overhang"
+  },
+  "intro": [
+    "Appenzell, in the north-east of Switzerland, is a region of gentle green hills, farmhouses and villages, watched over by the limestone peaks of the Alpstein massif. It feels a world away from the glaciers of the Bernese Oberland. Here the drama is in the details, in painted wooden facades, in cows with ornate bells and in traditions like yodelling, alphorn playing and the annual Landsgemeinde, an open-air vote by show of hands that Appenzell Innerrhoden still holds.",
+    "The region's pride is its food. Appenzeller cheese, matured in an herbal brine whose recipe is a secret, is one of Switzerland's strongest. Local sausages, Biberli gingerbread and alpine milk products fill the shops, and mountain inns serve them beside the trails. Appenzell village itself, with its colourful houses on the main street, is a delight for strolling.",
+    "The highlights above the village are the Ebenalp, where a cable car and short walk reach the Berggasthaus Äscher, an inn tucked under a cliff overhang, which became famous online, and the Säntis, at 2,502 metres the highest peak of the Alpstein, with a cable car from Schwägalp and views over six countries on a clear day. It is about two hours from Zurich, making it a quiet alternative to the busier peaks."
+  ],
+  "whyVisit": {
+    "intro": "Appenzell offers a traditional, uncrowded Switzerland with a dramatic surprise or two.",
+    "points": [
+      {
+        "title": "A cliffside inn",
+        "text": "Berggasthaus Äscher."
+      },
+      {
+        "title": "Painted villages",
+        "text": "Appenzell's colourful houses."
+      },
+      {
+        "title": "Strong cheese",
+        "text": "Appenzeller, made with a secret brine."
+      },
+      {
+        "title": "The Säntis",
+        "text": "Views over six countries."
+      },
+      {
+        "title": "Few crowds",
+        "text": "A quiet corner of Switzerland."
+      }
+    ]
+  },
+  "attractionsIntro": "The village is the base, and the mountains are half-day trips.",
+  "attractions": [
+    {
+      "name": "Berggasthaus Äscher",
+      "image": {
+        "file": "File:Berggasthaus Äscher 2023 (4).jpg",
+        "alt": "The Äscher mountain inn built beneath a rock overhang in the Alpstein"
+      },
+      "text": "A mountain inn built into a cliff in the 19th century, reached by a walk from the Ebenalp cable car, with a terrace above a drop.",
+      "tip": "Go early, and expect queues in summer."
+    },
+    {
+      "name": "Säntis",
+      "image": {
+        "file": "File:Säntis Bergstation und Gipfel 20210812.jpg",
+        "alt": "The Säntis summit station on a rocky peak in the Alpstein"
+      },
+      "text": "The highest peak of the Alpstein, at 2,502 metres, reached by cable car from Schwägalp, with views of Lake Constance and the Alps.",
+      "tip": "Check the webcam."
+    },
+    {
+      "name": "Appenzell village",
+      "image": {
+        "file": "File:Dorf 30 Hundwil P1030909.jpg",
+        "alt": "Painted wooden houses lining a village street in Appenzell"
+      },
+      "text": "A village with painted facades, shops selling cheese and embroidery, and a small museum.",
+      "tip": "Visit on a weekday."
+    },
+    {
+      "name": "Ebenalp",
+      "text": "A cliff-top plateau with a cave church, the Wildkirchli, and hiking trails.",
+      "tip": "Take the cable car."
+    },
+    {
+      "name": "Seealpsee",
+      "text": "A small mountain lake reached by a walk from Wasserauen.",
+      "tip": "A good easy hike."
+    },
+    {
+      "name": "Appenzeller Show Dairy",
+      "text": "A dairy where you can learn about the cheese.",
+      "tip": "Book tastings."
+    }
+  ],
+  "thingsToDoIntro": "Appenzell is for walking and eating.",
+  "thingsToDo": [
+    {
+      "title": "Hike to the Äscher inn",
+      "text": "Walk from the Ebenalp cable car.",
+      "tip": "Bring sturdy shoes."
+    },
+    {
+      "title": "Ride up the Säntis",
+      "text": "Take the cable car from Schwägalp.",
+      "tip": "Go on a clear day."
+    },
+    {
+      "title": "Taste Appenzeller cheese",
+      "text": "Sample varying ages.",
+      "tip": "Visit the show dairy."
+    },
+    {
+      "title": "Walk to Seealpsee",
+      "text": "An easy trail.",
+      "tip": "Swim if warm."
+    },
+    {
+      "title": "Watch a folk event",
+      "text": "Cow parades in autumn.",
+      "tip": "Check dates in September."
+    },
+    {
+      "title": "Buy embroidery and Biberli",
+      "text": "Local crafts.",
+      "tip": "Shops in the village."
+    }
+  ],
+  "foodIntro": "Appenzell's food is dairy-led and rich.",
+  "foods": [
+    {
+      "name": "Appenzeller cheese",
+      "text": "A hard cheese washed in herb brine.",
+      "whereToTry": "Show dairy and shops."
+    },
+    {
+      "name": "Appenzeller Biberli",
+      "text": "Honey gingerbread with almond filling.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Siedwurst",
+      "text": "A local sausage.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Käsemakkaronen",
+      "text": "Cheese macaroni with apple sauce.",
+      "whereToTry": "Mountain inns."
+    },
+    {
+      "name": "Appenzeller Alpenbitter",
+      "text": "A herbal liqueur.",
+      "whereToTry": "Bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Appenzell or a mountain inn.",
+    "areas": [
+      {
+        "name": "Appenzell village",
+        "bestFor": "Convenience",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Wasserauen and Ebenalp",
+        "bestFor": "Hiking",
+        "text": "Inns."
+      },
+      {
+        "name": "Schwägalp",
+        "bestFor": "The Säntis",
+        "text": "A hotel at the base."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$80–140 per night" },
+      { "label": "Mid-range hotel", "value": "US$150–260 per night" },
+      { "label": "Mountain inn dorm", "value": "US$50–90 per night" },
+      { "label": "Säntis return ticket", "value": "US$50–70 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Appenzell has a narrow-gauge railway.",
+    "options": [
+      {
+        "mode": "Train from Zurich",
+        "text": "About 2 hours via St. Gallen.",
+        "detail": "Change at Gossau."
+      },
+      {
+        "mode": "Train from St. Gallen",
+        "text": "About 45 minutes.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bus to Schwägalp",
+        "text": "From Urnäsch.",
+        "detail": "Check the timetable."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Trains and buses serve the valleys.",
+    "options": [
+      {
+        "mode": "Appenzeller Bahnen",
+        "text": "Narrow-gauge trains.",
+        "detail": "Included in some passes."
+      },
+      {
+        "mode": "Buses",
+        "text": "To the mountains.",
+        "detail": "Check."
+      },
+      {
+        "mode": "On foot",
+        "text": "In the village and on trails.",
+        "detail": "Good shoes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June–October",
+    "summary": "Appenzell suits hikers from late spring to autumn.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "quiet",
+        "text": "Fresh green, with some trails closed."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Hiking."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Cow parades and golden light."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Snowy and calm."
+      }
+    ],
+    "avoid": "Wet, foggy days."
+  },
+  "itinerary": {
+    "title": "Two days in Appenzell",
+    "intro": "A cliffside inn and a summit.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Ebenalp",
+        "summary": "The inn.",
+        "morning": "Cable car to Ebenalp.",
+        "afternoon": "Walk to the Äscher inn.",
+        "evening": "Cheese dinner in Appenzell."
+      },
+      {
+        "day": 2,
+        "title": "Säntis",
+        "summary": "The summit.",
+        "morning": "Bus to Schwägalp.",
+        "afternoon": "Cable car to the Säntis.",
+        "evening": "Return."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Go early to the Äscher inn.",
+    "Check webcams.",
+    "Wear sturdy shoes.",
+    "Try the cheese.",
+    "Book accommodation in autumn.",
+    "Bring a jacket.",
+    "Visit on a weekday."
+  ],
+  "faq": [
+    {
+      "q": "Is the Äscher inn worth it?",
+      "a": "Yes, but it is popular, so go early."
+    },
+    {
+      "q": "How many days do you need?",
+      "a": "Two."
+    },
+    {
+      "q": "Is Appenzell crowded?",
+      "a": "Less than Interlaken, but the Äscher can be busy."
+    },
+    {
+      "q": "What is Appenzeller cheese?",
+      "a": "A hard cheese washed in herbal brine."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "Train from Zurich via St. Gallen."
+    },
+    {
+      "q": "When is the best time?",
+      "a": "June to October."
+    }
+  ],
+  "related": ["zurich", "st-moritz-engadin", "lucerne"],
+  "relatedArticles": ["underrated-destinations", "us-national-parks-road-trip"]
+}

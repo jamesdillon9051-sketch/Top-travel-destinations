@@ -1,0 +1,314 @@
+{
+  "slug": "zurich",
+  "name": "Zurich",
+  "country": "switzerland",
+  "region": "Zurich, northern Switzerland",
+  "categories": ["major-city", "historic", "cultural", "food-and-wine"],
+  "tagline": "Switzerland's biggest city, a lake-and-river old town of church spires, guild houses, chocolate shops and swimming spots, with the Alps on the horizon.",
+  "highlight": "The Limmat river with the twin towers of the Grossmünster and old-town rooftops from Lindenhof hill.",
+  "shortDescription": "A compact, clean city on Lake Zurich, with a medieval old town, Bahnhofstrasse shopping, museums, river swimming and easy day trips to the mountains.",
+  "metaDescription": "A Zurich travel guide: the old town and Grossmünster, Lindenhof, Lake Zurich, Bahnhofstrasse, Kunsthaus, food, where to stay, how to get around and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Zurich (ZRH), about 15 minutes by train",
+  "knownFor": "Old town, lake, banking, museums, chocolate",
+  "budget": "US$250–400 per day, mid-range",
+  "goodFor": "City breaks, arrival and departure, culture, shopping, day trips",
+  "coords": { "lat": 47.3769, "lng": 8.5417 },
+  "image": {
+    "file": "File:Zürich mit Altstadt, Limmat und Grossmünster.jpg",
+    "alt": "Zurich's old town, the Limmat river and the twin towers of the Grossmünster"
+  },
+  "intro": [
+    "Zurich is Switzerland's largest city and financial centre, home to about 440,000 people, and the country's main gateway, with an airport connected to the centre by a 10-minute train. It sits at the northern end of Lake Zurich, split by the Limmat river, and its old town of cobbled lanes, guild halls and church spires is compact enough to walk in an afternoon.",
+    "The city is cleaner, greener and more relaxed than its banking reputation suggests. In summer, locals swim in the lake and float down the river, and open-air bathhouses turn into evening bars. Museums include the Kunsthaus, one of Switzerland's best art museums, the Swiss National Museum and a lively design scene in Zurich West. Bahnhofstrasse is one of the world's most expensive shopping streets.",
+    "Zurich works best as a two-day stop at the start or end of a trip. It is also a good base for day trips, since Lucerne is 45 minutes away, and Rhine Falls, Winterthur and the mountains of central Switzerland are within an hour or two."
+  ],
+  "whyVisit": {
+    "intro": "Zurich is an easy, polished city that mixes history, water and culture.",
+    "points": [
+      {
+        "title": "A lively old town",
+        "text": "Medieval lanes, church towers and guild houses."
+      },
+      {
+        "title": "Lake and river",
+        "text": "Swimming spots in summer."
+      },
+      {
+        "title": "Museums and art",
+        "text": "The Kunsthaus and design in Zurich West."
+      },
+      {
+        "title": "Food",
+        "text": "Veal, chocolate and modern restaurants."
+      },
+      {
+        "title": "The gateway",
+        "text": "Trains to the whole country."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights cluster around the Limmat and the lake.",
+  "attractions": [
+    {
+      "name": "The Old Town and Grossmünster",
+      "image": {
+        "file": "File:Zürich mit Altstadt, Limmat und Grossmünster.jpg",
+        "alt": "The Grossmünster's twin towers above the Limmat river in Zurich"
+      },
+      "text": "A Romanesque church with twin towers, where the Reformation in Zurich began under Huldrych Zwingli, with a climbable tower and views over the old town.",
+      "tip": "Climb the tower in the morning."
+    },
+    {
+      "name": "Lindenhof",
+      "image": {
+        "file": "File:Lindenhof Hill, Zurich, 20250330 1227 7917.jpg",
+        "alt": "The Lindenhof hill square above the old town of Zurich"
+      },
+      "text": "A tree-shaded square on a hill above the Limmat, on the site of a Roman fort, with a chess board and views.",
+      "tip": "Good at sunset."
+    },
+    {
+      "name": "Lake Zurich and Bürkliplatz",
+      "image": {
+        "file": "File:Bürkliplatz and Quaibrücke seen from Lake Zurich, Zurich, Switzerland julesvernex2.jpg",
+        "alt": "Bürkliplatz and the Quaibrücke bridge seen from Lake Zurich"
+      },
+      "text": "The lakefront promenade, boats and swimming spots, with the Alps visible on clear days.",
+      "tip": "Take a lake boat."
+    },
+    {
+      "name": "Bahnhofstrasse",
+      "image": {
+        "file": "File:Zürich Bahnhofstrasse 04.jpg",
+        "alt": "Bahnhofstrasse, Zurich's famous shopping street, lined with trees"
+      },
+      "text": "A tree-lined shopping street from the station to the lake, with chocolate shops, watchmakers and banks.",
+      "tip": "Window shopping is free."
+    },
+    {
+      "name": "Fraumünster and Chagall windows",
+      "text": "A church with stained glass windows by Marc Chagall.",
+      "tip": "Check opening hours."
+    },
+    {
+      "name": "Kunsthaus Zürich",
+      "text": "One of Switzerland's leading art museums, with Impressionists and Giacometti.",
+      "tip": "Allow two hours."
+    }
+  ],
+  "thingsToDoIntro": "Zurich rewards a slow pace and a swim.",
+  "thingsToDo": [
+    {
+      "title": "Swim in the Limmat or the lake",
+      "text": "Public bathhouses and free swimming spots.",
+      "tip": "Go on hot days, from June."
+    },
+    {
+      "title": "Walk the old town",
+      "text": "Cobbled lanes and guild halls.",
+      "tip": "Start at Lindenhof."
+    },
+    {
+      "title": "Go up Uetliberg",
+      "text": "A local mountain with city views, reached by train.",
+      "tip": "Go on a clear day."
+    },
+    {
+      "title": "Shop for chocolate",
+      "text": "Sprüngli and other makers.",
+      "tip": "Try the Luxemburgerli."
+    },
+    {
+      "title": "Visit the Swiss National Museum",
+      "text": "History in a castle-like building.",
+      "tip": "Allow two hours."
+    },
+    {
+      "title": "Take a day trip to Rhine Falls",
+      "text": "Europe's largest waterfall by volume.",
+      "tip": "One hour away."
+    }
+  ],
+  "foodIntro": "Zurich's food is Swiss classics and modern international restaurants.",
+  "foods": [
+    {
+      "name": "Zürcher Geschnetzeltes",
+      "text": "Sliced veal in a creamy sauce with rösti.",
+      "whereToTry": "Traditional restaurants in the old town."
+    },
+    {
+      "name": "Chocolate and Luxemburgerli",
+      "text": "Delicate macaron-like sweets.",
+      "whereToTry": "Sprüngli on Paradeplatz."
+    },
+    {
+      "name": "Cheese fondue",
+      "text": "A shared pot of melted cheese.",
+      "whereToTry": "Old-town taverns."
+    },
+    {
+      "name": "Cervelat sausage",
+      "text": "A grilled sausage, Switzerland's national sausage.",
+      "whereToTry": "Street stalls and parks."
+    },
+    {
+      "name": "Coffee and pastries",
+      "text": "Swiss cafés and bakeries.",
+      "whereToTry": "Cafés near the lake."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the old town or near the station for easy walking.",
+    "areas": [
+      {
+        "name": "Old town (Altstadt)",
+        "bestFor": "Atmosphere",
+        "text": "Small hotels in historic buildings."
+      },
+      {
+        "name": "Near the main station",
+        "bestFor": "Transport",
+        "text": "Business hotels."
+      },
+      {
+        "name": "Zurich West",
+        "bestFor": "Design and nightlife",
+        "text": "Newer hotels and bars."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$50–80 per night" },
+      { "label": "Mid-range hotel", "value": "US$200–330 per night" },
+      { "label": "Luxury hotel", "value": "US$450–900 per night" },
+      { "label": "Restaurant meal", "value": "US$25–45 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Zurich has Switzerland's largest airport.",
+    "options": [
+      {
+        "mode": "Train from the airport",
+        "text": "About 10 to 15 minutes to Zurich HB, every few minutes.",
+        "detail": "The best option."
+      },
+      {
+        "mode": "Train from other cities",
+        "text": "Lucerne is 45 minutes, Bern about an hour and Basel under an hour.",
+        "detail": "Book with SBB."
+      },
+      {
+        "mode": "International trains",
+        "text": "Links to Munich, Milan, Paris and Vienna.",
+        "detail": "Book ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The city is compact and has trams.",
+    "options": [
+      {
+        "mode": "Trams and buses",
+        "text": "Frequent and reliable.",
+        "detail": "The ZürichCARD covers transport and museums."
+      },
+      {
+        "mode": "On foot",
+        "text": "The old town is walkable.",
+        "detail": "Wear comfortable shoes."
+      },
+      {
+        "mode": "Lake boats",
+        "text": "Ferries on Lake Zurich.",
+        "detail": "Included in some passes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "Zurich has warm summers and cold, grey winters.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "good",
+        "text": "Blossom and mild days."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Swimming and street festivals."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Clear days and colour."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Christmas markets, but grey and cold."
+      }
+    ],
+    "avoid": "Grey November and January."
+  },
+  "itinerary": {
+    "title": "Two days in Zurich",
+    "intro": "The old town and the lake.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town",
+        "summary": "Churches and lanes.",
+        "morning": "Grossmünster and Lindenhof.",
+        "afternoon": "Fraumünster and Bahnhofstrasse.",
+        "evening": "Dinner by the Limmat."
+      },
+      {
+        "day": 2,
+        "title": "Lake and art",
+        "summary": "Water and museums.",
+        "morning": "Kunsthaus.",
+        "afternoon": "Lake boat and a swim.",
+        "evening": "Zurich West."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make Zurich easier and cheaper.",
+  "tips": [
+    "Take the train from the airport.",
+    "Consider the ZürichCARD.",
+    "Drink from the public fountains.",
+    "Pack for swimming in summer.",
+    "Book restaurants on weekends.",
+    "Shops close on Sundays.",
+    "Buy picnic food at Coop or Migros."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Zurich?",
+      "a": "Two days. A third allows a day trip."
+    },
+    {
+      "q": "Is Zurich expensive?",
+      "a": "Yes, among the most expensive cities in the world."
+    },
+    {
+      "q": "Can I swim in the lake?",
+      "a": "Yes, at public baths and free spots in summer."
+    },
+    {
+      "q": "How far is Zurich from Lucerne?",
+      "a": "About 45 minutes by train."
+    },
+    {
+      "q": "Is it worth visiting?",
+      "a": "Yes, especially at the start or end of a trip."
+    },
+    {
+      "q": "What's the airport like?",
+      "a": "Efficient, with a fast train to the centre."
+    }
+  ],
+  "related": ["lucerne", "bern", "appenzell"],
+  "relatedArticles": ["first-trip-to-europe", "europe-by-train"]
+}

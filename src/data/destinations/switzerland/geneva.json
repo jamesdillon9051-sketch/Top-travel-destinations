@@ -1,0 +1,314 @@
+{
+  "slug": "geneva",
+  "name": "Geneva",
+  "country": "switzerland",
+  "region": "Geneva, south-west Switzerland",
+  "categories": ["major-city", "historic", "cultural"],
+  "tagline": "A cosmopolitan lakeside city of diplomacy, watchmaking and parks, with the world's tallest fountain jet and Mont Blanc on the skyline.",
+  "highlight": "The Jet d'Eau shooting 140 metres into the air, with the Alps and Mont Blanc behind on a clear day.",
+  "shortDescription": "A French-speaking lakeside city, with the Jet d'Eau, the old town and St. Peter's Cathedral, the Reformation Wall, UN and Red Cross sites, watches and chocolate.",
+  "metaDescription": "A Geneva travel guide: the Jet d'Eau, the old town and St. Peter's Cathedral, the Reformation Wall, Palais des Nations, Red Cross Museum, lake promenade, fondue, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Geneva (GVA), about 10 minutes by train",
+  "knownFor": "International diplomacy, Jet d'Eau, watches, lake",
+  "budget": "US$250–400 per day, mid-range",
+  "goodFor": "City breaks, history, museums, lake walks, day trips to Mont Blanc",
+  "coords": { "lat": 46.2044, "lng": 6.1432 },
+  "image": {
+    "file": "File:Jet d'eau, Geneva.jpg",
+    "alt": "The Jet d'Eau fountain rising from Lake Geneva"
+  },
+  "intro": [
+    "Geneva sits at the south-western tip of Lake Geneva, where the Rhône flows out toward France, and it is surrounded by French territory on three sides. It is the second-largest city in Switzerland, home to about 200,000 people, and one of the most international, with the European headquarters of the United Nations, the Red Cross, the World Health Organization and dozens of other organisations.",
+    "The city's landmark is the Jet d'Eau, a fountain in the harbour that shoots water about 140 metres into the air, visible from across the city. On the left bank, the old town climbs a hill to St. Peter's Cathedral, where John Calvin preached, and the Reformation Wall in Parc des Bastions celebrates the leaders of the Protestant movement. Along the lakeshore, promenades, parks and swimming spots run for kilometres, and on clear days Mont Blanc floats on the horizon.",
+    "Geneva is also a city of museums, watches and chocolate, and a base for exploring Lake Geneva, the Jura and Chamonix, an hour away in France. It is expensive, but rewarding, and two days is enough for the main sights."
+  ],
+  "whyVisit": {
+    "intro": "Geneva is a polished, international city on one of Europe's great lakes.",
+    "points": [
+      {
+        "title": "The Jet d'Eau",
+        "text": "One of the world's tallest fountains."
+      },
+      {
+        "title": "Lake and Alps views",
+        "text": "Mont Blanc on clear days."
+      },
+      {
+        "title": "Reformation history",
+        "text": "Calvin's city."
+      },
+      {
+        "title": "International sites",
+        "text": "The UN and the Red Cross."
+      },
+      {
+        "title": "Gateway",
+        "text": "To the lake, Chamonix and the Alps."
+      }
+    ]
+  },
+  "attractionsIntro": "The sights are compact, on both sides of the lake and river.",
+  "attractions": [
+    {
+      "name": "Jet d'Eau",
+      "image": {
+        "file": "File:Jet d'eau, Geneva.jpg",
+        "alt": "The Jet d'Eau in Geneva harbour"
+      },
+      "text": "A fountain that shoots 500 litres of water per second to a height of about 140 metres, installed in 1891 and now the city's symbol.",
+      "tip": "Walk out along the pier to feel the spray."
+    },
+    {
+      "name": "Lake Geneva promenade",
+      "image": {
+        "file": "File:Lake Geneva @ Promenade @ Quai du Mont Blanc @ Geneva (42465168860).jpg",
+        "alt": "The Quai du Mont Blanc promenade on the shore of Lake Geneva"
+      },
+      "text": "A lakeside walk from the Jet d'Eau to the Bains des Pâquis, with views to the Alps and swimming platforms.",
+      "tip": "Swim at the Bains des Pâquis in summer."
+    },
+    {
+      "name": "St. Peter's Cathedral",
+      "image": {
+        "file": "File:Cathedral Geneva.jpg",
+        "alt": "St. Peter's Cathedral rising above the old town of Geneva"
+      },
+      "text": "The Protestant cathedral where John Calvin preached, with a tower climb for views and an archaeological site beneath.",
+      "tip": "Climb the tower."
+    },
+    {
+      "name": "Reformation Wall",
+      "image": {
+        "file": "File:Reformation Wall Geneva Flip (186260559).jpeg",
+        "alt": "The Reformation Wall with large statues of Calvin, Farel, Beza and Knox"
+      },
+      "text": "A 100-metre wall in Parc des Bastions with large statues of Calvin, Farel, Beza and Knox, and other reformers.",
+      "tip": "Next to a giant chess set."
+    },
+    {
+      "name": "Palais des Nations",
+      "text": "The UN's European headquarters, open for guided tours.",
+      "tip": "Book and bring your passport."
+    },
+    {
+      "name": "International Red Cross and Red Crescent Museum",
+      "text": "A museum about humanitarian action and the movement founded in Geneva.",
+      "tip": "Allow two hours."
+    }
+  ],
+  "thingsToDoIntro": "Geneva mixes lake time and museums.",
+  "thingsToDo": [
+    {
+      "title": "Swim at Bains des Pâquis",
+      "text": "A popular public bathing spot, with a sauna and fondue in winter.",
+      "tip": "Go in summer."
+    },
+    {
+      "title": "Take a lake cruise",
+      "text": "Boats run to Lausanne and Montreux.",
+      "tip": "Included in the Swiss Travel Pass."
+    },
+    {
+      "title": "Wander the old town",
+      "text": "Lanes, squares and antique shops.",
+      "tip": "Start at Place du Bourg-de-Four."
+    },
+    {
+      "title": "See watches",
+      "text": "The Patek Philippe Museum.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Take a day trip to Chamonix",
+      "text": "Visit Mont Blanc, an hour away in France.",
+      "tip": "Bring your passport."
+    },
+    {
+      "title": "Visit the CERN",
+      "text": "The particle physics laboratory near the city.",
+      "tip": "Book tours in advance."
+    }
+  ],
+  "foodIntro": "Geneva's food mixes French and Swiss traditions.",
+  "foods": [
+    {
+      "name": "Cheese fondue",
+      "text": "Melted cheese with bread.",
+      "whereToTry": "Old town restaurants."
+    },
+    {
+      "name": "Longeole sausage",
+      "text": "A local pork sausage.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Perch fillets",
+      "text": "Fried perch from the lake.",
+      "whereToTry": "Lakeside restaurants."
+    },
+    {
+      "name": "Cardoon gratin",
+      "text": "A Geneva winter dish.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Chocolate",
+      "text": "Fine chocolate shops.",
+      "whereToTry": "The old town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay near the lake or the station.",
+    "areas": [
+      {
+        "name": "Old town",
+        "bestFor": "Atmosphere",
+        "text": "Small hotels."
+      },
+      {
+        "name": "Pâquis",
+        "bestFor": "Lake access and budget",
+        "text": "Hotels near the station."
+      },
+      {
+        "name": "Lakefront",
+        "bestFor": "Luxury",
+        "text": "Grand hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$50–85 per night" },
+      { "label": "Mid-range hotel", "value": "US$200–330 per night" },
+      { "label": "Luxury hotel", "value": "US$450–1,000 per night" },
+      { "label": "Restaurant meal", "value": "US$28–50 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Geneva has an international airport and rail links.",
+    "options": [
+      {
+        "mode": "Train from the airport",
+        "text": "About 7 to 10 minutes to Cornavin station.",
+        "detail": "Free public transport ticket at the airport."
+      },
+      {
+        "mode": "Train from Lausanne",
+        "text": "About 35 to 45 minutes.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train from Zurich or Bern",
+        "text": "Under three hours from Zurich and about 1.5 hours from Bern.",
+        "detail": "Book with SBB."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Trams, buses and boats cover the city.",
+    "options": [
+      {
+        "mode": "Trams and buses",
+        "text": "Frequent.",
+        "detail": "Hotel guests often get a free pass."
+      },
+      {
+        "mode": "Yellow taxi boats",
+        "text": "Mouettes cross the harbour.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "On foot",
+        "text": "Lakefront and old town.",
+        "detail": "Wear comfortable shoes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "Geneva has warm summers and cool, grey winters.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "good",
+        "text": "Blossom and mild weather."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Swimming and long evenings."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Clear days."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Grey, with Christmas markets."
+      }
+    ],
+    "avoid": "Foggy winter days."
+  },
+  "itinerary": {
+    "title": "Two days in Geneva",
+    "intro": "The old town and the lake.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town",
+        "summary": "History.",
+        "morning": "St. Peter's Cathedral and the old town.",
+        "afternoon": "The Reformation Wall and Parc des Bastions.",
+        "evening": "Fondue."
+      },
+      {
+        "day": 2,
+        "title": "The lake",
+        "summary": "Water and diplomacy.",
+        "morning": "Palais des Nations or the Red Cross Museum.",
+        "afternoon": "Lake promenade and the Jet d'Eau.",
+        "evening": "Swim or dinner at Pâquis."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you enjoy Geneva.",
+  "tips": [
+    "Use the free transport ticket at the airport.",
+    "Ask your hotel for a transport pass.",
+    "Book UN tours ahead with your passport.",
+    "Swim in summer at the Bains des Pâquis.",
+    "Try fondue in winter.",
+    "Watch for the Jet d'Eau's schedule.",
+    "Bring a jacket for the wind."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Geneva?",
+      "a": "Two days."
+    },
+    {
+      "q": "Is Geneva expensive?",
+      "a": "Yes, one of the most expensive cities."
+    },
+    {
+      "q": "Is the Jet d'Eau always on?",
+      "a": "Usually, but it can stop in strong wind or frost."
+    },
+    {
+      "q": "What language is spoken?",
+      "a": "French."
+    },
+    {
+      "q": "Can I see Mont Blanc?",
+      "a": "On clear days, yes."
+    },
+    {
+      "q": "Is Geneva good for a day trip to Chamonix?",
+      "a": "Yes, about an hour by road or bus."
+    }
+  ],
+  "related": ["lausanne-lavaux", "bern", "zermatt-matterhorn"],
+  "relatedArticles": ["first-trip-to-europe", "europe-by-train"]
+}

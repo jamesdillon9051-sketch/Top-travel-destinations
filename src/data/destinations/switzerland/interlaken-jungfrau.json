@@ -1,0 +1,336 @@
+{
+  "slug": "interlaken-jungfrau",
+  "name": "Interlaken and the Jungfrau Region",
+  "shortName": "Jungfrau Region",
+  "country": "switzerland",
+  "region": "Bernese Oberland, central Switzerland",
+  "categories": ["mountains", "scenic", "nature", "unesco"],
+  "tagline": "The Eiger, Mönch and Jungfrau above waterfall valleys, car-free villages, glacier railways and lakes, the most concentrated mountain scenery in Europe.",
+  "highlight": "The train to Jungfraujoch, climbing through the Eiger itself to the highest railway station in Europe.",
+  "shortDescription": "The Bernese Oberland's base for Lauterbrunnen's waterfalls, Grindelwald and the Eiger, the Jungfraujoch railway, Lake Brienz and Thun, with hiking, paragliding and cog railways.",
+  "metaDescription": "An Interlaken and Jungfrau region travel guide: Jungfraujoch, Lauterbrunnen and Trümmelbach Falls, Grindelwald and the Eiger, Harder Kulm, Lake Brienz, hiking, where to stay and a three-day plan.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Bern (BRN) or Zurich (ZRH), about 2 hours by train",
+  "knownFor": "Jungfraujoch, Lauterbrunnen Valley, Eiger, waterfalls",
+  "budget": "US$250–400 per day, mid-range",
+  "goodFor": "Hiking, mountain railways, waterfalls, adventure sports",
+  "coords": { "lat": 46.6863, "lng": 7.8632 },
+  "image": {
+    "file": "File:Eiger seen from Grindelwald village 2022-10-02 01.jpg",
+    "alt": "The Eiger rising above the village of Grindelwald"
+  },
+  "intro": [
+    "The Bernese Oberland is Switzerland's most dramatic mountain region, a cluster of 4,000-metre peaks above green valleys, glaciers and two large lakes. Interlaken, a small town between Lake Thun and Lake Brienz, is the gateway, and from it, mountain railways climb to Grindelwald and Lauterbrunnen, and on to the Jungfrau massif. The area, together with the Aletsch Glacier, is a UNESCO World Heritage Site.",
+    "The highlight is the Jungfraujoch, a saddle at 3,454 metres, reached by a cog railway that travels through a tunnel inside the Eiger and Mönch. The station is called the Top of Europe, and at the top are an ice palace, the Sphinx observatory and views over the Aletsch Glacier. Below, the Lauterbrunnen Valley has 72 waterfalls falling from its cliffs, including the Staubbach and the vast Trümmelbach, and car-free villages such as Wengen and Mürren cling to the walls above.",
+    "It is also an adventure hub, with paragliding, canyoning, skydiving and hiking, and softer options like lake boats, chocolate factories and Harder Kulm's viewing platform. Interlaken itself is a touristy base, and many visitors prefer to stay in Lauterbrunnen or Grindelwald. Three or four days is a good stay, with time for the Jungfraujoch on the clearest morning."
+  ],
+  "whyVisit": {
+    "intro": "The Jungfrau region is the greatest concentration of Alpine scenery in Switzerland.",
+    "points": [
+      {
+        "title": "The Top of Europe",
+        "text": "Jungfraujoch, at 3,454 metres."
+      },
+      {
+        "title": "A valley of waterfalls",
+        "text": "Lauterbrunnen's cliffs and falls."
+      },
+      {
+        "title": "The Eiger",
+        "text": "Its north face above Grindelwald."
+      },
+      {
+        "title": "Two lakes",
+        "text": "Thun and Brienz, in turquoise."
+      },
+      {
+        "title": "Hiking and adventure",
+        "text": "Trails, paragliding and canyoning."
+      }
+    ]
+  },
+  "attractionsIntro": "The sights are spread along valleys, so base yourself in the region and use trains.",
+  "attractions": [
+    {
+      "name": "Jungfraujoch",
+      "image": {
+        "file": "File:Sphinx at Jungfraujoch 2022-10-02 06.jpg",
+        "alt": "The Sphinx observatory at Jungfraujoch high in the Alps"
+      },
+      "text": "The highest railway station in Europe, with an ice palace, the Sphinx viewing terrace and views of the Aletsch Glacier. The trip takes about 2.5 hours from Interlaken.",
+      "tip": "Go on a clear morning, and bring warm clothes."
+    },
+    {
+      "name": "Lauterbrunnen Valley",
+      "image": {
+        "file": "File:1 lauterbrunnen valley 2012.jpg",
+        "alt": "The Lauterbrunnen Valley with its sheer cliffs and green meadows"
+      },
+      "text": "A U-shaped glacial valley with sheer walls and dozens of waterfalls, including the 300-metre Staubbach Falls.",
+      "tip": "Walk the flat valley floor."
+    },
+    {
+      "name": "Trümmelbach Falls",
+      "image": {
+        "file": "File:Trümmelbachfälle im Lauterbrunnental.jpg",
+        "alt": "The Trümmelbach Falls rushing through a rock gorge"
+      },
+      "text": "Ten glacier-fed waterfalls inside the mountain, reached by a tunnel lift and walkways.",
+      "tip": "Open in summer only."
+    },
+    {
+      "name": "Grindelwald and the Eiger",
+      "image": {
+        "file": "File:Eiger North face from Grindelwald 2016-09-02 n1.jpg",
+        "alt": "The north face of the Eiger seen from Grindelwald"
+      },
+      "text": "A village beneath the Eiger's north face, with cable cars to First and the Bachalpsee lake.",
+      "tip": "Hike from First to Bachalpsee."
+    },
+    {
+      "name": "Harder Kulm",
+      "image": {
+        "file": "File:Harderbahn (Interlaken to Harder Kulm Train). (AnkKumar) 04.jpg",
+        "alt": "The funicular railway climbing to Harder Kulm above Interlaken"
+      },
+      "text": "A viewpoint above Interlaken reached by funicular, with a platform over the two lakes.",
+      "tip": "Good for an evening."
+    },
+    {
+      "name": "Lake Brienz and Iseltwald",
+      "image": {
+        "file": "File:Iseltwald sidharthmittal13.jpg",
+        "alt": "The village of Iseltwald on the turquoise Lake Brienz"
+      },
+      "text": "A turquoise lake with a peaceful village on a peninsula.",
+      "tip": "Take a boat."
+    }
+  ],
+  "thingsToDoIntro": "The region is for mountain trains, walks and adventure.",
+  "thingsToDo": [
+    {
+      "title": "Ride to Jungfraujoch",
+      "text": "The Jungfrau railway climbs through the Eiger.",
+      "tip": "Book early, and watch the weather."
+    },
+    {
+      "title": "Hike from First to Bachalpsee",
+      "text": "An easy walk to a mountain lake with Eiger views.",
+      "tip": "Start early."
+    },
+    {
+      "title": "Walk the Lauterbrunnen Valley",
+      "text": "Flat paths between waterfalls.",
+      "tip": "A half day."
+    },
+    {
+      "title": "Paraglide over Interlaken",
+      "text": "Tandem flights from Beatenberg.",
+      "tip": "Book with a licensed operator."
+    },
+    {
+      "title": "Take the Schynige Platte railway",
+      "text": "A historic cog railway to an alpine garden.",
+      "tip": "Open in summer."
+    },
+    {
+      "title": "Cruise Lake Brienz",
+      "text": "A boat to Giessbach Falls.",
+      "tip": "Included in some passes."
+    }
+  ],
+  "foodIntro": "The Oberland's food is hearty and Alpine.",
+  "foods": [
+    {
+      "name": "Rösti",
+      "text": "Fried grated potato, often with cheese and egg.",
+      "whereToTry": "Mountain restaurants."
+    },
+    {
+      "name": "Berner Platte",
+      "text": "A heap of meats, sauerkraut and beans.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Meringue with cream",
+      "text": "A sweet from Meiringen.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Cheese fondue",
+      "text": "A shared pot.",
+      "whereToTry": "Chalet restaurants."
+    },
+    {
+      "name": "Alpine cheese",
+      "text": "Cheese from local huts.",
+      "whereToTry": "Dairies on trails."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose a base by the trip you want.",
+    "areas": [
+      {
+        "name": "Interlaken",
+        "bestFor": "Transport and adventure sports",
+        "text": "Hotels and hostels."
+      },
+      {
+        "name": "Lauterbrunnen and Wengen",
+        "bestFor": "Waterfalls and views",
+        "text": "Chalets and guesthouses."
+      },
+      {
+        "name": "Grindelwald",
+        "bestFor": "Hiking and the Eiger",
+        "text": "Hotels and apartments."
+      },
+      {
+        "name": "Mürren",
+        "bestFor": "Quiet",
+        "text": "A car-free village on a cliff."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$50–90 per night" },
+      { "label": "Mid-range hotel", "value": "US$200–350 per night" },
+      { "label": "Luxury hotel", "value": "US$450–900 per night" },
+      { "label": "Jungfraujoch return ticket", "value": "US$200–260 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Interlaken is a rail hub.",
+    "options": [
+      {
+        "mode": "Train from Bern",
+        "text": "About 55 minutes.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train from Zurich",
+        "text": "About two hours, with a change at Bern.",
+        "detail": "Book with SBB."
+      },
+      {
+        "mode": "From Lucerne",
+        "text": "About two hours on the scenic Luzern-Interlaken Express.",
+        "detail": "Reserve a seat."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Trains and cable cars cover the valleys.",
+    "options": [
+      {
+        "mode": "Regional trains",
+        "text": "Interlaken to Lauterbrunnen and Grindelwald.",
+        "detail": "Included in the Swiss Travel Pass."
+      },
+      {
+        "mode": "Mountain railways",
+        "text": "Discounts apply with passes.",
+        "detail": "Check the prices."
+      },
+      {
+        "mode": "PostBus",
+        "text": "To smaller villages.",
+        "detail": "Check the timetable."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June–September",
+    "summary": "Summer has open trails, and winter has skiing.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "quiet",
+        "text": "Waterfalls at full strength, but many lifts closed."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Hiking and long days."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Clear air and gold."
+      },
+      {
+        "season": "Winter (December–March)",
+        "rating": "good",
+        "text": "Skiing, with snow-covered villages."
+      }
+    ],
+    "avoid": "Cloudy days for Jungfraujoch."
+  },
+  "itinerary": {
+    "title": "Three days in the Jungfrau region",
+    "intro": "The summit, the valley and the lake.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Top of Europe",
+        "summary": "Jungfraujoch.",
+        "morning": "Train to Jungfraujoch.",
+        "afternoon": "Ice Palace and Sphinx.",
+        "evening": "Dinner in Grindelwald."
+      },
+      {
+        "day": 2,
+        "title": "Waterfalls",
+        "summary": "Lauterbrunnen.",
+        "morning": "Trümmelbach Falls.",
+        "afternoon": "Walk the valley.",
+        "evening": "Wengen."
+      },
+      {
+        "day": 3,
+        "title": "Lakes and viewpoints",
+        "summary": "Water and views.",
+        "morning": "First to Bachalpsee hike.",
+        "afternoon": "Harder Kulm.",
+        "evening": "Lake Brienz cruise."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan the mountains.",
+  "tips": [
+    "Check the Jungfraujoch webcam before buying tickets.",
+    "Start early, before clouds build.",
+    "Book a base in Lauterbrunnen or Grindelwald.",
+    "Bring warm clothes for Jungfraujoch.",
+    "Use a Swiss Travel Pass for discounts.",
+    "Respect cows and close gates.",
+    "Book adventure sports with licensed operators."
+  ],
+  "faq": [
+    {
+      "q": "Is Jungfraujoch worth the price?",
+      "a": "On a clear day, yes. On a cloudy day, no, so check the weather."
+    },
+    {
+      "q": "Where should I stay?",
+      "a": "Lauterbrunnen or Grindelwald for scenery, and Interlaken for convenience."
+    },
+    {
+      "q": "How many days do you need?",
+      "a": "Three or four."
+    },
+    {
+      "q": "When is the best time?",
+      "a": "June to September for hiking."
+    },
+    {
+      "q": "Is it accessible without a car?",
+      "a": "Yes, trains and lifts serve everything."
+    },
+    {
+      "q": "Is it a UNESCO site?",
+      "a": "Yes, the Swiss Alps Jungfrau-Aletsch area is a World Heritage Site."
+    }
+  ],
+  "related": ["lucerne", "bern", "zermatt-matterhorn"],
+  "relatedArticles": ["europe-by-train", "us-national-parks-road-trip"]
+}

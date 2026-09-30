@@ -1,0 +1,315 @@
+{
+  "slug": "lausanne-lavaux",
+  "name": "Lausanne, Lavaux and Montreux",
+  "shortName": "Lausanne and Lavaux",
+  "country": "switzerland",
+  "region": "Vaud, Lake Geneva",
+  "categories": ["scenic", "unesco", "food-and-wine", "historic"],
+  "tagline": "Terraced vineyards tumbling to Lake Geneva, a hilltop Gothic cathedral, a lakeside fairy-tale castle and the Riviera of Montreux.",
+  "highlight": "Walking the Lavaux terraces with a glass of chasselas, the lake shining below and the Alps across the water.",
+  "shortDescription": "A UNESCO-listed stretch of vineyard terraces on Lake Geneva, with hillside Lausanne, its cathedral and Ouchy waterfront, the Château de Chillon at Montreux and lake steamers.",
+  "metaDescription": "A Lausanne and Lavaux travel guide: UNESCO vineyard terraces, wine tasting, Lausanne Cathedral, Ouchy, Château de Chillon at Montreux, St-Saphorin, lake boats, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Geneva (GVA), about 40 minutes by train",
+  "knownFor": "Lavaux vineyards, Chillon Castle, Lausanne Cathedral, lake views",
+  "budget": "US$230–380 per day, mid-range",
+  "goodFor": "Wine, walking, lake cruises, castles, slow travel",
+  "coords": { "lat": 46.4997, "lng": 6.7300 },
+  "image": {
+    "file": "File:Lavaux Switzerland.jpg",
+    "alt": "The terraced vineyards of Lavaux above Lake Geneva"
+  },
+  "intro": [
+    "The northern shore of Lake Geneva, in the canton of Vaud, is Switzerland's sunny south-facing riviera. Between Lausanne and Montreux, steep terraces of vines, built by monks in the 12th century, tumble to the water. This landscape, Lavaux, about 30 km long, is a UNESCO World Heritage Site, and its villages, such as Saint-Saphorin and Cully, produce fine white wines from the chasselas grape.",
+    "Lausanne, the region's main city, is built on three hills above the lake. Its Gothic cathedral is one of the finest in Switzerland, the old town is steep and cobbled, and the waterfront district of Ouchy has promenades, parks and paddle steamers. Lausanne is also the Olympic capital, home to the International Olympic Committee and a strong Olympic museum. At the other end of the shore, Montreux, known for its jazz festival and Freddie Mercury statue, has a palm-lined lakeside promenade and, just beyond, the Château de Chillon, a medieval castle on a rock in the water.",
+    "The best way to see it is on foot and by train, using the regional trains that run along the lakeshore, and the boats that link the towns. A day can be spent walking between vineyards, tasting wine at family cellars and sipping a glass with lake views. Two days lets you add Lausanne and Chillon."
+  ],
+  "whyVisit": {
+    "intro": "This is Switzerland's wine country, with lake views instead of mountains at every turn.",
+    "points": [
+      {
+        "title": "UNESCO vineyard terraces",
+        "text": "Walking paths through the vines."
+      },
+      {
+        "title": "A fairy-tale castle",
+        "text": "Château de Chillon on the water."
+      },
+      {
+        "title": "A hilltop Gothic cathedral",
+        "text": "In Lausanne."
+      },
+      {
+        "title": "Lake boats",
+        "text": "Steamers linking the shore."
+      },
+      {
+        "title": "Wine",
+        "text": "Chasselas and small cellars."
+      }
+    ]
+  },
+  "attractionsIntro": "The sights are along the lakeshore, linked by train and boat.",
+  "attractions": [
+    {
+      "name": "Lavaux vineyard terraces",
+      "image": {
+        "file": "File:View on St-Saphorin at Lac Geneva.jpg",
+        "alt": "The village of Saint-Saphorin among Lavaux vineyards, above Lake Geneva"
+      },
+      "text": "A 30-km stretch of terraces, with walking paths between Lausanne and Vevey and wine cellars in stone villages.",
+      "tip": "Walk from Lutry or Cully to St-Saphorin."
+    },
+    {
+      "name": "Château de Chillon",
+      "image": {
+        "file": "File:Château de Chillon - Veytaux 11.jpg",
+        "alt": "Château de Chillon on a rock at the edge of Lake Geneva"
+      },
+      "text": "A medieval island castle on Lake Geneva, once home to the Counts of Savoy, and the subject of Lord Byron's poem The Prisoner of Chillon.",
+      "tip": "Go early to avoid tour buses."
+    },
+    {
+      "name": "Lausanne Cathedral",
+      "image": {
+        "file": "File:Lausanne-Cathedral-2022-04-23.jpg",
+        "alt": "Lausanne Cathedral rising above the old town"
+      },
+      "text": "A Gothic cathedral consecrated in 1275, with a tower whose night watchman still calls out the hours.",
+      "tip": "Climb the tower for views."
+    },
+    {
+      "name": "Ouchy",
+      "image": {
+        "file": "File:CGN Ville-de-Genève and SS Montreux in Lausanne-Ouchy (2015).jpg",
+        "alt": "Paddle steamers at the Ouchy harbour in Lausanne"
+      },
+      "text": "Lausanne's waterfront, with paddle steamers, promenades, cafés and the Olympic Museum.",
+      "tip": "Take the metro down from the centre."
+    },
+    {
+      "name": "Montreux promenade",
+      "text": "A lakeside path lined with palms and flowers, with a statue of Freddie Mercury.",
+      "tip": "Walk to Chillon along the lake."
+    },
+    {
+      "name": "Olympic Museum",
+      "text": "A museum on the history of the Games, with a park.",
+      "tip": "Allow two hours."
+    }
+  ],
+  "thingsToDoIntro": "Wine, walks and boats fill the days.",
+  "thingsToDo": [
+    {
+      "title": "Walk through the vines",
+      "text": "Follow the marked paths between villages.",
+      "tip": "Start in the morning."
+    },
+    {
+      "title": "Taste chasselas",
+      "text": "Visit family cellars.",
+      "tip": "Book tastings ahead."
+    },
+    {
+      "title": "Cruise the lake",
+      "text": "Use historic paddle steamers.",
+      "tip": "Included in the Swiss Travel Pass."
+    },
+    {
+      "title": "Ride the Lavaux Express",
+      "text": "A small tourist train through the vineyards.",
+      "tip": "Check seasons."
+    },
+    {
+      "title": "Take the GoldenPass to Montreux",
+      "text": "A scenic railway from the mountains.",
+      "tip": "Book seats."
+    },
+    {
+      "title": "Attend Montreux Jazz",
+      "text": "A famous summer festival.",
+      "tip": "Book far ahead."
+    }
+  ],
+  "foodIntro": "Vaud food is French-Swiss, and goes with white wine.",
+  "foods": [
+    {
+      "name": "Chasselas wine",
+      "text": "A light white wine from Lavaux.",
+      "whereToTry": "Cellars in Cully and St-Saphorin."
+    },
+    {
+      "name": "Papet vaudois",
+      "text": "Leeks and potatoes with sausage.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Perch fillets",
+      "text": "Fried lake perch.",
+      "whereToTry": "Lakeside restaurants."
+    },
+    {
+      "name": "Saucisson vaudois",
+      "text": "A smoked pork sausage.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Cheese and Gruyère",
+      "text": "Nearby cheeses.",
+      "whereToTry": "Markets."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Lausanne for the city or in Vevey or Montreux for the lake.",
+    "areas": [
+      {
+        "name": "Lausanne",
+        "bestFor": "City life and transport",
+        "text": "Hotels and hostels."
+      },
+      {
+        "name": "Vevey and Montreux",
+        "bestFor": "Lake views",
+        "text": "Belle Époque hotels."
+      },
+      {
+        "name": "Lavaux villages",
+        "bestFor": "Quiet",
+        "text": "Small inns."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$45–75 per night" },
+      { "label": "Mid-range hotel", "value": "US$180–300 per night" },
+      { "label": "Luxury hotel", "value": "US$400–900 per night" },
+      { "label": "Wine tasting", "value": "US$10–30 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The lakeshore is on the main rail line.",
+    "options": [
+      {
+        "mode": "Train from Geneva",
+        "text": "About 35 to 45 minutes to Lausanne.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "GoldenPass from Interlaken",
+        "text": "A scenic route via Montreux.",
+        "detail": "Book seats."
+      },
+      {
+        "mode": "Train from Bern",
+        "text": "About 1 hour 10 minutes.",
+        "detail": "Frequent."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Trains, boats and feet.",
+    "options": [
+      {
+        "mode": "Regional trains",
+        "text": "Stop at each vineyard village.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Lake boats",
+        "text": "Link Lausanne, Vevey and Montreux.",
+        "detail": "Included in some passes."
+      },
+      {
+        "mode": "On foot",
+        "text": "Vineyard paths.",
+        "detail": "Wear good shoes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–October",
+    "summary": "The lakeshore has a mild climate, with warm summers and grape harvests in autumn.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "good",
+        "text": "Vines bud, and blossom."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Warm, though vineyard walks can be hot."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Grape harvest and golden vines."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Quiet, with Christmas markets in Montreux."
+      }
+    ],
+    "avoid": "Midday heat on the terraces in July and August."
+  },
+  "itinerary": {
+    "title": "Two days on Lake Geneva",
+    "intro": "Vineyards on the first day, and the cathedral and castle on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Lavaux",
+        "summary": "Wine walk.",
+        "morning": "Walk from Cully to St-Saphorin.",
+        "afternoon": "Wine tasting.",
+        "evening": "Dinner in Vevey."
+      },
+      {
+        "day": 2,
+        "title": "Lausanne and Chillon",
+        "summary": "City and castle.",
+        "morning": "Château de Chillon.",
+        "afternoon": "Lausanne Cathedral and Ouchy.",
+        "evening": "Lake promenade."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Walk downhill from Chexbres to save effort.",
+    "Book tastings in advance.",
+    "Carry water on the terraces.",
+    "Go early to Chillon.",
+    "Take the boat one way.",
+    "Wear good shoes.",
+    "Visit in September for harvest."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need?",
+      "a": "Two days."
+    },
+    {
+      "q": "What is Lavaux known for?",
+      "a": "UNESCO vineyard terraces and chasselas wine."
+    },
+    {
+      "q": "How do I get to Chillon?",
+      "a": "Train to Veytaux-Chillon or a bus from Montreux."
+    },
+    {
+      "q": "Can I do it as a day trip from Geneva?",
+      "a": "Yes."
+    },
+    {
+      "q": "When is the harvest?",
+      "a": "Late September and October."
+    },
+    {
+      "q": "Is Lausanne worth visiting?",
+      "a": "Yes, for the cathedral and lakefront."
+    }
+  ],
+  "related": ["geneva", "bern", "zermatt-matterhorn"],
+  "relatedArticles": ["unesco-worth-planning-around", "mediterranean-coasts"]
+}

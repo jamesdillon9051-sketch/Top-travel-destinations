@@ -1,0 +1,415 @@
+{
+  "slug": "switzerland",
+  "name": "Switzerland",
+  "continent": "Europe",
+  "countryCode": "CH",
+  "tagline": "Alpine peaks, glacier-fed lakes, medieval old towns, mountain railways that run like clockwork and cheese, chocolate and wine to match, all packed into a country you can cross in a day.",
+  "cardDescription": "A small country of huge scenery, where scenic trains, cable cars and boats reach every valley and lake, and cities are clean, safe and walkable, at a price to match.",
+  "metaDescription": "A complete Switzerland travel guide: the 10 best places to visit, Zurich, Lucerne, Interlaken and the Jungfrau, Zermatt and the Matterhorn, Geneva and Lake Geneva, food, when to go, the Swiss Travel Pass, costs and a two-week itinerary.",
+  "image": {
+    "file": "File:Der Oeschinensee bei Kandersteg BE (2015).jpg",
+    "alt": "The turquoise Oeschinensee lake surrounded by steep Alpine peaks near Kandersteg"
+  },
+  "destinations": [
+    "zurich",
+    "lucerne",
+    "interlaken-jungfrau",
+    "zermatt-matterhorn",
+    "geneva",
+    "bern",
+    "lausanne-lavaux",
+    "lugano-ticino",
+    "st-moritz-engadin",
+    "appenzell"
+  ],
+  "intro": [
+    "Switzerland is a small, landlocked country of about 9 million people at the heart of Europe, about the same area as the Netherlands. About 60 percent of its territory is Alps, and the rest is a plateau of lakes, farmland and old cities. It has four national languages, German, French, Italian and Romansh, and a political system built on local cantons that has kept it neutral, stable and rich for centuries.",
+    "For visitors, the scenery is the star. The Matterhorn above Zermatt, the Eiger, Mönch and Jungfrau above Grindelwald and Lauterbrunnen, the glaciers of the Aletsch region, the turquoise lakes of Lucerne, Geneva and Lugano, and the vineyards of Lavaux are among the most photographed places in Europe. Just as impressive is how easy it all is to reach: trains, boats, buses and cable cars connect even remote villages on strict timetables, and a single pass covers much of the network.",
+    "The other side is cost. Switzerland is one of the most expensive countries in the world, and food, hotels and mountain lifts can shock first-time visitors. With planning, using rail passes, picnicking from supermarkets, staying in hostels or smaller towns and choosing a few big-ticket excursions rather than all of them, it is possible to see the country at a sensible price."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Interlaken and the Jungfrau, Lucerne, Zermatt and Zurich are the essentials; Bern, Geneva and Lausanne add cities and lakes, and the others reward those with more time.",
+  "thingsToDoIntro": "The experiences that recur across the country and make a Swiss trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Ride a scenic train",
+      "image": {
+        "file": "File:Glacier Express, Switzerland (Ank Kumar, Infosys) 04.jpg",
+        "alt": "The red Glacier Express train crossing an Alpine valley"
+      },
+      "text": "The Glacier Express, Bernina Express and GoldenPass lines run through panoramic scenery on some of the world's most famous railways. See [[st-moritz-engadin|St. Moritz and the Engadin]].",
+      "tip": "Book seat reservations early in summer."
+    },
+    {
+      "title": "Go up a mountain",
+      "text": "Cable cars and cog railways climb to Jungfraujoch, Gornergrat, Pilatus, Rigi and Säntis, and views come with restaurants at the top. See [[interlaken-jungfrau|the Jungfrau region]] and [[zermatt-matterhorn|Zermatt]].",
+      "tip": "Check the webcam before buying a ticket."
+    },
+    {
+      "title": "See a glacier",
+      "image": {
+        "file": "File:Aletschgletscher-Eggishorn.jpg",
+        "alt": "The Aletsch Glacier, the longest ice stream in the Alps, seen from above"
+      },
+      "text": "The Aletsch Glacier, the longest in the Alps, is a UNESCO World Heritage site, and Jungfraujoch has ice palaces at 3,454 metres.",
+      "tip": "Glaciers are shrinking, so go sooner rather than later."
+    },
+    {
+      "title": "Hike in the Alps",
+      "text": "Well-marked trails and mountain huts make hiking easy at any level, from lake walks to high passes. The yellow signs give walking times.",
+      "tip": "Go between late June and September for open high trails."
+    },
+    {
+      "title": "Cruise a lake",
+      "text": "Paddle steamers and boats on Lake Lucerne, Lake Geneva, Lake Lugano and Lake Brienz connect towns and castles. See [[lucerne|Lucerne]] and [[lausanne-lavaux|Lake Geneva]].",
+      "tip": "Boats are included in the Swiss Travel Pass."
+    },
+    {
+      "title": "Eat cheese and chocolate",
+      "text": "Fondue, raclette and Alpine cheeses in the mountains, and chocolate from Swiss makers. See the food section below.",
+      "tip": "Try cheese at a mountain hut."
+    },
+    {
+      "title": "Wander an old town",
+      "text": "Bern's medieval arcades, Lucerne's wooden bridge and Zurich's guild houses are some of Europe's best preserved old towns. See [[bern|Bern]] and [[zurich|Zurich]].",
+      "tip": "Walk early, before the day trippers arrive."
+    }
+  ],
+  "foodIntro": "Swiss food is built on cheese, potatoes, bread and meat, in French, German and Italian variations, with excellent chocolate and increasingly good wine.",
+  "foods": [
+    {
+      "name": "Cheese fondue",
+      "image": {
+        "file": "File:Fondue au fromage.jpg",
+        "alt": "A pot of melted cheese fondue with bread cubes"
+      },
+      "text": "Melted Gruyère and Vacherin cheese with white wine, eaten by dipping cubes of bread into a shared pot. It is a winter dish, though it is served year round for visitors.",
+      "whereToTry": "Mountain restaurants and old-town taverns."
+    },
+    {
+      "name": "Raclette",
+      "image": {
+        "file": "File:Raclette 20190720 1256.jpg",
+        "alt": "Melted raclette cheese being scraped over potatoes"
+      },
+      "text": "Cheese melted and scraped over boiled potatoes, pickles and onions, a favourite in the Valais and at Christmas markets.",
+      "whereToTry": "[[zermatt-matterhorn|Zermatt]] and Valais restaurants."
+    },
+    {
+      "name": "Rösti",
+      "image": {
+        "file": "File:Rösti auf blauem Teller.jpg",
+        "alt": "A golden pan-fried potato rösti on a plate"
+      },
+      "text": "Grated potato fried into a golden cake, a national dish that comes plain or topped with cheese, bacon or egg.",
+      "whereToTry": "Restaurants in [[bern|Bern]] and across the German-speaking regions."
+    },
+    {
+      "name": "Zürcher Geschnetzeltes",
+      "image": {
+        "file": "File:Zürcher Geschnetzeltes at Zur rote Buech.jpg",
+        "alt": "Sliced veal in a creamy mushroom sauce, served Zurich-style"
+      },
+      "text": "Sliced veal in a creamy white wine and mushroom sauce, usually served with rösti.",
+      "whereToTry": "Traditional restaurants in [[zurich|Zurich]]."
+    },
+    {
+      "name": "Swiss chocolate",
+      "text": "Smooth milk and dark chocolate from Swiss makers, from supermarket bars to hand-made pralines.",
+      "whereToTry": "Chocolatiers in Zurich, Geneva and Lucerne."
+    },
+    {
+      "name": "Swiss wine",
+      "text": "Chasselas from Lavaux, Pinot Noir from Valais and Merlot from Ticino, most of it drunk in Switzerland rather than exported.",
+      "whereToTry": "Wine terraces in [[lausanne-lavaux|Lavaux]] and [[lugano-ticino|Ticino]]."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Switzerland is easy and safe, though the prices, the rules and the timetables can catch visitors out.",
+  "practical": {
+    "capital": "Bern (the federal city)",
+    "language": "Four national languages: German (about two-thirds), French, Italian and Romansh. Swiss German is spoken in the north and east. English is widely spoken in tourism and cities.",
+    "currency": "Swiss franc (CHF). Roughly 0.8–0.9 francs to the US dollar in recent years. Switzerland is not in the eurozone, although euros are accepted in some tourist places at poor rates.",
+    "money": "Cards and contactless payment are accepted almost everywhere, though a few mountain huts and small businesses prefer cash. ATMs are common. Carry some francs for huts and small shops.",
+    "visa": "Switzerland is in the Schengen Area but not the EU. Many nationalities, including the United Kingdom, United States, Canada and Australia, can visit for up to 90 days in any 180 without a visa. The EU's ETIAS travel authorisation has been planned for Schengen countries, so check the current rules before you go.",
+    "plugs": "Type J (three round pins), 230 V, 50 Hz. Type C two-pin plugs also fit in many sockets, but an adaptor is safest for UK and US visitors.",
+    "emergency": "112 for all emergencies, 117 for police, 118 for fire, 144 for ambulance, and 1414 for Rega air rescue.",
+    "tipping": "Service is included in restaurant prices. Rounding up the bill or leaving a few francs for good service is normal, but not required.",
+    "safety": "Switzerland is one of the safest countries in the world for crime. The main risks are in the mountains: weather can change fast, and avalanche, rockfall and altitude are real hazards. Follow trail signs and closures, carry warm clothes and check forecasts. Pickpocketing happens in stations and tourist areas.",
+    "connectivity": "Excellent, including on mountain tops and trains. Roaming is expensive outside the EU, so buy a local eSIM or a prepaid SIM. SBB Mobile is essential for train timetables and tickets.",
+    "timeZone": "Central European Time, UTC+1, and UTC+2 in summer (daylight saving time).",
+    "budget": [
+      { "label": "Backpacker", "value": "US$130–190 per day — hostels, supermarket food, regional passes" },
+      { "label": "Mid-range", "value": "US$250–400 per day — three-star hotels, restaurant meals, a rail pass" },
+      { "label": "Comfortable", "value": "US$450–700 per day — four-star hotels, mountain excursions" },
+      { "label": "Luxury", "value": "US$900+ per day — five-star hotels, private transfers" }
+    ]
+  },
+  "bestTime": {
+    "headline": "June–September for hiking, December–March for snow",
+    "summary": "Switzerland has two peak seasons: summer for hiking, lakes and cities, and winter for skiing. Spring and autumn are quieter, with some mountain lifts closed.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "quiet",
+        "text": "Wildflowers and blossom in the valleys, but snow at height and some lifts closed until late May or June."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "The best time for hiking, lakes and high-mountain excursions, with long days. Crowds and prices peak, and thunderstorms are possible."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Clear air, golden larches and grape harvests, with fewer crowds. Cattle come down from the high pastures in September."
+      },
+      {
+        "season": "Winter (December–March)",
+        "rating": "good",
+        "text": "Skiing and snowy villages, plus Christmas markets. Some hiking routes close, and days are short."
+      }
+    ],
+    "avoid": "Late April to mid-May and November, when many mountain lifts and hotels close for maintenance."
+  },
+  "tripDuration": {
+    "headline": "8–14 days for a first trip",
+    "summary": "Switzerland is small and superbly connected, so a week gets you to several regions. Two weeks allows a proper mix of cities, lakes and peaks at a comfortable pace.",
+    "options": [
+      {
+        "length": "5–6 days",
+        "text": "Zurich, Lucerne and the Jungfrau region.",
+        "detail": "The classic highlights."
+      },
+      {
+        "length": "8–10 days",
+        "text": "Adds Zermatt and Bern.",
+        "detail": "A good first trip."
+      },
+      {
+        "length": "12–14 days",
+        "text": "The itinerary on this page: Zurich, Lucerne, the Jungfrau, Bern, Zermatt, Lavaux and Geneva.",
+        "detail": "Our recommendation."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Adds Ticino, the Engadin and eastern Switzerland.",
+        "detail": "For a slower pace or hiking."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Public transport is superb, with trains, buses, boats and cable cars linked on one timetable. A car is not needed for most trips.",
+    "options": [
+      {
+        "mode": "Trains (SBB)",
+        "text": "Frequent and punctual, linking every city and most towns. Scenic lines such as the Glacier Express and Bernina Express run through mountains.",
+        "detail": "Use the SBB Mobile app for timetables and tickets."
+      },
+      {
+        "mode": "Swiss Travel Pass",
+        "text": "Unlimited travel on trains, buses and boats, plus free entry to many museums and discounts on mountain railways. Available for 3 to 15 days.",
+        "detail": "Do the sums first. It pays off if you travel a lot."
+      },
+      {
+        "mode": "Half Fare Card",
+        "text": "Half-price tickets on most transport for a month.",
+        "detail": "Good for a longer stay."
+      },
+      {
+        "mode": "PostBuses",
+        "text": "Yellow buses reach mountain villages and passes.",
+        "detail": "Check the timetables."
+      },
+      {
+        "mode": "Hire cars",
+        "text": "Useful for Ticino, the Engadin and remote valleys. Motorways need a vignette, and parking in towns is expensive.",
+        "detail": "Many car-free villages need a train."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Switzerland",
+    "intro": "Zurich, Lucerne, the Jungfrau, Bern, Zermatt, Lavaux and Geneva, all by train. Covers seven of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Zurich",
+        "morning": "Land and take the train into the city.",
+        "afternoon": "The old town and Lindenhof.",
+        "evening": "Dinner by the Limmat."
+      },
+      {
+        "day": 2,
+        "title": "Zurich to Lucerne",
+        "morning": "Lake Zurich.",
+        "afternoon": "Train to Lucerne and the Chapel Bridge.",
+        "evening": "Dinner on the lake."
+      },
+      {
+        "day": 3,
+        "title": "Around Lucerne",
+        "morning": "Boat and cog railway to Rigi, or Mount Pilatus.",
+        "afternoon": "The Lion Monument.",
+        "evening": "Old town evening."
+      },
+      {
+        "day": 4,
+        "title": "To Interlaken",
+        "morning": "Scenic train to Interlaken.",
+        "afternoon": "Lake Brienz or Harder Kulm.",
+        "evening": "Dinner in Interlaken."
+      },
+      {
+        "day": 5,
+        "title": "Jungfraujoch",
+        "morning": "The train to the Top of Europe.",
+        "afternoon": "Ice Palace and the Sphinx.",
+        "evening": "Grindelwald."
+      },
+      {
+        "day": 6,
+        "title": "Lauterbrunnen",
+        "morning": "Trümmelbach Falls.",
+        "afternoon": "Walk the valley.",
+        "evening": "Return to Interlaken."
+      },
+      {
+        "day": 7,
+        "title": "Bern",
+        "morning": "Train to Bern.",
+        "afternoon": "The old town, arcades and Zytglogge.",
+        "evening": "Rosengarten sunset."
+      },
+      {
+        "day": 8,
+        "title": "To Zermatt",
+        "morning": "Train to Visp and Zermatt.",
+        "afternoon": "The village and the Matterhorn Museum.",
+        "evening": "Raclette dinner."
+      },
+      {
+        "day": 9,
+        "title": "Gornergrat",
+        "morning": "Cog railway to Gornergrat.",
+        "afternoon": "Riffelsee walk.",
+        "evening": "Fondue."
+      },
+      {
+        "day": 10,
+        "title": "To Lake Geneva",
+        "morning": "Train to Montreux.",
+        "afternoon": "Château de Chillon.",
+        "evening": "Overnight in Lavaux."
+      },
+      {
+        "day": 11,
+        "title": "Lavaux",
+        "morning": "Walk the vineyard terraces.",
+        "afternoon": "Wine tasting.",
+        "evening": "Lausanne."
+      },
+      {
+        "day": 12,
+        "title": "Lausanne",
+        "morning": "The cathedral.",
+        "afternoon": "Ouchy lakefront.",
+        "evening": "Dinner in the old town."
+      },
+      {
+        "day": 13,
+        "title": "Geneva",
+        "morning": "Train to Geneva.",
+        "afternoon": "The old town and the Jet d'Eau.",
+        "evening": "Lake promenade."
+      },
+      {
+        "day": 14,
+        "title": "Departure",
+        "morning": "Chocolate shopping.",
+        "afternoon": "Fly home from Geneva.",
+        "evening": "Home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Swiss society values punctuality, order, privacy and respect for rules and nature. People are polite and reserved, and greetings and quiet matter. The country's regions differ, from German-speaking Zurich to French-speaking Geneva and Italian-speaking Lugano.",
+    "etiquette": [
+      {
+        "title": "Be on time",
+        "text": "Trains and appointments run on time, and lateness is rude."
+      },
+      {
+        "title": "Greet people",
+        "text": "Say hello (Grüezi in German, Bonjour in French, Buongiorno in Italian) in shops, on trails and to neighbours."
+      },
+      {
+        "title": "Keep quiet",
+        "text": "Speak softly on trains and in hotels, and respect Sunday and evening quiet hours, since laundry and lawn-mowing are avoided."
+      },
+      {
+        "title": "Respect nature",
+        "text": "Stay on trails, close gates, take litter home and do not pick flowers."
+      },
+      {
+        "title": "Recycle",
+        "text": "Sort your rubbish. Rules are strict, and some towns need official bags."
+      },
+      {
+        "title": "Keep to the right",
+        "text": "On escalators and paths, stand on the right and let others pass."
+      }
+    ],
+    "dos": [
+      "Learn a few words in the local language",
+      "Validate or buy tickets before you board",
+      "Book scenic trains and mountain excursions early",
+      "Carry a warm layer even in summer",
+      "Buy picnic food in supermarkets such as Coop and Migros",
+      "Drink from public fountains, since the tap water is excellent"
+    ],
+    "donts": [
+      "Don't be late",
+      "Don't leave the trail, or approach cows with calves",
+      "Don't fly a drone without checking the rules",
+      "Don't make noise late at night or on Sundays",
+      "Don't feed wildlife or marmots",
+      "Don't assume everything is open on Sundays"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Switzerland, several of which are specific to how the country works.",
+  "tips": [
+    "Do the sums on the Swiss Travel Pass against point-to-point tickets and regional passes.",
+    "Check webcams and forecasts before paying for a mountain ticket.",
+    "Buy picnic food from supermarkets, since restaurants are expensive.",
+    "Book scenic trains and hotels far ahead for July and August.",
+    "Stay in smaller towns such as Lucerne or Thun and day-trip to save on hotels.",
+    "Bring a warm layer and sun protection, since mountains are cold and bright.",
+    "Note that shops close on Sundays in many towns.",
+    "Use the SBB Mobile app for timetables and ticketing."
+  ],
+  "faq": [
+    {
+      "q": "Is Switzerland expensive?",
+      "a": "Yes. It is one of the world's most expensive countries. Supermarket picnics, hostels, regional passes and choosing fewer mountain excursions help a lot."
+    },
+    {
+      "q": "How many days do you need in Switzerland?",
+      "a": "Eight to fourteen days for a first trip. A week covers Zurich, Lucerne and the Jungfrau."
+    },
+    {
+      "q": "When is the best time to visit Switzerland?",
+      "a": "June to September for hiking and lakes, and December to March for skiing. September is often ideal."
+    },
+    {
+      "q": "Is the Swiss Travel Pass worth it?",
+      "a": "It suits fast-moving trips with lots of trains, boats and museum visits. For a slower trip, regional passes or a Half Fare Card may be cheaper."
+    },
+    {
+      "q": "Do I need a car?",
+      "a": "No. Public transport is superb. A car helps only in Ticino and remote valleys."
+    },
+    {
+      "q": "Do I need a visa for Switzerland?",
+      "a": "Many nationalities can visit visa-free for 90 days under Schengen rules. Check current entry requirements, including any ETIAS changes."
+    }
+  ]
+}

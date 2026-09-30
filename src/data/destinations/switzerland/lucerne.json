@@ -1,0 +1,314 @@
+{
+  "slug": "lucerne",
+  "name": "Lucerne",
+  "country": "switzerland",
+  "region": "Central Switzerland, Lake Lucerne",
+  "categories": ["historic", "scenic", "mountains", "cultural"],
+  "tagline": "A medieval wooden bridge, painted houses and a lake ringed by mountains, with Pilatus and Rigi an hour away by cog railway or boat.",
+  "highlight": "Walking across the Chapel Bridge at sunset, with the Reuss river, the water tower and the snow-dusted Pilatus behind.",
+  "shortDescription": "A postcard old town on Lake Lucerne, with the Chapel Bridge, the Lion Monument, Mount Pilatus, Rigi and paddle-steamer trips, ideal as a Swiss base.",
+  "metaDescription": "A Lucerne travel guide: the Chapel Bridge, the Lion Monument, Mount Pilatus, Rigi, Lake Lucerne boats, the old town, where to stay, how to get there and a two-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Zurich (ZRH), about 1 hour by train",
+  "knownFor": "Chapel Bridge, Lake Lucerne, Pilatus, Rigi",
+  "budget": "US$220–350 per day, mid-range",
+  "goodFor": "First-timers, lake cruises, easy mountain trips, photography",
+  "coords": { "lat": 47.0502, "lng": 8.3093 },
+  "image": {
+    "file": "File:Chapel Bridge (Kapellbrücke), Lucerne, Switzerland 02.jpg",
+    "alt": "The wooden Chapel Bridge and stone water tower crossing the Reuss river in Lucerne"
+  },
+  "intro": [
+    "Lucerne is a compact city of about 85,000 people at the point where the Reuss river leaves Lake Lucerne, ringed by mountains. Its symbol is the Chapel Bridge, a covered wooden footbridge from the 14th century with painted panels and an octagonal stone water tower, which was rebuilt after a fire in 1993. The old town has painted facades, medieval walls and squares, and the whole centre can be walked in an afternoon.",
+    "The setting is what makes Lucerne special. Mount Pilatus, legendary as the home of dragons, and Rigi, the 'Queen of the Mountains', both rise from the lake, and both can be climbed by cog railway and cable car. Historic paddle steamers cross the lake to villages such as Vitznau and Weggis, and a day's excursion combines a boat, a mountain and a train ride.",
+    "Lucerne is also a place with culture. The Lion Monument, carved into a cliff in the 1820s, commemorates Swiss guards killed in Paris in 1792, the Swiss Museum of Transport is one of Europe's best, and the KKL concert hall hosts a major music festival each summer. It is about 45 minutes from Zurich, making it an easy first base."
+  ],
+  "whyVisit": {
+    "intro": "Lucerne is the classic Swiss postcard, and an easy base for mountains and lakes.",
+    "points": [
+      {
+        "title": "A famous wooden bridge",
+        "text": "The Chapel Bridge and water tower."
+      },
+      {
+        "title": "Mountains on the lake",
+        "text": "Pilatus and Rigi."
+      },
+      {
+        "title": "Lake cruises",
+        "text": "Historic paddle steamers."
+      },
+      {
+        "title": "A walkable old town",
+        "text": "Painted houses and squares."
+      },
+      {
+        "title": "Central location",
+        "text": "Trains to Zurich, Bern and the Alps."
+      }
+    ]
+  },
+  "attractionsIntro": "The old town is small, and the mountains are half-day excursions.",
+  "attractions": [
+    {
+      "name": "Chapel Bridge (Kapellbrücke)",
+      "image": {
+        "file": "File:Chapel Bridge (Kapellbrücke), Lucerne, Switzerland 02.jpg",
+        "alt": "The covered wooden Chapel Bridge and its stone water tower"
+      },
+      "text": "A covered wooden bridge with painted triangular panels of local history, and a water tower that once served as a prison.",
+      "tip": "Go early or at sunset."
+    },
+    {
+      "name": "Lion Monument (Löwendenkmal)",
+      "image": {
+        "file": "File:Löwendenkmal - The Lion Monument (Lucerne) 02.jpg",
+        "alt": "The Lion Monument carved into a rock face in Lucerne"
+      },
+      "text": "A dying lion carved into a sandstone cliff to honour the Swiss Guards who died defending the Tuileries in 1792.",
+      "tip": "Free to visit."
+    },
+    {
+      "name": "Mount Pilatus",
+      "image": {
+        "file": "File:Mount Pilatus from Lucerne.JPG",
+        "alt": "Mount Pilatus rising above Lake Lucerne"
+      },
+      "text": "A 2,132-metre mountain reached by the world's steepest cog railway from Alpnachstad, or by cable car from Kriens, with views and walks at the top.",
+      "tip": "Make a loop: boat, train up, cable car down."
+    },
+    {
+      "name": "Rigi",
+      "image": {
+        "file": "File:Rigi Kulm east slope 2012.JPG",
+        "alt": "The grassy east slope of Rigi Kulm in central Switzerland"
+      },
+      "text": "A 1,798-metre mountain with wide views and Europe's oldest mountain railway, opened in 1871.",
+      "tip": "Go up on a clear morning."
+    },
+    {
+      "name": "Old Town and Spreuer Bridge",
+      "text": "Painted houses, squares and a second wooden bridge with a Dance of Death painting cycle.",
+      "tip": "Walk the city wall towers."
+    },
+    {
+      "name": "Swiss Museum of Transport",
+      "text": "A big museum of trains, planes and cars, popular with families.",
+      "tip": "Allow half a day."
+    }
+  ],
+  "thingsToDoIntro": "Lucerne combines a town, a lake and a mountain.",
+  "thingsToDo": [
+    {
+      "title": "Cruise Lake Lucerne",
+      "text": "Take a paddle steamer to Vitznau or Weggis.",
+      "tip": "Boats are included in the Swiss Travel Pass."
+    },
+    {
+      "title": "Climb Pilatus",
+      "text": "Cog railway up and cable car down.",
+      "tip": "Check the weather."
+    },
+    {
+      "title": "Ride the Rigi railway",
+      "text": "Europe's oldest mountain railway.",
+      "tip": "Go up from Vitznau."
+    },
+    {
+      "title": "Walk the city wall",
+      "text": "Climb the Museggmauer towers.",
+      "tip": "Open in summer."
+    },
+    {
+      "title": "Attend a concert",
+      "text": "The Lucerne Festival in summer.",
+      "tip": "Book early."
+    },
+    {
+      "title": "Swim in the lake",
+      "text": "Public beaches in summer.",
+      "tip": "Cold water."
+    }
+  ],
+  "foodIntro": "Lucerne's food is hearty and Swiss, with lake fish and pastries.",
+  "foods": [
+    {
+      "name": "Chögalipaschtete",
+      "text": "A local puff-pastry pie filled with meat in a cream sauce.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Lake fish",
+      "text": "Perch and whitefish from Lake Lucerne.",
+      "whereToTry": "Restaurants on the lake."
+    },
+    {
+      "name": "Luzerner Lebkuchen",
+      "text": "Spiced gingerbread.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Cheese fondue and raclette",
+      "text": "Alpine cheese dishes.",
+      "whereToTry": "Old-town restaurants."
+    },
+    {
+      "name": "Swiss chocolate",
+      "text": "Chocolate from local makers.",
+      "whereToTry": "Shops in the old town."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the old town or by the lake, and save by staying outside the centre.",
+    "areas": [
+      {
+        "name": "Old town",
+        "bestFor": "Atmosphere",
+        "text": "Small hotels and guesthouses."
+      },
+      {
+        "name": "Lakefront",
+        "bestFor": "Views",
+        "text": "Grand hotels."
+      },
+      {
+        "name": "Near the station",
+        "bestFor": "Transport and budget",
+        "text": "Business hotels and hostels."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$45–75 per night" },
+      { "label": "Mid-range hotel", "value": "US$180–300 per night" },
+      { "label": "Luxury hotel", "value": "US$400–800 per night" },
+      { "label": "Restaurant meal", "value": "US$25–45 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Lucerne is a central rail hub.",
+    "options": [
+      {
+        "mode": "Train from Zurich",
+        "text": "About 45 minutes, with trains every 30 minutes.",
+        "detail": "The easiest route."
+      },
+      {
+        "mode": "Train from Interlaken",
+        "text": "About two hours on the scenic Luzern-Interlaken Express.",
+        "detail": "Book a seat."
+      },
+      {
+        "mode": "Train from Bern",
+        "text": "About one hour.",
+        "detail": "Frequent."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The old town is walkable.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Everything in town.",
+        "detail": "Wear comfortable shoes."
+      },
+      {
+        "mode": "Buses",
+        "text": "To Kriens and the museums.",
+        "detail": "Use the app."
+      },
+      {
+        "mode": "Lake boats",
+        "text": "To lakeside villages and mountains.",
+        "detail": "Included in some passes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–October",
+    "summary": "Lucerne is mild, with warm summers and cool, grey winters.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "good",
+        "text": "Blossom and quiet."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Long days and lake cruises."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Clear views and colour."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Christmas markets, and snow in the mountains."
+      }
+    ],
+    "avoid": "Foggy days in November and January, when the mountains are hidden."
+  },
+  "itinerary": {
+    "title": "Two days in Lucerne",
+    "intro": "The town on the first day, and a mountain on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town",
+        "summary": "Bridges and lion.",
+        "morning": "Chapel Bridge and the old town.",
+        "afternoon": "Lion Monument and Spreuer Bridge.",
+        "evening": "Dinner on the lake."
+      },
+      {
+        "day": 2,
+        "title": "A mountain",
+        "summary": "Pilatus or Rigi.",
+        "morning": "Boat and cog railway to the summit.",
+        "afternoon": "Walk and lunch at the top.",
+        "evening": "Return to Lucerne."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Go up mountains in the morning, before clouds build.",
+    "Check webcams first.",
+    "Make a loop rather than returning the same way.",
+    "Use lake boats with a pass.",
+    "Book hotels early for the summer festival.",
+    "Visit the bridge early or late.",
+    "Bring a warm layer for the summits."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Lucerne?",
+      "a": "Two to three days."
+    },
+    {
+      "q": "Is Lucerne worth it?",
+      "a": "Yes. It is one of the most beautiful Swiss towns."
+    },
+    {
+      "q": "Pilatus or Rigi?",
+      "a": "Pilatus is more dramatic. Rigi has broader views and a gentler feel."
+    },
+    {
+      "q": "How far is Lucerne from Zurich?",
+      "a": "About 45 minutes by train."
+    },
+    {
+      "q": "Can I swim in the lake?",
+      "a": "Yes in summer, at public beaches."
+    },
+    {
+      "q": "Is the Chapel Bridge original?",
+      "a": "It was largely rebuilt after a fire in 1993."
+    }
+  ],
+  "related": ["zurich", "interlaken-jungfrau", "bern"],
+  "relatedArticles": ["europe-by-train", "first-trip-to-europe"]
+}
