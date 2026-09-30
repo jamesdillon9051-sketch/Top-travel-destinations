@@ -1,0 +1,339 @@
+{
+  "slug": "boracay",
+  "name": "Boracay",
+  "country": "philippines",
+  "region": "Aklan, Western Visayas",
+  "categories": [
+    "island",
+    "coastal"
+  ],
+  "tagline": "A small island with four kilometres of powder-white sand, paraw sailboats at sunset and a lively beach-party scene, cleaned up and reborn.",
+  "highlight": "Watching the sails of the paraw boats glide across the water at sunset off White Beach.",
+  "shortDescription": "A 7-km island with White Beach, Puka Shell Beach, sunset paraw sailing, kitesurfing, and restaurants and nightlife, after a 2018 environmental clean-up.",
+  "metaDescription": "A Boracay travel guide: White Beach, paraw sailing at sunset, Puka Shell Beach, Bulabog kitesurfing, D'Mall, nightlife, where to stay, how to get there via Caticlan and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Caticlan (MPH), then a 15-minute boat; Kalibo (KLO), about 2 hours by road",
+  "knownFor": "White Beach, sunsets, kitesurfing, nightlife",
+  "budget": "US$70–150 per day, mid-range",
+  "goodFor": "Beach holidays, sunsets, couples, families, parties",
+  "coords": {
+    "lat": 11.9674,
+    "lng": 121.9248
+  },
+  "image": {
+    "file": "File:Boracay white beach in 2014.jpg",
+    "alt": "The wide white sand of White Beach on Boracay with palms and blue water"
+  },
+  "intro": [
+    "Boracay is a small island, about 7 km long and less than 1 km wide, off the north-west tip of Panay island. It is the Philippines' most famous beach destination, thanks to White Beach, a 4-km stretch of fine, powdery sand that is among the best in Asia. In 2018, the government closed the island for six months to tackle sewage and overdevelopment, and today it operates with stricter rules on waste, building and beach use.",
+    "White Beach is divided into three stations. Station 1 is the quietest and most upscale, Station 2 the busiest, with D'Mall shops and restaurants, and Station 3 the most laid-back. In the evening, the beach fills with fire dancers, beach bars and dining tables in the sand. On the other side of the island, Bulabog Beach has strong winds for kitesurfing and windsurfing from November to April.",
+    "Other highlights include Puka Shell Beach on the north tip, a quieter beach of coarse sand and shells, island-hopping tours, the sunset paraw sailing boats that glide on the water, and diving off the island. The island is small enough to see in three days, and it is best in the dry season."
+  ],
+  "whyVisit": {
+    "intro": "Boracay is the Philippines' classic beach resort, with sand, sunsets and nightlife.",
+    "points": [
+      {
+        "title": "White Beach",
+        "text": "Powdery sand and calm water."
+      },
+      {
+        "title": "Paraw sunsets",
+        "text": "Sail at golden hour."
+      },
+      {
+        "title": "Kitesurfing",
+        "text": "At Bulabog Beach."
+      },
+      {
+        "title": "Beach life",
+        "text": "Restaurants and bars on the sand."
+      },
+      {
+        "title": "Easy to reach",
+        "text": "Flights to Caticlan and Kalibo."
+      }
+    ]
+  },
+  "attractionsIntro": "Boracay is small, and everything is accessible by tricycle or on foot.",
+  "attractions": [
+    {
+      "name": "White Beach",
+      "image": {
+        "file": "File:Boracay White Beach in day (985286231).jpg",
+        "alt": "Boracay's White Beach on a bright day with sunbathers and boats"
+      },
+      "text": "A 4-km strip of powder-soft sand divided into three stations, with the calmest water in the dry season.",
+      "tip": "Stay at Station 1 for quiet."
+    },
+    {
+      "name": "Paraw sailing at sunset",
+      "image": {
+        "file": "File:Paraw boats in Boracay sunset.jpg",
+        "alt": "Paraw sailboats on the water at Boracay sunset"
+      },
+      "text": "Traditional outrigger sailboats that carry passengers along the coast as the sun goes down.",
+      "tip": "Book a slot before 4 pm."
+    },
+    {
+      "name": "Puka Shell Beach",
+      "text": "A less developed beach on the north end, named for its puka shells.",
+      "tip": "Take a tricycle."
+    },
+    {
+      "name": "Bulabog Beach",
+      "text": "The windy east side for kitesurfing and windsurfing.",
+      "tip": "Best from November to April."
+    },
+    {
+      "name": "Mount Luho",
+      "text": "The island's highest point, with a view.",
+      "tip": "Go at sunrise."
+    },
+    {
+      "name": "D'Mall",
+      "text": "Shops, cafés and restaurants at Station 2.",
+      "tip": "Good for evenings."
+    }
+  ],
+  "thingsToDoIntro": "Boracay is for the beach and the water.",
+  "thingsToDo": [
+    {
+      "title": "Sail on a paraw",
+      "text": "At sunset.",
+      "tip": "Bring a camera."
+    },
+    {
+      "title": "Try kitesurfing",
+      "text": "At Bulabog.",
+      "tip": "Take a lesson."
+    },
+    {
+      "title": "Go island hopping",
+      "text": "Snorkelling stops.",
+      "tip": "Book a boat."
+    },
+    {
+      "title": "Dive Yapak",
+      "text": "Coral walls.",
+      "tip": "Use certified dive shops."
+    },
+    {
+      "title": "Watch fire dancers",
+      "text": "On the beach at night.",
+      "tip": "Tip performers."
+    },
+    {
+      "title": "Ride the helmet dive",
+      "text": "A walk on the seabed.",
+      "tip": "Good for non-swimmers."
+    }
+  ],
+  "foodIntro": "Boracay has a great range of restaurants.",
+  "foods": [
+    {
+      "name": "Grilled seafood",
+      "text": "On the beach.",
+      "whereToTry": "White Beach restaurants."
+    },
+    {
+      "name": "Calamansi juice",
+      "text": "Local citrus drink.",
+      "whereToTry": "Stalls."
+    },
+    {
+      "name": "Filipino barbecue",
+      "text": "Skewers.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Halo-halo",
+      "text": "Shaved ice dessert.",
+      "whereToTry": "D'Mall."
+    },
+    {
+      "name": "Mango shakes",
+      "text": "Fruit shakes.",
+      "whereToTry": "Beach cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose your station.",
+    "areas": [
+      {
+        "name": "Station 1",
+        "bestFor": "Quiet and upscale",
+        "text": "Resorts."
+      },
+      {
+        "name": "Station 2",
+        "bestFor": "Shops and nightlife",
+        "text": "Mid-range hotels."
+      },
+      {
+        "name": "Station 3 and Diniwid",
+        "bestFor": "Budget and calm",
+        "text": "Guesthouses."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel dorm",
+        "value": "US$10–20 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$50–120 per night"
+      },
+      {
+        "label": "Resort",
+        "value": "US$150–500 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$6–20 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Boracay is reached via Caticlan or Kalibo.",
+    "options": [
+      {
+        "mode": "Flight to Caticlan",
+        "text": "About 1 hour from Manila, then a 15-minute boat.",
+        "detail": "The easiest route."
+      },
+      {
+        "mode": "Flight to Kalibo",
+        "text": "Then a 2-hour van to Caticlan.",
+        "detail": "More flights."
+      },
+      {
+        "mode": "Boat from Caticlan",
+        "text": "About 15 minutes.",
+        "detail": "Pay port fees."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The island is small.",
+    "options": [
+      {
+        "mode": "Tricycle",
+        "text": "Around the island.",
+        "detail": "Agree fares."
+      },
+      {
+        "mode": "E-trike",
+        "text": "Electric shuttles.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "On foot",
+        "text": "Along the beach.",
+        "detail": "Wear sandals."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–May",
+    "summary": "Boracay has a dry season with calm seas on White Beach.",
+    "seasons": [
+      {
+        "season": "November–February",
+        "rating": "best",
+        "text": "Cool, dry and windy at Bulabog."
+      },
+      {
+        "season": "March–May",
+        "rating": "best",
+        "text": "Hot and calm."
+      },
+      {
+        "season": "June–August",
+        "rating": "quiet",
+        "text": "Rain and seaweed."
+      },
+      {
+        "season": "September–October",
+        "rating": "avoid",
+        "text": "Typhoon risk."
+      }
+    ],
+    "avoid": "The wet season."
+  },
+  "itinerary": {
+    "title": "Three days in Boracay",
+    "intro": "Beach, boats and a sunset.",
+    "days": [
+      {
+        "day": 1,
+        "title": "White Beach",
+        "summary": "Arrive.",
+        "morning": "Boat from Caticlan.",
+        "afternoon": "Beach time.",
+        "evening": "Sunset paraw."
+      },
+      {
+        "day": 2,
+        "title": "Island hopping",
+        "summary": "Snorkel.",
+        "morning": "Island tour.",
+        "afternoon": "Puka Shell Beach.",
+        "evening": "D'Mall."
+      },
+      {
+        "day": 3,
+        "title": "Water sports",
+        "summary": "Wind and sea.",
+        "morning": "Kitesurf lesson.",
+        "afternoon": "Relax.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book hotels ahead for holidays.",
+    "Follow the rules on smoking and littering.",
+    "Bring reef-safe sunscreen.",
+    "Check the weather.",
+    "Book paraw early.",
+    "Bring cash.",
+    "Visit outside Holy Week."
+  ],
+  "faq": [
+    {
+      "q": "How many days in Boracay?",
+      "a": "Three."
+    },
+    {
+      "q": "Is Boracay cleaner now?",
+      "a": "Yes, after the 2018 closure."
+    },
+    {
+      "q": "Which station is best?",
+      "a": "Station 1 for quiet, Station 2 for action."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "Fly to Caticlan and take a boat."
+    },
+    {
+      "q": "When to go?",
+      "a": "November to May."
+    },
+    {
+      "q": "Is it crowded?",
+      "a": "In peak season, yes."
+    }
+  ],
+  "related": [
+    "cebu",
+    "bohol",
+    "el-nido"
+  ],
+  "relatedArticles": [
+    "mediterranean-coasts",
+    "packing-by-season"
+  ]
+}

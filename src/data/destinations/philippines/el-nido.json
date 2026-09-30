@@ -1,0 +1,322 @@
+{
+  "slug": "el-nido",
+  "name": "El Nido",
+  "country": "philippines",
+  "region": "Palawan, western Philippines",
+  "categories": ["coastal", "island", "nature", "scenic"],
+  "tagline": "Limestone cliffs rising from emerald lagoons in Bacuit Bay, with secret beaches, hidden coves and some of the most photographed seascapes in Asia.",
+  "highlight": "Paddling a kayak through the narrow entrance of the Secret Lagoon into a hidden pool ringed by cliffs.",
+  "shortDescription": "A small Palawan town at the edge of Bacuit Bay, the base for island-hopping tours to the Big and Small Lagoons, Secret Lagoon, Shimizu Island and Nacpan Beach.",
+  "metaDescription": "An El Nido travel guide: island-hopping tours A, B, C and D, Big Lagoon, Secret Lagoon, Nacpan Beach, Cadlao Island, diving, where to stay, how to get there and a four-day plan.",
+  "suggestedStay": "4 days",
+  "nearestAirport": "El Nido Lio Airport (ENI) has limited flights; Puerto Princesa (PPS), about 5–6 hours by van",
+  "knownFor": "Island hopping, lagoons, limestone karst, beaches",
+  "budget": "US$60–120 per day, mid-range",
+  "goodFor": "Beach lovers, kayakers, couples, photographers",
+  "coords": { "lat": 11.1784, "lng": 119.3936 },
+  "image": {
+    "file": "File:Island lagoon in Bacuit Bay, El Nido, Palawan, Philippines.jpg",
+    "alt": "A turquoise island lagoon among limestone cliffs in Bacuit Bay, El Nido"
+  },
+  "intro": [
+    "El Nido sits at the northern tip of Palawan, an elongated island in the west of the Philippines, on the edge of Bacuit Bay. The bay holds 45 islands and islets, mostly limestone karst, whose sheer cliffs, caves and lagoons feel like a fantasy landscape. The area is part of the Bacuit Archipelago and Palawan, often named the best island in the world by travel magazines.",
+    "The town itself is small and functional, a strip of guesthouses, dive shops, restaurants and tour offices on a curved beach. Visitors come for island-hopping: standard tours, called A, B, C and D, run by outriggers that visit lagoons such as the Big Lagoon and Small Lagoon, the Secret Lagoon, Shimizu Island, 7 Commando Beach, Hidden Beach, Matinloc Shrine and Helicopter Island. Each tour costs the same and covers different sites, so many visitors do two or three.",
+    "El Nido has grown fast, and can be crowded at peak times. Booking early tours, choosing small groups, and visiting quieter places like Nacpan Beach, Cadlao Island and Corong-Corong makes for a better trip. Weather is best from December to May, and the sea can be too rough for boats in the rainy season."
+  ],
+  "whyVisit": {
+    "intro": "El Nido is the best place in the Philippines for classic lagoon-and-limestone scenery.",
+    "points": [
+      {
+        "title": "Limestone lagoons",
+        "text": "Emerald water and cliffs."
+      },
+      {
+        "title": "Island hopping",
+        "text": "Four standard tours."
+      },
+      {
+        "title": "Hidden beaches",
+        "text": "Nacpan and 7 Commando."
+      },
+      {
+        "title": "Snorkelling and diving",
+        "text": "Reefs and marine life."
+      },
+      {
+        "title": "Sunsets",
+        "text": "Over Bacuit Bay."
+      }
+    ]
+  },
+  "attractionsIntro": "The sights are all on the water or on nearby beaches.",
+  "attractions": [
+    {
+      "name": "Big Lagoon",
+      "image": {
+        "file": "File:Big Lagoon at El Nido, Palawan, Philippines.jpg",
+        "alt": "Kayaks on the emerald Big Lagoon surrounded by limestone cliffs"
+      },
+      "text": "A wide lagoon on Miniloc Island, ringed by cliffs, and best explored by kayak.",
+      "tip": "Go on Tour A early."
+    },
+    {
+      "name": "Limestone islands of Bacuit Bay",
+      "image": {
+        "file": "File:Limestone island in Bacuit Bay, El Nido, Palawan, Philippines.jpg",
+        "alt": "A limestone island covered in greenery in Bacuit Bay"
+      },
+      "text": "The bay's islands are steep karst formations covered in forest.",
+      "tip": "Take a boat at sunrise."
+    },
+    {
+      "name": "Secret Lagoon",
+      "text": "A hidden lagoon reached through a small hole in the cliff, where you must wade or swim.",
+      "tip": "Go before midday."
+    },
+    {
+      "name": "Nacpan Beach",
+      "text": "A 4-km white-sand beach north of El Nido, reached by tricycle.",
+      "tip": "Good for sunset."
+    },
+    {
+      "name": "Shimizu Island",
+      "text": "A snorkelling stop and lunch spot with clear water.",
+      "tip": "Bring a mask."
+    },
+    {
+      "name": "Taraw Cliff",
+      "text": "A limestone cliff you can climb for a view over the bay.",
+      "tip": "Wear sturdy shoes."
+    }
+  ],
+  "thingsToDoIntro": "El Nido is about time on the water.",
+  "thingsToDo": [
+    {
+      "title": "Take an island tour",
+      "text": "Tours A, B, C and D.",
+      "tip": "Pick small groups."
+    },
+    {
+      "title": "Kayak the lagoons",
+      "text": "Paddle through channels.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Snorkel the reefs",
+      "text": "Colourful fish.",
+      "tip": "Wear reef-safe sunscreen."
+    },
+    {
+      "title": "Dive the bay",
+      "text": "Caves and drop-offs.",
+      "tip": "Use a certified dive centre."
+    },
+    {
+      "title": "Watch sunset at Nacpan",
+      "text": "A long beach.",
+      "tip": "Take a tricycle."
+    },
+    {
+      "title": "Hike Taraw Cliff",
+      "text": "For views.",
+      "tip": "Go early."
+    }
+  ],
+  "foodIntro": "El Nido's food is seafood and casual.",
+  "foods": [
+    {
+      "name": "Grilled seafood",
+      "text": "Fresh fish and squid.",
+      "whereToTry": "Beach restaurants."
+    },
+    {
+      "name": "Kinilaw",
+      "text": "Raw fish in vinegar.",
+      "whereToTry": "Seaside restaurants."
+    },
+    {
+      "name": "Adobo and rice",
+      "text": "Home-style.",
+      "whereToTry": "Local eateries."
+    },
+    {
+      "name": "Fruit shakes",
+      "text": "Mango and coconut.",
+      "whereToTry": "Stalls."
+    },
+    {
+      "name": "Boat-lunch barbecue",
+      "text": "Served on tours.",
+      "whereToTry": "On your island tour."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in town or on a quieter beach.",
+    "areas": [
+      {
+        "name": "El Nido town",
+        "bestFor": "Convenience",
+        "text": "Hostels and hotels."
+      },
+      {
+        "name": "Corong-Corong",
+        "bestFor": "Sunsets and quiet",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Nacpan and Calitang",
+        "bestFor": "Beach life",
+        "text": "Bamboo huts."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$8–15 per night" },
+      { "label": "Mid-range hotel", "value": "US$40–100 per night" },
+      { "label": "Resort", "value": "US$150–400+ per night" },
+      { "label": "Island tour", "value": "US$20–35 per person, plus fees" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "El Nido is remote.",
+    "options": [
+      {
+        "mode": "Van from Puerto Princesa",
+        "text": "About 5 to 6 hours.",
+        "detail": "Book a shared van."
+      },
+      {
+        "mode": "Flight",
+        "text": "Limited flights from Manila or Cebu to El Nido airport.",
+        "detail": "Book early."
+      },
+      {
+        "mode": "Ferry from Coron",
+        "text": "About 4 to 5 hours.",
+        "detail": "Check the schedule."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Tricycles and boats.",
+    "options": [
+      {
+        "mode": "Tricycle",
+        "text": "Around town and to Nacpan.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Scooter",
+        "text": "Popular for beaches.",
+        "detail": "Wear a helmet."
+      },
+      {
+        "mode": "Boat tours",
+        "text": "To the islands.",
+        "detail": "Book."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–May",
+    "summary": "El Nido is best in the dry season.",
+    "seasons": [
+      {
+        "season": "December–February",
+        "rating": "best",
+        "text": "Cool and dry."
+      },
+      {
+        "season": "March–May",
+        "rating": "best",
+        "text": "Hot and clear."
+      },
+      {
+        "season": "June–August",
+        "rating": "quiet",
+        "text": "Rain and rough seas."
+      },
+      {
+        "season": "September–November",
+        "rating": "avoid",
+        "text": "Typhoons possible."
+      }
+    ],
+    "avoid": "The wet season for boat trips."
+  },
+  "itinerary": {
+    "title": "Four days in El Nido",
+    "intro": "Island tours and a beach.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive",
+        "summary": "Settle in.",
+        "morning": "Van to El Nido.",
+        "afternoon": "Beach.",
+        "evening": "Sunset."
+      },
+      {
+        "day": 2,
+        "title": "Tour A",
+        "summary": "Lagoons.",
+        "morning": "Big Lagoon.",
+        "afternoon": "Secret Lagoon.",
+        "evening": "Rest."
+      },
+      {
+        "day": 3,
+        "title": "Tour C",
+        "summary": "Hidden beaches.",
+        "morning": "Hidden Beach.",
+        "afternoon": "Matinloc Shrine.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 4,
+        "title": "Nacpan",
+        "summary": "Beach.",
+        "morning": "Tricycle to Nacpan.",
+        "afternoon": "Swim.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book tours a day ahead.",
+    "Bring cash.",
+    "Wear reef-safe sunscreen.",
+    "Go early to avoid crowds.",
+    "Check the weather.",
+    "Bring a dry bag.",
+    "Respect the environmental fee."
+  ],
+  "faq": [
+    {
+      "q": "How many days in El Nido?",
+      "a": "Three to five."
+    },
+    {
+      "q": "Which tour is best?",
+      "a": "Tour A and Tour C are the most popular."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "Van from Puerto Princesa."
+    },
+    {
+      "q": "Is it crowded?",
+      "a": "Yes at peak times."
+    },
+    {
+      "q": "Are there ATMs?",
+      "a": "A few, but bring cash."
+    },
+    {
+      "q": "When to go?",
+      "a": "December to May."
+    }
+  ],
+  "related": ["coron", "puerto-princesa", "boracay"],
+  "relatedArticles": ["mediterranean-coasts", "packing-by-season"]
+}

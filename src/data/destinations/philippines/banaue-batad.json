@@ -1,0 +1,315 @@
+{
+  "slug": "banaue-batad",
+  "name": "Banaue and Batad",
+  "shortName": "Banaue and Batad",
+  "country": "philippines",
+  "region": "Ifugao, northern Luzon",
+  "categories": ["unesco", "mountains", "cultural", "scenic"],
+  "tagline": "Two-thousand-year-old rice terraces carved by hand into the Cordillera mountains, a green amphitheatre of stone walls and water.",
+  "highlight": "The amphitheatre of Batad's terraces, seen from the viewpoint after a walk through the mountain.",
+  "shortDescription": "The Ifugao rice terraces, a UNESCO cultural landscape, with the Banaue viewpoint, the amphitheatre of Batad, Tappiya Falls, village trekking and Ifugao culture.",
+  "metaDescription": "A Banaue and Batad travel guide: the Ifugao rice terraces, Batad amphitheatre, Tappiya Falls, Bangaan and Cambulo, hiking, Ifugao culture, how to get there from Manila, where to stay and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Manila (MNL), about 8–9 hours by bus",
+  "knownFor": "Rice terraces, hiking, Ifugao culture",
+  "budget": "US$40–80 per day, budget to mid-range",
+  "goodFor": "Hikers, culture, photographers",
+  "coords": { "lat": 16.9269, "lng": 121.0590 },
+  "image": {
+    "file": "File:Banaue Philippines Banaue-Rice-Terraces-01.jpg",
+    "alt": "The Banaue rice terraces climbing the green mountain slopes"
+  },
+  "intro": [
+    "In the Cordillera Mountains of northern Luzon, the Ifugao people have shaped whole mountainsides into stepped rice paddies, held by stone or mud walls, watered by a network of channels from the forest above. Built over about 2,000 years, and still farmed by hand, the Ifugao Rice Terraces are a UNESCO World Heritage Site, and often called the eighth wonder of the world, although the phrase is a promotional one.",
+    "Banaue is the gateway town, with terrace views from the town viewpoints, an Ifugao museum and guesthouses. The most spectacular terraces are at Batad, an hour and a half by jeepney and then a 30-minute walk from the road, where the terraces form a giant amphitheatre around a small village, with a trek to Tappiya Falls. Other terrace clusters include Bangaan, Hapao and Cambulo.",
+    "The area is remote, cool in the mornings and misty, and best explored on foot. Many visitors combine Banaue with Sagada, another mountain destination, and it is an eight- to nine-hour overnight bus trip from Manila. Planting season, from February to April, and the golden harvest from May to June, offer contrasting scenery."
+  ],
+  "whyVisit": {
+    "intro": "The rice terraces are one of the most impressive human landscapes in Asia.",
+    "points": [
+      {
+        "title": "Ancient terraces",
+        "text": "Built by hand 2,000 years ago."
+      },
+      {
+        "title": "Batad amphitheatre",
+        "text": "The most photogenic terraces."
+      },
+      {
+        "title": "Trekking",
+        "text": "Through villages and forest."
+      },
+      {
+        "title": "Ifugao culture",
+        "text": "Living traditions."
+      },
+      {
+        "title": "Cool mountain air",
+        "text": "Relief from the heat."
+      }
+    ]
+  },
+  "attractionsIntro": "Batad is the highlight, with several other terrace sites.",
+  "attractions": [
+    {
+      "name": "Batad Rice Terraces",
+      "image": {
+        "file": "File:Banaue Philippines Batad-Rice-Terraces-02.jpg",
+        "alt": "The Batad rice terraces forming a green amphitheatre around a village"
+      },
+      "text": "A natural amphitheatre of terraces with a village at the centre, seen from the Tappiya viewpoint.",
+      "tip": "Stay the night for sunrise."
+    },
+    {
+      "name": "Banaue viewpoint",
+      "text": "The main terraces near Banaue town, with viewpoints along the road.",
+      "tip": "Go at sunrise."
+    },
+    {
+      "name": "Tappiya Falls",
+      "text": "A waterfall at the end of a hike through Batad's terraces.",
+      "tip": "Bring a swimsuit."
+    },
+    {
+      "name": "Bangaan Terraces",
+      "text": "A village with terraces near the road.",
+      "tip": "A short stop."
+    },
+    {
+      "name": "Ifugao Museum",
+      "text": "A museum with woodcarving and artefacts.",
+      "tip": "Learn about the culture."
+    },
+    {
+      "name": "Ifugao people",
+      "image": {
+        "file": "File:Banaue Philippines Ifugao-Tribesman-01.jpg",
+        "alt": "An Ifugao man in traditional dress in Banaue"
+      },
+      "text": "Elders in traditional dress pose for photos in Banaue, for a donation.",
+      "tip": "Ask permission and tip."
+    }
+  ],
+  "thingsToDoIntro": "This area is for walking.",
+  "thingsToDo": [
+    {
+      "title": "Hike to Tappiya Falls",
+      "text": "Through Batad.",
+      "tip": "Wear grippy shoes."
+    },
+    {
+      "title": "Stay in a Batad homestay",
+      "text": "Wake to the terraces.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Walk to Cambulo",
+      "text": "Village trek.",
+      "tip": "Hire a guide."
+    },
+    {
+      "title": "Visit at planting time",
+      "text": "Water-filled paddies.",
+      "tip": "February to April."
+    },
+    {
+      "title": "Try rice wine",
+      "text": "Tapuy.",
+      "tip": "Drink with locals."
+    },
+    {
+      "title": "Combine with Sagada",
+      "text": "A mountain town.",
+      "tip": "Take a jeepney."
+    }
+  ],
+  "foodIntro": "Ifugao food is simple and mountain-based.",
+  "foods": [
+    {
+      "name": "Heirloom rice",
+      "text": "Tinawon rice from the terraces.",
+      "whereToTry": "Homestays."
+    },
+    {
+      "name": "Pinikpikan",
+      "text": "A chicken dish, a traditional ritual meal.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Tapuy",
+      "text": "Rice wine.",
+      "whereToTry": "Villages."
+    },
+    {
+      "name": "Camote and vegetables",
+      "text": "Staples.",
+      "whereToTry": "Homestays."
+    },
+    {
+      "name": "Mountain coffee",
+      "text": "Local beans.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Banaue or Batad.",
+    "areas": [
+      {
+        "name": "Banaue town",
+        "bestFor": "Transport",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Batad village",
+        "bestFor": "Immersion",
+        "text": "Homestays."
+      },
+      {
+        "name": "Hapao",
+        "bestFor": "Quiet",
+        "text": "Village stays."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$10–25 per night" },
+      { "label": "Batad homestay", "value": "US$10–20 per night" },
+      { "label": "Guide", "value": "US$15–30 per day" },
+      { "label": "Meal", "value": "US$3–8 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Banaue is about 350 km from Manila.",
+    "options": [
+      {
+        "mode": "Overnight bus from Manila",
+        "text": "About 8 to 9 hours.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Jeepney to Batad junction",
+        "text": "About 1 hour, then a walk.",
+        "detail": "Ask locally."
+      },
+      {
+        "mode": "Private van",
+        "text": "From Manila or Baguio.",
+        "detail": "Expensive."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Jeepneys and walking.",
+    "options": [
+      {
+        "mode": "Jeepney and tricycle",
+        "text": "To trailheads.",
+        "detail": "Limited schedules."
+      },
+      {
+        "mode": "On foot",
+        "text": "Treks.",
+        "detail": "Wear boots."
+      },
+      {
+        "mode": "Guide",
+        "text": "Recommended.",
+        "detail": "Hire locally."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "February–June",
+    "summary": "The terraces are photogenic at planting and harvest.",
+    "seasons": [
+      {
+        "season": "February–April",
+        "rating": "best",
+        "text": "Planting, with flooded paddies."
+      },
+      {
+        "season": "May–June",
+        "rating": "best",
+        "text": "Green and golden."
+      },
+      {
+        "season": "July–October",
+        "rating": "avoid",
+        "text": "Wet, with landslides."
+      },
+      {
+        "season": "November–January",
+        "rating": "quiet",
+        "text": "Fallow, cool."
+      }
+    ],
+    "avoid": "The rainy season."
+  },
+  "itinerary": {
+    "title": "Three days in Ifugao",
+    "intro": "Banaue, Batad and a trek.",
+    "days": [
+      {
+        "day": 1,
+        "title": "To Banaue",
+        "summary": "Arrive.",
+        "morning": "Overnight bus arrives.",
+        "afternoon": "Banaue viewpoint.",
+        "evening": "Rest."
+      },
+      {
+        "day": 2,
+        "title": "Batad",
+        "summary": "The amphitheatre.",
+        "morning": "Jeepney and walk to Batad.",
+        "afternoon": "Tappiya Falls.",
+        "evening": "Homestay."
+      },
+      {
+        "day": 3,
+        "title": "Return",
+        "summary": "Sunrise.",
+        "morning": "Sunrise on the terraces.",
+        "afternoon": "Return to Banaue.",
+        "evening": "Night bus."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book night buses early.",
+    "Bring a headlamp.",
+    "Wear good shoes.",
+    "Hire a guide.",
+    "Tip for photos.",
+    "Bring cash.",
+    "Pack warm layers."
+  ],
+  "faq": [
+    {
+      "q": "How do I get to Banaue?",
+      "a": "By overnight bus from Manila."
+    },
+    {
+      "q": "Is Batad worth it?",
+      "a": "Yes."
+    },
+    {
+      "q": "How many days?",
+      "a": "Three."
+    },
+    {
+      "q": "When to go?",
+      "a": "February to June."
+    },
+    {
+      "q": "Do I need a guide?",
+      "a": "Recommended."
+    },
+    {
+      "q": "Is it a UNESCO site?",
+      "a": "Yes."
+    }
+  ],
+  "related": ["vigan", "manila", "puerto-princesa"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

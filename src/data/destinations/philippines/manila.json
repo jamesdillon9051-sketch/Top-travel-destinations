@@ -1,0 +1,314 @@
+{
+  "slug": "manila",
+  "name": "Manila",
+  "country": "philippines",
+  "region": "Metro Manila, Luzon",
+  "categories": ["capital-city", "major-city", "historic", "unesco"],
+  "tagline": "A sprawling, energetic capital with a walled Spanish citadel, Chinatown food crawls, jeepney chaos and Manila Bay sunsets.",
+  "highlight": "Walking the ramparts of Fort Santiago in Intramuros as the light softens over the old walled city.",
+  "shortDescription": "The Philippine capital, with the walled city of Intramuros, San Agustin Church, Binondo Chinatown, Rizal Park, museums, malls and nightlife, and the gateway to the country.",
+  "metaDescription": "A Manila travel guide: Intramuros, Fort Santiago, San Agustin Church, Binondo Chinatown food crawl, Rizal Park, Manila Bay sunset, museums, safety, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Ninoy Aquino International (MNL), about 30–60 minutes",
+  "knownFor": "Intramuros, food, history, gateway",
+  "budget": "US$60–120 per day, mid-range",
+  "goodFor": "History, food, arrival, city culture",
+  "coords": { "lat": 14.5995, "lng": 120.9842 },
+  "image": {
+    "file": "File:Manila, Intramuros, Philippines.jpg",
+    "alt": "Old buildings and streets inside the walled city of Intramuros in Manila"
+  },
+  "intro": [
+    "Manila is the capital of the Philippines and the heart of Metro Manila, a huge urban area of about 14 million people made up of 16 cities. It is loud, hot, congested and endlessly busy, and most visitors treat it as a gateway. But with a little planning, it offers real rewards: colonial history, superb food, museums and an infectious energy.",
+    "The city was founded by the Spanish in 1571, and Intramuros, the walled city, was the centre of Spanish power in Asia. Its walls, gates, churches and Fort Santiago survive, although much was destroyed in the Second World War, including much of the rest of the old city. San Agustin Church, completed in 1607, is a UNESCO World Heritage Site and the oldest stone church in the country. Rizal Park, nearby, honours the national hero José Rizal, who was executed in 1896.",
+    "Elsewhere, Binondo is the world's oldest Chinatown, and a great place for a food crawl, and Manila Bay is famed for its sunsets. Modern Makati and Bonifacio Global City have malls, restaurants and nightlife. Manila has traffic and pollution, and street crime can occur, so travel with care and use Grab. Two days covers the highlights."
+  ],
+  "whyVisit": {
+    "intro": "Manila is the country's cultural and historical capital, and a fine introduction to the Philippines.",
+    "points": [
+      {
+        "title": "Intramuros",
+        "text": "The Spanish walled city."
+      },
+      {
+        "title": "San Agustin Church",
+        "text": "A UNESCO baroque church."
+      },
+      {
+        "title": "Binondo Chinatown",
+        "text": "The oldest in the world."
+      },
+      {
+        "title": "Food",
+        "text": "From street stalls to fine dining."
+      },
+      {
+        "title": "Manila Bay sunsets",
+        "text": "Famous orange skies."
+      }
+    ]
+  },
+  "attractionsIntro": "Sights cluster around Intramuros and Rizal Park.",
+  "attractions": [
+    {
+      "name": "Fort Santiago",
+      "image": {
+        "file": "File:Manila, Fort Santiago, Walled city of Intramuros, Philippines.jpg",
+        "alt": "The gate of Fort Santiago inside the walled city of Intramuros"
+      },
+      "text": "A citadel on the Pasig River, where José Rizal was imprisoned before his execution, now a park and museum.",
+      "tip": "Go in the morning."
+    },
+    {
+      "name": "Manila Bay sunset",
+      "image": {
+        "file": "File:Iconic Manila Bay sunset, Manila, Philippines.jpg",
+        "alt": "An orange sunset over Manila Bay from the boulevard"
+      },
+      "text": "The Baywalk on Roxas Boulevard is a classic sunset spot, glowing orange over the water.",
+      "tip": "Arrive by 5:30 pm."
+    },
+    {
+      "name": "Binondo Chinatown",
+      "image": {
+        "file": "File:Binondo Chinatown Heritage 22.jpg",
+        "alt": "A busy street in Binondo Chinatown in Manila"
+      },
+      "text": "The world's oldest Chinatown, founded in 1594, packed with dumpling houses, bakeries and temples.",
+      "tip": "Join a food tour."
+    },
+    {
+      "name": "Jeepneys of Manila",
+      "image": {
+        "file": "File:Manila, Jeepney, Philippines.jpg",
+        "alt": "A colourful jeepney in Manila traffic"
+      },
+      "text": "The iconic public transport of the Philippines, a decorated and crowded jeepney.",
+      "tip": "Ask locals for the route."
+    },
+    {
+      "name": "San Agustin Church",
+      "text": "The oldest stone church in the country, a UNESCO site with a painted ceiling and a museum.",
+      "tip": "Visit the museum."
+    },
+    {
+      "name": "National Museum complex",
+      "text": "Free museums of art, natural history and anthropology.",
+      "tip": "Check opening hours."
+    }
+  ],
+  "thingsToDoIntro": "Manila rewards history and appetite.",
+  "thingsToDo": [
+    {
+      "title": "Walk the walls of Intramuros",
+      "text": "Or ride a kalesa.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Eat in Binondo",
+      "text": "Dumplings and hopia.",
+      "tip": "Join a tour."
+    },
+    {
+      "title": "Watch the sunset",
+      "text": "At Manila Bay.",
+      "tip": "Beware of crowds."
+    },
+    {
+      "title": "Visit museums",
+      "text": "The National Museum.",
+      "tip": "Free entry."
+    },
+    {
+      "title": "Explore Poblacion",
+      "text": "Bars in Makati.",
+      "tip": "Go with friends."
+    },
+    {
+      "title": "Try street food",
+      "text": "Isaw and balut.",
+      "tip": "Only at busy stalls."
+    }
+  ],
+  "foodIntro": "Manila's food is the country's best sampler.",
+  "foods": [
+    {
+      "name": "Adobo and sinigang",
+      "text": "Classics.",
+      "whereToTry": "Filipino restaurants."
+    },
+    {
+      "name": "Chinese-Filipino dumplings",
+      "text": "In Binondo.",
+      "whereToTry": "Chinatown."
+    },
+    {
+      "name": "Halo-halo",
+      "text": "Shaved ice dessert.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Balut",
+      "text": "Fertilised duck egg.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Kare-kare",
+      "text": "Oxtail peanut stew.",
+      "whereToTry": "Restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose Makati or Intramuros.",
+    "areas": [
+      {
+        "name": "Makati",
+        "bestFor": "Restaurants and nightlife",
+        "text": "Hotels and hostels."
+      },
+      {
+        "name": "Intramuros and Ermita",
+        "bestFor": "Sightseeing",
+        "text": "Heritage hotels."
+      },
+      {
+        "name": "Bonifacio Global City",
+        "bestFor": "Modern comfort",
+        "text": "Business hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$10–20 per night" },
+      { "label": "Mid-range hotel", "value": "US$45–110 per night" },
+      { "label": "Luxury hotel", "value": "US$150–300 per night" },
+      { "label": "Meal", "value": "US$4–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Manila is the country's main hub.",
+    "options": [
+      {
+        "mode": "Flight",
+        "text": "International flights land at NAIA.",
+        "detail": "Allow for traffic."
+      },
+      {
+        "mode": "Grab from the airport",
+        "text": "About 30 to 60 minutes.",
+        "detail": "Use the app."
+      },
+      {
+        "mode": "Bus and train",
+        "text": "Some routes.",
+        "detail": "Crowded."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Traffic is heavy.",
+    "options": [
+      {
+        "mode": "Grab",
+        "text": "Best for visitors.",
+        "detail": "Watch surge pricing."
+      },
+      {
+        "mode": "MRT and LRT",
+        "text": "Elevated trains.",
+        "detail": "Crowded at peak."
+      },
+      {
+        "mode": "Jeepneys",
+        "text": "Cheap.",
+        "detail": "Ask locals."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–February",
+    "summary": "Manila is hot year-round, with a wet season.",
+    "seasons": [
+      {
+        "season": "December–February",
+        "rating": "best",
+        "text": "Cooler and dry."
+      },
+      {
+        "season": "March–May",
+        "rating": "quiet",
+        "text": "Very hot."
+      },
+      {
+        "season": "June–October",
+        "rating": "avoid",
+        "text": "Rain, flooding and typhoons."
+      },
+      {
+        "season": "November",
+        "rating": "good",
+        "text": "Drying out."
+      }
+    ],
+    "avoid": "The typhoon and flood season."
+  },
+  "itinerary": {
+    "title": "Two days in Manila",
+    "intro": "History and food.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Intramuros",
+        "summary": "The walled city.",
+        "morning": "Fort Santiago and San Agustin.",
+        "afternoon": "Rizal Park.",
+        "evening": "Manila Bay sunset."
+      },
+      {
+        "day": 2,
+        "title": "Binondo and Makati",
+        "summary": "Food.",
+        "morning": "Binondo food crawl.",
+        "afternoon": "National Museum.",
+        "evening": "Poblacion."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Use Grab.",
+    "Avoid rush hour.",
+    "Watch bags in crowds.",
+    "Drink bottled water.",
+    "Dress for the heat.",
+    "Bring cash.",
+    "Book flights out with buffer."
+  ],
+  "faq": [
+    {
+      "q": "How many days in Manila?",
+      "a": "Two."
+    },
+    {
+      "q": "Is Manila safe?",
+      "a": "With precautions, yes."
+    },
+    {
+      "q": "What is Intramuros?",
+      "a": "The walled Spanish city."
+    },
+    {
+      "q": "Is traffic bad?",
+      "a": "Yes."
+    },
+    {
+      "q": "What should I eat?",
+      "a": "Binondo dumplings and Filipino classics."
+    },
+    {
+      "q": "When to go?",
+      "a": "December to February."
+    }
+  ],
+  "related": ["vigan", "banaue-batad", "cebu"],
+  "relatedArticles": ["food-primer", "unesco-worth-planning-around"]
+}

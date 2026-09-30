@@ -1,0 +1,314 @@
+{
+  "slug": "bohol",
+  "name": "Bohol",
+  "country": "philippines",
+  "region": "Central Visayas",
+  "categories": ["island", "nature", "coastal", "cultural"],
+  "tagline": "A thousand grass-covered Chocolate Hills, the world's smallest primate, a jungle river cruise and the white-sand diving beaches of Panglao.",
+  "highlight": "The Chocolate Hills stretching to the horizon in the dry season, when the grass turns brown.",
+  "shortDescription": "A central Philippine island with the Chocolate Hills, Philippine tarsiers, Loboc River cruises, Baclayon church and the beaches and reefs of Panglao Island.",
+  "metaDescription": "A Bohol travel guide: Chocolate Hills, tarsiers, Loboc River cruise, Baclayon Church, Panglao beaches and diving, Balicasag Island, where to stay, how to get there and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Bohol–Panglao International (TAG), on Panglao Island",
+  "knownFor": "Chocolate Hills, tarsiers, Panglao beaches",
+  "budget": "US$60–120 per day, mid-range",
+  "goodFor": "Families, beach lovers, nature, day tours",
+  "coords": { "lat": 9.8500, "lng": 124.1435 },
+  "image": {
+    "file": "File:Chocolate Hills Carmen Bohol 2019.jpg",
+    "alt": "The rounded brown Chocolate Hills stretching across Bohol"
+  },
+  "intro": [
+    "Bohol is a round island in the Visayas, an easy hop from Cebu, and one of the country's most complete destinations for a short trip. Its main sights can be seen in a single-day loop by car or van, and its southwest tip, Panglao, has some of the best beaches and diving in the central Philippines.",
+    "The signature sight is the Chocolate Hills, more than 1,200 dome-shaped hills of nearly uniform size, covered in grass that turns chocolate brown in the dry season. A viewing deck at Carmen gives the best panorama. Other stops include the Philippine tarsier, one of the world's smallest primates, at a sanctuary in Corella, a lunch cruise on the calm Loboc River through jungle, and Baclayon Church, one of the oldest stone churches in the country, built by the Jesuits in the 16th century.",
+    "The 2013 earthquake damaged many churches, but restoration is well advanced. After a day of sightseeing, most visitors relax on Alona Beach or take a boat to Balicasag and Virgin Islands for snorkelling and a sandbar. Three days is a good stay."
+  ],
+  "whyVisit": {
+    "intro": "Bohol is compact, easy and full of variety.",
+    "points": [
+      {
+        "title": "Chocolate Hills",
+        "text": "A unique landscape."
+      },
+      {
+        "title": "Tarsiers",
+        "text": "Tiny wide-eyed primates."
+      },
+      {
+        "title": "Loboc River",
+        "text": "A jungle cruise."
+      },
+      {
+        "title": "Panglao beaches",
+        "text": "White sand and reefs."
+      },
+      {
+        "title": "Historic churches",
+        "text": "Baclayon and more."
+      }
+    ]
+  },
+  "attractionsIntro": "The land tour covers the interior, and Panglao offers the beaches.",
+  "attractions": [
+    {
+      "name": "Chocolate Hills",
+      "image": {
+        "file": "File:Chocolate Hills Bohol 2.jpg",
+        "alt": "Rounded green Chocolate Hills seen from the viewing deck at Carmen"
+      },
+      "text": "More than 1,200 conical hills between 30 and 120 metres tall, best seen from the viewing complex in Carmen.",
+      "tip": "Go early or late."
+    },
+    {
+      "name": "Philippine tarsier",
+      "image": {
+        "file": "File:Philippine tarsier (Carlito syrichta fraterculus) Bohol.jpg",
+        "alt": "A Philippine tarsier clinging to a branch with huge eyes"
+      },
+      "text": "A tiny nocturnal primate with enormous eyes, seen at a sanctuary where visitors must be silent and cannot use flash.",
+      "tip": "Choose the Corella sanctuary."
+    },
+    {
+      "name": "Loboc River",
+      "text": "A calm river lined with palms, with lunch cruises on floating restaurants.",
+      "tip": "Book a morning cruise."
+    },
+    {
+      "name": "Baclayon Church",
+      "text": "A coral-stone Jesuit church from 1595, one of the oldest in the country.",
+      "tip": "Visit the museum."
+    },
+    {
+      "name": "Alona Beach",
+      "text": "The main beach on Panglao, with restaurants, dive shops and white sand.",
+      "tip": "Go in the evening."
+    },
+    {
+      "name": "Balicasag Island",
+      "text": "A marine sanctuary with coral walls.",
+      "tip": "Book with a licensed boat."
+    }
+  ],
+  "thingsToDoIntro": "Bohol is about a day tour and beach days.",
+  "thingsToDo": [
+    {
+      "title": "Take a countryside tour",
+      "text": "Hills, tarsiers, river and church.",
+      "tip": "Hire a car and driver."
+    },
+    {
+      "title": "Snorkel at Balicasag",
+      "text": "Coral gardens.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Dive Panglao",
+      "text": "Walls and turtles.",
+      "tip": "Book certified centres."
+    },
+    {
+      "title": "Relax at Alona Beach",
+      "text": "Sunset drinks.",
+      "tip": "Wear sandals."
+    },
+    {
+      "title": "Ride the zipline",
+      "text": "At Danao adventure park.",
+      "tip": "Book a slot."
+    },
+    {
+      "title": "Watch dolphins",
+      "text": "On dawn boat trips.",
+      "tip": "Choose responsible operators."
+    }
+  ],
+  "foodIntro": "Bohol's food is Filipino with local twists.",
+  "foods": [
+    {
+      "name": "Calamay",
+      "text": "A sticky sweet made of coconut milk and rice.",
+      "whereToTry": "Roadside stalls."
+    },
+    {
+      "name": "Kinilaw",
+      "text": "Raw fish in vinegar.",
+      "whereToTry": "Seaside restaurants."
+    },
+    {
+      "name": "Grilled seafood",
+      "text": "Fresh catch.",
+      "whereToTry": "Alona Beach."
+    },
+    {
+      "name": "Ube dishes",
+      "text": "Purple yam sweets.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Floating lunch",
+      "text": "Buffet on the Loboc.",
+      "whereToTry": "River cruises."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay on Panglao.",
+    "areas": [
+      {
+        "name": "Alona Beach",
+        "bestFor": "Restaurants and nightlife",
+        "text": "Hotels and dive shops."
+      },
+      {
+        "name": "Dumaluan and Doljo",
+        "bestFor": "Quiet beaches",
+        "text": "Resorts."
+      },
+      {
+        "name": "Tagbilaran",
+        "bestFor": "Ferry access",
+        "text": "City hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$8–15 per night" },
+      { "label": "Mid-range hotel", "value": "US$40–100 per night" },
+      { "label": "Resort", "value": "US$120–300 per night" },
+      { "label": "Country tour with driver", "value": "US$40–80 per car" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Bohol is easy to reach.",
+    "options": [
+      {
+        "mode": "Flight",
+        "text": "About 1 hour from Manila or 30 minutes from Cebu.",
+        "detail": "To Panglao."
+      },
+      {
+        "mode": "Ferry from Cebu",
+        "text": "About 2 hours to Tagbilaran.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Airport transfer",
+        "text": "Panglao airport is about 30 minutes from Alona.",
+        "detail": "Taxi or van."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Private cars and tricycles.",
+    "options": [
+      {
+        "mode": "Car with driver",
+        "text": "For the country tour.",
+        "detail": "Negotiate the fee."
+      },
+      {
+        "mode": "Tricycle",
+        "text": "On Panglao.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Scooter",
+        "text": "For beaches.",
+        "detail": "Wear a helmet."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–May",
+    "summary": "Bohol is best in the dry season.",
+    "seasons": [
+      {
+        "season": "December–February",
+        "rating": "best",
+        "text": "Cool and dry."
+      },
+      {
+        "season": "March–May",
+        "rating": "best",
+        "text": "Hot, with brown hills."
+      },
+      {
+        "season": "June–August",
+        "rating": "quiet",
+        "text": "Rain."
+      },
+      {
+        "season": "September–November",
+        "rating": "avoid",
+        "text": "Typhoons possible."
+      }
+    ],
+    "avoid": "Typhoon season."
+  },
+  "itinerary": {
+    "title": "Three days in Bohol",
+    "intro": "A country tour, beach and reef.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Country tour",
+        "summary": "Hills and river.",
+        "morning": "Baclayon Church and tarsiers.",
+        "afternoon": "Loboc cruise and Chocolate Hills.",
+        "evening": "Panglao."
+      },
+      {
+        "day": 2,
+        "title": "Island hopping",
+        "summary": "Reefs.",
+        "morning": "Dolphin watching.",
+        "afternoon": "Balicasag snorkel.",
+        "evening": "Alona Beach."
+      },
+      {
+        "day": 3,
+        "title": "Beach",
+        "summary": "Relax.",
+        "morning": "Diving or a swim.",
+        "afternoon": "Beach.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Hire a car and driver.",
+    "Choose the ethical tarsier sanctuary.",
+    "Go to the Hills early.",
+    "Bring cash.",
+    "Wear reef-safe sunscreen.",
+    "Book dives.",
+    "Avoid typhoons."
+  ],
+  "faq": [
+    {
+      "q": "How many days in Bohol?",
+      "a": "Three."
+    },
+    {
+      "q": "Are the hills chocolate?",
+      "a": "They turn brown in the dry season."
+    },
+    {
+      "q": "Can I see tarsiers?",
+      "a": "Yes, at sanctuaries."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "Flight or ferry from Cebu."
+    },
+    {
+      "q": "Is Alona Beach good?",
+      "a": "Yes."
+    },
+    {
+      "q": "When to go?",
+      "a": "December to May."
+    }
+  ],
+  "related": ["cebu", "boracay", "siargao"],
+  "relatedArticles": ["mediterranean-coasts", "packing-by-season"]
+}

@@ -1,0 +1,318 @@
+{
+  "slug": "coron",
+  "name": "Coron",
+  "country": "philippines",
+  "region": "Palawan, Calamian Islands",
+  "categories": ["coastal", "island", "nature", "historic"],
+  "tagline": "Sunken Japanese warships, crystal freshwater lakes, hot springs and limestone islands, in the Calamian archipelago north of Palawan.",
+  "highlight": "Swimming in the warm, glass-clear waters of Kayangan Lake, ringed by steep limestone cliffs.",
+  "shortDescription": "A base for the Calamian Islands, with world-class wreck diving, Kayangan and Barracuda Lakes, Twin Lagoon, Siete Pecados reef snorkelling and Maquinit hot springs.",
+  "metaDescription": "A Coron travel guide: Kayangan Lake, Twin Lagoon, WWII wreck diving, Barracuda Lake, Maquinit hot springs, Mount Tapyas, island hopping tours, where to stay and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Francisco B. Reyes Airport, Busuanga (USU), about 45 minutes",
+  "knownFor": "Wreck diving, lakes, lagoons",
+  "budget": "US$60–120 per day, mid-range",
+  "goodFor": "Divers, snorkellers, island hoppers",
+  "coords": { "lat": 12.0000, "lng": 120.2000 },
+  "image": {
+    "file": "File:Kayangan Lake, Coron Island.jpg",
+    "alt": "The clear turquoise water of Kayangan Lake in Coron"
+  },
+  "intro": [
+    "Coron is a town on Busuanga Island in the Calamian Islands, north of Palawan, and the base for a spectacular area of steep limestone islands, lakes and reefs. In September 1944, a US Navy air attack sank a fleet of Japanese supply ships in Coron Bay, and about a dozen wrecks now lie at depths of 10 to 40 metres, making it one of the best wreck-diving destinations in the world.",
+    "Above water, the highlights are Kayangan Lake, often called the cleanest lake in Asia, a brackish lake in a crater ringed by cliffs, and Barracuda Lake, where a thermocline makes the water suddenly warm. Twin Lagoon is two lagoons separated by a rock, and you swim through a gap from one to the other. There are also snorkelling reefs, beaches, and the Maquinit hot springs, a saltwater pool heated by geothermal activity.",
+    "The town has a busy waterfront and a viewpoint at Mount Tapyas reached by 700 steps. Most visitors spend three days on island tours, dives and relaxation, and many combine Coron with El Nido by ferry. Note that much of the area belongs to the Tagbanua people, who manage several sites, and fees support their ancestral domain."
+  ],
+  "whyVisit": {
+    "intro": "Coron combines world-class diving with beautiful lakes and lagoons.",
+    "points": [
+      {
+        "title": "WWII shipwrecks",
+        "text": "A fleet on the seabed."
+      },
+      {
+        "title": "Kayangan Lake",
+        "text": "Clear and beautiful."
+      },
+      {
+        "title": "Twin Lagoon",
+        "text": "Swim between two lagoons."
+      },
+      {
+        "title": "Hot springs",
+        "text": "Maquinit."
+      },
+      {
+        "title": "Relaxed island life",
+        "text": "A small, friendly town."
+      }
+    ]
+  },
+  "attractionsIntro": "Boat tours cover most of the sights.",
+  "attractions": [
+    {
+      "name": "Kayangan Lake",
+      "image": {
+        "file": "File:Kayangan Lake, Coron, Palawan.jpg",
+        "alt": "Kayangan Lake surrounded by limestone cliffs in Coron"
+      },
+      "text": "A crater lake reached by a short climb, with clear water and limestone walls, and a swimming platform.",
+      "tip": "Go early."
+    },
+    {
+      "name": "Twin Lagoon",
+      "image": {
+        "file": "File:Twin Lagoon Coron Palawan.jpg",
+        "alt": "Twin Lagoon in Coron with limestone cliffs"
+      },
+      "text": "Two lagoons connected through a narrow gap, with warm and cool layers of water.",
+      "tip": "Time for low tide."
+    },
+    {
+      "name": "Coron's limestone islands",
+      "image": {
+        "file": "File:Limestone Rocks, Coron Island, Philippines.jpg",
+        "alt": "Limestone rocks rising from the sea near Coron Island"
+      },
+      "text": "The islands of the bay are steep karst formations.",
+      "tip": "Take a boat at sunrise."
+    },
+    {
+      "name": "Japanese shipwrecks",
+      "text": "Wrecks such as the Akitsushima and Kogyo Maru, for divers.",
+      "tip": "Use a licensed dive centre."
+    },
+    {
+      "name": "Maquinit Hot Springs",
+      "text": "A seaside hot spring, best at sunset.",
+      "tip": "Go in the evening."
+    },
+    {
+      "name": "Mount Tapyas",
+      "text": "A hill with a giant cross and views over the town.",
+      "tip": "Climb at sunrise."
+    }
+  ],
+  "thingsToDoIntro": "Coron is about water.",
+  "thingsToDo": [
+    {
+      "title": "Take an island tour",
+      "text": "Kayangan, Twin Lagoon and beaches.",
+      "tip": "Book small groups."
+    },
+    {
+      "title": "Dive a wreck",
+      "text": "Explore sunk ships.",
+      "tip": "Book with a certified centre."
+    },
+    {
+      "title": "Snorkel Siete Pecados",
+      "text": "A coral reef.",
+      "tip": "Bring your own mask."
+    },
+    {
+      "title": "Soak in Maquinit",
+      "text": "Hot springs.",
+      "tip": "Go at sunset."
+    },
+    {
+      "title": "Climb Mount Tapyas",
+      "text": "700 steps.",
+      "tip": "Go at dawn."
+    },
+    {
+      "title": "Visit Barracuda Lake",
+      "text": "Warm water thermocline.",
+      "tip": "Not for weak swimmers."
+    }
+  ],
+  "foodIntro": "Coron's food is seafood and local Palawan dishes.",
+  "foods": [
+    {
+      "name": "Grilled fish",
+      "text": "Fresh catches.",
+      "whereToTry": "Waterfront restaurants."
+    },
+    {
+      "name": "Kinilaw",
+      "text": "Ceviche-style raw fish.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Cashew nuts",
+      "text": "Palawan's cashews.",
+      "whereToTry": "Shops."
+    },
+    {
+      "name": "Tamilok",
+      "text": "A local shipworm delicacy.",
+      "whereToTry": "Adventurous eaters."
+    },
+    {
+      "name": "Halo-halo",
+      "text": "Shaved-ice dessert.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Coron town or on an island.",
+    "areas": [
+      {
+        "name": "Coron town",
+        "bestFor": "Convenience",
+        "text": "Hostels and hotels."
+      },
+      {
+        "name": "Island resorts",
+        "bestFor": "Beach",
+        "text": "Secluded resorts."
+      },
+      {
+        "name": "Near the airport",
+        "bestFor": "Transit",
+        "text": "Guesthouses."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$8–15 per night" },
+      { "label": "Mid-range hotel", "value": "US$35–90 per night" },
+      { "label": "Resort", "value": "US$150–400 per night" },
+      { "label": "Island tour", "value": "US$20–35 per person, plus fees" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Coron is reached by air or ferry.",
+    "options": [
+      {
+        "mode": "Flight",
+        "text": "About 1 hour from Manila to Busuanga.",
+        "detail": "Book early."
+      },
+      {
+        "mode": "Ferry from El Nido",
+        "text": "About 4 to 5 hours.",
+        "detail": "Check schedules."
+      },
+      {
+        "mode": "Van from the airport",
+        "text": "About 45 minutes to Coron town.",
+        "detail": "Shared."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Tricycles and boats.",
+    "options": [
+      {
+        "mode": "Tricycle",
+        "text": "In town.",
+        "detail": "Agree fares."
+      },
+      {
+        "mode": "Boat",
+        "text": "To islands.",
+        "detail": "Book."
+      },
+      {
+        "mode": "Scooter",
+        "text": "To hot springs.",
+        "detail": "Wear a helmet."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–May",
+    "summary": "The dry season is best.",
+    "seasons": [
+      {
+        "season": "December–February",
+        "rating": "best",
+        "text": "Dry and calm."
+      },
+      {
+        "season": "March–May",
+        "rating": "best",
+        "text": "Hot and clear."
+      },
+      {
+        "season": "June–August",
+        "rating": "quiet",
+        "text": "Rain."
+      },
+      {
+        "season": "September–November",
+        "rating": "avoid",
+        "text": "Typhoons possible."
+      }
+    ],
+    "avoid": "The rainy season."
+  },
+  "itinerary": {
+    "title": "Three days in Coron",
+    "intro": "Lakes, wrecks and springs.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive",
+        "summary": "Town.",
+        "morning": "Ferry or flight.",
+        "afternoon": "Mount Tapyas.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 2,
+        "title": "Island hopping",
+        "summary": "Lakes.",
+        "morning": "Kayangan Lake.",
+        "afternoon": "Twin Lagoon and Siete Pecados.",
+        "evening": "Maquinit springs."
+      },
+      {
+        "day": 3,
+        "title": "Wreck day",
+        "summary": "Diving.",
+        "morning": "Wreck dive or snorkel.",
+        "afternoon": "Barracuda Lake.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book with responsible operators.",
+    "Pay environmental fees.",
+    "Bring cash.",
+    "Go early to lakes.",
+    "Bring reef-safe sunscreen.",
+    "Check weather.",
+    "Book flights early."
+  ],
+  "faq": [
+    {
+      "q": "How many days in Coron?",
+      "a": "Three."
+    },
+    {
+      "q": "Is Coron good for diving?",
+      "a": "Yes, for wrecks."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "Fly to Busuanga or take a ferry."
+    },
+    {
+      "q": "Is Kayangan Lake worth it?",
+      "a": "Yes."
+    },
+    {
+      "q": "When to go?",
+      "a": "December to May."
+    },
+    {
+      "q": "Is it crowded?",
+      "a": "Less than El Nido."
+    }
+  ],
+  "related": ["el-nido", "puerto-princesa", "cebu"],
+  "relatedArticles": ["mediterranean-coasts", "packing-by-season"]
+}

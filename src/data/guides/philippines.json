@@ -1,0 +1,134 @@
+{
+  "country": "philippines",
+  "title": "The Complete Philippines Travel Guide",
+  "subtitle": "How the archipelago divides, how to choose between the ten destinations, how to plan flights and ferries around the weather, and what two weeks can realistically hold.",
+  "summary": "The Philippines offers limestone lagoons, reefs, rice terraces and heritage towns across thousands of islands. This guide covers how the regions divide, how to choose between the ten destinations, how to travel between islands, when to go, what it costs and three routes that work.",
+  "readingTime": "13 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "How many islands can I realistically visit?",
+      "a": "In two weeks, two or three island groups. Inter-island travel takes time, and it is better to see fewer places well."
+    },
+    {
+      "q": "Should I book flights and ferries in advance?",
+      "a": "Book flights early for good prices. Ferries can usually be booked a day or two ahead, but leave buffer days for weather."
+    },
+    {
+      "q": "Are island tours worth booking?",
+      "a": "Yes. Small-group boat tours are the way to see lagoons and beaches in El Nido and Coron. Compare operators and read recent reviews."
+    },
+    {
+      "q": "Is it safe to travel during typhoon season?",
+      "a": "It is risky and disruptive. September to November is peak season for storms. If you go, buy flexible tickets and travel insurance."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-the-philippines-divides",
+      "title": "How the Philippines divides",
+      "navLabel": "The regions",
+      "body": [
+        "The Philippines has three main island groups, Luzon in the north, the Visayas in the centre and Mindanao in the south, and for a visitor it falls into five zones.",
+        "**Luzon.** [[manila|Manila]] is the gateway. North of it, [[banaue-batad|Banaue and Batad]] have rice terraces and [[vigan|Vigan]] has Spanish streets.",
+        "**Palawan.** [[el-nido|El Nido]], [[coron|Coron]] and [[puerto-princesa|Puerto Princesa]] hold limestone lagoons and the Underground River.",
+        "**The Visayas.** [[cebu|Cebu]], [[bohol|Bohol]] and [[boracay|Boracay]] are the beach, diving and hills heartland.",
+        "**Mindanao's north-east.** [[siargao|Siargao]] is the surf island."
+      ],
+      "note": "The practical unit is two or three of these, linked by flights from Manila or Cebu. Palawan and the Visayas together make a classic two-week trip."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[el-nido|El Nido]] and [[coron|Coron]] in Palawan, or [[cebu|Cebu]] and [[bohol|Bohol]] in the Visayas."
+        },
+        {
+          "title": "If you love beaches and islands",
+          "text": "[[el-nido|El Nido]], [[boracay|Boracay]] and [[coron|Coron]] have the best sand and lagoons."
+        },
+        {
+          "title": "If you love diving and snorkelling",
+          "text": "[[coron|Coron]] for wrecks, [[cebu|Cebu]] for sardines and whale sharks, and [[bohol|Panglao]] for reefs."
+        },
+        {
+          "title": "If you love culture and history",
+          "text": "[[manila|Manila's Intramuros]], [[vigan|Vigan]] and [[banaue-batad|the Ifugao terraces]]."
+        },
+        {
+          "title": "If you love surfing",
+          "text": "[[siargao|Siargao]] is the place, especially from August to November."
+        },
+        {
+          "title": "If you love nature",
+          "text": "[[puerto-princesa|The Underground River]], [[bohol|the Chocolate Hills and tarsiers]] and [[banaue-batad|Batad]]."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around",
+      "navLabel": "Getting around",
+      "body": [
+        "Inter-island travel is the main challenge of the Philippines, and requires flexibility.",
+        "**Flights.** Cebu Pacific, Philippine Airlines and AirAsia link Manila with most destinations. Book early, and keep a buffer day before an international flight.",
+        "**Ferries.** Fast ferries link Cebu and Bohol, and El Nido and Coron. Book with reputable operators.",
+        "**Local transport.** Jeepneys, tricycles, vans and Grab in cities.",
+        "**Vans.** The road from Puerto Princesa to El Nido takes about 5 to 6 hours in a shared van."
+      ],
+      "note": "Cancellations happen. Build slack into your schedule."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "The Philippines has a dry season and a wet season, and typhoons matter.",
+        "December to February is cool and dry, the most popular window.",
+        "March to May is hot and dry, ideal for beaches, diving and island hopping.",
+        "June to August is the start of the rains, cheaper and quieter, and the surf season starts at [[siargao|Siargao]].",
+        "September to November is peak typhoon season, with cancelled flights and ferries, particularly in the north."
+      ],
+      "note": "The southern islands are less affected by typhoons than Luzon and the Visayas."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "The Philippines is good value. A meal costs US$3–10, a mid-range hotel US$40–90, and an island-hopping tour US$15–30. Diving and domestic flights are the main costs.",
+        "Carry cash on islands, since ATMs can be scarce or empty.",
+        "Petty crime and scams occur in Manila. Government advisories apply to parts of Mindanao.",
+        "Always wear a life jacket on boats, and avoid overloaded vessels in bad weather."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: Palawan",
+          "text": "Fly to [[puerto-princesa|Puerto Princesa]], van to [[el-nido|El Nido]] for four nights, then ferry to [[coron|Coron]].",
+          "tip": "Book the El Nido ferry ahead."
+        },
+        {
+          "title": "Ten days: the Visayas",
+          "text": "Three nights in [[cebu|Cebu]] and Moalboal, then ferry to [[bohol|Bohol]] for three nights.",
+          "tip": "Add [[boracay|Boracay]] for beach days."
+        },
+        {
+          "title": "Two weeks: the classic",
+          "text": "The itinerary on the country page: Manila, Palawan, Cebu and Bohol.",
+          "tip": "Swap Coron for [[banaue-batad|Banaue]] if you love hiking."
+        }
+      ]
+    }
+  ]
+}
