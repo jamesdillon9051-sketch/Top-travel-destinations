@@ -1,0 +1,333 @@
+{
+  "slug": "jeju-island",
+  "name": "Jeju Island",
+  "shortName": "Jeju",
+  "country": "south-korea",
+  "region": "Jeju, island south of the peninsula",
+  "categories": ["island", "nature", "coastal", "unesco", "scenic"],
+  "tagline": "A volcanic island of lava tubes, a snow-capped crater, tangerine groves, black-rock coasts and white-sand coves, an hour by air from Seoul.",
+  "highlight": "Sunrise from the crater rim of Seongsan Ilchulbong, with the sea turning gold below.",
+  "shortDescription": "South Korea's volcanic island, with Hallasan mountain, the Seongsan Ilchulbong tuff cone, Manjanggul Lava Tube, beaches like Hyeopjae, tangerine farms and the female divers of the haenyeo.",
+  "metaDescription": "A Jeju Island travel guide: Hallasan hiking, Seongsan Ilchulbong, Manjanggul Lava Tube, Hyeopjae Beach, haenyeo divers, black pork, tangerines, where to stay, how to get around and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Jeju International (CJU)",
+  "knownFor": "Volcanic landscapes, Hallasan, beaches, haenyeo divers, tangerines",
+  "budget": "US$100–190 per day, mid-range, plus a car",
+  "goodFor": "Scenery, hiking, road trips, beaches, honeymooners",
+  "coords": { "lat": 33.4996, "lng": 126.5312 },
+  "image": {
+    "file": "File:Hydrangea macrophylla in front of Seongsan Ilchulbong volcano at blue hour in Jeju Island South Korea.jpg",
+    "alt": "Hydrangea flowers in front of the Seongsan Ilchulbong volcanic cone at blue hour"
+  },
+  "intro": [
+    "Jeju is a volcanic island about 85 km south of the Korean peninsula, built by eruptions over about two million years. It is dominated by Hallasan, at 1,947 metres the highest mountain in South Korea, and dotted with hundreds of smaller cones called oreum, with a coast of black basalt cliffs, sea caves and pale beaches. The island's volcanic landscape and lava tubes are a UNESCO World Heritage Site.",
+    "Jeju has its own culture. The island's dialect, stone walls, stone grandfather statues called dol hareubang and its haenyeo, female divers who harvest seafood on a single breath, set it apart from the mainland, and the haenyeo tradition is on UNESCO's intangible heritage list. Food is distinctive too, with black pork, abalone, tangerines and hallabong fruit.",
+    "Jeju is a classic short Korean holiday, an hour by air from Seoul and Busan, and the busiest air route in the world. It is best with a car, since sights are spread around the coast. Three days covers Seongsan, the lava tube, Hallasan and a beach, and spring and autumn are the best seasons, though the rapeseed flowers of spring and the winter camellias have their own following."
+  ],
+  "whyVisit": {
+    "intro": "Jeju is Korea's natural showpiece, a scenic island with a culture of its own.",
+    "points": [
+      {
+        "title": "A volcanic landscape",
+        "text": "Hallasan, craters, lava tubes and basalt cliffs."
+      },
+      {
+        "title": "Beaches and coast",
+        "text": "White sand and turquoise water at Hyeopjae."
+      },
+      {
+        "title": "Unique culture",
+        "text": "Haenyeo divers, stone walls and local dialect."
+      },
+      {
+        "title": "Distinctive food",
+        "text": "Black pork, abalone and tangerines."
+      },
+      {
+        "title": "Easy to reach",
+        "text": "About an hour by air from Seoul."
+      }
+    ]
+  },
+  "attractionsIntro": "Sights are spread around the coast and the volcano, so a car is the best way to link them.",
+  "attractions": [
+    {
+      "name": "Seongsan Ilchulbong",
+      "image": {
+        "file": "File:Seongsan, Jeju Island.jpg",
+        "alt": "The Seongsan Ilchulbong tuff cone rising from the sea on Jeju Island"
+      },
+      "text": "A 180-metre tuff cone formed by an undersea eruption, with a grassy crater rim reached by a 20-minute climb. It is famed for sunrise.",
+      "tip": "Go for sunrise, or late afternoon."
+    },
+    {
+      "name": "Hallasan National Park",
+      "image": {
+        "file": "File:Wooden staircase along Yeongsil Trail with the mountains of Hallasan Park Jeju Island South Korea.jpg",
+        "alt": "A wooden staircase along the Yeongsil Trail with Hallasan mountains beyond"
+      },
+      "text": "A dormant volcano with a crater lake at its summit, and trails such as Yeongsil, Eorimok and the long Seongpanak and Gwaneumsa routes.",
+      "tip": "Reserve summit trails online, and start early."
+    },
+    {
+      "name": "Manjanggul Lava Tube",
+      "image": {
+        "file": "File:Jeju-Manjanggul Lava Tube.jpg",
+        "alt": "The dark interior of Manjanggul Lava Tube on Jeju"
+      },
+      "text": "One of the world's longest lava tubes, with a section open to walkers, and tall passages, lava columns and a cool temperature.",
+      "tip": "Bring a jacket."
+    },
+    {
+      "name": "Hyeopjae Beach",
+      "image": {
+        "file": "File:Hyeopjae Beach Scenery.jpg",
+        "alt": "The pale sand and turquoise water of Hyeopjae Beach on Jeju"
+      },
+      "text": "A beach on the west coast with pale sand, clear water and views of Biyangdo island.",
+      "tip": "Go in early summer."
+    },
+    {
+      "name": "Jeju Haenyeo Museum",
+      "text": "A museum in the north-east about the female free divers and their culture.",
+      "tip": "Combine with a coastal seafood lunch."
+    },
+    {
+      "name": "Oreum volcanic hills",
+      "text": "Small volcanic cones that are easy to climb, with sweeping views, such as Saebyeol Oreum and Yongnuni.",
+      "tip": "Go at sunset."
+    }
+  ],
+  "thingsToDoIntro": "Jeju is for driving, hiking and slow coastal stops.",
+  "thingsToDo": [
+    {
+      "title": "Climb Hallasan",
+      "text": "Hike Korea's highest peak in one long day.",
+      "tip": "Book the trail slot and start at dawn."
+    },
+    {
+      "title": "Drive the coast",
+      "text": "Loop the island road, stopping at beaches and cliffs.",
+      "tip": "Rent a car for three days."
+    },
+    {
+      "title": "Watch a haenyeo dive",
+      "text": "See divers work at Seongsan or Hado.",
+      "tip": "Ask at the local museum."
+    },
+    {
+      "title": "Walk the Olle Trails",
+      "text": "Marked coastal walking routes.",
+      "tip": "Follow the blue and orange ribbons."
+    },
+    {
+      "title": "Visit a tangerine farm",
+      "text": "Pick fruit in autumn and winter.",
+      "tip": "Go in November."
+    },
+    {
+      "title": "See waterfalls",
+      "text": "Cheonjiyeon and Jeongbang falls.",
+      "tip": "Visit after rain."
+    }
+  ],
+  "foodIntro": "Jeju's food is built on black pork, seafood and citrus.",
+  "foods": [
+    {
+      "name": "Black pork (heukdwaeji)",
+      "text": "Grilled slabs of Jeju's black pig.",
+      "whereToTry": "Barbecue restaurants in Jeju City."
+    },
+    {
+      "name": "Abalone porridge (jeonbokjuk)",
+      "text": "Rice porridge with abalone.",
+      "whereToTry": "Seaside restaurants."
+    },
+    {
+      "name": "Hallabong and tangerines",
+      "text": "Citrus fruit grown on the island.",
+      "whereToTry": "Farms and markets."
+    },
+    {
+      "name": "Grilled cutlassfish",
+      "text": "A silvery fish from local waters.",
+      "whereToTry": "Restaurants in Seogwipo."
+    },
+    {
+      "name": "Fresh seafood stew (haemul ttukbaegi)",
+      "text": "A spicy pot of shellfish.",
+      "whereToTry": "Coastal villages."
+    },
+    {
+      "name": "Green tea and citrus desserts",
+      "text": "Green tea from the Osulloc fields.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Base yourself in Jeju City or Seogwipo, or by a beach.",
+    "areas": [
+      {
+        "name": "Jeju City",
+        "bestFor": "Restaurants and the airport",
+        "text": "The main city on the north coast."
+      },
+      {
+        "name": "Seogwipo",
+        "bestFor": "Waterfalls and southern sights",
+        "text": "A quieter town on the south coast."
+      },
+      {
+        "name": "Seongsan and the east",
+        "bestFor": "Sunrise and calm",
+        "text": "Guesthouses near the cone."
+      },
+      {
+        "name": "West coast (Hyeopjae)",
+        "bestFor": "Beaches",
+        "text": "Pensions and cafés by the sea."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$35–65 per night" },
+      { "label": "Mid-range hotel", "value": "US$90–160 per night" },
+      { "label": "Resort", "value": "US$200–450 per night" },
+      { "label": "Rental car", "value": "US$45–90 per day" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Jeju is reached by air from Seoul, Busan and other cities.",
+    "options": [
+      {
+        "mode": "Flight from Seoul",
+        "text": "About one hour from Gimpo, with many flights daily.",
+        "detail": "Book early for holidays."
+      },
+      {
+        "mode": "Flight from Busan",
+        "text": "About one hour.",
+        "detail": "Low-cost carriers fly."
+      },
+      {
+        "mode": "Ferry",
+        "text": "Overnight ferries from Mokpo and Wando take several hours.",
+        "detail": "Less common."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is the best way to see the island.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The best option. Foreign visitors need an international driving permit.",
+        "detail": "Book ahead and use Kakao Navi or Naver Map."
+      },
+      {
+        "mode": "Bus",
+        "text": "Buses connect towns but are slow.",
+        "detail": "Use Naver Map."
+      },
+      {
+        "mode": "Taxi tour",
+        "text": "A driver for the day.",
+        "detail": "Negotiate the price."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–May and September–October",
+    "summary": "Jeju is milder than the mainland in winter but windy, and it is rainy in summer.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Rapeseed and cherry blossoms in April."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Beach season, but humid, rainy and busy."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Clear, with silver grass on the oreum."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool and windy, with snow on Hallasan and winter camellias."
+      }
+    ],
+    "avoid": "Typhoon days in late summer and autumn."
+  },
+  "itinerary": {
+    "title": "Three days on Jeju",
+    "intro": "The east on the first day, the mountain on the second, and the west coast on the third.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The east",
+        "summary": "Cone and cave.",
+        "morning": "Sunrise at Seongsan Ilchulbong.",
+        "afternoon": "Manjanggul Lava Tube.",
+        "evening": "Black pork dinner."
+      },
+      {
+        "day": 2,
+        "title": "Hallasan",
+        "summary": "The mountain.",
+        "morning": "Hike the Yeongsil Trail.",
+        "afternoon": "Rest and tangerine tea.",
+        "evening": "Seafood in Seogwipo."
+      },
+      {
+        "day": 3,
+        "title": "The west",
+        "summary": "The beach.",
+        "morning": "Drive to Hyeopjae.",
+        "afternoon": "Swim or walk the coast.",
+        "evening": "Fly out."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make Jeju easier.",
+  "tips": [
+    "Rent a car, and get an international driving permit.",
+    "Book Hallasan summit slots ahead.",
+    "Bring a windbreaker.",
+    "Check the weather, since fog and wind can close trails.",
+    "Book flights early for holidays.",
+    "Use Naver Map or Kakao Map.",
+    "Do not touch or feed wild horses."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need on Jeju?",
+      "a": "Three days is good, and four to five allow a slower pace."
+    },
+    {
+      "q": "Do I need a car?",
+      "a": "It is the easiest way. Buses and taxis work for a few sights."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "April to May and September to October."
+    },
+    {
+      "q": "Can I hike Hallasan in a day?",
+      "a": "Yes, it takes about 8 hours return, and requires a reservation for the summit trails."
+    },
+    {
+      "q": "Do I need a visa for Jeju?",
+      "a": "Jeju has had a visa-free policy for many nationalities. Check current rules."
+    },
+    {
+      "q": "What is a haenyeo?",
+      "a": "A woman free diver who harvests seafood, a tradition on Jeju."
+    }
+  ],
+  "related": ["busan", "seoul", "gyeongju"],
+  "relatedArticles": ["us-national-parks-road-trip", "underrated-destinations"]
+}

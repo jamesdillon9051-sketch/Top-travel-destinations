@@ -1,0 +1,299 @@
+{
+  "slug": "suwon-hwaseong",
+  "name": "Suwon and Hwaseong Fortress",
+  "shortName": "Suwon",
+  "country": "south-korea",
+  "region": "Gyeonggi, south of Seoul",
+  "categories": ["historic", "unesco", "cultural"],
+  "tagline": "An 18th-century fortress wall you can walk all the way round, gates, watchtowers and a palace, a short train ride south of Seoul.",
+  "highlight": "Walking the fortress wall at sunset, with the gates and the city glowing below.",
+  "shortDescription": "A UNESCO-listed fortress of about 5.7 km of walls, gates and turrets, with Haenggung Palace, archery, a traditional market and a famous fried chicken street, an easy day trip from Seoul.",
+  "metaDescription": "A Suwon and Hwaseong Fortress travel guide: walking the wall, Paldalmun and Janganmun gates, Haenggung Palace, archery, Suwon fried chicken, how to get there from Seoul and a one-day plan.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Incheon International (ICN), about 1.5 hours",
+  "knownFor": "Fortress walls, gates, Haenggung Palace, UNESCO, fried chicken",
+  "budget": "US$70–120 per day, from Seoul",
+  "goodFor": "Day trips, history, walking, families",
+  "coords": { "lat": 37.2866, "lng": 127.0117 },
+  "image": {
+    "file": "File:Hwaseong Fortress 03.jpg",
+    "alt": "The stone walls and gate of Hwaseong Fortress in Suwon"
+  },
+  "intro": [
+    "Hwaseong Fortress was built in the 1790s by King Jeongjo of the Joseon dynasty, who wanted a new city to honour his father and to strengthen the royal power. It took about two years to build, and was designed by scholars who studied Chinese and Western military engineering, with stone and brick walls, four main gates, watchtowers, bastions and a pavilion for signalling with fire. It is a UNESCO World Heritage Site, and much of it has been restored using detailed records kept at the time.",
+    "The wall runs for about 5.7 km around the old part of Suwon, and it can be walked in two or three hours. The route passes gates such as Paldalmun in the south and Janganmun in the north, and offers views across the modern city. Inside the wall, Haenggung is a temporary palace where the king stayed on his visits, and there are archery ranges and a martial-arts performance.",
+    "Suwon lies about 30 km south of Seoul, so it is one of the easiest day trips from the capital, by subway or train in under an hour. It is also famous for its fried chicken and a lively market around the walls, and a day is enough for the wall, the palace and lunch."
+  ],
+  "whyVisit": {
+    "intro": "Hwaseong is the easiest historic day trip from Seoul, and a good place for a walk.",
+    "points": [
+      {
+        "title": "A walkable fortress",
+        "text": "About 5.7 km of wall to follow."
+      },
+      {
+        "title": "Gates and turrets",
+        "text": "Elegant military architecture."
+      },
+      {
+        "title": "A palace",
+        "text": "Haenggung Palace."
+      },
+      {
+        "title": "Easy from Seoul",
+        "text": "Under an hour by train."
+      },
+      {
+        "title": "Street food",
+        "text": "Suwon's fried chicken and markets."
+      }
+    ]
+  },
+  "attractionsIntro": "The fortress is a loop, so choose your start.",
+  "attractions": [
+    {
+      "name": "The fortress wall",
+      "image": {
+        "file": "File:Hwaseong Fortress 01.jpg",
+        "alt": "The curving wall of Hwaseong Fortress with a watchtower"
+      },
+      "text": "A 5.7 km wall of stone and brick with battlements, walkable in whole or in part, with views over the old and new city.",
+      "tip": "Walk clockwise from Paldalmun."
+    },
+    {
+      "name": "Haenggung Palace",
+      "image": {
+        "file": "File:Haenggung Palace in autumn, Suwon.2.jpg",
+        "alt": "Haenggung Palace in autumn with red and gold leaves"
+      },
+      "text": "A palace where King Jeongjo stayed while visiting his father's tomb, restored after the 1990s.",
+      "tip": "Watch the martial arts performance."
+    },
+    {
+      "name": "Paldalmun Gate",
+      "text": "The grand south gate of the fortress.",
+      "tip": "A good starting point."
+    },
+    {
+      "name": "Hwaseomun and Janganmun",
+      "text": "The west and north gates, with impressive walls.",
+      "tip": "Photograph at golden hour."
+    },
+    {
+      "name": "Hwaseong Haenggung Archery",
+      "text": "Try traditional archery.",
+      "tip": "Short lesson."
+    },
+    {
+      "name": "Suwon Hwaseong Trolley",
+      "text": "A small train that tours the walls.",
+      "tip": "Good for tired legs."
+    }
+  ],
+  "thingsToDoIntro": "Suwon is for walking, watching and eating.",
+  "thingsToDo": [
+    {
+      "title": "Walk the wall",
+      "text": "Take two to three hours.",
+      "tip": "Start early."
+    },
+    {
+      "title": "Try archery",
+      "text": "Shoot a traditional bow.",
+      "tip": "Go with a group."
+    },
+    {
+      "title": "Watch a guard ceremony",
+      "text": "A performance of martial arts.",
+      "tip": "Check the schedule."
+    },
+    {
+      "title": "Eat Suwon chicken",
+      "text": "Crispy fried chicken.",
+      "tip": "Visit the chicken street."
+    },
+    {
+      "title": "See the fortress at night",
+      "text": "The gates are lit after dark.",
+      "tip": "Stay for sunset."
+    },
+    {
+      "title": "Visit the Hwaseong Museum",
+      "text": "Learn about the fortress.",
+      "tip": "Free."
+    }
+  ],
+  "foodIntro": "Suwon is known for its fried chicken and galbi.",
+  "foods": [
+    {
+      "name": "Suwon galbi",
+      "text": "Grilled marinated beef ribs.",
+      "whereToTry": "Restaurants near the wall."
+    },
+    {
+      "name": "Tongdak (whole fried chicken)",
+      "text": "A whole chicken fried in a pan.",
+      "whereToTry": "Paldalmun chicken street."
+    },
+    {
+      "name": "Pumpkin and chestnut snacks",
+      "text": "Seasonal snacks.",
+      "whereToTry": "Market stalls."
+    },
+    {
+      "name": "Naengmyeon and mandu",
+      "text": "Cold noodles and dumplings.",
+      "whereToTry": "Restaurants near the market."
+    },
+    {
+      "name": "Haejangguk",
+      "text": "A hearty soup.",
+      "whereToTry": "Local restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most people visit as a day trip from Seoul.",
+    "areas": [
+      {
+        "name": "Near Paldalmun",
+        "bestFor": "Fortress access",
+        "text": "Hotels and guesthouses."
+      },
+      {
+        "name": "Suwon Station",
+        "bestFor": "Transport",
+        "text": "Business hotels."
+      },
+      {
+        "name": "Seoul",
+        "bestFor": "A base",
+        "text": "Stay in Seoul."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$30–55 per night" },
+      { "label": "Mid-range hotel", "value": "US$70–130 per night" },
+      { "label": "Luxury hotel", "value": "US$150–300 per night" },
+      { "label": "Chicken meal", "value": "US$10–20 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Suwon is about 30 km south of Seoul.",
+    "options": [
+      {
+        "mode": "Subway or train",
+        "text": "About 45 to 60 minutes from central Seoul to Suwon Station on Line 1 or the Suin-Bundang line.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "Bus",
+        "text": "Buses run from central Seoul.",
+        "detail": "Traffic varies."
+      },
+      {
+        "mode": "Taxi",
+        "text": "From Suwon Station to the fortress, about 10 minutes.",
+        "detail": "Cheap."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Walk the wall, or use a trolley.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The whole route.",
+        "detail": "Wear good shoes."
+      },
+      {
+        "mode": "Hwaseong trolley",
+        "text": "A small tourist train.",
+        "detail": "Check the season."
+      },
+      {
+        "mode": "Bus",
+        "text": "Buses from Suwon Station.",
+        "detail": "Use Naver Map."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–May and October",
+    "summary": "Suwon has the same climate as Seoul.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Cherry blossom and fresh leaves."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Hot and humid."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Golden leaves."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold, but clear."
+      }
+    ],
+    "avoid": "The hottest summer days."
+  },
+  "itinerary": {
+    "title": "One day in Suwon",
+    "intro": "The wall, the palace and lunch.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Fortress day",
+        "summary": "A loop.",
+        "morning": "Train from Seoul, then Haenggung Palace.",
+        "afternoon": "Walk the wall from Paldalmun.",
+        "evening": "Fried chicken, then return to Seoul."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you enjoy Suwon.",
+  "tips": [
+    "Start early.",
+    "Wear comfortable shoes.",
+    "Bring water.",
+    "Try the chicken street.",
+    "Visit on a weekday.",
+    "Check the performance times.",
+    "Stay for sunset."
+  ],
+  "faq": [
+    {
+      "q": "Is Suwon worth a day trip?",
+      "a": "Yes. It is easy and rewarding."
+    },
+    {
+      "q": "How long does the wall take?",
+      "a": "Two to three hours."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "Subway or train from Seoul in about an hour."
+    },
+    {
+      "q": "Is it a UNESCO site?",
+      "a": "Yes, it was listed in 1997."
+    },
+    {
+      "q": "Can I walk the whole wall?",
+      "a": "Yes, it is a loop."
+    },
+    {
+      "q": "When is it best?",
+      "a": "April, May and October."
+    }
+  ],
+  "related": ["seoul", "dmz-panmunjom", "andong-hahoe"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

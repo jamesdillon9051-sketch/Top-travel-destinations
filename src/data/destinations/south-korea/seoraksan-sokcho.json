@@ -1,0 +1,303 @@
+{
+  "slug": "seoraksan-sokcho",
+  "name": "Seoraksan and Sokcho",
+  "shortName": "Seoraksan",
+  "country": "south-korea",
+  "region": "Gangwon, north-east coast",
+  "categories": ["national-park", "mountains", "nature", "scenic", "coastal"],
+  "tagline": "Jagged granite peaks, waterfalls, hermitages and autumn colour beside a sea-view fishing port known for squid and sundae.",
+  "highlight": "A cable car to Gwongeumseong fortress, with the granite spires of Seoraksan spread out below in October.",
+  "shortDescription": "South Korea's most beautiful mountain park, with the Ulsanbawi rock, Biryong Falls, the cable car to Gwongeumseong and hiking to Daecheongbong, plus the port town of Sokcho and its seafood market.",
+  "metaDescription": "A Seoraksan and Sokcho travel guide: Ulsanbawi, Gwongeumseong cable car, Biryong Falls, Sinheungsa temple, Daecheongbong hike, autumn colour, Sokcho seafood, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Yangyang (YNY), about 30 minutes; most visitors come by bus from Seoul",
+  "knownFor": "Granite peaks, autumn foliage, hiking, temples, seafood",
+  "budget": "US$80–150 per day, mid-range",
+  "goodFor": "Hikers, autumn colour, scenery, sea and mountains together",
+  "coords": { "lat": 38.1195, "lng": 128.4656 },
+  "image": {
+    "file": "File:Seoraksan National Park panorama 3.jpg",
+    "alt": "A wide panorama of the granite peaks of Seoraksan National Park"
+  },
+  "intro": [
+    "Seoraksan is the crown of the Taebaek range in Gangwon Province, and South Korea's most beloved mountain park. Its highest peak, Daecheongbong, reaches 1,708 metres, the third highest in the country, and its landscape is one of sharp granite ridges, deep valleys, waterfalls and old pines. It is a UNESCO Biosphere Reserve, and it is the country's most reliable place to see autumn foliage, which usually peaks in the second half of October.",
+    "The park is easy to enjoy at any level. Short walks lead from the entrance to Sinheungsa Temple and a giant bronze Buddha, cable cars go up to the ruined fortress of Gwongeumseong for wide views, and longer trails climb to Ulsanbawi, a rock face reached by steep stairs, and Biryong Falls. Experienced hikers can cross to Daecheongbong on a long day, often with an overnight stay in a mountain shelter.",
+    "The gateway is Sokcho, a small port town on the coast, where fishing boats unload squid, and where you can eat sundae (blood sausage) and fresh raw fish at Sokcho Tourist Fish Market. It is about two and a half hours from Seoul by express bus, and the sea and mountains are so close that you can watch a sunrise on the beach and hike in the afternoon."
+  ],
+  "whyVisit": {
+    "intro": "Seoraksan gives Korea's grandest mountain scenery, with the sea next door.",
+    "points": [
+      {
+        "title": "Dramatic granite peaks",
+        "text": "Sharp ridges and rock spires."
+      },
+      {
+        "title": "Autumn foliage",
+        "text": "The most famous colour in the country."
+      },
+      {
+        "title": "Easy and hard trails",
+        "text": "From gentle walks to a full-day climb."
+      },
+      {
+        "title": "Temples and hermitages",
+        "text": "Sinheungsa and cliff-side sites."
+      },
+      {
+        "title": "Sokcho's seafood",
+        "text": "A lively fish market on the coast."
+      }
+    ]
+  },
+  "attractionsIntro": "Most visitors use Seoraksan's main entrance near Sokcho.",
+  "attractions": [
+    {
+      "name": "Gwongeumseong and the cable car",
+      "image": {
+        "file": "File:Footbridge at Seoraksan National Park.jpg",
+        "alt": "A footbridge crossing a valley at Seoraksan National Park"
+      },
+      "text": "A cable car rises to a mountain fortress with sweeping views over the peaks, followed by a short climb.",
+      "tip": "Book early in October, since queues can be long."
+    },
+    {
+      "name": "Ulsanbawi Rock",
+      "text": "A huge rock formation reached by a hike of about 3.8 km and 800 steps, with big views.",
+      "tip": "Start early, and expect a steep climb."
+    },
+    {
+      "name": "Biryong Falls",
+      "text": "A waterfall reached by an easy trail through a forest.",
+      "tip": "A good short hike."
+    },
+    {
+      "name": "Sinheungsa Temple",
+      "text": "A temple founded in the 7th century at the park's entrance, with a giant bronze Buddha.",
+      "tip": "Visit before hiking."
+    },
+    {
+      "name": "Sokcho Tourist Fish Market",
+      "text": "A market of seafood stalls and restaurants, with fresh squid and crab.",
+      "tip": "Go in the evening."
+    },
+    {
+      "name": "Abai Village",
+      "text": "A village of North Korean refugees on a small strip of land, reached by a hand-pulled ferry, known for its squid sundae.",
+      "tip": "Take the small ferry."
+    }
+  ],
+  "thingsToDoIntro": "Seoraksan is for walking, and Sokcho is for eating.",
+  "thingsToDo": [
+    {
+      "title": "Hike Ulsanbawi",
+      "text": "Climb the stairs to a big view.",
+      "tip": "Go on a clear morning."
+    },
+    {
+      "title": "Ride the cable car",
+      "text": "A short ride to the fortress.",
+      "tip": "Check the schedule."
+    },
+    {
+      "title": "Climb Daecheongbong",
+      "text": "A full-day route to the summit.",
+      "tip": "Start before dawn."
+    },
+    {
+      "title": "Soak in a hot spring",
+      "text": "Spa waters near the park.",
+      "tip": "Go after a hike."
+    },
+    {
+      "title": "Watch a sunrise at Sokcho Beach",
+      "text": "See the sea change colour.",
+      "tip": "Check the time."
+    },
+    {
+      "title": "Try a templestay",
+      "text": "Overnight at a local temple.",
+      "tip": "Book ahead."
+    }
+  ],
+  "foodIntro": "The region is known for fresh seafood and simple mountain food.",
+  "foods": [
+    {
+      "name": "Squid sundae (ojingeo sundae)",
+      "text": "Squid stuffed with rice and vegetables.",
+      "whereToTry": "Abai Village."
+    },
+    {
+      "name": "Dakgangjeong",
+      "text": "Sweet, crispy chicken.",
+      "whereToTry": "Sokcho market."
+    },
+    {
+      "name": "Raw fish and crab",
+      "text": "Snow crab and sashimi.",
+      "whereToTry": "Sokcho fish market."
+    },
+    {
+      "name": "Sundubu (soft tofu) stew",
+      "text": "A local tofu dish.",
+      "whereToTry": "Chodang village."
+    },
+    {
+      "name": "Mountain vegetable meals",
+      "text": "Herbs and roots on a table of small dishes.",
+      "whereToTry": "Restaurants near the park."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay near the park entrance or in Sokcho.",
+    "areas": [
+      {
+        "name": "Seoraksan entrance",
+        "bestFor": "Early hikes",
+        "text": "Pensions and hotels."
+      },
+      {
+        "name": "Sokcho city",
+        "bestFor": "Food and nightlife",
+        "text": "Hotels and guesthouses."
+      },
+      {
+        "name": "Daepo and beach",
+        "bestFor": "Sea views",
+        "text": "Resorts."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$30–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$70–140 per night" },
+      { "label": "Resort", "value": "US$150–300 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$8–20 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Sokcho is reached by bus from Seoul.",
+    "options": [
+      {
+        "mode": "Express bus from Seoul",
+        "text": "About two and a half hours from Dong Seoul Terminal.",
+        "detail": "Book early in autumn."
+      },
+      {
+        "mode": "Train and bus",
+        "text": "KTX to Gangneung, then a bus north.",
+        "detail": "Longer."
+      },
+      {
+        "mode": "Flight to Yangyang",
+        "text": "Limited flights.",
+        "detail": "Check."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Buses link Sokcho and the park entrance.",
+    "options": [
+      {
+        "mode": "Bus",
+        "text": "Bus routes link Sokcho with the park in about 30 minutes.",
+        "detail": "Use Naver Map."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Cheap over short distances.",
+        "detail": "Agree a fare."
+      },
+      {
+        "mode": "On foot",
+        "text": "Within the park.",
+        "detail": "Wear hiking shoes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October for colour",
+    "summary": "Seoraksan is cold in winter and pleasant in spring and autumn.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "good",
+        "text": "Azaleas and fresh green."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Cool on the mountain, with rain."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Peak foliage in mid to late October."
+      },
+      {
+        "season": "Winter (December–March)",
+        "rating": "quiet",
+        "text": "Snow and ice, with limited trails."
+      }
+    ],
+    "avoid": "Weekends in peak foliage, and winter without equipment."
+  },
+  "itinerary": {
+    "title": "Two days at Seoraksan",
+    "intro": "A mountain day and a coast day.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The mountain",
+        "summary": "Peaks and temple.",
+        "morning": "Sinheungsa and the Ulsanbawi hike.",
+        "afternoon": "Gwongeumseong cable car.",
+        "evening": "Seafood in Sokcho."
+      },
+      {
+        "day": 2,
+        "title": "The coast",
+        "summary": "Sea and food.",
+        "morning": "Sunrise at Sokcho Beach.",
+        "afternoon": "Abai Village and the fish market.",
+        "evening": "Bus to Seoul."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you hike Seoraksan.",
+  "tips": [
+    "Go on a weekday in October.",
+    "Start hiking early.",
+    "Wear hiking shoes and layers.",
+    "Check trail closures.",
+    "Book buses and rooms early in autumn.",
+    "Bring water and snacks.",
+    "Respect wildlife rules."
+  ],
+  "faq": [
+    {
+      "q": "When is Seoraksan at its best?",
+      "a": "The second half of October, for autumn colour."
+    },
+    {
+      "q": "How do I get there from Seoul?",
+      "a": "An express bus to Sokcho, then a local bus to the park."
+    },
+    {
+      "q": "Do I need to be fit?",
+      "a": "Not for the short walks. Ulsanbawi and Daecheongbong are strenuous."
+    },
+    {
+      "q": "Is it worth going in winter?",
+      "a": "Yes for snow scenery, with care."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Two days."
+    },
+    {
+      "q": "Can I combine it with Gangneung?",
+      "a": "Yes, they are about an hour apart."
+    }
+  ],
+  "related": ["gangneung", "seoul", "dmz-panmunjom"],
+  "relatedArticles": ["us-national-parks-road-trip", "underrated-destinations"]
+}

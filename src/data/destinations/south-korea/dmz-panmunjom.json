@@ -1,0 +1,307 @@
+{
+  "slug": "dmz-panmunjom",
+  "name": "The DMZ and Panmunjom",
+  "shortName": "The DMZ",
+  "country": "south-korea",
+  "region": "Gyeonggi and Gangwon, north of Seoul",
+  "categories": ["historic", "off-the-beaten-path", "cultural"],
+  "tagline": "One of the most heavily guarded borders on earth, a four-kilometre strip of tunnels, observation posts and wildlife, an hour north of Seoul.",
+  "highlight": "Looking across the border from an observatory at a landscape the two Koreas have watched each other across since 1953.",
+  "shortDescription": "The Demilitarized Zone between North and South Korea, with tunnels, the Dora Observatory, Imjingak and, when open, the Joint Security Area at Panmunjom, visited on guided tours from Seoul.",
+  "metaDescription": "A DMZ and Panmunjom travel guide: Imjingak, the Third Tunnel, Dora Observatory, the Joint Security Area, how to book tours from Seoul, rules, safety, history and a one-day plan.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Incheon International (ICN), about 1.5 hours to Seoul then a tour",
+  "knownFor": "The border, tunnels, observatories, Cold War history",
+  "budget": "US$50–150 for a guided tour",
+  "goodFor": "History and politics, unusual travel, day trips from Seoul",
+  "coords": { "lat": 37.9550, "lng": 126.6770 },
+  "image": {
+    "file": "File:Peace Altar at Imjingak, Demilitarized Zone (DMZ), South Korea.jpg",
+    "alt": "The Peace Altar at Imjingak near the Demilitarized Zone"
+  },
+  "intro": [
+    "The Korean Demilitarized Zone is a strip of land about 250 km long and 4 km wide that cuts across the peninsula near the 38th parallel. It was set up by the armistice agreement of 1953, which halted the fighting of the Korean War without a peace treaty, and it remains a heavily guarded frontier, lined with fences, minefields and guard posts on both sides. Ironically, with few people allowed inside, it has also become a refuge for wildlife, including cranes and other rare birds.",
+    "For visitors, the DMZ is a strange, moving and sometimes tense place. Tours from Seoul usually visit Imjingak, a park with memorials and a bridge where prisoners were exchanged, one of the tunnels dug by North Korea under the border, and Dora Observatory, where binoculars look out over the North. Some tours reach the Joint Security Area at Panmunjom, where blue huts straddle the border and soldiers face each other, but access there is controlled and depends on the political situation, and is sometimes suspended.",
+    "You cannot visit the DMZ independently. Tours are run by the government-approved operators and the USO, they require a passport, and they have dress codes and rules about photos. Book ahead, follow instructions, and treat it with respect, since it is a place where a war remains unresolved and families are still separated."
+  ],
+  "whyVisit": {
+    "intro": "The DMZ is a memorable, thought-provoking day that puts the Korean story in context.",
+    "points": [
+      {
+        "title": "A unique border",
+        "text": "One of the world's most militarised frontiers."
+      },
+      {
+        "title": "Cold War history",
+        "text": "Tunnels, memorials and observation posts."
+      },
+      {
+        "title": "Views of North Korea",
+        "text": "From Dora Observatory."
+      },
+      {
+        "title": "Wildlife",
+        "text": "A refuge for cranes and other species."
+      },
+      {
+        "title": "Close to Seoul",
+        "text": "About an hour north."
+      }
+    ]
+  },
+  "attractionsIntro": "Tour routes vary, but most include some of these places.",
+  "attractions": [
+    {
+      "name": "Imjingak",
+      "image": {
+        "file": "File:Peace Altar at Imjingak, Demilitarized Zone (DMZ), South Korea.jpg",
+        "alt": "The Peace Altar at Imjingak with memorial ribbons"
+      },
+      "text": "A park near the border with memorials, a Peace Bell and the Freedom Bridge, where prisoners of war crossed in 1953. Ribbons and messages from separated families hang from the fences.",
+      "tip": "Free to visit without a tour."
+    },
+    {
+      "name": "Dora Observatory",
+      "image": {
+        "file": "File:Dora Observatory, Demilitarized Zone (DMZ), South Korea.jpg",
+        "alt": "The Dora Observatory viewing platform overlooking the border"
+      },
+      "text": "An observation post where you can use binoculars to see the North's propaganda village and land beyond the border.",
+      "tip": "Photography is limited to a line."
+    },
+    {
+      "name": "The Third Infiltration Tunnel",
+      "image": {
+        "file": "File:3RD INFILTRATION TUNNEL AT THE DMZ SOUTH KOREA OCT 2012 (8213209373).jpg",
+        "alt": "The entrance to the Third Infiltration Tunnel at the DMZ"
+      },
+      "text": "A tunnel discovered in 1978, dug by North Korea under the border, which you can walk down. It is low and steep, and helmets are required.",
+      "tip": "Bring no large bags, and expect a stooping walk."
+    },
+    {
+      "name": "Joint Security Area (Panmunjom)",
+      "image": {
+        "file": "File:Demilitarized Zone (DMZ) Joint Security Area (JSA) Looking Into North Korea (28819154694).jpg",
+        "alt": "The Joint Security Area at the DMZ looking toward North Korea"
+      },
+      "text": "The blue conference huts on the border line, where soldiers of both sides stand face to face. Visits are strictly controlled and sometimes suspended.",
+      "tip": "Check availability when you book."
+    },
+    {
+      "name": "Dorasan Station",
+      "text": "A train station built for a hoped-for rail link to the North, and never used for regular passenger service.",
+      "tip": "Often on tours."
+    },
+    {
+      "name": "DMZ Theater and Exhibition Hall",
+      "text": "A museum about the DMZ's history and nature.",
+      "tip": "Short."
+    }
+  ],
+  "thingsToDoIntro": "The DMZ is a guided experience.",
+  "thingsToDo": [
+    {
+      "title": "Join a DMZ tour",
+      "text": "Half-day or full-day tours run from Seoul.",
+      "tip": "Book weeks ahead."
+    },
+    {
+      "title": "Walk down a tunnel",
+      "text": "Go 73 metres below ground.",
+      "tip": "Not for claustrophobes."
+    },
+    {
+      "title": "Look through binoculars",
+      "text": "See the North from the observatory.",
+      "tip": "Bring coins if required."
+    },
+    {
+      "title": "Visit Imjingak",
+      "text": "Read the ribbons and memorials.",
+      "tip": "A quiet moment."
+    },
+    {
+      "title": "Try the Peace Trail",
+      "text": "Some hiking routes reopen periodically.",
+      "tip": "Check the rules."
+    },
+    {
+      "title": "Watch for cranes",
+      "text": "Migratory birds in winter.",
+      "tip": "Go in winter."
+    }
+  ],
+  "foodIntro": "The DMZ area has simple food, and most tours include a lunch.",
+  "foods": [
+    {
+      "name": "Bibimbap lunch",
+      "text": "A common tour lunch.",
+      "whereToTry": "Restaurants near Imjingak."
+    },
+    {
+      "name": "Unification snacks",
+      "text": "Local tourist food such as roasted chestnuts.",
+      "whereToTry": "Imjingak stalls."
+    },
+    {
+      "name": "Dubu (tofu) dishes",
+      "text": "Tofu is a local speciality.",
+      "whereToTry": "Restaurants in Paju."
+    },
+    {
+      "name": "Jangdan beans",
+      "text": "Paju is known for its beans.",
+      "whereToTry": "Local markets."
+    },
+    {
+      "name": "Korean barbecue",
+      "text": "After returning to Seoul.",
+      "whereToTry": "Hongdae."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Seoul and take a day tour.",
+    "areas": [
+      {
+        "name": "Seoul (Myeongdong)",
+        "bestFor": "Tour pick-ups",
+        "text": "Many tours leave from here."
+      },
+      {
+        "name": "Seoul (Hongdae)",
+        "bestFor": "Nightlife",
+        "text": "Close to Paju by train."
+      },
+      {
+        "name": "Paju",
+        "bestFor": "Quiet",
+        "text": "Guesthouses."
+      }
+    ],
+    "budget": [
+      { "label": "DMZ half-day tour", "value": "US$50–90" },
+      { "label": "Tour including JSA", "value": "US$80–150" },
+      { "label": "Mid-range hotel in Seoul", "value": "US$90–170 per night" },
+      { "label": "Lunch on tour", "value": "US$8–15" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Tours leave from Seoul.",
+    "options": [
+      {
+        "mode": "Guided tour",
+        "text": "About one to two hours by bus from Seoul, on half- or full-day tours.",
+        "detail": "The only way to reach most sites."
+      },
+      {
+        "mode": "Train to Imjingak",
+        "text": "From Seoul to Imjingak-ri station, then a shuttle.",
+        "detail": "For Imjingak only."
+      },
+      {
+        "mode": "Private car",
+        "text": "Possible with a tour guide.",
+        "detail": "Expensive."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Everything is on the tour bus.",
+    "options": [
+      {
+        "mode": "Tour bus",
+        "text": "Follows a set route.",
+        "detail": "Stay with the group."
+      },
+      {
+        "mode": "On foot",
+        "text": "Only in permitted areas.",
+        "detail": "Follow signs."
+      },
+      {
+        "mode": "Shuttle",
+        "text": "Near the observatories.",
+        "detail": "Check."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "Spring and autumn",
+    "summary": "The DMZ is best visited in clear weather, since haze hides the North.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Clear and mild."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Hot, humid and hazy."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Clear skies."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "good",
+        "text": "Cold, with cranes."
+      }
+    ],
+    "avoid": "Rainy or foggy days, and any time when tours are suspended."
+  },
+  "itinerary": {
+    "title": "One day at the DMZ",
+    "intro": "A guided day out from Seoul.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The border",
+        "summary": "A tour.",
+        "morning": "Depart Seoul and visit Imjingak.",
+        "afternoon": "The Third Tunnel and Dora Observatory.",
+        "evening": "Return to Seoul."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you visit safely.",
+  "tips": [
+    "Book a tour weeks ahead.",
+    "Take your passport.",
+    "Follow the dress code.",
+    "Do not photograph restricted areas.",
+    "Check whether the JSA is open.",
+    "Be respectful.",
+    "Expect changes if tensions rise."
+  ],
+  "faq": [
+    {
+      "q": "Is the DMZ safe to visit?",
+      "a": "Guided tours are run regularly and are generally safe. Check advice if tensions rise."
+    },
+    {
+      "q": "Can I go alone?",
+      "a": "Not to most sites. Imjingak is open to independent visitors."
+    },
+    {
+      "q": "Do I need my passport?",
+      "a": "Yes."
+    },
+    {
+      "q": "Can I see North Korea?",
+      "a": "Yes, from observatories on a clear day."
+    },
+    {
+      "q": "Can I visit the JSA?",
+      "a": "Sometimes. Access is restricted and can be suspended."
+    },
+    {
+      "q": "How long is a tour?",
+      "a": "Half a day to a full day."
+    }
+  ],
+  "related": ["seoul", "suwon-hwaseong", "seoraksan-sokcho"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around"]
+}
