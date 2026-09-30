@@ -1,0 +1,318 @@
+{
+  "slug": "cano-cristales",
+  "name": "Caño Cristales",
+  "country": "colombia",
+  "region": "Meta, Serranía de la Macarena",
+  "categories": ["nature", "national-park", "scenic", "off-the-beaten-path"],
+  "tagline": "The river of five colours, a shallow mountain stream whose bed blooms red, yellow, green, blue and black for a few months each year.",
+  "highlight": "Wading beside a rock pool where red aquatic plants glow beneath crystal-clear water.",
+  "shortDescription": "A remote river in the Serranía de la Macarena whose rocks and aquatic plants turn vivid colours during the rainy-to-dry transition, reached only by flight and guided tours.",
+  "metaDescription": "A Caño Cristales travel guide: the river of five colours, when the colours appear, how to get to La Macarena, guided tours and rules, safety, where to stay and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "La Macarena (LMC), reached by flight from Villavicencio or Bogotá",
+  "knownFor": "The river of five colours, waterfalls, remote nature",
+  "budget": "US$150–300 per day, including guides and fees",
+  "goodFor": "Nature lovers, photographers, adventurous travellers",
+  "coords": { "lat": 2.2570, "lng": -73.7890 },
+  "image": {
+    "file": "File:Cascada los Cuarzos - Caño Cristales - La Macarena.jpg",
+    "alt": "The Cascada los Cuarzos waterfall on the Caño Cristales river with coloured rocks"
+  },
+  "intro": [
+    "Caño Cristales is a river in the Serranía de la Macarena, an isolated mountain range where the Andes, the Amazon and the Orinoco plains meet. It is called the river of five colours, or the liquid rainbow, because during a short period of the year its rocky bed is covered by a plant, Macarenia clavigera, that turns red, alongside yellow sand, green algae, blue water and black rocks.",
+    "The effect depends on water levels. The colours are best when the river is at a middle level, roughly from late June or July until November, and dull in the heaviest rains or in the dry season. The river runs through the Sierra de La Macarena National Park, where Amazon, Andean and Orinoco species meet, with pools, waterfalls and potholes carved into quartz-rich rock.",
+    "Visiting is regulated and remote. Colombia's conflict once kept the area off-limits, and today access is by a short flight from Villavicencio or Bogotá to La Macarena, then guided tours with local operators. Visitors follow strict rules to protect the river, including no sunscreen or insect repellent in the water, and groups are small. It is a special but demanding trip, best for those who are willing to plan and to check current conditions."
+  ],
+  "whyVisit": {
+    "intro": "Caño Cristales is one of the most unusual natural sights in the world.",
+    "points": [
+      {
+        "title": "A river of colours",
+        "text": "Red, yellow, green, blue and black."
+      },
+      {
+        "title": "Waterfalls and pools",
+        "text": "Swimming in clear water."
+      },
+      {
+        "title": "Remote nature",
+        "text": "Where three ecosystems meet."
+      },
+      {
+        "title": "Small, guided groups",
+        "text": "Protected by strict rules."
+      },
+      {
+        "title": "Photography",
+        "text": "Unique light and colour."
+      }
+    ]
+  },
+  "attractionsIntro": "Tours visit different stretches of the river, with walking of 1 to 4 hours.",
+  "attractions": [
+    {
+      "name": "Los Cuarzos waterfall",
+      "image": {
+        "file": "File:Cascada los Cuarzos - Caño Cristales - La Macarena.jpg",
+        "alt": "Water tumbling over the Los Cuarzos waterfall"
+      },
+      "text": "A waterfall over quartz-rich rock where the colours are strong.",
+      "tip": "Swim in the pool below."
+    },
+    {
+      "name": "Manto de la Virgen",
+      "image": {
+        "file": "File:Cascadas Manto de La Virgen - Caño Cristales - La Macarena - Meta - Colombia.jpg",
+        "alt": "The Manto de la Virgen cascades with red plants beneath clear water"
+      },
+      "text": "A series of cascades where the red plants glow beneath the surface.",
+      "tip": "Bring a waterproof camera."
+    },
+    {
+      "name": "The river in colour",
+      "image": {
+        "file": "File:Caño cristales la macarena Ariari Meta Colombia.jpg",
+        "alt": "The coloured riverbed of Caño Cristales seen from above"
+      },
+      "text": "The stretches where the plants, sand and stones combine into stripes of colour.",
+      "tip": "Ask guides for the best spots."
+    },
+    {
+      "name": "Los Pailones",
+      "text": "Cylindrical potholes carved by whirling water.",
+      "tip": "Swim in the pools."
+    },
+    {
+      "name": "Piscina del Turista",
+      "text": "A natural pool for swimming.",
+      "tip": "Bring water shoes."
+    },
+    {
+      "name": "Cristalitos",
+      "text": "A quieter stretch of the river.",
+      "tip": "Good for beginners."
+    }
+  ],
+  "thingsToDoIntro": "A visit is a guided river experience.",
+  "thingsToDo": [
+    {
+      "title": "Book a guided tour",
+      "text": "Required for all visitors.",
+      "tip": "Book through an authorised agency."
+    },
+    {
+      "title": "Swim in the pools",
+      "text": "Clear, clean water.",
+      "tip": "No sunscreen or repellent."
+    },
+    {
+      "title": "Hike to the falls",
+      "text": "Walk through savannah and forest.",
+      "tip": "Wear sturdy shoes."
+    },
+    {
+      "title": "Photograph the colours",
+      "text": "Best in sunlight.",
+      "tip": "Use a polariser."
+    },
+    {
+      "title": "Watch birds",
+      "text": "Rare species.",
+      "tip": "Bring binoculars."
+    },
+    {
+      "title": "Visit La Macarena town",
+      "text": "A small frontier town.",
+      "tip": "Try local food."
+    }
+  ],
+  "foodIntro": "Food is provided by local operators.",
+  "foods": [
+    {
+      "name": "Llanero grilled meat",
+      "text": "Carne a la llanera.",
+      "whereToTry": "Restaurants in La Macarena."
+    },
+    {
+      "name": "Fried fish",
+      "text": "River fish.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Plantain and yuca",
+      "text": "Staples.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Tropical fruit",
+      "text": "Local juices.",
+      "whereToTry": "Stalls."
+    },
+    {
+      "name": "Packed lunches",
+      "text": "Provided on tours.",
+      "whereToTry": "With your guide."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in La Macarena.",
+    "areas": [
+      {
+        "name": "La Macarena town",
+        "bestFor": "Base",
+        "text": "Simple hotels."
+      },
+      {
+        "name": "Eco-lodges",
+        "bestFor": "Nature",
+        "text": "Basic camps."
+      },
+      {
+        "name": "Villavicencio",
+        "bestFor": "Transit",
+        "text": "Hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Simple hotel", "value": "US$30–70 per night" },
+      { "label": "All-inclusive package", "value": "US$500–1,000+ per person" },
+      { "label": "Park entry and guide", "value": "Included in packages" },
+      { "label": "Meal", "value": "US$6–14 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Access is by air.",
+    "options": [
+      {
+        "mode": "Flight from Villavicencio",
+        "text": "About 45 minutes to La Macarena.",
+        "detail": "Small planes."
+      },
+      {
+        "mode": "Flight from Bogotá",
+        "text": "Some routes exist via Villavicencio.",
+        "detail": "Check."
+      },
+      {
+        "mode": "Package tour",
+        "text": "Most visitors book packages.",
+        "detail": "Book months ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Tours handle transport.",
+    "options": [
+      {
+        "mode": "Jeep and boat",
+        "text": "To the river.",
+        "detail": "Organised."
+      },
+      {
+        "mode": "On foot",
+        "text": "Along the river.",
+        "detail": "Wear sturdy shoes."
+      },
+      {
+        "mode": "Guides",
+        "text": "Required.",
+        "detail": "Follow instructions."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "Late June–November",
+    "summary": "The river is only open for a season, and colours peak at moderate water levels.",
+    "seasons": [
+      {
+        "season": "December–May",
+        "rating": "avoid",
+        "text": "Closed or dull colours."
+      },
+      {
+        "season": "June",
+        "rating": "quiet",
+        "text": "Opens late in the month."
+      },
+      {
+        "season": "July–October",
+        "rating": "best",
+        "text": "The best colours."
+      },
+      {
+        "season": "November",
+        "rating": "good",
+        "text": "Colours fade as water drops."
+      }
+    ],
+    "avoid": "December to May, when the river is closed or dry."
+  },
+  "itinerary": {
+    "title": "Three days at Caño Cristales",
+    "intro": "Fly in, two river days and fly out.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive",
+        "summary": "La Macarena.",
+        "morning": "Flight from Villavicencio.",
+        "afternoon": "Briefing and settle in.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 2,
+        "title": "The river",
+        "summary": "Cascades.",
+        "morning": "Hike to Los Cuarzos.",
+        "afternoon": "Swimming.",
+        "evening": "Rest."
+      },
+      {
+        "day": 3,
+        "title": "Depart",
+        "summary": "A last stretch.",
+        "morning": "Cristalitos or Los Pailones.",
+        "afternoon": "Fly out.",
+        "evening": "Onward."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book months ahead.",
+    "Travel between July and October.",
+    "Do not use sunscreen or repellent in the water.",
+    "Follow all guide instructions.",
+    "Check current safety and access.",
+    "Bring a waterproof bag.",
+    "Wear sturdy sandals."
+  ],
+  "faq": [
+    {
+      "q": "When are the colours best?",
+      "a": "Roughly July to October."
+    },
+    {
+      "q": "Can I go independently?",
+      "a": "No. Guided tours are required."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Tours run regularly, but check current advice."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "By flight to La Macarena."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Yes, compared with the rest of Colombia."
+    },
+    {
+      "q": "Why is it coloured?",
+      "a": "An aquatic plant turns red in sunlight."
+    }
+  ],
+  "related": ["bogota", "san-andres", "medellin"],
+  "relatedArticles": ["us-national-parks-road-trip", "underrated-destinations"]
+}

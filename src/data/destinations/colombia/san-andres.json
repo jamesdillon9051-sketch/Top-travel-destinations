@@ -1,0 +1,336 @@
+{
+  "slug": "san-andres",
+  "name": "San Andrés",
+  "country": "colombia",
+  "region": "San Andrés y Providencia, western Caribbean",
+  "categories": [
+    "island",
+    "coastal",
+    "nature"
+  ],
+  "tagline": "A Caribbean island closer to Nicaragua than to Colombia, famous for its Sea of Seven Colours, coral reefs, Raizal culture and sandy cays.",
+  "highlight": "Floating in the shallow, seven-shades-of-blue water off Johnny Cay.",
+  "shortDescription": "A small coral island 775 km from the Colombian mainland, with Johnny Cay, Rocky Cay, snorkelling, scuba diving, the Hoyo Soplador blowhole and Raizal Creole culture.",
+  "metaDescription": "A San Andrés travel guide: Johnny Cay, the Sea of Seven Colours, Rocky Cay, Hoyo Soplador, snorkelling and diving, Raizal culture, how to get there by air, where to stay and a three-day plan.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Gustavo Rojas Pinilla (ADZ), on the island",
+  "knownFor": "Turquoise water, snorkelling, cays, Raizal culture",
+  "budget": "US$90–170 per day, mid-range",
+  "goodFor": "Beach holidays, snorkelling, diving, couples and families",
+  "coords": {
+    "lat": 12.5847,
+    "lng": -81.7006
+  },
+  "image": {
+    "file": "File:San Andrés, Colombia.jpg",
+    "alt": "The turquoise water and palm-fringed shoreline of San Andrés island"
+  },
+  "intro": [
+    "San Andrés is a small island, about 13 km long, in the western Caribbean, about 775 km north-west of Colombia's mainland and just 190 km from Nicaragua. It belongs to an archipelago with Providencia and Santa Catalina, and the whole area is a UNESCO Biosphere Reserve, Seaflower. The islands were settled by English Puritans in the 17th century and by enslaved Africans, and today the Raizal people speak an English-based Creole and follow Protestant traditions, giving San Andrés a different feel from the rest of Colombia.",
+    "The island is famous for the Sea of Seven Colours, a shallow lagoon whose water shifts from white and turquoise to deep indigo. Boat trips visit Johnny Cay, a palm-covered sandbank with a beach bar, and Acuario, where you can snorkel in clear water with fish. Around the island, a ring road passes the Hoyo Soplador blowhole, the West View diving platform, and the small village of San Luis.",
+    "San Andrés is a duty-free island, and can be crowded with domestic tourists at peak times. It is best for beach and water activities, with warm sea all year, and it is a flight from Bogotá, Medellín or Cartagena. For a quieter alternative, Providencia, a smaller island nearby, is more remote."
+  ],
+  "whyVisit": {
+    "intro": "San Andrés is Colombia's Caribbean island escape, with clear water and easy snorkelling.",
+    "points": [
+      {
+        "title": "The Sea of Seven Colours",
+        "text": "Shades of turquoise."
+      },
+      {
+        "title": "Cays and snorkelling",
+        "text": "Johnny Cay and Acuario."
+      },
+      {
+        "title": "Coral reefs",
+        "text": "Diving and marine life."
+      },
+      {
+        "title": "Raizal culture",
+        "text": "English-Creole traditions."
+      },
+      {
+        "title": "Warm all year",
+        "text": "Caribbean weather."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are a boat ride or a ring road drive away.",
+  "attractions": [
+    {
+      "name": "Johnny Cay",
+      "image": {
+        "file": "File:Johnny Cay desde San Andrés.jpg",
+        "alt": "The palm-covered Johnny Cay seen across the water from San Andrés"
+      },
+      "text": "A small cay with a white beach and palms, reached by boat, with restaurants and clear water.",
+      "tip": "Go early to beat tour groups."
+    },
+    {
+      "name": "Acuario and Haynes Cay",
+      "text": "Shallow spots for snorkelling with fish.",
+      "tip": "Combine with Johnny Cay."
+    },
+    {
+      "name": "Hoyo Soplador",
+      "text": "A blowhole where seawater shoots into the air when the waves are strong.",
+      "tip": "Best on windy days."
+    },
+    {
+      "name": "West View",
+      "text": "A diving platform and snorkelling spot with steps into the water.",
+      "tip": "Bring water shoes."
+    },
+    {
+      "name": "Rocky Cay",
+      "text": "A small reef with a shipwreck.",
+      "tip": "Snorkel at low tide."
+    },
+    {
+      "name": "San Luis",
+      "text": "A quieter east-side village with a beach.",
+      "tip": "Good for lunch."
+    }
+  ],
+  "thingsToDoIntro": "San Andrés is about water.",
+  "thingsToDo": [
+    {
+      "title": "Take a boat to the cays",
+      "text": "Johnny Cay and Acuario.",
+      "tip": "Book a morning trip."
+    },
+    {
+      "title": "Snorkel or dive",
+      "text": "Coral reefs.",
+      "tip": "Choose a certified operator."
+    },
+    {
+      "title": "Rent a golf cart or scooter",
+      "text": "Circle the island.",
+      "tip": "Drive slowly."
+    },
+    {
+      "title": "Try the local rondón",
+      "text": "A Caribbean fish and coconut stew.",
+      "tip": "Ask for the local version."
+    },
+    {
+      "title": "Kayak or paddleboard",
+      "text": "In the lagoon.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Shop duty-free",
+      "text": "In the town centre.",
+      "tip": "Check prices."
+    }
+  ],
+  "foodIntro": "San Andrés' food is Caribbean and Creole.",
+  "foods": [
+    {
+      "name": "Rondón",
+      "text": "A coconut milk fish and root vegetable stew.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Fried fish and coconut rice",
+      "text": "Classic Caribbean.",
+      "whereToTry": "Beach restaurants."
+    },
+    {
+      "name": "Crab soup",
+      "text": "Black crab.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Coconut cake",
+      "text": "Raizal dessert.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Fresh juices",
+      "text": "Tropical.",
+      "whereToTry": "Stalls."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the north or east.",
+    "areas": [
+      {
+        "name": "San Andrés town (North End)",
+        "bestFor": "Services and beaches",
+        "text": "Big hotels."
+      },
+      {
+        "name": "San Luis",
+        "bestFor": "Quiet",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "The Cove",
+        "bestFor": "Local life",
+        "text": "Small inns."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Guesthouse",
+        "value": "US$40–80 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$90–180 per night"
+      },
+      {
+        "label": "Resort",
+        "value": "US$200–400 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$8–20 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "San Andrés is reached by air.",
+    "options": [
+      {
+        "mode": "Flight from Bogotá",
+        "text": "About 2.5 hours.",
+        "detail": "Many daily flights."
+      },
+      {
+        "mode": "Flight from Medellín or Cartagena",
+        "text": "About 2 hours.",
+        "detail": "Book early."
+      },
+      {
+        "mode": "Tourist card",
+        "text": "Buy a card on arrival or online.",
+        "detail": "Check the fee."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The island is small.",
+    "options": [
+      {
+        "mode": "Golf cart or scooter",
+        "text": "Rent for the day.",
+        "detail": "Drive carefully."
+      },
+      {
+        "mode": "Bus",
+        "text": "A ring-road bus.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Short trips.",
+        "detail": "Agree the price."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–April",
+    "summary": "The island is warm all year, with a dry season and a wetter season.",
+    "seasons": [
+      {
+        "season": "December–April",
+        "rating": "best",
+        "text": "Dry and breezy."
+      },
+      {
+        "season": "May–June",
+        "rating": "good",
+        "text": "Hotter."
+      },
+      {
+        "season": "July–August",
+        "rating": "quiet",
+        "text": "Busy with domestic tourists."
+      },
+      {
+        "season": "September–November",
+        "rating": "avoid",
+        "text": "Wet, with hurricane risk in the wider Caribbean."
+      }
+    ],
+    "avoid": "Hurricane season."
+  },
+  "itinerary": {
+    "title": "Three days on San Andrés",
+    "intro": "Cays, the ring road and a dive.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Johnny Cay",
+        "summary": "Beach day.",
+        "morning": "Boat to Johnny Cay.",
+        "afternoon": "Acuario snorkelling.",
+        "evening": "Dinner in town."
+      },
+      {
+        "day": 2,
+        "title": "The ring road",
+        "summary": "Circle the island.",
+        "morning": "Hoyo Soplador.",
+        "afternoon": "West View snorkelling.",
+        "evening": "Sunset."
+      },
+      {
+        "day": 3,
+        "title": "Dive or relax",
+        "summary": "Reefs.",
+        "morning": "Diving or a lagoon paddle.",
+        "afternoon": "Beach.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book flights early.",
+    "Bring reef-safe sunscreen.",
+    "Check the tourist card.",
+    "Avoid peak school holidays.",
+    "Rent a cart carefully.",
+    "Book boat trips in advance.",
+    "Do not touch coral."
+  ],
+  "faq": [
+    {
+      "q": "How do I get to San Andrés?",
+      "a": "By plane."
+    },
+    {
+      "q": "Is the water really seven colours?",
+      "a": "Yes."
+    },
+    {
+      "q": "How many days?",
+      "a": "Three or four."
+    },
+    {
+      "q": "Do I need a visa?",
+      "a": "It is part of Colombia, so the same rules apply."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Generally, with precautions."
+    },
+    {
+      "q": "When is the best time?",
+      "a": "December to April."
+    }
+  ],
+  "related": [
+    "cartagena",
+    "tayrona-santa-marta",
+    "bogota"
+  ],
+  "relatedArticles": [
+    "mediterranean-coasts",
+    "packing-by-season"
+  ]
+}

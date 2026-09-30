@@ -1,0 +1,315 @@
+{
+  "slug": "salento-cocora",
+  "name": "Salento and the Cocora Valley",
+  "shortName": "Salento and Cocora",
+  "country": "colombia",
+  "region": "Quindío, Coffee Cultural Landscape",
+  "categories": ["scenic", "nature", "unesco", "food-and-wine"],
+  "tagline": "A colourful coffee town and a valley of towering wax palms in the misty green hills of the UNESCO Coffee Cultural Landscape.",
+  "highlight": "Walking among the world's tallest palms, rising out of the mist above green pastures.",
+  "shortDescription": "The heart of Colombia's Coffee Axis, with the pretty village of Salento, the Cocora Valley's 60-metre wax palms, coffee farm tours, hummingbirds and trout.",
+  "metaDescription": "A Salento and Cocora Valley travel guide: hiking among wax palms, coffee farm tours, Calle Real, Filandia, trucha and coffee, how to get there from Pereira, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Matecaña, Pereira (PEI), about 1.5 hours; Armenia (AXM), about 1 hour",
+  "knownFor": "Wax palms, coffee, colourful village, hiking",
+  "budget": "US$50–100 per day, mid-range",
+  "goodFor": "Hikers, coffee lovers, couples, slow travel",
+  "coords": { "lat": 4.6375, "lng": -75.5710 },
+  "image": {
+    "file": "File:Valle de Cocora, Colombia 02.jpg",
+    "alt": "The tall wax palms of the Cocora Valley rising from green meadows"
+  },
+  "intro": [
+    "Salento is a small village in the Quindío department, in the coffee-growing heartland of Colombia, and the gateway to the Cocora Valley. The whole region, with its terraced hillsides of coffee, bamboo-and-mud farmhouses and traditions, is a UNESCO World Heritage Site: the Coffee Cultural Landscape of Colombia. Salento itself is a delight, with brightly painted single-storey houses and wooden balconies on Calle Real, a shopping street of crafts and cafés.",
+    "The main draw is the Cocora Valley, home to the Quindío wax palm, Colombia's national tree, which grows up to 60 metres, the tallest palm in the world. The palms rise above green pastures and cloud forest, with cows grazing at their feet. The classic loop hike takes 5 to 6 hours through forest, across rope bridges and to a hummingbird sanctuary, before emerging among the palms.",
+    "Around Salento, coffee farms offer tours where you can see the process from picking to roasting, and taste the results. Filandia, another pretty village, is nearby. The area is best enjoyed over two or three days, with time to slow down."
+  ],
+  "whyVisit": {
+    "intro": "Salento and Cocora are the postcard of Colombia's coffee country.",
+    "points": [
+      {
+        "title": "The world's tallest palms",
+        "text": "Quindío wax palms."
+      },
+      {
+        "title": "Coffee farms",
+        "text": "Tours and tastings."
+      },
+      {
+        "title": "A pretty village",
+        "text": "Colourful Calle Real."
+      },
+      {
+        "title": "Hiking",
+        "text": "Loops through cloud forest."
+      },
+      {
+        "title": "Hummingbirds",
+        "text": "At feeding stations."
+      }
+    ]
+  },
+  "attractionsIntro": "The valley is 11 km from the village.",
+  "attractions": [
+    {
+      "name": "Cocora Valley",
+      "image": {
+        "file": "File:Valle de Cocora, Colombia 03.jpg",
+        "alt": "Wax palms towering over the misty Cocora Valley"
+      },
+      "text": "A valley of green pastures and the national tree, the wax palm, with hiking loops and horse rides.",
+      "tip": "Start early to beat cloud and crowds."
+    },
+    {
+      "name": "Salento village and Calle Real",
+      "image": {
+        "file": "File:Callerealsalento.JPG",
+        "alt": "Colourful houses along Calle Real in Salento"
+      },
+      "text": "The village's main pedestrian street, lined with painted houses, craft shops and cafés.",
+      "tip": "Walk in the late afternoon."
+    },
+    {
+      "name": "Mirador view over the valley",
+      "image": {
+        "file": "File:View of Salento, Colombia 01.jpg",
+        "alt": "The rooftops of Salento seen from the mirador above the village"
+      },
+      "text": "A viewpoint reached by a stairway from the plaza, looking over the village and the hills.",
+      "tip": "Go at sunset."
+    },
+    {
+      "name": "Horses in Cocora",
+      "image": {
+        "file": "File:Horses in Cocora Valley, Colombia.jpg",
+        "alt": "Horses grazing among the wax palms of the Cocora Valley"
+      },
+      "text": "Horse rides through the valley are a popular alternative to hiking.",
+      "tip": "Choose a reputable stable."
+    },
+    {
+      "name": "Coffee farms",
+      "text": "Farms such as Don Elías and El Ocaso offer tours and tastings.",
+      "tip": "Book a morning tour."
+    },
+    {
+      "name": "Filandia",
+      "text": "Another colourful coffee village nearby, with a viewing tower.",
+      "tip": "Go by bus."
+    }
+  ],
+  "thingsToDoIntro": "Salento is for hiking and coffee.",
+  "thingsToDo": [
+    {
+      "title": "Hike the Cocora loop",
+      "text": "5 to 6 hours through the valley.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Take a coffee tour",
+      "text": "See picking to roasting.",
+      "tip": "Book a small farm."
+    },
+    {
+      "title": "Ride a Jeep Willys",
+      "text": "The classic transport to Cocora.",
+      "tip": "Leave from the plaza."
+    },
+    {
+      "title": "Play tejo",
+      "text": "A traditional explosive game.",
+      "tip": "Try it with locals."
+    },
+    {
+      "title": "Watch hummingbirds",
+      "text": "At Acaime reserve.",
+      "tip": "Bring a camera."
+    },
+    {
+      "title": "Eat trout",
+      "text": "Local trout with patacones.",
+      "tip": "Try it at Cocora."
+    }
+  ],
+  "foodIntro": "Coffee-region food is simple.",
+  "foods": [
+    {
+      "name": "Trucha (trout)",
+      "text": "Grilled with patacones.",
+      "whereToTry": "Cocora and Salento."
+    },
+    {
+      "name": "Coffee",
+      "text": "Fresh from the farm.",
+      "whereToTry": "Farms."
+    },
+    {
+      "name": "Patacones",
+      "text": "Fried plantain.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Bandeja paisa",
+      "text": "Regional platter.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Hot chocolate with cheese",
+      "text": "A local treat.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Salento or on a coffee farm.",
+    "areas": [
+      {
+        "name": "Salento village",
+        "bestFor": "Convenience",
+        "text": "Hostels and guesthouses."
+      },
+      {
+        "name": "Coffee fincas",
+        "bestFor": "Immersion",
+        "text": "Farm stays."
+      },
+      {
+        "name": "Filandia",
+        "bestFor": "Quiet",
+        "text": "Small hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$10–18 per night" },
+      { "label": "Mid-range hotel", "value": "US$45–90 per night" },
+      { "label": "Farm stay", "value": "US$70–160 per night" },
+      { "label": "Meal", "value": "US$5–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Salento is reached from Pereira or Armenia.",
+    "options": [
+      {
+        "mode": "Flight to Pereira, then bus",
+        "text": "About 1.5 hours from Pereira by bus or taxi.",
+        "detail": "Fly from Bogotá or Medellín."
+      },
+      {
+        "mode": "Bus from Armenia",
+        "text": "About 1 hour.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bus from Bogotá",
+        "text": "About 8 hours.",
+        "detail": "Fly."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Jeeps and walking work.",
+    "options": [
+      {
+        "mode": "Willys jeeps",
+        "text": "To Cocora Valley, 30 minutes.",
+        "detail": "Leave from the plaza."
+      },
+      {
+        "mode": "On foot",
+        "text": "The village.",
+        "detail": "Wear good shoes."
+      },
+      {
+        "mode": "Taxi",
+        "text": "To farms.",
+        "detail": "Agree the fare."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–March and June–August",
+    "summary": "The Coffee Region is wet much of the year.",
+    "seasons": [
+      {
+        "season": "December–March",
+        "rating": "best",
+        "text": "Driest."
+      },
+      {
+        "season": "April–May",
+        "rating": "quiet",
+        "text": "Wet."
+      },
+      {
+        "season": "June–August",
+        "rating": "good",
+        "text": "Drier."
+      },
+      {
+        "season": "September–November",
+        "rating": "avoid",
+        "text": "Wet, and trails muddy."
+      }
+    ],
+    "avoid": "Rainy afternoons, when the trail is muddy."
+  },
+  "itinerary": {
+    "title": "Two days in Salento",
+    "intro": "Palms and coffee.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Cocora Valley",
+        "summary": "Palms.",
+        "morning": "Jeep to Cocora and the loop hike.",
+        "afternoon": "Trout lunch.",
+        "evening": "Calle Real."
+      },
+      {
+        "day": 2,
+        "title": "Coffee",
+        "summary": "Farm and village.",
+        "morning": "Coffee farm tour.",
+        "afternoon": "Filandia.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Start hikes early.",
+    "Bring a rain jacket.",
+    "Wear muddy-proof shoes.",
+    "Book coffee tours.",
+    "Bring cash.",
+    "Go on weekdays.",
+    "Respect wildlife."
+  ],
+  "faq": [
+    {
+      "q": "How long is the Cocora hike?",
+      "a": "5 to 6 hours."
+    },
+    {
+      "q": "Is Salento worth visiting?",
+      "a": "Yes."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "Fly to Pereira and take a bus."
+    },
+    {
+      "q": "When is the best time?",
+      "a": "December to March."
+    },
+    {
+      "q": "Can I do a coffee tour?",
+      "a": "Yes."
+    },
+    {
+      "q": "How many days?",
+      "a": "Two."
+    }
+  ],
+  "related": ["medellin", "guatape", "bogota"],
+  "relatedArticles": ["food-primer", "unesco-worth-planning-around"]
+}

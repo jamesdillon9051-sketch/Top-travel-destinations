@@ -1,0 +1,323 @@
+{
+  "slug": "tayrona-santa-marta",
+  "name": "Tayrona and Santa Marta",
+  "shortName": "Tayrona",
+  "country": "colombia",
+  "region": "Magdalena, Caribbean coast",
+  "categories": ["national-park", "coastal", "nature", "archaeological"],
+  "tagline": "Jungle-backed Caribbean beaches beneath the world's highest coastal mountains, with cloud-forest coffee in Minca and a lost city in the trees.",
+  "highlight": "Reaching Cabo San Juan, a palm-fringed beach with a hammock hut on a rocky point, after a walk through the jungle.",
+  "shortDescription": "Tayrona National Park's hidden beaches and forest trails, the colonial port of Santa Marta, the cloud forest village of Minca and the multi-day trek to Ciudad Perdida.",
+  "metaDescription": "A Tayrona and Santa Marta travel guide: Tayrona beaches and Cabo San Juan, Minca, Ciudad Perdida, Santa Marta old town, safety and swimming, where to stay, how to get there and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Simón Bolívar, Santa Marta (SMR), about 20 minutes",
+  "knownFor": "Beaches, jungle hikes, Sierra Nevada, Lost City",
+  "budget": "US$60–120 per day, mid-range",
+  "goodFor": "Beach lovers, hikers, backpackers, nature",
+  "coords": { "lat": 11.3050, "lng": -74.0330 },
+  "image": {
+    "file": "File:2019 Santa Marta - Ensenadas en el Parque nacional natural Tayrona.jpg",
+    "alt": "A jungle-backed cove at Tayrona National Park with turquoise water"
+  },
+  "intro": [
+    "On Colombia's Caribbean coast, the Sierra Nevada de Santa Marta rises straight from the sea to snow-capped peaks of more than 5,700 metres, the highest coastal range in the world. At its foot, Tayrona National Park protects a stretch of coast with white-sand coves, granite boulders and tropical dry forest, once home to the Tayrona people. Their descendants, the Kogi, Wiwa and Arhuaco, still live in the mountains.",
+    "Tayrona's beaches are reached by hiking trails from the entrance at El Zaino, through forest with monkeys, iguanas and butterflies, to coves such as Arrecifes, La Piscina and Cabo San Juan. Swimming is unsafe on some beaches because of strong currents, so heed the signs. Accommodation ranges from camping and hammocks to eco-lodges inside the park.",
+    "Santa Marta, founded in 1525, is South America's oldest surviving Spanish city, and its lively historic centre and waterfront make a base. In the hills above, Minca is a cloud-forest village with coffee farms, waterfalls and birdwatching. For the ambitious, the four- to six-day Ciudad Perdida trek reaches an ancient Tayrona city that predates Machu Picchu by about 650 years."
+  ],
+  "whyVisit": {
+    "intro": "Tayrona combines beach, jungle and mountains in a single dramatic setting.",
+    "points": [
+      {
+        "title": "Jungle beaches",
+        "text": "Coves reached on foot."
+      },
+      {
+        "title": "The Sierra Nevada",
+        "text": "Snow peaks above the sea."
+      },
+      {
+        "title": "Ciudad Perdida",
+        "text": "A lost Tayrona city."
+      },
+      {
+        "title": "Minca",
+        "text": "Cloud-forest coffee and waterfalls."
+      },
+      {
+        "title": "Santa Marta",
+        "text": "A lively historic port."
+      }
+    ]
+  },
+  "attractionsIntro": "Tayrona is the star, with Minca and Santa Marta around it.",
+  "attractions": [
+    {
+      "name": "Cabo San Juan",
+      "image": {
+        "file": "File:119 Tayrona Colombia Cabo San Juan Beach.JPG",
+        "alt": "Cabo San Juan beach in Tayrona National Park with palms and boulders"
+      },
+      "text": "The park's most famous beach, on a rocky cape with a hammock hut on a boulder, reached by a walk of around 2 hours.",
+      "tip": "Book hammocks in advance."
+    },
+    {
+      "name": "Minca",
+      "image": {
+        "file": "File:Atardece Desde Minca En La Sierra Nevada De Santa Marta.jpg",
+        "alt": "Sunset over the hills near Minca in the Sierra Nevada de Santa Marta"
+      },
+      "text": "A mountain village at 600 metres, with coffee farms, waterfalls, birdwatching and cooler air.",
+      "tip": "Take a moto-taxi up."
+    },
+    {
+      "name": "Ciudad Perdida",
+      "image": {
+        "file": "File:35Visita Parque Teyuna Ciudad perdida-Ovidio González.jpg",
+        "alt": "Stone terraces of the Ciudad Perdida archaeological site in the jungle"
+      },
+      "text": "The Lost City, Teyuna, built around 800 CE, reached by a 4 to 6-day trek through jungle with stays in camps.",
+      "tip": "Book with an authorised operator."
+    },
+    {
+      "name": "Santa Marta bay",
+      "image": {
+        "file": "File:Bahia de Santa Marta 04.JPG",
+        "alt": "Santa Marta bay with boats and the city on the hillside"
+      },
+      "text": "The waterfront and historic centre of the oldest Spanish city in South America.",
+      "tip": "Visit the Gold Museum."
+    },
+    {
+      "name": "Playa Cristal",
+      "text": "A snorkelling beach with clear water.",
+      "tip": "Reserve a boat trip."
+    },
+    {
+      "name": "Quinta de San Pedro Alejandrino",
+      "text": "The hacienda where Simón Bolívar died in 1830.",
+      "tip": "A quick visit."
+    }
+  ],
+  "thingsToDoIntro": "Tayrona is about hiking and relaxing.",
+  "thingsToDo": [
+    {
+      "title": "Hike to Cabo San Juan",
+      "text": "Through forest to a beach.",
+      "tip": "Start early."
+    },
+    {
+      "title": "Sleep in a hammock",
+      "text": "On the beach.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Visit Minca waterfalls",
+      "text": "Swim in cool pools.",
+      "tip": "Wear water shoes."
+    },
+    {
+      "title": "Trek to Ciudad Perdida",
+      "text": "A multi-day adventure.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Go snorkelling",
+      "text": "At Playa Cristal.",
+      "tip": "Boat trip."
+    },
+    {
+      "title": "Tour a coffee farm",
+      "text": "In Minca.",
+      "tip": "Book a tasting."
+    }
+  ],
+  "foodIntro": "Coastal food is fresh and casual.",
+  "foods": [
+    {
+      "name": "Fried fish and patacones",
+      "text": "Whole fish.",
+      "whereToTry": "Beach restaurants."
+    },
+    {
+      "name": "Arroz de camarones",
+      "text": "Shrimp rice.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Fresh juices",
+      "text": "Tropical fruit.",
+      "whereToTry": "Stalls."
+    },
+    {
+      "name": "Minca coffee and cacao",
+      "text": "Mountain farms.",
+      "whereToTry": "Farms."
+    },
+    {
+      "name": "Ceviche",
+      "text": "Seafood.",
+      "whereToTry": "Santa Marta."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose between the park, Minca and Santa Marta.",
+    "areas": [
+      {
+        "name": "Inside Tayrona",
+        "bestFor": "Beaches",
+        "text": "Camping and hammocks."
+      },
+      {
+        "name": "Santa Marta",
+        "bestFor": "Services",
+        "text": "Hotels and hostels."
+      },
+      {
+        "name": "Minca",
+        "bestFor": "Cool air and nature",
+        "text": "Eco-lodges."
+      }
+    ],
+    "budget": [
+      { "label": "Hammock or camping", "value": "US$12–35 per night" },
+      { "label": "Mid-range hotel", "value": "US$50–110 per night" },
+      { "label": "Park entry", "value": "US$15–25 for foreigners" },
+      { "label": "Ciudad Perdida trek", "value": "US$400–600 for 4–6 days" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Santa Marta is the gateway.",
+    "options": [
+      {
+        "mode": "Flight",
+        "text": "About 1.5 hours from Bogotá.",
+        "detail": "Book early."
+      },
+      {
+        "mode": "Bus from Cartagena",
+        "text": "About 4 hours.",
+        "detail": "Comfortable."
+      },
+      {
+        "mode": "Bus to Tayrona",
+        "text": "About 1 hour from Santa Marta to El Zaino.",
+        "detail": "Frequent."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Buses and moto-taxis serve the area.",
+    "options": [
+      {
+        "mode": "Bus",
+        "text": "To the park entrance.",
+        "detail": "Leaves from the market."
+      },
+      {
+        "mode": "Moto-taxi",
+        "text": "To Minca.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "On foot",
+        "text": "In the park.",
+        "detail": "Good shoes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–March",
+    "summary": "The coast has a dry season and a wet season.",
+    "seasons": [
+      {
+        "season": "December–March",
+        "rating": "best",
+        "text": "Dry."
+      },
+      {
+        "season": "April–May",
+        "rating": "quiet",
+        "text": "Hotter and starting to rain."
+      },
+      {
+        "season": "June–August",
+        "rating": "good",
+        "text": "Some rain."
+      },
+      {
+        "season": "September–November",
+        "rating": "avoid",
+        "text": "Wettest, and Tayrona closes for some weeks for maintenance."
+      }
+    ],
+    "avoid": "Rainy months and park closure periods."
+  },
+  "itinerary": {
+    "title": "Three days at Tayrona and Santa Marta",
+    "intro": "Beaches, mountains and the old town.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Santa Marta",
+        "summary": "The old town.",
+        "morning": "Arrive in Santa Marta.",
+        "afternoon": "The historic centre.",
+        "evening": "Seafood dinner."
+      },
+      {
+        "day": 2,
+        "title": "Tayrona",
+        "summary": "Beaches.",
+        "morning": "Bus to El Zaino and hike to Cabo San Juan.",
+        "afternoon": "Beach time.",
+        "evening": "Sleep in a hammock."
+      },
+      {
+        "day": 3,
+        "title": "Minca",
+        "summary": "Cloud forest.",
+        "morning": "Return to Santa Marta.",
+        "afternoon": "Minca coffee farm.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book Tayrona hammocks ahead.",
+    "Check park closures.",
+    "Bring cash.",
+    "Do not swim where signs warn of currents.",
+    "Pack light.",
+    "Use sunscreen and insect repellent.",
+    "Book Ciudad Perdida with an authorised operator."
+  ],
+  "faq": [
+    {
+      "q": "Is Tayrona worth visiting?",
+      "a": "Yes."
+    },
+    {
+      "q": "Can I swim?",
+      "a": "At some beaches only."
+    },
+    {
+      "q": "How hard is Ciudad Perdida?",
+      "a": "It is a demanding jungle trek."
+    },
+    {
+      "q": "How many days?",
+      "a": "Three."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Generally, with precautions."
+    },
+    {
+      "q": "When does it close?",
+      "a": "For maintenance at certain times."
+    }
+  ],
+  "related": ["cartagena", "san-andres", "bogota"],
+  "relatedArticles": ["us-national-parks-road-trip", "packing-by-season"]
+}

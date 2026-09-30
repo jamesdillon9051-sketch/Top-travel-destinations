@@ -1,0 +1,306 @@
+{
+  "slug": "barichara",
+  "name": "Barichara",
+  "country": "colombia",
+  "region": "Santander, north-east Andes",
+  "categories": ["historic", "cultural", "off-the-beaten-path", "scenic"],
+  "tagline": "Colombia's prettiest town, a hushed grid of whitewashed houses, stone streets and canyon views, with the Camino Real to Guane and adrenaline in San Gil.",
+  "highlight": "Walking the old stone Camino Real trail from Barichara to the village of Guane.",
+  "shortDescription": "A beautifully preserved colonial town of white walls and terracotta roofs, with a stone cathedral, artisan workshops, the Camino Real hike to Guane and outdoor sports in nearby San Gil.",
+  "metaDescription": "A Barichara travel guide: the colonial streets, Cathedral of the Immaculate Conception, Camino Real to Guane, artisans, San Gil rafting and canyoning, where to stay, how to get there and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Bucaramanga (BGA), about 3 hours by road; Bogotá (BOG), about 7 hours",
+  "knownFor": "Whitewashed colonial streets, Camino Real, crafts",
+  "budget": "US$60–110 per day, mid-range",
+  "goodFor": "Slow travel, photography, walking, adventure sports nearby",
+  "coords": { "lat": 6.6350, "lng": -73.2230 },
+  "image": {
+    "file": "File:Street in Barichara 02.jpg",
+    "alt": "A stone-paved street lined with whitewashed houses in Barichara"
+  },
+  "intro": [
+    "Barichara is often called the most beautiful town in Colombia. Set on a ridge above the Suárez river canyon in Santander, it has kept its colonial character almost untouched since its founding in the 18th century. Its name comes from a word meaning a place of rest. Whitewashed houses with red-tile roofs line cobbled streets, and the local pale sandstone is used for paving, pillars and churches.",
+    "The town is small and quiet, and a day's exploring takes in the Cathedral of the Immaculate Conception, a stone church, the Chapel of Santa Bárbara with views over the canyon, and artisan workshops that make paper, ceramics and embroidered goods. The Camino Real, a stone trail built by the Guane people and used by the Spanish, runs about 9 km to the village of Guane, a pleasant 2- to 3-hour walk.",
+    "Nearby San Gil is Colombia's adventure sports capital, with white-water rafting, canyoning, paragliding and caving. Barichara is a good place to relax between these activities, and it is about six or seven hours by bus from Bogotá, so it suits a longer itinerary."
+  ],
+  "whyVisit": {
+    "intro": "Barichara is a peaceful, photogenic town with an easy walking trail nearby.",
+    "points": [
+      {
+        "title": "A perfectly preserved town",
+        "text": "White walls, stone streets."
+      },
+      {
+        "title": "Camino Real hike",
+        "text": "To the village of Guane."
+      },
+      {
+        "title": "Artisan crafts",
+        "text": "Paper, ceramics and embroidery."
+      },
+      {
+        "title": "Canyon views",
+        "text": "Over the Suárez valley."
+      },
+      {
+        "title": "Adventure nearby",
+        "text": "Rafting and canyoning at San Gil."
+      }
+    ]
+  },
+  "attractionsIntro": "Everything is within walking distance.",
+  "attractions": [
+    {
+      "name": "Cathedral of the Immaculate Conception",
+      "image": {
+        "file": "File:Catedral de La Inmaculada Concepción, Barichara 05.jpg",
+        "alt": "The sandstone cathedral of Barichara in the main plaza"
+      },
+      "text": "A 19th-century stone church with a large square in front, the town's heart.",
+      "tip": "Visit at dusk."
+    },
+    {
+      "name": "Capilla de Jesús",
+      "image": {
+        "file": "File:Capilla de Jesús, Barichara 01.jpg",
+        "alt": "The small chapel of Jesús in Barichara"
+      },
+      "text": "A small stone chapel on a quiet street.",
+      "tip": "Photogenic in the morning."
+    },
+    {
+      "name": "The streets of Barichara",
+      "text": "White walls, blue doors and stone pavement.",
+      "tip": "Get lost on purpose."
+    },
+    {
+      "name": "Camino Real to Guane",
+      "text": "A 9-km stone trail to the village of Guane.",
+      "tip": "Walk in the morning."
+    },
+    {
+      "name": "Guane",
+      "text": "A tiny village with a museum of archaeology.",
+      "tip": "Take a taxi back."
+    },
+    {
+      "name": "Mirador",
+      "text": "Viewpoints over the canyon.",
+      "tip": "Sunset."
+    }
+  ],
+  "thingsToDoIntro": "Barichara is for walking and browsing.",
+  "thingsToDo": [
+    {
+      "title": "Walk the Camino Real",
+      "text": "To Guane.",
+      "tip": "Bring water."
+    },
+    {
+      "title": "Visit artisan workshops",
+      "text": "Paper and ceramics.",
+      "tip": "Buy direct."
+    },
+    {
+      "title": "Go rafting at San Gil",
+      "text": "On the Fonce river.",
+      "tip": "Book a reputable operator."
+    },
+    {
+      "title": "Try canyoning",
+      "text": "Near San Gil.",
+      "tip": "Listen to guides."
+    },
+    {
+      "title": "Watch the sunset",
+      "text": "From a mirador.",
+      "tip": "Bring a jacket."
+    },
+    {
+      "title": "Eat local ants",
+      "text": "Hormigas culonas, fried leaf-cutter ants.",
+      "tip": "If you dare."
+    }
+  ],
+  "foodIntro": "Santander's food is bold.",
+  "foods": [
+    {
+      "name": "Hormigas culonas",
+      "text": "Fried leaf-cutter ants, a regional snack.",
+      "whereToTry": "Shops and restaurants."
+    },
+    {
+      "name": "Cabrito (kid goat)",
+      "text": "A local speciality.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Mute santandereano",
+      "text": "A hearty soup.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Pepitoria",
+      "text": "A sausage of rice and offal.",
+      "whereToTry": "Market."
+    },
+    {
+      "name": "Fresh juices",
+      "text": "Tropical fruit.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in a colonial house.",
+    "areas": [
+      {
+        "name": "The centre",
+        "bestFor": "Atmosphere",
+        "text": "Colonial guesthouses."
+      },
+      {
+        "name": "Outskirts",
+        "bestFor": "Views",
+        "text": "Boutique stays."
+      },
+      {
+        "name": "San Gil",
+        "bestFor": "Adventure sports",
+        "text": "Hostels."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$10–18 per night" },
+      { "label": "Mid-range hotel", "value": "US$50–110 per night" },
+      { "label": "Boutique hotel", "value": "US$110–220 per night" },
+      { "label": "Meal", "value": "US$6–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Barichara is reached via San Gil.",
+    "options": [
+      {
+        "mode": "Bus from Bogotá to San Gil",
+        "text": "About 6 to 7 hours, then a 45-minute bus or taxi to Barichara.",
+        "detail": "Book."
+      },
+      {
+        "mode": "From Bucaramanga",
+        "text": "About 2.5 hours to San Gil.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Car",
+        "text": "About 7 hours from Bogotá.",
+        "detail": "Winding roads."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The town is small.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "In town.",
+        "detail": "Cobbles."
+      },
+      {
+        "mode": "Taxi",
+        "text": "To Guane.",
+        "detail": "Agree the price."
+      },
+      {
+        "mode": "Bus",
+        "text": "To San Gil.",
+        "detail": "Frequent."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–March and June–August",
+    "summary": "Barichara is warm and drier in these months.",
+    "seasons": [
+      {
+        "season": "December–March",
+        "rating": "best",
+        "text": "Dry."
+      },
+      {
+        "season": "April–May",
+        "rating": "quiet",
+        "text": "Wet."
+      },
+      {
+        "season": "June–August",
+        "rating": "good",
+        "text": "Drier."
+      },
+      {
+        "season": "September–November",
+        "rating": "avoid",
+        "text": "Wet."
+      }
+    ],
+    "avoid": "Rainy months for hiking."
+  },
+  "itinerary": {
+    "title": "Two days in Barichara",
+    "intro": "The town and the trail.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Barichara",
+        "summary": "Streets and crafts.",
+        "morning": "The cathedral and streets.",
+        "afternoon": "Artisan workshops.",
+        "evening": "Sunset."
+      },
+      {
+        "day": 2,
+        "title": "Camino Real",
+        "summary": "Hike.",
+        "morning": "Walk to Guane.",
+        "afternoon": "Lunch and return.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Walk in the morning.",
+    "Bring water and sun protection.",
+    "Buy crafts directly.",
+    "Wear good shoes.",
+    "Book adventure sports with licensed operators.",
+    "Carry cash.",
+    "Go on weekdays."
+  ],
+  "faq": [
+    {
+      "q": "Is Barichara worth visiting?",
+      "a": "Yes."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "Bus to San Gil, then a local bus."
+    },
+    {
+      "q": "How far is the hike?",
+      "a": "About 9 km to Guane."
+    },
+    {
+      "q": "How many days?",
+      "a": "Two."
+    },
+    {
+      "q": "Is San Gil worth it?",
+      "a": "For adventure sports."
+    },
+    {
+      "q": "When to go?",
+      "a": "December to March."
+    }
+  ],
+  "related": ["villa-de-leyva", "bogota", "medellin"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around"]
+}

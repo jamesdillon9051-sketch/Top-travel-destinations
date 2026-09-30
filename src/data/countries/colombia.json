@@ -1,0 +1,411 @@
+{
+  "slug": "colombia",
+  "name": "Colombia",
+  "continent": "South America",
+  "countryCode": "CO",
+  "tagline": "Caribbean walled cities, Andean coffee hills, a reinvented Medellín, wax palms, cloud-forest hikes and a warmth that surprises everyone who comes.",
+  "cardDescription": "A vivid, welcoming country of two oceans, three Andean ranges, colonial towns, coffee farms and some of the world's best biodiversity, far safer and easier than its old reputation suggests.",
+  "metaDescription": "A complete Colombia travel guide: the 10 best places to visit, Cartagena, Bogotá, Medellín, the Coffee Region, Tayrona and Villa de Leyva, food, when to go, safety, transport and a two-week itinerary.",
+  "image": {
+    "file": "File:Valle de Cocora, Colombia 03.jpg",
+    "alt": "Tall wax palms rising from green hills in the Cocora Valley"
+  },
+  "destinations": [
+    "cartagena",
+    "bogota",
+    "medellin",
+    "guatape",
+    "salento-cocora",
+    "tayrona-santa-marta",
+    "villa-de-leyva",
+    "barichara",
+    "san-andres",
+    "cano-cristales"
+  ],
+  "intro": [
+    "Colombia is the only South American country with coasts on both the Caribbean and the Pacific, and it packs remarkable variety into its territory. The Andes split into three ranges that run north to south, the Amazon rainforest covers the south-east, the Llanos plains stretch to the east, and the Sierra Nevada de Santa Marta, the highest coastal mountain range in the world, rises above tropical beaches. It is one of the most biodiverse countries on earth, with more bird species than any other.",
+    "For visitors, the appeal is its mix of cultures and landscapes. Cartagena's walled colonial city sits on the warm Caribbean, Bogotá is a high-altitude capital of museums and street art, Medellín has reinvented itself as an innovative city of cable cars and spring weather, and small towns such as Villa de Leyva and Barichara preserve white-walled colonial streets. Add coffee farms, hiking among wax palms, national parks and the sound of vallenato and salsa, and it is hard not to fall for the place.",
+    "Colombia's reputation was once shaped by conflict, and while it has real challenges, tourism has grown rapidly since the 2016 peace agreement, and the popular routes are well developed and welcoming. Sensible precautions are needed, and some regions are best avoided, but most visitors find Colombians among the warmest and most helpful people they meet."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Cartagena, Bogotá, Medellín and the Coffee Region are the essentials; Tayrona and Villa de Leyva add variety, and the others reward those with more time.",
+  "thingsToDoIntro": "The experiences that recur across the country and make a Colombian trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Wander a walled Caribbean city",
+      "text": "Cartagena's colonial streets, balconies and bougainvillea are among the most photogenic in the Americas. See [[cartagena|Cartagena]].",
+      "tip": "Walk early or after sunset, when it is cooler."
+    },
+    {
+      "title": "Visit a coffee farm",
+      "text": "The Coffee Axis produces some of the world's finest beans, and fincas offer tours with tastings. See [[salento-cocora|Salento and Cocora]].",
+      "tip": "Book a farm tour with a picking experience."
+    },
+    {
+      "title": "Hike among wax palms",
+      "text": "The Cocora Valley is home to the world's tallest palms, rising up to 60 metres. See [[salento-cocora|Salento and Cocora]].",
+      "tip": "Start early, before the mist and the crowds."
+    },
+    {
+      "title": "Ride the Medellín cable cars",
+      "text": "Metrocable lines link hillside neighbourhoods to the metro, and Comuna 13 shows the city's transformation. See [[medellin|Medellín]].",
+      "tip": "Take a local guide to Comuna 13."
+    },
+    {
+      "title": "Trek to a lost city",
+      "text": "Ciudad Perdida, the Tayrona city older than Machu Picchu, is reached by a multi-day jungle trek. See [[tayrona-santa-marta|Tayrona and Santa Marta]].",
+      "tip": "Book with an authorised operator."
+    },
+    {
+      "title": "Dance salsa",
+      "text": "Cali is the salsa capital, and clubs across the country teach and party.",
+      "tip": "Take a class first."
+    },
+    {
+      "title": "Explore Bogotá's museums",
+      "text": "The Gold Museum, the Botero Museum and street art tours reveal the capital. See [[bogota|Bogotá]].",
+      "tip": "Book the Gold Museum early in the day."
+    }
+  ],
+  "foodIntro": "Colombian food varies by region, with hearty soups and meats in the Andes, seafood and coconut rice on the Caribbean, and superb tropical fruit and coffee everywhere.",
+  "foods": [
+    {
+      "name": "Bandeja paisa",
+      "image": {
+        "file": "File:Bandeja paisa 30062011.jpg",
+        "alt": "A large plate of bandeja paisa with beans, rice, meat, egg and plantain"
+      },
+      "text": "A huge Antioquian platter of beans, rice, minced meat, chorizo, fried pork belly, egg, plantain and arepa.",
+      "whereToTry": "Restaurants in [[medellin|Medellín]]."
+    },
+    {
+      "name": "Arepas",
+      "image": {
+        "file": "File:Arepa Boyacense.jpg",
+        "alt": "A grilled arepa filled with cheese"
+      },
+      "text": "Flat maize cakes, grilled or fried, served plain, with butter and cheese, or filled. Every region has its own version.",
+      "whereToTry": "Street stalls and cafés everywhere."
+    },
+    {
+      "name": "Ajiaco",
+      "image": {
+        "file": "File:Ajiaco in Bogotá.jpg",
+        "alt": "A bowl of ajiaco soup with chicken, potatoes and corn"
+      },
+      "text": "A Bogotá chicken and potato soup flavoured with guascas herb, served with corn, cream and capers.",
+      "whereToTry": "Restaurants in [[bogota|Bogotá]]."
+    },
+    {
+      "name": "Empanadas",
+      "image": {
+        "file": "File:Empanada colombiana.jpg",
+        "alt": "Fried Colombian empanadas served with aji sauce"
+      },
+      "text": "Fried maize pastries filled with beef, chicken or potato, served with ají hot sauce.",
+      "whereToTry": "Street vendors and bakeries."
+    },
+    {
+      "name": "Colombian coffee",
+      "image": {
+        "file": "File:Coffee berries in Hacienda Guayabal, Colombia.jpg",
+        "alt": "Ripe red coffee berries on a branch in a Colombian coffee farm"
+      },
+      "text": "Mild, sweet Arabica from the highland farms, served as a tinto, small black coffee, or in specialty cafés.",
+      "whereToTry": "Fincas in the [[salento-cocora|Coffee Region]]."
+    },
+    {
+      "name": "Fresh tropical fruit and juices",
+      "text": "Lulo, maracuyá, guanábana, mango and more, blended into juices or eaten from street carts.",
+      "whereToTry": "Markets and juice stalls."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Colombia is welcoming and increasingly easy, though safety, altitude and distances need thought.",
+  "practical": {
+    "capital": "Bogotá",
+    "language": "Spanish. English is spoken by staff in tourist hotels and hostels, and rarely elsewhere. Learning basic Spanish helps a great deal.",
+    "currency": "Colombian peso (COP, $). Roughly 3,800–4,500 pesos to the US dollar in recent years. Prices are written with dots for thousands.",
+    "money": "Cards are accepted in cities, but carry cash for small towns, markets and taxis. ATMs are common, and are safest inside malls and banks. Avoid displaying large amounts of cash.",
+    "visa": "Many nationalities, including the United Kingdom, most of Europe, the United States, Canada and Australia, can enter without a visa for up to 90 days, extendable to 180 days in a year. An online Check-Mig form has been required before arrival. Rules change, so check the official migration website.",
+    "plugs": "Type A and B (two flat pins), 110 V, 60 Hz. Bring an adaptor and check that your devices take 110 V.",
+    "emergency": "123 for all emergencies.",
+    "tipping": "A voluntary 10% service charge is often added to restaurant bills, and tipping for guides and drivers is appreciated. Check the bill.",
+    "safety": "Tourist areas are generally safe, but crime exists. Avoid walking alone at night, do not use phones on the street, use Uber, InDrive or Cabify rather than hailing taxis, and never accept drinks from strangers, since drugging is a known risk. Avoid remote border areas, parts of Cauca and Catatumbo, and check government advice.",
+    "connectivity": "Good in cities and towns. Buy a local SIM or eSIM. Coverage is patchy in the mountains, jungle and Amazon.",
+    "timeZone": "Colombia Time, UTC-5 all year, with no daylight saving.",
+    "budget": [
+      { "label": "Backpacker", "value": "US$30–50 per day — hostels, buses, street food" },
+      { "label": "Mid-range", "value": "US$70–130 per day — hotels, restaurant meals, domestic flights" },
+      { "label": "Comfortable", "value": "US$150–260 per day — boutique hotels, guides" },
+      { "label": "Luxury", "value": "US$350+ per day — top hotels, private tours" }
+    ]
+  },
+  "bestTime": {
+    "headline": "Varies by region, see below",
+    "summary": "Colombia has no four seasons. Climate depends on altitude and region, with wet and dry seasons, so the best time varies by destination.",
+    "seasons": [
+      {
+        "season": "December–March",
+        "rating": "best",
+        "text": "The main dry season in the Andes and the Caribbean coast, with the best weather for most of the country. Busiest and most expensive, especially around Christmas."
+      },
+      {
+        "season": "April–May",
+        "rating": "quiet",
+        "text": "The first wet season in the Andes, with afternoon showers. Caribbean beaches begin to get hotter and rainier."
+      },
+      {
+        "season": "June–August",
+        "rating": "good",
+        "text": "A second, drier period in the Andes, with winds in Villa de Leyva. Domestic holiday season."
+      },
+      {
+        "season": "September–November",
+        "rating": "avoid",
+        "text": "The wettest months in much of the Andes and the Caribbean coast. Caño Cristales is best from late June to November."
+      }
+    ],
+    "avoid": "October and November for rainy conditions in the Andes, and Holy Week and late December for crowds."
+  },
+  "tripDuration": {
+    "headline": "10–14 days for a first trip",
+    "summary": "Colombia is big, and flights between regions are cheap. A week covers two or three places, and two weeks allows Bogotá, Medellín, the Coffee Region and the coast.",
+    "options": [
+      {
+        "length": "7 days",
+        "text": "Cartagena and Bogotá, or Medellín and the Coffee Region.",
+        "detail": "A first taste."
+      },
+      {
+        "length": "12–14 days",
+        "text": "The itinerary on this page: Bogotá, Villa de Leyva, Medellín, Guatapé, Salento, Cartagena and Tayrona.",
+        "detail": "The classic first trip, and our recommendation."
+      },
+      {
+        "length": "3 weeks",
+        "text": "Adds Barichara, San Andrés and more of the coast.",
+        "detail": "For a slower pace."
+      },
+      {
+        "length": "4 weeks or more",
+        "text": "Adds the Amazon, the Pacific coast and Ciudad Perdida.",
+        "detail": "For adventurers."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Flights are cheap and link the main cities in an hour. Buses cover the mountains, and roads are winding and slow. There are no passenger trains.",
+    "options": [
+      {
+        "mode": "Domestic flights",
+        "text": "Avianca, LATAM and low-cost carriers such as Wingo and JetSMART link Bogotá, Medellín, Cartagena, Santa Marta, Pereira and San Andrés.",
+        "detail": "Book early, and watch baggage fees."
+      },
+      {
+        "mode": "Long-distance buses",
+        "text": "Comfortable coaches link cities, but journeys are long on winding roads, for example Bogotá to Medellín takes 8 to 10 hours.",
+        "detail": "Use reputable companies and travel by day."
+      },
+      {
+        "mode": "Ride-hailing",
+        "text": "Uber, InDrive and Cabify operate in the main cities and are safer than street taxis.",
+        "detail": "Confirm the plate."
+      },
+      {
+        "mode": "Colectivos and local buses",
+        "text": "Shared jeeps and buses serve smaller towns, such as Salento and Minca.",
+        "detail": "Ask locally."
+      },
+      {
+        "mode": "Hire cars",
+        "text": "Possible around Villa de Leyva and the Coffee Region, though roads are demanding.",
+        "detail": "Avoid night driving."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Colombia",
+    "intro": "Bogotá, Villa de Leyva, Medellín, Guatapé, the Coffee Region, Cartagena and Tayrona, with three flights. Covers seven of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Bogotá",
+        "morning": "Land and acclimatise.",
+        "afternoon": "La Candelaria.",
+        "evening": "Ajiaco dinner."
+      },
+      {
+        "day": 2,
+        "title": "Bogotá",
+        "morning": "Gold Museum.",
+        "afternoon": "Monserrate.",
+        "evening": "Zona G dining."
+      },
+      {
+        "day": 3,
+        "title": "Zipaquirá",
+        "morning": "Salt Cathedral.",
+        "afternoon": "Street art tour.",
+        "evening": "Free evening."
+      },
+      {
+        "day": 4,
+        "title": "Villa de Leyva",
+        "morning": "Bus to Villa de Leyva.",
+        "afternoon": "Plaza Mayor.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 5,
+        "title": "To Medellín",
+        "morning": "Return to Bogotá.",
+        "afternoon": "Fly to Medellín.",
+        "evening": "El Poblado."
+      },
+      {
+        "day": 6,
+        "title": "Medellín",
+        "morning": "Comuna 13.",
+        "afternoon": "Plaza Botero.",
+        "evening": "Bandeja paisa."
+      },
+      {
+        "day": 7,
+        "title": "Guatapé",
+        "morning": "Climb El Peñol.",
+        "afternoon": "The colourful town.",
+        "evening": "Return."
+      },
+      {
+        "day": 8,
+        "title": "To Salento",
+        "morning": "Fly to Pereira.",
+        "afternoon": "Transfer to Salento.",
+        "evening": "Calle Real."
+      },
+      {
+        "day": 9,
+        "title": "Cocora Valley",
+        "morning": "Hike among the wax palms.",
+        "afternoon": "Coffee farm tour.",
+        "evening": "Rest."
+      },
+      {
+        "day": 10,
+        "title": "To Cartagena",
+        "morning": "Fly to Cartagena.",
+        "afternoon": "The old city.",
+        "evening": "Sunset on the walls."
+      },
+      {
+        "day": 11,
+        "title": "Cartagena",
+        "morning": "Castillo San Felipe.",
+        "afternoon": "Getsemaní.",
+        "evening": "Ceviche and salsa."
+      },
+      {
+        "day": 12,
+        "title": "Islands",
+        "morning": "Boat to Rosario Islands.",
+        "afternoon": "Swim.",
+        "evening": "Return."
+      },
+      {
+        "day": 13,
+        "title": "Tayrona",
+        "morning": "Bus to Santa Marta.",
+        "afternoon": "Tayrona National Park.",
+        "evening": "Beach camp."
+      },
+      {
+        "day": 14,
+        "title": "Departure",
+        "morning": "Return to Santa Marta.",
+        "afternoon": "Fly home via Bogotá.",
+        "evening": "Home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Colombians are warm, expressive and hospitable, and greetings matter. Family, music and food are central, and people are proud of their country's changes. Punctuality is relaxed, and conversation is friendly and close.",
+    "etiquette": [
+      {
+        "title": "Greet everyone",
+        "text": "Say buenos días or buenas tardes in shops, on buses and to neighbours. A handshake or a cheek kiss is common."
+      },
+      {
+        "title": "Use polite forms",
+        "text": "Use usted with strangers and elders, and señor or señora."
+      },
+      {
+        "title": "Accept hospitality",
+        "text": "Invitations for a tinto, coffee, are a friendly gesture."
+      },
+      {
+        "title": "Dress smartly",
+        "text": "Locals dress well in cities, and shorts are less common in Bogotá."
+      },
+      {
+        "title": "Be discreet with valuables",
+        "text": "Do not flash phones, jewellery or cameras in cities."
+      },
+      {
+        "title": "Avoid talking about violence",
+        "text": "Do not joke about drugs or conflict, and avoid the topic of Pablo Escobar as entertainment."
+      }
+    ],
+    "dos": [
+      "Learn basic Spanish",
+      "Use Uber or InDrive in cities",
+      "Carry a copy of your passport",
+      "Take altitude seriously in Bogotá",
+      "Try local fruit and coffee",
+      "Book Ciudad Perdida and Tayrona ahead"
+    ],
+    "donts": [
+      "Don't accept drinks from strangers",
+      "Don't use your phone on the street in big cities",
+      "Don't hail street taxis at night",
+      "Don't buy drugs",
+      "Don't walk alone at night in unfamiliar areas",
+      "Don't carry unnecessary valuables"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Colombia, several of which are specific to how the country works.",
+  "tips": [
+    "Take altitude seriously in Bogotá, at 2,640 metres, and rest on the first day.",
+    "Use Uber, InDrive or Cabify rather than street taxis.",
+    "Never leave a drink unattended, and be cautious about accepting drinks.",
+    "Book internal flights early, and check baggage limits on low-cost carriers.",
+    "Get a yellow fever vaccination if visiting Tayrona and jungle areas, and check malaria advice.",
+    "Carry cash for small towns and colectivos.",
+    "Pack layers, since Bogotá is cool and the coast is hot.",
+    "Check government safety advice before travelling to remote regions."
+  ],
+  "faq": [
+    {
+      "q": "Is Colombia safe for tourists?",
+      "a": "Popular tourist areas are generally safe with sensible precautions. Avoid remote regions, be careful at night and use ride-hailing apps."
+    },
+    {
+      "q": "How many days do you need in Colombia?",
+      "a": "Ten to fourteen days for a first trip, covering Bogotá, Medellín, the Coffee Region and Cartagena."
+    },
+    {
+      "q": "When is the best time to visit Colombia?",
+      "a": "December to March for most of the country, with June to August as a good second window."
+    },
+    {
+      "q": "Do I need a visa for Colombia?",
+      "a": "Many nationalities can enter visa-free for 90 days. Complete the online Check-Mig form and check current rules."
+    },
+    {
+      "q": "Is Colombia expensive?",
+      "a": "No. It is good value, with cheap food, transport and hostels, though flights and Caribbean hotels can be pricey in peak season."
+    },
+    {
+      "q": "Do I need to speak Spanish?",
+      "a": "It helps a lot, because English is limited outside tourist hotels."
+    }
+  ]
+}
