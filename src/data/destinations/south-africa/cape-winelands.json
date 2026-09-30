@@ -1,0 +1,326 @@
+{
+  "slug": "cape-winelands",
+  "name": "The Cape Winelands",
+  "country": "south-africa",
+  "region": "Western Cape, east of Cape Town",
+  "categories": ["food-and-wine", "scenic", "historic", "cultural"],
+  "tagline": "White Cape Dutch manor houses in oak-lined valleys, vineyards beneath jagged mountains and long lunches with award-winning wine, an hour from Cape Town.",
+  "highlight": "A long lunch on a wine estate terrace, with a chilled chenin blanc and vineyards stretching to the mountains.",
+  "shortDescription": "The heart of South African wine: Stellenbosch, Franschhoek, Paarl and Constantia, with historic estates, Cape Dutch architecture, food, art and superb scenery.",
+  "metaDescription": "A Cape Winelands travel guide: Stellenbosch, Franschhoek, Paarl and Constantia, Cape Dutch estates, Pinotage and Chenin Blanc, the Wine Tram, Babylonstoren, best time, how to get there and a three-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Cape Town International (CPT), about 45 minutes to Stellenbosch",
+  "knownFor": "Wine, Cape Dutch architecture, food, mountains",
+  "budget": "US$100–220 per day, mid-range",
+  "goodFor": "Wine, food, scenery, cycling, romantic breaks",
+  "coords": { "lat": -33.9321, "lng": 18.8602 },
+  "image": {
+    "file": "File:Paarl vineyard-001.jpg",
+    "alt": "Rows of vines in a Winelands vineyard beneath a mountain near Paarl"
+  },
+  "intro": [
+    "South Africa has been making wine since 1659, when the first Cape vintage was pressed by the colony's Dutch founder, Jan van Riebeeck. The most important regions are in the mountain-ringed valleys east of Cape Town, where warm, dry summers and cool sea breezes are ideal for grapes. The area, called the Cape Winelands, includes the university town of Stellenbosch, the French-influenced village of Franschhoek, the larger town of Paarl, and the historic estates of Constantia on the edge of Cape Town.",
+    "The estates are as beautiful as the wine. Many are grouped around white, gabled Cape Dutch manor houses, some dating from the 17th and 18th centuries, with oaks, rose gardens and vineyards against a backdrop of dramatic mountains. Wine tasting is often paired with food, and restaurants in the region rank among the best in the country. The Cape's signature grapes include Chenin Blanc, Pinotage, a local cross, Cabernet Sauvignon and Syrah.",
+    "Wine tourism is well organised, with tasting rooms, tours, a Wine Tram in Franschhoek and cycling routes. It is close enough to Cape Town for a day trip, but a night or two is better, particularly in Franschhoek or Stellenbosch, where a stay on a vineyard estate is part of the experience."
+  ],
+  "whyVisit": {
+    "intro": "The Winelands combine some of the most beautiful landscapes in South Africa with excellent wine and food.",
+    "points": [
+      {
+        "title": "World-class wine",
+        "text": "Estates producing Chenin Blanc, Pinotage, Cabernet and more, with tastings for all levels."
+      },
+      {
+        "title": "Superb scenery",
+        "text": "Vineyards and mountains, with oak-lined roads and Cape Dutch buildings."
+      },
+      {
+        "title": "Fine dining",
+        "text": "Restaurants and farm-to-table lunches at estates."
+      },
+      {
+        "title": "History",
+        "text": "Stellenbosch, South Africa's second-oldest town, and Franschhoek's Huguenot heritage."
+      },
+      {
+        "title": "Easy access",
+        "text": "About 45 minutes from Cape Town's airport."
+      }
+    ]
+  },
+  "attractionsIntro": "Give each town a day, or combine them into a tour.",
+  "attractions": [
+    {
+      "name": "Stellenbosch",
+      "image": {
+        "file": "File:Oak Trees Dorp Street Stellenbosch.JPG",
+        "alt": "Oak trees lining Dorp Street in Stellenbosch with historic houses"
+      },
+      "text": "A university town founded in 1679, with oak-lined streets, Cape Dutch houses and museums, surrounded by more than 100 wine estates.",
+      "tip": "Walk Dorp Street, and book a tasting."
+    },
+    {
+      "name": "Franschhoek",
+      "image": {
+        "file": "File:Huguenot Memorial Museum, Franschhoek, Western Cape, South Africa (20319433219).jpg",
+        "alt": "The Huguenot Memorial and museum in Franschhoek with mountains behind"
+      },
+      "text": "A village settled by French Huguenots in 1688, now known as the country's food and wine capital, with a memorial museum, boutiques and top restaurants.",
+      "tip": "Book the Wine Tram."
+    },
+    {
+      "name": "Paarl",
+      "image": {
+        "file": "File:Paarl grapes-001.jpg",
+        "alt": "Bunches of grapes ripening on vines in Paarl"
+      },
+      "text": "A long town below a granite dome, with old estates, the Afrikaans Language Monument and a wine route.",
+      "tip": "Visit an old estate."
+    },
+    {
+      "name": "Babylonstoren",
+      "image": {
+        "file": "File:DSC04935 BABYLONSTOREN (16094034029).jpg",
+        "alt": "The gardens and Cape Dutch buildings at Babylonstoren farm"
+      },
+      "text": "A farm and estate near Franschhoek with a huge kitchen garden, restaurants and a hotel in Cape Dutch buildings.",
+      "tip": "Book lunch in advance."
+    },
+    {
+      "name": "Groot Constantia",
+      "image": {
+        "file": "File:GrootConstantiaHomestead.jpg",
+        "alt": "The white Cape Dutch manor house at Groot Constantia wine estate"
+      },
+      "text": "South Africa's oldest wine estate, founded in 1685, in Constantia on the edge of Cape Town, with a museum and tastings.",
+      "tip": "Combine with other Constantia estates."
+    },
+    {
+      "name": "Cape Dutch estates",
+      "text": "Manor houses such as Boschendal, Vergelegen and others, with tours, gardens and restaurants.",
+      "tip": "Choose two or three estates."
+    }
+  ],
+  "thingsToDoIntro": "Wine, food and scenery make up the days.",
+  "thingsToDo": [
+    {
+      "title": "Taste wine at several estates",
+      "text": "Visit three or four, with a lunch break.",
+      "tip": "Book in advance and hire a driver."
+    },
+    {
+      "title": "Ride the Franschhoek Wine Tram",
+      "text": "A hop-on hop-off tram and bus that links estates.",
+      "tip": "Book a day pass."
+    },
+    {
+      "title": "Cycle through the vines",
+      "text": "Quiet roads and tracks link estates.",
+      "tip": "Rent an e-bike."
+    },
+    {
+      "title": "Have a farm-to-table lunch",
+      "text": "Many estates serve seasonal menus with wine pairings.",
+      "tip": "Reserve early."
+    },
+    {
+      "title": "Hike in the mountains",
+      "text": "Trails in the Jonkershoek or Franschhoek mountains.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Visit an art gallery or craft market",
+      "text": "Stellenbosch and Franschhoek have galleries and markets.",
+      "tip": "Check opening days."
+    }
+  ],
+  "foodIntro": "The Winelands' food is estate-led, with produce from farms and gardens and a mix of Cape traditions.",
+  "foods": [
+    {
+      "name": "Chenin Blanc",
+      "text": "The Cape's signature white, in styles from fresh to oaked.",
+      "whereToTry": "Every estate."
+    },
+    {
+      "name": "Pinotage",
+      "text": "A South African red, a cross of Pinot Noir and Cinsault.",
+      "whereToTry": "Stellenbosch and Paarl."
+    },
+    {
+      "name": "Cape Winelands cuisine",
+      "text": "Modern dishes with local ingredients, such as springbok, trout and fruit.",
+      "whereToTry": "Restaurants in Franschhoek."
+    },
+    {
+      "name": "Cheese and olive oil",
+      "text": "Artisan cheese, olives and preserves at farm shops.",
+      "whereToTry": "Estates and markets."
+    },
+    {
+      "name": "Malva pudding",
+      "text": "A warm sponge dessert.",
+      "whereToTry": "Restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay on an estate or in a small town.",
+    "areas": [
+      {
+        "name": "Stellenbosch",
+        "bestFor": "Restaurants and nightlife",
+        "text": "Guesthouses and hotels."
+      },
+      {
+        "name": "Franschhoek",
+        "bestFor": "Food and charm",
+        "text": "Boutique hotels and estates."
+      },
+      {
+        "name": "Paarl and Constantia",
+        "bestFor": "Quiet and views",
+        "text": "Wine estate lodges."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$60–120 per night" },
+      { "label": "Mid-range hotel", "value": "US$120–250 per night" },
+      { "label": "Luxury estate", "value": "US$300–700 per night" },
+      { "label": "Tasting", "value": "US$5–20 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Winelands are 45 to 75 km from Cape Town.",
+    "options": [
+      {
+        "mode": "Drive from Cape Town",
+        "text": "About 45 minutes to Stellenbosch, 1 hour to Franschhoek, 50 minutes to Paarl.",
+        "detail": "Hire a car."
+      },
+      {
+        "mode": "Tour or driver",
+        "text": "Day tours from Cape Town are widely available.",
+        "detail": "Best if you plan to drink."
+      },
+      {
+        "mode": "Train to Stellenbosch",
+        "text": "Limited services.",
+        "detail": "Check availability."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A driver or a tour is the easiest way to taste wine.",
+    "options": [
+      {
+        "mode": "Driver or tour",
+        "text": "Book for the day.",
+        "detail": "Avoid drinking and driving."
+      },
+      {
+        "mode": "Wine Tram",
+        "text": "In Franschhoek.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "For short hops.",
+        "detail": "Wear a helmet."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–April",
+    "summary": "The Winelands have hot, dry summers and mild, wet winters.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "best",
+        "text": "Hot, sunny and green, with alfresco lunches."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Harvest season, golden vines and pleasant weather."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "good",
+        "text": "Cool and wet, with fires and low prices."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "good",
+        "text": "Green, with blossom."
+      }
+    ],
+    "avoid": "The hottest days of January, and busy Easter and Christmas periods."
+  },
+  "itinerary": {
+    "title": "Three days in the Winelands",
+    "intro": "Stellenbosch, Franschhoek and Paarl.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Stellenbosch",
+        "summary": "History and wine.",
+        "morning": "Dorp Street and museums.",
+        "afternoon": "Two estates and a long lunch.",
+        "evening": "Dinner in town."
+      },
+      {
+        "day": 2,
+        "title": "Franschhoek",
+        "summary": "Food and wine.",
+        "morning": "The Huguenot Memorial.",
+        "afternoon": "The Wine Tram.",
+        "evening": "A tasting menu."
+      },
+      {
+        "day": 3,
+        "title": "Paarl and Babylonstoren",
+        "summary": "Farm and garden.",
+        "morning": "Babylonstoren.",
+        "afternoon": "A last estate.",
+        "evening": "Return to Cape Town."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make wine touring better.",
+  "tips": [
+    "Book tastings and lunches in advance.",
+    "Hire a driver or take a tour. Do not drink and drive.",
+    "Visit two or three estates a day, not more.",
+    "Ask about cellar tours and pairings.",
+    "Try wines you don't know, such as Chenin Blanc and Pinotage.",
+    "Wear sun protection and comfortable shoes.",
+    "Buy wine directly from estates."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the Winelands?",
+      "a": "Two or three days. A day trip from Cape Town is also possible."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "November to April."
+    },
+    {
+      "q": "Which town is best?",
+      "a": "Franschhoek for food and charm, Stellenbosch for variety, and Paarl for a quieter feel."
+    },
+    {
+      "q": "Do I need a driver?",
+      "a": "It is strongly recommended if you plan to drink."
+    },
+    {
+      "q": "What wine is South Africa known for?",
+      "a": "Chenin Blanc, Pinotage, Cabernet Sauvignon and Syrah."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Tastings are inexpensive, and wine and food are good value."
+    }
+  ],
+  "related": ["cape-town", "hermanus-overberg", "garden-route"],
+  "relatedArticles": ["food-primer", "week-cost-five-countries"]
+}

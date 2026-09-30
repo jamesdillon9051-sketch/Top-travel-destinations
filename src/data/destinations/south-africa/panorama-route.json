@@ -1,0 +1,310 @@
+{
+  "slug": "panorama-route",
+  "name": "The Panorama Route",
+  "country": "south-africa",
+  "region": "Mpumalanga, north-east South Africa",
+  "categories": ["scenic", "nature", "national-park", "historic"],
+  "tagline": "A dramatic drive along the edge of the escarpment, past one of the world's largest green canyons, waterfalls, potholes and the viewpoints that look out over the lowveld.",
+  "highlight": "The view from God's Window across the lowveld, with the Blyde River Canyon and the Three Rondavels beyond.",
+  "shortDescription": "A scenic route through Mpumalanga's escarpment, with Blyde River Canyon, God's Window, the Three Rondavels, Bourke's Luck Potholes, waterfalls and the old gold town of Pilgrim's Rest.",
+  "metaDescription": "A Panorama Route travel guide: Blyde River Canyon, God's Window, the Three Rondavels, Bourke's Luck Potholes, Lisbon and Mac Mac Falls, Pilgrim's Rest, Graskop, how to combine with Kruger and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Kruger Mpumalanga (MQP) or Hoedspruit (HDS), about 1.5 to 2 hours",
+  "knownFor": "Blyde River Canyon, viewpoints, waterfalls, escarpment scenery",
+  "budget": "US$80–160 per day, mid-range",
+  "goodFor": "Scenic drives, viewpoints, short walks, a Kruger add-on",
+  "coords": { "lat": -24.5700, "lng": 30.8000 },
+  "image": {
+    "file": "File:Panorama Route, Part I- Blyde River Canyon - Panorama3845.jpg",
+    "alt": "A wide panorama of the Blyde River Canyon with cliffs and a green valley"
+  },
+  "intro": [
+    "The Panorama Route is a scenic drive along the northern part of the Drakensberg escarpment in Mpumalanga, where the high plateau drops away in a series of cliffs, gorges and forests to the hot lowveld below. It links a series of natural attractions in a short distance, and is a natural companion to a visit to Kruger National Park, which lies just below the escarpment to the east.",
+    "The centrepiece is the Blyde River Canyon, about 25 km long and up to 750 metres deep, one of the largest canyons in Africa and among the largest green canyons in the world, cloaked in subtropical vegetation. Its viewpoints include the Three Rondavels, three round rock pinnacles that resemble traditional huts, and God's Window, where the ground falls away to the lowveld. Bourke's Luck Potholes, cylindrical holes worn into the rock where two rivers meet, and waterfalls such as Lisbon, Berlin and Mac Mac add to the scenery.",
+    "The route is also historic. Pilgrim's Rest, a preserved gold-rush village from the 1870s, has a living museum, and the towns of Graskop and Sabie offer craft shops, cafés and adventure activities. The route can be done in a day, though two days allow a slower pace, and it is best in the dry winter months when the views are clearest."
+  ],
+  "whyVisit": {
+    "intro": "The Panorama Route is one of the most scenic short drives in South Africa, and easy to combine with Kruger.",
+    "points": [
+      {
+        "title": "A great canyon",
+        "text": "Blyde River Canyon has huge cliffs, green slopes and a dam-fed river."
+      },
+      {
+        "title": "Panoramic viewpoints",
+        "text": "God's Window, the Three Rondavels and other lookouts."
+      },
+      {
+        "title": "Waterfalls and potholes",
+        "text": "Lisbon Falls, Mac Mac Falls and Bourke's Luck Potholes."
+      },
+      {
+        "title": "Gold-rush history",
+        "text": "Pilgrim's Rest is a preserved mining village."
+      },
+      {
+        "title": "Easy access",
+        "text": "Sealed roads and short walks between viewpoints."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are short stops off the R532 road.",
+  "attractions": [
+    {
+      "name": "God's Window",
+      "image": {
+        "file": "File:Blyde River Canyon Nature Reserve (ZA), Lowveld View -- 2024 -- 9971.jpg",
+        "alt": "The view from God's Window across the lowveld far below the escarpment"
+      },
+      "text": "A viewpoint on the edge of the escarpment, from which the land drops about 900 metres to the lowveld, with views to Kruger on clear days. Mist can hide it.",
+      "tip": "Go early, before the cloud."
+    },
+    {
+      "name": "The Three Rondavels",
+      "image": {
+        "file": "File:Three Rondavels, Blyde River Canyon Nature Reserve, Mpumalanga, South Africa.jpg",
+        "alt": "The Three Rondavels rock formations rising above the Blyde River Canyon"
+      },
+      "text": "Three round, grass-topped rock pinnacles, resembling traditional huts, rising above the Blyde River Canyon, with the dam far below.",
+      "tip": "A short walk from the car park."
+    },
+    {
+      "name": "Bourke's Luck Potholes",
+      "image": {
+        "file": "File:Blyde River Canyon Nature Reserve (ZA), Blyde River, Bourke's Luck Potholes -- 2024 -- 9989.jpg",
+        "alt": "The cylindrical potholes of Bourke's Luck worn into the rock by the Treur and Blyde rivers"
+      },
+      "text": "Cylindrical potholes carved by whirling water where the Treur and Blyde rivers meet, reached by footbridges over the gorge.",
+      "tip": "Allow an hour."
+    },
+    {
+      "name": "Lisbon Falls and Berlin Falls",
+      "text": "Waterfalls dropping over the escarpment into the forest, with short paths from car parks.",
+      "tip": "Best in summer after rain."
+    },
+    {
+      "name": "Mac Mac Falls",
+      "text": "A 65-metre twin waterfall in a forested gorge near Sabie.",
+      "tip": "A short stop."
+    },
+    {
+      "name": "Pilgrim's Rest",
+      "text": "A gold-rush village from 1873, preserved as a museum, with old shops, houses and a pub.",
+      "tip": "Combine with Graskop."
+    }
+  ],
+  "thingsToDoIntro": "The route is about scenery, with a few active options.",
+  "thingsToDo": [
+    {
+      "title": "Drive the route",
+      "text": "Stop at viewpoints and waterfalls.",
+      "tip": "Start early."
+    },
+    {
+      "title": "Ride the Graskop Gorge Lift",
+      "text": "A glass lift that descends into a forested gorge, with walkways.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Try the Big Swing",
+      "text": "A giant swing over a gorge.",
+      "tip": "For thrill seekers."
+    },
+    {
+      "title": "Take a boat trip on the Blyde Dam",
+      "text": "See the canyon from below.",
+      "tip": "Book a morning trip."
+    },
+    {
+      "title": "Walk in the forest",
+      "text": "Short trails to waterfalls.",
+      "tip": "Wear good shoes."
+    },
+    {
+      "title": "Visit Pilgrim's Rest",
+      "text": "Wander the historic village.",
+      "tip": "Buy a museum ticket."
+    }
+  ],
+  "foodIntro": "Food is simple, with pancakes, farm stalls and local trout.",
+  "foods": [
+    {
+      "name": "Graskop pancakes",
+      "text": "Large, thin pancakes with sweet or savoury fillings, a Graskop speciality.",
+      "whereToTry": "Harrie's Pancakes and cafés."
+    },
+    {
+      "name": "Trout",
+      "text": "Fresh trout from mountain streams.",
+      "whereToTry": "Restaurants in Dullstroom and Sabie."
+    },
+    {
+      "name": "Braai",
+      "text": "Barbecue with steak and boerewors.",
+      "whereToTry": "Lodges."
+    },
+    {
+      "name": "Local fruit",
+      "text": "Avocados, mangoes and macadamia nuts.",
+      "whereToTry": "Farm stalls."
+    },
+    {
+      "name": "Coffee and cake",
+      "text": "In roadside cafés.",
+      "whereToTry": "Graskop."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Graskop, Sabie or a lodge on the escarpment.",
+    "areas": [
+      {
+        "name": "Graskop",
+        "bestFor": "Restaurants and central location",
+        "text": "Guesthouses and hotels."
+      },
+      {
+        "name": "Hazyview and Sabie",
+        "bestFor": "Proximity to Kruger",
+        "text": "Lodges and hotels."
+      },
+      {
+        "name": "Blyde River Canyon lodges",
+        "bestFor": "Views",
+        "text": "Lodges near the canyon."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "US$30–70 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–160 per night" },
+      { "label": "Luxury lodge", "value": "US$200–450 per night" },
+      { "label": "Meal at a local café", "value": "US$8–20 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The route is about 350 km from Johannesburg, and 1.5 to 2 hours from Kruger's gates.",
+    "options": [
+      {
+        "mode": "Drive from Johannesburg",
+        "text": "About 4 to 5 hours to Graskop.",
+        "detail": "Good roads."
+      },
+      {
+        "mode": "Fly to Nelspruit or Hoedspruit",
+        "text": "Then a drive of about 1.5 to 2 hours.",
+        "detail": "Hire a car."
+      },
+      {
+        "mode": "Tours",
+        "text": "Day tours from Kruger area lodges.",
+        "detail": "Book in advance."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is the only practical way to see the route.",
+    "options": [
+      {
+        "mode": "Hire car",
+        "text": "The best option.",
+        "detail": "Drive carefully on mountain roads."
+      },
+      {
+        "mode": "Tour",
+        "text": "A guided day trip.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "On foot",
+        "text": "Short walks at each stop.",
+        "detail": "Wear good shoes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–September",
+    "summary": "The escarpment has warm, wet summers with frequent mist, and mild, dry winters with clear views.",
+    "seasons": [
+      {
+        "season": "Summer (November–March)",
+        "rating": "good",
+        "text": "Green and lush, but hot, misty and stormy."
+      },
+      {
+        "season": "Autumn (April–May)",
+        "rating": "best",
+        "text": "Clear, warm and dry."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "best",
+        "text": "Sunny, clear and cool, with excellent views."
+      },
+      {
+        "season": "Spring (September–October)",
+        "rating": "good",
+        "text": "Warming, with clear days."
+      }
+    ],
+    "avoid": "Misty summer mornings, when the viewpoints are hidden."
+  },
+  "itinerary": {
+    "title": "Two days on the Panorama Route",
+    "intro": "The canyon on the first day, and the waterfalls and villages on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The canyon",
+        "summary": "Viewpoints.",
+        "morning": "Drive to God's Window.",
+        "afternoon": "The Three Rondavels and Bourke's Luck Potholes.",
+        "evening": "Dinner in Graskop."
+      },
+      {
+        "day": 2,
+        "title": "Waterfalls and history",
+        "summary": "Falls and gold.",
+        "morning": "Lisbon and Berlin Falls.",
+        "afternoon": "Pilgrim's Rest.",
+        "evening": "Depart or continue to Kruger."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you get the best views.",
+  "tips": [
+    "Go early, before the mist and the crowds.",
+    "Check the weather and visibility forecast.",
+    "Bring layers, since it can be cool on the escarpment.",
+    "Watch for street vendors and be polite.",
+    "Lock your car and do not leave valuables inside.",
+    "Take cash for entry fees at some sites.",
+    "Combine with Kruger for a full trip."
+  ],
+  "faq": [
+    {
+      "q": "How long does the Panorama Route take?",
+      "a": "It can be done in a day, but two days allow a relaxed pace."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "April to September, when the air is clear."
+    },
+    {
+      "q": "Can I combine it with Kruger?",
+      "a": "Yes. It is one to two hours from the gates, and a natural add-on."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Generally yes. Lock your car and keep valuables out of sight."
+    },
+    {
+      "q": "Do I need a car?",
+      "a": "Yes, or a tour."
+    },
+    {
+      "q": "Is the Blyde River Canyon the third-largest canyon in the world?",
+      "a": "It is often described that way, though it depends on how canyons are measured."
+    }
+  ],
+  "related": ["kruger-national-park", "johannesburg-soweto", "drakensberg"],
+  "relatedArticles": ["us-national-parks-road-trip", "unesco-worth-planning-around"]
+}

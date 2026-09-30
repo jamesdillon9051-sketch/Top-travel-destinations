@@ -1,0 +1,303 @@
+{
+  "slug": "addo-eastern-cape",
+  "name": "Addo and the Eastern Cape",
+  "shortName": "Addo",
+  "country": "south-africa",
+  "region": "Eastern Cape, near Gqeberha",
+  "categories": ["national-park", "nature", "coastal"],
+  "tagline": "A malaria-free safari park where more than 600 elephants come to drink at waterholes, with lions, rhinos and buffalo, and a coast where whales and sharks add to the Big Seven.",
+  "highlight": "A herd of elephants arriving at a waterhole at dusk, with calves splashing in the mud.",
+  "shortDescription": "One of South Africa's most rewarding safari parks, malaria-free and easy to reach from Gqeberha, with dense elephant herds, the Big Five, dung beetle crossings and private reserves such as Shamwari.",
+  "metaDescription": "An Addo Elephant National Park travel guide: elephants at waterholes, the Big Seven, self-drive and guided drives, Shamwari and private reserves, Gqeberha, best time, how to get there and a three-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Gqeberha (PLZ), about 1 hour",
+  "knownFor": "Elephants, the Big Seven, malaria-free safaris, self-drive game viewing",
+  "budget": "US$100–250 per day, mid-range",
+  "goodFor": "Elephants, family safaris, malaria-free wildlife, a Garden Route add-on",
+  "coords": { "lat": -33.4425, "lng": 25.7500 },
+  "image": {
+    "file": "File:ADDO - African bush elephants at a waterhole in Addo Elephant National Park, South Africa, 2017.jpg",
+    "alt": "African elephants gathered at a waterhole in Addo Elephant National Park"
+  },
+  "intro": [
+    "Addo Elephant National Park, near Gqeberha, formerly Port Elizabeth, in the Eastern Cape, was established in 1931 to protect the last 11 elephants in the region, which had been hunted almost to extinction. Today it is home to more than 600 elephants and one of the densest elephant populations in Africa, and it is also home to lions, black and white rhinos, buffaloes, spotted hyenas, leopards and a wealth of antelope and birds.",
+    "The park has grown to include a marine reserve, with islands where African penguins and Cape gannets breed, and its whales and great white sharks give it the title of the Big Seven. Its main advantage is that it is malaria-free, so there are no tablets to take, and it is easy to reach, only an hour's drive from Gqeberha airport. That makes it a favourite for families and for those adding a safari to a Garden Route trip.",
+    "Game viewing at Addo is straightforward. The elephants gather at waterholes within sight of the main camp, and roads through thick, spiky thicket and open grassland allow self-drive exploring. Guided drives at dusk and night increase the chances of seeing lions and hyenas. Nearby private reserves, such as Shamwari and Kwandwe, offer luxury lodges and Big Five safaris, also malaria-free."
+  ],
+  "whyVisit": {
+    "intro": "Addo is the easiest and most family-friendly place in South Africa for an elephant safari.",
+    "points": [
+      {
+        "title": "Elephants",
+        "text": "Large herds visit waterholes throughout the day."
+      },
+      {
+        "title": "Malaria-free",
+        "text": "No need for tablets, ideal for families and pregnant travellers."
+      },
+      {
+        "title": "Easy access",
+        "text": "An hour from Gqeberha, and close to the Garden Route."
+      },
+      {
+        "title": "The Big Seven",
+        "text": "Elephants, lions, rhinos, leopards, buffaloes, whales and sharks."
+      },
+      {
+        "title": "Self-drive and guided options",
+        "text": "Simple roads and good-value accommodation."
+      }
+    ]
+  },
+  "attractionsIntro": "The main experiences are game drives, waterholes and the private reserves.",
+  "attractions": [
+    {
+      "name": "The Hapoor and Domkrag waterholes",
+      "image": {
+        "file": "File:Addo Elephant National Park-001.jpg",
+        "alt": "Elephants walking through the bush in Addo Elephant National Park"
+      },
+      "text": "Waterholes near the main camp where elephants gather in large numbers in the dry season, viewed from hides or from your vehicle.",
+      "tip": "Go in the late afternoon."
+    },
+    {
+      "name": "Self-drive game drives",
+      "text": "Roads through the park allow visitors to look for lions, buffaloes, rhinos, kudu and zebra on their own.",
+      "tip": "Ask at the camp where animals have been seen."
+    },
+    {
+      "name": "Dung beetle crossings",
+      "text": "The park has road signs warning of flightless dung beetles, which roll elephant dung across the road.",
+      "tip": "Drive slowly."
+    },
+    {
+      "name": "Guided sunset and night drives",
+      "text": "Ranger-led drives in open vehicles, offering the best chance of seeing lions, hyenas and other night animals.",
+      "tip": "Book at the camp."
+    },
+    {
+      "name": "Shamwari and private reserves",
+      "text": "Luxury lodges in malaria-free reserves nearby, offering Big Five game drives with rangers, often with rhino and conservation projects.",
+      "tip": "Book far ahead."
+    },
+    {
+      "name": "The marine section and Bird Island",
+      "text": "Coastal areas with penguin and gannet colonies, whales and sharks, reached by boat from Gqeberha.",
+      "tip": "Book a boat trip."
+    }
+  ],
+  "thingsToDoIntro": "Game viewing is the main activity, with time for the coast.",
+  "thingsToDo": [
+    {
+      "title": "Watch elephants at a waterhole",
+      "text": "Sit in a hide or vehicle and watch herds drink and bathe.",
+      "tip": "Bring binoculars."
+    },
+    {
+      "title": "Go on a guided game drive",
+      "text": "Open vehicle drives at dawn, sunset and night.",
+      "tip": "Book on arrival."
+    },
+    {
+      "title": "Try a horseback safari",
+      "text": "Ride through the bush near the park.",
+      "tip": "Check the routes."
+    },
+    {
+      "title": "Visit a private reserve",
+      "text": "See rhinos and lions, with luxury.",
+      "tip": "Book far ahead."
+    },
+    {
+      "title": "See penguins and whales",
+      "text": "Boat trips from Gqeberha in the bay.",
+      "tip": "Choose a licensed operator."
+    },
+    {
+      "title": "Combine with the Garden Route",
+      "text": "Tsitsikamma is about 1.5 hours away.",
+      "tip": "Drive on."
+    }
+  ],
+  "foodIntro": "Food in Addo is simple, with farm-style restaurants and braais.",
+  "foods": [
+    {
+      "name": "Braai",
+      "text": "Barbecue with steak and boerewors.",
+      "whereToTry": "Camps and lodges."
+    },
+    {
+      "name": "Citrus and local produce",
+      "text": "The Sundays River Valley is a citrus-growing region.",
+      "whereToTry": "Farm stalls."
+    },
+    {
+      "name": "Ostrich and game meat",
+      "text": "Lean meats, in stews and steaks.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Seafood",
+      "text": "Fresh fish and calamari in Gqeberha.",
+      "whereToTry": "Waterfront restaurants."
+    },
+    {
+      "name": "Rusks and coffee",
+      "text": "A breakfast staple.",
+      "whereToTry": "Lodges."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the park, in a nearby guesthouse, or in a luxury lodge.",
+    "areas": [
+      {
+        "name": "Addo main camp",
+        "bestFor": "Convenience and value",
+        "text": "Chalets, cottages and tents in the park."
+      },
+      {
+        "name": "Addo village and guesthouses",
+        "bestFor": "Comfort and value",
+        "text": "B&Bs and lodges near the park."
+      },
+      {
+        "name": "Private reserves",
+        "bestFor": "Luxury",
+        "text": "Lodges in Shamwari, Kwandwe and others."
+      }
+    ],
+    "budget": [
+      { "label": "Camping or tent", "value": "US$20–60 per night" },
+      { "label": "Mid-range chalet or guesthouse", "value": "US$80–180 per night" },
+      { "label": "Luxury lodge", "value": "US$400–1,000 per person per night" },
+      { "label": "Park entry", "value": "A daily fee, higher for international visitors" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Addo is about 70 km north of Gqeberha.",
+    "options": [
+      {
+        "mode": "Flight to Gqeberha (PLZ)",
+        "text": "Direct flights from Cape Town and Johannesburg.",
+        "detail": "Hire a car at the airport."
+      },
+      {
+        "mode": "Drive from Gqeberha",
+        "text": "About 1 hour.",
+        "detail": "Good roads."
+      },
+      {
+        "mode": "Drive from the Garden Route",
+        "text": "About 2 to 3 hours from Plettenberg Bay.",
+        "detail": "A natural extension."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is best for the park.",
+    "options": [
+      {
+        "mode": "Self-drive",
+        "text": "A standard car is fine.",
+        "detail": "Stay in your vehicle."
+      },
+      {
+        "mode": "Guided drives",
+        "text": "From camps and lodges.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Transfers",
+        "text": "From Gqeberha.",
+        "detail": "Arrange in advance."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "All year, best April–September",
+    "summary": "Addo has a mild climate, with rain at any time of year. The dry winter months have the best game viewing.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Hot and green, with dense bush."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Mild and clearer."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "best",
+        "text": "Cool, dry, with animals at waterholes."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "good",
+        "text": "Warming, with calves and blossom."
+      }
+    ],
+    "avoid": "The busiest holiday periods in December and January."
+  },
+  "itinerary": {
+    "title": "Two days at Addo",
+    "intro": "Elephants and a guided drive.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive and drive",
+        "summary": "Waterholes.",
+        "morning": "Drive from Gqeberha.",
+        "afternoon": "A self-drive game viewing.",
+        "evening": "A sunset drive."
+      },
+      {
+        "day": 2,
+        "title": "Dawn drive",
+        "summary": "More wildlife.",
+        "morning": "A guided dawn drive.",
+        "afternoon": "A waterhole and lunch.",
+        "evening": "Depart or continue."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you make the most of Addo.",
+  "tips": [
+    "Go in the dry season, from April to September.",
+    "Sit at waterholes in the late afternoon.",
+    "Watch for dung beetles on the road.",
+    "Book guided drives on arrival.",
+    "Keep a safe distance from elephants.",
+    "Bring binoculars and sunscreen.",
+    "Book camps far ahead in holiday periods."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need at Addo?",
+      "a": "Two days, or three if you add a private reserve."
+    },
+    {
+      "q": "Is Addo malaria-free?",
+      "a": "Yes."
+    },
+    {
+      "q": "Can I see the Big Five?",
+      "a": "Yes, in the park and private reserves."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "April to September."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "By car from Gqeberha, about an hour."
+    },
+    {
+      "q": "Can I visit as a day trip from Gqeberha?",
+      "a": "Yes, though it is better to stay overnight."
+    }
+  ],
+  "related": ["garden-route", "cape-town", "isimangaliso-st-lucia"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

@@ -1,0 +1,423 @@
+{
+  "slug": "south-africa",
+  "name": "South Africa",
+  "continent": "Africa",
+  "countryCode": "ZA",
+  "tagline": "Big Five safaris, a city beneath a flat-topped mountain, vineyards, penguin beaches, whale coasts and a democratic story that changed the world, all in one rewarding country.",
+  "cardDescription": "A country of wild safaris, dramatic coastlines, wine valleys, mountain ranges and cities with a moving history, with excellent infrastructure and very good value.",
+  "metaDescription": "A complete South Africa travel guide: the 10 best places to visit, Cape Town, Kruger safaris, the Garden Route, the Winelands and Johannesburg, food, when to go, safety, transport and a two-week itinerary.",
+  "image": {
+    "file": "File:Cape Town (ZA), Table Mountain, Blick auf Camps Bay -- 2024 -- 2750.jpg",
+    "alt": "Table Mountain and the sweep of Camps Bay on the Atlantic coast of Cape Town"
+  },
+  "destinations": [
+    "cape-town",
+    "kruger-national-park",
+    "garden-route",
+    "cape-winelands",
+    "johannesburg-soweto",
+    "drakensberg",
+    "panorama-route",
+    "isimangaliso-st-lucia",
+    "addo-eastern-cape",
+    "hermanus-overberg"
+  ],
+  "intro": [
+    "South Africa lies at the southern tip of the continent, with coasts on the Atlantic and Indian Oceans, a high interior plateau, and a landscape ranging from lush subtropical coast to semi-desert. It is a country of about 60 million people and 11 official languages, often called the Rainbow Nation, and its modern story of the end of apartheid in 1994 and the election of Nelson Mandela as president is one of the great moral dramas of the 20th century.",
+    "For visitors, the attractions are outstanding and unusually varied. There are world-class safari parks, including Kruger, where the Big Five, lion, leopard, elephant, rhino and buffalo, can be seen without a guide; Cape Town, one of the world's most beautiful cities; the wine estates of Stellenbosch and Franschhoek; the Garden Route's coast and forests; whale and shark encounters; the Drakensberg mountains; and the history of Soweto and Robben Island.",
+    "South Africa is also excellent value, with good roads, modern infrastructure and high-quality food and wine at prices well below Europe. It has serious problems, notably high crime, inequality and unreliable services in places, and visitors need to take sensible precautions. But most trips go smoothly, and the welcome is warm."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Cape Town, Kruger and the Garden Route are the essentials; the Winelands, Johannesburg and the Drakensberg add variety, and the others reward those with more time.",
+  "thingsToDoIntro": "The experiences that recur across the country and make a South African trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Go on safari",
+      "image": {
+        "file": "File:Kruger National Park (ZA), Elefanten -- 2024 -- 0137.jpg",
+        "alt": "A group of elephants walking in Kruger National Park"
+      },
+      "text": "South Africa has some of Africa's best safaris, from self-drive in Kruger to luxury lodges in private reserves such as Sabi Sands. See [[kruger-national-park|Kruger]] and [[addo-eastern-cape|Addo]].",
+      "tip": "Go in the dry season, from May to September, when animals gather at water."
+    },
+    {
+      "title": "Ride the cable car up Table Mountain",
+      "text": "The flat-topped mountain that dominates Cape Town has a rotating cable car and views over the city and the sea. See [[cape-town|Cape Town]].",
+      "tip": "Check the wind and cloud, since the cable car closes in bad weather."
+    },
+    {
+      "title": "Taste wine among the vines",
+      "text": "The Cape's wine estates, in Cape Dutch settings among mountains, offer tastings, lunches and stays. See [[cape-winelands|the Cape Winelands]].",
+      "tip": "Book a driver, or a tour, and take a lunch break."
+    },
+    {
+      "title": "Watch whales from the shore",
+      "text": "From June to November, southern right whales come close to the coast, and Hermanus is one of the best places in the world to see them from land. See [[hermanus-overberg|Hermanus]].",
+      "tip": "Walk the cliff path in September and October."
+    },
+    {
+      "title": "Dive with great white sharks",
+      "image": {
+        "file": "File:Great White Shark (Carcharodon carcharias) 02.jpg",
+        "alt": "A great white shark swimming near the surface"
+      },
+      "text": "Gansbaai is the world's best-known place for cage diving with great whites, though it is a controversial activity.",
+      "tip": "Choose a responsible operator, and consider alternatives."
+    },
+    {
+      "title": "Learn the story of apartheid",
+      "text": "Robben Island, the Apartheid Museum and Soweto tell the story of the struggle against apartheid and of the people who ended it. See [[johannesburg-soweto|Johannesburg and Soweto]].",
+      "tip": "Book Robben Island tickets far ahead."
+    },
+    {
+      "title": "Drive the Garden Route",
+      "text": "A scenic coastal road with lagoons, forests, beaches and adventure activities. See [[garden-route|the Garden Route]].",
+      "tip": "Allow four or five days, with stops."
+    }
+  ],
+  "foodIntro": "South African food is a mixture of Dutch, Malay, Indian, British and African traditions, with a strong barbecue culture and increasingly ambitious restaurants.",
+  "foods": [
+    {
+      "name": "Braai and boerewors",
+      "image": {
+        "file": "File:Boerewors braai.jpg",
+        "alt": "Boerewors sausages grilling on a South African braai"
+      },
+      "text": "The braai, or barbecue, is a national ritual, with boerewors sausages, lamb chops, steak and corn cooked over wood or charcoal, and shared with friends.",
+      "whereToTry": "Everywhere, especially on weekends and in [[johannesburg-soweto|Soweto]]."
+    },
+    {
+      "name": "Bobotie",
+      "image": {
+        "file": "File:Bobotie, South African dish.jpg",
+        "alt": "A serving of bobotie, spiced minced meat baked with an egg topping"
+      },
+      "text": "A Cape Malay dish of spiced minced meat with dried fruit, baked with an egg custard topping, and served with yellow rice.",
+      "whereToTry": "Cape Malay restaurants in [[cape-town|Cape Town]]."
+    },
+    {
+      "name": "Bunny chow",
+      "image": {
+        "file": "File:Chicken Curry Bunny Chow.JPG",
+        "alt": "A bunny chow, curry served in a hollowed-out loaf of bread"
+      },
+      "text": "A Durban speciality of curry served in a hollowed-out loaf of bread, created by the city's Indian community.",
+      "whereToTry": "Durban and takeaways across the country."
+    },
+    {
+      "name": "Malva pudding",
+      "image": {
+        "file": "File:Malva Pudding.jpg",
+        "alt": "A warm malva pudding with custard"
+      },
+      "text": "A sweet, spongy baked pudding soaked in apricot-jam-based syrup, served warm with custard or ice cream.",
+      "whereToTry": "Restaurants and wine estates."
+    },
+    {
+      "name": "Biltong",
+      "text": "Air-dried, cured meat, usually beef or game, sold in strips, a favourite snack.",
+      "whereToTry": "Shops and markets."
+    },
+    {
+      "name": "Rooibos tea",
+      "image": {
+        "file": "File:Frisch aufgebrühter Rooibos.jpg",
+        "alt": "A cup of freshly brewed red rooibos tea"
+      },
+      "text": "A caffeine-free red tea from the Cederberg mountains, served with or without milk.",
+      "whereToTry": "Cafés and hotels."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. South Africa is easy to travel in, though safety, distances and power can need attention.",
+  "practical": {
+    "capital": "Pretoria (executive), Cape Town (legislative) and Bloemfontein (judicial)",
+    "language": "Eleven official languages, including English, Afrikaans, Zulu and Xhosa. English is widely spoken and used in tourism.",
+    "currency": "South African rand (ZAR, R). Roughly 17–19 rand to the US dollar in recent years.",
+    "money": "Cards are widely accepted, and ATMs are common, but use ATMs inside malls or banks. Carry some cash for tips, petrol attendants and rural areas. Cash withdrawal scams exist, so cover the keypad and refuse help.",
+    "visa": "Many nationalities, including the United Kingdom, most of Europe, the United States, Canada and Australia, can enter without a visa for up to 90 days. Rules change, and travelling with children involves extra documentation, so check the official government site.",
+    "plugs": "Type M (three large round pins) and N, 230 V, 50 Hz. A South Africa adaptor is needed.",
+    "emergency": "10111 for police, 10177 for ambulance, and 112 from mobile phones.",
+    "tipping": "10–15% in restaurants, R5–R10 for petrol attendants, and more for guides, rangers and trackers, usually R100–200 per day per person on safari.",
+    "safety": "Crime, including robbery, carjacking and smash-and-grab theft, is a serious problem in cities. Do not walk alone at night, keep valuables out of sight, lock car doors and keep windows up in traffic, and use ride-hailing apps rather than hailing taxis. Do not visit townships or central Johannesburg without a reputable guide. Tourist areas and parks are generally safe, but follow local advice.",
+    "connectivity": "Good in cities and along main roads. Coverage is patchy in rural areas and the bush. Local SIM cards are cheap. Power cuts, called load shedding, have eased, but can still occur.",
+    "timeZone": "South Africa Standard Time, UTC+2 all year, with no daylight saving.",
+    "budget": [
+      { "label": "Backpacker", "value": "US$40–70 per day — hostels, self-catering, buses" },
+      { "label": "Mid-range", "value": "US$100–200 per day — hotels, restaurant meals, car hire" },
+      { "label": "Comfortable", "value": "US$250–450 per day — boutique hotels, guides, self-drive safari" },
+      { "label": "Luxury safari", "value": "US$600–1,500+ per person per day in a private reserve lodge" }
+    ]
+  },
+  "bestTime": {
+    "headline": "Varies by region, see below",
+    "summary": "South Africa's seasons are reversed from the northern hemisphere. The Cape has dry, hot summers, the safari areas are best in the dry winter, and the east coast is subtropical.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Hot and dry in Cape Town, with long days and beach weather. Hot, wet and green in the north and east, with thick vegetation that makes game viewing harder."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Warm, settled weather in the Cape, and the wine harvest. The bushveld dries out in April and May."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "best",
+        "text": "The best time for safaris, with dry weather and animals concentrated at water. Cold, wet weather in the Cape, but whales arrive."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Warm, with wildflowers in the west and whales in the south. Good for the Garden Route and Cape Town."
+      }
+    ],
+    "avoid": "The Cape in July and August if you want sun, and the bushveld in the January–February rains if you want to see wildlife."
+  },
+  "tripDuration": {
+    "headline": "10–14 days for a first trip",
+    "summary": "South Africa has long distances, but flights and roads are good. A week covers Cape Town and the Winelands, or a safari, and two weeks allow both with the Garden Route.",
+    "options": [
+      {
+        "length": "7–8 days",
+        "text": "Cape Town and the Winelands, or a safari at Kruger with Johannesburg.",
+        "detail": "A first taste."
+      },
+      {
+        "length": "12–14 days",
+        "text": "The itinerary on this page: Cape Town, the Winelands, the Garden Route, Kruger and Johannesburg.",
+        "detail": "The classic first trip, and our recommendation."
+      },
+      {
+        "length": "3 weeks",
+        "text": "Adds the Drakensberg, iSimangaliso and the Panorama Route.",
+        "detail": "For a slower pace and more of the east."
+      },
+      {
+        "length": "4 weeks or more",
+        "text": "Adds the Wild Coast, the Karoo and neighbouring countries such as Namibia.",
+        "detail": "For those with time."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Domestic flights and hire cars are the main ways to travel. Roads are good, driving is on the left, and public transport is limited outside cities.",
+    "options": [
+      {
+        "mode": "Domestic flights",
+        "text": "Airlink, FlySafair and CemAir link Cape Town, Johannesburg, Durban, Port Elizabeth (Gqeberha), George and safari airports.",
+        "detail": "Book early, and check baggage limits for small aircraft."
+      },
+      {
+        "mode": "Hire cars",
+        "text": "The best way to see the Garden Route, Winelands, Kruger and the Panorama Route. Roads are good, but be careful of livestock, potholes and night driving.",
+        "detail": "Avoid driving after dark, and keep doors locked."
+      },
+      {
+        "mode": "Ride-hailing",
+        "text": "Uber and Bolt operate in main cities, and are safer and more convenient than hailing taxis.",
+        "detail": "Use the app."
+      },
+      {
+        "mode": "Long-distance buses",
+        "text": "Intercape, Greyhound and Baz Bus link main towns and hostels.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Trains and the Gautrain",
+        "text": "The Gautrain links Johannesburg, Pretoria and OR Tambo Airport, and luxury trains such as the Blue Train run long routes.",
+        "detail": "Other passenger trains are limited."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in South Africa",
+    "intro": "Cape Town, the Winelands, the whale coast, the Garden Route, Addo, a safari at Kruger and Johannesburg, with two flights. Covers eight of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Cape Town",
+        "morning": "Land and check in.",
+        "afternoon": "The V&A Waterfront.",
+        "evening": "Dinner at Camps Bay."
+      },
+      {
+        "day": 2,
+        "title": "Cape Town",
+        "morning": "Table Mountain.",
+        "afternoon": "Bo-Kaap and the city centre.",
+        "evening": "Sunset drinks."
+      },
+      {
+        "day": 3,
+        "title": "The Cape Peninsula",
+        "morning": "Chapman's Peak Drive.",
+        "afternoon": "Boulders Beach penguins and Cape Point.",
+        "evening": "Return to the city."
+      },
+      {
+        "day": 4,
+        "title": "Robben Island",
+        "morning": "The ferry to Robben Island.",
+        "afternoon": "Kirstenbosch Garden.",
+        "evening": "A last Cape Town dinner."
+      },
+      {
+        "day": 5,
+        "title": "The Winelands",
+        "morning": "Drive to Stellenbosch.",
+        "afternoon": "Wine tasting and lunch.",
+        "evening": "Overnight in Franschhoek."
+      },
+      {
+        "day": 6,
+        "title": "Hermanus",
+        "morning": "Drive to Hermanus.",
+        "afternoon": "Whale watching from the cliff path.",
+        "evening": "Seafood dinner."
+      },
+      {
+        "day": 7,
+        "title": "Along the Garden Route",
+        "morning": "Drive to Knysna.",
+        "afternoon": "Knysna Heads and the lagoon.",
+        "evening": "Oysters."
+      },
+      {
+        "day": 8,
+        "title": "Tsitsikamma",
+        "morning": "The Storms River Mouth.",
+        "afternoon": "A forest walk or a kayak.",
+        "evening": "Overnight near Plettenberg Bay."
+      },
+      {
+        "day": 9,
+        "title": "Addo",
+        "morning": "Drive to Addo.",
+        "afternoon": "A game drive among elephants.",
+        "evening": "Fly to Johannesburg from Gqeberha."
+      },
+      {
+        "day": 10,
+        "title": "To Kruger",
+        "morning": "Fly to Hoedspruit or Skukuza.",
+        "afternoon": "A game drive.",
+        "evening": "A campfire dinner."
+      },
+      {
+        "day": 11,
+        "title": "Kruger",
+        "morning": "A dawn game drive.",
+        "afternoon": "A waterhole and picnic.",
+        "evening": "A night drive."
+      },
+      {
+        "day": 12,
+        "title": "Kruger and the Panorama Route",
+        "morning": "A last game drive.",
+        "afternoon": "God's Window and Bourke's Luck Potholes.",
+        "evening": "Overnight in Graskop."
+      },
+      {
+        "day": 13,
+        "title": "Johannesburg",
+        "morning": "Drive to Johannesburg.",
+        "afternoon": "The Apartheid Museum.",
+        "evening": "Dinner in Melville or Maboneng."
+      },
+      {
+        "day": 14,
+        "title": "Soweto and departure",
+        "morning": "A guided tour of Soweto.",
+        "afternoon": "Fly home.",
+        "evening": "Home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "South Africa is a diverse and vibrant country, with a young democracy and a strong sense of humour. People are usually friendly and direct, and greetings matter. The legacy of apartheid remains visible in inequality, and it is best to approach history with respect.",
+    "etiquette": [
+      {
+        "title": "Greet people",
+        "text": "Say hello and ask how someone is before you ask for something. Handshakes are common."
+      },
+      {
+        "title": "Respect history",
+        "text": "Apartheid is a painful topic, and museums and township tours are best approached respectfully."
+      },
+      {
+        "title": "Tip generously",
+        "text": "Wages are low, and tips of 10–15% are expected in restaurants and for guides, car guards and petrol attendants."
+      },
+      {
+        "title": "Be careful with photography",
+        "text": "Ask before photographing people, especially in townships."
+      },
+      {
+        "title": "Be safe on safari",
+        "text": "Follow rangers' instructions, stay in your vehicle in parks and keep quiet around wildlife."
+      },
+      {
+        "title": "Join a braai",
+        "text": "If invited, accept, and bring something to drink."
+      }
+    ],
+    "dos": [
+      "Learn a few words: sawubona (hello in Zulu), dankie (thank you in Afrikaans), lekker (nice)",
+      "Use ride-hailing apps in cities",
+      "Book safaris and popular attractions early",
+      "Tip guides, rangers and trackers",
+      "Wear sunscreen and a hat",
+      "Try local wine and braai"
+    ],
+    "donts": [
+      "Don't walk alone at night or display valuables",
+      "Don't get out of your vehicle on a game drive, unless it is safe and permitted",
+      "Don't feed wild animals",
+      "Don't drive at night in rural areas",
+      "Don't leave luggage visible in a parked car",
+      "Don't swim at unpatrolled beaches or in rivers with crocodiles and hippos"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in South Africa, several of which are specific to how the country works.",
+  "tips": [
+    "Take crime seriously. Use ride-hailing apps, avoid walking at night and keep valuables hidden.",
+    "Lock your car doors and windows, and do not leave anything visible inside.",
+    "Book Table Mountain, Robben Island, Kruger camps and popular restaurants well ahead.",
+    "Go on safari in the dry season (May to September) for the best wildlife viewing.",
+    "Check malaria advice if going to Kruger and northern reserves.",
+    "Carry small notes for tips and parking guards.",
+    "Fill up with fuel before long rural drives.",
+    "Check power-cut schedules and carry a power bank."
+  ],
+  "faq": [
+    {
+      "q": "Is South Africa safe for tourists?",
+      "a": "Millions visit safely each year, but crime is a real concern in cities. Follow local advice, use ride-hailing apps, avoid walking at night and keep valuables out of sight."
+    },
+    {
+      "q": "How many days do you need in South Africa?",
+      "a": "Ten to fourteen days for a first trip, covering Cape Town, the Garden Route and a safari."
+    },
+    {
+      "q": "What is the best time to visit South Africa?",
+      "a": "November to March for Cape Town, and May to September for safari. Spring and autumn suit most of the country."
+    },
+    {
+      "q": "Do I need a visa for South Africa?",
+      "a": "Many nationalities can enter visa-free for up to 90 days. Check the official government site."
+    },
+    {
+      "q": "Do I need malaria tablets?",
+      "a": "Cape Town and the Garden Route are malaria-free. Kruger and parts of the north-east have a risk, lower in winter. Consult a travel clinic."
+    },
+    {
+      "q": "Is the tap water safe?",
+      "a": "In cities and towns, generally yes. In rural areas, use bottled water."
+    },
+    {
+      "q": "Is it worth self-driving in Kruger?",
+      "a": "Yes. It is one of the world's best places for self-drive safaris, and roads are well maintained."
+    }
+  ]
+}

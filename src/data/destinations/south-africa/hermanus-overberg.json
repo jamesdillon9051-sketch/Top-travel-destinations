@@ -1,0 +1,315 @@
+{
+  "slug": "hermanus-overberg",
+  "name": "Hermanus and the Overberg",
+  "shortName": "Hermanus",
+  "country": "south-africa",
+  "region": "Western Cape, south coast, Overberg",
+  "categories": ["coastal", "nature", "scenic", "food-and-wine"],
+  "tagline": "The world's best land-based whale watching, on a cliff path above a bay filled with southern right whales, with great white sharks, penguins and the southern tip of Africa within reach.",
+  "highlight": "A southern right whale mother and calf just metres from the cliff path, seen with no boat needed.",
+  "shortDescription": "A seaside town 90 minutes from Cape Town with whales from June to November, plus shark-cage diving at Gansbaai, Cape Agulhas, wine in the Hemel-en-Aarde Valley and coastal walks.",
+  "metaDescription": "A Hermanus and Overberg travel guide: whale watching from the cliff path, Walker Bay, Gansbaai shark diving, Cape Agulhas, De Hoop, Hemel-en-Aarde wine, penguins at Betty's Bay, best time and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Cape Town International (CPT), about 1.5 hours",
+  "knownFor": "Whale watching, coastal cliffs, sharks, wine, southernmost tip of Africa",
+  "budget": "US$100–200 per day, mid-range",
+  "goodFor": "Whales, coastal walks, wine, a day trip or weekend from Cape Town",
+  "coords": { "lat": -34.4187, "lng": 19.2345 },
+  "image": {
+    "file": "File:HER - Breaching southern right whale near Hermanus, South Africa, 2017.jpg",
+    "alt": "A southern right whale breaching out of the water near Hermanus"
+  },
+  "intro": [
+    "Hermanus, a seaside town on Walker Bay, about 120 km east of Cape Town, is regarded as one of the best places in the world to see whales from land. From about June to November, southern right whales come into the shallow waters of the bay to mate and give birth, and they can be seen just a few metres from the rocks along a 12-km cliff path that runs along the shore. Whale watching is at its best in September and October.",
+    "The town has a long tradition of whale-watching. A 'whale crier', dressed in traditional costume, blows a kelp horn to tell visitors where whales have been sighted, and each September the town holds a Whale Festival. Away from the sea, Hermanus has a pleasant old harbour, craft shops and restaurants, and the Hemel-en-Aarde Valley, a cool-climate wine region known for pinot noir and chardonnay, is close by.",
+    "The wider Overberg region has more to offer. Gansbaai, the great white shark capital of the world, offers shark-cage diving, Cape Agulhas marks the southernmost tip of Africa, De Hoop Nature Reserve has dunes and whales, and Betty's Bay has a colony of African penguins. It makes a good weekend from Cape Town, or a stop on the way to the Garden Route."
+  ],
+  "whyVisit": {
+    "intro": "Hermanus offers easy, close whale watching, and a coast full of wildlife.",
+    "points": [
+      {
+        "title": "Whales from the shore",
+        "text": "Southern right whales close to the cliff path, from June to November."
+      },
+      {
+        "title": "Sharks and marine life",
+        "text": "Shark-cage diving at Gansbaai, and seals and dolphins."
+      },
+      {
+        "title": "Southernmost Africa",
+        "text": "Cape Agulhas, where two oceans meet."
+      },
+      {
+        "title": "Wine",
+        "text": "Pinot noir and chardonnay in the Hemel-en-Aarde Valley."
+      },
+      {
+        "title": "Easy from Cape Town",
+        "text": "About 1.5 hours by road."
+      }
+    ]
+  },
+  "attractionsIntro": "Hermanus is compact, and the surrounding region has several excursions.",
+  "attractions": [
+    {
+      "name": "The Hermanus Cliff Path",
+      "image": {
+        "file": "File:HER - Southern right whale showing its fluke near Hermanus, South Africa, 2017.jpg",
+        "alt": "A southern right whale lifting its tail flukes near the rocky shore of Hermanus"
+      },
+      "text": "A 12-km walking path along the sea cliffs, with viewing platforms where whales can be seen very close to shore, plus rock pools and fynbos.",
+      "tip": "Walk between the Old Harbour and Grotto Beach."
+    },
+    {
+      "name": "Voëlklip and Grotto beaches",
+      "image": {
+        "file": "File:Hermanus, Voelklip Beach.jpg",
+        "alt": "Voëlklip Beach with its curved sands and mountains behind"
+      },
+      "text": "Sandy beaches on Walker Bay, backed by mountains, good for walks and views of the whales.",
+      "tip": "Swim at Grotto Beach in summer."
+    },
+    {
+      "name": "The Old Harbour and Whale Crier",
+      "text": "A small historic harbour with a museum, and the whale crier, who announces sightings with a kelp horn.",
+      "tip": "Listen for the horn."
+    },
+    {
+      "name": "Gansbaai and Shark Alley",
+      "image": {
+        "file": "File:Great White Shark (Carcharodon carcharias) 03.jpg",
+        "alt": "A great white shark swimming underwater"
+      },
+      "text": "A fishing town about 40 km east, where boats take visitors to see great white sharks from cages or from the deck. It is a controversial activity, and operators differ.",
+      "tip": "Choose a responsible operator."
+    },
+    {
+      "name": "Cape Agulhas",
+      "image": {
+        "file": "File:AGU - Rocky shoreline at the southern tip of Africa, Cape Agulhas, 2017.jpg",
+        "alt": "The rocky shoreline at Cape Agulhas, the southernmost point of Africa"
+      },
+      "text": "The southernmost tip of Africa, marked by a plaque, where the Indian and Atlantic Oceans meet, with a historic lighthouse.",
+      "tip": "A long day trip."
+    },
+    {
+      "name": "Hemel-en-Aarde Valley",
+      "text": "A cool-climate wine valley near Hermanus, producing some of South Africa's best pinot noir and chardonnay.",
+      "tip": "Book tastings."
+    }
+  ],
+  "thingsToDoIntro": "Whales, walks and wine make up the days.",
+  "thingsToDo": [
+    {
+      "title": "Walk the cliff path",
+      "text": "Look for whales from the rocks.",
+      "tip": "Go in September or October."
+    },
+    {
+      "title": "Take a whale-watching boat trip",
+      "text": "Licensed boats go out from the harbour, and stay a respectful distance.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Go shark-cage diving",
+      "text": "From Gansbaai.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "See African penguins at Stony Point",
+      "text": "A colony at Betty's Bay, between Cape Town and Hermanus.",
+      "tip": "A short stop."
+    },
+    {
+      "title": "Taste Hemel-en-Aarde wines",
+      "text": "Visit estates in the valley.",
+      "tip": "Hire a driver."
+    },
+    {
+      "title": "Attend the Whale Festival",
+      "text": "A September festival with music and food.",
+      "tip": "Book accommodation ahead."
+    }
+  ],
+  "foodIntro": "Hermanus's food is seafood and local produce, with wine to match.",
+  "foods": [
+    {
+      "name": "Fresh seafood",
+      "text": "Fish, calamari, crayfish and abalone.",
+      "whereToTry": "Restaurants at the harbour."
+    },
+    {
+      "name": "Pinot noir and chardonnay",
+      "text": "Cool-climate wines from Hemel-en-Aarde.",
+      "whereToTry": "Wine estates."
+    },
+    {
+      "name": "Fish and chips",
+      "text": "A local favourite.",
+      "whereToTry": "Old Harbour."
+    },
+    {
+      "name": "Farm stall pies and cakes",
+      "text": "Homemade treats.",
+      "whereToTry": "Farm stalls."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Local brews.",
+      "whereToTry": "Pubs."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Hermanus or at a wine estate nearby.",
+    "areas": [
+      {
+        "name": "Hermanus centre and cliff path",
+        "bestFor": "Whale watching from your room",
+        "text": "Hotels and guesthouses facing the bay."
+      },
+      {
+        "name": "Hemel-en-Aarde Valley",
+        "bestFor": "Wine",
+        "text": "Estate guesthouses."
+      },
+      {
+        "name": "Gansbaai and Stanford",
+        "bestFor": "Sharks and village charm",
+        "text": "Guesthouses."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$50–100 per night" },
+      { "label": "Mid-range hotel", "value": "US$100–200 per night" },
+      { "label": "Luxury lodge", "value": "US$250–500 per night" },
+      { "label": "Whale-watching boat trip", "value": "US$50–100 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Hermanus is about 120 km from Cape Town.",
+    "options": [
+      {
+        "mode": "Drive from Cape Town",
+        "text": "About 1.5 hours via the N2 and R43, or a scenic coastal route via Clarence Drive.",
+        "detail": "Hire a car."
+      },
+      {
+        "mode": "Tour",
+        "text": "Day tours from Cape Town.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Bus",
+        "text": "Limited services.",
+        "detail": "Check."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The town is walkable, and a car is best for the wider area.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The cliff path and town.",
+        "detail": "Wear good shoes."
+      },
+      {
+        "mode": "Hire car",
+        "text": "For Gansbaai, Agulhas and wine.",
+        "detail": "Roads are good."
+      },
+      {
+        "mode": "Tours",
+        "text": "For sharks and wine.",
+        "detail": "Book in advance."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "September–October for whales",
+    "summary": "Hermanus has a Mediterranean climate, with mild, wet winters and dry summers.",
+    "seasons": [
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Peak whale season, with wildflowers."
+      },
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Warm and dry, but no whales."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "good",
+        "text": "Warm and calm."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "good",
+        "text": "Whales arrive, with cool, wet weather."
+      }
+    ],
+    "avoid": "Whale watching outside June to November."
+  },
+  "itinerary": {
+    "title": "Two days in Hermanus",
+    "intro": "Whales, sharks and wine.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Whales",
+        "summary": "The cliff path.",
+        "morning": "Drive from Cape Town via Clarence Drive.",
+        "afternoon": "The cliff path and the Old Harbour.",
+        "evening": "Seafood dinner."
+      },
+      {
+        "day": 2,
+        "title": "Sharks or wine",
+        "summary": "A day out.",
+        "morning": "Shark diving at Gansbaai, or a boat trip.",
+        "afternoon": "Hemel-en-Aarde wine tastings.",
+        "evening": "Return to Cape Town."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you see the whales.",
+  "tips": [
+    "Go in September or October for the most whales.",
+    "Walk the cliff path in the morning, when the sea is calm.",
+    "Bring binoculars and a jacket.",
+    "Book boat trips and shark dives in advance.",
+    "Do not approach whales in the water.",
+    "Choose responsible operators.",
+    "Book accommodation ahead for the Whale Festival."
+  ],
+  "faq": [
+    {
+      "q": "When is the best time to see whales?",
+      "a": "June to November, with September and October the peak."
+    },
+    {
+      "q": "Do I need a boat?",
+      "a": "No. Whales can be seen from the cliff path."
+    },
+    {
+      "q": "How far is Hermanus from Cape Town?",
+      "a": "About 120 km, or 1.5 hours."
+    },
+    {
+      "q": "Can I visit as a day trip?",
+      "a": "Yes, though a night lets you enjoy the evening."
+    },
+    {
+      "q": "Is shark-cage diving safe?",
+      "a": "Operators follow safety rules, but it is a controversial activity, so choose carefully."
+    },
+    {
+      "q": "What else is nearby?",
+      "a": "Gansbaai, Cape Agulhas, De Hoop and the Hemel-en-Aarde wine valley."
+    }
+  ],
+  "related": ["cape-town", "cape-winelands", "garden-route"],
+  "relatedArticles": ["mediterranean-coasts", "packing-by-season"]
+}
