@@ -1,0 +1,310 @@
+{
+  "slug": "ella",
+  "name": "Ella",
+  "country": "sri-lanka",
+  "region": "Uva Province, hill country",
+  "categories": ["mountains", "scenic", "nature"],
+  "tagline": "A backpacker-friendly hill village of misty viewpoints, tea slopes, waterfalls and the Nine Arch Bridge, at the end of the world's loveliest train ride.",
+  "highlight": "Watching a blue train cross the Nine Arch Bridge among the jungle and tea bushes.",
+  "shortDescription": "A small hill-country village with Little Adam's Peak, Ella Rock, the Nine Arch Bridge, Ravana Falls and cafés overlooking the Ella Gap.",
+  "metaDescription": "An Ella travel guide: the Nine Arch Bridge, Little Adam's Peak, Ella Rock, Ravana Falls, tea factories, the Kandy to Ella train, where to stay, how to get there and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Colombo Bandaranaike (CMB), about 6–7 hours by road; Mattala (HRI) is limited",
+  "knownFor": "Nine Arch Bridge, hikes, scenic train, cafés",
+  "budget": "US$40–90 per day, budget to mid-range",
+  "goodFor": "Backpackers, hikers, couples, photographers",
+  "coords": { "lat": 6.8667, "lng": 81.0466 },
+  "image": {
+    "file": "File:Ella, Sri Lanka view.jpg",
+    "alt": "The view over the Ella Gap with green hills and morning mist"
+  },
+  "intro": [
+    "Ella is a small village in Sri Lanka's south-east hill country, at about 1,000 metres, perched above a gap in the hills through which you can see all the way to the coast on clear days. Once a sleepy tea-country stop, it is now the island's main backpacker hub, with guesthouses, cafés and bars along a single main street.",
+    "Its attractions are natural. The Nine Arch Bridge, built in the 1920s from stone and brick without steel, curves through jungle and tea bushes, and trains cross it a few times a day. Little Adam's Peak is an easy 30-minute climb with panoramic views, Ella Rock is a longer and more demanding hike, and Ravana Falls is a broad waterfall beside the road. Nearby, tea factories such as Uva Halpewatte offer tours.",
+    "Most visitors arrive by train from Kandy or Nuwara Eliya, about 6 to 7 hours through tea country, a journey often listed as one of the world's best. Weather is cooler and can be foggy or rainy, and mornings are usually clearest. Two days is a good stay, with time for hikes and cafés."
+  ],
+  "whyVisit": {
+    "intro": "Ella is the base for Sri Lanka's most scenic hikes and train rides.",
+    "points": [
+      {
+        "title": "Nine Arch Bridge",
+        "text": "A famous railway viaduct."
+      },
+      {
+        "title": "Easy summits",
+        "text": "Little Adam's Peak."
+      },
+      {
+        "title": "Tea country",
+        "text": "Estates and factories."
+      },
+      {
+        "title": "The famous train",
+        "text": "From Kandy or Nuwara Eliya."
+      },
+      {
+        "title": "Relaxed atmosphere",
+        "text": "Cafés and guesthouses."
+      }
+    ]
+  },
+  "attractionsIntro": "Sights are around the village, mostly walkable.",
+  "attractions": [
+    {
+      "name": "Nine Arch Bridge",
+      "image": {
+        "file": "File:Nine Arch Bridge, Demodara Ella.jpg",
+        "alt": "The Nine Arch Bridge curving through jungle at Demodara"
+      },
+      "text": "A stone viaduct with nine arches, in a jungle setting, where trains cross a few times a day.",
+      "tip": "Check the train timetable."
+    },
+    {
+      "name": "Little Adam's Peak",
+      "image": {
+        "file": "File:Hike to Little Adam's Peak - Ella Rock.jpg",
+        "alt": "The hike up Little Adam's Peak with views over Ella"
+      },
+      "text": "An easy hill to climb, giving views of Ella Gap and Ella Rock.",
+      "tip": "Go at sunrise."
+    },
+    {
+      "name": "Ella Rock",
+      "text": "A tougher hike of 3 to 4 hours through tea estates.",
+      "tip": "Hire a guide."
+    },
+    {
+      "name": "Ravana Falls",
+      "text": "A broad waterfall beside the main road.",
+      "tip": "Best after rain."
+    },
+    {
+      "name": "Tea factory",
+      "text": "Estates offering tours and tastings.",
+      "tip": "Go in the morning."
+    },
+    {
+      "name": "The Ella train station",
+      "image": {
+        "file": "File:Sri Lanka Train.jpg",
+        "alt": "A blue train moving through the hill country of Sri Lanka"
+      },
+      "text": "A scenic station, where the famous hill-country line ends.",
+      "tip": "Book seats in advance."
+    }
+  ],
+  "thingsToDoIntro": "Ella is for walking and relaxing.",
+  "thingsToDo": [
+    {
+      "title": "Watch a train cross the bridge",
+      "text": "At the Nine Arch Bridge.",
+      "tip": "Arrive early."
+    },
+    {
+      "title": "Climb Little Adam's Peak",
+      "text": "30 minutes.",
+      "tip": "Go at dawn."
+    },
+    {
+      "title": "Hike Ella Rock",
+      "text": "A longer trek.",
+      "tip": "Start early."
+    },
+    {
+      "title": "Zip-line over tea",
+      "text": "Adventure park.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Ride the train",
+      "text": "To Kandy or Nuwara Eliya.",
+      "tip": "Book seats."
+    },
+    {
+      "title": "Take a cooking class",
+      "text": "Sri Lankan food.",
+      "tip": "Ask guesthouses."
+    }
+  ],
+  "foodIntro": "Ella's food is casual and traveller-friendly.",
+  "foods": [
+    {
+      "name": "Rice and curry",
+      "text": "Home-cooked.",
+      "whereToTry": "Guesthouses."
+    },
+    {
+      "name": "Kottu roti",
+      "text": "Street food.",
+      "whereToTry": "Main Street."
+    },
+    {
+      "name": "Smoothie bowls",
+      "text": "Trendy cafés.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Ceylon tea",
+      "text": "Local tea.",
+      "whereToTry": "Tea factories."
+    },
+    {
+      "name": "Egg hoppers",
+      "text": "Breakfast.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the village or the hills.",
+    "areas": [
+      {
+        "name": "Ella Main Street",
+        "bestFor": "Convenience",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Hillside",
+        "bestFor": "Views",
+        "text": "Boutique stays."
+      },
+      {
+        "name": "Demodara",
+        "bestFor": "The bridge",
+        "text": "Quiet stays."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$6–12 per night" },
+      { "label": "Mid-range hotel", "value": "US$35–90 per night" },
+      { "label": "Boutique stay", "value": "US$100–250 per night" },
+      { "label": "Meal", "value": "US$3–9 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Ella is reached by the famous train or road.",
+    "options": [
+      {
+        "mode": "Train from Kandy",
+        "text": "About 6.5 to 7.5 hours.",
+        "detail": "Book reserved seats."
+      },
+      {
+        "mode": "Train from Nuwara Eliya",
+        "text": "About 3.5 to 4 hours.",
+        "detail": "Scenic."
+      },
+      {
+        "mode": "Car",
+        "text": "About 6 hours from Colombo.",
+        "detail": "Winding roads."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Walk or tuk-tuk.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Main Street.",
+        "detail": "Wear good shoes."
+      },
+      {
+        "mode": "Tuk-tuk",
+        "text": "To the bridge.",
+        "detail": "Agree fares."
+      },
+      {
+        "mode": "Train",
+        "text": "To nearby stations.",
+        "detail": "Cheap."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "January–April",
+    "summary": "Ella is cool and can be misty.",
+    "seasons": [
+      {
+        "season": "January–April",
+        "rating": "best",
+        "text": "Drier."
+      },
+      {
+        "season": "May–August",
+        "rating": "good",
+        "text": "Some rain."
+      },
+      {
+        "season": "September–October",
+        "rating": "quiet",
+        "text": "Showers."
+      },
+      {
+        "season": "November–December",
+        "rating": "avoid",
+        "text": "Wet."
+      }
+    ],
+    "avoid": "November rains."
+  },
+  "itinerary": {
+    "title": "Two days in Ella",
+    "intro": "Peaks, bridge and tea.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive by train",
+        "summary": "Village.",
+        "morning": "Train from Kandy.",
+        "afternoon": "Ravana Falls.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 2,
+        "title": "Hikes",
+        "summary": "Views.",
+        "morning": "Little Adam's Peak.",
+        "afternoon": "Nine Arch Bridge.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book the train early.",
+    "Go early for views.",
+    "Bring rain gear.",
+    "Do not walk on the tracks.",
+    "Hire a guide for Ella Rock.",
+    "Bring cash.",
+    "Check train times."
+  ],
+  "faq": [
+    {
+      "q": "How do I get to Ella?",
+      "a": "By train or car."
+    },
+    {
+      "q": "Is Ella worth it?",
+      "a": "Yes."
+    },
+    {
+      "q": "How many days?",
+      "a": "Two."
+    },
+    {
+      "q": "When to go?",
+      "a": "January to April."
+    },
+    {
+      "q": "Is the bridge safe?",
+      "a": "Be careful near the tracks."
+    },
+    {
+      "q": "Do I need a guide?",
+      "a": "For Ella Rock, recommended."
+    }
+  ],
+  "related": ["nuwara-eliya", "yala", "kandy"],
+  "relatedArticles": ["europe-by-train", "underrated-destinations"]
+}

@@ -1,0 +1,315 @@
+{
+  "slug": "sigiriya",
+  "name": "Sigiriya and Dambulla",
+  "shortName": "Sigiriya",
+  "country": "sri-lanka",
+  "region": "Central Province, Cultural Triangle",
+  "categories": ["unesco", "archaeological", "historic", "scenic"],
+  "tagline": "A 200-metre rock fortress with a palace on its summit, ancient frescoes and a mirror wall, beside a cave temple painted with Buddhas.",
+  "highlight": "Reaching the summit of Sigiriya Rock, with the ruined palace beneath your feet and the jungle spread to the horizon.",
+  "shortDescription": "The 5th-century rock fortress of Sigiriya, a UNESCO World Heritage Site, with frescoes, water gardens and lion's paw gates, plus Pidurangala Rock and the cave temples of Dambulla.",
+  "metaDescription": "A Sigiriya and Dambulla travel guide: climbing Sigiriya Rock, the frescoes and mirror wall, water gardens, Pidurangala sunrise, Dambulla Cave Temple, tickets, best time and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Colombo Bandaranaike (CMB), about 4–5 hours by road",
+  "knownFor": "Lion Rock fortress, frescoes, cave temples",
+  "budget": "US$60–120 per day, mid-range, plus high entry fees",
+  "goodFor": "History, hiking, photography, culture",
+  "coords": { "lat": 7.9570, "lng": 80.7603 },
+  "image": {
+    "file": "File:Sigiriya 02.jpg",
+    "alt": "The huge rock of Sigiriya rising above the jungle"
+  },
+  "intro": [
+    "Sigiriya, or Lion Rock, is a 200-metre granite column rising from the jungle plain in central Sri Lanka, and the site of one of Asia's most extraordinary ancient cities. In the 5th century CE, King Kashyapa, who had seized the throne by killing his father, built a palace on its flat summit and a garden city at its foot. After his defeat, the site became a Buddhist monastery, and was abandoned around the 14th century. It is now a UNESCO World Heritage Site.",
+    "The climb takes about an hour, up staircases past the remains of the Lion Gate, where two huge stone paws survive, and the Mirror Wall, once so polished that the king could see himself in it. On the way, a sheltered gallery holds frescoes of celestial maidens, painted 1,500 years ago. At the summit, the ruins of the palace and a pool give views across the forests. The symmetrical water gardens at the foot are among the oldest surviving landscape gardens in Asia.",
+    "Nearby Pidurangala Rock offers a less crowded view of Sigiriya itself at sunrise, and Dambulla, 20 km away, has a cave temple with more than 150 Buddha statues and painted ceilings. Entry to Sigiriya is expensive for foreigners, and the site can be very hot and busy, so go early."
+  ],
+  "whyVisit": {
+    "intro": "Sigiriya is Sri Lanka's most spectacular ancient site.",
+    "points": [
+      {
+        "title": "A rock fortress",
+        "text": "A palace on a 200-metre rock."
+      },
+      {
+        "title": "Ancient frescoes",
+        "text": "1,500-year-old paintings."
+      },
+      {
+        "title": "Water gardens",
+        "text": "Among Asia's oldest."
+      },
+      {
+        "title": "Pidurangala views",
+        "text": "Sigiriya at sunrise."
+      },
+      {
+        "title": "Dambulla caves",
+        "text": "A painted cave temple."
+      }
+    ]
+  },
+  "attractionsIntro": "Sigiriya, Pidurangala and Dambulla make a good two-day set.",
+  "attractions": [
+    {
+      "name": "Sigiriya Rock",
+      "image": {
+        "file": "File:Sigiriya Rock Fortress View from Pidurangala Rock.jpg",
+        "alt": "Sigiriya Rock seen from the summit of Pidurangala Rock at sunrise"
+      },
+      "text": "The 200-metre rock with the ruined palace, Lion Gate, Mirror Wall and frescoes, climbed by about 1,200 steps.",
+      "tip": "Go at 7 am opening time."
+    },
+    {
+      "name": "The Sigiriya frescoes",
+      "image": {
+        "file": "File:Frescoes at Sigiriya-at cobra cave, Sri lanka.jpg",
+        "alt": "Painted frescoes of women on the rock face at Sigiriya"
+      },
+      "text": "Paintings of women in a sheltered gallery, thought to depict apsaras or the king's consorts.",
+      "tip": "Photography is not allowed."
+    },
+    {
+      "name": "Dambulla Cave Temple",
+      "image": {
+        "file": "File:Golden dagoba at Dambulla (Sri Lanka) 2015.jpg",
+        "alt": "The Golden Temple and giant Buddha at the Dambulla Cave Temple complex"
+      },
+      "text": "Five caves with 153 Buddha statues and painted ceilings dating back to the 1st century BCE.",
+      "tip": "Remove shoes and cover shoulders."
+    },
+    {
+      "name": "Inside the caves",
+      "image": {
+        "file": "File:Mucalinda in Dambulla cave temple (2015).jpg",
+        "alt": "A Buddha statue sheltered by the cobra Mucalinda in Dambulla cave temple"
+      },
+      "text": "Cave interiors painted with scenes from the Buddha's life and previous births.",
+      "tip": "Climb early to avoid crowds."
+    },
+    {
+      "name": "Pidurangala Rock",
+      "text": "A smaller rock near Sigiriya with a reclining Buddha and a famous sunrise view of Sigiriya.",
+      "tip": "Take a torch for a pre-dawn climb."
+    },
+    {
+      "name": "Sigiriya water gardens",
+      "text": "Symmetrical pools, fountains and terraces at the base of the rock.",
+      "tip": "See them first."
+    }
+  ],
+  "thingsToDoIntro": "A visit involves climbing and looking.",
+  "thingsToDo": [
+    {
+      "title": "Climb Sigiriya",
+      "text": "Start early.",
+      "tip": "Bring water and a hat."
+    },
+    {
+      "title": "Watch sunrise from Pidurangala",
+      "text": "A great view.",
+      "tip": "Bring a torch."
+    },
+    {
+      "title": "Visit Dambulla",
+      "text": "Cave temple.",
+      "tip": "Buy the ticket at the base."
+    },
+    {
+      "title": "Go on a village tour",
+      "text": "Bullock cart and lunch.",
+      "tip": "Book locally."
+    },
+    {
+      "title": "Ride an elephant safari",
+      "text": "In Minneriya or Kaudulla.",
+      "tip": "Choose a jeep safari."
+    },
+    {
+      "title": "Try a cooking class",
+      "text": "Sri Lankan food.",
+      "tip": "Ask guesthouses."
+    }
+  ],
+  "foodIntro": "The Cultural Triangle serves village-style food.",
+  "foods": [
+    {
+      "name": "Rice and curry",
+      "text": "Village-style.",
+      "whereToTry": "Guesthouses."
+    },
+    {
+      "name": "Kottu",
+      "text": "Chopped roti.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Fresh king coconut",
+      "text": "A local drink.",
+      "whereToTry": "Roadside."
+    },
+    {
+      "name": "Jackfruit curry",
+      "text": "Local staple.",
+      "whereToTry": "Homestays."
+    },
+    {
+      "name": "Ceylon tea",
+      "text": "Milk tea.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay near Sigiriya.",
+    "areas": [
+      {
+        "name": "Sigiriya village",
+        "bestFor": "Convenience",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Dambulla",
+        "bestFor": "Transport",
+        "text": "Hotels."
+      },
+      {
+        "name": "Eco lodges",
+        "bestFor": "Nature",
+        "text": "Jungle lodges."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$15–35 per night" },
+      { "label": "Mid-range hotel", "value": "US$50–110 per night" },
+      { "label": "Sigiriya ticket", "value": "About US$30–35 for foreigners (check)" },
+      { "label": "Meal", "value": "US$3–10 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Sigiriya is in the middle of the island.",
+    "options": [
+      {
+        "mode": "Car with driver from Colombo",
+        "text": "About 4 to 5 hours.",
+        "detail": "The easiest."
+      },
+      {
+        "mode": "Bus from Dambulla",
+        "text": "About 30 minutes.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "From Kandy",
+        "text": "About 3 hours by road.",
+        "detail": "Scenic."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Tuk-tuks and bicycles.",
+    "options": [
+      {
+        "mode": "Tuk-tuk",
+        "text": "To the rock and villages.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Hire for the day.",
+        "detail": "Flat roads."
+      },
+      {
+        "mode": "Car with driver",
+        "text": "For Dambulla.",
+        "detail": "Included."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "The Cultural Triangle is dry from May to September, though hot year-round.",
+    "seasons": [
+      {
+        "season": "January–April",
+        "rating": "good",
+        "text": "Warm and mostly dry."
+      },
+      {
+        "season": "May–September",
+        "rating": "best",
+        "text": "Dry."
+      },
+      {
+        "season": "October–November",
+        "rating": "avoid",
+        "text": "Heavy rain."
+      },
+      {
+        "season": "December",
+        "rating": "quiet",
+        "text": "Cooler, wetter."
+      }
+    ],
+    "avoid": "October and November rains."
+  },
+  "itinerary": {
+    "title": "Two days in Sigiriya",
+    "intro": "The rock and the caves.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Sigiriya",
+        "summary": "The fortress.",
+        "morning": "Climb Sigiriya Rock.",
+        "afternoon": "Village tour.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 2,
+        "title": "Pidurangala and Dambulla",
+        "summary": "Sunrise and caves.",
+        "morning": "Pidurangala sunrise.",
+        "afternoon": "Dambulla Cave Temple.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Go at opening time.",
+    "Bring water and sun protection.",
+    "Wear modest clothes for Dambulla.",
+    "Keep away from wasps on the rock.",
+    "Buy tickets at the official counter.",
+    "Take cash.",
+    "Do not photograph frescoes."
+  ],
+  "faq": [
+    {
+      "q": "How long does the climb take?",
+      "a": "About an hour."
+    },
+    {
+      "q": "Is Sigiriya worth the price?",
+      "a": "Yes, for most visitors."
+    },
+    {
+      "q": "Pidurangala or Sigiriya?",
+      "a": "Do both if you can."
+    },
+    {
+      "q": "How many days?",
+      "a": "Two."
+    },
+    {
+      "q": "Can I take photos?",
+      "a": "Not of the frescoes."
+    },
+    {
+      "q": "When to go?",
+      "a": "May to September."
+    }
+  ],
+  "related": ["polonnaruwa", "anuradhapura", "kandy"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

@@ -1,0 +1,403 @@
+{
+  "slug": "sri-lanka",
+  "name": "Sri Lanka",
+  "continent": "Asia",
+  "countryCode": "LK",
+  "tagline": "A teardrop island of ancient Buddhist kingdoms, rock fortresses, tea-covered hills, misty trains, leopards, elephants and golden beaches, all within a few hours of each other.",
+  "cardDescription": "A compact island packing 2,500 years of history, hill-country tea, wildlife safaris, surfing coasts and famously warm hospitality into a trip you can do in two weeks.",
+  "metaDescription": "A complete Sri Lanka travel guide: the 10 best places to visit, Sigiriya, Kandy, Ella, Galle, Yala and Mirissa, food, when to go, scenic trains, transport and a two-week itinerary.",
+  "image": {
+    "file": "File:Nine arch bridge 1.jpg",
+    "alt": "The Nine Arch Bridge among jungle and tea hills near Ella"
+  },
+  "destinations": [
+    "sigiriya",
+    "kandy",
+    "galle",
+    "ella",
+    "nuwara-eliya",
+    "yala",
+    "anuradhapura",
+    "polonnaruwa",
+    "mirissa",
+    "colombo"
+  ],
+  "intro": [
+    "Sri Lanka is an island about the size of Ireland or West Virginia, off the southern tip of India, with roughly 22 million people. Its history is long: the Buddhist kingdom of Anuradhapura was founded in the 4th century BCE, the rock fortress of Sigiriya was built in the 5th century CE, and successive Portuguese, Dutch and British colonisers left forts, churches and tea plantations. Sinhalese Buddhists form the majority, alongside Tamil Hindus, Muslims and Christians.",
+    "For visitors, the main appeal is variety in a small space. In a single trip you can climb a rock fortress, see ruins of ancient cities, watch elephants gather at a reservoir, take a slow train through misty tea country, go on a leopard safari, and finish on a palm-lined beach where blue whales pass offshore. The distances are short, though roads are slow, so two weeks covers much of the island.",
+    "Sri Lanka went through a severe economic crisis in 2022, and the situation has stabilised, with tourism growing again. Visitors are warmly welcomed, and prices are low. The island has two monsoons, so the best region depends on the season, and a flexible plan lets you follow the sun."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Sigiriya, Kandy, Ella and Galle are the essentials; Yala and Mirissa add wildlife and beaches, and the others reward those with more time.",
+  "thingsToDoIntro": "The experiences that recur across the country and make a Sri Lankan trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Ride a scenic train",
+      "text": "The line from Kandy through Nuwara Eliya to Ella is one of the world's most beautiful rail journeys, through tea plantations and cloud forest. See [[ella|Ella]] and [[nuwara-eliya|Nuwara Eliya]].",
+      "tip": "Book reserved seats well ahead, or take a second-class carriage for the open doors."
+    },
+    {
+      "title": "Climb Sigiriya",
+      "text": "The 200-metre rock fortress with frescoes and a mirror wall is Sri Lanka's most famous landmark. See [[sigiriya|Sigiriya]].",
+      "tip": "Go at opening time to avoid the heat and crowds."
+    },
+    {
+      "title": "Go on safari",
+      "text": "Yala has one of the world's highest densities of leopards, and Minneriya has huge seasonal gatherings of elephants. See [[yala|Yala]].",
+      "tip": "Book early morning jeeps."
+    },
+    {
+      "title": "Visit ancient cities",
+      "text": "Anuradhapura and Polonnaruwa were royal capitals with huge stupas and carved Buddhas. See [[anuradhapura|Anuradhapura]] and [[polonnaruwa|Polonnaruwa]].",
+      "tip": "Hire a bicycle."
+    },
+    {
+      "title": "Watch whales",
+      "text": "Mirissa is one of the best places in the world to see blue whales. See [[mirissa|Mirissa]].",
+      "tip": "Choose a responsible operator."
+    },
+    {
+      "title": "Tour a tea estate",
+      "text": "See how Ceylon tea is picked and processed in the hill country. See [[nuwara-eliya|Nuwara Eliya]].",
+      "tip": "Try a fresh cup on the estate."
+    },
+    {
+      "title": "Stroll a Dutch fort",
+      "text": "Galle Fort's ramparts, cafés and shops are a delight at sunset. See [[galle|Galle]].",
+      "tip": "Walk the ramparts at sunset."
+    }
+  ],
+  "foodIntro": "Sri Lankan food is fiery, coconut-rich and full of spices, based on rice and curry, with hoppers, string hoppers, sambols and seafood.",
+  "foods": [
+    {
+      "name": "Rice and curry",
+      "image": {
+        "file": "File:SL-rice and curry.jpg",
+        "alt": "A Sri Lankan rice and curry meal with several small dishes"
+      },
+      "text": "A plate of rice with several small curries: dhal, vegetables, fish or chicken, sambols and papadum. Meals vary by region.",
+      "whereToTry": "Local restaurants and guesthouses, especially at lunch."
+    },
+    {
+      "name": "Kottu roti",
+      "image": {
+        "file": "File:Kottu Roti.jpg",
+        "alt": "Chopped kottu roti with vegetables and egg"
+      },
+      "text": "Chopped flatbread stir-fried on a hot griddle with vegetables, egg, spices and meat, noisily prepared with two metal blades.",
+      "whereToTry": "Street stalls and cafés at night."
+    },
+    {
+      "name": "Hoppers and string hoppers",
+      "text": "Bowl-shaped fermented rice-flour pancakes (appa), often with an egg, and steamed noodle nests, served with curries and sambol.",
+      "whereToTry": "Breakfast and dinner cafés."
+    },
+    {
+      "name": "Fish curry and seafood",
+      "text": "Spicy fish curries, crab and prawn dishes on the coast, especially in Galle and Mirissa.",
+      "whereToTry": "Coastal restaurants, such as in [[mirissa|Mirissa]] and [[galle|Galle]]."
+    },
+    {
+      "name": "Ceylon tea",
+      "image": {
+        "file": "File:Ceylon tea Leafs.JPG",
+        "alt": "Dried Ceylon tea leaves"
+      },
+      "text": "Black tea grown in the highlands, served with milk and sugar or plain. The best comes from the Nuwara Eliya region.",
+      "whereToTry": "Tea estates in [[nuwara-eliya|Nuwara Eliya]]."
+    },
+    {
+      "name": "Watalappan and sweets",
+      "text": "A coconut milk and jaggery custard, served at celebrations, alongside treacle-drenched curd.",
+      "whereToTry": "Restaurants and sweet shops."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Sri Lanka is easy and friendly, though roads are slow and rules change often.",
+  "practical": {
+    "capital": "Sri Jayawardenepura Kotte (administrative), Colombo (commercial)",
+    "language": "Sinhala and Tamil are official. English is widely understood in tourism and cities.",
+    "currency": "Sri Lankan rupee (LKR). Roughly 300–330 rupees to the US dollar in recent years, following a sharp fall in 2022.",
+    "money": "Cards are accepted in hotels and larger restaurants, and cash is needed for tuk-tuks, markets and small guesthouses. ATMs are common in towns, and tourist-price trades in US dollars occur.",
+    "visa": "Almost all visitors need an Electronic Travel Authorisation (ETA), applied for online before travel. A visa-free scheme has been trialled for some nationalities, and fees and rules change often, so check the official ETA site.",
+    "plugs": "Type D, M and G, 230 V, 50 Hz. UK plugs (type G) fit many sockets, but a universal adaptor is safest.",
+    "emergency": "119 for police, 110 for ambulance, 111 for fire, and 1912 for the Tourist Police.",
+    "tipping": "A 10% service charge is often added in restaurants. Small tips for drivers, guides and hotel staff are appreciated.",
+    "safety": "Sri Lanka is generally safe for visitors. Watch for scams and overcharging by tuk-tuk drivers and touts, and be careful in the sea, as rip currents are strong. Women travelling alone sometimes face harassment. Check government travel advice, and note that political and economic conditions can change quickly.",
+    "connectivity": "Good in towns, with cheap SIM cards at the airport. Coverage is patchy in the hills and national parks.",
+    "timeZone": "Sri Lanka Standard Time, UTC+5:30 all year, with no daylight saving.",
+    "budget": [
+      { "label": "Backpacker", "value": "US$30–50 per day — guesthouses, buses, local food" },
+      { "label": "Mid-range", "value": "US$70–130 per day — hotels, drivers, safaris" },
+      { "label": "Comfortable", "value": "US$150–250 per day — boutique hotels, private car" },
+      { "label": "Luxury", "value": "US$350+ per day — top hotels, private guides" }
+    ]
+  },
+  "bestTime": {
+    "headline": "Varies by coast, see below",
+    "summary": "Sri Lanka has two monsoons. The south-west coast and hills are best from December to March, and the east coast from April to September. The cultural triangle is best from May to September, and warm all year.",
+    "seasons": [
+      {
+        "season": "December–March",
+        "rating": "best",
+        "text": "The best time for the south and west coasts, Yala and the hills. The peak season, with high prices around Christmas and New Year."
+      },
+      {
+        "season": "April–May",
+        "rating": "quiet",
+        "text": "Inter-monsoon, hot and humid, with afternoon thunderstorms. The east coast begins to warm up."
+      },
+      {
+        "season": "June–September",
+        "rating": "good",
+        "text": "The south-west monsoon brings rain and rough seas to the south and west, but the cultural triangle, east coast and Kandy are dry. Elephant gatherings at Minneriya peak from July to September."
+      },
+      {
+        "season": "October–November",
+        "rating": "avoid",
+        "text": "The second inter-monsoon, with heavy rain and storms across much of the island."
+      }
+    ],
+    "avoid": "October and November for the wettest conditions almost everywhere."
+  },
+  "tripDuration": {
+    "headline": "10–14 days for a first trip",
+    "summary": "Sri Lanka is small, but roads and trains are slow. A week covers the cultural triangle and hill country, and two weeks allows the south coast and Yala.",
+    "options": [
+      {
+        "length": "7–8 days",
+        "text": "Sigiriya, Kandy and Ella, or Galle and the south coast.",
+        "detail": "A first taste."
+      },
+      {
+        "length": "12–14 days",
+        "text": "The itinerary on this page: the cultural triangle, Kandy, the hill country, Yala and the south coast.",
+        "detail": "The classic first trip, and our recommendation."
+      },
+      {
+        "length": "3 weeks",
+        "text": "Adds Jaffna, Trincomalee and Arugam Bay.",
+        "detail": "For a slower pace."
+      },
+      {
+        "length": "4 weeks or more",
+        "text": "Adds the north and east, and more hiking.",
+        "detail": "For those with time."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Trains are scenic and cheap, buses are packed and fast, tuk-tuks are everywhere, and hiring a car with a driver is the most popular way to see the island.",
+    "options": [
+      {
+        "mode": "Car with driver",
+        "text": "The most popular option for visitors, giving flexibility. Rates are around US$50–90 per day including fuel and accommodation for the driver.",
+        "detail": "Book through your guesthouse or a reputable agency."
+      },
+      {
+        "mode": "Trains",
+        "text": "The Kandy–Ella line is world-famous. Book first-class or reserved seats early on popular routes.",
+        "detail": "Use the official railway booking system or an agent."
+      },
+      {
+        "mode": "Buses",
+        "text": "Cheap and frequent, though crowded and fast.",
+        "detail": "Avoid with large luggage."
+      },
+      {
+        "mode": "Tuk-tuks and PickMe",
+        "text": "Three-wheeled taxis are everywhere. PickMe and Uber operate in Colombo.",
+        "detail": "Agree the fare or use the app."
+      },
+      {
+        "mode": "Domestic flights",
+        "text": "Limited, but small seaplane and helicopter services exist.",
+        "detail": "Rarely needed."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Sri Lanka",
+    "intro": "Colombo, the ancient cities, Kandy, the hill country, Yala and the south coast, mostly by car with a driver and one train. Covers all ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Colombo",
+        "morning": "Land and check in.",
+        "afternoon": "Pettah and the Gangaramaya temple.",
+        "evening": "Galle Face Green sunset."
+      },
+      {
+        "day": 2,
+        "title": "Anuradhapura",
+        "morning": "Drive to Anuradhapura.",
+        "afternoon": "The stupas and Sri Maha Bodhi.",
+        "evening": "Rest."
+      },
+      {
+        "day": 3,
+        "title": "Sigiriya",
+        "morning": "Climb Sigiriya Rock.",
+        "afternoon": "Dambulla Cave Temple.",
+        "evening": "Pidurangala at sunset."
+      },
+      {
+        "day": 4,
+        "title": "Polonnaruwa",
+        "morning": "Cycle the ancient city.",
+        "afternoon": "Minneriya elephant safari.",
+        "evening": "Return."
+      },
+      {
+        "day": 5,
+        "title": "Kandy",
+        "morning": "Drive to Kandy.",
+        "afternoon": "Temple of the Tooth.",
+        "evening": "Kandyan dance."
+      },
+      {
+        "day": 6,
+        "title": "Kandy",
+        "morning": "Peradeniya Botanical Gardens.",
+        "afternoon": "Kandy Lake.",
+        "evening": "Free evening."
+      },
+      {
+        "day": 7,
+        "title": "Nuwara Eliya",
+        "morning": "Drive through tea country.",
+        "afternoon": "Tea estate tour.",
+        "evening": "Fire and a warm dinner."
+      },
+      {
+        "day": 8,
+        "title": "Ella by train",
+        "morning": "Horton Plains World's End walk.",
+        "afternoon": "Train to Ella.",
+        "evening": "Rooftop dinner."
+      },
+      {
+        "day": 9,
+        "title": "Ella",
+        "morning": "Little Adam's Peak.",
+        "afternoon": "Nine Arch Bridge.",
+        "evening": "Rest."
+      },
+      {
+        "day": 10,
+        "title": "Yala",
+        "morning": "Drive to Yala.",
+        "afternoon": "Leopard safari.",
+        "evening": "Camp or lodge."
+      },
+      {
+        "day": 11,
+        "title": "Mirissa",
+        "morning": "Yala dawn safari.",
+        "afternoon": "Drive to Mirissa.",
+        "evening": "Beach sunset."
+      },
+      {
+        "day": 12,
+        "title": "Whales",
+        "morning": "Whale watching.",
+        "afternoon": "Coconut Tree Hill.",
+        "evening": "Seafood dinner."
+      },
+      {
+        "day": 13,
+        "title": "Galle",
+        "morning": "Drive to Galle.",
+        "afternoon": "Walk the fort ramparts.",
+        "evening": "Fort dinner."
+      },
+      {
+        "day": 14,
+        "title": "Departure",
+        "morning": "Expressway to Colombo.",
+        "afternoon": "Fly home.",
+        "evening": "Home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Sri Lankans are warm, hospitable and curious about visitors. Religion matters: Buddhism is the majority faith, with strong Hindu, Muslim and Christian communities, and temples are active places of worship. Modesty and respect are expected.",
+    "etiquette": [
+      {
+        "title": "Dress modestly at temples",
+        "text": "Cover shoulders and knees, and remove shoes and hats before entering."
+      },
+      {
+        "title": "Never pose with your back to a Buddha",
+        "text": "Turning your back to a statue for photos is seen as disrespectful and has led to visitors being detained or deported."
+      },
+      {
+        "title": "Greet with 'Ayubowan'",
+        "text": "Say hello with palms together, or shake hands with men."
+      },
+      {
+        "title": "Use your right hand",
+        "text": "Eat, give and receive with the right hand."
+      },
+      {
+        "title": "Respect monks",
+        "text": "Women should not touch monks, and everyone should give them seats."
+      },
+      {
+        "title": "Dress modestly on beaches",
+        "text": "Bikinis are fine at resort beaches, but cover up in villages."
+      }
+    ],
+    "dos": [
+      "Learn a few words: sthuthi (thank you, Sinhala), nandri (thank you, Tamil)",
+      "Carry a scarf for temples",
+      "Book trains early",
+      "Negotiate tuk-tuk fares or use PickMe",
+      "Use bottled or filtered water",
+      "Bargain politely in markets"
+    ],
+    "donts": [
+      "Don't pose with your back to Buddha statues",
+      "Don't wear shoes in temples",
+      "Don't touch monks (women)",
+      "Don't feed wild animals",
+      "Don't swim in strong surf",
+      "Don't take drones without a permit"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Sri Lanka, several of which are specific to how the country works.",
+  "tips": [
+    "Apply for your ETA online before you fly, using the official site.",
+    "Book trains between Kandy and Ella weeks ahead, and consider a second-class ticket if reserved seats sell out.",
+    "Budget more travel time than the map suggests, since roads are slow.",
+    "Book safari jeeps for dawn and choose reputable operators.",
+    "Respect temple dress codes, carrying a sarong or scarf.",
+    "Agree the tuk-tuk fare first, or use the PickMe app.",
+    "Keep an eye on the weather, since monsoons decide which coast to visit.",
+    "Carry cash for small purchases."
+  ],
+  "faq": [
+    {
+      "q": "Is Sri Lanka safe for tourists?",
+      "a": "Generally yes. Watch for scams and rip currents, and check government advice."
+    },
+    {
+      "q": "How many days do you need in Sri Lanka?",
+      "a": "Ten to fourteen days for a first trip, covering the cultural triangle, hill country and south coast."
+    },
+    {
+      "q": "When is the best time to visit Sri Lanka?",
+      "a": "December to March for the south and hills, and May to September for the cultural triangle and east coast."
+    },
+    {
+      "q": "Do I need a visa for Sri Lanka?",
+      "a": "Most visitors need an ETA. Check the official site, since fees and eligible nationalities change."
+    },
+    {
+      "q": "Is Sri Lanka cheap?",
+      "a": "Yes. Food, transport and accommodation are inexpensive, though safaris and entrance fees add up."
+    },
+    {
+      "q": "Do I need a driver?",
+      "a": "It is the easiest way to see the island, but trains and buses work well for many routes."
+    }
+  ]
+}

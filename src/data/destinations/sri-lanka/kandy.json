@@ -1,0 +1,314 @@
+{
+  "slug": "kandy",
+  "name": "Kandy",
+  "country": "sri-lanka",
+  "region": "Central Province, hill country",
+  "categories": ["unesco", "historic", "cultural", "major-city"],
+  "tagline": "The last royal capital and the sacred home of the Buddha's tooth relic, on a lake among green hills, with drumming and dance every evening.",
+  "highlight": "The evening puja at the Temple of the Tooth, with drummers, incense and pilgrims in white.",
+  "shortDescription": "A hill-country city with the Temple of the Sacred Tooth Relic, Kandy Lake, Kandyan dance, Peradeniya Botanical Gardens and the base for tea country trains.",
+  "metaDescription": "A Kandy travel guide: the Temple of the Tooth, Kandy Lake, Kandyan dance show, Royal Botanical Gardens Peradeniya, Esala Perahera festival, where to stay, how to get there and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Colombo Bandaranaike (CMB), about 3–4 hours by road",
+  "knownFor": "Temple of the Tooth, Perahera festival, gardens",
+  "budget": "US$60–120 per day, mid-range",
+  "goodFor": "Culture, temples, gardens, a hill-country base",
+  "coords": { "lat": 7.2906, "lng": 80.6337 },
+  "image": {
+    "file": "File:Kandy Lake - Temple of the Tooth.jpg",
+    "alt": "Kandy Lake with the white Temple of the Tooth beside it"
+  },
+  "intro": [
+    "Kandy is the cultural capital of Sri Lanka's hill country, set around a small artificial lake among green hills at about 500 metres. It was the last capital of the Sinhalese kings, who held out against the Portuguese, Dutch and British until 1815, and its old core is a UNESCO World Heritage Site.",
+    "Its heart is the Sri Dalada Maligawa, the Temple of the Sacred Tooth Relic, said to house a tooth of the Buddha, brought to Sri Lanka in the 4th century. Pilgrims come daily to offer lotus flowers, and rituals called pujas take place three times a day with drumming. In July or August, the Esala Perahera, a grand procession of elephants, dancers and drummers, honours the relic for ten nights.",
+    "Kandy also has the Royal Botanical Gardens in Peradeniya, with orchids and giant trees, nightly Kandyan dance shows, and lakeside walks. It is a hub for the hill country, and the start of the train to Nuwara Eliya and Ella. Two days is enough, and Kandy is busy and traffic-heavy, so a hill-side hotel gives calm."
+  ],
+  "whyVisit": {
+    "intro": "Kandy is Sri Lanka's spiritual and cultural centre, and a natural base for the hills.",
+    "points": [
+      {
+        "title": "The Tooth Relic",
+        "text": "A pilgrimage site."
+      },
+      {
+        "title": "Kandyan culture",
+        "text": "Dance and drumming."
+      },
+      {
+        "title": "Botanical gardens",
+        "text": "Peradeniya."
+      },
+      {
+        "title": "A lake in the hills",
+        "text": "A calm centre."
+      },
+      {
+        "title": "Gateway to tea country",
+        "text": "Trains to Ella."
+      }
+    ]
+  },
+  "attractionsIntro": "Sights are close to the lake.",
+  "attractions": [
+    {
+      "name": "Temple of the Sacred Tooth Relic",
+      "image": {
+        "file": "File:Temple of the Tooth, Sitting Buddha statues.- Kandy.jpg",
+        "alt": "Sitting Buddha statues inside the Temple of the Tooth in Kandy"
+      },
+      "text": "The palace-temple complex holding the tooth relic in a golden casket, visited by pilgrims and tourists.",
+      "tip": "Go for the evening puja."
+    },
+    {
+      "name": "Kandy Lake",
+      "image": {
+        "file": "File:Kandy Lake and the Temple of the Sacred Tooth Relic, Kandy.jpg",
+        "alt": "Kandy Lake with the Temple of the Sacred Tooth Relic on its shore"
+      },
+      "text": "An artificial lake built by the last king, with a walking path.",
+      "tip": "Walk at dusk."
+    },
+    {
+      "name": "Kandyan dance show",
+      "image": {
+        "file": "File:Kandyan dance performance at Kandyan Cultural Centre, Sangaraja Mawatha, Kandy, Sri Lanka, 20260131 1733 7653.jpg",
+        "alt": "Dancers in costume performing a Kandyan dance"
+      },
+      "text": "A nightly show of drumming, acrobatics and fire-walking, in the Kandyan tradition.",
+      "tip": "Book seats."
+    },
+    {
+      "name": "Peradeniya Royal Botanical Gardens",
+      "image": {
+        "file": "File:Royal Botanical Gardens serre des orchidées de Peradeniya.jpg",
+        "alt": "The orchid house in the Royal Botanical Gardens at Peradeniya"
+      },
+      "text": "A 147-acre garden with orchids, palms and giant trees, 6 km from Kandy.",
+      "tip": "Allow half a day."
+    },
+    {
+      "name": "Bahirawakanda Buddha",
+      "text": "A giant white Buddha on a hill.",
+      "tip": "For city views."
+    },
+    {
+      "name": "Gadaladeniya Temple",
+      "text": "A 14th-century temple outside town.",
+      "tip": "Combine with a tour."
+    }
+  ],
+  "thingsToDoIntro": "Kandy is for temples and culture.",
+  "thingsToDo": [
+    {
+      "title": "Attend a puja",
+      "text": "With drummers.",
+      "tip": "Dress modestly."
+    },
+    {
+      "title": "Walk around the lake",
+      "text": "A gentle circuit.",
+      "tip": "Go at dusk."
+    },
+    {
+      "title": "See a dance show",
+      "text": "Kandyan culture.",
+      "tip": "Book."
+    },
+    {
+      "title": "Visit the gardens",
+      "text": "Peradeniya.",
+      "tip": "Go in the morning."
+    },
+    {
+      "title": "Take a tea factory tour",
+      "text": "Nearby estates.",
+      "tip": "Ask hotels."
+    },
+    {
+      "title": "Ride the train",
+      "text": "To Nuwara Eliya or Ella.",
+      "tip": "Book seats."
+    }
+  ],
+  "foodIntro": "Kandy's food is hill-country curry.",
+  "foods": [
+    {
+      "name": "Rice and curry",
+      "text": "Multiple dishes.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Kandy sweets",
+      "text": "Treacle and coconut sweets.",
+      "whereToTry": "Shops."
+    },
+    {
+      "name": "Hoppers",
+      "text": "Egg hoppers.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Spices",
+      "text": "Sold in markets.",
+      "whereToTry": "Spice gardens."
+    },
+    {
+      "name": "Tea",
+      "text": "Hill-country tea.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose the lake or the hills.",
+    "areas": [
+      {
+        "name": "Near the lake",
+        "bestFor": "Convenience",
+        "text": "Hotels."
+      },
+      {
+        "name": "Hillside",
+        "bestFor": "Views and calm",
+        "text": "Boutique hotels."
+      },
+      {
+        "name": "Peradeniya",
+        "bestFor": "Gardens",
+        "text": "Quiet stays."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$15–35 per night" },
+      { "label": "Mid-range hotel", "value": "US$50–120 per night" },
+      { "label": "Luxury hotel", "value": "US$150–300 per night" },
+      { "label": "Meal", "value": "US$3–10 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Kandy is 115 km from Colombo.",
+    "options": [
+      {
+        "mode": "Train from Colombo",
+        "text": "About 3 hours.",
+        "detail": "Scenic."
+      },
+      {
+        "mode": "Car with driver",
+        "text": "About 3 to 4 hours.",
+        "detail": "Traffic heavy."
+      },
+      {
+        "mode": "Bus",
+        "text": "About 3.5 hours.",
+        "detail": "Crowded."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Tuk-tuks and walking.",
+    "options": [
+      {
+        "mode": "Tuk-tuk",
+        "text": "Around town.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "On foot",
+        "text": "Around the lake.",
+        "detail": "Wear sandals."
+      },
+      {
+        "mode": "Bus",
+        "text": "To Peradeniya.",
+        "detail": "Cheap."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–April, or during the Perahera in July or August",
+    "summary": "Kandy is warm and wet year-round, with a drier period from January to April.",
+    "seasons": [
+      {
+        "season": "January–April",
+        "rating": "best",
+        "text": "Drier."
+      },
+      {
+        "season": "May–June",
+        "rating": "good",
+        "text": "Showers."
+      },
+      {
+        "season": "July–August",
+        "rating": "good",
+        "text": "The Perahera festival, busy."
+      },
+      {
+        "season": "October–November",
+        "rating": "avoid",
+        "text": "Heavy rain."
+      }
+    ],
+    "avoid": "Heavy rains."
+  },
+  "itinerary": {
+    "title": "Two days in Kandy",
+    "intro": "The temple and the gardens.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The city",
+        "summary": "Temple and lake.",
+        "morning": "Temple of the Tooth.",
+        "afternoon": "Kandy Lake walk.",
+        "evening": "Kandyan dance show."
+      },
+      {
+        "day": 2,
+        "title": "Gardens",
+        "summary": "Peradeniya.",
+        "morning": "Botanical Gardens.",
+        "afternoon": "Tea factory.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Dress modestly at the temple.",
+    "Book Perahera seats early.",
+    "Go to the puja for the drums.",
+    "Use tuk-tuk apps.",
+    "Bring a raincoat.",
+    "Take cash.",
+    "Stay uphill for calm."
+  ],
+  "faq": [
+    {
+      "q": "What is the Tooth Relic?",
+      "a": "A relic said to be the Buddha's tooth."
+    },
+    {
+      "q": "Is Kandy worth two days?",
+      "a": "Yes."
+    },
+    {
+      "q": "When is the Perahera?",
+      "a": "In July or August."
+    },
+    {
+      "q": "How far from Sigiriya?",
+      "a": "About 3 hours."
+    },
+    {
+      "q": "Can I photograph the temple?",
+      "a": "Yes, but not the relic."
+    },
+    {
+      "q": "When to go?",
+      "a": "January to April."
+    }
+  ],
+  "related": ["sigiriya", "nuwara-eliya", "ella"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

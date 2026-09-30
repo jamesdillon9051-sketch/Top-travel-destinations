@@ -1,0 +1,310 @@
+{
+  "slug": "mirissa",
+  "name": "Mirissa",
+  "country": "sri-lanka",
+  "region": "Southern Province, south coast",
+  "categories": ["coastal", "nature"],
+  "tagline": "A palm-fringed south-coast beach town known for blue whale watching, surf breaks, Coconut Tree Hill and sunset cocktails.",
+  "highlight": "Seeing the vast back of a blue whale rise from the Indian Ocean off Mirissa.",
+  "shortDescription": "A relaxed beach town on Sri Lanka's south coast, with whale and dolphin watching, Coconut Tree Hill, Parrot Rock, surfing at Weligama and seafood on the sand.",
+  "metaDescription": "A Mirissa travel guide: whale watching, Coconut Tree Hill, Parrot Rock, Weligama surfing, Secret Beach, stilt fishermen, where to stay, best season and a two-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Colombo Bandaranaike (CMB), about 3–4 hours by expressway",
+  "knownFor": "Whale watching, beach life, surf",
+  "budget": "US$50–110 per day, mid-range",
+  "goodFor": "Beach lovers, whale watchers, surfers, couples",
+  "coords": { "lat": 5.9483, "lng": 80.4716 },
+  "image": {
+    "file": "File:Mirissa beach Sri Lanka (29959458812).jpg",
+    "alt": "Mirissa beach with palm trees and blue water seen from above"
+  },
+  "intro": [
+    "Mirissa is a small fishing village turned beach resort on Sri Lanka's south coast, with a crescent of golden sand, palm trees and a lively line of beach restaurants and bars. The bay is calm from November to April, when the sea is good for swimming and the sunsets are famously colourful. It is popular with backpackers and couples, and is more relaxed than nearby Unawatuna or Hikkaduwa.",
+    "The town's claim to fame is whale watching. Offshore, the seabed drops steeply, and blue whales, the biggest animals on earth, pass on migration between about November and April, along with sperm whales, Bryde's whales and dolphins. Boats leave early morning, and trips last about four hours. Not all operators behave responsibly, so choose one that follows guidelines and keeps a distance.",
+    "Other highlights include Coconut Tree Hill, a headland with a cluster of tall palms, Parrot Rock, connected to the beach at low tide, Secret Beach and the surf at nearby Weligama. Two or three days makes a relaxing stay at the end of a Sri Lanka trip."
+  ],
+  "whyVisit": {
+    "intro": "Mirissa is Sri Lanka's best beach for a mix of sea life and relaxation.",
+    "points": [
+      {
+        "title": "Blue whales",
+        "text": "Seen from boats in season."
+      },
+      {
+        "title": "A palm-lined beach",
+        "text": "Sunsets and beach bars."
+      },
+      {
+        "title": "Coconut Tree Hill",
+        "text": "A photo icon."
+      },
+      {
+        "title": "Surf at Weligama",
+        "text": "Gentle waves for learners."
+      },
+      {
+        "title": "Seafood",
+        "text": "Fresh catches on the sand."
+      }
+    ]
+  },
+  "attractionsIntro": "Everything is close to the beach.",
+  "attractions": [
+    {
+      "name": "Whale watching",
+      "image": {
+        "file": "File:Mirissa, whale watching, blue whale (6918166357).jpg",
+        "alt": "A blue whale surfacing near a boat off Mirissa"
+      },
+      "text": "Morning boat trips to see blue whales, sperm whales and dolphins in season.",
+      "tip": "Choose a responsible operator."
+    },
+    {
+      "name": "Coconut Tree Hill",
+      "image": {
+        "file": "File:View from Coconut Tree Hill to Mirissa in March.jpg",
+        "alt": "The view from Coconut Tree Hill over Mirissa beach"
+      },
+      "text": "A hill topped with coconut palms overlooking the bay, a sunset spot.",
+      "tip": "Go early to avoid crowds."
+    },
+    {
+      "name": "Whale-watching boats",
+      "image": {
+        "file": "File:Mirissa-Whale watching (1).jpg",
+        "alt": "Whale-watching boats heading out from Mirissa harbour"
+      },
+      "text": "The fleet of boats leaving at dawn.",
+      "tip": "Bring seasickness pills."
+    },
+    {
+      "name": "Parrot Rock",
+      "text": "A rock reached at low tide, with snorkelling around it.",
+      "tip": "Check the tide."
+    },
+    {
+      "name": "Secret Beach",
+      "text": "A quieter, small beach nearby.",
+      "tip": "Take a tuk-tuk."
+    },
+    {
+      "name": "Weligama",
+      "text": "A surf beach and stilt fishing village 5 km away.",
+      "tip": "Good for beginner surfers."
+    }
+  ],
+  "thingsToDoIntro": "Mirissa is about the sea.",
+  "thingsToDo": [
+    {
+      "title": "Go whale watching",
+      "text": "November to April.",
+      "tip": "Book the earliest boat."
+    },
+    {
+      "title": "Watch sunset from Coconut Tree Hill",
+      "text": "Golden light.",
+      "tip": "Arrive early."
+    },
+    {
+      "title": "Learn to surf",
+      "text": "At Weligama.",
+      "tip": "Take a lesson."
+    },
+    {
+      "title": "Snorkel at Parrot Rock",
+      "text": "At low tide.",
+      "tip": "Bring a mask."
+    },
+    {
+      "title": "Eat seafood on the beach",
+      "text": "Grilled fish.",
+      "tip": "Choose your fish."
+    },
+    {
+      "title": "Try yoga",
+      "text": "Beach classes.",
+      "tip": "Book."
+    }
+  ],
+  "foodIntro": "Mirissa's food is beachside seafood.",
+  "foods": [
+    {
+      "name": "Grilled fish and lobster",
+      "text": "Fresh catch.",
+      "whereToTry": "Beach restaurants."
+    },
+    {
+      "name": "Crab curry",
+      "text": "A classic.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Fish curry",
+      "text": "Local.",
+      "whereToTry": "Guesthouses."
+    },
+    {
+      "name": "Egg hoppers",
+      "text": "Breakfast.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "King coconut",
+      "text": "Fresh.",
+      "whereToTry": "Roadside."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay by the beach.",
+    "areas": [
+      {
+        "name": "Mirissa beach",
+        "bestFor": "Convenience",
+        "text": "Guesthouses and hotels."
+      },
+      {
+        "name": "Weligama",
+        "bestFor": "Surfing",
+        "text": "Surf camps."
+      },
+      {
+        "name": "Hills behind Mirissa",
+        "bestFor": "Quiet",
+        "text": "Villas."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$15–40 per night" },
+      { "label": "Mid-range hotel", "value": "US$50–120 per night" },
+      { "label": "Whale-watching trip", "value": "US$40–70 per person" },
+      { "label": "Meal", "value": "US$4–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Mirissa is on the south coast.",
+    "options": [
+      {
+        "mode": "Expressway from Colombo",
+        "text": "About 2.5 to 3 hours to Matara.",
+        "detail": "Then a short drive."
+      },
+      {
+        "mode": "Train to Weligama",
+        "text": "From Colombo, about 4 hours.",
+        "detail": "Scenic."
+      },
+      {
+        "mode": "From Galle",
+        "text": "About 45 minutes.",
+        "detail": "Easy."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Walk or tuk-tuk.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Along the beach.",
+        "detail": "Wear sandals."
+      },
+      {
+        "mode": "Tuk-tuk",
+        "text": "To Weligama.",
+        "detail": "Agree fares."
+      },
+      {
+        "mode": "Scooter",
+        "text": "Popular.",
+        "detail": "Wear a helmet."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–April",
+    "summary": "The south coast is best from December to April.",
+    "seasons": [
+      {
+        "season": "December–March",
+        "rating": "best",
+        "text": "Calm seas, sunshine."
+      },
+      {
+        "season": "April",
+        "rating": "good",
+        "text": "Hot, whales still around."
+      },
+      {
+        "season": "May–September",
+        "rating": "avoid",
+        "text": "Rough seas and rain."
+      },
+      {
+        "season": "October–November",
+        "rating": "quiet",
+        "text": "Showers."
+      }
+    ],
+    "avoid": "May to September for rough seas."
+  },
+  "itinerary": {
+    "title": "Two days in Mirissa",
+    "intro": "Whales and beach.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Whales",
+        "summary": "Boat trip.",
+        "morning": "Whale watching.",
+        "afternoon": "Beach.",
+        "evening": "Coconut Tree Hill sunset."
+      },
+      {
+        "day": 2,
+        "title": "Weligama",
+        "summary": "Surf.",
+        "morning": "Surf lesson.",
+        "afternoon": "Parrot Rock.",
+        "evening": "Seafood dinner."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Choose responsible whale boats.",
+    "Take seasickness tablets.",
+    "Go early.",
+    "Use sunscreen.",
+    "Avoid swimming in rip currents.",
+    "Book in the season.",
+    "Bring cash."
+  ],
+  "faq": [
+    {
+      "q": "When can I see whales?",
+      "a": "November to April."
+    },
+    {
+      "q": "Is whale watching ethical?",
+      "a": "It depends on the operator."
+    },
+    {
+      "q": "How many days?",
+      "a": "Two or three."
+    },
+    {
+      "q": "Can I swim?",
+      "a": "Yes, in season, with care."
+    },
+    {
+      "q": "How far from Galle?",
+      "a": "About 45 minutes."
+    },
+    {
+      "q": "When to go?",
+      "a": "December to April."
+    }
+  ],
+  "related": ["galle", "yala", "colombo"],
+  "relatedArticles": ["mediterranean-coasts", "packing-by-season"]
+}

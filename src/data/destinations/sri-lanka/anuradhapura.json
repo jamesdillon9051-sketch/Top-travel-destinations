@@ -1,0 +1,298 @@
+{
+  "slug": "anuradhapura",
+  "name": "Anuradhapura",
+  "country": "sri-lanka",
+  "region": "North Central Province",
+  "categories": ["unesco", "archaeological", "historic", "cultural"],
+  "tagline": "The first great capital of Sri Lanka, with giant white stupas, a sacred fig tree grown from the Buddha's tree and 1,300 years of royal ruins.",
+  "highlight": "Watching pilgrims in white circle the Ruwanwelisaya stupa at dawn with flowers and lamps.",
+  "shortDescription": "A UNESCO-listed ancient capital, active as a pilgrimage centre, with the Sri Maha Bodhi tree, the Ruwanwelisaya and Jetavanaramaya stupas, monasteries, ponds and palace ruins.",
+  "metaDescription": "An Anuradhapura travel guide: Sri Maha Bodhi, Ruwanwelisaya stupa, Jetavanaramaya, Abhayagiri, Isurumuniya, the ancient ponds, how to see it by bike, where to stay, tickets and a one-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Colombo Bandaranaike (CMB), about 4.5–5 hours by road",
+  "knownFor": "Ancient stupas, the Bodhi tree, pilgrimage",
+  "budget": "US$50–100 per day, mid-range, plus ticket",
+  "goodFor": "History and Buddhism, cycling, pilgrims",
+  "coords": { "lat": 8.3114, "lng": 80.4037 },
+  "image": {
+    "file": "File:Ruwanwelisaya Anuradhapura Sri Lanka 2.jpg",
+    "alt": "The white dome of the Ruwanwelisaya stupa in Anuradhapura"
+  },
+  "intro": [
+    "Anuradhapura was the capital of the first Sinhalese kingdom from the 4th century BCE, and for more than a thousand years a centre of Theravada Buddhism and of civilisation in the island. At its height, it was one of the largest cities in South Asia, with monasteries housing thousands of monks, giant reservoirs and palaces. Abandoned in the 11th century, it was rediscovered in the 19th, and is a UNESCO World Heritage Site.",
+    "Unlike many ruins, Anuradhapura is still a place of living worship. The Sri Maha Bodhi, a sacred fig tree grown from a cutting of the tree under which the Buddha attained enlightenment, is said to be the oldest historically documented tree in the world, planted in 288 BCE. Pilgrims in white bring flowers and lamps, and the giant white stupas, huge domed shrines, still dominate the skyline. The Ruwanwelisaya, from the 2nd century BCE, is the most revered.",
+    "The site is spread over several square kilometres, so bicycles or tuk-tuks are the best way to see it. Other highlights include the massive Jetavanaramaya, once the tallest brick structure in the world, the Abhayagiri monastery, the Twin Ponds and Isurumuniya Rock Temple. A day and a half is a good visit, combined with Sigiriya and Polonnaruwa."
+  ],
+  "whyVisit": {
+    "intro": "Anuradhapura is Sri Lanka's oldest capital, and a place where ancient history is still practised.",
+    "points": [
+      {
+        "title": "The Sacred Bodhi Tree",
+        "text": "A living link to the Buddha."
+      },
+      {
+        "title": "Giant stupas",
+        "text": "Vast white domes."
+      },
+      {
+        "title": "Living pilgrimage",
+        "text": "Devotees every day."
+      },
+      {
+        "title": "Ancient ponds and palaces",
+        "text": "Scattered ruins."
+      },
+      {
+        "title": "Cycling",
+        "text": "Easy flat rides."
+      }
+    ]
+  },
+  "attractionsIntro": "The sights are spread over a large area.",
+  "attractions": [
+    {
+      "name": "Ruwanwelisaya",
+      "image": {
+        "file": "File:Ruwanwelisaya Stupa Anuradhapura.jpg",
+        "alt": "The Ruwanwelisaya stupa with a row of elephant statues"
+      },
+      "text": "A gleaming white stupa about 100 metres tall, built by King Dutugemunu in the 2nd century BCE.",
+      "tip": "Go at dawn or dusk."
+    },
+    {
+      "name": "Sri Maha Bodhi",
+      "image": {
+        "file": "File:Sri Maha Bodhi, Anuradhapura.jpg",
+        "alt": "Pilgrims at the Sri Maha Bodhi sacred fig tree in Anuradhapura"
+      },
+      "text": "The sacred fig tree grown from a cutting of the original Bodhi tree, planted in 288 BCE.",
+      "tip": "Dress in white if possible."
+    },
+    {
+      "name": "Jetavanaramaya",
+      "text": "A huge brick stupa, once one of the tallest structures in the ancient world.",
+      "tip": "Cycle to it."
+    },
+    {
+      "name": "Abhayagiri Monastery",
+      "text": "A monastery complex with a stupa, moonstones and ponds.",
+      "tip": "Allow an hour."
+    },
+    {
+      "name": "Isurumuniya",
+      "text": "A rock temple with carvings of lovers and horses.",
+      "tip": "Visit in the evening."
+    },
+    {
+      "name": "Kuttam Pokuna (Twin Ponds)",
+      "text": "Ancient bathing pools.",
+      "tip": "Photogenic."
+    }
+  ],
+  "thingsToDoIntro": "Visit early and by bike.",
+  "thingsToDo": [
+    {
+      "title": "Cycle the ruins",
+      "text": "Rent a bike.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Join the puja",
+      "text": "At the Bodhi tree.",
+      "tip": "Dress modestly."
+    },
+    {
+      "title": "Watch sunset at Mihintale",
+      "text": "A hill nearby.",
+      "tip": "Climb the steps."
+    },
+    {
+      "title": "Visit at Poya day",
+      "text": "A full moon festival.",
+      "tip": "Crowded and special."
+    },
+    {
+      "title": "See the museum",
+      "text": "Archaeological finds.",
+      "tip": "Optional."
+    },
+    {
+      "title": "Take a tuk-tuk tour",
+      "text": "With a guide.",
+      "tip": "Agree the price."
+    }
+  ],
+  "foodIntro": "The food is simple.",
+  "foods": [
+    {
+      "name": "Rice and curry",
+      "text": "Local.",
+      "whereToTry": "Guesthouses."
+    },
+    {
+      "name": "Buffalo curd and treacle",
+      "text": "Local dessert.",
+      "whereToTry": "Shops."
+    },
+    {
+      "name": "Kottu",
+      "text": "Street food.",
+      "whereToTry": "Stalls."
+    },
+    {
+      "name": "Fresh coconut water",
+      "text": "King coconut.",
+      "whereToTry": "Roadside."
+    },
+    {
+      "name": "Tea",
+      "text": "Local.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the new town or near the ruins.",
+    "areas": [
+      {
+        "name": "New Town",
+        "bestFor": "Services",
+        "text": "Hotels."
+      },
+      {
+        "name": "Near the ruins",
+        "bestFor": "Early starts",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Mihintale",
+        "bestFor": "Quiet",
+        "text": "Small stays."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$15–35 per night" },
+      { "label": "Mid-range hotel", "value": "US$45–100 per night" },
+      { "label": "Ruins ticket", "value": "About US$25–30 (check)" },
+      { "label": "Meal", "value": "US$3–9 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Anuradhapura is in the north-central plains.",
+    "options": [
+      {
+        "mode": "Train from Colombo",
+        "text": "About 5 hours.",
+        "detail": "Book."
+      },
+      {
+        "mode": "Car with driver",
+        "text": "About 4.5 to 5 hours.",
+        "detail": "The easiest."
+      },
+      {
+        "mode": "Bus",
+        "text": "About 5 to 6 hours.",
+        "detail": "Crowded."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Bicycles and tuk-tuks.",
+    "options": [
+      {
+        "mode": "Bicycle",
+        "text": "Rent for the day.",
+        "detail": "Flat."
+      },
+      {
+        "mode": "Tuk-tuk",
+        "text": "With a driver-guide.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "On foot",
+        "text": "Around the Bodhi tree.",
+        "detail": "Barefoot at shrines."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "Anuradhapura is hot and dry from May to September.",
+    "seasons": [
+      {
+        "season": "February–April",
+        "rating": "good",
+        "text": "Warm, dry."
+      },
+      {
+        "season": "May–September",
+        "rating": "best",
+        "text": "Dry but hot."
+      },
+      {
+        "season": "October–November",
+        "rating": "avoid",
+        "text": "Heavy rain."
+      },
+      {
+        "season": "December–January",
+        "rating": "quiet",
+        "text": "Cooler, wetter."
+      }
+    ],
+    "avoid": "The October to November rains."
+  },
+  "itinerary": {
+    "title": "A day and a half in Anuradhapura",
+    "intro": "Stupas and the Bodhi tree.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The sacred city",
+        "summary": "Stupas.",
+        "morning": "Ruwanwelisaya and Bodhi tree.",
+        "afternoon": "Jetavanaramaya and Abhayagiri.",
+        "evening": "Isurumuniya."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Go early.",
+    "Dress modestly.",
+    "Remove shoes and hats.",
+    "Bring water.",
+    "Cycle to save time.",
+    "Buy tickets officially.",
+    "Respect worshippers."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "One to two days."
+    },
+    {
+      "q": "Is it a UNESCO site?",
+      "a": "Yes."
+    },
+    {
+      "q": "What is the Bodhi tree?",
+      "a": "A sacred fig grown from a cutting of the Buddha's tree."
+    },
+    {
+      "q": "Can I cycle?",
+      "a": "Yes."
+    },
+    {
+      "q": "When to go?",
+      "a": "May to September."
+    },
+    {
+      "q": "Do I need a guide?",
+      "a": "Helpful but optional."
+    }
+  ],
+  "related": ["sigiriya", "polonnaruwa", "kandy"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

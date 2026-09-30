@@ -1,0 +1,134 @@
+{
+  "country": "sri-lanka",
+  "title": "The Complete Sri Lanka Travel Guide",
+  "subtitle": "How the island divides, how to choose between the ten destinations, how to plan around the two monsoons and the trains, and what two weeks can realistically hold.",
+  "summary": "Sri Lanka packs ancient kingdoms, tea hills, safaris and beaches into a small island. This guide covers how the regions divide, how to choose between the ten destinations, how to travel, when to go, what it costs and three routes that work.",
+  "readingTime": "12 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Should I hire a driver or use public transport?",
+      "a": "A car with a driver is the easiest and most flexible, and it is affordable. Trains are the best experience for the hill country. Buses are cheap but crowded."
+    },
+    {
+      "q": "Which coast should I choose?",
+      "a": "The south and west from December to March, and the east from April to September. The cultural triangle and hills are good most of the year."
+    },
+    {
+      "q": "How far ahead should I book the Ella train?",
+      "a": "Reserved seats on the Kandy–Ella line sell out weeks ahead in season. Book early or use a second-class ticket."
+    },
+    {
+      "q": "Is Sri Lanka easy for first-timers to Asia?",
+      "a": "Yes. English is widely understood, people are friendly, and distances are short."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-sri-lanka-divides",
+      "title": "How Sri Lanka divides",
+      "navLabel": "The regions",
+      "body": [
+        "Sri Lanka is about 435 km from north to south, and for a visitor it falls into five zones.",
+        "**The west and Colombo.** [[colombo|Colombo]] is the gateway city, with an international airport 35 km north.",
+        "**The Cultural Triangle.** [[sigiriya|Sigiriya]], [[anuradhapura|Anuradhapura]] and [[polonnaruwa|Polonnaruwa]] hold the ancient kingdoms, with [[kandy|Kandy]] at the southern edge.",
+        "**The hill country.** [[nuwara-eliya|Nuwara Eliya]] and [[ella|Ella]] are cool, green and famous for tea and trains.",
+        "**The south.** [[galle|Galle]], [[mirissa|Mirissa]] and [[yala|Yala]] offer beaches, whales and wildlife."
+      ],
+      "note": "The practical route is a loop: Colombo, the Cultural Triangle, Kandy, the hills and the south coast."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[sigiriya|Sigiriya]], [[kandy|Kandy]] and [[ella|Ella]], with a train ride between the last two."
+        },
+        {
+          "title": "If you love history",
+          "text": "[[anuradhapura|Anuradhapura]], [[polonnaruwa|Polonnaruwa]], [[sigiriya|Sigiriya]] and [[galle|Galle's fort]]."
+        },
+        {
+          "title": "If you love wildlife",
+          "text": "[[yala|Yala]] for leopards, Minneriya near [[polonnaruwa|Polonnaruwa]] for elephants, and [[mirissa|Mirissa]] for whales."
+        },
+        {
+          "title": "If you love hiking and scenery",
+          "text": "[[ella|Ella]], [[nuwara-eliya|Horton Plains]] and the tea country."
+        },
+        {
+          "title": "If you love beaches",
+          "text": "[[mirissa|Mirissa]] and the south coast, best from December to March."
+        },
+        {
+          "title": "If you love city life",
+          "text": "[[colombo|Colombo]] for food and shopping, [[galle|Galle]] for atmosphere and [[kandy|Kandy]] for culture."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around",
+      "navLabel": "Getting around",
+      "body": [
+        "Roads are slow and winding, so distances that look short on a map can take hours.",
+        "**Car with driver.** Popular, comfortable and affordable. Your driver often knows the best stops.",
+        "**Trains.** The Kandy–Ella line is a highlight. Reserve seats early.",
+        "**Buses.** Very cheap and frequent, but crowded and fast.",
+        "**Tuk-tuks.** For short hops. Use PickMe or agree fares."
+      ],
+      "note": "The expressways from Colombo to Galle and Matara save hours on the south coast."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Sri Lanka's two monsoons decide the best place to be.",
+        "December to March: the south-west coast, hills and Yala are dry and sunny. This is the peak season.",
+        "April to May: hot and humid, with thunderstorms. A quiet time.",
+        "June to September: the south-west coast is rough and wet, but the Cultural Triangle, Kandy and the east coast are dry. Minneriya elephant gatherings peak.",
+        "October and November: heavy rain nearly everywhere."
+      ],
+      "note": "Whales off [[mirissa|Mirissa]] are best seen from December to April."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Sri Lanka is good value. A local meal costs US$2–6, a mid-range hotel US$40–90, and a driver with car US$50–90 per day.",
+        "Entrance fees to major sites such as Sigiriya are charged in US dollars and are high for foreigners.",
+        "Beware of scams and inflated prices from touts. Use reputable operators for safaris and whale watching.",
+        "Take care in the sea, since currents are strong."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: culture and hills",
+          "text": "Two nights near [[sigiriya|Sigiriya]], two in [[kandy|Kandy]], and three in [[ella|Ella]].",
+          "tip": "Take the train from Kandy to Ella."
+        },
+        {
+          "title": "Ten days: adding the south",
+          "text": "The one-week route, plus [[yala|Yala]] and [[mirissa|Mirissa]].",
+          "tip": "Hire a driver."
+        },
+        {
+          "title": "Two weeks: the classic",
+          "text": "The itinerary on the country page, covering all ten destinations from [[colombo|Colombo]] to [[galle|Galle]].",
+          "tip": "Skip Anuradhapura if you are short of time."
+        }
+      ]
+    }
+  ]
+}

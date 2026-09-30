@@ -1,0 +1,341 @@
+{
+  "slug": "colombo",
+  "name": "Colombo",
+  "country": "sri-lanka",
+  "region": "Western Province",
+  "categories": [
+    "major-city",
+    "capital-city",
+    "cultural",
+    "food-and-wine"
+  ],
+  "tagline": "A busy tropical port city of colonial buildings, temples, markets, a seafront green and a rapidly growing café and restaurant scene.",
+  "highlight": "Watching kite-flying families and street-food vendors at sunset on Galle Face Green.",
+  "shortDescription": "Sri Lanka's commercial capital, with Galle Face Green, Pettah market, the Gangaramaya Temple, colonial Fort, the National Museum and a strong food scene, the gateway to the island.",
+  "metaDescription": "A Colombo travel guide: Galle Face Green, Pettah market, Gangaramaya Temple, Fort and colonial buildings, National Museum, Lotus Tower, street food, where to stay and a two-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Colombo Bandaranaike (CMB), about 45–60 minutes",
+  "knownFor": "Galle Face Green, Pettah, temples, food",
+  "budget": "US$60–130 per day, mid-range",
+  "goodFor": "Arrival and departure, food, shopping, culture",
+  "coords": {
+    "lat": 6.9271,
+    "lng": 79.8612
+  },
+  "image": {
+    "file": "File:Sunset at Galle Face Colombo.JPG",
+    "alt": "Sunset over the sea at Galle Face Green in Colombo"
+  },
+  "intro": [
+    "Colombo is Sri Lanka's largest city and commercial capital, home to about 750,000 people in the city proper and more than 5 million in its metropolitan area. It has been a trading port for over a thousand years, visited by Arab, Chinese, Portuguese, Dutch and British merchants, and its layered history shows in its streets. Most visitors arrive here, and many treat it as a place to pass through, but it is worth a day.",
+    "The seafront Galle Face Green is the city's living room, a long lawn where families fly kites and vendors sell street food at sunset. In the historic Fort district, colonial buildings house shops and hotels, and Pettah, the bustling market district, is a chaotic maze of stalls selling everything. The Gangaramaya Temple is a colourful, eclectic Buddhist temple and museum, and the Jami Ul-Alfar Mosque, a red-and-white candy-striped building, is among the most photogenic.",
+    "In recent years Colombo has grown more cosmopolitan, with the Lotus Tower, Asia's tallest, rising above the skyline, and a thriving restaurant and café scene in Colombo 7 and Colombo 3. The city is hot, humid and congested, so start early and rest at midday. One or two days is enough."
+  ],
+  "whyVisit": {
+    "intro": "Colombo is a lively, unpretentious city, and a good introduction to Sri Lanka.",
+    "points": [
+      {
+        "title": "Galle Face Green",
+        "text": "Sunset and street food."
+      },
+      {
+        "title": "Pettah market",
+        "text": "A dense and colourful bazaar."
+      },
+      {
+        "title": "Gangaramaya Temple",
+        "text": "A quirky Buddhist temple."
+      },
+      {
+        "title": "Colonial buildings",
+        "text": "In the Fort district."
+      },
+      {
+        "title": "A growing food scene",
+        "text": "Cafés and restaurants."
+      }
+    ]
+  },
+  "attractionsIntro": "The sights are spread around the city.",
+  "attractions": [
+    {
+      "name": "Galle Face Green",
+      "image": {
+        "file": "File:Galle Face Green - sunset.jpg",
+        "alt": "Galle Face Green in Colombo at sunset with people on the promenade"
+      },
+      "text": "A 500-metre seafront lawn built by the British, popular at sunset for kites, walks and snacks like isso wade.",
+      "tip": "Go at 5:30 pm."
+    },
+    {
+      "name": "Colombo skyline and the Lotus Tower",
+      "image": {
+        "file": "File:A view of Colombo's skyline from the Lotus Tower.jpg",
+        "alt": "The Colombo skyline seen from the Lotus Tower"
+      },
+      "text": "The Lotus Tower is a 350-metre communications tower with an observation deck.",
+      "tip": "Go at sunset."
+    },
+    {
+      "name": "Pettah market",
+      "image": {
+        "file": "File:Pettah Floating Market 1.jpg",
+        "alt": "A busy scene at the Pettah Floating Market in Colombo"
+      },
+      "text": "A tangle of streets with stalls of clothing, spices, hardware and fruit.",
+      "tip": "Go in the morning."
+    },
+    {
+      "name": "Gangaramaya Temple",
+      "image": {
+        "file": "File:Colombo Temple bouddhiste de Gangaramaya (2).JPG",
+        "alt": "Buddha statues and ornate decorations at Gangaramaya Temple in Colombo"
+      },
+      "text": "A temple complex with a museum of gifts, statues and an eclectic collection of objects.",
+      "tip": "Dress modestly."
+    },
+    {
+      "name": "Jami Ul-Alfar Mosque",
+      "text": "A red-and-white striped mosque in Pettah.",
+      "tip": "Photograph from outside."
+    },
+    {
+      "name": "National Museum",
+      "text": "The country's main museum, with royal regalia.",
+      "tip": "Allow two hours."
+    }
+  ],
+  "thingsToDoIntro": "Colombo is for wandering and eating.",
+  "thingsToDo": [
+    {
+      "title": "Walk Galle Face Green",
+      "text": "At sunset.",
+      "tip": "Try isso wade."
+    },
+    {
+      "title": "Explore Pettah",
+      "text": "On foot.",
+      "tip": "Watch your bags."
+    },
+    {
+      "title": "Eat at Ministry of Crab",
+      "text": "A famed restaurant.",
+      "tip": "Book."
+    },
+    {
+      "title": "Take a tuk-tuk food tour",
+      "text": "Street food.",
+      "tip": "Book a guide."
+    },
+    {
+      "title": "Visit Independence Square",
+      "text": "A colonial building and park.",
+      "tip": "Evening walks."
+    },
+    {
+      "title": "Shop for crafts",
+      "text": "Tea and batik.",
+      "tip": "Try Barefoot."
+    }
+  ],
+  "foodIntro": "Colombo has the best range of Sri Lankan food.",
+  "foods": [
+    {
+      "name": "Crab curry",
+      "text": "Chilli crab.",
+      "whereToTry": "Ministry of Crab."
+    },
+    {
+      "name": "Isso wade",
+      "text": "Prawn fritters.",
+      "whereToTry": "Galle Face."
+    },
+    {
+      "name": "Rice and curry",
+      "text": "Many dishes.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Kottu",
+      "text": "Chopped roti.",
+      "whereToTry": "Stalls."
+    },
+    {
+      "name": "Lamprais",
+      "text": "Dutch Burgher parcel.",
+      "whereToTry": "Restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Colombo 3 or 7.",
+    "areas": [
+      {
+        "name": "Fort and Colombo 3",
+        "bestFor": "Sightseeing",
+        "text": "Hotels."
+      },
+      {
+        "name": "Colombo 7",
+        "bestFor": "Cafés and quiet",
+        "text": "Boutique stays."
+      },
+      {
+        "name": "Negombo",
+        "bestFor": "Airport transit",
+        "text": "Beach hotels."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel dorm",
+        "value": "US$8–15 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$45–110 per night"
+      },
+      {
+        "label": "Luxury hotel",
+        "value": "US$150–300 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$3–15 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Colombo has the international airport.",
+    "options": [
+      {
+        "mode": "Airport transfer",
+        "text": "About 45 to 60 minutes by expressway.",
+        "detail": "Taxi or pre-booked car."
+      },
+      {
+        "mode": "Train",
+        "text": "From Kandy or Galle.",
+        "detail": "Scenic."
+      },
+      {
+        "mode": "Bus",
+        "text": "From across the island.",
+        "detail": "Crowded."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Tuk-tuks and apps.",
+    "options": [
+      {
+        "mode": "PickMe or Uber",
+        "text": "Cheap and easy.",
+        "detail": "Use the app."
+      },
+      {
+        "mode": "Tuk-tuk",
+        "text": "Agree the fare.",
+        "detail": "Metered options exist."
+      },
+      {
+        "mode": "On foot",
+        "text": "Fort district.",
+        "detail": "Go early."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–March",
+    "summary": "Colombo is hot and humid all year.",
+    "seasons": [
+      {
+        "season": "December–March",
+        "rating": "best",
+        "text": "Driest."
+      },
+      {
+        "season": "April–May",
+        "rating": "quiet",
+        "text": "Hot."
+      },
+      {
+        "season": "June–September",
+        "rating": "good",
+        "text": "Monsoon showers."
+      },
+      {
+        "season": "October–November",
+        "rating": "avoid",
+        "text": "Storms."
+      }
+    ],
+    "avoid": "October and November storms."
+  },
+  "itinerary": {
+    "title": "Two days in Colombo",
+    "intro": "Markets, temples and the sea.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old city",
+        "summary": "Fort and Pettah.",
+        "morning": "Fort and Pettah.",
+        "afternoon": "Gangaramaya Temple.",
+        "evening": "Galle Face Green."
+      },
+      {
+        "day": 2,
+        "title": "Modern Colombo",
+        "summary": "Food.",
+        "morning": "National Museum.",
+        "afternoon": "Lotus Tower.",
+        "evening": "Dinner."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Use PickMe.",
+    "Start early.",
+    "Dress modestly at temples.",
+    "Bring cash.",
+    "Beware of touts.",
+    "Try the street food carefully.",
+    "Allow traffic time to the airport."
+  ],
+  "faq": [
+    {
+      "q": "How many days in Colombo?",
+      "a": "One or two."
+    },
+    {
+      "q": "Is Colombo safe?",
+      "a": "Generally, with precautions."
+    },
+    {
+      "q": "What should I eat?",
+      "a": "Crab curry and kottu."
+    },
+    {
+      "q": "How far from the airport?",
+      "a": "About an hour."
+    },
+    {
+      "q": "Is it worth visiting?",
+      "a": "Yes, for a day."
+    },
+    {
+      "q": "When to go?",
+      "a": "December to March."
+    }
+  ],
+  "related": [
+    "galle",
+    "kandy",
+    "mirissa"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

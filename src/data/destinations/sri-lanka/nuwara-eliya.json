@@ -1,0 +1,311 @@
+{
+  "slug": "nuwara-eliya",
+  "name": "Nuwara Eliya and Horton Plains",
+  "shortName": "Nuwara Eliya",
+  "country": "sri-lanka",
+  "region": "Central Province, hill country",
+  "categories": ["mountains", "nature", "national-park", "scenic"],
+  "tagline": "Little England in the clouds, a cool hill town of tea estates, colonial cottages and a rim-of-the-world cliff at Horton Plains.",
+  "highlight": "Standing at World's End on the Horton Plains at dawn, before the mist rolls in, with a 870-metre drop at your feet.",
+  "shortDescription": "Sri Lanka's tea capital at 1,900 metres, with tea estate tours, colonial architecture, Gregory Lake and the Horton Plains' World's End and Baker's Falls.",
+  "metaDescription": "A Nuwara Eliya and Horton Plains travel guide: tea estate visits, Gregory Lake, colonial buildings, World's End and Baker's Falls hike, the scenic train, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Colombo Bandaranaike (CMB), about 6 hours by road",
+  "knownFor": "Tea estates, colonial charm, World's End",
+  "budget": "US$60–120 per day, mid-range",
+  "goodFor": "Tea lovers, hikers, cool weather, colonial history",
+  "coords": { "lat": 6.9497, "lng": 80.7891 },
+  "image": {
+    "file": "File:Tea-plantation Nuwara Eliya-2567.jpg",
+    "alt": "Green tea plantation slopes near Nuwara Eliya"
+  },
+  "intro": [
+    "Nuwara Eliya sits at about 1,900 metres in the central highlands, and its climate is cool and often misty, a relief after the heat of the plains. British planters founded a hill station here in the 19th century, and it still feels like an English village transplanted to the tropics, with Tudor-style cottages, a golf club, a racecourse and a post office in red brick. The area is the heart of Sri Lanka's tea country, and the highest-grown Ceylon teas are among the most delicate.",
+    "The surrounding hills are covered in tea bushes, tended by Tamil pickers, and estates such as Pedro, Mackwoods and Blue Field offer tours of the factory and tastings. Gregory Lake is popular for boat rides and picnics, and there are waterfalls close to the road. The town itself can be busy with weekend visitors and in April, when the season brings horse races and parties.",
+    "About 32 km away, Horton Plains National Park is a high grassland plateau of cloud forest, with a 9.5-km circular trail to World's End, a cliff dropping nearly 900 metres, and Baker's Falls. The walk should start at dawn, before the mist. The train from Kandy to Nuwara Eliya (via Nanu Oya) is a scenic journey through tea country."
+  ],
+  "whyVisit": {
+    "intro": "Nuwara Eliya is where you feel and taste Sri Lanka's tea heritage.",
+    "points": [
+      {
+        "title": "Tea estates",
+        "text": "Tours and tastings."
+      },
+      {
+        "title": "Horton Plains",
+        "text": "World's End cliff."
+      },
+      {
+        "title": "Colonial charm",
+        "text": "Cottages and gardens."
+      },
+      {
+        "title": "Cool air",
+        "text": "Relief from the heat."
+      },
+      {
+        "title": "The train",
+        "text": "Scenic hill-country line."
+      }
+    ]
+  },
+  "attractionsIntro": "Tea estates are near town; Horton Plains is a half-day trip.",
+  "attractions": [
+    {
+      "name": "Tea estates",
+      "image": {
+        "file": "File:Sri Lanka, Tea plantations, Nuwara Eliya, Picking tea leaves.jpg",
+        "alt": "Workers picking tea leaves on a hillside near Nuwara Eliya"
+      },
+      "text": "Estates with factories where you can watch leaf being withered, rolled and dried.",
+      "tip": "Visit in the morning."
+    },
+    {
+      "name": "Gregory Lake",
+      "image": {
+        "file": "File:Gregory Lake Nuwara Eliya 02.jpg",
+        "alt": "Gregory Lake in Nuwara Eliya with boats and hills behind"
+      },
+      "text": "An artificial lake for boating, picnics and horse riding.",
+      "tip": "Go on weekdays."
+    },
+    {
+      "name": "World's End, Horton Plains",
+      "image": {
+        "file": "File:Worlds end in horton plains in sri lanka.jpg",
+        "alt": "The sheer cliff drop at World's End in Horton Plains National Park"
+      },
+      "text": "A precipice with a sheer drop of about 870 metres, best seen at dawn before the mist.",
+      "tip": "Start at 6 am."
+    },
+    {
+      "name": "Baker's Falls",
+      "text": "A waterfall along the World's End loop.",
+      "tip": "Walk the circuit."
+    },
+    {
+      "name": "Victoria Park",
+      "text": "A garden with birds and flowers.",
+      "tip": "Good in April."
+    },
+    {
+      "name": "Colonial buildings",
+      "text": "The Grand Hotel, Hill Club and post office.",
+      "tip": "Take afternoon tea."
+    }
+  ],
+  "thingsToDoIntro": "This is a place for walks, tea and cool air.",
+  "thingsToDo": [
+    {
+      "title": "Tour a tea factory",
+      "text": "See the process.",
+      "tip": "Ask for a tasting."
+    },
+    {
+      "title": "Hike World's End",
+      "text": "Start at dawn.",
+      "tip": "Pay park fees."
+    },
+    {
+      "title": "Take afternoon tea",
+      "text": "At the Grand Hotel.",
+      "tip": "Dress smart."
+    },
+    {
+      "title": "Row on Gregory Lake",
+      "text": "Or ride a horse.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Ride the train",
+      "text": "From Kandy.",
+      "tip": "Book seats."
+    },
+    {
+      "title": "Visit the April season",
+      "text": "Races and events.",
+      "tip": "Book far ahead."
+    }
+  ],
+  "foodIntro": "Food here is colonial-tinged.",
+  "foods": [
+    {
+      "name": "Ceylon tea",
+      "text": "High-grown teas.",
+      "whereToTry": "Estates."
+    },
+    {
+      "name": "Strawberries and cream",
+      "text": "Local strawberries.",
+      "whereToTry": "Farm shops."
+    },
+    {
+      "name": "Rice and curry",
+      "text": "Hill country style.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Vegetables",
+      "text": "Carrots and leeks.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Scones and cakes",
+      "text": "Afternoon tea.",
+      "whereToTry": "Hotels."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose a colonial hotel or estate bungalow.",
+    "areas": [
+      {
+        "name": "Town centre",
+        "bestFor": "Convenience",
+        "text": "Hotels."
+      },
+      {
+        "name": "Tea estates",
+        "bestFor": "Atmosphere",
+        "text": "Planters' bungalows."
+      },
+      {
+        "name": "Near Horton Plains",
+        "bestFor": "Early starts",
+        "text": "Guesthouses."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$20–40 per night" },
+      { "label": "Mid-range hotel", "value": "US$60–130 per night" },
+      { "label": "Tea bungalow", "value": "US$150–350 per night" },
+      { "label": "Horton Plains ticket", "value": "About US$30 for foreigners (check)" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Nuwara Eliya is in the mountains.",
+    "options": [
+      {
+        "mode": "Train to Nanu Oya",
+        "text": "From Kandy, about 4 hours; then a 30-minute tuk-tuk.",
+        "detail": "Scenic."
+      },
+      {
+        "mode": "Car with driver",
+        "text": "About 3 hours from Kandy.",
+        "detail": "Winding."
+      },
+      {
+        "mode": "Bus",
+        "text": "From Kandy.",
+        "detail": "Crowded."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Tuk-tuks and walking.",
+    "options": [
+      {
+        "mode": "Tuk-tuk",
+        "text": "Around town.",
+        "detail": "Agree fares."
+      },
+      {
+        "mode": "Car",
+        "text": "To Horton Plains.",
+        "detail": "Book a driver."
+      },
+      {
+        "mode": "On foot",
+        "text": "Near the lake.",
+        "detail": "Bring a jacket."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "January–April",
+    "summary": "Nuwara Eliya is cool all year, with cold nights.",
+    "seasons": [
+      {
+        "season": "January–April",
+        "rating": "best",
+        "text": "Drier, with April events."
+      },
+      {
+        "season": "May–August",
+        "rating": "good",
+        "text": "Mist and showers."
+      },
+      {
+        "season": "September–October",
+        "rating": "quiet",
+        "text": "Showers."
+      },
+      {
+        "season": "November–December",
+        "rating": "avoid",
+        "text": "Wet and cold."
+      }
+    ],
+    "avoid": "The wet season for hiking."
+  },
+  "itinerary": {
+    "title": "Two days in Nuwara Eliya",
+    "intro": "Tea and cliffs.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Tea country",
+        "summary": "Estates.",
+        "morning": "Train from Kandy.",
+        "afternoon": "Tea estate tour.",
+        "evening": "Afternoon tea and dinner."
+      },
+      {
+        "day": 2,
+        "title": "Horton Plains",
+        "summary": "World's End.",
+        "morning": "Dawn hike to World's End.",
+        "afternoon": "Baker's Falls.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Bring warm clothes.",
+    "Start Horton Plains at dawn.",
+    "Book the train.",
+    "Pack a raincoat.",
+    "Buy tea at the estates.",
+    "Carry cash.",
+    "Avoid April weekends."
+  ],
+  "faq": [
+    {
+      "q": "How cold is Nuwara Eliya?",
+      "a": "Cool, and cold at night."
+    },
+    {
+      "q": "When to see World's End?",
+      "a": "Early morning."
+    },
+    {
+      "q": "How long is the hike?",
+      "a": "About 9.5 km."
+    },
+    {
+      "q": "Is it worth it?",
+      "a": "Yes."
+    },
+    {
+      "q": "How to get there?",
+      "a": "Train or car."
+    },
+    {
+      "q": "Can I buy tea?",
+      "a": "Yes at estates."
+    }
+  ],
+  "related": ["ella", "kandy", "yala"],
+  "relatedArticles": ["food-primer", "us-national-parks-road-trip"]
+}
