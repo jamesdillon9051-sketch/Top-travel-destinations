@@ -1,0 +1,314 @@
+{
+  "slug": "wroclaw",
+  "name": "Wrocław",
+  "country": "poland",
+  "region": "Lower Silesia, south-western Poland",
+  "categories": ["major-city", "historic", "cultural"],
+  "tagline": "A city of a hundred bridges on the Oder, with a colourful market square, a cathedral island and hundreds of tiny bronze gnomes hiding in the streets.",
+  "highlight": "Hunting for the city's little bronze gnomes across the colourful Market Square.",
+  "shortDescription": "A lively riverside city with a pastel Market Square, Ostrów Tumski cathedral island, the UNESCO-listed Centennial Hall, the Racławice Panorama and a trail of gnome statues.",
+  "metaDescription": "A Wrocław travel guide: the Market Square, Ostrów Tumski, Centennial Hall, the gnome trail, Racławice Panorama, Cathedral Island, food, where to stay, how to get there and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Wrocław Copernicus (WRO), about 30 minutes",
+  "knownFor": "Market Square, bridges, gnomes, student life",
+  "budget": "US$80–150 per day, mid-range",
+  "goodFor": "City breaks, families, nightlife, architecture",
+  "coords": { "lat": 51.1079, "lng": 17.0385 },
+  "image": {
+    "file": "File:2016 Wrocław, Rynek 49.jpg",
+    "alt": "Colourful townhouses on the Market Square in Wrocław"
+  },
+  "intro": [
+    "Wrocław is Poland's fourth-largest city, on the Oder river in the south-west, and it has been Bohemian, Austrian, Prussian and German (as Breslau) before becoming Polish after 1945. That layered past shows in its architecture. The Market Square, one of the largest in Poland, is surrounded by pastel gabled houses and a Gothic town hall, and behind it run cobbled streets and canals.",
+    "The city is built on islands and riverbanks, with about 100 bridges. Ostrów Tumski, the oldest part, is a quiet island of churches, gas lamps and a cathedral with two tall spires, and a lit-lantern-lighting ceremony each evening. South-east of the centre, the Centennial Hall, a pioneering concrete dome of 1913, is a UNESCO World Heritage Site.",
+    "Wrocław is also playful. Hundreds of small bronze gnomes hide around the streets, a legacy of a 1980s anti-communist art protest, and hunting for them is a popular activity. As a university city, it has lively bars, and it was European Capital of Culture in 2016. Two days is enough for the highlights."
+  ],
+  "whyVisit": {
+    "intro": "Wrocław is a fun, walkable city with pretty squares, islands and quirky charm.",
+    "points": [
+      {
+        "title": "A colourful square",
+        "text": "One of Poland's largest market squares."
+      },
+      {
+        "title": "Cathedral island",
+        "text": "Ostrów Tumski."
+      },
+      {
+        "title": "Gnome hunting",
+        "text": "Hundreds of bronze figures."
+      },
+      {
+        "title": "A UNESCO hall",
+        "text": "The Centennial Hall."
+      },
+      {
+        "title": "Student energy",
+        "text": "Bars and cafés."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are within a short walk of the Market Square.",
+  "attractions": [
+    {
+      "name": "Market Square (Rynek)",
+      "image": {
+        "file": "File:2016 Wrocław, Rynek 44 04.jpg",
+        "alt": "The Old Town Hall and colourful houses in Wrocław's Market Square"
+      },
+      "text": "A large square with a Gothic town hall, pastel houses and cafés, and the heart of city life.",
+      "tip": "Visit at night."
+    },
+    {
+      "name": "Ostrów Tumski",
+      "image": {
+        "file": "File:Ostrow Tumski, Wroclaw (P1180410).jpg",
+        "alt": "The cathedral and church spires of Ostrów Tumski on the Oder"
+      },
+      "text": "The oldest part of the city, an island with churches, a cathedral and gas lamps, lit by hand each evening.",
+      "tip": "Go at dusk."
+    },
+    {
+      "name": "Centennial Hall",
+      "image": {
+        "file": "File:Wroclaw - Hala Stulecia 03.jpg",
+        "alt": "The domed Centennial Hall in Wrocław"
+      },
+      "text": "A reinforced concrete dome completed in 1913, then the largest of its kind, and a UNESCO World Heritage Site, with a multimedia fountain nearby.",
+      "tip": "See the fountain show."
+    },
+    {
+      "name": "The gnomes",
+      "image": {
+        "file": "File:Zyczliwek the Gnome 1.jpg",
+        "alt": "A small bronze gnome statue in a Wrocław street"
+      },
+      "text": "Hundreds of tiny bronze gnomes, or krasnale, around the city, in doorways, on pavements and on lampposts.",
+      "tip": "Pick up a gnome map."
+    },
+    {
+      "name": "Racławice Panorama",
+      "text": "A giant circular painting of a 1794 battle, in a special rotunda.",
+      "tip": "Book a slot."
+    },
+    {
+      "name": "Wrocław Cathedral tower",
+      "text": "A tower with a city view.",
+      "tip": "Take the lift."
+    }
+  ],
+  "thingsToDoIntro": "Wrocław is for walking and gnome-spotting.",
+  "thingsToDo": [
+    {
+      "title": "Hunt for gnomes",
+      "text": "Follow a map and spot them.",
+      "tip": "Good for families."
+    },
+    {
+      "title": "Cruise the Oder",
+      "text": "River boats and canals.",
+      "tip": "Go in summer."
+    },
+    {
+      "title": "Visit the Botanical Garden",
+      "text": "A garden near Ostrów Tumski.",
+      "tip": "Free in parts."
+    },
+    {
+      "title": "See the fountain show",
+      "text": "At the Centennial Hall.",
+      "tip": "Evening."
+    },
+    {
+      "title": "Bar hop in Nadodrze",
+      "text": "A trendy district.",
+      "tip": "Go on weekends."
+    },
+    {
+      "title": "Visit the Zoo",
+      "text": "One of Poland's oldest zoos.",
+      "tip": "With children."
+    }
+  ],
+  "foodIntro": "Wrocław's food is Polish with Silesian and Lviv influences.",
+  "foods": [
+    {
+      "name": "Pierogi",
+      "text": "Dumplings.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Silesian dumplings (kluski śląskie)",
+      "text": "Potato dumplings with roulade.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Local breweries.",
+      "whereToTry": "Pubs."
+    },
+    {
+      "name": "Zapiekanka",
+      "text": "Toasted baguettes.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Cakes",
+      "text": "Poppy seed and cheesecake.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay near the Market Square.",
+    "areas": [
+      {
+        "name": "Old Town",
+        "bestFor": "Sightseeing",
+        "text": "Hotels and apartments."
+      },
+      {
+        "name": "Nadodrze",
+        "bestFor": "Nightlife",
+        "text": "Hostels."
+      },
+      {
+        "name": "Near the station",
+        "bestFor": "Transport",
+        "text": "Business hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$14–26 per night" },
+      { "label": "Mid-range hotel", "value": "US$65–130 per night" },
+      { "label": "Luxury hotel", "value": "US$160–300 per night" },
+      { "label": "Restaurant meal", "value": "US$8–18 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Wrocław is a rail and air hub.",
+    "options": [
+      {
+        "mode": "Train from Warsaw",
+        "text": "About 4 hours.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Train from Kraków",
+        "text": "About 3 to 3.5 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Flight",
+        "text": "Many low-cost routes.",
+        "detail": "Book early."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The centre is walkable.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The old town.",
+        "detail": "Comfortable shoes."
+      },
+      {
+        "mode": "Trams",
+        "text": "To Centennial Hall.",
+        "detail": "Buy tickets."
+      },
+      {
+        "mode": "Ride-hailing",
+        "text": "Cheap.",
+        "detail": "Bolt or Uber."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "Wrocław is warmer than most of Poland.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Mild."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Riverside life."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Golden."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Christmas market."
+      }
+    ],
+    "avoid": "Grey winter days."
+  },
+  "itinerary": {
+    "title": "Two days in Wrocław",
+    "intro": "The square, the island and the hall.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town",
+        "summary": "Square and gnomes.",
+        "morning": "Market Square.",
+        "afternoon": "Gnome hunt.",
+        "evening": "Ostrów Tumski lamp lighting."
+      },
+      {
+        "day": 2,
+        "title": "Beyond the centre",
+        "summary": "Dome and river.",
+        "morning": "Centennial Hall.",
+        "afternoon": "River cruise.",
+        "evening": "Nadodrze bars."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Get a gnome map.",
+    "Visit Ostrów Tumski at dusk.",
+    "Book the Panorama.",
+    "Use trams.",
+    "Bring a jacket.",
+    "Try local beers.",
+    "Watch pickpockets."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Wrocław?",
+      "a": "Two."
+    },
+    {
+      "q": "What are the gnomes?",
+      "a": "Small bronze statues placed around the city."
+    },
+    {
+      "q": "Is Wrocław worth visiting?",
+      "a": "Yes."
+    },
+    {
+      "q": "How far from Kraków?",
+      "a": "About three hours by train."
+    },
+    {
+      "q": "Is it cheap?",
+      "a": "Yes."
+    },
+    {
+      "q": "What is Ostrów Tumski?",
+      "a": "The oldest part of the city."
+    }
+  ],
+  "related": ["krakow", "poznan", "warsaw"],
+  "relatedArticles": ["unesco-worth-planning-around", "first-trip-to-europe"]
+}

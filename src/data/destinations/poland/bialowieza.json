@@ -1,0 +1,307 @@
+{
+  "slug": "bialowieza",
+  "name": "Białowieża Forest",
+  "shortName": "Białowieża",
+  "country": "poland",
+  "region": "Podlaskie, eastern Poland",
+  "categories": ["national-park", "nature", "unesco", "off-the-beaten-path"],
+  "tagline": "One of the last primeval lowland forests in Europe, home to the continent's largest land animal, the European bison.",
+  "highlight": "Watching a European bison emerge from the mist in the forest.",
+  "shortDescription": "A UNESCO-listed ancient forest on the Belarus border, with European bison, old oaks, guided walks, horse-drawn carts and a quiet village with wooden houses.",
+  "metaDescription": "A Białowieża Forest travel guide: European bison, the strictly protected zone, guided walks, the Bison Show Reserve, wooden houses, birdwatching, how to get there, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Warsaw Chopin (WAW), about 3–4 hours by road; Białystok train and bus",
+  "knownFor": "European bison, ancient forest, birdwatching",
+  "budget": "US$70–130 per day, mid-range",
+  "goodFor": "Wildlife, nature lovers, birdwatchers, quiet travel",
+  "coords": { "lat": 52.7000, "lng": 23.8667 },
+  "image": {
+    "file": "File:Bialowieza National Park in Poland0029.JPG",
+    "alt": "Ancient trees in Białowieża National Park"
+  },
+  "intro": [
+    "Białowieża Forest straddles the border between Poland and Belarus, and is one of the last and largest remaining parts of the primeval forest that once covered the European plain. It is a UNESCO World Heritage Site, and its oaks, hornbeams and spruces, some over 400 years old, grow among fallen logs and mossy ground that have been left to rot naturally for centuries.",
+    "The forest's flagship animal is the European bison, the wisent, the heaviest land mammal in Europe. It was hunted to extinction in the wild by 1919, and was reintroduced from zoo animals here, and today about 800 live in the forest on the Polish side. Also present are wolves, lynx, elk, red deer, and many rare birds and beetles, and the forest is a prime birdwatching site for woodpeckers and owls.",
+    "The strictly protected core of Białowieża National Park can only be visited with a licensed guide, on foot or in a horse-drawn cart, while wider areas can be explored independently. The village of Białowieża has wooden houses, guesthouses and a palace park. It is remote, about four hours from Warsaw, and the best visits are two days in late spring or autumn."
+  ],
+  "whyVisit": {
+    "intro": "Białowieża is a rare chance to see a real ancient forest and Europe's largest land mammal.",
+    "points": [
+      {
+        "title": "Primeval forest",
+        "text": "Old-growth woods."
+      },
+      {
+        "title": "European bison",
+        "text": "Wild herds."
+      },
+      {
+        "title": "Birds and wildlife",
+        "text": "Owls, woodpeckers and wolves."
+      },
+      {
+        "title": "Quiet villages",
+        "text": "Wooden houses."
+      },
+      {
+        "title": "Peace",
+        "text": "Far from the crowds."
+      }
+    ]
+  },
+  "attractionsIntro": "Most visits combine guided walks in the strict reserve with independent trails.",
+  "attractions": [
+    {
+      "name": "Białowieża National Park strict reserve",
+      "image": {
+        "file": "File:Bialowieza National Park in Poland0012.JPG",
+        "alt": "Old-growth forest inside Białowieża National Park"
+      },
+      "text": "The oldest, most pristine part of the forest, visited only with a guide, with ancient oaks and dead wood left in place.",
+      "tip": "Book a guide in advance."
+    },
+    {
+      "name": "European bison",
+      "image": {
+        "file": "File:European bison (Bison bonasus) male Białowieza.jpg",
+        "alt": "A male European bison standing in the Białowieża Forest"
+      },
+      "text": "The wisent, Europe's biggest land animal. Wild sightings are possible but not certain.",
+      "tip": "Go early morning or dusk."
+    },
+    {
+      "name": "Bison Show Reserve",
+      "text": "An enclosure where you can see bison, elk, wolves and other animals for certain.",
+      "tip": "A good fallback."
+    },
+    {
+      "name": "Palace Park",
+      "text": "A landscaped park with old trees and a museum, on the site of a former tsarist hunting lodge.",
+      "tip": "Free to walk."
+    },
+    {
+      "name": "Royal Oaks Route",
+      "text": "A trail among giant oaks.",
+      "tip": "Bring a guide."
+    },
+    {
+      "name": "Bison Trail (Żubr)",
+      "text": "A hiking route in the forest.",
+      "tip": "Wear boots."
+    }
+  ],
+  "thingsToDoIntro": "Visits are about the forest.",
+  "thingsToDo": [
+    {
+      "title": "Take a guided walk",
+      "text": "Enter the strict reserve.",
+      "tip": "Book a licensed guide."
+    },
+    {
+      "title": "Ride a horse cart",
+      "text": "A traditional way to see the forest.",
+      "tip": "A relaxing option."
+    },
+    {
+      "title": "Watch birds",
+      "text": "Look for owls and woodpeckers.",
+      "tip": "Go at dawn."
+    },
+    {
+      "title": "Cycle the trails",
+      "text": "Forest paths.",
+      "tip": "Hire a bike."
+    },
+    {
+      "title": "Visit the museum",
+      "text": "Learn about the forest.",
+      "tip": "Rainy days."
+    },
+    {
+      "title": "Try local food",
+      "text": "Regional dishes.",
+      "tip": "Ask for local honey."
+    }
+  ],
+  "foodIntro": "Local food is simple and eastern Polish, with Belarusian influence.",
+  "foods": [
+    {
+      "name": "Kartacze",
+      "text": "Potato dumplings stuffed with meat.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Babka ziemniaczana",
+      "text": "A baked potato cake.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Local honey and mead",
+      "text": "From nearby apiaries.",
+      "whereToTry": "Shops."
+    },
+    {
+      "name": "Żubrówka bison-grass vodka",
+      "text": "Vodka flavoured with bison grass.",
+      "whereToTry": "Bars."
+    },
+    {
+      "name": "Forest mushrooms",
+      "text": "Autumn dishes.",
+      "whereToTry": "Restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Białowieża village.",
+    "areas": [
+      {
+        "name": "Białowieża village",
+        "bestFor": "Convenience",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Forest lodges",
+        "bestFor": "Nature",
+        "text": "Cabins."
+      },
+      {
+        "name": "Hajnówka",
+        "bestFor": "Transport",
+        "text": "Small hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$30–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$60–110 per night" },
+      { "label": "Guided walk", "value": "US$15–40 per person" },
+      { "label": "Meal", "value": "US$7–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Białowieża is remote, and usually reached via Białystok or Hajnówka.",
+    "options": [
+      {
+        "mode": "Train to Hajnówka, then bus",
+        "text": "From Warsaw, about 4 to 5 hours in total.",
+        "detail": "Check schedules."
+      },
+      {
+        "mode": "Drive from Warsaw",
+        "text": "About 3.5 to 4 hours.",
+        "detail": "Good roads."
+      },
+      {
+        "mode": "Bus from Białystok",
+        "text": "About 2 hours.",
+        "detail": "Limited."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The village is small, and trails start nearby.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "In the village.",
+        "detail": "Good boots."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Rentals.",
+        "detail": "Flat."
+      },
+      {
+        "mode": "Horse cart or car",
+        "text": "For distances.",
+        "detail": "Book."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September–October",
+    "summary": "The forest is lovely in spring and autumn, and bison are active at dawn.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Birdsong and greenery."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Lush, but with mosquitoes."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Colour and the bison rut."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Snowy, with bison easier to see."
+      }
+    ],
+    "avoid": "Midsummer if you dislike insects."
+  },
+  "itinerary": {
+    "title": "Two days in Białowieża",
+    "intro": "The reserve and the wildlife.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The strict reserve",
+        "summary": "Ancient forest.",
+        "morning": "Guided walk.",
+        "afternoon": "Palace Park.",
+        "evening": "Dinner in the village."
+      },
+      {
+        "day": 2,
+        "title": "Bison",
+        "summary": "Wildlife.",
+        "morning": "Dawn wildlife watching.",
+        "afternoon": "Bison Show Reserve.",
+        "evening": "Return."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book a guide early.",
+    "Bring insect repellent in summer.",
+    "Wear boots.",
+    "Go at dawn.",
+    "Respect the rules.",
+    "Do not approach bison.",
+    "Check border area rules."
+  ],
+  "faq": [
+    {
+      "q": "Can I see bison?",
+      "a": "Often but not always. The Show Reserve is a sure option."
+    },
+    {
+      "q": "Do I need a guide?",
+      "a": "Yes for the strict reserve."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "Train or bus via Hajnówka, or drive."
+    },
+    {
+      "q": "Is it safe near the border?",
+      "a": "Yes, but check current advice, since the Belarus border area has restrictions."
+    },
+    {
+      "q": "How many days?",
+      "a": "Two."
+    },
+    {
+      "q": "When is the best time?",
+      "a": "Spring and autumn."
+    }
+  ],
+  "related": ["warsaw", "torun", "krakow"],
+  "relatedArticles": ["underrated-destinations", "us-national-parks-road-trip"]
+}

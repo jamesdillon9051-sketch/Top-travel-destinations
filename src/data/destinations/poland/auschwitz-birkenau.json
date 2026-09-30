@@ -1,0 +1,298 @@
+{
+  "slug": "auschwitz-birkenau",
+  "name": "Auschwitz-Birkenau",
+  "country": "poland",
+  "region": "Lesser Poland, Oświęcim",
+  "categories": ["historic", "unesco", "cultural"],
+  "tagline": "The former Nazi German concentration and extermination camp, preserved as a memorial and museum to the victims of the Holocaust.",
+  "highlight": "Standing at the gate of Birkenau, a place that asks visitors to remember and reflect.",
+  "shortDescription": "The Auschwitz-Birkenau Memorial and Museum, a UNESCO World Heritage Site near Kraków, where over a million people, most of them Jews, were murdered between 1940 and 1945.",
+  "metaDescription": "An Auschwitz-Birkenau visitor guide: history, how to book tickets and guided tours, what to see at Auschwitz I and Birkenau, rules and etiquette, how to get there from Kraków and a half-day plan.",
+  "suggestedStay": "Half a day",
+  "nearestAirport": "Kraków John Paul II (KRK), about 1.5 hours by road",
+  "knownFor": "Holocaust memorial and museum",
+  "budget": "US$30–80 for a guided visit, plus transport",
+  "goodFor": "Reflection, education, understanding history",
+  "coords": { "lat": 50.0343, "lng": 19.1784 },
+  "image": {
+    "file": "File:Gatehouse Auschwitz II (Birkenau), Poland.jpg",
+    "alt": "The gatehouse of Auschwitz II-Birkenau with railway tracks entering"
+  },
+  "intro": [
+    "Auschwitz-Birkenau was the largest of the Nazi German concentration and extermination camps. Established in 1940 by Germany in occupied Poland, near the town of Oświęcim, it became the main site of the Holocaust: about 1.1 million people were murdered here, roughly one million of them Jews from across Europe, along with Polish prisoners, Roma and Sinti, Soviet prisoners of war and others. The camp was liberated by the Red Army on 27 January 1945.",
+    "Today the site is the Auschwitz-Birkenau State Museum, a memorial and a UNESCO World Heritage Site. It has two main parts: Auschwitz I, the original camp of brick barracks, with exhibitions in preserved blocks and the gate with the words 'Arbeit macht frei', and Birkenau, 3 km away, a vast site with railway tracks, ruined gas chambers and rows of surviving barracks. Visitors come to bear witness, and to learn.",
+    "A visit is emotionally demanding, and it deserves preparation. Entry is by timed ticket and usually with a guided tour, which lasts about 3.5 hours, and it is not suitable for children under 14. It is best treated as a memorial rather than an attraction, with quiet, respect and time afterwards to reflect."
+  ],
+  "whyVisit": {
+    "intro": "A visit is not enjoyable, but many people find it one of the most important things they do in Europe.",
+    "points": [
+      {
+        "title": "Bearing witness",
+        "text": "To the scale of the Holocaust."
+      },
+      {
+        "title": "Understanding history",
+        "text": "Through the exhibitions and guides."
+      },
+      {
+        "title": "A UNESCO memorial",
+        "text": "Preserved as a warning."
+      },
+      {
+        "title": "Educational guides",
+        "text": "Trained museum educators."
+      },
+      {
+        "title": "Close to Kraków",
+        "text": "About 1.5 hours away."
+      }
+    ]
+  },
+  "attractionsIntro": "The memorial has two sites, linked by a shuttle bus.",
+  "attractions": [
+    {
+      "name": "Auschwitz I",
+      "image": {
+        "file": "File:The arbeit macht frei gate in Auschwitz I.jpg",
+        "alt": "The gate of Auschwitz I with its iron sign above the entrance"
+      },
+      "text": "The original camp, with brick barracks that now house exhibitions on the history of the camp, the victims and the perpetrators, including personal belongings.",
+      "tip": "Take the guided tour."
+    },
+    {
+      "name": "Auschwitz II-Birkenau",
+      "image": {
+        "file": "File:Auschwitz II German concentration camp selection ramp 2016 P11.jpg",
+        "alt": "The selection ramp at Birkenau with railway tracks"
+      },
+      "text": "The vast extermination camp, with the railway ramp, ruins of the gas chambers, the memorial monument and surviving barracks.",
+      "tip": "Wear comfortable shoes and bring water."
+    },
+    {
+      "name": "The exhibitions",
+      "text": "Permanent exhibitions in blocks, including national exhibitions and the display of victims' belongings.",
+      "tip": "Photography is limited in some blocks."
+    },
+    {
+      "name": "The International Monument",
+      "text": "A memorial at Birkenau with plaques in the languages of the victims.",
+      "tip": "Take a moment of silence."
+    },
+    {
+      "name": "The Auschwitz Jewish Center",
+      "text": "A museum and synagogue in the town of Oświęcim.",
+      "tip": "Optional addition."
+    },
+    {
+      "name": "Oświęcim town",
+      "text": "The town outside the camp, with a Jewish history before the war.",
+      "tip": "Stay respectful."
+    }
+  ],
+  "thingsToDoIntro": "A visit is a serious experience.",
+  "thingsToDo": [
+    {
+      "title": "Book a guided tour",
+      "text": "Educators lead groups through both sites.",
+      "tip": "Book weeks in advance."
+    },
+    {
+      "title": "Take the shuttle",
+      "text": "Between Auschwitz I and Birkenau.",
+      "tip": "Included in tours."
+    },
+    {
+      "title": "Visit early or late",
+      "text": "Crowds are smaller.",
+      "tip": "Book the first slot."
+    },
+    {
+      "title": "Read beforehand",
+      "text": "Survivor testimonies such as Primo Levi.",
+      "tip": "Prepare emotionally."
+    },
+    {
+      "title": "Allow time afterwards",
+      "text": "Do not schedule anything intense.",
+      "tip": "Take a quiet evening."
+    },
+    {
+      "title": "Combine with Kraków's Jewish quarter",
+      "text": "To see the wider story.",
+      "tip": "Visit Kazimierz."
+    }
+  ],
+  "foodIntro": "There is a cafeteria at the museum, but most visitors eat in Kraków.",
+  "foods": [
+    {
+      "name": "Museum cafeteria",
+      "text": "Simple meals and snacks.",
+      "whereToTry": "At the visitor centre."
+    },
+    {
+      "name": "Kraków restaurants",
+      "text": "Polish and Jewish-style food.",
+      "whereToTry": "Kazimierz."
+    },
+    {
+      "name": "Packed lunch",
+      "text": "Food cannot be eaten inside.",
+      "whereToTry": "Bring a snack."
+    },
+    {
+      "name": "Water",
+      "text": "Bring water, especially in summer.",
+      "whereToTry": "At the entrance."
+    },
+    {
+      "name": "Coffee",
+      "text": "Available at the visitor centre.",
+      "whereToTry": "The cafeteria."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors stay in Kraków.",
+    "areas": [
+      {
+        "name": "Kraków",
+        "bestFor": "All services",
+        "text": "Hotels and hostels."
+      },
+      {
+        "name": "Oświęcim",
+        "bestFor": "Early entry",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Wieliczka",
+        "bestFor": "Quiet",
+        "text": "Small hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Guided tour ticket", "value": "US$20–45 per person" },
+      { "label": "Return transfer from Kraków", "value": "US$15–40 per person" },
+      { "label": "Kraków hotel", "value": "US$70–140 per night" },
+      { "label": "Lunch in Kraków", "value": "US$8–15" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Auschwitz is about 65 km west of Kraków.",
+    "options": [
+      {
+        "mode": "Organised tour",
+        "text": "Coach transfers and guides from Kraków, about 6 to 8 hours in total.",
+        "detail": "Simple and popular."
+      },
+      {
+        "mode": "Bus",
+        "text": "Regular buses from Kraków take about 1.5 hours.",
+        "detail": "Book an entry slot."
+      },
+      {
+        "mode": "Train",
+        "text": "From Kraków to Oświęcim, then a local bus.",
+        "detail": "Slower."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A shuttle links the two sites.",
+    "options": [
+      {
+        "mode": "Museum shuttle",
+        "text": "Between Auschwitz I and Birkenau.",
+        "detail": "Included."
+      },
+      {
+        "mode": "On foot",
+        "text": "Within each site.",
+        "detail": "Wear comfortable shoes."
+      },
+      {
+        "mode": "Taxi",
+        "text": "From Oświęcim.",
+        "detail": "Agree a fare."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–May and September–October",
+    "summary": "The site is open all year, and the atmosphere is heavy whatever the weather.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Mild and smaller crowds."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Busy and hot."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Calm."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold and quiet, and the atmosphere is stark."
+      }
+    ],
+    "avoid": "Peak July and August, and 27 January, the anniversary of liberation, when there are ceremonies."
+  },
+  "itinerary": {
+    "title": "A half-day visit",
+    "intro": "A guided tour from Kraków.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Auschwitz-Birkenau",
+        "summary": "A guided visit.",
+        "morning": "Transfer from Kraków and tour Auschwitz I.",
+        "afternoon": "Shuttle to Birkenau, then return.",
+        "evening": "A quiet evening."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you prepare.",
+  "tips": [
+    "Book tickets weeks ahead, directly from the museum.",
+    "Take the guided tour.",
+    "Dress respectfully and quietly.",
+    "Bring ID, and expect security checks.",
+    "Do not take large bags.",
+    "Not suitable for children under 14.",
+    "Do not pose for selfies or treat it as a photo opportunity."
+  ],
+  "faq": [
+    {
+      "q": "How long does a visit take?",
+      "a": "About 3.5 hours for a guided tour."
+    },
+    {
+      "q": "Can I visit without a guide?",
+      "a": "Yes at certain times, but book a slot online."
+    },
+    {
+      "q": "Is it free?",
+      "a": "Entry without a guide is free at certain hours, though a ticket is still needed. Guided tours cost money."
+    },
+    {
+      "q": "Are children allowed?",
+      "a": "It is not recommended for those under 14."
+    },
+    {
+      "q": "Can I take photos?",
+      "a": "Yes in most places, but not in some rooms. Be respectful."
+    },
+    {
+      "q": "How far is it from Kraków?",
+      "a": "About 65 km, or 1.5 hours."
+    }
+  ],
+  "related": ["krakow", "zakopane-tatras", "warsaw"],
+  "relatedArticles": ["unesco-worth-planning-around", "first-trip-to-europe"]
+}

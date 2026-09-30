@@ -1,0 +1,135 @@
+{
+  "country": "poland",
+  "title": "The Complete Poland Travel Guide",
+  "subtitle": "How the country divides, how to choose between the ten destinations, how to use its trains, and what two weeks can realistically hold.",
+  "summary": "Poland combines rebuilt medieval cities, mountains, a Baltic coast and profound history at low prices. This guide covers how the regions divide, how to choose between the ten destinations, how to get around, when to go, what it costs and three routes that work.",
+  "readingTime": "12 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Which Polish cities should a first-timer see?",
+      "a": "Kraków and Warsaw are the essentials, and Gdańsk adds the Baltic coast. Wrocław and Poznań are excellent if you have more time."
+    },
+    {
+      "q": "Is it easy to travel by train?",
+      "a": "Yes. Express trains link the main cities in two to four hours and are cheap. Book online in advance for the best fares."
+    },
+    {
+      "q": "How far ahead should I book Auschwitz?",
+      "a": "Several weeks in summer. Entry is by timed ticket, and slots sell out."
+    },
+    {
+      "q": "Is Poland good in winter?",
+      "a": "It is cold, but Christmas markets and skiing in the Tatras are big draws, and prices are lower."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-poland-divides",
+      "title": "How Poland divides",
+      "navLabel": "The regions",
+      "body": [
+        "Poland is about 700 km across, and it falls into five zones for a visitor.",
+        "**The south.** [[krakow|Kraków]] is the heart of tourism, with [[auschwitz-birkenau|Auschwitz-Birkenau]] nearby and the [[zakopane-tatras|Tatras]] to the south.",
+        "**The south-west.** [[wroclaw|Wrocław]] is a lively riverside city of bridges and gnomes.",
+        "**The centre and west.** [[warsaw|Warsaw]], the capital, and [[poznan|Poznań]] have rebuilt old towns and a modern energy.",
+        "**The north.** [[gdansk|Gdańsk]] on the Baltic, with [[torun|Toruń]] and [[malbork|Malbork Castle]] nearby.",
+        "**The east.** [[bialowieza|Białowieża]] preserves an ancient forest and its bison."
+      ],
+      "note": "The practical route is a loop, Kraków to Wrocław to Warsaw to Gdańsk, using fast trains."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[krakow|Kraków]] with [[auschwitz-birkenau|Auschwitz]], then [[warsaw|Warsaw]] by train."
+        },
+        {
+          "title": "If you love history",
+          "text": "[[krakow|Kraków]], [[warsaw|Warsaw]], [[gdansk|Gdańsk]] and [[malbork|Malbork]] cover the medieval to the modern."
+        },
+        {
+          "title": "If you love the outdoors",
+          "text": "[[zakopane-tatras|The Tatras]] for mountains and [[bialowieza|Białowieża]] for forest and bison."
+        },
+        {
+          "title": "If you love cities and nightlife",
+          "text": "[[wroclaw|Wrocław]], [[poznan|Poznań]] and [[gdansk|Gdańsk]] all have student energy and good bars."
+        },
+        {
+          "title": "If you like fairy-tale towns",
+          "text": "[[torun|Toruń]] has a gingerbread tradition and a medieval core, and [[malbork|Malbork]] has the huge brick castle."
+        },
+        {
+          "title": "If you want a reflective visit",
+          "text": "[[auschwitz-birkenau|Auschwitz-Birkenau]] and [[warsaw|Warsaw's]] Jewish and uprising museums tell the story of the war."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around",
+      "navLabel": "Getting around",
+      "body": [
+        "Poland's rail network is good on main lines and cheap.",
+        "**Express trains.** Intercity and EIP trains link Kraków, Warsaw, Gdańsk, Wrocław and Poznań. Reserve in advance.",
+        "**Regional trains and buses.** Serve smaller towns. Buses are best for Zakopane.",
+        "**Ride-hailing.** Uber and Bolt are cheap.",
+        "**Cars.** Useful for [[bialowieza|Białowieża]] and the countryside."
+      ],
+      "note": "Validate tickets when boarding trams and buses, or risk a fine."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Poland has four seasons, and the shoulder months are the best value.",
+        "April and May are spring, mild and green.",
+        "June to August is summer, warm, with festivals, beaches and mountain hikes. Prices peak.",
+        "September and October are autumn, golden and calm.",
+        "November to March is winter, cold and grey, with Christmas markets and skiing near [[zakopane-tatras|Zakopane]]."
+      ],
+      "note": "Snow can stay in the Tatras until June."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Poland is very good value. A restaurant meal costs US$8–20, a mid-range hotel US$70–130, and a long-distance train ticket US$10–30.",
+        "Cards are widely accepted. Tipping about 10% is normal in restaurants.",
+        "Crime is low. Keep an eye out for pickpockets in crowded places.",
+        "Shops often close on Sundays, so plan your shopping."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: Kraków and Warsaw",
+          "text": "Four nights in [[krakow|Kraków]] with a day at [[auschwitz-birkenau|Auschwitz]], then three in [[warsaw|Warsaw]].",
+          "tip": "Take the express train between them."
+        },
+        {
+          "title": "Ten days: adding the coast",
+          "text": "The one-week route, then [[gdansk|Gdańsk]] for three nights with a trip to [[malbork|Malbork]].",
+          "tip": "Book trains early."
+        },
+        {
+          "title": "Two weeks: the classic",
+          "text": "The itinerary on the country page: Kraków, the Tatras, Wrocław, Poznań, Warsaw, Toruń and Gdańsk.",
+          "tip": "Swap Poznań for [[bialowieza|Białowieża]] if you love nature."
+        }
+      ]
+    }
+  ]
+}

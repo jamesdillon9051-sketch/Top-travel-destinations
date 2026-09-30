@@ -1,0 +1,319 @@
+{
+  "slug": "zakopane-tatras",
+  "name": "Zakopane and the Tatras",
+  "shortName": "Zakopane",
+  "country": "poland",
+  "region": "Lesser Poland, Tatra Mountains",
+  "categories": ["mountains", "national-park", "nature", "scenic"],
+  "tagline": "Poland's alpine capital, a town of carved wooden villas at the foot of jagged peaks, with turquoise lakes, cable cars and highland cheese.",
+  "highlight": "Morskie Oko, a glacial lake ringed by granite peaks, reached by an easy walk from the road.",
+  "shortDescription": "The gateway to the Polish Tatras, with the carved-wood Zakopane style, Morskie Oko lake, the Kasprowy Wierch cable car, Giewont, hiking, skiing and smoked oscypek cheese.",
+  "metaDescription": "A Zakopane and Tatras travel guide: Morskie Oko, Giewont, Kasprowy Wierch, Krupówki street, wooden architecture, hiking, skiing, oscypek cheese, where to stay, how to get there and a two-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Kraków (KRK), about 2 hours by road",
+  "knownFor": "Tatra Mountains, Morskie Oko, wooden architecture, skiing",
+  "budget": "US$80–150 per day, mid-range",
+  "goodFor": "Hiking, skiing, mountain scenery, families",
+  "coords": { "lat": 49.2992, "lng": 19.9496 },
+  "image": {
+    "file": "File:Morskie Oko 2019.jpg",
+    "alt": "The lake Morskie Oko with the Tatra peaks reflected in its water"
+  },
+  "intro": [
+    "The Tatras are the highest mountain range in the Carpathians and the only truly alpine range in Poland, forming a natural border with Slovakia. Jagged granite peaks rise to 2,499 metres at Rysy, above deep valleys, glacial lakes and pine forests, and most of the Polish side is a national park. Zakopane, at the foot, is the region's unofficial capital.",
+    "The town has its own architecture and culture. In the late 19th century, artists developed the Zakopane Style, a fanciful wooden architecture with carved gables that is visible in villas and churches such as the small chapel at Jaszczurówka. The highland (górale) people have their own music, costumes and food, above all oscypek, a smoked sheep's cheese grilled and served with cranberry jam. Krupówki, the main pedestrian street, is a busy line of shops and restaurants.",
+    "In summer, people come to hike: the trail to Morskie Oko, Poland's most famous lake, is a wide road that is easy for families, and harder routes climb to Giewont, with its cross, or to the ridge. A cable car goes up to Kasprowy Wierch for high views, and in winter Zakopane is Poland's ski capital. Two or three days is a good stay."
+  ],
+  "whyVisit": {
+    "intro": "Zakopane is Poland's mountain playground, with scenery and a distinct highland culture.",
+    "points": [
+      {
+        "title": "Alpine peaks",
+        "text": "The Tatras' granite ridges."
+      },
+      {
+        "title": "Morskie Oko",
+        "text": "A postcard glacial lake."
+      },
+      {
+        "title": "Wooden architecture",
+        "text": "The Zakopane Style."
+      },
+      {
+        "title": "Highland food",
+        "text": "Oscypek and grilled meats."
+      },
+      {
+        "title": "Skiing",
+        "text": "Winter sports in the mountains."
+      }
+    ]
+  },
+  "attractionsIntro": "The town is the base, and the mountains are a short bus ride away.",
+  "attractions": [
+    {
+      "name": "Morskie Oko",
+      "image": {
+        "file": "File:Morskie Oko o poranku.jpg",
+        "alt": "Morskie Oko lake in the early morning light"
+      },
+      "text": "A glacial lake at 1,395 metres, ringed by peaks, reached by a 9-km road walk from Palenica Białczańska.",
+      "tip": "Go early, since the road gets crowded."
+    },
+    {
+      "name": "Giewont",
+      "image": {
+        "file": "File:Giewont w Tatrach, 20210906 1111 2356.jpg",
+        "alt": "The Giewont mountain, known as the Sleeping Knight, above Zakopane"
+      },
+      "text": "A mountain topped with a steel cross whose profile looks like a sleeping knight, reached by a demanding hike.",
+      "tip": "Avoid storms; the summit is exposed."
+    },
+    {
+      "name": "Krupówki Street",
+      "image": {
+        "file": "File:2024 Zakopane Krupówki, 1.jpg",
+        "alt": "The pedestrian street Krupówki in Zakopane lined with shops"
+      },
+      "text": "The main pedestrian street, lined with shops, restaurants and stalls selling oscypek and highland goods.",
+      "tip": "Best in the evening."
+    },
+    {
+      "name": "Jaszczurówka Chapel",
+      "image": {
+        "file": "File:Jaszczurowka I.jpg",
+        "alt": "The wooden Jaszczurówka chapel in the Zakopane Style"
+      },
+      "text": "A small wooden chapel of 1907 that is a masterpiece of the Zakopane Style.",
+      "tip": "Walk from the town."
+    },
+    {
+      "name": "Kasprowy Wierch",
+      "text": "A cable car to a 1,987-metre summit on the Slovak border, with big views.",
+      "tip": "Book in summer."
+    },
+    {
+      "name": "Rysy",
+      "image": {
+        "file": "File:Tatra Rysy 5.jpg",
+        "alt": "The peak of Rysy in the High Tatras"
+      },
+      "text": "Poland's highest peak at 2,499 metres, a serious hike for experienced walkers.",
+      "tip": "Only in summer, with good weather."
+    }
+  ],
+  "thingsToDoIntro": "Zakopane is for hiking and highland culture.",
+  "thingsToDo": [
+    {
+      "title": "Walk to Morskie Oko",
+      "text": "An easy road walk to a famous lake.",
+      "tip": "Start early."
+    },
+    {
+      "title": "Take the Kasprowy cable car",
+      "text": "See the ridge from above.",
+      "tip": "Buy tickets in advance."
+    },
+    {
+      "title": "Eat grilled oscypek",
+      "text": "With cranberry jam.",
+      "tip": "At street stalls."
+    },
+    {
+      "title": "Ski in winter",
+      "text": "Runs near the town.",
+      "tip": "Book equipment."
+    },
+    {
+      "title": "Soak in the thermal baths",
+      "text": "Hot pools with mountain views.",
+      "tip": "Good after hiking."
+    },
+    {
+      "title": "Explore Gubałówka",
+      "text": "A hill reached by funicular.",
+      "tip": "Go at sunset."
+    }
+  ],
+  "foodIntro": "Highland food is smoky and hearty.",
+  "foods": [
+    {
+      "name": "Oscypek",
+      "text": "Smoked sheep's cheese, grilled.",
+      "whereToTry": "Krupówki stalls."
+    },
+    {
+      "name": "Kwaśnica",
+      "text": "Sauerkraut soup with ribs.",
+      "whereToTry": "Highland restaurants."
+    },
+    {
+      "name": "Moskole",
+      "text": "Potato flatbreads.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Mulled wine and beer",
+      "text": "Warming drinks.",
+      "whereToTry": "Mountain huts."
+    },
+    {
+      "name": "Grilled lamb",
+      "text": "Highland barbecue.",
+      "whereToTry": "Górale restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Zakopane.",
+    "areas": [
+      {
+        "name": "Near Krupówki",
+        "bestFor": "Convenience",
+        "text": "Hotels."
+      },
+      {
+        "name": "Quiet suburbs",
+        "bestFor": "Peace",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Kuźnice",
+        "bestFor": "Trails",
+        "text": "Close to lifts."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$14–28 per night" },
+      { "label": "Mid-range hotel", "value": "US$60–130 per night" },
+      { "label": "Luxury hotel", "value": "US$150–300 per night" },
+      { "label": "Meal at a highland restaurant", "value": "US$8–18 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Zakopane is reached by bus or minibus from Kraków.",
+    "options": [
+      {
+        "mode": "Bus from Kraków",
+        "text": "About 2 to 2.5 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train from Kraków",
+        "text": "About 3 to 4 hours.",
+        "detail": "Slower."
+      },
+      {
+        "mode": "Car",
+        "text": "About 2 hours, with heavy traffic in peak times.",
+        "detail": "Avoid weekends."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Buses and minibuses cover the area.",
+    "options": [
+      {
+        "mode": "Minibus",
+        "text": "To trailheads.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "On foot",
+        "text": "In town.",
+        "detail": "Walk."
+      },
+      {
+        "mode": "Taxi",
+        "text": "To Palenica Białczańska.",
+        "detail": "Agree the fare."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June–September and December–March",
+    "summary": "Summer suits hikers and winter suits skiers.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "quiet",
+        "text": "Thaw, with high trails closed."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Hiking."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Golden light."
+      },
+      {
+        "season": "Winter (December–March)",
+        "rating": "good",
+        "text": "Skiing."
+      }
+    ],
+    "avoid": "November and April, when trails are icy or wet."
+  },
+  "itinerary": {
+    "title": "Two days in Zakopane",
+    "intro": "A lake day and a town day.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Morskie Oko",
+        "summary": "The lake.",
+        "morning": "Walk to Morskie Oko.",
+        "afternoon": "Return by horse cart or on foot.",
+        "evening": "Highland dinner."
+      },
+      {
+        "day": 2,
+        "title": "The town",
+        "summary": "Wood and cable car.",
+        "morning": "Jaszczurówka Chapel.",
+        "afternoon": "Kasprowy Wierch cable car.",
+        "evening": "Krupówki."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Start hikes early.",
+    "Check the weather.",
+    "Buy park tickets.",
+    "Book the cable car.",
+    "Wear proper boots.",
+    "Avoid weekends.",
+    "Bring a rain jacket."
+  ],
+  "faq": [
+    {
+      "q": "How do I get to Zakopane?",
+      "a": "By bus from Kraków."
+    },
+    {
+      "q": "Is Morskie Oko easy?",
+      "a": "Yes, a wide road walk."
+    },
+    {
+      "q": "How many days?",
+      "a": "Two or three."
+    },
+    {
+      "q": "What is oscypek?",
+      "a": "Smoked sheep's cheese."
+    },
+    {
+      "q": "Is Zakopane good for skiing?",
+      "a": "Yes."
+    },
+    {
+      "q": "When is the best time?",
+      "a": "June to September."
+    }
+  ],
+  "related": ["krakow", "auschwitz-birkenau", "bialowieza"],
+  "relatedArticles": ["us-national-parks-road-trip", "underrated-destinations"]
+}

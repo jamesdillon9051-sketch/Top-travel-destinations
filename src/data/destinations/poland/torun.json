@@ -1,0 +1,298 @@
+{
+  "slug": "torun",
+  "name": "Toruń",
+  "country": "poland",
+  "region": "Kuyavia-Pomerania, northern Poland",
+  "categories": ["historic", "unesco", "cultural", "off-the-beaten-path"],
+  "tagline": "A perfectly preserved Gothic old town on the Vistula, birthplace of Copernicus and home of Poland's famous spiced gingerbread.",
+  "highlight": "The Gothic Old Town Hall and the brick skyline across the Vistula at night.",
+  "shortDescription": "A UNESCO-listed medieval town on the Vistula with a Gothic Old Town Hall, Copernicus's birthplace, brick churches and a gingerbread tradition dating back to the Middle Ages.",
+  "metaDescription": "A Toruń travel guide: the Gothic Old Town Hall, Copernicus House, gingerbread, the Vistula riverfront, Teutonic castle ruins, where to stay, how to get there and a one-day plan.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Bydgoszcz (BZG), about 45 minutes; Gdańsk or Warsaw by train",
+  "knownFor": "Gothic old town, Copernicus, gingerbread",
+  "budget": "US$70–120 per day, mid-range",
+  "goodFor": "Day trips, history, architecture, families",
+  "coords": { "lat": 53.0138, "lng": 18.5984 },
+  "image": {
+    "file": "File:Old town hall in Torun (8).jpg",
+    "alt": "The brick Gothic Old Town Hall in Toruń"
+  },
+  "intro": [
+    "Toruń is a medieval town on the Vistula river in northern Poland, founded by the Teutonic Knights in the 13th century, and a member of the Hanseatic League. It survived the Second World War almost untouched, and its Gothic old town, with more than 1,000 historic buildings, was listed as a UNESCO World Heritage Site in 1997. It is one of the best-preserved medieval towns in Central Europe.",
+    "The centre of the old town is the Rynek, a square dominated by the huge Gothic Old Town Hall, built of red brick, with a tower that you can climb. Around it are Gothic churches, burgher houses with decorated gables, and remnants of the town walls, including a leaning tower. Toruń is also the birthplace of Nicolaus Copernicus, the astronomer, born here in 1473, and his family home is now a museum.",
+    "The other famous thing is gingerbread. Toruń's pierniki have been made since the 14th century, and shops sell them in shapes and flavours, and the Living Museum of Gingerbread lets visitors bake their own. Toruń is a good day trip from Gdańsk, Poznań or Warsaw, or an overnight stop."
+  ],
+  "whyVisit": {
+    "intro": "Toruń is a compact Gothic town with gingerbread and Copernicus.",
+    "points": [
+      {
+        "title": "A UNESCO old town",
+        "text": "Red brick Gothic buildings."
+      },
+      {
+        "title": "Copernicus's birthplace",
+        "text": "A museum in his family house."
+      },
+      {
+        "title": "Gingerbread",
+        "text": "Made since the Middle Ages."
+      },
+      {
+        "title": "Riverside views",
+        "text": "The old town skyline on the Vistula."
+      },
+      {
+        "title": "Easy day trip",
+        "text": "Close to Gdańsk and Poznań."
+      }
+    ]
+  },
+  "attractionsIntro": "Everything is within a short walk of the Rynek.",
+  "attractions": [
+    {
+      "name": "Old Town Hall",
+      "image": {
+        "file": "File:Old town hall in Torun (3).jpg",
+        "alt": "The tall brick tower of Toruń's Old Town Hall"
+      },
+      "text": "A 14th-century Gothic town hall with a museum and a tower with city views.",
+      "tip": "Climb the tower."
+    },
+    {
+      "name": "The old town by night",
+      "image": {
+        "file": "File:Toruń - Old Town by night 01.jpg",
+        "alt": "The old town skyline of Toruń lit up at night beside the Vistula"
+      },
+      "text": "The brick skyline reflected in the Vistula, best seen from the opposite bank.",
+      "tip": "Cross the bridge at dusk."
+    },
+    {
+      "name": "Copernicus House",
+      "text": "A museum in the family home of Nicolaus Copernicus.",
+      "tip": "Allow an hour."
+    },
+    {
+      "name": "Teutonic Castle ruins",
+      "text": "Ruins of the Teutonic Knights' fortress, destroyed by townspeople in 1454.",
+      "tip": "Free to enter."
+    },
+    {
+      "name": "The Leaning Tower",
+      "text": "A medieval tower that leans noticeably.",
+      "tip": "A quick photo."
+    },
+    {
+      "name": "Living Museum of Gingerbread",
+      "text": "A workshop where you can bake your own gingerbread.",
+      "tip": "Book a session."
+    }
+  ],
+  "thingsToDoIntro": "Toruń is for strolling and tasting.",
+  "thingsToDo": [
+    {
+      "title": "Bake gingerbread",
+      "text": "Join a class.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Walk the walls",
+      "text": "See the towers and gates.",
+      "tip": "Free."
+    },
+    {
+      "title": "Cross the Vistula",
+      "text": "See the skyline.",
+      "tip": "At sunset."
+    },
+    {
+      "title": "Visit museums",
+      "text": "Copernicus and the Town Hall.",
+      "tip": "Combined tickets."
+    },
+    {
+      "title": "Eat in a cellar",
+      "text": "Old town restaurants.",
+      "tip": "Try local dishes."
+    },
+    {
+      "title": "Shop for pierniki",
+      "text": "In shaped forms.",
+      "tip": "Buy fresh."
+    }
+  ],
+  "foodIntro": "Toruń is about gingerbread and hearty Polish food.",
+  "foods": [
+    {
+      "name": "Toruń gingerbread (pierniki)",
+      "text": "Spiced honey biscuits in many shapes.",
+      "whereToTry": "Shops on the Rynek."
+    },
+    {
+      "name": "Pierogi",
+      "text": "Dumplings.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Żurek",
+      "text": "Sour rye soup.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Gingerbread ice cream",
+      "text": "A local treat.",
+      "whereToTry": "Ice cream shops."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Local breweries.",
+      "whereToTry": "Pubs."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the old town.",
+    "areas": [
+      {
+        "name": "Old Town",
+        "bestFor": "Atmosphere",
+        "text": "Hotels in historic buildings."
+      },
+      {
+        "name": "Near the station",
+        "bestFor": "Transport",
+        "text": "Cheaper hotels."
+      },
+      {
+        "name": "Bydgoskie",
+        "bestFor": "Quiet",
+        "text": "Guesthouses."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$13–24 per night" },
+      { "label": "Mid-range hotel", "value": "US$55–110 per night" },
+      { "label": "Luxury hotel", "value": "US$130–250 per night" },
+      { "label": "Restaurant meal", "value": "US$7–16 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Toruń has trains from major cities.",
+    "options": [
+      {
+        "mode": "Train from Warsaw",
+        "text": "About 2.5 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train from Gdańsk",
+        "text": "About 2.5 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train from Poznań",
+        "text": "About 2 hours.",
+        "detail": "Frequent."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The old town is walkable.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Everything.",
+        "detail": "Comfortable shoes."
+      },
+      {
+        "mode": "Buses",
+        "text": "From the station.",
+        "detail": "Buy tickets."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Cheap.",
+        "detail": "Use an app."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "Toruń has a temperate climate.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Mild."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Warm."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Golden."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold, with Christmas markets."
+      }
+    ],
+    "avoid": "Grey winter days."
+  },
+  "itinerary": {
+    "title": "One day in Toruń",
+    "intro": "Gothic sights and gingerbread.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Toruń",
+        "summary": "Old town day.",
+        "morning": "Old Town Hall and Copernicus House.",
+        "afternoon": "Gingerbread class and the walls.",
+        "evening": "Skyline at dusk."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book gingerbread classes.",
+    "Climb the Town Hall tower.",
+    "View the skyline from across the river.",
+    "Buy fresh pierniki.",
+    "Go on a weekday.",
+    "Wear comfortable shoes.",
+    "Combine with Gdańsk."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need in Toruń?",
+      "a": "One day."
+    },
+    {
+      "q": "Is Toruń worth it?",
+      "a": "Yes."
+    },
+    {
+      "q": "Who was Copernicus?",
+      "a": "The astronomer who proposed the sun-centred model."
+    },
+    {
+      "q": "Is it a UNESCO site?",
+      "a": "Yes, since 1997."
+    },
+    {
+      "q": "Is the gingerbread good?",
+      "a": "Yes."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "Train."
+    }
+  ],
+  "related": ["gdansk", "poznan", "malbork"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}
