@@ -1,0 +1,315 @@
+{
+  "slug": "el-chalten-fitz-roy",
+  "name": "El Chaltén and Fitz Roy",
+  "shortName": "El Chaltén",
+  "country": "argentina",
+  "region": "Santa Cruz, southern Patagonia",
+  "categories": ["mountains", "national-park", "unesco", "nature"],
+  "tagline": "The trekking capital of Argentina: a small mountain village at the foot of the granite spires of Fitz Roy and Cerro Torre, with free trails from the door.",
+  "highlight": "Reaching Laguna de los Tres at dawn, as the first light turns the Fitz Roy needles orange above the frozen lagoon.",
+  "shortDescription": "A hiker's paradise in Los Glaciares National Park, with day walks to Laguna de los Tres and Laguna Torre beneath some of the world's most dramatic granite peaks.",
+  "metaDescription": "An El Chaltén travel guide: Laguna de los Tres and Fitz Roy, Cerro Torre and Laguna Torre, day hikes, multi-day treks, best time, how to get there from El Calafate, weather and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "El Calafate (FTE), about 3 hours by road",
+  "knownFor": "Fitz Roy, Cerro Torre, day hikes, climbing, Patagonian wind",
+  "budget": "US$100–200 per day, mid-range",
+  "goodFor": "Hiking, mountain scenery, photography, climbing",
+  "coords": { "lat": -49.3311, "lng": -72.8863 },
+  "image": {
+    "file": "File:Los Glaciares - Fitz Roy 005.jpg",
+    "alt": "The granite spires of Mount Fitz Roy rising above forests and a valley in Patagonia"
+  },
+  "intro": [
+    "El Chaltén was founded in 1985, largely to establish an Argentine presence in an area disputed with Chile, and it has grown into a village of about 3,000 people with a single purpose: hiking. It sits in the Los Glaciares National Park, in a valley beneath Fitz Roy (3,405 metres), whose Tehuelche name, Chaltén, means smoking mountain, for the cloud that often clings to its summit, and its neighbour Cerro Torre. Together, these granite spires form some of the most spectacular mountain scenery in the world.",
+    "The great appeal of El Chaltén is that the trails begin at the edge of the village, and require no permits, guides or park fees. A day's walk can reach an alpine lake with the towers reflected in it, and there is a choice of routes, from easy lakeside strolls to demanding ascents. For serious climbers, the granite walls are a legendary challenge.",
+    "The weather is the wild card. Patagonia's wind, rain and sun can change within an hour, and clear days are precious. The village is small, with brewpubs, simple hotels and a relaxed atmosphere, and it is at its best between November and March, though autumn brings golden beech forests and fewer people."
+  ],
+  "whyVisit": {
+    "intro": "El Chaltén offers some of the finest day hiking in the world, right from the village.",
+    "points": [
+      {
+        "title": "Trails from the door",
+        "text": "No permits or fees, and well-marked paths from the village."
+      },
+      {
+        "title": "Iconic peaks",
+        "text": "Fitz Roy and Cerro Torre, among the most dramatic mountains in the Andes."
+      },
+      {
+        "title": "Day walks for all levels",
+        "text": "From a two-hour stroll to a full-day climb to a glacial lake."
+      },
+      {
+        "title": "Glaciers and lakes",
+        "text": "Turquoise lagoons and hanging glaciers."
+      },
+      {
+        "title": "A friendly village",
+        "text": "Craft beer, hearty food and a community of walkers."
+      }
+    ]
+  },
+  "attractionsIntro": "The walks are the attractions, and a few classic routes stand out.",
+  "attractions": [
+    {
+      "name": "Laguna de los Tres and Fitz Roy",
+      "image": {
+        "file": "File:Laguna de los Tres color.jpg",
+        "alt": "The turquoise Laguna de los Tres beneath the granite face of Fitz Roy"
+      },
+      "text": "The classic hike, about 20 km round trip and 8 to 10 hours, ending with a steep final climb to a lake directly beneath Fitz Roy's summit.",
+      "tip": "Start early, on a clear day, and bring warm layers."
+    },
+    {
+      "name": "Laguna Torre and Cerro Torre",
+      "image": {
+        "file": "File:Cerro torre laguna torre.jpg",
+        "alt": "Cerro Torre rising above Laguna Torre and its icebergs"
+      },
+      "text": "An easier day hike of about 18 km round trip and 6 to 7 hours, to a glacial lake beneath the needle of Cerro Torre, often wrapped in cloud.",
+      "tip": "Best on a clear day."
+    },
+    {
+      "name": "Mirador de los Cóndores and Las Águilas",
+      "text": "A short hike of about 1 hour up from the village, to viewpoints over the town, valley and mountains.",
+      "tip": "Perfect for arrival day."
+    },
+    {
+      "name": "Chorrillo del Salto waterfall",
+      "text": "A short, easy walk of about 3 km to a waterfall in the forest, a good option for a windy day.",
+      "tip": "A family-friendly walk."
+    },
+    {
+      "name": "Loma del Pliegue Tumbado",
+      "text": "A high-altitude route of about 20 km to a ridge with a panorama of Fitz Roy and the ice field.",
+      "tip": "Best on a clear day."
+    },
+    {
+      "name": "The Huemul Circuit",
+      "text": "A multi-day trek around a glacial lake, with a river crossing and stunning views.",
+      "tip": "Take a guide."
+    }
+  ],
+  "thingsToDoIntro": "Hiking is the main activity, with options for rest days.",
+  "thingsToDo": [
+    {
+      "title": "Hike to Laguna de los Tres",
+      "text": "A day's walk to the base of Fitz Roy.",
+      "tip": "Bring lunch and water."
+    },
+    {
+      "title": "Hike to Laguna Torre",
+      "text": "See the icebergs and Cerro Torre.",
+      "tip": "Start early."
+    },
+    {
+      "title": "Go rock climbing",
+      "text": "Guides offer introductory climbs on local rock.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Try horseback riding",
+      "text": "Trips through the valley on Patagonian horses.",
+      "tip": "Check weather."
+    },
+    {
+      "title": "Rest at a brewpub",
+      "text": "Local microbreweries offer beer and food.",
+      "tip": "Try the local ale."
+    },
+    {
+      "title": "Go kayaking or trekking on the Viedma Glacier",
+      "text": "Boat trips and ice treks reach the Viedma Glacier.",
+      "tip": "Book in advance."
+    }
+  ],
+  "foodIntro": "Food in El Chaltén is simple and hearty, geared to hikers.",
+  "foods": [
+    {
+      "name": "Patagonian lamb",
+      "text": "Slow-roasted lamb, a regional speciality.",
+      "whereToTry": "Restaurants in the village."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Microbreweries serve fresh beer and pub food.",
+      "whereToTry": "Brewpubs."
+    },
+    {
+      "name": "Empanadas",
+      "text": "Hot pastries, excellent picnic food.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Pasta and pizza",
+      "text": "Hearty meals after a long hike.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Alfajores and hot chocolate",
+      "text": "Sweet snacks for the trail.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Accommodation ranges from hostels to lodges, and is limited in peak season, so book well ahead.",
+    "areas": [
+      {
+        "name": "The village centre",
+        "bestFor": "Restaurants and buses",
+        "text": "Hostels and hotels on the main streets."
+      },
+      {
+        "name": "Trailheads",
+        "bestFor": "Early starts",
+        "text": "Lodges at the start of trails."
+      },
+      {
+        "name": "Camping",
+        "bestFor": "Budget",
+        "text": "Free and paid campsites, regulated in the park."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel or campsite", "value": "US$15–50 per night" },
+      { "label": "Mid-range hotel", "value": "US$90–180 per night" },
+      { "label": "Luxury lodge", "value": "US$250–500 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$12–30 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "El Chaltén is 215 km north of El Calafate, reached by a good road.",
+    "options": [
+      {
+        "mode": "Bus from El Calafate",
+        "text": "About 3 hours, with several daily services.",
+        "detail": "Book in advance in summer."
+      },
+      {
+        "mode": "Transfer or hire car",
+        "text": "About 3 hours by road, with wide views.",
+        "detail": "Fuel up in El Calafate."
+      },
+      {
+        "mode": "From Chile",
+        "text": "Via El Calafate, or via Villa O'Higgins by ferry and trail in summer.",
+        "detail": "For adventurous travellers."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Everything is on foot in the village and on the trails.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The way to explore.",
+        "detail": "Wear sturdy boots."
+      },
+      {
+        "mode": "Shuttle",
+        "text": "Transfers to trailheads for longer routes.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Taxi",
+        "text": "A few available.",
+        "detail": "Limited."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–March",
+    "summary": "Patagonia's climate is cool and windy, with snow in winter. Summer has the best hiking weather, and autumn brings beautiful colours.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "best",
+        "text": "Longest days, warmest weather and the most people."
+      },
+      {
+        "season": "Autumn (March–April)",
+        "rating": "best",
+        "text": "Fewer crowds and golden forests."
+      },
+      {
+        "season": "Winter (May–September)",
+        "rating": "avoid",
+        "text": "Snowy, with most services closed."
+      },
+      {
+        "season": "Spring (October–November)",
+        "rating": "good",
+        "text": "Windy and cool, with fewer visitors."
+      }
+    ],
+    "avoid": "Winter, when the village is nearly empty and trails are snowbound."
+  },
+  "itinerary": {
+    "title": "Three days in El Chaltén",
+    "intro": "Two big walks and a rest day.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive and warm up",
+        "summary": "A gentle start.",
+        "morning": "Bus from El Calafate.",
+        "afternoon": "The Mirador de los Cóndores.",
+        "evening": "Dinner at a brewpub."
+      },
+      {
+        "day": 2,
+        "title": "Laguna de los Tres",
+        "summary": "The big day.",
+        "morning": "Start early for Fitz Roy.",
+        "afternoon": "The lake and return.",
+        "evening": "Rest."
+      },
+      {
+        "day": 3,
+        "title": "Laguna Torre",
+        "summary": "A second lake.",
+        "morning": "The walk to Laguna Torre.",
+        "afternoon": "Return, then bus to El Calafate.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "The mountains are close, but the weather demands respect.",
+  "tips": [
+    "Check the weather and go on the clearest day you can.",
+    "Carry layers, waterproofs, gloves and a hat, and a windproof jacket.",
+    "Bring lunch, water and snacks, since there is no food on the trails.",
+    "Register with park rangers and follow the rules for camping and fires.",
+    "Start early. The days are long in summer.",
+    "Bring cash, as ATMs are unreliable.",
+    "Book accommodation ahead in January."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in El Chaltén?",
+      "a": "Three days is ideal, for two big hikes and a rest day."
+    },
+    {
+      "q": "Do I need a guide?",
+      "a": "Not for the main day hikes, which are well marked. Guides are recommended for glacier treks and multi-day routes."
+    },
+    {
+      "q": "Is there an entry fee?",
+      "a": "The main trails have no entry fee, but check the current park rules."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "November to March, with April for autumn colours."
+    },
+    {
+      "q": "How hard is the Laguna de los Tres hike?",
+      "a": "It is a long day of about 20 km with a steep final section. It suits reasonably fit walkers."
+    },
+    {
+      "q": "Can I see Fitz Roy without hiking?",
+      "a": "Yes, from viewpoints near the village and along the road, weather permitting."
+    }
+  ],
+  "related": ["el-calafate-perito-moreno", "bariloche-lake-district", "ushuaia-tierra-del-fuego"],
+  "relatedArticles": ["packing-by-season", "us-national-parks-road-trip"]
+}

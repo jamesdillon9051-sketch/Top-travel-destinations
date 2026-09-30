@@ -1,0 +1,310 @@
+{
+  "slug": "ninh-binh",
+  "name": "Ninh Binh",
+  "country": "vietnam",
+  "region": "Southern Red River Delta, northern Vietnam",
+  "categories": ["unesco", "nature", "scenic", "historic"],
+  "tagline": "Ha Long Bay on land: limestone towers rising from rice paddies and rivers, explored by rowing boat, bicycle and mountain stairway, with an ancient capital hidden among them.",
+  "highlight": "A rowing boat gliding through a cave beneath the cliffs at Trang An, with water buffalo grazing beside the river.",
+  "shortDescription": "A landscape of karst hills, rivers, caves and paddies two hours south of Hanoi, with the boat trips of Trang An and Tam Coc, the Hang Mua viewpoint, Hoa Lu ancient capital and Bai Dinh pagoda.",
+  "metaDescription": "A Ninh Binh travel guide: Trang An and Tam Coc boat trips, Hang Mua viewpoint, Hoa Lu ancient capital, Bai Dinh Pagoda, cycling, best time and a two-day plan from Hanoi.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Noi Bai, Hanoi (HAN), about 2–2.5 hours",
+  "knownFor": "Karst landscapes, boat rides, Hoa Lu, rice paddies, Bai Dinh",
+  "budget": "US$35–85 per day, mid-range",
+  "goodFor": "Scenery, cycling, boat rides, photography, an easy escape from Hanoi",
+  "coords": { "lat": 20.2506, "lng": 105.9745 },
+  "image": {
+    "file": "File:Trang An Landscape Complex, Ninh Binh Province, Vietnam, 20240202 1456 5313.jpg",
+    "alt": "Limestone karst hills and a river at the Trang An Landscape Complex in Ninh Binh"
+  },
+  "intro": [
+    "Ninh Binh sits at the southern edge of the Red River Delta, where the flat rice country suddenly gives way to limestone towers, caves and rivers. It was the site of Hoa Lu, the capital of Vietnam under the Dinh and Early Le dynasties in the 10th century, before the court moved to Thang Long, the site of today's Hanoi. Its hills and caves were used as fortresses and hiding places, and the Trang An Landscape Complex, listed by UNESCO as a mixed natural and cultural site in 2014, preserves a series of them.",
+    "The scenery is often compared with Ha Long Bay, and the comparison holds. Instead of the sea, there are rice paddies, lotus ponds, rivers and lakes, with limestone karsts rising like fingers from the water. Sampans, small rowing boats, take visitors through caves and along channels between the cliffs, often propelled by rowers using their feet. Film crews chose Trang An for Kong: Skull Island in 2017.",
+    "Ninh Binh is close to Hanoi, and many visitors come on a day trip, but the pace and light are best appreciated with a night or two. Cycling between the sites, climbing to viewpoints and eating in village restaurants make it one of the most relaxed stops in the north."
+  ],
+  "whyVisit": {
+    "intro": "Ninh Binh offers the kind of scenery that people go to Ha Long Bay for, with a slower, more rural feel.",
+    "points": [
+      {
+        "title": "A dramatic landscape",
+        "text": "Karst hills, caves, rivers and rice paddies together make an outstanding backdrop."
+      },
+      {
+        "title": "Boat rides",
+        "text": "A journey through caves and along the river at Trang An or Tam Coc is the highlight."
+      },
+      {
+        "title": "Viewpoints",
+        "text": "Hang Mua's 500-step climb gives one of the best views in northern Vietnam."
+      },
+      {
+        "title": "History",
+        "text": "Hoa Lu, the 10th-century capital, and the huge Bai Dinh Pagoda."
+      },
+      {
+        "title": "Easy from Hanoi",
+        "text": "Trains and buses take about two hours."
+      }
+    ]
+  },
+  "attractionsIntro": "The sights are spread around the province, and are best reached by bicycle, scooter or car.",
+  "attractions": [
+    {
+      "name": "Trang An Landscape Complex",
+      "text": "A network of rivers and caves, explored on rowing boats for two to three hours, passing temples, grottoes and karst peaks. It is the most impressive and best organised boat route.",
+      "tip": "Go early, and choose a route with more caves."
+    },
+    {
+      "name": "Tam Coc",
+      "image": {
+        "file": "File:Tam Coc, Ninh Binh ,Vietnam.jpg",
+        "alt": "A rowing boat on the river at Tam Coc among limestone hills and rice fields"
+      },
+      "text": "A river route through three caves, whose name means Three Caves, with rice paddies on either side. It is busier and shorter than Trang An, and best in the ripening season.",
+      "tip": "Visit in late May or June to see golden rice."
+    },
+    {
+      "name": "Hang Mua (Mua Cave viewpoint)",
+      "text": "A stairway of about 500 steps up a limestone hill, leading to a viewpoint with a dragon statue and a panorama of the rice fields, river and karsts.",
+      "tip": "Go early or late, and bring water."
+    },
+    {
+      "name": "Hoa Lu ancient capital",
+      "image": {
+        "file": "File:Ninh Binh Hoa Lu (39891).jpg",
+        "alt": "Temple gates and karst hills at Hoa Lu, the ancient capital of Vietnam"
+      },
+      "text": "The capital of the Dinh and Early Le dynasties from 968 to 1010, with restored temples dedicated to the kings and surrounded by mountains.",
+      "tip": "Combine with Tam Coc."
+    },
+    {
+      "name": "Bai Dinh Pagoda",
+      "image": {
+        "file": "File:Bai Dinh Pagoda (36519413585).jpg",
+        "alt": "The vast Bai Dinh Pagoda complex on a hillside in Ninh Binh"
+      },
+      "text": "A huge modern Buddhist complex, the largest in Vietnam, with a long corridor of Buddha statues, a giant bronze Buddha and a tall stupa.",
+      "tip": "Allow a couple of hours."
+    },
+    {
+      "name": "Van Long Nature Reserve",
+      "text": "A wetland reserve with quiet boat rides among karsts and rare langurs, calmer than Trang An.",
+      "tip": "Go for birdwatching and peace."
+    }
+  ],
+  "thingsToDoIntro": "Ninh Binh is best on two wheels and on the water.",
+  "thingsToDo": [
+    {
+      "title": "Take a boat through Trang An",
+      "text": "Sit back as a rower guides you through caves and channels.",
+      "tip": "Go in the morning to avoid the crowds."
+    },
+    {
+      "title": "Climb Hang Mua",
+      "text": "See the whole landscape from the top of the stairs.",
+      "tip": "Go at sunrise or late afternoon."
+    },
+    {
+      "title": "Cycle through the countryside",
+      "text": "Quiet lanes link paddies, villages and temples.",
+      "tip": "Rent a bicycle in Tam Coc."
+    },
+    {
+      "title": "Try a cooking class",
+      "text": "Cook with a local family, using produce from their garden.",
+      "tip": "Book through your homestay."
+    },
+    {
+      "title": "Visit Cuc Phuong National Park",
+      "text": "Vietnam's oldest national park, with ancient trees and a primate rescue centre.",
+      "tip": "Allow a day."
+    },
+    {
+      "title": "Sample goat meat and crispy rice",
+      "text": "Local specialities of Ninh Binh, at restaurants around town.",
+      "tip": "Ask for the local version."
+    }
+  ],
+  "foodIntro": "Ninh Binh's specialities include goat meat and crispy rice, and its village restaurants serve fresh, simple food.",
+  "foods": [
+    {
+      "name": "Goat meat dishes",
+      "text": "Goat prepared in many ways, from steamed to grilled to hotpot, a regional speciality.",
+      "whereToTry": "Restaurants in Ninh Binh town."
+    },
+    {
+      "name": "Com chay (burnt rice)",
+      "text": "Crispy fried rice served with pork or seafood, a local dish.",
+      "whereToTry": "Restaurants around Hoa Lu."
+    },
+    {
+      "name": "Snail noodles",
+      "text": "Rice noodles with river snails, served in a sour broth.",
+      "whereToTry": "Local shops."
+    },
+    {
+      "name": "Fresh river fish",
+      "text": "Fish from the local rivers, grilled or steamed.",
+      "whereToTry": "Village restaurants."
+    },
+    {
+      "name": "Egg coffee and fruit",
+      "text": "Hanoi-style coffees and fresh fruit.",
+      "whereToTry": "Cafés in Tam Coc."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose a homestay among the rice fields, or a hotel in Ninh Binh town.",
+    "areas": [
+      {
+        "name": "Tam Coc",
+        "bestFor": "Scenery and cycling",
+        "text": "Homestays, bungalows and boutique hotels among the paddies."
+      },
+      {
+        "name": "Trang An and Hoa Lu",
+        "bestFor": "The boat trips",
+        "text": "Hotels near the Trang An entrance."
+      },
+      {
+        "name": "Ninh Binh town",
+        "bestFor": "Transport and value",
+        "text": "Business hotels near the station."
+      }
+    ],
+    "budget": [
+      { "label": "Budget homestay", "value": "US$10–25 per night" },
+      { "label": "Mid-range hotel or bungalow", "value": "US$35–85 per night" },
+      { "label": "Luxury resort", "value": "US$120–300 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$3–10 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Ninh Binh is about 95 km south of Hanoi.",
+    "options": [
+      {
+        "mode": "Train from Hanoi",
+        "text": "About 2 to 2.5 hours on the Reunification line, with several services a day.",
+        "detail": "Book a seat in advance."
+      },
+      {
+        "mode": "Bus or limousine van",
+        "text": "About 2 hours from Hanoi, with drop-off in Tam Coc.",
+        "detail": "Book reputable companies."
+      },
+      {
+        "mode": "Private car",
+        "text": "About 2 hours by expressway.",
+        "detail": "Good for day trips."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The sights are spread out, and cycling is the pleasant way to see them.",
+    "options": [
+      {
+        "mode": "Bicycle",
+        "text": "Cheap to rent, and roads are quiet.",
+        "detail": "Watch for heat and traffic."
+      },
+      {
+        "mode": "Scooter",
+        "text": "Popular for reaching farther sites.",
+        "detail": "Wear a helmet, and check your licence and insurance."
+      },
+      {
+        "mode": "Grab or private car",
+        "text": "For longer distances such as Bai Dinh.",
+        "detail": "Arrange in advance."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–June and September–November",
+    "summary": "Ninh Binh follows the northern climate, with cool winters and hot summers. The golden rice season is late May and June.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Green paddies and mild weather."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Hot and humid. Golden rice in late May and June."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Clear skies and a second rice harvest."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool, grey and misty, with fewer visitors."
+      }
+    ],
+    "avoid": "Weekends and public holidays, when Trang An is packed."
+  },
+  "itinerary": {
+    "title": "Two days in Ninh Binh",
+    "intro": "The boat trips and the viewpoint on the first day, and history on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Boats and views",
+        "summary": "Water and karst.",
+        "morning": "A boat through Trang An.",
+        "afternoon": "Cycle to Tam Coc.",
+        "evening": "Hang Mua at sunset."
+      },
+      {
+        "day": 2,
+        "title": "History",
+        "summary": "Capital and pagoda.",
+        "morning": "Hoa Lu ancient capital.",
+        "afternoon": "Bai Dinh Pagoda.",
+        "evening": "Return to Hanoi."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you make the most of the area.",
+  "tips": [
+    "Stay a night or two instead of a day trip.",
+    "Go to Trang An early, before the tour groups.",
+    "Tip the boat rower, who works hard.",
+    "Climb Hang Mua at the start or end of the day.",
+    "Ignore touts who steer you to a different boat station.",
+    "Wear sun protection, and bring water.",
+    "Avoid weekends and holidays if you can."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Ninh Binh?",
+      "a": "Two days lets you see the boats, the viewpoint and Hoa Lu. Many visit in a day, but it is rushed."
+    },
+    {
+      "q": "Which is better, Trang An or Tam Coc?",
+      "a": "Trang An is more scenic, with more caves and a longer route. Tam Coc is shorter and best in rice season."
+    },
+    {
+      "q": "Is Ninh Binh like Ha Long Bay?",
+      "a": "It has a similar limestone landscape, but on land and rivers rather than on the sea."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "March to June and September to November, with golden rice in late May and June."
+    },
+    {
+      "q": "How do I get there from Hanoi?",
+      "a": "By train or bus, about two hours."
+    },
+    {
+      "q": "Is it safe to cycle?",
+      "a": "Yes, on quiet lanes, but take care near roads."
+    }
+  ],
+  "related": ["hanoi", "ha-long-bay", "hue"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

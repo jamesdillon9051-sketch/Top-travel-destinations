@@ -1,0 +1,320 @@
+{
+  "slug": "tulum-riviera-maya",
+  "name": "Tulum & the Riviera Maya",
+  "shortName": "Tulum and the Riviera Maya",
+  "country": "mexico",
+  "region": "Quintana Roo, Caribbean coast",
+  "categories": ["coastal", "archaeological", "nature"],
+  "tagline": "White sand, turquoise water and a small Maya fortress on a cliff above the Caribbean, with jungle cenotes and the world's second-largest barrier reef offshore.",
+  "highlight": "The Tulum ruins above the sea in the early morning, followed by a swim in a jungle cenote.",
+  "shortDescription": "Mexico's Caribbean coast south of Cancún: Tulum's cliff-top Maya ruins and beach, Cobá's jungle pyramid, swimmable cenotes, snorkelling with turtles and laid-back beach towns.",
+  "metaDescription": "A Tulum and Riviera Maya travel guide: the Tulum ruins, Cobá, cenotes, Akumal turtles and Sian Ka'an, beaches, Playa del Carmen, sargassum season, where to stay and a three-day plan.",
+  "suggestedStay": "4 days",
+  "nearestAirport": "Cancún International (CUN), about 1 hour 30 minutes; Tulum International (TQO) is now open",
+  "knownFor": "The Tulum ruins, cenotes, beaches, snorkelling, Sian Ka'an",
+  "budget": "US$110–220 per day, mid-range",
+  "goodFor": "Beaches, snorkelling, cenotes, Maya ruins, relaxing",
+  "coords": { "lat": 20.2114, "lng": -87.4654 },
+  "image": {
+    "file": "File:Tulum - God of the Winds Temple 04.JPG",
+    "alt": "The Temple of the God of the Winds at Tulum, on a cliff above the Caribbean"
+  },
+  "intro": [
+    "The Caribbean coast of the Yucatán, known as the Riviera Maya, runs about 130 km from Cancún south to Tulum, a string of beaches, coves, lagoons and small resort towns backed by jungle. Offshore lies the Mesoamerican Barrier Reef, the second-largest in the world. Before the Spanish arrived, the coast was a busy Maya trading route, and its ruins are dotted along the shore.",
+    "Tulum, the Maya walled city, is the most photographed: a small but beautifully sited fortress of temples on a limestone cliff, with a white beach below. It was an important port between about 1200 and 1500 CE and was still occupied when the Spanish arrived. Nearby, Cobá is a much larger city in the jungle with a pyramid you can climb, and the Sian Ka'an biosphere reserve protects mangroves, lagoons and reef.",
+    "Development has been intense, and Tulum in particular has changed from a hippie hideaway to a fashionable, expensive resort strip. It still offers wonderful swimming, cenotes and easy access to the Maya world, and quieter alternatives exist in Akumal, Bacalar and Sian Ka'an. Sargassum seaweed can affect the beaches in some seasons."
+  ],
+  "whyVisit": {
+    "intro": "Tulum and the Riviera Maya combine beaches, snorkelling, cenotes and ruins within a short drive.",
+    "points": [
+      {
+        "title": "Ruins above the sea",
+        "text": "Tulum's temples stand on a cliff, with the Caribbean turquoise behind, one of the most striking settings for any ancient site."
+      },
+      {
+        "title": "Cenotes",
+        "text": "Dozens of sinkholes, from open pools to caves with stalactites, are within a short drive."
+      },
+      {
+        "title": "Snorkelling and diving",
+        "text": "Sea turtles graze at Akumal, and the reef offers snorkelling, scuba and freediving."
+      },
+      {
+        "title": "Cobá",
+        "text": "A large jungle city with sacbé roads, stelae and the tallest pyramid in the northern Yucatán."
+      },
+      {
+        "title": "Nature reserves",
+        "text": "Sian Ka'an and the lagoon of Bacalar offer wildlife, kayaking and quiet."
+      }
+    ]
+  },
+  "attractionsIntro": "The ruins take half a day, and the beaches, cenotes and reserve fill the rest.",
+  "attractions": [
+    {
+      "name": "The Tulum ruins",
+      "image": {
+        "file": "File:Stairs to the Caribbean - Tulum Maya site, QR.jpg",
+        "alt": "Stairs leading down to the Caribbean beach beside the Tulum Maya site"
+      },
+      "text": "A walled Maya city of about 60 buildings on a cliff, including El Castillo, the Temple of the Frescoes and the Temple of the Descending God. A small beach lies below.",
+      "tip": "Go at opening or late afternoon, and swim from the beach."
+    },
+    {
+      "name": "Cobá",
+      "image": {
+        "file": "File:Nohoch Mul Pyramid 2 - Cobá Maya site QR 2020.jpg",
+        "alt": "The Nohoch Mul pyramid at the Maya site of Cobá in the jungle"
+      },
+      "text": "A jungle city spread over lakes, linked by raised stone roads, with the 42-metre Nohoch Mul pyramid, the highest in the region. Bikes and pedicabs are available inside.",
+      "tip": "Rent a bike at the entrance. Check whether climbing is permitted."
+    },
+    {
+      "name": "Gran Cenote and Dos Ojos",
+      "text": "Two of the most popular cenotes, with crystal-clear water, stalactites and cave diving and snorkelling routes.",
+      "tip": "Go early, before the tour groups."
+    },
+    {
+      "name": "Akumal Bay",
+      "text": "A sheltered bay where green sea turtles graze on seagrass, easily seen while snorkelling. Regulations require a guide and a life jacket.",
+      "tip": "Follow the rules and do not touch the turtles."
+    },
+    {
+      "name": "Sian Ka'an Biosphere Reserve",
+      "text": "A UNESCO reserve of about 5,000 km² of mangroves, lagoons, jungle and reef south of Tulum, with dolphins, manatees, crocodiles and over 300 bird species.",
+      "tip": "Book a guided boat trip."
+    },
+    {
+      "name": "Playa del Carmen and Cozumel",
+      "text": "A lively resort town with a pedestrian Fifth Avenue, and a ferry to Cozumel, an island with excellent diving.",
+      "tip": "Use Playa as a transport hub."
+    }
+  ],
+  "thingsToDoIntro": "The Riviera Maya is built around sun, sea and short excursions.",
+  "thingsToDo": [
+    {
+      "title": "Visit Tulum at opening",
+      "text": "Explore the ruins in cool light, then swim at the small beach below.",
+      "tip": "Arrive before 09:00."
+    },
+    {
+      "title": "Swim in a cenote",
+      "text": "Try the Gran Cenote, Dos Ojos, Cenote Calavera or Casa Cenote.",
+      "tip": "Bring reef-safe sunscreen and rinse first."
+    },
+    {
+      "title": "Snorkel with turtles at Akumal",
+      "text": "Green turtles swim in the shallows of the bay.",
+      "tip": "Go in the morning."
+    },
+    {
+      "title": "Rent a bike at Cobá",
+      "text": "Ride through the jungle between temples, and climb the pyramid if allowed.",
+      "tip": "Go early to avoid heat."
+    },
+    {
+      "title": "Kayak at Bacalar",
+      "text": "The Lagoon of Seven Colours, two hours south, has clear water in many blues, stromatolites and kayaks.",
+      "tip": "Stay a night."
+    },
+    {
+      "title": "Relax on a beach",
+      "text": "Beaches from Playa del Carmen to Tulum offer white sand and clear water, though sargassum can affect them in spring and summer.",
+      "tip": "Check current sargassum reports."
+    }
+  ],
+  "foodIntro": "The coast serves Yucatecan classics and fresh seafood, along with a growing international food scene.",
+  "foods": [
+    {
+      "name": "Ceviche and fresh seafood",
+      "text": "Raw fish cured in lime with onion, tomato and coriander, and grilled catch of the day.",
+      "whereToTry": "Beach shacks and restaurants."
+    },
+    {
+      "name": "Cochinita pibil and tacos",
+      "text": "Yucatecan pork and grilled fish tacos, sold in taquerías in Tulum town.",
+      "whereToTry": "Taquerías off the beach road."
+    },
+    {
+      "name": "Fresh coconut and fruit",
+      "text": "Coconut water and sliced mango or papaya with chile and lime.",
+      "whereToTry": "Beach vendors."
+    },
+    {
+      "name": "Lionfish",
+      "text": "An invasive species that is now hunted and served on menus. It has a mild, sweet flavour.",
+      "whereToTry": "Seafood restaurants."
+    },
+    {
+      "name": "Craft cocktails and mezcal",
+      "text": "Cocktail bars and beach clubs pour mezcal margaritas.",
+      "whereToTry": "Beach clubs in Tulum."
+    },
+    {
+      "name": "Guacamole and tortillas",
+      "text": "Made to order at the table.",
+      "whereToTry": "Restaurants throughout."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose between Tulum town (cheaper, walkable), the beach road (pricey, atmospheric) and the quieter smaller towns.",
+    "areas": [
+      {
+        "name": "Tulum town",
+        "bestFor": "Value and restaurants",
+        "text": "Guesthouses, hostels and small hotels with restaurants and tour operators."
+      },
+      {
+        "name": "The Tulum beach road",
+        "bestFor": "Beach access",
+        "text": "Boutique hotels and eco-lodges along the sand, expensive and often lacking mains power and water."
+      },
+      {
+        "name": "Akumal, Bacalar and Sian Ka'an",
+        "bestFor": "Quiet",
+        "text": "Smaller places away from the crowds."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or budget hotel", "value": "US$25–70 per night" },
+      { "label": "Mid-range hotel", "value": "US$100–220 per night" },
+      { "label": "Beach boutique hotel", "value": "US$250–600 per night" },
+      { "label": "Tulum ruins entry", "value": "About US$5–8" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Tulum is about 130 km south of Cancún.",
+    "options": [
+      {
+        "mode": "Cancún airport (CUN)",
+        "text": "The main gateway, with buses and shuttles running to Tulum in about 1 hour 30 minutes to 2 hours.",
+        "detail": "Pre-book a transfer."
+      },
+      {
+        "mode": "Tulum International Airport (TQO)",
+        "text": "A new airport near Tulum with a growing number of flights.",
+        "detail": "Check current routes."
+      },
+      {
+        "mode": "Bus or Tren Maya",
+        "text": "ADO buses run along the coast, and the Tren Maya connects Cancún with Tulum.",
+        "detail": "Check the timetable."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Colectivos, taxis and hire cars link the towns, and bicycles are common in Tulum.",
+    "options": [
+      {
+        "mode": "Colectivos",
+        "text": "Shared vans run along Highway 307 between Playa del Carmen and Tulum, cheaply.",
+        "detail": "Flag them from the road."
+      },
+      {
+        "mode": "Taxis",
+        "text": "Taxis in Tulum are expensive, particularly along the beach road. Agree the fare.",
+        "detail": "Uber is restricted in some places."
+      },
+      {
+        "mode": "Hire car or bike",
+        "text": "A car gives freedom to reach cenotes and Cobá, and bikes are useful in town and on the beach road.",
+        "detail": "Watch for police checkpoints and speed bumps."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–April",
+    "summary": "The dry winter and spring are the best time. Summer is hot and rainy, sargassum is worse from April to August, and hurricanes can occur from June to November.",
+    "seasons": [
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "Warm, sunny and dry, with clear water. The high season."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "shoulder",
+        "text": "Hot, with increasing sargassum on some beaches."
+      },
+      {
+        "season": "Summer (June–September)",
+        "rating": "avoid",
+        "text": "Hot, humid and rainy, with hurricane risk and sargassum. Low prices."
+      },
+      {
+        "season": "Autumn (October–November)",
+        "rating": "shoulder",
+        "text": "Peak hurricane risk in October. Improving by late November."
+      }
+    ],
+    "avoid": "Hurricane season, and Christmas and Easter for crowds."
+  },
+  "itinerary": {
+    "title": "Three days in Tulum",
+    "intro": "The ruins and beach on the first day, cenotes and Cobá on the second, Akumal and Sian Ka'an on the third.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Tulum ruins and beach",
+        "summary": "Maya history and the sea.",
+        "morning": "The Tulum ruins at opening.",
+        "afternoon": "A swim and lunch on the beach.",
+        "evening": "Sunset drinks and dinner."
+      },
+      {
+        "day": 2,
+        "title": "Cenotes and Cobá",
+        "summary": "Jungle and water.",
+        "morning": "Gran Cenote and Dos Ojos.",
+        "afternoon": "Cobá by bike.",
+        "evening": "Tacos in town."
+      },
+      {
+        "day": 3,
+        "title": "Turtles and reserve",
+        "summary": "Wildlife.",
+        "morning": "Akumal snorkelling.",
+        "afternoon": "A boat trip in Sian Ka'an.",
+        "evening": "A last beach dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Tulum is popular, and a few tips help.",
+  "tips": [
+    "Go to Tulum and Cobá early, before the heat and the tour groups.",
+    "Use reef-safe sunscreen, and rinse off before entering cenotes.",
+    "Check sargassum reports and hurricane forecasts before you book.",
+    "Carry pesos. Many restaurants in Tulum quote in dollars at poor rates.",
+    "Book beach hotels and restaurants ahead in winter.",
+    "Follow rules on turtles, reefs and protected areas.",
+    "Do not drive at night."
+  ],
+  "faq": [
+    {
+      "q": "Is Tulum worth visiting?",
+      "a": "Yes, for the ruins, beaches and cenotes, though it has become expensive and crowded. Quieter alternatives include Akumal, Bacalar and Sian Ka'an."
+    },
+    {
+      "q": "Is sargassum a problem?",
+      "a": "It can be from April to August, with some beaches covered in seaweed. Conditions vary by week and beach, so check reports."
+    },
+    {
+      "q": "Can I climb the pyramid at Cobá?",
+      "a": "Climbing has been restricted in recent years. Check the current rules at the entrance."
+    },
+    {
+      "q": "How many days do you need?",
+      "a": "Three or four for Tulum, Cobá and cenotes. A week lets you add Bacalar and Sian Ka'an."
+    },
+    {
+      "q": "How far is Tulum from Cancún?",
+      "a": "About 130 km, or 1.5 to 2 hours by road."
+    },
+    {
+      "q": "Is the Riviera Maya safe?",
+      "a": "It is heavily visited, and most visits are trouble-free. Petty crime and occasional violence occur, so check your government's advice and use common sense."
+    }
+  ],
+  "related": ["yucatan-merida-chichen-itza", "chiapas-palenque-san-cristobal", "mexico-city"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

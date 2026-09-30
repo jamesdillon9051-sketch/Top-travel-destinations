@@ -1,0 +1,325 @@
+{
+  "slug": "guadalajara-tequila",
+  "name": "Guadalajara & Tequila",
+  "shortName": "Guadalajara and Tequila",
+  "country": "mexico",
+  "region": "Jalisco State, western Mexico",
+  "categories": ["major-city", "unesco", "food-and-wine"],
+  "tagline": "Mexico's second city, home of mariachi, charrería and birria, with a grand cathedral, Orozco's murals and the blue agave fields and distilleries of Tequila an hour away.",
+  "highlight": "A tequila distillery tour in the agave fields, followed by birria and mariachi in Guadalajara that night.",
+  "shortDescription": "A confident, cultured city of plazas, murals and street food, with a UNESCO-listed hospice, the birthplace of tequila and mariachi, and a day trip through agave landscape.",
+  "metaDescription": "A Guadalajara and Tequila travel guide: the cathedral and Hospicio Cabañas, Orozco's murals, Tlaquepaque and Tonalá, birria and tortas ahogadas, the Tequila Express, agave fields and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Guadalajara Miguel Hidalgo (GDL), about 30 minutes",
+  "knownFor": "Tequila, mariachi, birria, Hospicio Cabañas, Tlaquepaque crafts",
+  "budget": "US$70–140 per day, mid-range",
+  "goodFor": "Food, drinks, music, crafts, a day trip through agave country",
+  "coords": { "lat": 20.6597, "lng": -103.3496 },
+  "image": {
+    "file": "File:Agaves - Tequila, Jalisco I.jpg",
+    "alt": "Rows of blue agave plants in the fields of Tequila, Jalisco"
+  },
+  "intro": [
+    "Guadalajara is the capital of Jalisco and the second-largest city in Mexico, and the home of the country's most iconic traditions: mariachi music, charrería (rodeo), the Mexican hat dance and tequila. It was founded in 1542, and its centre has a huge twin-spired cathedral, four large plazas and grand public buildings, and it remains a lively and prosperous, if less touristy, alternative to Mexico City.",
+    "Its greatest artistic monument is the Hospicio Cabañas, a neoclassical orphanage and hospital built in the early 1800s, whose chapel dome and walls are covered in murals by José Clemente Orozco. UNESCO listed it in 1997. Nearby, Tlaquepaque and Tonalá are craft villages of glass, ceramics and furniture, now absorbed into the metropolitan area.",
+    "About an hour north-west, the town of Tequila is surrounded by fields of blue agave, and the agave landscape and its distilleries were inscribed by UNESCO in 2006. A day there, with a distillery tour and a lunch, is one of the classic Mexican excursions."
+  ],
+  "whyVisit": {
+    "intro": "Guadalajara is a great city for food, music and crafts, and a gateway to tequila country.",
+    "points": [
+      {
+        "title": "The Hospicio Cabañas",
+        "text": "Orozco's murals, especially the Man of Fire in the dome, are among the masterpieces of 20th-century Mexican art."
+      },
+      {
+        "title": "Mariachi",
+        "text": "Guadalajara is the birthplace of mariachi, and Plaza de los Mariachis and Tlaquepaque are the best places to hear it."
+      },
+      {
+        "title": "Food",
+        "text": "Birria, tortas ahogadas and carne en su jugo are Guadalajara's specialities."
+      },
+      {
+        "title": "Tequila country",
+        "text": "Agave fields, distilleries and a UNESCO landscape, with tastings at sources such as Jose Cuervo and small producers."
+      },
+      {
+        "title": "Crafts",
+        "text": "Tlaquepaque and Tonalá sell glass, pottery and furniture."
+      }
+    ]
+  },
+  "attractionsIntro": "The centre takes a day, Tlaquepaque and Tonalá a half-day, and Tequila a full day.",
+  "attractions": [
+    {
+      "name": "The Cathedral and the four plazas",
+      "image": {
+        "file": "File:Catedral metropolitana de Guadalajara 01.jpg",
+        "alt": "The twin-spired Metropolitan Cathedral of Guadalajara"
+      },
+      "text": "The Metropolitan Cathedral, with its yellow spires, stands in the middle of four connected plazas, including the Plaza de la Liberación and the Rotonda de los Jaliscienses Ilustres.",
+      "tip": "Walk the plazas in the evening."
+    },
+    {
+      "name": "The Hospicio Cabañas",
+      "image": {
+        "file": "File:Hospicio Cabañas, Guadalajara, Jalisco - 12.jpg",
+        "alt": "The colonnaded courtyard of the Hospicio Cabañas in Guadalajara"
+      },
+      "text": "A vast neoclassical complex of 23 courtyards, now a cultural centre, whose chapel is covered in Orozco's murals, including the Man of Fire.",
+      "tip": "Lie on the benches to see the dome."
+    },
+    {
+      "name": "Government Palace",
+      "text": "A baroque palace with an Orozco mural of Miguel Hidalgo, the priest who started the independence struggle.",
+      "tip": "Free to enter."
+    },
+    {
+      "name": "Mercado San Juan de Dios",
+      "text": "One of the largest indoor markets in Latin America, with food, crafts and goods on multiple floors.",
+      "tip": "Eat on the first floor."
+    },
+    {
+      "name": "Tlaquepaque and Tonalá",
+      "text": "Craft villages with blown glass, ceramics, furniture and jewellery, with restaurants and mariachi.",
+      "tip": "Tonalá's markets are on Thursdays and Sundays."
+    },
+    {
+      "name": "Tequila town and the agave landscape",
+      "text": "A town of about 40,000 people surrounded by blue agave fields, with distilleries such as Jose Cuervo and Casa Herradura, and a tequila museum.",
+      "tip": "Take a distillery tour and try a range."
+    },
+    {
+      "name": "Lake Chapala and Ajijic",
+      "text": "Mexico's largest lake, about 50 km south, with lakeside towns that are popular with expats.",
+      "tip": "Good for a relaxed day."
+    }
+  ],
+  "thingsToDoIntro": "Guadalajara is for eating, listening and drinking well.",
+  "thingsToDo": [
+    {
+      "title": "Take the Tequila Express",
+      "text": "A tourist train from Guadalajara to the distillery at Amatitán, with tastings and mariachi on board.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Eat birria",
+      "text": "Try spiced goat or beef stew, served with tortillas and consommé.",
+      "tip": "Try it at a local birrieria."
+    },
+    {
+      "title": "Hear mariachi",
+      "text": "Plaza de los Mariachis, Tlaquepaque and Garibaldi have bands playing for tips.",
+      "tip": "Agree the price per song."
+    },
+    {
+      "title": "Watch a charreada",
+      "text": "Mexican rodeo shows at charro arenas on Sundays.",
+      "tip": "Ask your hotel."
+    },
+    {
+      "title": "Shop in Tlaquepaque",
+      "text": "Browse galleries and craft shops, and have lunch.",
+      "tip": "Go on a weekday."
+    },
+    {
+      "title": "Visit a distillery",
+      "text": "See agave harvested by jimadores, baked and distilled.",
+      "tip": "Choose a small producer."
+    }
+  ],
+  "foodIntro": "Jalisco's food is robust and meat-heavy, with drinks to match.",
+  "foods": [
+    {
+      "name": "Birria",
+      "text": "Spiced goat or beef stew from Jalisco, served in a bowl or in tacos with consommé.",
+      "whereToTry": "Birrierias across the city."
+    },
+    {
+      "name": "Torta ahogada",
+      "text": "A pork sandwich in a crusty roll, 'drowned' in a spicy tomato sauce.",
+      "whereToTry": "Stalls and markets."
+    },
+    {
+      "name": "Carne en su jugo",
+      "text": "Beef stew with beans and bacon, served in its own broth.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Tequila and tejuino",
+      "text": "Tequila is the region's spirit, and tejuino is a fermented corn drink served with lime and ice.",
+      "whereToTry": "Bars and street stands."
+    },
+    {
+      "name": "Jericalla and sweets",
+      "text": "A custard-like dessert, and cajeta.",
+      "whereToTry": "Markets and bakeries."
+    },
+    {
+      "name": "Tacos and street food",
+      "text": "Tacos, tostadas and elotes.",
+      "whereToTry": "Street stalls."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the centre or in the trendy Chapultepec and Providencia districts.",
+    "areas": [
+      {
+        "name": "Centro histórico",
+        "bestFor": "Sights",
+        "text": "Historic and boutique hotels near the cathedral."
+      },
+      {
+        "name": "Chapultepec and Providencia",
+        "bestFor": "Restaurants and nightlife",
+        "text": "Modern hotels and guesthouses, cafés and bars."
+      },
+      {
+        "name": "Tequila and Tlaquepaque",
+        "bestFor": "Atmosphere",
+        "text": "Guesthouses in old houses."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel", "value": "US$30–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–150 per night" },
+      { "label": "Boutique hotel", "value": "US$150–300 per night" },
+      { "label": "Tequila tour", "value": "US$40–120 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Guadalajara is about 550 km west of Mexico City.",
+    "options": [
+      {
+        "mode": "Flight",
+        "text": "Direct flights from Mexico City (1 hour 15 minutes), US cities and Europe.",
+        "detail": "Take a taxi or Uber from the airport."
+      },
+      {
+        "mode": "Bus from Mexico City",
+        "text": "About 7–8 hours by first-class bus.",
+        "detail": "Prefer flights."
+      },
+      {
+        "mode": "To Tequila",
+        "text": "About 1 hour by bus or car, or by the Tequila Express train.",
+        "detail": "Buses leave from the Old Bus Station."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The centre is walkable, and Uber and light rail cover the rest.",
+    "options": [
+      {
+        "mode": "Uber and taxis",
+        "text": "Cheap and convenient.",
+        "detail": "Agree fares."
+      },
+      {
+        "mode": "Light rail and buses",
+        "text": "Line 1 and the Macrobús serve the centre.",
+        "detail": "Buy a card."
+      },
+      {
+        "mode": "Walking",
+        "text": "The historic centre is compact.",
+        "detail": "Watch the traffic."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–April",
+    "summary": "Guadalajara is at 1,550 m with a mild, dry winter and a rainy summer.",
+    "seasons": [
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "Dry and pleasant."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm and dry."
+      },
+      {
+        "season": "Summer (June–September)",
+        "rating": "quiet",
+        "text": "Heavy afternoon rain."
+      },
+      {
+        "season": "Autumn (October–November)",
+        "rating": "best",
+        "text": "Clear and mild."
+      }
+    ],
+    "avoid": "Heavy rain in July and August."
+  },
+  "itinerary": {
+    "title": "Three days in Guadalajara and Tequila",
+    "intro": "The centre and murals on the first day, Tequila on the second, Tlaquepaque on the third.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The centre",
+        "summary": "Murals and markets.",
+        "morning": "The Cathedral and the Hospicio Cabañas.",
+        "afternoon": "The San Juan de Dios market.",
+        "evening": "Mariachi and birria."
+      },
+      {
+        "day": 2,
+        "title": "Tequila",
+        "summary": "Agave country.",
+        "morning": "The Tequila Express or a bus to Tequila.",
+        "afternoon": "A distillery tour and lunch.",
+        "evening": "Return to Guadalajara."
+      },
+      {
+        "day": 3,
+        "title": "Tlaquepaque",
+        "summary": "Crafts and food.",
+        "morning": "Tlaquepaque's workshops.",
+        "afternoon": "Lunch and Tonalá.",
+        "evening": "Last dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Guadalajara is easy, and a few tips help.",
+  "tips": [
+    "Book distillery tours in advance.",
+    "Eat birria for breakfast or lunch.",
+    "Do not drink and drive after tastings.",
+    "Use Uber at night.",
+    "Check advice for Jalisco state, which has areas of concern.",
+    "Bring cash for markets.",
+    "Go to Tlaquepaque on a weekday."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Guadalajara?",
+      "a": "Three, including a day in Tequila."
+    },
+    {
+      "q": "Is Guadalajara safe?",
+      "a": "Tourist areas are generally safe, but Jalisco state has seen serious cartel violence in some areas. Check your government's advice and use normal precautions."
+    },
+    {
+      "q": "What is the difference between tequila and mezcal?",
+      "a": "Tequila is made only from blue agave and mainly in Jalisco. Mezcal can be made from many agave types and comes mostly from Oaxaca."
+    },
+    {
+      "q": "How far is Tequila from Guadalajara?",
+      "a": "About 60 km, or one hour."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "October to April for dry weather."
+    },
+    {
+      "q": "Is the Hospicio Cabañas worth visiting?",
+      "a": "Yes, for Orozco's murals, one of the great sights in Mexico."
+    }
+  ],
+  "related": ["guanajuato", "san-miguel-de-allende", "mexico-city"],
+  "relatedArticles": ["food-primer", "unesco-worth-planning-around"]
+}

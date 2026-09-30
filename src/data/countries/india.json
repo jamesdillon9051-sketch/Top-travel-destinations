@@ -1,0 +1,427 @@
+{
+  "slug": "india",
+  "name": "India",
+  "continent": "Asia",
+  "countryCode": "IN",
+  "tagline": "The Taj Mahal, Rajasthan's palace cities, the Ganges at dawn, Kerala's backwaters and the world's most varied food, in a country that rewards patience like no other.",
+  "cardDescription": "A subcontinent of Mughal monuments, Rajput palaces, sacred rivers, tropical beaches and Himalayan peaks, with a food, festival and railway culture all of its own.",
+  "metaDescription": "A complete India travel guide: the 10 best places to visit, the Taj Mahal, Jaipur, Varanasi, Kerala and Goa, Indian food, when to go, trains and flights, e-visas, costs, safety and a two-week itinerary.",
+  "image": {
+    "file": "File:Amber Fort Jaipur 01.jpg",
+    "alt": "Amber Fort above its lake near Jaipur, Rajasthan"
+  },
+  "destinations": [
+    "agra",
+    "delhi",
+    "jaipur",
+    "varanasi",
+    "udaipur",
+    "kerala-backwaters-kochi",
+    "mumbai",
+    "goa",
+    "amritsar",
+    "hampi"
+  ],
+  "intro": [
+    "India is a country of more than 1.4 billion people, 22 officially recognised languages, thousands of years of continuous urban culture and almost every landscape from Himalayan glaciers to tropical coast. It was home to the Indus Valley civilisation, the Maurya and Gupta empires, the Delhi sultanates and the Mughals, and a series of Hindu, Buddhist, Jain and Sikh kingdoms, and it was ruled by the British until independence in 1947. All of it is still visible on the ground.",
+    "Most first-time visitors start with the north's great monuments, the Taj Mahal, the forts and palaces of Delhi, Agra and Rajasthan, then add the sacred city of Varanasi on the Ganges. The south is a different country in feel, greener and calmer, with Kerala's backwaters, the ruined Vijayanagara capital at Hampi and long coastlines. Mumbai and Goa give the west coast, and Amritsar, in the Punjab, has the spiritual heart of Sikhism.",
+    "India is not an easy country, and it does not try to be. It is crowded, noisy, hot for much of the year and demands patience with delays and hassle. It is also endlessly generous, cheap by Western standards and among the most rewarding places on earth to travel. Give it time, keep the itinerary modest and it repays you many times over."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Agra, Delhi and Jaipur form the classic Golden Triangle; Varanasi, Udaipur and Amritsar can be added from the north; Kerala, Goa, Mumbai and Hampi are the south and west.",
+  "thingsToDoIntro": "The experiences that recur across the country and make an Indian trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "See the Taj Mahal at sunrise",
+      "text": "The white marble tomb, built by Shah Jahan for his wife Mumtaz Mahal, is the most famous building in India and lives up to the hype, particularly in the early morning light. See [[agra|Agra]].",
+      "tip": "Buy tickets online and arrive at opening time. The Taj is closed on Fridays."
+    },
+    {
+      "title": "Ride an Indian train",
+      "image": {
+        "file": "File:Inside an Indian Railways Train - Sleeper Coach.jpg",
+        "alt": "The inside of a sleeper coach on an Indian Railways train"
+      },
+      "text": "India has one of the largest railway networks in the world, and an overnight journey in an air-conditioned sleeper berth is a cheap and memorable way to cover distance.",
+      "tip": "Book through IRCTC well ahead for popular routes, and choose 2AC or 3AC for comfort."
+    },
+    {
+      "title": "Watch the Ganges at dawn",
+      "text": "At Varanasi, boats drift along the ghats at sunrise as pilgrims bathe and pray on the steps, one of the most powerful spectacles in the country. See [[varanasi|Varanasi]].",
+      "tip": "Go by rowing boat, and agree the price and duration in advance."
+    },
+    {
+      "title": "Stay in a palace or a haveli",
+      "text": "Rajasthan's old palaces and merchants' houses have become hotels, from grand lakeside properties to family-run guesthouses. See [[udaipur|Udaipur]] and [[jaipur|Jaipur]].",
+      "tip": "Heritage guesthouses often give more character for less money than the big chains."
+    },
+    {
+      "title": "Cruise the Kerala backwaters",
+      "text": "A slow boat through palm-fringed canals and lagoons, past village life and rice fields, is a favourite way to relax in the south. See [[kerala-backwaters-kochi|Kerala]].",
+      "tip": "Choose a small, licensed houseboat, or a canoe trip, for a quieter experience."
+    },
+    {
+      "title": "Look for a tiger",
+      "image": {
+        "file": "File:080 Bengal tiger in Ranthambore National Park Photo by Giles Laurent.jpg",
+        "alt": "A Bengal tiger in Ranthambore National Park in Rajasthan"
+      },
+      "text": "India holds most of the world's wild tigers, and national parks such as Ranthambore in Rajasthan, Bandhavgarh and Kanha in Madhya Pradesh, and Corbett in the Himalayan foothills offer good chances of a sighting.",
+      "tip": "Book safaris weeks in advance, and plan for several game drives, since sightings are never guaranteed."
+    },
+    {
+      "title": "Join a festival",
+      "image": {
+        "file": "File:Barsana Holi Festival.jpg",
+        "alt": "Crowds throwing coloured powder at the Holi festival in Barsana"
+      },
+      "text": "Holi in March, Diwali in October or November, Ganesh Chaturthi in Mumbai and the Pushkar camel fair are among the most vivid celebrations, but every week has one somewhere.",
+      "tip": "Check the dates, which follow lunar calendars, and book accommodation early for the big festivals."
+    }
+  ],
+  "foodIntro": "Indian food is not one cuisine but dozens, varying by region, religion and caste. North Indian cooking uses wheat breads, ghee and tandoor-cooked meat, the south rice, coconut and fermented batters, the coasts fish and spice, and vegetarian cooking is one of the great cuisines of the world.",
+  "foods": [
+    {
+      "name": "Thali",
+      "image": {
+        "file": "File:Darjeeling, India, Indian Thali meal.jpg",
+        "alt": "An Indian thali meal with several small dishes served on a steel plate"
+      },
+      "text": "A round steel plate holding small bowls of dal, vegetables, curry, rice, bread, pickle and sweets, a complete meal in one and often unlimited refills. Each region has its own version.",
+      "whereToTry": "Family restaurants across the country, especially in [[udaipur|Udaipur]] and [[jaipur|Jaipur]]."
+    },
+    {
+      "name": "Masala dosa",
+      "image": {
+        "file": "File:Masala dosa 01.jpg",
+        "alt": "A crisp masala dosa filled with spiced potato and served with chutneys"
+      },
+      "text": "A large crisp pancake made from fermented rice and lentil batter, filled with spiced potato and served with sambar and coconut chutney. A South Indian breakfast staple eaten all day.",
+      "whereToTry": "Udupi restaurants and tiffin rooms in the south, and [[kerala-backwaters-kochi|Kerala]]."
+    },
+    {
+      "name": "Biryani",
+      "image": {
+        "file": "File:Chicken Hyderabadi Biryani.JPG",
+        "alt": "A plate of Hyderabadi chicken biryani with spiced rice"
+      },
+      "text": "Fragrant rice layered with marinated meat or vegetables and slow-cooked in a sealed pot. Hyderabad, Lucknow and Kolkata each claim the best.",
+      "whereToTry": "Muslim-run restaurants in [[delhi|Old Delhi]] and [[mumbai|Mumbai]]."
+    },
+    {
+      "name": "Butter chicken and tandoori dishes",
+      "image": {
+        "file": "File:Chicken makhani.jpg",
+        "alt": "Butter chicken in a rich tomato and cream sauce"
+      },
+      "text": "The Punjabi classics that made Indian food famous abroad: chicken in a creamy tomato sauce, tandoori kebabs and fresh naan straight from the clay oven.",
+      "whereToTry": "Dhabas and restaurants in [[delhi|Delhi]] and [[amritsar|Amritsar]]."
+    },
+    {
+      "name": "Chai",
+      "image": {
+        "file": "File:India - Varanasi chai tea - 1420.jpg",
+        "alt": "A vendor pouring chai into small clay cups in Varanasi"
+      },
+      "text": "Sweet, milky tea boiled with ginger and spices, sold everywhere in small glasses or clay cups. The national drink and a good reason to stop for a rest.",
+      "whereToTry": "Roadside stalls and railway stations, especially in [[varanasi|Varanasi]]."
+    },
+    {
+      "name": "Street snacks",
+      "text": "Samosas, chaat, pav bhaji, vada pav, bhel puri and kachori: a huge range of fried, tangy and sweet snacks sold from carts. Choose busy stalls with high turnover.",
+      "whereToTry": "[[mumbai|Mumbai]], [[delhi|Old Delhi]] and [[jaipur|Jaipur]]."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. India rewards preparation, particularly on visas, train booking and health precautions.",
+  "practical": {
+    "capital": "New Delhi",
+    "language": "Hindi and English are the official languages of the central government, with 22 languages recognised in the constitution. English is widely spoken in hotels, cities and tourist areas.",
+    "currency": "Indian rupee (INR, ₹). Roughly 85–90 rupees to the US dollar in recent years. Rupees cannot be bought in useful amounts abroad, so use ATMs on arrival.",
+    "money": "ATMs are widespread, and cards are accepted in hotels and larger shops, but cash is needed for rickshaws, street food, small restaurants and tips. UPI mobile payments are everywhere but usually require an Indian bank account. Carry small notes, since change is often short.",
+    "visa": "Most nationalities need a visa, and many can apply for an e-visa online before travel, in short-stay, one-year and five-year forms. Rules, fees and eligibility change, so use only the official Indian government site and check well ahead.",
+    "plugs": "Types C, D and M, 230 V, 50 Hz. A universal adaptor is useful.",
+    "emergency": "112 is the national emergency number. Police is 100, fire 101 and ambulance 102. Tourist police are present in the main cities.",
+    "tipping": "About 10% in restaurants if service is not included, a few tens of rupees for porters and small services, and more for drivers and guides at the end of a trip. Small tips are customary.",
+    "safety": "Millions of visitors travel around India safely every year. The most common problems are scams, overcharging and stomach upsets, and women travelling alone often face unwelcome attention, so dress conservatively, avoid walking alone at night and use registered taxis. Air pollution in northern cities, especially Delhi, is severe in winter. Some border and conflict areas, including parts of Kashmir and the north-east, are subject to travel warnings, so check your government's advice.",
+    "connectivity": "Very good in cities and along main routes, with cheap 4G and 5G data. Tourists can buy SIM cards, though this needs identity verification and can take time, and eSIMs are easier.",
+    "timeZone": "UTC+5:30 across the whole country, all year, with no daylight saving.",
+    "budget": [
+      { "label": "Backpacker", "value": "US$25–45 per day — dorms or basic rooms, local food, trains and buses" },
+      { "label": "Mid-range", "value": "US$70–140 per day — comfortable hotels, restaurant meals, drivers and AC trains" },
+      { "label": "Comfortable", "value": "US$180–400 per day — heritage hotels, private guides and cars" },
+      { "label": "Luxury", "value": "US$500+ per day — palace hotels, private tours and charter services" }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–March",
+    "summary": "India is huge, and climate varies by region. In most of the country the cooler, dry months from October to March are best, with the hot season from April to June and the monsoon from June to September.",
+    "seasons": [
+      {
+        "season": "Winter (November–February)",
+        "rating": "best",
+        "text": "Dry and pleasant across most of the country, and the main tourist season. Northern nights are cold, with heavy smog and fog around Delhi and the plains."
+      },
+      {
+        "season": "Spring (March–April)",
+        "rating": "good",
+        "text": "Warm to hot, with Holi in March. Rajasthan gets uncomfortable from April, and the Himalayas open."
+      },
+      {
+        "season": "Summer (May–June)",
+        "rating": "avoid",
+        "text": "Extremely hot on the plains, often above 40°C. Best for the Himalayas and hill stations."
+      },
+      {
+        "season": "Monsoon (July–September)",
+        "rating": "quiet",
+        "text": "Heavy rain, flooding in places and humid, though landscapes are green and the crowds are thin. Kerala is popular for Ayurveda, and Ladakh is accessible."
+      }
+    ],
+    "avoid": "May and June in the plains and Rajasthan, and the monsoon on the coasts and in Goa, where many beach shacks close. Delhi's winter smog can be severe from about October to January."
+  },
+  "tripDuration": {
+    "headline": "2–3 weeks for a first trip",
+    "summary": "India is vast, and journeys are slow. Two weeks cover the Golden Triangle plus one or two extensions, and three weeks allow the north and one region of the south.",
+    "options": [
+      {
+        "length": "7–8 days",
+        "text": "The Golden Triangle: Delhi, Agra and Jaipur.",
+        "detail": "The classic short trip, and ideal for a first visit."
+      },
+      {
+        "length": "12–14 days",
+        "text": "The itinerary on this page: Delhi, Agra, Jaipur, Udaipur, Varanasi and Kerala.",
+        "detail": "A balanced first trip, with three flights."
+      },
+      {
+        "length": "3 weeks",
+        "text": "Adds Amritsar, Mumbai and Goa, or Hampi.",
+        "detail": "Allows a slower pace and a beach rest."
+      },
+      {
+        "length": "4 weeks or more",
+        "text": "Adds Himalayan regions such as Ladakh, and the south in more depth.",
+        "detail": "For experienced travellers."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "India's distances are large, and transport is a mix of trains, flights and road journeys. Each has its strengths, and most trips combine them.",
+    "options": [
+      {
+        "mode": "Trains",
+        "text": "Indian Railways carries millions daily. Fast Vande Bharat and Shatabdi services run on main routes, and overnight sleeper trains cover long distances. Book on the IRCTC site or app, opening about two months ahead.",
+        "detail": "Choose air-conditioned classes (1AC, 2AC, 3AC, CC), and expect delays in winter fog."
+      },
+      {
+        "mode": "Domestic flights",
+        "text": "IndiGo, Air India, Akasa and others link all major cities, often cheaply. Flights save days on the long routes between north and south.",
+        "detail": "Book ahead for festival periods, and allow extra time in winter for delays."
+      },
+      {
+        "mode": "Private car and driver",
+        "text": "The most comfortable way to cover the Golden Triangle and Rajasthan, at about US$50–90 per day, including fuel.",
+        "detail": "Use an agency or a hotel recommendation, and agree the route and price first."
+      },
+      {
+        "mode": "Buses",
+        "text": "State and private buses cover almost everywhere, from cheap and crowded to comfortable sleeper coaches.",
+        "detail": "Choose overnight AC coaches on main routes. Roads can be slow."
+      },
+      {
+        "mode": "Auto-rickshaws, taxis and ride-hailing",
+        "text": "Auto-rickshaws and app-based cabs (Uber, Ola, Rapido) are the standard local transport. Delhi and Mumbai have metros.",
+        "detail": "Use apps or agree the fare before you start."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in India",
+    "intro": "The Golden Triangle, Rajasthan's lakes, the Ganges and Kerala's backwaters, with three flights. Covers six of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Delhi",
+        "morning": "Land and check in.",
+        "afternoon": "Rest, and a gentle walk in Lodhi Gardens.",
+        "evening": "Dinner and an early night."
+      },
+      {
+        "day": 2,
+        "title": "Old and New Delhi",
+        "morning": "The Red Fort and Jama Masjid.",
+        "afternoon": "Chandni Chowk street food and Humayun's Tomb.",
+        "evening": "India Gate at dusk."
+      },
+      {
+        "day": 3,
+        "title": "Delhi to Agra",
+        "morning": "The Qutb Minar, then the train to Agra.",
+        "afternoon": "Agra Fort.",
+        "evening": "The Taj Mahal from Mehtab Bagh at sunset."
+      },
+      {
+        "day": 4,
+        "title": "The Taj at sunrise",
+        "morning": "The Taj Mahal at opening time.",
+        "afternoon": "Drive to Jaipur via Fatehpur Sikri.",
+        "evening": "Arrive in Jaipur."
+      },
+      {
+        "day": 5,
+        "title": "Jaipur",
+        "morning": "The City Palace and Jantar Mantar.",
+        "afternoon": "The Hawa Mahal and the bazaars.",
+        "evening": "Dinner on a rooftop."
+      },
+      {
+        "day": 6,
+        "title": "Amber Fort",
+        "morning": "Amber Fort, early.",
+        "afternoon": "A block-printing workshop.",
+        "evening": "A rest, and dinner."
+      },
+      {
+        "day": 7,
+        "title": "Fly to Udaipur",
+        "morning": "Flight or drive to Udaipur.",
+        "afternoon": "The City Palace.",
+        "evening": "A boat on Lake Pichola at sunset."
+      },
+      {
+        "day": 8,
+        "title": "Udaipur",
+        "morning": "Jagdish Temple and the old town.",
+        "afternoon": "A cooking class.",
+        "evening": "A rooftop dinner by the lake."
+      },
+      {
+        "day": 9,
+        "title": "To Varanasi",
+        "morning": "Fly to Varanasi via Delhi.",
+        "afternoon": "Check in near the ghats.",
+        "evening": "The Ganga aarti at Dashashwamedh Ghat."
+      },
+      {
+        "day": 10,
+        "title": "Dawn on the Ganges",
+        "morning": "A sunrise boat ride.",
+        "afternoon": "The old city lanes.",
+        "evening": "Dinner and a rest."
+      },
+      {
+        "day": 11,
+        "title": "Sarnath",
+        "morning": "The Buddhist site of Sarnath.",
+        "afternoon": "Silk weavers in Varanasi.",
+        "evening": "A last walk along the ghats."
+      },
+      {
+        "day": 12,
+        "title": "Fly to Kochi",
+        "morning": "Flight south to Kochi.",
+        "afternoon": "Fort Kochi and the Chinese fishing nets.",
+        "evening": "A Kathakali performance."
+      },
+      {
+        "day": 13,
+        "title": "The backwaters",
+        "morning": "Drive to Alleppey.",
+        "afternoon": "A houseboat or canoe on the backwaters.",
+        "evening": "Dinner on board."
+      },
+      {
+        "day": 14,
+        "title": "Return and depart",
+        "morning": "Back to Kochi.",
+        "afternoon": "Last shopping.",
+        "evening": "Fly home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "India is a deeply religious and diverse society, with Hindus, Muslims, Sikhs, Christians, Jains and Buddhists living side by side. Hospitality is a value, and curiosity about visitors is friendly, though sometimes intense.",
+    "etiquette": [
+      {
+        "title": "Dress modestly",
+        "text": "Cover shoulders and knees, particularly at religious sites and outside beach resorts. Women may prefer loose trousers or long skirts."
+      },
+      {
+        "title": "Remove shoes at temples",
+        "text": "Take shoes off before entering temples, mosques, gurdwaras and many homes. Cover your head at gurdwaras, and follow local signs about photography."
+      },
+      {
+        "title": "Use your right hand",
+        "text": "Eat and pass things with the right hand. The left is traditionally considered unclean."
+      },
+      {
+        "title": "Greet with a namaste",
+        "text": "Press your palms together and bow slightly. Handshakes are common in business, but physical contact between men and women in public is uncommon."
+      },
+      {
+        "title": "Ask before photographing",
+        "text": "Ask permission before photographing people, and do not photograph inside some temples or at cremation ghats."
+      },
+      {
+        "title": "Respect sacred spaces and animals",
+        "text": "Cows are sacred to Hindus, and many places are vegetarian. Do not touch or point your feet at religious images."
+      }
+    ],
+    "dos": [
+      "Dress modestly, particularly at religious sites",
+      "Take off your shoes where signs or others do",
+      "Learn a few phrases: namaste (hello), shukriya or dhanyavaad (thank you)",
+      "Agree prices for rickshaws and guides in advance",
+      "Carry small notes for tips and change",
+      "Wash hands often and eat where the food is fresh"
+    ],
+    "donts": [
+      "Don't drink tap water or eat uncooked food from doubtful places",
+      "Don't touch people's heads or point your feet at people or images",
+      "Don't take photographs of military sites, airports or cremations",
+      "Don't show heavy public affection",
+      "Don't give money to begging children",
+      "Don't buy antiquities or products from endangered animals"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in India, several of which are specific to how the country works.",
+  "tips": [
+    "Do less than you think you can. Distances and delays are large, and two or three bases in a fortnight is enough.",
+    "Book trains as soon as booking opens, and use flights for the longest hops.",
+    "Book the Taj Mahal and other major sights online, and note the closing days. The Taj is closed on Fridays.",
+    "Pre-book taxis from airports and stations, or use official prepaid counters, to avoid scams.",
+    "Use only bottled or filtered water, and eat freshly cooked food from busy places.",
+    "Carry small notes, hand sanitiser, toilet paper and a scarf.",
+    "Be firm but polite with touts, and do not follow anyone who says a hotel or a sight is closed.",
+    "Check winter smog forecasts for Delhi, and carry a mask if you are sensitive."
+  ],
+  "faq": [
+    {
+      "q": "Is India safe for tourists?",
+      "a": "Most visitors travel without serious problems. Expect scams, hassle and stomach upsets, take particular care as a solo woman, and check your government's advice for regions that are subject to warnings."
+    },
+    {
+      "q": "How many days do you need in India?",
+      "a": "Two weeks for a first trip, and three if you can. A week covers the Golden Triangle, but India is too large to see quickly."
+    },
+    {
+      "q": "What is the best time to visit India?",
+      "a": "October to March for most of the country. Avoid May and June on the plains, and the monsoon on the coasts."
+    },
+    {
+      "q": "Do I need a visa for India?",
+      "a": "Most travellers do. Many can apply for an e-visa online. Use only the official government site and check the rules well before you travel."
+    },
+    {
+      "q": "Can I drink the water?",
+      "a": "No. Drink bottled or filtered water, avoid ice in cheap places, and choose freshly cooked food."
+    },
+    {
+      "q": "Is India good for vegetarians?",
+      "a": "Excellent. Vegetarian food is widespread, delicious and varied, and many restaurants are entirely vegetarian."
+    },
+    {
+      "q": "Should I take a tour or go independently?",
+      "a": "Both work. Independent travel is cheap, but hard work. A private driver or a small-group tour makes the Golden Triangle easy, and many travellers combine the two."
+    }
+  ]
+}

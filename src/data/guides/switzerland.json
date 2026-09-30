@@ -1,0 +1,135 @@
+{
+  "country": "switzerland",
+  "title": "The Complete Switzerland Travel Guide",
+  "subtitle": "How the country divides, how to choose between the ten destinations, how to use the rail network and passes without overspending, and what two weeks can realistically hold.",
+  "summary": "Switzerland packs peaks, lakes, old towns and scenic railways into a country you can cross in a few hours, at a high price. This guide covers how the regions divide, how to choose between the ten destinations, how to travel and save money, when to go and three routes that work.",
+  "readingTime": "13 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Can I visit Switzerland without a car?",
+      "a": "Yes, and it is easier without one. Trains, buses, boats and cable cars reach nearly every village on a shared timetable, and many mountain villages are car-free."
+    },
+    {
+      "q": "Is a rail pass worth it?",
+      "a": "It depends. The Swiss Travel Pass suits trips that change base every day or two and include museums and boats. For a slower trip based in one or two places, a regional pass or a Half Fare Card usually costs less."
+    },
+    {
+      "q": "How can I save money?",
+      "a": "Picnic from supermarkets, choose hostels or apartments, base yourself in cheaper towns such as Lucerne, Thun or Bern, and pick one or two big mountain excursions rather than all of them."
+    },
+    {
+      "q": "When should I book?",
+      "a": "Book hotels and scenic trains two to four months ahead for July and August. Mountain lifts do not need booking except a few, but check the weather on the day."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-switzerland-divides",
+      "title": "How Switzerland divides",
+      "navLabel": "The regions",
+      "body": [
+        "Switzerland is about 350 km across, and it falls into six zones for a visitor.",
+        "**The north and the plateau.** [[zurich|Zurich]] is the gateway, [[bern|Bern]] the capital, and [[lucerne|Lucerne]] the classic lake and mountain base.",
+        "**The Bernese Oberland.** [[interlaken-jungfrau|Interlaken and the Jungfrau region]] hold the Eiger, Mönch and Jungfrau, waterfalls and cog railways.",
+        "**Valais.** [[zermatt-matterhorn|Zermatt]] sits beneath the Matterhorn in a car-free valley.",
+        "**Lake Geneva.** [[geneva|Geneva]] and [[lausanne-lavaux|Lausanne and Lavaux]] are French-speaking, with vineyards and lake views.",
+        "**The south and east.** [[lugano-ticino|Lugano and Ticino]] feel Italian, [[st-moritz-engadin|St. Moritz and the Engadin]] are Alpine and grand, and [[appenzell|Appenzell]] is rural and traditional."
+      ],
+      "note": "The practical unit is a chain of two or three of these, linked by rail. Distances are short, so base changes take a couple of hours."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[lucerne|Lucerne]], the [[interlaken-jungfrau|Jungfrau region]] and either [[zurich|Zurich]] or [[bern|Bern]] for arrival and a city."
+        },
+        {
+          "title": "If you want the great peaks",
+          "text": "[[zermatt-matterhorn|Zermatt]] for the Matterhorn and [[interlaken-jungfrau|the Jungfrau region]] for the Eiger and Jungfraujoch."
+        },
+        {
+          "title": "If you love trains",
+          "text": "[[st-moritz-engadin|The Engadin]] for the Bernina and Glacier Express, and [[lausanne-lavaux|Lake Geneva]] for the GoldenPass line."
+        },
+        {
+          "title": "If you love cities and culture",
+          "text": "[[zurich|Zurich]], [[bern|Bern]] and [[geneva|Geneva]] all have museums, old towns and fine dining."
+        },
+        {
+          "title": "If you want a Mediterranean feel",
+          "text": "[[lugano-ticino|Lugano and Ticino]] have palm trees, piazzas and Italian food, just south of the Alps."
+        },
+        {
+          "title": "If you want traditional Switzerland",
+          "text": "[[appenzell|Appenzell]] for cheese, painted houses and gentle hills, away from the crowds."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around and passes",
+      "navLabel": "Getting around",
+      "body": [
+        "Switzerland's public transport network is one of the best in the world, and connections are designed to meet at each station.",
+        "**Trains.** Frequent, punctual and cross-country. Seat reservations are only needed on panoramic trains such as the Glacier Express. Use the SBB Mobile app.",
+        "**The Swiss Travel Pass.** Unlimited travel on trains, buses and boats, free entry to many museums, and discounts on mountain railways. It pays off for fast-moving trips.",
+        "**Half Fare Card and regional passes.** Cheaper for a slower trip, particularly with a few big excursions such as [[interlaken-jungfrau|Jungfraujoch]] or [[zermatt-matterhorn|Gornergrat]].",
+        "**Cars.** Only needed for [[lugano-ticino|Ticino's]] valleys and remote areas. Parking is expensive."
+      ],
+      "note": "Mountain lifts and cog railways are usually excluded or discounted on passes, so add them to your budget."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Switzerland has two main seasons, and the shoulder months are quieter but limited.",
+        "June to August is summer: hiking, lakes, long days and the highest prices. Thunderstorms build in the afternoons, and clear mornings are best for high views.",
+        "September and October are autumn: clear air, colour, harvests and fewer crowds. Many people think September is the best month.",
+        "December to March is winter: snow, skiing and Christmas markets. Cities are lively, and mountain villages are magical, but hikes are limited.",
+        "April, May and November are the low season, when some lifts and hotels shut, and it is cheap but limited."
+      ],
+      "note": "Weather in the mountains changes fast. Check forecasts and webcams before paying for a summit."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Switzerland is very expensive. A simple restaurant meal costs US$25–40, a mid-range hotel US$200–300, and a return trip to Jungfraujoch can cost more than US$200.",
+        "Savings come from supermarket picnics, hostels and apartments, regional passes and cheaper bases such as Lucerne, Thun and Bern. Tap water is excellent, and fountains are drinkable.",
+        "Tipping is not expected, since service is included. Cards are widely accepted.",
+        "Crime is low. The mountains are the real risk: check weather, closures and avalanche warnings, wear proper footwear and tell someone your plans."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: Zurich, Lucerne and the Jungfrau",
+          "text": "Two nights in [[lucerne|Lucerne]], three in [[interlaken-jungfrau|Interlaken]] or Lauterbrunnen, and a night each in [[zurich|Zurich]] at the start and end.",
+          "tip": "A regional pass may be cheaper than the full Swiss Travel Pass."
+        },
+        {
+          "title": "Ten days: adding Zermatt and Bern",
+          "text": "The one-week route, plus a night in [[bern|Bern]] and two in [[zermatt-matterhorn|Zermatt]].",
+          "tip": "Check the Matterhorn forecast before you go up."
+        },
+        {
+          "title": "Two weeks: the classic",
+          "text": "The itinerary on the country page: Zurich, Lucerne, the Jungfrau, Bern, Zermatt, [[lausanne-lavaux|Lavaux]] and [[geneva|Geneva]].",
+          "tip": "Swap Geneva for [[lugano-ticino|Ticino]] if you want sun and Italian food."
+        }
+      ]
+    }
+  ]
+}

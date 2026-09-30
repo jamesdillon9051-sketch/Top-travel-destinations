@@ -1,0 +1,286 @@
+{
+  "slug": "chefchaouen",
+  "name": "Chefchaouen",
+  "country": "morocco",
+  "region": "Tanger-Tétouan-Al Hoceïma, Rif Mountains",
+  "categories": ["scenic", "cultural", "mountains"],
+  "tagline": "A small mountain town in the Rif, washed in every shade of blue, with a relaxed pace, waterfalls nearby and some of the best walking in northern Morocco.",
+  "highlight": "The blue lanes of the old medina at first light, before the tour groups arrive.",
+  "shortDescription": "The famous 'blue pearl' of Morocco: a hillside medina of blue-washed walls and stairways, a lively square, a spring-fed river and trails into the Rif.",
+  "metaDescription": "A Chefchaouen travel guide: the blue medina, Plaza Uta el-Hammam, the Kasbah, Ras El Maa, the Spanish Mosque viewpoint, Akchour waterfalls, food, where to stay and a two-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Tangier Ibn Battouta (TNG), about 2 hours 30 minutes",
+  "knownFor": "Blue-washed streets, relaxed atmosphere, mountain walks, crafts",
+  "budget": "US$45–100 per day, mid-range",
+  "goodFor": "Photography, walking, relaxing, crafts, an easy pace",
+  "coords": { "lat": 35.1688, "lng": -5.2636 },
+  "image": {
+    "file": "File:Chefchaouen-the-blue-city-of-morocco-with-the-mountain-view-in-the-backrgound.jpg",
+    "alt": "The blue houses of Chefchaouen with the Rif mountains rising behind"
+  },
+  "intro": [
+    "Chefchaouen was founded in 1471 as a small fortress, or kasbah, to defend the region against Portuguese attacks on the northern coast. After the fall of Granada in 1492, it received waves of Muslim and Jewish refugees from Andalusia, who shaped its architecture, its whitewashed houses and its red-tiled roofs. It remained closed to foreigners until the Spanish took it in 1920, and it became part of Morocco again after independence in 1956.",
+    "The blue is the town's signature. The tradition is often traced to the Jewish refugees who settled here, with blue symbolising the sky and heaven, though the story is disputed and much of the blue is now repainted regularly for visitors. Whatever its origin, the effect of blue-washed steps, doorways, pots and walls against the green Rif Mountains is remarkable.",
+    "Chefchaouen sits at about 600 metres, and the air is cool and fresh. It is small, relaxed and very photogenic, and it makes a welcome pause between the intensity of Fes and the Mediterranean coast."
+  ],
+  "whyVisit": {
+    "intro": "Chefchaouen is a place to slow down, with an atmosphere unlike the imperial cities.",
+    "points": [
+      {
+        "title": "A unique look",
+        "text": "Streets, stairs and doorways washed in shades of blue, with terracotta pots and painted doors."
+      },
+      {
+        "title": "Relaxed and walkable",
+        "text": "The medina is small, and there is little hard selling compared with Marrakech or Fes."
+      },
+      {
+        "title": "Mountain scenery",
+        "text": "The Rif Mountains and Talassemtane National Park offer walking, waterfalls and cedar forest."
+      },
+      {
+        "title": "Crafts and food",
+        "text": "Woven blankets, wool goods, goat's cheese and honey are sold in the market."
+      },
+      {
+        "title": "Andalusian traces",
+        "text": "The whitewashed houses and Spanish influence recall southern Spain, which lies across the strait."
+      }
+    ]
+  },
+  "attractionsIntro": "The medina is small, and one full day covers it, but the surroundings make it worth staying a night.",
+  "attractions": [
+    {
+      "name": "The blue medina",
+      "text": "The heart of the town, where every stair and doorway seems to have been painted for a photograph. The blue changes with the light and is at its best in early morning and late afternoon.",
+      "tip": "Go early, and be respectful when photographing residents."
+    },
+    {
+      "name": "Plaza Uta el-Hammam",
+      "text": "The main square, shaded by trees and lined with cafés facing the Kasbah and the Great Mosque, whose octagonal minaret is unusual in Morocco.",
+      "tip": "Have a mint tea and watch the town go by."
+    },
+    {
+      "name": "The Kasbah and Ethnographic Museum",
+      "text": "The 15th-century fortress with a garden courtyard, a small museum of regional crafts and a tower with views over the roofs.",
+      "tip": "Climb the tower for the panorama."
+    },
+    {
+      "name": "Ras El Maa",
+      "image": {
+        "file": "File:Ras El Maa.jpg",
+        "alt": "The stream and waterfall at Ras El Maa on the edge of Chefchaouen"
+      },
+      "text": "The spring at the top of the town where the river emerges from the mountain, with a waterfall, small cafés and old washing places.",
+      "tip": "Walk up in the afternoon."
+    },
+    {
+      "name": "The Spanish Mosque",
+      "text": "A disused mosque on a hilltop east of town, built by the Spanish in the 1920s, reached by a 30-minute walk. It is the classic sunset viewpoint.",
+      "tip": "Take water and a jacket."
+    }
+  ],
+  "thingsToDoIntro": "Chefchaouen is for walking, photography and doing very little.",
+  "thingsToDo": [
+    {
+      "title": "Wander at dawn",
+      "text": "The medina is empty in the early morning, and the light is soft. It is the best time for photographs.",
+      "tip": "Set an alarm."
+    },
+    {
+      "title": "Walk to the Spanish Mosque at sunset",
+      "text": "A short climb gives a view over the blue town and the surrounding mountains.",
+      "tip": "Go about an hour before sunset."
+    },
+    {
+      "title": "Walk to the Akchour waterfalls",
+      "text": "A day trip to Talassemtane National Park, where a trail leads to the Akchour waterfalls and the rock formation known as God's Bridge.",
+      "tip": "Take a shared taxi from town, and check trail conditions."
+    },
+    {
+      "title": "Shop for wool and crafts",
+      "text": "Woven blankets, hats, and locally made goat's cheese and honey.",
+      "tip": "Bargain politely."
+    },
+    {
+      "title": "Sit in a café",
+      "text": "The terraces around Plaza Uta el-Hammam are good for slow tea and coffee.",
+      "tip": "Try the rooftop cafés for views."
+    },
+    {
+      "title": "Continue to the coast",
+      "text": "Tetouan, the Mediterranean beaches and Tangier are within a few hours.",
+      "tip": "Buses from the main station."
+    }
+  ],
+  "foodIntro": "Chefchaouen's cooking is northern Moroccan, with Andalusian touches, and it is known for its goat's cheese.",
+  "foods": [
+    {
+      "name": "Jben (goat's cheese)",
+      "text": "Fresh white goat's cheese, sold in the market wrapped in leaves, and eaten with honey and bread.",
+      "whereToTry": "The market and cafés."
+    },
+    {
+      "name": "Tagine and couscous",
+      "text": "Local versions, often with vegetables and preserved lemon.",
+      "whereToTry": "Restaurants around the square."
+    },
+    {
+      "name": "Bissara",
+      "text": "A thick bean soup, popular on cool mornings.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Grilled meats",
+      "text": "Skewers and kefta, served with bread and salads.",
+      "whereToTry": "Small grill restaurants."
+    },
+    {
+      "name": "Mint tea and pastries",
+      "text": "Served in cafés with almond pastries.",
+      "whereToTry": "Plaza Uta el-Hammam."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors stay in the medina, in small guesthouses with roof terraces.",
+    "areas": [
+      {
+        "name": "The medina",
+        "bestFor": "Atmosphere and walkability",
+        "text": "Small riads and guesthouses, some with views of the mountains."
+      },
+      {
+        "name": "The edge of town",
+        "bestFor": "Easy parking and quieter nights",
+        "text": "Hotels with views over the medina and easier access for cars."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "US$20–45 per night" },
+      { "label": "Mid-range riad", "value": "US$60–110 per night" },
+      { "label": "Boutique hotel", "value": "US$120–220 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$5–12 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Chefchaouen is in the Rif, and the nearest major cities are Tangier, Tetouan and Fes.",
+    "options": [
+      {
+        "mode": "Bus from Fes",
+        "text": "About 4 hours on CTM or Supratours.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Bus or grand taxi from Tangier or Tetouan",
+        "text": "About 2 hours 30 minutes from Tangier, and about 1 hour 30 minutes from Tetouan.",
+        "detail": "Buses run several times a day."
+      },
+      {
+        "mode": "Private driver or car",
+        "text": "Chefchaouen is a scenic drive, and works as a stop between Fes and Tangier.",
+        "detail": "The roads through the Rif are winding."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The town is small and walkable.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "Everything in the medina is on foot, with steep steps.",
+        "detail": "Wear comfortable shoes."
+      },
+      {
+        "mode": "Taxis",
+        "text": "Petits taxis serve the edges of town, and shared taxis go to Akchour.",
+        "detail": "Agree fares."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–November",
+    "summary": "Chefchaouen has a mild, wetter climate than the south, with cold, damp winters.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm and green, with wildflowers."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Warm and busy, but cooler than the interior."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Pleasant and quieter."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold and rainy, with few visitors."
+      }
+    ],
+    "avoid": "Winter for waterfall hikes, and busy weekends in summer."
+  },
+  "itinerary": {
+    "title": "Two days in Chefchaouen",
+    "intro": "A day for the medina and a day for the mountains.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The blue medina",
+        "summary": "Streets and views.",
+        "morning": "Wander the medina at dawn.",
+        "afternoon": "The Kasbah and Ras El Maa.",
+        "evening": "Sunset at the Spanish Mosque."
+      },
+      {
+        "day": 2,
+        "title": "Into the mountains",
+        "summary": "Waterfalls and walking.",
+        "morning": "A shared taxi to Akchour.",
+        "afternoon": "Walk to the waterfalls and God's Bridge.",
+        "evening": "Dinner on Plaza Uta el-Hammam."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you enjoy the town.",
+  "tips": [
+    "Go early in the morning for photographs without crowds.",
+    "Ask before photographing people.",
+    "Be wary of touts who offer cannabis. The Rif is known for its cultivation, but it is illegal to buy or use.",
+    "Bring layers. Evenings and winters can be cold.",
+    "Wear comfortable shoes for the steps.",
+    "Stay a night rather than making a day trip."
+  ],
+  "faq": [
+    {
+      "q": "Why is Chefchaouen blue?",
+      "a": "The tradition is often attributed to Jewish refugees who settled here in the 20th century, with blue symbolising heaven. The truth is disputed, and today the paint is renewed for visitors."
+    },
+    {
+      "q": "How long do you need in Chefchaouen?",
+      "a": "One night is enough for the medina. Two nights lets you walk to the waterfalls."
+    },
+    {
+      "q": "Is Chefchaouen safe?",
+      "a": "Generally yes. Touts may offer cannabis, which is illegal, and it is best to decline."
+    },
+    {
+      "q": "Is it crowded?",
+      "a": "It can be at midday and on weekends, but early mornings and evenings are calm."
+    },
+    {
+      "q": "Can I visit as a day trip from Fes?",
+      "a": "It is possible but long. It is better to stay a night."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "Spring and autumn. Winter is cold and wet."
+    }
+  ],
+  "related": ["fes", "meknes-volubilis", "rabat"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

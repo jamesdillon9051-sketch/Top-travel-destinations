@@ -1,0 +1,318 @@
+{
+  "slug": "drakensberg",
+  "name": "The Drakensberg",
+  "country": "south-africa",
+  "region": "KwaZulu-Natal, on the Lesotho border",
+  "categories": ["mountains", "unesco", "national-park", "scenic"],
+  "tagline": "A 200-kilometre wall of basalt and sandstone peaks, the Dragon Mountains, with waterfalls, hiking trails, ancient San rock paintings and the highest waterfall in Africa.",
+  "highlight": "Standing beneath the Amphitheatre, a five-kilometre rock wall towering above the Royal Natal National Park.",
+  "shortDescription": "A UNESCO-listed mountain range of dramatic escarpments, with the Amphitheatre and Tugela Falls, Cathedral Peak, Giant's Castle, San rock art, hiking, horse riding and mountain resorts.",
+  "metaDescription": "A Drakensberg travel guide: the Amphitheatre and Tugela Falls, Cathedral Peak, Giant's Castle, San rock art, hiking, Sani Pass, best time, where to stay and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Durban King Shaka (DUR) or Johannesburg OR Tambo (JNB), each about 3.5 to 4.5 hours by road",
+  "knownFor": "Escarpment scenery, hiking, rock art, waterfalls, mountain lodges",
+  "budget": "US$90–180 per day, mid-range",
+  "goodFor": "Hiking, scenery, rock art, horse riding, family holidays",
+  "coords": { "lat": -28.7500, "lng": 29.2500 },
+  "image": {
+    "file": "File:Drakensbergen Amphitheater 08.jpg",
+    "alt": "The Amphitheatre, a huge curving rock wall in the Drakensberg mountains"
+  },
+  "intro": [
+    "The Drakensberg, Afrikaans for Dragon Mountains and known to the Zulu as uKhahlamba, the Barrier of Spears, is the highest range in southern Africa. Its great basalt escarpment runs for about 200 km along the border between South Africa's KwaZulu-Natal province and Lesotho, rising to more than 3,400 metres, with sandstone foothills, deep valleys, grassy slopes and rivers. It was inscribed by UNESCO in 2000 for its spectacular scenery, biodiversity and its rock art.",
+    "The most famous sight is the Amphitheatre, a rock wall about 5 km long and 1,200 metres high in the Royal Natal National Park, with the Tugela Falls plunging in five drops over the edge, the second-highest waterfall in the world at about 948 metres. Elsewhere, Cathedral Peak, Champagne Castle and Giant's Castle offer hiking, and the sandstone shelters hold more than 35,000 paintings by the San people, who lived here for thousands of years.",
+    "It is a place for walkers, riders, birdwatchers and those who enjoy mountain air. Small resorts and lodges are scattered through the valleys, and the days are best spent on trails, with a swim in a rock pool at the end. Weather can change fast, with summer thunderstorms and winter snow, and a car is the best way to reach the trailheads."
+  ],
+  "whyVisit": {
+    "intro": "The Drakensberg is South Africa's finest mountain scenery, with excellent walks for all abilities.",
+    "points": [
+      {
+        "title": "Dramatic escarpment",
+        "text": "Sheer basalt walls, spires and amphitheatres."
+      },
+      {
+        "title": "Tugela Falls",
+        "text": "One of the highest waterfalls in the world, reached by a hike."
+      },
+      {
+        "title": "Hiking for everyone",
+        "text": "Easy waterfall walks to multi-day treks."
+      },
+      {
+        "title": "San rock art",
+        "text": "Thousands of paintings in shelters, some up to 3,000 years old."
+      },
+      {
+        "title": "Mountain resorts",
+        "text": "Family-friendly lodges with horse riding and swimming holes."
+      }
+    ]
+  },
+  "attractionsIntro": "The range has several distinct areas, each with its own character.",
+  "attractions": [
+    {
+      "name": "The Amphitheatre and Royal Natal National Park",
+      "text": "A great curving rock wall with the Tugela Falls behind. Trails lead to the Tugela Gorge, and a hike to the top via chain ladders from Sentinel car park reaches the escarpment.",
+      "tip": "Go on a clear day."
+    },
+    {
+      "name": "Tugela Falls",
+      "image": {
+        "file": "File:Tugela Falls drop-off.jpg",
+        "alt": "The Tugela Falls dropping from the top of the Amphitheatre"
+      },
+      "text": "A waterfall in five drops totalling about 948 metres, often cited as the second highest in the world. It flows best after rain, and can freeze in winter.",
+      "tip": "Check the flow before you go."
+    },
+    {
+      "name": "Cathedral Peak",
+      "image": {
+        "file": "File:Cathedral Peak (3617833948).jpg",
+        "alt": "The distinctive rock tower of Cathedral Peak in the Drakensberg"
+      },
+      "text": "A sharp, cathedral-like peak in the central Drakensberg, with hiking trails, rock pools and Didima Gorge, and access to San rock art.",
+      "tip": "A good base for walks."
+    },
+    {
+      "name": "San rock art at Giant's Castle and Cathedral Peak",
+      "image": {
+        "file": "File:ELANDS - Eland figures in San rock art at Eland Cave, South Africa, 2017.jpg",
+        "alt": "San rock paintings of eland antelope on the wall of Eland Cave"
+      },
+      "text": "The Drakensberg holds one of the world's greatest collections of rock art, with paintings of eland, humans and spirit beings, at sites such as Main Caves and Eland Cave.",
+      "tip": "Visit with a guide."
+    },
+    {
+      "name": "Giant's Castle Game Reserve",
+      "text": "A high-altitude reserve with eland, other antelope and the rare bearded vulture, which can be seen at a hide in winter.",
+      "tip": "Book the vulture hide."
+    },
+    {
+      "name": "Sani Pass",
+      "text": "A 4x4 route over the escarpment into Lesotho, with steep hairpins, and the highest pub in Africa at the top.",
+      "tip": "Go on a guided tour."
+    }
+  ],
+  "thingsToDoIntro": "Walking and outdoor activities make up most of the days.",
+  "thingsToDo": [
+    {
+      "title": "Hike to Tugela Gorge",
+      "text": "A 5-hour walk through a spectacular gorge to the base of the Amphitheatre.",
+      "tip": "Start early."
+    },
+    {
+      "title": "Ride a horse",
+      "text": "Trails through the foothills and valleys.",
+      "tip": "Book at your lodge."
+    },
+    {
+      "title": "See San rock art",
+      "text": "Guided walks to painted shelters.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Swim in a rock pool",
+      "text": "Cool off in mountain streams.",
+      "tip": "Check the water levels."
+    },
+    {
+      "title": "Fly fish for trout",
+      "text": "Rivers and dams stocked with trout.",
+      "tip": "Book a guide."
+    },
+    {
+      "title": "Watch birds",
+      "text": "Bearded vultures, cranes and sunbirds.",
+      "tip": "Bring binoculars."
+    }
+  ],
+  "foodIntro": "Mountain lodges serve hearty meals, with braais and traditional dishes.",
+  "foods": [
+    {
+      "name": "Trout",
+      "text": "Freshly caught rainbow trout.",
+      "whereToTry": "Lodges and restaurants."
+    },
+    {
+      "name": "Braai",
+      "text": "Barbecue with boerewors and steak.",
+      "whereToTry": "Lodges."
+    },
+    {
+      "name": "Farm-style meals",
+      "text": "Roasts, stews and pies.",
+      "whereToTry": "Resorts."
+    },
+    {
+      "name": "Potjiekos",
+      "text": "Slow-cooked stew.",
+      "whereToTry": "Braai nights."
+    },
+    {
+      "name": "Rusks and coffee",
+      "text": "A hiker's breakfast.",
+      "whereToTry": "Lodges."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in a mountain lodge, resort or self-catering cottage in one of the valleys.",
+    "areas": [
+      {
+        "name": "Champagne Valley and Central Berg",
+        "bestFor": "Walks and family stays",
+        "text": "Resorts and lodges beneath Champagne Castle."
+      },
+      {
+        "name": "Royal Natal and the Northern Berg",
+        "bestFor": "The Amphitheatre",
+        "text": "Hotels and cottages."
+      },
+      {
+        "name": "Underberg and the Southern Berg",
+        "bestFor": "Sani Pass and trout fishing",
+        "text": "Guesthouses and lodges."
+      }
+    ],
+    "budget": [
+      { "label": "Self-catering cottage", "value": "US$60–120 per night" },
+      { "label": "Mid-range lodge", "value": "US$120–220 per night" },
+      { "label": "Luxury lodge", "value": "US$250–500 per night" },
+      { "label": "Meal at a lodge", "value": "US$12–25 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Drakensberg is 350 to 450 km from Johannesburg and Durban.",
+    "options": [
+      {
+        "mode": "Drive from Johannesburg",
+        "text": "About 4 to 5 hours to the central Berg.",
+        "detail": "Roads are good."
+      },
+      {
+        "mode": "Drive from Durban",
+        "text": "About 3.5 to 4 hours.",
+        "detail": "Hire a car."
+      },
+      {
+        "mode": "Fly to Durban or Johannesburg",
+        "text": "Then hire a car.",
+        "detail": "Book early."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is essential for trailheads and valleys.",
+    "options": [
+      {
+        "mode": "Hire car",
+        "text": "Roads are paved to most lodges, with gravel to trailheads.",
+        "detail": "Check conditions."
+      },
+      {
+        "mode": "Guided tours",
+        "text": "For rock art and Sani Pass.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "On foot",
+        "text": "Trails from lodges.",
+        "detail": "Wear boots."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "The Drakensberg has hot, wet summers with thunderstorms and cold, dry winters, with snow on the peaks.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Warm and green, with afternoon thunderstorms."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Clear, warm days and cool nights."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "good",
+        "text": "Dry and sunny, but very cold at night, with snow."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Mild, with wildflowers."
+      }
+    ],
+    "avoid": "Summer afternoons for hiking, when storms and lightning are common."
+  },
+  "itinerary": {
+    "title": "Three days in the Drakensberg",
+    "intro": "Walks, waterfalls and rock art.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive",
+        "summary": "A gentle start.",
+        "morning": "Drive to the mountains.",
+        "afternoon": "A short walk to a pool.",
+        "evening": "A braai."
+      },
+      {
+        "day": 2,
+        "title": "The Amphitheatre",
+        "summary": "The big walk.",
+        "morning": "Tugela Gorge.",
+        "afternoon": "The return.",
+        "evening": "Rest."
+      },
+      {
+        "day": 3,
+        "title": "Rock art",
+        "summary": "San heritage.",
+        "morning": "A guided walk to rock art.",
+        "afternoon": "Horse riding.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you stay safe in the mountains.",
+  "tips": [
+    "Check the weather. Storms and mist can arrive suddenly.",
+    "Register at park offices before hiking.",
+    "Bring layers, sun protection and waterproofs.",
+    "Take a guide for longer routes.",
+    "Do not touch rock paintings.",
+    "Start walks early to avoid afternoon storms.",
+    "Fill up with fuel and cash before arriving."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the Drakensberg?",
+      "a": "Three days is ideal."
+    },
+    {
+      "q": "Is Tugela Falls really the second highest waterfall?",
+      "a": "It is often described so, at about 948 metres in five drops, though rankings vary by definition."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "March to May and September to November."
+    },
+    {
+      "q": "Can I hike without a guide?",
+      "a": "Many day walks are fine without one. Take a guide for longer routes and rock art."
+    },
+    {
+      "q": "Is it cold?",
+      "a": "Nights are cold, even in summer, and winters can be freezing."
+    },
+    {
+      "q": "Is the Drakensberg near Johannesburg?",
+      "a": "It is about 4 to 5 hours by road."
+    }
+  ],
+  "related": ["isimangaliso-st-lucia", "johannesburg-soweto", "panorama-route"],
+  "relatedArticles": ["packing-by-season", "unesco-worth-planning-around"]
+}

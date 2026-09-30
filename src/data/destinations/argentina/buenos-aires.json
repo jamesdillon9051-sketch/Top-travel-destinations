@@ -1,0 +1,356 @@
+{
+  "slug": "buenos-aires",
+  "name": "Buenos Aires",
+  "country": "argentina",
+  "region": "Buenos Aires, on the Río de la Plata",
+  "categories": ["capital-city", "major-city", "cultural", "food-and-wine"],
+  "tagline": "The Paris of South America: grand boulevards, sunlit cafés, tango, bookshops, steakhouses and neighbourhoods each with a distinct personality, staying up until dawn.",
+  "highlight": "A slow dinner of grilled beef and Malbec in Palermo at 10pm, followed by a milonga where the dancers do not stop until dawn.",
+  "shortDescription": "Argentina's capital: a city of European architecture and Latin passion, with Plaza de Mayo, Recoleta Cemetery, San Telmo, La Boca, Teatro Colón, tango and some of the best food and nightlife in the Americas.",
+  "metaDescription": "A Buenos Aires travel guide: Plaza de Mayo, Recoleta Cemetery, San Telmo market, La Boca and Caminito, Teatro Colón, El Ateneo, tango, parrillas, football, neighbourhoods and a four-day plan.",
+  "suggestedStay": "4 days",
+  "nearestAirport": "Ministro Pistarini, Ezeiza (EZE), about 45 minutes to 1 hour; Aeroparque (AEP) for domestic flights",
+  "knownFor": "Tango, steak, cafés, bookshops, European architecture, nightlife",
+  "budget": "US$100–200 per day, mid-range",
+  "goodFor": "Food, culture, nightlife, walking, shopping",
+  "coords": { "lat": -34.6037, "lng": -58.3816 },
+  "image": {
+    "file": "File:Obelisco de Buenos Aires at sunset.jpg",
+    "alt": "The Obelisco monument in Buenos Aires at sunset with wide avenues around it"
+  },
+  "intro": [
+    "Buenos Aires was founded in 1536 and refounded in 1580 on the shore of the wide Río de la Plata, and it grew rich in the late 19th and early 20th centuries on the export of beef and grain. Immigration from Italy, Spain and elsewhere shaped its population, and its architecture, with wide boulevards, French-style mansions and Italian-inspired cafés, earned it the name Paris of South America. It remains one of the world's great cultural cities.",
+    "The city is a patchwork of barrios, each with its own character: San Telmo, with its cobbled streets and antique markets; La Boca, with its brightly painted houses; Recoleta, with elegant mansions and its famous cemetery; Palermo, a large area of parks, cafés, boutiques and nightlife; and Puerto Madero, a redeveloped dock area of restaurants and modern towers. It is a walkable city, and one of the best in the world for wandering.",
+    "Tango is the soul of the city, but so are football, cafés, bookshops, and the parrilla, or steakhouse. Portenos, as the residents are called, live late, eat late and talk with passion, and a visit rewards those who adopt their rhythm. It has economic troubles and periodic strikes, but its energy is unmatched."
+  ],
+  "whyVisit": {
+    "intro": "Buenos Aires is the cultural and culinary capital of South America, and a city of endless variety.",
+    "points": [
+      {
+        "title": "Tango and music",
+        "text": "Dance halls, shows, street performers and a thriving live music scene."
+      },
+      {
+        "title": "Superb food",
+        "text": "Steak, empanadas, pasta, dulce de leche and Malbec, in parrillas and cafés."
+      },
+      {
+        "title": "Architecture and history",
+        "text": "Belle Époque mansions, grand plazas and colourful neighbourhoods."
+      },
+      {
+        "title": "Bookshops and cafés",
+        "text": "One of the world's great bookshop cultures, with historic cafés to match."
+      },
+      {
+        "title": "Nightlife",
+        "text": "Bars, clubs and milongas open until dawn."
+      }
+    ]
+  },
+  "attractionsIntro": "The city is best explored by neighbourhood, with time for cafés in between.",
+  "attractions": [
+    {
+      "name": "Plaza de Mayo and the Casa Rosada",
+      "image": {
+        "file": "File:Puerto Madero, Casa Rosada, Plaza de Mayo 01.jpg",
+        "alt": "The pink Casa Rosada presidential palace on Plaza de Mayo in Buenos Aires"
+      },
+      "text": "The historic heart of the city, with the pink Casa Rosada, the Cabildo and the Metropolitan Cathedral. The Mothers of the Plaza de Mayo still march here on Thursday afternoons.",
+      "tip": "Visit in the morning, and see the Thursday march."
+    },
+    {
+      "name": "Recoleta Cemetery",
+      "image": {
+        "file": "File:Recoleta cemetery in Buenos Aires 5082265.jpg",
+        "alt": "Ornate mausoleums lining the alleys of Recoleta Cemetery in Buenos Aires"
+      },
+      "text": "A city of the dead, with ornate mausoleums lining narrow streets, and the family tomb of Eva Perón. It is one of the most atmospheric cemeteries in the world.",
+      "tip": "Go in the morning, and look for the cats."
+    },
+    {
+      "name": "San Telmo and its Sunday market",
+      "image": {
+        "file": "File:San Telmo Market, Buenos Aires, Argentina.jpg",
+        "alt": "Antique stalls at the San Telmo Sunday market in Buenos Aires"
+      },
+      "text": "The oldest neighbourhood, with cobbled streets, colonial houses, tango bars and a large market of antiques and crafts on Sundays.",
+      "tip": "Go early on a Sunday, and watch your bag."
+    },
+    {
+      "name": "La Boca and Caminito",
+      "image": {
+        "file": "File:El caminito2 - Buenos Aires - Argentina.jpg",
+        "alt": "Brightly painted houses on the Caminito street in La Boca"
+      },
+      "text": "A working-class port district with brightly painted houses, tango dancers and the football stadium La Bombonera. The tourist street, Caminito, is safe by day, but stay within it.",
+      "tip": "Take a taxi to and from, and visit by day."
+    },
+    {
+      "name": "Teatro Colón",
+      "image": {
+        "file": "File:Teatro Colón, Buenos Aires 01.jpg",
+        "alt": "The grand façade of the Teatro Colón opera house in Buenos Aires"
+      },
+      "text": "One of the world's great opera houses, opened in 1908, with superb acoustics and a lavish interior. Tours and performances are available.",
+      "tip": "Book a tour, or see a show."
+    },
+    {
+      "name": "El Ateneo Grand Splendid",
+      "image": {
+        "file": "File:Librería El Ateneo Grand Splendid - 1.jpg",
+        "alt": "The interior of El Ateneo Grand Splendid, a former theatre turned bookshop"
+      },
+      "text": "A former 1919 theatre turned into a spectacular bookshop, with balconies, a painted ceiling and a café on the stage.",
+      "tip": "Go on a weekday morning."
+    },
+    {
+      "name": "Puerto Madero",
+      "image": {
+        "file": "File:Puente de la Mujer de Puerto Madero - Noviembre 2018.jpg",
+        "alt": "The white Puente de la Mujer pedestrian bridge in Puerto Madero"
+      },
+      "text": "The redeveloped docks, with restaurants, the Puente de la Mujer, a pedestrian bridge by Santiago Calatrava, and the Costanera Sur ecological reserve.",
+      "tip": "Walk or cycle in the evening."
+    }
+  ],
+  "thingsToDoIntro": "Buenos Aires is about strolling, eating and staying up late.",
+  "thingsToDo": [
+    {
+      "title": "Go to a milonga",
+      "image": {
+        "file": "File:Buenos Aires - Tango dancers in Sunderland Club - 7078.jpg",
+        "alt": "Tango dancers at a milonga in Buenos Aires"
+      },
+      "text": "A dance hall where locals dance tango. Many offer a beginner class first.",
+      "tip": "Try a class first, and watch the etiquette."
+    },
+    {
+      "title": "Eat at a parrilla",
+      "text": "Order a mixed grill, provoleta and salad, and share.",
+      "tip": "Book a table for 9 or 10pm."
+    },
+    {
+      "title": "See a football match",
+      "text": "Boca Juniors and River Plate matches are legendary.",
+      "tip": "Book through a reputable tour."
+    },
+    {
+      "title": "Have coffee in a historic café",
+      "text": "Historic cafés such as Café Tortoni, opened in 1858, offer coffee, medialunas and atmosphere.",
+      "tip": "Go off-peak to avoid the queue."
+    },
+    {
+      "title": "Wander Palermo",
+      "text": "Palermo Soho and Palermo Hollywood are full of boutiques, cafés and bars.",
+      "tip": "Go on a weekend."
+    },
+    {
+      "title": "Take a day trip to an estancia",
+      "text": "A day on a ranch near the city, with a barbecue, horse riding and folklore.",
+      "tip": "Book in advance."
+    }
+  ],
+  "foodIntro": "Buenos Aires eats late and well, with beef at the centre, along with Italian-inspired pasta and pizza.",
+  "foods": [
+    {
+      "name": "Beef at a parrilla",
+      "text": "Bife de chorizo, ojo de bife and vacío, grilled on wood and charcoal.",
+      "whereToTry": "Parrillas in Palermo and San Telmo."
+    },
+    {
+      "name": "Empanadas",
+      "text": "Baked or fried pastries with beef, cheese or vegetables.",
+      "whereToTry": "Bakeries and casual restaurants."
+    },
+    {
+      "name": "Medialunas and coffee",
+      "text": "Sweet croissants with a cortado, the classic breakfast.",
+      "whereToTry": "Cafés everywhere."
+    },
+    {
+      "name": "Pizza and pasta",
+      "text": "Thick pizzas and homemade pasta, from Italian immigrants.",
+      "whereToTry": "Traditional pizzerias."
+    },
+    {
+      "name": "Dulce de leche",
+      "text": "Milk caramel in pastries, alfajores, ice cream and flan.",
+      "whereToTry": "Ice-cream shops (heladerías)."
+    },
+    {
+      "name": "Malbec and Torrontés",
+      "text": "The country's wines, in bars and restaurants.",
+      "whereToTry": "Wine bars in Palermo."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose Palermo for nightlife, Recoleta for elegance and San Telmo for atmosphere.",
+    "areas": [
+      {
+        "name": "Palermo",
+        "bestFor": "Restaurants and nightlife",
+        "text": "Boutique hotels and apartments."
+      },
+      {
+        "name": "Recoleta and Retiro",
+        "bestFor": "Elegance and safety",
+        "text": "Grand hotels near museums and parks."
+      },
+      {
+        "name": "San Telmo and the centre",
+        "bestFor": "History and value",
+        "text": "Guesthouses and hostels in old houses."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel or hotel", "value": "US$20–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–160 per night" },
+      { "label": "Luxury hotel", "value": "US$200–500 per night" },
+      { "label": "Meal at a mid-range restaurant", "value": "US$15–40 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Buenos Aires is Argentina's main international gateway.",
+    "options": [
+      {
+        "mode": "Flight to Ezeiza (EZE)",
+        "text": "Direct flights from North America, Europe and across South America.",
+        "detail": "Use a pre-booked transfer or an official taxi."
+      },
+      {
+        "mode": "Domestic flights to Aeroparque (AEP)",
+        "text": "Flights to Iguazu, Patagonia, Mendoza, Salta and Bariloche.",
+        "detail": "It is close to the centre."
+      },
+      {
+        "mode": "Ferry from Uruguay",
+        "text": "Fast ferries from Colonia and Montevideo arrive at the port.",
+        "detail": "Book in advance."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Use the subte and taxis, and walk in the neighbourhoods.",
+    "options": [
+      {
+        "mode": "Subte (metro)",
+        "text": "Six lines, cheap and quick, though crowded at peak times.",
+        "detail": "Load a SUBE card."
+      },
+      {
+        "mode": "Taxis and apps",
+        "text": "Radio taxis, Cabify and Uber operate.",
+        "detail": "Use the app, and avoid hailing at night."
+      },
+      {
+        "mode": "Walking",
+        "text": "The best way to see the barrios.",
+        "detail": "Watch your belongings."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "September–November and March–May",
+    "summary": "Buenos Aires has a humid subtropical climate, with hot, sticky summers and mild, damp winters.",
+    "seasons": [
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Warm and sunny, with jacaranda blossom."
+      },
+      {
+        "season": "Summer (December–February)",
+        "rating": "avoid",
+        "text": "Hot and humid, and many locals leave town."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Warm, pleasant and clear."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "good",
+        "text": "Cool and damp, but good for culture."
+      }
+    ],
+    "avoid": "January and February for the heat."
+  },
+  "itinerary": {
+    "title": "Four days in Buenos Aires",
+    "intro": "The historic centre, the barrios, culture and a day out.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The centre",
+        "summary": "Plazas and palaces.",
+        "morning": "Plaza de Mayo and the Casa Rosada.",
+        "afternoon": "San Telmo.",
+        "evening": "A tango show."
+      },
+      {
+        "day": 2,
+        "title": "Recoleta and Palermo",
+        "summary": "Elegance and green.",
+        "morning": "Recoleta Cemetery and the Ateneo.",
+        "afternoon": "Palermo's parks and MALBA.",
+        "evening": "Dinner at a parrilla."
+      },
+      {
+        "day": 3,
+        "title": "La Boca and the port",
+        "summary": "Colour and water.",
+        "morning": "Caminito and La Bombonera.",
+        "afternoon": "Puerto Madero.",
+        "evening": "A milonga."
+      },
+      {
+        "day": 4,
+        "title": "Day out",
+        "summary": "An estancia or the delta.",
+        "morning": "A day at an estancia, or the Tigre Delta.",
+        "afternoon": "A barbecue.",
+        "evening": "Farewell dinner."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you enjoy the city safely.",
+  "tips": [
+    "Keep phones and bags out of sight, particularly on buses, the subte and busy streets.",
+    "Use taxi apps or radio taxis, especially at night.",
+    "Eat dinner late. Restaurants open at 8 or 9pm.",
+    "Visit La Boca in the daytime, and stay in the tourist area.",
+    "Check strike announcements, which can affect transport.",
+    "Book Teatro Colón tours and popular restaurants in advance.",
+    "Carry small notes for taxis and tips."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Buenos Aires?",
+      "a": "Three or four days for the highlights, and more for day trips."
+    },
+    {
+      "q": "Is Buenos Aires safe?",
+      "a": "Generally yes, but petty theft is common. Keep valuables hidden and use taxi apps."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "September to November and March to May."
+    },
+    {
+      "q": "Do I need to see a tango show?",
+      "a": "It is a highlight, but choose between a show and a milonga, depending on whether you want a spectacle or an authentic evening."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Prices are volatile, and it can be cheaper or dearer than expected. Food and wine are good value."
+    },
+    {
+      "q": "Can I see Buenos Aires on a stopover?",
+      "a": "A day or two lets you see the centre, Recoleta and San Telmo."
+    }
+  ],
+  "related": ["iguazu-falls-argentina", "mendoza-wine-country", "el-calafate-perito-moreno"],
+  "relatedArticles": ["food-primer", "week-cost-five-countries"]
+}

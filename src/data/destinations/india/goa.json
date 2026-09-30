@@ -1,0 +1,327 @@
+{
+  "slug": "goa",
+  "name": "Goa",
+  "country": "india",
+  "region": "Goa, west coast",
+  "categories": ["coastal", "unesco", "historic", "cultural"],
+  "tagline": "India's smallest state: palm-lined beaches, whitewashed Portuguese churches, spice plantations, seafood shacks and a laid-back rhythm that is unlike anywhere else in the country.",
+  "highlight": "Fresh fish and a cold drink at a beach shack, watching the sun drop into the Arabian Sea.",
+  "shortDescription": "A former Portuguese colony with 100 km of beaches, the UNESCO-listed churches of Old Goa, the Latin Quarter of Panjim, forts, markets and a food culture found nowhere else in India.",
+  "metaDescription": "A Goa travel guide: North and South Goa beaches, Old Goa's churches, Fontainhas, Fort Aguada, spice plantations, Goan food, when to go and a four-day plan.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "Dabolim (GOI) or Manohar International at Mopa (GOX)",
+  "knownFor": "Beaches, Portuguese heritage, seafood, nightlife, relaxed atmosphere",
+  "budget": "US$45–120 per day, mid-range",
+  "goodFor": "Beaches, relaxation, food, nightlife, colonial heritage",
+  "coords": { "lat": 15.4909, "lng": 73.8278 },
+  "image": {
+    "file": "File:Palolem Beach, South Goa.jpg",
+    "alt": "The curved sandy bay of Palolem beach in South Goa with palms and boats"
+  },
+  "intro": [
+    "Goa was a Portuguese colony for about 450 years, from 1510 until India annexed it in 1961, which is much longer than the British ruled most of the subcontinent. The legacy is everywhere: in the Catholic churches, the Portuguese-style villas with balconies and tiled roofs, the food, the surnames and the relaxed attitude to alcohol and holidays. About a quarter of the population is Christian.",
+    "The coast is 100 km of sand, divided in practice into two. North Goa, around Baga, Calangute, Anjuna, Vagator and Arambol, is livelier, with markets, beach clubs and nightlife. South Goa, around Palolem, Agonda and Colva, is quieter, greener and more relaxed. Inland, rice fields, spice plantations, waterfalls and forest cover the Western Ghats.",
+    "Goa is best used as a place to rest, after the intensity of the north or as a beach stop on a longer trip. Its heritage is also worth seeing: the churches of Old Goa are a UNESCO World Heritage Site, and the old quarter of Panjim, Fontainhas, is a maze of colourful Portuguese houses."
+  ],
+  "whyVisit": {
+    "intro": "Goa offers beaches, heritage and food on a compact coast, and is India's easiest place to unwind.",
+    "points": [
+      {
+        "title": "Beaches for all tastes",
+        "text": "From party beaches with music to quiet coves and long open sands."
+      },
+      {
+        "title": "Portuguese heritage",
+        "text": "Old Goa's churches, Fontainhas and colonial mansions."
+      },
+      {
+        "title": "Goan food",
+        "text": "Fish curry rice, vindaloo, sorpotel and bebinca, with Portuguese, Konkani and Indian influences."
+      },
+      {
+        "title": "A relaxed pace",
+        "text": "Beach shacks, yoga, cafés and markets, with less hassle than other parts of India."
+      },
+      {
+        "title": "Nature inland",
+        "text": "Spice plantations, waterfalls and wildlife sanctuaries in the Western Ghats."
+      }
+    ]
+  },
+  "attractionsIntro": "Split your time between the beach and the heritage sites, and choose your side of the coast.",
+  "attractions": [
+    {
+      "name": "The churches of Old Goa",
+      "image": {
+        "file": "File:Front Elevation of Basilica of Bom Jesus.jpg",
+        "alt": "The laterite façade of the Basilica of Bom Jesus in Old Goa"
+      },
+      "text": "The former Portuguese capital, now a UNESCO site, with the Basilica of Bom Jesus, which holds the remains of St. Francis Xavier, and the huge Sé Cathedral. Most of the city itself has vanished, but the churches remain.",
+      "tip": "Go in the morning, and dress modestly."
+    },
+    {
+      "name": "Fontainhas, Panjim",
+      "text": "The Latin Quarter of Goa's capital, with narrow lanes of pastel houses, small chapels and cafés, and a preserved Portuguese atmosphere.",
+      "tip": "Walk in the late afternoon and stop for a coffee."
+    },
+    {
+      "name": "Fort Aguada",
+      "image": {
+        "file": "File:Fort Aguada, Goa, India.jpg",
+        "alt": "The old Portuguese Fort Aguada and its lighthouse above the sea"
+      },
+      "text": "A well-preserved 17th-century Portuguese fort on a headland north of Panjim, with a lighthouse and views along the coast.",
+      "tip": "Go at sunset."
+    },
+    {
+      "name": "Palolem and South Goa beaches",
+      "text": "A crescent of white sand fringed by palms and fishing boats, with quiet neighbours such as Agonda and Patnem.",
+      "tip": "Stay a few nights in South Goa."
+    },
+    {
+      "name": "Baga, Calangute and Anjuna",
+      "text": "The lively northern beaches, with shacks, water sports, clubs and the famous Wednesday flea market at Anjuna.",
+      "tip": "Go for the atmosphere, but be aware of crowds in the high season."
+    },
+    {
+      "name": "A spice plantation",
+      "text": "Working farms inland where you can see pepper, cardamom, vanilla and cashew, and eat a traditional lunch.",
+      "tip": "Book a half-day tour."
+    }
+  ],
+  "thingsToDoIntro": "Goa is a beach destination first, with plenty of options for the days in between.",
+  "thingsToDo": [
+    {
+      "title": "Eat at a beach shack",
+      "text": "Simple seafood restaurants on the sand, serving grilled fish, prawns and cold beer.",
+      "tip": "Choose by the day's catch."
+    },
+    {
+      "title": "Take a spice plantation tour",
+      "text": "A guided walk through a working farm, followed by a Goan lunch.",
+      "tip": "Go in the morning."
+    },
+    {
+      "title": "Walk through Fontainhas",
+      "text": "Explore the old Portuguese quarter, with its colour and small chapels.",
+      "tip": "Try the local bakeries."
+    },
+    {
+      "title": "Try water sports or a dolphin cruise",
+      "text": "Boat trips from Sinquerim and Palolem spot dolphins in the morning.",
+      "tip": "Go with an established operator."
+    },
+    {
+      "title": "Do a yoga class",
+      "text": "Yoga is popular in Goa, from drop-in classes to retreats.",
+      "tip": "Check the teacher's qualifications."
+    },
+    {
+      "title": "Visit a Saturday night market",
+      "text": "Night markets sell clothes, crafts and food, with live music.",
+      "tip": "Check the schedule."
+    }
+  ],
+  "foodIntro": "Goan food mixes Portuguese and Konkani traditions, with coconut, vinegar, chilli and seafood.",
+  "foods": [
+    {
+      "name": "Goan fish curry rice",
+      "text": "The staple lunch: fish in a tangy, coconut-based curry with rice.",
+      "whereToTry": "Local restaurants and beach shacks."
+    },
+    {
+      "name": "Pork vindaloo and sorpotel",
+      "text": "Spicy, vinegary pork dishes with Portuguese origins.",
+      "whereToTry": "Goan restaurants, particularly around Christmas."
+    },
+    {
+      "name": "Prawn balchão and xacuti",
+      "text": "Prawns in a spicy pickle-like sauce, and chicken in a coconut and spice gravy.",
+      "whereToTry": "Restaurants in Panjim."
+    },
+    {
+      "name": "Bebinca",
+      "text": "A many-layered sweet of egg yolks, coconut milk and sugar.",
+      "whereToTry": "Bakeries and shops."
+    },
+    {
+      "name": "Poi and pao",
+      "text": "Soft local breads baked in wood ovens, eaten with curries or sausages.",
+      "whereToTry": "Village bakeries."
+    },
+    {
+      "name": "Feni",
+      "text": "A local spirit distilled from cashew apples or coconut sap.",
+      "whereToTry": "Bars and shops."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose the coast that matches your mood, and book early for December and January.",
+    "areas": [
+      {
+        "name": "North Goa (Baga, Anjuna, Vagator)",
+        "bestFor": "Nightlife and activity",
+        "text": "Guesthouses, hotels and boutique stays near the beach."
+      },
+      {
+        "name": "South Goa (Palolem, Agonda)",
+        "bestFor": "Quiet beaches",
+        "text": "Beach huts, guesthouses and small resorts."
+      },
+      {
+        "name": "Panjim and Old Goa",
+        "bestFor": "Heritage",
+        "text": "Boutique hotels in restored Portuguese houses."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hut or guesthouse", "value": "US$15–40 per night" },
+      { "label": "Mid-range hotel", "value": "US$50–120 per night" },
+      { "label": "Luxury resort", "value": "US$150–450 per night" },
+      { "label": "Meal at a beach shack", "value": "US$5–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Goa has two airports and good rail links.",
+    "options": [
+      {
+        "mode": "Flight",
+        "text": "Dabolim (GOI) in the south and Manohar International (GOX) at Mopa in the north, which opened in 2023, connect to Indian cities and some international routes.",
+        "detail": "Choose the airport nearest your beach."
+      },
+      {
+        "mode": "Train",
+        "text": "The Konkan Railway links Goa with Mumbai (about 10 to 12 hours) and Kerala.",
+        "detail": "Scenic and comfortable."
+      },
+      {
+        "mode": "Road",
+        "text": "About 9 to 12 hours from Mumbai or Pune, and about 6 to 8 hours from Hampi.",
+        "detail": "Roads can be slow."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Goa is small but spread out, and public transport is limited.",
+    "options": [
+      {
+        "mode": "Scooter or motorbike rental",
+        "text": "The most popular way to get around, at a low price.",
+        "detail": "Wear a helmet, carry a licence and take care with traffic."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Prepaid taxis and app-based services operate.",
+        "detail": "Agree the fare in advance."
+      },
+      {
+        "mode": "Bus",
+        "text": "Local buses cover the main routes.",
+        "detail": "Cheap but slow."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–February",
+    "summary": "Goa has a tropical climate, with a strong monsoon from June to September.",
+    "seasons": [
+      {
+        "season": "Winter (November–February)",
+        "rating": "best",
+        "text": "Dry, sunny and warm. Peak season, with Christmas and New Year very busy."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "avoid",
+        "text": "Hot and humid, and many places start closing."
+      },
+      {
+        "season": "Monsoon (June–September)",
+        "rating": "quiet",
+        "text": "Heavy rain, rough seas, and most beach shacks closed. The landscape is lush and prices are low."
+      },
+      {
+        "season": "Post-monsoon (October)",
+        "rating": "good",
+        "text": "Green, warm and quiet, as the season begins."
+      }
+    ],
+    "avoid": "The monsoon, when the sea is dangerous for swimming, and Christmas and New Year unless you love crowds."
+  },
+  "itinerary": {
+    "title": "Four days in Goa",
+    "intro": "Heritage and the north, then a slower stay in the south.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Old Goa and Panjim",
+        "summary": "Churches and streets.",
+        "morning": "The churches of Old Goa.",
+        "afternoon": "Fontainhas in Panjim.",
+        "evening": "Dinner in a Goan restaurant."
+      },
+      {
+        "day": 2,
+        "title": "North Goa",
+        "summary": "Fort and beaches.",
+        "morning": "Fort Aguada.",
+        "afternoon": "Baga and Anjuna beaches.",
+        "evening": "A beach shack dinner."
+      },
+      {
+        "day": 3,
+        "title": "Inland",
+        "summary": "Spices and forest.",
+        "morning": "A spice plantation.",
+        "afternoon": "Lunch and a waterfall.",
+        "evening": "A drive south."
+      },
+      {
+        "day": 4,
+        "title": "South Goa",
+        "summary": "Quiet beaches.",
+        "morning": "Palolem beach.",
+        "afternoon": "A kayak or a swim.",
+        "evening": "Sunset drinks."
+      }
+    ]
+  },
+  "tipsIntro": "Goa is relaxed, and a few tips help.",
+  "tips": [
+    "Choose your beach according to your mood: North for activity and South for quiet.",
+    "Wear a helmet if you rent a scooter, and carry a valid licence.",
+    "Swim only where lifeguards are present, and avoid the sea in the monsoon.",
+    "Dress modestly when visiting churches.",
+    "Book in advance for Christmas and New Year.",
+    "Watch out for touts and overcharging at beach shacks.",
+    "Carry cash for small purchases."
+  ],
+  "faq": [
+    {
+      "q": "North or South Goa?",
+      "a": "North Goa for nightlife, markets and activity, and South Goa for quieter beaches and a relaxed atmosphere."
+    },
+    {
+      "q": "How many days do you need in Goa?",
+      "a": "Four or five days for the coast and heritage sites."
+    },
+    {
+      "q": "What is the best time to visit Goa?",
+      "a": "November to February. The monsoon closes many beach shacks."
+    },
+    {
+      "q": "Is Goa safe?",
+      "a": "It is a relaxed destination, but take care with scooters, sea currents and petty theft, and keep an eye on your drinks."
+    },
+    {
+      "q": "Can I drink alcohol in Goa?",
+      "a": "Yes, it is widely available and cheaper than in most of India."
+    },
+    {
+      "q": "Which airport should I use?",
+      "a": "Mopa (GOX) is closer to North Goa, and Dabolim (GOI) is closer to Panjim and South Goa."
+    }
+  ],
+  "related": ["mumbai", "hampi", "kerala-backwaters-kochi"],
+  "relatedArticles": ["mediterranean-coasts", "food-primer"]
+}

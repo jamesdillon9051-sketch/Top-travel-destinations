@@ -1,0 +1,323 @@
+{
+  "slug": "hanoi",
+  "name": "Hanoi",
+  "country": "vietnam",
+  "region": "Red River Delta, northern Vietnam",
+  "categories": ["capital-city", "major-city", "historic", "cultural"],
+  "tagline": "A thousand-year-old capital of lakes, temples, French colonial boulevards and an Old Quarter where every street still sells its own trade, and the food is superb.",
+  "highlight": "A bowl of pho at a pavement stall at dawn, before the motorbikes take over the Old Quarter.",
+  "shortDescription": "Vietnam's capital: a lakeside city with a maze-like Old Quarter, the Temple of Literature, Ho Chi Minh's mausoleum, colonial architecture, water puppets and some of the best street food in Asia.",
+  "metaDescription": "A Hanoi travel guide: the Old Quarter, Hoan Kiem Lake, Temple of Literature, Ho Chi Minh Mausoleum, Hoa Lo Prison, water puppets, pho, bun cha, egg coffee, where to stay and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Noi Bai International (HAN), about 45 minutes",
+  "knownFor": "The Old Quarter, Hoan Kiem Lake, street food, French colonial buildings",
+  "budget": "US$45–110 per day, mid-range",
+  "goodFor": "Food, culture, history, walking, first-time visitors",
+  "coords": { "lat": 21.0285, "lng": 105.8542 },
+  "image": {
+    "file": "File:Hanoi, Vietnam, Sunset at Hoan Kiem Lake.jpg",
+    "alt": "Sunset over Hoan Kiem Lake in the centre of Hanoi"
+  },
+  "intro": [
+    "Hanoi became the capital in 1010, when the emperor Ly Thai To moved the court here and named it Thang Long, the Ascending Dragon. It has been the centre of northern Vietnam ever since, through Chinese rule, the great dynasties, French colonial administration from the 1880s and the wars of the 20th century. It became the capital of a reunified Vietnam in 1976.",
+    "Its centre is compact and atmospheric. Around Hoan Kiem Lake, locals do tai chi and jog at dawn and stroll in the evening. North of the lake, the Old Quarter is a tangle of narrow streets that historically belonged to guilds, and many are still named for the goods they sell: silk, silver, paper, tin. To the south and west are the tree-lined avenues, villas and opera house of the French Quarter, and the temples and mausoleum of the Ba Dinh district.",
+    "Hanoi is loud, crowded and dominated by motorbikes, but it is one of the great food cities in Asia and a place where daily life takes place on the street. Its plastic stools, steaming pots, coffee shops and pavement beer corners are the main attractions."
+  ],
+  "whyVisit": {
+    "intro": "Hanoi is the best place in Vietnam to understand the country's culture and eat its northern cooking.",
+    "points": [
+      {
+        "title": "A superb street food city",
+        "text": "Pho, bun cha, cha ca, banh cuon and egg coffee were all born or perfected here."
+      },
+      {
+        "title": "A living Old Quarter",
+        "text": "Narrow shophouses, temples, markets and workshops, with life lived on the pavement."
+      },
+      {
+        "title": "Historic sights",
+        "text": "The Temple of Literature, Ho Chi Minh's mausoleum and the Hoa Lo Prison museum cover a thousand years."
+      },
+      {
+        "title": "Lakes and colonial charm",
+        "text": "Hoan Kiem and West Lake give the city breathing space, and French-era boulevards add elegance."
+      },
+      {
+        "title": "A base for the north",
+        "text": "Ha Long Bay, Ninh Binh and Sapa are all reachable from here."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are in the compact centre, and many can be seen on foot.",
+  "attractions": [
+    {
+      "name": "Hoan Kiem Lake and Ngoc Son Temple",
+      "text": "The heart of the city, a small lake named for a legend of a golden turtle returning a magic sword. The red Huc Bridge leads to Ngoc Son Temple on an island.",
+      "tip": "Walk around the lake at dawn or in the evening, and on weekends when nearby streets are closed to traffic."
+    },
+    {
+      "name": "The Old Quarter",
+      "image": {
+        "file": "File:Old Quarter market, Hanoi, 20240123 1811 3411.jpg",
+        "alt": "A busy evening market in the Old Quarter of Hanoi"
+      },
+      "text": "A maze of streets north of the lake, formerly organised by trade, with tube houses, temples, markets and street food. Hang Ma, Hang Bac and Hang Gai are among the best known.",
+      "tip": "Explore on foot, and be prepared for motorbikes on the pavements."
+    },
+    {
+      "name": "The Temple of Literature",
+      "image": {
+        "file": "File:Main gate of the Temple of Literature, Hanoi, Vietnam, 20240123 0929 3068.jpg",
+        "alt": "The main gate of the Temple of Literature in Hanoi"
+      },
+      "text": "Founded in 1070 as a Confucian temple and in 1076 as Vietnam's first national university, with peaceful courtyards, stone tablets on turtles' backs and traditional roofs.",
+      "tip": "Go in the morning, when it is quiet."
+    },
+    {
+      "name": "Ho Chi Minh Mausoleum complex",
+      "image": {
+        "file": "File:Hanoi Vietnam Mausoleum-of-Ho-Chi-Minh-03.jpg",
+        "alt": "The Ho Chi Minh Mausoleum in Ba Dinh Square in Hanoi"
+      },
+      "text": "The granite mausoleum where the revolutionary leader lies, beside Ba Dinh Square, with the One Pillar Pagoda, the stilt house and the museum nearby. The mausoleum closes for annual maintenance, and has a strict dress code.",
+      "tip": "Check opening days, dress modestly and expect silence and security checks."
+    },
+    {
+      "name": "Hoa Lo Prison",
+      "text": "A French colonial prison, later used to hold American pilots during the war, now a museum with an emphasis on the colonial period.",
+      "tip": "Allow about 90 minutes."
+    },
+    {
+      "name": "St. Joseph's Cathedral and the French Quarter",
+      "text": "A neo-Gothic cathedral from 1886, with the Opera House and the colonial buildings to the south of the lake.",
+      "tip": "Have a coffee on the cathedral's street."
+    }
+  ],
+  "thingsToDoIntro": "Hanoi is for wandering, eating and dipping into small museums.",
+  "thingsToDo": [
+    {
+      "title": "Take a street food walk",
+      "text": "A guide will lead you through the best stalls for pho, bun cha, banh cuon and sweets.",
+      "tip": "Book on your first evening."
+    },
+    {
+      "title": "Drink egg coffee",
+      "text": "A Hanoi invention from the 1940s: coffee topped with whisked egg yolk and sugar, like a warm liquid tiramisu.",
+      "tip": "Try it at Cafe Giang."
+    },
+    {
+      "title": "Watch a water puppet show",
+      "text": "A charming performance of traditional puppets on a pool, with live music.",
+      "tip": "Book the evening show in advance."
+    },
+    {
+      "title": "Have a bia hoi",
+      "text": "Cheap, fresh draught beer drunk on plastic stools at street corners such as Ta Hien.",
+      "tip": "Go early in the evening."
+    },
+    {
+      "title": "Visit the Vietnam Museum of Ethnology",
+      "text": "A good museum on Vietnam's 54 ethnic groups, with a garden of traditional houses.",
+      "tip": "Take a Grab taxi."
+    },
+    {
+      "title": "Walk across Long Bien Bridge",
+      "text": "An old iron bridge over the Red River built by the French, with views and a look at everyday life.",
+      "tip": "Go at sunrise."
+    }
+  ],
+  "foodIntro": "Hanoi is the home of pho, and its cooking is simple, delicate and focused on broth and herbs.",
+  "foods": [
+    {
+      "name": "Pho",
+      "text": "The northern version of the noodle soup has a clear broth, spring onions and few extras.",
+      "whereToTry": "Street stalls, especially at breakfast."
+    },
+    {
+      "name": "Bun cha",
+      "text": "Grilled pork and noodles in a dipping broth, a lunchtime dish that became famous after a 2016 dinner with a visiting US president.",
+      "whereToTry": "Lunchtime restaurants in the Old Quarter."
+    },
+    {
+      "name": "Cha ca",
+      "text": "Turmeric-marinated fish cooked with dill and spring onions at the table, and served with noodles and peanuts.",
+      "whereToTry": "Cha Ca street in the Old Quarter."
+    },
+    {
+      "name": "Banh cuon",
+      "text": "Thin steamed rice pancakes filled with pork and mushroom.",
+      "whereToTry": "Breakfast shops."
+    },
+    {
+      "name": "Egg coffee",
+      "text": "A frothy, sweet coffee topped with whipped egg yolk.",
+      "whereToTry": "Cafés near the lake."
+    },
+    {
+      "name": "Nem and fresh beer",
+      "text": "Fried spring rolls and bia hoi, the classic snacks.",
+      "whereToTry": "Street corners in the Old Quarter."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the Old Quarter for atmosphere, and the French Quarter for space and comfort.",
+    "areas": [
+      {
+        "name": "Old Quarter",
+        "bestFor": "Atmosphere and food",
+        "text": "Guesthouses and boutique hotels, but noisy."
+      },
+      {
+        "name": "French Quarter",
+        "bestFor": "Comfort and quiet",
+        "text": "Larger hotels and colonial properties near the Opera House."
+      },
+      {
+        "name": "West Lake",
+        "bestFor": "Residential calm",
+        "text": "Cafés and quieter hotels, further from sights."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel or hostel", "value": "US$10–30 per night" },
+      { "label": "Mid-range hotel", "value": "US$40–100 per night" },
+      { "label": "Luxury hotel", "value": "US$150–400 per night" },
+      { "label": "Meal at a street stall", "value": "US$1–4 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Hanoi is the main entry point for northern Vietnam.",
+    "options": [
+      {
+        "mode": "Flight to Noi Bai (HAN)",
+        "text": "Direct flights from across Asia, Europe and beyond, and domestic flights from Da Nang, Hue and Ho Chi Minh City.",
+        "detail": "The airport is about 45 minutes from the Old Quarter by Grab or bus."
+      },
+      {
+        "mode": "Train",
+        "text": "Overnight trains from Hue (about 13 hours), Da Nang (about 16 hours) and Ho Chi Minh City (about 30 hours), and to Lao Cai for Sapa.",
+        "detail": "Book sleepers in advance."
+      },
+      {
+        "mode": "Bus and road",
+        "text": "Buses run to Ha Long Bay, Ninh Binh and other places.",
+        "detail": "Book reputable companies."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Walk in the centre, and use Grab for longer trips.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The Old Quarter, the lake and the French Quarter are compact.",
+        "detail": "Cross roads slowly and steadily."
+      },
+      {
+        "mode": "Grab",
+        "text": "Motorbike taxis and cars are cheap and have fixed prices.",
+        "detail": "Use the app."
+      },
+      {
+        "mode": "Cyclo",
+        "text": "A slow tour of the Old Quarter.",
+        "detail": "Agree the price and route in advance."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "September–November and March–April",
+    "summary": "Hanoi has four seasons: cool and damp winters, hot and humid summers and pleasant spring and autumn.",
+    "seasons": [
+      {
+        "season": "Spring (March–April)",
+        "rating": "best",
+        "text": "Warm and often drizzly, with mild temperatures."
+      },
+      {
+        "season": "Summer (May–August)",
+        "rating": "avoid",
+        "text": "Hot and very humid, with heavy rain and occasional typhoons."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Clear, golden weather with mild temperatures."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "good",
+        "text": "Cool, grey and damp, sometimes cold enough to need a jacket."
+      }
+    ],
+    "avoid": "July and August, and the days around Tet, when many businesses close."
+  },
+  "itinerary": {
+    "title": "Three days in Hanoi",
+    "intro": "The Old Quarter and the lake, the historic sights, and a slower day for culture.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Old Quarter",
+        "summary": "Streets and food.",
+        "morning": "Hoan Kiem Lake and Ngoc Son Temple.",
+        "afternoon": "The Old Quarter streets.",
+        "evening": "A street food walk and a water puppet show."
+      },
+      {
+        "day": 2,
+        "title": "History",
+        "summary": "Temples and Ho Chi Minh.",
+        "morning": "The Temple of Literature.",
+        "afternoon": "Ho Chi Minh Mausoleum complex and Hoa Lo Prison.",
+        "evening": "Egg coffee and dinner."
+      },
+      {
+        "day": 3,
+        "title": "Culture and lakes",
+        "summary": "A slower day.",
+        "morning": "The Museum of Ethnology.",
+        "afternoon": "West Lake and a café.",
+        "evening": "Bia hoi on Ta Hien."
+      }
+    ]
+  },
+  "tipsIntro": "Hanoi is easy once you learn the rhythm.",
+  "tips": [
+    "Cross roads slowly and steadily, so that motorbikes can flow around you.",
+    "Use Grab for taxis, to avoid overcharging.",
+    "Book the water puppet show ahead.",
+    "Dress modestly at the mausoleum and temples.",
+    "Eat where locals queue.",
+    "Carry small notes for street food.",
+    "Check whether the Ho Chi Minh Mausoleum is open on your dates."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Hanoi?",
+      "a": "Two or three days. Add more if you plan day trips."
+    },
+    {
+      "q": "Is Hanoi safe?",
+      "a": "Yes, generally. Watch for bag snatching, and be careful with traffic."
+    },
+    {
+      "q": "What is the best time to visit Hanoi?",
+      "a": "September to November and March to April."
+    },
+    {
+      "q": "Where can I see the train street cafés?",
+      "a": "Cafés along the tracks have been popular, but access has been restricted several times for safety, so check whether it is currently open."
+    },
+    {
+      "q": "Is it better to stay in the Old Quarter?",
+      "a": "It is the most atmospheric, but noisy. The French Quarter is quieter."
+    },
+    {
+      "q": "What should I eat first?",
+      "a": "Pho for breakfast, bun cha for lunch and egg coffee in the afternoon."
+    }
+  ],
+  "related": ["ha-long-bay", "ninh-binh", "sapa", "hue"],
+  "relatedArticles": ["food-primer", "week-cost-five-countries"]
+}

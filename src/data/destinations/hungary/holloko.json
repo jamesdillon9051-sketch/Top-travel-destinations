@@ -1,0 +1,298 @@
+{
+  "slug": "holloko",
+  "name": "Hollókő",
+  "country": "hungary",
+  "region": "Nógrád, northern Hungary",
+  "categories": ["unesco", "cultural", "historic", "off-the-beaten-path"],
+  "tagline": "A living museum of Palóc village life, whitewashed timber houses under a hilltop castle, traditional costume, Easter customs and quiet lanes.",
+  "highlight": "The Old Village's whitewashed houses and wooden gables in the hills, still lived in today.",
+  "shortDescription": "A UNESCO-listed old village of about 55 preserved houses in the Cserhát hills, with a 13th-century castle, folk museums, Palóc crafts and Easter festivities.",
+  "metaDescription": "A Hollókő travel guide: the UNESCO Old Village, castle, village museum, Palóc culture, Easter festival, crafts, how to get there from Budapest, where to stay and a one-day plan.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Budapest Ferenc Liszt (BUD), about 2 hours by road",
+  "knownFor": "UNESCO village, Palóc folk culture, Easter traditions",
+  "budget": "US$60–100 per day",
+  "goodFor": "Folk culture, quiet stays, photography, day trips from Budapest",
+  "coords": { "lat": 47.9950, "lng": 19.5900 },
+  "image": {
+    "file": "File:Hollókő Ófalu Fő utca (részlet) 002.jpg",
+    "alt": "Whitewashed houses with wooden details on the main street of Hollókő Old Village"
+  },
+  "intro": [
+    "Hollókő is a small village in the Cserhát hills of northern Hungary, and one of the best-preserved examples of traditional rural life in Central Europe. It was listed by UNESCO in 1987, the first village in the world to be recognised as a living cultural landscape, and its old part, the Ófalu, consists of about 55 houses and a church, arranged along two streets, still occupied by residents.",
+    "The village belongs to the Palóc, an ethnic subgroup of Hungarians with distinctive dialect, costume and customs. The houses are of timber and whitewashed adobe, with tiled roofs, wooden porches and carved gables, and were rebuilt to the same pattern after a fire in 1909. Above the village, a 13th-century castle stands on a hill with views over the countryside.",
+    "The best time to visit is Easter, when villagers dress in colourful costumes and hold celebrations, and there is also a weaving, pottery and doll-making tradition. Hollókő is quiet, small and remote, best for a day trip from Budapest or an overnight stay in a guesthouse. It is not a place for nightlife."
+  ],
+  "whyVisit": {
+    "intro": "Hollókő is a rare, lived-in glimpse of Hungary's rural past.",
+    "points": [
+      {
+        "title": "A UNESCO village",
+        "text": "Still inhabited."
+      },
+      {
+        "title": "Palóc culture",
+        "text": "Costume, food and crafts."
+      },
+      {
+        "title": "A hilltop castle",
+        "text": "Views of the hills."
+      },
+      {
+        "title": "Easter customs",
+        "text": "Festive costumes."
+      },
+      {
+        "title": "Quiet",
+        "text": "Slow and peaceful."
+      }
+    ]
+  },
+  "attractionsIntro": "Everything is within a few minutes' walk.",
+  "attractions": [
+    {
+      "name": "The Old Village",
+      "image": {
+        "file": "File:Holloko Village Center.jpg",
+        "alt": "The centre of Hollókő village with its wooden church and houses"
+      },
+      "text": "Two streets of preserved houses and a wooden-belfried church, mostly still inhabited.",
+      "tip": "Respect residents' privacy."
+    },
+    {
+      "name": "Village Museum",
+      "image": {
+        "file": "File:Hollókői Falumúzeum.jpg",
+        "alt": "The village museum in Hollókő, in a traditional timber house"
+      },
+      "text": "A museum in a traditional house showing Palóc furnishings and daily life.",
+      "tip": "A short visit."
+    },
+    {
+      "name": "Hollókő Castle",
+      "text": "A 13th-century hilltop castle with an exhibition and views.",
+      "tip": "A short walk up."
+    },
+    {
+      "name": "Doll Museum and Puppet Museum",
+      "text": "Small museums of local crafts.",
+      "tip": "Children like them."
+    },
+    {
+      "name": "Wooden church",
+      "text": "A church with a wooden belfry.",
+      "tip": "Visit quietly."
+    },
+    {
+      "name": "Craft shops",
+      "text": "Local weaving, pottery and dolls.",
+      "tip": "Buy directly."
+    }
+  ],
+  "thingsToDoIntro": "Hollókő is for slow strolling.",
+  "thingsToDo": [
+    {
+      "title": "Walk the Old Village",
+      "text": "Take your time.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Visit the castle",
+      "text": "See the view.",
+      "tip": "Short walk."
+    },
+    {
+      "title": "Try a craft workshop",
+      "text": "Weaving or pottery.",
+      "tip": "Book."
+    },
+    {
+      "title": "Attend Easter",
+      "text": "Costumes and customs.",
+      "tip": "Book far ahead."
+    },
+    {
+      "title": "Hike the hills",
+      "text": "Cserhát trails.",
+      "tip": "Bring a map."
+    },
+    {
+      "title": "Eat Palóc food",
+      "text": "Local dishes.",
+      "tip": "Try the soup."
+    }
+  ],
+  "foodIntro": "Palóc food is rustic.",
+  "foods": [
+    {
+      "name": "Palóc soup",
+      "text": "A sour-cream lamb and bean soup.",
+      "whereToTry": "Village inns."
+    },
+    {
+      "name": "Potato dishes",
+      "text": "Local staples.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Homemade pálinka",
+      "text": "Fruit brandy.",
+      "whereToTry": "Inns."
+    },
+    {
+      "name": "Pastries",
+      "text": "Poppy and nut.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Local honey",
+      "text": "From nearby.",
+      "whereToTry": "Shops."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the village.",
+    "areas": [
+      {
+        "name": "Old Village",
+        "bestFor": "Atmosphere",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "New Village",
+        "bestFor": "Comfort",
+        "text": "Pensions."
+      },
+      {
+        "name": "Salgótarján",
+        "bestFor": "Services",
+        "text": "Hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$30–65 per night" },
+      { "label": "Village entry", "value": "US$3–8 per person" },
+      { "label": "Castle ticket", "value": "US$3–7" },
+      { "label": "Meal", "value": "US$7–14 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Hollókő is remote, about 90 km from Budapest.",
+    "options": [
+      {
+        "mode": "Bus from Budapest",
+        "text": "About 2 to 2.5 hours from Árpád híd.",
+        "detail": "Few services."
+      },
+      {
+        "mode": "Car",
+        "text": "About 1.5 to 2 hours.",
+        "detail": "Best option."
+      },
+      {
+        "mode": "Tour",
+        "text": "Day trips from Budapest.",
+        "detail": "Book."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The village is tiny.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Everything.",
+        "detail": "Wear good shoes."
+      },
+      {
+        "mode": "Car",
+        "text": "Park outside the Old Village.",
+        "detail": "Small car park."
+      },
+      {
+        "mode": "Taxi",
+        "text": "From nearby towns.",
+        "detail": "Book."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–October",
+    "summary": "Hollókő is best in spring and autumn.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Easter."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Warm."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Gold."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold and quiet."
+      }
+    ],
+    "avoid": "Winter when shops are closed."
+  },
+  "itinerary": {
+    "title": "One day in Hollókő",
+    "intro": "The village and the castle.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Hollókő",
+        "summary": "A village day.",
+        "morning": "Walk the Old Village.",
+        "afternoon": "Village Museum and castle.",
+        "evening": "Return."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Go by car.",
+    "Respect residents.",
+    "Book Easter accommodation early.",
+    "Bring cash.",
+    "Wear good shoes.",
+    "Check opening hours.",
+    "Combine with Eger."
+  ],
+  "faq": [
+    {
+      "q": "Do people live in Hollókő?",
+      "a": "Yes."
+    },
+    {
+      "q": "How far from Budapest?",
+      "a": "About 90 km."
+    },
+    {
+      "q": "When is the best time?",
+      "a": "Easter and autumn."
+    },
+    {
+      "q": "Is it a UNESCO site?",
+      "a": "Yes, since 1987."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "One day."
+    },
+    {
+      "q": "Who are the Palóc?",
+      "a": "A Hungarian ethnic group."
+    }
+  ],
+  "related": ["eger", "danube-bend", "budapest"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

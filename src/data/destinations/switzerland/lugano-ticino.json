@@ -1,0 +1,327 @@
+{
+  "slug": "lugano-ticino",
+  "name": "Lugano and Ticino",
+  "shortName": "Lugano and Ticino",
+  "country": "switzerland",
+  "region": "Ticino, southern Switzerland",
+  "categories": ["scenic", "coastal", "food-and-wine", "historic"],
+  "tagline": "Switzerland with an Italian accent, palm-fringed lakes, piazzas, risotto and merlot, three UNESCO castles and a bridge you can jump from.",
+  "highlight": "Sitting on Lugano's lakefront under a palm tree, with Monte Brè across the water and an espresso in hand.",
+  "shortDescription": "The Italian-speaking south, with Lugano's lake and piazzas, Locarno and Ascona on Lake Maggiore, the castles of Bellinzona and the Verzasca Valley.",
+  "metaDescription": "A Lugano and Ticino travel guide: Lake Lugano and Monte Brè, Piazza della Riforma, Locarno and Ascona, Bellinzona castles, Verzasca Valley, merlot, risotto, where to stay and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Milan Malpensa (MXP) or Lugano (LUG), about 1 hour by train from Milan",
+  "knownFor": "Lakes, palm trees, Italian food, castles, sunshine",
+  "budget": "US$220–350 per day, mid-range",
+  "goodFor": "Lakeside relaxation, food and wine, castles, sun in spring and autumn",
+  "coords": { "lat": 46.0037, "lng": 8.9511 },
+  "image": {
+    "file": "File:View of Lake Lugano and Monte Brè 13.jpg",
+    "alt": "Lake Lugano with the slopes of Monte Brè beyond"
+  },
+  "intro": [
+    "Ticino is the only Swiss canton that is entirely Italian-speaking, and it feels like a different country from the German-speaking north. South of the Alps, palm trees and camellias grow on the shores of Lake Lugano and Lake Maggiore, the air is warmer, and the pace is slower. Espresso replaces filter coffee, risotto and polenta appear on menus, and the wine is merlot.",
+    "Lugano is the main city, a lakeside town of about 63,000 people, with an arcaded old town around Piazza della Riforma, a lakefront promenade and funiculars up to Monte Brè and Monte San Salvatore for views over the lake. Ticino's other centres include Locarno and its neighbour Ascona on Lake Maggiore, famous for a film festival and sunshine, and Bellinzona, with three medieval castles that make up a UNESCO World Heritage Site.",
+    "Beyond the towns are wild valleys of granite, chestnut woods and stone villages. The Verzasca Valley has turquoise water, and the Ponte dei Salti, a stone bridge near Lavertezzo. Ticino is a summer resort, but it is also lovely in spring, when camellias bloom, and autumn, when the chestnuts fall. Three days lets you feel the region, and it is a short train ride through the Gotthard Base Tunnel from Zurich."
+  ],
+  "whyVisit": {
+    "intro": "Ticino is a sunny, Mediterranean side of Switzerland with excellent food.",
+    "points": [
+      {
+        "title": "Lakes and palms",
+        "text": "Lugano and Maggiore."
+      },
+      {
+        "title": "Italian atmosphere",
+        "text": "Piazzas, espresso and gelato."
+      },
+      {
+        "title": "Medieval castles",
+        "text": "Bellinzona's UNESCO trio."
+      },
+      {
+        "title": "Wild valleys",
+        "text": "The Verzasca and its green water."
+      },
+      {
+        "title": "Food and merlot",
+        "text": "Risotto, polenta and local wine."
+      }
+    ]
+  },
+  "attractionsIntro": "Lugano is the base, with Locarno and Bellinzona easy trips.",
+  "attractions": [
+    {
+      "name": "Lake Lugano and Monte Brè",
+      "image": {
+        "file": "File:View of Lake Lugano and Monte Brè 02.jpg",
+        "alt": "The waterfront of Lugano with Monte Brè behind"
+      },
+      "text": "A lake ringed by hills, with a funicular up Monte Brè and Monte San Salvatore for views, and a shoreline promenade.",
+      "tip": "Take the funicular at sunset."
+    },
+    {
+      "name": "Piazza della Riforma",
+      "image": {
+        "file": "File:Piazza della Riforma a Lugano (2013).jpg",
+        "alt": "Piazza della Riforma with its cafés and arcaded buildings in Lugano"
+      },
+      "text": "The main square of Lugano, lined with pastel buildings and cafés.",
+      "tip": "Have a coffee here."
+    },
+    {
+      "name": "Locarno and Ascona",
+      "image": {
+        "file": "File:Ascona and Lago Maggiore from Cardada, Locarno, Ticino.jpg",
+        "alt": "Ascona and Lake Maggiore seen from Cardada above Locarno"
+      },
+      "text": "Two lakeside towns on Lake Maggiore, with a cable car up to Cardada and a promenade of pastel houses.",
+      "tip": "Visit the Madonna del Sasso."
+    },
+    {
+      "name": "Bellinzona castles",
+      "image": {
+        "file": "File:Piazza del Sole and Castelgrande, Bellinzona, Ticino.jpg",
+        "alt": "Castelgrande rising above the Piazza del Sole in Bellinzona"
+      },
+      "text": "Three medieval castles, Castelgrande, Montebello and Sasso Corbaro, protecting a pass, and a UNESCO site.",
+      "tip": "Walk the ramparts."
+    },
+    {
+      "name": "Verzasca Valley and Ponte dei Salti",
+      "image": {
+        "file": "File:Ponte dei Salti (9138005326).jpg",
+        "alt": "The Ponte dei Salti stone bridge over the clear green Verzasca river"
+      },
+      "text": "A valley of clear green water and stone villages, with a double-arched stone bridge at Lavertezzo.",
+      "tip": "Swim in summer, and take care of the currents."
+    },
+    {
+      "name": "Melide and Swissminiatur",
+      "text": "A model Switzerland in miniature, popular with families.",
+      "tip": "Fun for children."
+    }
+  ],
+  "thingsToDoIntro": "Ticino is about slowing down.",
+  "thingsToDo": [
+    {
+      "title": "Walk the Lugano lakefront",
+      "text": "Follow the shore to Gandria.",
+      "tip": "Take a boat back."
+    },
+    {
+      "title": "Hike to Gandria",
+      "text": "A village on the lake.",
+      "tip": "Try the olive-tree path."
+    },
+    {
+      "title": "Visit a grotto",
+      "text": "Ticino's rustic stone restaurants.",
+      "tip": "Order local wine."
+    },
+    {
+      "title": "Take the Centovalli train",
+      "text": "A scenic railway to Italy.",
+      "tip": "Check schedules."
+    },
+    {
+      "title": "Ride a funicular",
+      "text": "Monte Brè or San Salvatore.",
+      "tip": "Sunset."
+    },
+    {
+      "title": "Swim in a river",
+      "text": "Verzasca pools in summer.",
+      "tip": "Be careful."
+    }
+  ],
+  "foodIntro": "Ticino's food is Italian in spirit and Alpine in ingredients.",
+  "foods": [
+    {
+      "name": "Risotto with merlot",
+      "text": "Rice cooked with local wine.",
+      "whereToTry": "Grottos and restaurants."
+    },
+    {
+      "name": "Polenta and brasato",
+      "text": "Braised beef with polenta.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Ticino merlot",
+      "text": "Red wine from local vineyards.",
+      "whereToTry": "Wine estates."
+    },
+    {
+      "name": "Cold cuts",
+      "text": "Mortadella and salami.",
+      "whereToTry": "Delis."
+    },
+    {
+      "name": "Gelato and coffee",
+      "text": "Italian-style treats.",
+      "whereToTry": "Piazza della Riforma."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Lugano or on Lake Maggiore.",
+    "areas": [
+      {
+        "name": "Lugano centre",
+        "bestFor": "Sightseeing",
+        "text": "Hotels near the lake."
+      },
+      {
+        "name": "Locarno and Ascona",
+        "bestFor": "Sun and lake",
+        "text": "Resort hotels."
+      },
+      {
+        "name": "Bellinzona",
+        "bestFor": "Castles and value",
+        "text": "Cheaper hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$40–70 per night" },
+      { "label": "Mid-range hotel", "value": "US$170–290 per night" },
+      { "label": "Luxury hotel", "value": "US$350–800 per night" },
+      { "label": "Restaurant meal", "value": "US$25–45 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Ticino is reached by train through the Gotthard.",
+    "options": [
+      {
+        "mode": "Train from Zurich",
+        "text": "About 2 hours 15 minutes to Lugano through the Gotthard Base Tunnel.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train from Milan",
+        "text": "About 1 hour 15 minutes.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bus and boat",
+        "text": "Links to Italian lakes.",
+        "detail": "Check."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Trains and boats work well.",
+    "options": [
+      {
+        "mode": "Trains",
+        "text": "Link Lugano, Bellinzona and Locarno.",
+        "detail": "Use the Ticino Ticket."
+      },
+      {
+        "mode": "Boats",
+        "text": "On Lake Lugano and Maggiore.",
+        "detail": "Included in some passes."
+      },
+      {
+        "mode": "Buses",
+        "text": "To the valleys.",
+        "detail": "Check the timetable."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–October",
+    "summary": "Ticino is the sunniest part of Switzerland, with mild winters and hot summers.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Camellias and mild days."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Hot, with swimming, but busy."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Golden light and chestnuts."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Mild but quiet."
+      }
+    ],
+    "avoid": "Rainy days in November."
+  },
+  "itinerary": {
+    "title": "Three days in Ticino",
+    "intro": "Lugano, then Locarno and Bellinzona.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Lugano",
+        "summary": "Lake and piazza.",
+        "morning": "Piazza della Riforma.",
+        "afternoon": "Monte Brè.",
+        "evening": "Dinner at a grotto."
+      },
+      {
+        "day": 2,
+        "title": "Bellinzona",
+        "summary": "Castles.",
+        "morning": "Castelgrande.",
+        "afternoon": "Montebello.",
+        "evening": "Locarno."
+      },
+      {
+        "day": 3,
+        "title": "Valleys and lake",
+        "summary": "Water.",
+        "morning": "Verzasca Valley.",
+        "afternoon": "Ascona.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Get the Ticino Ticket, free with many hotels.",
+    "Go in spring or autumn.",
+    "Try a grotto.",
+    "Take the train.",
+    "Be careful swimming in rivers.",
+    "Speak Italian words.",
+    "Bring sunglasses."
+  ],
+  "faq": [
+    {
+      "q": "What language is spoken?",
+      "a": "Italian."
+    },
+    {
+      "q": "How many days do you need?",
+      "a": "Three."
+    },
+    {
+      "q": "Is Ticino warmer?",
+      "a": "Yes, it is the sunniest region."
+    },
+    {
+      "q": "Is Ticino easy from Zurich?",
+      "a": "Yes, about two hours by train."
+    },
+    {
+      "q": "Can I see the Bellinzona castles in a day?",
+      "a": "Yes."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Slightly cheaper than the north, but still pricey."
+    }
+  ],
+  "related": ["st-moritz-engadin", "zurich", "lucerne"],
+  "relatedArticles": ["mediterranean-coasts", "europe-by-train"]
+}

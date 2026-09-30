@@ -1,0 +1,334 @@
+{
+  "slug": "garden-route",
+  "name": "The Garden Route",
+  "country": "south-africa",
+  "region": "Western and Eastern Cape, south coast",
+  "categories": ["scenic", "coastal", "national-park", "nature"],
+  "tagline": "A 300-kilometre stretch of lagoons, indigenous forest, wild beaches and mountain passes along South Africa's south coast, with bungee jumps, oysters and elephants.",
+  "highlight": "The sea-carved cliffs and forest of Tsitsikamma, from the suspension bridge across the Storms River mouth.",
+  "shortDescription": "A scenic coastal drive from Mossel Bay to Tsitsikamma, with Knysna's lagoon, Plettenberg Bay's beaches, ancient forests, the Storms River suspension bridge and the ostrich country of Oudtshoorn.",
+  "metaDescription": "A Garden Route travel guide: Knysna and its Heads, Wilderness, Plettenberg Bay, Tsitsikamma and Storms River, Robberg, Oudtshoorn and Cango Caves, best time, how to drive it and a five-day plan.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "George (GRJ), Plettenberg Bay (PBZ) or Gqeberha (PLZ)",
+  "knownFor": "Lagoons, forests, beaches, adventure activities, oysters",
+  "budget": "US$100–200 per day, mid-range",
+  "goodFor": "Road trips, coastal scenery, hiking, adventure, families",
+  "coords": { "lat": -34.0361, "lng": 23.0471 },
+  "image": {
+    "file": "File:Knysna (ZA), Knysna River, East and West Head -- 2024 -- 2456.jpg",
+    "alt": "The East and West Heads guarding the entrance to Knysna Lagoon"
+  },
+  "intro": [
+    "The Garden Route runs for about 300 km along the south coast of South Africa, between the towns of Mossel Bay and Storms River, in a strip of land squeezed between the Outeniqua and Tsitsikamma Mountains and the Indian Ocean. Its name comes from the lush green landscape, in which lagoons, lakes, rivers, indigenous forest, fynbos and beaches follow one another, and it is one of the country's most popular tourist destinations.",
+    "The main towns each have a distinct character. Wilderness has lagoons and dunes, Knysna has a large lagoon with two rocky Heads at its mouth and a forest full of woodcarvers and cafés, Plettenberg Bay has some of the country's best beaches and the Robberg peninsula, and Tsitsikamma National Park has coastal forest, sea cliffs and a famous suspension bridge. Inland, Oudtshoorn is the ostrich capital, with the spectacular Cango Caves.",
+    "It is a place for driving, walking, kayaking and adventure. The Bloukrans Bridge has the world's highest commercial bridge bungee jump, whales and dolphins can be seen from the shore, and indigenous forests hold big yellowwood trees. It is a highlight of any South African trip, and best explored at a leisurely pace, with at least four or five days."
+  ],
+  "whyVisit": {
+    "intro": "The Garden Route is one of the great road trips in Africa, with beauty and variety at every turn.",
+    "points": [
+      {
+        "title": "Lagoons and forests",
+        "text": "Knysna's lagoon and the Tsitsikamma forests are highlights."
+      },
+      {
+        "title": "Beaches and coves",
+        "text": "Long, quiet beaches at Plettenberg Bay and Nature's Valley."
+      },
+      {
+        "title": "Adventure",
+        "text": "Bungee, zip lines, kayaking, hiking and surfing."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Whales, dolphins, seals, monkeys, birds and elephants nearby."
+      },
+      {
+        "title": "Small towns",
+        "text": "Craft shops, oysters and easy-going restaurants."
+      }
+    ]
+  },
+  "attractionsIntro": "The route is best done with stops of a night or two in each area.",
+  "attractions": [
+    {
+      "name": "Knysna Lagoon and the Heads",
+      "text": "A large estuary lagoon with two sandstone cliffs, the Heads, at its mouth. Boat trips, oyster farms and viewpoints make it the route's hub.",
+      "tip": "Try a sunset boat cruise or fresh oysters."
+    },
+    {
+      "name": "Tsitsikamma National Park and Storms River Mouth",
+      "image": {
+        "file": "File:Storms River Mouth (Tsitsikamma) Suspension Bridges 02.jpg",
+        "alt": "The suspension bridge over the Storms River mouth in Tsitsikamma National Park"
+      },
+      "text": "A coastal national park of forest and cliffs, with a 77-metre suspension bridge over the river mouth, walks, kayaking and the multi-day Otter Trail.",
+      "tip": "Walk to the bridge in the morning."
+    },
+    {
+      "name": "Plettenberg Bay and Robberg",
+      "text": "A resort town with white beaches, dolphins and whales offshore, and the Robberg Nature Reserve, a rocky peninsula with a seal colony and cliff-top walks.",
+      "tip": "Walk the Robberg circuit."
+    },
+    {
+      "name": "Wilderness",
+      "text": "A small village of lagoons, forests and long beaches, with kayaking, paragliding and a national park.",
+      "tip": "Kayak the Touw River."
+    },
+    {
+      "name": "Bloukrans Bridge",
+      "text": "A 216-metre bridge over a gorge with the world's highest commercial bridge bungee jump, and a walking tour under the arch.",
+      "tip": "Book in advance."
+    },
+    {
+      "name": "Oudtshoorn and the Cango Caves",
+      "image": {
+        "file": "File:Inside Cango Caves.jpg",
+        "alt": "Stalactites and stalagmites in the Cango Caves near Oudtshoorn"
+      },
+      "text": "The centre of the ostrich industry in the Little Karoo, with farms and a spectacular limestone cave system, about an hour's drive inland from George.",
+      "tip": "Book a caves tour, and visit an ostrich farm."
+    }
+  ],
+  "thingsToDoIntro": "Outdoor activities and scenic stops fill the days.",
+  "thingsToDo": [
+    {
+      "title": "Walk to the Storms River suspension bridge",
+      "text": "A short coastal trail leads to a wobbly bridge across the river mouth.",
+      "tip": "Go in the morning."
+    },
+    {
+      "title": "Kayak on the sea or a river",
+      "image": {
+        "file": "File:Tsitsikamma National Park (ZA), Kanus an der Küste -- 2024 -- 1990.jpg",
+        "alt": "Kayaks resting on the rocky coast of Tsitsikamma National Park"
+      },
+      "text": "Paddle up a river gorge in Tsitsikamma or along the coast.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Go whale and dolphin watching",
+      "text": "Boat trips from Plettenberg Bay from June to November.",
+      "tip": "Choose a licensed operator."
+    },
+    {
+      "title": "Do the bungee jump",
+      "text": "Leap from the Bloukrans Bridge if you dare.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Eat oysters in Knysna",
+      "text": "The town is famous for its oysters, particularly during the Oyster Festival in July.",
+      "tip": "Try them fresh from the lagoon."
+    },
+    {
+      "title": "Hike in the forest",
+      "text": "Trails such as the Otter Trail and shorter walks through indigenous forest.",
+      "tip": "Book the Otter Trail far in advance."
+    }
+  ],
+  "foodIntro": "The Garden Route's food is seafood, dairy and local produce, served in relaxed restaurants.",
+  "foods": [
+    {
+      "name": "Knysna oysters",
+      "text": "Plump, briny oysters farmed in the lagoon.",
+      "whereToTry": "Waterfront restaurants in Knysna."
+    },
+    {
+      "name": "Fresh fish and calamari",
+      "text": "Line fish, calamari and prawns.",
+      "whereToTry": "Harbour restaurants."
+    },
+    {
+      "name": "Ostrich meat",
+      "text": "Lean red meat, served as steaks and carpaccio.",
+      "whereToTry": "Oudtshoorn."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Local microbreweries.",
+      "whereToTry": "Knysna and Plettenberg Bay."
+    },
+    {
+      "name": "Farm stall lunches",
+      "text": "Homemade pies, cakes and jams at roadside farm stalls.",
+      "whereToTry": "Along the N2."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose from small towns along the route, with a night or two in each.",
+    "areas": [
+      {
+        "name": "Knysna",
+        "bestFor": "The lagoon and restaurants",
+        "text": "Guesthouses and hotels around the lagoon."
+      },
+      {
+        "name": "Plettenberg Bay",
+        "bestFor": "Beaches",
+        "text": "Beachfront hotels and villas."
+      },
+      {
+        "name": "Tsitsikamma and Storms River",
+        "bestFor": "Forest and adventure",
+        "text": "Lodges and rest camps."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "US$40–80 per night" },
+      { "label": "Mid-range hotel", "value": "US$100–200 per night" },
+      { "label": "Luxury lodge", "value": "US$250–600 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$10–25 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Garden Route is best reached by hire car.",
+    "options": [
+      {
+        "mode": "Drive from Cape Town",
+        "text": "About 5 to 6 hours to Knysna, along the N2 highway.",
+        "detail": "Allow time for stops."
+      },
+      {
+        "mode": "Fly to George",
+        "text": "Direct flights from Cape Town and Johannesburg.",
+        "detail": "Pick up a hire car."
+      },
+      {
+        "mode": "Drive from Gqeberha",
+        "text": "About 2 to 3 hours to Plettenberg Bay.",
+        "detail": "Combine with Addo."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is best, though the Baz Bus links hostels.",
+    "options": [
+      {
+        "mode": "Hire car",
+        "text": "Good roads, with easy driving.",
+        "detail": "Avoid driving after dark."
+      },
+      {
+        "mode": "Baz Bus",
+        "text": "A hop-on hop-off bus for backpackers.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Tours",
+        "text": "Day tours from towns.",
+        "detail": "Book in advance."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–April",
+    "summary": "The Garden Route has a mild, oceanic climate, with rain all year and warm summers.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "best",
+        "text": "Warm and sunny, and the busiest time."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Warm and calm, with fewer crowds."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "quiet",
+        "text": "Cool and wet, with whales and low prices."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "good",
+        "text": "Mild, with whales and wildflowers."
+      }
+    ],
+    "avoid": "The Christmas and Easter holidays if you dislike crowds."
+  },
+  "itinerary": {
+    "title": "Five days on the Garden Route",
+    "intro": "From Wilderness to Tsitsikamma.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Wilderness",
+        "summary": "Lagoons.",
+        "morning": "Drive from Cape Town or George.",
+        "afternoon": "Kayak the lagoon.",
+        "evening": "Dinner by the sea."
+      },
+      {
+        "day": 2,
+        "title": "Knysna",
+        "summary": "The lagoon.",
+        "morning": "The Knysna Heads.",
+        "afternoon": "A lagoon cruise and oysters.",
+        "evening": "Craft beer."
+      },
+      {
+        "day": 3,
+        "title": "Plettenberg Bay",
+        "summary": "Beaches and Robberg.",
+        "morning": "The Robberg circuit.",
+        "afternoon": "A beach.",
+        "evening": "Sunset drinks."
+      },
+      {
+        "day": 4,
+        "title": "Tsitsikamma",
+        "summary": "Forest and cliffs.",
+        "morning": "Bloukrans Bridge.",
+        "afternoon": "The Storms River suspension bridge.",
+        "evening": "A lodge dinner."
+      },
+      {
+        "day": 5,
+        "title": "Oudtshoorn or Addo",
+        "summary": "Inland or east.",
+        "morning": "Cango Caves, or drive to Addo.",
+        "afternoon": "An ostrich farm or a game drive.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make the drive better.",
+  "tips": [
+    "Book accommodation ahead for December and Easter.",
+    "Stay at least two nights in each area.",
+    "Drive in daylight, and be careful with livestock on roads.",
+    "Book the Otter Trail, Bloukrans and popular activities early.",
+    "Check whale-watching seasons.",
+    "Bring layers and a rain jacket.",
+    "Try oysters and local craft beer."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need for the Garden Route?",
+      "a": "Four or five days, with more if you add Oudtshoorn or Addo."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "November to April."
+    },
+    {
+      "q": "Do I need a car?",
+      "a": "It is the best way, though the Baz Bus and tours are available."
+    },
+    {
+      "q": "Is the Garden Route safe?",
+      "a": "Generally yes, with normal precautions."
+    },
+    {
+      "q": "Is it malaria-free?",
+      "a": "Yes."
+    },
+    {
+      "q": "Can I drive it from Cape Town in a day?",
+      "a": "Knysna is 5 to 6 hours away, but it is best to take it slowly."
+    }
+  ],
+  "related": ["cape-town", "addo-eastern-cape", "hermanus-overberg", "cape-winelands"],
+  "relatedArticles": ["us-national-parks-road-trip", "mediterranean-coasts"]
+}

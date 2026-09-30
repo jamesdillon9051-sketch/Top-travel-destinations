@@ -1,0 +1,307 @@
+{
+  "slug": "puerto-princesa",
+  "name": "Puerto Princesa and the Underground River",
+  "shortName": "Puerto Princesa",
+  "country": "philippines",
+  "region": "Palawan, western Philippines",
+  "categories": ["national-park", "unesco", "nature", "coastal"],
+  "tagline": "A boat ride through a limestone cave beneath a rainforest mountain, in one of the world's New 7 Wonders of Nature.",
+  "highlight": "Paddling in near darkness through the vast chambers of the Puerto Princesa Underground River, lit only by your guide's lamp.",
+  "shortDescription": "Palawan's gateway city, and the base for the UNESCO-listed Puerto Princesa Subterranean River, plus Honda Bay island hopping, firefly watching and city tours.",
+  "metaDescription": "A Puerto Princesa travel guide: the Underground River tour and permits, Honda Bay island hopping, Iwahig, firefly watching, city sights, how to get to El Nido, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Puerto Princesa International (PPS), about 15 minutes",
+  "knownFor": "Underground River, Honda Bay, gateway to El Nido",
+  "budget": "US$50–100 per day, mid-range",
+  "goodFor": "Nature, cave visits, transit, families",
+  "coords": { "lat": 9.7392, "lng": 118.7353 },
+  "image": {
+    "file": "File:Puerto Princesa Underground River.jpg",
+    "alt": "The entrance of the Puerto Princesa Underground River with a boat in the lagoon"
+  },
+  "intro": [
+    "Puerto Princesa is the capital of Palawan, a clean and orderly city on the island's east coast, and the main gateway for visitors, with an international airport and connections to El Nido and Coron. It is known as the City in a Forest, and for its cleanliness and environmental policies.",
+    "The main attraction is the Puerto Princesa Subterranean River National Park, about 80 km north, a UNESCO World Heritage Site and one of the New 7 Wonders of Nature. Its centrepiece is an 8-km underground river, one of the longest navigable in the world, which flows through a limestone cave into the sea. Visitors take a paddled boat for about 1.5 km into the cave, past chambers filled with stalactites and stalagmites, bats and swiftlets. Tickets are limited by permit, and must be arranged in advance through the city's tourism office.",
+    "Near the city, Honda Bay has sandbars, coral gardens and island hopping, and a firefly watching tour in the Iwahig River is popular in the evening. Most visitors spend two days in Puerto Princesa before heading north to El Nido by van, about 5 to 6 hours."
+  ],
+  "whyVisit": {
+    "intro": "Puerto Princesa combines a world-famous cave with an easy gateway city.",
+    "points": [
+      {
+        "title": "An underground river",
+        "text": "A UNESCO cave."
+      },
+      {
+        "title": "Honda Bay",
+        "text": "Sandbars and reefs."
+      },
+      {
+        "title": "Firefly watching",
+        "text": "Evening river cruises."
+      },
+      {
+        "title": "A clean city",
+        "text": "Easy and relaxed."
+      },
+      {
+        "title": "Gateway to El Nido",
+        "text": "Vans and flights."
+      }
+    ]
+  },
+  "attractionsIntro": "The river is the highlight; other sights are nearby.",
+  "attractions": [
+    {
+      "name": "Puerto Princesa Underground River",
+      "image": {
+        "file": "File:Puerto Princesa Subterranean River Entrance 20250711.jpg",
+        "alt": "The lagoon and forest at the entrance to the Underground River"
+      },
+      "text": "An 8-km subterranean river, of which the first 1.5 km can be visited by boat, with cathedral-like chambers.",
+      "tip": "Book permits days ahead."
+    },
+    {
+      "name": "Limestone formations",
+      "image": {
+        "file": "File:Puerto Princesa Subterranean Park, limestone formations, Palawan, Philippines.jpg",
+        "alt": "Limestone karst formations in Puerto Princesa Subterranean River National Park"
+      },
+      "text": "The park's karst landscape of jagged limestone, forest and cliffs.",
+      "tip": "Look up at the peaks."
+    },
+    {
+      "name": "Honda Bay",
+      "text": "Island hopping to sandbars such as Luli and Starfish Island.",
+      "tip": "Go early."
+    },
+    {
+      "name": "Iwahig firefly watching",
+      "text": "A boat trip at night to see fireflies in the mangroves.",
+      "tip": "Book in the afternoon."
+    },
+    {
+      "name": "Baker's Hill",
+      "text": "A hill garden with bread and a view.",
+      "tip": "Good for families."
+    },
+    {
+      "name": "Plaza Cuartel",
+      "text": "A memorial to the 1944 massacre of prisoners of war.",
+      "tip": "Reflective stop."
+    }
+  ],
+  "thingsToDoIntro": "The city works as a base for two days of nature.",
+  "thingsToDo": [
+    {
+      "title": "Tour the Underground River",
+      "text": "Paddle into the cave.",
+      "tip": "Reserve a permit."
+    },
+    {
+      "title": "Go island hopping in Honda Bay",
+      "text": "Sandbars and snorkelling.",
+      "tip": "Book a boat."
+    },
+    {
+      "title": "Watch fireflies",
+      "text": "In the evening.",
+      "tip": "Bring insect repellent."
+    },
+    {
+      "title": "Try a zipline",
+      "text": "At the Eco Adventure park.",
+      "tip": "Book."
+    },
+    {
+      "title": "Eat crocodile sisig",
+      "text": "A local novelty.",
+      "tip": "Try it if adventurous."
+    },
+    {
+      "title": "Visit the Iwahig penal colony",
+      "text": "A farm prison.",
+      "tip": "Guided."
+    }
+  ],
+  "foodIntro": "Puerto Princesa's food is seafood and Palawan specialities.",
+  "foods": [
+    {
+      "name": "Tamilok",
+      "text": "Woodworm delicacy.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Grilled seafood",
+      "text": "Fresh fish.",
+      "whereToTry": "Baywalk."
+    },
+    {
+      "name": "Palawan cashews",
+      "text": "Roasted nuts.",
+      "whereToTry": "Shops."
+    },
+    {
+      "name": "Sisig",
+      "text": "Chopped pork.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Kinilaw",
+      "text": "Raw fish.",
+      "whereToTry": "Restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the city.",
+    "areas": [
+      {
+        "name": "City centre",
+        "bestFor": "Convenience",
+        "text": "Hotels."
+      },
+      {
+        "name": "Baywalk",
+        "bestFor": "Food",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Sabang",
+        "bestFor": "The Underground River",
+        "text": "Simple lodges."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$8–15 per night" },
+      { "label": "Mid-range hotel", "value": "US$35–90 per night" },
+      { "label": "Underground River tour", "value": "US$30–60 including permits" },
+      { "label": "Meal", "value": "US$4–12 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Puerto Princesa is the gateway.",
+    "options": [
+      {
+        "mode": "Flight from Manila",
+        "text": "About 1.5 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Van to Sabang",
+        "text": "About 2 hours.",
+        "detail": "Tours include it."
+      },
+      {
+        "mode": "Van to El Nido",
+        "text": "About 5 to 6 hours.",
+        "detail": "Shared."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Tricycles in the city.",
+    "options": [
+      {
+        "mode": "Tricycle",
+        "text": "Around town.",
+        "detail": "Agree fares."
+      },
+      {
+        "mode": "Tour van",
+        "text": "To the river.",
+        "detail": "Book."
+      },
+      {
+        "mode": "Boat",
+        "text": "In Honda Bay.",
+        "detail": "Book."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–May",
+    "summary": "The dry season is best.",
+    "seasons": [
+      {
+        "season": "December–February",
+        "rating": "best",
+        "text": "Dry."
+      },
+      {
+        "season": "March–May",
+        "rating": "best",
+        "text": "Hot."
+      },
+      {
+        "season": "June–August",
+        "rating": "quiet",
+        "text": "Rain."
+      },
+      {
+        "season": "September–November",
+        "rating": "avoid",
+        "text": "Wet, and the river may close."
+      }
+    ],
+    "avoid": "Wet season."
+  },
+  "itinerary": {
+    "title": "Two days in Puerto Princesa",
+    "intro": "The river and the bay.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Underground River",
+        "summary": "The cave.",
+        "morning": "Drive to Sabang.",
+        "afternoon": "Underground River tour.",
+        "evening": "Baywalk dinner."
+      },
+      {
+        "day": 2,
+        "title": "Honda Bay",
+        "summary": "Island hopping.",
+        "morning": "Honda Bay boat tour.",
+        "afternoon": "Baker's Hill.",
+        "evening": "Firefly watching."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book the river permit ahead.",
+    "Bring ID.",
+    "Wear closed shoes.",
+    "Avoid touching cave walls.",
+    "Bring a raincoat.",
+    "Bring cash.",
+    "Book the van to El Nido."
+  ],
+  "faq": [
+    {
+      "q": "How do I get a permit?",
+      "a": "Through the city tourism office or a tour operator."
+    },
+    {
+      "q": "How long is the cave tour?",
+      "a": "About 45 minutes inside."
+    },
+    {
+      "q": "Is it a UNESCO site?",
+      "a": "Yes."
+    },
+    {
+      "q": "How far to El Nido?",
+      "a": "About 5 to 6 hours."
+    },
+    {
+      "q": "When to go?",
+      "a": "December to May."
+    },
+    {
+      "q": "How many days?",
+      "a": "Two."
+    }
+  ],
+  "related": ["el-nido", "coron", "cebu"],
+  "relatedArticles": ["unesco-worth-planning-around", "us-national-parks-road-trip"]
+}

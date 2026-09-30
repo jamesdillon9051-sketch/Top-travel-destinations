@@ -1,0 +1,423 @@
+{
+  "slug": "brazil",
+  "name": "Brazil",
+  "continent": "South America",
+  "countryCode": "BR",
+  "tagline": "Samba and beaches in Rio, the world's greatest waterfalls at Iguazu, the Amazon and the Pantanal's wildlife, colonial towns and a culture of music, football and warmth.",
+  "cardDescription": "A continent-sized country of Atlantic beaches, Amazon rainforest, giant wetlands, waterfalls, colonial gold towns and Afro-Brazilian culture, with some of the warmest people and liveliest music in the world.",
+  "metaDescription": "A complete Brazil travel guide: the 10 best places to visit, Rio de Janeiro, Iguazu Falls, the Amazon, the Pantanal and Salvador, Brazilian food, when to go, flights, visas, safety and a two-week itinerary.",
+  "image": {
+    "file": "File:Rio de Janeiro skyline and Sugarloaf Mountain at sunset, Brazil 3.jpg",
+    "alt": "The skyline of Rio de Janeiro and Sugarloaf Mountain at sunset over Guanabara Bay"
+  },
+  "destinations": [
+    "rio-de-janeiro",
+    "iguazu-falls",
+    "salvador",
+    "amazon-manaus",
+    "pantanal",
+    "paraty-ilha-grande",
+    "sao-paulo",
+    "fernando-de-noronha",
+    "lencois-maranhenses",
+    "ouro-preto"
+  ],
+  "intro": [
+    "Brazil is the fifth-largest country in the world, and it takes up almost half of South America. It was colonised by the Portuguese from 1500, became an independent empire in 1822 and a republic in 1889, and it is the only Portuguese-speaking country in the Americas. Its people are a mix of Indigenous, European, African and Asian ancestry, with more people of African descent than any country outside Nigeria, and this blend gives Brazil its music, food, religion and character.",
+    "For visitors, the diversity is enormous. There are more than 7,000 km of coastline, with famous beaches and colonial ports; the Amazon, the world's largest rainforest; the Pantanal, the largest tropical wetland; the great falls of Iguazu; deserts of white dunes, and mountain towns built on gold. Rio de Janeiro is one of the world's most spectacular cities, São Paulo is the greatest megacity in the southern hemisphere, and Salvador is the heart of Afro-Brazilian culture.",
+    "The country rewards planning. Distances are huge, so flying is essential, and seasons and safety vary by region. Crime is a real concern in big cities, and a few sensible precautions make a big difference. But the welcome is warm, the food and music are joyful, and Brazil remains one of the most exciting places to travel."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Rio, Iguazu and Salvador are the classic three; the Amazon and the Pantanal are the great nature stops; and the rest add beaches, colonial towns and a megacity.",
+  "thingsToDoIntro": "The experiences that recur across the country and make a Brazilian trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Stand beneath Christ the Redeemer",
+      "text": "The statue on Corcovado Mountain, with its outstretched arms above Rio, is one of the New Seven Wonders of the World, and the view over the city and bay is unforgettable. See [[rio-de-janeiro|Rio de Janeiro]].",
+      "tip": "Go early or late for clear views, and check the cloud before you go up."
+    },
+    {
+      "title": "Feel the spray at Iguazu Falls",
+      "text": "A curtain of 275 waterfalls on the border with Argentina, with walkways to the edge of the Devil's Throat. See [[iguazu-falls|Iguazu Falls]].",
+      "tip": "See both the Brazilian and Argentine sides."
+    },
+    {
+      "title": "See jaguars in the Pantanal",
+      "text": "The Pantanal is the best place in the world to see wild jaguars, as well as giant otters, caimans and hundreds of bird species. See [[pantanal|the Pantanal]].",
+      "tip": "Go in the dry season, from June to October."
+    },
+    {
+      "title": "Join Carnival",
+      "image": {
+        "file": "File:Samba Parade - Rio's Carnival 2008.jpg",
+        "alt": "A samba school parade with dancers and floats at the Rio Carnival"
+      },
+      "text": "Carnival, held in February or March before Lent, is a spectacle of parades, street parties and samba schools in Rio, Salvador and Recife.",
+      "tip": "Book accommodation many months ahead, and consider street blocos as an alternative to the stadium."
+    },
+    {
+      "title": "Watch a football match",
+      "text": "Football is a religion, and a match at the Maracanã or another stadium is an experience of songs, drums and passion.",
+      "tip": "Go with a local or a tour, and avoid wearing team colours in rival areas."
+    },
+    {
+      "title": "Explore the Amazon by boat",
+      "text": "Rivers, flooded forest and jungle lodges near Manaus give a glimpse of the world's largest rainforest. See [[amazon-manaus|the Amazon]].",
+      "tip": "Choose a reputable lodge, and go with a local guide."
+    },
+    {
+      "title": "Dance to samba, forró and capoeira",
+      "text": "Music and dance are everywhere, from Lapa's samba clubs to Salvador's capoeira circles. See [[salvador|Salvador]].",
+      "tip": "Learn a few steps, and join in."
+    }
+  ],
+  "foodIntro": "Brazilian cooking is as varied as the country: feijoada in Rio, moqueca and acarajé in Bahia, churrasco in the south, river fish in the Amazon, and tropical fruit everywhere. Meals are social, and lunch is the main event.",
+  "foods": [
+    {
+      "name": "Feijoada",
+      "image": {
+        "file": "File:Feijoada à brasileira 1.jpg",
+        "alt": "A pot of feijoada, black bean stew with pork, served with rice and collard greens"
+      },
+      "text": "The national dish: a black bean stew with pork and sausage, served with rice, collard greens, farofa and orange slices. Traditionally eaten on Saturdays.",
+      "whereToTry": "Restaurants in [[rio-de-janeiro|Rio]] and [[sao-paulo|São Paulo]]."
+    },
+    {
+      "name": "Pão de queijo",
+      "image": {
+        "file": "File:Pão de queijo 2.jpg",
+        "alt": "Warm pão de queijo cheese bread rolls"
+      },
+      "text": "Small, chewy cheese rolls made from cassava flour, a staple snack from Minas Gerais and sold everywhere.",
+      "whereToTry": "Bakeries and cafés, especially in [[ouro-preto|Minas Gerais]]."
+    },
+    {
+      "name": "Moqueca",
+      "image": {
+        "file": "File:Moqueca Capixaba 02.jpg",
+        "alt": "A clay pot of moqueca fish stew with coconut milk and peppers"
+      },
+      "text": "A stew of fish or shrimp cooked with coconut milk, tomatoes, peppers and coriander, in a clay pot. The Bahian version adds palm oil (dendê).",
+      "whereToTry": "Coastal restaurants in [[salvador|Salvador]] and [[paraty-ilha-grande|Paraty]]."
+    },
+    {
+      "name": "Brigadeiro",
+      "image": {
+        "file": "File:Brigadeiro.jpg",
+        "alt": "Chocolate brigadeiro truffles rolled in sprinkles"
+      },
+      "text": "A sweet ball of condensed milk, cocoa and butter rolled in chocolate sprinkles, served at every birthday party.",
+      "whereToTry": "Bakeries and sweet shops across the country."
+    },
+    {
+      "name": "Caipirinha",
+      "image": {
+        "file": "File:Caipirinha 2007.JPG",
+        "alt": "A caipirinha cocktail made with lime, sugar and cachaça"
+      },
+      "text": "Brazil's national cocktail, made with cachaça (sugar-cane spirit), lime and sugar, crushed and served over ice.",
+      "whereToTry": "Beach kiosks and bars in [[rio-de-janeiro|Rio]]."
+    },
+    {
+      "name": "Açaí",
+      "image": {
+        "file": "File:Açaí na tigela 1.jpg",
+        "alt": "A bowl of açaí with banana, granola and honey"
+      },
+      "text": "A purple Amazonian berry blended into a thick, cold bowl with banana and granola. In the Amazon, it is eaten savoury with fish.",
+      "whereToTry": "Juice bars across the country, and [[amazon-manaus|the Amazon]]."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Brazil is easy to enjoy but needs preparation on visas, health and safety.",
+  "practical": {
+    "capital": "Brasília",
+    "language": "Portuguese. English is spoken in hotels and tourist areas, but not widely elsewhere, and Spanish is only partly understood. A few Portuguese phrases help a lot.",
+    "currency": "Brazilian real (BRL, R$). Roughly 5–6 reais to the US dollar in recent years.",
+    "money": "Cards are widely accepted, and Pix, the instant-payment system, is used for almost everything by locals. ATMs are common but can have withdrawal limits, and some do not accept foreign cards. Carry some cash for markets and small places.",
+    "visa": "Many nationalities, including most of Europe, can enter visa-free for up to 90 days. Citizens of the United States, Canada and Australia need an online e-visa, following Brazil's reintroduction of visa reciprocity in 2025. Rules change, so check the official government site.",
+    "plugs": "Types N and C, with 127 V or 220 V depending on the region, 60 Hz. Check the voltage and bring a universal adaptor.",
+    "emergency": "190 for police, 192 for ambulance and 193 for fire. Tourist police operate in Rio and other cities.",
+    "tipping": "A 10% service charge is often included in restaurant bills. Otherwise leave about 10%. Round up taxi fares, and tip guides and drivers.",
+    "safety": "Brazil has high levels of street crime in big cities, particularly muggings and phone snatching. Keep valuables out of sight, avoid walking alone at night, use ride-hailing apps rather than street taxis, and follow local advice about neighbourhoods to avoid. Favelas should be visited only with reputable guides. Outside the big cities, safety is generally better.",
+    "connectivity": "Good in cities and along the coast, with cheap SIM cards and eSIMs. Coverage is patchy in the Amazon, the Pantanal and remote areas.",
+    "timeZone": "Most of the country is UTC−3 (Brasília time), with the Amazon and Pantanal regions at UTC−4, and Fernando de Noronha at UTC−2. There is no daylight saving time.",
+    "budget": [
+      { "label": "Backpacker", "value": "US$40–70 per day — hostels, buses, street food" },
+      { "label": "Mid-range", "value": "US$100–180 per day — hotels, restaurants, flights and tours" },
+      { "label": "Comfortable", "value": "US$220–400 per day — boutique hotels, private guides" },
+      { "label": "Luxury", "value": "US$500+ per day — top hotels, jungle and wildlife lodges" }
+    ]
+  },
+  "bestTime": {
+    "headline": "Varies by region, see below",
+    "summary": "Brazil is huge, and the climate differs by region. Rio and the coast are best from April to October, the Amazon and Pantanal depend on the water level, and the north-east is warm all year.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Hot and humid on the coast, with Carnival and New Year. It is the rainy season in the Amazon and the Pantanal, and the peak season for Rio and the beaches."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Warm and less crowded, with lower prices. The Amazon is at high water, and Lençóis Maranhenses' lagoons start to fill."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "best",
+        "text": "Dry and mild in the south and Pantanal, the best time for wildlife. Lagoons at Lençóis Maranhenses are full."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Warm and increasingly sunny. Fernando de Noronha has its best visibility."
+      }
+    ],
+    "avoid": "Carnival week if you dislike crowds and high prices, and the peak of the Amazon rainy season if you want to trek."
+  },
+  "tripDuration": {
+    "headline": "2–3 weeks for a first trip",
+    "summary": "Brazil's size means that trips need to be focused. Ten days covers Rio and one other region, and three weeks allows a mix of city, nature and beach.",
+    "options": [
+      {
+        "length": "7–10 days",
+        "text": "Rio de Janeiro with Iguazu Falls, or Rio with Paraty.",
+        "detail": "The classic short trip."
+      },
+      {
+        "length": "12–14 days",
+        "text": "The itinerary on this page: Rio, Paraty, Iguazu and Salvador.",
+        "detail": "A balanced first look, with two flights."
+      },
+      {
+        "length": "3 weeks",
+        "text": "Adds the Amazon or the Pantanal and São Paulo.",
+        "detail": "Allows for wildlife and a slower pace."
+      },
+      {
+        "length": "4 weeks or more",
+        "text": "Adds Fernando de Noronha, Lençóis Maranhenses and Minas Gerais.",
+        "detail": "For those with time to explore."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Distances make flying essential for most trips. Domestic flights are frequent and often cheap, and buses cover shorter routes well.",
+    "options": [
+      {
+        "mode": "Domestic flights",
+        "text": "LATAM, GOL and Azul link all major cities and tourist regions. Flights are frequent, and prices are moderate if booked ahead.",
+        "detail": "Watch baggage rules on cheap fares."
+      },
+      {
+        "mode": "Long-distance buses",
+        "text": "Comfortable coaches with reclining seats cover most routes, such as Rio to São Paulo (about 6 hours) and Rio to Paraty (about 4 hours).",
+        "detail": "Choose semi-leito or leito classes for overnight trips."
+      },
+      {
+        "mode": "Ride-hailing apps",
+        "text": "Uber and 99 work in most cities, and are safer and more reliable than street taxis.",
+        "detail": "Use the app, and check the plate."
+      },
+      {
+        "mode": "Metro and city transport",
+        "text": "Rio and São Paulo have metros, and both have buses and trains.",
+        "detail": "Avoid crowded rush hours."
+      },
+      {
+        "mode": "Boats and ferries",
+        "text": "Riverboats in the Amazon, ferries to Ilha Grande, and boats in the Pantanal.",
+        "detail": "Book in advance in peak season."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Brazil",
+    "intro": "Rio de Janeiro, the colonial coast at Paraty, Iguazu Falls and Salvador, with two flights. Covers four of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Rio",
+        "morning": "Land and check in.",
+        "afternoon": "A walk on Ipanema beach.",
+        "evening": "Dinner and a caipirinha."
+      },
+      {
+        "day": 2,
+        "title": "Rio icons",
+        "morning": "Christ the Redeemer.",
+        "afternoon": "The Selarón Steps and Santa Teresa.",
+        "evening": "Sunset at Sugarloaf."
+      },
+      {
+        "day": 3,
+        "title": "Rio beaches",
+        "morning": "Copacabana and Ipanema.",
+        "afternoon": "The Botanical Garden or a hike in Tijuca.",
+        "evening": "Samba in Lapa."
+      },
+      {
+        "day": 4,
+        "title": "Rio and Maracanã",
+        "morning": "The Tijuca rainforest.",
+        "afternoon": "A football tour of Maracanã.",
+        "evening": "Farewell dinner."
+      },
+      {
+        "day": 5,
+        "title": "To Paraty",
+        "morning": "Bus along the coast.",
+        "afternoon": "The historic centre.",
+        "evening": "Dinner by the harbour."
+      },
+      {
+        "day": 6,
+        "title": "Paraty bay",
+        "morning": "A boat trip to the islands.",
+        "afternoon": "A beach and a swim.",
+        "evening": "Cachaça tasting."
+      },
+      {
+        "day": 7,
+        "title": "Fly to Iguazu",
+        "morning": "Transfer to Rio and fly.",
+        "afternoon": "Arrive in Foz do Iguaçu.",
+        "evening": "Dinner in town."
+      },
+      {
+        "day": 8,
+        "title": "The Brazilian side",
+        "morning": "The Brazilian falls walkway.",
+        "afternoon": "The Bird Park.",
+        "evening": "A rest."
+      },
+      {
+        "day": 9,
+        "title": "The Argentine side",
+        "morning": "Cross to Argentina.",
+        "afternoon": "The Devil's Throat and the upper trails.",
+        "evening": "Return to Foz."
+      },
+      {
+        "day": 10,
+        "title": "Fly to Salvador",
+        "morning": "Flight north.",
+        "afternoon": "The Pelourinho.",
+        "evening": "Moqueca and drums."
+      },
+      {
+        "day": 11,
+        "title": "Salvador's old city",
+        "morning": "Churches of the historic centre.",
+        "afternoon": "Elevador Lacerda and the market.",
+        "evening": "Capoeira and a show."
+      },
+      {
+        "day": 12,
+        "title": "Salvador's coast",
+        "morning": "Farol da Barra.",
+        "afternoon": "A beach.",
+        "evening": "Sunset by the sea."
+      },
+      {
+        "day": 13,
+        "title": "Day trip",
+        "morning": "A boat to the Bay of All Saints.",
+        "afternoon": "An island beach.",
+        "evening": "Last night."
+      },
+      {
+        "day": 14,
+        "title": "Depart",
+        "morning": "Last acarajé.",
+        "afternoon": "Fly home.",
+        "evening": "Home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Brazilians are warm, expressive and informal, and social life revolves around family, food, music and football. People stand close, touch when talking, and use first names. Time is flexible, and things start late. Religion, both Catholic and Afro-Brazilian, is a strong part of everyday life.",
+    "etiquette": [
+      {
+        "title": "Greet warmly",
+        "text": "A handshake or kiss on the cheek, depending on region, and eye contact are normal. Take time to say hello."
+      },
+      {
+        "title": "Be flexible about time",
+        "text": "Social events start late, and punctuality is relaxed, though business meetings are more punctual."
+      },
+      {
+        "title": "Dress casually, but neatly",
+        "text": "Beachwear is for the beach. In restaurants, churches and cities, cover up."
+      },
+      {
+        "title": "Respect religion",
+        "text": "Churches and candomblé ceremonies are places of worship. Ask before photographing."
+      },
+      {
+        "title": "Don't display valuables",
+        "text": "Keep phones, jewellery and cameras out of sight in cities."
+      },
+      {
+        "title": "Accept hospitality",
+        "text": "Refusing food or drink can seem rude. A small taste is polite."
+      }
+    ],
+    "dos": [
+      "Learn a few Portuguese phrases: olá (hello), obrigado/obrigada (thank you), por favor (please)",
+      "Use ride-hailing apps in cities",
+      "Carry a photocopy of your passport, and lock the original in the hotel",
+      "Use sunscreen and insect repellent",
+      "Bring cash in small amounts",
+      "Join in with music and dancing"
+    ],
+    "donts": [
+      "Don't walk alone on quiet streets or beaches at night",
+      "Don't use your phone openly on the street",
+      "Don't leave belongings unattended on the beach",
+      "Don't assume Spanish will be understood",
+      "Don't take photos in favelas without permission",
+      "Don't swim where there are warnings about currents"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Brazil, several of which are specific to how the country works.",
+  "tips": [
+    "Use ride-hailing apps instead of street taxis, and check the licence plate.",
+    "Keep phones, cameras and jewellery out of sight, and carry only what you need.",
+    "Check yellow fever and other health advice well before you travel.",
+    "Buy an e-visa in advance if you need one.",
+    "Fly between regions. The distances are huge.",
+    "Book Carnival, New Year and July holiday accommodation months ahead.",
+    "Bring cash for markets and small places, and expect to use Pix or cards elsewhere.",
+    "Try a rodízio, a meat-and-salad feast, and the lunchtime 'por quilo' buffets."
+  ],
+  "faq": [
+    {
+      "q": "Is Brazil safe for tourists?",
+      "a": "Millions visit safely every year, but street crime is a real problem in big cities. Take precautions, use ride-hailing apps, keep valuables hidden, and follow local advice."
+    },
+    {
+      "q": "How many days do you need in Brazil?",
+      "a": "Two weeks for a first trip, focusing on Rio, Iguazu and one other region."
+    },
+    {
+      "q": "What is the best time to visit Brazil?",
+      "a": "It depends where. April to October suits Rio and the Pantanal, while the north-east is warm all year."
+    },
+    {
+      "q": "Do I need a visa for Brazil?",
+      "a": "Citizens of the US, Canada and Australia need an e-visa, and many other nationalities do not. Check the official site."
+    },
+    {
+      "q": "Do people speak English?",
+      "a": "Some, in tourist areas. Portuguese is the language, and learning basic phrases helps."
+    },
+    {
+      "q": "Do I need a yellow fever vaccination?",
+      "a": "It is recommended for many areas, including the Amazon, Pantanal and Iguazu. Check with a travel clinic."
+    },
+    {
+      "q": "Is it better to visit Rio or Salvador?",
+      "a": "Rio for beaches and scenery, and Salvador for Afro-Brazilian culture and history. Ideally see both."
+    }
+  ]
+}

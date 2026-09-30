@@ -1,0 +1,318 @@
+{
+  "slug": "siargao",
+  "name": "Siargao",
+  "country": "philippines",
+  "region": "Surigao del Norte, north-eastern Mindanao",
+  "categories": ["island", "coastal", "nature"],
+  "tagline": "The surfing capital of the Philippines, a teardrop of palm groves, rock pools and lagoons around the famous Cloud 9 break.",
+  "highlight": "Watching surfers ride the tubing waves of Cloud 9 from the boardwalk at sunrise.",
+  "shortDescription": "A laid-back island with the Cloud 9 surf break, the Sugba and Magpupungko lagoons and rock pools, Naked Island, Sohoton Cove and a growing café and yoga scene.",
+  "metaDescription": "A Siargao travel guide: Cloud 9 surfing, Magpupungko rock pools, Sugba Lagoon, Naked, Daku and Guyam islands, Sohoton Cove, general Luna town, where to stay, how to get there and a four-day plan.",
+  "suggestedStay": "4 days",
+  "nearestAirport": "Sayak Airport, Siargao (IAO)",
+  "knownFor": "Surfing at Cloud 9, island hopping, rock pools",
+  "budget": "US$50–110 per day, mid-range",
+  "goodFor": "Surfers, backpackers, digital nomads, couples",
+  "coords": { "lat": 9.8482, "lng": 126.0458 },
+  "image": {
+    "file": "File:Siargao Cloud 9.jpg",
+    "alt": "The Cloud 9 boardwalk and surf break on Siargao Island"
+  },
+  "intro": [
+    "Siargao is a teardrop-shaped island off the north-east coast of Mindanao, and the surfing capital of the Philippines. Its main break, Cloud 9, a fast, hollow reef wave breaking just off General Luna, has hosted international surfing competitions since the 1990s, and the island now supports a laid-back scene of surf schools, cafés, yoga studios and hostels. It was hit hard by Typhoon Rai in December 2021, and has since rebuilt.",
+    "Surfing is best from August to November, when swells are biggest, but Siargao is an attractive island year-round. Coconut palm forests cover much of it, and inland there are mangrove-lined lagoons. Off the coast near General Luna, three islands, Naked Island, Daku Island and Guyam Island, form the classic island-hopping trip. In the north-east, the Magpupungko rock pools appear at low tide, and Sugba Lagoon offers clear green water for swimming.",
+    "Beginners can learn to surf on gentler waves, and non-surfers can enjoy scooter rides through palm groves, sunsets and beach clubs. The town of General Luna is the base, and the island is reached by a short flight from Cebu or Manila. The vibe is relaxed and increasingly cosmopolitan, and it is calmer than Boracay."
+  ],
+  "whyVisit": {
+    "intro": "Siargao is the Philippines' surf capital and a great laid-back island escape.",
+    "points": [
+      {
+        "title": "Cloud 9",
+        "text": "A world-famous wave."
+      },
+      {
+        "title": "Rock pools and lagoons",
+        "text": "Magpupungko and Sugba."
+      },
+      {
+        "title": "Island hopping",
+        "text": "Naked, Daku and Guyam."
+      },
+      {
+        "title": "Relaxed vibe",
+        "text": "Cafés and yoga."
+      },
+      {
+        "title": "Scooter rides",
+        "text": "Through palm groves."
+      }
+    ]
+  },
+  "attractionsIntro": "Sights are spread around the island, best by scooter.",
+  "attractions": [
+    {
+      "name": "Cloud 9 boardwalk",
+      "image": {
+        "file": "File:Cloud 9 Boardwalk, Siargao.jpg",
+        "alt": "The wooden Cloud 9 boardwalk extending over the surf break"
+      },
+      "text": "A wooden boardwalk and viewing tower over the famous surf break, good for watching surfers.",
+      "tip": "Go at sunrise."
+    },
+    {
+      "name": "Magpupungko Rock Pools",
+      "text": "Natural tidal pools in the rocks on the north-east coast, best at low tide.",
+      "tip": "Check the tide chart."
+    },
+    {
+      "name": "Sugba Lagoon",
+      "text": "A clear green lagoon with a diving platform.",
+      "tip": "Join a tour."
+    },
+    {
+      "name": "Naked Island",
+      "text": "A sandbar with no trees, off General Luna.",
+      "tip": "Bring shade."
+    },
+    {
+      "name": "Sohoton Cove",
+      "text": "A lagoon and cave system on nearby Bucas Grande.",
+      "tip": "Book a boat."
+    },
+    {
+      "name": "Coconut Road",
+      "text": "A road lined with palm trees.",
+      "tip": "Good for photos."
+    }
+  ],
+  "thingsToDoIntro": "Siargao is about surfing and slow days.",
+  "thingsToDo": [
+    {
+      "title": "Take a surf lesson",
+      "text": "At Cloud 9 or a gentler break.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Island hop",
+      "text": "Naked, Daku and Guyam.",
+      "tip": "Book a boat."
+    },
+    {
+      "title": "Ride a scooter",
+      "text": "Around the island.",
+      "tip": "Wear a helmet."
+    },
+    {
+      "title": "Watch sunsets",
+      "text": "On the beach.",
+      "tip": "Bring a drink."
+    },
+    {
+      "title": "Try a yoga class",
+      "text": "In General Luna.",
+      "tip": "Book."
+    },
+    {
+      "title": "Swim in Sugba Lagoon",
+      "text": "Clear water.",
+      "tip": "Go in the morning."
+    }
+  ],
+  "foodIntro": "Siargao's food is fresh and increasingly international.",
+  "foods": [
+    {
+      "name": "Fresh seafood",
+      "text": "Grilled and raw.",
+      "whereToTry": "Beach restaurants."
+    },
+    {
+      "name": "Kinilaw",
+      "text": "Raw fish.",
+      "whereToTry": "Local eateries."
+    },
+    {
+      "name": "Smoothie bowls",
+      "text": "Café culture.",
+      "whereToTry": "General Luna cafés."
+    },
+    {
+      "name": "Coconut dishes",
+      "text": "Local staples.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Fresh juices",
+      "text": "Tropical fruit.",
+      "whereToTry": "Stalls."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in General Luna or a quieter beach.",
+    "areas": [
+      {
+        "name": "General Luna",
+        "bestFor": "Nightlife and services",
+        "text": "Hostels and boutique hotels."
+      },
+      {
+        "name": "Cloud 9",
+        "bestFor": "Surfing",
+        "text": "Surf camps."
+      },
+      {
+        "name": "Dapa and Pacifico",
+        "bestFor": "Quiet",
+        "text": "Guesthouses."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$8–15 per night" },
+      { "label": "Mid-range hotel", "value": "US$40–100 per night" },
+      { "label": "Surf lesson", "value": "US$15–25 per hour" },
+      { "label": "Scooter rental", "value": "US$8–12 per day" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Siargao is reached by air or ferry.",
+    "options": [
+      {
+        "mode": "Flight",
+        "text": "About 1.5 hours from Manila or Cebu.",
+        "detail": "Book early."
+      },
+      {
+        "mode": "Ferry from Surigao",
+        "text": "About 3 hours.",
+        "detail": "Weather-dependent."
+      },
+      {
+        "mode": "Van transfer",
+        "text": "From the airport, about 45 minutes.",
+        "detail": "Book."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Scooters and tricycles.",
+    "options": [
+      {
+        "mode": "Scooter",
+        "text": "The best way.",
+        "detail": "Drive carefully."
+      },
+      {
+        "mode": "Tricycle",
+        "text": "In town.",
+        "detail": "Agree fares."
+      },
+      {
+        "mode": "Boat",
+        "text": "To islands.",
+        "detail": "Book."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "August–November for surf, March–May for calm seas",
+    "summary": "Siargao has surf seasons and calm seasons.",
+    "seasons": [
+      {
+        "season": "August–November",
+        "rating": "best",
+        "text": "Biggest swells, but typhoon risk."
+      },
+      {
+        "season": "December–February",
+        "rating": "quiet",
+        "text": "Rain and rough seas."
+      },
+      {
+        "season": "March–May",
+        "rating": "good",
+        "text": "Dry, calm and hot."
+      },
+      {
+        "season": "June–July",
+        "rating": "good",
+        "text": "Transitional."
+      }
+    ],
+    "avoid": "Typhoon storms."
+  },
+  "itinerary": {
+    "title": "Four days in Siargao",
+    "intro": "Surfing, islands and pools.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive",
+        "summary": "General Luna.",
+        "morning": "Flight to Siargao.",
+        "afternoon": "Cloud 9 boardwalk.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 2,
+        "title": "Surf",
+        "summary": "Lessons.",
+        "morning": "Surf lesson.",
+        "afternoon": "Coconut Road.",
+        "evening": "Sunset."
+      },
+      {
+        "day": 3,
+        "title": "Island hopping",
+        "summary": "Boat day.",
+        "morning": "Naked, Daku and Guyam.",
+        "afternoon": "Swim.",
+        "evening": "Rest."
+      },
+      {
+        "day": 4,
+        "title": "Rock pools",
+        "summary": "North.",
+        "morning": "Magpupungko Rock Pools.",
+        "afternoon": "Sugba Lagoon.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Check tide charts.",
+    "Wear reef-safe sunscreen.",
+    "Bring cash.",
+    "Wear a helmet on scooters.",
+    "Book flights early.",
+    "Take surf lessons from certified instructors.",
+    "Watch the typhoon forecast."
+  ],
+  "faq": [
+    {
+      "q": "Is Siargao good for beginners?",
+      "a": "Yes, with lessons."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "Fly from Manila or Cebu."
+    },
+    {
+      "q": "When to surf?",
+      "a": "August to November."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Moderate."
+    },
+    {
+      "q": "Do I need a scooter?",
+      "a": "It helps."
+    },
+    {
+      "q": "Was it damaged by Rai?",
+      "a": "Yes, in 2021, and it has rebuilt."
+    }
+  ],
+  "related": ["cebu", "bohol", "boracay"],
+  "relatedArticles": ["mediterranean-coasts", "packing-by-season"]
+}

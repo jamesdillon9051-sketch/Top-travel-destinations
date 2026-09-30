@@ -1,0 +1,423 @@
+{
+  "slug": "philippines",
+  "name": "Philippines",
+  "continent": "Asia",
+  "countryCode": "PH",
+  "tagline": "More than 7,000 islands of limestone lagoons, white-sand beaches, ancient rice terraces, Spanish-colonial towns and the friendliest people in Asia.",
+  "cardDescription": "A tropical archipelago of dramatic seascapes, world-class diving, heritage towns and hospitable, English-speaking locals, at prices below its neighbours.",
+  "metaDescription": "A complete Philippines travel guide: the 10 best places to visit, El Nido, Coron, Bohol, Cebu, Boracay and the Banaue rice terraces, food, when to go, island hopping, transport and a two-week itinerary.",
+  "image": {
+    "file": "File:El Nido Bay, Desert tropical island, Coastline, Palawan Island, Philippines.jpg",
+    "alt": "A desert tropical island with white sand and clear water in El Nido Bay, Palawan"
+  },
+  "destinations": [
+    "el-nido",
+    "coron",
+    "bohol",
+    "cebu",
+    "boracay",
+    "banaue-batad",
+    "vigan",
+    "manila",
+    "siargao",
+    "puerto-princesa"
+  ],
+  "intro": [
+    "The Philippines is an archipelago of more than 7,600 islands in South-East Asia, and about 116 million people live on the largest handful. Its geography is spectacular: the country sits on the Pacific Ring of Fire, with active volcanoes such as Mayon, jagged limestone cliffs rising from turquoise lagoons, and coral reefs that are among the richest on the planet. It has an unusually long history of outside influence, from Spanish colonisation lasting more than three centuries to American rule, and a blend of Malay, Chinese, Spanish and American cultures makes it distinctive.",
+    "For visitors, island life is the draw: island hopping around Palawan's Bacuit Bay, snorkelling with sardines at Moalboal or whale sharks at Oslob, diving World War II wrecks in Coron, surfing at Siargao and beach-lounging at Boracay. On land, Bohol's Chocolate Hills, the Ifugao rice terraces of Banaue and Batad, Vigan's Spanish streets and Manila's walled city Intramuros add history and culture.",
+    "The Philippines is also very welcoming. English is an official language and widely spoken, the people are known for warmth and humour, and costs are low. The challenge is logistics: getting between islands involves flights, ferries and long drives, and typhoons can disrupt plans, so patience and flexibility are needed. The best time is the dry season from December to May."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. El Nido, Coron, Bohol and Cebu are the essentials; Boracay, Banaue and Manila add variety, and the others reward those with more time.",
+  "thingsToDoIntro": "The experiences that recur across the country and make a Philippine trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Go island hopping",
+      "text": "Bangkas, outrigger boats, take groups to hidden lagoons, sandbars and snorkelling reefs. See [[el-nido|El Nido]] and [[coron|Coron]].",
+      "tip": "Book a small-group tour and start early."
+    },
+    {
+      "title": "Snorkel with sardines and whale sharks",
+      "text": "Moalboal's sardine run is one of the world's great snorkelling sights, and Oslob is famous for whale shark encounters. See [[cebu|Cebu]].",
+      "tip": "Choose responsible operators and keep your distance from animals."
+    },
+    {
+      "title": "Dive a wreck",
+      "text": "Coron Bay holds a fleet of Japanese ships sunk in 1944, now home to coral and fish. See [[coron|Coron]].",
+      "tip": "Book dives with a certified centre."
+    },
+    {
+      "title": "See the rice terraces",
+      "text": "The Ifugao terraces of Banaue and Batad, carved into the mountains some 2,000 years ago, are a UNESCO site. See [[banaue-batad|Banaue and Batad]].",
+      "tip": "Allow at least two days."
+    },
+    {
+      "title": "Surf at Siargao",
+      "text": "Cloud 9 is one of Asia's best surf breaks, and the island has a laid-back scene. See [[siargao|Siargao]].",
+      "tip": "Take a lesson if you are new."
+    },
+    {
+      "title": "Explore a Spanish-era town",
+      "text": "Cobbled streets, calesas and ancestral houses in Vigan, and the walled city of Intramuros in Manila. See [[vigan|Vigan]] and [[manila|Manila]].",
+      "tip": "Go in the early morning."
+    },
+    {
+      "title": "Ride a jeepney",
+      "image": {
+        "file": "File:Jeepney in Legazpi City.JPG",
+        "alt": "A colourful jeepney on a street in Legazpi City"
+      },
+      "text": "The brightly decorated jeepney, converted from American military jeeps, is the classic Filipino public transport.",
+      "tip": "Pass your fare forward, and say 'para' to stop."
+    }
+  ],
+  "foodIntro": "Filipino food is savoury, sour and sweet at once, built on vinegar, soy sauce, garlic and coconut, and served family style with rice.",
+  "foods": [
+    {
+      "name": "Adobo",
+      "image": {
+        "file": "File:Chicken adobo.jpg",
+        "alt": "A plate of chicken adobo braised in soy and vinegar with rice"
+      },
+      "text": "Chicken or pork braised in vinegar, soy sauce, garlic and bay leaf, often called the national dish.",
+      "whereToTry": "Everywhere, at home-style restaurants."
+    },
+    {
+      "name": "Sinigang",
+      "image": {
+        "file": "File:Fish sinigang.jpg",
+        "alt": "A bowl of sour sinigang soup with fish and vegetables"
+      },
+      "text": "A sour tamarind soup with pork, shrimp or fish and vegetables, comforting and tangy.",
+      "whereToTry": "Family restaurants."
+    },
+    {
+      "name": "Lechon",
+      "image": {
+        "file": "File:Lechon Cebu 2.jpg",
+        "alt": "A whole roasted lechon pig with crackling skin in Cebu"
+      },
+      "text": "A whole pig roasted over charcoal until the skin is crisp, the centrepiece of fiestas. Cebu's is stuffed with lemongrass.",
+      "whereToTry": "[[cebu|Cebu]] lechon houses."
+    },
+    {
+      "name": "Kinilaw",
+      "image": {
+        "file": "File:Kinilaw (Philippine raw fish in citrus juices and vinegar).jpg",
+        "alt": "Kinilaw, raw fish cured in vinegar and citrus juice"
+      },
+      "text": "Raw fish cured in vinegar and calamansi with ginger, onion and chilli, the Filipino cousin of ceviche.",
+      "whereToTry": "Seaside restaurants in [[siargao|Siargao]] and [[bohol|Bohol]]."
+    },
+    {
+      "name": "Halo-halo",
+      "text": "A dessert of shaved ice, sweet beans, fruit, jelly, ube ice cream and leche flan, a favourite in the heat.",
+      "whereToTry": "Cafés and street stalls everywhere."
+    },
+    {
+      "name": "Fresh mango and calamansi",
+      "text": "Sweet Philippine mangoes, and calamansi, a small citrus, squeezed into drinks and sauces.",
+      "whereToTry": "Markets."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. The Philippines is easy and friendly, though inter-island travel and weather need planning.",
+  "practical": {
+    "capital": "Manila",
+    "language": "Filipino (Tagalog) and English are official. English is widely spoken, and there are around 180 other languages, including Cebuano and Ilocano.",
+    "currency": "Philippine peso (PHP, ₱). Roughly 55–59 pesos to the US dollar in recent years.",
+    "money": "Cards are accepted in cities and resorts, but cash rules in islands, markets and for tricycles. ATMs are common in towns, and rare or empty on small islands, so bring cash. Expect a withdrawal fee.",
+    "visa": "Many nationalities, including the United Kingdom, most of Europe, the United States, Canada and Australia, can enter visa-free for 30 days, extendable, provided they have an onward ticket. An online eTravel registration is required before arrival. Rules change, so check the official immigration site.",
+    "plugs": "Type A, B and C, 220 V, 60 Hz. Bring a universal adaptor, and check that US devices take 220 V.",
+    "emergency": "911 for all emergencies.",
+    "tipping": "About 10% in restaurants if a service charge is not included, and small tips for guides, boat crews and drivers are appreciated.",
+    "safety": "Tourist areas are generally safe, but petty theft and scams occur in Manila. Government advisories warn against travel to parts of Mindanao, such as the Sulu archipelago, and to some border areas. Typhoons can strike between June and November. Be careful on boats, and insist on life jackets.",
+    "connectivity": "Good in cities and resorts. Buy a Globe or Smart SIM or eSIM. Coverage is patchy on remote islands.",
+    "timeZone": "Philippine Standard Time, UTC+8 all year, with no daylight saving.",
+    "budget": [
+      {
+        "label": "Backpacker",
+        "value": "US$30–50 per day — hostels, local food, buses"
+      },
+      {
+        "label": "Mid-range",
+        "value": "US$70–130 per day — hotels, island tours, domestic flights"
+      },
+      {
+        "label": "Comfortable",
+        "value": "US$150–260 per day — resorts, private tours, diving"
+      },
+      {
+        "label": "Luxury",
+        "value": "US$400+ per day — private-island resorts"
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–May",
+    "summary": "The Philippines has a dry season from roughly December to May and a wet, typhoon-prone season from June to November.",
+    "seasons": [
+      {
+        "season": "December–February",
+        "rating": "best",
+        "text": "Cool, dry and sunny, with the best weather for most islands. Busy around Christmas and New Year."
+      },
+      {
+        "season": "March–May",
+        "rating": "best",
+        "text": "Hot and dry, ideal for beaches and diving. Temperatures can top 35°C."
+      },
+      {
+        "season": "June–August",
+        "rating": "quiet",
+        "text": "The rainy season begins, with wind and showers, though prices drop. Siargao's surf peaks from August."
+      },
+      {
+        "season": "September–November",
+        "rating": "avoid",
+        "text": "Peak typhoon season, with cancelled flights and ferries, especially in the northern and central islands."
+      }
+    ],
+    "avoid": "September to November for typhoons, and Holy Week for crowds."
+  },
+  "tripDuration": {
+    "headline": "12–16 days for a first trip",
+    "summary": "The Philippines is spread out, and internal travel takes time. Two weeks covers two or three regions, and a week is best kept to one region.",
+    "options": [
+      {
+        "length": "7 days",
+        "text": "Palawan (El Nido and Coron), or Cebu and Bohol.",
+        "detail": "One region."
+      },
+      {
+        "length": "12–14 days",
+        "text": "The itinerary on this page: Manila, Palawan, Cebu and Bohol.",
+        "detail": "The classic first trip, and our recommendation."
+      },
+      {
+        "length": "3 weeks",
+        "text": "Adds Banaue, Vigan, Siargao or Boracay.",
+        "detail": "For a slower pace."
+      },
+      {
+        "length": "4 weeks or more",
+        "text": "Adds Mindanao, Sagada and more diving.",
+        "detail": "For divers and islanders."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Domestic flights are the fastest way between islands, ferries are cheaper but slower, and local transport is a mix of jeepneys, tricycles and vans.",
+    "options": [
+      {
+        "mode": "Domestic flights",
+        "text": "Cebu Pacific, Philippine Airlines and AirAsia link Manila, Cebu, Puerto Princesa, Busuanga (Coron), Tagbilaran and Siargao.",
+        "detail": "Book early, and allow buffer days for cancellations."
+      },
+      {
+        "mode": "Ferries",
+        "text": "Fast ferries link Cebu and Bohol, and El Nido and Coron, and overnight boats reach far islands. Book with reputable operators.",
+        "detail": "Weather can cancel sailings."
+      },
+      {
+        "mode": "Jeepneys and buses",
+        "text": "Cheap and frequent on main routes.",
+        "detail": "Ask locals for routes."
+      },
+      {
+        "mode": "Tricycles and vans",
+        "text": "Motorbike-sidecars for short hops, and shared vans for longer trips such as Puerto Princesa to El Nido.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Ride-hailing",
+        "text": "Grab is available in Manila, Cebu and other cities.",
+        "detail": "Use the app."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in the Philippines",
+    "intro": "Manila, Palawan, Cebu and Bohol, with flights and ferries. Covers six of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Manila",
+        "morning": "Land and check in.",
+        "afternoon": "Intramuros.",
+        "evening": "Dinner and Manila Bay sunset."
+      },
+      {
+        "day": 2,
+        "title": "Manila",
+        "morning": "Fort Santiago and San Agustin Church.",
+        "afternoon": "Binondo food crawl.",
+        "evening": "Rest before the flight to Palawan."
+      },
+      {
+        "day": 3,
+        "title": "To Puerto Princesa",
+        "morning": "Fly to Puerto Princesa.",
+        "afternoon": "Underground River tour.",
+        "evening": "Seafood dinner."
+      },
+      {
+        "day": 4,
+        "title": "To El Nido",
+        "morning": "Van to El Nido.",
+        "afternoon": "Beach and sunset.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 5,
+        "title": "El Nido island hopping",
+        "morning": "Tour A: Big Lagoon.",
+        "afternoon": "Secret Lagoon and beaches.",
+        "evening": "Rest."
+      },
+      {
+        "day": 6,
+        "title": "El Nido",
+        "morning": "Tour C or kayaking.",
+        "afternoon": "Hidden beaches.",
+        "evening": "Sunset drinks."
+      },
+      {
+        "day": 7,
+        "title": "To Coron",
+        "morning": "Ferry to Coron.",
+        "afternoon": "Mount Tapyas viewpoint.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 8,
+        "title": "Coron",
+        "morning": "Kayangan Lake.",
+        "afternoon": "Twin Lagoon and wreck snorkel.",
+        "evening": "Hot springs."
+      },
+      {
+        "day": 9,
+        "title": "To Cebu",
+        "morning": "Fly to Cebu via Manila.",
+        "afternoon": "Magellan's Cross and Basilica.",
+        "evening": "Lechon."
+      },
+      {
+        "day": 10,
+        "title": "Moalboal",
+        "morning": "Bus to Moalboal.",
+        "afternoon": "Sardine run snorkel.",
+        "evening": "Beach."
+      },
+      {
+        "day": 11,
+        "title": "Kawasan Falls",
+        "morning": "Canyoneering or the falls.",
+        "afternoon": "Ferry to Bohol.",
+        "evening": "Panglao."
+      },
+      {
+        "day": 12,
+        "title": "Bohol tour",
+        "morning": "Chocolate Hills.",
+        "afternoon": "Tarsiers and Loboc River.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 13,
+        "title": "Panglao",
+        "morning": "Snorkel at Balicasag.",
+        "afternoon": "Alona Beach.",
+        "evening": "Sunset."
+      },
+      {
+        "day": 14,
+        "title": "Departure",
+        "morning": "Fly to Manila.",
+        "afternoon": "International flight.",
+        "evening": "Home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Filipinos are warm, hospitable and family-centred, with a strong sense of community and a love of singing, food and fiestas. Smooth relations matter, and confrontation is avoided. Catholicism is central to daily life.",
+    "etiquette": [
+      {
+        "title": "Smile and greet",
+        "text": "A smile, a friendly hello and 'po' or 'opo' to elders show respect."
+      },
+      {
+        "title": "Avoid confrontation",
+        "text": "Raising your voice loses face. Stay calm and polite when things go wrong."
+      },
+      {
+        "title": "Accept hospitality",
+        "text": "Refusing food can offend. Try a little of what is offered."
+      },
+      {
+        "title": "Remove your shoes",
+        "text": "In homes, take off your shoes at the door."
+      },
+      {
+        "title": "Dress modestly in churches",
+        "text": "Cover shoulders and knees when visiting."
+      },
+      {
+        "title": "Respect elders",
+        "text": "Mano, touching an elder's hand to your forehead, is a traditional gesture of respect."
+      }
+    ],
+    "dos": [
+      "Learn a few words: salamat (thank you), kumusta (how are you), po (respectful)",
+      "Carry small change for tricycles and jeepneys",
+      "Bring reef-safe sunscreen",
+      "Book island tours with reputable operators",
+      "Allow buffer days for weather",
+      "Tip boat crews and guides"
+    ],
+    "donts": [
+      "Don't point with your finger; use your lips or chin",
+      "Don't touch coral or feed marine life",
+      "Don't lose your temper in public",
+      "Don't leave litter on beaches",
+      "Don't drink tap water",
+      "Don't book the last flight before an international departure"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in the Philippines, several of which are specific to how the country works.",
+  "tips": [
+    "Allow a buffer day before international flights, since domestic flights are often delayed or cancelled.",
+    "Carry cash for islands, tricycles and boats, and withdraw in towns.",
+    "Book El Nido and Coron island tours locally, and choose small groups.",
+    "Register for eTravel before arriving.",
+    "Bring reef-safe sunscreen, insect repellent and a dry bag.",
+    "Drink bottled or filtered water.",
+    "Check the typhoon forecast before travelling between June and November.",
+    "Use Grab in cities rather than street taxis."
+  ],
+  "faq": [
+    {
+      "q": "Is the Philippines safe for tourists?",
+      "a": "Popular tourist areas are generally safe, with normal precautions against petty theft. Avoid areas covered by government warnings, notably parts of Mindanao."
+    },
+    {
+      "q": "How many days do you need in the Philippines?",
+      "a": "Twelve to sixteen days for a first trip, covering two or three regions."
+    },
+    {
+      "q": "When is the best time to visit the Philippines?",
+      "a": "December to May, when it is dry. Avoid September to November for typhoons."
+    },
+    {
+      "q": "Do I need a visa for the Philippines?",
+      "a": "Many nationalities can enter visa-free for 30 days, with an onward ticket and eTravel registration. Check current rules."
+    },
+    {
+      "q": "Is English widely spoken?",
+      "a": "Yes. It is an official language and most people in tourism speak it well."
+    },
+    {
+      "q": "Is the Philippines expensive?",
+      "a": "No. It is good value, though island tours and domestic flights add up."
+    }
+  ]
+}

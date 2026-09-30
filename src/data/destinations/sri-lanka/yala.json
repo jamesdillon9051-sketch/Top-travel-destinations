@@ -1,0 +1,311 @@
+{
+  "slug": "yala",
+  "name": "Yala National Park",
+  "shortName": "Yala",
+  "country": "sri-lanka",
+  "region": "Southern and Uva Provinces",
+  "categories": ["national-park", "nature"],
+  "tagline": "One of the best places in the world to see wild leopards, plus elephants, sloth bears, crocodiles and hundreds of birds in dry scrub and lagoon country.",
+  "highlight": "A leopard stretched along a rock in early morning light, watched from the safety of a jeep.",
+  "shortDescription": "Sri Lanka's most famous safari park, with one of the highest densities of leopards in the world, elephants, buffalo, crocodiles and birds, explored in jeep safaris.",
+  "metaDescription": "A Yala National Park travel guide: leopard safaris, elephants, jeep tours and tickets, best time, blocks, Udawalawe alternative, where to stay, how to get there and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Mattala Rajapaksa (HRI) limited; Colombo (CMB), about 5–6 hours by road",
+  "knownFor": "Leopards, elephants, birds, safari",
+  "budget": "US$100–200 per day, including safaris",
+  "goodFor": "Wildlife lovers, photographers, families",
+  "coords": { "lat": 6.3692, "lng": 81.5000 },
+  "image": {
+    "file": "File:Sri Lankan Leopard At Yala National Park.jpg",
+    "alt": "A Sri Lankan leopard resting on a rock in Yala National Park"
+  },
+  "intro": [
+    "Yala National Park in south-eastern Sri Lanka covers almost 1,000 square kilometres of scrub, forest, rocky outcrops and lagoons along the Indian Ocean. It is the country's most visited park and one of the world's best places to see wild leopards, the Sri Lankan subspecies, with a density among the highest recorded. The park is divided into blocks, and the accessible Block 1 draws the most safari jeeps.",
+    "Leopards are the main quarry, but the park also has Asian elephants, water buffalo, sloth bears, crocodiles, jackals, mongoose and more than 200 bird species, including peacocks, painted storks and eagles. Tours run at dawn and in the afternoon, in open jeeps with local trackers, and take three to four hours. Sightings are never guaranteed, though leopards are seen on many drives.",
+    "Yala can be busy, with many jeeps converging on a single sighting, so choose an operator that behaves responsibly and consider quieter parks such as Udawalawe for elephants, or Wilpattu in the north-west for leopards. Yala is about five to six hours from Colombo, so it is often combined with Ella and the south coast."
+  ],
+  "whyVisit": {
+    "intro": "Yala offers some of the world's best chances to see a wild leopard.",
+    "points": [
+      {
+        "title": "Leopards",
+        "text": "One of the densest populations."
+      },
+      {
+        "title": "Elephants",
+        "text": "Herds and lone tuskers."
+      },
+      {
+        "title": "Birds",
+        "text": "Over 200 species."
+      },
+      {
+        "title": "Varied habitats",
+        "text": "Scrub, forest and lagoon."
+      },
+      {
+        "title": "Easy safari",
+        "text": "Jeeps with trackers."
+      }
+    ]
+  },
+  "attractionsIntro": "The safari is the attraction; several other parks are nearby.",
+  "attractions": [
+    {
+      "name": "Leopard safari",
+      "image": {
+        "file": "File:Srilankan leopard in Yala National Park 1.jpg",
+        "alt": "A Sri Lankan leopard walking in Yala National Park"
+      },
+      "text": "The main reason to visit, with dawn and afternoon drives with local trackers.",
+      "tip": "Choose the dawn drive."
+    },
+    {
+      "name": "Elephants of Yala",
+      "image": {
+        "file": "File:Sri Lankan Elephants in Yala National Park.jpg",
+        "alt": "A herd of elephants with calves in Yala National Park"
+      },
+      "text": "Herds of Sri Lankan elephants, often seen near waterholes.",
+      "tip": "Keep a distance."
+    },
+    {
+      "name": "Baby elephants",
+      "image": {
+        "file": "File:Baby Sri Lankan Elephant at Yala National Park.jpg",
+        "alt": "A baby Sri Lankan elephant in Yala National Park"
+      },
+      "text": "Calves stay close to their mothers in the herds.",
+      "tip": "Be quiet."
+    },
+    {
+      "name": "Sithulpawwa Temple",
+      "text": "An ancient Buddhist temple in the park's area.",
+      "tip": "Combine with a tour."
+    },
+    {
+      "name": "Udawalawe National Park",
+      "text": "A park nearby with reliable elephant sightings.",
+      "tip": "A good alternative."
+    },
+    {
+      "name": "Kirinda Temple",
+      "text": "A coastal temple near Yala.",
+      "tip": "For views."
+    }
+  ],
+  "thingsToDoIntro": "Yala is about early mornings.",
+  "thingsToDo": [
+    {
+      "title": "Take a dawn safari",
+      "text": "The best light and sightings.",
+      "tip": "Book a full-day if possible."
+    },
+    {
+      "title": "Try an afternoon drive",
+      "text": "Lower-light but active animals.",
+      "tip": "Quieter than mornings."
+    },
+    {
+      "title": "Go birdwatching",
+      "text": "Lagoon birds.",
+      "tip": "Bring binoculars."
+    },
+    {
+      "title": "Stay in a tented camp",
+      "text": "Luxury under canvas.",
+      "tip": "Book far ahead."
+    },
+    {
+      "title": "Visit Udawalawe",
+      "text": "Elephants.",
+      "tip": "En route from Ella."
+    },
+    {
+      "title": "Visit the turtle hatchery",
+      "text": "On the coast.",
+      "tip": "Check the ethics."
+    }
+  ],
+  "foodIntro": "Safari lodges serve simple food.",
+  "foods": [
+    {
+      "name": "Rice and curry",
+      "text": "Lodge meals.",
+      "whereToTry": "Lodges."
+    },
+    {
+      "name": "Packed breakfast",
+      "text": "For dawn drives.",
+      "whereToTry": "Lodges."
+    },
+    {
+      "name": "Fresh fruit",
+      "text": "Local fruit.",
+      "whereToTry": "Roadside."
+    },
+    {
+      "name": "Grilled fish",
+      "text": "On the coast.",
+      "whereToTry": "Tissamaharama."
+    },
+    {
+      "name": "Curd and treacle",
+      "text": "A local dessert.",
+      "whereToTry": "Shops."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay near the park.",
+    "areas": [
+      {
+        "name": "Tissamaharama",
+        "bestFor": "Budget and services",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Kirinda",
+        "bestFor": "Beach",
+        "text": "Small hotels."
+      },
+      {
+        "name": "Tented camps",
+        "bestFor": "Immersion",
+        "text": "Luxury tents."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$20–45 per night" },
+      { "label": "Mid-range hotel", "value": "US$60–130 per night" },
+      { "label": "Luxury tented camp", "value": "US$300–700 per night" },
+      { "label": "Jeep safari", "value": "US$50–100 per jeep plus park fees" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Yala is in the south-east.",
+    "options": [
+      {
+        "mode": "Car from Colombo",
+        "text": "About 5 to 6 hours.",
+        "detail": "Via the expressway."
+      },
+      {
+        "mode": "From Ella",
+        "text": "About 2.5 to 3 hours.",
+        "detail": "Scenic."
+      },
+      {
+        "mode": "From Mirissa",
+        "text": "About 2.5 hours.",
+        "detail": "Coastal."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Safaris use jeeps.",
+    "options": [
+      {
+        "mode": "Safari jeep",
+        "text": "With driver-tracker.",
+        "detail": "Book through your lodge."
+      },
+      {
+        "mode": "Tuk-tuk",
+        "text": "To the park gate.",
+        "detail": "Agree fares."
+      },
+      {
+        "mode": "Car",
+        "text": "To the gate.",
+        "detail": "Driver."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "February–July",
+    "summary": "Yala is best in the dry season, when animals gather at waterholes.",
+    "seasons": [
+      {
+        "season": "February–July",
+        "rating": "best",
+        "text": "Dry season with good sightings."
+      },
+      {
+        "season": "August–September",
+        "rating": "good",
+        "text": "Very dry, hot."
+      },
+      {
+        "season": "October–November",
+        "rating": "avoid",
+        "text": "Rains, and Block 1 sometimes closes."
+      },
+      {
+        "season": "December–January",
+        "rating": "good",
+        "text": "Wetter but green."
+      }
+    ],
+    "avoid": "The park may close for a period in September or October."
+  },
+  "itinerary": {
+    "title": "Two days at Yala",
+    "intro": "Dawn and dusk safaris.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive",
+        "summary": "Afternoon drive.",
+        "morning": "Drive to Yala.",
+        "afternoon": "Safari.",
+        "evening": "Camp or lodge dinner."
+      },
+      {
+        "day": 2,
+        "title": "Dawn safari",
+        "summary": "Leopards.",
+        "morning": "Dawn safari.",
+        "afternoon": "Rest.",
+        "evening": "Drive to the coast."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book a dawn drive.",
+    "Choose ethical operators.",
+    "Bring binoculars.",
+    "Wear neutral colours.",
+    "Do not feed animals.",
+    "Check park closure dates.",
+    "Consider Udawalawe."
+  ],
+  "faq": [
+    {
+      "q": "Will I see a leopard?",
+      "a": "Often but not guaranteed."
+    },
+    {
+      "q": "How long is a safari?",
+      "a": "Three to four hours."
+    },
+    {
+      "q": "Is Yala crowded?",
+      "a": "Yes, in peak season."
+    },
+    {
+      "q": "When to go?",
+      "a": "February to July."
+    },
+    {
+      "q": "Where to stay?",
+      "a": "Near the park."
+    },
+    {
+      "q": "Alternative parks?",
+      "a": "Udawalawe and Wilpattu."
+    }
+  ],
+  "related": ["ella", "mirissa", "galle"],
+  "relatedArticles": ["us-national-parks-road-trip", "underrated-destinations"]
+}

@@ -1,0 +1,352 @@
+{
+  "slug": "cape-town",
+  "name": "Cape Town",
+  "country": "south-africa",
+  "region": "Western Cape, south-west coast",
+  "categories": ["major-city", "coastal", "unesco", "cultural"],
+  "tagline": "A city beneath a flat-topped mountain, where two oceans meet, with penguin beaches, coloured Cape Malay houses, superb food and a history that stretches from Robben Island to the vineyards.",
+  "highlight": "The top of Table Mountain on a clear day, looking over the city, the bay and the Atlantic coast at your feet.",
+  "shortDescription": "One of the world's most beautiful cities: Table Mountain, the Waterfront, Robben Island, the Cape Peninsula's penguins and Cape Point, Kirstenbosch, Bo-Kaap and a superb food scene.",
+  "metaDescription": "A Cape Town travel guide: Table Mountain, Robben Island, the V&A Waterfront, Bo-Kaap, Boulders Beach penguins, Cape Point, Chapman's Peak, Kirstenbosch, food, safety, where to stay and a four-day plan.",
+  "suggestedStay": "4 days",
+  "nearestAirport": "Cape Town International (CPT), about 25 minutes",
+  "knownFor": "Table Mountain, Robben Island, the Cape Peninsula, beaches, food and wine",
+  "budget": "US$100–200 per day, mid-range",
+  "goodFor": "Scenery, food, wine, history, hiking, first-time visitors",
+  "coords": { "lat": -33.9249, "lng": 18.4241 },
+  "image": {
+    "file": "File:Cape Town (ZA), Table Mountain -- 2024 -- 2825.jpg",
+    "alt": "Table Mountain rising above Cape Town with its flat summit and Lion's Head beside it"
+  },
+  "intro": [
+    "Cape Town, at the south-western tip of Africa, is one of the world's great natural cities. Table Mountain, a 1,085-metre wall of sandstone with a flat top, rises directly behind the city centre, flanked by Lion's Head and Devil's Peak, and the city spreads along beaches and bays at its feet. The Dutch East India Company founded a supply station here in 1652, and the city has been a meeting point of African, Asian and European cultures ever since.",
+    "Its history is layered and often painful. Robben Island, in Table Bay, where Nelson Mandela and other political prisoners were held, is a UNESCO World Heritage Site. The Castle of Good Hope, from the 1660s, is the oldest colonial building in the country, and neighbourhoods such as Bo-Kaap, with its brightly painted houses, reflect the Cape Malay community, descended from enslaved and exiled people from Southeast Asia. District Six, once a mixed community, was flattened under apartheid, and its museum tells the story.",
+    "Cape Town is also a city for outdoors and food. Hiking trails lead up the mountain, penguins waddle on Boulders Beach, the Cape Peninsula's roads twist along cliffs to Cape Point, and the Winelands are less than an hour away. It is a beautiful, popular and expensive city by South African standards, and one of the most enjoyable to visit."
+  ],
+  "whyVisit": {
+    "intro": "Cape Town has an unbeatable combination of scenery, history, food and outdoor activity.",
+    "points": [
+      {
+        "title": "Table Mountain",
+        "text": "A cable car and hiking trails to a flat summit with views over the city and coast."
+      },
+      {
+        "title": "The Cape Peninsula",
+        "text": "Penguins, baboons, cliffs and Cape Point, all within an hour's drive."
+      },
+      {
+        "title": "Powerful history",
+        "text": "Robben Island, District Six and the Castle of Good Hope."
+      },
+      {
+        "title": "Food and wine",
+        "text": "Cape Malay curries, fresh seafood, and estates a short drive away."
+      },
+      {
+        "title": "Beaches and nature",
+        "text": "Camps Bay, Clifton and the Kirstenbosch botanical garden."
+      }
+    ]
+  },
+  "attractionsIntro": "The city's sights are spread out, so group them by area and use ride-hailing apps.",
+  "attractions": [
+    {
+      "name": "Table Mountain",
+      "image": {
+        "file": "File:Cape Town (ZA), Table Mountain -- 2024 -- 2821.jpg",
+        "alt": "The flat top of Table Mountain above Cape Town seen from below"
+      },
+      "text": "The city's icon, reached by a rotating cable car in about five minutes, or on foot via Platteklip Gorge in two to three hours. The top has walking paths and views over the city, Robben Island and the Atlantic.",
+      "tip": "Check the weather and wind first, and book tickets online."
+    },
+    {
+      "name": "Robben Island",
+      "image": {
+        "file": "File:B-Section courtyard, Maximum Security Prison, Robben Island (01).jpg",
+        "alt": "The courtyard of the maximum security prison on Robben Island"
+      },
+      "text": "The island prison where Nelson Mandela spent 18 of his 27 years in custody, now a UNESCO site and museum. Tours include a boat ride from the V&A Waterfront and a visit led by former political prisoners.",
+      "tip": "Book weeks ahead, and allow about four hours."
+    },
+    {
+      "name": "The V&A Waterfront",
+      "image": {
+        "file": "File:Cape Town (ZA), Waterfront, Kran -- 2024 -- 2907.jpg",
+        "alt": "The working harbour and crane of the V&A Waterfront in Cape Town"
+      },
+      "text": "A busy harbour precinct of restaurants, shops, a wheel, the Zeitz Museum of Contemporary Art Africa and boats to Robben Island, with Table Mountain behind.",
+      "tip": "Go for dinner or a sunset drink."
+    },
+    {
+      "name": "Bo-Kaap",
+      "image": {
+        "file": "File:Chiappini Street, Bo-Kaap (01).jpg",
+        "alt": "Brightly painted houses along a steep cobbled street in Bo-Kaap"
+      },
+      "text": "A hillside neighbourhood of brightly painted houses and mosques, the historic home of the Cape Malay community, with a museum and cooking classes.",
+      "tip": "Go with a local guide, and be respectful of residents."
+    },
+    {
+      "name": "Boulders Beach and Cape Point",
+      "image": {
+        "file": "File:Penguins at Boulders Beach 04.jpg",
+        "alt": "African penguins on the sand at Boulders Beach near Simon's Town"
+      },
+      "text": "On the Cape Peninsula, Boulders Beach has a colony of African penguins, and Cape Point, in the Cape of Good Hope nature reserve, has dramatic cliffs and a lighthouse where the two oceans are said to meet.",
+      "tip": "Go early to avoid crowds, and watch out for baboons."
+    },
+    {
+      "name": "Chapman's Peak Drive",
+      "image": {
+        "file": "File:Chapmans Peak Drive 3.jpg",
+        "alt": "The winding Chapman's Peak Drive hugging cliffs above the Atlantic"
+      },
+      "text": "A 9-km toll road cut into the cliff between Hout Bay and Noordhoek, with sweeping views over the Atlantic. It is one of the great coastal drives of the world.",
+      "tip": "Check whether it is open, as it closes in bad weather."
+    },
+    {
+      "name": "Kirstenbosch National Botanical Garden",
+      "image": {
+        "file": "File:Kirstenbosch National Botanical Garden, Cape Town (P1060025).jpg",
+        "alt": "Lawns and indigenous plants at Kirstenbosch on the slopes of Table Mountain"
+      },
+      "text": "A garden of indigenous plants on the eastern slopes of the mountain, with a treetop walkway and summer concerts.",
+      "tip": "Bring a picnic."
+    }
+  ],
+  "thingsToDoIntro": "Cape Town is best enjoyed by mixing outdoor time, history and food.",
+  "thingsToDo": [
+    {
+      "title": "Hike Lion's Head at sunset",
+      "text": "A 2-hour walk to a peak with 360-degree views over the city and the sea.",
+      "tip": "Go with others and bring a torch for the descent."
+    },
+    {
+      "title": "Watch the sunset at Camps Bay",
+      "text": "A stylish beach with palm-lined promenade and restaurants facing the sunset.",
+      "tip": "Book a table early."
+    },
+    {
+      "title": "Take a Cape Malay cooking class",
+      "text": "Learn to make curries and samoosas in Bo-Kaap.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Visit District Six Museum",
+      "text": "A moving museum about the community forcibly removed under apartheid.",
+      "tip": "Allow an hour or two."
+    },
+    {
+      "title": "Try a township tour",
+      "text": "Guided tours of areas such as Langa and Khayelitsha, with community-run visits, give context to modern Cape Town.",
+      "tip": "Choose a responsible, locally run operator."
+    },
+    {
+      "title": "Take a day trip to the Winelands",
+      "text": "Stellenbosch and Franschhoek are about an hour away. See [[cape-winelands|the Winelands]].",
+      "tip": "Book a driver."
+    }
+  ],
+  "foodIntro": "Cape Town's food scene is one of Africa's best, mixing Cape Malay, seafood, braai and modern fine dining.",
+  "foods": [
+    {
+      "name": "Cape Malay curry and bobotie",
+      "text": "Sweet, fragrant curries and baked spiced mince with an egg topping, from the Cape Malay tradition.",
+      "whereToTry": "Restaurants in Bo-Kaap."
+    },
+    {
+      "name": "Seafood and snoek",
+      "text": "Fresh fish, crayfish, mussels, and grilled or smoked snoek.",
+      "whereToTry": "Harbour restaurants in Hout Bay and Kalk Bay."
+    },
+    {
+      "name": "Gatsby sandwich",
+      "text": "A huge Cape Town sandwich packed with chips, meat and sauce.",
+      "whereToTry": "Local takeaways."
+    },
+    {
+      "name": "Koeksisters",
+      "text": "Sweet, syrupy braided doughnuts. The Cape Malay version is spiced and coated in coconut.",
+      "whereToTry": "Bakeries in Bo-Kaap."
+    },
+    {
+      "name": "Cape wine",
+      "text": "Chenin blanc, Pinotage and Sauvignon blanc, from nearby estates.",
+      "whereToTry": "Wine bars and Constantia."
+    },
+    {
+      "name": "Braai",
+      "text": "Grilled meats, boerewors and seafood cooked over fire.",
+      "whereToTry": "Restaurants and beach kiosks."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the City Bowl, Camps Bay or the Waterfront, all with good access and safety.",
+    "areas": [
+      {
+        "name": "City Bowl and Gardens",
+        "bestFor": "Restaurants, transport and value",
+        "text": "Boutique hotels and guesthouses below the mountain."
+      },
+      {
+        "name": "V&A Waterfront",
+        "bestFor": "Convenience and safety",
+        "text": "Hotels with harbour and mountain views."
+      },
+      {
+        "name": "Camps Bay and the Atlantic Seaboard",
+        "bestFor": "Beach life",
+        "text": "Villas and hotels facing the sunset."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel or guesthouse", "value": "US$25–70 per night" },
+      { "label": "Mid-range hotel", "value": "US$100–200 per night" },
+      { "label": "Luxury hotel", "value": "US$250–600 per night" },
+      { "label": "Meal at a mid-range restaurant", "value": "US$15–30 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Cape Town has direct flights from Europe, the Middle East and Johannesburg.",
+    "options": [
+      {
+        "mode": "Flight to Cape Town (CPT)",
+        "text": "Direct flights from Europe, the Middle East, and across South Africa, about 2 hours from Johannesburg.",
+        "detail": "The airport is 25 minutes from the centre."
+      },
+      {
+        "mode": "Drive from the Garden Route",
+        "text": "About 5 hours 30 minutes from Knysna, and 1 hour 30 minutes from Hermanus.",
+        "detail": "Roads are good."
+      },
+      {
+        "mode": "Luxury train",
+        "text": "The Blue Train and Rovos Rail run from Pretoria.",
+        "detail": "Book far ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Use ride-hailing apps, a hire car and the MyCiTi bus, and avoid walking at night.",
+    "options": [
+      {
+        "mode": "Ride-hailing",
+        "text": "Uber and Bolt are the safest and most convenient option.",
+        "detail": "Use the app."
+      },
+      {
+        "mode": "Hire car",
+        "text": "Good for the Peninsula and Winelands.",
+        "detail": "Never leave valuables in view."
+      },
+      {
+        "mode": "MyCiTi buses and City Sightseeing",
+        "text": "Buses link the airport, the city and the coast.",
+        "detail": "Buy a card."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–March",
+    "summary": "Cape Town has a Mediterranean climate, with hot, dry summers and mild, wet winters, and a strong south-easter wind in summer.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "best",
+        "text": "Hot, dry and sunny, with long days. Busy and expensive."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Warm and settled, with fewer crowds and the wine harvest."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "quiet",
+        "text": "Cool and wet, with storms, but whales arrive and prices fall."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Mild, with wildflowers and whales."
+      }
+    ],
+    "avoid": "Windy days in summer, when the cable car can close."
+  },
+  "itinerary": {
+    "title": "Four days in Cape Town",
+    "intro": "The mountain, the peninsula, history and a day in the Winelands.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The city and the mountain",
+        "summary": "Icons.",
+        "morning": "Table Mountain.",
+        "afternoon": "Bo-Kaap and the city centre.",
+        "evening": "Sunset at Camps Bay."
+      },
+      {
+        "day": 2,
+        "title": "The Cape Peninsula",
+        "summary": "Penguins and cliffs.",
+        "morning": "Chapman's Peak Drive and Hout Bay.",
+        "afternoon": "Boulders Beach and Cape Point.",
+        "evening": "Dinner in Kalk Bay."
+      },
+      {
+        "day": 3,
+        "title": "History",
+        "summary": "Robben Island.",
+        "morning": "The ferry to Robben Island.",
+        "afternoon": "The Waterfront and District Six.",
+        "evening": "A Cape Malay dinner."
+      },
+      {
+        "day": 4,
+        "title": "The Winelands or Kirstenbosch",
+        "summary": "Wine or plants.",
+        "morning": "Kirstenbosch or a winery.",
+        "afternoon": "Lunch in Constantia or Stellenbosch.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you enjoy Cape Town safely.",
+  "tips": [
+    "Use ride-hailing apps rather than walking at night or hailing cabs.",
+    "Keep valuables out of sight, and do not leave anything in a parked car.",
+    "Book Robben Island and popular restaurants well ahead.",
+    "Check the Table Mountain cable car status and the weather.",
+    "Wear layers and sun protection.",
+    "Do not feed baboons, which can be aggressive.",
+    "Take care on beaches, where rips are strong."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Cape Town?",
+      "a": "Four days for the city, the peninsula and Robben Island, plus more for the Winelands."
+    },
+    {
+      "q": "Is Cape Town safe?",
+      "a": "Tourist areas are generally fine with precautions. Use apps at night, keep valuables hidden and follow local advice."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "November to March for weather, September to November for whales and wildflowers."
+    },
+    {
+      "q": "Do I need to book Robben Island?",
+      "a": "Yes. Tours sell out weeks ahead in high season."
+    },
+    {
+      "q": "Can I hike Table Mountain?",
+      "a": "Yes, on several routes, with a guide recommended on longer ones. The cable car is an alternative."
+    },
+    {
+      "q": "Is Cape Town malaria-free?",
+      "a": "Yes."
+    }
+  ],
+  "related": ["cape-winelands", "hermanus-overberg", "garden-route"],
+  "relatedArticles": ["food-primer", "unesco-worth-planning-around"]
+}

@@ -1,0 +1,302 @@
+{
+  "slug": "danube-bend",
+  "name": "The Danube Bend",
+  "country": "hungary",
+  "region": "Pest and Komárom-Esztergom, north of Budapest",
+  "categories": ["scenic", "historic", "cultural"],
+  "tagline": "Where the Danube swings south through forested hills, a string of artists' towns, a hilltop citadel and Hungary's grandest basilica.",
+  "highlight": "The view from Visegrád's citadel over the Danube's great S-shaped bend.",
+  "shortDescription": "A day-trip loop from Budapest to the baroque artists' town of Szentendre, the royal citadel at Visegrád and the basilica at Esztergom, along a picturesque stretch of the Danube.",
+  "metaDescription": "A Danube Bend travel guide: Szentendre, Visegrád Citadel, Esztergom Basilica, how to do it as a day trip from Budapest by train, boat and bus, food, and a one-day plan.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Budapest Ferenc Liszt (BUD), about 1.5 hours",
+  "knownFor": "Szentendre, Visegrád, Esztergom, river views",
+  "budget": "US$60–110 per day, from Budapest",
+  "goodFor": "Day trips, art, history, river views",
+  "coords": { "lat": 47.7860, "lng": 18.9720 },
+  "image": {
+    "file": "File:Bend of the Danube, 2012-03-21.jpg",
+    "alt": "The Danube bending between forested hills at Visegrád"
+  },
+  "intro": [
+    "North of Budapest, the Danube turns sharply from its eastward course toward the south, forming an S-shaped bend between the Börzsöny and Pilis hills. The scenery is green and hilly, and the river valley has been settled for centuries. Three towns make up the classic day trip: Szentendre, Visegrád and Esztergom.",
+    "Szentendre is a small baroque town of cobbled lanes, colourful houses and art galleries, settled by Serbian refugees in the 17th century, whose Orthodox churches still stand. Visegrád was a royal seat in the 14th and 15th centuries, and its hilltop citadel gives the finest views of the bend. Esztergom, the birthplace of King Stephen and the seat of Hungary's Catholic church, has the country's largest church, a domed basilica above the river opposite Slovakia.",
+    "All three can be reached from Budapest by train, bus or boat, and together they make a rewarding day trip, though a long one. Many visitors pick two, for example Szentendre and Visegrád, or spend a night."
+  ],
+  "whyVisit": {
+    "intro": "The Danube Bend is the easiest scenic escape from the capital.",
+    "points": [
+      {
+        "title": "A famous river view",
+        "text": "The bend from Visegrád."
+      },
+      {
+        "title": "An artists' town",
+        "text": "Szentendre's galleries."
+      },
+      {
+        "title": "A grand basilica",
+        "text": "Esztergom."
+      },
+      {
+        "title": "Royal history",
+        "text": "Visegrád's palace."
+      },
+      {
+        "title": "Easy from Budapest",
+        "text": "Under an hour by train."
+      }
+    ]
+  },
+  "attractionsIntro": "The three towns are 20 to 50 km apart along the river.",
+  "attractions": [
+    {
+      "name": "Szentendre",
+      "image": {
+        "file": "File:20190502 Fő tér Szentendre 1249 2067 DxO.jpg",
+        "alt": "Colourful houses on the main square of Szentendre"
+      },
+      "text": "A pretty town of cobbled lanes, galleries, museums and Serbian Orthodox churches, only 40 minutes from Budapest by suburban train.",
+      "tip": "Visit the Marzipan Museum."
+    },
+    {
+      "name": "Visegrád Citadel",
+      "image": {
+        "file": "File:Visegrad danube.jpg",
+        "alt": "The Danube and the hills at Visegrád"
+      },
+      "text": "A hilltop fortress with views of the Danube Bend, near the ruins of a royal palace of the 14th century.",
+      "tip": "Take a taxi or bus up."
+    },
+    {
+      "name": "Esztergom Basilica",
+      "image": {
+        "file": "File:Basilica in Esztergom, Hungary 01.jpg",
+        "alt": "The domed Esztergom Basilica beside the Danube"
+      },
+      "text": "Hungary's largest church, with a dome visible for miles, built in the 19th century on the site of the country's first cathedral.",
+      "tip": "Climb the dome."
+    },
+    {
+      "name": "Royal Palace of Visegrád",
+      "text": "Ruins of a Renaissance palace, with a Hercules fountain.",
+      "tip": "Good for history fans."
+    },
+    {
+      "name": "Esztergom Castle",
+      "text": "The birthplace of King Stephen, with a museum.",
+      "tip": "Combine with the basilica."
+    },
+    {
+      "name": "Pilis hills",
+      "text": "Forests and hiking above the river.",
+      "tip": "Bring maps."
+    }
+  ],
+  "thingsToDoIntro": "The bend is about towns and views.",
+  "thingsToDo": [
+    {
+      "title": "Take a river boat",
+      "text": "Sail from Budapest to Visegrád.",
+      "tip": "Summer only."
+    },
+    {
+      "title": "Visit Szentendre galleries",
+      "text": "Local artists and museums.",
+      "tip": "Go on weekdays."
+    },
+    {
+      "title": "Climb the citadel",
+      "text": "Views of the bend.",
+      "tip": "Go in clear weather."
+    },
+    {
+      "title": "See the basilica",
+      "text": "A grand church.",
+      "tip": "Climb the dome."
+    },
+    {
+      "title": "Cross into Slovakia",
+      "text": "Walk across the Mária Valéria Bridge.",
+      "tip": "Bring ID."
+    },
+    {
+      "title": "Hike the hills",
+      "text": "Forest trails.",
+      "tip": "Wear boots."
+    }
+  ],
+  "foodIntro": "The Bend's food is simple, with riverside fish.",
+  "foods": [
+    {
+      "name": "Fisherman's soup (halászlé)",
+      "text": "A paprika fish soup.",
+      "whereToTry": "Riverside restaurants."
+    },
+    {
+      "name": "Marzipan",
+      "text": "Szentendre's sweet speciality.",
+      "whereToTry": "The Marzipan Museum."
+    },
+    {
+      "name": "Pálinka",
+      "text": "Fruit brandy.",
+      "whereToTry": "Shops."
+    },
+    {
+      "name": "Grilled meats",
+      "text": "Hungarian barbecue.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Strudel",
+      "text": "Apple or cherry.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors return to Budapest, but Szentendre suits a night.",
+    "areas": [
+      {
+        "name": "Szentendre",
+        "bestFor": "Atmosphere",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Visegrád",
+        "bestFor": "Views",
+        "text": "Small hotels."
+      },
+      {
+        "name": "Esztergom",
+        "bestFor": "The basilica",
+        "text": "Hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$40–80 per night" },
+      { "label": "Mid-range hotel", "value": "US$70–130 per night" },
+      { "label": "Train ticket", "value": "US$2–8" },
+      { "label": "Meal", "value": "US$8–16 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "All three are reachable from Budapest.",
+    "options": [
+      {
+        "mode": "HÉV to Szentendre",
+        "text": "About 40 minutes from Batthyány tér.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train to Esztergom",
+        "text": "About 1 to 1.5 hours from Nyugati.",
+        "detail": "Book."
+      },
+      {
+        "mode": "Boat and bus",
+        "text": "Boats to Visegrád in summer, buses in all seasons.",
+        "detail": "Check the timetable."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Buses link the three towns.",
+    "options": [
+      {
+        "mode": "Local buses",
+        "text": "Szentendre–Visegrád–Esztergom.",
+        "detail": "Check."
+      },
+      {
+        "mode": "Taxi",
+        "text": "For the citadel.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Tour",
+        "text": "Guided day trips.",
+        "detail": "Book."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–October",
+    "summary": "The Bend is best in spring and autumn.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Fresh green."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Warm, with boats."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Gold."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold, quiet."
+      }
+    ],
+    "avoid": "Foggy winter days."
+  },
+  "itinerary": {
+    "title": "One day on the Danube Bend",
+    "intro": "Szentendre, Visegrád and Esztergom.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Bend",
+        "summary": "Three towns.",
+        "morning": "Szentendre.",
+        "afternoon": "Visegrád Citadel.",
+        "evening": "Return to Budapest, or continue to Esztergom."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Start early.",
+    "Choose two towns.",
+    "Check bus times.",
+    "Bring water.",
+    "Wear walking shoes.",
+    "Check the boat schedule.",
+    "Go on weekdays."
+  ],
+  "faq": [
+    {
+      "q": "How long does the trip take?",
+      "a": "A full day for three towns."
+    },
+    {
+      "q": "Can I do it without a car?",
+      "a": "Yes."
+    },
+    {
+      "q": "Which town is best?",
+      "a": "Szentendre for charm and Visegrád for views."
+    },
+    {
+      "q": "Can I stay overnight?",
+      "a": "Yes."
+    },
+    {
+      "q": "How far is it from Budapest?",
+      "a": "20 to 65 km."
+    },
+    {
+      "q": "Is it worth it?",
+      "a": "Yes."
+    }
+  ],
+  "related": ["budapest", "eger", "holloko"],
+  "relatedArticles": ["underrated-destinations", "europe-by-train"]
+}

@@ -1,0 +1,323 @@
+{
+  "slug": "st-moritz-engadin",
+  "name": "St. Moritz and the Engadin",
+  "shortName": "The Engadin",
+  "country": "switzerland",
+  "region": "Graubünden, south-east Switzerland",
+  "categories": ["mountains", "scenic", "unesco"],
+  "tagline": "A high sunny valley of blue lakes and larch forest, home to the ultimate glamour resort and the greatest scenic railways in the world.",
+  "highlight": "The Glacier Express crossing the Landwasser Viaduct, a curved stone bridge over a forested gorge.",
+  "shortDescription": "Switzerland's high valley of lakes, with the resort of St. Moritz, the Bernina and Glacier Express UNESCO railways, Lake Sils, hiking and skiing in 322 days of sunshine.",
+  "metaDescription": "A St. Moritz and Engadin travel guide: Lake St. Moritz, the Bernina Express, Glacier Express, Landwasser Viaduct, Brusio spiral viaduct, Sils and Silvaplana lakes, hiking, skiing, where to stay and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Zurich (ZRH), about 3.5 hours by train; Samedan (SMV) for private flights",
+  "knownFor": "St. Moritz, scenic railways, lakes, sunshine, skiing",
+  "budget": "US$300–500 per day, mid-range",
+  "goodFor": "Train lovers, hikers, skiers, scenery, luxury",
+  "coords": { "lat": 46.4908, "lng": 9.8355 },
+  "image": {
+    "file": "File:Sankt Moritz Lake Piz Muragl.jpg",
+    "alt": "Lake St. Moritz with the town and mountains beyond"
+  },
+  "intro": [
+    "The Engadin is the high valley of the Inn river in the south-east canton of Graubünden, running at about 1,800 metres above sea level between wide peaks. It is a place of large skies, blue-green lakes, larch woods and low stone villages with sgraffito-decorated houses, where Romansh, Switzerland's fourth language, is still spoken. St. Moritz, the valley's resort, claims 322 days of sunshine a year, and is where winter tourism began in 1864.",
+    "St. Moritz has a reputation for glamour, with luxury hotels, polo on snow, horse races on the frozen lake and the Cresta Run, but the surrounding valley is just as good for ordinary visitors. Lake Sils and Lake Silvaplana are two of the most beautiful Alpine lakes, paths climb through larches to hut restaurants, and quiet villages such as Sils Maria, where Nietzsche wrote, and Pontresina offer a calmer stay.",
+    "The Engadin is also the heart of the scenic railways of Graubünden. The Bernina Express crosses the Bernina Pass from the Engadin to Italy, and the Albula and Bernina lines, with their curved viaducts and spirals, are UNESCO World Heritage Sites. The Glacier Express, slowest of the fast trains, crosses the Landwasser Viaduct and runs to Zermatt. Three days is a good time to enjoy the valley."
+  ],
+  "whyVisit": {
+    "intro": "The Engadin combines sunshine, lakes and the most famous railways in Europe.",
+    "points": [
+      {
+        "title": "Iconic railways",
+        "text": "The Bernina and Glacier Express."
+      },
+      {
+        "title": "Turquoise lakes",
+        "text": "Sils, Silvaplana and St. Moritz."
+      },
+      {
+        "title": "Sunshine and light",
+        "text": "A high valley with big skies."
+      },
+      {
+        "title": "Hiking and skiing",
+        "text": "Wide trails and snow-sure slopes."
+      },
+      {
+        "title": "Romansh villages",
+        "text": "Painted stone houses."
+      }
+    ]
+  },
+  "attractionsIntro": "Sights are spread along the valley, linked by train and bus.",
+  "attractions": [
+    {
+      "name": "Lake St. Moritz",
+      "image": {
+        "file": "File:Lake St. Moritz and St. Moritz town.jpg",
+        "alt": "Lake St. Moritz with the resort town on its hillside"
+      },
+      "text": "A lake ringed by hotels and pines, which freezes in winter for horse racing and other events.",
+      "tip": "Walk the 4-km lake path."
+    },
+    {
+      "name": "Landwasser Viaduct",
+      "image": {
+        "file": "File:RhB Ge 4-4 II 614 Glacier Express on Landwasser Viaduct.jpg",
+        "alt": "The red Glacier Express crossing the curved Landwasser Viaduct"
+      },
+      "text": "A curved, six-arch stone viaduct 65 metres high, opened in 1904, on the UNESCO-listed Albula line.",
+      "tip": "Photograph it from the viewpoint at Filisur."
+    },
+    {
+      "name": "Brusio spiral viaduct",
+      "image": {
+        "file": "File:Brusio spiral viaduct.jpg",
+        "alt": "The Brusio spiral viaduct curving through green fields"
+      },
+      "text": "A circular viaduct on the Bernina line, where the train loops around to lose height on the way to Italy.",
+      "tip": "Ride the Bernina Express."
+    },
+    {
+      "name": "Lago Bianco and the Bernina Pass",
+      "image": {
+        "file": "File:RhB ABe 4-4 III mit Bernina-Express am Lago Bianco.jpg",
+        "alt": "The Bernina Express beside the milky-white Lago Bianco"
+      },
+      "text": "A high pass at 2,253 metres, with a pale lake beside the railway and views of glaciers.",
+      "tip": "Ride in the window seat on the right."
+    },
+    {
+      "name": "Lake Sils and Sils Maria",
+      "text": "A long lake with a peninsula, and a quiet village where Nietzsche lived.",
+      "tip": "Walk along the shore."
+    },
+    {
+      "name": "Muottas Muragl",
+      "text": "A funicular to a viewpoint over the Engadin lakes.",
+      "tip": "Go at sunset."
+    }
+  ],
+  "thingsToDoIntro": "The Engadin is for trains, lakes and walks.",
+  "thingsToDo": [
+    {
+      "title": "Ride the Bernina Express",
+      "text": "Cross the Alps to Tirano in Italy.",
+      "tip": "Reserve a seat."
+    },
+    {
+      "title": "Ride the Glacier Express",
+      "text": "The panoramic route to Zermatt.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Hike around Lake Sils",
+      "text": "An easy lakeside path.",
+      "tip": "Start in the morning."
+    },
+    {
+      "title": "Ski or snowshoe",
+      "text": "Winter runs and trails.",
+      "tip": "Book equipment."
+    },
+    {
+      "title": "Visit Pontresina",
+      "text": "A village with a glacier walk to Morteratsch.",
+      "tip": "Take the train."
+    },
+    {
+      "title": "Sail or windsurf",
+      "text": "On Lake Silvaplana.",
+      "tip": "Winds are best in the afternoon."
+    }
+  ],
+  "foodIntro": "Engadin food is Alpine and Italian-influenced.",
+  "foods": [
+    {
+      "name": "Bündnerfleisch",
+      "text": "Air-dried beef.",
+      "whereToTry": "Restaurants and shops."
+    },
+    {
+      "name": "Engadiner Nusstorte",
+      "text": "A walnut and caramel tart.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Pizokel",
+      "text": "Small dumplings with cheese.",
+      "whereToTry": "Mountain huts."
+    },
+    {
+      "name": "Capuns",
+      "text": "Dumplings wrapped in chard.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Barley soup (Bündner Gerstensuppe)",
+      "text": "A hearty soup.",
+      "whereToTry": "Restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "St. Moritz is glamorous and expensive; villages are quieter and cheaper.",
+    "areas": [
+      {
+        "name": "St. Moritz",
+        "bestFor": "Luxury",
+        "text": "Grand hotels."
+      },
+      {
+        "name": "Pontresina and Samedan",
+        "bestFor": "Value and hiking",
+        "text": "Family hotels."
+      },
+      {
+        "name": "Sils Maria",
+        "bestFor": "Quiet",
+        "text": "Historic hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$55–95 per night" },
+      { "label": "Mid-range hotel", "value": "US$220–380 per night" },
+      { "label": "Luxury hotel", "value": "US$600–1,500 per night" },
+      { "label": "Bernina Express ticket", "value": "US$40–90 plus a reservation" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Engadin is reached by rail from Chur.",
+    "options": [
+      {
+        "mode": "Train from Chur",
+        "text": "About two hours via the Albula line to St. Moritz.",
+        "detail": "UNESCO-listed and scenic."
+      },
+      {
+        "mode": "Train from Zurich",
+        "text": "About 3.5 hours with a change in Chur.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bernina Express from Tirano",
+        "text": "From Italy over the Bernina Pass.",
+        "detail": "Reserve a seat."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Trains and buses run through the valley.",
+    "options": [
+      {
+        "mode": "Regional trains",
+        "text": "Along the valley.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Engadin Bus",
+        "text": "Serves the lakes.",
+        "detail": "Free with a hotel guest card."
+      },
+      {
+        "mode": "On foot",
+        "text": "Lake paths.",
+        "detail": "Wear good shoes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June–September and December–March",
+    "summary": "The Engadin has cold winters and sunny summers.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "quiet",
+        "text": "Thawing and closed lifts."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Hiking and lakes."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Golden larches."
+      },
+      {
+        "season": "Winter (December–March)",
+        "rating": "good",
+        "text": "Skiing and sun."
+      }
+    ],
+    "avoid": "The spring thaw."
+  },
+  "itinerary": {
+    "title": "Three days in the Engadin",
+    "intro": "Trains, a lake and a mountain.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Albula line",
+        "summary": "Viaduct and village.",
+        "morning": "Train from Chur to St. Moritz.",
+        "afternoon": "The Landwasser Viaduct.",
+        "evening": "Dinner in St. Moritz."
+      },
+      {
+        "day": 2,
+        "title": "Lakes",
+        "summary": "Sils and Silvaplana.",
+        "morning": "Bus to Sils Maria.",
+        "afternoon": "Walk around Lake Sils.",
+        "evening": "Fondue."
+      },
+      {
+        "day": 3,
+        "title": "Bernina",
+        "summary": "Over the pass.",
+        "morning": "Bernina Express to Lago Bianco.",
+        "afternoon": "Brusio spiral viaduct.",
+        "evening": "Return."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Reserve scenic trains early.",
+    "Ask your hotel for a guest card.",
+    "Stay outside St. Moritz to save money.",
+    "Bring warm layers.",
+    "Watch the weather.",
+    "Try the walnut tart.",
+    "Book ski gear in advance."
+  ],
+  "faq": [
+    {
+      "q": "Is St. Moritz worth visiting?",
+      "a": "Yes, for the lakes and railways, even if you skip the luxury."
+    },
+    {
+      "q": "How many days do you need?",
+      "a": "Three."
+    },
+    {
+      "q": "What is the Bernina Express?",
+      "a": "A panoramic train from Chur or St. Moritz to Tirano, Italy."
+    },
+    {
+      "q": "Is the Glacier Express worth it?",
+      "a": "For scenery yes, though slow and pricey."
+    },
+    {
+      "q": "What language is spoken?",
+      "a": "German and Romansh, with English widely understood."
+    },
+    {
+      "q": "When is the best time?",
+      "a": "June to September, or winter for skiing."
+    }
+  ],
+  "related": ["zermatt-matterhorn", "lugano-ticino", "appenzell"],
+  "relatedArticles": ["europe-by-train", "unesco-worth-planning-around"]
+}

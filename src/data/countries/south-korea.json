@@ -1,0 +1,419 @@
+{
+  "slug": "south-korea",
+  "name": "South Korea",
+  "continent": "Asia",
+  "countryCode": "KR",
+  "tagline": "Palaces beside skyscrapers, temples in misty mountains, a volcanic island, fast trains, superb food and a culture that moves at its own electric pace.",
+  "cardDescription": "A compact, safe and endlessly interesting country where royal palaces, mountain temples, beaches, K-culture and some of Asia's best food sit within a few hours of each other by train.",
+  "metaDescription": "A complete South Korea travel guide: the 10 best places to visit, Seoul, Busan, Gyeongju, Jeju, Jeonju and the DMZ, food, when to go, transport, safety and a two-week itinerary.",
+  "image": {
+    "file": "File:Gyedong-gil street with climbing plants at golden hour in Seoul South Korea.jpg",
+    "alt": "A quiet hanok-lined street in Seoul covered in climbing plants at golden hour"
+  },
+  "destinations": [
+    "seoul",
+    "busan",
+    "gyeongju",
+    "jeju-island",
+    "jeonju",
+    "seoraksan-sokcho",
+    "suwon-hwaseong",
+    "andong-hahoe",
+    "dmz-panmunjom",
+    "gangneung"
+  ],
+  "intro": [
+    "South Korea occupies the southern half of the Korean peninsula, a country of about 51 million people that is roughly the size of Portugal, and three-quarters mountain. In a single lifetime it moved from war and poverty to become one of the world's most advanced economies, and that speed is part of what makes it fascinating: a city like Seoul stacks 600-year-old palaces against glass towers, and a taxi ride can take you from a mountain temple to a night market and a robot cafe.",
+    "For visitors the appeal is unusual variety in a small space. There are royal palaces and fortress walls, the ancient Silla capital of Gyeongju, hanok villages where traditional houses still stand, the granite peaks of Seoraksan, the coast of Busan and the volcanic scenery of Jeju Island. Add a food culture built on fermented flavours, barbecue and street snacks, and the global pull of K-pop and Korean film, and you have a country that suits first-time Asia travellers and repeat visitors alike.",
+    "South Korea is also exceptionally easy to travel. Trains are fast and punctual, cities are clean and very safe, public transport is cheap and signposted in English, and mobile connectivity is superb. The main challenges are the language, which few visitors speak, and the seasons: summer is hot and humid with a monsoon, and winters are cold, so spring and autumn are the times to go."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Seoul, Gyeongju, Busan and Jeju are the essentials; Jeonju, Seoraksan and Suwon add depth, and the others reward those with more time.",
+  "thingsToDoIntro": "The experiences that recur across the country and make a Korean trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Ride the subway",
+      "image": {
+        "file": "File:Seoul subway.jpg",
+        "alt": "A busy Seoul subway train platform with waiting passengers"
+      },
+      "text": "The Seoul metro is one of the world's largest and easiest to use, with English signs and cheap fares. A T-money card also works on buses and in most other cities. See [[seoul|Seoul]].",
+      "tip": "Load a T-money card at any convenience store."
+    },
+    {
+      "title": "Walk a royal palace in hanbok",
+      "text": "Seoul's palaces, Gyeongbokgung above all, let you in free if you wear traditional dress, and the hanbok rental shops nearby make it easy. See [[seoul|Seoul]].",
+      "tip": "Go at opening time, before tour groups arrive."
+    },
+    {
+      "title": "Sleep in a temple",
+      "text": "Templestay programmes at mountain temples offer a night of meditation, tea and vegetarian meals with monks. Bulguksa near [[gyeongju|Gyeongju]] and temples around [[seoraksan-sokcho|Seoraksan]] are good choices.",
+      "tip": "Book through the official Templestay site well ahead."
+    },
+    {
+      "title": "Hike a mountain",
+      "text": "Koreans love hiking, and trails are well marked and busy at weekends. Seoraksan and Hallasan are the great ones. See [[seoraksan-sokcho|Seoraksan]] and [[jeju-island|Jeju]].",
+      "tip": "Go on a weekday in autumn, when the leaves peak but crowds are thinner."
+    },
+    {
+      "title": "Eat Korean barbecue",
+      "text": "Grilling pork belly or beef at your table, wrapped in lettuce with garlic and sauce, is the social meal of Korea. It is found everywhere, and is best with a group.",
+      "tip": "Most places serve a minimum of two portions."
+    },
+    {
+      "title": "Look into North Korea",
+      "text": "Guided tours reach the DMZ, the tense border strip between the two Koreas, with observation posts and tunnels. See [[dmz-panmunjom|the DMZ]].",
+      "tip": "Book weeks ahead, and bring your passport."
+    },
+    {
+      "title": "Take the high-speed train",
+      "text": "The KTX links Seoul with Busan in about two and a half hours, and other lines reach Gyeongju, Jeonju and Gangneung. See [[busan|Busan]].",
+      "tip": "Book through Korail or the Korail Talk app."
+    }
+  ],
+  "foodIntro": "Korean food is built on rice, vegetables, fermented flavours and lots of small side dishes, with fiery chilli, sesame and garlic. Meals are shared, and portions are generous.",
+  "foods": [
+    {
+      "name": "Kimchi",
+      "image": {
+        "file": "File:Triple White Kimchi 05.jpg",
+        "alt": "Fermented white kimchi served in a bowl"
+      },
+      "text": "Fermented vegetables, most often napa cabbage with chilli, garlic and ginger, served with almost every meal. There are hundreds of regional varieties.",
+      "whereToTry": "Everywhere, with every meal."
+    },
+    {
+      "name": "Bibimbap",
+      "image": {
+        "file": "File:Bibimbap 6.jpg",
+        "alt": "A bowl of bibimbap with rice, vegetables, egg and chilli paste"
+      },
+      "text": "Rice topped with seasoned vegetables, egg and gochujang chilli paste, mixed together at the table. Jeonju is the most famous home of the dish.",
+      "whereToTry": "Restaurants in [[jeonju|Jeonju]], and everywhere."
+    },
+    {
+      "name": "Korean barbecue",
+      "image": {
+        "file": "File:Korean barbecue-Samgyeopsal-02.jpg",
+        "alt": "Pork belly grilling at the table for Korean barbecue"
+      },
+      "text": "Samgyeopsal (pork belly) and galbi (marinated ribs) grilled at the table and eaten wrapped in lettuce leaves with garlic and ssamjang sauce.",
+      "whereToTry": "Barbecue restaurants in [[seoul|Seoul]] and all cities."
+    },
+    {
+      "name": "Tteokbokki",
+      "image": {
+        "file": "File:Korean.snacks-Tteokbokki-08.jpg",
+        "alt": "Chewy rice cakes in a red chilli sauce"
+      },
+      "text": "Chewy rice cakes in a sweet and spicy chilli sauce, a classic street snack often eaten with fish cakes and fried food.",
+      "whereToTry": "Street stalls and markets, such as [[busan|Busan's]] markets."
+    },
+    {
+      "name": "Naengmyeon",
+      "image": {
+        "file": "File:Mul-naengmyeon 3.jpg",
+        "alt": "A bowl of cold buckwheat noodles in broth"
+      },
+      "text": "Cold buckwheat noodles in an icy beef broth, a summer favourite that traces its roots to the north of the peninsula.",
+      "whereToTry": "Specialist restaurants, especially in summer."
+    },
+    {
+      "name": "Soju and makgeolli",
+      "image": {
+        "file": "File:Korean beer, soju and makgeolli.jpg",
+        "alt": "Bottles of Korean beer, soju and makgeolli"
+      },
+      "text": "Soju is a clear distilled spirit drunk in small glasses, and makgeolli is a lightly fizzy rice wine. Both are central to Korean social life.",
+      "whereToTry": "Bars, restaurants and pojangmacha tents."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. South Korea is one of the easiest countries in Asia to travel in, though language and apps need a little preparation.",
+  "practical": {
+    "capital": "Seoul",
+    "language": "Korean. English is spoken at major hotels and tourist sites, and signs on the subway and at stations are in English, but many restaurants and taxis have little English. A translation app such as Papago helps.",
+    "currency": "South Korean won (KRW, ₩). Roughly 1,350–1,450 won to the US dollar in recent years.",
+    "money": "Cards are accepted almost everywhere, including small shops, and contactless payment is common. Foreign cards sometimes fail at ATMs, so use those in convenience stores (7-Eleven, GS25) or banks that show a global sign. Carry some cash for markets, small stalls and rural areas.",
+    "visa": "Many nationalities can visit without a visa for stays of up to 90 days, but most must register for the K-ETA electronic travel authorisation before flying, unless a temporary exemption applies. Rules have changed several times in recent years, so check the official K-ETA and immigration websites.",
+    "plugs": "Type C and F (two round pins), 220 V, 60 Hz. Most European plugs work directly; UK and US visitors need an adaptor, and US devices should be dual voltage.",
+    "emergency": "112 for police, 119 for fire and ambulance, and 1330 for the 24-hour Korea Travel Helpline, which has English support.",
+    "tipping": "Not customary and not expected in restaurants, taxis or hotels. Some places will politely return money you leave.",
+    "safety": "South Korea is one of the safest countries for travellers, with very low violent crime. Take normal precautions with belongings in crowded areas. The main hazards are traffic (scooters on pavements), heavy summer rain and typhoons, winter ice, and air quality, which can be poor in spring. Follow advice on the DMZ and check government travel advice if tensions with North Korea rise.",
+    "connectivity": "Excellent. Fast 5G coverage is nearly universal, including on the subway and in mountain areas. Buy an eSIM or a pocket Wi-Fi, or use the free Wi-Fi at stations and airports. Google Maps is limited for walking and driving directions, so use Naver Map or Kakao Map.",
+    "timeZone": "Korea Standard Time, UTC+9 all year, with no daylight saving.",
+    "budget": [
+      { "label": "Backpacker", "value": "US$50–80 per day — hostels, street food, subway" },
+      { "label": "Mid-range", "value": "US$110–190 per day — hotels, restaurant meals, KTX trips" },
+      { "label": "Comfortable", "value": "US$220–400 per day — boutique hotels, hanok stays, private guides" },
+      { "label": "Luxury", "value": "US$500+ per day — five-star hotels, fine dining" }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–May and September–October",
+    "summary": "South Korea has four distinct seasons. Spring and autumn are mild and colourful, summer is hot, humid and wet, and winter is cold and dry.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Cherry blossom in early April, mild temperatures and fresh greens. Yellow dust from China can affect air quality at times."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Hot and very humid, with a rainy season (jangma) in late June and July and occasional typhoons. Beaches are busy, and Jeju is popular."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Clear, dry weather and spectacular foliage, particularly in Seoraksan in October. The finest time overall."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold and crisp, with snow in the mountains and ski resorts. Cities are quiet and cheap, with lively winter street food."
+      }
+    ],
+    "avoid": "The July rainy season, and the Lunar New Year and Chuseok holiday weeks, when transport is fully booked and many businesses close."
+  },
+  "tripDuration": {
+    "headline": "10–14 days for a first trip",
+    "summary": "South Korea is small and well connected. A week covers Seoul and one or two other places, and two weeks allow the main highlights at an easy pace.",
+    "options": [
+      {
+        "length": "4–5 days",
+        "text": "Seoul, with a day trip to Suwon or the DMZ.",
+        "detail": "A city break."
+      },
+      {
+        "length": "8–10 days",
+        "text": "Seoul, Gyeongju and Busan, by train.",
+        "detail": "A good short trip."
+      },
+      {
+        "length": "12–14 days",
+        "text": "The itinerary on this page: Seoul, Jeonju, Gyeongju, Busan and Jeju.",
+        "detail": "The classic first trip, and our recommendation."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Adds Seoraksan, Gangneung, Andong and slower stays in the countryside.",
+        "detail": "For hikers and repeat visitors."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Trains and buses are fast, frequent and cheap, and cities have excellent metros. You rarely need a car, except on Jeju and in the countryside.",
+    "options": [
+      {
+        "mode": "KTX and SRT high-speed trains",
+        "text": "Link Seoul with Busan in about two and a half hours, and with Gyeongju, Daejeon, Gwangju, Mokpo and Gangneung. SRT trains leave from Suseo station.",
+        "detail": "Book on Korail or Korail Talk, and consider a KR Pass for foreign visitors."
+      },
+      {
+        "mode": "Express and intercity buses",
+        "text": "Cover the whole country cheaply, including places without a train. Seats are wide and comfortable.",
+        "detail": "Book on Bustago or at the terminal."
+      },
+      {
+        "mode": "Domestic flights",
+        "text": "Seoul's Gimpo Airport to Jeju is the busiest air route in the world, at about one hour, with many low-cost carriers.",
+        "detail": "Book Jeju flights early for holidays."
+      },
+      {
+        "mode": "City metros and T-money",
+        "text": "Seoul, Busan, Daegu and other cities have metros, and the T-money or Climate Card works on buses, subways and taxis.",
+        "detail": "Google Maps is unreliable, so use Naver Map or Kakao Map."
+      },
+      {
+        "mode": "Taxis and Kakao T",
+        "text": "Taxis are cheap and safe. The Kakao T app can hail them, though it needs a Korean number for some features.",
+        "detail": "Have your destination written in Korean."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in South Korea",
+    "intro": "Seoul with a DMZ day and a fortress at Suwon, then Jeonju, Gyeongju, Busan and Jeju, mostly by train. Covers seven of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Seoul",
+        "morning": "Land at Incheon and take the express train into the city.",
+        "afternoon": "Bukchon Hanok Village.",
+        "evening": "Dinner and a walk in Insadong."
+      },
+      {
+        "day": 2,
+        "title": "Palaces of Seoul",
+        "morning": "Gyeongbokgung Palace, ideally in hanbok.",
+        "afternoon": "Changdeokgung and its Secret Garden.",
+        "evening": "Night views from N Seoul Tower."
+      },
+      {
+        "day": 3,
+        "title": "The DMZ",
+        "morning": "A guided tour to Imjingak and the Third Tunnel.",
+        "afternoon": "Dora Observatory.",
+        "evening": "Barbecue in Hongdae."
+      },
+      {
+        "day": 4,
+        "title": "Suwon",
+        "morning": "Train to Suwon and walk the Hwaseong Fortress wall.",
+        "afternoon": "Haenggung Palace.",
+        "evening": "Return to Seoul."
+      },
+      {
+        "day": 5,
+        "title": "To Jeonju",
+        "morning": "KTX to Jeonju.",
+        "afternoon": "Hanok Village and Gyeonggijeon Shrine.",
+        "evening": "Bibimbap and makgeolli."
+      },
+      {
+        "day": 6,
+        "title": "Jeonju",
+        "morning": "The Nambu Market.",
+        "afternoon": "Omokdae and a hanbok walk.",
+        "evening": "Travel toward Gyeongju."
+      },
+      {
+        "day": 7,
+        "title": "Gyeongju",
+        "morning": "Bulguksa Temple.",
+        "afternoon": "Seokguram Grotto.",
+        "evening": "Donggung Palace and Wolji Pond lit up."
+      },
+      {
+        "day": 8,
+        "title": "Gyeongju",
+        "morning": "Rent a bicycle and ride among the tombs.",
+        "afternoon": "Cheomseongdae and the Hwangnidan-gil cafes.",
+        "evening": "Train to Busan."
+      },
+      {
+        "day": 9,
+        "title": "Busan",
+        "morning": "Gamcheon Culture Village.",
+        "afternoon": "Jagalchi Fish Market.",
+        "evening": "Gwangalli Beach and the bridge lights."
+      },
+      {
+        "day": 10,
+        "title": "Busan",
+        "morning": "Haedong Yonggungsa temple on the coast.",
+        "afternoon": "Haeundae Beach.",
+        "evening": "Fly to Jeju."
+      },
+      {
+        "day": 11,
+        "title": "Jeju",
+        "morning": "Seongsan Ilchulbong sunrise peak.",
+        "afternoon": "Manjanggul Lava Tube.",
+        "evening": "Black pork dinner."
+      },
+      {
+        "day": 12,
+        "title": "Hallasan",
+        "morning": "Hike the Yeongsil Trail on Hallasan.",
+        "afternoon": "Hyeopjae Beach.",
+        "evening": "Seafood on the coast."
+      },
+      {
+        "day": 13,
+        "title": "Back to Seoul",
+        "morning": "Fly to Seoul.",
+        "afternoon": "Dongdaemun Design Plaza.",
+        "evening": "Cheonggyecheon stream at night."
+      },
+      {
+        "day": 14,
+        "title": "Departure",
+        "morning": "Last shopping at a market.",
+        "afternoon": "Airport express train to Incheon.",
+        "evening": "Fly home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Korean society values respect, hierarchy, community and politeness, and manners are formal without being cold. Visitors are forgiven for small mistakes, but a few habits go a long way, especially around meals and age.",
+    "etiquette": [
+      {
+        "title": "Bow slightly in greeting",
+        "text": "A small nod or bow is the usual greeting. Handshakes are common with foreigners, and are sometimes given with the left hand supporting the right forearm."
+      },
+      {
+        "title": "Use two hands",
+        "text": "Give and receive items, money and drinks with both hands, or with a hand supporting the other arm, especially with elders."
+      },
+      {
+        "title": "Take off your shoes",
+        "text": "Remove shoes in homes, hanok, temples' halls and many restaurants with floor seating."
+      },
+      {
+        "title": "Wait for elders at meals",
+        "text": "Let the oldest person start eating, do not stick chopsticks upright in rice, and pour drinks for others rather than yourself."
+      },
+      {
+        "title": "Be quiet on transport",
+        "text": "Speak softly on the subway, and leave the pink or priority seats for those who need them."
+      },
+      {
+        "title": "Respect temples",
+        "text": "Dress modestly, stay quiet, and do not photograph monks or worshippers without asking."
+      }
+    ],
+    "dos": [
+      "Learn a few words: annyeonghaseyo (hello), gamsahamnida (thank you), jal meokgesseumnida (before eating)",
+      "Carry a T-money card",
+      "Use Naver Map or Kakao Map for directions",
+      "Try local dishes at markets",
+      "Wear comfortable shoes for palaces and hiking",
+      "Book DMZ tours in advance"
+    ],
+    "donts": [
+      "Don't tip in restaurants",
+      "Don't stick chopsticks upright in a bowl of rice",
+      "Don't point at people or step on a threshold at a hanok",
+      "Don't photograph military sites where prohibited",
+      "Don't blow your nose at the table, or talk loudly on phone calls on public transport",
+      "Don't discuss North Korea flippantly, since the topic is sensitive"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in South Korea, several of which are specific to how the country works.",
+  "tips": [
+    "Get a T-money card on arrival, and top it up at convenience stores.",
+    "Install Naver Map or Kakao Map, plus Papago for translation, before you land.",
+    "Register for K-ETA in advance if your nationality requires it.",
+    "Book KTX, DMZ tours and temple stays early for peak seasons and holidays.",
+    "Avoid travelling during Chuseok and Lunar New Year, when transport is packed.",
+    "Look for cash-only places in markets and rural areas, and carry a little.",
+    "Dress in layers, since spring and autumn days can swing from cold mornings to warm afternoons.",
+    "Take your passport to the DMZ and follow the dress code."
+  ],
+  "faq": [
+    {
+      "q": "Is South Korea safe for tourists?",
+      "a": "Yes. It is one of the safest countries in the world, with very low violent crime. Normal precautions are enough. Check official advice about the DMZ region if tensions rise."
+    },
+    {
+      "q": "How many days do you need in South Korea?",
+      "a": "Ten to fourteen days for a first trip, covering Seoul, Gyeongju, Busan and Jeju. A week is enough for Seoul plus one or two other places."
+    },
+    {
+      "q": "When is the best time to visit South Korea?",
+      "a": "April to May and September to October, for mild weather and colour. Summer is hot and rainy, and winter is cold."
+    },
+    {
+      "q": "Do I need to speak Korean?",
+      "a": "No. Signs are in English at stations and major sights, and translation apps handle menus. A few Korean phrases are appreciated."
+    },
+    {
+      "q": "Do I need a visa for South Korea?",
+      "a": "Many nationalities can visit visa-free for up to 90 days, but most need a K-ETA registration beforehand. Rules change, so check official sources."
+    },
+    {
+      "q": "Is South Korea expensive?",
+      "a": "It is cheaper than Japan and Western Europe. Transport and food are good value, while accommodation in Seoul and Jeju can be pricey in peak seasons."
+    }
+  ]
+}

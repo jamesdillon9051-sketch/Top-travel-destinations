@@ -1,0 +1,302 @@
+{
+  "slug": "poznan",
+  "name": "Poznań",
+  "country": "poland",
+  "region": "Greater Poland, western Poland",
+  "categories": ["major-city", "historic", "cultural"],
+  "tagline": "The cradle of the Polish state, a Renaissance market square with a clock where mechanical goats butt heads at noon, and the birthplace of croissants Poznań-style.",
+  "highlight": "The two mechanical goats emerging from the Town Hall clock at noon, to a crowd in the Old Market Square.",
+  "shortDescription": "A relaxed western city with a colourful Old Market Square, a Renaissance Town Hall and its famous goats, Ostrów Tumski cathedral, the Croissant Museum and a base for the first Polish capital at Gniezno.",
+  "metaDescription": "A Poznań travel guide: the Old Market Square and Town Hall goats, Ostrów Tumski, the Imperial Castle, St. Martin's croissants, Gniezno, where to stay, how to get there and a one-to-two-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Poznań Ławica (POZ), about 20 minutes",
+  "knownFor": "Old Market Square, Town Hall goats, croissants, trade fairs",
+  "budget": "US$80–140 per day, mid-range",
+  "goodFor": "Short city breaks, history, food, stopovers between Berlin and Warsaw",
+  "coords": { "lat": 52.4082, "lng": 16.9335 },
+  "image": {
+    "file": "File:Poznan 10-2013 img15 Old Market.jpg",
+    "alt": "Colourful houses on Poznań's Old Market Square"
+  },
+  "intro": [
+    "Poznań is one of Poland's oldest cities, and the place where the Polish state began. In the 10th century, its first rulers built a fortress on the island of Ostrów Tumski, and the country's first cathedral stood here. Today it is a city of about half a million people, a university and trade-fair town midway between Berlin and Warsaw.",
+    "The centre is the Old Market Square, a broad, colourful square lined with painted merchant houses and dominated by a Renaissance Town Hall, built in the 16th century. Every day at noon, two mechanical goats emerge from the clock tower and butt heads twelve times, a tradition tied to a legend about a kitchen mishap. The square is full of cafés and bars, and its restaurants serve traditional dishes such as duck with apples.",
+    "A short walk east, Ostrów Tumski has the cathedral and the Porta Posnania interactive museum, and on St. Martin's Day, 11 November, the city celebrates with the St. Martin's croissant, a rich pastry filled with poppy seeds. Poznań is small, relaxed, and best on a day or two, often combined with a trip to Gniezno, the first capital."
+  ],
+  "whyVisit": {
+    "intro": "Poznań is a cheerful city with an outstanding square and a key place in Polish history.",
+    "points": [
+      {
+        "title": "The Old Market Square",
+        "text": "Colourful and lively."
+      },
+      {
+        "title": "The Town Hall goats",
+        "text": "A daily noon show."
+      },
+      {
+        "title": "The birthplace of Poland",
+        "text": "Ostrów Tumski and Gniezno."
+      },
+      {
+        "title": "Croissants",
+        "text": "The local St. Martin's pastry."
+      },
+      {
+        "title": "Easy pace",
+        "text": "A quieter city."
+      }
+    ]
+  },
+  "attractionsIntro": "Sights are within walking distance of the Old Market Square.",
+  "attractions": [
+    {
+      "name": "Old Market Square",
+      "image": {
+        "file": "File:Poznan 10-2013 img17 Old Market.jpg",
+        "alt": "The Old Market Square in Poznań with its coloured houses"
+      },
+      "text": "A large square lined with merchant houses in pastel colours, with cafés, a fountain and the Renaissance Town Hall.",
+      "tip": "Sit at a café to watch the show."
+    },
+    {
+      "name": "Town Hall and the goats",
+      "image": {
+        "file": "File:Poznan Town Hall III.jpg",
+        "alt": "The Renaissance Poznań Town Hall with its clock tower"
+      },
+      "text": "The Renaissance Town Hall, which houses a museum, and a clock where two mechanical goats emerge at noon.",
+      "tip": "Arrive by 11:55."
+    },
+    {
+      "name": "Ostrów Tumski",
+      "text": "The cathedral island where Poland's first rulers built their stronghold, with a Gothic cathedral and a heritage centre.",
+      "tip": "Visit the Porta Posnania."
+    },
+    {
+      "name": "Imperial Castle",
+      "text": "A neo-Romanesque castle built for Kaiser Wilhelm II in the early 1900s, now a cultural centre.",
+      "tip": "Walk the park."
+    },
+    {
+      "name": "Croissant Museum",
+      "text": "A show bakery where you can watch St. Martin's croissants being made.",
+      "tip": "Book a slot."
+    },
+    {
+      "name": "Gniezno Cathedral",
+      "image": {
+        "file": "File:Cathedral of Gniezno (20-cropped).jpg",
+        "alt": "The twin-towered cathedral of Gniezno, the first capital of Poland"
+      },
+      "text": "The cathedral of Poland's first capital, an hour from Poznań, with bronze doors from the 12th century.",
+      "tip": "A half-day trip."
+    }
+  ],
+  "thingsToDoIntro": "Poznań is a relaxed city for wandering and eating.",
+  "thingsToDo": [
+    {
+      "title": "Watch the goats",
+      "text": "At noon each day.",
+      "tip": "Get there early."
+    },
+    {
+      "title": "Eat a St. Martin's croissant",
+      "text": "A poppy-seed pastry.",
+      "tip": "Best on 11 November."
+    },
+    {
+      "title": "Walk Ostrów Tumski",
+      "text": "Cathedral and river.",
+      "tip": "Go in the morning."
+    },
+    {
+      "title": "Visit Lake Malta",
+      "text": "An artificial lake with trails and a toboggan run.",
+      "tip": "Good in summer."
+    },
+    {
+      "title": "Drink craft beer",
+      "text": "Local bars.",
+      "tip": "Old Town pubs."
+    },
+    {
+      "title": "Take a trip to Gniezno",
+      "text": "See the first capital.",
+      "tip": "By train."
+    }
+  ],
+  "foodIntro": "Poznań's food is hearty Wielkopolska cooking.",
+  "foods": [
+    {
+      "name": "St. Martin's croissant",
+      "text": "A rich poppy-seed pastry.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Duck with apples",
+      "text": "Roast duck with apples and dumplings.",
+      "whereToTry": "Old Town restaurants."
+    },
+    {
+      "name": "Szare kluski",
+      "text": "Grey potato dumplings.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Pyry z gzikiem",
+      "text": "Potatoes with quark and onion.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Local brews.",
+      "whereToTry": "Pubs."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay near the Old Market Square.",
+    "areas": [
+      {
+        "name": "Old Town",
+        "bestFor": "Sightseeing",
+        "text": "Hotels."
+      },
+      {
+        "name": "Near the station",
+        "bestFor": "Transport",
+        "text": "Business hotels."
+      },
+      {
+        "name": "Jeżyce",
+        "bestFor": "Cafés",
+        "text": "Guesthouses."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$14–26 per night" },
+      { "label": "Mid-range hotel", "value": "US$60–120 per night" },
+      { "label": "Luxury hotel", "value": "US$150–260 per night" },
+      { "label": "Restaurant meal", "value": "US$8–18 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Poznań is on the Berlin–Warsaw line.",
+    "options": [
+      {
+        "mode": "Train from Warsaw",
+        "text": "About 2.5 to 3 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train from Berlin",
+        "text": "About 3 hours.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Flight",
+        "text": "Low-cost links.",
+        "detail": "The airport is near."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The centre is walkable.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The Old Town.",
+        "detail": "Comfortable shoes."
+      },
+      {
+        "mode": "Trams",
+        "text": "To outer sights.",
+        "detail": "Buy tickets."
+      },
+      {
+        "mode": "Ride-hailing",
+        "text": "Cheap.",
+        "detail": "Bolt or Uber."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "Poznań has a temperate climate.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Mild."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Warm, lively."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Golden."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold, but has a Christmas market."
+      }
+    ],
+    "avoid": "Grey winter days."
+  },
+  "itinerary": {
+    "title": "One to two days in Poznań",
+    "intro": "The square, the island and a croissant.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Poznań",
+        "summary": "Square and island.",
+        "morning": "The goats at noon in the Old Market Square.",
+        "afternoon": "Ostrów Tumski and the Croissant Museum.",
+        "evening": "Duck dinner."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "See the goats at noon.",
+    "Try a croissant.",
+    "Book the Croissant Museum.",
+    "Use trams.",
+    "Visit Gniezno.",
+    "Carry a little cash.",
+    "Check fairs before booking."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need in Poznań?",
+      "a": "One or two days."
+    },
+    {
+      "q": "What are the goats?",
+      "a": "Mechanical goats on the Town Hall clock."
+    },
+    {
+      "q": "Is it a good stop?",
+      "a": "Yes, between Berlin and Warsaw."
+    },
+    {
+      "q": "Can I visit Gniezno?",
+      "a": "Yes, about an hour by train."
+    },
+    {
+      "q": "Is Poznań cheap?",
+      "a": "Yes."
+    },
+    {
+      "q": "When are the goats?",
+      "a": "Every day at noon."
+    }
+  ],
+  "related": ["wroclaw", "torun", "warsaw"],
+  "relatedArticles": ["europe-by-train", "underrated-destinations"]
+}

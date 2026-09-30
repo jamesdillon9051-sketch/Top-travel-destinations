@@ -1,0 +1,302 @@
+{
+  "slug": "bern",
+  "name": "Bern",
+  "country": "switzerland",
+  "region": "Bern, western Switzerland",
+  "categories": ["capital-city", "historic", "unesco", "cultural"],
+  "tagline": "The Swiss capital, a UNESCO-listed medieval old town of sandstone arcades and fountains on a river loop, with a clock tower, bears and Einstein.",
+  "highlight": "The old town's red roofs and the Aare's turquoise bend, seen from the Rosengarten.",
+  "shortDescription": "A relaxed capital with a UNESCO-listed old town, six kilometres of arcades, the Zytglogge clock tower, the Rosengarten viewpoint, the Bundeshaus, river swimming and Einstein's apartment.",
+  "metaDescription": "A Bern travel guide: the UNESCO old town, Zytglogge clock tower, Bundeshaus, Rosengarten viewpoint, Aare swimming, Einstein House, Bear Park, food, where to stay and a one-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Bern (BRN), small; Zurich (ZRH) or Geneva (GVA), about 1–2 hours by train",
+  "knownFor": "Old town, arcades, Zytglogge, Aare river, bears",
+  "budget": "US$220–350 per day, mid-range",
+  "goodFor": "History, walking, river swimming, day trips",
+  "coords": { "lat": 46.9480, "lng": 7.4474 },
+  "image": {
+    "file": "File:Bern Altstadt von Rosengarten 20211007.jpg",
+    "alt": "The old town of Bern with red roofs and the cathedral spire, seen from the Rosengarten"
+  },
+  "intro": [
+    "Bern is the capital of Switzerland, or more precisely its 'federal city', since the Swiss constitution does not name a capital. It is a small city of about 140,000 people, set on a hill in a tight loop of the Aare river, and it is much calmer than Zurich or Geneva. The old town was founded in 1191 and is a UNESCO World Heritage Site, with about six kilometres of covered arcades lined with shops, cellars and cafés.",
+    "Its landmarks are easy to find. The Zytglogge is a medieval clock tower with an astronomical clock that performs a small show every hour, the Münster is Switzerland's tallest cathedral, and the Bundeshaus, the Federal Palace, is open for tours. Along the streets, colourful fountains from the 16th century carry statues, and the Bear Park by the river keeps bears, the city's symbol.",
+    "In summer, locals jump in the Aare and drift downstream to the pools, a joyful and unusual ritual. Bern is also where Albert Einstein developed his theory of relativity while working in a patent office, and his apartment on Kramgasse is a small museum. A day covers the old town, and it makes a good stop between Zurich and the mountains."
+  ],
+  "whyVisit": {
+    "intro": "Bern is a calm, beautiful capital with a well preserved medieval centre.",
+    "points": [
+      {
+        "title": "A UNESCO old town",
+        "text": "Sandstone arcades and fountains."
+      },
+      {
+        "title": "The Zytglogge clock",
+        "text": "A medieval astronomical clock."
+      },
+      {
+        "title": "River swimming",
+        "text": "Float on the Aare in summer."
+      },
+      {
+        "title": "Einstein's city",
+        "text": "His apartment is open to visitors."
+      },
+      {
+        "title": "Easy pace",
+        "text": "Small, quiet and walkable."
+      }
+    ]
+  },
+  "attractionsIntro": "The old town is compact and walkable.",
+  "attractions": [
+    {
+      "name": "Zytglogge",
+      "image": {
+        "file": "File:Bern BimZytglogge 01.jpg",
+        "alt": "The Zytglogge clock tower in Bern's old town"
+      },
+      "text": "A medieval clock tower with an astronomical clock from 1530, which puts on a show four minutes before each hour.",
+      "tip": "Watch from Kramgasse."
+    },
+    {
+      "name": "Bundeshaus",
+      "image": {
+        "file": "File:Bundeshaus in Bern 2022.jpg",
+        "alt": "The Bundeshaus, the Swiss Federal Palace, with its green dome"
+      },
+      "text": "The Swiss Federal Palace, home to parliament, open for free guided tours when not in session.",
+      "tip": "Book and bring ID."
+    },
+    {
+      "name": "Rosengarten",
+      "image": {
+        "file": "File:Bern Rosengarten Brunnen 20211007.jpg",
+        "alt": "A fountain in the Rosengarten garden above Bern"
+      },
+      "text": "A hillside garden above the river with the best view of the old town.",
+      "tip": "Go at sunset."
+    },
+    {
+      "name": "Old town arcades",
+      "text": "Six kilometres of covered arcades, with shops, cellar bars and fountains.",
+      "tip": "Wander Marktgasse and Kramgasse."
+    },
+    {
+      "name": "Bern Münster",
+      "text": "A late-Gothic cathedral with Switzerland's highest church tower, at 100 metres.",
+      "tip": "Climb the tower."
+    },
+    {
+      "name": "Einstein House",
+      "text": "The apartment where Einstein lived from 1903 to 1905.",
+      "tip": "Small, cheap and quick."
+    }
+  ],
+  "thingsToDoIntro": "Bern is for strolling and swimming.",
+  "thingsToDo": [
+    {
+      "title": "Swim in the Aare",
+      "text": "Float from Eichholz to the Marzili pools.",
+      "tip": "Only if you are a confident swimmer."
+    },
+    {
+      "title": "Walk the old town",
+      "text": "Follow the arcades and fountains.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Visit the Bear Park",
+      "text": "See bears by the river.",
+      "tip": "Free."
+    },
+    {
+      "title": "Go up Gurten",
+      "text": "A hill with views, reached by funicular.",
+      "tip": "Good for families."
+    },
+    {
+      "title": "Visit Zentrum Paul Klee",
+      "text": "A museum of Klee's works in a wavy building.",
+      "tip": "Take a bus."
+    },
+    {
+      "title": "Shop at the Saturday market",
+      "text": "Local produce and cheese.",
+      "tip": "Go in the morning."
+    }
+  ],
+  "foodIntro": "Bern's food is hearty and Swiss.",
+  "foods": [
+    {
+      "name": "Berner Platte",
+      "text": "A mound of meats, sausages and sauerkraut.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Zwiebelkuchen",
+      "text": "Onion tart, eaten in autumn.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Rösti",
+      "text": "Fried potatoes.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Bernese meringue and cream",
+      "text": "A sweet dessert.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Chocolate",
+      "text": "Toblerone has its roots in Bern.",
+      "whereToTry": "Shops."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the old town for atmosphere.",
+    "areas": [
+      {
+        "name": "Old town",
+        "bestFor": "Walking and atmosphere",
+        "text": "Small hotels."
+      },
+      {
+        "name": "Near the station",
+        "bestFor": "Transport",
+        "text": "Business hotels and hostels."
+      },
+      {
+        "name": "Kirchenfeld",
+        "bestFor": "Museums",
+        "text": "Quiet hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$45–75 per night" },
+      { "label": "Mid-range hotel", "value": "US$170–280 per night" },
+      { "label": "Luxury hotel", "value": "US$350–700 per night" },
+      { "label": "Restaurant meal", "value": "US$25–45 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Bern is a rail hub.",
+    "options": [
+      {
+        "mode": "Train from Zurich",
+        "text": "About an hour.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train from Geneva",
+        "text": "About 1.5 to 2 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train from Interlaken",
+        "text": "About 55 minutes.",
+        "detail": "Frequent."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Bern is small and walkable.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The old town.",
+        "detail": "Comfortable shoes."
+      },
+      {
+        "mode": "Trams and buses",
+        "text": "For outer sights.",
+        "detail": "Hotel guests get a pass."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Free bike hire in summer.",
+        "detail": "Ask at the station."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "Bern is warm in summer and cool in winter.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "good",
+        "text": "Blossom."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "River swimming."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Clear days."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Christmas markets."
+      }
+    ],
+    "avoid": "Grey winter days."
+  },
+  "itinerary": {
+    "title": "One day in Bern",
+    "intro": "The old town on foot.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town",
+        "summary": "Arcades and views.",
+        "morning": "Zytglogge and the Münster.",
+        "afternoon": "Einstein House and the Bundeshaus.",
+        "evening": "Rosengarten sunset."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you enjoy Bern.",
+  "tips": [
+    "Watch the clock show early.",
+    "Visit the Rosengarten at sunset.",
+    "Swim only if confident, since the river is fast.",
+    "Book Bundeshaus tours ahead.",
+    "Browse the Saturday market.",
+    "Ask your hotel for a transport pass.",
+    "Combine with Interlaken."
+  ],
+  "faq": [
+    {
+      "q": "Is Bern worth visiting?",
+      "a": "Yes, for its old town and relaxed feel."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "One day."
+    },
+    {
+      "q": "Is Bern the capital?",
+      "a": "It is the federal city, the seat of government."
+    },
+    {
+      "q": "Can I swim in the Aare?",
+      "a": "Yes in summer, but the current is strong."
+    },
+    {
+      "q": "What is Bern known for?",
+      "a": "Its old town, bears and the clock tower."
+    },
+    {
+      "q": "Is it a UNESCO site?",
+      "a": "Yes, the old town was listed in 1983."
+    }
+  ],
+  "related": ["interlaken-jungfrau", "zurich", "lausanne-lavaux"],
+  "relatedArticles": ["unesco-worth-planning-around", "europe-by-train"]
+}

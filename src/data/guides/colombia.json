@@ -1,0 +1,135 @@
+{
+  "country": "colombia",
+  "title": "The Complete Colombia Travel Guide",
+  "subtitle": "How the country divides, how to choose between the ten destinations, how to fly, bus and stay safe, and what two weeks can realistically hold.",
+  "summary": "Colombia combines Caribbean beaches, Andean cities, coffee hills and colonial villages with warm people and good value. This guide covers how the regions divide, how to choose between the ten destinations, how to get around safely, when to go, what it costs and three routes that work.",
+  "readingTime": "13 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Should I fly or take buses?",
+      "a": "Fly between regions, since domestic flights are cheap and roads are winding. Use buses for shorter hops such as Bogotá to Villa de Leyva or Medellín to Guatapé."
+    },
+    {
+      "q": "Is it safe to travel independently?",
+      "a": "Yes on the main tourist routes, with precautions. Use ride-hailing apps, avoid the street at night with valuables, and follow local advice."
+    },
+    {
+      "q": "How do I handle the altitude?",
+      "a": "Bogotá is at 2,640 metres. Drink water, go easy on the first day and limit alcohol. Medellín and the coast are lower."
+    },
+    {
+      "q": "When should I book?",
+      "a": "Book Tayrona and Ciudad Perdida several weeks ahead, and Cartagena hotels far ahead for December and January."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-colombia-divides",
+      "title": "How Colombia divides",
+      "navLabel": "The regions",
+      "body": [
+        "Colombia is about 1,600 km from north to south, and it has roughly five zones for a visitor.",
+        "**The Caribbean coast.** [[cartagena|Cartagena]] is the main gateway, with [[tayrona-santa-marta|Tayrona and Santa Marta]] to the east and [[san-andres|San Andrés]] out at sea.",
+        "**The Andes around Bogotá.** [[bogota|Bogotá]] is the capital, with [[villa-de-leyva|Villa de Leyva]] and [[barichara|Barichara]] as colonial villages.",
+        "**Antioquia.** [[medellin|Medellín]] and [[guatape|Guatapé]] have spring-like weather and lakes.",
+        "**The Coffee Axis.** [[salento-cocora|Salento and Cocora]] are the centre of coffee country.",
+        "**The Llanos and Amazon.** [[cano-cristales|Caño Cristales]] is a remote river of colours."
+      ],
+      "note": "The practical unit is two or three of these, linked by cheap flights. Bogotá, Medellín and Pereira are all one hour apart."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[cartagena|Cartagena]] for the coast and [[bogota|Bogotá]] for the capital, or [[medellin|Medellín]] with the [[salento-cocora|Coffee Region]]."
+        },
+        {
+          "title": "If you love colonial towns",
+          "text": "[[cartagena|Cartagena]], [[villa-de-leyva|Villa de Leyva]] and [[barichara|Barichara]] are among the best preserved in the Americas."
+        },
+        {
+          "title": "If you love hiking and nature",
+          "text": "[[salento-cocora|Cocora Valley]], [[tayrona-santa-marta|Tayrona]] and [[cano-cristales|Caño Cristales]] are the highlights."
+        },
+        {
+          "title": "If you love cities",
+          "text": "[[bogota|Bogotá]] for culture and [[medellin|Medellín]] for innovation and nightlife."
+        },
+        {
+          "title": "If you love beaches",
+          "text": "[[tayrona-santa-marta|Tayrona]], the Rosario Islands from [[cartagena|Cartagena]] and [[san-andres|San Andrés]]."
+        },
+        {
+          "title": "If you love coffee",
+          "text": "[[salento-cocora|The Coffee Region]] has farms and tours, and [[medellin|Medellín]] has excellent specialty cafés."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around safely",
+      "navLabel": "Getting around",
+      "body": [
+        "Colombia is easy to navigate by air, and slower by land.",
+        "**Flights.** Fly between Bogotá, Medellín, Cartagena, Santa Marta and Pereira. Fares are low if booked early.",
+        "**Buses.** Comfortable but slow in the mountains. Travel by day.",
+        "**Ride-hailing.** Uber, InDrive and Cabify are safer and cheaper than street taxis in cities.",
+        "**Local transport.** Colectivos serve towns such as [[salento-cocora|Salento]], and jeeps take you to trailheads."
+      ],
+      "note": "Do not use your phone in the street, and keep bags close on buses."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Colombia's climate depends on altitude and region, and there are two rainy seasons in the Andes.",
+        "December to March is the main dry season in the Andes and Caribbean, and the best window for most trips.",
+        "April and May are wetter, with afternoon showers in the Andes.",
+        "June to August is a second drier spell in the Andes, and the best months for [[villa-de-leyva|Villa de Leyva]] and [[cano-cristales|Caño Cristales]] (from late June).",
+        "September to November is the wettest period in much of the country."
+      ],
+      "note": "The Caribbean coast is hot year-round, and Bogotá is cool year-round."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Colombia is good value. A restaurant meal costs US$5–15, a mid-range hotel US$50–100, and an internal flight US$40–100.",
+        "Cards are accepted in cities. Carry cash for small towns and colectivos.",
+        "Safety takes common sense. Use ride-hailing apps, avoid displaying valuables, and never leave drinks unattended.",
+        "Check current government advice for remote regions and border areas."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: Bogotá and Cartagena",
+          "text": "Three nights in [[bogota|Bogotá]] with a day at [[villa-de-leyva|Villa de Leyva]], then four in [[cartagena|Cartagena]].",
+          "tip": "Fly between them, about 1.5 hours."
+        },
+        {
+          "title": "Ten days: adding coffee country",
+          "text": "Three nights in Bogotá, three in [[medellin|Medellín]] with [[guatape|Guatapé]], and three in [[salento-cocora|Salento]].",
+          "tip": "Fly from Medellín to Pereira."
+        },
+        {
+          "title": "Two weeks: the classic",
+          "text": "The itinerary on the country page: Bogotá, Villa de Leyva, Medellín, Guatapé, the Coffee Region, Cartagena and [[tayrona-santa-marta|Tayrona]].",
+          "tip": "Swap Tayrona for [[san-andres|San Andrés]] if you prefer a Caribbean island."
+        }
+      ]
+    }
+  ]
+}

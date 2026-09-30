@@ -1,0 +1,331 @@
+{
+  "slug": "melbourne",
+  "name": "Melbourne",
+  "country": "australia",
+  "region": "Victoria, south-east Australia",
+  "categories": ["major-city", "cultural", "food-and-wine", "historic"],
+  "tagline": "Australia's cultural capital: laneways of street art and espresso bars, Victorian arcades, trams, sport and a food scene that many argue is the best in the country.",
+  "highlight": "Wandering the laneways with a flat white in hand, from Hosier Lane's murals to the hidden cafés behind Flinders Street.",
+  "shortDescription": "A sophisticated city of coffee culture, street art, grand Victorian architecture, galleries, markets and sport, with day trips to the Yarra Valley, Phillip Island and the Great Ocean Road.",
+  "metaDescription": "A Melbourne travel guide: the laneways and street art, Flinders Street Station, Queen Victoria Market, Federation Square, the MCG, coffee and food, trams, where to stay and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Melbourne Tullamarine (MEL), about 25 minutes",
+  "knownFor": "Laneways, coffee, street art, trams, sport, food",
+  "budget": "A$220–400 per day, mid-range",
+  "goodFor": "Food, coffee, art, shopping, sport, day trips",
+  "coords": { "lat": -37.8136, "lng": 144.9631 },
+  "image": {
+    "file": "File:Melbourne (AU), Flinders Street Railway Station -- 2019 -- 1583.jpg",
+    "alt": "The yellow façade of Flinders Street Railway Station in Melbourne"
+  },
+  "intro": [
+    "Melbourne grew rich on the gold rush of the 1850s, and became the largest and wealthiest city in Australia for a time, with grand Victorian buildings, arcades and boulevards. It served as the national capital from 1901 to 1927, and it has kept an air of elegance and confidence, with tree-lined streets, trams and a strong arts culture.",
+    "It is the city of laneways. Behind the grid of the CBD, narrow alleys such as Hosier Lane, Degraves Street and Centre Place are lined with street art, cafés, bars and tiny shops. Melbourne's coffee scene is famous, its restaurants range from Greek and Italian to Vietnamese and modern Australian, and its festivals, from the Australian Open tennis in January to the Melbourne Cup horse race in November, are big events.",
+    "The weather is famously changeable, and locals say you can experience four seasons in a day. But there is plenty to do in any weather, from galleries and markets to a game of Australian Rules football at the Melbourne Cricket Ground. It is a good base for day trips, particularly the Great Ocean Road."
+  ],
+  "whyVisit": {
+    "intro": "Melbourne is the best city in Australia for culture, coffee and eating.",
+    "points": [
+      {
+        "title": "Laneways and street art",
+        "text": "A maze of alleys with murals, bars and cafés that change constantly."
+      },
+      {
+        "title": "Coffee and food",
+        "text": "A café culture that rivals Italy's, and superb Greek, Italian, Vietnamese and modern Australian food."
+      },
+      {
+        "title": "Victorian architecture",
+        "text": "Flinders Street Station, the Royal Exhibition Building and grand arcades."
+      },
+      {
+        "title": "Sport and events",
+        "text": "The MCG, the Australian Open, the Melbourne Cup and Grand Prix."
+      },
+      {
+        "title": "Day trips",
+        "text": "The Great Ocean Road, Yarra Valley wine and Phillip Island's penguins."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are in and around the central grid, connected by trams.",
+  "attractions": [
+    {
+      "name": "The laneways and Hosier Lane",
+      "image": {
+        "file": "File:Hosier Lane Street Art Melbourne.jpg",
+        "alt": "Colourful street art covering the walls of Hosier Lane in Melbourne"
+      },
+      "text": "The heart of the city's street art scene, with constantly changing murals and stencils. Nearby laneways such as Degraves Street and Centre Place have cafés and bars.",
+      "tip": "Explore in the morning, when it is quiet."
+    },
+    {
+      "name": "Federation Square",
+      "image": {
+        "file": "File:Fed Square, Melbourne, north view 20230219 1.jpg",
+        "alt": "The angular buildings and paved plaza of Federation Square in Melbourne"
+      },
+      "text": "The city's civic centre, opposite Flinders Street Station, with the Ian Potter Centre for Australian art, the Australian Centre for the Moving Image and events.",
+      "tip": "Walk across to the Yarra River."
+    },
+    {
+      "name": "Queen Victoria Market",
+      "image": {
+        "file": "File:Melbourne (AU), Queen Victoria Market -- 2019 -- 1545.jpg",
+        "alt": "Stalls and canopies at the Queen Victoria Market in Melbourne"
+      },
+      "text": "A huge open-air market dating from 1878, with fresh produce, delicatessens, souvenirs and street food. The night market runs on summer Wednesdays.",
+      "tip": "Check opening days, as it is closed on Mondays and Wednesdays."
+    },
+    {
+      "name": "The Royal Exhibition Building",
+      "image": {
+        "file": "File:Royal Exhibition Building, Melbourne, northwest view 20230219 1.jpg",
+        "alt": "The domed Royal Exhibition Building in the Carlton Gardens in Melbourne"
+      },
+      "text": "A Victorian exhibition hall built in 1880, set in the Carlton Gardens, and inscribed by UNESCO in 2004 as the first building in Australia to get World Heritage listing.",
+      "tip": "Combine with the Melbourne Museum next door."
+    },
+    {
+      "name": "The Melbourne Cricket Ground",
+      "image": {
+        "file": "File:Melbourne Cricket Ground, Melbourne, Victoria.jpg",
+        "alt": "The Melbourne Cricket Ground, the huge sports stadium in Melbourne"
+      },
+      "text": "The 'MCG', one of the world's great stadiums, with a capacity of about 100,000. It hosts Australian Rules football and cricket, and tours run on non-event days.",
+      "tip": "Try to see an AFL game in season."
+    },
+    {
+      "name": "The National Gallery of Victoria",
+      "text": "Australia's oldest and most visited art museum, with international and Australian collections.",
+      "tip": "Free entry to the main collection."
+    }
+  ],
+  "thingsToDoIntro": "Melbourne rewards wandering, eating and picking up the local rhythm.",
+  "thingsToDo": [
+    {
+      "title": "Ride a tram",
+      "text": "The city's trams are part of its character, and the free city circle tram runs past many sights.",
+      "tip": "Use a myki card or contactless payment."
+    },
+    {
+      "title": "Have coffee in a laneway",
+      "text": "Sit in a tiny café and try a flat white or a long black.",
+      "tip": "Try Degraves Street and Centre Place."
+    },
+    {
+      "title": "See an AFL game",
+      "text": "Australian Rules football is a passion, and a match at the MCG is an unforgettable experience.",
+      "tip": "Book ahead for major games."
+    },
+    {
+      "title": "Take a street art tour",
+      "text": "Guided walks explain the murals and the artists.",
+      "tip": "Book a morning tour."
+    },
+    {
+      "title": "Visit the Yarra Valley",
+      "text": "A day trip to wineries, cheese and chocolate producers, about an hour away.",
+      "tip": "Go with a driver or a tour."
+    },
+    {
+      "title": "See the Penguin Parade",
+      "text": "Little penguins come ashore at dusk at Phillip Island, about 1.5 hours away.",
+      "tip": "Book tickets in advance."
+    }
+  ],
+  "foodIntro": "Melbourne's dining is diverse, driven by immigration, with a cafe culture and excellent produce.",
+  "foods": [
+    {
+      "name": "Coffee",
+      "text": "Melbourne's espresso culture is famous, with flat whites, long blacks and magics.",
+      "whereToTry": "Laneway cafés across the CBD and suburbs."
+    },
+    {
+      "name": "Brunch",
+      "text": "Elaborate breakfast and lunch dishes of eggs, avocado, mushrooms and more.",
+      "whereToTry": "Fitzroy, Collingwood and South Yarra."
+    },
+    {
+      "name": "Greek and Italian food",
+      "text": "Melbourne has one of the largest Greek populations outside Greece, and long-established Italian restaurants on Lygon Street.",
+      "whereToTry": "Lonsdale Street and Lygon Street."
+    },
+    {
+      "name": "Vietnamese food",
+      "text": "Pho, banh mi and rice paper rolls in Richmond and Footscray.",
+      "whereToTry": "Victoria Street, Richmond."
+    },
+    {
+      "name": "Dim sum and Chinese food",
+      "text": "Melbourne's Chinatown is the oldest in Australia.",
+      "whereToTry": "Little Bourke Street."
+    },
+    {
+      "name": "Victorian wine and cheese",
+      "text": "Pinot noir, chardonnay and local cheeses from the nearby valleys.",
+      "whereToTry": "Bars and markets."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the CBD or one of the inner suburbs, which are all connected by tram.",
+    "areas": [
+      {
+        "name": "The CBD and Southbank",
+        "bestFor": "Sights and transport",
+        "text": "Hotels close to the laneways, Federation Square and the river."
+      },
+      {
+        "name": "Fitzroy and Carlton",
+        "bestFor": "Cafés and nightlife",
+        "text": "Boutique hotels and apartments, north of the CBD."
+      },
+      {
+        "name": "St Kilda",
+        "bestFor": "The beach",
+        "text": "A seaside suburb with a pier and penguins."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel or hotel", "value": "A$70–150 per night" },
+      { "label": "Mid-range hotel", "value": "A$200–350 per night" },
+      { "label": "Luxury hotel", "value": "A$400–800 per night" },
+      { "label": "Meal at a mid-range restaurant", "value": "A$35–65 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Melbourne is Australia's second international gateway.",
+    "options": [
+      {
+        "mode": "Flight to Melbourne (MEL)",
+        "text": "Direct flights from Asia, Oceania and via hubs from Europe and North America.",
+        "detail": "SkyBus takes about 25 minutes to the city."
+      },
+      {
+        "mode": "Flight from Sydney",
+        "text": "About 1 hour 30 minutes, one of the busiest routes in the world.",
+        "detail": "Frequent departures."
+      },
+      {
+        "mode": "Ferry from Tasmania",
+        "text": "An overnight ferry runs from Melbourne to Devonport in Tasmania.",
+        "detail": "Book ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Trams, trains and walking cover the city.",
+    "options": [
+      {
+        "mode": "Trams",
+        "text": "The largest tram network in the world, connecting the CBD and suburbs.",
+        "detail": "Pay with a myki card or contactless."
+      },
+      {
+        "mode": "Trains",
+        "text": "Suburban trains and regional services.",
+        "detail": "Use Flinders Street as a hub."
+      },
+      {
+        "mode": "Walking",
+        "text": "The CBD and laneways are walkable.",
+        "detail": "Check for road works."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Melbourne has a changeable temperate climate, with hot summers, mild autumns and springs, and cool winters.",
+    "seasons": [
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Mild, settled weather and the Comedy Festival."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "good",
+        "text": "Cold and grey, but cosy, with football season and fewer visitors."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Warmer, with the Melbourne Cup in early November."
+      },
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Warm to hot, with the Australian Open in January. Some days are extremely hot."
+      }
+    ],
+    "avoid": "Very hot days in January and February, and the busiest event weekends if you want quiet."
+  },
+  "itinerary": {
+    "title": "Three days in Melbourne",
+    "intro": "Laneways and landmarks, markets and sport, and a day out of town.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The centre",
+        "summary": "Laneways and architecture.",
+        "morning": "Flinders Street Station and Federation Square.",
+        "afternoon": "The laneways and Hosier Lane.",
+        "evening": "Dinner in Chinatown."
+      },
+      {
+        "day": 2,
+        "title": "Markets and sport",
+        "summary": "Food and the MCG.",
+        "morning": "Queen Victoria Market.",
+        "afternoon": "The Royal Exhibition Building or the MCG.",
+        "evening": "Dinner in Fitzroy."
+      },
+      {
+        "day": 3,
+        "title": "Out of town",
+        "summary": "Wine or penguins.",
+        "morning": "The Yarra Valley or Phillip Island.",
+        "afternoon": "A winery or the beach.",
+        "evening": "Return to the city."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you enjoy Melbourne.",
+  "tips": [
+    "Use a myki card or contactless payment for trams and trains.",
+    "Carry layers and an umbrella. The weather changes quickly.",
+    "Book popular restaurants in advance.",
+    "Explore the laneways in the morning, when they are quiet.",
+    "Take the free City Circle tram for an easy tour.",
+    "Book AFL and event tickets early.",
+    "Allow a full day for the Great Ocean Road."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Melbourne?",
+      "a": "Three days for the city, and a fourth for the Great Ocean Road or a wine valley."
+    },
+    {
+      "q": "Melbourne or Sydney?",
+      "a": "Sydney has the harbour and beaches, and Melbourne has coffee, food and culture. Many visitors do both."
+    },
+    {
+      "q": "What is the weather like?",
+      "a": "Changeable. Bring layers at any time of year."
+    },
+    {
+      "q": "Can I see the Great Ocean Road in a day?",
+      "a": "It is possible on a long tour, about 12 hours. An overnight stay is much better."
+    },
+    {
+      "q": "Is Melbourne safe?",
+      "a": "Yes, with normal precautions, particularly at night in the CBD."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "March to May and September to November."
+    }
+  ],
+  "related": ["great-ocean-road", "sydney", "tasmania"],
+  "relatedArticles": ["food-primer", "week-cost-five-countries"]
+}

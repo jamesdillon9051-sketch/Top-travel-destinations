@@ -1,0 +1,323 @@
+{
+  "slug": "salvador",
+  "name": "Salvador",
+  "shortName": "Salvador da Bahia",
+  "country": "brazil",
+  "region": "Bahia, north-east Brazil",
+  "categories": ["historic", "unesco", "cultural", "coastal"],
+  "tagline": "Brazil's first capital and the heart of Afro-Brazilian culture: pastel colonial streets, gilded baroque churches, drumming in the squares and a cuisine of palm oil, coconut and chilli.",
+  "highlight": "Night falling over the Pelourinho, with drums echoing off the pastel facades and baianas selling acarajé.",
+  "shortDescription": "A UNESCO-listed colonial city on a bay, with the Pelourinho, the Elevador Lacerda, Afro-Brazilian traditions, capoeira, candomblé, beaches and unique Bahian food.",
+  "metaDescription": "A Salvador da Bahia travel guide: the Pelourinho, São Francisco church, Elevador Lacerda, Bahian food, capoeira, candomblé, beaches, Carnival, safety and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Salvador Luís Eduardo Magalhães (SSA), about 30–40 minutes",
+  "knownFor": "The Pelourinho, Afro-Brazilian culture, acarajé, capoeira, Carnival",
+  "budget": "US$70–150 per day, mid-range",
+  "goodFor": "History, food, music, culture, beaches",
+  "coords": { "lat": -12.9714, "lng": -38.5014 },
+  "image": {
+    "file": "File:Largo do Pelourinho Salvador 2019-9754 (cropped).jpg",
+    "alt": "Colourful colonial buildings on the Largo do Pelourinho in Salvador"
+  },
+  "intro": [
+    "Salvador was founded in 1549 as the first capital of Portuguese Brazil, and served as the colony's capital until 1763. It became one of the greatest slave ports in the Americas, with millions of Africans brought here to work on sugar plantations, and their legacy shaped the city's culture. Today, it is the most African city in Brazil, and its music, religion, food and dance reflect that heritage.",
+    "The historic centre, the Pelourinho, is one of the finest colonial ensembles in Latin America, and UNESCO listed it in 1985. Pastel-coloured mansions and baroque churches line cobbled squares and steep lanes, with the gilded interior of the Church of São Francisco as a highlight. The city is divided by a cliff into an Upper City and a Lower City, linked by the Elevador Lacerda, an Art Deco lift from the 1930s.",
+    "Salvador is also a city of beaches, of a huge bay, of Carnival, and of candomblé. Drummers play in the squares, capoeira groups practise in the streets, and baianas in white dresses sell acarajé. It is a warm, vibrant, welcoming place, though visitors should take care in the historic centre at night."
+  ],
+  "whyVisit": {
+    "intro": "Salvador shows the African soul of Brazil, and is one of the most culturally rich cities in the country.",
+    "points": [
+      {
+        "title": "A colonial masterpiece",
+        "text": "The Pelourinho has baroque churches and pastel colonial houses, with a lively atmosphere."
+      },
+      {
+        "title": "Afro-Brazilian culture",
+        "text": "Candomblé, capoeira, drumming and dance."
+      },
+      {
+        "title": "Bahian food",
+        "text": "Acarajé, moqueca, vatapá and other dishes cooked with palm oil and coconut milk."
+      },
+      {
+        "title": "Beaches and the bay",
+        "text": "City beaches, islands and the Bay of All Saints."
+      },
+      {
+        "title": "Carnival",
+        "text": "One of Brazil's largest, with electric trucks and street parties."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights are in the Pelourinho and the Upper City, with beaches and forts along the coast.",
+  "attractions": [
+    {
+      "name": "The Pelourinho",
+      "text": "The historic centre, with cobbled squares, pastel houses, museums and churches. The name refers to the pillory in the square where enslaved people were once whipped.",
+      "tip": "Visit in daylight, and stay with the crowds in the evening."
+    },
+    {
+      "name": "The Church and Convent of São Francisco",
+      "image": {
+        "file": "File:Igreja da Ordem Terceira de São Francisco Salvador 20211016-9375.jpg",
+        "alt": "The ornate baroque facade of the Third Order of São Francisco church in Salvador"
+      },
+      "text": "A baroque church with an interior of carved wood covered in gold leaf, and a cloister decorated with blue and white Portuguese tiles.",
+      "tip": "Photography is often restricted."
+    },
+    {
+      "name": "Elevador Lacerda",
+      "image": {
+        "file": "File:Elevador Lacerda Salvador Bahia Outubro Rosa 2021-1851.jpg",
+        "alt": "The Art Deco Lacerda Elevator tower connecting Salvador's upper and lower cities"
+      },
+      "text": "An Art Deco lift that carries passengers between the Upper City and Lower City, with views of the Bay of All Saints.",
+      "tip": "The ride takes about 30 seconds and costs very little."
+    },
+    {
+      "name": "Mercado Modelo",
+      "text": "A handicrafts market in the Lower City, with souvenirs, Bahian art and food stalls.",
+      "tip": "Bargain, and watch your belongings."
+    },
+    {
+      "name": "Farol da Barra",
+      "text": "A 17th-century fort and lighthouse at the entrance to the bay, with a museum and one of the city's best sunset spots.",
+      "tip": "Go at sunset."
+    },
+    {
+      "name": "Bonfim Church",
+      "text": "A pilgrimage church known for the coloured ribbons tied to its railings for luck, the fitas do Bonfim.",
+      "tip": "Take a ribbon home."
+    }
+  ],
+  "thingsToDoIntro": "Salvador is about culture, food and time by the sea.",
+  "thingsToDo": [
+    {
+      "title": "Watch capoeira",
+      "image": {
+        "file": "File:Arena da Capoeira - Salvador - 20250721150853.jpg",
+        "alt": "Capoeira performers in a circle in Salvador"
+      },
+      "text": "The Afro-Brazilian martial art and dance is practised in squares and academies.",
+      "tip": "Tip performers if you take photographs."
+    },
+    {
+      "title": "Try acarajé from a baiana",
+      "text": "Deep-fried black-eyed pea fritters filled with shrimp and sauces, sold by women in traditional white dress.",
+      "tip": "Ask for it with everything."
+    },
+    {
+      "title": "Listen to live music",
+      "text": "Percussion groups, samba de roda and pagode play in the Pelourinho and bars.",
+      "tip": "Tuesday nights are busy in the Pelourinho."
+    },
+    {
+      "title": "Visit a candomblé house",
+      "text": "Afro-Brazilian religious ceremonies are open to visitors in some terreiros, with respect.",
+      "tip": "Go with a knowledgeable guide."
+    },
+    {
+      "title": "Take a boat to the islands",
+      "text": "Day trips to Itaparica, Morro de São Paulo or the Bay of All Saints.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Relax at the beach",
+      "text": "City beaches such as Porto da Barra and beaches north of the centre.",
+      "tip": "Keep valuables safe."
+    }
+  ],
+  "foodIntro": "Bahian cooking is the most African cuisine in Brazil, based on palm oil (dendê), coconut milk, shrimp, peppers and coriander.",
+  "foods": [
+    {
+      "name": "Acarajé",
+      "image": {
+        "file": "File:Baiana-acarajé-Salvador.jpg",
+        "alt": "A baiana in traditional white dress selling acarajé in Salvador"
+      },
+      "text": "Fritters of black-eyed peas fried in palm oil, filled with vatapá, caruru and shrimp. The baianas who sell them are recognised as cultural heritage.",
+      "whereToTry": "Street stalls in the Pelourinho and Rio Vermelho."
+    },
+    {
+      "name": "Moqueca baiana",
+      "text": "A fish or shrimp stew cooked in coconut milk and palm oil in a clay pot.",
+      "whereToTry": "Restaurants along the coast."
+    },
+    {
+      "name": "Vatapá and caruru",
+      "text": "Rich, creamy sauces of bread, shrimp, peanuts, palm oil and okra, eaten with rice.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Bobó de camarão",
+      "text": "Shrimp in a creamy cassava purée with coconut milk.",
+      "whereToTry": "Bahian restaurants."
+    },
+    {
+      "name": "Tropical fruit and cachaça",
+      "text": "Fresh juices from local fruit and a range of flavoured cachaças.",
+      "whereToTry": "Markets and bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the Pelourinho for atmosphere, or in Barra and Rio Vermelho for beaches and restaurants.",
+    "areas": [
+      {
+        "name": "Pelourinho and Santo Antônio",
+        "bestFor": "History and atmosphere",
+        "text": "Guesthouses and boutique hotels in colonial houses."
+      },
+      {
+        "name": "Barra",
+        "bestFor": "Beaches and safety",
+        "text": "Hotels and apartments near the sea."
+      },
+      {
+        "name": "Rio Vermelho",
+        "bestFor": "Nightlife and food",
+        "text": "A bohemian neighbourhood of bars and restaurants."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel or hotel", "value": "US$20–55 per night" },
+      { "label": "Mid-range hotel", "value": "US$70–150 per night" },
+      { "label": "Luxury hotel", "value": "US$180–400 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$7–18 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Salvador is about 1,200 km north-east of Rio.",
+    "options": [
+      {
+        "mode": "Flight to Salvador (SSA)",
+        "text": "Direct flights from Rio (about 2 hours 30 minutes), São Paulo and other cities, and some from Europe and Africa.",
+        "detail": "The airport is 30–40 minutes from the centre."
+      },
+      {
+        "mode": "Bus",
+        "text": "Long-distance buses run from Recife, Aracaju and other cities.",
+        "detail": "Fly for long distances."
+      },
+      {
+        "mode": "From the islands",
+        "text": "Ferries from Itaparica and Morro de São Paulo arrive at the Lower City.",
+        "detail": "Check schedules."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The Upper and Lower Cities are linked by lifts and streets, and ride-hailing is best for beaches.",
+    "options": [
+      {
+        "mode": "Elevador Lacerda and Plano Inclinado",
+        "text": "Lifts and funiculars link the Upper and Lower Cities.",
+        "detail": "Cheap and quick."
+      },
+      {
+        "mode": "Uber and app taxis",
+        "text": "The best way to move, especially at night.",
+        "detail": "Use the app."
+      },
+      {
+        "mode": "Walking",
+        "text": "The Pelourinho is walkable, with steep cobbles.",
+        "detail": "Wear good shoes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "September–March",
+    "summary": "Salvador is tropical and warm year-round, with a rainy season from April to July.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Hot, humid and busy, with Carnival."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "quiet",
+        "text": "Warm, with the start of the rains."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "quiet",
+        "text": "Mild and rainy, with June festivals."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Warm, sunny and drier."
+      }
+    ],
+    "avoid": "Carnival week if you want quiet, and April to July for heavy rain."
+  },
+  "itinerary": {
+    "title": "Three days in Salvador",
+    "intro": "The historic centre, then culture, then the sea.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Pelourinho",
+        "summary": "Churches and squares.",
+        "morning": "The Pelourinho and São Francisco.",
+        "afternoon": "Elevador Lacerda and the Mercado Modelo.",
+        "evening": "Drumming and acarajé."
+      },
+      {
+        "day": 2,
+        "title": "Culture and food",
+        "summary": "Capoeira and Bahian cooking.",
+        "morning": "A capoeira class.",
+        "afternoon": "A cooking class.",
+        "evening": "Dinner in Rio Vermelho."
+      },
+      {
+        "day": 3,
+        "title": "The sea",
+        "summary": "Beach and bay.",
+        "morning": "Farol da Barra.",
+        "afternoon": "A beach and boat trip.",
+        "evening": "Sunset at Barra."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you enjoy Salvador safely.",
+  "tips": [
+    "Use the Pelourinho in the daytime, and take a taxi at night.",
+    "Keep valuables out of sight and avoid isolated streets.",
+    "Use Uber or 99 rather than walking between areas.",
+    "Ask before photographing baianas and street performers, and tip.",
+    "Book Carnival accommodation months ahead.",
+    "Try acarajé from a licensed baiana.",
+    "Respect candomblé and church rules about photography."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Salvador?",
+      "a": "Three days for the historic centre, food and beach."
+    },
+    {
+      "q": "Is Salvador safe?",
+      "a": "Tourist areas are policed, but petty crime is common. Use apps at night, and keep valuables hidden."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "September to March. April to July is rainy."
+    },
+    {
+      "q": "What is acarajé?",
+      "a": "A fritter of black-eyed peas fried in palm oil and filled with shrimp and sauces."
+    },
+    {
+      "q": "Is Salvador better than Rio?",
+      "a": "They are different. Salvador is more African and cultural, and Rio has more scenery."
+    },
+    {
+      "q": "Can I visit a candomblé ceremony?",
+      "a": "Some houses welcome visitors. Go with a guide and be respectful."
+    }
+  ],
+  "related": ["rio-de-janeiro", "lencois-maranhenses", "fernando-de-noronha"],
+  "relatedArticles": ["food-primer", "unesco-worth-planning-around"]
+}

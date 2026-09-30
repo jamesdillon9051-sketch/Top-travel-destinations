@@ -1,0 +1,315 @@
+{
+  "slug": "jaipur",
+  "name": "Jaipur",
+  "country": "india",
+  "region": "Rajasthan, northern India",
+  "categories": ["major-city", "unesco", "historic", "cultural"],
+  "tagline": "The Pink City of Rajasthan: a walled bazaar town of palaces and sandstone façades, a hilltop fort above a lake and a great open-air observatory.",
+  "highlight": "Amber Fort in the early morning, before the crowds and the heat.",
+  "shortDescription": "The capital of Rajasthan, a UNESCO-listed walled city with the Hawa Mahal, City Palace, Jantar Mantar and Amber Fort, and India's best craft shopping.",
+  "metaDescription": "A Jaipur travel guide: Amber Fort, the Hawa Mahal, City Palace, Jantar Mantar, the Pink City bazaars, block printing, food, when to go and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Jaipur International (JAI), about 30 minutes",
+  "knownFor": "Amber Fort, the Hawa Mahal, City Palace, bazaars, textiles and jewellery",
+  "budget": "US$55–130 per day, mid-range",
+  "goodFor": "Palaces and forts, shopping, crafts, food, a Golden Triangle stop",
+  "coords": { "lat": 26.9124, "lng": 75.7873 },
+  "image": {
+    "file": "File:East facade Hawa Mahal Jaipur from ground level (July 2022) - img 01.jpg",
+    "alt": "The pink sandstone honeycomb façade of the Hawa Mahal in Jaipur"
+  },
+  "intro": [
+    "Jaipur was founded in 1727 by Maharaja Sawai Jai Singh II of the Kachwaha Rajput dynasty, who moved his capital down from the hilltop fort at Amber to a new planned city on the plain. It was laid out on a grid, with wide streets and organised bazaars, and its buildings were painted terracotta pink in 1876, traditionally for the visit of the Prince of Wales, which gave it the name Pink City. UNESCO inscribed the walled city in 2019.",
+    "The city's palaces, forts and observatory reflect the taste and science of its rulers. The City Palace is still partly the residence of the royal family, the Jantar Mantar is an 18th-century observatory of giant astronomical instruments, and the Hawa Mahal, with its many small windows, is the emblem of the city. Above the city on the ridge are Amber, Jaigarh and Nahargarh forts.",
+    "Jaipur is also a working city, with busy bazaars selling textiles, jewellery, gems, leather and pottery, and it is one of the best places in India to shop for crafts. It is hot in summer and crowded in winter, but its energy and colour make it a highlight of Rajasthan."
+  ],
+  "whyVisit": {
+    "intro": "Jaipur is the quintessential Rajasthani city, with monuments, markets and food in a compact area.",
+    "points": [
+      {
+        "title": "Fortress and palaces",
+        "text": "Amber Fort, the City Palace and the Hawa Mahal are among the best sights in Rajasthan."
+      },
+      {
+        "title": "A working observatory",
+        "text": "Jantar Mantar's giant instruments still measure time and celestial positions, and are UNESCO-listed."
+      },
+      {
+        "title": "Crafts and shopping",
+        "text": "Block-printed textiles, blue pottery, gemstones, silver jewellery and leather goods."
+      },
+      {
+        "title": "Rajasthani cooking",
+        "text": "Dal baati churma, laal maas, pyaaz kachori and sweet ghewar."
+      },
+      {
+        "title": "An easy base",
+        "text": "It connects Delhi and Agra with Udaipur, Jodhpur and the desert."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights are spread between the old walled city and the ridge to the north, and two days covers them.",
+  "attractions": [
+    {
+      "name": "Amber Fort",
+      "image": {
+        "file": "File:Amber Fort-Jaipur-India0016.JPG",
+        "alt": "The sandstone ramparts and gateways of Amber Fort above the lake"
+      },
+      "text": "A fort-palace on a hill 11 km from the city, built in the 16th century by Raja Man Singh and expanded by later rulers, with mirror-studded halls, painted gateways and terraces above Maota Lake. It is the finest fort in Rajasthan.",
+      "tip": "Go at opening time, and walk up rather than take an elephant."
+    },
+    {
+      "name": "The Hawa Mahal",
+      "text": "The Palace of Winds, built in 1799, a five-storey façade of 953 small windows that let royal women watch street life unseen. It is best seen from the street opposite in the morning.",
+      "tip": "The view from the café across the street is the classic one."
+    },
+    {
+      "name": "The City Palace",
+      "image": {
+        "file": "File:Chandra Mahal, City Palace, Jaipur, 20191218 0955 9051.jpg",
+        "alt": "The Chandra Mahal in the City Palace complex in Jaipur"
+      },
+      "text": "A complex of courtyards, pavilions and gates in a blend of Rajput and Mughal styles, partly a museum and partly the home of the royal family. Its four gates are decorated with peacocks and seasons.",
+      "tip": "See the Pitam Niwas Chowk gates in the courtyard."
+    },
+    {
+      "name": "Jantar Mantar",
+      "image": {
+        "file": "File:20191218 Jantar Mantar, Jaipur 0906 8983 DxO.jpg",
+        "alt": "The giant stone instruments of Jantar Mantar observatory in Jaipur"
+      },
+      "text": "An open-air observatory built in the 1730s by Jai Singh II, with 19 astronomical instruments, including the world's largest stone sundial, which can measure time to within seconds.",
+      "tip": "Hire a guide to see how the instruments work."
+    },
+    {
+      "name": "Nahargarh and Jaigarh Forts",
+      "text": "Hilltop forts above the city with sweeping views, particularly at sunset. Jaigarh holds a giant cannon.",
+      "tip": "Go by taxi, and stay for sunset."
+    },
+    {
+      "name": "The bazaars",
+      "text": "Johari Bazaar for jewellery, Bapu Bazaar for textiles and shoes and Tripolia Bazaar for lacquer and metal, all in the walled city.",
+      "tip": "Bargain, and keep an eye on your belongings."
+    }
+  ],
+  "thingsToDoIntro": "Jaipur combines sightseeing with shopping and food, and a few workshops are worth seeing.",
+  "thingsToDo": [
+    {
+      "title": "Explore Amber Fort early",
+      "text": "See the Sheesh Mahal's mirrored ceiling and the views of the lake, ideally at opening time.",
+      "tip": "Buy tickets online."
+    },
+    {
+      "title": "Watch block printing",
+      "text": "Workshops at Sanganer and Bagru print cotton with hand-carved wooden blocks and natural dyes.",
+      "tip": "Try printing a scarf yourself."
+    },
+    {
+      "title": "Shop for gems and jewellery",
+      "text": "Jaipur is a global centre for gemstone cutting, but buy only from reputable shops.",
+      "tip": "Ask for a certificate and compare prices."
+    },
+    {
+      "title": "See blue pottery",
+      "text": "A distinctive local ceramic with cobalt and turquoise glazes.",
+      "tip": "Buy from a workshop with fixed prices."
+    },
+    {
+      "title": "Take a cooking class",
+      "text": "Learn to make Rajasthani dishes in a family kitchen.",
+      "tip": "Book through your hotel."
+    },
+    {
+      "title": "Have dinner on a rooftop",
+      "text": "Terrace restaurants look over the lit-up Hawa Mahal and City Palace.",
+      "tip": "Book a table for sunset."
+    }
+  ],
+  "foodIntro": "Rajasthani food is hearty, spicy and designed for a hot, dry climate.",
+  "foods": [
+    {
+      "name": "Dal baati churma",
+      "text": "Baked wheat balls served with lentils and a sweet, crumbly wheat mixture, and the state's signature dish.",
+      "whereToTry": "Traditional restaurants in the old city."
+    },
+    {
+      "name": "Laal maas",
+      "text": "A fiery mutton curry made with red chillies, from Rajasthan's warrior tradition.",
+      "whereToTry": "Restaurants serving Rajasthani thalis."
+    },
+    {
+      "name": "Pyaaz kachori",
+      "text": "A crisp, flaky pastry stuffed with spiced onion, a popular street snack.",
+      "whereToTry": "Street stalls and sweet shops."
+    },
+    {
+      "name": "Ghewar",
+      "text": "A honeycomb-shaped sweet soaked in syrup, made for Teej and Raksha Bandhan festivals.",
+      "whereToTry": "Sweet shops in monsoon season."
+    },
+    {
+      "name": "Lassi",
+      "text": "Thick, cool yoghurt drink served in clay cups.",
+      "whereToTry": "Famous lassi shops on MI Road."
+    },
+    {
+      "name": "Rajasthani thali",
+      "text": "A full platter of Rajasthani dishes.",
+      "whereToTry": "Family restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Jaipur has a good range of heritage hotels and guesthouses, particularly in the old city and the neighbourhoods just outside it.",
+    "areas": [
+      {
+        "name": "The Pink City",
+        "bestFor": "Walking to the bazaars",
+        "text": "Havelis and small hotels within the old city walls."
+      },
+      {
+        "name": "C-Scheme and Bani Park",
+        "bestFor": "Quiet and good restaurants",
+        "text": "Residential areas with guesthouses and boutique hotels."
+      },
+      {
+        "name": "Outskirts and Amber",
+        "bestFor": "Palace stays",
+        "text": "Larger heritage hotels with gardens."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "US$15–40 per night" },
+      { "label": "Mid-range hotel", "value": "US$50–120 per night" },
+      { "label": "Heritage or luxury hotel", "value": "US$180–500 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$5–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Jaipur is about 280 km from Delhi and 240 km from Agra.",
+    "options": [
+      {
+        "mode": "Train from Delhi",
+        "text": "About 4 to 5 hours on fast trains such as the Shatabdi or Vande Bharat.",
+        "detail": "Book through IRCTC."
+      },
+      {
+        "mode": "Road from Agra or Delhi",
+        "text": "About 4 to 5 hours from Agra, and about 5 hours from Delhi.",
+        "detail": "A private car allows a stop at Fatehpur Sikri."
+      },
+      {
+        "mode": "Flight",
+        "text": "Direct flights from Delhi, Mumbai and other cities, and some international routes.",
+        "detail": "The airport is 30 minutes from the centre."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Sights are spread out, and a car or auto-rickshaw is the best way to reach them.",
+    "options": [
+      {
+        "mode": "Auto-rickshaws",
+        "text": "Cheap for short trips.",
+        "detail": "Agree the fare in advance."
+      },
+      {
+        "mode": "Taxi or driver",
+        "text": "A day hire covers Amber and the forts easily.",
+        "detail": "Ask your hotel to book."
+      },
+      {
+        "mode": "Cycle rickshaw",
+        "text": "Useful in the crowded bazaars.",
+        "detail": "Negotiate the price."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–March",
+    "summary": "Jaipur has hot summers, a short monsoon and pleasant, dry winters.",
+    "seasons": [
+      {
+        "season": "Winter (November–February)",
+        "rating": "best",
+        "text": "Warm days, cool nights and clear skies. Peak season."
+      },
+      {
+        "season": "Spring (March–April)",
+        "rating": "good",
+        "text": "Warm to hot, and Holi in March."
+      },
+      {
+        "season": "Summer (May–June)",
+        "rating": "avoid",
+        "text": "Very hot, often above 42°C."
+      },
+      {
+        "season": "Monsoon (July–September)",
+        "rating": "quiet",
+        "text": "Humid with showers, green hills and fewer visitors."
+      }
+    ],
+    "avoid": "May and June. The Jaipur Literature Festival in January or February brings crowds and higher prices."
+  },
+  "itinerary": {
+    "title": "Two days in Jaipur",
+    "intro": "The fort and the observatory on the first day, and the bazaars and workshops on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Fort and palace",
+        "summary": "Amber and the City Palace.",
+        "morning": "Amber Fort at opening time.",
+        "afternoon": "The City Palace and Jantar Mantar.",
+        "evening": "The Hawa Mahal at dusk, and dinner on a terrace."
+      },
+      {
+        "day": 2,
+        "title": "Bazaars and crafts",
+        "summary": "Shopping and tastes.",
+        "morning": "A block-printing workshop.",
+        "afternoon": "The bazaars of the old city.",
+        "evening": "Sunset at Nahargarh Fort."
+      }
+    ]
+  },
+  "tipsIntro": "Jaipur is a shopper's city, and a few tips help.",
+  "tips": [
+    "Go to Amber Fort early. It is hot and crowded by midday.",
+    "Avoid riding elephants at Amber, since welfare concerns are serious. Walk or take a jeep.",
+    "Be wary of drivers who steer you into shops for commissions.",
+    "Buy gems only from certified sellers, and be sceptical of bargains.",
+    "Buy a composite ticket that includes several monuments, if available.",
+    "Dress modestly in the bazaars.",
+    "Carry small notes for change."
+  ],
+  "faq": [
+    {
+      "q": "Why is Jaipur called the Pink City?",
+      "a": "The old city was painted terracotta pink in 1876, traditionally for a visit by the Prince of Wales. Pink is the colour of hospitality in Rajasthan."
+    },
+    {
+      "q": "How many days do you need in Jaipur?",
+      "a": "Two days for the main sights, and three if you want to shop and visit workshops."
+    },
+    {
+      "q": "Is it ethical to ride an elephant at Amber?",
+      "a": "Welfare concerns are widespread, and many visitors choose to walk up or take a jeep instead."
+    },
+    {
+      "q": "What is the best time to visit Jaipur?",
+      "a": "October to March. Summer is very hot."
+    },
+    {
+      "q": "Is Jaipur safe?",
+      "a": "Generally yes. The main problems are touts, scams and overcharging in the bazaars."
+    },
+    {
+      "q": "Can I visit Jaipur as a day trip from Delhi?",
+      "a": "It is a long day, and it is better to stay overnight."
+    }
+  ],
+  "related": ["udaipur", "agra", "delhi"],
+  "relatedArticles": ["underrated-destinations", "food-primer"]
+}

@@ -1,0 +1,302 @@
+{
+  "slug": "vigan",
+  "name": "Vigan",
+  "country": "philippines",
+  "region": "Ilocos Sur, northern Luzon",
+  "categories": ["historic", "unesco", "cultural"],
+  "tagline": "The best-preserved Spanish colonial town in Asia, a cobbled street of ancestral houses, horse-drawn calesas and empanada stalls.",
+  "highlight": "Riding a calesa along the cobbled Calle Crisologo lit by old-fashioned lamps at dusk.",
+  "shortDescription": "A UNESCO-listed Spanish colonial town with Calle Crisologo, ancestral houses, calesa rides, the cathedral, pottery, and Ilocano food including empanada and longganisa.",
+  "metaDescription": "A Vigan travel guide: Calle Crisologo, calesa rides, Vigan Cathedral, Plaza Salcedo, burnay pottery, empanada and longganisa, Ilocos day trips, how to get there, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Laoag (LAO), about 2 hours; Manila by bus about 8–9 hours",
+  "knownFor": "Colonial streets, calesas, Ilocano food",
+  "budget": "US$45–90 per day, budget to mid-range",
+  "goodFor": "History, photography, food, culture",
+  "coords": { "lat": 17.5747, "lng": 120.3869 },
+  "image": {
+    "file": "File:Vigan Calle Crisologo 1.jpg",
+    "alt": "The cobbled Calle Crisologo in Vigan lined with colonial houses"
+  },
+  "intro": [
+    "Vigan, on the north-west coast of Luzon, is the best-preserved example of a planned Spanish colonial town in Asia. It was established in the 16th century as a trading post, where Chinese, Filipino and Spanish cultures met, and its surviving grid of streets and mansions combines Philippine, Chinese and European building traditions. It is a UNESCO World Heritage Site, and in 2015 it was named one of the New 7 Wonders Cities.",
+    "The heart of the historic district is Calle Crisologo, a cobbled street lined with ancestral houses whose ground floors are stone or brick and whose upper floors are wooden with sliding capiz-shell windows. Horse-drawn calesas clatter along the street, and lamps light it in the evening. Traffic is closed at times. The nearby Plaza Salcedo, Vigan Cathedral and Plaza Burgos are the social heart.",
+    "Vigan is also a craft and food town. The Pagburnayan workshops produce large burnay clay jars, and the Ilocos region is famous for its empanadas, longganisa sausage and bagnet, crispy pork belly. A day trip can take in nearby Paoay Church and the sand dunes of Laoag. Two days is a good stay."
+  ],
+  "whyVisit": {
+    "intro": "Vigan is the best place in the Philippines to feel colonial history.",
+    "points": [
+      {
+        "title": "A preserved colonial street",
+        "text": "Calle Crisologo."
+      },
+      {
+        "title": "Calesa rides",
+        "text": "Horse-drawn carriages."
+      },
+      {
+        "title": "Ilocano food",
+        "text": "Empanada and longganisa."
+      },
+      {
+        "title": "Crafts",
+        "text": "Burnay pottery."
+      },
+      {
+        "title": "A UNESCO site",
+        "text": "Listed in 1999."
+      }
+    ]
+  },
+  "attractionsIntro": "The historic district is compact and walkable.",
+  "attractions": [
+    {
+      "name": "Calle Crisologo",
+      "image": {
+        "file": "File:Vigan heritage village Calle Crisologo-Gen Luna calesa (Vigan, Ilocos Sur; 11-14-2022).jpg",
+        "alt": "A horse-drawn calesa on the cobbled street of Calle Crisologo in Vigan"
+      },
+      "text": "The famous cobbled street of ancestral houses and shops, magical in the evening.",
+      "tip": "Go at dusk."
+    },
+    {
+      "name": "Vigan Cathedral",
+      "text": "A baroque cathedral of the 16th century, with a striking facade.",
+      "tip": "Visit in the morning."
+    },
+    {
+      "name": "Plaza Salcedo",
+      "text": "A park with a monument and a dancing fountain at night.",
+      "tip": "Go in the evening."
+    },
+    {
+      "name": "Pagburnayan",
+      "text": "Pottery workshops where burnay jars are made.",
+      "tip": "Try the potter's wheel."
+    },
+    {
+      "name": "Syquia Mansion",
+      "text": "A museum in the home of a president's family.",
+      "tip": "Allow an hour."
+    },
+    {
+      "name": "Baluarte Zoo",
+      "text": "A zoo with animals and a view.",
+      "tip": "Good for families."
+    }
+  ],
+  "thingsToDoIntro": "Vigan is for slow walks and food.",
+  "thingsToDo": [
+    {
+      "title": "Ride a calesa",
+      "text": "Along the cobbles.",
+      "tip": "Agree the price."
+    },
+    {
+      "title": "Eat Vigan empanada",
+      "text": "Crispy orange pastry.",
+      "tip": "Try at Plaza Burgos."
+    },
+    {
+      "title": "Watch the potters",
+      "text": "At Pagburnayan.",
+      "tip": "Buy a small jar."
+    },
+    {
+      "title": "Walk at night",
+      "text": "The street glows.",
+      "tip": "Go after 6 pm."
+    },
+    {
+      "title": "Day trip to Paoay",
+      "text": "A baroque church.",
+      "tip": "Hire a tricycle."
+    },
+    {
+      "title": "Sandboard at Laoag",
+      "text": "On the dunes.",
+      "tip": "Go with a tour."
+    }
+  ],
+  "foodIntro": "Ilocano food is meaty and bold.",
+  "foods": [
+    {
+      "name": "Vigan empanada",
+      "text": "Rice-flour pastry with papaya, egg and longganisa.",
+      "whereToTry": "Plaza Burgos stalls."
+    },
+    {
+      "name": "Vigan longganisa",
+      "text": "Garlicky sausage.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Bagnet",
+      "text": "Crispy fried pork belly.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Okoy",
+      "text": "Shrimp fritters.",
+      "whereToTry": "Street food."
+    },
+    {
+      "name": "Basi wine",
+      "text": "Sugar cane wine.",
+      "whereToTry": "Shops."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in a heritage house.",
+    "areas": [
+      {
+        "name": "Historic district",
+        "bestFor": "Atmosphere",
+        "text": "Heritage hotels."
+      },
+      {
+        "name": "Outside the centre",
+        "bestFor": "Budget",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Bantay",
+        "bestFor": "Quiet",
+        "text": "Small inns."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$15–30 per night" },
+      { "label": "Heritage hotel", "value": "US$50–120 per night" },
+      { "label": "Calesa ride", "value": "US$3–8" },
+      { "label": "Meal", "value": "US$3–8 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Vigan is about 400 km north of Manila.",
+    "options": [
+      {
+        "mode": "Bus from Manila",
+        "text": "About 8 to 10 hours.",
+        "detail": "Overnight buses."
+      },
+      {
+        "mode": "Flight to Laoag",
+        "text": "Then a 2-hour bus or van.",
+        "detail": "Flights from Manila."
+      },
+      {
+        "mode": "Car",
+        "text": "About 8 hours.",
+        "detail": "Scenic."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The district is walkable.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "In the centre.",
+        "detail": "Wear comfortable shoes."
+      },
+      {
+        "mode": "Calesa",
+        "text": "Horse-drawn carriage.",
+        "detail": "Fixed rates."
+      },
+      {
+        "mode": "Tricycle",
+        "text": "To other sites.",
+        "detail": "Cheap."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–April",
+    "summary": "Vigan is best in the dry season.",
+    "seasons": [
+      {
+        "season": "November–February",
+        "rating": "best",
+        "text": "Cool and dry."
+      },
+      {
+        "season": "March–May",
+        "rating": "good",
+        "text": "Hot."
+      },
+      {
+        "season": "June–August",
+        "rating": "quiet",
+        "text": "Rain."
+      },
+      {
+        "season": "September–October",
+        "rating": "avoid",
+        "text": "Typhoons."
+      }
+    ],
+    "avoid": "Typhoon season."
+  },
+  "itinerary": {
+    "title": "Two days in Vigan",
+    "intro": "The heritage district and crafts.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town",
+        "summary": "Streets.",
+        "morning": "Cathedral and Plaza Salcedo.",
+        "afternoon": "Syquia Mansion.",
+        "evening": "Calle Crisologo by calesa."
+      },
+      {
+        "day": 2,
+        "title": "Crafts and food",
+        "summary": "Pottery.",
+        "morning": "Pagburnayan.",
+        "afternoon": "Empanada and longganisa.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Go at dusk.",
+    "Agree calesa prices.",
+    "Try the empanada.",
+    "Wear comfy shoes.",
+    "Visit outside Holy Week.",
+    "Bring cash.",
+    "Book heritage stays."
+  ],
+  "faq": [
+    {
+      "q": "How many days in Vigan?",
+      "a": "Two."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "Overnight bus from Manila."
+    },
+    {
+      "q": "Is it a UNESCO site?",
+      "a": "Yes."
+    },
+    {
+      "q": "What is a calesa?",
+      "a": "A horse-drawn carriage."
+    },
+    {
+      "q": "When to go?",
+      "a": "November to April."
+    },
+    {
+      "q": "Is it touristy?",
+      "a": "Somewhat, but charming."
+    }
+  ],
+  "related": ["banaue-batad", "manila", "siargao"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

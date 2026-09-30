@@ -1,0 +1,329 @@
+{
+  "slug": "mexico-city",
+  "name": "Mexico City",
+  "country": "mexico",
+  "region": "Ciudad de México, central Mexico",
+  "categories": ["capital-city", "major-city", "unesco"],
+  "tagline": "An enormous high-altitude capital built on an Aztec island city, with world-class museums, Diego Rivera murals, floating gardens and some of the best food on Earth.",
+  "highlight": "The National Museum of Anthropology and, after it, a plate of tacos al pastor at midnight.",
+  "shortDescription": "One of the great cities of the world: Aztec ruins beside a baroque cathedral, Frida Kahlo's house, leafy Roma and Condesa, and a food scene that runs from street stalls to global fine dining.",
+  "metaDescription": "A Mexico City travel guide: the Zócalo and Templo Mayor, the Anthropology Museum, Frida Kahlo's Casa Azul, Xochimilco, Roma and Condesa, tacos and mezcal, where to stay, safety tips and a three-day plan.",
+  "suggestedStay": "4 days",
+  "nearestAirport": "Mexico City Benito Juárez (MEX), about 30 minutes",
+  "knownFor": "Museums, murals, street food, the historic centre, Frida Kahlo",
+  "budget": "US$90–170 per day, mid-range",
+  "goodFor": "Food, museums, art, architecture, a base for day trips",
+  "coords": { "lat": 19.4326, "lng": -99.1332 },
+  "image": {
+    "file": "File:Palacio de Bellas Artes, México D.F., México, 2013-10-13, DD 40.jpg",
+    "alt": "The white marble Palacio de Bellas Artes in the centre of Mexico City"
+  },
+  "intro": [
+    "Mexico City stands on the site of Tenochtitlán, the Aztec capital that Hernán Cortés reached in 1519 and largely destroyed two years later. The Spaniards built their capital on top, draining the lake it stood on, so that today the Templo Mayor's excavated ruins lie a few steps from the largest cathedral in the Americas. The city has about 22 million people in its metropolitan area, at an altitude of 2,240 metres.",
+    "It is a city of neighbourhoods rather than a single centre. The historic centre has palaces, murals and the Zócalo, one of the biggest public squares in the world. Roma and Condesa have Art Nouveau mansions, tree-lined streets, cafés and galleries; Coyoacán is a village-like district with Frida Kahlo's house; Polanco has the grand museums and restaurants; and Xochimilco has canals and painted boats.",
+    "It is also one of the world's great food cities. From the tacos al pastor stands of every corner to the tasting menus of Pujol, from the markets of La Merced to the coffee culture of Roma, eating is the organising principle of any visit. Mexico City rewards a long stay, and no short trip covers it all."
+  ],
+  "whyVisit": {
+    "intro": "Mexico City is the cultural heart of Mexico and one of the most stimulating cities in the world.",
+    "points": [
+      {
+        "title": "Museums of the first rank",
+        "text": "The National Museum of Anthropology, the Museo Soumaya, the Frida Kahlo Museum and the Palacio de Bellas Artes are only a start."
+      },
+      {
+        "title": "Layers of history",
+        "text": "Aztec temples, Spanish baroque churches, Art Nouveau mansions and modernist towers share the same blocks."
+      },
+      {
+        "title": "Murals",
+        "text": "Diego Rivera, David Alfaro Siqueiros and José Clemente Orozco painted the story of Mexico across the walls of public buildings."
+      },
+      {
+        "title": "The food",
+        "text": "Street tacos, tamales, mole, seafood, and one of the best restaurant scenes in Latin America."
+      },
+      {
+        "title": "A base for day trips",
+        "text": "Teotihuacán, Puebla, Cholula and Tepoztlán are all within two hours."
+      }
+    ]
+  },
+  "attractionsIntro": "The historic centre can be seen in a day on foot, and the museums and neighbourhoods need two or three more.",
+  "attractions": [
+    {
+      "name": "The Zócalo, the Cathedral and the Templo Mayor",
+      "image": {
+        "file": "File:Ruinas del Templo Mayor - Centro Histórico de Ciudad de México.jpg",
+        "alt": "The excavated ruins of the Aztec Templo Mayor in the historic centre of Mexico City"
+      },
+      "text": "The vast main square is flanked by the Metropolitan Cathedral and the National Palace. Beside them are the excavated ruins of the Templo Mayor, the Aztecs' main temple, and a museum of finds.",
+      "tip": "See the Diego Rivera murals in the National Palace's courtyard, which are free with ID."
+    },
+    {
+      "name": "The National Museum of Anthropology",
+      "text": "Perhaps the greatest museum in Latin America, in Chapultepec Park, with the Aztec Sun Stone, Maya jade masks and reconstructions of ancient tombs.",
+      "tip": "Allow at least four hours and start with the Aztec and Maya halls."
+    },
+    {
+      "name": "The Palacio de Bellas Artes",
+      "text": "An Art Nouveau and Art Deco marble opera house with murals by Rivera, Orozco and Siqueiros inside, and a stained-glass ceiling.",
+      "tip": "Visit the murals on the upper floors."
+    },
+    {
+      "name": "Coyoacán and the Frida Kahlo Museum",
+      "image": {
+        "file": "File:La Casa Azul (The Blue House), better known as the Frida Kahlo Museum, located in the Coyoacán neighborhood of Mexico City.jpg",
+        "alt": "The cobalt-blue walls of La Casa Azul, the Frida Kahlo Museum, in Coyoacán"
+      },
+      "text": "A cobbled, leafy district with markets and cafés. The blue house where Frida Kahlo was born and lived is now a museum of her paintings, clothes and belongings.",
+      "tip": "Book Casa Azul tickets online, days ahead."
+    },
+    {
+      "name": "Roma and Condesa",
+      "text": "Two neighbouring districts of Art Nouveau mansions, parks, bookshops, cafés and restaurants, and the centre of the city's modern food and design scene.",
+      "tip": "Walk Avenida Amsterdam and the Parque México in the afternoon."
+    },
+    {
+      "name": "Xochimilco",
+      "image": {
+        "file": "File:Trajineras en Xochimilco, CDMX.jpg",
+        "alt": "Colourful trajinera boats on the canals of Xochimilco"
+      },
+      "text": "The surviving canals and floating gardens of the Aztec lake system, plied by brightly painted trajinera boats with mariachi bands and food.",
+      "tip": "Go on a weekday and agree the hourly price first."
+    },
+    {
+      "name": "Chapultepec Castle",
+      "text": "A hilltop castle in the city's largest park, once home to an emperor and the presidents of Mexico, now the National History Museum with views over the city.",
+      "tip": "Combine with the Anthropology Museum."
+    }
+  ],
+  "thingsToDoIntro": "Mexico City is built for wandering, eating and staying up late.",
+  "thingsToDo": [
+    {
+      "title": "Eat tacos at night",
+      "text": "Taquerías stay open late and are the city's social heart. Try al pastor, suadero, campechano and tripe.",
+      "tip": "Pick a busy stand, and order two at a time."
+    },
+    {
+      "title": "Spend a day in the museums",
+      "text": "Chapultepec has the Anthropology Museum, the Modern Art Museum and the castle in one park.",
+      "tip": "Most museums close on Mondays."
+    },
+    {
+      "title": "Take a food tour",
+      "text": "Guides take you through markets and streets, explaining ingredients and dishes.",
+      "tip": "Go hungry."
+    },
+    {
+      "title": "Ride a trajinera at Xochimilco",
+      "text": "A slow boat trip with music and food, popular with families and groups on weekends.",
+      "tip": "Bring your own drinks and snacks, or buy from passing boats."
+    },
+    {
+      "title": "Go to a lucha libre match",
+      "text": "Masked wrestling at Arena México or Arena Coliseo is a raucous, theatrical evening.",
+      "tip": "Buy tickets in advance."
+    },
+    {
+      "title": "Visit a mercado",
+      "text": "Mercado de San Juan, La Merced and Coyoacán's market sell ingredients, prepared food and crafts.",
+      "tip": "Go before noon for the best food."
+    }
+  ],
+  "foodIntro": "Mexico City's food is a cross-section of the country, with regional dishes from every state as well as its own street classics.",
+  "foods": [
+    {
+      "name": "Tacos al pastor",
+      "text": "Marinated pork shaved from a spit into small tortillas with pineapple, onion and coriander.",
+      "whereToTry": "Taquerías all over the city, particularly in Condesa and the centre."
+    },
+    {
+      "name": "Tamales and atole",
+      "text": "Steamed corn dough wrapped in corn husks, filled with pork, chicken or sweet fillings, served with hot corn drink for breakfast.",
+      "whereToTry": "Street carts near metro stations in the morning."
+    },
+    {
+      "name": "Tlacoyos and quesadillas",
+      "text": "Oval masa cakes filled with beans or cheese and topped with nopales, and folded tortillas with fillings like huitlacoche and squash flowers.",
+      "whereToTry": "Markets and street stalls."
+    },
+    {
+      "name": "Pozole and birria",
+      "text": "Hominy soup and spiced meat stew, served with garnishes and lime.",
+      "whereToTry": "Fondas and family restaurants."
+    },
+    {
+      "name": "Chocolate and churros",
+      "text": "Thick hot chocolate and fried dough, served in old cafés such as the Churrería El Moro.",
+      "whereToTry": "Churrerías in the centre."
+    },
+    {
+      "name": "Mezcal and pulque",
+      "text": "Mezcal bars are everywhere, and pulque, a fermented agave drink, is served in traditional pulquerías.",
+      "whereToTry": "Bars in Roma, Condesa and the centre."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose Roma or Condesa for walkability and restaurants, the historic centre for sights, or Polanco for luxury.",
+    "areas": [
+      {
+        "name": "Roma and Condesa",
+        "bestFor": "Restaurants, cafés and walking",
+        "text": "Boutique hotels and apartments on tree-lined streets, with the best food and bars in the city."
+      },
+      {
+        "name": "The historic centre",
+        "bestFor": "Sights and atmosphere",
+        "text": "Historic hotels close to the Zócalo and the Bellas Artes. Busy by day and quiet at night."
+      },
+      {
+        "name": "Polanco",
+        "bestFor": "Luxury and museums",
+        "text": "Upscale hotels and restaurants next to Chapultepec Park."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or budget hotel", "value": "US$25–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–170 per night" },
+      { "label": "Luxury hotel", "value": "US$220–500 per night" },
+      { "label": "Street tacos", "value": "US$1–2 each" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Mexico City is the country's main hub, with flights from around the world.",
+    "options": [
+      {
+        "mode": "Benito Juárez International Airport (MEX)",
+        "text": "About 13 km from the centre, with metro, taxi and ride-hailing links. Book a registered airport taxi or use Uber.",
+        "detail": "Allow 30–60 minutes to the centre, longer at rush hour."
+      },
+      {
+        "mode": "Bus",
+        "text": "Long-distance buses arrive at four terminals: TAPO (east), Norte, Sur and Poniente. Puebla is two hours, Oaxaca six or seven, and Guanajuato about five.",
+        "detail": "Buy tickets online and check which terminal."
+      },
+      {
+        "mode": "Flight",
+        "text": "Direct flights connect to almost every city in the country.",
+        "detail": "Book early for low fares."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The metro is fast and cheap, but crowded at rush hour. Ride-hailing is convenient and safe.",
+    "options": [
+      {
+        "mode": "Metro and Metrobús",
+        "text": "Cheap and extensive, though crowded in peak hours. Women can use women-only carriages at the front.",
+        "detail": "Watch your belongings, and avoid rush hour with luggage."
+      },
+      {
+        "mode": "Uber and taxis",
+        "text": "Uber is inexpensive and widely used. Use registered taxis (sitios) rather than street taxis.",
+        "detail": "Check the licence plate matches the app."
+      },
+      {
+        "mode": "Walking",
+        "text": "Roma, Condesa, the centre and Coyoacán are walkable. Take care crossing roads.",
+        "detail": "Watch for uneven pavements."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and October–November",
+    "summary": "At 2,240 m, Mexico City has a mild climate all year, with a rainy season from June to September. Spring and autumn are the most pleasant.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm, sunny days, jacaranda blossom in March and April, and little rain."
+      },
+      {
+        "season": "Summer (June–September)",
+        "rating": "shoulder",
+        "text": "Afternoon thunderstorms most days, but mornings are often clear. Green and cheaper."
+      },
+      {
+        "season": "Autumn (October–November)",
+        "rating": "best",
+        "text": "Clear skies and mild weather. Día de Muertos is the highlight."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "Dry, sunny and cool at night. Some of the clearest days of the year."
+      }
+    ],
+    "avoid": "Semana Santa, when many locals leave and some places close, and rush hour any time of year."
+  },
+  "itinerary": {
+    "title": "Three days in Mexico City",
+    "intro": "The historic centre on the first day, museums and Coyoacán on the second, Roma and Xochimilco on the third.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The historic centre",
+        "summary": "Aztec and colonial Mexico.",
+        "morning": "The Zócalo, the Cathedral and the Templo Mayor.",
+        "afternoon": "The National Palace murals and the Palacio de Bellas Artes.",
+        "evening": "Dinner and mezcal in the centre."
+      },
+      {
+        "day": 2,
+        "title": "Museums and Coyoacán",
+        "summary": "Art and history.",
+        "morning": "The National Museum of Anthropology.",
+        "afternoon": "Coyoacán and the Frida Kahlo Museum.",
+        "evening": "Tacos and a stroll."
+      },
+      {
+        "day": 3,
+        "title": "Roma and Xochimilco",
+        "summary": "Neighbourhoods and canals.",
+        "morning": "Xochimilco by trajinera.",
+        "afternoon": "Roma and Condesa's cafés and shops.",
+        "evening": "A long dinner in Roma."
+      }
+    ]
+  },
+  "tipsIntro": "Mexico City is big and intense, and a few habits help.",
+  "tips": [
+    "Take it easy on your first day. The altitude of 2,240 m can cause headaches and tiredness.",
+    "Use Uber or licensed taxis. Street taxis are less safe.",
+    "Book Casa Azul and popular restaurants ahead.",
+    "Keep your phone and valuables out of sight, particularly on the metro and in crowds.",
+    "Drink bottled water, and eat at busy stalls.",
+    "Most museums close on Mondays.",
+    "Avoid unlit streets and unfamiliar neighbourhoods at night.",
+    "Carry small bills and coins for tips and street food."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Mexico City?",
+      "a": "Four is comfortable for the centre, the museums and two neighbourhoods. A week lets you add day trips to Teotihuacán, Puebla or Tepoztlán."
+    },
+    {
+      "q": "Is Mexico City safe for tourists?",
+      "a": "The main tourist areas, including the centre, Roma, Condesa, Coyoacán and Polanco, are visited by millions of tourists safely. Petty theft is the main risk. Use ride-hailing, avoid displaying valuables and check your government's advice."
+    },
+    {
+      "q": "What is the best area to stay in?",
+      "a": "Roma or Condesa for cafés and restaurants, the historic centre for sights, or Polanco for upscale hotels."
+    },
+    {
+      "q": "Does the altitude matter?",
+      "a": "Yes. At 2,240 metres, visitors often feel breathless or tired on the first day. Drink water, go slowly and limit alcohol at first."
+    },
+    {
+      "q": "What is the best time to visit Mexico City?",
+      "a": "March to May and October to November, when the weather is mild and dry. Summer afternoons bring rain."
+    },
+    {
+      "q": "Can I drink the tap water?",
+      "a": "No. Drink bottled or purified water. Restaurants use purified water for ice and cooking."
+    }
+  ],
+  "related": ["teotihuacan", "puebla-cholula", "oaxaca"],
+  "relatedArticles": ["food-primer", "packing-by-season"]
+}

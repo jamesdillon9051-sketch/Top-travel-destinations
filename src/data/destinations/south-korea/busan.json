@@ -1,0 +1,324 @@
+{
+  "slug": "busan",
+  "name": "Busan",
+  "country": "south-korea",
+  "region": "Busan, south-east coast",
+  "categories": ["major-city", "coastal", "cultural", "food-and-wine"],
+  "tagline": "A port city of beaches, hillside murals, fish markets and seaside temples, where mountains fall into the sea and the food is at its freshest.",
+  "highlight": "The pastel houses of Gamcheon Culture Village stacked up a hillside above the harbour.",
+  "shortDescription": "South Korea's second city, with Gamcheon Culture Village, Haeundae Beach, Jagalchi Fish Market, the seaside temple of Haedong Yonggungsa and a strong seafood and street food scene.",
+  "metaDescription": "A Busan travel guide: Gamcheon Culture Village, Haeundae Beach, Jagalchi Fish Market, Haedong Yonggungsa temple, Gwangalli, seafood, where to stay, how to get there by KTX and a two-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Gimhae International (PUS), about 45 minutes; Busan Station for KTX",
+  "knownFor": "Beaches, seafood, hillside villages, coastal temples",
+  "budget": "US$90–170 per day, mid-range",
+  "goodFor": "Seafood, beaches, street photography, temples, film fans",
+  "coords": { "lat": 35.1796, "lng": 129.0756 },
+  "image": {
+    "file": "File:Colorful houses in Gamcheon Culture Village at sunset in Busan South Korea.jpg",
+    "alt": "Colourful houses in Gamcheon Culture Village on a hillside at sunset"
+  },
+  "intro": [
+    "Busan is South Korea's second-largest city, home to about 3.3 million people, and the country's main port. It is squeezed between mountains and the sea on the south-east coast, and its streets climb steep hills and spill down to beaches, harbours and fish markets. It feels looser and saltier than Seoul, with a distinctive dialect and a reputation for friendliness.",
+    "The city is best known for its sights by the water. Gamcheon Culture Village, once a refugee settlement, is now a maze of painted houses, Haeundae is Korea's most famous beach, and Haedong Yonggungsa is a rare temple set on a rocky shore. Jagalchi Fish Market is the country's largest seafood market, where you choose your fish and eat it upstairs, and Busan holds a large film festival every autumn.",
+    "Busan is about two and a half hours from Seoul by KTX and is easy to combine with Gyeongju, an hour away. Two or three days are enough for the main sights, and the city is at its best in late spring and early autumn, when the sea is warm enough for the beach and the humidity of summer has eased."
+  ],
+  "whyVisit": {
+    "intro": "Busan is Korea's seaside city, with the best seafood and a more relaxed pace than Seoul.",
+    "points": [
+      {
+        "title": "Colourful hillside villages",
+        "text": "Gamcheon's painted houses and alleys."
+      },
+      {
+        "title": "Beaches and coast",
+        "text": "Haeundae, Gwangalli and coastal walking paths."
+      },
+      {
+        "title": "Seafood",
+        "text": "The Jagalchi market and grilled shellfish."
+      },
+      {
+        "title": "A seaside temple",
+        "text": "Haedong Yonggungsa on the rocks."
+      },
+      {
+        "title": "Easy from Seoul",
+        "text": "About two and a half hours by KTX."
+      }
+    ]
+  },
+  "attractionsIntro": "Busan's sights are spread out, so plan by area: the old port, the beaches and the coast.",
+  "attractions": [
+    {
+      "name": "Gamcheon Culture Village",
+      "image": {
+        "file": "File:Colorful houses in Gamcheon Culture Village at sunset in Busan South Korea.jpg",
+        "alt": "Rows of coloured houses climbing the hillside at Gamcheon Culture Village"
+      },
+      "text": "A hillside neighbourhood of pastel houses, murals, art installations and cafés, built by refugees in the 1950s and revived as an arts district.",
+      "tip": "Go early, and expect steep lanes."
+    },
+    {
+      "name": "Haeundae Beach",
+      "image": {
+        "file": "File:Haeundae Beach in Busan.jpg",
+        "alt": "Haeundae Beach with its long sands and city towers behind"
+      },
+      "text": "Korea's most famous beach, a long sweep of sand backed by high-rise hotels, with a summer festival scene and a coastal walk.",
+      "tip": "Visit outside the July and August crowds."
+    },
+    {
+      "name": "Haedong Yonggungsa",
+      "image": {
+        "file": "File:Haedong Yonggungsa Temple near Busan.jpg",
+        "alt": "Haedong Yonggungsa temple on a rocky shoreline beside the sea"
+      },
+      "text": "A Buddhist temple founded in the 14th century and built along a rocky coast, with prayer halls, stone lanterns and sea views.",
+      "tip": "Go at sunrise or on a weekday."
+    },
+    {
+      "name": "Jagalchi Fish Market",
+      "image": {
+        "file": "File:Jagalchi Fish Market 5.jpg",
+        "alt": "Fresh fish and shellfish on sale at Jagalchi Fish Market"
+      },
+      "text": "Korea's largest seafood market, with stalls of live fish, squid, crabs and shellfish, and restaurants above where your choice is cooked.",
+      "tip": "Ask the price first."
+    },
+    {
+      "name": "Gwangalli Beach and Gwangan Bridge",
+      "text": "A cafe-lined beach with views of a long suspension bridge that lights up at night.",
+      "tip": "Go at dusk."
+    },
+    {
+      "name": "Taejongdae",
+      "text": "A park on a forested cape with cliffs, a lighthouse and walking paths above the sea.",
+      "tip": "Take the sightseeing train if you are tired."
+    }
+  ],
+  "thingsToDoIntro": "Busan is about the sea, the streets and the food.",
+  "thingsToDo": [
+    {
+      "title": "Eat at Jagalchi",
+      "text": "Choose your seafood and have it cooked.",
+      "tip": "Visit at lunch."
+    },
+    {
+      "title": "Walk the coast",
+      "text": "The Igidae Coastal Walk and the Haeundae Dongbaek path offer sea views.",
+      "tip": "Bring water."
+    },
+    {
+      "title": "Ride the Blue Line Park train",
+      "text": "A coastal train and sky capsule from Haeundae to Cheongsapo.",
+      "tip": "Book a seat in advance."
+    },
+    {
+      "title": "Try street food",
+      "text": "Ssiat hotteok, eomuk fish cakes and tteokbokki at Bupyeong Kkangtong Market.",
+      "tip": "Go in the evening."
+    },
+    {
+      "title": "Relax at a jjimjilbang",
+      "text": "A Korean spa such as Spa Land in Centum City.",
+      "tip": "Bring a towel, and check the rules."
+    },
+    {
+      "title": "Watch a film festival",
+      "text": "The Busan International Film Festival in early October.",
+      "tip": "Book hotels far ahead."
+    }
+  ],
+  "foodIntro": "Busan food is seafood-heavy, spicy and hearty.",
+  "foods": [
+    {
+      "name": "Dwaeji gukbap",
+      "text": "A rich pork and rice soup that is the city's signature dish.",
+      "whereToTry": "Local restaurants near Busan Station."
+    },
+    {
+      "name": "Fresh raw fish (hoe)",
+      "text": "Sliced raw fish served with chilli paste and lettuce.",
+      "whereToTry": "Jagalchi and Millak Raw Fish Town."
+    },
+    {
+      "name": "Milmyeon",
+      "text": "Wheat noodles in a cold or hot broth, invented in Busan.",
+      "whereToTry": "Old noodle shops."
+    },
+    {
+      "name": "Ssiat hotteok",
+      "text": "A sweet pancake stuffed with seeds and nuts.",
+      "whereToTry": "BIFF Square."
+    },
+    {
+      "name": "Eomuk (fish cake)",
+      "text": "Skewered fish cakes in broth.",
+      "whereToTry": "Markets and stalls."
+    },
+    {
+      "name": "Grilled clams and shellfish",
+      "text": "A seaside barbecue tradition.",
+      "whereToTry": "Restaurants at Gijang and Gwangalli."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay by the beach for the resort feel, or near Seomyeon and Busan Station for transport.",
+    "areas": [
+      {
+        "name": "Haeundae",
+        "bestFor": "Beaches and resort hotels",
+        "text": "Tall hotels by the sand."
+      },
+      {
+        "name": "Gwangalli",
+        "bestFor": "Cafés and views",
+        "text": "A calmer beach with bridge views."
+      },
+      {
+        "name": "Nampo and Busan Station",
+        "bestFor": "Markets and transport",
+        "text": "Central, near the old port."
+      },
+      {
+        "name": "Seomyeon",
+        "bestFor": "Nightlife and budget stays",
+        "text": "A hub with the metro."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$18–30 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–150 per night" },
+      { "label": "Beachfront luxury", "value": "US$200–400 per night" },
+      { "label": "Seafood meal", "value": "US$12–30 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Busan is easily reached by train, air or bus.",
+    "options": [
+      {
+        "mode": "KTX from Seoul",
+        "text": "About two and a half hours from Seoul Station to Busan Station.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Flight",
+        "text": "About an hour from Seoul Gimpo to Gimhae, and international flights from Japan and Asia.",
+        "detail": "A light rail line links the airport to the metro."
+      },
+      {
+        "mode": "Bus and train from Gyeongju",
+        "text": "About 30 minutes by KTX from Singyeongju to Busan.",
+        "detail": "Frequent."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The metro covers the centre and Haeundae, with buses and taxis for the rest.",
+    "options": [
+      {
+        "mode": "Metro",
+        "text": "Four lines, and a light rail line.",
+        "detail": "Use a T-money card."
+      },
+      {
+        "mode": "Buses",
+        "text": "Cover Gamcheon and the coast.",
+        "detail": "Use Naver Map."
+      },
+      {
+        "mode": "Taxis",
+        "text": "Cheap for hills and late nights.",
+        "detail": "Show a Korean address."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September–October",
+    "summary": "Busan is milder than Seoul in winter and warmer in the sea, but summer is humid and rainy.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Pleasant, with cherry blossom in late March."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Beach season, but hot, humid, rainy and crowded."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Clear and comfortable, with the film festival."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool and dry, with fewer visitors."
+      }
+    ],
+    "avoid": "August typhoon days and beach weekends."
+  },
+  "itinerary": {
+    "title": "Two days in Busan",
+    "intro": "The hillside village and market on the first day, and the coast on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old port",
+        "summary": "Colour and seafood.",
+        "morning": "Gamcheon Culture Village.",
+        "afternoon": "Jagalchi Fish Market and Nampo.",
+        "evening": "BIFF Square street food."
+      },
+      {
+        "day": 2,
+        "title": "The coast",
+        "summary": "Temple and beach.",
+        "morning": "Haedong Yonggungsa.",
+        "afternoon": "Haeundae Beach and the Blue Line Park.",
+        "evening": "Gwangalli Beach and the bridge lights."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you enjoy Busan.",
+  "tips": [
+    "Wear good shoes for Gamcheon's steep lanes.",
+    "Go to Haedong Yonggungsa early to avoid crowds.",
+    "Eat at busy seafood spots and ask the price.",
+    "Use the metro for Haeundae, and buses for Gamcheon.",
+    "Book hotels early for the film festival and fireworks festival.",
+    "Bring a light jacket for the sea breeze.",
+    "Check typhoon forecasts in late summer."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Busan?",
+      "a": "Two days for the highlights, three with a day trip to Gyeongju."
+    },
+    {
+      "q": "Is Busan better than Seoul?",
+      "a": "They are different. Busan is more relaxed, with sea and seafood. Most visitors see both."
+    },
+    {
+      "q": "How far is Busan from Seoul?",
+      "a": "About two and a half hours by KTX."
+    },
+    {
+      "q": "Can I swim at Haeundae?",
+      "a": "Yes in the summer season, usually from July to August, when lifeguards are on duty."
+    },
+    {
+      "q": "Is raw fish safe to eat?",
+      "a": "At busy, reputable markets and restaurants, yes."
+    },
+    {
+      "q": "Can I visit Busan from Gyeongju?",
+      "a": "Yes, in about 30 minutes by KTX."
+    }
+  ],
+  "related": ["gyeongju", "seoul", "jeju-island"],
+  "relatedArticles": ["mediterranean-coasts", "food-primer"]
+}

@@ -1,0 +1,431 @@
+{
+  "slug": "argentina",
+  "name": "Argentina",
+  "continent": "South America",
+  "countryCode": "AR",
+  "tagline": "Tango and steak in Buenos Aires, glaciers and granite peaks in Patagonia, Andean vineyards, painted northern canyons and the thunder of Iguazu, across one of the longest countries on earth.",
+  "cardDescription": "A long, varied country of European-style cities, tango, wine and beef, the glaciers and mountains of Patagonia, whale-filled coasts and the colourful north-west.",
+  "metaDescription": "A complete Argentina travel guide: the 10 best places to visit, Buenos Aires, Patagonia's Perito Moreno and Fitz Roy, Mendoza wine, Iguazu, Ushuaia and Salta, food, when to go, transport, costs and a two-week itinerary.",
+  "image": {
+    "file": "File:Cerro de los Siete Colores 04.jpg",
+    "alt": "The striped Hill of Seven Colours rising above Purmamarca in the Argentine north-west"
+  },
+  "destinations": [
+    "buenos-aires",
+    "el-calafate-perito-moreno",
+    "el-chalten-fitz-roy",
+    "iguazu-falls-argentina",
+    "bariloche-lake-district",
+    "mendoza-wine-country",
+    "salta-jujuy-northwest",
+    "ushuaia-tierra-del-fuego",
+    "peninsula-valdes",
+    "esteros-del-ibera"
+  ],
+  "intro": [
+    "Argentina is the eighth-largest country in the world, stretching about 3,700 km from the subtropical north to the sub-Antarctic south, and from the Andes in the west to the Atlantic in the east. Its people are largely descended from immigrants, particularly Italians and Spaniards, and its capital, Buenos Aires, is one of the most European-feeling cities in South America. It was a Spanish colony until independence in 1816 and became one of the richest countries in the world in the early 20th century, before decades of political and economic turmoil.",
+    "For visitors, the range is extraordinary. There is Buenos Aires, with its tango halls, cafés, bookshops and parrillas; Patagonia, with the Perito Moreno Glacier, the granite towers of Fitz Roy and the lakes of Bariloche; the vineyards of Mendoza under the Andes; the coloured canyons and adobe villages of the north-west; the Iguazu Falls; and whales and penguins on the Atlantic coast. It is also a country of food, particularly beef, empanadas and wine, and of a warm, argumentative, passionate culture.",
+    "Argentina is not a cheap country in the way it once was, and its economy is volatile, with inflation and shifting exchange rates. Travellers should plan carefully and check current advice on money. But it remains one of the most rewarding countries in South America, and a place where distances are big, landscapes are breathtaking and the welcome is warm."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Buenos Aires and Patagonia are the essentials; Iguazu, Bariloche, Mendoza and Salta add contrast, and Ushuaia, Valdés and Iberá suit those with more time.",
+  "thingsToDoIntro": "The experiences that recur across the country and make an Argentine trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Watch a tango show, or dance one",
+      "image": {
+        "file": "File:Tango Porteño.jpg",
+        "alt": "A couple dancing tango in Buenos Aires"
+      },
+      "text": "Tango was born in the port districts of Buenos Aires and Montevideo, and is danced in milongas, or dance halls, and performed in shows across the city. See [[buenos-aires|Buenos Aires]].",
+      "tip": "For a local experience, go to a milonga rather than a dinner show."
+    },
+    {
+      "title": "Walk on or beside a glacier",
+      "text": "Perito Moreno is one of the few advancing glaciers in the world, and its calving ice is a thrilling sight from walkways and boats. See [[el-calafate-perito-moreno|El Calafate]].",
+      "tip": "Visit early, and add a boat or a guided ice trek."
+    },
+    {
+      "title": "Hike beneath Fitz Roy",
+      "text": "Some of the best day walks in the world start at El Chaltén, leading to lakes beneath granite spires. See [[el-chalten-fitz-roy|El Chaltén]].",
+      "tip": "Go early on a clear day, and bring windproof layers."
+    },
+    {
+      "title": "Taste Malbec in the vineyards",
+      "text": "Argentina's flagship red grape thrives at altitude under the Andes, and many bodegas offer tastings, lunches and stays. See [[mendoza-wine-country|Mendoza]].",
+      "tip": "Book a driver or a bike tour, and book lunch."
+    },
+    {
+      "title": "Go whale watching",
+      "text": "Southern right whales gather off the Valdés coast from June to December, with calves close to the boats. See [[peninsula-valdes|Península Valdés]].",
+      "tip": "Choose licensed operators, and go in September or October."
+    },
+    {
+      "title": "Meet a gaucho at an estancia",
+      "image": {
+        "file": "File:Argentina Gaucho 01.jpg",
+        "alt": "A gaucho on horseback on the pampas"
+      },
+      "text": "A day or night at a working ranch offers horseback riding, an asado barbecue and a glimpse of the gaucho tradition, near Buenos Aires or in Patagonia.",
+      "tip": "Book a full-day visit with lunch."
+    },
+    {
+      "title": "Go to a football match",
+      "image": {
+        "file": "File:La Bombonera - Buenos Aires - Argentina.jpg",
+        "alt": "The La Bombonera stadium, home of Boca Juniors in Buenos Aires"
+      },
+      "text": "Football is a passion, and a match at La Bombonera or the Monumental is an unforgettable experience.",
+      "tip": "Book through a reputable tour, since tickets for foreigners are restricted."
+    }
+  ],
+  "foodIntro": "Argentine food is beef-centred, with Italian and Spanish influences, and meals are slow, late and social. Dinner rarely starts before 9pm.",
+  "foods": [
+    {
+      "name": "Asado",
+      "image": {
+        "file": "File:Asado in Argentina.JPG",
+        "alt": "Beef and sausages cooking on an Argentine asado grill over embers"
+      },
+      "text": "The traditional barbecue: beef ribs, sausages, sweetbreads and other cuts slow-cooked over wood or charcoal, served with chimichurri and salad. It is a weekend ritual and a social occasion.",
+      "whereToTry": "Parrillas in [[buenos-aires|Buenos Aires]] and estancias across the country."
+    },
+    {
+      "name": "Empanadas",
+      "image": {
+        "file": "File:Fried Argentine beef empanadas served on a tray.jpg",
+        "alt": "A tray of fried Argentine beef empanadas"
+      },
+      "text": "Baked or fried pastries filled with beef, chicken, cheese or vegetables, each province with its own style. The Salta and Tucumán versions are famous.",
+      "whereToTry": "Everywhere, especially in [[salta-jujuy-northwest|Salta]]."
+    },
+    {
+      "name": "Provoleta",
+      "image": {
+        "file": "File:Provoleta argentina.jpg",
+        "alt": "Grilled provoleta cheese with oregano in a small iron dish"
+      },
+      "text": "A thick slice of provolone cheese, grilled on the parrilla until crisp outside and molten within, and served with oregano and chilli.",
+      "whereToTry": "Parrillas as a starter."
+    },
+    {
+      "name": "Alfajores",
+      "image": {
+        "file": "File:Alfajor H.jpg",
+        "alt": "Alfajores, sandwich cookies filled with dulce de leche"
+      },
+      "text": "Two soft biscuits sandwiched with dulce de leche and coated in chocolate or dusted with coconut, the national cookie.",
+      "whereToTry": "Kiosks and bakeries."
+    },
+    {
+      "name": "Mate",
+      "image": {
+        "file": "File:Mate Tea Gourd(GN04778).jpg",
+        "alt": "A mate gourd and metal straw for drinking yerba mate"
+      },
+      "text": "A bitter herbal infusion of yerba mate, drunk from a gourd through a metal straw and shared among friends. It is more a social ritual than a drink.",
+      "whereToTry": "In parks, on the road and at home."
+    },
+    {
+      "name": "Locro",
+      "image": {
+        "file": "File:Argentine locro (dish).jpg",
+        "alt": "A bowl of Argentine locro, a hearty stew of corn, beans and meat"
+      },
+      "text": "A hearty stew of corn, beans, squash and meat, especially eaten in the north-west and on national holidays.",
+      "whereToTry": "Restaurants in [[salta-jujuy-northwest|Salta and Jujuy]]."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Argentina is welcoming and varied, but its economy is volatile, so check the latest advice on money, prices and entry.",
+  "practical": {
+    "capital": "Buenos Aires",
+    "language": "Spanish, in the Rioplatense dialect, with 'vos' instead of 'tú'. English is spoken in tourist areas, but less than in many countries.",
+    "currency": "Argentine peso (ARS). The exchange rate has been volatile, with high inflation, and official and market rates have differed at times. Check the current rate and rules before you go.",
+    "money": "Rules on foreign cards and cash have changed repeatedly. Recently many visitors have paid by card at favourable rates or with cash US dollars, but this can change, so check current advice. Carry some pesos for small purchases, and note that ATMs often limit withdrawals and charge high fees.",
+    "visa": "Many nationalities, including most of Europe, the United States, Canada and Australia, can enter without a visa for up to 90 days. Rules change, so check the official government site for your passport.",
+    "plugs": "Types C and I, 220 V, 50 Hz.",
+    "emergency": "911 for police and emergencies, 107 for ambulances and 100 for fire.",
+    "tipping": "About 10% in restaurants, and a small tip for guides, drivers and porters. A service charge is not usually included.",
+    "safety": "Argentina is generally safe for visitors, but petty theft is common in Buenos Aires, including bag and phone snatching, and pickpocketing on crowded buses and the metro. Keep valuables hidden, use taxi apps, and be alert near stations and tourist areas. Strikes and demonstrations occur, and can disrupt transport. Patagonia and the wine regions are calm.",
+    "connectivity": "Good in cities and towns, with SIM cards and eSIMs available. Coverage is patchy in Patagonia and the mountains.",
+    "timeZone": "UTC−3 all year, with no daylight saving time.",
+    "budget": [
+      { "label": "Backpacker", "value": "US$40–70 per day — hostels, buses, cooking" },
+      { "label": "Mid-range", "value": "US$90–160 per day — hotels, restaurants, domestic flights" },
+      { "label": "Comfortable", "value": "US$200–350 per day — boutique hotels, private tours" },
+      { "label": "Luxury", "value": "US$450+ per day — lodges, top restaurants and private guides" }
+    ]
+  },
+  "bestTime": {
+    "headline": "Varies by region, see below",
+    "summary": "The seasons are reversed from the northern hemisphere. Patagonia is best from November to March, Buenos Aires in spring and autumn, Mendoza in autumn and the north-west from April to October.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "best",
+        "text": "The peak for Patagonia and Ushuaia, with long days and hiking weather. Buenos Aires is hot and humid, and many locals go on holiday."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Warm and settled, with the grape harvest in Mendoza and autumn colour in the Lakes District. Excellent for Buenos Aires."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "good",
+        "text": "Cold in Patagonia and the south, but good for skiing in Bariloche and Mendoza, whales at Valdés and the dry, sunny north-west."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Warm, with jacaranda blossoms in Buenos Aires and whales at their best at Valdés. Patagonia warms up from November."
+      }
+    ],
+    "avoid": "Patagonia in winter, when many services close, and the peak Christmas–February holiday period if you dislike crowds and high prices."
+  },
+  "tripDuration": {
+    "headline": "2–3 weeks for a first trip",
+    "summary": "Argentina is enormous, and travel involves long flights or bus journeys. Two weeks allows Buenos Aires and Patagonia with one other region, and three weeks adds the north or the wine country.",
+    "options": [
+      {
+        "length": "7–8 days",
+        "text": "Buenos Aires and Iguazu, or Buenos Aires and Patagonia.",
+        "detail": "A first taste, with one flight."
+      },
+      {
+        "length": "12–14 days",
+        "text": "The itinerary on this page: Buenos Aires, Iguazu, El Calafate, El Chaltén and Bariloche.",
+        "detail": "A balanced first trip with four flights."
+      },
+      {
+        "length": "3 weeks",
+        "text": "Adds Mendoza, Salta or Ushuaia.",
+        "detail": "A slower, richer trip."
+      },
+      {
+        "length": "4 weeks or more",
+        "text": "Adds Valdés, the north-west and Iberá.",
+        "detail": "For those with time to explore."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Argentina's distances are huge. Flights are the way to cover them, and long-distance buses are comfortable and good for shorter hops.",
+    "options": [
+      {
+        "mode": "Domestic flights",
+        "text": "Aerolíneas Argentinas, Flybondi and JetSMART fly from Buenos Aires to all the main destinations. Prices vary widely, and foreigners sometimes pay more than locals on some airlines.",
+        "detail": "Book early for summer, and consider a domestic air pass."
+      },
+      {
+        "mode": "Long-distance buses",
+        "text": "Comfortable coaches with reclining seats and meals, on routes such as Buenos Aires to Mendoza (about 14 hours) and El Calafate to El Chaltén (about 3 hours).",
+        "detail": "Choose cama (bed) seats for overnight trips."
+      },
+      {
+        "mode": "Hire cars",
+        "text": "Useful for Patagonia, the Lakes District, Mendoza and the north-west. Distances are long and fuel stops are far apart.",
+        "detail": "Book insurance carefully, and expect unpaved roads."
+      },
+      {
+        "mode": "Taxis and ride-hailing",
+        "text": "Taxis, Cabify and Uber operate in Buenos Aires and other cities.",
+        "detail": "Use the app or a radio taxi."
+      },
+      {
+        "mode": "Ferries",
+        "text": "Fast ferries link Buenos Aires with Colonia and Montevideo in Uruguay.",
+        "detail": "Book in advance in summer."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Argentina",
+    "intro": "Buenos Aires, Iguazu, the glaciers and peaks of Patagonia and the Lake District, with four domestic flights. Covers five of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Buenos Aires",
+        "morning": "Land and check in.",
+        "afternoon": "A walk in Palermo or Recoleta.",
+        "evening": "A steak dinner."
+      },
+      {
+        "day": 2,
+        "title": "Central Buenos Aires",
+        "morning": "Plaza de Mayo and the Casa Rosada.",
+        "afternoon": "San Telmo market and lunch.",
+        "evening": "A tango show or milonga."
+      },
+      {
+        "day": 3,
+        "title": "Buenos Aires neighbourhoods",
+        "morning": "Recoleta Cemetery and the Ateneo bookshop.",
+        "afternoon": "La Boca and Caminito.",
+        "evening": "Dinner in Palermo."
+      },
+      {
+        "day": 4,
+        "title": "Buenos Aires or an estancia",
+        "morning": "A day at a gaucho ranch, or Puerto Madero.",
+        "afternoon": "A café and shopping.",
+        "evening": "A football match, if it is on."
+      },
+      {
+        "day": 5,
+        "title": "Fly to Iguazu",
+        "morning": "Flight north.",
+        "afternoon": "The Upper Circuit trails.",
+        "evening": "Dinner in Puerto Iguazú."
+      },
+      {
+        "day": 6,
+        "title": "Iguazu Falls",
+        "morning": "The Devil's Throat.",
+        "afternoon": "The Lower Circuit and a boat trip.",
+        "evening": "Return to Buenos Aires."
+      },
+      {
+        "day": 7,
+        "title": "Fly to El Calafate",
+        "morning": "Flight south to Patagonia.",
+        "afternoon": "A walk by Lago Argentino.",
+        "evening": "Dinner with Patagonian lamb."
+      },
+      {
+        "day": 8,
+        "title": "Perito Moreno Glacier",
+        "morning": "The walkways.",
+        "afternoon": "A boat trip or an ice trek.",
+        "evening": "Return to town."
+      },
+      {
+        "day": 9,
+        "title": "To El Chaltén",
+        "morning": "Bus north to El Chaltén.",
+        "afternoon": "A short walk.",
+        "evening": "Dinner at a brewpub."
+      },
+      {
+        "day": 10,
+        "title": "Fitz Roy",
+        "morning": "The walk to Laguna de los Tres.",
+        "afternoon": "The return trail.",
+        "evening": "Rest."
+      },
+      {
+        "day": 11,
+        "title": "Fly to Bariloche",
+        "morning": "Return to El Calafate and fly.",
+        "afternoon": "Arrive in Bariloche.",
+        "evening": "Chocolate and dinner."
+      },
+      {
+        "day": 12,
+        "title": "The Lake District",
+        "morning": "The Circuito Chico.",
+        "afternoon": "Llao Llao and a lake walk.",
+        "evening": "A fondue dinner."
+      },
+      {
+        "day": 13,
+        "title": "Mountains and lakes",
+        "morning": "A boat on Lake Nahuel Huapi.",
+        "afternoon": "A hike or the Cerro Catedral cable car.",
+        "evening": "Farewell dinner."
+      },
+      {
+        "day": 14,
+        "title": "Depart",
+        "morning": "Last coffee.",
+        "afternoon": "Fly home via Buenos Aires.",
+        "evening": "Home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Argentines are warm, expressive and proud, and social life revolves around family, friends, food and conversation. People kiss on the cheek in greeting, dinner is late, and politics and football are always on the agenda. The country has a strong café and bookshop culture.",
+    "etiquette": [
+      {
+        "title": "Greet with a kiss",
+        "text": "A single kiss on the right cheek is normal between women, and between men and women. Men usually shake hands."
+      },
+      {
+        "title": "Eat late",
+        "text": "Restaurants open for dinner at about 8 or 9pm, and people rarely eat before 9. Lunch is around 1 to 2pm."
+      },
+      {
+        "title": "Share mate",
+        "text": "If you are offered mate, accept and return the gourd when you are done. Do not stir the straw."
+      },
+      {
+        "title": "Be patient",
+        "text": "Service can be slow and relaxed. Waiters do not hurry you, and you must ask for the bill."
+      },
+      {
+        "title": "Dress smart-casual",
+        "text": "Argentines dress well, particularly in Buenos Aires. Beachwear is for the beach."
+      },
+      {
+        "title": "Avoid sensitive topics",
+        "text": "The Falkland Islands (Malvinas), politics and the economy are emotive. Listen more than you argue."
+      }
+    ],
+    "dos": [
+      "Learn a few Spanish phrases: hola (hello), gracias (thank you), por favor (please)",
+      "Arrive late for social occasions, as locals do",
+      "Try the local wine and beef",
+      "Carry a photocopy of your passport",
+      "Book long-distance buses and popular tours in advance",
+      "Bring layers, especially for Patagonia"
+    ],
+    "donts": [
+      "Don't leave phones, bags or cameras on tables or seats",
+      "Don't take unlicensed taxis at night",
+      "Don't call the Falklands anything other than a sensitive subject",
+      "Don't rush a meal",
+      "Don't underestimate distances and weather in Patagonia",
+      "Don't feed wild animals"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Argentina, several of which are specific to how the country works.",
+  "tips": [
+    "Check current advice on money and exchange rates before you go. It changes often.",
+    "Carry some cash, since not every place accepts foreign cards.",
+    "Book flights, buses and the Perito Moreno and Fitz Roy trips ahead in summer.",
+    "Keep phones and bags out of sight in Buenos Aires.",
+    "Take layers and a windproof jacket, even in summer, in Patagonia.",
+    "Eat dinner late, or you will have restaurants to yourself.",
+    "Be flexible. Strikes, delays and weather can change plans.",
+    "Try a parrilla at least once, and share the meat."
+  ],
+  "faq": [
+    {
+      "q": "Is Argentina safe?",
+      "a": "Generally, yes. Petty theft is common in Buenos Aires, so keep valuables hidden and use taxi apps. Patagonia and the wine regions are very safe."
+    },
+    {
+      "q": "How many days do you need in Argentina?",
+      "a": "Two weeks for a first trip, covering Buenos Aires and Patagonia, and three if you add Mendoza or Salta."
+    },
+    {
+      "q": "What is the best time to visit Argentina?",
+      "a": "It depends where. November to March for Patagonia, spring and autumn for Buenos Aires and Mendoza."
+    },
+    {
+      "q": "Is Argentina expensive?",
+      "a": "It has become more expensive than in the past, though prices are volatile. Meals and wine are still good value, but flights and accommodation can cost a lot."
+    },
+    {
+      "q": "Do I need a visa for Argentina?",
+      "a": "Many nationalities can enter without a visa for up to 90 days. Check the official government site."
+    },
+    {
+      "q": "Is it easy to travel by bus?",
+      "a": "Yes. Long-distance buses are comfortable, and cama-class seats recline almost flat."
+    },
+    {
+      "q": "Can I do Patagonia and Iguazu in one trip?",
+      "a": "Yes, but with flights via Buenos Aires. Allow at least ten days."
+    }
+  ]
+}

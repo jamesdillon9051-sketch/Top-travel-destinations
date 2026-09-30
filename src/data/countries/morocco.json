@@ -1,0 +1,418 @@
+{
+  "slug": "morocco",
+  "name": "Morocco",
+  "continent": "North Africa",
+  "countryCode": "MA",
+  "tagline": "Medinas older than most European cities, a blue mountain town, Sahara dunes at sunrise and a kasbah road across the Atlas — all within a day's drive of each other.",
+  "cardDescription": "A country of imperial cities, walled medinas, mountains, deserts and Atlantic beaches, with a food and craft tradition that has shaped much of the Mediterranean.",
+  "metaDescription": "A complete Morocco travel guide: the 10 best places to visit, Marrakech, Fes, Chefchaouen and the Sahara, Moroccan food and riads, when to go, trains and buses, costs, safety and a two-week itinerary.",
+  "image": {
+    "file": "File:Erg Chebbi sunset.jpg",
+    "alt": "The dunes of Erg Chebbi in the Moroccan Sahara glowing at sunset"
+  },
+  "destinations": [
+    "marrakech",
+    "fes",
+    "chefchaouen",
+    "merzouga-sahara",
+    "essaouira",
+    "ait-benhaddou-ouarzazate",
+    "casablanca",
+    "rabat",
+    "high-atlas-imlil",
+    "meknes-volubilis"
+  ],
+  "intro": [
+    "Morocco sits at the north-western corner of Africa, 14 km from Spain across the Strait of Gibraltar, with coasts on both the Mediterranean and the Atlantic, the Rif and Atlas mountains running through its middle and the Sahara to the south-east. It has been ruled by a succession of Berber and Arab dynasties, never became part of the Ottoman Empire, and is governed today by the Alaouite dynasty, which has reigned since the 17th century.",
+    "The result is a country with several distinct identities: the imperial cities of Fes, Marrakech, Meknes and Rabat, with their medinas, madrasas and palaces; the Amazigh (Berber) culture of the mountains and desert, with its kasbahs and carpets; the blue-and-white towns of the north and the Atlantic coast, influenced by Andalusian and Portuguese builders; and the modern coastal cities of Casablanca and Rabat.",
+    "It is also one of the easiest countries in Africa to travel in, with an excellent train line along the coast, good roads to the south, guesthouses called riads in almost every medina and a long tradition of welcoming visitors. Morocco's tourism has grown quickly, and touts and hard selling in the big medinas are a fact of life, but with a little patience and a firm smile, travelling here is a pleasure."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Marrakech and Fes are the two great medinas; the desert, the Atlas and the kasbah road take several days of driving, and the coast is easy to add.",
+  "thingsToDoIntro": "The experiences that recur across the country and that make a Moroccan trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Get lost in a medina",
+      "image": {
+        "file": "File:Looking Upon The Medina in Fes, Morocco.jpg",
+        "alt": "The rooftops and minarets of the medina of Fes seen from above"
+      },
+      "text": "The walled old cities of Fes and Marrakech are labyrinths of covered lanes, workshops, mosques and fountains, largely without cars. Getting a little lost is half the point. See [[fes]] and [[marrakech]].",
+      "tip": "Hire a licensed guide for the first morning, then explore alone. Walk away from persistent touts politely."
+    },
+    {
+      "title": "Sleep in a riad",
+      "text": "A riad is a traditional house built around a courtyard garden, often with a fountain and a roof terrace, and many have been converted into small guesthouses. It is the best way to experience a medina's calm behind its walls.",
+      "tip": "Ask your riad to arrange airport pick-up, since medina lanes are impossible to find with a taxi."
+    },
+    {
+      "title": "Ride a camel into the Sahara",
+      "image": {
+        "file": "File:Caravan in the desert.jpg",
+        "alt": "A camel caravan crossing the sand dunes of the Sahara in Morocco"
+      },
+      "text": "A camel trek to a tented camp among the dunes of Erg Chebbi, with a night under the stars and a sunrise over the sand, is one of Morocco's classic experiences. See [[merzouga-sahara|Merzouga]].",
+      "tip": "Choose a camp with private tents and check the sleeping conditions in winter, when it is cold at night."
+    },
+    {
+      "title": "Drive the kasbah road",
+      "text": "The road from Marrakech over the Tizi n'Tichka pass to Aït Benhaddou, Ouarzazate and the Dadès and Todra gorges passes mud-brick kasbahs, palm groves and film sets. See [[ait-benhaddou-ouarzazate|Aït Benhaddou]].",
+      "tip": "Allow a full day for the pass and stops, and start early."
+    },
+    {
+      "title": "Drink mint tea, and bargain in the souks",
+      "image": {
+        "file": "File:Moroccan Mint Tea - 1.jpg",
+        "alt": "Moroccan mint tea poured from a silver pot into a small glass"
+      },
+      "text": "Sweet mint tea is served on arrival and at every stage of a sale, and a friendly negotiation is expected in the souks. The tea is a courtesy, not a commitment.",
+      "tip": "Start at about half the first price and settle around 60–70%, smiling throughout."
+    },
+    {
+      "title": "Hike in the High Atlas",
+      "text": "North Africa's highest peak, Jebel Toubkal (4,167 m), is a two-day climb from the village of Imlil, and gentler valley walks pass Amazigh villages. See [[high-atlas-imlil|Imlil and Toubkal]].",
+      "tip": "Winter needs crampons and an ice axe, and a guide."
+    }
+  ],
+  "foodIntro": "Moroccan cooking blends Amazigh, Arab, Andalusian, Jewish and French traditions, using spices such as cumin, saffron, cinnamon and ras el hanout, with preserved lemons, olives, dried fruit and slow-cooked meat.",
+  "foods": [
+    {
+      "name": "Tagine",
+      "image": {
+        "file": "File:Tajines in a pottery shop in Morocco.jpg",
+        "alt": "Conical clay tagine pots displayed in a Moroccan pottery shop"
+      },
+      "text": "A slow-cooked stew, named after the conical clay dish it is cooked in, of lamb, chicken or fish with vegetables, dried fruit, olives or preserved lemon. Every family and region has its own versions.",
+      "whereToTry": "Any restaurant in [[marrakech|Marrakech]] or [[fes|Fes]], and home-cooked in riads."
+    },
+    {
+      "name": "Couscous",
+      "image": {
+        "file": "File:Couscous 007.jpg",
+        "alt": "A plate of steamed couscous with vegetables and meat"
+      },
+      "text": "Steamed semolina served with a stew of meat and vegetables. Traditionally it is the Friday lunch after the midday prayer, and many restaurants serve it only on Fridays.",
+      "whereToTry": "Family restaurants on Fridays, across the country."
+    },
+    {
+      "name": "Pastilla",
+      "image": {
+        "file": "File:Moroccan Pastilla.jpg",
+        "alt": "A round pastilla pie dusted with cinnamon and sugar"
+      },
+      "text": "A pie of paper-thin warqa pastry filled with pigeon or chicken, almonds and eggs, dusted with sugar and cinnamon. The mix of sweet and savoury is a Fassi speciality.",
+      "whereToTry": "Upscale restaurants and riads in [[fes|Fes]]."
+    },
+    {
+      "name": "Harira",
+      "image": {
+        "file": "File:Harira..JPG",
+        "alt": "A bowl of harira soup with dates on the side"
+      },
+      "text": "A thick soup of tomatoes, lentils, chickpeas and herbs, eaten across the country and especially to break the fast during Ramadan, with dates.",
+      "whereToTry": "Street stalls and cafés, at any time of day."
+    },
+    {
+      "name": "Grilled meat and fish",
+      "text": "Skewers of lamb, kefta (spiced minced meat) and merguez sausages grilled on open fires in markets, and freshly caught sardines and other fish grilled at the coast. See [[essaouira]] for the fish.",
+      "whereToTry": "Night-market stalls in [[marrakech|Marrakech]] and the port at [[essaouira|Essaouira]]."
+    },
+    {
+      "name": "Moroccan pastries",
+      "text": "Almond-filled gazelle horns, honey-soaked chebakia and briouat pastries, sold in bakeries and eaten with mint tea.",
+      "whereToTry": "Pastry shops in every medina."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Morocco is straightforward to travel in, though touts, haggling and the desert distances take some getting used to.",
+  "practical": {
+    "capital": "Rabat",
+    "language": "Arabic (Moroccan Darija) and Amazigh (Berber) are official. French is widely spoken in cities and hotels, and English is increasingly common in tourist areas.",
+    "currency": "Moroccan dirham (MAD). Roughly 9–10 dirhams to the US dollar in recent years. The dirham cannot be obtained abroad in large amounts, so withdraw it locally.",
+    "money": "Cards work in hotels, upmarket restaurants and larger shops, but you need cash in medinas, for taxis and for tips. ATMs are common in cities. Exchange offices give better rates than airports. Carry small notes for tips and taxis.",
+    "visa": "Many nationalities, including the United States, the United Kingdom, Canada, Australia and most EU countries, can enter without a visa for up to 90 days. Rules change, so check the official Moroccan government site.",
+    "plugs": "Type C and E, 220 V, 50 Hz, as in continental Europe.",
+    "emergency": "19 for police in cities, 177 for gendarmerie in rural areas, and 15 for ambulances. Tourist police operate in the main cities.",
+    "tipping": "About 10% in restaurants if service is not included, a few dirhams for porters, taxi drivers and guides, and more for full-day guides or drivers. Small tips for small services are customary.",
+    "safety": "Morocco is generally safe for visitors, and millions visit each year. The main problems are touts, unofficial guides, overcharging and petty theft in crowded medinas, and women travelling alone often face persistent attention. Avoid disputed areas of Western Sahara and check your government's advice, particularly after the September 2023 earthquake in the High Atlas, where some mountain areas were affected. Use official guides and taxis with meters.",
+    "connectivity": "Good 4G in cities and along the main roads, patchier in the mountains and desert. Local SIM cards are cheap and easy to buy at the airport, and eSIMs work.",
+    "timeZone": "UTC+1 all year, except during Ramadan, when the clocks go back an hour to UTC+0.",
+    "budget": [
+      { "label": "Backpacker", "value": "US$30–55 per day — hostels or riad dorms, street food, buses" },
+      { "label": "Mid-range", "value": "US$80–150 per day — riads, restaurant meals, drivers or trains" },
+      { "label": "Comfortable", "value": "US$180–350 per day — boutique riads, private guides, desert camp with private tents" },
+      { "label": "Sahara trip", "value": "US$80–200 per person for a night in the desert with transfers, usually worth booking separately" }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Morocco's climate varies enormously by region. Spring and autumn are the best seasons for most of the country. Summer is very hot inland, and winter is cold at night in the mountains and the desert, and wet on the coast.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm, clear days, green countryside and snow still on the Atlas. The best time for the imperial cities and the mountains."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Very hot inland — Marrakech and the south often exceed 40°C and the Sahara is extreme. The Atlantic coast, Essaouira and the mountains are more comfortable."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm days, cooler nights and fewer crowds. Excellent for the desert from October."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Mild by day in Marrakech and the south but very cold at night in the desert and the Atlas, with snow on the peaks. Rain and cold in Fes and the north."
+      }
+    ],
+    "avoid": "July and August in the interior and the desert. Ramadan changes opening hours, and restaurants outside tourist areas may close by day, though it is a fascinating time to be in the country. The dates shift by about 11 days each year."
+  },
+  "tripDuration": {
+    "headline": "10–14 days for a first trip",
+    "summary": "Morocco is more than 1,500 km from Tangier to the Sahara, and the road to the desert and back is long. A week covers Marrakech, the kasbah road and either the desert or the coast; two weeks allows the imperial cities and the north as well.",
+    "options": [
+      {
+        "length": "4–5 days",
+        "text": "Marrakech, with a day trip to the Atlas or Essaouira.",
+        "detail": "A good short trip from Europe."
+      },
+      {
+        "length": "7–8 days",
+        "text": "Marrakech, the kasbah road and a night in the Sahara, or Marrakech, Fes and Chefchaouen.",
+        "detail": "Two contrasting regions."
+      },
+      {
+        "length": "12–14 days",
+        "text": "The itinerary on this page: the coast, the imperial cities, the north, the Sahara, the kasbah road and Marrakech.",
+        "detail": "The classic Moroccan loop, and our recommendation for most first-time visitors."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Adds Tangier, the Atlantic coast, the Anti-Atlas and hiking in the High Atlas.",
+        "detail": "For those with time to slow down."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Morocco has a modern train network on the coast, comfortable buses to most places, shared grand taxis for local hops, and a road network that makes a hire car or driver the best way to reach the desert and the mountains.",
+    "options": [
+      {
+        "mode": "Trains",
+        "text": "ONCF trains run from Tangier through Rabat and Casablanca to Marrakech, and to Fes and Meknes. The Al Boraq high-speed train links Tangier with Casablanca in about two hours ten minutes.",
+        "detail": "Buy first-class tickets, which are cheap and comfortable, at the station or online."
+      },
+      {
+        "mode": "Buses",
+        "text": "CTM and Supratours run comfortable coaches to almost every town, including Essaouira, Chefchaouen and the desert gateway towns.",
+        "detail": "Book the day before, and take a seat on the left for the Atlas views on some routes."
+      },
+      {
+        "mode": "Private driver or hire car",
+        "text": "The most practical way to reach Merzouga, the kasbah road and the Atlas. Drivers cost around US$70–130 per day, and hire cars are cheaper but the roads are winding and driving is assertive.",
+        "detail": "Hire a driver with a car and a guide for the desert; avoid driving after dark outside cities."
+      },
+      {
+        "mode": "Grands taxis and petits taxis",
+        "text": "Shared six-seat grands taxis link nearby towns, and petits taxis serve city streets. Petits taxis should use the meter.",
+        "detail": "Agree the fare for grands taxis first, and insist on the meter in petits taxis."
+      },
+      {
+        "mode": "Domestic flights",
+        "text": "Royal Air Maroc and low-cost airlines connect Casablanca, Marrakech, Fes and Tangier, and some southern airports.",
+        "detail": "Useful if you have limited time."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Morocco",
+    "intro": "Casablanca, Rabat, Fes, Chefchaouen, the Sahara, the kasbah road, Marrakech and Essaouira, by train and driver. Covers nine of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Casablanca",
+        "morning": "Land and check in.",
+        "afternoon": "The Hassan II Mosque.",
+        "evening": "Dinner by the Corniche."
+      },
+      {
+        "day": 2,
+        "title": "Rabat",
+        "morning": "Train to Rabat.",
+        "afternoon": "The Kasbah of the Udayas and the Hassan Tower.",
+        "evening": "Dinner in the medina."
+      },
+      {
+        "day": 3,
+        "title": "Meknes and Volubilis to Fes",
+        "morning": "Meknes's Bab Mansour and imperial city.",
+        "afternoon": "The Roman ruins of Volubilis.",
+        "evening": "Arrive in Fes."
+      },
+      {
+        "day": 4,
+        "title": "Fes medina",
+        "morning": "A guided walk through Fes el-Bali.",
+        "afternoon": "The tanneries and a madrasa.",
+        "evening": "A rooftop dinner."
+      },
+      {
+        "day": 5,
+        "title": "Fes",
+        "morning": "The Bou Inania Madrasa and Al-Qarawiyyin.",
+        "afternoon": "A cooking class or free time.",
+        "evening": "Pastilla for dinner."
+      },
+      {
+        "day": 6,
+        "title": "Chefchaouen",
+        "morning": "Drive into the Rif Mountains.",
+        "afternoon": "Wander the blue medina.",
+        "evening": "Sunset at the Spanish Mosque."
+      },
+      {
+        "day": 7,
+        "title": "Back to Fes and south",
+        "morning": "Return towards Fes.",
+        "afternoon": "Drive to Midelt through the Middle Atlas.",
+        "evening": "Overnight in Midelt or Erfoud."
+      },
+      {
+        "day": 8,
+        "title": "The Sahara at Merzouga",
+        "morning": "Continue to Merzouga.",
+        "afternoon": "A camel ride to a desert camp.",
+        "evening": "Dinner and drums under the stars."
+      },
+      {
+        "day": 9,
+        "title": "Dunes to the gorges",
+        "morning": "Sunrise on the dunes.",
+        "afternoon": "The Todra Gorge.",
+        "evening": "Overnight in the Dadès Valley."
+      },
+      {
+        "day": 10,
+        "title": "Kasbahs to Aït Benhaddou",
+        "morning": "Along the Road of a Thousand Kasbahs.",
+        "afternoon": "Skoura and Ouarzazate.",
+        "evening": "Sunset at Aït Benhaddou."
+      },
+      {
+        "day": 11,
+        "title": "Over the Atlas to Marrakech",
+        "morning": "Drive over the Tizi n'Tichka pass.",
+        "afternoon": "Arrive in Marrakech.",
+        "evening": "Jemaa el-Fnaa at dusk."
+      },
+      {
+        "day": 12,
+        "title": "Marrakech",
+        "morning": "The Bahia Palace and the Saadian Tombs.",
+        "afternoon": "The souks and the Ben Youssef Madrasa.",
+        "evening": "Dinner on a roof terrace."
+      },
+      {
+        "day": 13,
+        "title": "Essaouira",
+        "morning": "Bus or drive to the coast.",
+        "afternoon": "The ramparts and the port.",
+        "evening": "Grilled fish at the harbour."
+      },
+      {
+        "day": 14,
+        "title": "Return and depart",
+        "morning": "Back to Marrakech.",
+        "afternoon": "Last souvenirs.",
+        "evening": "Fly home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Morocco is a Muslim country with a strong tradition of hospitality and a relatively liberal, cosmopolitan outlook in the big cities. Family and religion are central, and conservative dress and behaviour are appreciated, particularly outside the main tourist areas.",
+    "etiquette": [
+      {
+        "title": "Dress modestly",
+        "text": "Shoulders and knees should be covered, and women may feel more comfortable with loose clothes. In tourist areas, beachwear is fine at the beach or pool only."
+      },
+      {
+        "title": "Accept mint tea",
+        "text": "Tea is offered as a welcome, and accepting is polite. You are not obliged to buy anything after drinking it."
+      },
+      {
+        "title": "Use your right hand",
+        "text": "Eat and pass things with the right hand, and wait for the host to begin when eating from a shared dish."
+      },
+      {
+        "title": "Bargain with good humour",
+        "text": "Haggling is part of shopping in souks. Agree on a price before you take something, and do not begin bargaining if you do not intend to buy."
+      },
+      {
+        "title": "Photography needs permission",
+        "text": "Ask before photographing people, and expect to be asked for a tip. Do not photograph police, military or royal buildings."
+      },
+      {
+        "title": "Respect Ramadan and the King",
+        "text": "Avoid eating, drinking or smoking in public during Ramadan daylight hours in non-tourist areas. Do not criticise the monarchy or Islam, both of which are protected by law."
+      }
+    ],
+    "dos": [
+      "Accept mint tea and enjoy the hospitality",
+      "Dress modestly, particularly outside the big cities",
+      "Ask before photographing people",
+      "Agree fares and prices before you start",
+      "Learn a few phrases: salaam (hello), shukran (thank you), la shukran (no thanks)",
+      "Carry small notes for tips"
+    ],
+    "donts": [
+      "Don't follow unofficial guides who approach you in the street",
+      "Don't criticise the King, Islam or discuss Western Sahara casually",
+      "Don't eat or drink in public during Ramadan daylight in conservative areas",
+      "Don't take photographs of military or police",
+      "Don't buy antiquities or products from endangered animals",
+      "Don't swim or dress immodestly away from beaches and pools"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Morocco, several of which are specific to how the country works.",
+  "tips": [
+    "Hire a licensed guide for the first morning in Fes and Marrakech. They help with navigation and keep touts away, and can be arranged through your riad.",
+    "Say no politely and keep walking. Touts in medinas may claim the way is closed or offer to help; a firm 'la shukran' and a smile is enough.",
+    "Agree prices for taxis, guides and any service before you start. Insist on the meter in petits taxis.",
+    "Book riads with airport pick-up. Finding a riad in a medina alone with luggage is very hard.",
+    "Take cash. ATMs are common, but smaller places, taxis and souks take only cash.",
+    "Do not plan Merzouga as a day trip. It is a long drive from anywhere, and the desert experience needs a night.",
+    "Dress in layers for the desert and mountains. Nights can be near freezing in winter, even after a hot day.",
+    "Drink bottled water, and check that ice and salads are safe."
+  ],
+  "faq": [
+    {
+      "q": "Is Morocco safe to visit?",
+      "a": "Yes, for most visitors. Millions visit each year without problems. Expect touts, hard selling and petty theft in crowded medinas, and women travelling alone may face unwanted attention. Use licensed guides and taxis with meters, and check your government's advice."
+    },
+    {
+      "q": "How many days do you need in Morocco?",
+      "a": "Ten to fourteen for a first trip. A week covers Marrakech and one region, but the desert and the imperial cities are far apart."
+    },
+    {
+      "q": "What is the best time to visit Morocco?",
+      "a": "March to May and September to November. Summer is very hot inland, and winter is cold at night in the mountains and the desert."
+    },
+    {
+      "q": "Do I need a visa for Morocco?",
+      "a": "Many nationalities can enter without a visa for up to 90 days. Check the official Moroccan government site for your passport."
+    },
+    {
+      "q": "What is a riad?",
+      "a": "A traditional Moroccan house built around a central courtyard, often with a garden and fountain, now commonly used as a small guesthouse in the medinas."
+    },
+    {
+      "q": "Can I drink the tap water?",
+      "a": "It is safest to drink bottled water. Avoid ice in cheap places, and eat at busy restaurants."
+    },
+    {
+      "q": "Is it better to hire a driver or a car?",
+      "a": "For the desert and the Atlas, a driver is easier and safer. For the coast and the imperial cities, trains and buses are excellent."
+    }
+  ]
+}

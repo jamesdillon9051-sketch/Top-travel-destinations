@@ -1,0 +1,135 @@
+{
+  "country": "hungary",
+  "title": "The Complete Hungary Travel Guide",
+  "subtitle": "How the country divides, how to choose between the ten destinations, how to get around by train and bus, and what two weeks can realistically hold.",
+  "summary": "Hungary offers Budapest's baths and bridges, wine regions, a great lake, medieval towns and the plains of the puszta at very fair prices. This guide covers how the regions divide, how to choose between the ten destinations, how to travel, when to go, what it costs and three routes that work.",
+  "readingTime": "12 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Is Budapest enough for a trip to Hungary?",
+      "a": "It can be, with three or four days. But a couple of day trips to the Danube Bend or Eger add a lot for little effort."
+    },
+    {
+      "q": "Do I need a car?",
+      "a": "Not for most trips. Trains and buses reach nearly all the places here. A car helps for Tokaj, Hortobágy and Hollókő."
+    },
+    {
+      "q": "Which thermal bath should I choose?",
+      "a": "Széchenyi is the grandest and busiest, Gellért is elegant, and Rudas has an Ottoman dome. Book ahead for peak times."
+    },
+    {
+      "q": "Is Lake Balaton worth visiting outside summer?",
+      "a": "Yes. Spring and September are quiet, and the vineyards, villages and views are lovely. Many facilities close from October to April."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-hungary-divides",
+      "title": "How Hungary divides",
+      "navLabel": "The regions",
+      "body": [
+        "Hungary is about 500 km across, and it falls into five zones for a visitor.",
+        "**Budapest and the Danube.** [[budapest|Budapest]] is the hub, with the [[danube-bend|Danube Bend]] a short trip north.",
+        "**The north.** [[eger|Eger]] and [[tokaj|Tokaj]] are wine towns, and [[holloko|Hollókő]] is a preserved village.",
+        "**The Great Plain.** [[hortobagy|Hortobágy]] is the puszta, and [[szeged|Szeged]] is a lively southern city.",
+        "**The south-west.** [[pecs|Pécs]] is a sunny Mediterranean-feeling city, and [[lake-balaton|Lake Balaton]] is the summer playground.",
+        "**The west.** [[sopron|Sopron]] is a medieval town at the Austrian border."
+      ],
+      "note": "The practical unit is a loop from Budapest, with one or two regions per trip. Distances are short, and trains are cheap."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[budapest|Budapest]] for four days, then the [[danube-bend|Danube Bend]] and [[eger|Eger]]."
+        },
+        {
+          "title": "If you love wine",
+          "text": "[[tokaj|Tokaj]] for sweet wines, [[eger|Eger]] for Bull's Blood, and the vineyards of [[lake-balaton|Balaton]] and Sopron."
+        },
+        {
+          "title": "If you love history",
+          "text": "[[budapest|Budapest]], [[pecs|Pécs]] with its Roman and Ottoman layers, and [[sopron|Sopron's]] medieval core."
+        },
+        {
+          "title": "If you love nature",
+          "text": "[[hortobagy|Hortobágy's]] plains and [[lake-balaton|Lake Balaton]]."
+        },
+        {
+          "title": "If you love villages and folk culture",
+          "text": "[[holloko|Hollókő]] for a UNESCO village and [[hortobagy|Hortobágy]] for horsemen."
+        },
+        {
+          "title": "If you want a lively city",
+          "text": "[[szeged|Szeged]] is a sunny university city, and [[budapest|Budapest]] is the capital of nightlife."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around",
+      "navLabel": "Getting around",
+      "body": [
+        "Hungary's transport is centred on Budapest, and it is cheap but sometimes slow.",
+        "**Trains.** InterCity trains reach Eger, Szeged, Pécs and Sopron in two to three hours. Book on the MÁV app.",
+        "**Buses.** Volánbusz covers Balaton, Tokaj and smaller towns.",
+        "**Budapest transit.** Metro, trams and buses share a ticket. Validate before boarding.",
+        "**Cars.** Useful for [[tokaj|Tokaj]] and [[hortobagy|Hortobágy]]. Buy an e-vignette for motorways."
+      ],
+      "note": "The legal alcohol limit for drivers is zero."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Hungary has four seasons, and the shoulder months are best.",
+        "April to June is spring and early summer, mild and green.",
+        "July and August are hot, with a lively [[lake-balaton|Balaton]] season and Budapest's festivals.",
+        "September and October are autumn, with grape harvests, warm days and lower prices.",
+        "November to March is cold, with Christmas markets and steaming outdoor baths."
+      ],
+      "note": "Many Balaton facilities close from October to April."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Hungary is good value. A restaurant meal costs US$8–20, a mid-range hotel US$70–130, and a long train ride US$10–25.",
+        "Cards are widely accepted. Pay in forints, and decline currency conversion.",
+        "Crime is low, but pickpockets and overcharging in tourist bars are real. Use licensed taxis or apps.",
+        "Check bills for service charges before tipping."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: Budapest and beyond",
+          "text": "Four nights in [[budapest|Budapest]], a day in the [[danube-bend|Danube Bend]], and two nights in [[eger|Eger]].",
+          "tip": "Buy a Budapest travel card."
+        },
+        {
+          "title": "Ten days: adding the wine country",
+          "text": "The one-week route, plus [[tokaj|Tokaj]] and [[hortobagy|Hortobágy]].",
+          "tip": "Hire a car for a day."
+        },
+        {
+          "title": "Two weeks: the classic",
+          "text": "The itinerary on the country page: Budapest, Eger, Tokaj, Hortobágy, Szeged, Pécs, Balaton and Sopron.",
+          "tip": "Skip Sopron if you prefer a slower pace."
+        }
+      ]
+    }
+  ]
+}

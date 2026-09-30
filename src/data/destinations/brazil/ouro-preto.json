@@ -1,0 +1,311 @@
+{
+  "slug": "ouro-preto",
+  "name": "Ouro Preto and Minas Gerais",
+  "shortName": "Ouro Preto",
+  "country": "brazil",
+  "region": "Minas Gerais, south-east Brazil",
+  "categories": ["unesco", "historic", "cultural", "mountains"],
+  "tagline": "A steep, cobbled gold-rush town of gilded baroque churches, hilltop views and the masterpieces of Aleijadinho, in the highlands of Minas Gerais.",
+  "highlight": "The interior of the Church of São Francisco de Assis, with its ceiling by Ataíde and sculptures by Aleijadinho.",
+  "shortDescription": "One of Brazil's first UNESCO sites: a colonial mining town with baroque churches, museums, cobbled hills and mineiro food, with historic Mariana and other colonial towns nearby.",
+  "metaDescription": "An Ouro Preto travel guide: São Francisco de Assis church, Aleijadinho, the Tiradentes Square, Museu da Inconfidência, gold mines, Mariana, Minas food, best time and a two-day plan from Belo Horizonte.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Belo Horizonte Confins (CNF), about 2 hours",
+  "knownFor": "Baroque churches, Aleijadinho, gold-rush history, cobbled streets",
+  "budget": "US$60–130 per day, mid-range",
+  "goodFor": "Colonial history, architecture, walking, food, culture",
+  "coords": { "lat": -20.3856, "lng": -43.5035 },
+  "image": {
+    "file": "File:Ouro Preto November 2009-13.jpg",
+    "alt": "Colonial houses and church towers on the hills of Ouro Preto"
+  },
+  "intro": [
+    "Ouro Preto, or Black Gold, was founded around 1698 after gold was discovered in the hills of what would become Minas Gerais, which means General Mines. Within a few decades it became the greatest gold-mining town in the Americas, and one of the largest cities on the continent, and it built churches, mansions and fountains with the wealth from the mines. It was known as Vila Rica, and it later became the state capital until 1897. UNESCO listed it in 1980, one of the first places in Brazil to be recognised.",
+    "The town is spread across steep hills, and its cobbled streets climb and drop between whitewashed houses with colourful doors and windows. More than a dozen baroque churches are decorated with carved wood and gold leaf. Many are associated with the sculptor and architect Aleijadinho, Antônio Francisco Lisboa, who created some of the finest baroque works in the Americas despite a disabling illness, and with the painter Manuel da Costa Ataíde.",
+    "It is also the site of the Inconfidência Mineira, a 1789 plot to free Brazil from Portuguese rule, whose martyr, Tiradentes, gave his name to the main square. The town has a university, and a lively student atmosphere, which contrasts with its historic character. It is a quiet town of hills and mist, with excellent food and a hospitable culture."
+  ],
+  "whyVisit": {
+    "intro": "Ouro Preto is the finest colonial town in Brazil, and a highlight of the interior.",
+    "points": [
+      {
+        "title": "Baroque masterpieces",
+        "text": "Churches decorated with gilded carving, painted ceilings and sculptures by Aleijadinho."
+      },
+      {
+        "title": "Gold-rush history",
+        "text": "Mines, museums and mansions from the era that shaped Brazil."
+      },
+      {
+        "title": "A perfect hill town",
+        "text": "Steep cobbled streets, colonial houses and mountain views."
+      },
+      {
+        "title": "Mineiro cuisine",
+        "text": "Hearty, comforting food such as tutu de feijão, pão de queijo and doce de leite."
+      },
+      {
+        "title": "Other colonial towns",
+        "text": "Mariana, Tiradentes and São João del-Rei are within reach."
+      }
+    ]
+  },
+  "attractionsIntro": "The centre is small and walkable, and a full day covers the churches.",
+  "attractions": [
+    {
+      "name": "Church of São Francisco de Assis",
+      "image": {
+        "file": "File:Igreja São Francisco de Assis - Ouro Preto - 20220309095922.JPG",
+        "alt": "The baroque façade of the Church of São Francisco de Assis in Ouro Preto"
+      },
+      "text": "A masterpiece of Brazilian baroque, designed by Aleijadinho, with a ceiling painted by Ataíde. The façade, with its sculpted medallions, is a highlight.",
+      "tip": "Visit early, and check the opening times."
+    },
+    {
+      "name": "Praça Tiradentes",
+      "image": {
+        "file": "File:Praça Tiradentes - Ouro Preto - MG.jpg",
+        "alt": "The Praça Tiradentes square with the statue and the Museu da Inconfidência in Ouro Preto"
+      },
+      "text": "The main square, with a statue of Tiradentes and the Museu da Inconfidência in a former town hall and jail, which tells of the 1789 conspiracy and the gold-rush era.",
+      "tip": "Start here."
+    },
+    {
+      "name": "Matriz de Nossa Senhora do Pilar",
+      "text": "A church richly decorated with hundreds of kilograms of gold, and one of the most lavish in Brazil, with a museum of sacred art.",
+      "tip": "Photography is often not allowed."
+    },
+    {
+      "name": "Mina do Chico Rei",
+      "text": "A former gold mine that visitors can enter, with a story of an African king who bought his freedom.",
+      "tip": "Wear comfortable shoes."
+    },
+    {
+      "name": "Mariana",
+      "image": {
+        "file": "File:Churches in Mariana, Minas Gerais - Brazil.jpg",
+        "alt": "Two baroque churches on a square in the colonial town of Mariana"
+      },
+      "text": "An older and quieter colonial town, 12 km away, with baroque churches and the oldest city in Minas Gerais. A tourist train links it with Ouro Preto.",
+      "tip": "Take the train."
+    },
+    {
+      "name": "Museu do Oratório",
+      "text": "A museum of small household shrines, with more than a thousand pieces.",
+      "tip": "A short visit."
+    }
+  ],
+  "thingsToDoIntro": "Ouro Preto is for slow walking and church-going.",
+  "thingsToDo": [
+    {
+      "title": "Walk the cobbled streets",
+      "text": "Explore the hills and viewpoints.",
+      "tip": "Wear good shoes."
+    },
+    {
+      "title": "Visit the baroque churches",
+      "text": "See carved altars and painted ceilings.",
+      "tip": "Buy a combined ticket."
+    },
+    {
+      "title": "Explore a gold mine",
+      "text": "Go underground at the Chico Rei mine.",
+      "tip": "Bring a jacket."
+    },
+    {
+      "title": "Take the train to Mariana",
+      "text": "A scenic ride on a historic train.",
+      "tip": "Check the timetable."
+    },
+    {
+      "title": "Try local sweets and cachaça",
+      "text": "Doce de leite, goiabada and cachaça from Minas.",
+      "tip": "Buy from local shops."
+    },
+    {
+      "title": "Watch the sunset",
+      "text": "From viewpoints such as Morro da Forca and Praça Tiradentes.",
+      "tip": "Bring a jacket."
+    }
+  ],
+  "foodIntro": "Minas Gerais has the most beloved regional cooking in Brazil, hearty and warming.",
+  "foods": [
+    {
+      "name": "Tutu de feijão",
+      "text": "A thick bean purée with cassava flour, served with pork, greens and rice.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Frango com quiabo",
+      "text": "Chicken stewed with okra, a Minas classic.",
+      "whereToTry": "Family restaurants."
+    },
+    {
+      "name": "Pão de queijo",
+      "text": "Chewy cheese rolls made with local cheese.",
+      "whereToTry": "Cafés and bakeries."
+    },
+    {
+      "name": "Doce de leite and goiabada",
+      "text": "Sweet milk caramel and guava paste, eaten with white cheese.",
+      "whereToTry": "Shops and cafés."
+    },
+    {
+      "name": "Cachaça mineira",
+      "text": "Artisanal cachaça from Minas Gerais.",
+      "whereToTry": "Bars and shops."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the historic centre for atmosphere, with many pousadas in old houses.",
+    "areas": [
+      {
+        "name": "Historic centre",
+        "bestFor": "Sights and atmosphere",
+        "text": "Pousadas in restored colonial houses."
+      },
+      {
+        "name": "Antônio Dias",
+        "bestFor": "Quiet and views",
+        "text": "Guesthouses on the hills."
+      },
+      {
+        "name": "Mariana",
+        "bestFor": "A calmer base",
+        "text": "Hotels and guesthouses."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "US$20–50 per night" },
+      { "label": "Mid-range pousada", "value": "US$60–130 per night" },
+      { "label": "Boutique hotel", "value": "US$150–300 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$7–18 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Ouro Preto is about 100 km south-east of Belo Horizonte.",
+    "options": [
+      {
+        "mode": "Bus from Belo Horizonte",
+        "text": "About 2 to 2.5 hours, several daily services.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Car from Belo Horizonte or Rio",
+        "text": "About 1.5 to 2 hours from Belo Horizonte, and about 7 hours from Rio.",
+        "detail": "Parking is limited in town."
+      },
+      {
+        "mode": "Flight to Belo Horizonte (CNF)",
+        "text": "Direct flights from Rio, São Paulo and other cities.",
+        "detail": "Take a bus or transfer."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The centre is walkable, and steep.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The best way, though hills are steep.",
+        "detail": "Wear good shoes."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Useful for hills and viewpoints.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Bus",
+        "text": "Local buses link the town centre and Mariana.",
+        "detail": "Check the timetable."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "Ouro Preto is in the highlands, so it is cool and misty, with a dry winter and a rainy summer.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "avoid",
+        "text": "Warm and wet, with heavy rain."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "good",
+        "text": "Mild and drying out."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "best",
+        "text": "Dry, sunny days and cold nights."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "good",
+        "text": "Warming, with the first rains."
+      }
+    ],
+    "avoid": "January and February, when rain is heavy. Semana Santa (Easter week) is a special, crowded time."
+  },
+  "itinerary": {
+    "title": "Two days in Ouro Preto",
+    "intro": "The churches and the square on the first day, and Mariana on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Ouro Preto",
+        "summary": "Churches and history.",
+        "morning": "Praça Tiradentes and the Museu da Inconfidência.",
+        "afternoon": "São Francisco de Assis and Nossa Senhora do Pilar.",
+        "evening": "Dinner with mineiro food."
+      },
+      {
+        "day": 2,
+        "title": "Mariana",
+        "summary": "A colonial neighbour.",
+        "morning": "The Chico Rei mine.",
+        "afternoon": "The train to Mariana.",
+        "evening": "Return to Belo Horizonte or stay."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you enjoy the town.",
+  "tips": [
+    "Wear comfortable shoes for the steep cobbles.",
+    "Bring a jacket, since evenings are cool.",
+    "Visit churches in the morning, and check opening times, since many close for lunch.",
+    "Buy a combined ticket to churches and museums.",
+    "Stay a night to enjoy the town after day trippers leave.",
+    "Respect photography rules in churches.",
+    "Book ahead for Easter week."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Ouro Preto?",
+      "a": "Two days for the churches, museums and Mariana."
+    },
+    {
+      "q": "Is Ouro Preto worth visiting?",
+      "a": "Yes, for baroque architecture and colonial history."
+    },
+    {
+      "q": "Who was Aleijadinho?",
+      "a": "Antônio Francisco Lisboa, a sculptor and architect of the 18th century who created many of Minas Gerais's baroque masterpieces."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "May to September."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "By bus from Belo Horizonte, about 2 to 2.5 hours."
+    },
+    {
+      "q": "Can I visit as a day trip?",
+      "a": "Yes, from Belo Horizonte, but a night is better."
+    }
+  ],
+  "related": ["sao-paulo", "rio-de-janeiro", "paraty-ilha-grande"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

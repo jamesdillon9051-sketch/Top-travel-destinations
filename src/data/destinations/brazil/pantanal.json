@@ -1,0 +1,338 @@
+{
+  "slug": "pantanal",
+  "name": "The Pantanal",
+  "country": "brazil",
+  "region": "Mato Grosso and Mato Grosso do Sul, central-west Brazil",
+  "categories": ["nature", "unesco", "national-park", "off-the-beaten-path"],
+  "tagline": "The largest tropical wetland on earth: a vast, open floodplain of rivers, lagoons and ranches, where jaguars, giant otters, caimans and hyacinth macaws are easy to see.",
+  "highlight": "A jaguar padding along the riverbank in the golden light of late afternoon, from a small boat on the Cuiabá River.",
+  "shortDescription": "One of the world's best places for wildlife: jaguars at Porto Jofre, caimans, capybaras, giant otters and hundreds of bird species, seen by boat, safari truck and horseback.",
+  "metaDescription": "A Pantanal travel guide: jaguar spotting at Porto Jofre, the Transpantaneira road, caimans, giant otters, hyacinth macaws, ranch lodges, Bonito, the dry season, how to get there and a five-day plan.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "Cuiabá (CGB) for the north Pantanal, Campo Grande (CGR) for the south",
+  "knownFor": "Jaguars, giant otters, caimans, birdlife, ranches, wide skies",
+  "budget": "US$150–350 per day, mid-range, with lodge stays",
+  "goodFor": "Wildlife, birdwatching, photography, quiet nature",
+  "coords": { "lat": -17.6600, "lng": -56.7000 },
+  "image": {
+    "file": "File:011 Jaguar drinking in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+    "alt": "A jaguar drinking at the edge of a river in the northern Pantanal"
+  },
+  "intro": [
+    "The Pantanal is the world's largest tropical wetland, a floodplain of about 150,000 square kilometres at the heart of South America, mostly in Brazil, and stretching into Bolivia and Paraguay. Each year, the rivers that drain the surrounding highlands overflow and cover much of the plain, and then recede, creating a mosaic of lagoons, forest islands and grassland. UNESCO listed parts of the Pantanal as a World Heritage Site in 2000.",
+    "Its wildlife is astonishing, and much easier to see than in the Amazon because the landscape is open. The Pantanal holds the world's densest population of jaguars, particularly around Porto Jofre in the north, where boats regularly find them on the riverbank, as well as giant otters, capybaras, tapirs, anacondas, huge numbers of yacaré caiman and more than 650 species of bird, including the jabiru stork, the symbol of the region, and the hyacinth macaw, the world's largest parrot.",
+    "Most visitors stay at fazendas, working cattle ranches that have converted part of their land to lodges, or at simple pousadas along the Transpantaneira, a dirt road with more than 100 wooden bridges. Fires in 2020 and later damaged large areas, and the landscape is fragile, but wildlife is still abundant, and tourism helps to support conservation."
+  ],
+  "whyVisit": {
+    "intro": "The Pantanal is the best place in the Americas to see large wildlife easily, and the best place in the world to see wild jaguars.",
+    "points": [
+      {
+        "title": "Jaguars",
+        "text": "Boat trips at Porto Jofre offer some of the highest chances of seeing jaguars anywhere."
+      },
+      {
+        "title": "Open-country wildlife",
+        "text": "Caimans, capybaras, giant otters, tapirs and hundreds of birds are visible from vehicles and boats."
+      },
+      {
+        "title": "Ranch culture",
+        "text": "Stay on a fazenda and see pantaneiro cowboys at work."
+      },
+      {
+        "title": "Big skies and quiet",
+        "text": "Wide horizons, sunsets and few other visitors."
+      },
+      {
+        "title": "Conservation success",
+        "text": "Tourism has helped protect wildlife and support local communities."
+      }
+    ]
+  },
+  "attractionsIntro": "The Pantanal has two main areas, the north around Cuiabá and the south around Campo Grande, each with different styles of visit.",
+  "attractions": [
+    {
+      "name": "Porto Jofre and the Cuiabá River",
+      "text": "The centre of jaguar tourism in the north Pantanal, at the end of the Transpantaneira road, where boats travel the rivers and lagoons looking for the big cats.",
+      "tip": "Book several boat outings to improve your chances."
+    },
+    {
+      "name": "The Transpantaneira",
+      "image": {
+        "file": "File:Transpantaneira Pantanal Poconé MT.jpg",
+        "alt": "A dirt road with wooden bridges crossing the Transpantaneira in the Pantanal"
+      },
+      "text": "A 145-km dirt road from Poconé to Porto Jofre, crossing about 120 wooden bridges, with caimans and birds visible from the road.",
+      "tip": "Go slowly, and stop often."
+    },
+    {
+      "name": "Caimans and capybaras",
+      "image": {
+        "file": "File:023 Yacare caiman sunbathing in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+        "alt": "A yacaré caiman sunbathing on the bank of a river in the Pantanal"
+      },
+      "text": "Thousands of yacaré caimans sunbathe on riverbanks and in shallow lagoons, and capybaras graze in groups.",
+      "tip": "Keep a safe distance."
+    },
+    {
+      "name": "Hyacinth macaws",
+      "image": {
+        "file": "File:Hyacinth macaw (Anodorhynchus hyacinthinus) in flight.JPG",
+        "alt": "A hyacinth macaw with bright blue feathers in flight"
+      },
+      "text": "The world's largest flying parrot, an intense cobalt blue, is often seen in palm groves and on ranches.",
+      "tip": "Listen for their loud calls."
+    },
+    {
+      "name": "Toucans and other birds",
+      "image": {
+        "file": "File:006 Toco toucan in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+        "alt": "A toco toucan with a large orange bill perched on a branch"
+      },
+      "text": "Toco toucans, jabiru storks, roseate spoonbills, kingfishers and hundreds of other species live here.",
+      "tip": "Bring binoculars."
+    },
+    {
+      "name": "Bonito",
+      "text": "A town in the south, with crystal-clear rivers, caves and snorkelling, often combined with the Pantanal.",
+      "tip": "Book snorkelling trips in advance."
+    }
+  ],
+  "thingsToDoIntro": "Most activities are guided, with boat, vehicle and horseback safaris.",
+  "thingsToDo": [
+    {
+      "title": "Look for jaguars by boat",
+      "text": "Small boats travel the rivers at dawn and dusk, when jaguars are most active.",
+      "tip": "Book from July to October."
+    },
+    {
+      "title": "Go on a safari drive",
+      "text": "Open vehicles travel dirt roads through ranch land, spotting wildlife.",
+      "tip": "Go early or late."
+    },
+    {
+      "title": "Ride a horse",
+      "text": "Horseback trips with pantaneiro cowboys are a traditional way to explore.",
+      "tip": "Choose a suitable horse."
+    },
+    {
+      "title": "Take a night safari",
+      "text": "Spot owls, tapirs, ocelots and caiman by torchlight.",
+      "tip": "Bring warm layers."
+    },
+    {
+      "title": "Watch birds from a tower",
+      "text": "Ranch lodges have towers and hides for birdwatching.",
+      "tip": "Go at sunrise."
+    },
+    {
+      "title": "Go piranha fishing",
+      "text": "A traditional activity from the riverbank.",
+      "tip": "Release what you do not eat."
+    }
+  ],
+  "foodIntro": "Pantaneiro food is ranch food: beef, river fish, rice and manioc, cooked simply.",
+  "foods": [
+    {
+      "name": "Pacu and pintado",
+      "text": "River fish, grilled or stewed.",
+      "whereToTry": "Ranch lodges."
+    },
+    {
+      "name": "Carne seca",
+      "text": "Sun-dried beef, stewed with manioc.",
+      "whereToTry": "Pantaneiro restaurants."
+    },
+    {
+      "name": "Arroz carreteiro",
+      "text": "A one-pot dish of rice and dried beef, cooked by cowboys.",
+      "whereToTry": "Ranches."
+    },
+    {
+      "name": "Tereré",
+      "text": "Cold yerba mate, drunk from a shared cup.",
+      "whereToTry": "Everywhere."
+    },
+    {
+      "name": "Tropical fruit",
+      "text": "Fresh fruit from the ranch gardens.",
+      "whereToTry": "Lodges."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in ranch lodges (fazendas and pousadas), often with all meals and activities included.",
+    "areas": [
+      {
+        "name": "Transpantaneira lodges",
+        "bestFor": "Wildlife by road",
+        "text": "Lodges along the dirt road, with wildlife at the door."
+      },
+      {
+        "name": "Porto Jofre",
+        "bestFor": "Jaguars",
+        "text": "Lodges and floating hotels near the river."
+      },
+      {
+        "name": "Southern Pantanal fazendas",
+        "bestFor": "Ranch life and horse riding",
+        "text": "Historic ranches near Miranda and Campo Grande."
+      }
+    ],
+    "budget": [
+      { "label": "Basic pousada", "value": "US$60–120 per night" },
+      { "label": "Mid-range lodge", "value": "US$150–300 per night, full board" },
+      { "label": "Luxury lodge", "value": "US$400–700 per night, with activities" },
+      { "label": "Jaguar boat trip", "value": "US$150–350 per person per day" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Pantanal is in the centre of South America, and lodges arrange transfers.",
+    "options": [
+      {
+        "mode": "Flight to Cuiabá (CGB)",
+        "text": "Direct flights from São Paulo, Brasília and Rio. The Transpantaneira starts about 100 km south.",
+        "detail": "Lodges arrange transfers."
+      },
+      {
+        "mode": "Flight to Campo Grande (CGR)",
+        "text": "For the southern Pantanal and Bonito.",
+        "detail": "A car is useful."
+      },
+      {
+        "mode": "Road",
+        "text": "Buses and cars reach Poconé from Cuiabá.",
+        "detail": "Roads can be dusty or muddy."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Movement is by 4WD, boat and on horseback, usually arranged by the lodge.",
+    "options": [
+      {
+        "mode": "4WD vehicles",
+        "text": "Dirt roads and tracks.",
+        "detail": "Drive slowly."
+      },
+      {
+        "mode": "Boat",
+        "text": "Rivers and lagoons.",
+        "detail": "Life jackets are provided."
+      },
+      {
+        "mode": "Horse",
+        "text": "Ranch trails.",
+        "detail": "Book at the lodge."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June–October",
+    "summary": "The Pantanal has a wet season from November to March, when it floods, and a dry season from May to October, when animals gather around water.",
+    "seasons": [
+      {
+        "season": "Dry season (June–September)",
+        "rating": "best",
+        "text": "Wildlife is concentrated and easy to see, with mild days."
+      },
+      {
+        "season": "Late dry (October)",
+        "rating": "good",
+        "text": "Very hot, with jaguar activity at a peak but fire risk."
+      },
+      {
+        "season": "Wet season (November–March)",
+        "rating": "quiet",
+        "text": "Rain, floods and mosquitoes, but green landscapes and birds."
+      },
+      {
+        "season": "Early dry (April–May)",
+        "rating": "good",
+        "text": "The waters recede, with good birding."
+      }
+    ],
+    "avoid": "The peak of the wet season, when many roads are impassable, and severe fire periods."
+  },
+  "itinerary": {
+    "title": "Five days in the Pantanal",
+    "intro": "Wildlife by road, river and horse.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Cuiabá",
+        "summary": "Head south.",
+        "morning": "Fly into Cuiabá.",
+        "afternoon": "Drive to Poconé and the Transpantaneira.",
+        "evening": "Check into a lodge."
+      },
+      {
+        "day": 2,
+        "title": "Along the Transpantaneira",
+        "summary": "Wildlife by road.",
+        "morning": "A wildlife walk.",
+        "afternoon": "A safari drive.",
+        "evening": "A night safari."
+      },
+      {
+        "day": 3,
+        "title": "To Porto Jofre",
+        "summary": "Jaguar country.",
+        "morning": "Drive to Porto Jofre.",
+        "afternoon": "A first boat trip.",
+        "evening": "Dinner at the lodge."
+      },
+      {
+        "day": 4,
+        "title": "Jaguar day",
+        "summary": "On the river.",
+        "morning": "A boat trip for jaguars.",
+        "afternoon": "A second boat trip.",
+        "evening": "Stargazing."
+      },
+      {
+        "day": 5,
+        "title": "Return",
+        "summary": "Back to Cuiabá.",
+        "morning": "Drive back.",
+        "afternoon": "Fly home.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you make the most of the Pantanal.",
+  "tips": [
+    "Go in the dry season, from June to October.",
+    "Book jaguar trips many months ahead.",
+    "Choose lodges with good guides and a conservation record.",
+    "Bring binoculars, a camera with a long lens, and neutral clothing.",
+    "Use repellent and cover up in the evenings.",
+    "Do not feed animals or approach jaguars too closely.",
+    "Check vaccination and health advice."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the Pantanal?",
+      "a": "Four to five days, with several boat trips for jaguars."
+    },
+    {
+      "q": "Can I see jaguars for sure?",
+      "a": "Not guaranteed, but sightings at Porto Jofre are frequent in the dry season."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "June to October."
+    },
+    {
+      "q": "Is the Pantanal better than the Amazon for wildlife?",
+      "a": "For seeing large animals, yes, because the landscape is open. The Amazon is better for forest ecosystems and river life."
+    },
+    {
+      "q": "Do I need vaccinations?",
+      "a": "Yellow fever vaccination is recommended. Check with a travel clinic."
+    },
+    {
+      "q": "North or south Pantanal?",
+      "a": "The north for jaguars and the Transpantaneira, and the south for ranch stays and Bonito."
+    }
+  ],
+  "related": ["amazon-manaus", "iguazu-falls", "rio-de-janeiro"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

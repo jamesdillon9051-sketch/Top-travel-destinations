@@ -1,0 +1,331 @@
+{
+  "slug": "kakadu-top-end",
+  "name": "Kakadu and the Top End",
+  "shortName": "Kakadu",
+  "country": "australia",
+  "region": "Northern Territory, tropical north",
+  "categories": ["unesco", "national-park", "nature", "cultural"],
+  "tagline": "A vast tropical wilderness of wetlands, escarpments, waterfalls and some of the world's oldest rock art, in the heart of Bininj/Mungguy country and home to saltwater crocodiles.",
+  "highlight": "Sunset from Ubirr, looking over the floodplains after a walk past thousands of years of rock art.",
+  "shortDescription": "Australia's largest national park, a UNESCO site for both nature and culture, with Ubirr and Nourlangie rock art, Yellow Water cruises, Jim Jim Falls and Litchfield, reached from Darwin.",
+  "metaDescription": "A Kakadu and Top End travel guide: Ubirr and Nourlangie rock art, Yellow Water cruise, Jim Jim and Twin Falls, Litchfield National Park, Darwin, crocodile safety, dry and wet seasons and a four-day plan.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Darwin (DRW), about 2.5–3 hours' drive",
+  "knownFor": "Rock art, wetlands, waterfalls, crocodiles, Aboriginal culture",
+  "budget": "A$250–450 per day, mid-range",
+  "goodFor": "Aboriginal culture, wildlife, birdwatching, waterfalls, adventure",
+  "coords": { "lat": -12.6759, "lng": 132.4790 },
+  "image": {
+    "file": "File:Kakadu (AU), Kakadu National Park, Yellow Water -- 2019 -- 3782.jpg",
+    "alt": "The Yellow Water billabong at Kakadu National Park with wetlands and water lilies"
+  },
+  "intro": [
+    "Kakadu National Park, in the Northern Territory, is the largest national park in Australia, covering about 20,000 square kilometres, an area nearly the size of Wales. It is on the UNESCO World Heritage List for both its natural and its cultural values, one of the few places in the world to hold a dual listing. It is jointly managed by its Aboriginal traditional owners, the Bininj/Mungguy, and Parks Australia.",
+    "The landscape ranges from tidal flats and floodplains to billabongs, lowland forest and the stone country of the Arnhem Land escarpment. It is home to more than 280 bird species, huge numbers of saltwater crocodiles, and rock art galleries at Ubirr, Nourlangie and other sites that record thousands of years of human occupation, and some of them are among the oldest in the world. Aboriginal people have lived here for at least 65,000 years.",
+    "The Top End has two seasons: the dry, from May to October, and the wet, from November to April. Most visitors come in the dry, when the roads are open, the weather is warm and sunny and the waterfalls are accessible, though the falls run best early in the season. The wet brings flooding, closed roads, dramatic storms and green landscapes for those who are prepared. Darwin, the regional capital, is the gateway."
+  ],
+  "whyVisit": {
+    "intro": "Kakadu is one of the most remarkable places in Australia, both for its wildlife and its cultural heritage.",
+    "points": [
+      {
+        "title": "Ancient rock art",
+        "text": "Galleries at Ubirr and Nourlangie, with paintings that span tens of thousands of years."
+      },
+      {
+        "title": "Wetlands and wildlife",
+        "text": "Boat cruises on Yellow Water spot crocodiles, jabirus, sea eagles and thousands of waterbirds."
+      },
+      {
+        "title": "Waterfalls and gorges",
+        "text": "Jim Jim and Twin Falls tumble off the escarpment in the early dry season."
+      },
+      {
+        "title": "Living culture",
+        "text": "Aboriginal-led tours and cultural centres share stories and knowledge."
+      },
+      {
+        "title": "Vastness and quiet",
+        "text": "An immense wilderness, still uncrowded."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights are spread across a huge park, so plan a route and a few nights of accommodation.",
+  "attractions": [
+    {
+      "name": "Ubirr Rock Art",
+      "image": {
+        "file": "File:Kakadu (AU), Kakadu National Park, Ubirr Rock Art -- 2019 -- 4169.jpg",
+        "alt": "Aboriginal rock art paintings on a sandstone wall at Ubirr in Kakadu"
+      },
+      "text": "A rock outcrop in the north of the park with galleries of paintings of fish, animals and figures, and a climb to a lookout over the floodplains, one of the best sunset views in Australia.",
+      "tip": "Go in the late afternoon, and stay for sunset."
+    },
+    {
+      "name": "Nourlangie (Burrungkuy)",
+      "image": {
+        "file": "File:Nourlangie Rock, Kakadu - panoramio.jpg",
+        "alt": "The sandstone outlier of Nourlangie Rock in Kakadu National Park"
+      },
+      "text": "A sandstone outlier with shelters decorated with rock art, including some paintings of spirit beings, and a lookout at Nawurlandja.",
+      "tip": "Read the interpretive signs, which tell of the creation stories."
+    },
+    {
+      "name": "Yellow Water (Ngurrungurrlba) Billabong",
+      "text": "A wetland on the South Alligator River floodplain, explored by boat at sunrise or late afternoon, with crocodiles, jabirus, whistling ducks and water lilies.",
+      "tip": "Book the sunrise cruise."
+    },
+    {
+      "name": "Jim Jim and Twin Falls",
+      "image": {
+        "file": "File:Kakadu (AU), Kakadu National Park, Jim Jim Creek -- 2019 -- 4240.jpg",
+        "alt": "The rocky gorge and creek at Jim Jim in Kakadu National Park"
+      },
+      "text": "Waterfalls that plunge over the escarpment, reached by a 4WD track and a walk, and open only in the dry season when the track is passable. Swimming may be prohibited if crocodiles are present.",
+      "tip": "Check road and swimming conditions with park rangers."
+    },
+    {
+      "name": "Warradjan Aboriginal Cultural Centre",
+      "text": "A centre in the shape of a pig-nosed turtle, with displays about the Bininj/Mungguy culture, art and stories.",
+      "tip": "Visit early in your trip for context."
+    },
+    {
+      "name": "Litchfield National Park",
+      "image": {
+        "file": "File:Litchfield National Park (AU), Wangi Falls -- 2019 -- 3749.jpg",
+        "alt": "Wangi Falls tumbling into a plunge pool in Litchfield National Park"
+      },
+      "text": "A smaller park about 1.5 hours south of Darwin, with waterfalls and swimming holes at Wangi Falls and Florence Falls, and giant termite mounds. A good option for a day trip.",
+      "tip": "Swim only in designated areas."
+    }
+  ],
+  "thingsToDoIntro": "Kakadu is about culture, wildlife and time outdoors.",
+  "thingsToDo": [
+    {
+      "title": "See the rock art at Ubirr",
+      "text": "Walk a short trail past painted shelters, and climb for the view.",
+      "tip": "Go with a ranger talk if available."
+    },
+    {
+      "title": "Cruise Yellow Water",
+      "text": "A boat trip at dawn among crocodiles and birds.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Take an Aboriginal-led tour",
+      "text": "Local guides share knowledge of bush foods, fishing and rock art.",
+      "tip": "Choose operators owned by Traditional Owners."
+    },
+    {
+      "title": "Swim at a safe pool",
+      "text": "Some waterholes are monitored and safe for swimming, such as Maguk and Gunlom, when open.",
+      "tip": "Check ranger warnings."
+    },
+    {
+      "title": "Watch birds",
+      "text": "Kakadu is one of Australia's best birding areas.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Visit Darwin's markets",
+      "text": "The Mindil Beach Sunset Market has food, crafts and sunsets in the dry season.",
+      "tip": "It runs on Thursday and Sunday evenings."
+    }
+  ],
+  "foodIntro": "Food in Kakadu is simple, with barramundi and barbecue, and Darwin has a lively multicultural scene.",
+  "foods": [
+    {
+      "name": "Barramundi",
+      "text": "The northern fish, served grilled, battered or in a curry.",
+      "whereToTry": "Restaurants and pubs across the Top End."
+    },
+    {
+      "name": "Buffalo and crocodile",
+      "text": "Local meats served at outback pubs and barbecues.",
+      "whereToTry": "Roadhouses and Darwin restaurants."
+    },
+    {
+      "name": "Laksa and Asian food",
+      "text": "Darwin's food reflects its links with Southeast Asia, with excellent laksa and satay.",
+      "whereToTry": "The Mindil Beach Sunset Market."
+    },
+    {
+      "name": "Bush tucker",
+      "text": "Native fruit, honey and herbs, such as Kakadu plum, one of the richest sources of vitamin C in the world.",
+      "whereToTry": "Cultural tours and cafés."
+    },
+    {
+      "name": "Tropical fruit",
+      "text": "Mangoes, from October, and other fruit.",
+      "whereToTry": "Markets."
+    }
+  ],
+  "accommodation": {
+    "intro": "Accommodation in the park is limited and should be booked ahead, particularly in the dry season.",
+    "areas": [
+      {
+        "name": "Jabiru",
+        "bestFor": "Central base",
+        "text": "The park's main town, with hotels and a caravan park."
+      },
+      {
+        "name": "Cooinda and Yellow Water",
+        "bestFor": "Wetlands and cruises",
+        "text": "A lodge and campground near the billabong."
+      },
+      {
+        "name": "Darwin",
+        "bestFor": "Facilities and flights",
+        "text": "A wide range of hotels and restaurants."
+      }
+    ],
+    "budget": [
+      { "label": "Campsite", "value": "A$15–50 per night" },
+      { "label": "Mid-range lodge", "value": "A$200–350 per night" },
+      { "label": "Luxury lodge", "value": "A$500–1,000 per night" },
+      { "label": "Park pass", "value": "About A$40 per adult, valid for a week" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Kakadu is about 250 km east of Darwin.",
+    "options": [
+      {
+        "mode": "Hire car from Darwin",
+        "text": "About 2.5 to 3 hours to Jabiru or Cooinda, on sealed roads. 4WD is needed for some tracks, such as Jim Jim.",
+        "detail": "Book early in the dry season."
+      },
+      {
+        "mode": "Organised tour",
+        "text": "Day tours and multi-day trips leave Darwin.",
+        "detail": "The easiest option for first-timers."
+      },
+      {
+        "mode": "Flight to Darwin (DRW)",
+        "text": "Direct flights from Sydney, Melbourne, Perth and Asian cities.",
+        "detail": "The airport is near the city."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Distances within the park are long, and roads can flood.",
+    "options": [
+      {
+        "mode": "Car or 4WD",
+        "text": "Essential for independence.",
+        "detail": "Carry fuel and water, and check road conditions."
+      },
+      {
+        "mode": "Tour",
+        "text": "Guided trips remove the driving stress.",
+        "detail": "Small groups are best."
+      },
+      {
+        "mode": "Boat",
+        "text": "Cruises on Yellow Water and the East Alligator River.",
+        "detail": "Book ahead."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–October",
+    "summary": "The dry season is best, with warm days and low humidity. The wet season from November to April brings storms, flooding and closed roads.",
+    "seasons": [
+      {
+        "season": "Early dry (May–June)",
+        "rating": "best",
+        "text": "Green, with waterfalls at their best and cooler weather."
+      },
+      {
+        "season": "Late dry (July–October)",
+        "rating": "good",
+        "text": "Hot, dry and dusty, with wildlife concentrating at water."
+      },
+      {
+        "season": "Build-up (October–November)",
+        "rating": "avoid",
+        "text": "Hot, humid and stormy."
+      },
+      {
+        "season": "Wet season (December–April)",
+        "rating": "quiet",
+        "text": "Extreme humidity, flooding and closed roads, but dramatic and green."
+      }
+    ],
+    "avoid": "The wet season, unless you are prepared for closures and heat."
+  },
+  "itinerary": {
+    "title": "Four days in Kakadu",
+    "intro": "From Darwin into the park, with rock art, a cruise and waterfalls.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Darwin to Kakadu",
+        "summary": "Into the wilderness.",
+        "morning": "Drive from Darwin.",
+        "afternoon": "The cultural centre.",
+        "evening": "Sunset at Nawurlandja."
+      },
+      {
+        "day": 2,
+        "title": "Ubirr",
+        "summary": "Rock art.",
+        "morning": "A ranger talk at Ubirr.",
+        "afternoon": "The rock art and lookout.",
+        "evening": "Sunset over the floodplains."
+      },
+      {
+        "day": 3,
+        "title": "Yellow Water and Nourlangie",
+        "summary": "Wetlands and rock.",
+        "morning": "The Yellow Water cruise.",
+        "afternoon": "Nourlangie Rock art.",
+        "evening": "A campfire dinner."
+      },
+      {
+        "day": 4,
+        "title": "Jim Jim or return",
+        "summary": "Waterfalls.",
+        "morning": "Jim Jim Falls, if open.",
+        "afternoon": "Drive back to Darwin.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "Safety and respect matter in Kakadu.",
+  "tips": [
+    "Never swim in water not marked safe. Saltwater crocodiles are present in rivers, billabongs and some waterholes.",
+    "Check the park website and road conditions for closures.",
+    "Buy a park pass in advance.",
+    "Follow the rules about sacred sites and photography.",
+    "Carry plenty of water, and wear sunscreen and insect repellent.",
+    "Book accommodation and cruises well ahead in the dry season.",
+    "Choose Aboriginal-owned tours where possible."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Kakadu?",
+      "a": "Three days at least, and four or five for a relaxed visit."
+    },
+    {
+      "q": "Can I swim in Kakadu?",
+      "a": "Only at designated safe swimming areas. Saltwater crocodiles are common in the park."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "May to October, the dry season."
+    },
+    {
+      "q": "Do I need a 4WD?",
+      "a": "Not for the main sights, but some tracks, such as Jim Jim Falls, require one."
+    },
+    {
+      "q": "Is Kakadu safe?",
+      "a": "Yes, if you follow the warning signs, especially about crocodiles, and stay hydrated."
+    },
+    {
+      "q": "Can I visit as a day trip from Darwin?",
+      "a": "It is possible on a long day tour, but three days is much better."
+    }
+  ],
+  "related": ["uluru-red-centre", "great-barrier-reef-cairns", "perth-margaret-river"],
+  "relatedArticles": ["unesco-worth-planning-around", "us-national-parks-road-trip"]
+}

@@ -1,0 +1,302 @@
+{
+  "slug": "polonnaruwa",
+  "name": "Polonnaruwa",
+  "country": "sri-lanka",
+  "region": "North Central Province",
+  "categories": ["unesco", "archaeological", "historic", "nature"],
+  "tagline": "The medieval capital, a compact ruined city of carved Buddhas, a circular relic house and ancient gardens beside a vast lake with wild elephants.",
+  "highlight": "Standing before the Gal Vihara, four colossal Buddha figures carved from a single granite rock face.",
+  "shortDescription": "A UNESCO-listed 11th to 13th century capital, with the Gal Vihara Buddhas, Vatadage, the Royal Palace and Parakrama Samudra lake, plus Minneriya elephant safaris nearby.",
+  "metaDescription": "A Polonnaruwa travel guide: Gal Vihara, Vatadage, the Quadrangle, the Royal Palace, Parakrama Samudra, cycling the ruins, Minneriya elephant gathering, where to stay and a one-day plan.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Colombo Bandaranaike (CMB), about 5–6 hours by road",
+  "knownFor": "Gal Vihara, Vatadage, ruined city, elephants",
+  "budget": "US$50–100 per day, mid-range, plus ticket",
+  "goodFor": "History, cycling, wildlife, photography",
+  "coords": { "lat": 7.9403, "lng": 81.0188 },
+  "image": {
+    "file": "File:Gal Vihara Polonnaruwa 1.jpg",
+    "alt": "The giant rock-cut Buddha statues of Gal Vihara in Polonnaruwa"
+  },
+  "intro": [
+    "Polonnaruwa succeeded Anuradhapura as the capital of Sri Lanka in the 11th century, first under the Chola invaders and then under the great Sinhalese kings Vijayabahu I and Parakramabahu I. In the 12th century, Parakramabahu created a magnificent city and the vast Parakrama Samudra, the Sea of Parakrama, a giant reservoir that irrigated the surrounding land. The city was abandoned in the 13th century, and its ruins are now a UNESCO World Heritage Site.",
+    "Compared with Anuradhapura, Polonnaruwa is compact and easier to explore. The Quadrangle is a raised terrace with the Vatadage, a circular relic house with carved moonstones and Buddha statues, and other shrines. The Royal Palace once had seven storeys. And the Gal Vihara, a group of four Buddha images carved from a single granite rock face, including a 14-metre reclining Buddha, is considered the finest example of Sinhalese rock carving.",
+    "The best way to see the site is by bicycle, early in the morning. Just outside, Minneriya and Kaudulla national parks host 'The Gathering', when hundreds of wild elephants gather at the reservoir in the dry season, from July to October. A day at Polonnaruwa, combined with an afternoon safari, is an excellent day."
+  ],
+  "whyVisit": {
+    "intro": "Polonnaruwa is the best-preserved and easiest-to-explore of Sri Lanka's ancient cities.",
+    "points": [
+      {
+        "title": "Gal Vihara",
+        "text": "Four colossal Buddhas."
+      },
+      {
+        "title": "The Vatadage",
+        "text": "A circular relic house."
+      },
+      {
+        "title": "A compact site",
+        "text": "Easy by bicycle."
+      },
+      {
+        "title": "Parakrama Samudra",
+        "text": "A vast ancient lake."
+      },
+      {
+        "title": "Elephant gatherings",
+        "text": "At nearby Minneriya."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sites are within a few kilometres.",
+  "attractions": [
+    {
+      "name": "Gal Vihara",
+      "image": {
+        "file": "File:Gal Vihara Polonnaruwa 2.jpg",
+        "alt": "The reclining Buddha and standing Buddha carved at Gal Vihara"
+      },
+      "text": "A rock temple with four Buddha statues carved from granite in the 12th century, including a reclining Buddha and a standing one.",
+      "tip": "Visit early or late."
+    },
+    {
+      "name": "The Quadrangle and Vatadage",
+      "image": {
+        "file": "File:Polonnaruwa Vatadage Sri Lanka.jpg",
+        "alt": "The circular Vatadage relic house with stone Buddhas in Polonnaruwa"
+      },
+      "text": "A raised terrace with the circular Vatadage, the Hatadage and Atadage shrines.",
+      "tip": "Look at the moonstones."
+    },
+    {
+      "name": "Minneriya elephants",
+      "image": {
+        "file": "File:Minneriya National Park, elephants gathering.jpg",
+        "alt": "Elephants gathering at Minneriya National Park"
+      },
+      "text": "A seasonal gathering of wild elephants on the reservoir shores from July to October.",
+      "tip": "Book an afternoon jeep."
+    },
+    {
+      "name": "Royal Palace",
+      "text": "The ruined palace of Parakramabahu with thick walls.",
+      "tip": "Imagine the seven storeys."
+    },
+    {
+      "name": "Parakrama Samudra",
+      "text": "The huge reservoir, with sunset views.",
+      "tip": "Go at sunset."
+    },
+    {
+      "name": "Lankatilaka",
+      "text": "A giant image house with a headless Buddha.",
+      "tip": "Impressive walls."
+    }
+  ],
+  "thingsToDoIntro": "Ride, look and watch.",
+  "thingsToDo": [
+    {
+      "title": "Cycle the ancient city",
+      "text": "Flat roads.",
+      "tip": "Go early."
+    },
+    {
+      "title": "See the elephant gathering",
+      "text": "At Minneriya.",
+      "tip": "Book a jeep."
+    },
+    {
+      "title": "Watch sunset over the lake",
+      "text": "Parakrama Samudra.",
+      "tip": "Bring a camera."
+    },
+    {
+      "title": "Hire a guide",
+      "text": "For history.",
+      "tip": "Agree the fee."
+    },
+    {
+      "title": "Visit the museum",
+      "text": "Artefacts.",
+      "tip": "Optional."
+    },
+    {
+      "title": "Combine with Sigiriya",
+      "text": "45 minutes away.",
+      "tip": "Plan a day."
+    }
+  ],
+  "foodIntro": "Food is simple.",
+  "foods": [
+    {
+      "name": "Rice and curry",
+      "text": "Village style.",
+      "whereToTry": "Guesthouses."
+    },
+    {
+      "name": "Lake fish curry",
+      "text": "Freshwater fish.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Kottu",
+      "text": "Street food.",
+      "whereToTry": "Stalls."
+    },
+    {
+      "name": "Coconut water",
+      "text": "Fresh.",
+      "whereToTry": "Roadside."
+    },
+    {
+      "name": "Buffalo curd",
+      "text": "With treacle.",
+      "whereToTry": "Shops."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the new town or near the lake.",
+    "areas": [
+      {
+        "name": "New Town",
+        "bestFor": "Services",
+        "text": "Hotels."
+      },
+      {
+        "name": "Lake shore",
+        "bestFor": "Views",
+        "text": "Lodges."
+      },
+      {
+        "name": "Sigiriya",
+        "bestFor": "Combined base",
+        "text": "Hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$15–35 per night" },
+      { "label": "Mid-range hotel", "value": "US$45–100 per night" },
+      { "label": "Ruins ticket", "value": "About US$25–30 (check)" },
+      { "label": "Elephant safari", "value": "US$30–60 per jeep plus fees" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Polonnaruwa is in the north-central plains.",
+    "options": [
+      {
+        "mode": "Car with driver",
+        "text": "About 5 to 6 hours from Colombo.",
+        "detail": "Easiest."
+      },
+      {
+        "mode": "From Sigiriya",
+        "text": "About 1 hour.",
+        "detail": "Often combined."
+      },
+      {
+        "mode": "Train to Polonnaruwa",
+        "text": "From Colombo, about 7 hours.",
+        "detail": "Slow."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Bicycles are best.",
+    "options": [
+      {
+        "mode": "Bicycle",
+        "text": "Rent for the day.",
+        "detail": "Flat."
+      },
+      {
+        "mode": "Tuk-tuk",
+        "text": "With a driver-guide.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Jeep",
+        "text": "For safari.",
+        "detail": "Book."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "Polonnaruwa is dry and hot from May to September.",
+    "seasons": [
+      {
+        "season": "February–April",
+        "rating": "good",
+        "text": "Warm."
+      },
+      {
+        "season": "May–September",
+        "rating": "best",
+        "text": "Dry."
+      },
+      {
+        "season": "October–November",
+        "rating": "avoid",
+        "text": "Heavy rain."
+      },
+      {
+        "season": "December–January",
+        "rating": "quiet",
+        "text": "Cooler."
+      }
+    ],
+    "avoid": "The October to November rains."
+  },
+  "itinerary": {
+    "title": "One day in Polonnaruwa",
+    "intro": "The ruins and elephants.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Ancient city",
+        "summary": "Ruins and safari.",
+        "morning": "Cycle the Quadrangle and Gal Vihara.",
+        "afternoon": "Minneriya safari.",
+        "evening": "Return."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Start at opening time.",
+    "Cycle.",
+    "Dress modestly.",
+    "Bring water.",
+    "Book a jeep for Minneriya.",
+    "Remove shoes at shrines.",
+    "Carry small notes."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "One day."
+    },
+    {
+      "q": "Polonnaruwa or Anuradhapura?",
+      "a": "Polonnaruwa is more compact."
+    },
+    {
+      "q": "What is the Gathering?",
+      "a": "Elephants gathering at the reservoir."
+    },
+    {
+      "q": "When to go?",
+      "a": "May to September."
+    },
+    {
+      "q": "Is it a UNESCO site?",
+      "a": "Yes."
+    },
+    {
+      "q": "Can I cycle?",
+      "a": "Yes."
+    }
+  ],
+  "related": ["sigiriya", "anuradhapura", "kandy"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

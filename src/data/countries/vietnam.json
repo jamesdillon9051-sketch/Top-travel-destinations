@@ -1,0 +1,427 @@
+{
+  "slug": "vietnam",
+  "name": "Vietnam",
+  "continent": "Asia",
+  "countryCode": "VN",
+  "tagline": "A long, slender country of limestone bays, imperial cities, lantern-lit river towns and street food that is among the best in the world, all within a fortnight's reach.",
+  "cardDescription": "A country of karst seascapes, rice terraces, French-colonial boulevards, Chinese-style trading towns and some of Asia's most beloved street food.",
+  "metaDescription": "A complete Vietnam travel guide: the 10 best places to visit, Hanoi, Ha Long Bay, Hoi An and the Mekong Delta, Vietnamese food, when to go, trains and flights, visas, costs and a two-week itinerary.",
+  "image": {
+    "file": "File:Rice terraces in Vietnam.jpg",
+    "alt": "Terraced rice fields stepping down a mountainside in northern Vietnam"
+  },
+  "destinations": [
+    "hanoi",
+    "ha-long-bay",
+    "hoi-an",
+    "ninh-binh",
+    "hue",
+    "ho-chi-minh-city",
+    "sapa",
+    "phong-nha",
+    "mekong-delta",
+    "phu-quoc"
+  ],
+  "intro": [
+    "Vietnam is a narrow, S-shaped country of nearly 100 million people, stretching about 1,650 km from the Chinese border in the north to the tip of the Mekong Delta in the south. Its history is one of thousands of years of Chinese influence and resistance, the Cham and Khmer kingdoms of the centre and south, the last imperial dynasty at Hue, French colonial rule from the 1880s and the long wars for independence and reunification that ended in 1975. Since the economic reforms of 1986, known as Doi Moi, it has become one of the fastest-growing economies in Asia.",
+    "The result for the visitor is a country that is easy, varied and rewarding. In the north, Hanoi's Old Quarter, the limestone karsts of Ha Long Bay and Ninh Binh, and the rice terraces of Sapa. In the centre, the imperial tombs of Hue, the lantern-lit trading port of Hoi An and the great caves of Phong Nha. In the south, the buzzing streets of Ho Chi Minh City, the waterways of the Mekong Delta and the beaches of Phu Quoc.",
+    "It is also a country where you eat superbly at almost every price, where transport is cheap and frequent, and where the people are generally curious and welcoming to visitors. Most travellers follow the north-south route, either by overnight train, by domestic flights or by motorbike, and it is one of the best-value trips in Asia."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Hanoi, Ha Long Bay, Hoi An and Ho Chi Minh City are the classic route; Hue and Ninh Binh fit between them, and Sapa, Phong Nha, the Mekong and Phu Quoc are strong additions.",
+  "thingsToDoIntro": "The experiences that recur across the country and make a Vietnamese trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Sail through Ha Long Bay",
+      "text": "A cruise among thousands of limestone islands, with kayaking, caves and a night on board, is the country's best-known experience. See [[ha-long-bay|Ha Long Bay]].",
+      "tip": "Pick a reputable operator, and consider the quieter Lan Ha Bay or Bai Tu Long."
+    },
+    {
+      "title": "Eat your way through Hanoi",
+      "image": {
+        "file": "File:Egg Coffee at Cafe Giảng, Hà Nội, Vietnam.jpg",
+        "alt": "A cup of Hanoi egg coffee topped with whipped egg yolk cream"
+      },
+      "text": "Pho for breakfast, bun cha for lunch, egg coffee in the afternoon and a fresh beer on a plastic stool in the evening. See [[hanoi|Hanoi]].",
+      "tip": "Take a guided street-food walk on your first evening to learn what to look for."
+    },
+    {
+      "title": "Ride a motorbike loop",
+      "image": {
+        "file": "File:Ha Giang Loop, Northern Vietnam.jpg",
+        "alt": "A road winding through the mountains of the Ha Giang Loop in northern Vietnam"
+      },
+      "text": "The Ha Giang Loop in the far north, and the Hai Van Pass near Hoi An and Hue, are among the most scenic rides in Asia, though the roads demand experience.",
+      "tip": "Ride with an experienced guide or an 'easy rider' driver unless you are confident. Check your insurance first."
+    },
+    {
+      "title": "Explore caves at Phong Nha",
+      "text": "Central Vietnam has some of the largest caves in the world, from easy boat trips to multi-day expeditions to Son Doong. See [[phong-nha|Phong Nha]].",
+      "tip": "Check the season, since caves close during the wet months."
+    },
+    {
+      "title": "Have clothes made in Hoi An",
+      "text": "Tailors in the old town make shirts, dresses and suits in a day or two, at a fraction of Western prices. See [[hoi-an|Hoi An]].",
+      "tip": "Bring a picture or a garment to copy, and allow time for a second fitting."
+    },
+    {
+      "title": "Watch a water puppet show",
+      "image": {
+        "file": "File:Thang Long Water puppet theater..JPG",
+        "alt": "Wooden puppets performing on the water stage at the Thang Long Water Puppet Theatre in Hanoi"
+      },
+      "text": "A folk art dating back centuries, in which wooden puppets perform scenes from rural life on a pool of water, accompanied by live music.",
+      "tip": "Book the evening show in advance."
+    },
+    {
+      "title": "Cruise the Mekong Delta",
+      "text": "A network of rivers, orchards and floating markets in the south, best seen by small boat. See [[mekong-delta|the Mekong Delta]].",
+      "tip": "Take a night in Can Tho for the early-morning market."
+    }
+  ],
+  "foodIntro": "Vietnamese cooking is built on fresh herbs, rice noodles, fish sauce, lime and chilli, and it varies from north to south. It is generally lighter and fresher than many Asian cuisines, and street food is at its heart.",
+  "foods": [
+    {
+      "name": "Pho",
+      "image": {
+        "file": "File:Beef noodle soup (Phở bò) - Pho Hanoi Authentic 2024-12-01.jpg",
+        "alt": "A bowl of Hanoi-style beef noodle soup, pho bo"
+      },
+      "text": "The national dish: rice noodles in a clear, spiced beef or chicken broth, with herbs and lime. The northern version is simpler, and the southern one comes with more herbs and sauces.",
+      "whereToTry": "Street stalls and family restaurants, especially in [[hanoi|Hanoi]]."
+    },
+    {
+      "name": "Banh mi",
+      "image": {
+        "file": "File:Special Baguette (Bánh mì) - Banh Mi Ancient Saigon 2024-12-20.jpg",
+        "alt": "A Vietnamese banh mi baguette sandwich with pork, pâté and pickled vegetables"
+      },
+      "text": "A crisp French-style baguette stuffed with pork, pâté, pickled carrot and daikon, herbs and chilli, a legacy of French colonial rule and one of the world's great sandwiches.",
+      "whereToTry": "Street carts everywhere, and famous shops in [[hoi-an|Hoi An]] and [[ho-chi-minh-city|Ho Chi Minh City]]."
+    },
+    {
+      "name": "Bun cha",
+      "image": {
+        "file": "File:Bun cha Hanoi.jpg",
+        "alt": "Bun cha with grilled pork patties, rice noodles and herbs in Hanoi"
+      },
+      "text": "A Hanoi lunch of grilled pork patties and slices in a sweet-sour broth, served with rice noodles, herbs and crab spring rolls.",
+      "whereToTry": "Lunchtime restaurants in [[hanoi|Hanoi]]'s Old Quarter."
+    },
+    {
+      "name": "Cao lau",
+      "image": {
+        "file": "File:Cao lầu Hội An (2024).jpg",
+        "alt": "A bowl of cao lau noodles with pork and herbs in Hoi An"
+      },
+      "text": "Chewy noodles with pork, greens and crisp croutons, a speciality of Hoi An that is traditionally made with water from local wells.",
+      "whereToTry": "Market stalls and small restaurants in [[hoi-an|Hoi An]]."
+    },
+    {
+      "name": "Fresh spring rolls",
+      "image": {
+        "file": "File:Spring rolls with peanut sauce.jpg",
+        "alt": "Fresh Vietnamese spring rolls with a peanut dipping sauce"
+      },
+      "text": "Translucent rice paper rolls filled with prawns, herbs and vermicelli, dipped in peanut or fish sauce. A light, healthy staple of the south.",
+      "whereToTry": "Restaurants in [[ho-chi-minh-city|Ho Chi Minh City]] and the [[mekong-delta|Mekong Delta]]."
+    },
+    {
+      "name": "Vietnamese coffee",
+      "image": {
+        "file": "File:Vietnamese Coffee in Da Lat.jpg",
+        "alt": "Vietnamese coffee dripping through a small metal filter into a glass"
+      },
+      "text": "Strong robusta coffee dripped through a small metal filter, often with sweetened condensed milk, over ice or hot. Vietnam is the world's second-largest coffee producer.",
+      "whereToTry": "Cafés everywhere, from streetside plastic stools to trendy roasteries."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Vietnam is easy and inexpensive, though visas, road safety and typhoon season need some attention.",
+  "practical": {
+    "capital": "Hanoi",
+    "language": "Vietnamese. English is common in tourist areas and among younger people, and some French is spoken by older people.",
+    "currency": "Vietnamese dong (VND). Roughly 25,000–26,000 dong to the US dollar in recent years. Prices are often quoted in thousands, so it is easy to be confused.",
+    "money": "ATMs are widespread in cities, and cards are accepted in hotels, restaurants and larger shops, but cash is needed for street food, markets and taxis. Withdrawal limits per transaction are low, so expect fees. Carry small notes.",
+    "visa": "Many nationalities can enter visa-free for stays of 14 to 45 days, and most others can apply online for an e-visa valid for up to 90 days. Rules change often, so check the official Vietnamese government immigration site before you book.",
+    "plugs": "Types A and C, and some F, 220 V, 50 Hz. A universal adaptor is useful.",
+    "emergency": "113 for police, 114 for fire and 115 for ambulance. English may be limited, so contact your hotel for help.",
+    "tipping": "Not expected, but appreciated. Round up taxi fares, leave a small tip for good service in restaurants, and tip guides and drivers at the end of a day or tour.",
+    "safety": "Vietnam is generally safe, and violent crime against tourists is rare. The main problems are bag and phone snatching from motorbikes in Ho Chi Minh City and Hanoi, taxi and rickshaw overcharging and heavy traffic. Use the Grab app for taxis, keep bags on the side away from the road, and be careful crossing streets. Unexploded ordnance remains in parts of the centre, so stay on marked paths in former war zones.",
+    "connectivity": "Very good in cities and along the coast, with cheap SIM cards and eSIMs. Coverage is patchy in the northern mountains.",
+    "timeZone": "UTC+7 all year, with no daylight saving.",
+    "budget": [
+      { "label": "Backpacker", "value": "US$25–45 per day — hostels, street food, buses" },
+      { "label": "Mid-range", "value": "US$60–110 per day — comfortable hotels, restaurant meals, domestic flights" },
+      { "label": "Comfortable", "value": "US$130–250 per day — boutique hotels, private guides and drivers" },
+      { "label": "Luxury", "value": "US$300+ per day — five-star resorts and cruises" }
+    ]
+  },
+  "bestTime": {
+    "headline": "Varies by region, see below",
+    "summary": "Vietnam stretches over 15 degrees of latitude, and each region has its own climate. The north has four seasons, the centre has a wet season in autumn, and the south is tropical, with a dry and wet season.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm and dry in the north and centre. Excellent for Hanoi, Ha Long Bay, Hue and Hoi An. The south is hot before the rains."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Hot and humid. Wet in the north and south, but dry and sunny in the centre and on the central beaches."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "good",
+        "text": "Clear, golden weather in the north, especially for Sapa's harvest. Typhoons and floods hit the centre from late September to December."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "good",
+        "text": "Cool and misty in the north, wet in the centre, and dry and sunny in the south, which is peak season for Ho Chi Minh City, the Mekong and Phu Quoc."
+      }
+    ],
+    "avoid": "The central coast from October to December, when typhoons and floods are common, and Tet, the Lunar New Year in January or February, when many businesses close and transport is crowded."
+  },
+  "tripDuration": {
+    "headline": "10–14 days for a first trip",
+    "summary": "The country is long and narrow, and covering it from north to south takes at least ten days. Two weeks allows for a relaxed route with domestic flights, and three weeks adds the mountains and islands.",
+    "options": [
+      {
+        "length": "5–7 days",
+        "text": "Hanoi, Ha Long Bay and Ninh Binh, or Hoi An and Hue.",
+        "detail": "A short trip focused on one region."
+      },
+      {
+        "length": "10–12 days",
+        "text": "Hanoi, Ha Long Bay, Hue, Hoi An and Ho Chi Minh City, with two internal flights.",
+        "detail": "A strong first look at the country."
+      },
+      {
+        "length": "14 days",
+        "text": "The itinerary on this page: north to south with seven destinations.",
+        "detail": "The classic route, and our recommendation for most first-time visitors."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Adds Sapa, Phong Nha, the Central Highlands and Phu Quoc.",
+        "detail": "For those with time to slow down."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Vietnam has a good mix of trains, internal flights, buses and ride-hailing. Most visitors fly for the longest legs and use trains, buses or private cars for shorter ones.",
+    "options": [
+      {
+        "mode": "Domestic flights",
+        "text": "Vietnam Airlines, Vietjet and other carriers connect Hanoi, Da Nang (for Hoi An), Hue, Ho Chi Minh City, Phu Quoc and other cities, often cheaply.",
+        "detail": "Book early for Tet and summer, and expect occasional delays."
+      },
+      {
+        "mode": "Reunification Express and other trains",
+        "text": "The north-south railway takes about 30 hours from Hanoi to Ho Chi Minh City, with scenic stretches between Hue and Da Nang. Sleeper cabins are comfortable.",
+        "detail": "Book soft sleepers in advance on the official site or through agents."
+      },
+      {
+        "mode": "Sleeper buses and limousines",
+        "text": "Cheap and frequent, from basic sleeper buses to small luxury minibuses. Useful for Hanoi to Ninh Binh, Sapa and Ha Long Bay.",
+        "detail": "Choose reputable companies."
+      },
+      {
+        "mode": "Grab and taxis",
+        "text": "Ride-hailing app Grab covers cars and motorbike taxis in most cities, with fixed prices.",
+        "detail": "Use it instead of street taxis to avoid overcharging."
+      },
+      {
+        "mode": "Motorbike and private driver",
+        "text": "A private car and driver costs about US$60–100 per day, and motorbike rental is cheap, but roads can be dangerous.",
+        "detail": "Ride only if you have experience, a licence and insurance."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Vietnam",
+    "intro": "Hanoi, Ha Long Bay, Ninh Binh, Hue, Hoi An, Ho Chi Minh City and the Mekong Delta, north to south, with three domestic flights. Covers seven of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Hanoi",
+        "morning": "Land and check in.",
+        "afternoon": "Hoan Kiem Lake and the Old Quarter.",
+        "evening": "Street food and a beer on the corner."
+      },
+      {
+        "day": 2,
+        "title": "Hanoi",
+        "morning": "The Temple of Literature and the Ho Chi Minh complex.",
+        "afternoon": "The Old Quarter and a coffee.",
+        "evening": "A water puppet show."
+      },
+      {
+        "day": 3,
+        "title": "To Ha Long Bay",
+        "morning": "Transfer to the bay.",
+        "afternoon": "Board a cruise and kayak.",
+        "evening": "Dinner on deck."
+      },
+      {
+        "day": 4,
+        "title": "Ha Long Bay to Hanoi",
+        "morning": "Sunrise, a cave and brunch.",
+        "afternoon": "Return to Hanoi.",
+        "evening": "Dinner and rest in Hanoi."
+      },
+      {
+        "day": 5,
+        "title": "Ninh Binh",
+        "morning": "Train to Ninh Binh.",
+        "afternoon": "A boat through Trang An.",
+        "evening": "Dinner in a village."
+      },
+      {
+        "day": 6,
+        "title": "Ninh Binh",
+        "morning": "Hang Mua viewpoint.",
+        "afternoon": "Cycle through the rice fields.",
+        "evening": "Return to Hanoi for the night."
+      },
+      {
+        "day": 7,
+        "title": "Hue",
+        "morning": "Fly to Hue and see the Imperial City.",
+        "afternoon": "A tomb or the Thien Mu Pagoda.",
+        "evening": "Dinner on the Perfume River."
+      },
+      {
+        "day": 8,
+        "title": "Hue",
+        "morning": "The tombs of Minh Mang and Khai Dinh.",
+        "afternoon": "A cooking class.",
+        "evening": "A rest."
+      },
+      {
+        "day": 9,
+        "title": "Over the Hai Van Pass to Hoi An",
+        "morning": "Drive over the Hai Van Pass.",
+        "afternoon": "Arrive in Hoi An.",
+        "evening": "Lanterns on the river."
+      },
+      {
+        "day": 10,
+        "title": "Hoi An",
+        "morning": "The old town.",
+        "afternoon": "A tailor fitting and a cooking class.",
+        "evening": "Dinner by the river."
+      },
+      {
+        "day": 11,
+        "title": "My Son and the coast",
+        "morning": "The My Son ruins.",
+        "afternoon": "An Bang beach.",
+        "evening": "A last night in Hoi An."
+      },
+      {
+        "day": 12,
+        "title": "Fly to Ho Chi Minh City",
+        "morning": "Fly from Da Nang.",
+        "afternoon": "The Reunification Palace and War Remnants Museum.",
+        "evening": "Nguyen Hue walking street."
+      },
+      {
+        "day": 13,
+        "title": "The Mekong Delta",
+        "morning": "A day trip by boat.",
+        "afternoon": "Orchards and canals.",
+        "evening": "Return to Ho Chi Minh City."
+      },
+      {
+        "day": 14,
+        "title": "Depart",
+        "morning": "Ben Thanh Market.",
+        "afternoon": "Last coffee.",
+        "evening": "Fly home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Vietnamese society values family, respect for elders and harmony. Buddhism, Confucianism, Taoism and ancestor worship all shape daily life, and the Communist Party governs a market economy. People are generally friendly, and visitors are treated with warmth.",
+    "etiquette": [
+      {
+        "title": "Dress modestly at temples",
+        "text": "Cover shoulders and knees in pagodas and temples, and remove shoes before entering. Speak quietly."
+      },
+      {
+        "title": "Use both hands",
+        "text": "Give and receive money, gifts and cards with both hands, or with the right hand supported by the left."
+      },
+      {
+        "title": "Don't touch heads or point feet",
+        "text": "The head is considered sacred, and the feet are unclean. Avoid pointing your feet at people or altars."
+      },
+      {
+        "title": "Bargain politely",
+        "text": "Bargaining is normal in markets, but not in shops with fixed prices. Smile and keep a friendly tone."
+      },
+      {
+        "title": "Respect Ho Chi Minh and the flag",
+        "text": "Ho Chi Minh is revered, and the red flag with a gold star is respected. Avoid political jokes and criticism of the government."
+      },
+      {
+        "title": "Eat with care",
+        "text": "Do not stick chopsticks upright in a bowl of rice, since it resembles incense offerings at funerals. Wait for older people to begin."
+      }
+    ],
+    "dos": [
+      "Remove your shoes when entering homes and temples",
+      "Learn a few phrases: xin chào (hello), cảm ơn (thank you), không (no)",
+      "Ask before photographing people",
+      "Use Grab or agreed fares for transport",
+      "Carry small notes for street food and tips",
+      "Try the street food where locals eat"
+    ],
+    "donts": [
+      "Don't discuss politics critically or joke about the Communist Party",
+      "Don't stick chopsticks upright in a bowl",
+      "Don't touch someone's head or hair",
+      "Don't wear beach clothes in temples or cities",
+      "Don't buy wildlife products or antiquities",
+      "Don't leave bags or phones exposed near roads"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Vietnam, several of which are specific to how the country works.",
+  "tips": [
+    "Cross busy roads slowly and steadily. Motorbikes will flow around you, and sudden movements cause accidents.",
+    "Use Grab for taxis and food delivery. It offers fixed prices and avoids meter scams.",
+    "Get your e-visa or check exemptions in advance, and print a copy.",
+    "Avoid the central coast in October to December, when typhoons and floods are frequent.",
+    "Book Ha Long Bay cruises with well-reviewed operators, and check safety and cabin standards.",
+    "Carry cash for street food and markets, and keep small notes.",
+    "Watch your phone and bag near roads, since snatch thefts occur from passing motorbikes.",
+    "Avoid Tet, the Lunar New Year, or book transport far ahead."
+  ],
+  "faq": [
+    {
+      "q": "Is Vietnam safe for tourists?",
+      "a": "Yes, generally. Violent crime is rare. The main risks are traffic, bag snatching and taxi scams, and it is best to use Grab and keep valuables secure."
+    },
+    {
+      "q": "How many days do you need in Vietnam?",
+      "a": "Ten to fourteen days for a first trip. A week covers either the north or the centre."
+    },
+    {
+      "q": "What is the best time to visit Vietnam?",
+      "a": "It depends on the region. Spring is good for the north and centre, and the dry season from December to April for the south. Avoid the central coast from October to December."
+    },
+    {
+      "q": "Do I need a visa for Vietnam?",
+      "a": "Many nationalities can enter visa-free for 14 to 45 days, and most others can get an e-visa online. Check the official government site."
+    },
+    {
+      "q": "Can I drink the tap water?",
+      "a": "No. Drink bottled or filtered water. Ice in restaurants is usually made from safe water, but be cautious in small places."
+    },
+    {
+      "q": "Is it better to fly or take the train?",
+      "a": "Fly for the long stretches, such as Hanoi to Hue or Da Nang to Ho Chi Minh City, and take trains or buses for shorter hops. A night train is an experience in itself."
+    }
+  ]
+}

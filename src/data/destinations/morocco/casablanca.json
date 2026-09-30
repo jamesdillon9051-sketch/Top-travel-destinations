@@ -1,0 +1,289 @@
+{
+  "slug": "casablanca",
+  "name": "Casablanca",
+  "country": "morocco",
+  "region": "Casablanca-Settat, Atlantic coast",
+  "categories": ["major-city", "coastal", "cultural"],
+  "tagline": "Morocco's biggest city and its economic engine, home to one of the largest mosques in the world, an Art Deco downtown and a modern, cosmopolitan pulse.",
+  "highlight": "The Hassan II Mosque at the edge of the Atlantic, its minaret rising above the waves.",
+  "shortDescription": "A modern port city with a monumental oceanfront mosque, French colonial Art Deco streets, a small old medina, seafood and a lively café and arts scene.",
+  "metaDescription": "A Casablanca travel guide: the Hassan II Mosque, Art Deco downtown, the Habous quarter, the Corniche, the Museum of Moroccan Judaism, food, how many days you need and a one-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Mohammed V International (CMN), about 45 minutes",
+  "knownFor": "The Hassan II Mosque, Art Deco buildings, the Corniche, the film",
+  "budget": "US$60–130 per day, mid-range",
+  "goodFor": "Architecture, modern Morocco, food, a stopover",
+  "coords": { "lat": 33.5731, "lng": -7.5898 },
+  "image": {
+    "file": "File:Hassan II Mosque Plaza.jpg",
+    "alt": "The vast plaza in front of the Hassan II Mosque in Casablanca"
+  },
+  "intro": [
+    "Casablanca is a big, busy, modern city with more than three million people in the city and many more in the metropolitan area. It grew fast under French rule in the early 20th century, when planners laid out wide boulevards and built Art Deco apartment blocks, cinemas and civic buildings that still make up much of the downtown. Today it is the commercial capital of Morocco and its main port.",
+    "It is not a conventional tourist city, and many travellers only pass through the airport. But the Hassan II Mosque, completed in 1993, is a spectacular building, with a minaret of around 210 metres, a retractable roof, and a section built out over the Atlantic. It is one of the few working mosques in Morocco that non-Muslims can enter on a guided tour.",
+    "The rest of the city rewards a day or two of exploring: the Art Deco streets of the centre, the Habous quarter with its 1920s neo-Moorish architecture, the Corniche along the ocean, and a lively food scene ranging from fish grills to modern Moroccan cooking. The film Casablanca (1942) was shot in Hollywood, but its spirit is celebrated at Rick's Café, opened in 2004."
+  ],
+  "whyVisit": {
+    "intro": "Casablanca shows modern Morocco, and it is worth a day if you are passing through.",
+    "points": [
+      {
+        "title": "A monumental mosque",
+        "text": "The Hassan II Mosque is one of the largest in the world, with astonishing craftsmanship in its carved wood, marble and tile."
+      },
+      {
+        "title": "Art Deco streets",
+        "text": "The downtown is full of 1920s and 1930s buildings, which have been increasingly restored."
+      },
+      {
+        "title": "Habous quarter",
+        "text": "A quiet neo-Moorish district of arcades, bookshops and pastry shops."
+      },
+      {
+        "title": "Modern Moroccan life",
+        "text": "Cafés, galleries, restaurants and shops show a side of the country that the imperial cities do not."
+      },
+      {
+        "title": "A convenient gateway",
+        "text": "Casablanca's airport and rail links connect to Rabat, Marrakech and Fes."
+      }
+    ]
+  },
+  "attractionsIntro": "A day covers the major sights, and an extra day allows a slower pace.",
+  "attractions": [
+    {
+      "name": "The Hassan II Mosque",
+      "text": "The great mosque, built partly over the sea between 1986 and 1993, with a 210-metre minaret and space for about 25,000 worshippers inside and many more in the courtyard. Guided tours take non-Muslim visitors inside.",
+      "tip": "Book a tour in advance and check the visiting times."
+    },
+    {
+      "name": "The Corniche",
+      "text": "The seaside promenade of Ain Diab, with cafés, beach clubs and restaurants facing the ocean.",
+      "tip": "A pleasant place for a sunset."
+    },
+    {
+      "name": "The Habous quarter",
+      "text": "A 1920s neo-Moorish quarter built by the French, with arches, souks, a royal palace and the Mahakma du Pacha.",
+      "tip": "Buy pastries and dates in the shops."
+    },
+    {
+      "name": "The Art Deco downtown",
+      "text": "Buildings around Place Mohammed V, the Marché Central and the boulevards, including the former Sacré-Cœur cathedral, now a cultural venue.",
+      "tip": "Walk with a map of Art Deco buildings."
+    },
+    {
+      "name": "The Museum of Moroccan Judaism",
+      "text": "A museum in the Oasis district about the history of Jews in Morocco, one of the few of its kind in the Arab world.",
+      "tip": "Check opening times."
+    },
+    {
+      "name": "The old medina",
+      "text": "A small, lively walled quarter next to the port, less polished than Marrakech.",
+      "tip": "Go in daylight, and watch your belongings."
+    }
+  ],
+  "thingsToDoIntro": "Casablanca is best taken as a series of short, varied outings.",
+  "thingsToDo": [
+    {
+      "title": "Tour the Hassan II Mosque",
+      "text": "See the prayer hall, the ablution rooms and the hammam underneath.",
+      "tip": "Dress modestly."
+    },
+    {
+      "title": "Walk the Corniche",
+      "text": "A stroll along the ocean promenade past cafés and beach clubs.",
+      "tip": "Go in the late afternoon."
+    },
+    {
+      "title": "Have coffee in an Art Deco café",
+      "text": "Old cafés in the centre have been restored and are a good place to watch the city.",
+      "tip": "Try a café crème and a pastry."
+    },
+    {
+      "title": "Eat fresh fish",
+      "text": "Simple seafood restaurants near the port serve the day's catch.",
+      "tip": "Choose a busy place."
+    },
+    {
+      "title": "Shop in the Habous",
+      "text": "Local crafts, books and food sold in a calm quarter.",
+      "tip": "A good place to buy gifts without hassle."
+    },
+    {
+      "title": "Visit Rick's Café",
+      "text": "A restaurant modelled on the film, with a piano bar.",
+      "tip": "Book for dinner."
+    }
+  ],
+  "foodIntro": "Casablanca has the best variety of food in Morocco, from street stalls to fine dining.",
+  "foods": [
+    {
+      "name": "Grilled fish and seafood",
+      "text": "Sardines, calamari, prawns and sea bass, grilled or fried near the port.",
+      "whereToTry": "Restaurants near the port and the Corniche."
+    },
+    {
+      "name": "Tagine and couscous",
+      "text": "Classic dishes in family restaurants.",
+      "whereToTry": "Restaurants across the city."
+    },
+    {
+      "name": "Pastries",
+      "text": "French and Moroccan pastries in bakeries.",
+      "whereToTry": "The Habous quarter."
+    },
+    {
+      "name": "Café culture",
+      "text": "Strong coffee, fresh orange juice and pastries in cafés.",
+      "whereToTry": "Cafés downtown."
+    },
+    {
+      "name": "Street snacks",
+      "text": "Sandwiches, fried fish and snails.",
+      "whereToTry": "Markets and the old medina."
+    }
+  ],
+  "accommodation": {
+    "intro": "Casablanca has a good range of hotels, chiefly in the centre and along the coast.",
+    "areas": [
+      {
+        "name": "The centre",
+        "bestFor": "Sights and transport",
+        "text": "Hotels near Place Mohammed V, the station and the Art Deco district."
+      },
+      {
+        "name": "Ain Diab and the Corniche",
+        "bestFor": "Sea views",
+        "text": "Beachfront hotels, restaurants and clubs."
+      },
+      {
+        "name": "Near the airport",
+        "bestFor": "Early flights",
+        "text": "Hotels at Nouaceur for short stays."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel", "value": "US$30–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–150 per night" },
+      { "label": "Luxury hotel", "value": "US$180–400 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$6–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Casablanca is Morocco's main air and rail hub.",
+    "options": [
+      {
+        "mode": "Flight to Mohammed V (CMN)",
+        "text": "Direct flights from Europe, the Middle East, Africa and North America.",
+        "detail": "A train runs from the airport to the city."
+      },
+      {
+        "mode": "Train from Rabat or Marrakech",
+        "text": "About 1 hour from Rabat and 2 hours 40 minutes from Marrakech, with the high-speed Al Boraq from Tangier in about 2 hours 10 minutes.",
+        "detail": "Book first class."
+      },
+      {
+        "mode": "Bus",
+        "text": "CTM services run to all major cities.",
+        "detail": "Book the day before."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Casablanca is large, and taxis and the tram are the best ways to cover it.",
+    "options": [
+      {
+        "mode": "Tram",
+        "text": "Modern tram lines run across the city.",
+        "detail": "Cheap and reliable."
+      },
+      {
+        "mode": "Petits taxis",
+        "text": "Red taxis serve the city.",
+        "detail": "Insist on the meter."
+      },
+      {
+        "mode": "Walking",
+        "text": "The centre is walkable.",
+        "detail": "Take care at busy crossings."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–June and September–November",
+    "summary": "Casablanca has a mild Atlantic climate, with humid summers and cool, wet winters.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Mild and sunny."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Warm and humid, cooler than the interior."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm and pleasant."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool and rainy."
+      }
+    ],
+    "avoid": "Winter rain if you plan a coastal walk."
+  },
+  "itinerary": {
+    "title": "One day in Casablanca",
+    "intro": "A quick tour of the main sights, easily added to a stopover.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Mosque, Art Deco and the sea",
+        "summary": "The essential sights.",
+        "morning": "A guided tour of the Hassan II Mosque.",
+        "afternoon": "Art Deco downtown and the Habous quarter.",
+        "evening": "Dinner on the Corniche."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help for a short visit.",
+  "tips": [
+    "Book the mosque tour in advance.",
+    "Take the train from the airport, which is quicker than a taxi.",
+    "Use petits taxis with the meter.",
+    "Dress modestly for the mosque.",
+    "Consider staying a night on the way to or from a flight.",
+    "Keep valuables safe in crowded areas."
+  ],
+  "faq": [
+    {
+      "q": "Is Casablanca worth visiting?",
+      "a": "For one day, yes. The Hassan II Mosque alone is worth seeing, and the Art Deco downtown is interesting."
+    },
+    {
+      "q": "Can non-Muslims enter the Hassan II Mosque?",
+      "a": "Yes, on guided tours at set times. Dress modestly."
+    },
+    {
+      "q": "Was the film Casablanca shot here?",
+      "a": "No, it was filmed in Hollywood. Rick's Café is a modern restaurant inspired by the film."
+    },
+    {
+      "q": "How far is Casablanca from Marrakech?",
+      "a": "About 240 km, by train in about 2 hours 40 minutes."
+    },
+    {
+      "q": "Is Casablanca safe?",
+      "a": "Generally yes, with the usual big-city precautions."
+    },
+    {
+      "q": "How many days do you need?",
+      "a": "One day is enough, and two if you want a slower pace."
+    }
+  ],
+  "related": ["rabat", "marrakech", "essaouira"],
+  "relatedArticles": ["mediterranean-coasts", "food-primer"]
+}

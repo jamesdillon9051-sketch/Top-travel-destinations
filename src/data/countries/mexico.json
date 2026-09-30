@@ -1,0 +1,422 @@
+{
+  "slug": "mexico",
+  "name": "Mexico",
+  "continent": "North America",
+  "countryCode": "MX",
+  "tagline": "Aztec and Maya pyramids, silver-boom colonial cities, a food culture recognised by UNESCO and Caribbean beaches — in a country large enough to need two weeks and generous enough to reward twelve.",
+  "cardDescription": "A huge, varied country with one of the world's great cuisines, thousands of years of Mesoamerican history, baroque colonial cities and coastlines on two oceans.",
+  "metaDescription": "A complete Mexico travel guide: the 10 best places to visit, Mexico City, Oaxaca, the Maya ruins and Tulum, Mexican food, when to go, buses and flights, costs, safety and a two-week itinerary.",
+  "image": {
+    "file": "File:Angel of Independence Mexico City.jpg",
+    "alt": "The golden Angel of Independence column on Paseo de la Reforma in Mexico City"
+  },
+  "destinations": [
+    "mexico-city",
+    "oaxaca",
+    "yucatan-merida-chichen-itza",
+    "tulum-riviera-maya",
+    "guanajuato",
+    "san-miguel-de-allende",
+    "teotihuacan",
+    "puebla-cholula",
+    "guadalajara-tequila",
+    "chiapas-palenque-san-cristobal"
+  ],
+  "intro": [
+    "Mexico is nearly two million square kilometres, and it holds several countries' worth of variety: Aztec Tenochtitlán buried under one of the largest cities on Earth, the pyramids of Teotihuacán and the Maya cities of the Yucatán, silver-boom colonial towns in the central highlands, cloud forest and jungle in the south, and coastlines on the Pacific, the Gulf and the Caribbean. It was the heart of Mesoamerica for three thousand years and the centre of New Spain for three hundred, and both layers are visible everywhere.",
+    "It is also a food country to a degree few others are. Mexican cuisine is on UNESCO's list of intangible heritage, and it varies sharply by region: the moles and mezcal of Oaxaca, the cochinita pibil of the Yucatán, the tacos al pastor of Mexico City, the birria of Jalisco and the chiles en nogada of Puebla. Markets, street stalls and family restaurants are as good a reason to travel here as any monument.",
+    "Practically, Mexico is easier than its reputation. Long-distance buses are excellent, domestic flights are cheap, and the main tourist routes are well developed. The country is also large and uneven, and safety varies a great deal by state, so read your government's current advice for each region you plan to visit and use the same common sense you would in any big country."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Mexico is very large — Mexico City to Cancún is over 1,700 km — so most trips combine two or three regions using domestic flights or long-distance buses.",
+  "thingsToDoIntro": "The experiences that recur wherever you go and that make a Mexican trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Climb a pyramid",
+      "image": {
+        "file": "File:Pyramid of the Sun, Teotihuacan, from path to parking lot.jpg",
+        "alt": "The Pyramid of the Sun at Teotihuacan seen from the path"
+      },
+      "text": "Teotihuacán, Chichén Itzá, Uxmal, Palenque and Monte Albán give you five thousand years of Mesoamerican architecture, and some still let you climb. See [[teotihuacan|Teotihuacán]] and [[yucatan-merida-chichen-itza|Chichén Itzá]].",
+      "tip": "Arrive at opening. The sun is punishing by midday and the tour buses arrive by ten."
+    },
+    {
+      "title": "Eat at the markets",
+      "text": "Every city has a central market where a plate of tlacoyos, tamales or a bowl of pozole costs a couple of dollars, and where you can see ingredients — dozens of chiles, mole pastes, tropical fruit — that never reach supermarkets.",
+      "tip": "Look for stalls with a queue of locals and go before 14:00."
+    },
+    {
+      "title": "Swim in a cenote",
+      "image": {
+        "file": "File:Cenote Zaci, Valladolid de Yucatan, Julio 2012 01.jpg",
+        "alt": "Swimmers in Cenote Zací, a limestone sinkhole in Valladolid, Yucatán"
+      },
+      "text": "The Yucatán's limestone is riddled with sinkholes filled with clear, cool groundwater that the Maya considered sacred and that today are the best swimming in the region. See [[tulum-riviera-maya|Tulum]] and [[yucatan-merida-chichen-itza|Mérida]].",
+      "tip": "Rinse off before you swim, and use biodegradable sunscreen or none."
+    },
+    {
+      "title": "Walk a colonial city",
+      "text": "[[guanajuato]], [[san-miguel-de-allende]] and [[puebla-cholula|Puebla]] have UNESCO-listed centres of baroque churches, plazas and painted houses built on silver and trade.",
+      "tip": "Stay in the centre, so that you can walk the plazas in the evening."
+    },
+    {
+      "title": "Taste mezcal and tequila",
+      "image": {
+        "file": "File:Mezcal bottles .jpg",
+        "alt": "Bottles of mezcal on a shelf"
+      },
+      "text": "Mezcal from Oaxaca and tequila from Jalisco are distilled from agave, and visiting the producers shows the craft behind them. See [[oaxaca]] and [[guadalajara-tequila|Tequila]].",
+      "tip": "Sip it slowly, with orange slices and sal de gusano, and do not shoot it."
+    },
+    {
+      "title": "Be there for Día de Muertos",
+      "image": {
+        "file": "File:Day of the Dead altar in Oaxaca.jpg",
+        "alt": "A Day of the Dead altar decorated with marigolds and candles in Oaxaca"
+      },
+      "text": "On 1 and 2 November, families build altars, decorate graves with marigolds and spend the night in cemeteries. It is not a Halloween party but a warm, moving celebration of the dead, and Oaxaca and Michoacán are the best places to see it.",
+      "tip": "Book accommodation months ahead, and be respectful in cemeteries."
+    }
+  ],
+  "foodIntro": "Mexican food is far more regional than the taco-and-burrito version abroad, built on corn, beans, chiles, tomatoes, squash and tropical fruit, with Spanish, African, Middle Eastern and Asian influences. Eat where the locals eat.",
+  "foods": [
+    {
+      "name": "Tacos al pastor",
+      "image": {
+        "file": "File:Tacos 2.jpg",
+        "alt": "Tacos al pastor served on small corn tortillas"
+      },
+      "text": "Pork marinated in chiles and achiote, stacked on a vertical spit like a shawarma and shaved onto small tortillas with pineapple, onion and coriander. It is the signature taco of Mexico City and a Lebanese immigrant legacy.",
+      "whereToTry": "Taquerías in [[mexico-city|Mexico City]], open late and everywhere."
+    },
+    {
+      "name": "Mole",
+      "image": {
+        "file": "File:Mole poblano, México.JPG",
+        "alt": "Chicken covered in dark mole poblano sauce with sesame seeds"
+      },
+      "text": "Complex sauces of chiles, spices, seeds, chocolate and sometimes fruit, ground and simmered for hours. Oaxaca claims seven classic moles, and Puebla's mole poblano is the best known.",
+      "whereToTry": "Family restaurants in [[oaxaca]] and [[puebla-cholula|Puebla]]."
+    },
+    {
+      "name": "Cochinita pibil",
+      "image": {
+        "file": "File:Cochinita pibil 2.jpg",
+        "alt": "Cochinita pibil, pork slow-cooked in achiote, on a tortilla"
+      },
+      "text": "Pork marinated in sour orange and achiote, wrapped in banana leaves and slow-cooked in a pit oven, served in tacos with pickled red onion and habanero salsa.",
+      "whereToTry": "Markets and taquerías in [[yucatan-merida-chichen-itza|Mérida]]."
+    },
+    {
+      "name": "Tlayudas",
+      "text": "Huge crisp tortillas spread with beans and topped with Oaxaca string cheese, meat and salsa, grilled over charcoal. A late-night Oaxacan staple sometimes called a Mexican pizza.",
+      "whereToTry": "Street stalls and markets in [[oaxaca]]."
+    },
+    {
+      "name": "Birria and pozole",
+      "text": "Birria is spiced goat or beef stew from Jalisco, often served with a broth to dip tacos in; pozole is a hominy and pork soup topped with radish, lettuce and lime.",
+      "whereToTry": "Restaurants in [[guadalajara-tequila|Guadalajara]] for birria, and everywhere for pozole."
+    },
+    {
+      "name": "Chiles en nogada",
+      "image": {
+        "file": "File:2017 Chiles en Nogada Mexican food.jpg",
+        "alt": "Poblano chiles stuffed with meat and fruit under a white walnut sauce and pomegranate seeds"
+      },
+      "text": "A seasonal dish, from July to September, of poblano chiles stuffed with meat, fruit and spices, topped with a walnut cream sauce and pomegranate seeds, in the colours of the Mexican flag.",
+      "whereToTry": "Restaurants in [[puebla-cholula|Puebla]], where it was invented."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Mexico is straightforward to travel in, though entry rules and safety advice are worth checking for your nationality and the states you plan to visit.",
+  "practical": {
+    "capital": "Mexico City",
+    "language": "Spanish. English is widely spoken in resorts and by younger people in cities, and much less so elsewhere. About 68 indigenous languages are also spoken. A few Spanish phrases go a long way.",
+    "currency": "Mexican peso (MXN, written $). Roughly 17–20 pesos to the US dollar in recent years, though it moves.",
+    "money": "Cards are widely accepted in cities and resorts, but carry pesos for markets, taxis, tips and smaller towns. ATMs inside banks are safer than street machines. Always choose to be charged in pesos, not dollars, to avoid poor conversion rates.",
+    "visa": "Many nationalities, including the United States, Canada, the United Kingdom, the EU and Australia, can visit without a visa for up to 180 days as tourists, and complete a digital immigration form on entry. Rules change, so check the official Mexican government site.",
+    "plugs": "Type A and B, 127 V, 60 Hz, the same as the United States and Canada. Bring an adapter if you come from elsewhere.",
+    "emergency": "911 for all emergencies, nationwide.",
+    "tipping": "10–15% in restaurants (check whether service is already added), a few pesos for grocery baggers, gas station attendants and hotel porters, and 10% or so for tour guides.",
+    "safety": "Mexico is a large country and safety varies by state. Most tourist areas — Mexico City's main neighbourhoods, Oaxaca, the Yucatán Peninsula, Guanajuato and San Miguel de Allende — are visited by millions each year, and normal precautions apply. Some governments advise against all travel to certain states, particularly along the northern border and in parts of the Pacific coast, and violent crime and cartel activity are serious concerns in those regions. Check your government's advice for every state you plan to visit, use licensed taxis or ride-hailing, avoid night driving on rural roads and follow local guidance.",
+    "connectivity": "Good 4G and 5G in cities and resorts, patchier in mountains and the jungle. Local SIMs are cheap and eSIMs work. Wi-Fi is common in hotels and cafés.",
+    "timeZone": "Mexico abolished daylight saving time in 2022. Most of the country is on UTC−6 all year, and the Yucatán Peninsula (Quintana Roo) is on UTC−5. Border cities still follow US daylight-saving.",
+    "budget": [
+      { "label": "Backpacker", "value": "US$35–60 per day — hostels, market meals, buses" },
+      { "label": "Mid-range", "value": "US$90–160 per day — boutique hotels, restaurant meals, some domestic flights" },
+      { "label": "Comfortable", "value": "US$180–320 per day — good hotels, private guides, taxis" },
+      { "label": "Resort areas", "value": "Cancún, Tulum and Los Cabos cost considerably more than the rest of the country" }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–April",
+    "summary": "Mexico's dry season, from November to April, is the best time for most of the country. Summer brings heat on the coasts, humidity and afternoon rain in the highlands, and a hurricane season from June to November on both coasts.",
+    "seasons": [
+      {
+        "season": "Winter and early spring (December–April)",
+        "rating": "best",
+        "text": "Dry, sunny and comfortable almost everywhere. It is the high season for the beaches and the Maya ruins, with peak prices at Christmas and Easter."
+      },
+      {
+        "season": "Late spring (May–June)",
+        "rating": "shoulder",
+        "text": "Very hot on the coasts and in the lowlands, with the rains starting in June. The central highlands are pleasant, and prices fall."
+      },
+      {
+        "season": "Summer (July–September)",
+        "rating": "quiet",
+        "text": "Rainy and green, with afternoon showers in the highlands and humid heat on the coasts. Hurricanes are most likely in August to October on the Caribbean and Pacific coasts. It is the cheapest time to travel."
+      },
+      {
+        "season": "Autumn (October–November)",
+        "rating": "best",
+        "text": "The rains end, the countryside is green and the weather turns pleasant. Día de Muertos on 1–2 November is the cultural highlight."
+      }
+    ],
+    "avoid": "August to October on the Caribbean and Pacific coasts for hurricane risk, and the days around Easter and Christmas, when domestic travel, prices and crowds peak."
+  },
+  "tripDuration": {
+    "headline": "10–16 days for a first trip",
+    "summary": "Mexico is too big to see in a week without an internal flight. Ten days covers two regions well, and two weeks allows three. Distances are long, but flights are cheap and buses are comfortable.",
+    "options": [
+      {
+        "length": "5–7 days",
+        "text": "Mexico City with day trips to Teotihuacán and Puebla, or a week in the Yucatán and Tulum.",
+        "detail": "A good short trip focused on one region."
+      },
+      {
+        "length": "10–12 days",
+        "text": "Mexico City, Oaxaca and either the Yucatán or the colonial highlands, with two internal flights.",
+        "detail": "The classic first-time itinerary."
+      },
+      {
+        "length": "14–16 days",
+        "text": "The itinerary on this page: Mexico City, Puebla, Oaxaca, Mérida and Chichén Itzá, and Tulum.",
+        "detail": "Covers the country's main strands: capital, colonial, indigenous and Caribbean."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Adds Guanajuato, San Miguel de Allende, Guadalajara and Chiapas, or the Copper Canyon and the Pacific coast.",
+        "detail": "For anyone with time and an appetite for regions off the standard route."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Mexico has an excellent long-distance bus network, cheap domestic flights and, in the south-east, a new tourist railway. Cities have metros, buses and ride-hailing.",
+    "options": [
+      {
+        "mode": "Domestic flights",
+        "text": "Volaris, Viva Aerobus and Aeroméxico link Mexico City with almost every destination in this guide, often for under US$100. The sensible way to cover long distances.",
+        "detail": "Book early, and check baggage rules on the low-cost airlines."
+      },
+      {
+        "mode": "First-class buses",
+        "text": "ADO, ETN and other operators run comfortable, air-conditioned coaches with reclining seats and onboard toilets. Mexico City to Puebla is two hours, to Oaxaca about 6–7 hours by day and longer by night.",
+        "detail": "Buy tickets online or at the bus terminal, and prefer daytime services."
+      },
+      {
+        "mode": "Tren Maya",
+        "text": "A tourist railway connecting Cancún, Tulum, Mérida, Palenque and other Yucatán destinations, opened in stages from 2023.",
+        "detail": "Check current routes and timetables, which have changed."
+      },
+      {
+        "mode": "Colectivos and local buses",
+        "text": "Shared vans and minibuses link smaller towns and archaeological sites at very low prices, and are the local way of getting around the Yucatán and Oaxaca valleys.",
+        "detail": "Ask locals where they leave from, and pay the driver."
+      },
+      {
+        "mode": "Taxis and ride-hailing",
+        "text": "Uber and DiDi work in the main cities and are usually safer than street taxis. Airport taxis run on fixed fares.",
+        "detail": "Use registered taxis, and agree the fare in advance if there is no meter."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Mexico",
+    "intro": "Mexico City, Puebla, Oaxaca, the Yucatán and the Caribbean coast, using two internal flights and a bus. Covers six of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Mexico City",
+        "morning": "Land and settle in Roma or Condesa.",
+        "afternoon": "A first walk through the parks and streets.",
+        "evening": "Tacos al pastor for dinner."
+      },
+      {
+        "day": 2,
+        "title": "Mexico City: the historic centre",
+        "morning": "The Zócalo, the cathedral and the Templo Mayor.",
+        "afternoon": "The Palacio de Bellas Artes and Diego Rivera's murals.",
+        "evening": "Mezcal and dinner in the centre."
+      },
+      {
+        "day": 3,
+        "title": "Mexico City: museums and Coyoacán",
+        "morning": "The National Museum of Anthropology.",
+        "afternoon": "Coyoacán and the Frida Kahlo Museum.",
+        "evening": "Xochimilco or a night in Roma."
+      },
+      {
+        "day": 4,
+        "title": "Teotihuacán",
+        "morning": "Early to the pyramids of the Sun and Moon.",
+        "afternoon": "Lunch at a nearby restaurant and a return to the city.",
+        "evening": "A quiet night."
+      },
+      {
+        "day": 5,
+        "title": "Puebla and Cholula",
+        "morning": "Bus to Puebla and its cathedral and zócalo.",
+        "afternoon": "Mole poblano, then the Great Pyramid of Cholula.",
+        "evening": "Sunset from the church on top of the pyramid."
+      },
+      {
+        "day": 6,
+        "title": "Fly to Oaxaca",
+        "morning": "Fly or take the bus to Oaxaca.",
+        "afternoon": "The Zócalo and Santo Domingo church.",
+        "evening": "Mezcal and mole in the centre."
+      },
+      {
+        "day": 7,
+        "title": "Oaxaca: markets and ruins",
+        "morning": "The Benito Juárez and 20 de Noviembre markets.",
+        "afternoon": "Monte Albán.",
+        "evening": "Tlayudas and a walk through the centre."
+      },
+      {
+        "day": 8,
+        "title": "Oaxaca: valleys",
+        "morning": "Mitla and Hierve el Agua, or a mezcal tasting.",
+        "afternoon": "The Tlacolula market or a weaving village.",
+        "evening": "A last Oaxacan dinner."
+      },
+      {
+        "day": 9,
+        "title": "Fly to Mérida",
+        "morning": "Fly to Mérida via Mexico City.",
+        "afternoon": "The Plaza Grande and the cathedral.",
+        "evening": "Cochinita pibil for dinner."
+      },
+      {
+        "day": 10,
+        "title": "Chichén Itzá",
+        "morning": "Early to Chichén Itzá.",
+        "afternoon": "A swim in a cenote and lunch in Valladolid.",
+        "evening": "Back in Mérida."
+      },
+      {
+        "day": 11,
+        "title": "Uxmal and Mérida",
+        "morning": "Uxmal's Pyramid of the Magician.",
+        "afternoon": "Paseo de Montejo and the markets.",
+        "evening": "Live music in a plaza."
+      },
+      {
+        "day": 12,
+        "title": "To the Caribbean",
+        "morning": "Bus or train from Mérida to Tulum.",
+        "afternoon": "The Tulum ruins on their cliff above the sea.",
+        "evening": "A beach dinner."
+      },
+      {
+        "day": 13,
+        "title": "Tulum and the cenotes",
+        "morning": "Swim in cenotes near Tulum.",
+        "afternoon": "The beach.",
+        "evening": "Sunset drinks and a last dinner."
+      },
+      {
+        "day": 14,
+        "title": "Depart from Cancún",
+        "morning": "Transfer to Cancún airport, about 2 hours.",
+        "afternoon": "Fly home.",
+        "evening": "Arrive home with a suitcase of mezcal and chocolate."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Mexico is warm, formal in its courtesies and proud of its indigenous and mestizo heritage. Family, food and fiestas matter enormously, and politeness — greetings, thanks, a bit of Spanish — goes a long way. Mexico is a devoutly Catholic country with strong indigenous traditions layered on top.",
+    "etiquette": [
+      {
+        "title": "Greet people, and say thank you",
+        "text": "Say buenos días, buenas tardes or buenas noches when you enter a shop, a taxi or a restaurant, and por favor and gracias. A handshake is common, and a kiss on the cheek among friends."
+      },
+      {
+        "title": "Tipping is expected",
+        "text": "Service workers earn little, and tips are a large part of their income. Tip in restaurants, taxis (optional), hotels and for guides, and carry small change."
+      },
+      {
+        "title": "Dress modestly in churches",
+        "text": "Cover shoulders and knees in churches and cathedrals, and do not take photographs during services. In villages, dress conservatively."
+      },
+      {
+        "title": "Ask before photographing people",
+        "text": "Many indigenous communities dislike being photographed, and some ban it entirely. Ask first, and respect a refusal."
+      },
+      {
+        "title": "Be careful with water and street food",
+        "text": "Drink bottled or purified water. Street food is usually excellent, particularly at busy stalls where the food is cooked fresh in front of you."
+      },
+      {
+        "title": "Punctuality is flexible",
+        "text": "Social events start later than announced, but tours, buses and flights leave on time."
+      }
+    ],
+    "dos": [
+      "Learn a few Spanish phrases and greet people",
+      "Tip in restaurants and for services",
+      "Carry small bills and coins",
+      "Eat where the locals eat",
+      "Respect churches, cemeteries and altars",
+      "Ask permission before photographing people"
+    ],
+    "donts": [
+      "Don't drink tap water",
+      "Don't flash valuables or carry more cash than you need",
+      "Don't take unlicensed taxis at night",
+      "Don't climb or take anything from archaeological sites",
+      "Don't buy antiquities or products made from endangered animals",
+      "Don't drive at night on rural roads"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Mexico, several of which are specific to how the country works.",
+  "tips": [
+    "Check your government's travel advice state by state. Mexico is a big country, and warnings for some states do not apply to the tourist areas covered in this guide.",
+    "Fly for long distances and take buses for short ones. Mexico City to Oaxaca or Mérida by flight is an hour or two, and a full day or more by road.",
+    "Book Chichén Itzá, Teotihuacán and Monte Albán early in the day. They fill with tour buses and get very hot by late morning.",
+    "Drink bottled or filtered water, but do not worry about ice in restaurants, which is almost always from purified water.",
+    "Carry pesos. Small vendors, taxis, tips and colectivos need cash, and card payments in dollars carry poor exchange rates.",
+    "Watch the altitude in Mexico City, which sits at 2,240 metres. Take it easy on the first day, drink water and go light on alcohol.",
+    "Use Uber or DiDi in cities, and licensed airport taxis. They are safer and avoid haggling.",
+    "Plan around the holidays. Semana Santa, Christmas and the Día de Muertos weeks book out weeks ahead, and prices rise."
+  ],
+  "faq": [
+    {
+      "q": "Is Mexico safe to visit?",
+      "a": "Most tourist areas, including Mexico City's main neighbourhoods, Oaxaca, the Yucatán, Guanajuato and San Miguel de Allende, receive millions of visitors each year without problems. Some states, particularly along the northern border and in parts of the Pacific coast, have serious crime and cartel violence, and some governments advise against travel there. Check your government's advice for each state."
+    },
+    {
+      "q": "How many days do you need in Mexico?",
+      "a": "Ten to sixteen for a first trip covering two or three regions. A week covers Mexico City with day trips, or the Yucatán and the Caribbean coast."
+    },
+    {
+      "q": "What is the best time to visit Mexico?",
+      "a": "November to April for dry weather across most of the country. Avoid August to October on the coasts because of hurricanes, though the highlands are green and quiet."
+    },
+    {
+      "q": "Do I need a visa for Mexico?",
+      "a": "Many nationalities can enter without a visa for up to 180 days as tourists. You complete a digital immigration form on entry. Check the official Mexican government site for your passport."
+    },
+    {
+      "q": "Can I drink the tap water in Mexico?",
+      "a": "No. Drink bottled or purified water, and use it to brush your teeth. Restaurants use purified water for ice and cooking."
+    },
+    {
+      "q": "Is it better to fly or take the bus?",
+      "a": "Fly between regions, as the distances are large and flights are cheap. Use first-class buses within regions, which are comfortable and safe by day."
+    },
+    {
+      "q": "What should I bring to Mexico?",
+      "a": "Sun protection, a hat, insect repellent, layers for the highlands, comfortable shoes, cash in pesos and a reusable water bottle. Bring a light rain jacket in summer."
+    }
+  ]
+}

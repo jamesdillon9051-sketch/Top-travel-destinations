@@ -1,0 +1,306 @@
+{
+  "slug": "pecs",
+  "name": "Pécs",
+  "country": "hungary",
+  "region": "Baranya, southern Hungary",
+  "categories": ["historic", "unesco", "cultural", "off-the-beaten-path"],
+  "tagline": "A sunny southern city with Roman tombs, a mosque-turned-church, a four-towered cathedral and the colourful Zsolnay ceramic quarter.",
+  "highlight": "The Mosque-Church on Széchenyi Square, a domed Ottoman mosque topped with a cross.",
+  "shortDescription": "A Mediterranean-feeling city with early Christian tombs, the Gazi Kasim Pasha Mosque, a four-towered cathedral, Zsolnay ceramics and nearby Villány red wines.",
+  "metaDescription": "A Pécs travel guide: the Mosque-Church, Early Christian Necropolis, the Cathedral, Zsolnay Quarter, Villány wine, how to get there from Budapest and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Budapest Ferenc Liszt (BUD), about 3–4 hours by road or train",
+  "knownFor": "Mosque-Church, Zsolnay ceramics, Roman tombs",
+  "budget": "US$70–120 per day, mid-range",
+  "goodFor": "History, art, wine, warm weather",
+  "coords": { "lat": 46.0727, "lng": 18.2323 },
+  "image": {
+    "file": "File:Pécs, Széchenyi tér 2022 02.jpg",
+    "alt": "Széchenyi Square in Pécs with the domed Mosque-Church"
+  },
+  "intro": [
+    "Pécs is a city of about 140,000 people at the foot of the Mecsek hills in southern Hungary, and it has one of the mildest climates in the country. It has been settled since Roman times, when it was called Sopianae, and its layers of history are unusually visible: Roman-era Christian tombs, a medieval cathedral, an Ottoman mosque, and Art Nouveau ceramics from the Zsolnay factory.",
+    "The most famous building is the Mosque-Church of Pasha Gazi Kasim on Széchenyi Square, built in the 16th century during the Ottoman occupation and later converted into a Catholic church, with Islamic prayer niche and Christian symbols side by side. Nearby, the four-towered cathedral is a neo-Romanesque giant, and the Early Christian Necropolis, a UNESCO World Heritage Site, contains painted burial chambers from the 4th century.",
+    "The Zsolnay Cultural Quarter celebrates the local porcelain, with its shimmering eosin-glazed tiles visible on rooftops across the city. Pécs was European Capital of Culture in 2010, and has good cafés, museums and a warm, unhurried feel. To the south, the Villány wine region produces some of Hungary's best reds. Two days is ideal."
+  ],
+  "whyVisit": {
+    "intro": "Pécs is a layered, sunny city with a fine cultural life and few tourists.",
+    "points": [
+      {
+        "title": "A mosque-church",
+        "text": "A relic of Ottoman rule."
+      },
+      {
+        "title": "Roman tombs",
+        "text": "UNESCO-listed and painted."
+      },
+      {
+        "title": "Zsolnay ceramics",
+        "text": "Colourful and iridescent."
+      },
+      {
+        "title": "Southern wines",
+        "text": "Villány reds."
+      },
+      {
+        "title": "Warm and relaxed",
+        "text": "Mild climate."
+      }
+    ]
+  },
+  "attractionsIntro": "Sights are close together in the compact centre.",
+  "attractions": [
+    {
+      "name": "Mosque-Church of Gazi Kasim Pasha",
+      "image": {
+        "file": "File:Mosque of Gazi Kasim Pasha - panoramio.jpg",
+        "alt": "The domed Mosque-Church of Gazi Kasim Pasha in Pécs"
+      },
+      "text": "A 16th-century Ottoman mosque, now a Catholic church, with Islamic architecture and Christian symbols.",
+      "tip": "Look inside."
+    },
+    {
+      "name": "Pécs Cathedral",
+      "image": {
+        "file": "File:Pécs Cathedral Roman art era - Hungary.jpg",
+        "alt": "The four-towered Pécs Cathedral in neo-Romanesque style"
+      },
+      "text": "A grand cathedral with four towers and a dazzling interior, largely rebuilt in the 19th century.",
+      "tip": "Visit the square."
+    },
+    {
+      "name": "Early Christian Necropolis",
+      "text": "UNESCO-listed 4th-century burial chambers, with wall paintings.",
+      "tip": "Book a guided visit."
+    },
+    {
+      "name": "Zsolnay Cultural Quarter",
+      "text": "The former porcelain factory, now museums and cafés.",
+      "tip": "Look at the tiles."
+    },
+    {
+      "name": "Széchenyi Square",
+      "text": "The main pedestrian square, with cafés and fountains.",
+      "tip": "Good for people-watching."
+    },
+    {
+      "name": "Mecsek hills",
+      "text": "Forests and viewpoints above the city.",
+      "tip": "Take a bus."
+    }
+  ],
+  "thingsToDoIntro": "Pécs is for wandering and tasting.",
+  "thingsToDo": [
+    {
+      "title": "Visit the Zsolnay quarter",
+      "text": "Ceramics and museums.",
+      "tip": "Allow half a day."
+    },
+    {
+      "title": "Explore the necropolis",
+      "text": "A guided look.",
+      "tip": "Limited slots."
+    },
+    {
+      "title": "Sip wine at Villány",
+      "text": "Red wines.",
+      "tip": "Book a tasting."
+    },
+    {
+      "title": "Hike Mecsek",
+      "text": "Trails.",
+      "tip": "Take water."
+    },
+    {
+      "title": "Sit in a café",
+      "text": "On Széchenyi tér.",
+      "tip": "Try cakes."
+    },
+    {
+      "title": "Visit museums",
+      "text": "Art and archaeology.",
+      "tip": "Buy a combined ticket."
+    }
+  ],
+  "foodIntro": "Pécs food is southern Hungarian, with rich wines.",
+  "foods": [
+    {
+      "name": "Villány red wine",
+      "text": "Cabernet Franc and blends.",
+      "whereToTry": "Wine cellars."
+    },
+    {
+      "name": "Fish soup",
+      "text": "Southern-style halászlé.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Pécs pastries",
+      "text": "Local sweets.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Goulash",
+      "text": "Paprika stew.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Pálinka",
+      "text": "Fruit brandy.",
+      "whereToTry": "Bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the centre.",
+    "areas": [
+      {
+        "name": "City centre",
+        "bestFor": "Walking",
+        "text": "Hotels."
+      },
+      {
+        "name": "Zsolnay quarter",
+        "bestFor": "Culture",
+        "text": "Boutique stays."
+      },
+      {
+        "name": "Villány",
+        "bestFor": "Wine",
+        "text": "Guesthouses."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$14–26 per night" },
+      { "label": "Mid-range hotel", "value": "US$60–110 per night" },
+      { "label": "Luxury hotel", "value": "US$130–220 per night" },
+      { "label": "Meal", "value": "US$7–16 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Pécs is in the south.",
+    "options": [
+      {
+        "mode": "Train from Budapest",
+        "text": "About 3 to 3.5 hours.",
+        "detail": "Direct."
+      },
+      {
+        "mode": "Bus",
+        "text": "About 3.5 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Car",
+        "text": "About 2.5 hours on the M6.",
+        "detail": "E-vignette."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The centre is walkable.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The old town.",
+        "detail": "Comfortable shoes."
+      },
+      {
+        "mode": "Bus",
+        "text": "To the hills.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "Taxi",
+        "text": "For evenings.",
+        "detail": "Use an app."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–October",
+    "summary": "Pécs is the warmest part of Hungary.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Blooming and mild."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Hot."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Harvest."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Mild but grey."
+      }
+    ],
+    "avoid": "Hot July afternoons."
+  },
+  "itinerary": {
+    "title": "Two days in Pécs",
+    "intro": "Historic sights and ceramics.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The centre",
+        "summary": "Mosque and cathedral.",
+        "morning": "Széchenyi Square and the Mosque-Church.",
+        "afternoon": "Cathedral and necropolis.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 2,
+        "title": "Ceramics and wine",
+        "summary": "Zsolnay and Villány.",
+        "morning": "Zsolnay Quarter.",
+        "afternoon": "Villány wine.",
+        "evening": "Return."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book the necropolis.",
+    "Look up at rooftops.",
+    "Try Villány wine.",
+    "Bring a hat in summer.",
+    "Use trains.",
+    "Check church hours.",
+    "Buy Zsolnay souvenirs."
+  ],
+  "faq": [
+    {
+      "q": "Is Pécs worth visiting?",
+      "a": "Yes."
+    },
+    {
+      "q": "How far from Budapest?",
+      "a": "About 3 hours."
+    },
+    {
+      "q": "What is the Mosque-Church?",
+      "a": "An Ottoman mosque now used as a church."
+    },
+    {
+      "q": "What is Zsolnay?",
+      "a": "A famous local ceramic."
+    },
+    {
+      "q": "When to visit?",
+      "a": "Spring or autumn."
+    },
+    {
+      "q": "How many days?",
+      "a": "Two."
+    }
+  ],
+  "related": ["lake-balaton", "szeged", "budapest"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

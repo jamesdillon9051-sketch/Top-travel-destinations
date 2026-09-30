@@ -1,0 +1,311 @@
+{
+  "slug": "paraty-ilha-grande",
+  "name": "Paraty and Ilha Grande",
+  "shortName": "Paraty",
+  "country": "brazil",
+  "region": "Costa Verde, Rio de Janeiro State",
+  "categories": ["unesco", "coastal", "island", "historic"],
+  "tagline": "A perfectly preserved colonial port of whitewashed houses and cobbled streets, and a car-free island of rainforest and beaches, on a green coast between Rio and São Paulo.",
+  "highlight": "A schooner cruise around the bay, with swims off deserted islands and cachaça in hand.",
+  "shortDescription": "A UNESCO-listed colonial town on a bay, with cobbled streets, cachaça distilleries and schooner trips, plus the traffic-free island of Ilha Grande with jungle trails and beaches.",
+  "metaDescription": "A Paraty and Ilha Grande travel guide: the historic centre, bay boat trips, cachaça, Trindade beaches, Ilha Grande's Lopes Mendes beach, hiking, the FLIP festival, how to get there from Rio and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Rio Galeão (GIG) or São Paulo Guarulhos (GRU); no commercial airport at Paraty",
+  "knownFor": "Colonial old town, beaches, boat trips, cachaça, Ilha Grande's trails",
+  "budget": "US$80–170 per day, mid-range",
+  "goodFor": "Colonial architecture, islands, beaches, hiking, relaxing",
+  "coords": { "lat": -23.2178, "lng": -44.7131 },
+  "image": {
+    "file": "File:Historic Centre of Paraty.jpg",
+    "alt": "The whitewashed colonial buildings and cobbled streets of the historic centre of Paraty"
+  },
+  "intro": [
+    "Paraty, on Brazil's Costa Verde, or Green Coast, was founded in the 17th century, and it became a major port for shipping gold from Minas Gerais to Portugal along the Estrada Real. When the gold route moved to Rio, Paraty faded, and its centre was left nearly untouched, a perfectly preserved colonial town of whitewashed houses with brightly painted doors, cobbled streets and old churches. UNESCO inscribed it in 2019, together with Ilha Grande, for its culture and biodiversity.",
+    "The streets of the centre are closed to cars, and were designed with a slope and stones that allow the sea to flush them at high tide. Restaurants, galleries and pousadas fill the old houses, and the waterfront is busy with boats. The surrounding hills produce cachaça, the sugarcane spirit, and Paraty is famous for its distilleries.",
+    "Offshore, the bay is dotted with islands, and schooner trips are a highlight. Just to the east, Ilha Grande, a large island with no cars, has rainforest trails, empty beaches and a former prison. Together, they make an ideal escape from Rio and São Paulo, and are best visited from March to October, avoiding the busy summer weeks."
+  ],
+  "whyVisit": {
+    "intro": "Paraty and Ilha Grande combine colonial charm with tropical scenery, a short trip from Rio.",
+    "points": [
+      {
+        "title": "A preserved colonial centre",
+        "text": "Walk through streets, churches and squares that look much as they did in the 18th century."
+      },
+      {
+        "title": "Boat trips",
+        "text": "Schooners take you to islands and beaches in the bay."
+      },
+      {
+        "title": "Ilha Grande",
+        "text": "A car-free island of jungle, trails and beaches."
+      },
+      {
+        "title": "Cachaça and food",
+        "text": "Distilleries, seafood and Brazilian cooking."
+      },
+      {
+        "title": "Culture and festivals",
+        "text": "Literary festival, music and art galleries."
+      }
+    ]
+  },
+  "attractionsIntro": "Give Paraty a day, and Ilha Grande a night or two.",
+  "attractions": [
+    {
+      "name": "The historic centre",
+      "text": "A grid of cobbled streets with whitewashed colonial houses, brightly painted doors, churches such as Santa Rita and Nossa Senhora dos Remédios, and small museums.",
+      "tip": "Explore in the morning, before the crowds and the heat."
+    },
+    {
+      "name": "Schooner trips in Paraty Bay",
+      "text": "Traditional wooden boats take you to islands and beaches, with swimming, snorkelling and lunch on board.",
+      "tip": "Book a half- or full-day trip."
+    },
+    {
+      "name": "Cachaça distilleries",
+      "text": "Small distilleries around Paraty produce artisanal cachaça, and offer tours and tastings.",
+      "tip": "Book a tour with tastings."
+    },
+    {
+      "name": "Trindade",
+      "text": "A fishing village and beaches about 30 km south of Paraty, with a natural rock pool, Cachadaço, and a relaxed atmosphere.",
+      "tip": "Take a bus or taxi."
+    },
+    {
+      "name": "Ilha Grande and Lopes Mendes beach",
+      "image": {
+        "file": "File:Ilha Grande - Lopes Mendes - panoramio.jpg",
+        "alt": "The long white sand of Lopes Mendes beach on Ilha Grande"
+      },
+      "text": "A car-free island with a village, Abraão, and beaches including Lopes Mendes, a 3-km stretch of pale sand often ranked among the best in Brazil, reached by a trail or boat.",
+      "tip": "Spend at least a night on the island."
+    },
+    {
+      "name": "Pico do Papagaio",
+      "text": "A hike on Ilha Grande to a peak with views across the island and the sea.",
+      "tip": "Go with a guide."
+    }
+  ],
+  "thingsToDoIntro": "Paraty and Ilha Grande are for slow days by the sea and on trails.",
+  "thingsToDo": [
+    {
+      "title": "Take a schooner trip",
+      "text": "Swim, snorkel and enjoy a seafood lunch on board.",
+      "tip": "Book the morning trip."
+    },
+    {
+      "title": "Taste local cachaça",
+      "text": "Try different aged and flavoured spirits.",
+      "tip": "Buy a bottle to take home."
+    },
+    {
+      "title": "Hike on Ilha Grande",
+      "text": "Trails lead through Atlantic rainforest to beaches.",
+      "tip": "Wear repellent."
+    },
+    {
+      "title": "Snorkel at Lagoa Azul",
+      "text": "A calm lagoon with clear water and fish.",
+      "tip": "Go in the morning."
+    },
+    {
+      "title": "Attend the FLIP festival",
+      "text": "The Paraty International Literary Festival, held in the town in the middle of the year, attracts writers and readers from around the world.",
+      "tip": "Book accommodation far ahead."
+    },
+    {
+      "title": "Kayak the bay",
+      "text": "Paddle through mangroves and quiet coves.",
+      "tip": "Go with a guide."
+    }
+  ],
+  "foodIntro": "Paraty's food is coastal Brazilian, with fish, shrimp and local specialities.",
+  "foods": [
+    {
+      "name": "Fish and seafood moqueca",
+      "text": "Fish and shrimp stews in coconut milk.",
+      "whereToTry": "Waterfront restaurants."
+    },
+    {
+      "name": "Azul-marinho",
+      "text": "A local dish of fish stewed with unripe banana, giving a bluish tint.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Cachaça",
+      "text": "Aged and flavoured spirits, including cachaça with honey and cinnamon (gabriela).",
+      "whereToTry": "Distilleries and bars."
+    },
+    {
+      "name": "Tapioca and cuscuz",
+      "text": "Cassava pancakes and cornmeal dishes.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Tropical fruit",
+      "text": "Bananas, jackfruit and pineapple.",
+      "whereToTry": "Markets."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in a pousada in the historic centre, or on Ilha Grande.",
+    "areas": [
+      {
+        "name": "Historic centre",
+        "bestFor": "Atmosphere",
+        "text": "Pousadas in colonial houses."
+      },
+      {
+        "name": "Trindade",
+        "bestFor": "Beaches",
+        "text": "Simple guesthouses and campsites."
+      },
+      {
+        "name": "Vila do Abraão, Ilha Grande",
+        "bestFor": "Trails and the island",
+        "text": "Guesthouses and small hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "US$25–60 per night" },
+      { "label": "Mid-range pousada", "value": "US$80–170 per night" },
+      { "label": "Boutique hotel", "value": "US$200–400 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$8–20 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Paraty is on the coast road between Rio and São Paulo.",
+    "options": [
+      {
+        "mode": "Bus from Rio",
+        "text": "About 4 to 4.5 hours along the Costa Verde, with several daily services.",
+        "detail": "Book seats in advance."
+      },
+      {
+        "mode": "Bus or car from São Paulo",
+        "text": "About 5 to 6 hours.",
+        "detail": "Take a bus or rent a car."
+      },
+      {
+        "mode": "Boat to Ilha Grande",
+        "text": "Boats and ferries link Paraty and Angra dos Reis with Abraão.",
+        "detail": "Check the schedule."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The centre is on foot, and the coast is by bus and boat.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The historic centre is car-free.",
+        "detail": "Wear sturdy shoes."
+      },
+      {
+        "mode": "Taxi and bus",
+        "text": "To Trindade and beaches.",
+        "detail": "Check the timetable."
+      },
+      {
+        "mode": "Boat",
+        "text": "To the bay's islands and Ilha Grande.",
+        "detail": "Book in advance."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–October",
+    "summary": "Paraty has a humid tropical climate, with rain all year and a wetter summer.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "avoid",
+        "text": "Hot, humid, rainy and crowded, with high prices."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Warm, less crowded and often clear."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "best",
+        "text": "Mild and drier, with clear days."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "good",
+        "text": "Warming, with some showers."
+      }
+    ],
+    "avoid": "Christmas to Carnival, when the town is crowded and expensive."
+  },
+  "itinerary": {
+    "title": "Three days in Paraty and Ilha Grande",
+    "intro": "The old town, the bay and the island.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Paraty",
+        "summary": "Colonial streets.",
+        "morning": "The historic centre.",
+        "afternoon": "A cachaça distillery.",
+        "evening": "Dinner by the harbour."
+      },
+      {
+        "day": 2,
+        "title": "Bay and beaches",
+        "summary": "By boat.",
+        "morning": "A schooner trip.",
+        "afternoon": "Swimming and lunch on board.",
+        "evening": "A rest."
+      },
+      {
+        "day": 3,
+        "title": "Ilha Grande",
+        "summary": "Trails and sand.",
+        "morning": "Boat to Ilha Grande.",
+        "afternoon": "Lopes Mendes beach.",
+        "evening": "Depart or stay in Abraão."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make the trip easier.",
+  "tips": [
+    "Book accommodation early for holidays and festivals.",
+    "Wear comfortable shoes for the cobbles.",
+    "Bring insect repellent, sunscreen and a rain jacket.",
+    "Take cash for small stalls and boats.",
+    "Check tides and the weather for boat trips.",
+    "Take ferries early in the morning.",
+    "Do not leave belongings unattended on the beach."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Paraty?",
+      "a": "Two to three days, and more if you include Ilha Grande."
+    },
+    {
+      "q": "Can I visit as a day trip from Rio?",
+      "a": "It is a long day. A night or two is better."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "April to October."
+    },
+    {
+      "q": "Is Ilha Grande worth it?",
+      "a": "Yes, for beaches, hiking and a relaxed atmosphere. Allow at least one night."
+    },
+    {
+      "q": "Is Paraty safe?",
+      "a": "Generally, yes. It is a small, relaxed town."
+    },
+    {
+      "q": "Can I drive in the centre?",
+      "a": "No, the historic centre is closed to cars."
+    }
+  ],
+  "related": ["rio-de-janeiro", "sao-paulo", "ouro-preto"],
+  "relatedArticles": ["mediterranean-coasts", "unesco-worth-planning-around"]
+}

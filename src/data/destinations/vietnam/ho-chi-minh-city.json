@@ -1,0 +1,332 @@
+{
+  "slug": "ho-chi-minh-city",
+  "name": "Ho Chi Minh City",
+  "shortName": "Saigon",
+  "country": "vietnam",
+  "region": "Southern Vietnam",
+  "categories": ["major-city", "historic", "cultural", "food-and-wine"],
+  "tagline": "Vietnam's biggest, fastest city, still called Saigon by nearly everyone: French colonial landmarks, war history, rooftop bars and street food on every corner.",
+  "highlight": "A bowl of noodles on a plastic stool at midnight, with the motorbikes of Saigon streaming by.",
+  "shortDescription": "The commercial heart of Vietnam, with the Reunification Palace, War Remnants Museum, Notre-Dame Basilica, Ben Thanh Market, Chinatown and the Cu Chi Tunnels, plus a thriving food and nightlife scene.",
+  "metaDescription": "A Ho Chi Minh City travel guide: Reunification Palace, War Remnants Museum, Notre-Dame Basilica, Ben Thanh Market, Cholon, Cu Chi Tunnels, street food, where to stay and a three-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Tan Son Nhat International (SGN), about 30 minutes",
+  "knownFor": "Street food, war history, French colonial buildings, energy, nightlife",
+  "budget": "US$50–120 per day, mid-range",
+  "goodFor": "Food, history, nightlife, shopping, a gateway to the Mekong",
+  "coords": { "lat": 10.7769, "lng": 106.7009 },
+  "image": {
+    "file": "File:Ho Chi Minh City - Saigon1324.jpg",
+    "alt": "The skyline of Ho Chi Minh City with high-rise towers beside the Saigon River"
+  },
+  "intro": [
+    "Ho Chi Minh City is Vietnam's largest city, with around nine to ten million people, and its economic centre. It is still known as Saigon to most people, including its residents. The city was the capital of French Cochinchina, and later of South Vietnam, and it was renamed in 1976 after the fall of the Republic and the reunification of the country.",
+    "It is a very different place from Hanoi. The city is bigger, faster and more commercial, with wide French-planned boulevards, glass towers and a river port. The colonial legacy is visible in the red-brick Notre-Dame Basilica and the Central Post Office, and the war is remembered at the Reunification Palace and the War Remnants Museum. In the centre, District 1 is compact enough to walk, though the motorbike traffic is legendary.",
+    "Above all, Saigon is a city to eat and drink in. Its street food, from banh mi and broken rice to pancakes and noodle soups, is exceptional, and its café, rooftop bar and nightlife culture is the liveliest in the country. It rewards a couple of days, and it is a good springboard for the Mekong Delta and the Cu Chi Tunnels."
+  ],
+  "whyVisit": {
+    "intro": "Ho Chi Minh City is the best place in Vietnam for food, modern energy and a look at the war from the southern side.",
+    "points": [
+      {
+        "title": "Street food and cafés",
+        "text": "Some of the best snacks and coffee in Southeast Asia, and dishes from across the country."
+      },
+      {
+        "title": "War history",
+        "text": "The Reunification Palace, the War Remnants Museum and the Cu Chi Tunnels tell a powerful, difficult story."
+      },
+      {
+        "title": "Colonial landmarks",
+        "text": "The Basilica, the Post Office, the Opera House and grand boulevards."
+      },
+      {
+        "title": "Nightlife and energy",
+        "text": "Rooftop bars, live music and a city that never stops."
+      },
+      {
+        "title": "A gateway city",
+        "text": "The Mekong Delta, Cu Chi and the beaches are all within a few hours."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are in District 1 and District 3, with Cholon and Cu Chi further out.",
+  "attractions": [
+    {
+      "name": "The Reunification Palace",
+      "image": {
+        "file": "File:Palacio de la Reunificación, Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 37.JPG",
+        "alt": "The 1960s Reunification Palace in Ho Chi Minh City with its modernist façade"
+      },
+      "text": "The former presidential palace of South Vietnam, where a tank crashed through the gates on 30 April 1975 to mark the end of the war. Its 1960s interior, with war rooms and a basement bunker, is preserved.",
+      "tip": "Allow an hour, and check opening hours."
+    },
+    {
+      "name": "The War Remnants Museum",
+      "image": {
+        "file": "File:Ho Chi Minh City, Vietnam, War Remnants Museum.jpg",
+        "alt": "The exterior of the War Remnants Museum in Ho Chi Minh City with military vehicles"
+      },
+      "text": "A museum of the Vietnam War, from the Vietnamese perspective, with photographs, military equipment and displays on the effects of Agent Orange. It is powerful and often distressing.",
+      "tip": "Allow two hours, and consider whether the images are suitable for children."
+    },
+    {
+      "name": "Notre-Dame Basilica and the Central Post Office",
+      "image": {
+        "file": "File:Basilica of Our Lady Immaculate.jpg",
+        "alt": "The red-brick twin towers of the Notre-Dame Basilica in Saigon"
+      },
+      "text": "A red-brick neo-Romanesque cathedral built in the 1870s, and opposite it a grand yellow post office of the 1890s with an iron-vaulted hall, both in the French colonial style.",
+      "tip": "The Basilica has been under renovation, so check access."
+    },
+    {
+      "name": "Ben Thanh Market",
+      "image": {
+        "file": "File:Ben Thanh Market, 2023 (05).jpg",
+        "alt": "The entrance and clock tower of Ben Thanh Market in Ho Chi Minh City"
+      },
+      "text": "The city's best-known market, with stalls selling souvenirs, clothes, coffee and food. A tourist favourite, with high prices for gifts.",
+      "tip": "Bargain, and eat at the food stalls."
+    },
+    {
+      "name": "Cu Chi Tunnels",
+      "image": {
+        "file": "File:Cu Chi Tunnels Vietnam war.jpg",
+        "alt": "An entrance to the Cu Chi Tunnels used during the Vietnam War"
+      },
+      "text": "A network of hand-dug tunnels about 70 km north-west of the city, used by Viet Cong fighters. Visitors can crawl through sections, and see booby traps and displays.",
+      "tip": "Take a half-day tour, and go early."
+    },
+    {
+      "name": "Cholon (Chinatown)",
+      "text": "The Chinese quarter, with temples, markets and herbal medicine shops, including the atmospheric Thien Hau Temple.",
+      "tip": "Go by Grab or as part of a tour."
+    }
+  ],
+  "thingsToDoIntro": "Ho Chi Minh City is best explored by mixing sights, food and evenings out.",
+  "thingsToDo": [
+    {
+      "title": "Take a street food tour",
+      "text": "A guide leads you through the alleys for pancakes, noodle soups and snacks, often by motorbike.",
+      "tip": "Choose a small group."
+    },
+    {
+      "title": "Have a cà phê sữa đá",
+      "text": "Strong Vietnamese iced coffee with sweetened condensed milk, at any café.",
+      "tip": "Try it in an old apartment café."
+    },
+    {
+      "title": "Visit the Cu Chi Tunnels",
+      "text": "See how fighters lived and moved underground.",
+      "tip": "Not for claustrophobes."
+    },
+    {
+      "title": "Walk Nguyen Hue Street",
+      "text": "The pedestrian boulevard leads to the river, and is a favourite evening promenade.",
+      "tip": "Go after dusk."
+    },
+    {
+      "title": "Visit the Jade Emperor Pagoda",
+      "text": "A Taoist temple filled with incense and carved figures.",
+      "tip": "Dress modestly."
+    },
+    {
+      "title": "Go to a rooftop bar",
+      "text": "Views of the skyline and river at dusk.",
+      "tip": "Book for sunset."
+    }
+  ],
+  "foodIntro": "Saigon's food is bigger and sweeter than in the north, with dishes from across the country and its own southern specialities.",
+  "foods": [
+    {
+      "name": "Com tam",
+      "text": "Broken rice served with grilled pork chop, egg and pickles.",
+      "whereToTry": "Street stalls and small restaurants."
+    },
+    {
+      "name": "Banh mi",
+      "text": "The southern version is loaded with herbs, pâté and sauces.",
+      "whereToTry": "Street carts and bakeries."
+    },
+    {
+      "name": "Banh xeo",
+      "text": "A large, crisp pancake filled with pork, shrimp and beansprouts, wrapped in lettuce and herbs.",
+      "whereToTry": "Restaurants in District 1."
+    },
+    {
+      "name": "Hu tieu",
+      "text": "A clear, sweet pork and seafood noodle soup, typical of the south.",
+      "whereToTry": "Breakfast stalls."
+    },
+    {
+      "name": "Pho",
+      "text": "The southern style has more herbs and sauces.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Iced coffee and sugar cane juice",
+      "text": "Sweet, cool drinks for a hot day.",
+      "whereToTry": "Cafés and street vendors."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in District 1 for convenience, with a choice of areas around it.",
+    "areas": [
+      {
+        "name": "District 1",
+        "bestFor": "Sights, restaurants and nightlife",
+        "text": "Hotels from budget to luxury around Nguyen Hue and Dong Khoi."
+      },
+      {
+        "name": "Pham Ngu Lao backpacker area",
+        "bestFor": "Budget travellers",
+        "text": "Hostels, bars and travel agents, busy and noisy."
+      },
+      {
+        "name": "District 3 and Binh Thanh",
+        "bestFor": "Quieter, local streets",
+        "text": "Boutique hotels and cafés."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel or hostel", "value": "US$10–30 per night" },
+      { "label": "Mid-range hotel", "value": "US$45–110 per night" },
+      { "label": "Luxury hotel", "value": "US$150–400 per night" },
+      { "label": "Meal at a street stall", "value": "US$1–4 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Ho Chi Minh City is the main international gateway to southern Vietnam.",
+    "options": [
+      {
+        "mode": "Flight to Tan Son Nhat (SGN)",
+        "text": "Direct flights from across Asia, Europe and beyond, and domestic flights from Hanoi, Da Nang and Phu Quoc.",
+        "detail": "The airport is about 30 minutes from District 1, longer in traffic."
+      },
+      {
+        "mode": "Train",
+        "text": "The Reunification Express arrives at Saigon Station after about 30 hours from Hanoi.",
+        "detail": "Fly instead unless you love trains."
+      },
+      {
+        "mode": "Bus from Cambodia",
+        "text": "Buses from Phnom Penh take about 6 to 7 hours.",
+        "detail": "Check visa requirements at the border."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Traffic is heavy, and Grab is the easiest way to move.",
+    "options": [
+      {
+        "mode": "Grab",
+        "text": "Cars and motorbike taxis with fixed prices.",
+        "detail": "Use the app."
+      },
+      {
+        "mode": "Walking",
+        "text": "District 1 is compact, though crossing roads is a challenge.",
+        "detail": "Cross slowly and steadily."
+      },
+      {
+        "mode": "Metro",
+        "text": "Ho Chi Minh City's first metro line opened in the last few years and connects the centre with the north-east.",
+        "detail": "Check the current route."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–April",
+    "summary": "Ho Chi Minh City is hot all year, with a dry season from December to April and a wet season from May to November.",
+    "seasons": [
+      {
+        "season": "Dry season (December–February)",
+        "rating": "best",
+        "text": "Sunny, dry and slightly cooler."
+      },
+      {
+        "season": "Hot season (March–April)",
+        "rating": "good",
+        "text": "Very hot and dry."
+      },
+      {
+        "season": "Early wet (May–July)",
+        "rating": "good",
+        "text": "Afternoon downpours and humid heat."
+      },
+      {
+        "season": "Late wet (August–November)",
+        "rating": "quiet",
+        "text": "Heavy rain, with streets sometimes flooding."
+      }
+    ],
+    "avoid": "The days around Tet, when many businesses close, and the peak rain in September and October."
+  },
+  "itinerary": {
+    "title": "Three days in Ho Chi Minh City",
+    "intro": "The city sights, a day at Cu Chi and Chinatown, and a day of food.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The centre",
+        "summary": "Colonial and war history.",
+        "morning": "Notre-Dame Basilica and the Post Office.",
+        "afternoon": "The Reunification Palace and War Remnants Museum.",
+        "evening": "Nguyen Hue Street and a rooftop bar."
+      },
+      {
+        "day": 2,
+        "title": "Cu Chi and Cholon",
+        "summary": "Tunnels and Chinatown.",
+        "morning": "The Cu Chi Tunnels.",
+        "afternoon": "Cholon and Thien Hau Temple.",
+        "evening": "Dinner in District 1."
+      },
+      {
+        "day": 3,
+        "title": "Food and markets",
+        "summary": "Eating in earnest.",
+        "morning": "Ben Thanh Market.",
+        "afternoon": "A street food tour.",
+        "evening": "Farewell dinner."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make the city easier.",
+  "tips": [
+    "Use Grab for taxis and motorbike rides.",
+    "Keep phones and bags on the side away from the road, since snatch thefts occur.",
+    "Cross roads slowly and predictably.",
+    "Go to the Cu Chi Tunnels early, to avoid the heat and crowds.",
+    "Carry small notes for street food.",
+    "Bargain in markets.",
+    "Expect rain in the afternoon during the wet season."
+  ],
+  "faq": [
+    {
+      "q": "Is it Ho Chi Minh City or Saigon?",
+      "a": "Officially it is Ho Chi Minh City, and most people, including locals, still call it Saigon, particularly the central district."
+    },
+    {
+      "q": "How many days do you need?",
+      "a": "Two or three days. Add a day for the Mekong Delta."
+    },
+    {
+      "q": "Is Ho Chi Minh City safe?",
+      "a": "Generally yes, but bag and phone snatching is common. Use Grab and keep valuables secure."
+    },
+    {
+      "q": "Is the War Remnants Museum suitable for children?",
+      "a": "It contains graphic images and may upset young children."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "December to April, the dry season."
+    },
+    {
+      "q": "How do I visit Cu Chi Tunnels?",
+      "a": "By half-day tour or by Grab, about 1.5 to 2 hours each way."
+    }
+  ],
+  "related": ["mekong-delta", "phu-quoc", "hoi-an"],
+  "relatedArticles": ["food-primer", "week-cost-five-countries"]
+}

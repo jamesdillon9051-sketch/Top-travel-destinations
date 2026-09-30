@@ -1,0 +1,322 @@
+{
+  "slug": "krakow",
+  "name": "Kraków",
+  "country": "poland",
+  "region": "Lesser Poland, southern Poland",
+  "categories": ["major-city", "historic", "unesco", "cultural"],
+  "tagline": "Poland's former royal capital, with Europe's largest medieval market square, a hilltop castle, a historic Jewish quarter and a salt mine of underground chapels.",
+  "highlight": "The Main Market Square at dusk, with the trumpeter's call from St. Mary's tower and horse carriages passing the Cloth Hall.",
+  "shortDescription": "A UNESCO-listed old town with the Main Market Square, Wawel Castle, Kazimierz, Schindler's Factory and easy trips to Wieliczka Salt Mine and Auschwitz.",
+  "metaDescription": "A Kraków travel guide: Main Market Square, Cloth Hall, Wawel Castle, St. Mary's Basilica, Kazimierz, Wieliczka Salt Mine, food, where to stay, how to get around and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Kraków John Paul II (KRK), about 20 minutes by train",
+  "knownFor": "Old town, Wawel Castle, Kazimierz, pierogi",
+  "budget": "US$90–160 per day, mid-range",
+  "goodFor": "First-timers, history, food, nightlife, day trips",
+  "coords": { "lat": 50.0647, "lng": 19.9450 },
+  "image": {
+    "file": "File:Kraków Cloth Hall, 3 Main Market Square, Old Town, Kraków, Poland.jpg",
+    "alt": "The Cloth Hall in Kraków's Main Market Square"
+  },
+  "intro": [
+    "Kraków is Poland's most visited city and its cultural capital, home to about 800,000 people, and it was the seat of the Polish kings for five centuries. Unlike Warsaw, it escaped major destruction in the Second World War, so its medieval old town, ringed by the Planty park where the walls once stood, is intact, and a UNESCO World Heritage Site since 1978.",
+    "At the centre is the Main Market Square, the largest medieval town square in Europe, with the Renaissance Cloth Hall in the middle and St. Mary's Basilica at one corner, from whose tower a trumpeter plays a call every hour. To the south, Wawel Hill holds the royal castle and cathedral. Further south is Kazimierz, the historic Jewish quarter, now full of restored synagogues, cafés and bars, and across the river is Podgórze, with the Schindler's Factory museum.",
+    "Kraków is also the base for two major excursions: the Wieliczka Salt Mine, a UNESCO-listed complex of chambers and chapels carved from salt, and Auschwitz-Birkenau. It has a vibrant student life, and its cellar bars and restaurants are excellent value. Three days covers the city, with more for excursions."
+  ],
+  "whyVisit": {
+    "intro": "Kraków is Poland's most complete and atmospheric historic city.",
+    "points": [
+      {
+        "title": "A giant medieval square",
+        "text": "The Main Market Square."
+      },
+      {
+        "title": "A royal castle",
+        "text": "Wawel Hill."
+      },
+      {
+        "title": "Jewish heritage",
+        "text": "Kazimierz and Schindler's Factory."
+      },
+      {
+        "title": "Great day trips",
+        "text": "Wieliczka and Auschwitz."
+      },
+      {
+        "title": "Food and nightlife",
+        "text": "Pierogi, cellar bars and cafés."
+      }
+    ]
+  },
+  "attractionsIntro": "The old town is compact and best on foot.",
+  "attractions": [
+    {
+      "name": "Main Market Square and the Cloth Hall",
+      "image": {
+        "file": "File:Krakow 2024 032 St Mary Basilica et Sukiennice Mascarons.jpg",
+        "alt": "St. Mary's Basilica beside the Cloth Hall in Kraków's Main Market Square"
+      },
+      "text": "The largest medieval square in Europe, with the Renaissance Cloth Hall trading arcade, the town hall tower and St. Mary's Basilica with its altarpiece by Veit Stoss.",
+      "tip": "Listen for the hourly trumpet call."
+    },
+    {
+      "name": "Wawel Castle and Cathedral",
+      "image": {
+        "file": "File:Kraków - Wawel - Widok od wschodu 01.jpg",
+        "alt": "Wawel Hill with the castle and cathedral rising above the Vistula"
+      },
+      "text": "The seat of Polish kings for centuries, with a Renaissance courtyard, state rooms and a cathedral where monarchs were crowned and buried.",
+      "tip": "Book timed tickets online."
+    },
+    {
+      "name": "Kazimierz",
+      "image": {
+        "file": "File:Józefa Street, view from E, Kazimierz, Kraków, Poland.jpg",
+        "alt": "Józefa Street in the Kazimierz district of Kraków"
+      },
+      "text": "The historic Jewish quarter, with synagogues, a lively square and many bars and restaurants, and a serious past to remember.",
+      "tip": "Visit the Old Synagogue."
+    },
+    {
+      "name": "Wieliczka Salt Mine",
+      "image": {
+        "file": "File:202207 Holy Cross Chapel in Wieliczka Salt Mine 01.jpg",
+        "alt": "The Holy Cross Chapel carved from salt in the Wieliczka Salt Mine"
+      },
+      "text": "A UNESCO-listed mine 14 km from the city, worked since the Middle Ages, with chapels and statues carved from rock salt.",
+      "tip": "Allow half a day, and dress warmly."
+    },
+    {
+      "name": "Schindler's Factory",
+      "text": "A museum about Kraków under Nazi occupation, in Oskar Schindler's former enamel factory.",
+      "tip": "Book tickets in advance."
+    },
+    {
+      "name": "Planty Park",
+      "text": "A green ring around the old town, on the site of the medieval walls.",
+      "tip": "Good for a walk."
+    }
+  ],
+  "thingsToDoIntro": "Kraków rewards wandering and eating.",
+  "thingsToDo": [
+    {
+      "title": "Climb the St. Mary's tower",
+      "text": "See the trumpeter and the square.",
+      "tip": "Limited tickets."
+    },
+    {
+      "title": "Tour the Kazimierz quarter",
+      "text": "Walk the synagogues and streets.",
+      "tip": "Book a guide."
+    },
+    {
+      "title": "Visit Wieliczka",
+      "text": "See salt chapels.",
+      "tip": "Book a timed slot."
+    },
+    {
+      "title": "Eat pierogi",
+      "text": "Try different fillings.",
+      "tip": "Go to a milk bar."
+    },
+    {
+      "title": "Drink in a cellar bar",
+      "text": "Old-town bars in medieval cellars.",
+      "tip": "Try local vodkas."
+    },
+    {
+      "title": "Cycle the Vistula",
+      "text": "A riverside path.",
+      "tip": "Hire a bike."
+    }
+  ],
+  "foodIntro": "Kraków's food is hearty and cheap.",
+  "foods": [
+    {
+      "name": "Pierogi",
+      "text": "Dumplings with various fillings.",
+      "whereToTry": "Milk bars and restaurants."
+    },
+    {
+      "name": "Obwarzanek",
+      "text": "A boiled and baked bread ring.",
+      "whereToTry": "Street carts."
+    },
+    {
+      "name": "Zapiekanka",
+      "text": "A toasted baguette pizza from Plac Nowy.",
+      "whereToTry": "Plac Nowy in Kazimierz."
+    },
+    {
+      "name": "Żurek",
+      "text": "Sour rye soup.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Cheesecake (sernik)",
+      "text": "Kraków-style baked cheesecake.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in or near the old town.",
+    "areas": [
+      {
+        "name": "Old Town",
+        "bestFor": "Sightseeing",
+        "text": "Hotels and apartments."
+      },
+      {
+        "name": "Kazimierz",
+        "bestFor": "Nightlife",
+        "text": "Boutique hotels and hostels."
+      },
+      {
+        "name": "Podgórze",
+        "bestFor": "Quiet",
+        "text": "Across the river."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$15–30 per night" },
+      { "label": "Mid-range hotel", "value": "US$70–140 per night" },
+      { "label": "Luxury hotel", "value": "US$180–350 per night" },
+      { "label": "Meal at a milk bar", "value": "US$4–8 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Kraków is well connected.",
+    "options": [
+      {
+        "mode": "Train from the airport",
+        "text": "About 20 minutes to Kraków Główny.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train from Warsaw",
+        "text": "About 2.5 hours.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Bus to Zakopane",
+        "text": "About 2 hours.",
+        "detail": "Frequent."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The old town is walkable.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The old town and Kazimierz.",
+        "detail": "Comfortable shoes."
+      },
+      {
+        "mode": "Trams",
+        "text": "To Podgórze and outer areas.",
+        "detail": "Validate tickets."
+      },
+      {
+        "mode": "Ride-hailing",
+        "text": "Cheap.",
+        "detail": "Use Bolt or Uber."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "Kraków has warm summers and cold winters.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Mild and green."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Warm, with festivals, but crowded."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Golden light."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold, with Christmas markets."
+      }
+    ],
+    "avoid": "Foggy days in winter."
+  },
+  "itinerary": {
+    "title": "Three days in Kraków",
+    "intro": "The old town, Kazimierz, and a salt mine.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town",
+        "summary": "Square and castle.",
+        "morning": "Main Market Square.",
+        "afternoon": "Wawel Castle.",
+        "evening": "Cellar bar."
+      },
+      {
+        "day": 2,
+        "title": "Kazimierz",
+        "summary": "History.",
+        "morning": "Kazimierz synagogues.",
+        "afternoon": "Schindler's Factory.",
+        "evening": "Plac Nowy."
+      },
+      {
+        "day": 3,
+        "title": "Wieliczka",
+        "summary": "Salt.",
+        "morning": "Wieliczka Salt Mine.",
+        "afternoon": "Return.",
+        "evening": "Dinner."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book Wawel, Wieliczka and Schindler's Factory in advance.",
+    "Go to the square early or late.",
+    "Eat in milk bars.",
+    "Watch for pickpockets.",
+    "Use Bolt or Uber.",
+    "Wear layers in the mine.",
+    "Visit Kazimierz with respect."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Kraków?",
+      "a": "Three days, with more for excursions."
+    },
+    {
+      "q": "Is Kraków safe?",
+      "a": "Yes."
+    },
+    {
+      "q": "Can I visit Auschwitz from Kraków?",
+      "a": "Yes, about 1.5 hours away."
+    },
+    {
+      "q": "Is Kraków cheap?",
+      "a": "Yes."
+    },
+    {
+      "q": "Is Wieliczka worth it?",
+      "a": "Yes, for its salt chapels."
+    },
+    {
+      "q": "What is Kraków famous for?",
+      "a": "Its old town, castle and Jewish heritage."
+    }
+  ],
+  "related": ["auschwitz-birkenau", "zakopane-tatras", "warsaw"],
+  "relatedArticles": ["unesco-worth-planning-around", "first-trip-to-europe"]
+}

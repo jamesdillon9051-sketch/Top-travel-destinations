@@ -1,0 +1,329 @@
+{
+  "slug": "yucatan-merida-chichen-itza",
+  "name": "Mérida & Chichén Itzá",
+  "shortName": "Mérida and Chichén Itzá",
+  "country": "mexico",
+  "region": "Yucatán State, Yucatán Peninsula",
+  "categories": ["unesco", "archaeological", "historic"],
+  "tagline": "The Maya heartland: a great pyramid on the plain, a white colonial city of haciendas and cochinita pibil, and limestone cenotes to swim in between them.",
+  "highlight": "El Castillo at Chichén Itzá at opening, and a swim in a cenote before lunch.",
+  "shortDescription": "Yucatán's cultural centre, with the New Wonder of Chichén Itzá, the Puuc ruins of Uxmal, Valladolid's convents and cenotes, and Mérida, a graceful colonial city with the best food on the peninsula.",
+  "metaDescription": "A Mérida and Chichén Itzá travel guide: El Castillo, Uxmal, Ek Balam, cenotes, Valladolid, Mérida's cathedral and Paseo de Montejo, Yucatecan food, when to go and a three-day plan.",
+  "suggestedStay": "4 days",
+  "nearestAirport": "Mérida Manuel Crescencio Rejón (MID), about 20 minutes",
+  "knownFor": "Chichén Itzá, Uxmal, cenotes, Yucatecan cuisine, colonial Mérida",
+  "budget": "US$70–130 per day, mid-range",
+  "goodFor": "Maya archaeology, cenotes, food, colonial architecture",
+  "coords": { "lat": 20.9674, "lng": -89.5926 },
+  "image": {
+    "file": "File:Chichen Itza 3.jpg",
+    "alt": "El Castillo, the stepped pyramid of Chichén Itzá, on its plaza under a blue sky"
+  },
+  "intro": [
+    "The Yucatán Peninsula is a flat limestone plain without rivers, where the ancient Maya built cities around natural sinkholes called cenotes, which supplied their water. Chichén Itzá, the most famous, flourished from about 800 to 1200 CE, and its pyramid, El Castillo, is aligned so that at the equinoxes the shadow of a serpent appears to slither down its staircase. It is one of the New Seven Wonders of the World and a UNESCO site.",
+    "Mérida, the state capital, was founded by the Spanish in 1542 on the site of a Maya city, and it is the cultural centre of the peninsula: a city of pastel colonial houses, plazas, a large cathedral built from Maya temple stones, and the grand mansions of the henequen boom on Paseo de Montejo. It is warm, safe and relaxed, and the best food base in Yucatán.",
+    "The region between them is rich in sights. Uxmal, south of Mérida, is a masterpiece of Puuc-style architecture. Valladolid is a colourful colonial town with a cenote in its centre, and Ek Balam has a climbable pyramid with a well-preserved stucco facade. Together, they make an easy loop of three or four days."
+  ],
+  "whyVisit": {
+    "intro": "This is the best place in Mexico to see the Maya world, and to eat the food of the peninsula.",
+    "points": [
+      {
+        "title": "Chichén Itzá",
+        "text": "The pyramid of Kukulcán, the great ball court, the Temple of the Warriors and the sacred cenote are among the greatest monuments of Mesoamerica."
+      },
+      {
+        "title": "Uxmal",
+        "text": "A quieter, more elegant Puuc city with the Pyramid of the Magician and the Governor's Palace, and richly carved facades."
+      },
+      {
+        "title": "Cenotes",
+        "text": "Sinkholes with clear turquoise water, some in caves with stalactites and some open to the sky, are ideal for swimming."
+      },
+      {
+        "title": "Mérida",
+        "text": "A walkable colonial city with Sunday markets, free concerts in the plaza, and a lively food scene."
+      },
+      {
+        "title": "Yucatecan food",
+        "text": "Cochinita pibil, sopa de lima, papadzules and panuchos are unlike anything else in Mexico."
+      }
+    ]
+  },
+  "attractionsIntro": "Chichén Itzá needs half a day, Uxmal another half, and Mérida a full day.",
+  "attractions": [
+    {
+      "name": "Chichén Itzá",
+      "text": "A vast Maya and Toltec-influenced city with El Castillo, the Great Ball Court, the Temple of the Warriors, the Observatory (El Caracol) and the Sacred Cenote. The pyramid can no longer be climbed.",
+      "tip": "Arrive at opening, and consider visiting in the afternoon, when the crowds thin."
+    },
+    {
+      "name": "Uxmal",
+      "text": "A Puuc-style Maya city with the Pyramid of the Magician, the Nunnery Quadrangle and the Governor's Palace, decorated with intricate mosaic stonework and rain-god masks.",
+      "tip": "Stay for the evening light and sound show if it is running."
+    },
+    {
+      "name": "Mérida's Plaza Grande and Cathedral",
+      "image": {
+        "file": "File:Merida Cathedral - Yucatan Feb 2002.jpg",
+        "alt": "The 16th-century cathedral of Mérida on the Plaza Grande"
+      },
+      "text": "The main square, with the 16th-century cathedral, one of the oldest in the Americas, the Governor's Palace with murals of Maya history, and the Casa de Montejo.",
+      "tip": "Free concerts and dances take place most evenings."
+    },
+    {
+      "name": "Paseo de Montejo",
+      "text": "A grand boulevard modelled on the Champs-Élysées, lined with mansions built by henequen barons, now museums, banks and restaurants. The Gran Museo del Mundo Maya is nearby.",
+      "tip": "Go on a Sunday, when the road is closed to traffic."
+    },
+    {
+      "name": "Valladolid and Cenote Zací",
+      "image": {
+        "file": "File:Cenote Zaci, Valladolid de Yucatan, Julio 2012 01.jpg",
+        "alt": "A swimmer in Cenote Zací, a cenote in the centre of Valladolid"
+      },
+      "text": "A small colonial town of pastel houses and a Franciscan convent, with a large open cenote a few blocks from the main square.",
+      "tip": "A good lunch stop between Mérida and Chichén Itzá."
+    },
+    {
+      "name": "Ek Balam",
+      "image": {
+        "file": "File:Ek' balam - 06.jpg",
+        "alt": "The main pyramid and stucco facade at the Maya site of Ek Balam"
+      },
+      "text": "A smaller Maya city north of Valladolid with a large acropolis, a stucco-sculpted tomb entrance and few visitors.",
+      "tip": "Combine with the nearby cenote."
+    },
+    {
+      "name": "Haciendas and Celestún",
+      "text": "Restored henequen haciendas offer lunch and swimming, and the Celestún estuary, 90 minutes west, is a flamingo reserve.",
+      "tip": "Flamingos are best seen from November to March."
+    }
+  ],
+  "thingsToDoIntro": "A loop through the heart of Yucatán combines ruins, swimming and eating.",
+  "thingsToDo": [
+    {
+      "title": "See Chichén Itzá early",
+      "text": "Go at opening for cooler temperatures, softer light and smaller crowds.",
+      "tip": "Hire a licensed guide at the gate, or download an audio guide."
+    },
+    {
+      "title": "Swim in a cenote",
+      "text": "Cenote Ik Kil, Suytun and Zací are among many that can be visited.",
+      "tip": "Bring a towel and a dry bag, and rinse off first."
+    },
+    {
+      "title": "Eat cochinita pibil",
+      "text": "Try it in a Mérida market, on a taco, with habanero salsa and pickled onions.",
+      "tip": "Ask for it 'con todo' for the works."
+    },
+    {
+      "title": "Spend a Sunday in Mérida",
+      "text": "Paseo de Montejo is closed to cars, and the plaza hosts a market, music and dance.",
+      "tip": "Arrive by 10:00."
+    },
+    {
+      "title": "Visit Uxmal and hacienda",
+      "text": "Combine the ruins with a hacienda lunch on the Puuc route.",
+      "tip": "Hire a driver for the day."
+    },
+    {
+      "title": "Try a traditional Maya ceremony or workshop",
+      "text": "Local cooperatives offer cooking, weaving and honey-tasting, run by Maya families.",
+      "tip": "Book through your hotel."
+    }
+  ],
+  "foodIntro": "Yucatecan cuisine is distinct from the rest of Mexico, with Maya, Spanish, Caribbean and Lebanese influences and its own spices.",
+  "foods": [
+    {
+      "name": "Cochinita pibil",
+      "text": "Pork marinated in sour orange and achiote, wrapped in banana leaves and slow-cooked.",
+      "whereToTry": "Markets in Mérida and Valladolid."
+    },
+    {
+      "name": "Sopa de lima",
+      "text": "A chicken and tortilla soup flavoured with a local sour lime.",
+      "whereToTry": "Restaurants across the region."
+    },
+    {
+      "name": "Papadzules and panuchos",
+      "text": "Egg-filled tortillas in pumpkin-seed sauce, and fried tortillas stuffed with black beans and topped with turkey.",
+      "whereToTry": "Family restaurants in Mérida."
+    },
+    {
+      "name": "Poc chuc and lechón al horno",
+      "text": "Grilled marinated pork and roast suckling pig, both served with pickles and tortillas.",
+      "whereToTry": "Market stalls."
+    },
+    {
+      "name": "Habanero salsa and xnipec",
+      "text": "Fiery chile sauces on every table, to be used sparingly.",
+      "whereToTry": "Everywhere."
+    },
+    {
+      "name": "Marquesitas and helado",
+      "text": "Crisp rolled crepes filled with cheese and Nutella, and ice cream, sold on the Mérida plazas.",
+      "whereToTry": "Street vendors in Mérida."
+    }
+  ],
+  "accommodation": {
+    "intro": "Mérida is the best base, and staying near Chichén Itzá lets you see it at opening.",
+    "areas": [
+      {
+        "name": "Mérida centro",
+        "bestFor": "Restaurants, culture and day trips",
+        "text": "Boutique hotels in restored colonial houses with courtyards and pools, near the plazas."
+      },
+      {
+        "name": "Valladolid",
+        "bestFor": "Chichén Itzá and cenotes",
+        "text": "Small hotels and guesthouses, 45 minutes from Chichén Itzá and close to several cenotes."
+      },
+      {
+        "name": "Haciendas",
+        "bestFor": "A special stay",
+        "text": "Restored haciendas outside Mérida offer pools, gardens and history."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or budget hotel", "value": "US$20–50 per night" },
+      { "label": "Mid-range hotel", "value": "US$70–150 per night" },
+      { "label": "Hacienda or luxury hotel", "value": "US$200–450 per night" },
+      { "label": "Chichén Itzá entry", "value": "About US$25–30" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Mérida has an airport, and buses and the Tren Maya link it to the rest of the peninsula.",
+    "options": [
+      {
+        "mode": "Mérida airport (MID)",
+        "text": "Direct flights from Mexico City, Cancún and several US cities.",
+        "detail": "Taxis and Uber run into the city."
+      },
+      {
+        "mode": "Bus from Cancún or Tulum",
+        "text": "ADO buses take about 4 hours from Cancún and 5 from Tulum. Chichén Itzá is on the way.",
+        "detail": "Book online."
+      },
+      {
+        "mode": "Tren Maya",
+        "text": "A tourist rail connection between Mérida, Cancún and other destinations.",
+        "detail": "Check the current timetable."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Mérida is walkable, and tours, colectivos and hire cars cover the region.",
+    "options": [
+      {
+        "mode": "Walking and taxis",
+        "text": "The centre is compact. Taxis and Uber are cheap.",
+        "detail": "Agree the fare with taxis."
+      },
+      {
+        "mode": "Hire car",
+        "text": "Useful for Uxmal, cenotes and haciendas. Roads are flat and straight, with speed bumps in villages.",
+        "detail": "Avoid driving at night."
+      },
+      {
+        "mode": "Colectivos and tours",
+        "text": "Shared vans go to Chichén Itzá, Valladolid and the cenotes.",
+        "detail": "Ask about times."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–March",
+    "summary": "Yucatán is hot and humid for much of the year. The dry winter months are the most comfortable, and summer brings extreme heat and storms.",
+    "seasons": [
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "Warm, dry and sunny, with pleasant nights."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "shoulder",
+        "text": "Hot, up to 38°C, and dry. Go early for the ruins."
+      },
+      {
+        "season": "Summer (June–September)",
+        "rating": "avoid",
+        "text": "Hot, humid and rainy, with hurricane risk. Cheaper and green."
+      },
+      {
+        "season": "Autumn (October–November)",
+        "rating": "shoulder",
+        "text": "Humid at first, and pleasant by November."
+      }
+    ],
+    "avoid": "Midday in April to September, and the spring equinox at Chichén Itzá if you want quiet."
+  },
+  "itinerary": {
+    "title": "Three days in Yucatán",
+    "intro": "Mérida on the first day, Uxmal on the second, Chichén Itzá and Valladolid on the third. Assumes a hire car or a driver.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Mérida",
+        "summary": "A colonial city.",
+        "morning": "The Plaza Grande, the cathedral and the markets.",
+        "afternoon": "Paseo de Montejo and the Gran Museo del Mundo Maya.",
+        "evening": "Cochinita pibil and a plaza concert."
+      },
+      {
+        "day": 2,
+        "title": "Uxmal and a hacienda",
+        "summary": "A Puuc city.",
+        "morning": "Uxmal at opening.",
+        "afternoon": "Lunch at a hacienda and a swim.",
+        "evening": "Back in Mérida."
+      },
+      {
+        "day": 3,
+        "title": "Chichén Itzá and Valladolid",
+        "summary": "The great pyramid and a cenote.",
+        "morning": "Chichén Itzá at opening.",
+        "afternoon": "A swim in a cenote and lunch in Valladolid.",
+        "evening": "Return to Mérida or continue to Tulum."
+      }
+    ]
+  },
+  "tipsIntro": "Yucatán is hot and flat, and a few tips help.",
+  "tips": [
+    "Go to Chichén Itzá at opening, and bring water, a hat and sunscreen.",
+    "Use biodegradable sunscreen or none in cenotes, and rinse before swimming.",
+    "Carry small pesos for entry fees, colectivos and vendors.",
+    "Ask before you photograph Maya people, and buy crafts directly.",
+    "Do not climb pyramids where it is forbidden. Rules at smaller sites change, so check the signs and ask the guards.",
+    "Drive carefully. Speed bumps (topes) appear without warning.",
+    "Book a table on Sunday evenings in Mérida."
+  ],
+  "faq": [
+    {
+      "q": "Can I climb the pyramid at Chichén Itzá?",
+      "a": "No. Climbing El Castillo has been prohibited since 2006. Rules for climbing at other sites change and are often restricted, so check on arrival."
+    },
+    {
+      "q": "How many days do you need in Yucatán?",
+      "a": "Three or four for Mérida, Uxmal and Chichén Itzá, and more to add Valladolid, Ek Balam and the coast."
+    },
+    {
+      "q": "Is Mérida safe?",
+      "a": "It is widely regarded as one of the safest cities in Mexico. Normal precautions apply."
+    },
+    {
+      "q": "What is a cenote?",
+      "a": "A natural sinkhole in limestone that exposes groundwater. The Maya regarded them as sacred and used them as water sources."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "November to March for the ruins. Summer is very hot, humid and rainy."
+    },
+    {
+      "q": "Can I visit Chichén Itzá as a day trip from Cancún?",
+      "a": "Yes, but it is about 2.5 hours each way. Staying near the site or in Valladolid lets you arrive at opening."
+    }
+  ],
+  "related": ["tulum-riviera-maya", "chiapas-palenque-san-cristobal", "oaxaca"],
+  "relatedArticles": ["unesco-worth-planning-around", "food-primer"]
+}

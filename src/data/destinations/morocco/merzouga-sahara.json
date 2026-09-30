@@ -1,0 +1,294 @@
+{
+  "slug": "merzouga-sahara",
+  "name": "Merzouga and the Sahara",
+  "shortName": "Merzouga",
+  "country": "morocco",
+  "region": "Drâa-Tafilalet, south-east Morocco",
+  "categories": ["nature", "scenic", "off-the-beaten-path"],
+  "tagline": "Golden dunes up to 150 metres high on the edge of the Sahara, reached by camel at dusk, with a night in a tented camp and a sunrise over the sand.",
+  "highlight": "Watching the sunrise from the top of the highest dune at Erg Chebbi.",
+  "shortDescription": "The gateway to Erg Chebbi, Morocco's biggest sand sea: camel treks, desert camps, Gnawa music and starry skies at the far end of the country.",
+  "metaDescription": "A Merzouga and Sahara travel guide: Erg Chebbi dunes, camel treks, desert camps, Rissani, Khamlia, how to get there, what to pack, the best time to go and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Errachidia (ERH), about 2 hours 30 minutes",
+  "knownFor": "Erg Chebbi dunes, camel treks, desert camps, night skies",
+  "budget": "US$80–200 per person for a desert night with transfers",
+  "goodFor": "Desert landscapes, stargazing, adventure, photography",
+  "coords": { "lat": 31.0994, "lng": -4.0128 },
+  "image": {
+    "file": "File:Merzouga Dunes 2011.jpg",
+    "alt": "The orange sand dunes of Erg Chebbi near Merzouga in the Moroccan Sahara"
+  },
+  "intro": [
+    "Merzouga is a small village at the edge of Erg Chebbi, a sea of sand about 22 km long and 5 km wide that rises to roughly 150 metres in places. It sits close to the Algerian border, in the far south-east of Morocco, about as far from Tangier as it is possible to be in the country. It is the most accessible large dune field in Morocco and the classic Saharan experience.",
+    "The tradition is to leave the village in the late afternoon on a camel, follow a Berber guide into the dunes and arrive at a tented camp as the sun goes down. The evening involves dinner, music and drumming around a fire, and clear skies with a great many stars. The next morning, climbing a dune to watch the sunrise is the reward.",
+    "The village and its surroundings also have a life of their own. Local Gnawa communities in Khamlia perform music descended from West African traditions, Rissani has a busy market and the tombs of the Alaouite dynasty's ancestors, and nomads still camp near the dunes."
+  ],
+  "whyVisit": {
+    "intro": "Merzouga gives a memorable night in the Sahara without requiring days of trekking.",
+    "points": [
+      {
+        "title": "Real dunes",
+        "text": "Erg Chebbi is a proper sand sea, with towering, ever-shifting dunes and sweeping curves."
+      },
+      {
+        "title": "The camel trek",
+        "text": "A slow ride into the dunes at dusk is one of the most iconic experiences in Morocco."
+      },
+      {
+        "title": "Sunrise and stars",
+        "text": "With little light pollution, the night sky is spectacular, and dawn on the dunes is memorable."
+      },
+      {
+        "title": "Local music and culture",
+        "text": "Gnawa musicians, Amazigh hospitality and the desert markets at Rissani."
+      },
+      {
+        "title": "Adventure options",
+        "text": "Sandboarding, 4x4 excursions and walking in the dunes."
+      }
+    ]
+  },
+  "attractionsIntro": "The main event is the dunes, and the surroundings add variety over a couple of days.",
+  "attractions": [
+    {
+      "name": "Erg Chebbi",
+      "text": "The sea of dunes, which reaches its greatest height near the Merzouga side. The sand is fine and orange, turning red at sunset.",
+      "tip": "Climb the highest dune for sunrise, and bring a scarf against the wind."
+    },
+    {
+      "name": "A desert camp",
+      "text": "A camp of tents in the dunes, from simple Berber tents to luxury tents with private bathrooms. Dinner and music are included.",
+      "tip": "Check whether winter tents are heated, and whether the camp is on the dunes or at the edge."
+    },
+    {
+      "name": "Khamlia village",
+      "text": "A village of Gnawa people, descended from sub-Saharan Africans, who perform trance music and drumming.",
+      "tip": "Give a fair tip to the musicians."
+    },
+    {
+      "name": "Rissani",
+      "text": "The historic market town, the ancestral home of the Alaouite dynasty and site of the ancient trading city of Sijilmassa, with a lively souk on market days.",
+      "tip": "Go on a Tuesday, Thursday or Sunday for the main market."
+    },
+    {
+      "name": "Dayet Srji (the seasonal lake)",
+      "text": "A seasonal lake by the dunes that fills after heavy rain and attracts flamingos and other birds.",
+      "tip": "Ask locally whether it has water."
+    }
+  ],
+  "thingsToDoIntro": "A camel trek and a night in the dunes are the main thing, with a few extras.",
+  "thingsToDo": [
+    {
+      "title": "Ride a camel at sunset",
+      "text": "About an hour and a half's ride into the dunes, guided by a local.",
+      "tip": "Wear long trousers and a scarf."
+    },
+    {
+      "title": "Sleep in a camp",
+      "text": "Dinner, drums and stars, then breakfast at dawn.",
+      "tip": "Bring a torch and warm layers."
+    },
+    {
+      "title": "Watch the sunrise from a dune",
+      "text": "Climb up before dawn and watch the sand change colour.",
+      "tip": "The climb takes about 30 minutes."
+    },
+    {
+      "title": "Try sandboarding",
+      "text": "Sledding down the dunes on a board, an easy family activity.",
+      "tip": "Boards are provided by camps."
+    },
+    {
+      "title": "Take a 4x4 tour",
+      "text": "A drive through the desert hamlets, the lake and the Gnawa village.",
+      "tip": "Book with a reputable operator, and consider the environmental impact of quad bikes."
+    },
+    {
+      "title": "Stargaze",
+      "text": "On a clear night, the Milky Way is visible without effort.",
+      "tip": "Avoid nights with a full moon."
+    }
+  ],
+  "foodIntro": "Desert food is simple and hearty, based on bread, meat and vegetables.",
+  "foods": [
+    {
+      "name": "Berber pizza (madfouna)",
+      "text": "A folded bread stuffed with meat, onions and spices and baked in the sand.",
+      "whereToTry": "Local restaurants in Rissani and Merzouga."
+    },
+    {
+      "name": "Tagine",
+      "text": "The staple, cooked with lamb, chicken or vegetables.",
+      "whereToTry": "Camps and hotels."
+    },
+    {
+      "name": "Dates",
+      "text": "Sweet dates from the nearby oases.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Mint tea",
+      "text": "The universal welcome, drunk in the dunes.",
+      "whereToTry": "Camps."
+    },
+    {
+      "name": "Couscous",
+      "text": "Served on Fridays and for special occasions.",
+      "whereToTry": "Local restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors stay one night in the desert and a night in a hotel or kasbah in Merzouga.",
+    "areas": [
+      {
+        "name": "A desert camp",
+        "bestFor": "The dune experience",
+        "text": "Basic Berber tents or luxury tents deep in the dunes."
+      },
+      {
+        "name": "Merzouga village",
+        "bestFor": "Comfort and views",
+        "text": "Kasbah-style hotels with pools at the foot of the dunes."
+      }
+    ],
+    "budget": [
+      { "label": "Basic camp", "value": "US$40–80 per person, with dinner and breakfast" },
+      { "label": "Mid-range camp", "value": "US$80–150 per person" },
+      { "label": "Luxury tent", "value": "US$200–500 per person" },
+      { "label": "Meal at a local restaurant", "value": "US$5–12 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Merzouga is remote. The drive is part of the experience.",
+    "options": [
+      {
+        "mode": "Drive from Fes",
+        "text": "About 9 hours by road through the Middle Atlas and the Ziz Valley.",
+        "detail": "Break the journey at Midelt."
+      },
+      {
+        "mode": "Drive from Marrakech",
+        "text": "About 9 hours via Ouarzazate and the Dadès and Todra gorges, ideally over two days.",
+        "detail": "A driver is recommended."
+      },
+      {
+        "mode": "Organised tour",
+        "text": "Multi-day tours from Fes and Marrakech include the desert night.",
+        "detail": "Check group size and what is included."
+      },
+      {
+        "mode": "Bus or flight",
+        "text": "Buses run to Erfoud and Rissani, and Errachidia airport has limited flights.",
+        "detail": "Last miles by taxi."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Within Merzouga, everything is arranged by your camp or hotel.",
+    "options": [
+      {
+        "mode": "Camel",
+        "text": "The classic way to reach a camp.",
+        "detail": "Included in most camp packages."
+      },
+      {
+        "mode": "4x4",
+        "text": "Used for excursions and to reach remote camps.",
+        "detail": "Book with your hotel."
+      },
+      {
+        "mode": "On foot",
+        "text": "Walking in the dunes is possible, but keep to marked tracks and go with someone.",
+        "detail": "Take water."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–April",
+    "summary": "The Sahara is scorching in summer and cold at night in winter. Spring and autumn are best.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm days, cool nights and clear skies. Sandstorms are possible."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Extremely hot, often above 40°C."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Hot in September, then pleasant from October."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "good",
+        "text": "Pleasant days but cold nights, near freezing."
+      }
+    ],
+    "avoid": "June to August, when the desert heat is extreme."
+  },
+  "itinerary": {
+    "title": "Two days in the Sahara",
+    "intro": "A night in the dunes and a morning to enjoy the surroundings.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive and ride into the dunes",
+        "summary": "Camels and camp.",
+        "morning": "Arrive at Merzouga.",
+        "afternoon": "A camel ride to the camp at sunset.",
+        "evening": "Dinner, drums and stars."
+      },
+      {
+        "day": 2,
+        "title": "Sunrise and the surroundings",
+        "summary": "Dunes and villages.",
+        "morning": "Sunrise from the dunes, and breakfast.",
+        "afternoon": "Khamlia and Rissani.",
+        "evening": "A rest or an onward drive."
+      }
+    ]
+  },
+  "tipsIntro": "A few things prepare you for the desert.",
+  "tips": [
+    "Do not plan Merzouga as a day trip. The desert experience needs a night.",
+    "Pack layers. Nights are cold in winter, even after a hot day.",
+    "Bring a scarf for the sun, wind and sand, and sunglasses.",
+    "Take a small bag for the camel ride. Larger luggage stays in the hotel.",
+    "Read reviews of camps and check that tents are private.",
+    "Drink plenty of water.",
+    "Take cash for tips and small purchases."
+  ],
+  "faq": [
+    {
+      "q": "How long do you need in Merzouga?",
+      "a": "At least one night in the dunes, with arrival the previous evening or a full day to reach it."
+    },
+    {
+      "q": "Is it worth the long drive?",
+      "a": "For most visitors, yes. The dunes are a highlight. If time is short, the Agafay Desert near Marrakech is a stony alternative."
+    },
+    {
+      "q": "Is the desert safe?",
+      "a": "The main tourist area is well organised. Go with a reputable guide, and avoid the border area."
+    },
+    {
+      "q": "What should I wear?",
+      "a": "Comfortable long clothes, a scarf, sturdy shoes and warm layers for the evening."
+    },
+    {
+      "q": "Are camel rides ethical?",
+      "a": "Conditions vary. Choose operators who look after their animals, and ask about their care."
+    },
+    {
+      "q": "Can I see the desert without a camel?",
+      "a": "Yes, by 4x4 or on foot, though the camel is the traditional way."
+    }
+  ],
+  "related": ["ait-benhaddou-ouarzazate", "marrakech", "fes"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

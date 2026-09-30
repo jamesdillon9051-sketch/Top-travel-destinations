@@ -1,0 +1,302 @@
+{
+  "slug": "ait-benhaddou-ouarzazate",
+  "name": "Aït Benhaddou and Ouarzazate",
+  "shortName": "Aït Benhaddou",
+  "country": "morocco",
+  "region": "Drâa-Tafilalet, southern Morocco",
+  "categories": ["unesco", "archaeological", "historic", "scenic"],
+  "tagline": "A fortified mud-brick village on an old caravan route, a film-set town in the desert and the kasbah road that runs through palm groves and gorges.",
+  "highlight": "Watching the sun set on the ksar of Aït Benhaddou from the far side of the river.",
+  "shortDescription": "A UNESCO-listed earthen ksar, the film studios of Ouarzazate and the road of a thousand kasbahs, on the southern side of the High Atlas.",
+  "metaDescription": "An Aït Benhaddou and Ouarzazate travel guide: the UNESCO ksar, Taourirt Kasbah, film studios, Skoura, Tizi n'Tichka pass, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Ouarzazate (OZZ), about 30 minutes",
+  "knownFor": "The ksar, film sets, kasbahs, palm groves, Atlas passes",
+  "budget": "US$50–120 per day, mid-range",
+  "goodFor": "Architecture, film fans, photography, road trips",
+  "coords": { "lat": 31.0470, "lng": -7.1290 },
+  "image": {
+    "file": "File:Ait Zineb - Ksar of Aït Benhaddou - 20190716174408.jpg",
+    "alt": "The earthen ksar of Aït Benhaddou climbing a hillside above a river in southern Morocco"
+  },
+  "intro": [
+    "Aït Benhaddou is a ksar, a fortified village of earthen buildings, on the old caravan route from the Sahara to Marrakech. Its houses, granaries and towers, built from rammed earth and mud brick and decorated with geometric patterns, climb a hillside above a river. UNESCO inscribed it in 1987 as an outstanding example of southern Moroccan earthen architecture. Most of the buildings date from the 17th century, though the site is much older.",
+    "Only a handful of families still live in the old village, and most of the residents now live in a newer village on the far bank of the river. But the ksar has found a second life as a film set, and has appeared in productions from Lawrence of Arabia and Gladiator to Game of Thrones.",
+    "Nearby Ouarzazate, 30 km to the south-east, has been Morocco's film capital since the 1980s, with large studios open to visitors. It also has the Taourirt Kasbah, and a large solar power complex on its outskirts. The road connecting these places crosses the High Atlas at the Tizi n'Tichka pass and follows the Drâa and Dadès valleys through palm groves and gorges."
+  ],
+  "whyVisit": {
+    "intro": "This is southern Morocco's most photogenic corner, and the gateway to the desert.",
+    "points": [
+      {
+        "title": "A perfect earthen village",
+        "text": "Aït Benhaddou shows how mud brick can create a fortress, and is one of the best-preserved ksars in Morocco."
+      },
+      {
+        "title": "Film history",
+        "text": "Studios and film sets in Ouarzazate, and locations used in famous productions."
+      },
+      {
+        "title": "Kasbah country",
+        "text": "Dozens of crumbling and restored kasbahs line the valleys, part of the Road of a Thousand Kasbahs."
+      },
+      {
+        "title": "Dramatic roads",
+        "text": "The Tizi n'Tichka pass and the Dadès and Todra gorges are among the great drives in Africa."
+      },
+      {
+        "title": "A stop on the way",
+        "text": "It is the natural halfway point between Marrakech and the Sahara."
+      }
+    ]
+  },
+  "attractionsIntro": "The ksar is the main attraction, with Ouarzazate and the road offering more.",
+  "attractions": [
+    {
+      "name": "The ksar of Aït Benhaddou",
+      "text": "The earthen village on the hillside, reached by a footbridge across the river. A climb to the top gives views over the valley and the palm groves.",
+      "tip": "Go early or late, and cross the river at sunset for the best view."
+    },
+    {
+      "name": "The village doors and details",
+      "image": {
+        "file": "File:Wooden lock in Ksar of Aït-Ben-Haddou.jpg",
+        "alt": "A traditional wooden lock on a door in the ksar of Aït Benhaddou"
+      },
+      "text": "Carved wooden doors and traditional wooden locks, and the decorated towers of the old houses.",
+      "tip": "Ask before entering private houses."
+    },
+    {
+      "name": "Taourirt Kasbah, Ouarzazate",
+      "text": "A former residence of the Glaoui family, who ruled the region in the early 20th century, with painted rooms and a maze of corridors.",
+      "tip": "Guides help explain the rooms."
+    },
+    {
+      "name": "The film studios",
+      "text": "Atlas Studios and CLA Studios have hosted major productions, and their sets are open to visitors.",
+      "tip": "Check current opening."
+    },
+    {
+      "name": "Skoura Oasis",
+      "text": "A palm grove with kasbahs, including the well-known Amridil Kasbah, about 40 km from Ouarzazate.",
+      "tip": "Walk or cycle among the palms."
+    },
+    {
+      "name": "The Tizi n'Tichka pass",
+      "text": "A high pass, about 2,260 metres, with hairpin bends and views of the Atlas.",
+      "tip": "Start early, and check road conditions in winter."
+    }
+  ],
+  "thingsToDoIntro": "The area is good for photography, slow drives and short walks.",
+  "thingsToDo": [
+    {
+      "title": "Watch the sunset over the ksar",
+      "text": "The ksar turns golden in the evening, and the far bank gives the best view.",
+      "tip": "Go about an hour before sunset."
+    },
+    {
+      "title": "Visit a film studio",
+      "text": "Walk through the sets of ancient Egypt, Rome and Jerusalem.",
+      "tip": "Combine with Taourirt."
+    },
+    {
+      "title": "Walk in the Skoura palm grove",
+      "text": "Paths lead among date palms and mud kasbahs, with irrigation channels.",
+      "tip": "Bring a hat."
+    },
+    {
+      "title": "Drive the kasbah road",
+      "text": "Continue east to the Dadès Valley and Todra Gorge, with stops at kasbahs and viewpoints.",
+      "tip": "Allow a full day."
+    },
+    {
+      "title": "Stay in a kasbah hotel",
+      "text": "Kasbahs converted to guesthouses offer traditional hospitality.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Visit the solar plant",
+      "text": "The Noor Ouarzazate complex is one of the world's largest concentrated solar plants, visible from the road.",
+      "tip": "It is best seen from a distance unless a tour is arranged."
+    }
+  ],
+  "foodIntro": "The food is Berber, simple and hearty, based on grains, dates and meat.",
+  "foods": [
+    {
+      "name": "Tagine",
+      "text": "Lamb, chicken or vegetables cooked in a clay pot.",
+      "whereToTry": "Restaurants in Aït Benhaddou."
+    },
+    {
+      "name": "Berber omelette",
+      "text": "Eggs cooked in a tagine with tomatoes, onions and spices.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Dates and almonds",
+      "text": "Local dates, fresh from the palm oases.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Couscous",
+      "text": "A Friday staple, with vegetables and meat.",
+      "whereToTry": "Guesthouses."
+    },
+    {
+      "name": "Mint tea",
+      "text": "The welcome drink, often on rooftop terraces.",
+      "whereToTry": "Everywhere."
+    }
+  ],
+  "accommodation": {
+    "intro": "Kasbah guesthouses are the main choice near the ksar, and Ouarzazate has larger hotels.",
+    "areas": [
+      {
+        "name": "Aït Benhaddou village",
+        "bestFor": "The ksar",
+        "text": "Guesthouses and kasbahs on the new-village side of the river with ksar views."
+      },
+      {
+        "name": "Ouarzazate",
+        "bestFor": "Hotels and facilities",
+        "text": "A town with mid-range and luxury hotels and restaurants."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "US$20–45 per night" },
+      { "label": "Mid-range kasbah", "value": "US$60–120 per night" },
+      { "label": "Luxury hotel", "value": "US$150–350 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$5–12 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Aït Benhaddou is about 180 km from Marrakech, over the Tizi n'Tichka pass.",
+    "options": [
+      {
+        "mode": "Drive from Marrakech",
+        "text": "About 4 hours without stops, and longer in traffic or snow.",
+        "detail": "The road is winding, so start early."
+      },
+      {
+        "mode": "Organised day trip",
+        "text": "Day tours from Marrakech to Aït Benhaddou are popular but long.",
+        "detail": "Staying a night is better."
+      },
+      {
+        "mode": "Bus",
+        "text": "CTM and Supratours run to Ouarzazate, and taxis go to Aït Benhaddou.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Flight to Ouarzazate (OZZ)",
+        "text": "Limited flights from Casablanca and some European cities.",
+        "detail": "Check the schedule."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car or driver is the easiest way to move around the area.",
+    "options": [
+      {
+        "mode": "Driver or hire car",
+        "text": "Best for the kasbah road and the passes.",
+        "detail": "Avoid night driving."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Grands taxis link Ouarzazate and Aït Benhaddou.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "On foot",
+        "text": "The ksar and its surroundings are walkable.",
+        "detail": "Wear sun protection."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "The south is hot and dry in summer, and cold at night in winter.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm days and cool nights, with green oases."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Very hot, often above 40°C."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm and pleasant."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "good",
+        "text": "Mild days, cold nights. Snow is possible on the pass."
+      }
+    ],
+    "avoid": "July and August."
+  },
+  "itinerary": {
+    "title": "Two days in kasbah country",
+    "intro": "Over the Atlas to the ksar, then a day among kasbahs.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Over the pass to Aït Benhaddou",
+        "summary": "Mountains and a fortified village.",
+        "morning": "Drive over the Tizi n'Tichka pass.",
+        "afternoon": "Explore the ksar.",
+        "evening": "Sunset from the far bank."
+      },
+      {
+        "day": 2,
+        "title": "Ouarzazate and Skoura",
+        "summary": "Films and palm groves.",
+        "morning": "Taourirt Kasbah and a film studio.",
+        "afternoon": "Skoura oasis.",
+        "evening": "Continue to the Dadès Valley, or return."
+      }
+    ]
+  },
+  "tipsIntro": "A few things help you make the most of the area.",
+  "tips": [
+    "Stay a night rather than visiting on a day trip.",
+    "Start early to cross the Tizi n'Tichka pass.",
+    "Cross the river at sunset for the best view of the ksar.",
+    "Bring water and sun protection.",
+    "Hire a local guide for the ksar if you want the story.",
+    "Check winter weather before crossing the pass."
+  ],
+  "faq": [
+    {
+      "q": "Is Aït Benhaddou worth visiting?",
+      "a": "Yes. It is one of Morocco's most impressive earthen villages, and it lies on the way to the Sahara."
+    },
+    {
+      "q": "Can you go inside the ksar?",
+      "a": "Yes, on foot by crossing the river. Few families live there, and some houses are shops or museums."
+    },
+    {
+      "q": "What films were shot here?",
+      "a": "Lawrence of Arabia, Gladiator, Kingdom of Heaven and Game of Thrones, among others."
+    },
+    {
+      "q": "How long does it take to drive from Marrakech?",
+      "a": "About four hours over the Tizi n'Tichka pass, longer with stops."
+    },
+    {
+      "q": "Is it worth staying in Ouarzazate?",
+      "a": "It has more facilities, but Aït Benhaddou and Skoura are more atmospheric for a night."
+    },
+    {
+      "q": "Is the Tizi n'Tichka pass safe?",
+      "a": "It is a good road, but winding, and can have snow in winter. Drive carefully in daylight."
+    }
+  ],
+  "related": ["merzouga-sahara", "marrakech", "high-atlas-imlil"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

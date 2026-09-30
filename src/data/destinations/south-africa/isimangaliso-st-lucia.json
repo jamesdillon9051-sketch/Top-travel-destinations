@@ -1,0 +1,315 @@
+{
+  "slug": "isimangaliso-st-lucia",
+  "name": "iSimangaliso and St Lucia",
+  "shortName": "St Lucia",
+  "country": "south-africa",
+  "region": "KwaZulu-Natal, north-east coast",
+  "categories": ["unesco", "national-park", "nature", "coastal"],
+  "tagline": "A vast wetland and coastal park of estuaries, hippos, crocodiles, forested dunes, coral reefs and turtle beaches, with rhinos at Hluhluwe–iMfolozi close by.",
+  "highlight": "A boat cruise on the St Lucia estuary at sunset, surrounded by hippos and the sound of fish eagles.",
+  "shortDescription": "South Africa's first UNESCO World Heritage Site: hippo and crocodile cruises on the St Lucia estuary, the beaches of Cape Vidal, diving at Sodwana Bay, turtle nesting, whales and nearby big-game parks.",
+  "metaDescription": "An iSimangaliso and St Lucia travel guide: estuary boat cruises with hippos and crocodiles, Cape Vidal, Sodwana Bay diving, turtle nesting, Hluhluwe–iMfolozi rhinos, best time, malaria and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Richards Bay (RCB) or Durban King Shaka (DUR), about 2.5 to 3 hours by road",
+  "knownFor": "Hippos, crocodiles, wetlands, beaches, turtles, snorkelling",
+  "budget": "US$80–170 per day, mid-range",
+  "goodFor": "Wildlife, beaches, snorkelling, birdwatching, families",
+  "coords": { "lat": -28.3789, "lng": 32.4121 },
+  "image": {
+    "file": "File:Hippopotamus and Hippo tour boat, iSimangaliso Wetland Park.jpg",
+    "alt": "A hippopotamus in the water beside a tour boat in the iSimangaliso Wetland Park"
+  },
+  "intro": [
+    "iSimangaliso Wetland Park, on the north-east coast of KwaZulu-Natal, stretches for about 220 km along the Indian Ocean, from the Mozambique border to Maphelane. Its name means miracle and wonder in Zulu, and it was South Africa's first UNESCO World Heritage Site, inscribed in 1999. The park protects a mosaic of habitats, including coral reefs, long beaches, coastal forest, dunes, lakes and swamps, and it is home to hippos, crocodiles, elephants, rhinos, leopards, turtles, whales, dolphins and hundreds of species of bird.",
+    "The centre of the park is Lake St Lucia, Africa's largest estuarine lake, and the small town of St Lucia, at its mouth, where hippos occasionally wander at night and boat trips leave to see them and the crocodiles. To the east, a sandy road leads through coastal forest to Cape Vidal, with warm-water reefs and beaches, and further north Sodwana Bay is a top diving destination, while Kosi Bay and the Maputaland coast have lakes and turtle nesting beaches. Leatherback and loggerhead turtles nest on the beaches from November to January.",
+    "Nearby, Hluhluwe–iMfolozi Park, one of the oldest game reserves in Africa, has the Big Five and is known for its white rhino conservation success. Together, they make a rewarding trip for wildlife lovers who want a mix of bush and beach. The region is a malaria area, and it is best visited in the drier winter months."
+  ],
+  "whyVisit": {
+    "intro": "iSimangaliso combines beach, wetland and bush wildlife, with a relaxed atmosphere and good value.",
+    "points": [
+      {
+        "title": "Hippos and crocodiles",
+        "text": "Estuary cruises get close to some of the biggest hippo populations in Africa."
+      },
+      {
+        "title": "Beaches and reefs",
+        "text": "Warm water, coral, snorkelling and diving, without the crowds."
+      },
+      {
+        "title": "Turtles and whales",
+        "text": "Nesting turtles from November to January, and humpback whales from June to November."
+      },
+      {
+        "title": "Big-game nearby",
+        "text": "Hluhluwe–iMfolozi and other reserves have rhinos, lions and elephants."
+      },
+      {
+        "title": "Birdlife",
+        "text": "Over 500 species, including fish eagles and pelicans."
+      }
+    ]
+  },
+  "attractionsIntro": "The park has several areas, and most visitors base themselves in St Lucia town.",
+  "attractions": [
+    {
+      "name": "St Lucia estuary boat cruise",
+      "image": {
+        "file": "File:Hippo (Hippopotamus amphibius) family resting on the shores of Lake St Lucia .. (31656974747).jpg",
+        "alt": "A family of hippos resting on the shore of Lake St Lucia"
+      },
+      "text": "A two-hour boat trip up the estuary, where you can see hippos, crocodiles, fish eagles and other birdlife from close range.",
+      "tip": "Book the late-afternoon trip."
+    },
+    {
+      "name": "Cape Vidal",
+      "image": {
+        "file": "File:Cape Vidal beach 1.jpg",
+        "alt": "The long sandy beach at Cape Vidal in iSimangaliso"
+      },
+      "text": "A beach and camp on the coast, about 30 km from St Lucia, with reefs for snorkelling, a lookout for whales and a wildlife-rich drive through forest and grassland.",
+      "tip": "Go early in the morning."
+    },
+    {
+      "name": "Sodwana Bay",
+      "text": "One of South Africa's top diving spots, with warm water and reef fish, about 1.5 hours north of St Lucia.",
+      "tip": "Dive schools offer courses."
+    },
+    {
+      "name": "Hluhluwe–iMfolozi Park",
+      "text": "One of the oldest protected areas in Africa, established in 1895, with the Big Five and one of the best places to see white and black rhinos.",
+      "tip": "Go in the dry season."
+    },
+    {
+      "name": "Turtle nesting beaches",
+      "text": "Leatherback and loggerhead turtles come ashore to nest on the beaches of Maputaland, and guided night trips are available from November to January.",
+      "tip": "Book a guided tour, and follow the rules."
+    },
+    {
+      "name": "Kosi Bay",
+      "text": "A remote set of lakes and channels on the Mozambique border, with traditional fish traps and pristine beaches.",
+      "tip": "A 4x4 is needed."
+    }
+  ],
+  "thingsToDoIntro": "Water and wildlife activities fill the days.",
+  "thingsToDo": [
+    {
+      "title": "Take a hippo and crocodile cruise",
+      "text": "See hippos and crocs at close range on the estuary.",
+      "tip": "Go at sunset."
+    },
+    {
+      "title": "Snorkel at Cape Vidal",
+      "text": "Warm water and reef fish.",
+      "tip": "Check the tide."
+    },
+    {
+      "title": "Go on a game drive at Hluhluwe–iMfolozi",
+      "text": "See rhinos, elephants and lions.",
+      "tip": "Book a guided drive."
+    },
+    {
+      "title": "Watch whales",
+      "text": "Humpback whales pass from June to November.",
+      "tip": "Look from Cape Vidal."
+    },
+    {
+      "title": "See nesting turtles",
+      "text": "Guided night tours in summer.",
+      "tip": "Book far ahead."
+    },
+    {
+      "title": "Walk with a guide",
+      "text": "Forest and dune walks.",
+      "tip": "Use a registered guide."
+    }
+  ],
+  "foodIntro": "Food in St Lucia is casual, with seafood and braai.",
+  "foods": [
+    {
+      "name": "Prawns and fresh fish",
+      "text": "Grilled prawns and line fish.",
+      "whereToTry": "Restaurants in St Lucia."
+    },
+    {
+      "name": "Braai",
+      "text": "Barbecue with steak and boerewors.",
+      "whereToTry": "Lodges."
+    },
+    {
+      "name": "Bunny chow",
+      "text": "Curry in a bread loaf, from Durban.",
+      "whereToTry": "Takeaways."
+    },
+    {
+      "name": "Tropical fruit",
+      "text": "Pineapples, mangoes and bananas.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Local breweries.",
+      "whereToTry": "Restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in St Lucia town, or in a lodge nearer the park.",
+    "areas": [
+      {
+        "name": "St Lucia town",
+        "bestFor": "Cruises and restaurants",
+        "text": "Guesthouses and hotels."
+      },
+      {
+        "name": "Cape Vidal and park camps",
+        "bestFor": "Nature",
+        "text": "Cabins and campsites in the park."
+      },
+      {
+        "name": "Private game lodges",
+        "bestFor": "Big-game viewing",
+        "text": "Lodges near Hluhluwe."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse or cabin", "value": "US$40–90 per night" },
+      { "label": "Mid-range lodge", "value": "US$100–200 per night" },
+      { "label": "Luxury lodge", "value": "US$300–700 per night" },
+      { "label": "Estuary cruise", "value": "US$15–30 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "St Lucia is about 250 km north of Durban.",
+    "options": [
+      {
+        "mode": "Drive from Durban",
+        "text": "About 2.5 to 3 hours on the N2.",
+        "detail": "Hire a car at the airport."
+      },
+      {
+        "mode": "Fly to Richards Bay (RCB)",
+        "text": "About 1 hour 30 minutes by road.",
+        "detail": "Limited flights."
+      },
+      {
+        "mode": "From Johannesburg",
+        "text": "About 7 to 8 hours by road, or fly to Durban.",
+        "detail": "Fly."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is best, and the park's sand roads need care.",
+    "options": [
+      {
+        "mode": "Hire car",
+        "text": "Tarred roads to Cape Vidal and Hluhluwe.",
+        "detail": "4x4 for some tracks."
+      },
+      {
+        "mode": "Tours",
+        "text": "Guided trips from St Lucia.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Boat",
+        "text": "Estuary cruises.",
+        "detail": "Book ahead."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–October",
+    "summary": "iSimangaliso has a subtropical climate, with hot, humid summers and mild, dry winters.",
+    "seasons": [
+      {
+        "season": "Summer (November–March)",
+        "rating": "good",
+        "text": "Hot and humid, with turtles nesting and rain."
+      },
+      {
+        "season": "Autumn (April–May)",
+        "rating": "best",
+        "text": "Warm, dry and clear."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "best",
+        "text": "Mild and dry, with whales and good game viewing."
+      },
+      {
+        "season": "Spring (September–October)",
+        "rating": "best",
+        "text": "Warm and dry."
+      }
+    ],
+    "avoid": "January and February for heat, humidity and malaria risk."
+  },
+  "itinerary": {
+    "title": "Three days at St Lucia",
+    "intro": "Estuary, beach and big game.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The estuary",
+        "summary": "Hippos.",
+        "morning": "Arrive in St Lucia.",
+        "afternoon": "A sunset cruise.",
+        "evening": "Seafood dinner."
+      },
+      {
+        "day": 2,
+        "title": "Cape Vidal",
+        "summary": "Coast.",
+        "morning": "Drive to Cape Vidal.",
+        "afternoon": "Snorkelling and a beach.",
+        "evening": "Return to St Lucia."
+      },
+      {
+        "day": 3,
+        "title": "Hluhluwe–iMfolozi",
+        "summary": "Big game.",
+        "morning": "A game drive.",
+        "afternoon": "Rhinos and lunch.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you stay safe.",
+  "tips": [
+    "Do not walk around St Lucia at night, when hippos come ashore.",
+    "Never swim in the lake or estuary, where there are crocodiles.",
+    "Check malaria advice and take precautions.",
+    "Book turtle tours, cruises and camps in advance.",
+    "Take binoculars, a hat and sunscreen.",
+    "Follow rangers' instructions.",
+    "Carry cash for park entry fees."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in iSimangaliso?",
+      "a": "Three days is ideal."
+    },
+    {
+      "q": "Is it a malaria area?",
+      "a": "Yes. Consult a travel clinic."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "April to October, with turtles from November to January."
+    },
+    {
+      "q": "Can I swim at the beach?",
+      "a": "At some beaches, such as Cape Vidal, with care. Never swim in the lake."
+    },
+    {
+      "q": "Can I see rhinos?",
+      "a": "Yes, at Hluhluwe–iMfolozi."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Yes, if you follow wildlife safety rules."
+    }
+  ],
+  "related": ["drakensberg", "kruger-national-park", "addo-eastern-cape"],
+  "relatedArticles": ["unesco-worth-planning-around", "mediterranean-coasts"]
+}

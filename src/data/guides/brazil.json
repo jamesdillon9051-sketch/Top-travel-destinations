@@ -1,0 +1,135 @@
+{
+  "country": "brazil",
+  "title": "The Complete Brazil Travel Guide",
+  "subtitle": "How the country divides, how to choose between the ten destinations, how to fly across a continent, and what two weeks can realistically hold.",
+  "summary": "Brazil covers nearly half of South America, with beaches, rainforest, wetlands and colonial cities. This guide covers how the regions divide, how to choose between the ten destinations, how to move around, when to go, what it costs and three routes that work.",
+  "readingTime": "14 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Can I see Rio and the Amazon in one trip?",
+      "a": "Yes, with a flight. Rio to Manaus takes about four hours. Ten days is the minimum for Rio, Iguazu and the Amazon, and two weeks is more comfortable."
+    },
+    {
+      "q": "Do I need to speak Portuguese?",
+      "a": "Not strictly. English is common in hotels and tourist areas, but a few phrases of Portuguese help everywhere, and Spanish is not a substitute."
+    },
+    {
+      "q": "Is it better to travel independently or on a tour?",
+      "a": "Independent travel works in cities and along the coast. Tours are more practical for the Amazon, the Pantanal and Fernando de Noronha, where logistics are complicated."
+    },
+    {
+      "q": "When should I book?",
+      "a": "Flights and hotels for Carnival, New Year and July should be booked three to six months ahead. Wildlife lodges in the Pantanal fill early in the dry season."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-brazil-divides",
+      "title": "How Brazil divides",
+      "navLabel": "The regions",
+      "body": [
+        "Brazil is about 4,300 km from north to south, and its regions differ greatly in climate, culture and cuisine. Five zones organise most trips.",
+        "**The south-east.** [[rio-de-janeiro|Rio de Janeiro]] and [[sao-paulo|São Paulo]] are the two great cities, about 430 km apart. On the coast between them, [[paraty-ilha-grande|Paraty and Ilha Grande]] have colonial streets and islands, and inland, [[ouro-preto|Ouro Preto]] is a colonial gold town.",
+        "**The south.** [[iguazu-falls|Iguazu Falls]] lie on the border with Argentina and Paraguay, in the far south-west of the country.",
+        "**The north-east.** [[salvador|Salvador]] is the centre of Afro-Brazilian culture, and the region has long beaches, [[lencois-maranhenses|the dunes of Lençóis Maranhenses]] and [[fernando-de-noronha|the island of Fernando de Noronha]].",
+        "**The Amazon.** [[amazon-manaus|Manaus]] is the gateway to the world's largest rainforest and its rivers.",
+        "**The centre-west.** [[pantanal|The Pantanal]] is a vast wetland with the best wildlife viewing in South America."
+      ],
+      "note": "The practical unit is two or three of these, linked by domestic flights. Attempting more turns the trip into an exercise in airports."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[rio-de-janeiro|Rio de Janeiro]] with a short trip to [[paraty-ilha-grande|Paraty]], or Rio combined with [[iguazu-falls|Iguazu Falls]] by a two-hour flight."
+        },
+        {
+          "title": "If you love wildlife",
+          "text": "[[pantanal|The Pantanal]] for jaguars and giant otters, and [[amazon-manaus|the Amazon]] for birds, monkeys and river life."
+        },
+        {
+          "title": "If you want beaches",
+          "text": "[[fernando-de-noronha|Fernando de Noronha]] for pristine sand and diving, [[paraty-ilha-grande|Ilha Grande]] for islands, and [[rio-de-janeiro|Rio]] for city beaches."
+        },
+        {
+          "title": "If you want culture and history",
+          "text": "[[salvador|Salvador]] for Afro-Brazilian heritage, [[ouro-preto|Ouro Preto]] for baroque gold-town architecture, and [[sao-paulo|São Paulo]] for museums and food."
+        },
+        {
+          "title": "If you want something spectacular",
+          "text": "[[iguazu-falls|Iguazu Falls]] and [[lencois-maranhenses|Lençóis Maranhenses]] are among the most striking landscapes on earth."
+        },
+        {
+          "title": "If you care about food",
+          "text": "[[sao-paulo|São Paulo]] for its restaurants and street food, [[salvador|Salvador]] for Bahian cooking, and [[ouro-preto|Minas Gerais]] for comfort dishes."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Flying across a continent",
+      "navLabel": "Getting around",
+      "body": [
+        "Brazil's distances are huge. Rio to Manaus is about 2,800 km, and Rio to Salvador about 1,200 km.",
+        "**Flights.** The only sensible way between regions. LATAM, GOL and Azul fly to all the main cities. Book early, and check baggage rules.",
+        "**Long-distance buses.** Comfortable and cheap between cities up to about 8 hours apart, such as Rio to São Paulo or Rio to Paraty.",
+        "**City transport.** Metros in Rio and São Paulo are efficient. Ride-hailing apps such as Uber and 99 are the safest way to move at night.",
+        "**Boats.** Essential in the Amazon and the Pantanal, and useful for Ilha Grande and Paraty's bay."
+      ],
+      "note": "Avoid arriving in a new city late at night, and pre-book transfers from airports and bus stations."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Brazil's seasons are the reverse of Europe and North America. Summer runs from December to February, and winter from June to August.",
+        "The south-east coast, including Rio, is hot and humid in summer, and drier and more comfortable from April to October.",
+        "The Amazon has two seasons: high water from December to May, when boats reach the flooded forest, and low water from June to November, when jungle trails open up.",
+        "The Pantanal is best in the dry season from June to October, when animals gather around water and are easy to spot. The wet season is green but harder to travel in.",
+        "The north-east is warm year-round, with a rainy season around April to July. Lençóis Maranhenses is best from June to September, when the lagoons are full."
+      ],
+      "note": "Carnival, in February or March, and New Year are the peak periods, and prices rise sharply."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Brazil is moderately priced, cheaper than Europe or North America but not as cheap as much of Asia. A restaurant meal costs US$10–25, a comfortable hotel US$60–150, and domestic flights US$50–200.",
+        "Beach-resort areas, Fernando de Noronha and the Amazon lodges cost more. Fernando de Noronha, in particular, has park fees and high prices for food and accommodation.",
+        "Cards are widely accepted, but carry some cash for markets and small places. Tip 10% where a service charge is not included.",
+        "Crime is a concern in large cities, especially petty theft and muggings. Keep valuables hidden, use ride-hailing apps and follow local advice about areas to avoid."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: Rio and Iguazu",
+          "text": "Four nights in [[rio-de-janeiro|Rio de Janeiro]], and two in [[iguazu-falls|Iguazu Falls]], with a two-hour flight between them.",
+          "tip": "Fly into Rio and out of Foz do Iguaçu."
+        },
+        {
+          "title": "Ten days: coast and culture",
+          "text": "Rio, [[paraty-ilha-grande|Paraty]] and [[salvador|Salvador]], with a flight from Rio to Salvador at the end.",
+          "tip": "Take the bus to Paraty, and fly for the long leg."
+        },
+        {
+          "title": "Two weeks: the classic",
+          "text": "The itinerary on the country page: Rio, Paraty, Iguazu and Salvador.",
+          "tip": "Swap Salvador for the [[amazon-manaus|Amazon]] or the [[pantanal|Pantanal]] if you want wildlife."
+        }
+      ]
+    }
+  ]
+}

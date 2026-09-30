@@ -1,0 +1,306 @@
+{
+  "slug": "gangneung",
+  "name": "Gangneung",
+  "country": "south-korea",
+  "region": "Gangwon, east coast",
+  "categories": ["coastal", "cultural", "food-and-wine", "scenic"],
+  "tagline": "An east-coast city of pine-fringed beaches, a coffee street, a Joseon-era scholar's house and one of Korea's oldest folk festivals.",
+  "highlight": "Sipping a coffee on Anmok Beach while the waves roll in, in Korea's coffee capital.",
+  "shortDescription": "A relaxed east-coast city with Gyeongpo Beach, Ojukheon (home of the scholar Yulgok), the Anmok coffee street, the Danoje festival and a KTX link from Seoul in under two hours.",
+  "metaDescription": "A Gangneung travel guide: Gyeongpo Beach, Ojukheon, Anmok Beach coffee street, Jeongdongjin sunrise, sundubu tofu, the Danoje festival, how to get there by KTX and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Yangyang (YNY), about 1 hour; Gangneung KTX station",
+  "knownFor": "Beaches, coffee, Ojukheon, Danoje festival, sundubu tofu",
+  "budget": "US$80–150 per day, mid-range",
+  "goodFor": "Beach lovers, coffee fans, slow travel, families",
+  "coords": { "lat": 37.7519, "lng": 128.8761 },
+  "image": {
+    "file": "File:Gyeongpo Beach 20220502 023.jpg",
+    "alt": "Gyeongpo Beach in Gangneung with pine trees and the sea"
+  },
+  "intro": [
+    "Gangneung is the largest city on Korea's east coast, with about 210,000 people, and it sits between the Taebaek mountains and the East Sea. It was one of the host cities of the 2018 Winter Olympics, and a KTX line opened for the games has cut the journey from Seoul to under two hours, making the coast a very easy weekend trip.",
+    "The city has beaches, culture and a long history. Gyeongpo Beach is a broad strand backed by pine forests and a lake, Ojukheon is the birthplace of Yi I, the great Confucian scholar Yulgok, and the mother-and-son culture of the Shin Saimdang family, and Seongyojang is a large 18th-century mansion. Each year the Gangneung Danoje festival, listed by UNESCO, celebrates shamanic ritual, mask dance and traditional games.",
+    "Gangneung is also Korea's coffee capital. Anmok Beach has a street of cafés facing the waves, and the city holds a coffee festival each autumn. Add fresh seafood, the soft tofu of Chodang village, and the Jeongdongjin sunrise, and it makes a relaxing two days, and a natural pairing with nearby Seoraksan."
+  ],
+  "whyVisit": {
+    "intro": "Gangneung is a relaxed coastal alternative to the big cities, easy to reach from Seoul.",
+    "points": [
+      {
+        "title": "Pine-lined beaches",
+        "text": "Gyeongpo and Anmok face the East Sea."
+      },
+      {
+        "title": "Coffee culture",
+        "text": "A street of seaside cafés."
+      },
+      {
+        "title": "Scholar heritage",
+        "text": "Ojukheon and Seongyojang."
+      },
+      {
+        "title": "A UNESCO festival",
+        "text": "The Danoje festival each spring."
+      },
+      {
+        "title": "Fast train link",
+        "text": "Under two hours from Seoul."
+      }
+    ]
+  },
+  "attractionsIntro": "Sights are spread between the city and the coast, and buses link them.",
+  "attractions": [
+    {
+      "name": "Gyeongpo Beach and Lake",
+      "image": {
+        "file": "File:Gyeongpo Beach 20220502 023.jpg",
+        "alt": "The wide sands of Gyeongpo Beach lined with pines"
+      },
+      "text": "The city's main beach, a broad strand with a pine grove, a lake with a pavilion and a boardwalk.",
+      "tip": "Go at sunrise."
+    },
+    {
+      "name": "Ojukheon",
+      "image": {
+        "file": "File:Ojukheon 20220501 046.jpg",
+        "alt": "A traditional tile-roofed building at Ojukheon in Gangneung"
+      },
+      "text": "A 16th-century house and museum, the birthplace of the scholar Yulgok and his mother, the artist Shin Saimdang, surrounded by black bamboo.",
+      "tip": "Allow an hour."
+    },
+    {
+      "name": "Anmok Coffee Street",
+      "text": "A stretch of cafés along Anmok Beach, some roasting their own beans.",
+      "tip": "Come in the afternoon."
+    },
+    {
+      "name": "Seongyojang",
+      "text": "A large 18th-century mansion of a noble family, with a traditional garden.",
+      "tip": "Quiet in the morning."
+    },
+    {
+      "name": "Jeongdongjin",
+      "text": "A seaside village famous for sunrise, with a railway station just off the beach.",
+      "tip": "Take the sea-view train."
+    },
+    {
+      "name": "Chodang Sundubu Village",
+      "text": "A village known for soft tofu made with seawater.",
+      "tip": "Go at lunch."
+    }
+  ],
+  "thingsToDoIntro": "Gangneung is about the coast and coffee.",
+  "thingsToDo": [
+    {
+      "title": "Watch the sunrise",
+      "text": "See the sun rise over the sea.",
+      "tip": "Jeongdongjin is best."
+    },
+    {
+      "title": "Sample coffee on Anmok",
+      "text": "Hand-drip and cold brew.",
+      "tip": "Try several cafés."
+    },
+    {
+      "title": "Walk under the pines",
+      "text": "At Gyeongpo.",
+      "tip": "Ride a bicycle."
+    },
+    {
+      "title": "Ride the sea train",
+      "text": "A scenic coastal railway.",
+      "tip": "Book seats."
+    },
+    {
+      "title": "Ski nearby in winter",
+      "text": "Olympic resorts in the mountains.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Attend Danoje",
+      "text": "The spring folk festival.",
+      "tip": "It falls around May or June."
+    }
+  ],
+  "foodIntro": "Gangneung is known for tofu, seafood and coffee.",
+  "foods": [
+    {
+      "name": "Chodang sundubu",
+      "text": "Silky tofu made with seawater.",
+      "whereToTry": "Chodang village."
+    },
+    {
+      "name": "Squid and raw fish",
+      "text": "Fresh catches at Jumunjin.",
+      "whereToTry": "Jumunjin market."
+    },
+    {
+      "name": "Coffee",
+      "text": "Local roasters.",
+      "whereToTry": "Anmok Beach."
+    },
+    {
+      "name": "Ojingeo (squid) dishes",
+      "text": "Grilled or stuffed.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Gangneung Jungang Market snacks",
+      "text": "Street snacks and pancakes.",
+      "whereToTry": "Jungang Market."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay near the beach or the station.",
+    "areas": [
+      {
+        "name": "Gyeongpo",
+        "bestFor": "Beaches",
+        "text": "Hotels and pensions."
+      },
+      {
+        "name": "Anmok",
+        "bestFor": "Coffee",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "City centre",
+        "bestFor": "Transport",
+        "text": "Hotels near the station."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$30–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$70–140 per night" },
+      { "label": "Resort", "value": "US$150–300 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$8–18 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Gangneung is on the KTX line.",
+    "options": [
+      {
+        "mode": "KTX from Seoul",
+        "text": "About two hours from Seoul Station, or under two on faster services.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Express bus",
+        "text": "About two and a half hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "From Sokcho",
+        "text": "About an hour by bus.",
+        "detail": "Frequent."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Buses link the sights.",
+    "options": [
+      {
+        "mode": "Local bus",
+        "text": "Serve Gyeongpo, Anmok and Ojukheon.",
+        "detail": "Use Naver Map."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Cheap.",
+        "detail": "Agree a price."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Around the lake and beach.",
+        "detail": "Rentals."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September–October",
+    "summary": "Gangneung is cooler in summer than inland, and snowy in winter.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Cherry blossom and mild weather."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Beach season, but busy."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Clear skies and the coffee festival."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Snowy and cold."
+      }
+    ],
+    "avoid": "Peak beach weekends in August."
+  },
+  "itinerary": {
+    "title": "Two days in Gangneung",
+    "intro": "Culture and coast.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Culture",
+        "summary": "Scholars and tofu.",
+        "morning": "Ojukheon.",
+        "afternoon": "Chodang tofu village.",
+        "evening": "Seafood in the city."
+      },
+      {
+        "day": 2,
+        "title": "Coast",
+        "summary": "Beach and coffee.",
+        "morning": "Sunrise at Jeongdongjin.",
+        "afternoon": "Gyeongpo Beach.",
+        "evening": "Anmok coffee street, then KTX home."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book KTX in advance.",
+    "Go for sunrise.",
+    "Try many cafés.",
+    "Visit on weekdays.",
+    "Bring a jacket for the sea breeze.",
+    "Combine with Seoraksan.",
+    "Book hotels early in summer."
+  ],
+  "faq": [
+    {
+      "q": "How far is Gangneung from Seoul?",
+      "a": "About two hours by KTX."
+    },
+    {
+      "q": "Is Gangneung good for a weekend?",
+      "a": "Yes."
+    },
+    {
+      "q": "What is Gangneung known for?",
+      "a": "Beaches, coffee and Ojukheon."
+    },
+    {
+      "q": "Can I swim?",
+      "a": "In summer, when beaches open."
+    },
+    {
+      "q": "Can I combine it with Seoraksan?",
+      "a": "Yes, they are about an hour apart."
+    },
+    {
+      "q": "When is Danoje?",
+      "a": "Around the fifth lunar month, usually May or June."
+    }
+  ],
+  "related": ["seoraksan-sokcho", "seoul", "andong-hahoe"],
+  "relatedArticles": ["mediterranean-coasts", "underrated-destinations"]
+}

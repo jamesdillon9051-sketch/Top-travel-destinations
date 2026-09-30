@@ -1,0 +1,330 @@
+{
+  "slug": "whitsundays",
+  "name": "The Whitsundays",
+  "country": "australia",
+  "region": "Queensland, central coast",
+  "categories": ["island", "coastal", "nature", "scenic"],
+  "tagline": "Seventy-four islands of white silica sand, turquoise water and coral, best explored under sail from the laid-back port of Airlie Beach.",
+  "highlight": "Hill Inlet at low tide, where swirling sand and turquoise water form patterns you can see from the lookout.",
+  "shortDescription": "A group of tropical islands on the Great Barrier Reef, with Whitehaven Beach, Hill Inlet, sailing, snorkelling, reef trips and the resort island of Hamilton.",
+  "metaDescription": "A Whitsundays travel guide: Whitehaven Beach, Hill Inlet, sailing trips, Airlie Beach, Hamilton Island, Heart Reef, snorkelling, stinger season, best time and a four-day plan.",
+  "suggestedStay": "4 days",
+  "nearestAirport": "Whitsunday Coast (PPP) or Hamilton Island (HTI)",
+  "knownFor": "Whitehaven Beach, sailing, snorkelling, turquoise water",
+  "budget": "A$250–450 per day, mid-range",
+  "goodFor": "Beaches, sailing, snorkelling, honeymoons, relaxation",
+  "coords": { "lat": -20.2730, "lng": 148.9560 },
+  "image": {
+    "file": "File:Hill Inlet at the end of Whitehaven Beach in the Whitsundays.JPG",
+    "alt": "The swirling turquoise water and white sand of Hill Inlet at the end of Whitehaven Beach"
+  },
+  "intro": [
+    "The Whitsunday Islands lie off the central Queensland coast, between the mainland and the Great Barrier Reef, in a sheltered region of calm water. There are 74 islands, most of them uninhabited national park, with fringing coral reefs, bays and beaches. Captain James Cook sailed through the passage in 1770, and named it on Whitsunday, although the actual date was different, due to the international date line.",
+    "The star attraction is Whitehaven Beach, seven kilometres of dazzlingly white sand made of almost pure silica, which stays cool underfoot, and Hill Inlet, at its northern end, where tides swirl white sand into the turquoise water in shifting patterns. Nearby, snorkelling sites, secluded coves and the Great Barrier Reef itself are all within a day's sail.",
+    "Most visitors base themselves at Airlie Beach, a lively backpacker and resort town on the mainland, and go out on day trips or multi-day sailing charters. Others stay on the islands, at Hamilton Island, the most developed, or on smaller resort islands. It is a beautiful and relaxing region, best from April to November."
+  ],
+  "whyVisit": {
+    "intro": "The Whitsundays offer the classic tropical island experience, with good access and a range of budgets.",
+    "points": [
+      {
+        "title": "Whitehaven Beach",
+        "text": "One of the most beautiful beaches in the world, with white silica sand and clear water."
+      },
+      {
+        "title": "Sailing",
+        "text": "Sheltered waters and steady winds make it one of the best places to sail in the world."
+      },
+      {
+        "title": "Snorkelling and diving",
+        "text": "Coral reefs on the islands' edges and the outer Great Barrier Reef."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Turtles, rays, dolphins and, from July to September, humpback whales."
+      },
+      {
+        "title": "A gentle pace",
+        "text": "Beaches, boats, sunsets and seafood."
+      }
+    ]
+  },
+  "attractionsIntro": "Most of the highlights are best seen from the water, on a day trip or charter.",
+  "attractions": [
+    {
+      "name": "Whitehaven Beach",
+      "image": {
+        "file": "File:Whitehaven Beach - Northern End.jpg",
+        "alt": "The white silica sand and clear water at the northern end of Whitehaven Beach"
+      },
+      "text": "A 7-km beach of fine white sand on Whitsunday Island, the region's most famous sight. Sand is so fine it squeaks underfoot, and it stays cool in the sun.",
+      "tip": "Visit in the morning, before day-trip boats arrive."
+    },
+    {
+      "name": "Hill Inlet lookout",
+      "text": "A short walk from the beach leads to a lookout above Hill Inlet, where tides swirl the sand and water into a natural marbled pattern.",
+      "tip": "Best at low tide, around midday."
+    },
+    {
+      "name": "Airlie Beach",
+      "image": {
+        "file": "File:Airlie Beach 2023.jpg",
+        "alt": "The waterfront and marina at Airlie Beach in the Whitsundays"
+      },
+      "text": "The gateway town, with a lagoon, marina, restaurants, bars and tour operators, on the mainland.",
+      "tip": "Book tours a few days ahead."
+    },
+    {
+      "name": "Heart Reef",
+      "image": {
+        "file": "File:The heart reef, part of the Great Barrier Reef near Airlie Beach, Whitsunday Islands, Queensland.jpg",
+        "alt": "The heart-shaped Heart Reef seen from above, near Hardy Reef"
+      },
+      "text": "A heart-shaped coral formation on Hardy Reef, best seen from the air by scenic flight. Landing on or swimming at the reef is not permitted.",
+      "tip": "Book a scenic flight for the view."
+    },
+    {
+      "name": "Hamilton Island",
+      "image": {
+        "file": "File:Aerial view of Hamilton Island and Hamilton Island Airport.jpg",
+        "alt": "An aerial view of Hamilton Island and its airport in the Whitsundays"
+      },
+      "text": "The largest developed island, with resorts, restaurants, a marina, golf carts as transport and a lookout at Passage Peak.",
+      "tip": "Good for a resort-style stay."
+    },
+    {
+      "name": "The outer reef",
+      "text": "Hardy Reef and Reefworld pontoons offer snorkelling and diving in the outer Great Barrier Reef, about 2 hours from Airlie Beach.",
+      "tip": "Choose a reputable eco-certified operator."
+    }
+  ],
+  "thingsToDoIntro": "Sailing, snorkelling and beaches make up the main activities.",
+  "thingsToDo": [
+    {
+      "title": "Take a sailing trip",
+      "text": "Two-day, three-day or longer charters visit the best beaches and snorkelling spots, with stops at Whitehaven.",
+      "tip": "Choose a boat size and vibe to suit you."
+    },
+    {
+      "title": "Snorkel from a beach",
+      "text": "Coral gardens fringe several islands, easily reached from the sand.",
+      "tip": "Bring a stinger suit in season."
+    },
+    {
+      "title": "Take a scenic flight",
+      "text": "Seaplane and helicopter flights show the islands, Heart Reef and the outer reef.",
+      "tip": "Book early on clear days."
+    },
+    {
+      "title": "Kayak or paddleboard",
+      "text": "Calm bays are ideal for paddling.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Look for whales",
+      "text": "Humpback whales pass through from July to September.",
+      "tip": "Join a whale-watching cruise."
+    },
+    {
+      "title": "Have a drink at sunset",
+      "text": "Bars and restaurants at Airlie Beach and on the islands.",
+      "tip": "Try the Airlie Beach lagoon."
+    }
+  ],
+  "foodIntro": "The Whitsundays' food is seafood, tropical fruit and casual dining.",
+  "foods": [
+    {
+      "name": "Barramundi and seafood",
+      "text": "Fresh fish, prawns and Moreton Bay bugs, grilled or fried.",
+      "whereToTry": "Airlie Beach restaurants."
+    },
+    {
+      "name": "Fish and chips",
+      "text": "Takeaway on the beach.",
+      "whereToTry": "Airlie Beach and Hamilton."
+    },
+    {
+      "name": "Tropical fruit",
+      "text": "Mangoes, pineapples, bananas and passionfruit.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Australian barbecue",
+      "text": "Steaks and prawns on the barbie.",
+      "whereToTry": "Boats and resorts."
+    },
+    {
+      "name": "Craft beer and rum",
+      "text": "Local brews and Queensland rum.",
+      "whereToTry": "Airlie Beach bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Airlie Beach for value and variety, or on the islands for a resort experience.",
+    "areas": [
+      {
+        "name": "Airlie Beach",
+        "bestFor": "Budget to mid-range and tours",
+        "text": "Hostels, motels and apartments near the lagoon."
+      },
+      {
+        "name": "Hamilton Island",
+        "bestFor": "Resorts",
+        "text": "A range of hotels and apartments."
+      },
+      {
+        "name": "Other island resorts",
+        "bestFor": "Seclusion",
+        "text": "Luxury resorts on smaller islands."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "A$40–90 per night" },
+      { "label": "Mid-range hotel", "value": "A$180–350 per night" },
+      { "label": "Luxury island resort", "value": "A$500–1,500 per night" },
+      { "label": "Two-day sailing trip", "value": "A$400–900 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Whitsundays are about 1,100 km north of Brisbane.",
+    "options": [
+      {
+        "mode": "Flight to Whitsunday Coast or Hamilton Island",
+        "text": "Direct flights from Brisbane, Sydney and Melbourne.",
+        "detail": "Whitsunday Coast is 30 minutes from Airlie Beach."
+      },
+      {
+        "mode": "Flight to Proserpine and transfer",
+        "text": "A short shuttle ride from the airport to Airlie Beach.",
+        "detail": "Check the transfer."
+      },
+      {
+        "mode": "Drive or bus",
+        "text": "About 12 hours by road from Brisbane, or from Cairns.",
+        "detail": "Long, so fly if possible."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Boats and ferries connect the mainland and islands.",
+    "options": [
+      {
+        "mode": "Ferry",
+        "text": "Ferries link Airlie Beach with Hamilton and other islands.",
+        "detail": "Check timetables."
+      },
+      {
+        "mode": "Charter or day trip",
+        "text": "The main way to see the islands.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Golf cart",
+        "text": "The transport on Hamilton Island.",
+        "detail": "Rent at the resort."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–November",
+    "summary": "The region has a tropical climate, with a dry season from about April to November and a wet season with cyclone risk from December to March.",
+    "seasons": [
+      {
+        "season": "Autumn (April–May)",
+        "rating": "best",
+        "text": "Clear water, warm weather and few stingers."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "best",
+        "text": "Dry, sunny and mild, with whales."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Warm, dry and calm."
+      },
+      {
+        "season": "Summer (December–March)",
+        "rating": "avoid",
+        "text": "Hot, wet and humid, with stingers and cyclones."
+      }
+    ],
+    "avoid": "January to March, the peak of the cyclone season."
+  },
+  "itinerary": {
+    "title": "Four days in the Whitsundays",
+    "intro": "Sailing on the first days, then rest on Hamilton Island or the mainland.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive at Airlie Beach",
+        "summary": "Settle in.",
+        "morning": "Arrive.",
+        "afternoon": "Airlie Beach lagoon.",
+        "evening": "Sunset and dinner."
+      },
+      {
+        "day": 2,
+        "title": "Whitehaven and Hill Inlet",
+        "summary": "The classic day trip.",
+        "morning": "Boat to Whitehaven Beach.",
+        "afternoon": "Hill Inlet lookout and snorkelling.",
+        "evening": "Return to Airlie."
+      },
+      {
+        "day": 3,
+        "title": "The outer reef or a scenic flight",
+        "summary": "Above and below.",
+        "morning": "A reef trip or flight over Heart Reef.",
+        "afternoon": "Snorkelling.",
+        "evening": "Seafood dinner."
+      },
+      {
+        "day": 4,
+        "title": "Hamilton Island",
+        "summary": "A relaxed end.",
+        "morning": "Ferry to Hamilton Island.",
+        "afternoon": "Passage Peak and the marina.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make the trip better.",
+  "tips": [
+    "Wear a stinger suit from November to May, and swim only in netted areas.",
+    "Book sailing trips in advance, and choose a boat that suits your style.",
+    "Go to Whitehaven early, before the crowds.",
+    "Bring sunscreen, a hat and reef-safe protection.",
+    "Check the weather and cyclone warnings in the wet season.",
+    "Do not swim at Heart Reef or take anything from the reef.",
+    "Take seasickness tablets if you are prone."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the Whitsundays?",
+      "a": "Three to four days for the main sights, including a day at Whitehaven."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "April to November. Summer has stingers and cyclones."
+    },
+    {
+      "q": "Can I swim at Whitehaven Beach?",
+      "a": "Yes, but stingers can be present in the wet season, so check advice."
+    },
+    {
+      "q": "Is it better to stay on the islands or in Airlie Beach?",
+      "a": "Airlie Beach is cheaper and more flexible. Islands offer a resort experience."
+    },
+    {
+      "q": "Can I visit Heart Reef?",
+      "a": "You can see it on a scenic flight. Landing and swimming there is not permitted."
+    },
+    {
+      "q": "Is it a good trip for families?",
+      "a": "Yes, with calm waters and easy day trips."
+    }
+  ],
+  "related": ["great-barrier-reef-cairns", "sydney", "kakadu-top-end"],
+  "relatedArticles": ["mediterranean-coasts", "packing-by-season"]
+}

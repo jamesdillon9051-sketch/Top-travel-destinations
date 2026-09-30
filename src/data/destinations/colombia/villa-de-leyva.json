@@ -1,0 +1,306 @@
+{
+  "slug": "villa-de-leyva",
+  "name": "Villa de Leyva",
+  "country": "colombia",
+  "region": "Boyacá, Andean highlands",
+  "categories": ["historic", "cultural", "off-the-beaten-path"],
+  "tagline": "A whitewashed 16th-century colonial town on one of the largest cobbled squares in the Americas, with fossils, waterfalls and desert-like hills.",
+  "highlight": "Standing in the vast Plaza Mayor, a cobbled square the size of several football pitches, with the town's white walls and red roofs around it.",
+  "shortDescription": "A perfectly preserved colonial town three hours from Bogotá, with the huge Plaza Mayor, whitewashed streets, Iguaque hikes, waterfalls, fossils and wineries.",
+  "metaDescription": "A Villa de Leyva travel guide: the Plaza Mayor, colonial streets, Pozos Azules, El Fósil, Iguaque, Ráquira, how to get there from Bogotá, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Bogotá El Dorado (BOG), about 3.5–4 hours by road",
+  "knownFor": "Colonial architecture, Plaza Mayor, fossils, day trips",
+  "budget": "US$60–110 per day, mid-range",
+  "goodFor": "Weekend trips, history, cycling, slow travel",
+  "coords": { "lat": 5.6367, "lng": -73.5248 },
+  "image": {
+    "file": "File:Plaza Mayor, Villa de Leyva 02.jpg",
+    "alt": "The vast cobbled Plaza Mayor of Villa de Leyva with its white church"
+  },
+  "intro": [
+    "Villa de Leyva was founded in 1572, and it has been preserved as a national monument since 1954, so building styles, roof tiles and whitewash follow the colonial pattern. It sits at 2,150 metres in a high, dry valley in Boyacá, with a mild, sunny climate that contrasts with cloudy Bogotá.",
+    "The heart of the town is the Plaza Mayor, one of the largest cobbled plazas in the Americas at around 14,000 square metres, surrounded by whitewashed buildings and a church. Narrow streets lead off in a grid, past courtyards, museums and cafés. Weekends fill with visitors from Bogotá, but weekdays are quiet.",
+    "The surroundings offer plenty to do. There are fossils of a 110-million-year-old kronosaurus at El Fósil, blue pools called Pozos Azules, the Iguaque sanctuary with a sacred lake, waterfalls, wineries and the pottery village of Ráquira. Cycling is popular. It is about three to four hours by bus from Bogotá, and two days is a good stay."
+  ],
+  "whyVisit": {
+    "intro": "Villa de Leyva is the prettiest colonial town within reach of Bogotá.",
+    "points": [
+      {
+        "title": "A giant cobbled square",
+        "text": "The Plaza Mayor."
+      },
+      {
+        "title": "Preserved streets",
+        "text": "Whitewashed colonial houses."
+      },
+      {
+        "title": "Fossils and nature",
+        "text": "El Fósil and Iguaque."
+      },
+      {
+        "title": "Easy from Bogotá",
+        "text": "A short bus ride."
+      },
+      {
+        "title": "Sunny weather",
+        "text": "Drier than the capital."
+      }
+    ]
+  },
+  "attractionsIntro": "The town is small, and the sights are around it.",
+  "attractions": [
+    {
+      "name": "Plaza Mayor",
+      "image": {
+        "file": "File:Iglesia del Carmen, Villa de Leyva 01.jpg",
+        "alt": "The Iglesia del Carmen church beside the plaza in Villa de Leyva"
+      },
+      "text": "The enormous cobbled square, with a church and colonial buildings all around.",
+      "tip": "Visit early or at dusk."
+    },
+    {
+      "name": "Cerro de Iguaque",
+      "image": {
+        "file": "File:Villa de Leyva Boyaca y el cerro de Iguaque.JPG",
+        "alt": "Villa de Leyva in the valley below the Iguaque mountain"
+      },
+      "text": "A nearby mountain reserve with cloud forest and a lake sacred to the Muisca.",
+      "tip": "Start hikes early."
+    },
+    {
+      "name": "El Fósil",
+      "text": "A museum around a 110-million-year-old fossil of a marine reptile.",
+      "tip": "A short visit."
+    },
+    {
+      "name": "Pozos Azules",
+      "text": "Blue and green pools in the desert.",
+      "tip": "Go in the morning."
+    },
+    {
+      "name": "Ráquira",
+      "text": "A village of colourful handicraft shops and pottery.",
+      "tip": "Visit for gifts."
+    },
+    {
+      "name": "Casa Terracota",
+      "text": "A house made entirely of clay.",
+      "tip": "Unusual architecture."
+    }
+  ],
+  "thingsToDoIntro": "Villa de Leyva is for slow walks and cycling.",
+  "thingsToDo": [
+    {
+      "title": "Walk the town",
+      "text": "Cobbled streets.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Cycle to the sights",
+      "text": "Rent a bike.",
+      "tip": "Bring water."
+    },
+    {
+      "title": "Hike Iguaque",
+      "text": "To the lake.",
+      "tip": "Register at the park."
+    },
+    {
+      "title": "Taste local wine",
+      "text": "Boyacá wineries.",
+      "tip": "Book."
+    },
+    {
+      "title": "Watch stargazing",
+      "text": "Clear skies.",
+      "tip": "Go at night."
+    },
+    {
+      "title": "Shop for crafts",
+      "text": "Ceramics.",
+      "tip": "Bargain politely."
+    }
+  ],
+  "foodIntro": "Boyacá food is hearty.",
+  "foods": [
+    {
+      "name": "Cocido boyacense",
+      "text": "Hearty soup.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Arepa boyacense",
+      "text": "Cheese-filled arepa.",
+      "whereToTry": "Stalls."
+    },
+    {
+      "name": "Mazorca",
+      "text": "Grilled corn with cheese.",
+      "whereToTry": "Street."
+    },
+    {
+      "name": "Local wine",
+      "text": "Regional wines.",
+      "whereToTry": "Wineries."
+    },
+    {
+      "name": "Cheese and honey",
+      "text": "Local products.",
+      "whereToTry": "Markets."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the historic centre.",
+    "areas": [
+      {
+        "name": "Centre",
+        "bestFor": "Atmosphere",
+        "text": "Colonial guesthouses."
+      },
+      {
+        "name": "Outskirts",
+        "bestFor": "Quiet",
+        "text": "Cabins."
+      },
+      {
+        "name": "Near Iguaque",
+        "bestFor": "Hiking",
+        "text": "Farm stays."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$10–18 per night" },
+      { "label": "Mid-range hotel", "value": "US$50–100 per night" },
+      { "label": "Luxury stay", "value": "US$120–250 per night" },
+      { "label": "Meal", "value": "US$6–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Villa de Leyva is 165 km from Bogotá.",
+    "options": [
+      {
+        "mode": "Bus from Bogotá",
+        "text": "About 3.5 to 4 hours.",
+        "detail": "Change at Tunja on some services."
+      },
+      {
+        "mode": "Car",
+        "text": "About 3 hours.",
+        "detail": "Avoid weekend traffic."
+      },
+      {
+        "mode": "Tour",
+        "text": "Day tours from Bogotá.",
+        "detail": "Long."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The town is walkable.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "In town.",
+        "detail": "Cobbles."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "For the sights.",
+        "detail": "Rent."
+      },
+      {
+        "mode": "Taxi and tours",
+        "text": "To Pozos Azules.",
+        "detail": "Agree the price."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–March and June–August",
+    "summary": "Villa de Leyva is drier than most of the Andes.",
+    "seasons": [
+      {
+        "season": "December–March",
+        "rating": "best",
+        "text": "Dry."
+      },
+      {
+        "season": "April–May",
+        "rating": "quiet",
+        "text": "Wet."
+      },
+      {
+        "season": "June–August",
+        "rating": "good",
+        "text": "Windy, with a kite festival."
+      },
+      {
+        "season": "September–November",
+        "rating": "avoid",
+        "text": "Wetter."
+      }
+    ],
+    "avoid": "Busy long weekends."
+  },
+  "itinerary": {
+    "title": "Two days in Villa de Leyva",
+    "intro": "Town, fossils and pools.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The town",
+        "summary": "Colonial streets.",
+        "morning": "Plaza Mayor.",
+        "afternoon": "Museums and cafés.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 2,
+        "title": "Around the town",
+        "summary": "Nature.",
+        "morning": "El Fósil and Pozos Azules.",
+        "afternoon": "Ráquira.",
+        "evening": "Return."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Go on a weekday.",
+    "Bring sun protection.",
+    "Wear good shoes for cobbles.",
+    "Book weekends far ahead.",
+    "Rent a bike.",
+    "Bring cash.",
+    "Bring a jacket for evenings."
+  ],
+  "faq": [
+    {
+      "q": "How far from Bogotá?",
+      "a": "About 3 to 4 hours."
+    },
+    {
+      "q": "Is it worth it?",
+      "a": "Yes."
+    },
+    {
+      "q": "When is the best time?",
+      "a": "December to March."
+    },
+    {
+      "q": "How many days?",
+      "a": "Two."
+    },
+    {
+      "q": "Can I do it as a day trip?",
+      "a": "Possible but long."
+    },
+    {
+      "q": "Is the plaza really big?",
+      "a": "Yes, among the largest in the Americas."
+    }
+  ],
+  "related": ["bogota", "barichara", "medellin"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around"]
+}

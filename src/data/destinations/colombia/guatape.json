@@ -1,0 +1,303 @@
+{
+  "slug": "guatape",
+  "name": "Guatapé and El Peñol",
+  "shortName": "Guatapé",
+  "country": "colombia",
+  "region": "Antioquia, east of Medellín",
+  "categories": ["scenic", "nature", "cultural"],
+  "tagline": "A lake town of brightly painted houses with sculpted friezes below a giant granite monolith with 740 steps to the top.",
+  "highlight": "The view from the top of El Peñol, over a maze of islands and reservoir arms.",
+  "shortDescription": "A colourful town on a reservoir near Medellín, with painted zócalos, the 200-metre El Peñol rock, boat trips and lakeside walks.",
+  "metaDescription": "A Guatapé and El Peñol travel guide: climbing the rock, the zócalos of Guatapé, the reservoir, boat trips, how to get there from Medellín, where to stay and a one-day plan.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "José María Córdova (MDE), about 1.5 hours",
+  "knownFor": "El Peñol rock, painted houses, reservoir",
+  "budget": "US$50–100 per day, from Medellín",
+  "goodFor": "Day trips, photography, views, families",
+  "coords": { "lat": 6.2333, "lng": -75.1600 },
+  "image": {
+    "file": "File:El Peñón de Guatapé from a highway bridge.jpg",
+    "alt": "The giant granite monolith of El Peñol rising above the Guatapé reservoir"
+  },
+  "intro": [
+    "Guatapé is a small town about two hours east of Medellín, set on a large artificial reservoir created in the 1970s to feed a hydroelectric plant. The flooded valley left a landscape of green islands and inlets, and a giant rock, La Piedra del Peñol, a 200-metre granite monolith rising from the shore.",
+    "The town is known for its zócalos, colourful bas-relief panels along the base of the houses, which show scenes of local life, animals and family names in bright colours. The Plazoleta de los Zócalos and the side streets are a pleasure to walk, with bars, shops and boats on the waterfront.",
+    "El Peñol has a zigzag staircase of about 740 steps, built into a crack in the rock, which takes 20 to 30 minutes to climb and rewards you with a huge view over the reservoir. The trip is a classic day out from Medellín, though staying overnight allows quieter time in the evening."
+  ],
+  "whyVisit": {
+    "intro": "Guatapé is one of Colombia's most photogenic day trips.",
+    "points": [
+      {
+        "title": "The Piedra del Peñol",
+        "text": "740 steps to a big view."
+      },
+      {
+        "title": "Painted houses",
+        "text": "Zócalo friezes."
+      },
+      {
+        "title": "Lake scenery",
+        "text": "Islands and boats."
+      },
+      {
+        "title": "Easy from Medellín",
+        "text": "Two hours by bus."
+      },
+      {
+        "title": "Small-town charm",
+        "text": "Bars and cafés."
+      }
+    ]
+  },
+  "attractionsIntro": "The rock and the town are 15 minutes apart.",
+  "attractions": [
+    {
+      "name": "La Piedra del Peñol",
+      "image": {
+        "file": "File:Embalse de Guatapé desde la piedra el Peñol.jpg",
+        "alt": "The reservoir and islands seen from the top of El Peñol"
+      },
+      "text": "A 200-metre granite rock climbed by 740 steps, with a viewing platform at the top.",
+      "tip": "Go early to avoid queues and heat."
+    },
+    {
+      "name": "The zócalos of Guatapé",
+      "image": {
+        "file": "File:Colombia-Guatape-Fachadas 01.jpg",
+        "alt": "Brightly painted zócalo panels on the houses of Guatapé"
+      },
+      "text": "Bright bas-relief friezes on the lower walls of houses, showing scenes and symbols.",
+      "tip": "Walk the side streets."
+    },
+    {
+      "name": "The reservoir at sunset",
+      "image": {
+        "file": "File:Atardecer En El Embalse Peñol-Guatapé Municipio D(14).jpg",
+        "alt": "Sunset over the Guatapé reservoir"
+      },
+      "text": "The lake turns gold in the evening, best from the malecón or a boat.",
+      "tip": "Stay for sunset."
+    },
+    {
+      "name": "Plazoleta de los Zócalos",
+      "text": "A square of painted houses, cafés and stalls.",
+      "tip": "Try local snacks."
+    },
+    {
+      "name": "Boat tours",
+      "text": "Trips among the islands.",
+      "tip": "Agree the price."
+    },
+    {
+      "name": "Malecón",
+      "text": "The lakeside promenade.",
+      "tip": "Best in the evening."
+    }
+  ],
+  "thingsToDoIntro": "Guatapé is for climbing and strolling.",
+  "thingsToDo": [
+    {
+      "title": "Climb El Peñol",
+      "text": "740 steps.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Take a boat tour",
+      "text": "See the islands.",
+      "tip": "Book on the malecón."
+    },
+    {
+      "title": "Photograph the zócalos",
+      "text": "Colourful walls.",
+      "tip": "Soft morning light."
+    },
+    {
+      "title": "Go kayaking",
+      "text": "On the reservoir.",
+      "tip": "Rent one."
+    },
+    {
+      "title": "Ride the zipline",
+      "text": "Adventure options.",
+      "tip": "Choose a safe operator."
+    },
+    {
+      "title": "Eat trout",
+      "text": "Lakeside restaurants.",
+      "tip": "Try it grilled."
+    }
+  ],
+  "foodIntro": "Food is simple and lakeside.",
+  "foods": [
+    {
+      "name": "Grilled trout",
+      "text": "A local speciality.",
+      "whereToTry": "Lakeside restaurants."
+    },
+    {
+      "name": "Bandeja paisa",
+      "text": "Antioquian platter.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Arepas",
+      "text": "Street snack.",
+      "whereToTry": "Stalls."
+    },
+    {
+      "name": "Fresh juices",
+      "text": "Fruit.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Buñuelos",
+      "text": "Fried dough.",
+      "whereToTry": "Bakeries."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the town.",
+    "areas": [
+      {
+        "name": "Guatapé town",
+        "bestFor": "Convenience",
+        "text": "Hostels and hotels."
+      },
+      {
+        "name": "Lakeside cabins",
+        "bestFor": "Quiet",
+        "text": "Cabins."
+      },
+      {
+        "name": "El Peñol",
+        "bestFor": "Early climbs",
+        "text": "Guesthouses."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$10–20 per night" },
+      { "label": "Mid-range hotel", "value": "US$50–100 per night" },
+      { "label": "Rock entry", "value": "US$3–6" },
+      { "label": "Meal", "value": "US$6–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Guatapé is about 80 km from Medellín.",
+    "options": [
+      {
+        "mode": "Bus from Medellín",
+        "text": "About 2 hours from Terminal del Norte.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Tour",
+        "text": "Day tours from Medellín.",
+        "detail": "Convenient."
+      },
+      {
+        "mode": "Car",
+        "text": "About 1.5 to 2 hours.",
+        "detail": "Traffic."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The town is walkable.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "In town.",
+        "detail": "Comfortable shoes."
+      },
+      {
+        "mode": "Tuk-tuk or taxi",
+        "text": "To the rock.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "Boat",
+        "text": "On the lake.",
+        "detail": "Agree the price."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–March",
+    "summary": "Guatapé is mild, with dry seasons.",
+    "seasons": [
+      {
+        "season": "December–March",
+        "rating": "best",
+        "text": "Drier."
+      },
+      {
+        "season": "April–May",
+        "rating": "quiet",
+        "text": "Wet."
+      },
+      {
+        "season": "June–August",
+        "rating": "good",
+        "text": "Drier."
+      },
+      {
+        "season": "September–November",
+        "rating": "avoid",
+        "text": "Wet."
+      }
+    ],
+    "avoid": "Rainy afternoons, when the view is clouded."
+  },
+  "itinerary": {
+    "title": "One day in Guatapé",
+    "intro": "The rock and the town.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Guatapé",
+        "summary": "A day trip.",
+        "morning": "Climb El Peñol.",
+        "afternoon": "Zócalos and lunch.",
+        "evening": "Boat trip or return."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Go early to climb.",
+    "Wear good shoes.",
+    "Bring water.",
+    "Go on a weekday.",
+    "Bring cash.",
+    "Book bus tickets.",
+    "Stay for sunset."
+  ],
+  "faq": [
+    {
+      "q": "How long does the climb take?",
+      "a": "20 to 30 minutes."
+    },
+    {
+      "q": "How far from Medellín?",
+      "a": "About 2 hours."
+    },
+    {
+      "q": "Is it worth it?",
+      "a": "Yes."
+    },
+    {
+      "q": "What are zócalos?",
+      "a": "Painted bas-reliefs."
+    },
+    {
+      "q": "Can I stay?",
+      "a": "Yes."
+    },
+    {
+      "q": "When is the best time?",
+      "a": "December to March."
+    }
+  ],
+  "related": ["medellin", "salento-cocora", "bogota"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season"]
+}

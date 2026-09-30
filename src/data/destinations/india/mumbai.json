@@ -1,0 +1,322 @@
+{
+  "slug": "mumbai",
+  "name": "Mumbai",
+  "country": "india",
+  "region": "Maharashtra, west coast",
+  "categories": ["major-city", "coastal", "cultural", "unesco"],
+  "tagline": "India's biggest, fastest and most cosmopolitan city: Victorian Gothic railway stations, Art Deco seafront blocks, Bollywood dreams and the country's best street food.",
+  "highlight": "A stroll along Marine Drive at dusk, as the lights come on along the Queen's Necklace.",
+  "shortDescription": "The financial and film capital of India, with the Gateway of India, the UNESCO-listed Victorian and Art Deco ensembles, Elephanta Caves, street food and a vibrant arts scene.",
+  "metaDescription": "A Mumbai travel guide: the Gateway of India, Chhatrapati Shivaji Terminus, Marine Drive, Elephanta Caves, Colaba, Dhobi Ghat, street food, local trains, when to go and a three-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Chhatrapati Shivaji Maharaj International (BOM), about 45 minutes to 1 hour",
+  "knownFor": "The Gateway of India, Art Deco and Victorian buildings, Bollywood, street food",
+  "budget": "US$65–160 per day, mid-range",
+  "goodFor": "Architecture, food, urban energy, nightlife, a gateway to Goa",
+  "coords": { "lat": 18.9220, "lng": 72.8347 },
+  "image": {
+    "file": "File:Gateway of India in the evening, Mumbai, India.jpg",
+    "alt": "The Gateway of India monument by the harbour in Mumbai in the evening"
+  },
+  "intro": [
+    "Mumbai, formerly Bombay, is India's largest city and the engine of its economy, with more than 12 million people in the city itself and about 20 million in the wider metropolitan area. It grew from seven islands, ceded by the Portuguese to the British in 1661 as part of a royal dowry, into one of the great ports of the British Empire, and it kept growing after independence as a centre of finance, industry and film.",
+    "The colonial legacy is unusually visible. South Mumbai has the largest collection of Victorian Gothic buildings in the world outside Britain, including the Chhatrapati Shivaji Terminus, and along Marine Drive and Oval Maidan a large group of 1930s Art Deco apartments and cinemas. UNESCO listed the Victorian and Art Deco ensemble in 2018.",
+    "Beyond the architecture, Mumbai is a city of contrasts, of gleaming towers and huge slums, of Bollywood studios and street-side tea stalls, of daily commuters packed into local trains and of a food culture that ranges from vada pav at street corners to fine dining. It is a good place to see modern India, and its energy is infectious."
+  ],
+  "whyVisit": {
+    "intro": "Mumbai is a different India from the north, faster, more modern and more mixed.",
+    "points": [
+      {
+        "title": "Colonial and Art Deco architecture",
+        "text": "Two UNESCO listings cover the Victorian Gothic and Art Deco buildings of the south."
+      },
+      {
+        "title": "Street food",
+        "text": "Vada pav, pav bhaji, bhel puri, kebabs and Irani café chai, among the best snacks in India."
+      },
+      {
+        "title": "Bollywood and culture",
+        "text": "Film studios, theatres, art galleries and the country's biggest music scene."
+      },
+      {
+        "title": "Elephanta Caves",
+        "text": "A short ferry ride to rock-cut temples dedicated to Shiva."
+      },
+      {
+        "title": "The sea",
+        "text": "Marine Drive, Chowpatty and the promenades along the Arabian Sea."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are in South Mumbai, and can be visited on foot and by short taxi rides.",
+  "attractions": [
+    {
+      "name": "The Gateway of India",
+      "text": "A basalt arch on the waterfront, built in 1924 to commemorate the visit of King George V and Queen Mary in 1911, and the point from which the last British troops left India in 1948. Ferries to Elephanta leave from here.",
+      "tip": "Go early or late, to avoid the crowds and heat."
+    },
+    {
+      "name": "Chhatrapati Shivaji Terminus",
+      "image": {
+        "file": "File:Chhatrapati Shivaji Terminus (Victoria Terminus).jpg",
+        "alt": "The Victorian Gothic façade of Chhatrapati Shivaji Terminus railway station in Mumbai"
+      },
+      "text": "The great railway station, completed in 1887 as Victoria Terminus, is a fantasy of domes, turrets and carved stone in Victorian Gothic and Indian styles. It is still a working station used by millions.",
+      "tip": "Look at the exterior from the road, and walk in to see the concourse."
+    },
+    {
+      "name": "Marine Drive",
+      "image": {
+        "file": "File:Marine Drive of Mumbai.jpg",
+        "alt": "The curving Marine Drive promenade beside the Arabian Sea in Mumbai"
+      },
+      "text": "A curving promenade of about 3.5 km along Back Bay, lined with Art Deco buildings, and known as the Queen's Necklace for its lights at night. A favourite evening walk.",
+      "tip": "Go at sunset."
+    },
+    {
+      "name": "Elephanta Caves",
+      "image": {
+        "file": "File:Elephanta Caves, India.jpg",
+        "alt": "Rock-cut columns inside the Elephanta Caves near Mumbai"
+      },
+      "text": "A UNESCO-listed cave temple complex on an island in the harbour, carved in the 5th to 8th centuries, with a huge sculpture of the three-faced Shiva. A ferry from the Gateway of India takes about an hour.",
+      "tip": "Closed on Mondays, and take the earliest ferry."
+    },
+    {
+      "name": "Colaba and Kala Ghoda",
+      "text": "The area around the Gateway has a mix of cafés, bookshops, art galleries and the Chhatrapati Shivaji Maharaj Vastu Sangrahalya museum, in an Indo-Saracenic building.",
+      "tip": "Walk the Kala Ghoda art district."
+    },
+    {
+      "name": "Dhobi Ghat and Haji Ali",
+      "text": "An open-air laundry where clothes are washed by hand, seen from a bridge, and the Haji Ali Dargah, a mosque and tomb on a causeway in the sea.",
+      "tip": "Visit Haji Ali at low tide when the causeway is open."
+    }
+  ],
+  "thingsToDoIntro": "Mumbai rewards a mix of walking, eating and riding its transport.",
+  "thingsToDo": [
+    {
+      "title": "Take a local train",
+      "text": "The suburban rail system carries about 7 million passengers a day, and a short ride is an experience in itself.",
+      "tip": "Avoid rush hours, and use the first-class or women's carriage if you prefer."
+    },
+    {
+      "title": "Eat street food",
+      "text": "Sample vada pav, pav bhaji, bhel puri and kulfi at Chowpatty, Juhu and around the stations.",
+      "tip": "Choose busy stalls."
+    },
+    {
+      "title": "Visit an Irani café",
+      "text": "Old Parsi-Irani cafés serve bun maska, chai and keema pav in period interiors.",
+      "tip": "Try Kyani & Co. or other established cafés."
+    },
+    {
+      "title": "See the art scene",
+      "text": "Galleries in Kala Ghoda and the museum of modern art give a taste of India's contemporary art.",
+      "tip": "Visit during the Kala Ghoda Arts Festival."
+    },
+    {
+      "title": "Walk through Bandra",
+      "text": "The suburb has street art, cafés and shops, and is popular for evenings.",
+      "tip": "Go by taxi."
+    },
+    {
+      "title": "Watch a cricket match on the maidans",
+      "text": "Cricket games take place on open grounds across the city on weekends.",
+      "tip": "Join in if invited."
+    }
+  ],
+  "foodIntro": "Mumbai's food is defined by its street snacks, its seafood and its mixed communities.",
+  "foods": [
+    {
+      "name": "Vada pav",
+      "text": "A spiced potato fritter in a soft bun with chutneys, and the city's iconic snack.",
+      "whereToTry": "Street stalls near stations."
+    },
+    {
+      "name": "Pav bhaji",
+      "text": "A buttery vegetable mash with toasted rolls.",
+      "whereToTry": "Chowpatty and Juhu beaches."
+    },
+    {
+      "name": "Bhel puri",
+      "text": "Puffed rice tossed with chutneys, onion and crisp noodles.",
+      "whereToTry": "Chowpatty Beach."
+    },
+    {
+      "name": "Bombay duck and seafood",
+      "text": "Fresh fish and prawns cooked in Koli and Goan styles. Bombay duck is a dried fish, not a bird.",
+      "whereToTry": "Seafood restaurants in Colaba and Bandra."
+    },
+    {
+      "name": "Irani café classics",
+      "text": "Bun maska, keema pav and Irani chai in old cafés.",
+      "whereToTry": "Irani cafés in the south."
+    },
+    {
+      "name": "Kulfi and falooda",
+      "text": "Rich frozen dessert and rose-flavoured milk drinks.",
+      "whereToTry": "Ice-cream parlours near the sea."
+    }
+  ],
+  "accommodation": {
+    "intro": "South Mumbai is convenient for sightseeing, and Bandra and Juhu are better for nightlife.",
+    "areas": [
+      {
+        "name": "Colaba and Fort",
+        "bestFor": "Sights and heritage hotels",
+        "text": "Hotels near the Gateway of India, cafés and museums."
+      },
+      {
+        "name": "Marine Drive and Churchgate",
+        "bestFor": "Sea views and Art Deco",
+        "text": "Hotels along the waterfront."
+      },
+      {
+        "name": "Bandra and Juhu",
+        "bestFor": "Nightlife and cafés",
+        "text": "A more residential area, near the airport."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel", "value": "US$25–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–160 per night" },
+      { "label": "Luxury hotel", "value": "US$200–600 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$5–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Mumbai is the busiest air hub in western India.",
+    "options": [
+      {
+        "mode": "Flight to Mumbai (BOM)",
+        "text": "Direct flights from Europe, the Middle East, Asia and other Indian cities.",
+        "detail": "Traffic to the city can take an hour or more."
+      },
+      {
+        "mode": "Train",
+        "text": "Long-distance trains from Delhi (about 16 hours on the Rajdhani, less on Vande Bharat), Goa and Pune.",
+        "detail": "Book early."
+      },
+      {
+        "mode": "Onward to Goa",
+        "text": "About 1 hour by air, or 8 to 12 hours by train or road.",
+        "detail": "Fly for convenience."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Distances are long and traffic is heavy, so plan by area.",
+    "options": [
+      {
+        "mode": "Taxis and ride-hailing",
+        "text": "Black-and-yellow taxis use meters, and apps such as Uber and Ola work.",
+        "detail": "Insist on the meter or use apps."
+      },
+      {
+        "mode": "Local trains and metro",
+        "text": "The Western, Central and Harbour lines cover the suburbs, and metro lines are growing.",
+        "detail": "Avoid rush hours."
+      },
+      {
+        "mode": "Walking",
+        "text": "South Mumbai's colonial core can be explored on foot.",
+        "detail": "Watch the heat and traffic."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–February",
+    "summary": "Mumbai is hot and humid for most of the year, with a heavy monsoon from June to September.",
+    "seasons": [
+      {
+        "season": "Winter (November–February)",
+        "rating": "best",
+        "text": "Warm, dry and comfortable."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "avoid",
+        "text": "Hot and humid."
+      },
+      {
+        "season": "Monsoon (June–September)",
+        "rating": "quiet",
+        "text": "Heavy rain, flooding at times, and green landscapes. Ganesh Chaturthi in August or September is a big festival."
+      },
+      {
+        "season": "Post-monsoon (October)",
+        "rating": "good",
+        "text": "Warm and humid, with clearing skies."
+      }
+    ],
+    "avoid": "Peak monsoon weeks in July and August, when flooding can disrupt travel."
+  },
+  "itinerary": {
+    "title": "Three days in Mumbai",
+    "intro": "Colonial Mumbai first, then Elephanta and the neighbourhoods.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Colonial South Mumbai",
+        "summary": "Architecture and the sea.",
+        "morning": "The Gateway of India and Colaba.",
+        "afternoon": "The museum and Chhatrapati Shivaji Terminus.",
+        "evening": "Marine Drive and Chowpatty."
+      },
+      {
+        "day": 2,
+        "title": "Elephanta Caves",
+        "summary": "A day on the water.",
+        "morning": "The ferry to Elephanta.",
+        "afternoon": "The caves.",
+        "evening": "Dinner in Colaba."
+      },
+      {
+        "day": 3,
+        "title": "Neighbourhoods",
+        "summary": "Markets and suburbs.",
+        "morning": "Dhobi Ghat and Haji Ali.",
+        "afternoon": "A local train ride.",
+        "evening": "Bandra for dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Mumbai is fast, and a few tips help.",
+  "tips": [
+    "Use the black-and-yellow taxis with meters, or ride-hailing apps.",
+    "Avoid travel in rush hours (about 8–11am and 5–9pm).",
+    "Take the first ferry to Elephanta.",
+    "Carry small notes for taxis and tips.",
+    "Carry a rain jacket during the monsoon.",
+    "Eat at busy places, and avoid raw salads."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Mumbai?",
+      "a": "Two or three days. One day covers the Gateway of India and the colonial core."
+    },
+    {
+      "q": "Is Mumbai safe?",
+      "a": "Generally, yes, with the usual big-city precautions. Watch for pickpockets in crowds."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "November to February."
+    },
+    {
+      "q": "Is Mumbai worth visiting?",
+      "a": "Yes, particularly for food, architecture and a modern side of India."
+    },
+    {
+      "q": "Can I see Bollywood?",
+      "a": "Studio tours are available, though filming is often closed to the public."
+    },
+    {
+      "q": "How do I get to Elephanta Caves?",
+      "a": "By ferry from the Gateway of India, about an hour each way. The caves are closed on Mondays."
+    }
+  ],
+  "related": ["goa", "kerala-backwaters-kochi", "udaipur"],
+  "relatedArticles": ["food-primer", "unesco-worth-planning-around"]
+}

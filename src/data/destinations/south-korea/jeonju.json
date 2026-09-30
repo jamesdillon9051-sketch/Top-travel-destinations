@@ -1,0 +1,310 @@
+{
+  "slug": "jeonju",
+  "name": "Jeonju",
+  "country": "south-korea",
+  "region": "North Jeolla, south-west South Korea",
+  "categories": ["cultural", "historic", "food-and-wine"],
+  "tagline": "Korea's food capital and a city of 700 traditional hanok houses, where bibimbap, makgeolli and calligraphy have deep roots.",
+  "highlight": "A bibimbap lunch in Jeonju Hanok Village, followed by a walk through tile-roofed lanes.",
+  "shortDescription": "A UNESCO City of Gastronomy with a large hanok village, Gyeonggijeon Shrine, Nambu Market and Korea's best bibimbap, makgeolli and banquet-style side dishes.",
+  "metaDescription": "A Jeonju travel guide: Jeonju Hanok Village, Gyeonggijeon Shrine, bibimbap, Nambu Market, makgeolli, Omokdae, where to stay, how to get there and a two-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Incheon (ICN) or Gimpo (GMP), then about 2 hours by KTX or bus",
+  "knownFor": "Bibimbap, hanok village, gastronomy, tradition",
+  "budget": "US$70–130 per day, mid-range",
+  "goodFor": "Food lovers, traditional culture, slow travel",
+  "coords": { "lat": 35.8242, "lng": 127.1480 },
+  "image": {
+    "file": "File:Jeonju Hanok Village 20230408 014.jpg",
+    "alt": "Tile-roofed hanok houses in Jeonju Hanok Village"
+  },
+  "intro": [
+    "Jeonju is a city of about 650,000 in the fertile south-west, and it is widely regarded as the culinary heart of South Korea. UNESCO named it a Creative City of Gastronomy in 2012, and locals will tell you that a meal in Jeonju includes far more side dishes than anywhere else. It is the home of bibimbap, the rice bowl mixed with vegetables and chilli paste, and of a regional banquet tradition in which a table fills with small dishes as soon as you order drinks.",
+    "The old heart of the city is Jeonju Hanok Village, a district of about 700 traditional houses with curved tile roofs, alleys and courtyard cafés. It grew around the Gyeonggijeon Shrine, which holds a portrait of the founder of the Joseon dynasty, who was born in Jeonju's family line, and the area is the country's best place to try on hanbok and stroll through real streets rather than a museum set.",
+    "Jeonju is compact and easy: a day or two lets you eat, walk the village, browse the Nambu Market and taste the local makgeolli. It is about two hours from Seoul by KTX, and it fits between Seoul and the south-east, making it a natural stop on a longer trip."
+  ],
+  "whyVisit": {
+    "intro": "Jeonju offers food and tradition in one compact, walkable place.",
+    "points": [
+      {
+        "title": "The home of bibimbap",
+        "text": "The most famous bowl in Korea."
+      },
+      {
+        "title": "A large hanok village",
+        "text": "About 700 traditional houses."
+      },
+      {
+        "title": "A UNESCO gastronomy city",
+        "text": "Banquets, market food and makgeolli."
+      },
+      {
+        "title": "Traditional crafts",
+        "text": "Paper, calligraphy and rice wine."
+      },
+      {
+        "title": "An easy stop",
+        "text": "Two hours from Seoul by KTX."
+      }
+    ]
+  },
+  "attractionsIntro": "Everything worth seeing is within a short walk of the hanok village.",
+  "attractions": [
+    {
+      "name": "Jeonju Hanok Village",
+      "image": {
+        "file": "File:Jeonju Hanok Maeul 02.jpg",
+        "alt": "A lane in Jeonju Hanok Village lined with tile-roofed houses"
+      },
+      "text": "A district of about 700 hanok with cafés, workshops, guesthouses and hanbok rentals, and the main street for snacks.",
+      "tip": "Stay overnight, when the crowds go."
+    },
+    {
+      "name": "Gyeonggijeon Shrine",
+      "image": {
+        "file": "File:Jeonju Gyeonggijeon 20230408 062.jpg",
+        "alt": "The Gyeonggijeon Shrine buildings in Jeonju"
+      },
+      "text": "A shrine that houses a portrait of King Taejo, the founder of the Joseon dynasty, in a quiet compound.",
+      "tip": "Visit in the morning."
+    },
+    {
+      "name": "Jeondong Cathedral",
+      "text": "A Romanesque-Byzantine church from the early 1900s, in red brick, beside the hanok village.",
+      "tip": "Visit before it closes."
+    },
+    {
+      "name": "Nambu Market",
+      "text": "A traditional market with food stalls and a night market on weekends.",
+      "tip": "Go in the evening."
+    },
+    {
+      "name": "Omokdae",
+      "text": "A pavilion on a hill with views across the hanok village's rooftops.",
+      "tip": "Go at sunset."
+    },
+    {
+      "name": "Korean Traditional Wine Museum",
+      "text": "A museum where you can learn about and taste traditional wines.",
+      "tip": "Book a tasting."
+    }
+  ],
+  "thingsToDoIntro": "Jeonju is about eating and strolling.",
+  "thingsToDo": [
+    {
+      "title": "Eat Jeonju bibimbap",
+      "text": "Try the classic bowl with raw beef and bean sprouts.",
+      "tip": "Go at lunch."
+    },
+    {
+      "title": "Wear a hanbok",
+      "text": "Rent traditional dress and stroll the village.",
+      "tip": "Rentals are cheap."
+    },
+    {
+      "title": "Drink makgeolli",
+      "text": "Visit a makgeolli alley for a kettle of rice wine with a table of dishes.",
+      "tip": "Go in the evening."
+    },
+    {
+      "title": "Try a hanok stay",
+      "text": "Sleep on a heated floor in a traditional house.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Make paper or craft",
+      "text": "Try hanji paper workshops.",
+      "tip": "Book a class."
+    },
+    {
+      "title": "Snack along the street",
+      "text": "Choco pies, grilled skewers and egg bread.",
+      "tip": "Bring cash."
+    }
+  ],
+  "foodIntro": "Jeonju's food is a national point of pride, and a meal is generous.",
+  "foods": [
+    {
+      "name": "Jeonju bibimbap",
+      "image": {
+        "file": "File:Bibimbap 4.jpg",
+        "alt": "A bowl of Jeonju bibimbap with vegetables and egg"
+      },
+      "text": "Rice cooked in beef broth with about two dozen toppings, including bean sprouts and raw beef, mixed with chilli paste.",
+      "whereToTry": "Traditional restaurants in the village."
+    },
+    {
+      "name": "Kongnamul gukbap",
+      "text": "Bean sprout soup with rice, a cheap breakfast and hangover cure.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Makgeolli alley meals",
+      "text": "A kettle of rice wine that comes with a table of dishes.",
+      "whereToTry": "Samcheon-dong Makgeolli Street."
+    },
+    {
+      "name": "Hanjeongsik",
+      "text": "A banquet table of many dishes.",
+      "whereToTry": "Restaurants in the village."
+    },
+    {
+      "name": "Choco pie and street snacks",
+      "text": "Sweet and savoury treats.",
+      "whereToTry": "Hanok village street."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the hanok village for atmosphere.",
+    "areas": [
+      {
+        "name": "Hanok Village",
+        "bestFor": "Atmosphere",
+        "text": "Hanok guesthouses, with floor bedding."
+      },
+      {
+        "name": "Near the station",
+        "bestFor": "Transport",
+        "text": "Business hotels."
+      },
+      {
+        "name": "Deokjin district",
+        "bestFor": "Budget stays",
+        "text": "Modern hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$30–60 per night" },
+      { "label": "Hanok stay", "value": "US$70–180 per night" },
+      { "label": "Hotel", "value": "US$60–120 per night" },
+      { "label": "Bibimbap meal", "value": "US$8–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Jeonju is reached by KTX or bus from Seoul.",
+    "options": [
+      {
+        "mode": "KTX from Seoul (Yongsan)",
+        "text": "About two hours, by KTX to Jeonju station.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Express bus",
+        "text": "About three hours from Seoul Express Bus Terminal.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "From Gyeongju or Busan",
+        "text": "Via a bus or a change of train.",
+        "detail": "Plan a half day."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The hanok village is walkable.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The village and market are close together.",
+        "detail": "Wear comfortable shoes."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Rentals in the village.",
+        "detail": "Good for the flat city."
+      },
+      {
+        "mode": "Taxi and bus",
+        "text": "For the station.",
+        "detail": "Cheap."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April and October",
+    "summary": "Jeonju has four seasons, with hot summers and cold winters.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Mild, with cherry blossom."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Hot and humid."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Clear, with gold leaves."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold, but quiet."
+      }
+    ],
+    "avoid": "August heat."
+  },
+  "itinerary": {
+    "title": "Two days in Jeonju",
+    "intro": "Eating and strolling the village.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The hanok village",
+        "summary": "Tradition.",
+        "morning": "Bibimbap for lunch.",
+        "afternoon": "Gyeonggijeon Shrine and the village.",
+        "evening": "Makgeolli alley."
+      },
+      {
+        "day": 2,
+        "title": "Markets and views",
+        "summary": "Local life.",
+        "morning": "Nambu Market.",
+        "afternoon": "Omokdae and Jeondong Cathedral.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you make the most of Jeonju.",
+  "tips": [
+    "Come hungry.",
+    "Stay overnight in a hanok.",
+    "Carry cash for street stalls.",
+    "Go early to the village.",
+    "Try the makgeolli alley.",
+    "Book hanok stays early.",
+    "Wear comfortable shoes."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need in Jeonju?",
+      "a": "One to two days."
+    },
+    {
+      "q": "Is Jeonju worth it?",
+      "a": "Yes for food and tradition."
+    },
+    {
+      "q": "How do I get there from Seoul?",
+      "a": "KTX in about two hours."
+    },
+    {
+      "q": "What is the best food?",
+      "a": "Bibimbap and makgeolli banquets."
+    },
+    {
+      "q": "Can I stay in a hanok?",
+      "a": "Yes, in guesthouses."
+    },
+    {
+      "q": "When is the best time to go?",
+      "a": "April and October."
+    }
+  ],
+  "related": ["seoul", "gyeongju", "busan"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

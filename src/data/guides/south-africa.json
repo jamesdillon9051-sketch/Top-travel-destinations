@@ -1,0 +1,134 @@
+{
+  "country": "south-africa",
+  "title": "The Complete South Africa Travel Guide",
+  "subtitle": "How the country divides, how to choose between the ten destinations, how to drive and fly around it safely, and what two weeks can realistically hold.",
+  "summary": "South Africa combines safari, coast, mountains and wine with an unforgettable modern history. This guide covers how the regions divide, how to choose between the ten destinations, how to travel and stay safe, when to go, what it costs and three routes that work.",
+  "readingTime": "14 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Can I do a safari and Cape Town in the same trip?",
+      "a": "Yes, with a flight. Cape Town to Johannesburg takes about two hours, and from there Kruger is an hour by air or a day by road. Ten days covers both comfortably."
+    },
+    {
+      "q": "Is it better to self-drive or take a tour?",
+      "a": "Self-driving is easy and rewarding on the Garden Route, in the Winelands and in Kruger. Tours make sense for Soweto, Robben Island and the Drakensberg, where a guide adds context."
+    },
+    {
+      "q": "Is it safe to self-drive?",
+      "a": "Generally yes, with precautions: avoid driving at night, keep doors locked and valuables hidden, and plan routes ahead."
+    },
+    {
+      "q": "When should I book?",
+      "a": "Book Kruger camps and safari lodges three to six months ahead for winter. Cape Town's Robben Island and Table Mountain slots should be booked a month or more ahead in high season."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-south-africa-divides",
+      "title": "How South Africa divides",
+      "navLabel": "The regions",
+      "body": [
+        "South Africa is about 1,600 km from north to south, and it has roughly five zones for a visitor.",
+        "**The Western Cape.** [[cape-town|Cape Town]] is the gateway, with the [[cape-winelands|Winelands]] to the east and [[hermanus-overberg|Hermanus and the Overberg]] along the coast.",
+        "**The Garden Route and the Eastern Cape.** The [[garden-route|Garden Route]] runs along the south coast, and [[addo-eastern-cape|Addo]] is a malaria-free elephant park at its eastern end.",
+        "**Gauteng and the north-east.** [[johannesburg-soweto|Johannesburg and Soweto]] are the country's economic and historical heart, and [[kruger-national-park|Kruger]] and the [[panorama-route|Panorama Route]] lie to the east.",
+        "**KwaZulu-Natal.** [[isimangaliso-st-lucia|iSimangaliso]] has hippos, beaches and reefs on the Indian Ocean coast, and the [[drakensberg|Drakensberg]] rises inland."
+      ],
+      "note": "The practical unit is two or three of these, linked by flights and drives. South Africa is big, and it is better to explore a few regions than to rush."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[cape-town|Cape Town]] and the [[cape-winelands|Winelands]], or a safari at [[kruger-national-park|Kruger]] with a few days in [[johannesburg-soweto|Johannesburg]]."
+        },
+        {
+          "title": "If you love wildlife",
+          "text": "[[kruger-national-park|Kruger]] for the Big Five, [[addo-eastern-cape|Addo]] for elephants, [[isimangaliso-st-lucia|iSimangaliso]] for hippos and [[hermanus-overberg|Hermanus]] for whales."
+        },
+        {
+          "title": "If you love scenery and drives",
+          "text": "[[garden-route|The Garden Route]], [[panorama-route|the Panorama Route]] and [[drakensberg|the Drakensberg]] are all superb by car."
+        },
+        {
+          "title": "If you love food and wine",
+          "text": "[[cape-winelands|The Winelands]] and [[cape-town|Cape Town]] have some of the best restaurants and vineyards in the southern hemisphere."
+        },
+        {
+          "title": "If you want history and culture",
+          "text": "[[johannesburg-soweto|Johannesburg and Soweto]] for the struggle against apartheid, and [[cape-town|Cape Town]] for Robben Island."
+        },
+        {
+          "title": "If you like hiking",
+          "text": "[[drakensberg|The Drakensberg]] for mountain trails, [[cape-town|Table Mountain]] for city hikes and [[garden-route|Tsitsikamma]] for forest walks."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around safely",
+      "navLabel": "Getting around",
+      "body": [
+        "South Africa is easy to navigate, with good roads and reliable flights, but public transport is limited, and safety needs thought.",
+        "**Flights.** Cape Town, Johannesburg, Durban, George and Gqeberha are well connected, and small airports serve safari areas. Airlink, FlySafair and others compete on price.",
+        "**Hire cars.** The best way to explore the Garden Route, Winelands, Kruger and the Panorama Route. Drive on the left, avoid night driving and keep doors locked.",
+        "**Ride-hailing apps.** Uber and Bolt are the safest and most convenient way to move within cities.",
+        "**Tours.** A guide is the best way to visit Soweto, Robben Island and remote parks."
+      ],
+      "note": "Keep valuables out of sight in cars and at restaurants, and do not leave bags unattended."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "South Africa's seasons are reversed from the northern hemisphere, and different regions peak at different times.",
+        "December to February is summer, hot and dry in Cape Town and wet in the north-east. It is beach and wine season, and the busiest for domestic holidays.",
+        "March to May is autumn, with warm settled weather in the Cape and the start of the safari dry season.",
+        "June to August is winter, the best time for safaris, whale watching at Hermanus (from June) and the Drakensberg's snow. Cape Town is cool and wet.",
+        "September to November is spring, with wildflowers, warm weather and good conditions for the Garden Route and Cape Town."
+      ],
+      "note": "The Cape's south-easter wind can make summer afternoons breezy, and it sometimes closes Table Mountain's cable car."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "South Africa is good value. A good restaurant meal costs US$15–30, a comfortable hotel US$80–150, and a hire car US$30–60 per day. Private safari lodges are the big expense, at several hundred dollars a night.",
+        "Cards are widely accepted, and tipping is expected: 10–15% in restaurants, and something for guides and petrol attendants.",
+        "Crime is the main concern. Robbery, smash-and-grab and carjacking occur, particularly in cities. Follow local advice, use ride-hailing apps, and do not display valuables.",
+        "Malaria is a risk only in the north-east, including Kruger, and is lower in winter. Consult a travel clinic."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: Cape Town and the Winelands",
+          "text": "Four nights in [[cape-town|Cape Town]], with a day on the peninsula, then two nights in the [[cape-winelands|Winelands]] and a day on the whale coast at [[hermanus-overberg|Hermanus]].",
+          "tip": "Hire a car for the Winelands and coast."
+        },
+        {
+          "title": "Ten days: Cape Town and safari",
+          "text": "Four nights in Cape Town, one in the Winelands, then a flight to Johannesburg and three nights on safari in [[kruger-national-park|Kruger]].",
+          "tip": "Fly to Hoedspruit or Skukuza to save time."
+        },
+        {
+          "title": "Two weeks: the classic",
+          "text": "The itinerary on the country page: Cape Town, the Winelands, Hermanus, the Garden Route, Addo, Kruger and Johannesburg.",
+          "tip": "Swap Addo for the [[drakensberg|Drakensberg]] if you prefer mountains."
+        }
+      ]
+    }
+  ]
+}

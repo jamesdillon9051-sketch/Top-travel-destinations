@@ -1,0 +1,322 @@
+{
+  "slug": "cebu",
+  "name": "Cebu",
+  "country": "philippines",
+  "region": "Central Visayas",
+  "categories": ["major-city", "island", "coastal", "historic"],
+  "tagline": "The oldest Spanish city in the Philippines, with sardine-filled reefs, canyoning waterfalls, lechon and a launching pad for the Visayas.",
+  "highlight": "Snorkelling in the middle of a swirling ball of millions of sardines at Moalboal.",
+  "shortDescription": "A long island and a city with Magellan's Cross and the Basilica del Santo Niño, plus Moalboal's sardine run, Kawasan Falls canyoneering, Oslob and Malapascua.",
+  "metaDescription": "A Cebu travel guide: Magellan's Cross, Santo Niño Basilica, Moalboal sardine run, Kawasan Falls, Oslob whale sharks, Malapascua thresher sharks, lechon, where to stay and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Mactan–Cebu International (CEB), about 30 minutes from the city",
+  "knownFor": "Sardine run, Kawasan Falls, lechon, history",
+  "budget": "US$60–120 per day, mid-range",
+  "goodFor": "Snorkelling, divers, adventure, foodies, hub travel",
+  "coords": { "lat": 10.3157, "lng": 123.8854 },
+  "image": {
+    "file": "File:Badian Kawasan Falls Cebu.jpg",
+    "alt": "The turquoise pools of Kawasan Falls in Badian, Cebu"
+  },
+  "intro": [
+    "Cebu is a long, narrow island in the Visayas, and Cebu City on its east coast is the second-largest city in the Philippines and the country's oldest, founded by the Spanish in 1565. The city has key historical sites: Magellan's Cross, planted in 1521 to mark the arrival of Christianity, and the Basilica del Santo Niño, home to the oldest Christian relic in the country. It is also the transport hub of the Visayas, with an international airport and ferries to Bohol, Negros, Leyte and beyond.",
+    "Beyond the city, Cebu is a paradise for water lovers. In Moalboal on the south-west coast, millions of sardines form a shimmering ball just off the beach, reachable by snorkelling from the shore. Nearby, Kawasan Falls in Badian is a series of turquoise waterfalls where canyoneering tours descend gorges, and Oslob is known for whale shark feeding, which is controversial for its effects on the animals. Off the north tip, Malapascua is the best place in the world to dive with thresher sharks.",
+    "Cebuano food is famous, especially lechon, the whole roast pig, considered the country's best. Three days covers the city, Moalboal and Kawasan, and Cebu is the natural gateway to Bohol."
+  ],
+  "whyVisit": {
+    "intro": "Cebu is a hub with history, marine life and adventure.",
+    "points": [
+      {
+        "title": "Sardine run",
+        "text": "Snorkel with millions of fish."
+      },
+      {
+        "title": "Kawasan Falls",
+        "text": "Turquoise pools and canyoneering."
+      },
+      {
+        "title": "Historic city",
+        "text": "Magellan's Cross and the Basilica."
+      },
+      {
+        "title": "Lechon",
+        "text": "The best roast pig."
+      },
+      {
+        "title": "A transport hub",
+        "text": "Access to Bohol and beyond."
+      }
+    ]
+  },
+  "attractionsIntro": "Cebu City is compact, and the marine sights are along the south-west coast.",
+  "attractions": [
+    {
+      "name": "Magellan's Cross",
+      "image": {
+        "file": "File:Magellan's Cross in Cebu.jpg",
+        "alt": "Magellan's Cross under a small pavilion in Cebu City"
+      },
+      "text": "A cross planted by Ferdinand Magellan in 1521, housed in a small chapel with a painted ceiling.",
+      "tip": "Free to visit."
+    },
+    {
+      "name": "Basilica del Santo Niño",
+      "image": {
+        "file": "File:Santo Niño Basilica Cebu City at dawn 2026-07-12.jpg",
+        "alt": "The Basilica del Santo Niño in Cebu City at dawn"
+      },
+      "text": "The oldest church in the country, home to a statue of the Christ Child, given by Magellan in 1521.",
+      "tip": "Dress modestly."
+    },
+    {
+      "name": "Moalboal sardine run",
+      "image": {
+        "file": "File:Sardine run over seafloor in Moalboal 01.jpg",
+        "alt": "A huge school of sardines swirling over the seafloor at Moalboal"
+      },
+      "text": "A gigantic school of sardines near the shore at Panagsama Beach, available to snorkellers and divers.",
+      "tip": "Keep your distance and do not touch."
+    },
+    {
+      "name": "Kawasan Falls",
+      "text": "Multi-tier turquoise waterfalls in Badian, with canyoneering tours.",
+      "tip": "Go early."
+    },
+    {
+      "name": "Oslob whale sharks",
+      "image": {
+        "file": "File:Whale shark in Oslob, Cebu 02.jpg",
+        "alt": "A whale shark swimming near the surface at Oslob"
+      },
+      "text": "Whale shark encounters, which involve feeding and are criticised by conservationists.",
+      "tip": "Consider skipping or choose ethical alternatives."
+    },
+    {
+      "name": "Malapascua",
+      "text": "A small island north of Cebu, famous for thresher shark dives.",
+      "tip": "Dive at dawn."
+    }
+  ],
+  "thingsToDoIntro": "Cebu combines the city and the sea.",
+  "thingsToDo": [
+    {
+      "title": "Snorkel the sardine run",
+      "text": "From the shore.",
+      "tip": "Go in the morning."
+    },
+    {
+      "title": "Go canyoneering",
+      "text": "At Kawasan.",
+      "tip": "Choose a good operator."
+    },
+    {
+      "title": "Eat lechon",
+      "text": "In Cebu City.",
+      "tip": "Try Rico's or a local house."
+    },
+    {
+      "title": "Visit heritage sites",
+      "text": "Fort San Pedro.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Dive with threshers",
+      "text": "At Malapascua.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Take a ferry to Bohol",
+      "text": "Two hours.",
+      "tip": "Book ahead."
+    }
+  ],
+  "foodIntro": "Cebu is the food capital of the Visayas.",
+  "foods": [
+    {
+      "name": "Cebu lechon",
+      "text": "Roast pig with lemongrass.",
+      "whereToTry": "Lechon houses."
+    },
+    {
+      "name": "Puso (hanging rice)",
+      "text": "Rice cooked in woven coconut leaves.",
+      "whereToTry": "Grill stalls."
+    },
+    {
+      "name": "Danggit",
+      "text": "Dried fish.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Dried mangoes",
+      "text": "A souvenir.",
+      "whereToTry": "Shops."
+    },
+    {
+      "name": "Siomai and street food",
+      "text": "Snacks.",
+      "whereToTry": "Streets."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Cebu City or Moalboal.",
+    "areas": [
+      {
+        "name": "Cebu City",
+        "bestFor": "Transit and history",
+        "text": "Hotels."
+      },
+      {
+        "name": "Moalboal",
+        "bestFor": "Snorkelling",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Mactan Island",
+        "bestFor": "Beach resorts",
+        "text": "Big resorts."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$8–15 per night" },
+      { "label": "Mid-range hotel", "value": "US$40–100 per night" },
+      { "label": "Resort", "value": "US$120–300 per night" },
+      { "label": "Canyoneering tour", "value": "US$30–50 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Cebu is a major air hub.",
+    "options": [
+      {
+        "mode": "Flight",
+        "text": "About 1.5 hours from Manila.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bus to Moalboal",
+        "text": "About 3 hours from the South Bus Terminal.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Ferry",
+        "text": "To Bohol, Negros and Leyte.",
+        "detail": "Book."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Buses, taxis and hired cars.",
+    "options": [
+      {
+        "mode": "Grab and taxi",
+        "text": "In the city.",
+        "detail": "Use the app."
+      },
+      {
+        "mode": "Bus",
+        "text": "Along the coast.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "Private car",
+        "text": "For day trips.",
+        "detail": "Negotiate."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–May",
+    "summary": "Cebu is best in the dry season.",
+    "seasons": [
+      {
+        "season": "December–February",
+        "rating": "best",
+        "text": "Cool and dry."
+      },
+      {
+        "season": "March–May",
+        "rating": "best",
+        "text": "Hot."
+      },
+      {
+        "season": "June–August",
+        "rating": "quiet",
+        "text": "Rain."
+      },
+      {
+        "season": "September–November",
+        "rating": "avoid",
+        "text": "Typhoons possible."
+      }
+    ],
+    "avoid": "Typhoon season."
+  },
+  "itinerary": {
+    "title": "Three days in Cebu",
+    "intro": "The city, then the south-west coast.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Cebu City",
+        "summary": "History and lechon.",
+        "morning": "Magellan's Cross and the Basilica.",
+        "afternoon": "Fort San Pedro.",
+        "evening": "Lechon dinner."
+      },
+      {
+        "day": 2,
+        "title": "Moalboal",
+        "summary": "Sardines.",
+        "morning": "Bus to Moalboal.",
+        "afternoon": "Sardine snorkel.",
+        "evening": "Beach."
+      },
+      {
+        "day": 3,
+        "title": "Kawasan Falls",
+        "summary": "Canyoneering.",
+        "morning": "Canyoneering.",
+        "afternoon": "Kawasan Falls.",
+        "evening": "Ferry to Bohol."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Go to Kawasan early.",
+    "Do not touch sardines.",
+    "Reconsider Oslob.",
+    "Book canyoneering with reputable operators.",
+    "Use Grab in the city.",
+    "Carry cash.",
+    "Book ferries early."
+  ],
+  "faq": [
+    {
+      "q": "How many days in Cebu?",
+      "a": "Three."
+    },
+    {
+      "q": "Is Oslob ethical?",
+      "a": "Feeding is debated, so consider alternatives."
+    },
+    {
+      "q": "How far is Moalboal?",
+      "a": "About 3 hours."
+    },
+    {
+      "q": "Where is the best lechon?",
+      "a": "In Cebu City."
+    },
+    {
+      "q": "When to go?",
+      "a": "December to May."
+    },
+    {
+      "q": "Can I combine with Bohol?",
+      "a": "Yes, by ferry."
+    }
+  ],
+  "related": ["bohol", "boracay", "siargao"],
+  "relatedArticles": ["food-primer", "packing-by-season"]
+}

@@ -1,0 +1,322 @@
+{
+  "slug": "agra",
+  "name": "Agra",
+  "country": "india",
+  "region": "Uttar Pradesh, northern India",
+  "categories": ["unesco", "historic", "cultural", "major-city"],
+  "tagline": "The Mughal capital where the Taj Mahal rises above the Yamuna river, with a great red fort, a garden tomb and a ghost city all within a day's reach.",
+  "highlight": "The Taj Mahal at sunrise, when the marble turns from grey to pink to white.",
+  "shortDescription": "Home to the Taj Mahal, Agra Fort and the abandoned city of Fatehpur Sikri: three UNESCO sites that together define Mughal India.",
+  "metaDescription": "An Agra travel guide: the Taj Mahal, Agra Fort, Itimad-ud-Daulah, Mehtab Bagh, Fatehpur Sikri, when to go, tickets, how to get there from Delhi and a two-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Agra (AGR), with limited flights; most visitors come from Delhi (DEL), about 3 to 4 hours away",
+  "knownFor": "The Taj Mahal, Agra Fort, Fatehpur Sikri, Mughal architecture",
+  "budget": "US$50–130 per day, mid-range",
+  "goodFor": "Mughal history, architecture, photography, a first visit to India",
+  "coords": { "lat": 27.1751, "lng": 78.0421 },
+  "image": {
+    "file": "File:Taj Mahal, Agra, India edit2.jpg",
+    "alt": "The Taj Mahal in Agra with its white marble dome and minarets reflected in the pool"
+  },
+  "intro": [
+    "Agra was the capital of the Mughal Empire under Akbar, Jahangir and, for a time, Shah Jahan, and it sits on the banks of the Yamuna river about 200 km south of Delhi. The empire's greatest monuments were built here in the 16th and 17th centuries, when its emperors ruled much of the subcontinent from red sandstone forts and gardens laid out beside the river.",
+    "The Taj Mahal is the reason most people come. Shah Jahan commissioned it after the death of his wife Mumtaz Mahal in 1631, and it was built over about two decades, with the main tomb completed around 1643 and the surrounding complex by the early 1650s. Its symmetry, its white marble and its inlaid stone decoration make it one of the most recognised buildings in the world, and it holds up to the familiarity.",
+    "Agra is also a busy, chaotic and sometimes exhausting city, with more hassle than most. Many visitors treat it as a one-night stop, but there is more to see than the Taj: the huge Agra Fort, the delicate tomb of Itimad-ud-Daulah, the gardens across the river at Mehtab Bagh and the abandoned Mughal city of Fatehpur Sikri, an hour to the west."
+  ],
+  "whyVisit": {
+    "intro": "Agra holds India's most famous monument and two other UNESCO sites, all within easy reach of Delhi.",
+    "points": [
+      {
+        "title": "The Taj Mahal",
+        "text": "An icon that surpasses its reputation, and one of the great buildings of the world."
+      },
+      {
+        "title": "Agra Fort",
+        "text": "A vast red sandstone fortress-palace, where Shah Jahan was later held prisoner within sight of the Taj."
+      },
+      {
+        "title": "Fatehpur Sikri",
+        "text": "Akbar's short-lived capital, preserved almost intact, is an hour away by road."
+      },
+      {
+        "title": "Mughal craftsmanship",
+        "text": "Marble inlay work, known as pietra dura, is still practised in workshops in Agra."
+      },
+      {
+        "title": "Easy from Delhi",
+        "text": "Fast trains and a good expressway make it straightforward to reach."
+      }
+    ]
+  },
+  "attractionsIntro": "The Taj is the highlight, but plan time for the fort and the quieter monuments too.",
+  "attractions": [
+    {
+      "name": "The Taj Mahal",
+      "image": {
+        "file": "File:Aks The Reflection Taj Mahal.jpg",
+        "alt": "The Taj Mahal reflected in still water at the edge of the Yamuna river"
+      },
+      "text": "A white marble mausoleum set on a raised platform with four minarets and a large garden of channels and pools. The details of inlaid stone and calligraphy reward close viewing, and the changing light is a large part of the experience.",
+      "tip": "Go at opening time, buy tickets online and remember it is closed on Fridays."
+    },
+    {
+      "name": "Agra Fort",
+      "image": {
+        "file": "File:Agra Fort walls.jpg",
+        "alt": "The massive red sandstone walls of Agra Fort"
+      },
+      "text": "A walled fortress of red sandstone and marble, begun by Akbar in the 1560s and extended by his successors, with audience halls, mosques and palaces. Shah Jahan spent his last years here, looking across the river to the Taj.",
+      "tip": "Allow two hours, and go in the late afternoon for softer light."
+    },
+    {
+      "name": "Itimad-ud-Daulah's Tomb",
+      "image": {
+        "file": "File:Itimad-ud-Daulah Agra 04.jpg",
+        "alt": "The delicately inlaid marble tomb of Itimad-ud-Daulah in Agra"
+      },
+      "text": "A small marble tomb from the 1620s, sometimes called the Baby Taj, covered in delicate inlay work. It is a forerunner of the Taj Mahal and far quieter.",
+      "tip": "Combine with Mehtab Bagh on the same side of the river."
+    },
+    {
+      "name": "Mehtab Bagh",
+      "image": {
+        "file": "File:Mehtab Bagh facing Taj Mahal.JPG",
+        "alt": "The Taj Mahal seen from the Mehtab Bagh gardens across the river"
+      },
+      "text": "A garden on the opposite bank of the Yamuna, aligned with the Taj Mahal, which gives a view of the monument at sunset without the crowds.",
+      "tip": "Go about an hour before sunset."
+    },
+    {
+      "name": "Fatehpur Sikri",
+      "image": {
+        "file": "File:Fatehpur-Fatehpur Sikri India0002.JPG",
+        "alt": "Red sandstone buildings of the abandoned Mughal city of Fatehpur Sikri"
+      },
+      "text": "Akbar's capital, built from 1571 and abandoned about 14 years later, probably because of water shortages. The palaces, courtyards and the great mosque survive in red sandstone, giving a vivid picture of a Mughal court.",
+      "tip": "Hire an official guide at the gate, and go in the morning."
+    },
+    {
+      "name": "The Panch Mahal",
+      "image": {
+        "file": "File:Panch Mahal-Fatehpur-Fatehpur Sikri India0014.JPG",
+        "alt": "The five-storey Panch Mahal pavilion at Fatehpur Sikri"
+      },
+      "text": "A five-storey pavilion at Fatehpur Sikri, with open columned floors, from which court ladies could enjoy the breeze.",
+      "tip": "Best seen with a guide who explains the layout."
+    }
+  ],
+  "thingsToDoIntro": "Beyond the monuments, Agra is a place to eat, shop for marble and watch the river.",
+  "thingsToDo": [
+    {
+      "title": "See the Taj Mahal at sunrise",
+      "text": "Arrive at the gate before opening, and see the marble change colour as the light rises.",
+      "tip": "Bring only a small bag, as security rules are strict."
+    },
+    {
+      "title": "Watch the sunset from Mehtab Bagh",
+      "text": "See the Taj glow against the evening sky, with the river in the foreground.",
+      "tip": "Combine with Itimad-ud-Daulah."
+    },
+    {
+      "title": "Visit a marble inlay workshop",
+      "text": "Craftsmen descended from the Taj's builders still work with tiny cut stones in marble, and you can watch them work.",
+      "tip": "Ask your guide to choose a reputable one, and be prepared to say no politely."
+    },
+    {
+      "title": "Explore Fatehpur Sikri",
+      "text": "See the emperor's palaces, the Jama Masjid and the Buland Darwaza gate in a day trip on the way to Jaipur.",
+      "tip": "Avoid the midday heat."
+    },
+    {
+      "title": "Try Agra's street food",
+      "text": "Petha, a translucent sweet made of ash gourd, and bedai with spicy potato curry are local specialities.",
+      "tip": "Buy petha at a well-known shop near the old city."
+    },
+    {
+      "title": "Walk the old bazaars",
+      "text": "The Kinari Bazaar and Sadar Bazaar are packed with jewellery, leather and textiles.",
+      "tip": "Bargain firmly, and keep valuables close."
+    }
+  ],
+  "foodIntro": "Agra's cooking is Mughlai, with rich sauces, kebabs and sweets, and a few local specialities.",
+  "foods": [
+    {
+      "name": "Petha",
+      "text": "A soft, translucent sweet of ash gourd, in plain, flavoured and dry versions, and Agra's signature.",
+      "whereToTry": "Sweet shops across the city."
+    },
+    {
+      "name": "Bedai and jalebi",
+      "text": "A deep-fried bread served with spicy potato curry, followed by hot syrupy jalebi, a local breakfast.",
+      "whereToTry": "Street stalls in the mornings."
+    },
+    {
+      "name": "Mughlai curries and kebabs",
+      "text": "Rich meat curries, korma and slow-cooked dishes, with naan and rumali roti.",
+      "whereToTry": "Restaurants near the Taj and in Sadar Bazaar."
+    },
+    {
+      "name": "Chaat",
+      "text": "Crisp, tangy snacks of fried dough, potato, yoghurt and chutney.",
+      "whereToTry": "Street stalls in the old city."
+    },
+    {
+      "name": "Lassi and chai",
+      "text": "Thick yoghurt drinks and sweet tea, best in the afternoon.",
+      "whereToTry": "Stalls near the bazaars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors stay in the Taj Ganj area, close to the Taj Mahal, or in the more spacious Fatehabad Road.",
+    "areas": [
+      {
+        "name": "Taj Ganj",
+        "bestFor": "Walking to the Taj",
+        "text": "Budget guesthouses and rooftop cafés within walking distance of the east gate, where you can see the Taj from your terrace."
+      },
+      {
+        "name": "Fatehabad Road",
+        "bestFor": "Comfort and facilities",
+        "text": "Mid-range and luxury hotels with pools, 10 to 15 minutes from the Taj."
+      },
+      {
+        "name": "Cantonment",
+        "bestFor": "Quiet and space",
+        "text": "Older hotels near the railway station."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "US$15–40 per night" },
+      { "label": "Mid-range hotel", "value": "US$50–110 per night" },
+      { "label": "Luxury hotel", "value": "US$180–500 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$4–12 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Agra is about 200 km south of Delhi, and the trains and expressway make it an easy trip.",
+    "options": [
+      {
+        "mode": "Fast train from Delhi",
+        "text": "The Gatimaan Express and Vande Bharat services take about two hours from Delhi. Other trains take three to four hours.",
+        "detail": "Book on IRCTC ahead of time, and choose a fast air-conditioned service."
+      },
+      {
+        "mode": "Private car",
+        "text": "About 3 to 4 hours from Delhi on the Yamuna Expressway.",
+        "detail": "A convenient option for combining Agra with Jaipur."
+      },
+      {
+        "mode": "Onward to Jaipur",
+        "text": "About 4 to 5 hours by road, with a stop at Fatehpur Sikri.",
+        "detail": "Book a driver for the day."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The Taj Mahal area has restrictions on motor vehicles, and other sights are spread out.",
+    "options": [
+      {
+        "mode": "Electric rickshaw and tuk-tuk",
+        "text": "Cheap and practical for the sights, and used to approach the Taj.",
+        "detail": "Agree the fare in advance."
+      },
+      {
+        "mode": "Taxi or ride-hailing",
+        "text": "App cabs work in Agra, and taxis can be hired by the day.",
+        "detail": "A day rental is efficient for the fort and Fatehpur Sikri."
+      },
+      {
+        "mode": "Walking",
+        "text": "Taj Ganj is walkable, and the streets are lively.",
+        "detail": "Watch for traffic and animals."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–March",
+    "summary": "Agra has a hot semi-arid climate, with a very hot summer, monsoon in July to September and cold, foggy winters.",
+    "seasons": [
+      {
+        "season": "Winter (November–February)",
+        "rating": "best",
+        "text": "Cool and pleasant by day, chilly at night. Morning fog can hide the Taj at sunrise."
+      },
+      {
+        "season": "Spring (March–April)",
+        "rating": "good",
+        "text": "Warm to hot, and increasingly uncomfortable by April."
+      },
+      {
+        "season": "Summer (May–June)",
+        "rating": "avoid",
+        "text": "Extremely hot, often above 42°C."
+      },
+      {
+        "season": "Monsoon (July–September)",
+        "rating": "quiet",
+        "text": "Humid with heavy showers, and fewer visitors. The Taj looks lovely when washed by rain."
+      }
+    ],
+    "avoid": "May and June. Winter fog can delay trains and hide the Taj at dawn."
+  },
+  "itinerary": {
+    "title": "Two days in Agra",
+    "intro": "The major sights over a night, with a sunrise at the Taj on the second day.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The fort and the river",
+        "summary": "Fort and sunset.",
+        "morning": "Arrive by train and check in.",
+        "afternoon": "Agra Fort and Itimad-ud-Daulah.",
+        "evening": "Sunset at Mehtab Bagh."
+      },
+      {
+        "day": 2,
+        "title": "The Taj and Fatehpur Sikri",
+        "summary": "The monument and a ghost city.",
+        "morning": "The Taj Mahal at opening time.",
+        "afternoon": "Fatehpur Sikri on the way to Jaipur.",
+        "evening": "Arrive in Jaipur."
+      }
+    ]
+  },
+  "tipsIntro": "Agra has more touts than most places, and a few habits help.",
+  "tips": [
+    "Buy Taj tickets online, and note that it is closed on Fridays.",
+    "Arrive at the gate before opening. Queues build by 8am.",
+    "Bring only essentials to the Taj. Food, tripods and large bags are not allowed.",
+    "Ignore unofficial guides who approach you outside stations and hotels. Book through your hotel or the tourist office.",
+    "Do not be pressured into shopping stops by drivers or guides. It is fine to decline.",
+    "Wear comfortable shoes, as you may need to remove them or use shoe covers near the tomb.",
+    "Avoid the extreme heat by starting early."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Agra?",
+      "a": "One night is the minimum, so that you can see the Taj at sunrise. Two days lets you add Agra Fort and Fatehpur Sikri at a slower pace."
+    },
+    {
+      "q": "Is the Taj Mahal worth it?",
+      "a": "Yes. It is crowded and touristy, but its beauty is genuine, and it repays an early visit."
+    },
+    {
+      "q": "When is the Taj Mahal closed?",
+      "a": "On Fridays for general visitors. Check current opening times and ticket rules before your visit."
+    },
+    {
+      "q": "Can I visit Agra as a day trip from Delhi?",
+      "a": "Yes, by fast train or car, though it is a long day. An overnight stay is more relaxed."
+    },
+    {
+      "q": "Is Agra safe?",
+      "a": "Generally yes, but touts, scams and overcharging are common. Use official guides and prepaid taxis."
+    },
+    {
+      "q": "What is the best time to visit the Taj?",
+      "a": "Sunrise, in the winter months. Sunset from Mehtab Bagh is a good alternative."
+    }
+  ],
+  "related": ["delhi", "jaipur", "varanasi"],
+  "relatedArticles": ["unesco-worth-planning-around", "food-primer"]
+}

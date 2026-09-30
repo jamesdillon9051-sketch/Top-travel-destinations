@@ -1,0 +1,326 @@
+{
+  "slug": "peninsula-valdes",
+  "name": "Península Valdés",
+  "country": "argentina",
+  "region": "Chubut, Atlantic coast of Patagonia",
+  "categories": ["unesco", "nature", "coastal", "national-park"],
+  "tagline": "A windswept peninsula on the Patagonian coast where southern right whales calve, orcas hunt sea lions from the beach and elephant seals and penguins gather in their thousands.",
+  "highlight": "A southern right whale mother and calf surfacing beside your boat in the calm waters of Golfo Nuevo.",
+  "shortDescription": "One of the best wildlife-watching places in the Americas: whales from June to December, elephant seals, sea lions, penguins, guanacos and, at the right tide, hunting orcas, all in a UNESCO-listed reserve.",
+  "metaDescription": "A Península Valdés travel guide: whale watching from Puerto Pirámides, Punta Norte orcas, elephant seals, Punta Tombo penguins, Gaiman Welsh tea, best time for whales, how to get there and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Puerto Madryn (PMY), or Trelew (REL); the reserve is about 1.5 hours from Puerto Madryn",
+  "knownFor": "Southern right whales, orcas, elephant seals, penguins, sea lions",
+  "budget": "US$120–250 per day, mid-range",
+  "goodFor": "Wildlife, whale watching, photography, road trips",
+  "coords": { "lat": -42.5000, "lng": -64.0000 },
+  "image": {
+    "file": "File:Southern Right Whale - Península Valdés.jpg",
+    "alt": "A southern right whale swimming near the surface off Península Valdés"
+  },
+  "intro": [
+    "Península Valdés is a large peninsula on the coast of Chubut province, in Patagonia, almost an island, connected to the mainland by a narrow isthmus. UNESCO inscribed it in 1999 as a site of outstanding marine and coastal wildlife. Its sheltered gulfs, cliffs and beaches provide breeding grounds for a range of marine mammals and seabirds, and its steppe holds guanacos, maras (Patagonian hares) and rheas.",
+    "The star attraction is the southern right whale, which comes to the calm waters of Golfo Nuevo, near the village of Puerto Pirámides, to mate and give birth, from about June to December, and is most abundant in September and October. Boat trips from Puerto Pirámides bring visitors alongside the whales, which are curious and often approach the boats. Other highlights include elephant seals on the beaches, sea lion colonies, Magellanic penguins in nearby colonies and, at Punta Norte, orcas that famously beach themselves in a hunting technique, catching sea lion pups in the surf, most often between February and April.",
+    "The reserve is remote and windswept, and best explored by car or a tour. Puerto Madryn, a modern coastal town, is the usual base, about 100 km from Puerto Pirámides. To the south, Punta Tombo has one of the largest colonies of Magellanic penguins in the world, and the Welsh-founded towns of Gaiman and Trelew give a taste of Patagonia's Welsh heritage, including tea houses."
+  ],
+  "whyVisit": {
+    "intro": "Valdés is one of the best places in the world to see marine wildlife, and highly accessible.",
+    "points": [
+      {
+        "title": "Southern right whales",
+        "text": "Close encounters with mothers and calves from boats in calm bays."
+      },
+      {
+        "title": "Orcas and elephant seals",
+        "text": "Rare behaviour on view at Punta Norte, and giant seals on beaches."
+      },
+      {
+        "title": "Penguins",
+        "text": "Huge colonies of Magellanic penguins from September to March."
+      },
+      {
+        "title": "Diverse wildlife",
+        "text": "Guanacos, maras, rheas and seabirds."
+      },
+      {
+        "title": "Welsh heritage",
+        "text": "Gaiman's tea houses and chapels, a legacy of Welsh settlers in 1865."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights are around the peninsula, with a day for penguins to the south.",
+  "attractions": [
+    {
+      "name": "Puerto Pirámides and whale watching",
+      "image": {
+        "file": "File:Puerto piramides, Chubut..JPG",
+        "alt": "The small village of Puerto Pirámides beside the bay on Península Valdés"
+      },
+      "text": "The only settlement on the peninsula, where whale-watching boats leave from the beach. Tours last about 1.5 hours, and run from June to December.",
+      "tip": "Book the first departure."
+    },
+    {
+      "name": "Southern right whales",
+      "image": {
+        "file": "File:Southern right whale caudal fin-2 no sky.JPG",
+        "alt": "The tail of a southern right whale rising above the water"
+      },
+      "text": "Adult whales, mothers and calves are seen at close range in Golfo Nuevo, with tail slaps and breaches.",
+      "tip": "Bring a jacket, and keep your camera ready."
+    },
+    {
+      "name": "Punta Norte and orcas",
+      "image": {
+        "file": "File:20170423 Punta Norte Argentina JF.jpg",
+        "alt": "A view along the shore at Punta Norte, where orcas hunt sea lions"
+      },
+      "text": "A sea lion colony where orcas rush onto the beach to catch pups, an extraordinary hunting behaviour. Sightings are best at high tide from February to April, and are not guaranteed.",
+      "tip": "Check tide times and be patient."
+    },
+    {
+      "name": "Punta Delgada and Caleta Valdés",
+      "text": "Colonies of elephant seals, sea lions and penguins, with beaches and cliffs, on the eastern coast.",
+      "tip": "Visit in September and October for elephant seal pups."
+    },
+    {
+      "name": "Punta Tombo penguin colony",
+      "image": {
+        "file": "File:Magellanic Penguin Colony ,Punta Tombo - Flickr - gailhampshire.jpg",
+        "alt": "A large colony of Magellanic penguins at Punta Tombo"
+      },
+      "text": "About 200 km south of Puerto Madryn, the largest mainland colony of Magellanic penguins, open from September to March, where visitors walk along paths among nesting birds.",
+      "tip": "A full-day trip from Puerto Madryn."
+    },
+    {
+      "name": "Gaiman and the Welsh tea houses",
+      "image": {
+        "file": "File:Casa de te gales Gaiman.jpg",
+        "alt": "A Welsh tea house in the town of Gaiman in Chubut"
+      },
+      "text": "A small town founded by Welsh settlers in the 19th century, with tea houses serving cakes, scones and tea in a Welsh tradition.",
+      "tip": "Combine with Punta Tombo."
+    }
+  ],
+  "thingsToDoIntro": "Wildlife dominates, with time for scenery and local culture.",
+  "thingsToDo": [
+    {
+      "title": "Go whale watching",
+      "text": "Take a boat from Puerto Pirámides, between June and December.",
+      "tip": "September and October are peak."
+    },
+    {
+      "title": "Look for orcas at Punta Norte",
+      "text": "Wait at the viewing platform for a chance to see orcas hunting.",
+      "tip": "Go from February to April at high tide."
+    },
+    {
+      "title": "Walk among penguins",
+      "text": "At Punta Tombo and Cabo Dos Bahías.",
+      "tip": "Stay on the paths."
+    },
+    {
+      "title": "Drive the reserve loop",
+      "text": "See guanacos, maras and seabirds from the road.",
+      "tip": "Fill up in Puerto Pirámides."
+    },
+    {
+      "title": "Snorkel or dive with sea lions",
+      "text": "From Puerto Madryn or Puerto Pirámides, with licensed operators.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Have Welsh tea in Gaiman",
+      "text": "Sample scones, cakes and tea.",
+      "tip": "Go in the afternoon."
+    }
+  ],
+  "foodIntro": "Food here is seafood and Patagonian lamb, with Welsh influences in Gaiman.",
+  "foods": [
+    {
+      "name": "Fresh seafood",
+      "text": "Fish, shellfish, scallops and squid, from the Atlantic.",
+      "whereToTry": "Restaurants in Puerto Madryn."
+    },
+    {
+      "name": "Cordero patagónico",
+      "text": "Lamb, cooked on an open fire.",
+      "whereToTry": "Parrillas."
+    },
+    {
+      "name": "Welsh tea and cakes",
+      "text": "Scones, cakes and tea served with jam and cream.",
+      "whereToTry": "Tea houses in Gaiman."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Local breweries.",
+      "whereToTry": "Puerto Madryn."
+    },
+    {
+      "name": "Alfajores and empanadas",
+      "text": "Snacks for the road.",
+      "whereToTry": "Bakeries."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Puerto Madryn for choice, or Puerto Pirámides for immersion.",
+    "areas": [
+      {
+        "name": "Puerto Madryn",
+        "bestFor": "Facilities and tours",
+        "text": "Hotels, hostels and restaurants on the seafront."
+      },
+      {
+        "name": "Puerto Pirámides",
+        "bestFor": "Whales and quiet",
+        "text": "Small hotels and cabins."
+      },
+      {
+        "name": "Estancias",
+        "bestFor": "Remote stays",
+        "text": "Ranches on the peninsula."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "US$25–55 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–160 per night" },
+      { "label": "Luxury lodge", "value": "US$250–500 per night" },
+      { "label": "Whale-watching boat trip", "value": "US$50–100 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Puerto Madryn is about 1,400 km south of Buenos Aires.",
+    "options": [
+      {
+        "mode": "Flight to Puerto Madryn or Trelew",
+        "text": "Direct flights from Buenos Aires, about 2 hours.",
+        "detail": "Trelew is about 60 km from Puerto Madryn."
+      },
+      {
+        "mode": "Hire car",
+        "text": "Puerto Madryn to Puerto Pirámides is about 100 km, or about 1.5 hours.",
+        "detail": "Gravel roads inside the reserve."
+      },
+      {
+        "mode": "Tours",
+        "text": "Day tours run from Puerto Madryn.",
+        "detail": "Book in advance."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car or a tour is essential.",
+    "options": [
+      {
+        "mode": "Hire car",
+        "text": "Freedom to stop and explore.",
+        "detail": "Fill up with fuel."
+      },
+      {
+        "mode": "Tour",
+        "text": "Guided tours of the peninsula.",
+        "detail": "Choose a small group."
+      },
+      {
+        "mode": "Boat",
+        "text": "Whale-watching trips.",
+        "detail": "Book early."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "September–October for whales, penguins and elephant seals",
+    "summary": "The peninsula has a windy, semi-arid climate. Wildlife follows the seasons.",
+    "seasons": [
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Peak whales, penguins nesting and elephant seals with pups."
+      },
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Warm, with penguin chicks, but fewer whales."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "good",
+        "text": "Orcas at Punta Norte, from February to April."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "good",
+        "text": "Whales arrive, with cold and windy weather."
+      }
+    ],
+    "avoid": "January to May if whales are your priority."
+  },
+  "itinerary": {
+    "title": "Three days at Península Valdés",
+    "intro": "Whales, the reserve and penguins.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Whales",
+        "summary": "Puerto Pirámides.",
+        "morning": "Drive to Puerto Pirámides.",
+        "afternoon": "A whale-watching boat trip.",
+        "evening": "Dinner in the village."
+      },
+      {
+        "day": 2,
+        "title": "The reserve",
+        "summary": "Seals and orcas.",
+        "morning": "Punta Delgada and Caleta Valdés.",
+        "afternoon": "Punta Norte.",
+        "evening": "Return to Puerto Madryn."
+      },
+      {
+        "day": 3,
+        "title": "Punta Tombo and Gaiman",
+        "summary": "Penguins and tea.",
+        "morning": "Punta Tombo penguins.",
+        "afternoon": "Welsh tea in Gaiman.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you see the wildlife.",
+  "tips": [
+    "Go from September to October for whales, elephant seals and penguins.",
+    "Check tides for orca sightings at Punta Norte.",
+    "Bring warm, windproof clothing, since it is cold on the boat.",
+    "Book whale-watching trips early in the season.",
+    "Keep a safe distance from all wildlife.",
+    "Fill your fuel tank before entering the reserve.",
+    "Bring binoculars and a zoom lens."
+  ],
+  "faq": [
+    {
+      "q": "When is the best time for whales?",
+      "a": "June to December, with September and October the best."
+    },
+    {
+      "q": "Can I see orcas?",
+      "a": "Sometimes, at Punta Norte from February to April, at high tide. Sightings are not guaranteed."
+    },
+    {
+      "q": "How many days do you need?",
+      "a": "Two to three days."
+    },
+    {
+      "q": "Can I visit as a day trip from Puerto Madryn?",
+      "a": "Yes, on a full-day tour."
+    },
+    {
+      "q": "Do I need a car?",
+      "a": "It helps, though tours are available."
+    },
+    {
+      "q": "When can I see penguins?",
+      "a": "From September to March."
+    }
+  ],
+  "related": ["ushuaia-tierra-del-fuego", "el-calafate-perito-moreno", "buenos-aires"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around"]
+}

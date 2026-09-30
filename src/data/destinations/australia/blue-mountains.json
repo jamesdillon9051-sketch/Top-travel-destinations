@@ -1,0 +1,306 @@
+{
+  "slug": "blue-mountains",
+  "name": "The Blue Mountains",
+  "country": "australia",
+  "region": "New South Wales, west of Sydney",
+  "categories": ["mountains", "unesco", "national-park", "scenic"],
+  "tagline": "A dramatic sandstone plateau of eucalyptus forest, deep valleys and cliffs, with waterfalls, the Three Sisters and a blue haze that gives the mountains their name.",
+  "highlight": "The Three Sisters at sunset from Echo Point, as the valley turns blue and the cliffs glow orange.",
+  "shortDescription": "A UNESCO-listed wilderness two hours from Sydney, with Katoomba's Three Sisters, Scenic World, Wentworth Falls, cliff walks, Leura's gardens and the Jenolan Caves.",
+  "metaDescription": "A Blue Mountains travel guide: the Three Sisters at Echo Point, Scenic World, Wentworth Falls, the Grand Canyon and National Pass walks, Leura, Jenolan Caves, train from Sydney, best time and a two-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Sydney Kingsford Smith (SYD), about 2 hours",
+  "knownFor": "The Three Sisters, cliff walks, waterfalls, eucalyptus forest",
+  "budget": "A$200–380 per day, mid-range",
+  "goodFor": "Walking, viewpoints, day trips from Sydney, nature",
+  "coords": { "lat": -33.7150, "lng": 150.3120 },
+  "image": {
+    "file": "File:Three Sisters, Katoomba, NSW.jpg",
+    "alt": "The Three Sisters rock formation above the forested Jamison Valley in the Blue Mountains"
+  },
+  "intro": [
+    "The Blue Mountains are a plateau of sandstone cut by deep gorges, about 100 km west of Sydney. They are not high, with a maximum elevation of around 1,000 metres, but their cliffs, canyons and forest are dramatic, and the Greater Blue Mountains Area was inscribed by UNESCO in 2000 for its eucalypt diversity. The name comes from the blue haze that hangs over the valleys, caused by fine droplets of eucalyptus oil in the air, combined with the scattering of light.",
+    "The best-known sight is the Three Sisters, three sandstone pillars at Echo Point in Katoomba, which Aboriginal Dreaming stories associate with three sisters turned to stone. Beyond them lie the deep Jamison Valley and Megalong Valley, and a network of walking tracks, waterfalls and lookouts that has been used by visitors for more than a century, since the railway arrived in the 1860s.",
+    "The mountains are easy to visit from Sydney, by train in two hours, and can be seen in a day, but they deserve a night or two, with a walk, a look at the gardens and villages such as Leura, and a slower pace. They were badly affected by bushfires in 2019–20, but the forest has regenerated and most facilities have reopened."
+  ],
+  "whyVisit": {
+    "intro": "The Blue Mountains offer wilderness and spectacular views within easy reach of Sydney.",
+    "points": [
+      {
+        "title": "Superb lookouts",
+        "text": "Echo Point and other viewpoints look over huge valleys and cliff faces."
+      },
+      {
+        "title": "Walking tracks",
+        "text": "Clifftop paths, waterfall trails and steps down into the valleys, for all fitness levels."
+      },
+      {
+        "title": "Scenic World",
+        "text": "The world's steepest passenger railway, a cable car and a rainforest boardwalk."
+      },
+      {
+        "title": "Gardens and villages",
+        "text": "Leura and Blackheath have cafés, galleries and beautiful gardens."
+      },
+      {
+        "title": "Easy from Sydney",
+        "text": "A direct train from Central Station takes about two hours."
+      }
+    ]
+  },
+  "attractionsIntro": "Katoomba and Leura are the hub, with Wentworth Falls and Blackheath close by.",
+  "attractions": [
+    {
+      "name": "Echo Point and the Three Sisters",
+      "text": "The classic lookout over the Jamison Valley and the three rock pillars, with an easy path to the Giant Stairway, which descends into the valley.",
+      "tip": "Go early or late, when the light is best and crowds are fewer."
+    },
+    {
+      "name": "Scenic World",
+      "image": {
+        "file": "File:56712-Katoomba-Scenic-World (5114369986).jpg",
+        "alt": "The Scenic Railway and cable cars of Scenic World in Katoomba"
+      },
+      "text": "A family-run attraction with the Scenic Railway, an old coal-mine railway that descends a 52-degree incline, a cable car over the valley and a boardwalk through the rainforest.",
+      "tip": "Buy a combined ticket."
+    },
+    {
+      "name": "Wentworth Falls",
+      "image": {
+        "file": "File:Upper Wentworth Falls, NSW, Australia - Nov 2008.jpg",
+        "alt": "The Upper Wentworth Falls tumbling over the sandstone cliff"
+      },
+      "text": "A waterfall that drops in stages more than 180 metres, with walking tracks including the National Pass, a cliff-side path carved into the rock.",
+      "tip": "Check track closures and weather."
+    },
+    {
+      "name": "Leura",
+      "text": "A pretty village with a main street of cafés and shops, gardens and the Cliff Drive.",
+      "tip": "Stay for lunch."
+    },
+    {
+      "name": "Grand Canyon Walk, Blackheath",
+      "text": "A beautiful track through a rainforest gorge, with ferns, moss and waterfalls, about 3 hours.",
+      "tip": "Wear good shoes."
+    },
+    {
+      "name": "Jenolan Caves",
+      "text": "Some of the oldest open caves in the world, with guided tours into chambers of limestone formations. About 1.5 hours from Katoomba.",
+      "tip": "Book a tour in advance."
+    }
+  ],
+  "thingsToDoIntro": "Walking is the highlight, with plenty of options for different abilities.",
+  "thingsToDo": [
+    {
+      "title": "Walk the National Pass",
+      "text": "A famed track from Wentworth Falls, cut into the cliff in the 1900s.",
+      "tip": "Allow 3 hours."
+    },
+    {
+      "title": "Ride the Scenic Railway",
+      "text": "The steepest railway in the world, with a dramatic descent.",
+      "tip": "Go on a weekday."
+    },
+    {
+      "title": "Take a garden visit",
+      "text": "Leura Gardens, Everglades and the Mount Tomah Botanic Garden.",
+      "tip": "Best in spring and autumn."
+    },
+    {
+      "title": "Try canyoning or abseiling",
+      "text": "Adventure companies run canyoning trips in the slot canyons.",
+      "tip": "Book a guided trip."
+    },
+    {
+      "title": "Watch the sunset at Echo Point",
+      "text": "See the valley change colour.",
+      "tip": "Bring a jacket."
+    },
+    {
+      "title": "Have a Devonshire tea",
+      "text": "A traditional scones and tea in a mountain café.",
+      "tip": "Try Leura."
+    }
+  ],
+  "foodIntro": "The mountains' food is café-based, with local produce and cosy pubs.",
+  "foods": [
+    {
+      "name": "Devonshire tea",
+      "text": "Scones with jam and cream, served with tea, a favourite mountain treat.",
+      "whereToTry": "Cafés in Leura and Katoomba."
+    },
+    {
+      "name": "Local cafés and bakeries",
+      "text": "Good coffee and pastries.",
+      "whereToTry": "Leura and Blackheath."
+    },
+    {
+      "name": "Pub meals",
+      "text": "Hearty pies, steaks and schnitzels in old pubs.",
+      "whereToTry": "Mountain hotels."
+    },
+    {
+      "name": "Apples and cider",
+      "text": "Local orchards produce apples and cider.",
+      "whereToTry": "Bilpin, near Mount Tomah."
+    },
+    {
+      "name": "Modern Australian dining",
+      "text": "Restaurants with local produce and wine.",
+      "whereToTry": "Leura and Katoomba."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Katoomba or Leura for the best access, or in a lodge for a romantic weekend.",
+    "areas": [
+      {
+        "name": "Katoomba",
+        "bestFor": "Sights and transport",
+        "text": "Hotels, hostels and guesthouses near the station and Echo Point."
+      },
+      {
+        "name": "Leura",
+        "bestFor": "Charm and gardens",
+        "text": "Boutique B&Bs and small hotels."
+      },
+      {
+        "name": "Blackheath",
+        "bestFor": "Quiet and walks",
+        "text": "Guesthouses near walking tracks."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "A$40–100 per night" },
+      { "label": "Mid-range hotel", "value": "A$160–300 per night" },
+      { "label": "Boutique lodge", "value": "A$350–700 per night" },
+      { "label": "Meal at a local café", "value": "A$15–35 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Katoomba is about 100 km west of Sydney, easily reached by train or car.",
+    "options": [
+      {
+        "mode": "Train from Sydney Central",
+        "text": "About 2 hours to Katoomba, with frequent services.",
+        "detail": "Use an Opal card or contactless."
+      },
+      {
+        "mode": "Drive",
+        "text": "About 1 hour 30 minutes on the M4 and Great Western Highway.",
+        "detail": "Traffic can be heavy on weekends."
+      },
+      {
+        "mode": "Tour from Sydney",
+        "text": "Day tours are available.",
+        "detail": "Choose a small-group option."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The towns are compact, and buses link the sights.",
+    "options": [
+      {
+        "mode": "Hop-on hop-off bus",
+        "text": "Links Katoomba, Leura and the main lookouts.",
+        "detail": "Buy a day ticket."
+      },
+      {
+        "mode": "Walking",
+        "text": "Many sights are on foot from Katoomba station.",
+        "detail": "Wear good shoes."
+      },
+      {
+        "mode": "Car",
+        "text": "Useful for Jenolan Caves and Blackheath.",
+        "detail": "Watch for wildlife."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "The mountains are cooler than Sydney, with cold winters and mild summers.",
+    "seasons": [
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Crisp, clear days and autumn colours."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "good",
+        "text": "Cold, with occasional snow and Yulefest in July."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Wildflowers, gardens and mild weather."
+      },
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Warm and often humid, with a risk of bushfires."
+      }
+    ],
+    "avoid": "Days of extreme fire danger in summer, when tracks close."
+  },
+  "itinerary": {
+    "title": "Two days in the Blue Mountains",
+    "intro": "Katoomba's sights first, then a walk and a village.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Katoomba",
+        "summary": "Views and railway.",
+        "morning": "Echo Point and the Three Sisters.",
+        "afternoon": "Scenic World.",
+        "evening": "Dinner in Katoomba."
+      },
+      {
+        "day": 2,
+        "title": "Walks and Leura",
+        "summary": "Falls and gardens.",
+        "morning": "Wentworth Falls and the National Pass.",
+        "afternoon": "Leura village.",
+        "evening": "Train back to Sydney."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make the visit smoother.",
+  "tips": [
+    "Take an early train to avoid the crowds.",
+    "Wear sturdy shoes and bring water.",
+    "Check track closures and fire warnings.",
+    "Bring a jacket, since it is cooler than Sydney.",
+    "Stay a night for the sunrise and sunset.",
+    "Book Jenolan Caves tours in advance.",
+    "Do not leave the track."
+  ],
+  "faq": [
+    {
+      "q": "Can I visit the Blue Mountains as a day trip from Sydney?",
+      "a": "Yes. Trains take about 2 hours each way, and it is a popular day trip."
+    },
+    {
+      "q": "Why are they called the Blue Mountains?",
+      "a": "The eucalyptus forest releases fine oil droplets, which scatter blue light and create a haze."
+    },
+    {
+      "q": "What is the best walk?",
+      "a": "The National Pass from Wentworth Falls or the Grand Canyon at Blackheath, depending on fitness and time."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "March to May and September to November."
+    },
+    {
+      "q": "Were the mountains damaged by fires?",
+      "a": "Yes, in 2019–20, but the forest has recovered and most facilities are open."
+    },
+    {
+      "q": "Do I need a car?",
+      "a": "Not for Katoomba and Leura. A car helps for Jenolan Caves and Blackheath."
+    }
+  ],
+  "related": ["sydney", "melbourne", "great-ocean-road"],
+  "relatedArticles": ["unesco-worth-planning-around", "us-national-parks-road-trip"]
+}

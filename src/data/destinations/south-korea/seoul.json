@@ -1,0 +1,363 @@
+{
+  "slug": "seoul",
+  "name": "Seoul",
+  "country": "south-korea",
+  "region": "Seoul Capital Area, north-west South Korea",
+  "categories": ["capital-city", "major-city", "historic", "cultural", "food-and-wine"],
+  "tagline": "A megacity of royal palaces, hanok lanes, mountain trails, neon nights and street food, where 600 years of history sit beside the future.",
+  "highlight": "Gyeongbokgung Palace at opening time, with the mountains behind and a hanbok-dressed crowd walking through its gates.",
+  "shortDescription": "South Korea's capital, with Joseon palaces, Bukchon Hanok Village, temples, markets, K-culture districts, night views from N Seoul Tower and some of the best food in Asia.",
+  "metaDescription": "A Seoul travel guide: Gyeongbokgung and Changdeokgung palaces, Bukchon Hanok Village, N Seoul Tower, Jogyesa, Dongdaemun Design Plaza, Cheonggyecheon, food, where to stay, how to get around and a four-day plan.",
+  "suggestedStay": "4 days",
+  "nearestAirport": "Incheon International (ICN), about 1 hour by express train; Gimpo (GMP) for domestic flights",
+  "knownFor": "Palaces, hanok villages, street food, K-culture, nightlife",
+  "budget": "US$100–200 per day, mid-range",
+  "goodFor": "First-timers, food, history, shopping, nightlife, day trips",
+  "coords": { "lat": 37.5665, "lng": 126.9780 },
+  "image": {
+    "file": "File:Gyeonghoeru (Royal Banquet Hall) at Gyeongbokgung Palace, Seoul.jpg",
+    "alt": "Gyeonghoeru, the royal banquet hall at Gyeongbokgung Palace, reflected in its pond"
+  },
+  "intro": [
+    "Seoul is a city of about 9 million people, part of a metropolitan area of more than 25 million, set in a bowl of granite mountains around the Han River. It has been the capital for over 600 years, since the Joseon dynasty made it the seat of the kingdom in 1394, and the old city is ringed by fortress walls and guarded by five royal palaces.",
+    "Old and new sit side by side. Within a few subway stops you can pass from the palaces and hanok lanes of Jongno and Bukchon to the shopping streets of Myeongdong, the design landmarks of Dongdaemun, the youth culture of Hongdae, and the towers of Gangnam. Mountains rise inside the city, so a hike to a fortress wall or a temple is a short ride from any hotel, and the Han River parks fill with picnics on summer nights.",
+    "Seoul is easy for first-timers. The subway is cheap and clear, the streets are safe at any hour, food is available at all times, and the city moves quickly. Four days covers the palaces, a hanok district and the main neighbourhoods, and it is the natural base for day trips to Suwon, the DMZ and the east coast."
+  ],
+  "whyVisit": {
+    "intro": "Seoul combines history, food and modern energy more densely than almost any other Asian capital.",
+    "points": [
+      {
+        "title": "Living palaces",
+        "text": "Five royal palaces from the Joseon dynasty, with guards, gardens and hanbok."
+      },
+      {
+        "title": "Extraordinary food",
+        "text": "From market stalls and barbecue to temple cuisine and fine dining."
+      },
+      {
+        "title": "Mountains in the city",
+        "text": "Bukhansan, Namsan and Inwangsan are reached by subway."
+      },
+      {
+        "title": "Design and culture",
+        "text": "Modern architecture, museums, K-pop districts and cafés."
+      },
+      {
+        "title": "Safe and easy",
+        "text": "A clean, cheap metro and a very low crime rate."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights cluster around Jongno in the old city, with others across the river or on the mountain.",
+  "attractions": [
+    {
+      "name": "Gyeongbokgung Palace",
+      "image": {
+        "file": "File:Gyeonghoeru (Royal Banquet Hall) at Gyeongbokgung Palace, Seoul.jpg",
+        "alt": "Gyeonghoeru pavilion on its pond at Gyeongbokgung Palace"
+      },
+      "text": "The largest and grandest of Seoul's palaces, built in 1395, with a throne hall, a pavilion on a lake and a changing-of-the-guard ceremony. It is free to enter in hanbok.",
+      "tip": "Go at opening time, and check closing days."
+    },
+    {
+      "name": "Bukchon Hanok Village",
+      "image": {
+        "file": "File:Bukchon-ro 11-gil street with hanok houses at blue hour in Bukchon Hanok Village Seoul.jpg",
+        "alt": "Traditional hanok houses lining a hillside street in Bukchon at blue hour"
+      },
+      "text": "A hillside neighbourhood of traditional tile-roofed houses between two palaces, with views to the city. People live here, and access is restricted at some times.",
+      "tip": "Visit early and keep your voice down."
+    },
+    {
+      "name": "Changdeokgung and the Secret Garden",
+      "image": {
+        "file": "File:Biwon Huwon of Changdeokgung.jpg",
+        "alt": "A pavilion and pond in the Secret Garden at Changdeokgung Palace"
+      },
+      "text": "A UNESCO World Heritage palace that blends into its landscape, with a rear garden of ponds, pavilions and old trees, visited on timed guided tours.",
+      "tip": "Book the Secret Garden tour online."
+    },
+    {
+      "name": "N Seoul Tower and Namsan",
+      "image": {
+        "file": "File:N Seoul Tower view 2.jpg",
+        "alt": "N Seoul Tower rising above the trees of Namsan Mountain"
+      },
+      "text": "A 236-metre tower on Namsan, with panoramic views of the city, reached by cable car or a walk up a wooded hill.",
+      "tip": "Go at dusk and stay for the lights."
+    },
+    {
+      "name": "Jogyesa Temple",
+      "image": {
+        "file": "File:Jogyesa temple in 2026 (4).jpg",
+        "alt": "The main hall of Jogyesa temple decorated with colourful lanterns"
+      },
+      "text": "The centre of Korean Zen Buddhism, in the middle of the city, and hung with thousands of lanterns around the Buddha's Birthday in spring.",
+      "tip": "Visit in the morning, when it is quiet."
+    },
+    {
+      "name": "Dongdaemun Design Plaza",
+      "image": {
+        "file": "File:Dongdaemun Design Plaza grass.jpg",
+        "alt": "The curved silver walls of Dongdaemun Design Plaza above a garden of grass"
+      },
+      "text": "A curved, silver building by Zaha Hadid that hosts exhibitions and events, surrounded by fashion markets that stay open late.",
+      "tip": "Visit at night for the lights."
+    },
+    {
+      "name": "Cheonggyecheon Stream",
+      "image": {
+        "file": "File:Cheonggyecheon stream at sunrise with trees in Seoul.jpg",
+        "alt": "The Cheonggyecheon stream running through the city at sunrise"
+      },
+      "text": "A restored stream running through the centre, replacing a former elevated highway, with a walking path and bridges.",
+      "tip": "Walk it in the evening."
+    }
+  ],
+  "thingsToDoIntro": "Seoul rewards a mix of history, food and neighbourhood wandering.",
+  "thingsToDo": [
+    {
+      "title": "Wear a hanbok in a palace",
+      "text": "Rent traditional dress near Gyeongbokgung and enter the palaces free.",
+      "tip": "Book a slot in advance for peak times."
+    },
+    {
+      "title": "Eat at Gwangjang Market",
+      "text": "Bindaetteok pancakes, mayak gimbap and raw beef tartare at a century-old market.",
+      "tip": "Go hungry, and bring cash."
+    },
+    {
+      "title": "Hike Bugaksan or Inwangsan",
+      "text": "Trails along the old fortress wall with views over the palaces.",
+      "tip": "Bring your passport, since some sections are security-controlled."
+    },
+    {
+      "title": "Spend an evening in Hongdae",
+      "text": "Buskers, clubs, cafés and shops around the university district.",
+      "tip": "Go on a Friday or Saturday night."
+    },
+    {
+      "title": "Picnic by the Han River",
+      "text": "Order chicken and beer to your spot on the riverbank.",
+      "tip": "Visit Banpo Bridge's fountain show in summer."
+    },
+    {
+      "title": "Take a day trip",
+      "text": "Suwon's fortress, the DMZ or the mountains north of the city are easy trips.",
+      "tip": "See [[suwon-hwaseong|Suwon]] and [[dmz-panmunjom|the DMZ]]."
+    }
+  ],
+  "foodIntro": "Seoul's food is the best sampler of Korea, from cheap street snacks to long barbecue nights.",
+  "foods": [
+    {
+      "name": "Korean barbecue",
+      "text": "Pork belly and marinated beef grilled at the table with banchan side dishes.",
+      "whereToTry": "Restaurants in Mapo, Jongno and Gangnam."
+    },
+    {
+      "name": "Tteokbokki and street snacks",
+      "text": "Rice cakes in chilli sauce, fried snacks and fish cakes.",
+      "whereToTry": "Myeongdong and Gwangjang Market."
+    },
+    {
+      "name": "Samgyetang",
+      "text": "A whole young chicken stuffed with rice and ginseng in a hot broth.",
+      "whereToTry": "Restaurants near Gyeongbokgung."
+    },
+    {
+      "name": "Naengmyeon and mandu",
+      "text": "Cold noodles and dumplings.",
+      "whereToTry": "Old restaurants in Jung-gu."
+    },
+    {
+      "name": "Temple food",
+      "text": "Vegetarian cooking from Buddhist traditions.",
+      "whereToTry": "Restaurants in Insadong."
+    },
+    {
+      "name": "Cafés and dessert",
+      "text": "Bingsu shaved ice and coffee culture.",
+      "whereToTry": "Ikseon-dong and Seongsu-dong."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose by the type of trip: old city for sights, Hongdae for nightlife, Gangnam for business.",
+    "areas": [
+      {
+        "name": "Jongno, Insadong and Bukchon",
+        "bestFor": "Palaces and hanok stays",
+        "text": "Close to the palaces, with guesthouses and hanok."
+      },
+      {
+        "name": "Myeongdong and Jung-gu",
+        "bestFor": "First-timers and shopping",
+        "text": "Central, with many hotels and street food."
+      },
+      {
+        "name": "Hongdae and Mapo",
+        "bestFor": "Nightlife and budget stays",
+        "text": "Hostels, cafés and bars, near the airport train."
+      },
+      {
+        "name": "Gangnam and Jamsil",
+        "bestFor": "Business and luxury",
+        "text": "Tall hotels south of the river."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$20–35 per night" },
+      { "label": "Mid-range hotel", "value": "US$90–170 per night" },
+      { "label": "Luxury hotel", "value": "US$250–500 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$7–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Most visitors arrive at Incheon Airport, about 50 km west of the city.",
+    "options": [
+      {
+        "mode": "Airport railroad (AREX)",
+        "text": "An express train reaches Seoul Station in about 45 minutes, and an all-stop train is cheaper.",
+        "detail": "The best option."
+      },
+      {
+        "mode": "Airport bus",
+        "text": "Buses serve many hotels, taking 60 to 90 minutes.",
+        "detail": "Good with luggage."
+      },
+      {
+        "mode": "KTX and SRT trains",
+        "text": "High-speed rail from Busan, Gyeongju and other cities to Seoul Station or Yongsan.",
+        "detail": "Book in advance."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The subway covers nearly everything, with buses filling the gaps.",
+    "options": [
+      {
+        "mode": "Subway",
+        "text": "Nine lines, signs in English, and trains until around midnight.",
+        "detail": "Use a T-money card."
+      },
+      {
+        "mode": "Buses",
+        "text": "Extensive, with a night network.",
+        "detail": "Use Naver Map or Kakao Map."
+      },
+      {
+        "mode": "Taxis",
+        "text": "Cheap and plentiful.",
+        "detail": "Show your destination in Korean."
+      },
+      {
+        "mode": "On foot",
+        "text": "The palaces and the old city are walkable.",
+        "detail": "Wear comfortable shoes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–May and September–October",
+    "summary": "Seoul has hot, humid summers and cold, dry winters, with pleasant springs and autumns.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Cherry blossom in early April and mild days."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Hot, humid and rainy."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Clear skies and colourful leaves."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold and dry, with fewer crowds."
+      }
+    ],
+    "avoid": "The July rainy season and the major holidays."
+  },
+  "itinerary": {
+    "title": "Four days in Seoul",
+    "intro": "Palaces and hanok, the city's markets and hills, and a day trip.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Palaces and hanok",
+        "summary": "The old city.",
+        "morning": "Gyeongbokgung Palace.",
+        "afternoon": "Bukchon Hanok Village and Insadong.",
+        "evening": "Dinner near Jongno."
+      },
+      {
+        "day": 2,
+        "title": "Gardens and views",
+        "summary": "Changdeokgung and the tower.",
+        "morning": "Changdeokgung and its Secret Garden.",
+        "afternoon": "Jogyesa and Gwangjang Market.",
+        "evening": "N Seoul Tower at dusk."
+      },
+      {
+        "day": 3,
+        "title": "A day trip",
+        "summary": "The DMZ or Suwon.",
+        "morning": "Depart on a DMZ tour or train to Suwon.",
+        "afternoon": "Tunnels, observatories or the fortress wall.",
+        "evening": "Barbecue in Hongdae."
+      },
+      {
+        "day": 4,
+        "title": "Design and streams",
+        "summary": "Modern Seoul.",
+        "morning": "Dongdaemun Design Plaza.",
+        "afternoon": "Cheonggyecheon stream and Myeongdong.",
+        "evening": "Han River picnic."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make Seoul smoother.",
+  "tips": [
+    "Get a T-money card at the airport or a convenience store.",
+    "Use Naver Map or Kakao Map, not Google Maps.",
+    "Check palace closing days, since most close on Tuesday or Monday.",
+    "Book the Secret Garden tour in advance.",
+    "Carry some cash for markets and small stalls.",
+    "Avoid the subway in rush hour if you can.",
+    "Wear layers, since air-conditioning is strong.",
+    "Dress modestly in temples."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Seoul?",
+      "a": "Three to four days cover the main sights, and a week allows day trips."
+    },
+    {
+      "q": "Is Seoul safe?",
+      "a": "Yes, it is one of the safest big cities in the world."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "April to May and September to October."
+    },
+    {
+      "q": "Can I visit palaces free?",
+      "a": "Yes if you wear a hanbok, and there are free days for other visitors, such as the last Wednesday of the month."
+    },
+    {
+      "q": "Do I need to speak Korean?",
+      "a": "No. English signs are common and translation apps help."
+    },
+    {
+      "q": "Which airport should I fly into?",
+      "a": "Incheon for most international flights. Gimpo handles domestic flights and some flights from Japan and China."
+    }
+  ],
+  "related": ["suwon-hwaseong", "dmz-panmunjom", "busan", "gangneung"],
+  "relatedArticles": ["food-primer", "packing-by-season"]
+}

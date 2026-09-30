@@ -1,0 +1,318 @@
+{
+  "slug": "medellin",
+  "name": "Medellín",
+  "country": "colombia",
+  "region": "Antioquia, Aburrá Valley",
+  "categories": ["major-city", "cultural", "food-and-wine"],
+  "tagline": "The City of Eternal Spring, once notorious, now a hillside metropolis of cable cars, street art, Botero sculptures, cafés and hopeful energy.",
+  "highlight": "Riding the Metrocable up to the hillside neighbourhoods, with the whole valley spread out below.",
+  "shortDescription": "Colombia's innovation city, with Comuna 13's street art and escalators, Plaza Botero, Metrocable rides, Parque Arví, El Poblado's restaurants and a mild climate all year.",
+  "metaDescription": "A Medellín travel guide: Comuna 13, Plaza Botero, Metrocable, Parque Arví, El Poblado, bandeja paisa, coffee, safety, where to stay and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "José María Córdova (MDE), about 45 minutes",
+  "knownFor": "Innovation, Comuna 13, Botero, spring weather",
+  "budget": "US$70–140 per day, mid-range",
+  "goodFor": "Cities, nightlife, food, street art, digital nomads",
+  "coords": { "lat": 6.2442, "lng": -75.5812 },
+  "image": {
+    "file": "File:Medellín, Plaza Botero, 2023-07 CN-01.jpg",
+    "alt": "Fernando Botero's round bronze sculptures on Plaza Botero in Medellín"
+  },
+  "intro": [
+    "Medellín, in the Aburrá Valley of the Andes at about 1,500 metres, is Colombia's second city, home to about 2.5 million people. It is nicknamed the City of Eternal Spring for its mild climate, with daytime temperatures around 25°C for most of the year. In the 1980s and early 1990s the city was known as the base of the Medellín Cartel and among the most violent in the world. Since then, it has transformed, through investment in public transport, libraries and parks in poorer neighbourhoods, and has won awards as one of the world's most innovative cities.",
+    "The best symbol is the Metrocable, a cable car network connected to the metro that links hillside barrios to the city, and the outdoor escalators of Comuna 13, once one of the most dangerous areas, now a hub of street art, hip-hop and tours led by residents. In the centre, Plaza Botero displays 23 bronze sculptures by Medellín-born Fernando Botero, and the Museum of Antioquia holds more of his works.",
+    "The city is also a comfortable base: El Poblado and Laureles have restaurants, cafés and nightlife, Parque Arví offers nature on the edge of the city, and Guatapé and coffee farms are within easy day trips. Three days is ideal, and visitors should be alert to safety, especially with drinks and strangers, and avoid the cartel-era tourism that glorifies violence."
+  ],
+  "whyVisit": {
+    "intro": "Medellín is a pleasant, dynamic city that shows how much Colombia has changed.",
+    "points": [
+      {
+        "title": "Comuna 13",
+        "text": "Transformed by art and community."
+      },
+      {
+        "title": "Metrocable",
+        "text": "Public transport as a sightseeing ride."
+      },
+      {
+        "title": "Botero sculptures",
+        "text": "Plaza Botero."
+      },
+      {
+        "title": "Spring weather",
+        "text": "Mild all year."
+      },
+      {
+        "title": "Food and nightlife",
+        "text": "El Poblado and Laureles."
+      }
+    ]
+  },
+  "attractionsIntro": "Sights are spread around the valley, linked by the metro.",
+  "attractions": [
+    {
+      "name": "Comuna 13",
+      "image": {
+        "file": "File:Comuna 13, Medellín 05.jpg",
+        "alt": "Colourful murals on the hillside streets of Comuna 13 in Medellín"
+      },
+      "text": "A hillside neighbourhood of murals, outdoor escalators and food stalls, best seen with a local guide who explains its history.",
+      "tip": "Book a guided tour."
+    },
+    {
+      "name": "Metrocable at Santo Domingo",
+      "image": {
+        "file": "File:Estación Santo Domingo, Medellín 03.jpg",
+        "alt": "The Santo Domingo Metrocable station on the hillside of Medellín"
+      },
+      "text": "A cable car line that links hillside communities to the metro, and a highlight for views of the city.",
+      "tip": "Use the metro card."
+    },
+    {
+      "name": "Plaza Botero",
+      "text": "A public square with 23 bronze sculptures by Fernando Botero, next to the Museum of Antioquia.",
+      "tip": "Visit in daytime."
+    },
+    {
+      "name": "Valley views",
+      "image": {
+        "file": "File:Valley of Medellín- skyline.jpg",
+        "alt": "The Aburrá Valley with Medellín's buildings spreading up the hillsides"
+      },
+      "text": "The city fills the valley, best seen from viewpoints such as Pueblito Paisa or the Metrocable.",
+      "tip": "Go at dusk."
+    },
+    {
+      "name": "Parque Arví",
+      "text": "A nature reserve on the city's edge, reached by cable car.",
+      "tip": "Good for a picnic."
+    },
+    {
+      "name": "El Poblado",
+      "text": "The upscale district with cafés, restaurants and nightlife.",
+      "tip": "Base yourself here."
+    }
+  ],
+  "thingsToDoIntro": "Medellín is about neighbourhoods, food and views.",
+  "thingsToDo": [
+    {
+      "title": "Tour Comuna 13",
+      "text": "With a local guide.",
+      "tip": "Buy from residents."
+    },
+    {
+      "title": "Ride the Metrocable",
+      "text": "Views over the valley.",
+      "tip": "Go in the afternoon."
+    },
+    {
+      "title": "Take a coffee tour",
+      "text": "Visit a nearby farm.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Go paragliding",
+      "text": "At San Felix.",
+      "tip": "Choose a reputable operator."
+    },
+    {
+      "title": "Dance salsa or reggaeton",
+      "text": "In Laureles.",
+      "tip": "Go with friends."
+    },
+    {
+      "title": "Visit a Feria de las Flores",
+      "text": "In August, a flower festival.",
+      "tip": "Book far ahead."
+    }
+  ],
+  "foodIntro": "Paisa food is hearty.",
+  "foods": [
+    {
+      "name": "Bandeja paisa",
+      "text": "The huge Antioquian platter.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Arepa paisa",
+      "text": "With cheese.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Sancocho",
+      "text": "Hearty soup.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Buñuelos",
+      "text": "Fried cheese doughnuts.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Specialty coffee",
+      "text": "Antioquian beans.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose El Poblado or Laureles.",
+    "areas": [
+      {
+        "name": "El Poblado",
+        "bestFor": "Restaurants and nightlife",
+        "text": "Most hotels."
+      },
+      {
+        "name": "Laureles",
+        "bestFor": "Local life",
+        "text": "Boutique stays."
+      },
+      {
+        "name": "Envigado",
+        "bestFor": "Quiet",
+        "text": "Residential."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$10–20 per night" },
+      { "label": "Mid-range hotel", "value": "US$55–110 per night" },
+      { "label": "Luxury hotel", "value": "US$150–300 per night" },
+      { "label": "Meal", "value": "US$6–20 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Medellín has an airport and buses.",
+    "options": [
+      {
+        "mode": "Flight",
+        "text": "About 1 hour from Bogotá.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bus to the airport",
+        "text": "Or taxi at a fixed fare.",
+        "detail": "About 45 minutes."
+      },
+      {
+        "mode": "Bus from Bogotá",
+        "text": "8 to 10 hours.",
+        "detail": "Fly."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The metro is efficient.",
+    "options": [
+      {
+        "mode": "Metro and Metrocable",
+        "text": "Clean and cheap.",
+        "detail": "Buy a Cívica card."
+      },
+      {
+        "mode": "Uber",
+        "text": "Common.",
+        "detail": "Use the app."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Metered.",
+        "detail": "Confirm."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–March and June–August",
+    "summary": "Medellín is mild all year.",
+    "seasons": [
+      {
+        "season": "December–March",
+        "rating": "best",
+        "text": "Drier."
+      },
+      {
+        "season": "April–May",
+        "rating": "quiet",
+        "text": "Wet."
+      },
+      {
+        "season": "June–August",
+        "rating": "good",
+        "text": "Drier, with the flower festival."
+      },
+      {
+        "season": "September–November",
+        "rating": "avoid",
+        "text": "Wetter."
+      }
+    ],
+    "avoid": "October rains."
+  },
+  "itinerary": {
+    "title": "Three days in Medellín",
+    "intro": "Culture, art and views.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Downtown",
+        "summary": "Botero.",
+        "morning": "Plaza Botero.",
+        "afternoon": "Museum of Antioquia.",
+        "evening": "El Poblado."
+      },
+      {
+        "day": 2,
+        "title": "Comuna 13",
+        "summary": "Art and community.",
+        "morning": "Comuna 13 tour.",
+        "afternoon": "Metrocable.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 3,
+        "title": "Day trip",
+        "summary": "Guatapé.",
+        "morning": "Bus to Guatapé.",
+        "afternoon": "El Peñol.",
+        "evening": "Return."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Use Uber.",
+    "Never accept drinks from strangers.",
+    "Take a local guide to Comuna 13.",
+    "Avoid Pablo Escobar tours that glorify him.",
+    "Watch your phone.",
+    "Bring a light jacket.",
+    "Book Guatapé in advance."
+  ],
+  "faq": [
+    {
+      "q": "Is Medellín safe?",
+      "a": "It is much safer than in the past, with precautions."
+    },
+    {
+      "q": "How many days?",
+      "a": "Three."
+    },
+    {
+      "q": "What is Comuna 13?",
+      "a": "A neighbourhood with street art."
+    },
+    {
+      "q": "Is it warm?",
+      "a": "Mild all year."
+    },
+    {
+      "q": "Can I visit Guatapé?",
+      "a": "Yes, as a day trip."
+    },
+    {
+      "q": "When to visit?",
+      "a": "December to March."
+    }
+  ],
+  "related": ["guatape", "salento-cocora", "bogota"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

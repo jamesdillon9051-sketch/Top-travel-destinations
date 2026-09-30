@@ -1,0 +1,315 @@
+{
+  "slug": "varanasi",
+  "name": "Varanasi",
+  "country": "india",
+  "region": "Uttar Pradesh, Ganges plain",
+  "categories": ["historic", "cultural", "off-the-beaten-path"],
+  "tagline": "One of the world's oldest living cities: a mile of stone ghats on the Ganges, dawn boat rides, evening fire ceremonies and a maze of lanes leading to temples, silk weavers and tea stalls.",
+  "highlight": "A rowing boat at sunrise, drifting past the ghats as pilgrims bathe and pray.",
+  "shortDescription": "The holiest city in Hinduism, on the Ganges: bathing ghats, cremation grounds, the Kashi Vishwanath temple, Sarnath's Buddhist monuments and an atmosphere unlike anywhere else.",
+  "metaDescription": "A Varanasi travel guide: the Ganges ghats, sunrise boat rides, Dashashwamedh Ghat and the Ganga aarti, Kashi Vishwanath, Sarnath, silk, food, respectful etiquette and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Lal Bahadur Shastri (VNS), about 45 minutes",
+  "knownFor": "The Ganges ghats, the Ganga aarti, Hindu pilgrimage, Sarnath, Banarasi silk",
+  "budget": "US$40–110 per day, mid-range",
+  "goodFor": "Spiritual culture, photography, boat rides, an intense experience",
+  "coords": { "lat": 25.3176, "lng": 82.9739 },
+  "image": {
+    "file": "File:Varanasi, India, Ghats on Ganges River.jpg",
+    "alt": "The stone ghats and temples lining the west bank of the Ganges in Varanasi"
+  },
+  "intro": [
+    "Varanasi, also called Benares or Kashi, is on the western bank of the Ganges, and it is one of the oldest continuously inhabited cities in the world. It has been a centre of Hindu learning and pilgrimage for at least 2,500 years, and Hindus believe that to die here and be cremated on the riverbank is to be released from the cycle of rebirth. Pilgrims come from all over India to bathe in the river and to perform rituals for their ancestors.",
+    "The heart of the city is the river, lined for about 6 km by more than 80 ghats, stepped embankments where people bathe, pray, exercise, do laundry and cremate the dead. Behind them, narrow lanes twist between temples, shrines, silk shops, sweet stalls and old havelis, so narrow that few vehicles can enter.",
+    "Varanasi is intense, and it does not soften itself for visitors. Death and life are in the open, cows and pilgrims share the alleys, and the sights, sounds and smells can be overwhelming. Many travellers find it the most memorable place in India, and others find it too much. Come with an open mind, and respect for the people for whom it is sacred."
+  ],
+  "whyVisit": {
+    "intro": "Varanasi is a living place of worship, and one of the most powerful cultural experiences in Asia.",
+    "points": [
+      {
+        "title": "The ghats at dawn",
+        "text": "Boat trips at sunrise, with the light on the river and the ghats filling with pilgrims, are among India's great sights."
+      },
+      {
+        "title": "The Ganga aarti",
+        "text": "An evening fire ceremony with priests, bells, chants and lamps at Dashashwamedh Ghat, drawing thousands."
+      },
+      {
+        "title": "An ancient city of lanes",
+        "text": "Walking the maze of alleys is a journey through a city where old traditions continue."
+      },
+      {
+        "title": "Sarnath",
+        "text": "A short trip to where the Buddha gave his first sermon, with a huge stupa and monastic ruins."
+      },
+      {
+        "title": "Crafts and food",
+        "text": "Banarasi silk brocade, and a distinctive food culture of kachori, lassi and sweets."
+      }
+    ]
+  },
+  "attractionsIntro": "The river is the main attraction, and the surrounding lanes, temples and Sarnath fill the days.",
+  "attractions": [
+    {
+      "name": "The Ganges ghats",
+      "image": {
+        "file": "File:Scindia Ghat in morning, Varanasi, Uttar Pradesh, India (2012).jpg",
+        "alt": "Scindia Ghat on the Ganges in Varanasi early in the morning"
+      },
+      "text": "More than 80 stone stairways to the river, each with its own character and history. Assi Ghat in the south, Dashashwamedh in the centre and Manikarnika, the main cremation ghat, are among the best known.",
+      "tip": "Take a rowing boat at sunrise, and walk the ghats in the afternoon."
+    },
+    {
+      "name": "Dashashwamedh Ghat and the Ganga aarti",
+      "image": {
+        "file": "File:Ganga Aarti in evening at Dashashwamedh ghat, Varanasi.jpg",
+        "alt": "Priests performing the evening Ganga aarti fire ceremony at Dashashwamedh Ghat"
+      },
+      "text": "The main ghat, where priests perform an elaborate evening ceremony with lamps, incense, drums and chanting, in front of a large crowd, watched from the steps or from boats.",
+      "tip": "Arrive early for a good spot, and watch from a boat for the view."
+    },
+    {
+      "name": "Kashi Vishwanath Temple",
+      "text": "The most sacred Shiva temple in the city, with a gold-covered spire, rebuilt in the 18th century, and a redeveloped corridor that links it to the river. Security is tight, and rules for non-Hindu visitors and photography change.",
+      "tip": "Check the current rules and carry ID."
+    },
+    {
+      "name": "Sarnath",
+      "image": {
+        "file": "File:14. Dhamek Stupa, Sarnath.jpg",
+        "alt": "The Dhamek Stupa at Sarnath near Varanasi"
+      },
+      "text": "About 10 km from the city, the deer park where the Buddha preached his first sermon. The Dhamek Stupa, the ruins of monasteries and a museum with the Ashoka lion capital, the origin of India's national emblem, are here.",
+      "tip": "Allow half a day, and go in the morning."
+    },
+    {
+      "name": "The old city lanes",
+      "text": "A labyrinth of narrow lanes between the ghats and the main road, full of shrines, sweet shops, weavers and cows.",
+      "tip": "Go with a guide the first time, and keep to the right of mopeds."
+    },
+    {
+      "name": "Banaras Hindu University",
+      "text": "A large campus founded in 1916, with tree-lined avenues, the Bharat Kala Bhavan museum and the New Vishwanath Temple.",
+      "tip": "A quiet break from the ghats."
+    }
+  ],
+  "thingsToDoIntro": "Varanasi is best experienced slowly, and by the river.",
+  "thingsToDo": [
+    {
+      "title": "Take a sunrise boat ride",
+      "text": "Hire a rowing boat for an hour or two as the sun comes up, seeing the ghats and the ritual bathing from the water.",
+      "tip": "Agree the price in advance, and avoid taking photos of cremations."
+    },
+    {
+      "title": "Watch the Ganga aarti",
+      "text": "See the evening ceremony from the steps or from a boat.",
+      "tip": "Watch respectfully, and keep a small bag."
+    },
+    {
+      "title": "Visit a silk weaver",
+      "text": "Banarasi silk brocades are woven in workshops across the city, and some allow visits.",
+      "tip": "Buy directly from a weaver to avoid commissions."
+    },
+    {
+      "title": "Walk from Assi to Dashashwamedh",
+      "text": "A slow stroll along the riverfront, passing temples, yoga groups and tea stalls.",
+      "tip": "Go in the early morning or at sunset."
+    },
+    {
+      "title": "Try a morning music or yoga class",
+      "text": "Varanasi has a long tradition of classical music, and lessons in sitar, tabla or yoga are available.",
+      "tip": "Book through your guesthouse."
+    },
+    {
+      "title": "Take a day trip to Sarnath",
+      "text": "See the Buddhist ruins and museum.",
+      "tip": "Combine with a visit to Ramnagar Fort on the opposite bank."
+    }
+  ],
+  "foodIntro": "Varanasi's food is vegetarian and street-based, and most temples and much of the old city do not serve meat.",
+  "foods": [
+    {
+      "name": "Kachori sabzi",
+      "text": "Crisp fried bread stuffed with spiced lentils and served with a potato curry, a traditional breakfast.",
+      "whereToTry": "Street stalls in the old city."
+    },
+    {
+      "name": "Banarasi paan",
+      "text": "A betel leaf parcel with sweet or savoury fillings, chewed after meals.",
+      "whereToTry": "Paan shops across the city."
+    },
+    {
+      "name": "Lassi",
+      "text": "Thick yoghurt drinks in clay cups, sometimes topped with malai and dry fruit.",
+      "whereToTry": "Blue Lassi and other shops in the old city."
+    },
+    {
+      "name": "Malaiyo",
+      "text": "A frothy, saffron-scented milk foam, a winter delicacy served from carts.",
+      "whereToTry": "Old city lanes in winter."
+    },
+    {
+      "name": "Chaat and tamatar chaat",
+      "text": "Spicy tomato and potato snacks, for which the city is known.",
+      "whereToTry": "Kashi Chaat Bhandar and street stalls."
+    },
+    {
+      "name": "Sweets",
+      "text": "Rabri, peda and other milk-based sweets.",
+      "whereToTry": "Sweet shops near Godowlia."
+    }
+  ],
+  "accommodation": {
+    "intro": "Staying on or near the ghats puts you in the heart of the action.",
+    "areas": [
+      {
+        "name": "Along the ghats",
+        "bestFor": "River views and atmosphere",
+        "text": "Guesthouses and heritage hotels above the river, often up narrow lanes."
+      },
+      {
+        "name": "Assi Ghat area",
+        "bestFor": "Cafés and a relaxed feel",
+        "text": "A calmer, more traveller-oriented area with restaurants and yoga classes."
+      },
+      {
+        "name": "Cantonment",
+        "bestFor": "Comfort and easy access to the station",
+        "text": "Larger hotels away from the river."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "US$12–35 per night" },
+      { "label": "Mid-range hotel", "value": "US$45–110 per night" },
+      { "label": "Heritage or luxury hotel", "value": "US$150–350 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$3–10 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Varanasi is on the Ganges plain in eastern Uttar Pradesh, well connected by train and air.",
+    "options": [
+      {
+        "mode": "Flight to Varanasi (VNS)",
+        "text": "Direct flights from Delhi, Mumbai, Kolkata and other cities.",
+        "detail": "The airport is about 45 minutes from the old city."
+      },
+      {
+        "mode": "Train",
+        "text": "Overnight trains from Delhi take about 9 to 12 hours, and faster Vande Bharat services are quicker.",
+        "detail": "Book early. Varanasi Junction and Banaras stations serve the city."
+      },
+      {
+        "mode": "From Khajuraho or Bodh Gaya",
+        "text": "Long road or rail journeys, best planned as part of an eastern circuit.",
+        "detail": "Check schedules."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The old city is on foot, with rickshaws and boats on the edges.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The only way to reach most ghats and alleys.",
+        "detail": "Wear good shoes, and mind cows and mopeds."
+      },
+      {
+        "mode": "Cycle and auto-rickshaws",
+        "text": "Useful for the larger distances, and to reach the old city.",
+        "detail": "Agree the price."
+      },
+      {
+        "mode": "Boats",
+        "text": "Rowing boats link the ghats and give the best views.",
+        "detail": "Agree the price and time before you board."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–March",
+    "summary": "Varanasi has a hot, humid climate with a strong monsoon. Winters are cool and often foggy.",
+    "seasons": [
+      {
+        "season": "Winter (November–February)",
+        "rating": "best",
+        "text": "Cool and pleasant, though morning fog can delay flights and trains."
+      },
+      {
+        "season": "Spring (March–April)",
+        "rating": "good",
+        "text": "Warm, with Holi and Mahashivratri celebrations."
+      },
+      {
+        "season": "Summer (May–June)",
+        "rating": "avoid",
+        "text": "Extremely hot, often above 42°C."
+      },
+      {
+        "season": "Monsoon (July–September)",
+        "rating": "quiet",
+        "text": "The river rises, covering many ghats, and boat trips are limited."
+      }
+    ],
+    "avoid": "May and June for the heat, and monsoon flooding. Diwali and Dev Deepawali (in November) bring huge crowds and are spectacular."
+  },
+  "itinerary": {
+    "title": "Two days in Varanasi",
+    "intro": "The ghats and the old city, then Sarnath.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The river",
+        "summary": "Ghats and the aarti.",
+        "morning": "A sunrise boat ride.",
+        "afternoon": "The old city lanes and silk weavers.",
+        "evening": "The Ganga aarti at Dashashwamedh Ghat."
+      },
+      {
+        "day": 2,
+        "title": "Sarnath and the university",
+        "summary": "Buddhist heritage.",
+        "morning": "Sarnath and its museum.",
+        "afternoon": "Banaras Hindu University.",
+        "evening": "A last walk along the ghats."
+      }
+    ]
+  },
+  "tipsIntro": "Varanasi rewards care and respect.",
+  "tips": [
+    "Take a sunrise boat ride, and agree the price and the length beforehand.",
+    "Do not photograph cremations, and keep a respectful distance at the burning ghats. Ignore anyone who offers to take you there for a donation.",
+    "Wear modest clothes, and remove shoes at temples.",
+    "Be wary of touts and unofficial guides who offer scams, such as a false 'donation' for wood.",
+    "Use bottled water. The Ganges is sacred, but it is heavily polluted, and you should not bathe in it or drink it.",
+    "Take a small torch for the dark lanes at night.",
+    "Book well ahead for festivals such as Dev Deepawali."
+  ],
+  "faq": [
+    {
+      "q": "Is Varanasi worth visiting?",
+      "a": "Yes, for those who can handle its intensity. It is one of the most moving and unforgettable places in India."
+    },
+    {
+      "q": "Can tourists watch the cremations?",
+      "a": "It is possible to see the burning ghats from a distance, but photography is not allowed, and many families find it intrusive. Be discreet, and do not follow touts."
+    },
+    {
+      "q": "Is it safe to swim in the Ganges?",
+      "a": "Not for visitors. The river is heavily polluted, and it is safest to watch from the shore or a boat."
+    },
+    {
+      "q": "How many days do you need in Varanasi?",
+      "a": "Two days is enough for the main experiences, including the sunrise boat, the aarti and Sarnath."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "October to March. Dev Deepawali in November is spectacular but crowded."
+    },
+    {
+      "q": "Is Varanasi safe for solo women?",
+      "a": "Many do go, but the lanes can be crowded and intense. Dress modestly, avoid dark alleys at night and choose reputable guesthouses."
+    }
+  ],
+  "related": ["delhi", "agra", "amritsar"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

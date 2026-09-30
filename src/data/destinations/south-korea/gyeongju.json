@@ -1,0 +1,318 @@
+{
+  "slug": "gyeongju",
+  "name": "Gyeongju",
+  "country": "south-korea",
+  "region": "North Gyeongsang, south-east South Korea",
+  "categories": ["historic", "unesco", "archaeological", "cultural"],
+  "tagline": "The capital of the Silla kingdom for nearly a thousand years, a museum without walls of grassy royal tombs, a grotto Buddha, a great temple and lantern-lit ponds.",
+  "highlight": "Bulguksa temple's stone stairways and wooden halls in the soft light of early morning.",
+  "shortDescription": "The ancient Silla capital, with the UNESCO-listed Bulguksa temple and Seokguram Grotto, giant royal burial mounds, Cheomseongdae observatory and the night-lit Donggung Palace and Wolji Pond.",
+  "metaDescription": "A Gyeongju travel guide: Bulguksa, Seokguram Grotto, the Daereungwon tombs, Cheomseongdae, Donggung Palace and Wolji Pond, Hwangnidan-gil, food, where to stay, how to get there and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Ulsan (USN) or Busan Gimhae (PUS), about 1 hour; Singyeongju KTX station",
+  "knownFor": "Silla heritage, tombs, temples, UNESCO sites",
+  "budget": "US$70–140 per day, mid-range",
+  "goodFor": "History, cycling, temples, photography, slow travel",
+  "coords": { "lat": 35.8562, "lng": 129.2247 },
+  "image": {
+    "file": "File:Bulguksa temple entrance gate stairs flower bed and blue sky in Gyeongju South Korea.jpg",
+    "alt": "The stairs and entrance gate of Bulguksa temple with a flower bed and blue sky"
+  },
+  "intro": [
+    "Gyeongju was the capital of the Silla kingdom, which unified most of the Korean peninsula in the 7th century and ruled for nearly a thousand years, until 935. At its height the city was one of the largest in the world, and it is now a small, low-rise city of about 250,000 people whose parks, hills and lanes still hold much of that heritage. It is often called a museum without walls.",
+    "The sights are outstanding. Bulguksa, a temple founded in the 8th century, and Seokguram Grotto, a granite cave holding a serene seated Buddha, are both UNESCO World Heritage sites. In the city centre, grassy burial mounds rise like green hills at Daereungwon, Cheomseongdae is a stone observatory from the 7th century, and Donggung Palace and Wolji Pond are lit up at night. Gyeongju's historic areas together are also on the World Heritage list.",
+    "Gyeongju is easy to see at a gentle pace. Distances are short, cycling between sights is a pleasure, and the Hwangnidan-gil district is full of cafés in restored hanok. The city is about two hours from Seoul by KTX and 30 minutes from Busan, and two days is a good visit, ideally with a night in town to see the lit-up ponds."
+  ],
+  "whyVisit": {
+    "intro": "Gyeongju is Korea's best window into its ancient past, and a relaxing place to be.",
+    "points": [
+      {
+        "title": "A great temple and a grotto",
+        "text": "Bulguksa and Seokguram are masterpieces of Buddhist art."
+      },
+      {
+        "title": "Royal tombs",
+        "text": "Grassy mounds in the middle of the city."
+      },
+      {
+        "title": "Silla heritage",
+        "text": "An observatory, palace ponds and museums."
+      },
+      {
+        "title": "Slow and walkable",
+        "text": "A low-rise city that suits cycling."
+      },
+      {
+        "title": "Beautiful at night",
+        "text": "Lit-up ponds and pavilions."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are in or near the city centre, with Bulguksa and Seokguram on the hills to the east.",
+  "attractions": [
+    {
+      "name": "Bulguksa Temple",
+      "image": {
+        "file": "File:Bulguksa temple entrance gate stairs flower bed and blue sky in Gyeongju South Korea.jpg",
+        "alt": "The entrance stairs and gate of Bulguksa temple"
+      },
+      "text": "A temple founded in the 8th century, with stone bridges and stairways, wooden halls painted in bright colours, and two famed stone pagodas.",
+      "tip": "Go early or late to avoid tour groups."
+    },
+    {
+      "name": "Seokguram Grotto",
+      "image": {
+        "file": "File:Seokguram Grotto 01.jpg",
+        "alt": "The seated stone Buddha in Seokguram Grotto"
+      },
+      "text": "A granite grotto on Mount Toham holding a large seated Buddha facing the sunrise over the sea. Photography inside is not allowed.",
+      "tip": "Take the bus or a taxi from Bulguksa."
+    },
+    {
+      "name": "Cheomseongdae Observatory",
+      "image": {
+        "file": "File:Cheomseongdae Observatory under blue sky in Gyeongju South Korea.jpg",
+        "alt": "The stone bottle-shaped Cheomseongdae observatory under a blue sky"
+      },
+      "text": "A stone tower from the 7th century, often described as the oldest surviving observatory in East Asia, in a park of flowers.",
+      "tip": "Visit in spring for rapeseed and cosmos blooms."
+    },
+    {
+      "name": "Daereungwon Tomb Complex",
+      "image": {
+        "file": "File:Trees surrounded by grassy tumuli at sunset in Daereungwon Tomb Complex of Gyeongju in South Korea.jpg",
+        "alt": "Grassy tumuli and trees at sunset in the Daereungwon Tomb Complex"
+      },
+      "text": "A park of large grassy burial mounds of Silla kings and nobles, including Cheonmachong, whose tomb can be entered and holds replicas of finds.",
+      "tip": "Walk it at sunset."
+    },
+    {
+      "name": "Donggung Palace and Wolji Pond",
+      "image": {
+        "file": "File:Water reflection of Donggung Palace in Wolji Pond at blue hour in Gyeongju South Korea.jpg",
+        "alt": "Donggung Palace pavilions reflected in Wolji Pond at blue hour"
+      },
+      "text": "The site of a Silla royal pleasure garden, with reconstructed pavilions around a pond, beautiful when lit up after dark.",
+      "tip": "Come at dusk for the lights."
+    },
+    {
+      "name": "Gyeongju National Museum",
+      "text": "A museum with Silla gold crowns, bells and treasures excavated from the tombs.",
+      "tip": "Allow two hours."
+    }
+  ],
+  "thingsToDoIntro": "Gyeongju is a place to wander and cycle.",
+  "thingsToDo": [
+    {
+      "title": "Cycle among the tombs",
+      "text": "Rent a bicycle and ride between the parks and sights.",
+      "tip": "Electric bikes help on the hills."
+    },
+    {
+      "title": "Stay in a hanok",
+      "text": "Sleep in a traditional house in the historic district.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Explore Hwangnidan-gil",
+      "text": "Cafés, shops and restaurants in old houses.",
+      "tip": "Go in the evening."
+    },
+    {
+      "title": "Take a templestay",
+      "text": "Spend a night in a temple for tea and meditation.",
+      "tip": "Book through the Templestay site."
+    },
+    {
+      "title": "Visit Yangdong Village",
+      "text": "A UNESCO-listed clan village of Joseon-era houses.",
+      "tip": "Combine with a bus tour."
+    },
+    {
+      "title": "Watch the sunrise at Seokguram",
+      "text": "Arrive early for the light.",
+      "tip": "Check the bus times."
+    }
+  ],
+  "foodIntro": "Gyeongju's food is simple, with local specialities like bread and rice dishes.",
+  "foods": [
+    {
+      "name": "Gyeongju bread (Gyeongju-bbang)",
+      "text": "A small pastry filled with sweet red bean paste, the city's best-known snack.",
+      "whereToTry": "Bakeries near Daereungwon."
+    },
+    {
+      "name": "Chalboribbang",
+      "text": "A soft barley bread with red bean filling.",
+      "whereToTry": "Local bakeries."
+    },
+    {
+      "name": "Ssambap",
+      "text": "Rice with vegetables and dishes, wrapped in leaves.",
+      "whereToTry": "Traditional restaurants in Hwangnam."
+    },
+    {
+      "name": "Hanjeongsik",
+      "text": "A traditional multi-dish table meal.",
+      "whereToTry": "Restaurants in the old town."
+    },
+    {
+      "name": "Gyo-dong tea and beopju",
+      "text": "Traditional tea and a local rice wine.",
+      "whereToTry": "Gyochon Village."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the centre for the sights and the night lights.",
+    "areas": [
+      {
+        "name": "Hwangnam and Hwangnidan-gil",
+        "bestFor": "Cafés and walkability",
+        "text": "Guesthouses and hanok stays near the tombs."
+      },
+      {
+        "name": "Bomun Lake Resort",
+        "bestFor": "Resort stays",
+        "text": "Hotels by a lake, a short ride from the centre."
+      },
+      {
+        "name": "Near Bulguksa",
+        "bestFor": "Early starts",
+        "text": "Guesthouses on the road to the temple."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$30–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$70–140 per night" },
+      { "label": "Hanok stay", "value": "US$80–200 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$7–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Gyeongju has a KTX station outside the city.",
+    "options": [
+      {
+        "mode": "KTX from Seoul",
+        "text": "About two hours to Singyeongju station, then a bus or taxi of about 20 minutes to the centre.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Bus from Busan",
+        "text": "About an hour by intercity bus, or about 30 minutes by KTX to Singyeongju.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Intercity bus",
+        "text": "Buses from Seoul take around four hours.",
+        "detail": "Cheaper than the KTX."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The centre is flat, so bikes and buses work well.",
+    "options": [
+      {
+        "mode": "Bicycle",
+        "text": "Rent one near the station or Hwangnidan-gil.",
+        "detail": "Ride in the daytime."
+      },
+      {
+        "mode": "Local buses",
+        "text": "Cover Bulguksa and the main sights.",
+        "detail": "Use Naver Map."
+      },
+      {
+        "mode": "Taxis",
+        "text": "Cheap for Seokguram.",
+        "detail": "Agree the fare."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April and October",
+    "summary": "Gyeongju has mild springs and autumns, hot summers and cold winters.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Cherry blossom around Bomun Lake in early April."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Hot and humid."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Clear weather and golden leaves."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold and quiet."
+      }
+    ],
+    "avoid": "The peak of summer and long holiday weekends."
+  },
+  "itinerary": {
+    "title": "Two days in Gyeongju",
+    "intro": "The hills and temple on the first day, and the city's tombs and lights on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Temple and grotto",
+        "summary": "The eastern hills.",
+        "morning": "Bulguksa.",
+        "afternoon": "Seokguram Grotto.",
+        "evening": "Dinner in Hwangnidan-gil."
+      },
+      {
+        "day": 2,
+        "title": "The city of tombs",
+        "summary": "Royal Silla.",
+        "morning": "Daereungwon and Cheomseongdae by bicycle.",
+        "afternoon": "The National Museum.",
+        "evening": "Donggung Palace and Wolji Pond at night."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you see Gyeongju well.",
+  "tips": [
+    "Stay overnight to see the sights lit up.",
+    "Rent a bicycle for the central sights.",
+    "Go to Bulguksa early.",
+    "Check the bus times to Seokguram.",
+    "Combine a combination ticket for the central sights.",
+    "Wear comfortable shoes for the hills.",
+    "Try the local bread as a snack."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Gyeongju?",
+      "a": "Two days is ideal. A long day trip from Busan is possible."
+    },
+    {
+      "q": "Is Gyeongju worth visiting?",
+      "a": "Yes. It is one of Korea's best historic places, with UNESCO sites."
+    },
+    {
+      "q": "How do I get there from Seoul?",
+      "a": "KTX to Singyeongju in about two hours, then a bus or taxi."
+    },
+    {
+      "q": "Can I take photos in Seokguram?",
+      "a": "Not inside the grotto, but you can outside."
+    },
+    {
+      "q": "Do I need a car?",
+      "a": "No. Bikes, buses and taxis are enough."
+    },
+    {
+      "q": "When are the lights on?",
+      "a": "Donggung Palace and Wolji Pond are lit each evening."
+    }
+  ],
+  "related": ["busan", "andong-hahoe", "seoul"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

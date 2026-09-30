@@ -1,0 +1,310 @@
+{
+  "slug": "great-ocean-road",
+  "name": "The Great Ocean Road",
+  "country": "australia",
+  "region": "Victoria, south-west coast",
+  "categories": ["scenic", "coastal", "national-park", "nature"],
+  "tagline": "A 243-kilometre coastal drive of surf beaches, rainforest and limestone stacks rising from the Southern Ocean, and one of the world's great road trips.",
+  "highlight": "The Twelve Apostles at sunset, as the limestone stacks glow gold in the surf.",
+  "shortDescription": "A war memorial road built by returned soldiers, winding past Bells Beach, Lorne, Apollo Bay, the Otway rainforest and the Twelve Apostles, with wildlife, waterfalls and shipwreck history.",
+  "metaDescription": "A Great Ocean Road travel guide: the Twelve Apostles, Loch Ard Gorge, London Arch, Lorne, Apollo Bay, Otway National Park, koalas, when to go, how long to allow and a two-day itinerary from Melbourne.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Melbourne Tullamarine (MEL), about 1.5–3 hours to the start",
+  "knownFor": "The Twelve Apostles, coastal scenery, surf, rainforest, koalas",
+  "budget": "A$220–400 per day, mid-range",
+  "goodFor": "Road trips, coastal scenery, walking, wildlife, photography",
+  "coords": { "lat": -38.6640, "lng": 143.1049 },
+  "image": {
+    "file": "File:Princetown (AU), Port Campbell National Park, Twelve Apostles -- 2019 -- 0969.jpg",
+    "alt": "The Twelve Apostles limestone stacks rising from the sea off the Victorian coast"
+  },
+  "intro": [
+    "The Great Ocean Road runs for about 243 km along Victoria's south-west coast, from Torquay to Allansford. It was built between 1919 and 1932 by returned soldiers of the First World War, as a memorial to their fallen comrades, and it is often called the world's largest war memorial. The road hugs cliffs and beaches, and is a slow, winding drive that is as much about the stops as the destination.",
+    "The route passes surf beaches such as Bells Beach, seaside towns such as Lorne and Apollo Bay, the temperate Otway rainforest with waterfalls and tall trees, and finally the spectacular Shipwreck Coast, where limestone cliffs and stacks have been carved by the Southern Ocean. The best-known are the Twelve Apostles, though fewer than a dozen stacks now remain, and one collapsed in 2005.",
+    "Many visitors do it as a long day trip from Melbourne, which is tiring, and it is much better with a night or two on the road. Koalas in the trees at Kennett River, whales offshore in winter, and small fishing towns make it rewarding for those who take their time."
+  ],
+  "whyVisit": {
+    "intro": "It is one of the most scenic drives in the world, and easy to reach from Melbourne.",
+    "points": [
+      {
+        "title": "The Twelve Apostles",
+        "text": "A group of limestone stacks in the sea, at their best at sunrise and sunset."
+      },
+      {
+        "title": "Dramatic coastline",
+        "text": "Cliffs, gorges, arches and sea stacks along the Shipwreck Coast."
+      },
+      {
+        "title": "Rainforest and waterfalls",
+        "text": "The Otway Ranges have giant trees, ferns and tumbling falls."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Wild koalas, kangaroos, and whales in the winter months."
+      },
+      {
+        "title": "Small seaside towns",
+        "text": "Lorne, Apollo Bay and Port Fairy for seafood and a slower pace."
+      }
+    ]
+  },
+  "attractionsIntro": "The route is best in stages, with stops for scenery and walks.",
+  "attractions": [
+    {
+      "name": "The Twelve Apostles",
+      "text": "Limestone stacks standing off the cliff line near Port Campbell, best seen from the boardwalks and viewing platforms. Helicopter flights are available.",
+      "tip": "Go at sunrise or late afternoon, when tour buses are fewer."
+    },
+    {
+      "name": "Loch Ard Gorge",
+      "image": {
+        "file": "File:Loch Ard Gorge, northeast view 20230217 2.jpg",
+        "alt": "The sheltered beach and cliffs of Loch Ard Gorge on the Victorian coast"
+      },
+      "text": "A gorge with a small beach and dramatic cliffs, named after a ship wrecked in 1878. Only two of the 54 people on board survived.",
+      "tip": "Walk down to the beach."
+    },
+    {
+      "name": "London Arch",
+      "image": {
+        "file": "File:London Arch on the Great Ocean Road (500895555).jpg",
+        "alt": "The limestone arch known as London Arch on the Great Ocean Road"
+      },
+      "text": "A natural limestone arch formerly known as London Bridge, whose span collapsed in 1990, stranding two visitors on the outer section, who were rescued by helicopter.",
+      "tip": "See it on the same stop as the Grotto."
+    },
+    {
+      "name": "Lorne and the Otway Ranges",
+      "image": {
+        "file": "File:Great Ocean Road, Lorne, Australia - Feb 2012.jpg",
+        "alt": "The Great Ocean Road curving along the coast near Lorne"
+      },
+      "text": "Lorne is a popular beach town with waterfalls in the hinterland, including Erskine Falls, and the Otway rainforest inland, with the Otway Fly Treetop Walk.",
+      "tip": "Stay a night."
+    },
+    {
+      "name": "Kennett River koalas",
+      "text": "A short stretch of road where koalas are often seen in gum trees, along with colourful parrots.",
+      "tip": "Look up, and do not feed the birds."
+    },
+    {
+      "name": "Bells Beach",
+      "text": "One of the most famous surf breaks in the world, near Torquay, home of the Rip Curl Pro surfing competition.",
+      "tip": "Visit the Australian National Surfing Museum in Torquay."
+    }
+  ],
+  "thingsToDoIntro": "The road is the experience, with time for walks, wildlife and food.",
+  "thingsToDo": [
+    {
+      "title": "Drive the coast",
+      "text": "Take the route slowly, stopping at lookouts.",
+      "tip": "Allow twice as long as the drive time."
+    },
+    {
+      "title": "Watch sunrise or sunset at the Apostles",
+      "text": "The stacks glow in the low light, and crowds are thinner.",
+      "tip": "Stay nearby to avoid driving in the dark."
+    },
+    {
+      "title": "Walk in the Otway rainforest",
+      "text": "Short walks to waterfalls, or the treetop walk in the canopy.",
+      "tip": "Bring a rain jacket."
+    },
+    {
+      "title": "Look for koalas at Kennett River",
+      "text": "See wild koalas in eucalypts near the road.",
+      "tip": "Go in the morning."
+    },
+    {
+      "title": "Try surfing at Torquay",
+      "text": "Lessons are available at the surf beaches.",
+      "tip": "Book a lesson."
+    },
+    {
+      "title": "Whale-watch in winter",
+      "text": "Southern right whales come to Warrnambool from May to September.",
+      "tip": "Look from the Logans Beach viewing platform."
+    }
+  ],
+  "foodIntro": "The Great Ocean Road has excellent seafood and local produce, and small-town cafés.",
+  "foods": [
+    {
+      "name": "Fresh seafood",
+      "text": "Crayfish, scallops, abalone and fish and chips at harbour-side cafés.",
+      "whereToTry": "Apollo Bay and Port Fairy."
+    },
+    {
+      "name": "Local dairy and cheese",
+      "text": "Cheese and milk from the nearby dairy farms.",
+      "whereToTry": "Cafés in the hinterland."
+    },
+    {
+      "name": "Cool-climate wine",
+      "text": "Pinot noir and chardonnay from the Otways and Geelong.",
+      "whereToTry": "Cellar doors near Torquay."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Small breweries in Apollo Bay and Torquay.",
+      "whereToTry": "Local pubs."
+    },
+    {
+      "name": "Bakery pies",
+      "text": "Hearty meat pies from coastal bakeries.",
+      "whereToTry": "Small-town bakeries."
+    }
+  ],
+  "accommodation": {
+    "intro": "Small towns along the route offer everything from motels to boutique stays.",
+    "areas": [
+      {
+        "name": "Lorne",
+        "bestFor": "Beaches and cafés",
+        "text": "A lively seaside resort with many options."
+      },
+      {
+        "name": "Apollo Bay",
+        "bestFor": "A base for the Otways",
+        "text": "A relaxed harbour town."
+      },
+      {
+        "name": "Port Campbell",
+        "bestFor": "The Twelve Apostles",
+        "text": "A small town near the main sights."
+      }
+    ],
+    "budget": [
+      { "label": "Budget motel or campsite", "value": "A$70–160 per night" },
+      { "label": "Mid-range hotel", "value": "A$180–320 per night" },
+      { "label": "Boutique hotel", "value": "A$350–700 per night" },
+      { "label": "Meal at a local restaurant", "value": "A$25–50 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The road starts about 100 km south-west of Melbourne.",
+    "options": [
+      {
+        "mode": "Hire car from Melbourne",
+        "text": "About 1.5 hours to Torquay and about 4.5 hours to the Twelve Apostles without stops.",
+        "detail": "The best option."
+      },
+      {
+        "mode": "Organised tour",
+        "text": "Day tours run from Melbourne, and multi-day tours are available.",
+        "detail": "A long day, but easy."
+      },
+      {
+        "mode": "Train to Geelong and a car",
+        "text": "Trains reach Geelong, and buses continue to the coast.",
+        "detail": "Limited services."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is the best way, and the road is slow.",
+    "options": [
+      {
+        "mode": "Car",
+        "text": "Winding, narrow roads with limited overtaking.",
+        "detail": "Drive on the left, and take breaks."
+      },
+      {
+        "mode": "Tour",
+        "text": "Guides handle driving.",
+        "detail": "Pick a small group."
+      },
+      {
+        "mode": "Walking",
+        "text": "Short walks at the main stops.",
+        "detail": "Bring layers."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–April",
+    "summary": "The south coast has a cool, changeable climate, with rain and wind in winter and pleasant summers.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "best",
+        "text": "Warm, dry and busy, with long days."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Settled weather and fewer people."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "quiet",
+        "text": "Cold, wet and stormy, but with whales and dramatic seas."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "good",
+        "text": "Wildflowers and variable weather."
+      }
+    ],
+    "avoid": "Summer weekends and school holidays, when the road is busy."
+  },
+  "itinerary": {
+    "title": "Two days on the Great Ocean Road",
+    "intro": "The first half on the first day, and the Shipwreck Coast on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Torquay to Apollo Bay",
+        "summary": "Surf and rainforest.",
+        "morning": "Bells Beach and Torquay.",
+        "afternoon": "Lorne and a waterfall.",
+        "evening": "Dinner at Apollo Bay."
+      },
+      {
+        "day": 2,
+        "title": "The Shipwreck Coast",
+        "summary": "Rocks and sunset.",
+        "morning": "Kennett River koalas and the Otways.",
+        "afternoon": "The Twelve Apostles and Loch Ard Gorge.",
+        "evening": "Sunset, then return."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make the drive better.",
+  "tips": [
+    "Stay overnight rather than doing a day trip.",
+    "Drive slowly, and use pull-outs to let others pass.",
+    "Take breaks. Fatigue is a hazard on winding roads.",
+    "Visit the Apostles at sunrise or late afternoon.",
+    "Stay on the boardwalks and paths near cliffs.",
+    "Fill up with fuel in the larger towns.",
+    "Bring layers, since the coast is windy."
+  ],
+  "faq": [
+    {
+      "q": "How long does the Great Ocean Road take?",
+      "a": "The drive takes about 5 to 6 hours from Torquay to Allansford without stops. Allow two days."
+    },
+    {
+      "q": "Can I do it as a day trip from Melbourne?",
+      "a": "Yes, but it is a long day of about 12 hours. It is better with a night on the way."
+    },
+    {
+      "q": "Are there really twelve apostles?",
+      "a": "There were never twelve, and fewer than a dozen stacks remain. One collapsed in 2005."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "December to April for weather. Winter has whales but is wet."
+    },
+    {
+      "q": "Do I need a car?",
+      "a": "It is best, but tours are available."
+    },
+    {
+      "q": "Can I swim on the Great Ocean Road?",
+      "a": "At patrolled beaches such as Lorne, yes. Many beaches have strong currents and no lifeguards."
+    }
+  ],
+  "related": ["melbourne", "tasmania", "sydney"],
+  "relatedArticles": ["us-national-parks-road-trip", "packing-by-season"]
+}

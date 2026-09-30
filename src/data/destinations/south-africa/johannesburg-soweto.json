@@ -1,0 +1,319 @@
+{
+  "slug": "johannesburg-soweto",
+  "name": "Johannesburg and Soweto",
+  "shortName": "Johannesburg",
+  "country": "south-africa",
+  "region": "Gauteng, north-east interior",
+  "categories": ["major-city", "historic", "cultural"],
+  "tagline": "The City of Gold: a big, restless metropolis built on a gold rush, where the story of apartheid and the struggle to end it is told in museums and in the streets of Soweto.",
+  "highlight": "Vilakazi Street in Soweto, where two Nobel Peace Prize winners lived a few doors apart.",
+  "shortDescription": "South Africa's largest city and its historic heart: the Apartheid Museum, Constitution Hill, Soweto's Vilakazi Street and Hector Pieterson Memorial, urban renewal in Maboneng and the Cradle of Humankind.",
+  "metaDescription": "A Johannesburg and Soweto travel guide: the Apartheid Museum, Constitution Hill, Vilakazi Street, Hector Pieterson Memorial, Orlando Towers, Maboneng, Cradle of Humankind, safety, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "OR Tambo International (JNB), about 30 minutes",
+  "knownFor": "Apartheid history, Soweto, gold-mining heritage, art and food, gateway to Kruger",
+  "budget": "US$80–170 per day, mid-range",
+  "goodFor": "History, culture, food, art, business, a gateway city",
+  "coords": { "lat": -26.2041, "lng": 28.0473 },
+  "image": {
+    "file": "File:Johannesburg CBD.jpg",
+    "alt": "The skyline of the Johannesburg central business district with tall towers"
+  },
+  "intro": [
+    "Johannesburg was founded in 1886, after gold was discovered on the Witwatersrand ridge, and it grew from a mining camp into a city of millions in a few decades. Known as Egoli, the place of gold, it is South Africa's largest city and its economic centre, at an altitude of about 1,750 metres. Despite its size and its reputation for crime, it is a city of energy, art, food and history, and one of the most important places for understanding modern South Africa.",
+    "Its history is inseparable from apartheid. The Apartheid Museum documents the rise and fall of racial segregation, and Constitution Hill, a former prison complex where Mahatma Gandhi and Nelson Mandela were held, now houses the Constitutional Court. Soweto, the South Western Townships, home to well over a million people, was the heart of the resistance. Vilakazi Street, where Mandela and Desmond Tutu lived, and the Hector Pieterson Memorial, commemorating the 1976 student uprising, are among its landmarks.",
+    "Johannesburg is best visited with local guidance, since central areas can be unsafe, but its neighbourhoods reward exploring. Maboneng and Braamfontein have galleries, cafés and markets, Melville and Rosebank have restaurants, and the Cradle of Humankind, a UNESCO site of fossil-bearing caves, lies an hour away. It is also the main gateway to Kruger and the north-east, and most visitors spend two days here at the start or end of a trip."
+  ],
+  "whyVisit": {
+    "intro": "Johannesburg and Soweto tell the story of modern South Africa, and offer urban culture that other cities lack.",
+    "points": [
+      {
+        "title": "The story of apartheid",
+        "text": "The Apartheid Museum, Constitution Hill and Soweto are moving and essential."
+      },
+      {
+        "title": "Soweto",
+        "text": "A living township with history, music, food and a proud community."
+      },
+      {
+        "title": "Urban culture",
+        "text": "Art, markets, street food and nightlife in Maboneng, Braamfontein and Melville."
+      },
+      {
+        "title": "The Cradle of Humankind",
+        "text": "Fossil caves where ancient hominid remains were found."
+      },
+      {
+        "title": "A gateway city",
+        "text": "Connections to Kruger, Cape Town and the rest of Africa."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are best visited by ride-hailing or on a guided tour, and grouped by area.",
+  "attractions": [
+    {
+      "name": "The Apartheid Museum",
+      "image": {
+        "file": "File:Apartheid Museum - 15755983922.jpg",
+        "alt": "The entrance to the Apartheid Museum in Johannesburg with concrete pillars and a memorial"
+      },
+      "text": "A superbly designed museum that traces the history of segregation and the struggle against it, with film, photographs and objects. Visitors enter through separate gates marked 'White' and 'Non-White'.",
+      "tip": "Allow at least three hours."
+    },
+    {
+      "name": "Constitution Hill",
+      "image": {
+        "file": "File:Flame of Democracy, Constitution Hill, Johannesburg.jpg",
+        "alt": "The Flame of Democracy at Constitution Hill in Johannesburg"
+      },
+      "text": "A former prison, called the Old Fort, and the site of the Constitutional Court, with museums and guided tours about the people who were held here, including Gandhi and Mandela.",
+      "tip": "Take a guided tour."
+    },
+    {
+      "name": "Vilakazi Street and the Mandela House",
+      "image": {
+        "file": "File:Vilakazi street performers.jpg",
+        "alt": "Street performers on Vilakazi Street in Soweto"
+      },
+      "text": "The Soweto street where Nelson Mandela and Desmond Tutu both lived. The Mandela House is a museum, and the street has restaurants and performers.",
+      "tip": "Visit with a guide."
+    },
+    {
+      "name": "Hector Pieterson Memorial and Museum",
+      "text": "A memorial and museum to the 1976 Soweto student uprising, in which schoolchildren protested against apartheid education and many were killed.",
+      "tip": "A moving visit."
+    },
+    {
+      "name": "Orlando Towers",
+      "image": {
+        "file": "File:Orlando Towers ... (32133536397).jpg",
+        "alt": "The painted cooling towers of the Orlando Power Station in Soweto"
+      },
+      "text": "Two colourfully painted former power station cooling towers, now an adventure venue with bungee, swing and climbing, and a symbol of Soweto.",
+      "tip": "Book activities in advance."
+    },
+    {
+      "name": "Maboneng Precinct",
+      "image": {
+        "file": "File:Maboneng Art Installation Median.jpg",
+        "alt": "A colourful art installation in the Maboneng precinct of Johannesburg"
+      },
+      "text": "A revitalised inner-city district of warehouses, galleries, cafés and a Sunday market.",
+      "tip": "Go on a Sunday, and use ride-hailing apps."
+    }
+  ],
+  "thingsToDoIntro": "Combine history, food and urban culture.",
+  "thingsToDo": [
+    {
+      "title": "Take a guided Soweto tour",
+      "text": "A local guide shows the history, homes, markets and music.",
+      "tip": "Choose a locally owned operator."
+    },
+    {
+      "title": "Eat at a shebeen or local restaurant",
+      "text": "Try kota sandwiches, braai and pap.",
+      "tip": "Go with a guide."
+    },
+    {
+      "title": "Visit the Cradle of Humankind",
+      "text": "See the Sterkfontein Caves and the Maropeng exhibition, about 50 km away.",
+      "tip": "A half-day trip."
+    },
+    {
+      "title": "See a jazz or live music show",
+      "text": "Johannesburg has a strong music scene.",
+      "tip": "Book a taxi home."
+    },
+    {
+      "title": "Shop at a market",
+      "text": "Neighbourhood Goods Market and Rosebank Rooftop Market.",
+      "tip": "Go on a weekend."
+    },
+    {
+      "title": "Go to a football match",
+      "text": "A game at FNB Stadium, where the 2010 World Cup final was played.",
+      "tip": "Go with a local group."
+    }
+  ],
+  "foodIntro": "Johannesburg's food is diverse, from township street food to fine dining.",
+  "foods": [
+    {
+      "name": "Kota",
+      "text": "A Soweto street-food sandwich, a hollowed loaf filled with chips, egg, sausage and sauces.",
+      "whereToTry": "Soweto takeaways."
+    },
+    {
+      "name": "Braai and boerewors",
+      "text": "Grilled meat with pap and chakalaka relish.",
+      "whereToTry": "Shisanyama restaurants."
+    },
+    {
+      "name": "Pap and chakalaka",
+      "text": "Maize porridge with a spicy vegetable relish.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "African and fusion dining",
+      "text": "Modern restaurants using local ingredients.",
+      "whereToTry": "Rosebank and Melville."
+    },
+    {
+      "name": "Craft beer and coffee",
+      "text": "A strong café and craft beer scene.",
+      "whereToTry": "Braamfontein and Maboneng."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Sandton, Rosebank or Melville for safety and convenience, or in a Soweto guesthouse.",
+    "areas": [
+      {
+        "name": "Sandton and Rosebank",
+        "bestFor": "Safety and hotels",
+        "text": "Business and leisure hotels near malls and the Gautrain."
+      },
+      {
+        "name": "Melville and Parkhurst",
+        "bestFor": "Restaurants and character",
+        "text": "Guesthouses and boutique hotels."
+      },
+      {
+        "name": "Soweto",
+        "bestFor": "A township experience",
+        "text": "Guesthouses and B&Bs."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel or guesthouse", "value": "US$25–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–160 per night" },
+      { "label": "Luxury hotel", "value": "US$200–450 per night" },
+      { "label": "Meal at a mid-range restaurant", "value": "US$10–25 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Johannesburg is South Africa's main international gateway.",
+    "options": [
+      {
+        "mode": "Flight to OR Tambo (JNB)",
+        "text": "Direct flights from Europe, the Middle East, Asia and North America, and across Africa.",
+        "detail": "The Gautrain links the airport with Sandton."
+      },
+      {
+        "mode": "Flight from Cape Town",
+        "text": "About 2 hours.",
+        "detail": "Frequent departures."
+      },
+      {
+        "mode": "Drive from Kruger",
+        "text": "About 5 to 6 hours.",
+        "detail": "Avoid driving at night."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Use ride-hailing apps and tours, and avoid walking in unfamiliar areas.",
+    "options": [
+      {
+        "mode": "Uber and Bolt",
+        "text": "The safest and easiest way to move.",
+        "detail": "Use the app."
+      },
+      {
+        "mode": "Gautrain",
+        "text": "A fast train linking the airport, Sandton, Rosebank and Pretoria.",
+        "detail": "Safe and reliable."
+      },
+      {
+        "mode": "Tours",
+        "text": "Guided tours to Soweto and central areas.",
+        "detail": "Book in advance."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–October",
+    "summary": "Johannesburg has a mild highveld climate, with warm, wet summers and dry, sunny, cold-nighted winters.",
+    "seasons": [
+      {
+        "season": "Summer (November–March)",
+        "rating": "good",
+        "text": "Warm, with afternoon thunderstorms."
+      },
+      {
+        "season": "Autumn (April–May)",
+        "rating": "best",
+        "text": "Warm, dry and clear."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "best",
+        "text": "Sunny, dry days and cold nights."
+      },
+      {
+        "season": "Spring (September–October)",
+        "rating": "good",
+        "text": "Warming, with jacaranda blossom."
+      }
+    ],
+    "avoid": "Summer afternoons for storms."
+  },
+  "itinerary": {
+    "title": "Two days in Johannesburg",
+    "intro": "Museums, Soweto and food.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Apartheid history",
+        "summary": "Museums.",
+        "morning": "The Apartheid Museum.",
+        "afternoon": "Constitution Hill.",
+        "evening": "Dinner in Melville."
+      },
+      {
+        "day": 2,
+        "title": "Soweto",
+        "summary": "The township.",
+        "morning": "A guided Soweto tour.",
+        "afternoon": "Vilakazi Street and lunch.",
+        "evening": "Maboneng or depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you stay safe and get the most out of the city.",
+  "tips": [
+    "Use ride-hailing apps, and do not walk at night.",
+    "Do not go to the inner city without a guide.",
+    "Keep phones, cameras and jewellery out of sight.",
+    "Book a Soweto tour with a locally owned operator.",
+    "Allow plenty of time for the Apartheid Museum.",
+    "Lock car doors and windows when driving.",
+    "Carry small notes for tips."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Johannesburg?",
+      "a": "Two days for the main sights, including Soweto."
+    },
+    {
+      "q": "Is Johannesburg safe?",
+      "a": "Crime is a concern. Use ride-hailing apps, guided tours and reputable areas, and follow local advice."
+    },
+    {
+      "q": "Is Soweto safe to visit?",
+      "a": "Guided tours are generally safe and are a highlight of a visit."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "April to October."
+    },
+    {
+      "q": "What is the Apartheid Museum like?",
+      "a": "It is powerful and sobering, and takes about three hours."
+    },
+    {
+      "q": "Is it worth staying in Johannesburg?",
+      "a": "For two days, yes, for the history and culture."
+    }
+  ],
+  "related": ["kruger-national-park", "panorama-route", "cape-town", "drakensberg"],
+  "relatedArticles": ["unesco-worth-planning-around", "food-primer"]
+}

@@ -1,0 +1,309 @@
+{
+  "slug": "udaipur",
+  "name": "Udaipur",
+  "country": "india",
+  "region": "Rajasthan, southern Mewar",
+  "categories": ["historic", "cultural", "scenic"],
+  "tagline": "The City of Lakes: white palaces reflected in Lake Pichola, hilltop forts, narrow old-town lanes and a laid-back Rajasthani charm that draws visitors for longer than they planned.",
+  "highlight": "A boat on Lake Pichola at sunset, with the City Palace glowing above the water.",
+  "shortDescription": "The most romantic city in Rajasthan: the City Palace on Lake Pichola, the Lake Palace, Jagdish Temple, the old bazaars and the surrounding Aravalli hills, with day trips to Ranakpur and Kumbhalgarh.",
+  "metaDescription": "An Udaipur travel guide: the City Palace, Lake Pichola, Jag Mandir, Jagdish Temple, Saheliyon ki Bari, Ranakpur and Kumbhalgarh, where to stay, food, when to go and a two-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Maharana Pratap (UDR), about 40 minutes",
+  "knownFor": "Lake Pichola, the City Palace, the Lake Palace, romantic hotels",
+  "budget": "US$55–140 per day, mid-range",
+  "goodFor": "Palaces, lakes, sunsets, romance, cooking classes",
+  "coords": { "lat": 24.5854, "lng": 73.7125 },
+  "image": {
+    "file": "File:20191207 Lake Pichola, City Palace, Udaipur, 1516 7254.jpg",
+    "alt": "The City Palace of Udaipur rising above the waters of Lake Pichola"
+  },
+  "intro": [
+    "Udaipur was founded in 1559 by Maharana Udai Singh II of the Mewar dynasty, after the capital at Chittorgarh had been repeatedly besieged by Mughal armies. The Mewar rulers, who had resisted the Mughals for generations, chose a site in a valley of the Aravalli hills beside a large artificial lake, Lake Pichola, and built a series of palaces and gardens in the following centuries.",
+    "The centrepiece is the City Palace, a huge complex of courtyards, balconies and domes rising directly from the lake and still partly occupied by the royal family. Across the water, the Lake Palace, built as a summer palace in the 18th century and now a luxury hotel, and Jag Mandir, another island palace, appear to float on the surface. The old town of white havelis and lanes runs down to the shore.",
+    "Udaipur is popular for weddings and honeymoons, and it can be busy, but it is also one of the most relaxed cities in Rajasthan, with a good food scene, craft shops and cooking classes. It is a fine place to slow down after the intensity of Delhi and Jaipur."
+  ],
+  "whyVisit": {
+    "intro": "Udaipur combines scenery, palaces and atmosphere in a way that few Indian cities can.",
+    "points": [
+      {
+        "title": "The lake setting",
+        "text": "Lake Pichola, hills and palaces make it the most picturesque city in Rajasthan."
+      },
+      {
+        "title": "The City Palace",
+        "text": "One of the largest palace complexes in Rajasthan, with museums, painted halls and terraces over the water."
+      },
+      {
+        "title": "A relaxed old town",
+        "text": "Winding lanes, rooftop cafés, shops and workshops, easy to explore on foot."
+      },
+      {
+        "title": "Culture and crafts",
+        "text": "Miniature painting, puppet shows, folk dance and silverware."
+      },
+      {
+        "title": "Day trips",
+        "text": "The Jain temples of Ranakpur and the great fort at Kumbhalgarh are within reach."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are around Lake Pichola, with hilltop views and a couple of gardens.",
+  "attractions": [
+    {
+      "name": "The City Palace",
+      "image": {
+        "file": "File:City Palace Udaipur Rajasthan India.JPG",
+        "alt": "The façade of the City Palace at Udaipur above Lake Pichola"
+      },
+      "text": "A sprawling palace of granite and marble begun in 1559 and added to for nearly 400 years, with courtyards, mirrored halls, painted rooms and balconies with views over the lake. Part is a museum.",
+      "tip": "Go in the morning and hire a guide."
+    },
+    {
+      "name": "Lake Pichola and the Lake Palace",
+      "image": {
+        "file": "File:Taj Lake Palace Udaipur from City Palace.jpg",
+        "alt": "The white Lake Palace hotel on an island in Lake Pichola seen from the City Palace"
+      },
+      "text": "A large artificial lake with two island palaces. Jag Niwas, or the Lake Palace, is now a luxury hotel, and cannot be visited unless you book a meal or a stay.",
+      "tip": "Take a boat trip at sunset."
+    },
+    {
+      "name": "Jag Mandir",
+      "image": {
+        "file": "File:Jag Mandir, Udaipur, 20191207 1428 7201.jpg",
+        "alt": "The Jag Mandir island palace on Lake Pichola in Udaipur"
+      },
+      "text": "A palace on a second island, said to have given shelter to the future Mughal emperor Shah Jahan, and now used for events and dining. It can be reached by boat.",
+      "tip": "Check whether boats are landing when you visit."
+    },
+    {
+      "name": "Jagdish Temple",
+      "text": "A large Hindu temple, dedicated to Vishnu and built in the mid-17th century, with elaborately carved pillars and a steep flight of steps from the street.",
+      "tip": "Remove your shoes and dress modestly."
+    },
+    {
+      "name": "Saheliyon ki Bari",
+      "text": "The Garden of the Maids of Honour, a fountain garden of pools, lotus ponds and marble kiosks, built for the women of the royal household.",
+      "tip": "Best in the morning."
+    },
+    {
+      "name": "Sajjangarh (Monsoon Palace)",
+      "text": "A hilltop palace with views over the lakes, particularly at sunset.",
+      "tip": "Take a taxi."
+    }
+  ],
+  "thingsToDoIntro": "Udaipur is for slow days, evenings by the water and food.",
+  "thingsToDo": [
+    {
+      "title": "Cruise Lake Pichola at sunset",
+      "text": "A boat trip gives views of the City Palace, Jag Mandir and the Lake Palace in the golden light.",
+      "tip": "Book the sunset slot."
+    },
+    {
+      "title": "Take a cooking class",
+      "text": "Learn to make Rajasthani dishes and chai with a local family.",
+      "tip": "Book through your guesthouse."
+    },
+    {
+      "title": "See a folk dance and puppet show",
+      "text": "Evening shows at Bagore Ki Haveli feature music, dance and puppetry.",
+      "tip": "Buy tickets in advance."
+    },
+    {
+      "title": "Visit Ranakpur and Kumbhalgarh",
+      "text": "A day trip to the marble Jain temples of Ranakpur, with more than 1,400 carved pillars, and the huge 15th-century fort of Kumbhalgarh with its long wall.",
+      "tip": "Hire a driver for the day."
+    },
+    {
+      "title": "Shop for miniatures and silver",
+      "text": "Workshops around the City Palace sell miniature paintings and silver jewellery.",
+      "tip": "Check the quality and the price."
+    },
+    {
+      "title": "Have dinner on a rooftop",
+      "text": "The old town has many restaurants with terraces facing the palace.",
+      "tip": "Book a table for sunset."
+    }
+  ],
+  "foodIntro": "Mewari food is similar to that of Rajasthan, with local variations, and Udaipur has a good range of restaurants.",
+  "foods": [
+    {
+      "name": "Dal baati churma",
+      "text": "Baked wheat balls with lentils and a sweet crumbled wheat dessert.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Laal maas",
+      "text": "A spicy red mutton curry.",
+      "whereToTry": "Rajasthani restaurants."
+    },
+    {
+      "name": "Gatte ki sabzi",
+      "text": "Gram-flour dumplings in a spiced yoghurt gravy, popular with vegetarians.",
+      "whereToTry": "Family restaurants."
+    },
+    {
+      "name": "Mirchi vada",
+      "text": "A large green chilli stuffed with potato and fried in batter.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Masala chai and lassi",
+      "text": "Sweet, milky tea and cool yoghurt drinks.",
+      "whereToTry": "Rooftop cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Udaipur has many small heritage hotels facing the lake, and prices vary widely.",
+    "areas": [
+      {
+        "name": "Old city near Lake Pichola",
+        "bestFor": "Views and walking",
+        "text": "Havelis and guesthouses with rooftop terraces overlooking the lake."
+      },
+      {
+        "name": "Around Fateh Sagar",
+        "bestFor": "Quiet and space",
+        "text": "Hotels by another lake, with more modern facilities."
+      },
+      {
+        "name": "Palace hotels",
+        "bestFor": "A special-occasion stay",
+        "text": "Luxury heritage properties on and around the lake."
+      }
+    ],
+    "budget": [
+      { "label": "Budget guesthouse", "value": "US$15–40 per night" },
+      { "label": "Mid-range hotel", "value": "US$50–130 per night" },
+      { "label": "Palace or luxury hotel", "value": "US$200–800 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$5–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Udaipur is in southern Rajasthan, about 400 km from Jaipur.",
+    "options": [
+      {
+        "mode": "Flight",
+        "text": "Direct flights from Delhi, Mumbai, Jaipur and other cities.",
+        "detail": "The airport is 40 minutes from the centre."
+      },
+      {
+        "mode": "Train",
+        "text": "Overnight trains from Delhi and Jaipur take about 8 to 12 hours.",
+        "detail": "Udaipur City station is near the old town."
+      },
+      {
+        "mode": "Road",
+        "text": "About 6 to 7 hours from Jaipur, or about 3 hours from Ranakpur.",
+        "detail": "A driver is comfortable but long."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The old town is walkable, and rickshaws and cabs cover the rest.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The lake front and the old town are on foot.",
+        "detail": "Watch for scooters in narrow lanes."
+      },
+      {
+        "mode": "Auto-rickshaws",
+        "text": "Cheap for short trips.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Taxi or driver",
+        "text": "Best for day trips to Ranakpur and Kumbhalgarh.",
+        "detail": "Book through your hotel."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–March",
+    "summary": "Udaipur is cooler than the rest of Rajasthan, but summers are hot, and lake levels are best after a good monsoon.",
+    "seasons": [
+      {
+        "season": "Winter (November–February)",
+        "rating": "best",
+        "text": "Mild and sunny. Peak season, with weddings."
+      },
+      {
+        "season": "Spring (March–April)",
+        "rating": "good",
+        "text": "Warm, and lakes are lower."
+      },
+      {
+        "season": "Summer (May–June)",
+        "rating": "avoid",
+        "text": "Very hot."
+      },
+      {
+        "season": "Monsoon (July–September)",
+        "rating": "good",
+        "text": "Green hills and full lakes, humid, and fewer visitors."
+      }
+    ],
+    "avoid": "May and June. Wedding season in winter can make hotels expensive."
+  },
+  "itinerary": {
+    "title": "Two days in Udaipur",
+    "intro": "The palace and the lake first, then a slower day of crafts and gardens.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Palace and lake",
+        "summary": "The centre of the city.",
+        "morning": "The City Palace.",
+        "afternoon": "Jagdish Temple and the old town.",
+        "evening": "A boat on Lake Pichola at sunset."
+      },
+      {
+        "day": 2,
+        "title": "Gardens and views",
+        "summary": "A slower day.",
+        "morning": "Saheliyon ki Bari.",
+        "afternoon": "A cooking class.",
+        "evening": "A folk dance show and dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Udaipur is easy, and a few tips help.",
+  "tips": [
+    "Book boat trips for the sunset slot.",
+    "Choose a hotel with a lake view or a rooftop.",
+    "Stay three nights if you can. It is a place people want to linger.",
+    "Bargain in the shops, and compare prices.",
+    "Be wary of drivers who insist on commission stops.",
+    "Book weddings-season hotels early."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Udaipur?",
+      "a": "Two days for the main sights, and three if you want a day trip to Ranakpur and Kumbhalgarh."
+    },
+    {
+      "q": "Can I visit the Lake Palace?",
+      "a": "Generally only as a guest or with a reservation for a meal or drink. It is not an open tourist attraction."
+    },
+    {
+      "q": "Is Udaipur better than Jaipur?",
+      "a": "They are different. Udaipur is more romantic and relaxed, while Jaipur is larger, busier and has more shopping."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "October to March. The lakes are full after the monsoon."
+    },
+    {
+      "q": "Is Udaipur safe?",
+      "a": "Generally yes. The main problems are touts and overcharging."
+    },
+    {
+      "q": "How do I get from Jaipur to Udaipur?",
+      "a": "By flight, overnight train or a long drive of about 6 to 7 hours."
+    }
+  ],
+  "related": ["jaipur", "hampi", "mumbai"],
+  "relatedArticles": ["underrated-destinations", "food-primer"]
+}

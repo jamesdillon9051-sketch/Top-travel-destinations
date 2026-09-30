@@ -1,0 +1,337 @@
+{
+  "slug": "delhi",
+  "name": "Delhi",
+  "country": "india",
+  "region": "National Capital Territory of Delhi, northern India",
+  "categories": ["capital-city", "major-city", "unesco", "historic"],
+  "tagline": "The capital of a hundred capitals: Mughal forts, medieval minarets and tombs, the grand avenues of the British Raj and the noisy lanes and food stalls of Old Delhi.",
+  "highlight": "Humayun's Tomb in the late afternoon, and a plate of kebabs in Old Delhi afterwards.",
+  "shortDescription": "India's capital: a city of layered history with the Red Fort, Humayun's Tomb, the Qutb Minar, Jama Masjid, the boulevards of New Delhi and some of the country's best food.",
+  "metaDescription": "A Delhi travel guide: the Red Fort, Humayun's Tomb, Qutb Minar, Jama Masjid, Chandni Chowk, India Gate, Lodhi Gardens, Old Delhi food, air quality, where to stay and a three-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Indira Gandhi International (DEL), about 45 minutes",
+  "knownFor": "The Red Fort, Humayun's Tomb, Qutb Minar, Old Delhi food, the gateway to India",
+  "budget": "US$60–150 per day, mid-range",
+  "goodFor": "History, food, monuments, gateway to the north",
+  "coords": { "lat": 28.6139, "lng": 77.2090 },
+  "image": {
+    "file": "File:India Gate, New Delhi.jpg",
+    "alt": "India Gate war memorial in New Delhi at the end of a wide ceremonial avenue"
+  },
+  "intro": [
+    "Delhi has been the capital of one empire or another for most of the last thousand years, and it has been built and rebuilt many times, by the Delhi sultans, the Mughals and the British. Its ruins, tombs and mosques are scattered across the modern city, and a walk through Delhi is a walk through layers of history.",
+    "The city falls roughly into two halves. Old Delhi, or Shahjahanabad, is the walled city founded by Shah Jahan in the 17th century, with the Red Fort, the Jama Masjid and the maze of Chandni Chowk. New Delhi, laid out by Edwin Lutyens and Herbert Baker and inaugurated as the capital in 1931, has wide avenues, government buildings and India Gate. Beyond these, the south of the city has the Qutb Minar, Humayun's Tomb and a number of other medieval monuments.",
+    "Delhi is also a huge, hot, polluted and hectic megacity of more than 30 million people in the metropolitan area. Air quality is a serious problem from about October to January. But its food, its monuments and its energy make it a rewarding start to a trip to India."
+  ],
+  "whyVisit": {
+    "intro": "Delhi is the arrival point for most visitors, and it deserves more than a night.",
+    "points": [
+      {
+        "title": "Monuments of many eras",
+        "text": "Three UNESCO World Heritage Sites, the Red Fort, Humayun's Tomb and the Qutb complex, are all within the city."
+      },
+      {
+        "title": "Old Delhi",
+        "text": "Narrow lanes, spice markets, mosques and street food stalls, in a part of the city that has barely changed in a century."
+      },
+      {
+        "title": "Superb food",
+        "text": "From kebabs and butter chicken to chaat, parathas and sweets, Delhi is one of India's best places to eat."
+      },
+      {
+        "title": "Green spaces and museums",
+        "text": "Lodhi Gardens, the National Museum and many smaller collections give a calmer side."
+      },
+      {
+        "title": "Transport hub",
+        "text": "Trains and flights connect Delhi to almost everywhere, and the metro is clean and efficient."
+      }
+    ]
+  },
+  "attractionsIntro": "Delhi's sights are spread out, so group them by area: Old Delhi, New Delhi and the south.",
+  "attractions": [
+    {
+      "name": "The Red Fort",
+      "image": {
+        "file": "File:Red Fort -Delhi -Delhi -SSI 028.jpg",
+        "alt": "The red sandstone walls and gate of the Red Fort in Delhi"
+      },
+      "text": "The great red sandstone fortress-palace of Shah Jahan, built between 1639 and 1648, from whose ramparts India's prime minister addresses the nation each Independence Day. Inside are audience halls, pavilions and a museum.",
+      "tip": "Visit in the morning, and check the days it is closed."
+    },
+    {
+      "name": "Jama Masjid",
+      "image": {
+        "file": "File:20191203 Jama Masjid, Delhi 0707 6468 DxO.jpg",
+        "alt": "The domes and courtyard of the Jama Masjid in Old Delhi"
+      },
+      "text": "One of the largest mosques in India, completed in 1656, with a vast courtyard, three domes and two minarets from which you get a view of Old Delhi.",
+      "tip": "Cover up, remove shoes and avoid prayer times."
+    },
+    {
+      "name": "Chandni Chowk",
+      "text": "The main street of Old Delhi, a chaos of rickshaws, sweet shops, spice markets, jewellers and alleys. Behind the main road are the specialist bazaars and street food lanes.",
+      "tip": "Go on foot or by cycle rickshaw, and come hungry."
+    },
+    {
+      "name": "Humayun's Tomb",
+      "image": {
+        "file": "File:20191205 Grobowiec Humajuna w Delhi 1055 6794.jpg",
+        "alt": "The red sandstone and marble Humayun's Tomb set in formal gardens"
+      },
+      "text": "A garden tomb built in the 1560s for the second Mughal emperor, and an important forerunner of the Taj Mahal. Its symmetrical gardens and red sandstone are beautifully restored.",
+      "tip": "Go late in the afternoon for the warm light."
+    },
+    {
+      "name": "Qutb Minar complex",
+      "image": {
+        "file": "File:Art work on the wall of Qutb Minar Complex.jpg",
+        "alt": "Carved stonework on a wall in the Qutb Minar complex"
+      },
+      "text": "A 72-metre victory tower begun in the late 12th century, the tallest brick minaret in the world, in a complex of early Indo-Islamic ruins, including an iron pillar that has stood for about 1,600 years.",
+      "tip": "Go early to avoid crowds."
+    },
+    {
+      "name": "India Gate and Kartavya Path",
+      "text": "A war memorial for Indian soldiers of the First World War, at the end of a ceremonial avenue that runs to the presidential palace. Locals picnic and eat ice cream here in the evening.",
+      "tip": "Go in the evening when it is lit up."
+    },
+    {
+      "name": "Lodhi Gardens",
+      "text": "A park with 15th- and 16th-century tombs of the Sayyid and Lodhi dynasties, popular with joggers and picnickers.",
+      "tip": "A calm break from the crowds."
+    }
+  ],
+  "thingsToDoIntro": "Delhi is best sampled across a few themes: history, food and quiet places.",
+  "thingsToDo": [
+    {
+      "title": "Take a food walk in Old Delhi",
+      "text": "Follow a guide through the lanes for parathas, kebabs, chaat, jalebi and lassi in the shops that have been serving them for generations.",
+      "tip": "Go with a reputable guide, and eat where locals queue."
+    },
+    {
+      "title": "Ride the Delhi Metro",
+      "text": "A clean, fast and cheap network that reaches most sights and is far quicker than road traffic.",
+      "tip": "Use the women's coaches if you prefer, and avoid rush hour."
+    },
+    {
+      "title": "Visit Gurudwara Bangla Sahib",
+      "text": "A large Sikh temple with a golden dome and a sacred pool, where a community kitchen serves free meals to all.",
+      "tip": "Cover your head and remove shoes."
+    },
+    {
+      "title": "Explore Mehrauli and Hauz Khas",
+      "text": "Ruined tombs and mosques in the south of the city, and a medieval reservoir with cafés and boutiques.",
+      "tip": "Good for a slow afternoon."
+    },
+    {
+      "title": "See the National Museum",
+      "text": "A large collection of Indian art and archaeology, from Harappan finds to miniature paintings.",
+      "tip": "Check opening hours."
+    },
+    {
+      "title": "Shop at Dilli Haat and Khan Market",
+      "text": "Handicrafts from across India at Dilli Haat, and bookshops, cafés and boutiques at Khan Market.",
+      "tip": "Bargain lightly at Dilli Haat."
+    }
+  ],
+  "foodIntro": "Delhi's food is Punjabi and Mughlai at heart, with street food from across northern India.",
+  "foods": [
+    {
+      "name": "Butter chicken and kebabs",
+      "text": "Tandoori-cooked chicken in rich tomato and butter sauce, and skewered kebabs, at restaurants in Old Delhi such as Karim's.",
+      "whereToTry": "Old Delhi near the Jama Masjid."
+    },
+    {
+      "name": "Paranthe",
+      "text": "Stuffed, fried flatbreads with spiced potato, paneer or other fillings, served with curd and pickles, at the famous Paranthe Wali Gali.",
+      "whereToTry": "Chandni Chowk."
+    },
+    {
+      "name": "Chaat",
+      "text": "Tangy, crunchy snacks such as aloo tikki, dahi bhalla and golgappa.",
+      "whereToTry": "Street stalls in Old Delhi and Khan Market."
+    },
+    {
+      "name": "Chole bhature",
+      "text": "Spiced chickpeas with puffy fried bread, a hearty Punjabi breakfast or lunch.",
+      "whereToTry": "Local restaurants across the city."
+    },
+    {
+      "name": "Jalebi and lassi",
+      "text": "Hot, syrupy fried sweets and thick yoghurt drinks.",
+      "whereToTry": "Old Delhi sweet shops."
+    },
+    {
+      "name": "Daulat ki chaat",
+      "text": "A winter delicacy of frothy sweet milk foam, sold from carts in Old Delhi.",
+      "whereToTry": "Old Delhi in winter."
+    }
+  ],
+  "accommodation": {
+    "intro": "Delhi is huge, and location matters. Central New Delhi and the areas near the metro are the best bases.",
+    "areas": [
+      {
+        "name": "Connaught Place and central New Delhi",
+        "bestFor": "Transport and convenience",
+        "text": "Hotels near the metro, with restaurants and shops."
+      },
+      {
+        "name": "South Delhi (Hauz Khas, Defence Colony)",
+        "bestFor": "Cafés and a residential feel",
+        "text": "Boutique hotels and guesthouses in leafy neighbourhoods."
+      },
+      {
+        "name": "Old Delhi",
+        "bestFor": "Atmosphere",
+        "text": "Heritage havelis and small hotels near the Red Fort and Jama Masjid."
+      },
+      {
+        "name": "Aerocity",
+        "bestFor": "Early or late flights",
+        "text": "International-standard hotels near the airport."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel", "value": "US$20–50 per night" },
+      { "label": "Mid-range hotel", "value": "US$70–150 per night" },
+      { "label": "Luxury hotel", "value": "US$200–500 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$5–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Delhi is India's main international gateway and rail hub.",
+    "options": [
+      {
+        "mode": "Flight to Delhi (DEL)",
+        "text": "Direct flights from Europe, North America, the Middle East and Asia.",
+        "detail": "The Airport Express metro line links the airport to the centre in about 20 minutes."
+      },
+      {
+        "mode": "Train",
+        "text": "Fast trains from Agra (about 2 hours), Jaipur (about 4 to 5 hours) and Varanasi, and overnight trains from Amritsar and Mumbai.",
+        "detail": "Book through IRCTC."
+      },
+      {
+        "mode": "Road",
+        "text": "Delhi is about 200 km from Agra and 280 km from Jaipur.",
+        "detail": "Expressways make driving easier, but traffic in the city is heavy."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Traffic is heavy, and the metro is the quickest way to move.",
+    "options": [
+      {
+        "mode": "Delhi Metro",
+        "text": "An extensive network of air-conditioned trains that reach the Red Fort, Connaught Place, Qutb Minar and the airport.",
+        "detail": "Buy a smart card or use the app."
+      },
+      {
+        "mode": "App cabs and auto-rickshaws",
+        "text": "Uber, Ola and Rapido operate, and auto-rickshaws serve short hops.",
+        "detail": "Use apps for fixed prices."
+      },
+      {
+        "mode": "Cycle rickshaw",
+        "text": "A fun way to see the lanes of Old Delhi.",
+        "detail": "Agree the price in advance."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–March",
+    "summary": "Delhi has an extreme climate, with very hot summers, a monsoon from July to September and cold, foggy, polluted winters.",
+    "seasons": [
+      {
+        "season": "Winter (November–February)",
+        "rating": "best",
+        "text": "Pleasant days, cold nights. Air pollution can be severe, particularly from November to January."
+      },
+      {
+        "season": "Spring (March–April)",
+        "rating": "best",
+        "text": "Warm and clear, before the heat builds."
+      },
+      {
+        "season": "Summer (May–June)",
+        "rating": "avoid",
+        "text": "Very hot, often above 40°C."
+      },
+      {
+        "season": "Monsoon (July–September)",
+        "rating": "quiet",
+        "text": "Humid with heavy showers, and clearer air."
+      }
+    ],
+    "avoid": "May and June for the heat, and the worst smog weeks from late October to early January if you are sensitive to air quality."
+  },
+  "itinerary": {
+    "title": "Three days in Delhi",
+    "intro": "Old Delhi on the first day, New Delhi and the tombs on the second, and the south on the third.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Old Delhi",
+        "summary": "Fort, mosque and lanes.",
+        "morning": "The Red Fort.",
+        "afternoon": "Jama Masjid and Chandni Chowk.",
+        "evening": "A street food walk."
+      },
+      {
+        "day": 2,
+        "title": "Tombs and avenues",
+        "summary": "Mughal and colonial Delhi.",
+        "morning": "Humayun's Tomb.",
+        "afternoon": "Lodhi Gardens and the National Museum.",
+        "evening": "India Gate, and dinner in Khan Market."
+      },
+      {
+        "day": 3,
+        "title": "The south",
+        "summary": "Minarets and ruins.",
+        "morning": "The Qutb Minar complex.",
+        "afternoon": "Mehrauli and Hauz Khas.",
+        "evening": "Gurudwara Bangla Sahib, and a last dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Delhi is intense, and a few habits help.",
+  "tips": [
+    "Use the metro for speed. Road traffic is heavy.",
+    "Check the air quality index in winter, and carry a mask if you are sensitive.",
+    "Use official prepaid taxis or apps from the airport to avoid scams.",
+    "Avoid touts who say that a monument or station is closed.",
+    "Carry small notes for rickshaws and tips.",
+    "Dress modestly, particularly for religious sites.",
+    "Start early and rest at midday, since the heat and crowds build fast."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Delhi?",
+      "a": "Two or three days. One day gives you Old Delhi, and another the tombs and New Delhi."
+    },
+    {
+      "q": "Is Delhi safe?",
+      "a": "It is generally safe for visitors, though it has the usual big-city hazards. Women should take particular care at night and use registered taxis."
+    },
+    {
+      "q": "Is the air pollution really that bad?",
+      "a": "In winter, yes. The worst months are November to January. Check daily readings and plan indoor activities on bad days."
+    },
+    {
+      "q": "What is the best time to visit Delhi?",
+      "a": "October to March, though winter smog is a concern. Spring is pleasant."
+    },
+    {
+      "q": "Should I stay in Old Delhi or New Delhi?",
+      "a": "New Delhi or South Delhi is more comfortable, and the metro connects everywhere. Old Delhi is atmospheric but chaotic."
+    },
+    {
+      "q": "How do I get from the airport to the city?",
+      "a": "The Airport Express metro is the quickest and cheapest option. Prepaid taxis and app cabs are alternatives."
+    }
+  ],
+  "related": ["agra", "jaipur", "amritsar"],
+  "relatedArticles": ["food-primer", "unesco-worth-planning-around"]
+}

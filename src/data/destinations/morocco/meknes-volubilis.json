@@ -1,0 +1,297 @@
+{
+  "slug": "meknes-volubilis",
+  "name": "Meknes and Volubilis",
+  "shortName": "Meknes",
+  "country": "morocco",
+  "region": "Fès-Meknès, northern Morocco",
+  "categories": ["unesco", "archaeological", "historic", "off-the-beaten-path"],
+  "tagline": "A quiet imperial city of monumental gates and a sultan's stables, and the best-preserved Roman ruins in Morocco, in an olive-covered plain.",
+  "highlight": "The mosaics of Volubilis, still in place, with the Roman arch and the Zerhoun hills behind.",
+  "shortDescription": "A UNESCO-listed imperial city built by Sultan Moulay Ismail, with vast gates and granaries, plus the Roman site of Volubilis and the holy town of Moulay Idriss nearby.",
+  "metaDescription": "A Meknes and Volubilis travel guide: Bab Mansour, Moulay Ismail's mausoleum, Heri es-Souani, the Roman mosaics of Volubilis, Moulay Idriss, day trips from Fes, and a two-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Fès–Saïs (FEZ), about 1 hour",
+  "knownFor": "Bab Mansour, Moulay Ismail's imperial city, Roman Volubilis",
+  "budget": "US$45–100 per day, mid-range",
+  "goodFor": "History, Roman ruins, quiet exploration, a day trip from Fes",
+  "coords": { "lat": 33.8935, "lng": -5.5473 },
+  "image": {
+    "file": "File:The Roman Ruins of Volubilis - Morocco.jpg",
+    "alt": "The Roman ruins of Volubilis with columns and the surrounding olive plain"
+  },
+  "intro": [
+    "Meknes was a modest city until the second half of the 17th century, when Sultan Moulay Ismail (r. 1672–1727) made it his capital. Over 55 years he built miles of walls, monumental gates, palaces, granaries and stables, which turned Meknes into one of Morocco's four imperial cities. UNESCO inscribed the historic city in 1996.",
+    "It is a quieter, less touristy alternative to Fes or Marrakech, with a friendly medina and a relaxed pace. The great gate of Bab Mansour, completed in 1732, is one of the finest in Morocco, and the sultan's mausoleum is one of the few in the country that non-Muslims can enter.",
+    "About 30 km north lie the ruins of Volubilis, a Roman town in the province of Mauretania Tingitana, inscribed by UNESCO in 1997. It flourished from the 1st to 3rd centuries AD on the olive and grain trade, and its mosaics, capitol and triumphal arch remain in a landscape of rolling fields. Nearby, Moulay Idriss is a hillside pilgrimage town holding the tomb of the founder of Morocco's first Islamic dynasty."
+  ],
+  "whyVisit": {
+    "intro": "Meknes and Volubilis together make one of the best day or two-day excursions in Morocco.",
+    "points": [
+      {
+        "title": "Roman Morocco",
+        "text": "Volubilis is the best-preserved Roman site in the country, with mosaics still in their original position."
+      },
+      {
+        "title": "Imperial monumental architecture",
+        "text": "Bab Mansour, the Heri es-Souani granaries and the walls show the ambitions of Moulay Ismail."
+      },
+      {
+        "title": "Fewer crowds",
+        "text": "A calmer medina than Fes or Marrakech, with less hassle."
+      },
+      {
+        "title": "A holy hill town",
+        "text": "Moulay Idriss stacks white houses on two hills, and is a pleasant place for lunch."
+      },
+      {
+        "title": "A base near Fes",
+        "text": "Meknes is only an hour from Fes, and a good stop between Fes and Rabat."
+      }
+    ]
+  },
+  "attractionsIntro": "Give Meknes a morning and Volubilis an afternoon, or stay overnight and take it slowly.",
+  "attractions": [
+    {
+      "name": "Bab Mansour",
+      "image": {
+        "file": "File:Bab Mansour gate.jpg",
+        "alt": "The ornate green-and-white tiled Bab Mansour gate in Meknes"
+      },
+      "text": "The great ceremonial gate, finished in 1732, decorated with zellige tile and marble columns, some taken from Volubilis.",
+      "tip": "Photograph it in the late afternoon."
+    },
+    {
+      "name": "The Mausoleum of Moulay Ismail",
+      "text": "The tomb of the sultan, a series of elegant courtyards with zellige, carved plaster and a fountain. It is open to non-Muslims, unusual in Morocco.",
+      "tip": "Dress modestly and remove your shoes as requested."
+    },
+    {
+      "name": "Heri es-Souani",
+      "text": "The massive granaries and former stables of the sultan, with rows of great arches in a vast space, built to house grain and horses.",
+      "tip": "Combine with the neighbouring water tank."
+    },
+    {
+      "name": "Place el-Hedim and the medina",
+      "text": "A large square facing Bab Mansour, with cafés and snake charmers, leading into the medina and its craft stalls.",
+      "tip": "The medina is easy to explore alone."
+    },
+    {
+      "name": "Bou Inania Madrasa, Meknes",
+      "text": "A 14th-century Marinid college with decorated courtyards, quieter than the one in Fes.",
+      "tip": "Check opening."
+    }
+  ],
+  "thingsToDoIntro": "This is a place for history, and for wandering.",
+  "thingsToDo": [
+    {
+      "title": "Explore the Roman ruins at Volubilis",
+      "text": "Walk the paved main street, the basilica and the capitol, and see the mosaics, including the Labours of Hercules and Diana bathing.",
+      "tip": "Go in the morning, and hire a guide at the entrance."
+    },
+    {
+      "title": "Visit Moulay Idriss",
+      "text": "A hilltop town holding the tomb of Idris I, the founder of Morocco's first Islamic dynasty. It is a pilgrimage site.",
+      "tip": "Non-Muslims cannot enter the shrine, but the town has views."
+    },
+    {
+      "title": "Walk the imperial city",
+      "text": "Follow the walls and gates from Bab Mansour to the mausoleum.",
+      "tip": "Go early to avoid the heat."
+    },
+    {
+      "title": "Taste local wine",
+      "text": "The Meknes region is Morocco's main wine-growing area, with vineyards and tastings.",
+      "tip": "Ask your hotel about tasting visits."
+    },
+    {
+      "title": "Shop in the medina",
+      "text": "Damascene metalwork, ceramics and textiles, in a calm setting.",
+      "tip": "Prices are often lower than in Fes."
+    },
+    {
+      "title": "Combine with Fes",
+      "text": "Use Meknes as a day trip from Fes or a stop on the way between Rabat and Fes.",
+      "tip": "Take the train."
+    }
+  ],
+  "foodIntro": "Meknes is known for its olives and fruit, and its food is simple, Fassi-influenced Moroccan cooking.",
+  "foods": [
+    {
+      "name": "Olives",
+      "text": "The region is one of Morocco's big olive producers, and olives and oil are sold in the market.",
+      "whereToTry": "The main market."
+    },
+    {
+      "name": "Tagines and couscous",
+      "text": "Classic dishes in local restaurants.",
+      "whereToTry": "Restaurants in the medina."
+    },
+    {
+      "name": "Local wine",
+      "text": "Red and rosé wines, from vineyards near Meknes.",
+      "whereToTry": "Restaurants and wine tastings."
+    },
+    {
+      "name": "Grilled meat",
+      "text": "Kebabs and kefta sandwiches.",
+      "whereToTry": "Stalls on Place el-Hedim."
+    },
+    {
+      "name": "Pastries and mint tea",
+      "text": "Local sweets in cafés.",
+      "whereToTry": "Cafés around Place el-Hedim."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the medina or the new town, and consider a night near Volubilis.",
+    "areas": [
+      {
+        "name": "The medina",
+        "bestFor": "Atmosphere",
+        "text": "Riads and guesthouses near Place el-Hedim."
+      },
+      {
+        "name": "The new town",
+        "bestFor": "Hotels and restaurants",
+        "text": "Modern hotels near the station."
+      },
+      {
+        "name": "Near Volubilis",
+        "bestFor": "The ruins",
+        "text": "Guesthouses in the countryside or in Moulay Idriss."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel", "value": "US$25–55 per night" },
+      { "label": "Mid-range riad", "value": "US$60–120 per night" },
+      { "label": "Boutique hotel", "value": "US$130–250 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$5–12 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Meknes lies about 60 km west of Fes, on the main train line.",
+    "options": [
+      {
+        "mode": "Train from Fes or Rabat",
+        "text": "About 45 minutes to 1 hour from Fes and about 2 hours from Rabat.",
+        "detail": "Meknes El Amir Abdelkader is the main station."
+      },
+      {
+        "mode": "Grand taxi to Volubilis",
+        "text": "About 30 minutes from Meknes. Taxis often include Moulay Idriss.",
+        "detail": "Agree the price and the waiting time."
+      },
+      {
+        "mode": "Private driver or tour",
+        "text": "Day trips from Fes cover Meknes, Volubilis and Moulay Idriss.",
+        "detail": "Arrange through your riad."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The medina is on foot, and you need a taxi for Volubilis.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The medina and Place el-Hedim are walkable.",
+        "detail": "Wear sun protection."
+      },
+      {
+        "mode": "Petits taxis",
+        "text": "Serve the imperial city and the new town.",
+        "detail": "Insist on the meter."
+      },
+      {
+        "mode": "Grand taxi",
+        "text": "Shared or chartered to Volubilis and Moulay Idriss.",
+        "detail": "Agree the fare."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Meknes has hot summers and cool, wet winters. Spring and autumn are best for Volubilis, which has little shade.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Green fields and mild temperatures."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Hot, and the Roman site has little shade."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Pleasant, and quieter."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cool, with rain."
+      }
+    ],
+    "avoid": "The midday heat in summer."
+  },
+  "itinerary": {
+    "title": "Two days in Meknes and Volubilis",
+    "intro": "The imperial city and the Roman ruins, with a stop at Moulay Idriss.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Imperial Meknes",
+        "summary": "Gates and granaries.",
+        "morning": "Bab Mansour and the Mausoleum of Moulay Ismail.",
+        "afternoon": "Heri es-Souani and the medina.",
+        "evening": "Dinner on Place el-Hedim."
+      },
+      {
+        "day": 2,
+        "title": "Volubilis and Moulay Idriss",
+        "summary": "Rome and a holy town.",
+        "morning": "The Roman ruins at Volubilis.",
+        "afternoon": "Lunch in Moulay Idriss.",
+        "evening": "Continue to Fes or Rabat."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan the visit.",
+  "tips": [
+    "Go to Volubilis in the morning, when it is cooler.",
+    "Hire a guide at the Volubilis entrance for the mosaics.",
+    "Bring a hat, sunscreen and water for the ruins.",
+    "Dress modestly for the mausoleum.",
+    "Combine with Fes by train, or stay in Meknes.",
+    "Agree taxi fares and waiting time in advance."
+  ],
+  "faq": [
+    {
+      "q": "Is Meknes worth visiting?",
+      "a": "Yes, for its imperial monuments and quiet medina, and as a base for Volubilis. It is less touristy than Fes."
+    },
+    {
+      "q": "How long do you need for Volubilis?",
+      "a": "About two hours, with a guide."
+    },
+    {
+      "q": "Can I do Meknes and Volubilis as a day trip from Fes?",
+      "a": "Yes. It is an easy and popular day trip, by train and taxi or private driver."
+    },
+    {
+      "q": "Can non-Muslims enter the mausoleum of Moulay Ismail?",
+      "a": "Yes, it is one of the few in Morocco open to non-Muslims."
+    },
+    {
+      "q": "What is Moulay Idriss?",
+      "a": "A holy hill town that holds the tomb of Idris I, Morocco's first Islamic ruler."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "Spring and autumn."
+    }
+  ],
+  "related": ["fes", "rabat", "chefchaouen"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

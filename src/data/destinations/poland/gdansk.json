@@ -1,0 +1,318 @@
+{
+  "slug": "gdansk",
+  "name": "Gdańsk",
+  "country": "poland",
+  "region": "Pomerania, Baltic coast",
+  "categories": ["major-city", "historic", "coastal", "cultural"],
+  "tagline": "A rebuilt Hanseatic port of tall merchant houses and amber shops, where the Second World War began and the Solidarity movement toppled communism.",
+  "highlight": "The Long Market at dusk, with its ornate gables, Neptune's Fountain and the Motława waterfront glowing beyond.",
+  "shortDescription": "A Baltic port with a reconstructed Main Town, the Neptune Fountain, St. Mary's Church, the Crane, the European Solidarity Centre, the Museum of the Second World War and beaches at Sopot.",
+  "metaDescription": "A Gdańsk travel guide: the Long Market and Neptune Fountain, the Motława waterfront, St. Mary's Church, Museum of the Second World War, Westerplatte, Solidarity, Sopot, amber, where to stay and a two-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Gdańsk Lech Wałęsa (GDN), about 30 minutes",
+  "knownFor": "Hanseatic old town, amber, Solidarity, Baltic beaches",
+  "budget": "US$90–160 per day, mid-range",
+  "goodFor": "History, seafood, beaches, museums, city breaks",
+  "coords": { "lat": 54.3520, "lng": 18.6466 },
+  "image": {
+    "file": "File:Old Town houses and port crane along Motława, Gdańsk.jpg",
+    "alt": "Merchant houses and the medieval port crane along the Motława river in Gdańsk"
+  },
+  "intro": [
+    "Gdańsk, on the Baltic coast, was for centuries one of the richest ports in northern Europe, a Hanseatic trading city that shipped grain and timber, and grew wealthy on amber. Its Main Town is a display of tall, narrow merchant houses with sculpted gables, and the lively Long Market at its heart, lined with elaborate facades and topped by a Neptune fountain from the 17th century.",
+    "The city is also a place where twentieth-century history was made. The first shots of the Second World War were fired at Westerplatte in 1939, and most of the old town was destroyed in 1945 and then rebuilt with great care. In 1980, workers in the Gdańsk Shipyard formed Solidarity, the independent trade union led by Lech Wałęsa that helped bring down communism, and the European Solidarity Centre tells the story.",
+    "Away from history, Gdańsk is a relaxed seaside city, with the amber-shop lanes of Mariacka Street, seafood on the waterfront and beaches along the Bay of Gdańsk. Together with Sopot and Gdynia it forms the Tricity. Two or three days lets you cover the old town, the museums and a day at the beach."
+  ],
+  "whyVisit": {
+    "intro": "Gdańsk pairs a beautiful old town with some of Europe's most important modern history.",
+    "points": [
+      {
+        "title": "A Hanseatic old town",
+        "text": "Tall gabled houses and the Long Market."
+      },
+      {
+        "title": "Solidarity and the war",
+        "text": "Museums and monuments."
+      },
+      {
+        "title": "Amber",
+        "text": "The Baltic gold, sold on Mariacka Street."
+      },
+      {
+        "title": "Beaches",
+        "text": "Sopot and the Baltic."
+      },
+      {
+        "title": "Seafood and craft beer",
+        "text": "A lively food scene."
+      }
+    ]
+  },
+  "attractionsIntro": "The Main Town is compact, and the museums are a short walk or tram ride away.",
+  "attractions": [
+    {
+      "name": "Long Market and Neptune's Fountain",
+      "image": {
+        "file": "File:Poland, Gdansk, Old Town, Neptune's Fountain 150501-50.jpg",
+        "alt": "Neptune's Fountain in the Long Market of Gdańsk"
+      },
+      "text": "The main street of the old town, lined with ornate merchant houses, with the Artus Court and a bronze Neptune in the middle.",
+      "tip": "Walk it early or late."
+    },
+    {
+      "name": "St. Mary's Church",
+      "image": {
+        "file": "File:Gdansk 2023 125.jpg",
+        "alt": "The huge brick St. Mary's Church in Gdańsk"
+      },
+      "text": "One of the largest brick churches in the world, with a tower you can climb for views over the city.",
+      "tip": "Climb the 400 steps."
+    },
+    {
+      "name": "The Motława waterfront and the Crane",
+      "image": {
+        "file": "File:Old Town houses and port crane along Motława, Gdańsk, evening.jpg",
+        "alt": "The medieval port crane on the Motława waterfront at evening"
+      },
+      "text": "A medieval wooden port crane, the largest in Europe in its day, beside the river promenade with restaurants and boat trips.",
+      "tip": "Go at sunset."
+    },
+    {
+      "name": "Museum of the Second World War",
+      "image": {
+        "file": "File:Museum of the Second World War in Gdańsk 2025b.jpg",
+        "alt": "The modern Museum of the Second World War building in Gdańsk"
+      },
+      "text": "A large, immersive museum on the causes and human cost of the war, in a striking modern building.",
+      "tip": "Allow at least three hours."
+    },
+    {
+      "name": "Westerplatte",
+      "image": {
+        "file": "File:Gdansk Westerplatte 1.jpg",
+        "alt": "The Westerplatte peninsula monument in Gdańsk"
+      },
+      "text": "The peninsula where the first shots of the Second World War were fired, with a memorial.",
+      "tip": "Take a boat or bus."
+    },
+    {
+      "name": "European Solidarity Centre",
+      "text": "A museum about the Solidarity movement, beside the shipyard gate.",
+      "tip": "Allow two hours."
+    }
+  ],
+  "thingsToDoIntro": "Gdańsk mixes history and the seaside.",
+  "thingsToDo": [
+    {
+      "title": "Shop for amber",
+      "text": "Mariacka Street's jewellers.",
+      "tip": "Check for authentic amber."
+    },
+    {
+      "title": "Take a boat trip",
+      "text": "To Westerplatte from the Crane.",
+      "tip": "Book in summer."
+    },
+    {
+      "title": "Visit Sopot",
+      "text": "A resort town with a very long wooden pier.",
+      "tip": "Go by SKM train."
+    },
+    {
+      "title": "Try a seafood dinner",
+      "text": "Baltic herring and cod.",
+      "tip": "Book on weekends."
+    },
+    {
+      "title": "Tour the shipyard",
+      "text": "Learn about Solidarity.",
+      "tip": "Join a guide."
+    },
+    {
+      "title": "Swim in the Baltic",
+      "text": "Beaches from June to August.",
+      "tip": "Water is cool."
+    }
+  ],
+  "foodIntro": "Gdańsk's food is Baltic, with fish and amber-coloured spirits.",
+  "foods": [
+    {
+      "name": "Baltic herring and cod",
+      "text": "Fresh and smoked fish.",
+      "whereToTry": "Waterfront restaurants."
+    },
+    {
+      "name": "Goldwasser",
+      "text": "A herbal liqueur with gold flakes made in Gdańsk since 1598.",
+      "whereToTry": "Bars."
+    },
+    {
+      "name": "Pierogi",
+      "text": "Dumplings.",
+      "whereToTry": "Milk bars."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Local breweries.",
+      "whereToTry": "Old Town pubs."
+    },
+    {
+      "name": "Kashubian dishes",
+      "text": "Regional cooking.",
+      "whereToTry": "Restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the Main Town.",
+    "areas": [
+      {
+        "name": "Main Town",
+        "bestFor": "Sightseeing",
+        "text": "Hotels and apartments."
+      },
+      {
+        "name": "Granary Island",
+        "bestFor": "Waterfront",
+        "text": "Modern hotels."
+      },
+      {
+        "name": "Sopot",
+        "bestFor": "Beaches",
+        "text": "Seaside hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$15–28 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–150 per night" },
+      { "label": "Luxury hotel", "value": "US$180–350 per night" },
+      { "label": "Seafood meal", "value": "US$15–30 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Gdańsk is on the Baltic coast.",
+    "options": [
+      {
+        "mode": "Train from Warsaw",
+        "text": "About 3 hours.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Flight",
+        "text": "Many European routes.",
+        "detail": "The airport is close."
+      },
+      {
+        "mode": "SKM train from Sopot",
+        "text": "A short suburban ride.",
+        "detail": "Frequent."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The Main Town is walkable.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The old town.",
+        "detail": "Comfortable shoes."
+      },
+      {
+        "mode": "Trams and SKM",
+        "text": "To the museums and Sopot.",
+        "detail": "Buy tickets."
+      },
+      {
+        "mode": "Ride-hailing",
+        "text": "Cheap.",
+        "detail": "Bolt or Uber."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June–September",
+    "summary": "Gdańsk has a cool maritime climate.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "good",
+        "text": "Mild and quiet."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Beach season and the St. Dominic's Fair."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Calm and golden."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold and grey, with Christmas markets."
+      }
+    ],
+    "avoid": "Grey winter days."
+  },
+  "itinerary": {
+    "title": "Two days in Gdańsk",
+    "intro": "The old town and the history.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Main Town",
+        "summary": "Gables and amber.",
+        "morning": "The Long Market.",
+        "afternoon": "St. Mary's Church and Mariacka Street.",
+        "evening": "The waterfront."
+      },
+      {
+        "day": 2,
+        "title": "History and beach",
+        "summary": "War and sea.",
+        "morning": "Museum of the Second World War.",
+        "afternoon": "Solidarity Centre.",
+        "evening": "Sopot pier."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book the WWII museum time slot.",
+    "Buy authentic amber.",
+    "Climb St. Mary's for views.",
+    "Take the SKM to Sopot.",
+    "Bring a jacket for the sea breeze.",
+    "Visit in August for the fair.",
+    "Try the local herring."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Gdańsk?",
+      "a": "Two or three."
+    },
+    {
+      "q": "Is Gdańsk worth visiting?",
+      "a": "Yes."
+    },
+    {
+      "q": "Can I swim?",
+      "a": "In summer, though the sea is cool."
+    },
+    {
+      "q": "What is Gdańsk known for?",
+      "a": "Amber, Solidarity and its old town."
+    },
+    {
+      "q": "How do I get to Sopot?",
+      "a": "SKM train in 20 minutes."
+    },
+    {
+      "q": "Was Gdańsk rebuilt?",
+      "a": "Yes, after 1945."
+    }
+  ],
+  "related": ["malbork", "torun", "warsaw"],
+  "relatedArticles": ["first-trip-to-europe", "mediterranean-coasts"]
+}

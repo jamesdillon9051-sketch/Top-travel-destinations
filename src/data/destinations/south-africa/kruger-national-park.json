@@ -1,0 +1,313 @@
+{
+  "slug": "kruger-national-park",
+  "name": "Kruger National Park",
+  "country": "south-africa",
+  "region": "Limpopo and Mpumalanga, north-east South Africa",
+  "categories": ["national-park", "nature", "off-the-beaten-path"],
+  "tagline": "One of Africa's largest and best-managed game reserves, the size of Wales, where the Big Five roam and you can drive yourself between rest camps and waterholes.",
+  "highlight": "A dawn game drive that ends with a leopard resting in a tree beside the road.",
+  "shortDescription": "South Africa's flagship safari destination: 19,500 square kilometres of savanna with lions, leopards, elephants, rhinos, buffaloes and more, visited by self-drive, guided drives and private reserves.",
+  "metaDescription": "A Kruger National Park travel guide: the Big Five, self-drive and guided game drives, rest camps, private reserves such as Sabi Sands, best time for wildlife, malaria, how to get there and a three-day plan.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Skukuza (SZK), Hoedspruit Eastgate (HDS), Kruger Mpumalanga (MQP) or Phalaborwa (PHW)",
+  "knownFor": "The Big Five, self-drive safaris, rest camps, birdlife, bushveld",
+  "budget": "US$120–300 per day for self-drive; private lodges cost US$500+",
+  "goodFor": "Wildlife, self-drive safaris, photography, families",
+  "coords": { "lat": -23.9884, "lng": 31.5547 },
+  "image": {
+    "file": "File:Kruger National Park (ZA), Elefant -- 2024 -- 0649.jpg",
+    "alt": "An elephant standing in the bushveld of Kruger National Park"
+  },
+  "intro": [
+    "Kruger National Park covers almost 20,000 square kilometres along South Africa's north-eastern border with Mozambique, an area the size of Wales, or of Israel. It began in 1898 as the Sabie Game Reserve, and it became a national park in 1926, named after the Boer president Paul Kruger. Today it is one of the most biodiverse protected areas in Africa, with about 150 species of mammal, including the Big Five, more than 500 species of bird and a landscape of open savanna, acacia woodland, rivers and rocky hills.",
+    "What sets Kruger apart is how easy it is to visit. A network of paved and gravel roads, 12 main rest camps with chalets and campsites, restaurants and shops, means that visitors can drive their own vehicles, and many do. Others join guided game drives at dawn, dusk or night, or bush walks with armed rangers. Along the western boundary, private reserves such as Sabi Sands and Timbavati share unfenced land with Kruger, and offer off-road drives and luxury lodges.",
+    "The dry season, from May to September, is the best time for wildlife, as animals gather at rivers and waterholes and the vegetation thins. Rhino poaching has been a serious problem in recent years, and the park has worked to protect its populations, though sightings are less common than they once were. Even so, a stay here is the classic African safari."
+  ],
+  "whyVisit": {
+    "intro": "Kruger is Africa's most accessible big-game park, with wildlife that ranges from elephants to tiny birds.",
+    "points": [
+      {
+        "title": "The Big Five and more",
+        "text": "Lion, leopard, elephant, rhino and buffalo, plus giraffe, zebra, hippo, cheetah and wild dogs."
+      },
+      {
+        "title": "Self-drive freedom",
+        "text": "Explore at your own pace on well-kept roads, stopping at waterholes and viewpoints."
+      },
+      {
+        "title": "Guided drives and walks",
+        "text": "Dawn, sunset and night drives with expert rangers."
+      },
+      {
+        "title": "A range of budgets",
+        "text": "From campsites and chalets to some of the world's best safari lodges."
+      },
+      {
+        "title": "Superb birdlife",
+        "text": "Eagles, hornbills, rollers and hundreds of other species."
+      }
+    ]
+  },
+  "attractionsIntro": "Kruger is a vast park with distinct regions, each with different wildlife and character.",
+  "attractions": [
+    {
+      "name": "Skukuza and the Sabie River",
+      "text": "The largest rest camp, in the south, on the Sabie River, with many animals along its banks and a good chance of seeing leopards.",
+      "tip": "Drive the river road at dawn."
+    },
+    {
+      "name": "Satara and the central plains",
+      "image": {
+        "file": "File:Kruger National Park (ZA), Löwe -- 2024 -- 0845.jpg",
+        "alt": "A lion resting in the grass of Kruger National Park"
+      },
+      "text": "Open grassland in the centre, rich in grazers and known for lions, which follow the herds of zebra, wildebeest and buffalo.",
+      "tip": "Look for lions near waterholes."
+    },
+    {
+      "name": "Leopards and the south",
+      "image": {
+        "file": "File:Leopard (Panthera pardus pardus) young female Kruger 2.jpg",
+        "alt": "A young female leopard in Kruger National Park"
+      },
+      "text": "The southern part, from Lower Sabie to Berg-en-Dal, has dense bush and a high density of wildlife, including leopards and rhinos.",
+      "tip": "Scan trees along rivers."
+    },
+    {
+      "name": "Olifants and Letaba",
+      "text": "Camps in the north-central region with views over rivers and elephant herds, and the Letaba Elephant Hall museum.",
+      "tip": "Stay a night for the river views."
+    },
+    {
+      "name": "Sabi Sands and private reserves",
+      "image": {
+        "file": "File:Makalali Game Reserve (ZA), Sonnenuntergang -- 2024 -- 1713.jpg",
+        "alt": "A sunset over the bushveld of a private game reserve near Kruger"
+      },
+      "text": "Private reserves along Kruger's western border, unfenced from the park, offering off-road drives, night drives and close leopard encounters, at a high price.",
+      "tip": "Book far ahead."
+    }
+  ],
+  "thingsToDoIntro": "The main activity is game viewing, on your own or with a guide.",
+  "thingsToDo": [
+    {
+      "title": "Do a self-drive safari",
+      "text": "Drive the park's roads at your own pace, with a map and binoculars.",
+      "tip": "Drive slowly, and stay in your car."
+    },
+    {
+      "title": "Join a dawn or sunset game drive",
+      "text": "A guided drive in an open vehicle, with a ranger who spots wildlife.",
+      "tip": "Book in the camp."
+    },
+    {
+      "title": "Take a night drive",
+      "text": "See leopards, hyenas, owls and bushbabies with a spotlight.",
+      "tip": "Bring warm clothes."
+    },
+    {
+      "title": "Go on a bush walk",
+      "text": "A guided walk with an armed ranger, learning about tracks, plants and insects.",
+      "tip": "Follow the ranger's instructions."
+    },
+    {
+      "title": "Watch a waterhole",
+      "text": "Sit at a hide or camp waterhole and watch animals come and go.",
+      "tip": "Bring patience and binoculars."
+    },
+    {
+      "title": "Stay in a private lodge",
+      "text": "A luxury stay with trackers and off-road drives.",
+      "tip": "Book months ahead."
+    }
+  ],
+  "foodIntro": "Food in Kruger is simple, with braais, buffets and camp restaurants.",
+  "foods": [
+    {
+      "name": "Braai and boerewors",
+      "text": "Barbecue at rest-camp braai areas, with steak, chops and sausages.",
+      "whereToTry": "Every camp."
+    },
+    {
+      "name": "Potjiekos",
+      "text": "A slow-cooked stew in a cast-iron pot, over a fire.",
+      "whereToTry": "Lodges."
+    },
+    {
+      "name": "Game meat",
+      "text": "Kudu, springbok and impala, in stews and steaks.",
+      "whereToTry": "Restaurants and lodges."
+    },
+    {
+      "name": "Biltong and rusks",
+      "text": "Dried meat and hard biscuits for dunking in coffee.",
+      "whereToTry": "Camp shops."
+    },
+    {
+      "name": "Sundowner drinks",
+      "text": "Gin and tonic or wine at sunset in the bush.",
+      "whereToTry": "Lodges."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in rest camps for value, or in private lodges for a higher-end experience.",
+    "areas": [
+      {
+        "name": "SANParks rest camps",
+        "bestFor": "Value and self-drive",
+        "text": "Chalets, safari tents and campsites in fenced camps."
+      },
+      {
+        "name": "Private concessions",
+        "bestFor": "Comfort and exclusivity",
+        "text": "Lodges within Kruger with guided drives."
+      },
+      {
+        "name": "Private reserves (Sabi Sands, Timbavati)",
+        "bestFor": "Leopards and off-road drives",
+        "text": "Luxury lodges, with all activities included."
+      }
+    ],
+    "budget": [
+      { "label": "Camp or tent", "value": "US$20–60 per night" },
+      { "label": "Rest-camp chalet", "value": "US$80–180 per night" },
+      { "label": "Private lodge", "value": "US$500–1,500 per person per night" },
+      { "label": "Conservation fee", "value": "A daily per-person fee, higher for international visitors" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Kruger is 400 to 500 km east of Johannesburg.",
+    "options": [
+      {
+        "mode": "Fly to Kruger area airports",
+        "text": "Flights from Johannesburg and Cape Town to Skukuza, Hoedspruit, Nelspruit (MQP) and Phalaborwa.",
+        "detail": "Rent a car at the airport."
+      },
+      {
+        "mode": "Drive from Johannesburg",
+        "text": "About 5 to 6 hours to the southern gates, on good roads.",
+        "detail": "Avoid driving after dark."
+      },
+      {
+        "mode": "Tour or fly-in safari",
+        "text": "Tours from Johannesburg and lodges arrange transfers.",
+        "detail": "Book in advance."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Most visitors self-drive, or travel on guided vehicles.",
+    "options": [
+      {
+        "mode": "Self-drive",
+        "text": "Paved and gravel roads, with speed limits of 50 and 40 km/h. A standard car is fine.",
+        "detail": "Stay inside your car, and obey the gate times."
+      },
+      {
+        "mode": "Guided drives",
+        "text": "Sunrise, sunset and night drives from camps.",
+        "detail": "Book on arrival."
+      },
+      {
+        "mode": "Private lodge vehicles",
+        "text": "Open vehicles with a ranger and tracker.",
+        "detail": "Included in lodge rates."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "Kruger has hot, wet summers and mild, dry winters. Winter is best for wildlife.",
+    "seasons": [
+      {
+        "season": "Summer (November–March)",
+        "rating": "good",
+        "text": "Hot, humid and green, with newborn animals, birds and thick vegetation."
+      },
+      {
+        "season": "Autumn (April–May)",
+        "rating": "good",
+        "text": "Drying out, with lower rates and fewer visitors."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "best",
+        "text": "Cool mornings, warm days, sparse vegetation and animals at water."
+      },
+      {
+        "season": "Late dry (September–October)",
+        "rating": "best",
+        "text": "Hot and dry, with the best game viewing, before the rains."
+      }
+    ],
+    "avoid": "January and February for heat, rain and dense bush."
+  },
+  "itinerary": {
+    "title": "Three days in Kruger",
+    "intro": "A self-drive with a guided drive and a night in the bush.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive",
+        "summary": "Enter the park.",
+        "morning": "Fly or drive to the park.",
+        "afternoon": "A first game drive.",
+        "evening": "A braai at the camp."
+      },
+      {
+        "day": 2,
+        "title": "Game viewing",
+        "summary": "Dawn to dusk.",
+        "morning": "A dawn drive along the river.",
+        "afternoon": "A waterhole and a picnic.",
+        "evening": "A night drive."
+      },
+      {
+        "day": 3,
+        "title": "Central Kruger",
+        "summary": "Lions and plains.",
+        "morning": "A drive to the central plains.",
+        "afternoon": "Return.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you make the most of Kruger.",
+  "tips": [
+    "Drive slowly and quietly, and stay in your car unless in a designated area.",
+    "Start at the gate opening time for the best sightings.",
+    "Book camps months ahead, particularly for winter.",
+    "Take binoculars, a bird book and a camera with a zoom lens.",
+    "Use insect repellent and take malaria precautions where advised.",
+    "Do not feed animals, and follow the speed limits.",
+    "Ask other drivers and rangers where animals have been seen."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Kruger?",
+      "a": "Three or four days for a good safari experience."
+    },
+    {
+      "q": "Can I see the Big Five?",
+      "a": "Often, though rhino sightings are rarer than before because of poaching. Leopards can also be elusive."
+    },
+    {
+      "q": "Is Kruger safe to self-drive?",
+      "a": "Yes. Roads are good, but keep to the rules, and stay in your car."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "May to September, the dry season."
+    },
+    {
+      "q": "Do I need malaria tablets?",
+      "a": "Kruger is a malaria area, with lower risk in winter. Consult a travel clinic."
+    },
+    {
+      "q": "Kruger or a private reserve?",
+      "a": "Kruger is cheaper and lets you self-drive. Private reserves offer off-road drives and more intimate sightings, at a higher price."
+    }
+  ],
+  "related": ["panorama-route", "johannesburg-soweto", "isimangaliso-st-lucia"],
+  "relatedArticles": ["packing-by-season", "us-national-parks-road-trip"]
+}

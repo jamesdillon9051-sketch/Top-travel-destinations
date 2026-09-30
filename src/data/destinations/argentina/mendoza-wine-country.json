@@ -1,0 +1,323 @@
+{
+  "slug": "mendoza-wine-country",
+  "name": "Mendoza Wine Country",
+  "shortName": "Mendoza",
+  "country": "argentina",
+  "region": "Mendoza, Cuyo, central Andes",
+  "categories": ["food-and-wine", "mountains", "scenic", "cultural"],
+  "tagline": "Argentina's Malbec capital: vineyards beneath the Andes, tree-lined plazas, tasting rooms with snowy peaks behind them, and the highest mountain in the Americas nearby.",
+  "highlight": "A long lunch with a Malbec in hand on a winery terrace, with the snowy Andes on the horizon.",
+  "shortDescription": "Argentina's premier wine region: Luján de Cuyo, Maipú and the Uco Valley, plus the elegant city of Mendoza, the Andean road to Aconcagua and outdoor adventures.",
+  "metaDescription": "A Mendoza travel guide: Malbec wineries in Luján de Cuyo, Maipú and the Uco Valley, Mendoza city plazas, Aconcagua and Puente del Inca, rafting, olive oil, harvest festival, best time and a three-day plan.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Governor Francisco Gabrielli (MDZ), about 15 minutes",
+  "knownFor": "Malbec, vineyards, the Andes, Aconcagua, outdoor adventure",
+  "budget": "US$90–200 per day, mid-range",
+  "goodFor": "Wine, food, scenery, cycling, adventure",
+  "coords": { "lat": -32.8908, "lng": -68.8272 },
+  "image": {
+    "file": "File:Vineyards below the Andes.jpg",
+    "alt": "Rows of grapevines with the snow-capped Andes rising behind them near Mendoza"
+  },
+  "intro": [
+    "Mendoza is the heart of Argentine wine. The province produces about 70% of the country's wine, most of it in vineyards at altitudes of 700 to 1,500 metres on the eastern slope of the Andes, where hot days, cool nights and irrigation from mountain snowmelt create ideal conditions for grapes. Malbec, a French variety that has found its best expression here, is the signature, alongside Cabernet Sauvignon, Bonarda, Torrontés and other varieties.",
+    "The city of Mendoza itself is calm and elegant, with wide streets shaded by plane trees, irrigation channels, or acequias, and five plazas, rebuilt after a devastating earthquake in 1861. Restaurants and wine bars fill its streets, and the cafés are lively on summer evenings. Around it, the main wine regions are Luján de Cuyo, the oldest area with historic bodegas, Maipú, close to the city and easy to visit by bicycle, and the high-altitude Uco Valley, an hour or more away, with modern wineries in front of the Andes.",
+    "Beyond wine, Mendoza is a base for adventure. Aconcagua, at 6,961 metres the highest mountain outside Asia, is about three hours away, and river rafting, horse riding, hiking and skiing are all available. It is a sociable, sunny and delicious destination, and most visitors stay three or four days."
+  ],
+  "whyVisit": {
+    "intro": "Mendoza is one of the world's great wine regions, with mountain scenery and a relaxed pace.",
+    "points": [
+      {
+        "title": "Malbec and much more",
+        "text": "Tastings at hundreds of wineries, from small family bodegas to architectural showpieces."
+      },
+      {
+        "title": "A stunning setting",
+        "text": "Vineyards backed by snowy Andean peaks."
+      },
+      {
+        "title": "Food and lunch",
+        "text": "Wine-region restaurants offer superb multi-course lunches and asados."
+      },
+      {
+        "title": "A pleasant city",
+        "text": "Tree-lined streets, plazas and a lively café and restaurant culture."
+      },
+      {
+        "title": "Adventure on the doorstep",
+        "text": "Aconcagua, rafting, hiking and skiing."
+      }
+    ]
+  },
+  "attractionsIntro": "Wineries, the city and the Andes make up the visit.",
+  "attractions": [
+    {
+      "name": "Luján de Cuyo",
+      "image": {
+        "file": "File:Bodega Séptima.JPG",
+        "alt": "The modern Bodega Séptima winery among vineyards in Luján de Cuyo"
+      },
+      "text": "The birthplace of Argentine Malbec, with historic bodegas and modern wineries. Many offer tours, tastings and lunch.",
+      "tip": "Book visits ahead, and choose three or four."
+    },
+    {
+      "name": "Maipú",
+      "text": "The closest wine region to Mendoza, with a mix of old and new wineries, olive oil producers and a flat landscape suited to cycling.",
+      "tip": "Rent a bike, but do not overdo the tastings."
+    },
+    {
+      "name": "The Uco Valley",
+      "text": "A high-altitude region about 1 to 1.5 hours away, with world-class wineries, striking architecture and views of the Andes.",
+      "tip": "Go with a driver, and book lunch."
+    },
+    {
+      "name": "Mendoza's plazas",
+      "image": {
+        "file": "File:Plaza Independencia (Mendoza).JPG",
+        "alt": "Plaza Independencia in the centre of Mendoza with trees and a fountain"
+      },
+      "text": "Plaza Independencia, the central square, is surrounded by four smaller plazas, Spain, Italy, Chile and San Martín, each with its own style.",
+      "tip": "Go for a stroll in the evening."
+    },
+    {
+      "name": "Aconcagua Provincial Park",
+      "image": {
+        "file": "File:Aconcagua Provincial Park 04.jpg",
+        "alt": "Mount Aconcagua rising above the Andean valley"
+      },
+      "text": "The park around the highest peak in the Americas, with viewpoints and short walks at the Laguna Horcones trailhead.",
+      "tip": "Go on a clear day."
+    },
+    {
+      "name": "Puente del Inca",
+      "image": {
+        "file": "File:527 Arg Uspallata Puente Inca.JPG",
+        "alt": "The natural rock bridge of Puente del Inca coloured by mineral springs"
+      },
+      "text": "A natural stone bridge over the Vacas River, stained yellow and orange by mineral springs, on the road to Chile.",
+      "tip": "Combine with Aconcagua."
+    }
+  ],
+  "thingsToDoIntro": "Wine dominates, with adventure and views available too.",
+  "thingsToDo": [
+    {
+      "title": "Take a wine tour",
+      "text": "Visit three or four wineries, taste, and have lunch.",
+      "tip": "Book a driver or a tour."
+    },
+    {
+      "title": "Cycle through Maipú",
+      "text": "Ride between wineries and olive oil producers.",
+      "tip": "Start early."
+    },
+    {
+      "title": "Try white-water rafting",
+      "text": "Rapids on the Mendoza River, near Potrerillos.",
+      "tip": "Book from October to April."
+    },
+    {
+      "title": "Visit Aconcagua",
+      "text": "A day trip along the Andean road to the highest peak.",
+      "tip": "Start early, and bring layers."
+    },
+    {
+      "title": "Have an asado lunch",
+      "text": "Grilled meats and wine, in the vineyards.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Ski in winter",
+      "text": "Las Leñas and Penitentes are the resorts.",
+      "tip": "Check the snow."
+    }
+  ],
+  "foodIntro": "Mendoza's cuisine pairs beef and empanadas with olive oil, vegetables and wine.",
+  "foods": [
+    {
+      "name": "Asado and parrilla",
+      "text": "Grilled meats, especially beef, served with Malbec.",
+      "whereToTry": "Bodegas and city restaurants."
+    },
+    {
+      "name": "Empanadas mendocinas",
+      "text": "Baked pastries with beef, onion, olives and hard-boiled egg.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Olive oil",
+      "text": "Local producers make fine oil.",
+      "whereToTry": "Farms in Maipú."
+    },
+    {
+      "name": "Malbec and Torrontés",
+      "text": "The region's wines.",
+      "whereToTry": "Every winery."
+    },
+    {
+      "name": "Dulce de leche and alfajores",
+      "text": "Sweet treats.",
+      "whereToTry": "Shops."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the city for restaurants, or in a winery lodge for full immersion.",
+    "areas": [
+      {
+        "name": "Mendoza city",
+        "bestFor": "Restaurants and transport",
+        "text": "Hotels near Plaza Independencia and Avenida Aristides."
+      },
+      {
+        "name": "Luján de Cuyo and Maipú",
+        "bestFor": "Boutique wineries",
+        "text": "Hotels and lodges among vineyards."
+      },
+      {
+        "name": "Uco Valley",
+        "bestFor": "Luxury and views",
+        "text": "Lodges with mountain views."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "US$20–50 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–160 per night" },
+      { "label": "Winery lodge", "value": "US$250–600 per night" },
+      { "label": "Winery tasting", "value": "US$10–40 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Mendoza is about 1,000 km west of Buenos Aires, at the foot of the Andes.",
+    "options": [
+      {
+        "mode": "Flight to Mendoza (MDZ)",
+        "text": "Direct flights from Buenos Aires, about 1 hour 45 minutes.",
+        "detail": "The airport is close to the city."
+      },
+      {
+        "mode": "Bus from Buenos Aires or Santiago",
+        "text": "About 14 hours from Buenos Aires, and 6 to 7 hours from Santiago over the Andes.",
+        "detail": "The pass can close in snow."
+      },
+      {
+        "mode": "Hire car",
+        "text": "Good for the wineries and the Andean road.",
+        "detail": "Drink responsibly, or hire a driver."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Taxis, tours and bicycles are the main ways to reach the wineries.",
+    "options": [
+      {
+        "mode": "Wine tour or driver",
+        "text": "The easiest way to visit several wineries.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Popular in Maipú and Luján de Cuyo.",
+        "detail": "Wear sun protection."
+      },
+      {
+        "mode": "Taxi and bus",
+        "text": "In the city and to nearby areas.",
+        "detail": "Agree fares."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–April and October–December",
+    "summary": "Mendoza has a sunny, dry climate, with hot summers and cold winters.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Hot, sunny and long days, with outdoor dining."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Harvest season, with warm days and golden vines. The Vendimia festival in late February and early March."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "quiet",
+        "text": "Cold, with snow in the mountains and skiing."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Mild, blooming and quieter."
+      }
+    ],
+    "avoid": "The hottest days in January and the busiest weekends during Vendimia."
+  },
+  "itinerary": {
+    "title": "Three days in Mendoza",
+    "intro": "Wineries, the city and the mountains.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Luján de Cuyo",
+        "summary": "Malbec country.",
+        "morning": "Two wineries.",
+        "afternoon": "A vineyard lunch.",
+        "evening": "Dinner in the city."
+      },
+      {
+        "day": 2,
+        "title": "Aconcagua",
+        "summary": "The high Andes.",
+        "morning": "Drive up the Andean road.",
+        "afternoon": "Puente del Inca and Aconcagua.",
+        "evening": "Return to Mendoza."
+      },
+      {
+        "day": 3,
+        "title": "Maipú or the Uco Valley",
+        "summary": "More wine.",
+        "morning": "Bicycle in Maipú, or drive to the Uco Valley.",
+        "afternoon": "A final lunch.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make wine touring easier.",
+  "tips": [
+    "Book winery visits and lunch in advance.",
+    "Plan two or three wineries a day, not more.",
+    "Hire a driver, or use a tour, if you plan to drink.",
+    "Wear sun protection, and take water.",
+    "Try wines from different regions.",
+    "Buy wine directly at the winery.",
+    "Check the Andean pass before crossing to Chile in winter."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Mendoza?",
+      "a": "Three or four days for wineries, the city and the mountains."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "March to April for the harvest, and October to December for mild weather."
+    },
+    {
+      "q": "What wine should I try?",
+      "a": "Malbec is the signature, and Torrontés, Cabernet Franc and Bonarda are also worth trying."
+    },
+    {
+      "q": "Which wine region should I visit first?",
+      "a": "Luján de Cuyo for history, Maipú for easy cycling and the Uco Valley for altitude and views."
+    },
+    {
+      "q": "Can I see Aconcagua from Mendoza?",
+      "a": "Not from the city, but on a day trip on the Andean road."
+    },
+    {
+      "q": "Is Mendoza safe?",
+      "a": "Generally yes, with normal precautions."
+    }
+  ],
+  "related": ["buenos-aires", "bariloche-lake-district", "salta-jujuy-northwest"],
+  "relatedArticles": ["food-primer", "week-cost-five-countries"]
+}

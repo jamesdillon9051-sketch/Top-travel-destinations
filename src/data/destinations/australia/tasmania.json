@@ -1,0 +1,368 @@
+{
+  "slug": "tasmania",
+  "name": "Tasmania",
+  "country": "australia",
+  "region": "Tasmania, island state south of the mainland",
+  "categories": ["island", "nature", "national-park", "food-and-wine"],
+  "tagline": "A wild, green island of mountains, beaches and ancient forest, with convict history, a bold art museum, Hobart's waterfront and some of the best food and drink in Australia.",
+  "highlight": "The view of Wineglass Bay from the lookout, a perfect white crescent of sand between pink granite peaks.",
+  "shortDescription": "Australia's island state: Hobart and MONA, Cradle Mountain, Freycinet and Wineglass Bay, Port Arthur, Bruny Island and a wilderness of national parks, with a superb food scene.",
+  "metaDescription": "A Tasmania travel guide: Hobart, MONA, Salamanca Market, Cradle Mountain, Wineglass Bay, Port Arthur, Bruny Island, Tasmanian food and whisky, when to go and a six-day plan.",
+  "suggestedStay": "5–7 days",
+  "nearestAirport": "Hobart (HBA) or Launceston (LST)",
+  "knownFor": "Wilderness, Cradle Mountain, Wineglass Bay, MONA, food, convict history",
+  "budget": "A$220–400 per day, mid-range",
+  "goodFor": "Hiking, wildlife, food, art, road trips",
+  "coords": { "lat": -42.8821, "lng": 147.3272 },
+  "image": {
+    "file": "File:Cradle Mountain over Dove Lake, Tasmania.jpg",
+    "alt": "Cradle Mountain reflected in Dove Lake in the Tasmanian wilderness"
+  },
+  "intro": [
+    "Tasmania is an island about the size of Ireland, 240 km south of the Australian mainland across Bass Strait, and it has long been the country's most unspoilt and least visited state. Around a fifth of it is a World Heritage Area, with mountains, rainforest, wild rivers and beaches, and it is home to unusual animals including the Tasmanian devil, wombats and wallabies. The Palawa people have lived here for at least 40,000 years.",
+    "European settlement began in 1803, and the island was a major convict destination, with the notorious Port Arthur penal settlement and other sites now on the UNESCO Australian Convict Sites list. Hobart, on the Derwent River beneath Mount Wellington, is the capital and the second-oldest city in the country, with Georgian sandstone warehouses, a lively waterfront and a Saturday market at Salamanca Place.",
+    "In recent years the island has become a food and culture destination. The Museum of Old and New Art, MONA, opened in 2011 and changed the way people saw the state, and Tasmania's whisky, cool-climate wine, cheese, seafood and cider are all outstanding. But the wilderness is still the main attraction, with day walks and multi-day trails through spectacular scenery."
+  ],
+  "whyVisit": {
+    "intro": "Tasmania combines wild landscapes, food and history in one compact, walkable island.",
+    "points": [
+      {
+        "title": "World-class wilderness",
+        "text": "Cradle Mountain, Freycinet and the south-west offer some of Australia's best walking."
+      },
+      {
+        "title": "MONA and Hobart",
+        "text": "A provocative art museum, a lively waterfront and historic streets."
+      },
+      {
+        "title": "Food and drink",
+        "text": "Oysters, cheese, whisky, cider and wine, at cellar doors and farm gates."
+      },
+      {
+        "title": "Convict heritage",
+        "text": "Port Arthur and other sites tell a dark story."
+      },
+      {
+        "title": "Unique wildlife",
+        "text": "Tasmanian devils, wombats, echidnas and wallabies are easily seen."
+      }
+    ]
+  },
+  "attractionsIntro": "The island is best explored by car, with a base in Hobart and a loop through the east and north-west.",
+  "attractions": [
+    {
+      "name": "Hobart and Salamanca Place",
+      "image": {
+        "file": "File:Salamanca Market July 2017.jpg",
+        "alt": "Stalls at the Salamanca Market in Hobart on a Saturday"
+      },
+      "text": "The waterfront of the capital, with sandstone warehouses, Battery Point's old streets and the Saturday Salamanca Market, which sells produce and crafts.",
+      "tip": "Go early to the market, and stay for lunch on the docks."
+    },
+    {
+      "name": "MONA",
+      "image": {
+        "file": "File:Museum of Old and New Art (MONA) - Hobart - 49142246651.jpg",
+        "alt": "The Museum of Old and New Art, MONA, on the Derwent River near Hobart"
+      },
+      "text": "A privately owned museum built into a sandstone cliff on the Derwent, with a provocative collection of ancient and contemporary art, a winery and a brewery. Reached by ferry from Hobart.",
+      "tip": "Take the ferry, and allow at least three hours."
+    },
+    {
+      "name": "Mount Wellington (kunanyi)",
+      "image": {
+        "file": "File:Mount Wellington from Sandy Bay, Hobart Tasmania.jpg",
+        "alt": "Mount Wellington rising above the suburbs of Hobart"
+      },
+      "text": "The mountain that towers over Hobart, at 1,271 metres, with a road to the summit and views across the city and Derwent estuary. Its Aboriginal name is kunanyi.",
+      "tip": "Bring warm clothes, as it is much colder at the top."
+    },
+    {
+      "name": "Port Arthur Historic Site",
+      "image": {
+        "file": "File:Port Arthur Guard Tower and Surrounds, Tasmania.jpg",
+        "alt": "The ruins of the Port Arthur convict settlement, with the guard tower and lawns"
+      },
+      "text": "The most famous convict site in Australia, a settlement of stone buildings and gardens on the Tasman Peninsula, an hour from Hobart. It is also the site of a 1996 massacre, which is commemorated with a memorial garden.",
+      "tip": "Allow half a day."
+    },
+    {
+      "name": "Freycinet and Wineglass Bay",
+      "image": {
+        "file": "File:Freycinet Wineglass Bay And Promise Bay.jpg",
+        "alt": "The curved white sand of Wineglass Bay in Freycinet National Park"
+      },
+      "text": "A national park on the east coast, with pink granite peaks and the perfect beach of Wineglass Bay, reached by a walk to the lookout in about an hour return.",
+      "tip": "Continue down to the beach if you can."
+    },
+    {
+      "name": "Cradle Mountain and Dove Lake",
+      "image": {
+        "file": "File:Boat shed and Cradle Mountain at Dove Lake, Tas.jpg",
+        "alt": "The boat shed at Dove Lake with Cradle Mountain behind"
+      },
+      "text": "The dramatic peak in the north-west, with a lake circuit walk of about 2 hours, and the start of the Overland Track, a 65-km multi-day walk.",
+      "tip": "Book the Overland Track well in advance."
+    },
+    {
+      "name": "Bruny Island",
+      "image": {
+        "file": "File:North view from The Neck lookout, Bruny Island, Tasmania.jpg",
+        "alt": "The narrow sandy isthmus known as The Neck on Bruny Island"
+      },
+      "text": "An island off the south of Hobart, reached by a short ferry, with oysters, cheese, chocolate, whisky, cliffs and wildlife.",
+      "tip": "Take a day tour or drive yourself."
+    }
+  ],
+  "thingsToDoIntro": "Tasmania is best for walking, eating and taking your time.",
+  "thingsToDo": [
+    {
+      "title": "Walk to Wineglass Bay",
+      "text": "A well-graded path to the lookout, and on to the beach.",
+      "tip": "Go early to avoid crowds."
+    },
+    {
+      "title": "Spend a day at MONA",
+      "text": "See the art, eat and taste at the vineyard.",
+      "tip": "Buy tickets online."
+    },
+    {
+      "title": "See a Tasmanian devil",
+      "text": "Wildlife parks and sanctuaries let you see devils, wombats and other animals.",
+      "tip": "Visit at feeding time."
+    },
+    {
+      "title": "Try the local whisky, cider and oysters",
+      "text": "Distilleries, cellar doors and farm gates offer tastings and fresh seafood.",
+      "tip": "Book a driver for tastings."
+    },
+    {
+      "title": "Walk part of the Overland Track",
+      "text": "Even a day walk from Cradle Mountain gives a taste of the wilderness.",
+      "tip": "Check the weather."
+    },
+    {
+      "title": "Explore the Bay of Fires",
+      "text": "A coast of white sand, turquoise water and orange lichen-covered rocks in the north-east.",
+      "tip": "Stay near Binalong Bay."
+    }
+  ],
+  "foodIntro": "Tasmania punches above its weight in food and drink, with cold, clean waters and fertile land.",
+  "foods": [
+    {
+      "name": "Oysters and seafood",
+      "text": "Fresh oysters, scallops, salmon, abalone and rock lobster.",
+      "whereToTry": "Bruny Island, Hobart's waterfront and the east coast."
+    },
+    {
+      "name": "Cheese",
+      "text": "Artisan cheeses from Bruny Island, King Island and northern dairies.",
+      "whereToTry": "Cellar doors and markets."
+    },
+    {
+      "name": "Whisky",
+      "text": "Tasmanian whisky has won international awards.",
+      "whereToTry": "Distilleries near Hobart."
+    },
+    {
+      "name": "Cider and wine",
+      "text": "Cool-climate pinot noir, sparkling wine and cider, from the Huon Valley and Tamar Valley.",
+      "whereToTry": "Cellar doors and MONA."
+    },
+    {
+      "name": "Scallop pie",
+      "text": "A classic Tasmanian pie filled with scallops and a curry sauce.",
+      "whereToTry": "Bakeries and pie shops."
+    },
+    {
+      "name": "Leatherwood honey",
+      "text": "A distinctive honey from the native leatherwood tree.",
+      "whereToTry": "Markets and shops."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Hobart as a base, with a few nights in Freycinet or Cradle Mountain.",
+    "areas": [
+      {
+        "name": "Hobart and Battery Point",
+        "bestFor": "Restaurants and MONA",
+        "text": "Hotels, boutique guesthouses and apartments near the waterfront."
+      },
+      {
+        "name": "Freycinet and Coles Bay",
+        "bestFor": "Wineglass Bay",
+        "text": "Cabins and lodges near the park."
+      },
+      {
+        "name": "Cradle Mountain",
+        "bestFor": "Wilderness",
+        "text": "Lodges and cabins near the park entrance."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel or cabin", "value": "A$60–140 per night" },
+      { "label": "Mid-range hotel", "value": "A$180–320 per night" },
+      { "label": "Boutique lodge", "value": "A$350–800 per night" },
+      { "label": "Meal at a local restaurant", "value": "A$30–60 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Tasmania is reached by air or by ferry from Melbourne.",
+    "options": [
+      {
+        "mode": "Flight to Hobart or Launceston",
+        "text": "Direct flights from Melbourne (about 1 hour 20 minutes), Sydney and Brisbane.",
+        "detail": "Book ahead for summer."
+      },
+      {
+        "mode": "Ferry from Melbourne",
+        "text": "The Spirit of Tasmania sails overnight from Geelong to Devonport, with cabins and vehicle space.",
+        "detail": "Book cabins and vehicles well ahead."
+      },
+      {
+        "mode": "Hire car",
+        "text": "The main way to explore, at a moderate cost.",
+        "detail": "Pick up at the airport."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is essential for most of the island.",
+    "options": [
+      {
+        "mode": "Hire car",
+        "text": "Roads are quiet and scenic, though winding.",
+        "detail": "Avoid driving at dusk, when wallabies and wombats are active."
+      },
+      {
+        "mode": "Tours",
+        "text": "Day tours from Hobart cover Port Arthur, Bruny Island and Mount Wellington.",
+        "detail": "Easy if you don't want to drive."
+      },
+      {
+        "mode": "Ferries",
+        "text": "Ferries to MONA and Bruny Island.",
+        "detail": "Check timetables."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–March",
+    "summary": "Tasmania has a cool, changeable maritime climate. Summer is best for walking and beaches, and autumn is often clear and calm.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "best",
+        "text": "Long, mild days, ideal for walking. The busiest and most expensive time."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Settled weather, autumn colours and fewer people."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "quiet",
+        "text": "Cold and wet, with snow in the mountains and the Dark Mofo festival in June."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "good",
+        "text": "Variable, with wildflowers and green landscapes."
+      }
+    ],
+    "avoid": "Winter in the mountains, unless you are equipped, and Christmas week for prices."
+  },
+  "itinerary": {
+    "title": "Six days in Tasmania",
+    "intro": "Hobart and its surroundings, then the east coast and Cradle Mountain.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Hobart",
+        "summary": "The waterfront and the market.",
+        "morning": "Salamanca Place and Battery Point.",
+        "afternoon": "MONA by ferry.",
+        "evening": "Dinner on the waterfront."
+      },
+      {
+        "day": 2,
+        "title": "Port Arthur",
+        "summary": "Convict history.",
+        "morning": "Drive to the Tasman Peninsula.",
+        "afternoon": "The Port Arthur Historic Site.",
+        "evening": "Return to Hobart."
+      },
+      {
+        "day": 3,
+        "title": "Bruny Island",
+        "summary": "Food and cliffs.",
+        "morning": "Ferry to Bruny Island.",
+        "afternoon": "Oysters, cheese and The Neck.",
+        "evening": "Return to Hobart."
+      },
+      {
+        "day": 4,
+        "title": "Freycinet",
+        "summary": "Wineglass Bay.",
+        "morning": "Drive up the east coast.",
+        "afternoon": "The walk to Wineglass Bay.",
+        "evening": "Dinner in Coles Bay."
+      },
+      {
+        "day": 5,
+        "title": "To Cradle Mountain",
+        "summary": "Across the island.",
+        "morning": "Drive west via Launceston.",
+        "afternoon": "Arrive at Cradle Mountain.",
+        "evening": "A wildlife walk."
+      },
+      {
+        "day": 6,
+        "title": "Cradle Mountain",
+        "summary": "Dove Lake.",
+        "morning": "The Dove Lake circuit.",
+        "afternoon": "Drive to Launceston.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make Tasmania easier.",
+  "tips": [
+    "Hire a car, and book it early in summer.",
+    "Pack layers. The weather changes quickly, even in summer.",
+    "Avoid driving at dusk and dawn, when wildlife is on the road.",
+    "Book Overland Track permits, the ferry and Freycinet accommodation well ahead.",
+    "Take a sunhat and rain jacket.",
+    "Buy a Parks Pass if visiting several national parks.",
+    "Leave time. The distances are small but the roads are winding."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Tasmania?",
+      "a": "At least five days, and a week is better."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "December to March, with autumn also lovely."
+    },
+    {
+      "q": "Is Tasmania worth the trip?",
+      "a": "Yes. It has some of Australia's best scenery, food and history, and is relatively uncrowded."
+    },
+    {
+      "q": "Can I see a Tasmanian devil?",
+      "a": "Yes, in wildlife parks and sanctuaries. Seeing one in the wild is rarer."
+    },
+    {
+      "q": "Do I need a car?",
+      "a": "Yes, for most of the island."
+    },
+    {
+      "q": "Can I take my car on the ferry?",
+      "a": "Yes, on the Spirit of Tasmania. Book well in advance."
+    }
+  ],
+  "related": ["melbourne", "great-ocean-road", "sydney"],
+  "relatedArticles": ["us-national-parks-road-trip", "food-primer"]
+}

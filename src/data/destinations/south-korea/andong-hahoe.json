@@ -1,0 +1,299 @@
+{
+  "slug": "andong-hahoe",
+  "name": "Andong and Hahoe Folk Village",
+  "shortName": "Andong",
+  "country": "south-korea",
+  "region": "North Gyeongsang, inland east",
+  "categories": ["historic", "unesco", "cultural", "off-the-beaten-path"],
+  "tagline": "A river-bend village of thatched roofs and scholar houses lived in for 600 years, with mask dances, Confucian academies and salted mackerel.",
+  "highlight": "Watching the Hahoe mask dance beside old thatched houses, with the river curving around the village.",
+  "shortDescription": "A UNESCO-listed clan village on the Nakdong River with thatched and tiled houses, Byeongsan Confucian Academy, the mask dance, Andong soju and jjimdak chicken.",
+  "metaDescription": "An Andong and Hahoe Folk Village travel guide: the UNESCO clan village, Byeongsan Seowon, mask dance, Wolyeonggyo Bridge, jjimdak chicken, Andong soju, how to get there and a one-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Daegu International (TAE), about 1.5 hours; Andong KTX station",
+  "knownFor": "Hahoe village, mask dance, Confucian heritage, jjimdak",
+  "budget": "US$60–110 per day, mid-range",
+  "goodFor": "Culture, history, off-the-beaten-path travel",
+  "coords": { "lat": 36.5395, "lng": 128.5183 },
+  "image": {
+    "file": "File:Hahoe Folk Village 03.jpg",
+    "alt": "Thatched-roof houses in Hahoe Folk Village"
+  },
+  "intro": [
+    "Andong is a small city in the hills of North Gyeongsang, and one of the strongest keepers of Korea's Confucian traditions. It has long been a centre of scholarship and clan life, and its families still practise ancestral rites. Around the city are academies, pavilions and villages that show how the yangban aristocracy of the Joseon dynasty lived.",
+    "Hahoe Folk Village is the star. Its name means 'river-bend', and the Nakdong River wraps around the settlement in an S-shaped curve. Members of the Pungsan Ryu clan have lived here for about 600 years, and the village still has real residents, with thatched-roof houses for commoners and grand tile-roofed homes for the aristocracy. Together with Yangdong in Gyeongju, it is a UNESCO World Heritage Site. The famous Hahoe mask dance, a satirical folk drama of masks made from alder wood, is performed on many days.",
+    "Nearby are Byeongsan Seowon, a Confucian academy with a beautiful hillside setting, and Andong Dam and its walking paths. Andong's food is distinct too, with jjimdak (braised chicken), salted mackerel and its own strong soju. It is about two hours from Seoul by train and works as a peaceful stop between the capital and the south-east."
+  ],
+  "whyVisit": {
+    "intro": "Hahoe and Andong are the best place to feel traditional Korean rural life.",
+    "points": [
+      {
+        "title": "A living village",
+        "text": "Residents still live in the thatched houses."
+      },
+      {
+        "title": "Mask dance",
+        "text": "A satirical folk theatre tradition."
+      },
+      {
+        "title": "Confucian heritage",
+        "text": "Academies and pavilions."
+      },
+      {
+        "title": "Distinct food",
+        "text": "Jjimdak and Andong soju."
+      },
+      {
+        "title": "Quiet and scenic",
+        "text": "River, pines and cliffs."
+      }
+    ]
+  },
+  "attractionsIntro": "Hahoe is the main draw, with more places nearby.",
+  "attractions": [
+    {
+      "name": "Hahoe Folk Village",
+      "image": {
+        "file": "File:Hahoe Folk Village 06.jpg",
+        "alt": "Lanes of traditional houses and stone walls in Hahoe Folk Village"
+      },
+      "text": "A clan village of about 600 years, with earthen walls, thatched houses, big tile-roofed mansions and a great pine forest along the river.",
+      "tip": "Stay overnight in a hanok."
+    },
+    {
+      "name": "Hahoe Mask Dance",
+      "image": {
+        "file": "File:Hahoe Byeolsingut Tallori 02.jpg",
+        "alt": "Performers in wooden masks at the Hahoe Byeolsingut Tallori mask dance"
+      },
+      "text": "A traditional play with wooden masks that pokes fun at aristocrats and monks, performed in the village.",
+      "tip": "Check the performance times."
+    },
+    {
+      "name": "Buyongdae Cliff",
+      "text": "A cliff across the river that gives a view of the village's shape.",
+      "tip": "Take the ferry across."
+    },
+    {
+      "name": "Byeongsan Seowon",
+      "text": "A 16th-century Confucian academy overlooking the river, also a UNESCO site.",
+      "tip": "Visit in the afternoon."
+    },
+    {
+      "name": "Wolyeonggyo Bridge",
+      "text": "A wooden footbridge across the Nakdong River in Andong.",
+      "tip": "Walk at night."
+    },
+    {
+      "name": "Andong Mask Museum",
+      "text": "A museum of masks from Korea and the world.",
+      "tip": "Near the village."
+    }
+  ],
+  "thingsToDoIntro": "Andong is for slow days.",
+  "thingsToDo": [
+    {
+      "title": "Stay in a hanok",
+      "text": "Sleep in a traditional house.",
+      "tip": "Book far ahead."
+    },
+    {
+      "title": "Watch the mask dance",
+      "text": "A folk performance.",
+      "tip": "Weekends."
+    },
+    {
+      "title": "Walk the river path",
+      "text": "Follow the pines.",
+      "tip": "Go at dusk."
+    },
+    {
+      "title": "Eat jjimdak",
+      "text": "Andong's braised chicken.",
+      "tip": "Try it on Jjimdak Street."
+    },
+    {
+      "title": "Visit the Andong Mask Festival",
+      "text": "A festival in autumn.",
+      "tip": "Book early."
+    },
+    {
+      "title": "Try Andong soju",
+      "text": "A traditional distilled soju.",
+      "tip": "Visit the museum."
+    }
+  ],
+  "foodIntro": "Andong is known for hearty, salty and spicy dishes.",
+  "foods": [
+    {
+      "name": "Andong jjimdak",
+      "text": "Chicken braised in soy sauce with noodles, potatoes and chilli.",
+      "whereToTry": "Jjimdak Alley."
+    },
+    {
+      "name": "Andong salted mackerel (ganjaebi)",
+      "text": "Mackerel cured in salt and grilled.",
+      "whereToTry": "Restaurants in the city."
+    },
+    {
+      "name": "Heotjesabap",
+      "text": "Rice mixed with vegetables, once a ritual dish.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Andong soju",
+      "text": "A strong distilled spirit.",
+      "whereToTry": "Museum and shops."
+    },
+    {
+      "name": "Buchimgae",
+      "text": "Savoury pancakes.",
+      "whereToTry": "Village restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Hahoe for atmosphere, or Andong for convenience.",
+    "areas": [
+      {
+        "name": "Hahoe Village",
+        "bestFor": "Atmosphere",
+        "text": "Hanok guesthouses."
+      },
+      {
+        "name": "Andong city",
+        "bestFor": "Transport and food",
+        "text": "Hotels."
+      },
+      {
+        "name": "Near Byeongsan",
+        "bestFor": "Quiet",
+        "text": "Pensions."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$30–60 per night" },
+      { "label": "Hanok stay", "value": "US$70–160 per night" },
+      { "label": "Hotel", "value": "US$60–110 per night" },
+      { "label": "Jjimdak meal", "value": "US$15–30 for two" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Andong is reached by train or bus.",
+    "options": [
+      {
+        "mode": "Train from Seoul",
+        "text": "About two hours by KTX-Eum or Mugunghwa train from Cheongnyangni.",
+        "detail": "Book in advance."
+      },
+      {
+        "mode": "Bus from Seoul",
+        "text": "About three hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bus to Hahoe",
+        "text": "A local bus from Andong takes about 50 minutes.",
+        "detail": "Check the schedule."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Buses are infrequent, so plan around them.",
+    "options": [
+      {
+        "mode": "Local bus",
+        "text": "Runs to Hahoe and Byeongsan.",
+        "detail": "Check the times."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Good for a half-day tour.",
+        "detail": "Agree the price."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Convenient for rural sights.",
+        "detail": "Need an international permit."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–May and September–October",
+    "summary": "Andong has hot summers and cold winters.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Flowers and mild weather."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Hot and humid."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Golden leaves and the mask festival."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold and quiet."
+      }
+    ],
+    "avoid": "The hottest days."
+  },
+  "itinerary": {
+    "title": "One day at Hahoe and Andong",
+    "intro": "The village, a dance and dinner.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Hahoe",
+        "summary": "A village day.",
+        "morning": "Bus to Hahoe and walk the village.",
+        "afternoon": "The mask dance and Buyongdae Cliff.",
+        "evening": "Jjimdak dinner in Andong."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you visit Andong.",
+  "tips": [
+    "Check the bus times.",
+    "Stay overnight in Hahoe.",
+    "Respect residents.",
+    "Try the local soju.",
+    "Bring cash.",
+    "Wear comfortable shoes.",
+    "Book hanok stays early."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "One or two days."
+    },
+    {
+      "q": "Do people live in Hahoe?",
+      "a": "Yes."
+    },
+    {
+      "q": "How do I get there from Seoul?",
+      "a": "Train or bus to Andong, then a local bus."
+    },
+    {
+      "q": "Is it a UNESCO site?",
+      "a": "Yes, listed in 2010."
+    },
+    {
+      "q": "When is the mask festival?",
+      "a": "Usually late September or early October."
+    },
+    {
+      "q": "Can I combine it with Gyeongju?",
+      "a": "Yes, by bus or train."
+    }
+  ],
+  "related": ["gyeongju", "seoul", "jeonju"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}

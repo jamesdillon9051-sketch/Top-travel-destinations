@@ -1,0 +1,310 @@
+{
+  "slug": "galle",
+  "name": "Galle",
+  "country": "sri-lanka",
+  "region": "Southern Province",
+  "categories": ["unesco", "historic", "coastal", "cultural"],
+  "tagline": "A Dutch-era fortified town on a rocky headland, with ramparts, a lighthouse, boutique shops and cafés in a living UNESCO fort.",
+  "highlight": "Walking the ramparts of Galle Fort at sunset, with waves crashing below and the lighthouse glowing.",
+  "shortDescription": "A 17th-century Dutch fort that is still a living community, with ramparts, a lighthouse, mosques and churches, boutiques, cafés and the beaches of the south coast nearby.",
+  "metaDescription": "A Galle travel guide: Galle Fort ramparts and lighthouse, the clock tower, Dutch Reformed Church, Meeran Mosque, boutiques and cafés, Unawatuna beach, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Colombo Bandaranaike (CMB), about 2 hours by expressway",
+  "knownFor": "Dutch fort, ramparts, boutiques, sunset",
+  "budget": "US$60–130 per day, mid-range",
+  "goodFor": "Couples, history, shopping, south coast trips",
+  "coords": { "lat": 6.0329, "lng": 80.2168 },
+  "image": {
+    "file": "File:Galle Fort wall and lighthouse.jpg",
+    "alt": "The ramparts and white lighthouse of Galle Fort"
+  },
+  "intro": [
+    "Galle is a city on the south-west coast, and its historic heart, the Galle Fort, is one of the best-preserved colonial sea fortresses in Asia. The Portuguese built the first fort in 1588, and the Dutch took the town in 1640 and constructed the massive stone ramparts and bastions visible today. It is a UNESCO World Heritage Site, and unlike many such sites, it is a living town, with shops, schools, mosques, churches and families inside the walls.",
+    "The fort covers about 52 hectares, and a walk along the ramparts, about 2.5 km, takes in the lighthouse, the Old Gate, the Clock Tower and sea views. Inside, streets are lined with Dutch-colonial houses, some converted into boutique hotels, antique shops, galleries and cafés. Landmarks include the Dutch Reformed Church of 1755, the Meeran Mosque and the National Museum.",
+    "The 2004 tsunami hit Galle hard, but the fort's thick walls protected the old town. Beyond the walls, the south coast has beaches such as Unawatuna and Jungle Beach, and a stilt fishermen coastline at Koggala. Two days is a good stay, ideally with sunset on the ramparts."
+  ],
+  "whyVisit": {
+    "intro": "Galle is Sri Lanka's most charming colonial town.",
+    "points": [
+      {
+        "title": "A living fort",
+        "text": "UNESCO-listed with residents."
+      },
+      {
+        "title": "The ramparts",
+        "text": "A sunset walk."
+      },
+      {
+        "title": "Boutiques and cafés",
+        "text": "In Dutch houses."
+      },
+      {
+        "title": "Beaches nearby",
+        "text": "Unawatuna and Jungle Beach."
+      },
+      {
+        "title": "Easy access",
+        "text": "Expressway from Colombo."
+      }
+    ]
+  },
+  "attractionsIntro": "The fort is small and walkable.",
+  "attractions": [
+    {
+      "name": "Galle Fort ramparts",
+      "image": {
+        "file": "File:Galle Fort 2012 12.jpg",
+        "alt": "The Dutch ramparts and streets of Galle Fort"
+      },
+      "text": "A 2.5-km walk along the top of the walls, with views of the sea and town.",
+      "tip": "Go at sunset."
+    },
+    {
+      "name": "The Lighthouse",
+      "image": {
+        "file": "File:Lighthouse, Galle Fort 0735.jpg",
+        "alt": "The white lighthouse at the tip of Galle Fort"
+      },
+      "text": "A white lighthouse at the southern point of the fort, a photo favourite.",
+      "tip": "Best in late afternoon."
+    },
+    {
+      "name": "The Old Clock Tower",
+      "image": {
+        "file": "File:The Old Clock Tower - panoramio.jpg",
+        "alt": "The old clock tower in Galle Fort"
+      },
+      "text": "A clock tower built in 1883 in the fort.",
+      "tip": "Photograph in the morning."
+    },
+    {
+      "name": "Dutch Reformed Church",
+      "text": "A church built in 1755 with tombstones on the floor.",
+      "tip": "Free to enter."
+    },
+    {
+      "name": "Meeran Mosque",
+      "text": "A white mosque near the lighthouse.",
+      "tip": "Dress modestly."
+    },
+    {
+      "name": "Unawatuna Beach",
+      "text": "A curved beach 5 km from the fort.",
+      "tip": "Take a tuk-tuk."
+    }
+  ],
+  "thingsToDoIntro": "Galle is for strolling and shopping.",
+  "thingsToDo": [
+    {
+      "title": "Walk the ramparts",
+      "text": "Complete loop.",
+      "tip": "Go at sunset."
+    },
+    {
+      "title": "Shop for crafts",
+      "text": "Lace, jewellery and antiques.",
+      "tip": "Bargain politely."
+    },
+    {
+      "title": "Sip coffee in a Dutch house",
+      "text": "Cafés.",
+      "tip": "Try local roasters."
+    },
+    {
+      "title": "Visit Unawatuna",
+      "text": "A beach day.",
+      "tip": "Swim carefully."
+    },
+    {
+      "title": "Take a stilt fisherman photo",
+      "text": "At Koggala.",
+      "tip": "Tip fishermen fairly."
+    },
+    {
+      "title": "Visit a turtle hatchery",
+      "text": "Along the coast.",
+      "tip": "Check ethical practices."
+    }
+  ],
+  "foodIntro": "Galle's food is coastal.",
+  "foods": [
+    {
+      "name": "Crab curry",
+      "text": "A Sri Lankan classic.",
+      "whereToTry": "Fort restaurants."
+    },
+    {
+      "name": "Fish curry",
+      "text": "Local catch.",
+      "whereToTry": "Guesthouses."
+    },
+    {
+      "name": "Hoppers",
+      "text": "Egg hoppers.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Wood-apple juice",
+      "text": "Local fruit.",
+      "whereToTry": "Stalls."
+    },
+    {
+      "name": "Lamprais",
+      "text": "Dutch Burgher rice parcel.",
+      "whereToTry": "Restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the fort.",
+    "areas": [
+      {
+        "name": "Inside the fort",
+        "bestFor": "Atmosphere",
+        "text": "Boutique hotels."
+      },
+      {
+        "name": "Unawatuna",
+        "bestFor": "Beaches",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Outside Galle",
+        "bestFor": "Budget",
+        "text": "Simple stays."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$20–45 per night" },
+      { "label": "Mid-range hotel", "value": "US$70–150 per night" },
+      { "label": "Boutique fort hotel", "value": "US$150–350 per night" },
+      { "label": "Meal", "value": "US$4–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Galle is on the coastal railway and expressway.",
+    "options": [
+      {
+        "mode": "Expressway from Colombo",
+        "text": "About 1.5 to 2 hours by car.",
+        "detail": "The fastest."
+      },
+      {
+        "mode": "Train from Colombo",
+        "text": "About 2.5 to 3 hours along the coast.",
+        "detail": "Scenic."
+      },
+      {
+        "mode": "Bus",
+        "text": "About 2 to 2.5 hours.",
+        "detail": "Frequent."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The fort is compact.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "In the fort.",
+        "detail": "Comfortable shoes."
+      },
+      {
+        "mode": "Tuk-tuk",
+        "text": "To beaches.",
+        "detail": "Agree fares."
+      },
+      {
+        "mode": "Train",
+        "text": "Along the coast.",
+        "detail": "Cheap."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–March",
+    "summary": "The south-west is best in the north-east monsoon season.",
+    "seasons": [
+      {
+        "season": "December–March",
+        "rating": "best",
+        "text": "Dry, sunny."
+      },
+      {
+        "season": "April–May",
+        "rating": "quiet",
+        "text": "Hot."
+      },
+      {
+        "season": "June–September",
+        "rating": "avoid",
+        "text": "Monsoon rain, rough seas."
+      },
+      {
+        "season": "October–November",
+        "rating": "avoid",
+        "text": "Inter-monsoon storms."
+      }
+    ],
+    "avoid": "The southwest monsoon."
+  },
+  "itinerary": {
+    "title": "Two days in Galle",
+    "intro": "The fort and the beach.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The fort",
+        "summary": "Ramparts and lanes.",
+        "morning": "Walk the ramparts.",
+        "afternoon": "Shops and cafés.",
+        "evening": "Sunset at the lighthouse."
+      },
+      {
+        "day": 2,
+        "title": "The coast",
+        "summary": "Beach.",
+        "morning": "Unawatuna.",
+        "afternoon": "Koggala.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Go at sunset.",
+    "Stay in the fort.",
+    "Bring a hat.",
+    "Try the local crab.",
+    "Bargain politely.",
+    "Watch for rip currents.",
+    "Use the expressway."
+  ],
+  "faq": [
+    {
+      "q": "How many days in Galle?",
+      "a": "Two."
+    },
+    {
+      "q": "Is Galle Fort a UNESCO site?",
+      "a": "Yes."
+    },
+    {
+      "q": "How far from Colombo?",
+      "a": "About two hours."
+    },
+    {
+      "q": "Is it touristy?",
+      "a": "Somewhat, but charming."
+    },
+    {
+      "q": "When to go?",
+      "a": "December to March."
+    },
+    {
+      "q": "Can I swim?",
+      "a": "At Unawatuna, with care."
+    }
+  ],
+  "related": ["mirissa", "colombo", "yala"],
+  "relatedArticles": ["unesco-worth-planning-around", "mediterranean-coasts"]
+}

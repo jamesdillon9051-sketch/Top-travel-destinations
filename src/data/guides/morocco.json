@@ -1,0 +1,135 @@
+{
+  "country": "morocco",
+  "title": "The Complete Morocco Travel Guide",
+  "subtitle": "How the country divides, how to choose between the ten destinations, how to cover the distances, and what two weeks can realistically hold.",
+  "summary": "Morocco packs imperial medinas, mountains, desert and two coasts into a country about the size of California. This guide covers how the regions divide, how to choose between the ten destinations, how to move around, when to go, what it costs and three routes that work.",
+  "readingTime": "13 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Can I combine Marrakech, Fes and the Sahara in one trip?",
+      "a": "Yes, but plan for long drives. Marrakech to Fes is about eight hours by road, or a little over seven by train via Casablanca and Rabat, and Fes to Merzouga is about nine. Ten days is the comfortable minimum for all three."
+    },
+    {
+      "q": "Is it better to go on an organised tour or independently?",
+      "a": "Independent travel works well in the cities and along the coast by train and bus. For the desert and the Atlas, a private driver or a small-group tour saves a great deal of time."
+    },
+    {
+      "q": "Do I need French or Arabic?",
+      "a": "Not strictly, since English is spoken in tourist areas, but French is the second language of much of the country and a few words of Darija or French go a long way in shops and markets."
+    },
+    {
+      "q": "When should I book?",
+      "a": "Riads in Marrakech and Fes fill up in spring, autumn and over Christmas, so book a month or two ahead. Desert camps are easy to arrange locally, except in peak weeks."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-morocco-divides",
+      "title": "How Morocco divides",
+      "navLabel": "The regions",
+      "body": [
+        "Morocco is roughly 1,000 km from the Mediterranean to the edge of the Sahara, and the country falls into five zones that organise almost any trip.",
+        "**The imperial cities.** [[fes|Fes]], [[meknes-volubilis|Meknes]], [[rabat]] and [[marrakech|Marrakech]] were each a capital at some point, and each has a walled medina, royal palaces and monuments. Fes is the most medieval and Marrakech the most vibrant.",
+        "**The north.** [[chefchaouen]] lies in the Rif Mountains, a blue-washed town in the hills above the Mediterranean, closer to Spain in feel than the rest of the country.",
+        "**The Atlantic coast.** [[casablanca]] is the economic capital and home to the Hassan II Mosque, and [[essaouira]] is a wind-blown fishing port with Portuguese ramparts and a relaxed, artistic atmosphere.",
+        "**The Atlas mountains.** The High Atlas runs across the centre of the country. [[high-atlas-imlil|Imlil and Toubkal]] are the most accessible hiking base, an hour or two from Marrakech, and the passes lead south to the kasbah country.",
+        "**The south and the desert.** [[ait-benhaddou-ouarzazate|Aït Benhaddou and Ouarzazate]] sit on the old caravan routes with mud-brick ksars and film studios, and [[merzouga-sahara|Merzouga]] has the largest dunes of the Moroccan Sahara."
+      ],
+      "note": "The practical unit is two or three of these regions. Marrakech and the south, or Fes and the north, are both good short trips."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[marrakech]] with a day in the Atlas or at [[essaouira]], or [[marrakech]] plus the kasbah road to [[ait-benhaddou-ouarzazate|Aït Benhaddou]]. Add [[merzouga-sahara|Merzouga]] only if you can stretch to eight or nine days."
+        },
+        {
+          "title": "If you love medinas",
+          "text": "[[fes]] first, for its enormous, medieval, largely car-free medina, then [[marrakech]] for its energy, and [[meknes-volubilis|Meknes]] for a quieter imperial city."
+        },
+        {
+          "title": "If you want the desert",
+          "text": "[[merzouga-sahara|Merzouga]] has the tallest dunes, and the drive there passes through [[ait-benhaddou-ouarzazate|kasbah country]]."
+        },
+        {
+          "title": "If you like hiking",
+          "text": "[[high-atlas-imlil|Imlil]] for Toubkal and valley walks, with [[chefchaouen]] for gentler trails in the Rif."
+        },
+        {
+          "title": "If you like history",
+          "text": "[[meknes-volubilis|Volubilis]] for Roman ruins, [[fes]] and [[marrakech]] for medieval Islamic architecture, and [[rabat]] for the Almohad Hassan Tower and the Kasbah of the Udayas."
+        },
+        {
+          "title": "If you want a coast and a rest",
+          "text": "[[essaouira]] is the easiest stop, and [[casablanca]] adds the great mosque and Art Deco architecture."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting across a long country",
+      "navLabel": "Getting around",
+      "body": [
+        "Morocco's distances are larger than they look on the map, and the mountain roads slow everything down. Marrakech to Merzouga is about 560 km, and the drive takes around nine hours with stops.",
+        "**Trains.** The ONCF network is comfortable, reliable and cheap. It covers Tangier, Rabat, Casablanca, Marrakech, Fes and Meknes, and the Al Boraq high-speed line links Tangier with Casablanca in a little over two hours.",
+        "**Buses.** CTM and Supratours are the reliable coach companies and reach most towns, including Essaouira and Chefchaouen.",
+        "**Driver or hire car.** The best way to reach the desert, the Atlas and the kasbah road. A driver removes the stress of mountain roads and lets you stop for photographs.",
+        "**Grands taxis.** Shared long-distance taxis link nearby towns, and are cheap but crowded."
+      ],
+      "note": "Avoid driving after dark outside cities, when livestock, unlit vehicles and pedestrians share the roads."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Morocco's climate depends on altitude and distance from the sea. Spring and autumn are the best seasons almost everywhere.",
+        "March to May is warm and green, with snow on the Atlas peaks. It is the best time for the imperial cities and the mountains, and also the busiest.",
+        "June to August is very hot inland. Marrakech and the south often exceed 40°C, and the Sahara is extreme. The Atlantic coast and the high mountains are cooler.",
+        "September to November brings warm days and cooler nights, and is excellent for the desert from October.",
+        "December to February is mild by day in the south, but very cold at night in the desert and the mountains, and wet in the north and Fes. Skiing is possible at Oukaïmeden in a good snow year."
+      ],
+      "note": "Ramadan moves about 11 days earlier each year. Many restaurants close by day away from tourist areas, and the evenings are lively, but sights keep shorter hours."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and hassle",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Morocco is good value by European standards. A meal in a local restaurant costs US$5–12, a riad double room US$50–150, and a private driver around US$70–130 per day.",
+        "Cash is important. Cards are accepted in hotels and upmarket restaurants, but medinas, taxis and small shops take only dirhams. The dirham cannot be exchanged in large amounts abroad, so use ATMs on arrival.",
+        "Tip 10% in restaurants, and a few dirhams for small services. Agree prices for guides, taxis and drivers in advance.",
+        "The main annoyance is hard selling and unofficial guides in the big medinas. A polite refusal works better than a heated one, and a licensed guide for the first morning saves a great deal of stress."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: Marrakech and the south",
+          "text": "Three nights in [[marrakech|Marrakech]], then two days on the kasbah road to [[ait-benhaddou-ouarzazate|Aït Benhaddou]], and a day at [[essaouira]] or in the Atlas at [[high-atlas-imlil|Imlil]]. No internal flights.",
+          "tip": "Fly in and out of Marrakech to avoid backtracking."
+        },
+        {
+          "title": "Ten days: the imperial cities and the desert",
+          "text": "Fly into Casablanca or Marrakech. Three nights in [[fes]], a night at [[chefchaouen]], two in [[merzouga-sahara|the Sahara]] and the kasbah road, ending in [[marrakech|Marrakech]] for three.",
+          "tip": "Use a driver for the desert legs and trains elsewhere."
+        },
+        {
+          "title": "Two weeks: the classic loop",
+          "text": "The itinerary on the country page: Casablanca, Rabat, Meknes and Volubilis, Fes, Chefchaouen, the Sahara, the kasbah road, Marrakech and Essaouira.",
+          "tip": "Swap Chefchaouen for the Atlas at [[high-atlas-imlil|Imlil]] if you prefer walking to blue streets."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "slug": "poland",
+  "name": "Poland",
+  "continent": "Europe",
+  "countryCode": "PL",
+  "tagline": "Rebuilt medieval squares, Baltic amber coast, Tatra peaks, primeval forest and a painful, powerful history, at some of the best prices in the European Union.",
+  "cardDescription": "A resilient country of beautifully rebuilt old towns, castles, mountains and forests, with hearty food, deep history and very good value.",
+  "metaDescription": "A complete Poland travel guide: the 10 best places to visit, Kraków, Warsaw, Gdańsk, Wrocław and the Tatras, food, when to go, transport, costs and a two-week itinerary.",
+  "image": {
+    "file": "File:Krakow Old Town as seen from from St. Mary's Basilica (9156774027).jpg",
+    "alt": "The rooftops and towers of Kraków's Old Town seen from St. Mary's Basilica"
+  },
+  "destinations": [
+    "krakow",
+    "warsaw",
+    "gdansk",
+    "wroclaw",
+    "zakopane-tatras",
+    "auschwitz-birkenau",
+    "poznan",
+    "torun",
+    "malbork",
+    "bialowieza"
+  ],
+  "intro": [
+    "Poland sits in the middle of Europe, between Germany and Ukraine, with a Baltic coastline to the north and the Tatra mountains to the south. It is a country of about 37 million people, and its history has been turbulent: partitioned out of existence in the 18th century, reborn in 1918, devastated by the Second World War, and then under communist rule until 1989. Since then it has become one of Europe's most dynamic economies.",
+    "For visitors, that history is the theme. Kraków's old town survived the war intact, while Warsaw, Gdańsk and Wrocław were largely destroyed and painstakingly rebuilt from paintings and records. Sites such as Auschwitz-Birkenau are sobering places of memory. But Poland is far more than its wartime story: it also offers Gothic brick castles, mountain hiking in the Tatras, Baltic beaches, Europe's last primeval forest, lively student cities and a growing food scene.",
+    "It is also easy and inexpensive. Trains connect the main cities, hotels and restaurants cost far less than in Western Europe, and English is widely spoken by younger people. Poland's weather is continental, with warm summers and cold winters, and its cities are at their best from May to September."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Kraków, Warsaw and Gdańsk are the essentials; Wrocław and the Tatras add variety, and the others reward those with more time.",
+  "thingsToDoIntro": "The experiences that recur across the country and make a Polish trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Stand in a medieval square",
+      "text": "Poland's market squares, the largest in Europe at Kraków, are surrounded by colourful townhouses and cafés. See [[krakow|Kraków]], [[wroclaw|Wrocław]] and [[poznan|Poznań]].",
+      "tip": "Visit early or late, when the tour groups are gone."
+    },
+    {
+      "title": "Reflect at Auschwitz-Birkenau",
+      "text": "The former Nazi concentration camp is a sobering memorial and museum. See [[auschwitz-birkenau|Auschwitz-Birkenau]].",
+      "tip": "Book tickets weeks ahead, and allow half a day."
+    },
+    {
+      "title": "Go underground at a salt mine",
+      "text": "The Wieliczka Salt Mine near Kraków has chapels and sculptures carved from salt. See [[krakow|Kraków]].",
+      "tip": "Book a timed slot."
+    },
+    {
+      "title": "Hike in the Tatras",
+      "text": "Poland's high mountains have lakes, ridges and mountain huts. See [[zakopane-tatras|Zakopane and the Tatras]].",
+      "tip": "Go between July and September for open trails."
+    },
+    {
+      "title": "See European bison",
+      "text": "Białowieża Forest is one of the last primeval lowland forests in Europe, and home to bison. See [[bialowieza|Białowieża]].",
+      "tip": "Book a guide, since the strict reserve requires one."
+    },
+    {
+      "title": "Visit a castle",
+      "text": "Malbork, built by the Teutonic Knights, is one of the largest brick castles in the world. See [[malbork|Malbork]].",
+      "tip": "Allow at least four hours."
+    },
+    {
+      "title": "Drink in a milk bar",
+      "text": "Bar mleczny, communist-era canteens, serve cheap traditional food at unbeatable prices.",
+      "tip": "Bring cash and order at the counter."
+    }
+  ],
+  "foodIntro": "Polish food is hearty and warming, with dumplings, soups, sausages and pickles, plus excellent cakes and vodka.",
+  "foods": [
+    {
+      "name": "Pierogi",
+      "image": {
+        "file": "File:Polish pierogi in a dish.jpg",
+        "alt": "A dish of Polish pierogi dumplings"
+      },
+      "text": "Boiled dumplings filled with potato and cheese, meat, cabbage and mushroom, or fruit, served with fried onion or sour cream.",
+      "whereToTry": "Milk bars and restaurants across the country."
+    },
+    {
+      "name": "Żurek",
+      "image": {
+        "file": "File:Food of Poland - żurek soup served in bread.jpg",
+        "alt": "Żurek sour rye soup served in a bread bowl"
+      },
+      "text": "A sour rye soup with sausage and egg, often served in a hollowed bread loaf.",
+      "whereToTry": "Traditional restaurants in [[warsaw|Warsaw]] and [[krakow|Kraków]]."
+    },
+    {
+      "name": "Bigos",
+      "image": {
+        "file": "File:Bigos, March 2023.jpg",
+        "alt": "A bowl of bigos, hunter's stew of cabbage and meat"
+      },
+      "text": "A hunter's stew of sauerkraut, fresh cabbage and several meats, cooked slowly and often better on the second day.",
+      "whereToTry": "Old-town restaurants."
+    },
+    {
+      "name": "Obwarzanek",
+      "image": {
+        "file": "File:Obwarzanki krakowskie.jpg",
+        "alt": "Kraków obwarzanek bread rings sold from a street stall"
+      },
+      "text": "A ring-shaped bread, boiled and baked, sold from blue carts in Kraków and topped with poppy or sesame seeds.",
+      "whereToTry": "Street stalls in [[krakow|Kraków]]."
+    },
+    {
+      "name": "Kiełbasa and oscypek",
+      "text": "Smoked sausage, and smoked sheep's cheese from the Tatras, grilled and served with cranberry sauce.",
+      "whereToTry": "Markets and [[zakopane-tatras|Zakopane]]."
+    },
+    {
+      "name": "Vodka and mead",
+      "text": "Polish vodka is served chilled with food, and honey mead (miód pitny) is a traditional favourite.",
+      "whereToTry": "Bars and restaurants."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Poland is safe, cheap and easy, though card acceptance and language can vary outside cities.",
+  "practical": {
+    "capital": "Warsaw",
+    "language": "Polish. English is widely spoken by younger people and in tourism, less so among older people and in small towns.",
+    "currency": "Polish złoty (PLN, zł). Roughly 3.6–4.3 złoty to the US dollar in recent years. Poland is in the EU but not the eurozone.",
+    "money": "Cards and contactless payments are accepted almost everywhere, including small shops. Use bank ATMs and decline dynamic currency conversion. Carry some cash for markets and small towns.",
+    "visa": "Poland is in the EU and the Schengen Area. Many nationalities, including the United Kingdom, United States, Canada and Australia, can stay up to 90 days in any 180 without a visa. The EU's ETIAS authorisation has been planned, so check current rules.",
+    "plugs": "Type C and E (two round pins), 230 V, 50 Hz. UK and US visitors need an adaptor.",
+    "emergency": "112 for all emergencies, 997 for police, 998 for fire and 999 for ambulance.",
+    "tipping": "About 10% in restaurants if service is not included, and rounding up for taxis.",
+    "safety": "Poland is generally very safe. Watch for pickpockets in crowded tourist areas and on trains, use licensed taxis or ride-hailing apps, and be careful with alcohol-fuelled nightlife. Check travel advice for areas near the Ukraine and Belarus borders.",
+    "connectivity": "Very good. EU roaming applies to EU SIMs, and prepaid SIMs are cheap. Free Wi-Fi is common in cafés.",
+    "timeZone": "Central European Time, UTC+1, and UTC+2 in summer.",
+    "budget": [
+      { "label": "Backpacker", "value": "US$40–70 per day — hostels, milk bars, trains" },
+      { "label": "Mid-range", "value": "US$90–160 per day — hotels, restaurant meals, attractions" },
+      { "label": "Comfortable", "value": "US$180–300 per day — boutique hotels, guided tours" },
+      { "label": "Luxury", "value": "US$400+ per day — five-star hotels, private guides" }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "Poland has a continental climate, with warm summers, cold winters and pleasant springs and autumns.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Mild and green, with fewer crowds and lower prices."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Warm, with long days, Baltic beaches and mountain hiking. Busiest and most expensive."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Golden leaves and pleasant temperatures, with rain increasing."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold and grey, but Christmas markets are magical and the Tatras have skiing."
+      }
+    ],
+    "avoid": "November and February, which can be cold, wet and grey."
+  },
+  "tripDuration": {
+    "headline": "8–14 days for a first trip",
+    "summary": "Poland is large, but the main cities are well connected by fast trains. A week covers Kraków and Warsaw, and two weeks allows Gdańsk and the mountains.",
+    "options": [
+      {
+        "length": "4–5 days",
+        "text": "Kraków with Auschwitz and Wieliczka.",
+        "detail": "A first taste."
+      },
+      {
+        "length": "8–10 days",
+        "text": "Kraków, Warsaw and Gdańsk.",
+        "detail": "The classic short trip."
+      },
+      {
+        "length": "12–14 days",
+        "text": "The itinerary on this page: Kraków, Zakopane, Wrocław, Poznań, Warsaw, Toruń and Gdańsk.",
+        "detail": "Our recommendation."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Adds Białowieża, Malbork and more of the countryside.",
+        "detail": "For nature and slow travel."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Trains and buses are cheap and extensive. Fast trains link the big cities, and a car helps only in the countryside.",
+    "options": [
+      {
+        "mode": "Express trains (PKP Intercity)",
+        "text": "Link Warsaw with Kraków in about 2.5 hours and Gdańsk in about 3 hours.",
+        "detail": "Book on the PKP Intercity site or app."
+      },
+      {
+        "mode": "Regional trains and buses",
+        "text": "Serve smaller towns and the Tatras. FlixBus and PolskiBus-style services are cheap.",
+        "detail": "Check the timetables."
+      },
+      {
+        "mode": "Domestic flights",
+        "text": "Rarely needed, but useful for the Baltic coast.",
+        "detail": "Compare to the train."
+      },
+      {
+        "mode": "Ride-hailing",
+        "text": "Uber and Bolt are cheap and safe in cities.",
+        "detail": "Use the app."
+      },
+      {
+        "mode": "Hire cars",
+        "text": "Useful for Białowieża and the countryside. Roads are good, but drivers can be aggressive.",
+        "detail": "Avoid night driving in rural areas."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Poland",
+    "intro": "Kraków, the Tatras, Wrocław, Poznań, Warsaw, Toruń and Gdańsk, mostly by train. Covers seven of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Kraków",
+        "morning": "Land and check in.",
+        "afternoon": "Main Market Square and the Cloth Hall.",
+        "evening": "Dinner in Kazimierz."
+      },
+      {
+        "day": 2,
+        "title": "Kraków",
+        "morning": "Wawel Castle.",
+        "afternoon": "The Old Town and St. Mary's Basilica.",
+        "evening": "Pierogi and a cellar bar."
+      },
+      {
+        "day": 3,
+        "title": "Kazimierz and Podgórze",
+        "morning": "The Jewish quarter.",
+        "afternoon": "Schindler's Factory museum.",
+        "evening": "Dinner in Kazimierz."
+      },
+      {
+        "day": 4,
+        "title": "Wieliczka",
+        "morning": "The Wieliczka Salt Mine.",
+        "afternoon": "Return to Kraków.",
+        "evening": "Free evening."
+      },
+      {
+        "day": 5,
+        "title": "To Zakopane",
+        "morning": "Bus to Zakopane.",
+        "afternoon": "Krupówki street and the wooden villas.",
+        "evening": "Oscypek and mulled wine."
+      },
+      {
+        "day": 6,
+        "title": "The Tatras",
+        "morning": "Morskie Oko lake.",
+        "afternoon": "A mountain walk.",
+        "evening": "Highland dinner."
+      },
+      {
+        "day": 7,
+        "title": "To Wrocław",
+        "morning": "Return toward Kraków.",
+        "afternoon": "Train to Wrocław.",
+        "evening": "Market Square."
+      },
+      {
+        "day": 8,
+        "title": "Wrocław",
+        "morning": "Ostrów Tumski.",
+        "afternoon": "The gnomes and Centennial Hall.",
+        "evening": "Bar hopping."
+      },
+      {
+        "day": 9,
+        "title": "Poznań",
+        "morning": "Train to Poznań.",
+        "afternoon": "The Old Market Square and the goats.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 10,
+        "title": "Warsaw",
+        "morning": "Train to Warsaw.",
+        "afternoon": "The Old Town.",
+        "evening": "Vistula riverfront."
+      },
+      {
+        "day": 11,
+        "title": "Warsaw",
+        "morning": "The Royal Castle.",
+        "afternoon": "POLIN Museum and Łazienki Park.",
+        "evening": "Modern Polish dinner."
+      },
+      {
+        "day": 12,
+        "title": "Toruń",
+        "morning": "Train to Toruń.",
+        "afternoon": "The Old Town and gingerbread.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 13,
+        "title": "Gdańsk",
+        "morning": "Train to Gdańsk.",
+        "afternoon": "The Long Market and the Motława.",
+        "evening": "Seafood."
+      },
+      {
+        "day": 14,
+        "title": "Gdańsk and departure",
+        "morning": "The Museum of the Second World War.",
+        "afternoon": "Fly home from Gdańsk.",
+        "evening": "Home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Poles are warm and hospitable once you get to know them, and formal in first meetings. Family, faith and history matter, and the wartime past is present, so it is best to approach it with respect.",
+    "etiquette": [
+      {
+        "title": "Greet formally",
+        "text": "Use a handshake, and address people by title until invited to use first names."
+      },
+      {
+        "title": "Respect history",
+        "text": "Be sensitive about the war and the Holocaust, and avoid jokes at memorial sites."
+      },
+      {
+        "title": "Take off your shoes",
+        "text": "In a home, you may be offered slippers."
+      },
+      {
+        "title": "Bring a gift",
+        "text": "Flowers, an odd number, or chocolate if invited to a home."
+      },
+      {
+        "title": "Dress modestly in churches",
+        "text": "Many Poles are Catholic, and churches are active places of worship."
+      },
+      {
+        "title": "Toast properly",
+        "text": "Say 'Na zdrowie' (to your health) and make eye contact."
+      }
+    ],
+    "dos": [
+      "Learn a few words: dzień dobry (good day), dziękuję (thank you), proszę (please)",
+      "Try milk bars and local food",
+      "Book Auschwitz and Wieliczka far ahead",
+      "Carry a little cash",
+      "Validate tickets on trams and buses",
+      "Respect quiet at memorials"
+    ],
+    "donts": [
+      "Don't call it a 'Polish concentration camp'",
+      "Don't joke about the war",
+      "Don't jaywalk, since it can be fined",
+      "Don't drink in public parks",
+      "Don't assume everyone speaks English",
+      "Don't skip tram ticket validation"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Poland, several of which are specific to how the country works.",
+  "tips": [
+    "Book Auschwitz-Birkenau tickets weeks ahead, especially in summer.",
+    "Use trains for the big cities, and buy tickets online in advance.",
+    "Eat in milk bars for cheap, traditional meals.",
+    "Validate tram and bus tickets as soon as you board.",
+    "Carry small notes for public toilets and markets.",
+    "Check shop opening hours, since many close on Sundays.",
+    "Bring layers, since weather can change quickly, especially in the Tatras.",
+    "Use Uber or Bolt rather than street taxis."
+  ],
+  "faq": [
+    {
+      "q": "Is Poland safe for tourists?",
+      "a": "Yes, generally very safe. Watch for pickpockets in tourist areas."
+    },
+    {
+      "q": "How many days do you need in Poland?",
+      "a": "Eight to fourteen days for a first trip, covering Kraków, Warsaw and Gdańsk."
+    },
+    {
+      "q": "Is Poland cheap?",
+      "a": "Yes. It is one of the cheapest EU countries for travellers."
+    },
+    {
+      "q": "What is the best time to visit Poland?",
+      "a": "May to September, with spring and early autumn offering fewer crowds."
+    },
+    {
+      "q": "Do I need a visa for Poland?",
+      "a": "Many nationalities can visit visa-free for 90 days under Schengen rules. Check current rules, including ETIAS."
+    },
+    {
+      "q": "Can I use euros in Poland?",
+      "a": "Not generally. Poland uses the złoty, so pay in local currency."
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "slug": "ushuaia-tierra-del-fuego",
+  "name": "Ushuaia and Tierra del Fuego",
+  "shortName": "Ushuaia",
+  "country": "argentina",
+  "region": "Tierra del Fuego, southern tip of Argentina",
+  "categories": ["national-park", "coastal", "scenic", "off-the-beaten-path"],
+  "tagline": "The southernmost city in the world, ringed by snow-capped mountains on the Beagle Channel, gateway to Antarctica, penguin islands and the last stretch of the Pan-American Highway.",
+  "highlight": "Sailing the Beagle Channel past sea lions and the red-and-white Les Éclaireurs lighthouse, with the mountains behind.",
+  "shortDescription": "A port at the end of the world, with Beagle Channel cruises, Tierra del Fuego National Park, the End of the World Train, penguins and the departure point for Antarctic cruises.",
+  "metaDescription": "An Ushuaia travel guide: the Beagle Channel and Les Éclaireurs lighthouse, Tierra del Fuego National Park, the End of the World Train, Isla Martillo penguins, Antarctica cruises, best time and a three-day plan.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Malvinas Argentinas (USH), about 10 minutes",
+  "knownFor": "The end of the world, the Beagle Channel, Antarctic cruises, mountains and forests",
+  "budget": "US$130–250 per day, mid-range",
+  "goodFor": "Wildlife, boat trips, hiking, Antarctica departures",
+  "coords": { "lat": -54.8019, "lng": -68.3030 },
+  "image": {
+    "file": "File:Ushuaia and the Beagle Channel (5525434752).jpg",
+    "alt": "The town of Ushuaia beside the Beagle Channel with snow-capped mountains behind"
+  },
+  "intro": [
+    "Ushuaia, on the Beagle Channel at the southern tip of South America, is widely called the southernmost city in the world, at 54° 48' south, although some tiny settlements in Chile lie further south. It lies at the foot of the Martial Mountains, on the large island of Tierra del Fuego, which is shared by Argentina and Chile, and it was founded in 1884, first as a mission and then as a penal colony. Its former prison, now a museum, is one of its main sights.",
+    "The city now lives on tourism, fishing and its role as the main departure port for cruises to Antarctica, which sail from about November to March. A visit here does not need an Antarctic trip, though, since the surroundings are spectacular: boat trips on the Beagle Channel pass sea lions, cormorants and lighthouses, penguin colonies can be visited on Isla Martillo and Estancia Harberton, and Tierra del Fuego National Park offers forest and lake walks and the end of Ruta 3, the road that begins in Buenos Aires.",
+    "The climate is cool and changeable even in summer, and the light is long and strong, with sunset after 10pm in December. It is at its best from November to March, and winter offers skiing and quiet. It is a place of dramatic landscapes and the thrill of standing near the end of the world."
+  ],
+  "whyVisit": {
+    "intro": "Ushuaia is a unique destination at the edge of the map, with wildlife and wilderness at its doorstep.",
+    "points": [
+      {
+        "title": "The end of the world",
+        "text": "The southernmost city, where the Andes plunge into the sea."
+      },
+      {
+        "title": "Beagle Channel cruises",
+        "text": "Sea lions, cormorants, lighthouses and mountain views."
+      },
+      {
+        "title": "Penguins",
+        "text": "Magellanic and Gentoo penguins on Isla Martillo, one of the few places where you can walk among them."
+      },
+      {
+        "title": "Tierra del Fuego National Park",
+        "text": "Forests, lakes and coastal paths."
+      },
+      {
+        "title": "Gateway to Antarctica",
+        "text": "Most Antarctic cruises leave from here."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are on the water or in the nearby national park.",
+  "attractions": [
+    {
+      "name": "The Beagle Channel and Les Éclaireurs Lighthouse",
+      "image": {
+        "file": "File:Les Eclaireurs Lighthouse Ushuaia.jpg",
+        "alt": "The red-and-white Les Éclaireurs lighthouse on a rock in the Beagle Channel"
+      },
+      "text": "The strait named after Darwin's ship, with boat trips to sea lion colonies, bird islands and the picturesque red-and-white lighthouse, often called the lighthouse at the end of the world.",
+      "tip": "Book a morning departure, and dress warmly."
+    },
+    {
+      "name": "Tierra del Fuego National Park",
+      "image": {
+        "file": "File:Lago Acigami, Tierra del Fuego National Park, Argentina.jpg",
+        "alt": "Lago Acigami in Tierra del Fuego National Park with forest and mountains"
+      },
+      "text": "The country's southernmost national park, with coastal trails, southern beech forests, peat bogs and the sign marking the end of Ruta 3, at Lapataia Bay, 3,000 km from Buenos Aires.",
+      "tip": "Walk the coastal path."
+    },
+    {
+      "name": "The End of the World Train",
+      "image": {
+        "file": "File:El Tren del Fin del Mundo - Train of the End of the World (38885899470).jpg",
+        "alt": "The steam train known as the End of the World Train running through Tierra del Fuego"
+      },
+      "text": "A narrow-gauge steam railway that follows the route once used by prisoners to bring timber, through the national park.",
+      "tip": "Book in advance."
+    },
+    {
+      "name": "Isla Martillo penguin colony",
+      "text": "An island with Magellanic and Gentoo penguins, visited on small-boat tours, and one of the few places where visitors can land and walk among penguins.",
+      "tip": "Book with a licensed operator, and go from October to March."
+    },
+    {
+      "name": "The Maritime and Prison Museums",
+      "text": "The former prison houses museums on the penal colony, maritime history and Antarctic exploration.",
+      "tip": "Allow a couple of hours."
+    },
+    {
+      "name": "Martial Glacier",
+      "text": "A short chairlift and walk above the town to a small glacier, with views of the channel.",
+      "tip": "Go early."
+    }
+  ],
+  "thingsToDoIntro": "Ushuaia is a place for water, walks and a sense of adventure.",
+  "thingsToDo": [
+    {
+      "title": "Sail the Beagle Channel",
+      "text": "See sea lions, seabirds and lighthouses.",
+      "tip": "Choose a small boat."
+    },
+    {
+      "title": "Walk among penguins",
+      "text": "A guided landing on Isla Martillo.",
+      "tip": "Book far ahead."
+    },
+    {
+      "title": "Hike in the national park",
+      "text": "Coastal and forest trails.",
+      "tip": "Bring waterproofs."
+    },
+    {
+      "title": "Ride the End of the World Train",
+      "text": "A steam train through the forest.",
+      "tip": "Combine with a park visit."
+    },
+    {
+      "title": "Eat king crab",
+      "text": "Centolla is a local speciality.",
+      "tip": "Try it in a local restaurant."
+    },
+    {
+      "title": "Ski or go dog-sledding",
+      "text": "Winter sports at Cerro Castor.",
+      "tip": "Best from June to September."
+    }
+  ],
+  "foodIntro": "Ushuaia's food is seafood and Patagonian lamb, at high prices.",
+  "foods": [
+    {
+      "name": "Centolla (king crab)",
+      "text": "The sweet meat of the southern king crab, served hot or cold.",
+      "whereToTry": "Seafood restaurants."
+    },
+    {
+      "name": "Patagonian lamb",
+      "text": "Roasted over an open fire.",
+      "whereToTry": "Parrillas."
+    },
+    {
+      "name": "Fresh fish",
+      "text": "Hake, trout and mussels.",
+      "whereToTry": "Restaurants on the waterfront."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Local microbreweries.",
+      "whereToTry": "Brewpubs."
+    },
+    {
+      "name": "Hot chocolate and pastries",
+      "text": "Warming after the cold.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the town centre, or in a lodge outside for views.",
+    "areas": [
+      {
+        "name": "Town centre",
+        "bestFor": "Restaurants and the port",
+        "text": "Hotels and hostels along San Martín Street."
+      },
+      {
+        "name": "The hills above town",
+        "bestFor": "Views",
+        "text": "Lodges with panoramas of the channel."
+      },
+      {
+        "name": "Near the national park",
+        "bestFor": "Nature",
+        "text": "Cabins and lodges."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel", "value": "US$30–70 per night" },
+      { "label": "Mid-range hotel", "value": "US$120–220 per night" },
+      { "label": "Luxury lodge", "value": "US$300–600 per night" },
+      { "label": "Beagle Channel cruise", "value": "US$70–150 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Ushuaia is reached by air, or by long road trips through Chile.",
+    "options": [
+      {
+        "mode": "Flight to Ushuaia (USH)",
+        "text": "Direct flights from Buenos Aires (about 3 hours 30 minutes), El Calafate and other cities.",
+        "detail": "Book early for summer."
+      },
+      {
+        "mode": "Bus and ferry from Río Gallegos",
+        "text": "A long journey via Chile and the Strait of Magellan.",
+        "detail": "About 12 to 14 hours."
+      },
+      {
+        "mode": "By cruise",
+        "text": "Some Antarctic and Patagonian cruises start and end here.",
+        "detail": "Book well ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The town is small, and tours and taxis reach the sights.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The centre and waterfront.",
+        "detail": "Wear warm layers."
+      },
+      {
+        "mode": "Taxi and minibus",
+        "text": "To the national park and trailheads.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Boat",
+        "text": "Beagle Channel trips.",
+        "detail": "Book at the port."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–March",
+    "summary": "Ushuaia has a cold, windy, changeable oceanic climate, with cool summers and cold winters.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "best",
+        "text": "Long days, mild weather and the busiest season."
+      },
+      {
+        "season": "Autumn (March–April)",
+        "rating": "good",
+        "text": "Beautiful autumn colours and fewer visitors."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "quiet",
+        "text": "Cold and snowy, with skiing and few visitors."
+      },
+      {
+        "season": "Spring (October–November)",
+        "rating": "good",
+        "text": "Cool, with penguins arriving."
+      }
+    ],
+    "avoid": "Winter for boat trips and penguins, since services close."
+  },
+  "itinerary": {
+    "title": "Three days in Ushuaia",
+    "intro": "The Beagle Channel, the national park and a day for penguins.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Beagle Channel",
+        "summary": "By boat.",
+        "morning": "A boat to Les Éclaireurs lighthouse.",
+        "afternoon": "The prison museum.",
+        "evening": "King crab dinner."
+      },
+      {
+        "day": 2,
+        "title": "Tierra del Fuego National Park",
+        "summary": "Forest and coast.",
+        "morning": "The End of the World Train.",
+        "afternoon": "Walks in the park.",
+        "evening": "Lapataia Bay."
+      },
+      {
+        "day": 3,
+        "title": "Penguins",
+        "summary": "Isla Martillo.",
+        "morning": "A trip to Isla Martillo or Harberton.",
+        "afternoon": "Return.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you prepare.",
+  "tips": [
+    "Bring layers, waterproofs, gloves and a hat, even in summer.",
+    "Book penguin landings and the train ahead.",
+    "Check the weather and wind for boat trips.",
+    "Bring sunscreen, since the sun is strong.",
+    "Book Antarctic cruises many months ahead, or look for last-minute deals in Ushuaia.",
+    "Carry cash.",
+    "Allow extra time for flights, which are prone to delays."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Ushuaia?",
+      "a": "Three or four days."
+    },
+    {
+      "q": "Is it really the southernmost city?",
+      "a": "It is widely called so, though small settlements in Chile, such as Puerto Williams, lie further south."
+    },
+    {
+      "q": "Can I see penguins?",
+      "a": "Yes, on Isla Martillo and at Estancia Harberton, from about October to March."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "November to March."
+    },
+    {
+      "q": "Can I go to Antarctica from Ushuaia?",
+      "a": "Yes, cruises leave from about November to March. Book well ahead."
+    },
+    {
+      "q": "Is Ushuaia expensive?",
+      "a": "Yes, particularly for accommodation, food and cruises."
+    }
+  ],
+  "related": ["el-calafate-perito-moreno", "el-chalten-fitz-roy", "peninsula-valdes"],
+  "relatedArticles": ["packing-by-season", "underrated-destinations"]
+}

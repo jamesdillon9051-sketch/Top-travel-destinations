@@ -1,0 +1,314 @@
+{
+  "slug": "warsaw",
+  "name": "Warsaw",
+  "country": "poland",
+  "region": "Masovia, central Poland",
+  "categories": ["capital-city", "major-city", "historic", "unesco", "cultural"],
+  "tagline": "A capital rebuilt from ashes, its old town reconstructed brick by brick, now a city of museums, parks, riverside bars and skyscrapers.",
+  "highlight": "The Old Town Market Square, meticulously reconstructed after 1945 from paintings and photographs, and now a UNESCO World Heritage Site.",
+  "shortDescription": "Poland's capital, with the reconstructed Old Town, the Royal Castle, Łazienki Park, the POLIN Museum, the Warsaw Uprising Museum, Palace of Culture and a lively restaurant and bar scene.",
+  "metaDescription": "A Warsaw travel guide: the Old Town, Royal Castle, Łazienki Park, Palace of Culture and Science, POLIN Museum, Warsaw Uprising Museum, food, where to stay and a two-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Warsaw Chopin (WAW), about 25 minutes by train",
+  "knownFor": "Rebuilt Old Town, museums, parks, history",
+  "budget": "US$90–160 per day, mid-range",
+  "goodFor": "History, museums, food, nightlife, city breaks",
+  "coords": { "lat": 52.2297, "lng": 21.0122 },
+  "image": {
+    "file": "File:Warsaw 07-13 img08 Old town.jpg",
+    "alt": "The reconstructed Old Town of Warsaw with colourful townhouses"
+  },
+  "intro": [
+    "Warsaw is Poland's capital and largest city, with about 1.8 million people. It has been the capital since 1596, and it suffered terribly in the Second World War: after the 1944 Warsaw Uprising, the German army systematically destroyed most of the city, and about 85 percent of the historic centre was lost. After the war, Poles rebuilt the Old Town using paintings by the 18th-century artist Canaletto and surviving drawings, and it is now a UNESCO World Heritage Site.",
+    "The city today is a mix of eras. The pastel houses of the Old Town and the Royal Castle stand near the massive Palace of Culture and Science, a Stalin-era tower that dominates the skyline. Łazienki Park has a palace on a lake and free Chopin recitals in summer. Museums tell the story of the city's Jewish community at the POLIN Museum, of the 1944 uprising and of communism, and there are plenty of parks, riverside cafés and a booming food and bar scene.",
+    "Warsaw is not as picturesque as Kraków, but it is more real, and for many visitors it is the more moving city. Two or three days is a good stay, and it is a hub for trains to Kraków, Gdańsk and beyond."
+  ],
+  "whyVisit": {
+    "intro": "Warsaw tells the story of modern Poland, and it is a lively, affordable capital.",
+    "points": [
+      {
+        "title": "A reconstructed Old Town",
+        "text": "A UNESCO site rebuilt after the war."
+      },
+      {
+        "title": "Powerful museums",
+        "text": "POLIN, the Uprising Museum and more."
+      },
+      {
+        "title": "Green parks",
+        "text": "Łazienki and Wilanów."
+      },
+      {
+        "title": "Food and nightlife",
+        "text": "Modern Polish cooking and riverside bars."
+      },
+      {
+        "title": "A rail hub",
+        "text": "Fast trains to all major cities."
+      }
+    ]
+  },
+  "attractionsIntro": "Sights are spread along the Royal Route, with museums a short tram ride away.",
+  "attractions": [
+    {
+      "name": "Old Town Market Square",
+      "image": {
+        "file": "File:Old Town Market Square, Mermaid Monument, 2026, Warsaw, Poland.jpg",
+        "alt": "The Mermaid statue in the middle of Warsaw's Old Town Market Square"
+      },
+      "text": "A square of coloured townhouses reconstructed after 1945, with a statue of the Warsaw mermaid, the city's symbol, at its centre.",
+      "tip": "Go early, before the crowds."
+    },
+    {
+      "name": "Royal Castle",
+      "image": {
+        "file": "File:Royal Castle, Warsaw, 2006 (01).jpg",
+        "alt": "The Royal Castle in Warsaw beside Castle Square"
+      },
+      "text": "A rebuilt royal residence with lavish state rooms and paintings, including works by Canaletto.",
+      "tip": "Free on some days."
+    },
+    {
+      "name": "Łazienki Park",
+      "image": {
+        "file": "File:Palace on the Isle (21895p).jpg",
+        "alt": "The Palace on the Isle among trees in Łazienki Park"
+      },
+      "text": "A large royal park with the Palace on the Isle, peacocks and free Chopin concerts on summer Sundays.",
+      "tip": "Bring a picnic."
+    },
+    {
+      "name": "Palace of Culture and Science",
+      "image": {
+        "file": "File:Palace of Culture and Science, 2026, Warsaw, Poland.jpg",
+        "alt": "The Palace of Culture and Science towering over central Warsaw"
+      },
+      "text": "A 237-metre tower given by the Soviet Union in the 1950s, with a viewing terrace at the top.",
+      "tip": "Go up for city views."
+    },
+    {
+      "name": "POLIN Museum",
+      "text": "A museum on 1,000 years of Jewish life in Poland, on the site of the Warsaw Ghetto.",
+      "tip": "Allow three hours."
+    },
+    {
+      "name": "Warsaw Uprising Museum",
+      "text": "An immersive museum on the 1944 uprising against German occupation.",
+      "tip": "Book in advance."
+    }
+  ],
+  "thingsToDoIntro": "Warsaw rewards museums, parks and evenings.",
+  "thingsToDo": [
+    {
+      "title": "Walk the Royal Route",
+      "text": "From the castle to Łazienki.",
+      "tip": "Start at Castle Square."
+    },
+    {
+      "title": "Attend a Chopin concert",
+      "text": "Free recitals in Łazienki on summer Sundays.",
+      "tip": "Arrive early."
+    },
+    {
+      "title": "Visit the Vistula beaches",
+      "text": "Riverside bars and sand in summer.",
+      "tip": "Go on the Praga side."
+    },
+    {
+      "title": "Explore Praga",
+      "text": "A hip, artsy district across the river.",
+      "tip": "Go in the evening."
+    },
+    {
+      "title": "See the Copernicus Science Centre",
+      "text": "A hands-on science museum.",
+      "tip": "Good for families."
+    },
+    {
+      "title": "Try a vodka tasting",
+      "text": "Learn about Polish spirits.",
+      "tip": "Book ahead."
+    }
+  ],
+  "foodIntro": "Warsaw's food ranges from milk bars to modern Polish restaurants.",
+  "foods": [
+    {
+      "name": "Pierogi",
+      "text": "Dumplings.",
+      "whereToTry": "Milk bars."
+    },
+    {
+      "name": "Żurek",
+      "text": "Sour rye soup.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Pączki",
+      "text": "Filled doughnuts.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Modern Polish tasting menus",
+      "text": "A rising food scene.",
+      "whereToTry": "Restaurants in the centre."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Local breweries.",
+      "whereToTry": "Bars in Praga."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the centre or Old Town.",
+    "areas": [
+      {
+        "name": "Old Town",
+        "bestFor": "Sightseeing",
+        "text": "Boutique hotels."
+      },
+      {
+        "name": "City centre",
+        "bestFor": "Transport",
+        "text": "Business hotels."
+      },
+      {
+        "name": "Praga",
+        "bestFor": "Nightlife and value",
+        "text": "Hostels."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$15–28 per night" },
+      { "label": "Mid-range hotel", "value": "US$70–140 per night" },
+      { "label": "Luxury hotel", "value": "US$180–350 per night" },
+      { "label": "Meal at a milk bar", "value": "US$4–8 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Warsaw is the country's rail hub.",
+    "options": [
+      {
+        "mode": "Train from the airport",
+        "text": "About 25 minutes to the centre.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train from Kraków",
+        "text": "About 2.5 hours.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Train from Gdańsk",
+        "text": "About 3 hours.",
+        "detail": "Book ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Trams and a metro cover the city.",
+    "options": [
+      {
+        "mode": "Metro and trams",
+        "text": "Cheap and frequent.",
+        "detail": "Buy tickets at machines."
+      },
+      {
+        "mode": "Ride-hailing",
+        "text": "Cheap.",
+        "detail": "Use Bolt or Uber."
+      },
+      {
+        "mode": "On foot",
+        "text": "The Old Town.",
+        "detail": "Comfortable shoes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "Warsaw is continental, with warm summers and cold winters.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Mild and green."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Warm, with riverside life."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Golden leaves."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold and grey."
+      }
+    ],
+    "avoid": "Grey, cold November."
+  },
+  "itinerary": {
+    "title": "Two days in Warsaw",
+    "intro": "The old town and the museums.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Old Town",
+        "summary": "Rebuilt streets.",
+        "morning": "Old Town Market Square.",
+        "afternoon": "The Royal Castle and Royal Route.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 2,
+        "title": "Museums and parks",
+        "summary": "Memory and greenery.",
+        "morning": "POLIN Museum.",
+        "afternoon": "Warsaw Uprising Museum.",
+        "evening": "Praga bars."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book the Uprising Museum in advance.",
+    "Use the metro and trams.",
+    "Visit Łazienki on a Sunday.",
+    "Try milk bars.",
+    "Allow time for POLIN.",
+    "Watch for pickpockets.",
+    "Explore Praga."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Warsaw?",
+      "a": "Two or three."
+    },
+    {
+      "q": "Is Warsaw worth visiting?",
+      "a": "Yes, for its history and energy."
+    },
+    {
+      "q": "Was Warsaw destroyed in the war?",
+      "a": "Largely, and the Old Town was rebuilt."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Yes."
+    },
+    {
+      "q": "Is Warsaw cheap?",
+      "a": "Yes, compared to Western Europe."
+    },
+    {
+      "q": "How do I get from the airport?",
+      "a": "Train, bus or taxi."
+    }
+  ],
+  "related": ["krakow", "gdansk", "torun"],
+  "relatedArticles": ["first-trip-to-europe", "europe-by-train"]
+}

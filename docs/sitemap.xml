@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.sitemaps.org/schemas/sitemap-image/1.1">
   <url>
     <loc>https://travelvault.online/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -12,13 +12,253 @@
   </url>
   <url>
     <loc>https://travelvault.online/destinations/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://travelvault.online/argentina/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/argentina/_country.webp</image:loc>
+      <image:caption>The striped Hill of Seven Colours rising above Purmamarca in the Argentine north-west</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/argentina/travel-guide/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/argentina/_country.webp</image:loc>
+      <image:caption>The striped Hill of Seven Colours rising above Purmamarca in the Argentine north-west</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/argentina/buenos-aires/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/argentina/buenos-aires.webp</image:loc>
+      <image:caption>The Obelisco monument in Buenos Aires at sunset with wide avenues around it</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/argentina/el-calafate-perito-moreno/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/argentina/el-calafate-perito-moreno.webp</image:loc>
+      <image:caption>The blue ice face of the Perito Moreno Glacier meeting the turquoise water of Lago Argentino</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/argentina/el-chalten-fitz-roy/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/argentina/el-chalten-fitz-roy.webp</image:loc>
+      <image:caption>The granite spires of Mount Fitz Roy rising above forests and a valley in Patagonia</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/argentina/iguazu-falls-argentina/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/argentina/iguazu-falls-argentina.webp</image:loc>
+      <image:caption>Many cascades of Iguazú Falls seen from the Argentine side, surrounded by rainforest</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/argentina/bariloche-lake-district/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/argentina/bariloche-lake-district.webp</image:loc>
+      <image:caption>The Llao Llao peninsula between two arms of Lake Nahuel Huapi with mountains behind</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/argentina/mendoza-wine-country/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/argentina/mendoza-wine-country.webp</image:loc>
+      <image:caption>Rows of grapevines with the snow-capped Andes rising behind them near Mendoza</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/argentina/salta-jujuy-northwest/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/argentina/salta-jujuy-northwest.webp</image:loc>
+      <image:caption>The multicoloured Hill of Seven Colours above the village of Purmamarca in Jujuy</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/argentina/ushuaia-tierra-del-fuego/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/argentina/ushuaia-tierra-del-fuego.webp</image:loc>
+      <image:caption>The town of Ushuaia beside the Beagle Channel with snow-capped mountains behind</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/argentina/peninsula-valdes/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/argentina/peninsula-valdes.webp</image:loc>
+      <image:caption>A southern right whale swimming near the surface off Península Valdés</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/argentina/esteros-del-ibera/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/argentina/esteros-del-ibera.webp</image:loc>
+      <image:caption>A calm lagoon covered with aquatic plants in the Esteros del Iberá wetlands</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/australia/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/australia/_country.webp</image:loc>
+      <image:caption>The white crescent of Wineglass Bay between forested granite peaks in Tasmania</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/australia/travel-guide/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/australia/_country.webp</image:loc>
+      <image:caption>The white crescent of Wineglass Bay between forested granite peaks in Tasmania</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/australia/sydney/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/australia/sydney.webp</image:loc>
+      <image:caption>The Sydney Opera House and Harbour Bridge at dusk across the harbour</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/australia/great-barrier-reef-cairns/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/australia/great-barrier-reef-cairns.webp</image:loc>
+      <image:caption>An aerial view of coral reefs and turquoise water on the Great Barrier Reef</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/australia/uluru-red-centre/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/australia/uluru-red-centre.webp</image:loc>
+      <image:caption>Uluru, the great red sandstone monolith, standing above the desert plain</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/australia/melbourne/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/australia/melbourne.webp</image:loc>
+      <image:caption>The yellow façade of Flinders Street Railway Station in Melbourne</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/australia/great-ocean-road/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/australia/great-ocean-road.webp</image:loc>
+      <image:caption>The Twelve Apostles limestone stacks rising from the sea off the Victorian coast</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/australia/tasmania/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/australia/tasmania.webp</image:loc>
+      <image:caption>Cradle Mountain reflected in Dove Lake in the Tasmanian wilderness</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/australia/whitsundays/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/australia/whitsundays.webp</image:loc>
+      <image:caption>The swirling turquoise water and white sand of Hill Inlet at the end of Whitehaven Beach</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/australia/blue-mountains/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/australia/blue-mountains.webp</image:loc>
+      <image:caption>The Three Sisters rock formation above the forested Jamison Valley in the Blue Mountains</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/australia/perth-margaret-river/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/australia/perth-margaret-river.webp</image:loc>
+      <image:caption>The Perth skyline and the Swan River seen from Kings Park</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/australia/kakadu-top-end/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/australia/kakadu-top-end.webp</image:loc>
+      <image:caption>The Yellow Water billabong at Kakadu National Park with wetlands and water lilies</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://travelvault.online/austria/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -28,7 +268,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/austria/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -38,7 +278,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/austria/vienna/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -48,7 +288,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/austria/salzburg/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -58,7 +298,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/austria/hallstatt/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -68,7 +308,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/austria/innsbruck/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -78,7 +318,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/austria/graz/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -88,7 +328,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/austria/wachau-valley/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -98,7 +338,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/austria/kitzbuhel/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -108,7 +348,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/austria/zell-am-see-grossglockner/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -118,7 +358,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/austria/eisenstadt-neusiedler-see/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -128,7 +368,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/austria/bregenz-lake-constance/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -137,8 +377,128 @@
     </image:image>
   </url>
   <url>
+    <loc>https://travelvault.online/brazil/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/brazil/_country.webp</image:loc>
+      <image:caption>The skyline of Rio de Janeiro and Sugarloaf Mountain at sunset over Guanabara Bay</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/brazil/travel-guide/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/brazil/_country.webp</image:loc>
+      <image:caption>The skyline of Rio de Janeiro and Sugarloaf Mountain at sunset over Guanabara Bay</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/brazil/rio-de-janeiro/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/brazil/rio-de-janeiro.webp</image:loc>
+      <image:caption>The skyline of Rio de Janeiro with Christ the Redeemer on Corcovado seen from Sugarloaf Mountain</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/brazil/iguazu-falls/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/brazil/iguazu-falls.webp</image:loc>
+      <image:caption>A wide panorama of the Iguazu Falls with many cascades in the rainforest</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/brazil/salvador/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/brazil/salvador.webp</image:loc>
+      <image:caption>Colourful colonial buildings on the Largo do Pelourinho in Salvador</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/brazil/amazon-manaus/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/brazil/amazon-manaus.webp</image:loc>
+      <image:caption>The forested islands of the Anavilhanas archipelago in the Rio Negro</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/brazil/pantanal/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/brazil/pantanal.webp</image:loc>
+      <image:caption>A jaguar drinking at the edge of a river in the northern Pantanal</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/brazil/paraty-ilha-grande/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/brazil/paraty-ilha-grande.webp</image:loc>
+      <image:caption>The whitewashed colonial buildings and cobbled streets of the historic centre of Paraty</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/brazil/sao-paulo/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/brazil/sao-paulo.webp</image:loc>
+      <image:caption>The São Paulo skyline with the curving Copan building and the Terraço Itália tower</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/brazil/fernando-de-noronha/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/brazil/fernando-de-noronha.webp</image:loc>
+      <image:caption>The turquoise water and white sand of Baía do Sancho beach on Fernando de Noronha</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/brazil/lencois-maranhenses/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/brazil/lencois-maranhenses.webp</image:loc>
+      <image:caption>White sand dunes and blue lagoons in the Lençóis Maranhenses National Park</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/brazil/ouro-preto/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/brazil/ouro-preto.webp</image:loc>
+      <image:caption>Colonial houses and church towers on the hills of Ouro Preto</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://travelvault.online/canada/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -148,7 +508,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/canada/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -158,7 +518,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/canada/banff-lake-louise/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -168,7 +528,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/canada/jasper-national-park/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -178,7 +538,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/canada/vancouver/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -188,7 +548,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/canada/whistler/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -198,7 +558,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/canada/toronto/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -208,7 +568,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/canada/niagara-falls/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -218,7 +578,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/canada/montreal/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -228,7 +588,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/canada/quebec-city/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -238,7 +598,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/canada/prince-edward-island/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -248,7 +608,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/canada/churchill/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -258,7 +618,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/china/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -268,7 +628,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/china/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -278,7 +638,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/china/beijing/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -288,7 +648,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/china/xi-an/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -298,7 +658,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/china/shanghai/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -308,7 +668,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/china/guilin-yangshuo/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -318,7 +678,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/china/zhangjiajie/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -328,7 +688,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/china/chengdu/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -338,7 +698,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/china/hong-kong/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -348,7 +708,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/china/lijiang-yunnan/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -358,7 +718,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/china/huangshan-anhui-villages/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -368,7 +728,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/china/suzhou-hangzhou/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -377,8 +737,128 @@
     </image:image>
   </url>
   <url>
+    <loc>https://travelvault.online/colombia/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/colombia/salento-cocora--attraction-1.webp</image:loc>
+      <image:caption>Tall wax palms rising from green hills in the Cocora Valley</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/colombia/travel-guide/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/colombia/salento-cocora--attraction-1.webp</image:loc>
+      <image:caption>Tall wax palms rising from green hills in the Cocora Valley</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/colombia/cartagena/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/colombia/cartagena.webp</image:loc>
+      <image:caption>Plaza de Santo Domingo in the old city of Cartagena with coloured colonial buildings</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/colombia/bogota/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/colombia/bogota.webp</image:loc>
+      <image:caption>The Plaza de Bolívar in the heart of Bogotá with the cathedral and mountains beyond</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/colombia/medellin/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/colombia/medellin.webp</image:loc>
+      <image:caption>Fernando Botero's round bronze sculptures on Plaza Botero in Medellín</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/colombia/guatape/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/colombia/guatape.webp</image:loc>
+      <image:caption>The giant granite monolith of El Peñol rising above the Guatapé reservoir</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/colombia/salento-cocora/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/colombia/salento-cocora.webp</image:loc>
+      <image:caption>The tall wax palms of the Cocora Valley rising from green meadows</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/colombia/tayrona-santa-marta/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/colombia/tayrona-santa-marta.webp</image:loc>
+      <image:caption>A jungle-backed cove at Tayrona National Park with turquoise water</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/colombia/villa-de-leyva/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/colombia/villa-de-leyva.webp</image:loc>
+      <image:caption>The vast cobbled Plaza Mayor of Villa de Leyva with its white church</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/colombia/barichara/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/colombia/barichara.webp</image:loc>
+      <image:caption>A stone-paved street lined with whitewashed houses in Barichara</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/colombia/san-andres/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/colombia/san-andres.webp</image:loc>
+      <image:caption>The turquoise water and palm-fringed shoreline of San Andrés island</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/colombia/cano-cristales/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/colombia/cano-cristales--attraction-1.webp</image:loc>
+      <image:caption>The Cascada los Cuarzos waterfall on the Caño Cristales river with coloured rocks</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://travelvault.online/croatia/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -388,7 +868,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/croatia/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -398,7 +878,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/croatia/dubrovnik/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -408,7 +888,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/croatia/split/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -418,7 +898,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/croatia/hvar/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -428,7 +908,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/croatia/plitvice-lakes/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -438,7 +918,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/croatia/zagreb/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -448,7 +928,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/croatia/rovinj/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -458,7 +938,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/croatia/zadar/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -468,7 +948,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/croatia/korcula/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -478,7 +958,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/croatia/krka-national-park/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -488,7 +968,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/croatia/pula/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -498,7 +978,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -508,7 +988,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -518,7 +998,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/prague/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -528,7 +1008,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/kutna-hora/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -538,7 +1018,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/cesky-krumlov/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -548,7 +1028,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/karlovy-vary/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -558,7 +1038,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/plzen/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -568,7 +1048,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/bohemian-switzerland/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -578,7 +1058,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/telc/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -588,7 +1068,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/brno/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -598,7 +1078,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/lednice-valtice/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -608,7 +1088,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/czech-republic/olomouc/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -618,7 +1098,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/egypt/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -628,7 +1108,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/egypt/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -638,7 +1118,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/egypt/cairo-giza/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -648,7 +1128,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/egypt/luxor/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -658,7 +1138,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/egypt/aswan/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -668,7 +1148,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/egypt/nile-cruise/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -678,7 +1158,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/egypt/alexandria/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -688,7 +1168,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/egypt/sharm-el-sheikh/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -698,7 +1178,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/egypt/dahab/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -708,7 +1188,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/egypt/hurghada/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -718,7 +1198,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/egypt/white-desert-bahariya/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -728,7 +1208,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/egypt/siwa-oasis/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -738,7 +1218,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/france/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -748,7 +1228,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/france/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -758,7 +1238,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/france/paris/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -768,7 +1248,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/france/provence-luberon/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -778,7 +1258,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/france/nice-french-riviera/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -788,7 +1268,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/france/loire-valley/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -798,7 +1278,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/france/mont-saint-michel/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -808,7 +1288,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/france/chamonix-mont-blanc/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -818,7 +1298,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/france/bordeaux/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -828,7 +1308,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/france/normandy-d-day-beaches/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -838,7 +1318,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/france/strasbourg-alsace/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -848,7 +1328,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/france/dordogne-sarlat/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -858,7 +1338,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/germany/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -868,7 +1348,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/germany/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -878,7 +1358,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/germany/berlin/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -888,7 +1368,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/germany/munich/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -898,7 +1378,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/germany/romantic-road-neuschwanstein/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -908,7 +1388,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/germany/hamburg/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -918,7 +1398,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/germany/cologne-rhine-valley/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -928,7 +1408,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/germany/dresden/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -938,7 +1418,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/germany/black-forest/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -948,7 +1428,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/germany/nuremberg/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -958,7 +1438,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/germany/heidelberg-neckar-valley/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -968,7 +1448,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/germany/rugen-baltic-coast/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -978,7 +1458,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/greece/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -988,7 +1468,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/greece/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -998,7 +1478,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/greece/athens/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1008,7 +1488,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/greece/santorini/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1018,7 +1498,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/greece/mykonos/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1028,7 +1508,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/greece/crete/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1038,7 +1518,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/greece/rhodes/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1048,7 +1528,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/greece/meteora/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1058,7 +1538,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/greece/delphi/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1068,7 +1548,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/greece/nafplio-peloponnese/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1078,7 +1558,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/greece/corfu/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1088,7 +1568,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/greece/thessaloniki/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1097,8 +1577,128 @@
     </image:image>
   </url>
   <url>
+    <loc>https://travelvault.online/hungary/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/hungary/_country.webp</image:loc>
+      <image:caption>Buda Castle above the Danube seen from the Széchenyi Chain Bridge</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/hungary/travel-guide/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/hungary/_country.webp</image:loc>
+      <image:caption>Buda Castle above the Danube seen from the Széchenyi Chain Bridge</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/hungary/budapest/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/hungary/budapest.webp</image:loc>
+      <image:caption>The Hungarian Parliament Building beside the Danube</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/hungary/danube-bend/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/hungary/danube-bend.webp</image:loc>
+      <image:caption>The Danube bending between forested hills at Visegrád</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/hungary/eger/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/hungary/eger.webp</image:loc>
+      <image:caption>The walls of Eger Castle above the town</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/hungary/lake-balaton/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/hungary/lake-balaton.webp</image:loc>
+      <image:caption>Lake Balaton stretching to the horizon under a soft sky</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/hungary/tokaj/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/hungary/tokaj.webp</image:loc>
+      <image:caption>The town hall of Tokaj on the main square</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/hungary/pecs/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/hungary/pecs.webp</image:loc>
+      <image:caption>Széchenyi Square in Pécs with the domed Mosque-Church</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/hungary/hortobagy/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/hungary/hortobagy.webp</image:loc>
+      <image:caption>Horses on the open grassland of the Hortobágy puszta</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/hungary/sopron/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/hungary/sopron.webp</image:loc>
+      <image:caption>The baroque Fire Tower rising above Sopron's old town</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/hungary/szeged/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/hungary/szeged.webp</image:loc>
+      <image:caption>The twin-towered Votive Church of Szeged</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/hungary/holloko/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/hungary/holloko.webp</image:loc>
+      <image:caption>Whitewashed houses with wooden details on the main street of Hollókő Old Village</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://travelvault.online/iceland/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -1108,7 +1708,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/iceland/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1118,7 +1718,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/iceland/reykjavik/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1128,7 +1728,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/iceland/golden-circle/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1138,7 +1738,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/iceland/south-coast/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1148,7 +1748,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/iceland/jokulsarlon-vatnajokull/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1158,7 +1758,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/iceland/snaefellsnes/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1168,7 +1768,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/iceland/blue-lagoon-reykjanes/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1178,7 +1778,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/iceland/lake-myvatn-north-iceland/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1188,7 +1788,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/iceland/westfjords/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1198,7 +1798,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/iceland/landmannalaugar-highlands/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1208,7 +1808,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/iceland/westman-islands/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1217,8 +1817,128 @@
     </image:image>
   </url>
   <url>
+    <loc>https://travelvault.online/india/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/india/_country.webp</image:loc>
+      <image:caption>Amber Fort above its lake near Jaipur, Rajasthan</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/india/travel-guide/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/india/_country.webp</image:loc>
+      <image:caption>Amber Fort above its lake near Jaipur, Rajasthan</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/india/agra/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/india/agra.webp</image:loc>
+      <image:caption>The Taj Mahal in Agra with its white marble dome and minarets reflected in the pool</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/india/delhi/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/india/delhi.webp</image:loc>
+      <image:caption>India Gate war memorial in New Delhi at the end of a wide ceremonial avenue</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/india/jaipur/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/india/jaipur.webp</image:loc>
+      <image:caption>The pink sandstone honeycomb façade of the Hawa Mahal in Jaipur</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/india/varanasi/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/india/varanasi.webp</image:loc>
+      <image:caption>The stone ghats and temples lining the west bank of the Ganges in Varanasi</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/india/udaipur/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/india/udaipur.webp</image:loc>
+      <image:caption>The City Palace of Udaipur rising above the waters of Lake Pichola</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/india/kerala-backwaters-kochi/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/india/kerala-backwaters-kochi.webp</image:loc>
+      <image:caption>A traditional houseboat on the palm-lined backwaters near Alleppey in Kerala</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/india/mumbai/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/india/mumbai.webp</image:loc>
+      <image:caption>The Gateway of India monument by the harbour in Mumbai in the evening</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/india/goa/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/india/goa.webp</image:loc>
+      <image:caption>The curved sandy bay of Palolem beach in South Goa with palms and boats</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/india/amritsar/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/india/amritsar.webp</image:loc>
+      <image:caption>The gold-covered Harmandir Sahib temple reflected in the sacred pool at Amritsar</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/india/hampi/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/india/hampi.webp</image:loc>
+      <image:caption>The gopuram of the Virupaksha Temple rising among boulders on Hemakuta Hill in Hampi</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://travelvault.online/indonesia/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -1228,7 +1948,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1238,7 +1958,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/ubud/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1248,7 +1968,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/seminyak-kuta/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1258,7 +1978,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/yogyakarta-borobudur/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1268,7 +1988,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/bromo-tengger-semeru/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1278,7 +1998,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/komodo-flores/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1288,7 +2008,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/raja-ampat/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1298,7 +2018,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/lombok-gili-islands/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1308,7 +2028,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/jakarta/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1318,7 +2038,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/lake-toba-sumatra/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1328,7 +2048,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/indonesia/bandung/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1338,7 +2058,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/ireland/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -1348,7 +2068,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/ireland/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1358,7 +2078,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/ireland/dublin/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1368,7 +2088,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/ireland/killarney-ring-of-kerry/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1378,7 +2098,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/ireland/cliffs-of-moher-burren/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1388,7 +2108,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/ireland/galway/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1398,7 +2118,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/ireland/cork-cobh/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1408,7 +2128,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/ireland/connemara/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1418,7 +2138,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/ireland/kilkenny/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1428,7 +2148,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/ireland/dingle-peninsula/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1438,7 +2158,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/ireland/donegal/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1448,7 +2168,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/ireland/aran-islands/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1458,7 +2178,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/israel/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -1468,7 +2188,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/israel/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1478,7 +2198,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/israel/jerusalem/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1488,7 +2208,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/israel/tel-aviv-jaffa/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1498,7 +2218,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/israel/sea-of-galilee/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1508,7 +2228,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/israel/nazareth/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1518,7 +2238,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/israel/masada-dead-sea/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1528,7 +2248,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/israel/haifa-bahai-gardens/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1538,7 +2258,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/israel/acre-old-city/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1548,7 +2268,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/israel/safed-tzfat/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1558,7 +2278,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/israel/megiddo-beit-shean/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1568,7 +2288,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/israel/negev-mitzpe-ramon/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1578,7 +2298,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/italy/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -1588,7 +2308,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/italy/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1598,7 +2318,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/italy/rome/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1608,7 +2328,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/italy/florence-tuscany/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1618,7 +2338,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/italy/venice/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1628,7 +2348,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/italy/amalfi-coast/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1638,7 +2358,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/italy/naples-pompeii/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1648,7 +2368,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/italy/sicily/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1658,7 +2378,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/italy/cinque-terre/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1668,7 +2388,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/italy/dolomites/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1678,7 +2398,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/italy/puglia-matera/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1688,7 +2408,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/italy/milan/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1698,7 +2418,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/japan/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -1708,7 +2428,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/japan/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1718,7 +2438,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/japan/tokyo/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1728,7 +2448,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/japan/kyoto/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1738,7 +2458,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/japan/osaka-nara/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1748,7 +2468,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/japan/hiroshima-miyajima/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1758,7 +2478,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/japan/mount-fuji-hakone/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1768,7 +2488,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/japan/hokkaido/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1778,7 +2498,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/japan/okinawa/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1788,7 +2508,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/japan/takayama-shirakawa-go/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1798,7 +2518,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/japan/kanazawa/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1808,7 +2528,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/japan/nikko/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1818,7 +2538,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/jordan/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -1828,7 +2548,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/jordan/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1838,7 +2558,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/jordan/petra/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1848,7 +2568,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/jordan/wadi-rum/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1858,7 +2578,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/jordan/amman/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1868,7 +2588,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/jordan/jerash/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1878,7 +2598,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/jordan/dead-sea-jordan/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1888,7 +2608,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/jordan/madaba-mount-nebo/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1898,7 +2618,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/jordan/aqaba/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1908,7 +2628,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/jordan/dana-biosphere-reserve/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1918,7 +2638,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/jordan/kerak-shobak/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1928,7 +2648,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/jordan/ajloun-umm-qais/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1938,7 +2658,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/lebanon/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -1948,7 +2668,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/lebanon/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1958,7 +2678,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/lebanon/beirut/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1968,7 +2688,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/lebanon/baalbek/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1978,7 +2698,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/lebanon/byblos/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1988,7 +2708,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/lebanon/qadisha-valley-cedars/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1998,7 +2718,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/lebanon/tyre/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2008,7 +2728,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/lebanon/sidon/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2018,7 +2738,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/lebanon/tripoli/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2028,7 +2748,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/lebanon/batroun/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2038,7 +2758,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/lebanon/chouf-beiteddine/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2048,7 +2768,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/lebanon/anjar/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2058,7 +2778,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -2068,7 +2788,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2078,7 +2798,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/kuala-lumpur/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2088,7 +2808,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/penang/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2098,7 +2818,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/langkawi/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2108,7 +2828,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/malacca/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2118,7 +2838,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/cameron-highlands/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2128,7 +2848,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/kota-kinabalu/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2138,7 +2858,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/perhentian-islands/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2148,7 +2868,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/taman-negara/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2158,7 +2878,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/kuching/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2168,7 +2888,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/malaysia/ipoh/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2177,8 +2897,248 @@
     </image:image>
   </url>
   <url>
+    <loc>https://travelvault.online/mexico/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/mexico/_country.webp</image:loc>
+      <image:caption>The golden Angel of Independence column on Paseo de la Reforma in Mexico City</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/mexico/travel-guide/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/mexico/_country.webp</image:loc>
+      <image:caption>The golden Angel of Independence column on Paseo de la Reforma in Mexico City</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/mexico/mexico-city/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/mexico/mexico-city.webp</image:loc>
+      <image:caption>The white marble Palacio de Bellas Artes in the centre of Mexico City</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/mexico/oaxaca/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/mexico/oaxaca.webp</image:loc>
+      <image:caption>The baroque facade of the Church of Santo Domingo de Guzmán in Oaxaca</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/mexico/yucatan-merida-chichen-itza/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/mexico/yucatan-merida-chichen-itza.webp</image:loc>
+      <image:caption>El Castillo, the stepped pyramid of Chichén Itzá, on its plaza under a blue sky</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/mexico/tulum-riviera-maya/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/mexico/tulum-riviera-maya.webp</image:loc>
+      <image:caption>The Temple of the God of the Winds at Tulum, on a cliff above the Caribbean</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/mexico/guanajuato/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/mexico/guanajuato.webp</image:loc>
+      <image:caption>The colourful houses of Guanajuato packed into a hillside valley</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/mexico/san-miguel-de-allende/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/mexico/san-miguel-de-allende.webp</image:loc>
+      <image:caption>The pink neo-Gothic facade of the Parroquia de San Miguel Arcángel in San Miguel de Allende</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/mexico/teotihuacan/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/mexico/teotihuacan.webp</image:loc>
+      <image:caption>The Pyramid of the Sun at Teotihuacán rising above the site's paths</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/mexico/puebla-cholula/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/mexico/puebla-cholula.webp</image:loc>
+      <image:caption>The Church of Our Lady of Remedies on top of the Great Pyramid of Cholula</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/mexico/guadalajara-tequila/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/mexico/guadalajara-tequila.webp</image:loc>
+      <image:caption>Rows of blue agave plants in the fields of Tequila, Jalisco</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/mexico/chiapas-palenque-san-cristobal/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/mexico/chiapas-palenque-san-cristobal.webp</image:loc>
+      <image:caption>The Temple of the Inscriptions at Palenque rising above the jungle</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/morocco/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/morocco/_country.webp</image:loc>
+      <image:caption>The dunes of Erg Chebbi in the Moroccan Sahara glowing at sunset</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/morocco/travel-guide/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/morocco/_country.webp</image:loc>
+      <image:caption>The dunes of Erg Chebbi in the Moroccan Sahara glowing at sunset</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/morocco/marrakech/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/morocco/marrakech.webp</image:loc>
+      <image:caption>Jemaa el-Fnaa square in Marrakech at sunset with the Koutoubia minaret in the background</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/morocco/fes/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/morocco/fes.webp</image:loc>
+      <image:caption>The blue-tiled Bab Boujloud gate at the entrance to the medina of Fes</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/morocco/chefchaouen/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/morocco/chefchaouen.webp</image:loc>
+      <image:caption>The blue houses of Chefchaouen with the Rif mountains rising behind</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/morocco/merzouga-sahara/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/morocco/merzouga-sahara.webp</image:loc>
+      <image:caption>The orange sand dunes of Erg Chebbi near Merzouga in the Moroccan Sahara</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/morocco/essaouira/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/morocco/essaouira.webp</image:loc>
+      <image:caption>Blue fishing boats in the port of Essaouira with the town walls behind</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/morocco/ait-benhaddou-ouarzazate/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/morocco/ait-benhaddou-ouarzazate.webp</image:loc>
+      <image:caption>The earthen ksar of Aït Benhaddou climbing a hillside above a river in southern Morocco</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/morocco/casablanca/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/morocco/casablanca.webp</image:loc>
+      <image:caption>The vast plaza in front of the Hassan II Mosque in Casablanca</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/morocco/rabat/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/morocco/rabat.webp</image:loc>
+      <image:caption>The walls of the Kasbah of the Udayas in Rabat with a modern tower behind</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/morocco/high-atlas-imlil/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/morocco/high-atlas-imlil.webp</image:loc>
+      <image:caption>The Imlil valley in the High Atlas with the trail leading toward Jebel Toubkal</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/morocco/meknes-volubilis/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/morocco/meknes-volubilis.webp</image:loc>
+      <image:caption>The Roman ruins of Volubilis with columns and the surrounding olive plain</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://travelvault.online/netherlands/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -2188,7 +3148,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2198,7 +3158,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/amsterdam/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2208,7 +3168,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/rotterdam/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2218,7 +3178,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/the-hague/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2228,7 +3188,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/utrecht/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2238,7 +3198,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/delft/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2248,7 +3208,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/keukenhof/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2258,7 +3218,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/giethoorn/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2268,7 +3228,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/zaanse-schans/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2278,7 +3238,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/maastricht/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2288,7 +3248,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/netherlands/kinderdijk/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2298,7 +3258,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -2308,7 +3268,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2318,7 +3278,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/auckland/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2328,7 +3288,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/wellington/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2338,7 +3298,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/christchurch/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2348,7 +3308,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/queenstown/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2358,7 +3318,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/rotorua/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2368,7 +3328,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/milford-sound/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2378,7 +3338,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/bay-of-islands/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2388,7 +3348,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/abel-tasman/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2398,7 +3358,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/tongariro/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2408,7 +3368,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/new-zealand/franz-josef-glacier/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2418,7 +3378,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/norway/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -2428,7 +3388,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/norway/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2438,7 +3398,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/norway/oslo/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2448,7 +3408,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/norway/bergen/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2458,7 +3418,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/norway/geirangerfjord/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2468,7 +3428,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/norway/lofoten-islands/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2478,7 +3438,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/norway/stavanger-preikestolen/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2488,7 +3448,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/norway/tromso/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2498,7 +3458,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/norway/trondheim/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2508,7 +3468,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/norway/alesund-atlantic-road/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2518,7 +3478,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/norway/jotunheimen/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2528,7 +3488,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/norway/svalbard/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2538,7 +3498,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/palestinian-territories/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -2548,7 +3508,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/palestinian-territories/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2558,7 +3518,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/palestinian-territories/bethlehem/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2568,7 +3528,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/palestinian-territories/jericho/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2578,7 +3538,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/palestinian-territories/hebron/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2588,7 +3548,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/palestinian-territories/nablus/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2598,7 +3558,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/palestinian-territories/ramallah/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2608,7 +3568,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/palestinian-territories/battir/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2618,7 +3578,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/palestinian-territories/herodium/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2628,7 +3588,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/palestinian-territories/sebastia/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2638,7 +3598,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/palestinian-territories/mar-saba-monastery/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2648,7 +3608,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/palestinian-territories/taybeh/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2658,7 +3618,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/peru/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -2668,7 +3628,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/peru/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2678,7 +3638,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/peru/cusco/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2688,7 +3648,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/peru/machu-picchu/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2698,7 +3658,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/peru/sacred-valley/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2708,7 +3668,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/peru/lima/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2718,7 +3678,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/peru/lake-titicaca-puno/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2728,7 +3688,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/peru/arequipa-colca-canyon/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2738,7 +3698,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/peru/amazon-puerto-maldonado/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2748,7 +3708,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/peru/nazca-lines/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2758,7 +3718,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/peru/huacachina/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2768,7 +3728,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/peru/rainbow-mountain/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2777,8 +3737,248 @@
     </image:image>
   </url>
   <url>
+    <loc>https://travelvault.online/philippines/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/philippines/_country.webp</image:loc>
+      <image:caption>A desert tropical island with white sand and clear water in El Nido Bay, Palawan</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/philippines/travel-guide/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/philippines/_country.webp</image:loc>
+      <image:caption>A desert tropical island with white sand and clear water in El Nido Bay, Palawan</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/philippines/el-nido/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/philippines/el-nido.webp</image:loc>
+      <image:caption>A turquoise island lagoon among limestone cliffs in Bacuit Bay, El Nido</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/philippines/coron/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/philippines/coron.webp</image:loc>
+      <image:caption>The clear turquoise water of Kayangan Lake in Coron</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/philippines/bohol/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/philippines/bohol.webp</image:loc>
+      <image:caption>The rounded brown Chocolate Hills stretching across Bohol</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/philippines/cebu/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/philippines/cebu.webp</image:loc>
+      <image:caption>The turquoise pools of Kawasan Falls in Badian, Cebu</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/philippines/boracay/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/philippines/boracay.webp</image:loc>
+      <image:caption>The wide white sand of White Beach on Boracay with palms and blue water</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/philippines/banaue-batad/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/philippines/banaue-batad.webp</image:loc>
+      <image:caption>The Banaue rice terraces climbing the green mountain slopes</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/philippines/vigan/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/philippines/vigan.webp</image:loc>
+      <image:caption>The cobbled Calle Crisologo in Vigan lined with colonial houses</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/philippines/manila/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/philippines/manila.webp</image:loc>
+      <image:caption>Old buildings and streets inside the walled city of Intramuros in Manila</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/philippines/siargao/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/philippines/siargao.webp</image:loc>
+      <image:caption>The Cloud 9 boardwalk and surf break on Siargao Island</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/philippines/puerto-princesa/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/philippines/puerto-princesa.webp</image:loc>
+      <image:caption>The entrance of the Puerto Princesa Underground River with a boat in the lagoon</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/poland/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/poland/_country.webp</image:loc>
+      <image:caption>The rooftops and towers of Kraków's Old Town seen from St. Mary's Basilica</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/poland/travel-guide/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/poland/_country.webp</image:loc>
+      <image:caption>The rooftops and towers of Kraków's Old Town seen from St. Mary's Basilica</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/poland/krakow/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/poland/krakow.webp</image:loc>
+      <image:caption>The Cloth Hall in Kraków's Main Market Square</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/poland/warsaw/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/poland/warsaw.webp</image:loc>
+      <image:caption>The reconstructed Old Town of Warsaw with colourful townhouses</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/poland/gdansk/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/poland/gdansk.webp</image:loc>
+      <image:caption>Merchant houses and the medieval port crane along the Motława river in Gdańsk</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/poland/wroclaw/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/poland/wroclaw.webp</image:loc>
+      <image:caption>Colourful townhouses on the Market Square in Wrocław</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/poland/zakopane-tatras/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/poland/zakopane-tatras.webp</image:loc>
+      <image:caption>The lake Morskie Oko with the Tatra peaks reflected in its water</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/poland/auschwitz-birkenau/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/poland/auschwitz-birkenau.webp</image:loc>
+      <image:caption>The gatehouse of Auschwitz II-Birkenau with railway tracks entering</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/poland/poznan/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/poland/poznan.webp</image:loc>
+      <image:caption>Colourful houses on Poznań's Old Market Square</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/poland/torun/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/poland/torun.webp</image:loc>
+      <image:caption>The brick Gothic Old Town Hall in Toruń</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/poland/malbork/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/poland/malbork.webp</image:loc>
+      <image:caption>The red-brick Malbork Castle with its towers and walls</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/poland/bialowieza/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/poland/bialowieza.webp</image:loc>
+      <image:caption>Ancient trees in Białowieża National Park</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://travelvault.online/portugal/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -2788,7 +3988,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/portugal/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2798,7 +3998,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/portugal/lisbon/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2808,7 +4008,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/portugal/porto/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2818,7 +4018,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/portugal/sintra/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2828,7 +4028,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/portugal/algarve/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2838,7 +4038,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/portugal/douro-valley/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2848,7 +4048,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/portugal/evora/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2858,7 +4058,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/portugal/obidos/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2868,7 +4068,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/portugal/coimbra/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2878,7 +4078,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/portugal/madeira/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2888,7 +4088,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/portugal/azores-sao-miguel/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2898,7 +4098,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/scotland/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -2908,7 +4108,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/scotland/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2918,7 +4118,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/scotland/glasgow/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2928,7 +4128,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/scotland/isle-of-skye/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2938,7 +4138,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/scotland/cairngorms-national-park/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2948,7 +4148,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/scotland/loch-ness-inverness/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2958,7 +4158,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/scotland/st-andrews/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2968,7 +4168,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/scotland/stirling/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2978,7 +4178,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/scotland/isle-of-mull-iona-staffa/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2988,7 +4188,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/scotland/orkney-islands/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2998,7 +4198,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/scotland/speyside/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3008,7 +4208,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/scotland/loch-lomond-trossachs/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3017,8 +4217,248 @@
     </image:image>
   </url>
   <url>
+    <loc>https://travelvault.online/south-africa/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-africa/_country.webp</image:loc>
+      <image:caption>Table Mountain and the sweep of Camps Bay on the Atlantic coast of Cape Town</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-africa/travel-guide/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-africa/_country.webp</image:loc>
+      <image:caption>Table Mountain and the sweep of Camps Bay on the Atlantic coast of Cape Town</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-africa/cape-town/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-africa/cape-town.webp</image:loc>
+      <image:caption>Table Mountain rising above Cape Town with its flat summit and Lion's Head beside it</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-africa/kruger-national-park/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-africa/kruger-national-park.webp</image:loc>
+      <image:caption>An elephant standing in the bushveld of Kruger National Park</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-africa/garden-route/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-africa/garden-route.webp</image:loc>
+      <image:caption>The East and West Heads guarding the entrance to Knysna Lagoon</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-africa/cape-winelands/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-africa/cape-winelands.webp</image:loc>
+      <image:caption>Rows of vines in a Winelands vineyard beneath a mountain near Paarl</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-africa/johannesburg-soweto/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-africa/johannesburg-soweto.webp</image:loc>
+      <image:caption>The skyline of the Johannesburg central business district with tall towers</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-africa/drakensberg/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-africa/drakensberg.webp</image:loc>
+      <image:caption>The Amphitheatre, a huge curving rock wall in the Drakensberg mountains</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-africa/panorama-route/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-africa/panorama-route.webp</image:loc>
+      <image:caption>A wide panorama of the Blyde River Canyon with cliffs and a green valley</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-africa/isimangaliso-st-lucia/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-africa/isimangaliso-st-lucia.webp</image:loc>
+      <image:caption>A hippopotamus in the water beside a tour boat in the iSimangaliso Wetland Park</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-africa/addo-eastern-cape/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-africa/addo-eastern-cape.webp</image:loc>
+      <image:caption>African elephants gathered at a waterhole in Addo Elephant National Park</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-africa/hermanus-overberg/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-africa/hermanus-overberg.webp</image:loc>
+      <image:caption>A southern right whale breaching out of the water near Hermanus</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-korea/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-korea/_country.webp</image:loc>
+      <image:caption>A quiet hanok-lined street in Seoul covered in climbing plants at golden hour</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-korea/travel-guide/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-korea/_country.webp</image:loc>
+      <image:caption>A quiet hanok-lined street in Seoul covered in climbing plants at golden hour</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-korea/seoul/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-korea/seoul--attraction-1.webp</image:loc>
+      <image:caption>Gyeonghoeru, the royal banquet hall at Gyeongbokgung Palace, reflected in its pond</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-korea/busan/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-korea/busan--attraction-1.webp</image:loc>
+      <image:caption>Colourful houses in Gamcheon Culture Village on a hillside at sunset</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-korea/gyeongju/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-korea/gyeongju--attraction-1.webp</image:loc>
+      <image:caption>The stairs and entrance gate of Bulguksa temple with a flower bed and blue sky</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-korea/jeju-island/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-korea/jeju-island.webp</image:loc>
+      <image:caption>Hydrangea flowers in front of the Seongsan Ilchulbong volcanic cone at blue hour</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-korea/jeonju/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-korea/jeonju.webp</image:loc>
+      <image:caption>Tile-roofed hanok houses in Jeonju Hanok Village</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-korea/seoraksan-sokcho/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-korea/seoraksan-sokcho.webp</image:loc>
+      <image:caption>A wide panorama of the granite peaks of Seoraksan National Park</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-korea/suwon-hwaseong/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-korea/suwon-hwaseong.webp</image:loc>
+      <image:caption>The stone walls and gate of Hwaseong Fortress in Suwon</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-korea/andong-hahoe/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-korea/andong-hahoe.webp</image:loc>
+      <image:caption>Thatched-roof houses in Hahoe Folk Village</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-korea/dmz-panmunjom/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-korea/dmz-panmunjom--attraction-1.webp</image:loc>
+      <image:caption>The Peace Altar at Imjingak near the Demilitarized Zone</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/south-korea/gangneung/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/south-korea/gangneung--attraction-1.webp</image:loc>
+      <image:caption>Gyeongpo Beach in Gangneung with pine trees and the sea</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://travelvault.online/spain/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -3028,7 +4468,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/spain/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3038,7 +4478,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/spain/barcelona/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3048,7 +4488,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/spain/granada/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3058,7 +4498,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/spain/seville/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3068,7 +4508,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/spain/madrid/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3078,7 +4518,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/spain/san-sebastian-basque/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3088,7 +4528,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/spain/cordoba/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3098,7 +4538,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/spain/valencia/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3108,7 +4548,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/spain/mallorca/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3118,7 +4558,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/spain/tenerife-teide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3128,7 +4568,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/spain/santiago-galicia/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3137,8 +4577,248 @@
     </image:image>
   </url>
   <url>
+    <loc>https://travelvault.online/sri-lanka/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/sri-lanka/_country.webp</image:loc>
+      <image:caption>The Nine Arch Bridge among jungle and tea hills near Ella</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/sri-lanka/travel-guide/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/sri-lanka/_country.webp</image:loc>
+      <image:caption>The Nine Arch Bridge among jungle and tea hills near Ella</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/sri-lanka/sigiriya/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/sri-lanka/sigiriya.webp</image:loc>
+      <image:caption>The huge rock of Sigiriya rising above the jungle</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/sri-lanka/kandy/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/sri-lanka/kandy.webp</image:loc>
+      <image:caption>Kandy Lake with the white Temple of the Tooth beside it</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/sri-lanka/galle/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/sri-lanka/galle.webp</image:loc>
+      <image:caption>The ramparts and white lighthouse of Galle Fort</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/sri-lanka/ella/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/sri-lanka/ella.webp</image:loc>
+      <image:caption>The view over the Ella Gap with green hills and morning mist</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/sri-lanka/nuwara-eliya/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/sri-lanka/nuwara-eliya.webp</image:loc>
+      <image:caption>Green tea plantation slopes near Nuwara Eliya</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/sri-lanka/yala/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/sri-lanka/yala.webp</image:loc>
+      <image:caption>A Sri Lankan leopard resting on a rock in Yala National Park</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/sri-lanka/anuradhapura/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/sri-lanka/anuradhapura.webp</image:loc>
+      <image:caption>The white dome of the Ruwanwelisaya stupa in Anuradhapura</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/sri-lanka/polonnaruwa/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/sri-lanka/polonnaruwa.webp</image:loc>
+      <image:caption>The giant rock-cut Buddha statues of Gal Vihara in Polonnaruwa</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/sri-lanka/mirissa/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/sri-lanka/mirissa.webp</image:loc>
+      <image:caption>Mirissa beach with palm trees and blue water seen from above</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/sri-lanka/colombo/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/sri-lanka/colombo.webp</image:loc>
+      <image:caption>Sunset over the sea at Galle Face Green in Colombo</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/switzerland/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/switzerland/_country.webp</image:loc>
+      <image:caption>The turquoise Oeschinensee lake surrounded by steep Alpine peaks near Kandersteg</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/switzerland/travel-guide/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/switzerland/_country.webp</image:loc>
+      <image:caption>The turquoise Oeschinensee lake surrounded by steep Alpine peaks near Kandersteg</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/switzerland/zurich/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/switzerland/zurich--attraction-1.webp</image:loc>
+      <image:caption>Zurich's old town, the Limmat river and the twin towers of the Grossmünster</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/switzerland/lucerne/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/switzerland/lucerne--attraction-1.webp</image:loc>
+      <image:caption>The wooden Chapel Bridge and stone water tower crossing the Reuss river in Lucerne</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/switzerland/interlaken-jungfrau/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/switzerland/interlaken-jungfrau.webp</image:loc>
+      <image:caption>The Eiger rising above the village of Grindelwald</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/switzerland/zermatt-matterhorn/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/switzerland/zermatt-matterhorn.webp</image:loc>
+      <image:caption>The Matterhorn reflected in the Riffelsee at sunrise</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/switzerland/geneva/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/switzerland/geneva--attraction-1.webp</image:loc>
+      <image:caption>The Jet d'Eau fountain rising from Lake Geneva</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/switzerland/bern/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/switzerland/bern.webp</image:loc>
+      <image:caption>The old town of Bern with red roofs and the cathedral spire, seen from the Rosengarten</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/switzerland/lausanne-lavaux/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/switzerland/lausanne-lavaux.webp</image:loc>
+      <image:caption>The terraced vineyards of Lavaux above Lake Geneva</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/switzerland/lugano-ticino/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/switzerland/lugano-ticino.webp</image:loc>
+      <image:caption>Lake Lugano with the slopes of Monte Brè beyond</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/switzerland/st-moritz-engadin/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/switzerland/st-moritz-engadin.webp</image:loc>
+      <image:caption>Lake St. Moritz with the town and mountains beyond</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/switzerland/appenzell/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/switzerland/appenzell.webp</image:loc>
+      <image:caption>The Berggasthaus Äscher mountain inn built into a rock overhang</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://travelvault.online/syria/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -3148,7 +4828,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/syria/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3158,7 +4838,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/syria/damascus/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3168,7 +4848,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/syria/aleppo/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3178,7 +4858,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/syria/palmyra/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3188,7 +4868,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/syria/krak-des-chevaliers/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3198,7 +4878,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/syria/bosra/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3208,7 +4888,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/syria/apamea/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3218,7 +4898,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/syria/hama/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3228,7 +4908,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/syria/maaloula/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3238,7 +4918,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/syria/saladin-castle/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3248,7 +4928,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/syria/ancient-villages-dead-cities/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3258,7 +4938,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/thailand/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -3268,7 +4948,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/thailand/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3278,7 +4958,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/thailand/bangkok/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3288,7 +4968,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/thailand/chiang-mai/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3298,7 +4978,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/thailand/ayutthaya/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3308,7 +4988,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/thailand/sukhothai/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3318,7 +4998,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/thailand/chiang-rai/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3328,7 +5008,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/thailand/phuket/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3338,7 +5018,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/thailand/krabi-railay/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3348,7 +5028,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/thailand/koh-samui-koh-phangan/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3358,7 +5038,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/thailand/kanchanaburi/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3368,7 +5048,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/thailand/khao-sok/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3378,7 +5058,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/turkey/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -3388,7 +5068,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/turkey/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3398,7 +5078,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/turkey/istanbul/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3408,7 +5088,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/turkey/cappadocia/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3418,7 +5098,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/turkey/ephesus/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3428,7 +5108,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/turkey/pamukkale/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3438,7 +5118,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/turkey/antalya-turquoise-coast/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3448,7 +5128,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/turkey/fethiye-oludeniz/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3458,7 +5138,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/turkey/sanliurfa-gobekli-tepe/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3468,7 +5148,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/turkey/bodrum/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3478,7 +5158,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/turkey/trabzon-black-sea/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3488,7 +5168,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/turkey/ankara/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3498,7 +5178,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -3508,7 +5188,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3518,7 +5198,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/london/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3528,7 +5208,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/edinburgh/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3538,7 +5218,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/bath-cotswolds/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3548,7 +5228,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/scottish-highlands-skye/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3558,7 +5238,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/lake-district/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3568,7 +5248,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/york/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3578,7 +5258,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/oxford-cambridge/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3588,7 +5268,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/snowdonia-north-wales/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3598,7 +5278,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/cornwall/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3608,7 +5288,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-kingdom/belfast-giants-causeway/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3618,7 +5298,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-states/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -3628,7 +5308,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-states/travel-guide/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3638,7 +5318,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-states/new-york-city/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3648,7 +5328,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-states/grand-canyon/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3658,7 +5338,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-states/san-francisco/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3668,7 +5348,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-states/new-orleans/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3678,7 +5358,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-states/yellowstone/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3688,7 +5368,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-states/washington-dc/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3698,7 +5378,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-states/zion-southern-utah/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3708,7 +5388,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-states/chicago/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3718,7 +5398,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-states/maui/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3728,7 +5408,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/united-states/charleston/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3737,14 +5417,134 @@
     </image:image>
   </url>
   <url>
+    <loc>https://travelvault.online/vietnam/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/vietnam/_country.webp</image:loc>
+      <image:caption>Terraced rice fields stepping down a mountainside in northern Vietnam</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/vietnam/travel-guide/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/vietnam/_country.webp</image:loc>
+      <image:caption>Terraced rice fields stepping down a mountainside in northern Vietnam</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/vietnam/hanoi/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/vietnam/hanoi.webp</image:loc>
+      <image:caption>Sunset over Hoan Kiem Lake in the centre of Hanoi</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/vietnam/ha-long-bay/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/vietnam/ha-long-bay.webp</image:loc>
+      <image:caption>Limestone karst islands rising from the green waters of Ha Long Bay</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/vietnam/hoi-an/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/vietnam/hoi-an.webp</image:loc>
+      <image:caption>Yellow-walled houses and hanging lanterns in the ancient town of Hoi An</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/vietnam/ninh-binh/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/vietnam/ninh-binh.webp</image:loc>
+      <image:caption>Limestone karst hills and a river at the Trang An Landscape Complex in Ninh Binh</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/vietnam/hue/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/vietnam/hue.webp</image:loc>
+      <image:caption>The Meridian Gate of the Imperial City in Hue</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/vietnam/ho-chi-minh-city/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/vietnam/ho-chi-minh-city.webp</image:loc>
+      <image:caption>The skyline of Ho Chi Minh City with high-rise towers beside the Saigon River</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/vietnam/sapa/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/vietnam/sapa.webp</image:loc>
+      <image:caption>Terraced rice fields curving around a hillside in the mountains of Sapa</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/vietnam/phong-nha/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/vietnam/phong-nha.webp</image:loc>
+      <image:caption>Stalactites and stalagmites inside Paradise Cave in Phong Nha–Ke Bang National Park</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/vietnam/mekong-delta/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/vietnam/mekong-delta.webp</image:loc>
+      <image:caption>Boats gathering at the Cai Rang floating market near Can Tho in the early morning</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://travelvault.online/vietnam/phu-quoc/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://travelvault.online/images/vietnam/phu-quoc.webp</image:loc>
+      <image:caption>The sun setting over the sea at a beach on Phu Quoc island</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://travelvault.online/articles/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://travelvault.online/articles/best-time-southern-europe/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <image:image>
@@ -3754,7 +5554,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/articles/europe-by-train/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <image:image>
@@ -3764,7 +5564,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/articles/first-trip-to-europe/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <image:image>
@@ -3774,7 +5574,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/articles/food-primer/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <image:image>
@@ -3784,7 +5584,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/articles/mediterranean-coasts/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <image:image>
@@ -3794,7 +5594,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/articles/packing-by-season/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <image:image>
@@ -3804,7 +5604,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/articles/underrated-destinations/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <image:image>
@@ -3814,7 +5614,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/articles/unesco-worth-planning-around/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <image:image>
@@ -3824,7 +5624,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/articles/us-national-parks-road-trip/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <image:image>
@@ -3834,7 +5634,7 @@
   </url>
   <url>
     <loc>https://travelvault.online/articles/week-cost-five-countries/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <image:image>
@@ -3844,19 +5644,19 @@
   </url>
   <url>
     <loc>https://travelvault.online/image-credits/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.2</priority>
   </url>
   <url>
     <loc>https://travelvault.online/about/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://travelvault.online/privacy-policy/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
   </url>

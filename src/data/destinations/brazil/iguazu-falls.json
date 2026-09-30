@@ -1,0 +1,297 @@
+{
+  "slug": "iguazu-falls",
+  "name": "Iguazu Falls",
+  "country": "brazil",
+  "region": "Paraná, on the border with Argentina",
+  "categories": ["unesco", "nature", "national-park", "scenic"],
+  "tagline": "A horseshoe of 275 waterfalls thundering into a rainforest gorge, with walkways to the very edge of the Devil's Throat, shared between Brazil and Argentina.",
+  "highlight": "Standing on the platform above the Devil's Throat, wrapped in mist and rainbows as the river plunges into the abyss.",
+  "shortDescription": "One of the world's great waterfalls: a UNESCO-listed complex of cascades on the Iguazu River, seen from panoramic Brazilian walkways and the closer, more varied Argentine trails.",
+  "metaDescription": "An Iguazu Falls travel guide: the Brazilian and Argentine sides, Devil's Throat, Macuco boat safari, Bird Park, Itaipu Dam, border crossing, when to go and a two-day plan from Foz do Iguaçu.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Foz do Iguaçu (IGU), about 20 minutes",
+  "knownFor": "The Devil's Throat, 275 waterfalls, rainforest, boat trips",
+  "budget": "US$90–180 per day, mid-range",
+  "goodFor": "Nature, photography, families, short visits",
+  "coords": { "lat": -25.6953, "lng": -54.4367 },
+  "image": {
+    "file": "File:Iguazu Falls Panorama 2009.jpg",
+    "alt": "A wide panorama of the Iguazu Falls with many cascades in the rainforest"
+  },
+  "intro": [
+    "Iguazu Falls is a system of 275 waterfalls spread over almost 3 km of the Iguazu River, on the border between Brazil and Argentina. The name means big water in the Guarani language. The falls drop up to 80 metres over a basalt cliff into a gorge cloaked in subtropical rainforest, and the volume of water is greater than that of Niagara. UNESCO inscribed the national parks on both sides of the border, in 1984 and 1986.",
+    "The highlight is the Devil's Throat (Garganta del Diablo), a huge U-shaped chasm where about half of the river plunges in a roaring, misty cataract. Standing on a walkway over its edge is one of the world's great natural experiences.",
+    "The falls are best seen from both sides. The Brazilian side, with a 1.2-km walkway, offers wide panoramas and takes half a day, and the Argentine side has more trails, close-up views and a train to the Devil's Throat, and needs a full day. Foz do Iguaçu, the Brazilian gateway, and Puerto Iguazú in Argentina are both easy bases."
+  ],
+  "whyVisit": {
+    "intro": "Iguazu is one of the greatest waterfalls on earth, and an easy addition to a trip to Brazil or Argentina.",
+    "points": [
+      {
+        "title": "Sheer scale",
+        "text": "A wall of water more than 2.7 km wide, with spray visible from far away."
+      },
+      {
+        "title": "The Devil's Throat",
+        "text": "A thundering chasm where you stand right at the top."
+      },
+      {
+        "title": "Two national parks",
+        "text": "Different experiences on the Brazilian and Argentine sides."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Coatis, toucans, butterflies and, if you are lucky, caiman and monkeys."
+      },
+      {
+        "title": "Easy access",
+        "text": "Airports on both sides and a border crossing in half an hour."
+      }
+    ]
+  },
+  "attractionsIntro": "Give the Brazilian side half a day and the Argentine side a full day.",
+  "attractions": [
+    {
+      "name": "The Brazilian side",
+      "image": {
+        "file": "File:IG - Devil's Throat from the Brazilian side of Iguazu Falls, 2023.jpg",
+        "alt": "The Devil's Throat seen from the Brazilian side of Iguazu Falls, with a walkway and mist"
+      },
+      "text": "A clifftop trail with sweeping views of the Argentine falls, ending on a walkway that reaches the base of the Devil's Throat. Shorter and less crowded than the Argentine side.",
+      "tip": "Go at opening time, and bring a raincoat."
+    },
+    {
+      "name": "The Argentine side",
+      "text": "More extensive, with the Upper and Lower Circuits, and the Devil's Throat platform, reached by a small train and a long walkway. You get closer to more falls.",
+      "tip": "Allow a full day, and go early."
+    },
+    {
+      "name": "Macuco Safari boat trip",
+      "text": "A jungle truck ride and a speedboat that takes you right beneath the falls, and soaks you completely.",
+      "tip": "Bring dry clothes and a waterproof bag."
+    },
+    {
+      "name": "Bird Park (Parque das Aves)",
+      "text": "A sanctuary near the Brazilian entrance, with toucans, macaws, flamingos and parrots in large walk-through aviaries.",
+      "tip": "Visit after the falls."
+    },
+    {
+      "name": "Itaipu Dam",
+      "text": "One of the largest hydroelectric dams in the world, shared by Brazil and Paraguay, with tours of the power station.",
+      "tip": "Book a tour in advance."
+    }
+  ],
+  "thingsToDoIntro": "Iguazu is mostly about walking, looking and getting wet.",
+  "thingsToDo": [
+    {
+      "title": "Walk to the edge of the Devil's Throat",
+      "text": "Feel the vibration of the water from the walkway.",
+      "tip": "Go early to avoid the crowds."
+    },
+    {
+      "title": "Ride the Macuco boat",
+      "text": "Get soaked under the falls in a speedboat.",
+      "tip": "Book the first boat of the day."
+    },
+    {
+      "title": "Hike the Lower Circuit in Argentina",
+      "text": "See the falls from below, with views of the gorge.",
+      "tip": "Wear shoes with grip."
+    },
+    {
+      "title": "Take a helicopter flight",
+      "text": "A short flight over the falls gives a panoramic view.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Visit the Bird Park",
+      "text": "Walk through aviaries and see rare birds.",
+      "tip": "Half a day is enough."
+    },
+    {
+      "title": "See the Three Borders",
+      "text": "The point where Brazil, Argentina and Paraguay meet at the confluence of rivers.",
+      "tip": "Go at sunset."
+    }
+  ],
+  "foodIntro": "Food near Iguazu is a mix of Brazilian, Argentine and Paraguayan traditions.",
+  "foods": [
+    {
+      "name": "Churrasco and rodízio",
+      "text": "Grilled meats served in endless rounds at Brazilian churrascarias.",
+      "whereToTry": "Restaurants in Foz do Iguaçu."
+    },
+    {
+      "name": "Surubi and river fish",
+      "text": "Fish from the Paraná River, grilled or fried.",
+      "whereToTry": "Riverside restaurants."
+    },
+    {
+      "name": "Chipa",
+      "text": "Cheesy cassava bread rolls from Paraguay and Argentina.",
+      "whereToTry": "Bakeries and street stalls."
+    },
+    {
+      "name": "Empanadas",
+      "text": "Baked or fried pastries with meat, cheese or vegetables.",
+      "whereToTry": "Puerto Iguazú."
+    },
+    {
+      "name": "Mate and tereré",
+      "text": "Herbal tea drunk hot or cold, a social ritual.",
+      "whereToTry": "Everywhere."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay near the falls for convenience, or in town for value.",
+    "areas": [
+      {
+        "name": "Foz do Iguaçu",
+        "bestFor": "The Brazilian side and value",
+        "text": "Hotels and hostels in the city, with buses to the park."
+      },
+      {
+        "name": "Inside the Brazilian park",
+        "bestFor": "Early access",
+        "text": "A hotel beside the falls."
+      },
+      {
+        "name": "Puerto Iguazú",
+        "bestFor": "The Argentine side",
+        "text": "Guesthouses and lodges on the Argentine side."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hostel or hotel", "value": "US$25–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–160 per night" },
+      { "label": "Luxury hotel", "value": "US$250–500 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$8–20 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Iguazu is in the far south-west of Brazil, and is reached by air.",
+    "options": [
+      {
+        "mode": "Flight to Foz do Iguaçu (IGU)",
+        "text": "Direct flights from Rio (about 2 hours), São Paulo and other Brazilian cities.",
+        "detail": "The airport is 20 minutes from the falls."
+      },
+      {
+        "mode": "Flight to Puerto Iguazú (IGR)",
+        "text": "Direct flights from Buenos Aires, about 2 hours.",
+        "detail": "Good for combining with Argentina."
+      },
+      {
+        "mode": "Bus",
+        "text": "Long-distance buses from São Paulo take about 15 hours.",
+        "detail": "Fly instead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Buses and taxis link the towns and both parks, and border formalities apply between sides.",
+    "options": [
+      {
+        "mode": "Local buses",
+        "text": "Buses run from Foz to the Brazilian park, and cross the border to Argentina.",
+        "detail": "Carry passports."
+      },
+      {
+        "mode": "Taxi or tour",
+        "text": "Convenient for crossing the border and visiting both sides.",
+        "detail": "Agree the price."
+      },
+      {
+        "mode": "On foot",
+        "text": "Trails and walkways inside the parks.",
+        "detail": "Wear good shoes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and August–October",
+    "summary": "Iguazu has a subtropical climate, with hot, humid summers and mild winters, and rain all year. The falls are fullest in the wetter months.",
+    "seasons": [
+      {
+        "season": "Summer (December–February)",
+        "rating": "good",
+        "text": "Hot and humid, with big flows and crowds."
+      },
+      {
+        "season": "Autumn (March–May)",
+        "rating": "best",
+        "text": "Warm, with good flow and fewer visitors."
+      },
+      {
+        "season": "Winter (June–August)",
+        "rating": "good",
+        "text": "Mild and drier, with lower flow. Some walkways can be busier."
+      },
+      {
+        "season": "Spring (September–November)",
+        "rating": "best",
+        "text": "Warm, with good flow and fewer crowds."
+      }
+    ],
+    "avoid": "January, when it is very hot and busy, and periods of extreme flooding, when walkways can close."
+  },
+  "itinerary": {
+    "title": "Two days at Iguazu",
+    "intro": "The Brazilian side and boat trip, then the Argentine side.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Brazilian side",
+        "summary": "Panoramas and a soaking.",
+        "morning": "The Brazilian walkway.",
+        "afternoon": "The Macuco boat and Bird Park.",
+        "evening": "Dinner in Foz."
+      },
+      {
+        "day": 2,
+        "title": "The Argentine side",
+        "summary": "Close-ups.",
+        "morning": "The Devil's Throat.",
+        "afternoon": "The Upper and Lower Circuits.",
+        "evening": "Return to Foz."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make the visit smoother.",
+  "tips": [
+    "Go early to avoid crowds and heat.",
+    "Carry your passport for the border crossing, and check visa rules for Argentina.",
+    "Bring a raincoat or poncho, and a waterproof bag.",
+    "Do not feed the coatis, who can bite.",
+    "Wear shoes with grip, since walkways are wet.",
+    "Check whether the Devil's Throat walkway is open, since floods can close it.",
+    "Use insect repellent."
+  ],
+  "faq": [
+    {
+      "q": "Which side is better, Brazil or Argentina?",
+      "a": "The Argentine side has more trails and closer views, and the Brazilian side has better panoramas. Most visitors see both."
+    },
+    {
+      "q": "How many days do you need?",
+      "a": "Two days, one for each side."
+    },
+    {
+      "q": "Do I need a visa for Argentina?",
+      "a": "It depends on your nationality. Check the rules for both countries, and carry your passport."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "March to May and August to October."
+    },
+    {
+      "q": "Will I get wet?",
+      "a": "Yes, particularly on the walkways and on the boat. A poncho and a waterproof bag are useful."
+    },
+    {
+      "q": "Is the Devil's Throat always open?",
+      "a": "No. High water can close the walkway to it."
+    }
+  ],
+  "related": ["rio-de-janeiro", "sao-paulo", "pantanal"],
+  "relatedArticles": ["packing-by-season", "unesco-worth-planning-around"]
+}

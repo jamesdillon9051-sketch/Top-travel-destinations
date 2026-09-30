@@ -1,0 +1,322 @@
+{
+  "slug": "cartagena",
+  "name": "Cartagena",
+  "country": "colombia",
+  "region": "Bolívar, Caribbean coast",
+  "categories": ["historic", "unesco", "coastal", "major-city", "food-and-wine"],
+  "tagline": "A UNESCO-listed walled Spanish colonial city on the Caribbean, all bougainvillea balconies, salsa in the plazas, sunset on the ramparts and island beaches a boat ride away.",
+  "highlight": "Watching the sun set from the old city walls with a cold drink as the plazas fill with music.",
+  "shortDescription": "A colourful walled port city with the Clock Tower, San Felipe fortress, Getsemaní's street art, Caribbean seafood, nightlife and boat trips to the Rosario Islands.",
+  "metaDescription": "A Cartagena travel guide: the walled city, Clock Tower, Castillo San Felipe de Barajas, Getsemaní, Rosario Islands, seafood, salsa, where to stay, safety and a three-day plan.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Rafael Núñez (CTG), about 15 minutes",
+  "knownFor": "Colonial old town, Caribbean beaches, seafood, nightlife",
+  "budget": "US$90–180 per day, mid-range",
+  "goodFor": "Couples, history, food, nightlife, beaches",
+  "coords": { "lat": 10.4236, "lng": -75.5510 },
+  "image": {
+    "file": "File:Colombia, Cartagena, Sector Antiguo, Plaza de Santo Domingo.jpg",
+    "alt": "Plaza de Santo Domingo in the old city of Cartagena with coloured colonial buildings"
+  },
+  "intro": [
+    "Cartagena de Indias was founded by the Spanish in 1533, and for two centuries it was the main port through which the wealth of the Americas, including gold and emeralds, was shipped to Spain. Pirates and privateers, including Sir Francis Drake, attacked it repeatedly, and in response the Spanish built miles of stone walls and forts that survive today. The walled city and its fortresses are a UNESCO World Heritage Site.",
+    "Inside the walls, the old town is a maze of cobbled streets, plazas and coloured houses with wooden balconies draped in bougainvillea. Sidewalk cafés, fruit vendors, palenqueras in bright dresses and horse-drawn carriages give it a theatrical air, and in the evening the plazas fill with music. Just outside the walls, Getsemaní, once a working-class quarter, is now a lively neighbourhood of street art, hostels and bars.",
+    "Cartagena is hot and humid, so days are best spent early or on the water. The Castillo San Felipe de Barajas fortress is the largest built by the Spanish in the Americas, and boats take visitors to the Rosario Islands for snorkelling and beaches. Three or four days is a good stay, and the city is a natural start or end to a Colombian trip."
+  ],
+  "whyVisit": {
+    "intro": "Cartagena is one of the most beautiful and atmospheric colonial cities in the Americas.",
+    "points": [
+      {
+        "title": "A walled colonial city",
+        "text": "Streets, plazas and ramparts."
+      },
+      {
+        "title": "Getsemaní",
+        "text": "Street art and nightlife."
+      },
+      {
+        "title": "Caribbean beaches",
+        "text": "Boat trips to islands."
+      },
+      {
+        "title": "Seafood and fruit",
+        "text": "Ceviche, coconut rice and juices."
+      },
+      {
+        "title": "Music and nightlife",
+        "text": "Salsa, champeta and rooftop bars."
+      }
+    ]
+  },
+  "attractionsIntro": "The old city is compact and best on foot, with the fortress and islands as excursions.",
+  "attractions": [
+    {
+      "name": "The Clock Tower and the walled city",
+      "image": {
+        "file": "File:Clock Tower CTG 11 2019 2748.jpg",
+        "alt": "The yellow Clock Tower gateway at the entrance to Cartagena's walled city"
+      },
+      "text": "The Torre del Reloj is the main gate into the walled city, opening onto the Plaza de los Coches and a maze of colonial streets.",
+      "tip": "Enter at dusk."
+    },
+    {
+      "name": "Castillo San Felipe de Barajas",
+      "image": {
+        "file": "File:Castillo San Felipe de Barajas, Cartagena 15.jpg",
+        "alt": "The stone walls of Castillo San Felipe de Barajas above Cartagena"
+      },
+      "text": "The largest Spanish fortress in the Americas, built in the 17th century on a hill with tunnels and cannon.",
+      "tip": "Go early, since it is hot."
+    },
+    {
+      "name": "The walls and sunset",
+      "image": {
+        "file": "File:Bocagrande skyline from Baluarte San Francisco Javier CTG 11 2019 2158.jpg",
+        "alt": "The Bocagrande skyline seen from the old city ramparts"
+      },
+      "text": "The ramparts around the old city make a lovely walk, with a sunset drinking spot at Café del Mar.",
+      "tip": "Arrive before sunset."
+    },
+    {
+      "name": "Rosario Islands",
+      "image": {
+        "file": "File:Cocolise Isla Resort, Islas del Rosario (23938753124).jpg",
+        "alt": "A resort on the turquoise waters of the Rosario Islands near Cartagena"
+      },
+      "text": "A coral archipelago about an hour by boat from the city, with clear water, snorkelling and beach clubs.",
+      "tip": "Book a boat for a full day."
+    },
+    {
+      "name": "Getsemaní",
+      "text": "A colourful neighbourhood of murals, plazas, hostels and bars, centred on Plaza de la Trinidad.",
+      "tip": "Come in the evening."
+    },
+    {
+      "name": "Convent of La Popa",
+      "text": "A hilltop convent with views over the city.",
+      "tip": "Take a taxi."
+    }
+  ],
+  "thingsToDoIntro": "Cartagena rewards wandering, eating and a day on the water.",
+  "thingsToDo": [
+    {
+      "title": "Walk the old town",
+      "text": "Early morning or evening.",
+      "tip": "Bring water."
+    },
+    {
+      "title": "Take a boat to the islands",
+      "text": "Snorkel and swim.",
+      "tip": "Book with a reputable operator."
+    },
+    {
+      "title": "Visit the fortress",
+      "text": "Explore the tunnels.",
+      "tip": "Go at opening time."
+    },
+    {
+      "title": "Dance salsa",
+      "text": "In Café Havana or Getsemaní bars.",
+      "tip": "Go with friends."
+    },
+    {
+      "title": "Try a street art tour",
+      "text": "Learn about Getsemaní's murals.",
+      "tip": "Book a guide."
+    },
+    {
+      "title": "Take a mud volcano trip",
+      "text": "Float in El Totumo's mud.",
+      "tip": "Half-day trip."
+    }
+  ],
+  "foodIntro": "Cartagena's food is Caribbean, with seafood, coconut and fruit.",
+  "foods": [
+    {
+      "name": "Ceviche and fried fish",
+      "text": "Fresh seafood.",
+      "whereToTry": "Restaurants in the old city."
+    },
+    {
+      "name": "Arroz con coco",
+      "text": "Coconut rice.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Arepa de huevo",
+      "text": "A fried arepa stuffed with egg.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Fruit from palenqueras",
+      "text": "Cut tropical fruit from vendors.",
+      "whereToTry": "Plazas."
+    },
+    {
+      "name": "Cocktails and rum",
+      "text": "Rum drinks and lulada.",
+      "whereToTry": "Rooftop bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the old city or Getsemaní.",
+    "areas": [
+      {
+        "name": "Walled city",
+        "bestFor": "Atmosphere",
+        "text": "Boutique hotels in colonial houses."
+      },
+      {
+        "name": "Getsemaní",
+        "bestFor": "Nightlife and budget",
+        "text": "Hostels and guesthouses."
+      },
+      {
+        "name": "Bocagrande",
+        "bestFor": "Beach and resort",
+        "text": "Big hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$12–25 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–160 per night" },
+      { "label": "Luxury hotel", "value": "US$250–500 per night" },
+      { "label": "Meal", "value": "US$8–25 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Cartagena has an airport and bus links.",
+    "options": [
+      {
+        "mode": "Flight",
+        "text": "About 1.5 hours from Bogotá or Medellín.",
+        "detail": "Book early."
+      },
+      {
+        "mode": "Taxi from the airport",
+        "text": "About 15 minutes at a fixed fare.",
+        "detail": "Use the official desk."
+      },
+      {
+        "mode": "Bus",
+        "text": "From Santa Marta, about 4 hours.",
+        "detail": "Comfortable."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The old city is walkable.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Everything in the walls.",
+        "detail": "Go early."
+      },
+      {
+        "mode": "Taxi and Uber",
+        "text": "To the fortress and Bocagrande.",
+        "detail": "Agree fares."
+      },
+      {
+        "mode": "Boat",
+        "text": "To the islands.",
+        "detail": "Book."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–April",
+    "summary": "Cartagena is hot year-round, with a dry season from December to April.",
+    "seasons": [
+      {
+        "season": "December–April",
+        "rating": "best",
+        "text": "Dry and breezy."
+      },
+      {
+        "season": "May–August",
+        "rating": "good",
+        "text": "Hot and humid, with some rain."
+      },
+      {
+        "season": "September–November",
+        "rating": "avoid",
+        "text": "The wettest months, with flooding possible."
+      },
+      {
+        "season": "Christmas and New Year",
+        "rating": "quiet",
+        "text": "Crowded and expensive."
+      }
+    ],
+    "avoid": "October and November rains."
+  },
+  "itinerary": {
+    "title": "Three days in Cartagena",
+    "intro": "The old city, the fortress and the islands.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old city",
+        "summary": "Streets and plazas.",
+        "morning": "Walk the walled city.",
+        "afternoon": "Rest in the heat.",
+        "evening": "Sunset on the walls."
+      },
+      {
+        "day": 2,
+        "title": "Fortress and Getsemaní",
+        "summary": "History and art.",
+        "morning": "Castillo San Felipe.",
+        "afternoon": "Getsemaní street art.",
+        "evening": "Salsa."
+      },
+      {
+        "day": 3,
+        "title": "Islands",
+        "summary": "Beach day.",
+        "morning": "Boat to Rosario Islands.",
+        "afternoon": "Swim and snorkel.",
+        "evening": "Return."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Go out early and in the evening.",
+    "Bring sun protection.",
+    "Use Uber or official taxis.",
+    "Agree prices before boat trips.",
+    "Ignore touts on the beach.",
+    "Keep valuables safe.",
+    "Book hotels early for December."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Cartagena?",
+      "a": "Three or four."
+    },
+    {
+      "q": "Is Cartagena safe?",
+      "a": "The old city is generally safe, with normal precautions."
+    },
+    {
+      "q": "Is it hot?",
+      "a": "Yes, always."
+    },
+    {
+      "q": "Are the Rosario Islands worth it?",
+      "a": "Yes, for a beach day."
+    },
+    {
+      "q": "What is Getsemaní?",
+      "a": "A lively neighbourhood outside the walls."
+    },
+    {
+      "q": "When is the best time?",
+      "a": "December to April."
+    }
+  ],
+  "related": ["tayrona-santa-marta", "san-andres", "bogota"],
+  "relatedArticles": ["unesco-worth-planning-around", "mediterranean-coasts"]
+}

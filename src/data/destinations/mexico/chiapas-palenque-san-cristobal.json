@@ -1,0 +1,323 @@
+{
+  "slug": "chiapas-palenque-san-cristobal",
+  "name": "Chiapas: Palenque & San Cristóbal",
+  "shortName": "Chiapas",
+  "country": "mexico",
+  "region": "Chiapas State, south-eastern Mexico",
+  "categories": ["unesco", "archaeological", "mountains"],
+  "tagline": "Jungle-wrapped Maya temples at Palenque, a highland colonial town with indigenous markets and cold clear mornings, and waterfalls and canyons in between.",
+  "highlight": "The Temple of the Inscriptions rising out of the rainforest at Palenque, with howler monkeys calling in the mist.",
+  "shortDescription": "Mexico's deep south: Palenque's sculpted Maya city in the jungle, the waterfalls of Agua Azul, the Sumidero Canyon and San Cristóbal de las Casas, a colourful highland town with living Tzotzil and Tzeltal Maya culture.",
+  "metaDescription": "A Chiapas travel guide: Palenque's temples and jungle, Agua Azul and Misol-Ha waterfalls, the Sumidero Canyon, San Cristóbal de las Casas, indigenous markets, coffee and amber, when to go and a four-day plan.",
+  "suggestedStay": "5 days",
+  "nearestAirport": "Tuxtla Gutiérrez (TGZ), about 1 hour to San Cristóbal; Palenque (PQM) has limited flights",
+  "knownFor": "Palenque, Agua Azul, the Sumidero Canyon, San Cristóbal, Maya villages",
+  "budget": "US$60–120 per day, mid-range",
+  "goodFor": "Maya ruins, jungle and waterfalls, indigenous culture, coffee, hiking",
+  "coords": { "lat": 17.4842, "lng": -92.0460 },
+  "image": {
+    "file": "File:Temple of the Inscriptions - Palenque Maya Site, Feb 2020.jpg",
+    "alt": "The Temple of the Inscriptions at Palenque rising above the jungle"
+  },
+  "intro": [
+    "Chiapas is Mexico's southernmost state, bordering Guatemala, and it is different in almost every way from the north and centre: greener, wetter, poorer and more indigenous. About a quarter of its people speak an indigenous language, mostly Tzotzil, Tzeltal and Ch'ol, and their villages, markets and festivals are among the most distinctive in the country.",
+    "Palenque, in the lowland jungle near the border with Tabasco, is one of the most beautiful Maya cities. Its temples, built in the 7th century under the ruler K'inich Janaab' Pakal, sit on terraces above the forest, and the Temple of the Inscriptions holds his tomb, discovered in 1952. Only a fraction of the city has been excavated, and the rest is covered by forest. UNESCO listed the site in 1987.",
+    "In the highlands, San Cristóbal de las Casas is a colonial town at 2,200 metres, of cobbled lanes, ochre churches and lively markets, with a strong artistic and backpacker scene. Between the two, the roads pass waterfalls at Agua Azul and Misol-Ha and, near Tuxtla, the Sumidero Canyon, whose walls rise a kilometre above the river. Chiapas has had periods of unrest, including the Zapatista uprising of 1994, and some areas are subject to warnings, so check your government's advice."
+  ],
+  "whyVisit": {
+    "intro": "Chiapas offers the most dramatic combination of jungle, ruins and living indigenous culture in Mexico.",
+    "points": [
+      {
+        "title": "Palenque",
+        "text": "Ornate stucco reliefs, tall towers and a jungle setting make it the most atmospheric Maya ruin in Mexico."
+      },
+      {
+        "title": "Waterfalls",
+        "text": "Agua Azul's turquoise cascades and Misol-Ha's 35-metre fall are among the prettiest in the country."
+      },
+      {
+        "title": "San Cristóbal",
+        "text": "A colonial highland town with markets, amber, coffee and a cool climate."
+      },
+      {
+        "title": "Indigenous villages",
+        "text": "Villages such as San Juan Chamula and Zinacantán have distinctive dress, religious practices and markets."
+      },
+      {
+        "title": "The Sumidero Canyon",
+        "text": "A boat trip through a river gorge with crocodiles, monkeys and towering cliffs."
+      }
+    ]
+  },
+  "attractionsIntro": "Palenque takes half a day, San Cristóbal two, and the waterfalls and canyon a day each.",
+  "attractions": [
+    {
+      "name": "Palenque archaeological site",
+      "text": "A jungle Maya city with the Temple of the Inscriptions, the Palace with its tower, the Temple of the Sun and the Cross Group, many with stucco reliefs and inscriptions.",
+      "tip": "Go at opening, and stay for the forest sounds."
+    },
+    {
+      "name": "Agua Azul and Misol-Ha",
+      "image": {
+        "file": "File:Cascadas de Agua Azul 4.jpg",
+        "alt": "The turquoise cascades of Agua Azul in Chiapas"
+      },
+      "text": "A series of turquoise, terraced waterfalls on the road between Palenque and San Cristóbal, and the tall Misol-Ha waterfall with a swimming pool at its base.",
+      "tip": "Swimming is limited at Agua Azul in the rainy season."
+    },
+    {
+      "name": "The Sumidero Canyon",
+      "image": {
+        "file": "File:Sumidero Canyon, Chiapas.jpg",
+        "alt": "The steep walls of the Sumidero Canyon above the Grijalva River"
+      },
+      "text": "A 1,000-metre-deep canyon carved by the Grijalva River, explored by boat from Chiapa de Corzo, with crocodiles, spider monkeys and birds.",
+      "tip": "Go in the morning."
+    },
+    {
+      "name": "San Cristóbal's centre and markets",
+      "text": "A colourful town of tiled roofs, plazas and the Santo Domingo church and craft market, with amber and textile shops.",
+      "tip": "Visit the Santo Domingo market."
+    },
+    {
+      "name": "San Juan Chamula and Zinacantán",
+      "text": "Tzotzil Maya villages near San Cristóbal, with a church interior where indigenous ritual mixes with Catholicism, and weaving traditions.",
+      "tip": "Photography inside the church is prohibited. Go with a local guide."
+    },
+    {
+      "name": "Toniná and Bonampak",
+      "text": "Less visited Maya sites, Toniná with a large pyramid and Bonampak with vivid murals.",
+      "tip": "Combine with a Lacandon jungle trip."
+    }
+  ],
+  "thingsToDoIntro": "Chiapas repays time and a sense of adventure.",
+  "thingsToDo": [
+    {
+      "title": "Explore Palenque at opening",
+      "text": "Walk the temples, then follow jungle paths to smaller groups and a waterfall.",
+      "tip": "Bring insect repellent."
+    },
+    {
+      "title": "Swim at Misol-Ha and Agua Azul",
+      "text": "Cool off in waterfall pools on the way between Palenque and San Cristóbal.",
+      "tip": "Follow local safety advice."
+    },
+    {
+      "title": "Take a boat through the Sumidero",
+      "text": "A two-hour trip through the gorge, with wildlife and cliff views.",
+      "tip": "Bring sun protection."
+    },
+    {
+      "title": "Visit indigenous villages respectfully",
+      "text": "Chamula and Zinacantán give a glimpse of living Maya traditions.",
+      "tip": "Ask before photographing people."
+    },
+    {
+      "title": "Drink Chiapas coffee",
+      "text": "Highland coffee is among the best in Mexico, served in cafés in San Cristóbal.",
+      "tip": "Buy beans to take home."
+    },
+    {
+      "title": "Shop for amber and textiles",
+      "text": "Chiapas amber and hand-woven cloth are sold in the town's markets.",
+      "tip": "Check that amber is genuine."
+    }
+  ],
+  "foodIntro": "Chiapas food is hearty and distinctive, with local corn, beans, chiles and coffee.",
+  "foods": [
+    {
+      "name": "Cochito and tamales",
+      "text": "Roast pork in an adobo sauce, and large tamales of chipilín herb.",
+      "whereToTry": "Restaurants in San Cristóbal."
+    },
+    {
+      "name": "Pozol",
+      "text": "A cold drink of fermented corn dough, sold at markets.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Chiapas coffee and chocolate",
+      "text": "Locally grown coffee and hot chocolate.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Tostadas and quesadillas",
+      "text": "Made with local cheese.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Fresh river fish",
+      "text": "Grilled fish, served in Palenque and Chiapa de Corzo.",
+      "whereToTry": "Riverside restaurants."
+    },
+    {
+      "name": "Posh (pox)",
+      "text": "A traditional sugar-cane spirit used in rituals.",
+      "whereToTry": "Bars in San Cristóbal."
+    }
+  ],
+  "accommodation": {
+    "intro": "San Cristóbal and Palenque are the two bases, with a range of prices.",
+    "areas": [
+      {
+        "name": "San Cristóbal centro",
+        "bestFor": "Cafés, culture and walking",
+        "text": "Hostels, guesthouses and boutique hotels in colonial houses."
+      },
+      {
+        "name": "Palenque and El Panchán",
+        "bestFor": "Jungle atmosphere",
+        "text": "Jungle lodges and cabañas near the ruins, from basic to comfortable."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or budget hotel", "value": "US$15–45 per night" },
+      { "label": "Mid-range hotel", "value": "US$60–130 per night" },
+      { "label": "Boutique hotel", "value": "US$130–250 per night" },
+      { "label": "Palenque entry", "value": "About US$6–10" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Chiapas is about 1,000 km south-east of Mexico City.",
+    "options": [
+      {
+        "mode": "Flight to Tuxtla Gutiérrez",
+        "text": "Direct flights from Mexico City (1 hour 45 minutes), then a one-hour drive to San Cristóbal.",
+        "detail": "Book a shuttle."
+      },
+      {
+        "mode": "Bus",
+        "text": "Overnight buses run from Oaxaca (about 10–12 hours) and Mexico City, and between San Cristóbal and Palenque (about 5–6 hours).",
+        "detail": "Prefer daytime buses for scenery and safety."
+      },
+      {
+        "mode": "Tren Maya",
+        "text": "The Tren Maya connects Palenque with Yucatán destinations.",
+        "detail": "Check the schedule."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Colectivos, tours and taxis link the sites.",
+    "options": [
+      {
+        "mode": "Colectivos",
+        "text": "Shared vans link Palenque with Agua Azul and Misol-Ha, and San Cristóbal with the villages.",
+        "detail": "Ask at the terminals."
+      },
+      {
+        "mode": "Tours",
+        "text": "Day tours from San Cristóbal visit the Sumidero, Chamula and Zinacantán.",
+        "detail": "Choose small operators."
+      },
+      {
+        "mode": "Taxis",
+        "text": "Inexpensive for local trips.",
+        "detail": "Agree the price."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November–April",
+    "summary": "Palenque is hot and humid all year, and San Cristóbal is cool. The dry season is best for waterfalls and roads.",
+    "seasons": [
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "Dry and cool in the highlands, comfortable in the jungle."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "shoulder",
+        "text": "Hot and dry in the lowlands."
+      },
+      {
+        "season": "Summer (June–September)",
+        "rating": "quiet",
+        "text": "Heavy rain, muddy roads, and waterfalls at their most powerful."
+      },
+      {
+        "season": "Autumn (October–November)",
+        "rating": "shoulder",
+        "text": "The end of the rains, green and fresh."
+      }
+    ],
+    "avoid": "The wettest months for road travel, and any period of blockades."
+  },
+  "itinerary": {
+    "title": "Four days in Chiapas",
+    "intro": "Palenque and the waterfalls, then the road to San Cristóbal and the highlands.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Palenque",
+        "summary": "Jungle ruins.",
+        "morning": "The Palenque archaeological site.",
+        "afternoon": "A jungle walk and museum.",
+        "evening": "Dinner at El Panchán."
+      },
+      {
+        "day": 2,
+        "title": "Waterfalls to San Cristóbal",
+        "summary": "A scenic transfer.",
+        "morning": "Misol-Ha and Agua Azul.",
+        "afternoon": "The mountain road to San Cristóbal.",
+        "evening": "Coffee and dinner."
+      },
+      {
+        "day": 3,
+        "title": "San Cristóbal",
+        "summary": "Markets and villages.",
+        "morning": "The Santo Domingo market.",
+        "afternoon": "Chamula and Zinacantán.",
+        "evening": "Live music."
+      },
+      {
+        "day": 4,
+        "title": "The Sumidero Canyon",
+        "summary": "A boat through a gorge.",
+        "morning": "Drive to Chiapa de Corzo.",
+        "afternoon": "A boat trip in the canyon.",
+        "evening": "Fly from Tuxtla."
+      }
+    ]
+  },
+  "tipsIntro": "Chiapas is remote and rewarding, and a few tips help.",
+  "tips": [
+    "Check your government's advice for Chiapas, and local news for roadblocks.",
+    "Travel by day, particularly on mountain roads.",
+    "Bring warm clothes for San Cristóbal, and repellent for Palenque.",
+    "Ask before photographing people, and never photograph inside Chamula's church.",
+    "Use licensed guides for villages.",
+    "Carry cash, as ATMs are scarce.",
+    "Buy crafts directly from makers."
+  ],
+  "faq": [
+    {
+      "q": "Is Chiapas safe?",
+      "a": "The main tourist areas, Palenque and San Cristóbal, are widely visited, but Chiapas has had unrest, road blockades and, in some areas, violence. Some governments advise caution. Check advice and local news, and travel by day."
+    },
+    {
+      "q": "How many days do you need?",
+      "a": "Four or five for Palenque, the waterfalls, the Sumidero and San Cristóbal."
+    },
+    {
+      "q": "What was the Zapatista uprising?",
+      "a": "A 1994 armed uprising in Chiapas by an indigenous movement demanding land and rights. It is now mostly political, and Zapatista communities exist, but San Cristóbal is peaceful."
+    },
+    {
+      "q": "Can I swim at Agua Azul?",
+      "a": "In some pools, in the dry season. Currents can be strong, and after rain the water may be brown."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "November to April, though the rainy season is green and quiet."
+    },
+    {
+      "q": "How do I get from Palenque to San Cristóbal?",
+      "a": "By bus or colectivo, about 5 to 6 hours, with a stop at the waterfalls."
+    }
+  ],
+  "related": ["yucatan-merida-chichen-itza", "oaxaca", "tulum-riviera-maya"],
+  "relatedArticles": ["unesco-worth-planning-around", "packing-by-season"]
+}

@@ -1,0 +1,304 @@
+{
+  "slug": "puebla-cholula",
+  "name": "Puebla & Cholula",
+  "shortName": "Puebla and Cholula",
+  "country": "mexico",
+  "region": "Puebla State, central highlands",
+  "categories": ["unesco", "historic", "food-and-wine"],
+  "tagline": "The birthplace of mole poblano and Talavera tiles, with a baroque centre of 70 churches and, in nearby Cholula, the widest pyramid in the world topped by a church.",
+  "highlight": "Sunset from the church on the Great Pyramid of Cholula, with the volcanoes Popocatépetl and Iztaccíhuatl on the horizon.",
+  "shortDescription": "A UNESCO-listed colonial city of tiled facades, cathedrals and convent kitchens, with the giant pyramid of Cholula, volcanoes and one of Mexico's great cuisines, two hours from the capital.",
+  "metaDescription": "A Puebla and Cholula travel guide: the cathedral and Zócalo, Talavera tiles, mole poblano and chiles en nogada, the Great Pyramid of Cholula, Cuetlaxcoapan, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Puebla (PBC), about 30 minutes; Mexico City (MEX), about 2 hours",
+  "knownFor": "Mole poblano, Talavera pottery, baroque churches, the Cholula pyramid",
+  "budget": "US$70–130 per day, mid-range",
+  "goodFor": "Food, architecture, history, a day trip from Mexico City",
+  "coords": { "lat": 19.0414, "lng": -98.2063 },
+  "image": {
+    "file": "File:Cholula church atop pyramid.jpg",
+    "alt": "The Church of Our Lady of Remedies on top of the Great Pyramid of Cholula"
+  },
+  "intro": [
+    "Puebla was founded by the Spanish in 1531 on the road between Mexico City and the port of Veracruz, and became one of the most important cities of colonial Mexico. Its historic centre, laid out on a grid, holds a cathedral, dozens of baroque churches, mansions faced with Talavera tiles and convents, and was inscribed by UNESCO in 1987. It is also the site of the Battle of Puebla of 5 May 1862, celebrated as Cinco de Mayo.",
+    "The city is a food capital. Mole poblano, the chocolate-chile sauce served on turkey, was reputedly created in a convent kitchen, and chiles en nogada, stuffed poblano chiles in walnut sauce, are the city's summer dish. Talavera pottery, glazed in blue and white, is still made in workshops in the city, and covers the facades of buildings.",
+    "Ten kilometres west, Cholula holds the Great Pyramid, the largest pyramid by volume in the world, which the Spaniards did not realise was a man-made structure until it was covered in vegetation. They built a church on top of it, and it now looks like a green hill with a yellow chapel and snow-capped volcanoes behind."
+  ],
+  "whyVisit": {
+    "intro": "Puebla combines a beautiful colonial centre with some of the best food in Mexico, and is easy to reach from the capital.",
+    "points": [
+      {
+        "title": "A historic centre of tiled facades",
+        "text": "Talavera tiles, red brick and carved stone cover buildings across the compact, walkable centre."
+      },
+      {
+        "title": "Mole poblano and chiles en nogada",
+        "text": "Two of Mexico's most celebrated dishes come from Puebla, together with cemitas, tacos árabes and sweets."
+      },
+      {
+        "title": "The Great Pyramid of Cholula",
+        "text": "A pyramid larger by volume than Egypt's Great Pyramid, with tunnels, a museum and a sanctuary on top."
+      },
+      {
+        "title": "The volcano views",
+        "text": "On a clear day, Popocatépetl and Iztaccíhuatl frame the skyline."
+      },
+      {
+        "title": "Close to Mexico City",
+        "text": "Two hours by bus, so it works as a day trip or a base."
+      }
+    ]
+  },
+  "attractionsIntro": "The centre is walkable, and Cholula is a short taxi ride away.",
+  "attractions": [
+    {
+      "name": "The Cathedral and the Zócalo",
+      "text": "A large Renaissance and baroque cathedral, with one of the tallest towers in Mexico, on a shaded square lined with arcades and cafés.",
+      "tip": "Look inside at the ornate altar."
+    },
+    {
+      "name": "The Rosary Chapel at Santo Domingo",
+      "text": "A baroque chapel covered in gilded plaster and gold leaf, one of the most extravagant interiors in the Americas.",
+      "tip": "Go in the morning."
+    },
+    {
+      "name": "The Great Pyramid of Cholula",
+      "text": "The base is about 450 metres on each side, and its tunnels can be visited. On top stands the Sanctuary of Our Lady of Remedies, reached by a path.",
+      "tip": "Take the tunnel tour and the path to the top."
+    },
+    {
+      "name": "The Callejón de los Sapos and the Barrio del Artista",
+      "text": "Cobbled streets with antique shops, galleries and cafés, and a weekend market.",
+      "tip": "Good on Saturdays and Sundays."
+    },
+    {
+      "name": "The Amparo Museum",
+      "text": "A superb museum of pre-Hispanic, colonial and modern art in two colonial buildings.",
+      "tip": "Visit the rooftop café."
+    },
+    {
+      "name": "Talavera workshops",
+      "text": "Studios, such as Uriarte, that make and sell hand-painted tiles and ceramics.",
+      "tip": "Buy certified pieces."
+    },
+    {
+      "name": "The Fort of Loreto and Guadalupe",
+      "text": "Hilltop forts with a museum of the Battle of Puebla and views of the city.",
+      "tip": "Go in the late afternoon."
+    }
+  ],
+  "thingsToDoIntro": "Puebla is a city to eat, browse and stroll in.",
+  "thingsToDo": [
+    {
+      "title": "Eat mole poblano",
+      "text": "Try it on chicken or turkey in a traditional restaurant.",
+      "tip": "Ask for a small portion first."
+    },
+    {
+      "title": "Climb Cholula's pyramid",
+      "text": "Walk to the church at the top for sunset and views of the volcanoes.",
+      "tip": "Bring a jacket."
+    },
+    {
+      "title": "Shop for Talavera",
+      "text": "Buy tiles and tableware at workshops.",
+      "tip": "Look for the certification mark."
+    },
+    {
+      "title": "Try Puebla's sweets",
+      "text": "Camotes (sweet potato candy), macarrones and dulces de leche in the Calle de los Dulces.",
+      "tip": "Buy a small selection."
+    },
+    {
+      "title": "Visit a market",
+      "text": "The Mercado El Carmen and the Mercado de Sabores are excellent for food.",
+      "tip": "Go before noon."
+    },
+    {
+      "title": "Take a cooking class",
+      "text": "Cooking classes teach you to make mole and chiles en nogada.",
+      "tip": "Book ahead."
+    }
+  ],
+  "foodIntro": "Puebla is one of the great food cities of Mexico, and its dishes have a long history.",
+  "foods": [
+    {
+      "name": "Mole poblano",
+      "text": "A sauce of dried chiles, chocolate, spices, seeds and fruit, served on turkey or chicken. It is thick, dark and complex.",
+      "whereToTry": "Traditional restaurants in the centre."
+    },
+    {
+      "name": "Chiles en nogada",
+      "text": "Poblano chiles stuffed with meat and fruit, covered in walnut sauce and pomegranate seeds. A summer speciality.",
+      "whereToTry": "Restaurants from July to September."
+    },
+    {
+      "name": "Cemitas",
+      "text": "Sesame rolls stuffed with meat, avocado, cheese and chipotle, eaten as a sandwich.",
+      "whereToTry": "Market stalls."
+    },
+    {
+      "name": "Tacos árabes",
+      "text": "Spit-roasted pork in pita-style bread, a Lebanese legacy and the ancestor of al pastor.",
+      "whereToTry": "Taquerías."
+    },
+    {
+      "name": "Sweets",
+      "text": "Camotes, tortitas de Santa Clara and macarrones.",
+      "whereToTry": "Calle 6 Oriente."
+    },
+    {
+      "name": "Chalupas and molotes",
+      "text": "Small fried tortillas with green or red salsa, and masa turnovers.",
+      "whereToTry": "Street stalls."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the historic centre in a restored mansion, or in Cholula for a quieter, student-filled base.",
+    "areas": [
+      {
+        "name": "Centro histórico",
+        "bestFor": "Sights and restaurants",
+        "text": "Boutique hotels and guesthouses in restored colonial buildings."
+      },
+      {
+        "name": "Cholula",
+        "bestFor": "Quiet, volcano views and bars",
+        "text": "A college town with guesthouses and lively evenings."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel", "value": "US$30–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–150 per night" },
+      { "label": "Boutique hotel", "value": "US$150–300 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$8–20 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Puebla is 130 km east of Mexico City.",
+    "options": [
+      {
+        "mode": "Bus from Mexico City",
+        "text": "About 2 hours from the TAPO terminal, with frequent services.",
+        "detail": "Buy tickets in advance."
+      },
+      {
+        "mode": "Flight or car",
+        "text": "Puebla has a small airport with limited flights. Driving takes about 2 hours.",
+        "detail": "Traffic near Mexico City can be heavy."
+      },
+      {
+        "mode": "Bus to Oaxaca or Veracruz",
+        "text": "Puebla is on the route to Oaxaca (4–5 hours) and Veracruz.",
+        "detail": "Frequent departures."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The centre is walkable, and taxis or the Ruta bus reach Cholula.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "Everything in the centre is within 20 minutes.",
+        "detail": "Wear comfortable shoes."
+      },
+      {
+        "mode": "Taxi or Uber",
+        "text": "Cheap and useful for Cholula.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Tourist train",
+        "text": "A tourist tram runs between Puebla and Cholula.",
+        "detail": "Check schedules."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October–April",
+    "summary": "At 2,100 m, Puebla has a mild climate, with rain from June to September. Clear days give the best views of the volcanoes.",
+    "seasons": [
+      {
+        "season": "Winter (December–February)",
+        "rating": "best",
+        "text": "Dry and sunny, with clear volcano views."
+      },
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Warm and dry."
+      },
+      {
+        "season": "Summer (June–September)",
+        "rating": "shoulder",
+        "text": "Afternoon rain, but chiles en nogada season."
+      },
+      {
+        "season": "Autumn (October–November)",
+        "rating": "best",
+        "text": "Clear and pleasant."
+      }
+    ],
+    "avoid": "The days around 5 May (Cinco de Mayo) if you want quiet."
+  },
+  "itinerary": {
+    "title": "Two days in Puebla and Cholula",
+    "intro": "The colonial centre on the first day, Cholula on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Puebla's centre",
+        "summary": "Churches, tiles and food.",
+        "morning": "The Cathedral and the Rosary Chapel.",
+        "afternoon": "The Amparo Museum and a Talavera workshop.",
+        "evening": "Mole for dinner."
+      },
+      {
+        "day": 2,
+        "title": "Cholula",
+        "summary": "A giant pyramid.",
+        "morning": "The Great Pyramid and its tunnels.",
+        "afternoon": "The church at the top and the volcano views.",
+        "evening": "Drinks in Cholula."
+      }
+    ]
+  },
+  "tipsIntro": "Puebla is easy, and a few tips help.",
+  "tips": [
+    "Go to Cholula's pyramid late for sunset, and check the opening hours.",
+    "Eat mole at lunch, when it is at its best.",
+    "Buy certified Talavera to avoid imitations.",
+    "Bring a jacket for the evenings.",
+    "Check the weather for volcano views.",
+    "Book ahead for Cinco de Mayo weekends.",
+    "Use Uber or taxis at night."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Puebla?",
+      "a": "Two for the centre and Cholula. It can be done as a day trip from Mexico City."
+    },
+    {
+      "q": "Is Puebla safe?",
+      "a": "The historic centre and Cholula are generally safe for visitors. Use normal precautions and check your government's advice."
+    },
+    {
+      "q": "What is Cinco de Mayo?",
+      "a": "The anniversary of the Mexican victory over French forces at Puebla in 1862. It is a bigger holiday in the United States than in Mexico, where it is mostly local."
+    },
+    {
+      "q": "What is Talavera?",
+      "a": "A tin-glazed ceramic in blue and white, with designs brought by Spanish potters, made in Puebla since the 16th century."
+    },
+    {
+      "q": "Can I visit Puebla as a day trip from Mexico City?",
+      "a": "Yes, two hours each way by bus, though staying overnight is better."
+    },
+    {
+      "q": "Is Popocatépetl active?",
+      "a": "Yes. It regularly emits ash, and viewing is subject to warnings. Check the volcano alert level."
+    }
+  ],
+  "related": ["mexico-city", "teotihuacan", "oaxaca"],
+  "relatedArticles": ["food-primer", "unesco-worth-planning-around"]
+}

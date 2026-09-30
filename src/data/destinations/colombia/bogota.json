@@ -1,0 +1,349 @@
+{
+  "slug": "bogota",
+  "name": "Bogotá",
+  "country": "colombia",
+  "region": "Cundinamarca, Andean highlands",
+  "categories": [
+    "capital-city",
+    "major-city",
+    "cultural",
+    "historic"
+  ],
+  "tagline": "A high-altitude capital of museums, street art and colonial lanes, with a mountaintop shrine, a cathedral carved from salt and superb coffee and food.",
+  "highlight": "Riding the cable car to the Monserrate sanctuary for a view over the vast city.",
+  "shortDescription": "Colombia's capital at 2,640 metres, with La Candelaria's colonial streets, the Gold and Botero museums, Monserrate, street art, restaurants and the Zipaquirá Salt Cathedral.",
+  "metaDescription": "A Bogotá travel guide: La Candelaria, the Gold Museum, Botero Museum, Monserrate, street art, Zipaquirá Salt Cathedral, ajiaco, coffee, safety, altitude, where to stay and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "El Dorado (BOG), about 30–45 minutes",
+  "knownFor": "Museums, La Candelaria, street art, Monserrate",
+  "budget": "US$70–140 per day, mid-range",
+  "goodFor": "Culture, food, museums, arrival, day trips",
+  "coords": {
+    "lat": 4.711,
+    "lng": -74.0721
+  },
+  "image": {
+    "file": "File:Plaza de Bolívar - Bogotá - Colombia 2024.jpg",
+    "alt": "The Plaza de Bolívar in the heart of Bogotá with the cathedral and mountains beyond"
+  },
+  "intro": [
+    "Bogotá is Colombia's capital and largest city, home to about 8 million people, set on a high plateau at 2,640 metres in the Andes and ringed by green peaks. Its climate is cool and often drizzly, and locals dress in layers. The city was founded in 1538, and its old heart, La Candelaria, still has cobbled streets, tile roofs, small plazas and colonial churches.",
+    "Bogotá's museums are its highlight. The Museo del Oro holds around 55,000 pieces of pre-Columbian gold, the largest such collection in the world, the Botero Museum shows works by the painter and sculptor Fernando Botero, alongside pieces by Picasso and Monet, and the National Museum tells the country's story. Street art is prominent, and there are tours to show the murals. Above the city, Monserrate, at 3,150 metres, is reached by funicular or cable car for views.",
+    "The city also has a strong food and coffee scene, in neighbourhoods such as Chapinero and Usaquén, and it is the base for a day trip to the Zipaquirá Salt Cathedral, a huge underground church in a salt mine. Bogotá is bigger and less immediately charming than Cartagena or Medellín, but it rewards a few days. Take it slowly at first because of the altitude."
+  ],
+  "whyVisit": {
+    "intro": "Bogotá has the best museums in Colombia and an energetic cultural scene.",
+    "points": [
+      {
+        "title": "The Gold Museum",
+        "text": "Pre-Columbian treasures."
+      },
+      {
+        "title": "La Candelaria",
+        "text": "Colonial streets and murals."
+      },
+      {
+        "title": "Monserrate",
+        "text": "A mountaintop view."
+      },
+      {
+        "title": "Salt Cathedral",
+        "text": "An underground church."
+      },
+      {
+        "title": "Food and coffee",
+        "text": "Ajiaco and specialty cafés."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights are in La Candelaria and the historic centre.",
+  "attractions": [
+    {
+      "name": "La Candelaria",
+      "image": {
+        "file": "File:Bogotá, La Candelaria, 2023-06 CN-01.jpg",
+        "alt": "A colourful street in La Candelaria, Bogotá's historic district"
+      },
+      "text": "The historic district, with narrow streets, colonial houses, street art, churches and university life.",
+      "tip": "Walk with care after dark."
+    },
+    {
+      "name": "Monserrate",
+      "image": {
+        "file": "File:Bogotá, Monserrate, 2023-06 CN-02.jpg",
+        "alt": "The white sanctuary of Monserrate on the mountain above Bogotá"
+      },
+      "text": "A mountaintop sanctuary at 3,150 metres, reached by cable car or funicular, with views over the city.",
+      "tip": "Go on a weekday morning."
+    },
+    {
+      "name": "Botero Museum",
+      "image": {
+        "file": "File:Patio Museo Botero Bogota.JPG",
+        "alt": "The courtyard of the Botero Museum with a large sculpture"
+      },
+      "text": "A free museum housing Botero's rounded figures and his donated collection of European art.",
+      "tip": "It is free."
+    },
+    {
+      "name": "Zipaquirá Salt Cathedral",
+      "image": {
+        "file": "File:Salt Cathedral of Zipaquirá main altar.jpg",
+        "alt": "The main altar of the Salt Cathedral of Zipaquirá"
+      },
+      "text": "A cathedral built inside a salt mine, 45 km from Bogotá, with lit crosses and vast chambers.",
+      "tip": "Take the train or a bus."
+    },
+    {
+      "name": "Museo del Oro",
+      "text": "The Gold Museum has one of the largest collections of pre-Hispanic gold in the world.",
+      "tip": "Go early on weekdays."
+    },
+    {
+      "name": "Plaza de Bolívar",
+      "text": "The main plaza with the cathedral, the Capitol and the Palace of Justice.",
+      "tip": "Visit in daylight."
+    }
+  ],
+  "thingsToDoIntro": "Bogotá is about museums, food and views.",
+  "thingsToDo": [
+    {
+      "title": "Take a street art tour",
+      "text": "See murals and hear their stories.",
+      "tip": "Book a guide."
+    },
+    {
+      "title": "Ride the Monserrate cable car",
+      "text": "Views over the city.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Try a coffee tasting",
+      "text": "Learn about Colombian beans.",
+      "tip": "Visit specialty cafés."
+    },
+    {
+      "title": "Visit Usaquén market",
+      "text": "A Sunday flea market.",
+      "tip": "Go on Sunday."
+    },
+    {
+      "title": "Cycle the Ciclovía",
+      "text": "On Sundays, roads close to cars.",
+      "tip": "Rent a bike."
+    },
+    {
+      "title": "Explore Zona G",
+      "text": "Restaurants.",
+      "tip": "Book."
+    }
+  ],
+  "foodIntro": "Bogotá's food is warming and hearty.",
+  "foods": [
+    {
+      "name": "Ajiaco",
+      "text": "Chicken and potato soup.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Tamal Santafereño",
+      "text": "A large tamale.",
+      "whereToTry": "Breakfast places."
+    },
+    {
+      "name": "Chocolate santafereño",
+      "text": "Hot chocolate with cheese.",
+      "whereToTry": "Cafés in La Candelaria."
+    },
+    {
+      "name": "Arepas and empanadas",
+      "text": "Street snacks.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Colombian coffee",
+      "text": "Specialty cafés.",
+      "whereToTry": "Chapinero."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose a safer neighbourhood.",
+    "areas": [
+      {
+        "name": "La Candelaria",
+        "bestFor": "Sightseeing and budget",
+        "text": "Hostels and guesthouses."
+      },
+      {
+        "name": "Chapinero and Zona G",
+        "bestFor": "Restaurants",
+        "text": "Boutique hotels."
+      },
+      {
+        "name": "Usaquén",
+        "bestFor": "Quiet and safe",
+        "text": "Nice hotels."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel dorm",
+        "value": "US$10–20 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$60–120 per night"
+      },
+      {
+        "label": "Luxury hotel",
+        "value": "US$180–350 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$6–20 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Bogotá is the country's main hub.",
+    "options": [
+      {
+        "mode": "Flight",
+        "text": "International and domestic flights.",
+        "detail": "Book early."
+      },
+      {
+        "mode": "Taxi or Uber from the airport",
+        "text": "About 30 to 45 minutes.",
+        "detail": "Use the official taxi desk."
+      },
+      {
+        "mode": "Bus",
+        "text": "From Medellín, about 8 to 10 hours.",
+        "detail": "Fly instead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Traffic is heavy.",
+    "options": [
+      {
+        "mode": "TransMilenio",
+        "text": "The bus rapid transit system.",
+        "detail": "Crowded, so watch for pickpockets."
+      },
+      {
+        "mode": "Uber and Cabify",
+        "text": "Best for visitors.",
+        "detail": "Use the app."
+      },
+      {
+        "mode": "On foot",
+        "text": "In La Candelaria.",
+        "detail": "Daylight only."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December–March",
+    "summary": "Bogotá is cool year-round, with two dry seasons.",
+    "seasons": [
+      {
+        "season": "December–March",
+        "rating": "best",
+        "text": "Drier."
+      },
+      {
+        "season": "April–May",
+        "rating": "quiet",
+        "text": "Wet."
+      },
+      {
+        "season": "June–August",
+        "rating": "good",
+        "text": "Drier and windy."
+      },
+      {
+        "season": "September–November",
+        "rating": "avoid",
+        "text": "Wet."
+      }
+    ],
+    "avoid": "October and November rains."
+  },
+  "itinerary": {
+    "title": "Three days in Bogotá",
+    "intro": "Museums, the mountain and a salt cathedral.",
+    "days": [
+      {
+        "day": 1,
+        "title": "La Candelaria",
+        "summary": "The old city.",
+        "morning": "Plaza de Bolívar and Gold Museum.",
+        "afternoon": "Botero Museum.",
+        "evening": "Ajiaco dinner."
+      },
+      {
+        "day": 2,
+        "title": "Monserrate",
+        "summary": "The mountain.",
+        "morning": "Monserrate.",
+        "afternoon": "Street art tour.",
+        "evening": "Zona G."
+      },
+      {
+        "day": 3,
+        "title": "Zipaquirá",
+        "summary": "Salt.",
+        "morning": "Salt Cathedral.",
+        "afternoon": "Return.",
+        "evening": "Free."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Rest on the first day for the altitude.",
+    "Bring layers and a rain jacket.",
+    "Use Uber.",
+    "Watch your phone in the street.",
+    "Book the Gold Museum early.",
+    "Go to Monserrate in the morning.",
+    "Avoid La Candelaria at night."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Bogotá?",
+      "a": "Three."
+    },
+    {
+      "q": "Is Bogotá safe?",
+      "a": "With precautions, yes. Stay in the recommended areas."
+    },
+    {
+      "q": "Is altitude a problem?",
+      "a": "It can cause headaches, so go slowly."
+    },
+    {
+      "q": "What should I wear?",
+      "a": "Layers."
+    },
+    {
+      "q": "Is Zipaquirá worth it?",
+      "a": "Yes, for the Salt Cathedral."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "No."
+    }
+  ],
+  "related": [
+    "villa-de-leyva",
+    "medellin",
+    "cartagena"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

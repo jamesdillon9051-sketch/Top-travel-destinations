@@ -1,0 +1,316 @@
+{
+  "slug": "fes",
+  "name": "Fes",
+  "country": "morocco",
+  "region": "Fès-Meknès, northern Morocco",
+  "categories": ["unesco", "historic", "cultural", "major-city"],
+  "tagline": "The most complete medieval city in the Arab world, a car-free maze of madrasas, tanneries and workshops that has barely changed in centuries.",
+  "highlight": "A guided walk through Fes el-Bali, ending on a terrace above the tanneries.",
+  "shortDescription": "Morocco's spiritual and cultural capital: a 9th-century medina of thousands of lanes, the world's oldest surviving university, ornate madrasas and traditional crafts.",
+  "metaDescription": "A Fes travel guide: Fes el-Bali medina, Al-Qarawiyyin, the tanneries, Bou Inania Madrasa, Bab Boujloud, riads, food, how to avoid getting lost and a three-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Fès–Saïs (FEZ), about 20 minutes",
+  "knownFor": "The medina, tanneries, madrasas, craft workshops, Al-Qarawiyyin",
+  "budget": "US$50–120 per day, mid-range",
+  "goodFor": "History, crafts, food, architecture, a medieval atmosphere",
+  "coords": { "lat": 34.0646, "lng": -4.9737 },
+  "image": {
+    "file": "File:Bab Boujloud, Fes.jpg",
+    "alt": "The blue-tiled Bab Boujloud gate at the entrance to the medina of Fes"
+  },
+  "intro": [
+    "Fes was founded in 789 by Idris I, and his son Idris II made it his capital around 809. It grew as a centre of learning and trade, receiving waves of refugees from Córdoba and Kairouan in the 9th century, and it has been the intellectual and religious capital of Morocco for much of the time since. UNESCO inscribed the medina in 1981.",
+    "The old city, Fes el-Bali, is one of the largest car-free urban areas in the world. Thousands of lanes wind between houses, workshops, fondouks (caravan inns), fountains and mosques, and mules and handcarts carry everything. It is easy to be overwhelmed, and even harder to get out, but with a guide for the first morning, it becomes a place of extraordinary craftwork and quiet corners.",
+    "Al-Qarawiyyin, founded in 859 by Fatima al-Fihri, is often described as the oldest continuously operating university in the world. Around it stand the great Marinid madrasas of the 14th century, and outside the walls the newer Ville Nouvelle offers cafés and more modern hotels."
+  ],
+  "whyVisit": {
+    "intro": "Fes is the best place in Morocco to feel the country's medieval past, and one of the great historic cities of the Islamic world.",
+    "points": [
+      {
+        "title": "A living medieval city",
+        "text": "Craftspeople still make brass, leather, ceramics and textiles in the same quarters, by the same methods, as their predecessors."
+      },
+      {
+        "title": "Superb Islamic architecture",
+        "text": "The Bou Inania and Al-Attarine madrasas are covered in carved cedar, stucco and zellige tile."
+      },
+      {
+        "title": "The tanneries",
+        "text": "The Chouara tannery, with its stone vats of dye, is one of the most photographed and pungent sights in Morocco."
+      },
+      {
+        "title": "Real food",
+        "text": "Fes is regarded as the culinary capital of the country, and its pastilla and rich stews are celebrated."
+      },
+      {
+        "title": "Fewer resorts, more life",
+        "text": "Fes remains a working city, and the medina is a place where people live, shop and pray."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights are in Fes el-Bali. Hire a guide for the first day and then explore alone.",
+  "attractions": [
+    {
+      "name": "Bab Boujloud",
+      "text": "The blue-tiled gate, from 1913, at the western entrance to the medina. Blue outside, green inside, the colours of the city and of Islam.",
+      "tip": "Enter here for the most gradual introduction to the medina."
+    },
+    {
+      "name": "The Chouara tannery",
+      "image": {
+        "file": "File:Leather tanning, Fes.jpg",
+        "alt": "The colourful stone vats of the Chouara tannery in Fes, seen from above"
+      },
+      "text": "A medieval leather tannery where hides are soaked in vats of dye and pigeon droppings. Visitors watch from the terraces of leather shops, which give out sprigs of mint.",
+      "tip": "Best in the morning, and you are expected to browse the shop."
+    },
+    {
+      "name": "Al-Qarawiyyin and its library",
+      "image": {
+        "file": "File:University of al-Qarawiyyin Fes.jpg",
+        "alt": "The courtyard of the University of al-Qarawiyyin in Fes"
+      },
+      "text": "The mosque and university founded in 859. The interior is closed to non-Muslims, but the gates and courtyard can be glimpsed from outside, and its restored library has reopened to visitors at times.",
+      "tip": "Ask your guide about the library's current opening."
+    },
+    {
+      "name": "Bou Inania Madrasa",
+      "text": "A 14th-century Marinid college with a courtyard of cedar, marble and tile, one of the few religious buildings in Morocco open to non-Muslims.",
+      "tip": "Visit early for the best light."
+    },
+    {
+      "name": "Al-Attarine Madrasa",
+      "text": "A smaller, more intimate 14th-century madrasa with immaculate decoration, next to the spice market.",
+      "tip": "Combine it with the spice and perfume stalls."
+    },
+    {
+      "name": "Fes el-Jdid and the Mellah",
+      "text": "The 13th-century royal quarter and the old Jewish quarter, with distinctive balconies, the palace gates and a Jewish cemetery.",
+      "tip": "Go by petit taxi, since it is outside the medina."
+    },
+    {
+      "name": "The Borj Nord and the Marinid Tombs",
+      "text": "Hilltop viewpoints above the medina, which give the classic panorama of the old city.",
+      "tip": "Go at sunset."
+    }
+  ],
+  "thingsToDoIntro": "Fes rewards a slow rhythm, and wandering with a purpose, whether shopping, eating or learning a craft.",
+  "thingsToDo": [
+    {
+      "title": "Take a guided medina walk",
+      "text": "A licensed guide takes you through the main lanes, explains the crafts and keeps you from getting lost. Book through a riad for a fair price.",
+      "tip": "Agree the price and the length in advance."
+    },
+    {
+      "title": "Watch the craftspeople",
+      "text": "The Seffarine Square coppersmiths, the weavers, the woodcarvers and the potters all work in the open.",
+      "tip": "Ask permission before taking photographs."
+    },
+    {
+      "title": "Take a cooking class",
+      "text": "Learn to make a tagine or pastilla in a riad kitchen, after a shopping trip to the market.",
+      "tip": "Book a day ahead."
+    },
+    {
+      "title": "Visit the pottery at Ain Nokbi",
+      "text": "The potteries outside the medina fire the celebrated blue Fassi ceramics, and offer demonstrations.",
+      "tip": "Combine with the Borj Nord view."
+    },
+    {
+      "title": "Look at the city from above",
+      "text": "The Marinid Tombs on the hill give a sweeping view over the medina, and are quietest at dusk.",
+      "tip": "Take a petit taxi up."
+    },
+    {
+      "title": "Base yourself for day trips",
+      "text": "Meknes, Volubilis and Chefchaouen are all within reach. See [[meknes-volubilis|Meknes and Volubilis]].",
+      "tip": "Ask your riad to arrange a driver."
+    }
+  ],
+  "foodIntro": "Fassi cuisine is considered the most refined in Morocco, based on rich sauces, pastry and slow cooking.",
+  "foods": [
+    {
+      "name": "Pastilla",
+      "text": "The famous pigeon or chicken pie in paper-thin pastry with almonds, cinnamon and sugar.",
+      "whereToTry": "Riads and upscale restaurants."
+    },
+    {
+      "name": "Rfissa",
+      "text": "Shredded msemen pancakes with chicken, lentils and fenugreek in a spiced broth, traditionally served to new mothers.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Bissara",
+      "text": "A thick, warming fava bean soup with olive oil and cumin, eaten for breakfast in winter.",
+      "whereToTry": "Street stalls in the medina."
+    },
+    {
+      "name": "Fassi tagine",
+      "text": "Lamb or chicken cooked with dried fruit, saffron and preserved lemon.",
+      "whereToTry": "Restaurants in the medina."
+    },
+    {
+      "name": "Msemen and harcha",
+      "text": "Flat breads and semolina cakes eaten for breakfast with honey and butter.",
+      "whereToTry": "Bakeries and cafés."
+    },
+    {
+      "name": "Mint tea and pastries",
+      "text": "Sweet pastries and tea in a café or riad courtyard.",
+      "whereToTry": "Cafés in the medina."
+    }
+  ],
+  "accommodation": {
+    "intro": "Staying in the medina is a major part of the Fes experience, and riads range from simple to palatial.",
+    "areas": [
+      {
+        "name": "Fes el-Bali",
+        "bestFor": "Atmosphere",
+        "text": "Riads near Bab Boujloud and the Bou Inania are easiest to reach."
+      },
+      {
+        "name": "Fes el-Jdid",
+        "bestFor": "Quieter stays",
+        "text": "Guesthouses and small hotels near the Royal Palace."
+      },
+      {
+        "name": "Ville Nouvelle",
+        "bestFor": "Modern hotels and easy transport",
+        "text": "The French-built new town, near the station."
+      }
+    ],
+    "budget": [
+      { "label": "Budget riad", "value": "US$25–60 per night" },
+      { "label": "Mid-range riad", "value": "US$70–140 per night" },
+      { "label": "Luxury riad", "value": "US$180–400 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$5–12 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Fes is about 200 km east of Rabat and 300 km north-east of Marrakech.",
+    "options": [
+      {
+        "mode": "Train from Casablanca or Rabat",
+        "text": "About 4 hours from Casablanca and 3 hours from Rabat.",
+        "detail": "First class is cheap and comfortable."
+      },
+      {
+        "mode": "Flight to Fès–Saïs (FEZ)",
+        "text": "Direct flights from several European cities, and from Casablanca.",
+        "detail": "The airport is 20 minutes from the centre."
+      },
+      {
+        "mode": "Bus or car",
+        "text": "CTM buses from Chefchaouen (about 4 hours) and Meknes (about 1 hour).",
+        "detail": "Book the day before."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Fes el-Bali has no cars, and the rest of the city is served by taxis.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The only way in the medina.",
+        "detail": "Wear good shoes, and mind mules in the lanes."
+      },
+      {
+        "mode": "Petits taxis",
+        "text": "Cheap taxis take you between the gates and the new town.",
+        "detail": "Insist on the meter."
+      },
+      {
+        "mode": "Guide",
+        "text": "A licensed guide is the best way to find a route.",
+        "detail": "Arrange through your riad."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and September–November",
+    "summary": "Fes is inland and has hot summers and cool, wet winters.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "Mild, sunny and green."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Hot, often above 35°C."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "Warm days, cooler nights."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "quiet",
+        "text": "Cold and wet at times, but few visitors."
+      }
+    ],
+    "avoid": "July and August. The Festival of World Sacred Music in spring draws crowds."
+  },
+  "itinerary": {
+    "title": "Two days in Fes",
+    "intro": "The classic medina sights with a guide on the first day and self-guided exploring on the second.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The medina with a guide",
+        "summary": "Gates, crafts and tanneries.",
+        "morning": "Bab Boujloud, the Bou Inania Madrasa and the crafts quarters.",
+        "afternoon": "The Chouara tannery and lunch.",
+        "evening": "Dinner at a riad."
+      },
+      {
+        "day": 2,
+        "title": "On your own",
+        "summary": "Slow exploring.",
+        "morning": "Al-Attarine Madrasa and the spice market.",
+        "afternoon": "Fes el-Jdid and the Mellah, or a cooking class.",
+        "evening": "Sunset at the Marinid Tombs."
+      }
+    ]
+  },
+  "tipsIntro": "Fes is a maze, and a few tips make it easier.",
+  "tips": [
+    "Hire a licensed guide for the first morning. They keep touts away and orient you.",
+    "Ignore anyone who says a street is closed or that a shop is not open.",
+    "Make a note of your riad's name and gate. Landmarks help.",
+    "Move out of the way of donkeys and mules when you hear 'balak'.",
+    "Take cash for shopping and taxis.",
+    "The tannery visit is best in the morning.",
+    "Fridays are quieter, with shops closed at midday for prayer."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Fes?",
+      "a": "Two or three. One day gives you a taste, but the medina rewards a slower pace."
+    },
+    {
+      "q": "Do I need a guide in Fes?",
+      "a": "It is strongly recommended for the first morning. The medina has thousands of lanes, and a licensed guide helps you navigate and avoid unofficial ones."
+    },
+    {
+      "q": "Is Fes safe?",
+      "a": "Yes, for most visitors. Expect hassle from touts, and take care of valuables in crowded lanes."
+    },
+    {
+      "q": "Is Fes better than Marrakech?",
+      "a": "Fes is older, more authentic and less polished. Marrakech is livelier and easier. Many visitors do both."
+    },
+    {
+      "q": "Can non-Muslims enter mosques in Fes?",
+      "a": "Generally no. The Bou Inania Madrasa and some others are open as historic monuments, but most mosques are closed to non-Muslims."
+    },
+    {
+      "q": "Is the tannery smell that bad?",
+      "a": "It is pungent, and shops give mint sprigs to hold to your nose. It is worth seeing."
+    }
+  ],
+  "related": ["meknes-volubilis", "chefchaouen", "rabat", "marrakech"],
+  "relatedArticles": ["food-primer", "unesco-worth-planning-around"]
+}

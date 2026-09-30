@@ -1,0 +1,299 @@
+{
+  "slug": "malbork",
+  "name": "Malbork Castle",
+  "shortName": "Malbork",
+  "country": "poland",
+  "region": "Pomerania, northern Poland",
+  "categories": ["historic", "unesco", "archaeological"],
+  "tagline": "The largest brick castle in the world, the fortress-monastery of the Teutonic Knights, rising above the Nogat river.",
+  "highlight": "The red-brick castle reflected in the Nogat river at sunset, seen from the far bank.",
+  "shortDescription": "A UNESCO-listed Teutonic castle of red brick, the largest castle in the world by land area, with three sections, a Grand Master's palace, museums and an easy day trip from Gdańsk.",
+  "metaDescription": "A Malbork Castle travel guide: the Teutonic Order's fortress, the High Castle, Grand Master's Palace, audio guides and museums, how to get there from Gdańsk, tickets and a half-day plan.",
+  "suggestedStay": "Half a day",
+  "nearestAirport": "Gdańsk Lech Wałęsa (GDN), about 1 hour by train",
+  "knownFor": "The world's largest brick castle, Teutonic Knights",
+  "budget": "US$50–90 including transport",
+  "goodFor": "History, architecture, day trips",
+  "coords": { "lat": 54.0398, "lng": 19.0287 },
+  "image": {
+    "file": "File:Malbork Castle 2023 001.jpg",
+    "alt": "The red-brick Malbork Castle with its towers and walls"
+  },
+  "intro": [
+    "Malbork Castle, called Marienburg by its builders, is the largest castle in the world by land area and the biggest brick Gothic castle in Europe. The Teutonic Order, a military religious order of crusading knights, began building it in the late 13th century as a convent, and it became the capital of the Order's state in 1309. Over generations it grew into a vast complex of three castles, the High Castle, the Middle Castle and the Lower Castle, ringed by walls, moats and towers.",
+    "Malbork was the seat of the Grand Master, and its interiors include a Gothic chapel, a refectory with a delicate palm-vaulted ceiling, and the Grand Master's Palace. The castle passed to Poland in 1466, later to Prussia, and was heavily damaged in the Second World War, then painstakingly restored. It was listed by UNESCO in 1997.",
+    "A visit involves a lot of walking, and an audio guide is included with tickets. It takes about three to four hours, and the castle is best combined with Gdańsk, 60 km away, by train in under an hour. Summer evenings sometimes bring a light and sound show."
+  ],
+  "whyVisit": {
+    "intro": "Malbork is a huge, atmospheric fortress and an easy day trip from the coast.",
+    "points": [
+      {
+        "title": "The world's largest brick castle",
+        "text": "Three castles in one."
+      },
+      {
+        "title": "Teutonic history",
+        "text": "The crusading knights' capital."
+      },
+      {
+        "title": "Gothic interiors",
+        "text": "Chapel, refectory and palace."
+      },
+      {
+        "title": "A UNESCO site",
+        "text": "Listed in 1997."
+      },
+      {
+        "title": "Easy from Gdańsk",
+        "text": "One hour by train."
+      }
+    ]
+  },
+  "attractionsIntro": "The castle is the attraction, with a few extra museums.",
+  "attractions": [
+    {
+      "name": "The High Castle",
+      "image": {
+        "file": "File:Malbork Castle 2023 115.jpg",
+        "alt": "The High Castle of Malbork with its brick walls and courtyard"
+      },
+      "text": "The original convent, with a courtyard, chapter house, Gothic chapel and refectory.",
+      "tip": "Allow two hours."
+    },
+    {
+      "name": "Panoramic view from across the Nogat",
+      "image": {
+        "file": "File:Panorama of Malbork Castle, part 4.jpg",
+        "alt": "A wide panorama of Malbork Castle along the Nogat river"
+      },
+      "text": "The best view of the whole castle, from the opposite riverbank.",
+      "tip": "Go at sunset."
+    },
+    {
+      "name": "The Grand Master's Palace",
+      "text": "The lavish residence of the Order's leader, in the Middle Castle, with a famous refectory.",
+      "tip": "Look up at the vaults."
+    },
+    {
+      "name": "Amber Museum",
+      "text": "A collection of Baltic amber items.",
+      "tip": "Included in some tickets."
+    },
+    {
+      "name": "Armoury and weapons",
+      "text": "Displays of medieval arms.",
+      "tip": "Good for families."
+    },
+    {
+      "name": "The Lower Castle",
+      "text": "Workshops, stables and outbuildings.",
+      "tip": "Often quiet."
+    }
+  ],
+  "thingsToDoIntro": "A visit is largely self-guided.",
+  "thingsToDo": [
+    {
+      "title": "Take the audio tour",
+      "text": "Included with tickets.",
+      "tip": "Choose a language."
+    },
+    {
+      "title": "Climb the tower",
+      "text": "For views over the Nogat.",
+      "tip": "Steep stairs."
+    },
+    {
+      "title": "Walk the riverbank",
+      "text": "For photos of the castle.",
+      "tip": "Cross the bridge."
+    },
+    {
+      "title": "Visit the light show",
+      "text": "On summer evenings.",
+      "tip": "Check dates."
+    },
+    {
+      "title": "Watch a medieval siege",
+      "text": "Re-enactments in summer.",
+      "tip": "Check the calendar."
+    },
+    {
+      "title": "Combine with Gdańsk",
+      "text": "A day trip.",
+      "tip": "Take the train."
+    }
+  ],
+  "foodIntro": "There are cafés at the castle and restaurants in the town.",
+  "foods": [
+    {
+      "name": "Castle cafeteria",
+      "text": "Soup and snacks.",
+      "whereToTry": "At the castle."
+    },
+    {
+      "name": "Pierogi",
+      "text": "Dumplings.",
+      "whereToTry": "Town restaurants."
+    },
+    {
+      "name": "Beer",
+      "text": "A medieval-style tavern.",
+      "whereToTry": "Near the castle."
+    },
+    {
+      "name": "Fish",
+      "text": "River fish.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Cakes",
+      "text": "Coffee and cake.",
+      "whereToTry": "Cafés."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most visitors visit as a day trip from Gdańsk.",
+    "areas": [
+      {
+        "name": "Gdańsk",
+        "bestFor": "A base",
+        "text": "Many hotels."
+      },
+      {
+        "name": "Malbork town",
+        "bestFor": "Early entry",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Elbląg",
+        "bestFor": "Quiet",
+        "text": "Small hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Castle ticket", "value": "US$10–20 per person" },
+      { "label": "Return train from Gdańsk", "value": "US$5–12" },
+      { "label": "Guesthouse", "value": "US$35–70 per night" },
+      { "label": "Meal", "value": "US$7–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Malbork is on the Gdańsk–Warsaw line.",
+    "options": [
+      {
+        "mode": "Train from Gdańsk",
+        "text": "About 40 to 60 minutes.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train from Warsaw",
+        "text": "About 2.5 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Tour",
+        "text": "Guided day trips from Gdańsk.",
+        "detail": "Book ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The castle is a 15-minute walk from the station.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "From the station.",
+        "detail": "Signposted."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Short.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "Inside the castle",
+        "text": "Follow the route.",
+        "detail": "Wear comfortable shoes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "The castle is open year-round, with fewer visitors in winter.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Mild."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Warm, busy."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "good",
+        "text": "Calm."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold, but quiet."
+      }
+    ],
+    "avoid": "Midsummer crowds."
+  },
+  "itinerary": {
+    "title": "A half-day at Malbork",
+    "intro": "A day trip from Gdańsk.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Malbork",
+        "summary": "A fortress.",
+        "morning": "Train from Gdańsk.",
+        "afternoon": "The castle tour and river view.",
+        "evening": "Return to Gdańsk."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Go early.",
+    "Wear comfortable shoes.",
+    "Buy tickets online.",
+    "Use the audio guide.",
+    "Allow four hours.",
+    "Bring a jacket.",
+    "See the castle from the river."
+  ],
+  "faq": [
+    {
+      "q": "How long does it take?",
+      "a": "Three to four hours."
+    },
+    {
+      "q": "Is Malbork the largest castle in the world?",
+      "a": "By land area, yes."
+    },
+    {
+      "q": "How do I get there from Gdańsk?",
+      "a": "By train in under an hour."
+    },
+    {
+      "q": "Is it a UNESCO site?",
+      "a": "Yes."
+    },
+    {
+      "q": "Who built it?",
+      "a": "The Teutonic Knights."
+    },
+    {
+      "q": "Was it damaged in the war?",
+      "a": "Yes, and it was restored."
+    }
+  ],
+  "related": ["gdansk", "torun", "warsaw"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations"]
+}
