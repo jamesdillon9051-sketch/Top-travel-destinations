@@ -1,0 +1,411 @@
+{
+  "slug": "hungary",
+  "name": "Hungary",
+  "continent": "Europe",
+  "countryCode": "HU",
+  "tagline": "Thermal baths beneath grand Habsburg boulevards, castle hills, sweet Tokaji wine, the wide plains of the puszta and a Danube capital that shines after dark.",
+  "cardDescription": "A compact Central European country of Budapest's baths and bridges, wine regions, the great Lake Balaton and a proud, distinctive culture, at very fair prices.",
+  "metaDescription": "A complete Hungary travel guide: the 10 best places to visit, Budapest, the Danube Bend, Eger, Lake Balaton, Tokaj and Pécs, food, thermal baths, when to go, transport and a two-week itinerary.",
+  "image": {
+    "file": "File:View of Buda Castle from Chain Bridge, 2006 (01).jpg",
+    "alt": "Buda Castle above the Danube seen from the Széchenyi Chain Bridge"
+  },
+  "destinations": [
+    "budapest",
+    "danube-bend",
+    "eger",
+    "lake-balaton",
+    "tokaj",
+    "pecs",
+    "hortobagy",
+    "sopron",
+    "szeged",
+    "holloko"
+  ],
+  "intro": [
+    "Hungary lies in the Carpathian Basin in the heart of Europe, a landlocked country of about 9.5 million people, roughly the size of Portugal. Its language, Hungarian, is unrelated to its Slavic, Germanic and Romance neighbours, and its culture is distinctive, shaped by the Magyars who arrived in the 9th century, by Ottoman rule, by the Habsburg empire and by the Soviet era. It has been an EU member since 2004.",
+    "Most visitors come for Budapest, which is one of the great capitals of Europe. It has thermal baths fed by hot springs, a hilltop castle and grand boulevards, and a dining and nightlife scene that includes the famous ruin bars. But beyond the capital, Hungary has medieval towns, baroque wine regions, the biggest lake in Central Europe, folk traditions on the puszta plains and a thousand years of history.",
+    "It is also excellent value, with train and bus links that reach nearly everywhere, comfortable hotels, and food and wine that cost far less than in Austria next door. English is widely spoken by younger people in Budapest, and less so in the countryside. The best months are April to June and September to October."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Budapest is the essential; the Danube Bend, Eger and Lake Balaton add variety, and the others reward those with more time.",
+  "thingsToDoIntro": "The experiences that recur across the country and make a Hungarian trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Soak in a thermal bath",
+      "text": "Hungary sits on hot springs, and its baths are part of daily life, from the palatial Széchenyi in Budapest to small spa towns. See [[budapest|Budapest]].",
+      "tip": "Bring flip-flops, a towel and a swimsuit, or rent them."
+    },
+    {
+      "title": "Cruise the Danube",
+      "text": "The river passes Parliament and Buda Castle, and reaches the Danube Bend. See [[budapest|Budapest]] and [[danube-bend|the Danube Bend]].",
+      "tip": "Go at night for the lit-up views."
+    },
+    {
+      "title": "Drink in a ruin bar",
+      "text": "Budapest's bars in derelict buildings are eclectic and lively. See [[budapest|Budapest]].",
+      "tip": "Go on weekday evenings for elbow room."
+    },
+    {
+      "title": "Taste Tokaji wine",
+      "text": "The sweet Tokaji Aszú has been called the wine of kings. See [[tokaj|Tokaj]].",
+      "tip": "Book a cellar tour."
+    },
+    {
+      "title": "Ride on the puszta",
+      "text": "The great plains have horsemen, cattle and traditional farms. See [[hortobagy|Hortobágy]].",
+      "tip": "Go in summer for the horse shows."
+    },
+    {
+      "title": "Relax at Lake Balaton",
+      "text": "Central Europe's largest lake has beaches, vineyards and a lively summer season. See [[lake-balaton|Lake Balaton]].",
+      "tip": "Visit in June or September to avoid crowds."
+    },
+    {
+      "title": "Wander a medieval castle town",
+      "text": "Eger, Sopron and Visegrád have castles and walls. See [[eger|Eger]] and [[sopron|Sopron]].",
+      "tip": "Combine with a wine tasting."
+    }
+  ],
+  "foodIntro": "Hungarian food is rich and paprika-red, with stews, dumplings, sausages and pastries, plus some of Europe's most underrated wines.",
+  "foods": [
+    {
+      "name": "Goulash",
+      "image": {
+        "file": "File:Goulash in Budapest.jpg",
+        "alt": "A bowl of Hungarian goulash soup with beef and vegetables"
+      },
+      "text": "A paprika-spiced soup or stew of beef, potatoes and vegetables, traditionally cooked in a cauldron by herdsmen.",
+      "whereToTry": "Restaurants across [[budapest|Budapest]] and [[hortobagy|the puszta]]."
+    },
+    {
+      "name": "Lángos",
+      "image": {
+        "file": "File:Hungarian Lángos.jpg",
+        "alt": "A deep-fried lángos topped with sour cream and cheese"
+      },
+      "text": "Deep-fried flatbread topped with sour cream, garlic and cheese, a favourite street snack at markets and by Lake Balaton.",
+      "whereToTry": "Markets, beaches and food stalls."
+    },
+    {
+      "name": "Kürtőskalács",
+      "image": {
+        "file": "File:Kürtőskalács.jpg",
+        "alt": "A chimney cake rolled in sugar and baked over coals"
+      },
+      "text": "A sweet spiral cake baked over coals, rolled in sugar and cinnamon, and sold hot at fairs and in Budapest.",
+      "whereToTry": "Christmas markets and street stalls."
+    },
+    {
+      "name": "Dobos torte",
+      "image": {
+        "file": "File:Dobos torte.jpg",
+        "alt": "A slice of Dobos torte with layers of sponge and chocolate cream"
+      },
+      "text": "A layered sponge cake with chocolate buttercream and a caramel top, created in Budapest in 1885.",
+      "whereToTry": "Historic cafés such as Gerbeaud in [[budapest|Budapest]]."
+    },
+    {
+      "name": "Tokaji Aszú",
+      "image": {
+        "file": "File:Tokaji Aszu 5 puttonyos.jpg",
+        "alt": "A bottle of Tokaji Aszú sweet wine"
+      },
+      "text": "A sweet wine from grapes affected by noble rot, with honeyed and apricot flavours, produced in the Tokaj region.",
+      "whereToTry": "Cellars in [[tokaj|Tokaj]]."
+    },
+    {
+      "name": "Halászlé",
+      "text": "A hot, red fish soup with paprika, made with carp or catfish, a Danube and Tisza speciality.",
+      "whereToTry": "Riverside restaurants in [[szeged|Szeged]] and along the Danube."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Hungary is easy and safe, though language, currency and a few local scams are worth knowing.",
+  "practical": {
+    "capital": "Budapest",
+    "language": "Hungarian (Magyar), unrelated to most European languages. English is widely spoken in Budapest and tourist areas, German is common in the west, and English is limited in rural areas.",
+    "currency": "Hungarian forint (HUF, Ft). Roughly 330–400 forints to the US dollar in recent years. Hungary is in the EU but not the eurozone, and some tourist places quote euro prices at poor rates.",
+    "money": "Cards are accepted almost everywhere in cities, and contactless payment is common. Use bank ATMs (OTP, K&H), decline dynamic currency conversion, and beware of currency exchange booths with poor rates. Carry some forints for markets and small towns.",
+    "visa": "Hungary is in the EU and the Schengen Area. Many nationalities, including the United Kingdom, United States, Canada and Australia, can stay up to 90 days in any 180 without a visa. The EU's ETIAS authorisation has been planned, so check current rules.",
+    "plugs": "Type C and F (two round pins), 230 V, 50 Hz. UK and US visitors need an adaptor.",
+    "emergency": "112 for all emergencies.",
+    "tipping": "About 10–15% in restaurants if a service charge is not already included. Check the bill, since many places add it.",
+    "safety": "Hungary is generally safe. Watch for pickpockets in Budapest's tourist areas and on public transport, and be wary of overpricing scams in some nightlife venues and unlicensed taxis. Use licensed taxis or apps such as Bolt and Főtaxi.",
+    "connectivity": "Very good. EU roaming applies to EU SIMs, and prepaid SIMs and eSIMs are cheap. Free Wi-Fi is common in cafés.",
+    "timeZone": "Central European Time, UTC+1, and UTC+2 in summer.",
+    "budget": [
+      { "label": "Backpacker", "value": "US$40–70 per day — hostels, street food, trains" },
+      { "label": "Mid-range", "value": "US$90–160 per day — hotels, restaurant meals, baths" },
+      { "label": "Comfortable", "value": "US$180–300 per day — boutique hotels, guided tours" },
+      { "label": "Luxury", "value": "US$400+ per day — five-star hotels, private guides" }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "Hungary has a continental climate, with hot summers, cold winters, and pleasant springs and autumns.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Mild, green and less crowded, with blossom and outdoor terraces opening."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Hot, sometimes over 35°C. Lake Balaton is at its liveliest, and festivals fill Budapest."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Warm days, grape harvests and golden leaves, with lower prices."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold and grey, but Christmas markets and steaming outdoor baths are magical."
+      }
+    ],
+    "avoid": "July and August heatwaves in cities, and January and February for long sightseeing."
+  },
+  "tripDuration": {
+    "headline": "7–12 days for a first trip",
+    "summary": "Hungary is small, and Budapest is the focus. A week covers the capital with a couple of day trips, and two weeks allows a loop through wine country and the south.",
+    "options": [
+      {
+        "length": "3–4 days",
+        "text": "Budapest with a day on the Danube Bend.",
+        "detail": "A city break."
+      },
+      {
+        "length": "7–8 days",
+        "text": "Budapest, the Danube Bend and Eger.",
+        "detail": "A good short trip."
+      },
+      {
+        "length": "12–14 days",
+        "text": "The itinerary on this page: Budapest, Eger, Tokaj, Hortobágy, Szeged, Pécs, Balaton and Sopron.",
+        "detail": "Our recommendation."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Adds Hollókő, more of Balaton and neighbouring countries.",
+        "detail": "For slow travel."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Trains and buses are cheap and cover the country. Budapest is the hub, and most journeys radiate from it.",
+    "options": [
+      {
+        "mode": "Trains (MÁV)",
+        "text": "InterCity trains link Budapest with Eger, Szeged, Pécs and Sopron in two to three hours. Book on the MÁV app.",
+        "detail": "Cheap, though slower than in Western Europe."
+      },
+      {
+        "mode": "Buses (Volánbusz)",
+        "text": "Serve smaller towns and Lake Balaton.",
+        "detail": "Book online."
+      },
+      {
+        "mode": "Budapest public transport",
+        "text": "Metro, trams and buses, with a 24- or 72-hour travel card.",
+        "detail": "Validate your ticket before boarding."
+      },
+      {
+        "mode": "Taxis and ride-hailing",
+        "text": "Use Bolt or Főtaxi, and avoid street taxis.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Hire cars",
+        "text": "Useful for Tokaj, Hortobágy and Hollókő. Motorways need an e-vignette, and the alcohol limit is zero.",
+        "detail": "Buy the vignette online."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Hungary",
+    "intro": "Budapest, the Danube Bend, Eger, Tokaj, the puszta, Szeged, Pécs, Balaton and Sopron. Covers nine of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Budapest",
+        "morning": "Land and check in.",
+        "afternoon": "Buda Castle and Fisherman's Bastion.",
+        "evening": "Danube cruise."
+      },
+      {
+        "day": 2,
+        "title": "Budapest",
+        "morning": "Parliament and St. Stephen's Basilica.",
+        "afternoon": "Great Market Hall.",
+        "evening": "Ruin bars."
+      },
+      {
+        "day": 3,
+        "title": "Baths and Pest",
+        "morning": "Széchenyi thermal bath.",
+        "afternoon": "Heroes' Square and City Park.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 4,
+        "title": "The Danube Bend",
+        "morning": "Train to Szentendre.",
+        "afternoon": "Visegrád and Esztergom.",
+        "evening": "Return to Budapest."
+      },
+      {
+        "day": 5,
+        "title": "To Eger",
+        "morning": "Train to Eger.",
+        "afternoon": "Eger Castle.",
+        "evening": "Wine in the Valley of the Beautiful Women."
+      },
+      {
+        "day": 6,
+        "title": "Tokaj",
+        "morning": "Bus toward Tokaj.",
+        "afternoon": "Cellar tour.",
+        "evening": "Aszú dinner."
+      },
+      {
+        "day": 7,
+        "title": "Hortobágy",
+        "morning": "Drive to Hortobágy.",
+        "afternoon": "The Nine-Hole Bridge and horses.",
+        "evening": "Goulash dinner."
+      },
+      {
+        "day": 8,
+        "title": "Szeged",
+        "morning": "Train to Szeged.",
+        "afternoon": "The Votive Church and Reök Palace.",
+        "evening": "Halászlé."
+      },
+      {
+        "day": 9,
+        "title": "To Pécs",
+        "morning": "Train to Pécs.",
+        "afternoon": "Széchenyi Square and the Mosque-Church.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 10,
+        "title": "Pécs",
+        "morning": "The Cathedral and the Zsolnay Quarter.",
+        "afternoon": "Villány wine.",
+        "evening": "Free evening."
+      },
+      {
+        "day": 11,
+        "title": "Lake Balaton",
+        "morning": "Bus to Balaton.",
+        "afternoon": "Tihany Abbey.",
+        "evening": "Lakeside dinner."
+      },
+      {
+        "day": 12,
+        "title": "Balaton",
+        "morning": "Badacsony vineyards.",
+        "afternoon": "Swim or ferry.",
+        "evening": "Sunset."
+      },
+      {
+        "day": 13,
+        "title": "Sopron",
+        "morning": "Travel to Sopron.",
+        "afternoon": "The Fire Tower and the old town.",
+        "evening": "Local wine."
+      },
+      {
+        "day": 14,
+        "title": "Departure",
+        "morning": "Train to Budapest.",
+        "afternoon": "Fly home.",
+        "evening": "Home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Hungarians are proud, direct and hospitable, with a strong sense of history and a dry sense of humour. Family meals and toasts matter, and formal manners are appreciated in first meetings.",
+    "etiquette": [
+      {
+        "title": "Greet with a handshake",
+        "text": "Shake hands with everyone, including at the start and end of meetings."
+      },
+      {
+        "title": "Avoid clinking beer glasses",
+        "text": "By tradition, Hungarians do not clink beer glasses, a custom linked to the 1849 revolution, though wine and spirits are fine."
+      },
+      {
+        "title": "Use formal address",
+        "text": "Use titles and formal speech with strangers and elders."
+      },
+      {
+        "title": "Bring a gift",
+        "text": "Flowers or wine if invited home."
+      },
+      {
+        "title": "Remove your shoes",
+        "text": "In homes, guests are often offered slippers."
+      },
+      {
+        "title": "Respect baths etiquette",
+        "text": "Shower before entering pools, and wear swim caps where required."
+      }
+    ],
+    "dos": [
+      "Learn a few words: köszönöm (thank you), szia (hi), egészségedre (cheers)",
+      "Take a swim cap or rent one at some baths",
+      "Try pálinka, the local fruit brandy",
+      "Validate transit tickets",
+      "Book popular baths and restaurants",
+      "Check the service charge on bills"
+    ],
+    "donts": [
+      "Don't clink beer glasses",
+      "Don't use unlicensed taxis",
+      "Don't exchange money on the street",
+      "Don't drink and drive, since the limit is zero",
+      "Don't compare Hungary to its neighbours",
+      "Don't assume everyone speaks English"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Hungary, several of which are specific to how the country works.",
+  "tips": [
+    "Use Bolt or Főtaxi instead of hailing taxis.",
+    "Decline currency conversion on card machines, and pay in forints.",
+    "Validate metro and tram tickets before boarding.",
+    "Book Széchenyi Baths and the Parliament tour in advance.",
+    "Check the service charge before adding a tip.",
+    "Buy an e-vignette before driving on motorways.",
+    "Bring cash for small towns and markets.",
+    "Watch for pickpockets on trams and in Váci Street."
+  ],
+  "faq": [
+    {
+      "q": "Is Hungary safe for tourists?",
+      "a": "Yes, generally very safe. Watch for pickpockets and overpricing in tourist bars."
+    },
+    {
+      "q": "How many days do you need in Hungary?",
+      "a": "Three to four days for Budapest, and ten to fourteen for a wider trip."
+    },
+    {
+      "q": "Is Hungary cheap?",
+      "a": "Yes, compared with Western Europe, and Budapest is very good value."
+    },
+    {
+      "q": "What is the best time to visit Hungary?",
+      "a": "April to June and September to October."
+    },
+    {
+      "q": "Do I need a visa for Hungary?",
+      "a": "Many nationalities can visit visa-free for 90 days under Schengen rules. Check current rules, including ETIAS."
+    },
+    {
+      "q": "Can I use euros in Hungary?",
+      "a": "Some places accept euros but at poor rates. Use forints."
+    }
+  ]
+}

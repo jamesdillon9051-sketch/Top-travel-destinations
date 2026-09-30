@@ -1,0 +1,310 @@
+{
+  "slug": "eger",
+  "name": "Eger",
+  "country": "hungary",
+  "region": "Heves, northern Hungary",
+  "categories": ["historic", "food-and-wine", "cultural"],
+  "tagline": "A baroque wine town under a hilltop castle that held out against the Ottomans, with a minaret, thermal baths and the Valley of the Beautiful Women.",
+  "highlight": "Tasting Bull's Blood red wine in a cellar carved into the hillside of the Valley of the Beautiful Women.",
+  "shortDescription": "A baroque town with a 16th-century castle, Europe's northernmost minaret, thermal baths and family cellars in the Szépasszony-völgy, home of Egri Bikavér, Bull's Blood wine.",
+  "metaDescription": "An Eger travel guide: Eger Castle, the minaret, Valley of the Beautiful Women wine cellars, Bull's Blood, thermal baths, Bükk hills, how to get there from Budapest and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Budapest Ferenc Liszt (BUD), about 2 hours by road or train",
+  "knownFor": "Bull's Blood wine, castle, baroque old town",
+  "budget": "US$70–130 per day, mid-range",
+  "goodFor": "Wine lovers, history, relaxed travel",
+  "coords": { "lat": 47.9025, "lng": 20.3772 },
+  "image": {
+    "file": "File:Castle of Eger promenade.jpg",
+    "alt": "The walls of Eger Castle above the town"
+  },
+  "intro": [
+    "Eger is a small city of about 55,000 people in the foothills of the Bükk mountains, known for baroque architecture, wine and a heroic story. In 1552, a garrison of about 2,000 defenders under István Dobó held Eger Castle against an Ottoman army of many times that size, a victory celebrated in Géza Gárdonyi's novel Eclipse of the Crescent Moon. Later the Ottomans took the town in 1596 and ruled it for about 90 years, leaving a minaret behind.",
+    "Today the town is a charming baroque centre of yellow and pink buildings, with a large cathedral, a pedestrian main street and the castle on a hill, where you can walk the walls and explore tunnels. The 40-metre minaret is the northernmost in Europe from the Ottoman period. Nearby, thermal baths at Eger and Egerszalók offer relaxation.",
+    "The wine is the other draw. Eger is the home of Egri Bikavér, or Bull's Blood, a red blend with a legendary name, and in the Valley of the Beautiful Women, a hollow on the edge of town, dozens of family cellars serve wine straight from the barrel. Two days is a good stay."
+  ],
+  "whyVisit": {
+    "intro": "Eger mixes history, wine and a relaxed baroque setting.",
+    "points": [
+      {
+        "title": "A heroic castle",
+        "text": "Held off an Ottoman army in 1552."
+      },
+      {
+        "title": "Bull's Blood wine",
+        "text": "Tasted in family cellars."
+      },
+      {
+        "title": "A baroque centre",
+        "text": "Coloured buildings and churches."
+      },
+      {
+        "title": "An Ottoman minaret",
+        "text": "A relic of the occupation."
+      },
+      {
+        "title": "Thermal baths",
+        "text": "Hot springs nearby."
+      }
+    ]
+  },
+  "attractionsIntro": "The town is compact, and the wine valley is a short walk.",
+  "attractions": [
+    {
+      "name": "Eger Castle",
+      "image": {
+        "file": "File:Eger castle - ruins of the romanesque basilica.JPG",
+        "alt": "The ruins of the Romanesque basilica inside Eger Castle"
+      },
+      "text": "A fortress on a hill with walls, bastions, tunnels and museums that tell the story of the 1552 siege.",
+      "tip": "Allow two hours."
+    },
+    {
+      "name": "The Minaret",
+      "image": {
+        "file": "File:Hungary Eger minaret.jpg",
+        "alt": "The tall stone minaret in Eger"
+      },
+      "text": "A 40-metre minaret from the Ottoman occupation, which you can climb for views over the town.",
+      "tip": "The stairs are narrow."
+    },
+    {
+      "name": "Valley of the Beautiful Women",
+      "image": {
+        "file": "File:IMG 0417 - Hungary - Valley of Beautiful Women (Szépasszonyvölgy).JPG",
+        "alt": "Wine cellar doors in the Valley of the Beautiful Women in Eger"
+      },
+      "text": "A valley of small cellars dug into the hillside, where families pour their own wines by the glass.",
+      "tip": "Go in the evening."
+    },
+    {
+      "name": "Eger Basilica",
+      "text": "A huge neoclassical cathedral, one of Hungary's largest.",
+      "tip": "Free."
+    },
+    {
+      "name": "Dobó Square",
+      "text": "The baroque main square with a statue of the castle's hero.",
+      "tip": "Café stop."
+    },
+    {
+      "name": "Bükk National Park",
+      "text": "Hills and caves nearby.",
+      "tip": "Hire a car."
+    }
+  ],
+  "thingsToDoIntro": "Eger is about wine and walking.",
+  "thingsToDo": [
+    {
+      "title": "Taste wine in the valley",
+      "text": "Visit multiple cellars.",
+      "tip": "Bring cash."
+    },
+    {
+      "title": "Walk the castle walls",
+      "text": "See the bastions.",
+      "tip": "Go in the morning."
+    },
+    {
+      "title": "Climb the minaret",
+      "text": "For views.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Relax in a thermal bath",
+      "text": "Warm pools.",
+      "tip": "Bring a towel."
+    },
+    {
+      "title": "Attend a wine festival",
+      "text": "In autumn.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Hike in Bükk",
+      "text": "Forest trails.",
+      "tip": "Bring water."
+    }
+  ],
+  "foodIntro": "Eger food is rich and goes with red wine.",
+  "foods": [
+    {
+      "name": "Egri Bikavér (Bull's Blood)",
+      "text": "A red blend of local grapes.",
+      "whereToTry": "Cellars."
+    },
+    {
+      "name": "Gulyás and stews",
+      "text": "Hearty meals.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Lángos",
+      "text": "Fried flatbread.",
+      "whereToTry": "Stalls."
+    },
+    {
+      "name": "Stuffed pancakes",
+      "text": "Hortobágyi palacsinta.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Pálinka",
+      "text": "Fruit brandy.",
+      "whereToTry": "Bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the old town.",
+    "areas": [
+      {
+        "name": "Old town",
+        "bestFor": "Atmosphere",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Near the valley",
+        "bestFor": "Wine",
+        "text": "Small hotels."
+      },
+      {
+        "name": "Egerszalók",
+        "bestFor": "Thermal baths",
+        "text": "Spa hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$35–70 per night" },
+      { "label": "Mid-range hotel", "value": "US$70–130 per night" },
+      { "label": "Wine tasting", "value": "US$5–15 per person" },
+      { "label": "Meal", "value": "US$8–18 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Eger is about 130 km from Budapest.",
+    "options": [
+      {
+        "mode": "Train from Budapest",
+        "text": "About 2 to 2.5 hours from Keleti.",
+        "detail": "Direct trains run."
+      },
+      {
+        "mode": "Bus",
+        "text": "About 2 hours from Népliget.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Car",
+        "text": "About 1.5 hours on the M3.",
+        "detail": "E-vignette required."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Eger is walkable.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The old town and valley.",
+        "detail": "Comfortable shoes."
+      },
+      {
+        "mode": "Tourist train",
+        "text": "To the valley.",
+        "detail": "Check."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Cheap.",
+        "detail": "Use an app."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–October",
+    "summary": "Eger has a continental climate.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Mild."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Warm, festival season."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Harvest time."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold, cellars stay open."
+      }
+    ],
+    "avoid": "Summer heat."
+  },
+  "itinerary": {
+    "title": "Two days in Eger",
+    "intro": "The castle and the wine.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The old town",
+        "summary": "History.",
+        "morning": "Eger Castle.",
+        "afternoon": "The minaret and basilica.",
+        "evening": "Dobó Square dinner."
+      },
+      {
+        "day": 2,
+        "title": "Wine",
+        "summary": "Cellars.",
+        "morning": "Thermal bath.",
+        "afternoon": "Valley of the Beautiful Women.",
+        "evening": "Return."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Bring cash for cellars.",
+    "Pace your tasting.",
+    "Go early to the castle.",
+    "Book a spa.",
+    "Check bus times.",
+    "Visit in autumn.",
+    "Wear comfortable shoes."
+  ],
+  "faq": [
+    {
+      "q": "How far is Eger from Budapest?",
+      "a": "About 2 hours."
+    },
+    {
+      "q": "What is Bull's Blood?",
+      "a": "A red blend, Egri Bikavér."
+    },
+    {
+      "q": "Is Eger worth a night?",
+      "a": "Yes."
+    },
+    {
+      "q": "Can I visit as a day trip?",
+      "a": "Yes."
+    },
+    {
+      "q": "What is the minaret?",
+      "a": "An Ottoman relic."
+    },
+    {
+      "q": "When is the best time?",
+      "a": "May to October."
+    }
+  ],
+  "related": ["tokaj", "budapest", "holloko"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

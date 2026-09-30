@@ -1,0 +1,310 @@
+{
+  "slug": "tokaj",
+  "name": "Tokaj",
+  "country": "hungary",
+  "region": "Borsod-Abaúj-Zemplén, north-east Hungary",
+  "categories": ["food-and-wine", "unesco", "scenic", "off-the-beaten-path"],
+  "tagline": "The wine of kings and the king of wines, a cultural landscape of volcanic vineyards, cellars and river confluences in the far north-east.",
+  "highlight": "Tasting a glass of amber Tokaji Aszú in a centuries-old cellar cut into volcanic rock.",
+  "shortDescription": "A UNESCO-listed wine region and small town at the meeting of two rivers, with cellars, vineyard villages, sweet Aszú wine and dry Furmint.",
+  "metaDescription": "A Tokaj travel guide: Tokaji Aszú and Furmint wine, cellar tours, the UNESCO wine region, Tokaj town, Tarcal and Mád, Rákóczi cellar, where to stay, how to get there and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Budapest (BUD), about 3 hours; Debrecen (DEB), about 1.5 hours",
+  "knownFor": "Tokaji Aszú, Furmint, UNESCO wine landscape",
+  "budget": "US$70–130 per day, mid-range",
+  "goodFor": "Wine lovers, slow travel, cellar visits",
+  "coords": { "lat": 48.1170, "lng": 21.4120 },
+  "image": {
+    "file": "File:Tokaj varoshaza.jpg",
+    "alt": "The town hall of Tokaj on the main square"
+  },
+  "intro": [
+    "Tokaj is both a small town and a wine region, in the Hungarian foothills of the Zemplén Mountains, where the Bodrog and Tisza rivers meet. The volcanic soil, mists from the rivers and a long autumn create ideal conditions for noble rot, a fungus that shrivels the grapes and concentrates their sweetness. The result is Tokaji Aszú, a golden sweet wine that was served at royal courts across Europe, and which Louis XIV called the wine of kings, king of wines.",
+    "The region is among the oldest classified wine areas in the world, with a legal classification dating from 1737. Its cultural landscape of vineyards, cellars and villages was listed by UNESCO in 2002. Today Tokaj also makes excellent dry Furmint whites, sparkling wines and modern styles, and there is a vibrant new generation of winemakers.",
+    "The town of Tokaj is small, with a pretty main square and the historic Rákóczi cellar, more than a kilometre of tunnels in the volcanic rock. The best visits are at the villages of Tarcal, Mád and Bodrogkeresztúr, where family cellars welcome visitors. It is remote, about three hours from Budapest, and best for two days of tasting."
+  ],
+  "whyVisit": {
+    "intro": "Tokaj is one of the world's great wine regions, and quiet and welcoming.",
+    "points": [
+      {
+        "title": "Legendary sweet wine",
+        "text": "Tokaji Aszú."
+      },
+      {
+        "title": "Volcanic vineyards",
+        "text": "A UNESCO landscape."
+      },
+      {
+        "title": "Historic cellars",
+        "text": "Tunnels in the rock."
+      },
+      {
+        "title": "Modern dry wines",
+        "text": "Furmint."
+      },
+      {
+        "title": "Slow pace",
+        "text": "Villages and rivers."
+      }
+    ]
+  },
+  "attractionsIntro": "Tasting and touring cellars is the main activity.",
+  "attractions": [
+    {
+      "name": "Tokaj town",
+      "image": {
+        "file": "File:Tokaj Rakoczi pince.jpg",
+        "alt": "The entrance to the historic Rákóczi cellar in Tokaj"
+      },
+      "text": "A small town with a main square, a synagogue and the historic Rákóczi cellar, a maze of tunnels.",
+      "tip": "Book a cellar tour."
+    },
+    {
+      "name": "Where the rivers meet",
+      "image": {
+        "file": "File:A Tisza Tokajnál.jpg",
+        "alt": "The Tisza river near Tokaj"
+      },
+      "text": "The confluence of the Bodrog and Tisza rivers, with riverside walks.",
+      "tip": "Go at sunset."
+    },
+    {
+      "name": "Mád",
+      "text": "A wine village with a synagogue and many family wineries.",
+      "tip": "Book tastings."
+    },
+    {
+      "name": "Tarcal and Tokaj Hill",
+      "text": "A volcanic hill with vineyards and views.",
+      "tip": "Climb for the view."
+    },
+    {
+      "name": "Sárospatak Castle",
+      "text": "A Renaissance castle north of Tokaj.",
+      "tip": "A short drive."
+    },
+    {
+      "name": "Wine museums",
+      "text": "Museums about the region's history.",
+      "tip": "On rainy days."
+    }
+  ],
+  "thingsToDoIntro": "Tokaj is about tasting.",
+  "thingsToDo": [
+    {
+      "title": "Taste Aszú",
+      "text": "Sweet wines at cellars.",
+      "tip": "Learn about puttonyos."
+    },
+    {
+      "title": "Try dry Furmint",
+      "text": "A modern highlight.",
+      "tip": "Pair with food."
+    },
+    {
+      "title": "Tour a cellar",
+      "text": "See the tunnels.",
+      "tip": "Bring a jacket."
+    },
+    {
+      "title": "Cycle the vineyards",
+      "text": "Rent a bike.",
+      "tip": "Go in spring."
+    },
+    {
+      "title": "Visit at harvest",
+      "text": "Join the autumn events.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Take a river cruise",
+      "text": "On the Bodrog.",
+      "tip": "Summer."
+    }
+  ],
+  "foodIntro": "Tokaj food is simple and paired with wine.",
+  "foods": [
+    {
+      "name": "Tokaji Aszú",
+      "text": "Sweet wine with honey and apricot notes.",
+      "whereToTry": "Cellars.",
+      "image": {
+        "file": "File:Tokaji Aszu 5 puttonyos.jpg",
+        "alt": "A bottle of Tokaji Aszú, five puttonyos"
+      }
+    },
+    {
+      "name": "Furmint",
+      "text": "A dry white wine.",
+      "whereToTry": "Wine bars."
+    },
+    {
+      "name": "Goose liver and duck",
+      "text": "Paired with Aszú.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "River fish",
+      "text": "From the Tisza.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Stuffed cabbage",
+      "text": "Töltött káposzta.",
+      "whereToTry": "Local restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Tokaj or a wine village.",
+    "areas": [
+      {
+        "name": "Tokaj town",
+        "bestFor": "Convenience",
+        "text": "Hotels."
+      },
+      {
+        "name": "Mád",
+        "bestFor": "Wine",
+        "text": "Boutique guesthouses."
+      },
+      {
+        "name": "Tarcal",
+        "bestFor": "Quiet",
+        "text": "Pensions."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$35–70 per night" },
+      { "label": "Mid-range hotel", "value": "US$70–130 per night" },
+      { "label": "Wine tasting", "value": "US$8–25 per person" },
+      { "label": "Meal", "value": "US$8–20 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Tokaj is remote.",
+    "options": [
+      {
+        "mode": "Train from Budapest",
+        "text": "About 3 to 3.5 hours from Keleti.",
+        "detail": "Direct trains."
+      },
+      {
+        "mode": "Car",
+        "text": "About 2.5 hours on the M3.",
+        "detail": "Best for villages."
+      },
+      {
+        "mode": "From Eger",
+        "text": "About 1.5 hours by road.",
+        "detail": "Combine."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car or bicycle is best.",
+    "options": [
+      {
+        "mode": "Car",
+        "text": "For villages.",
+        "detail": "Zero alcohol limit for drivers."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Rentals.",
+        "detail": "Flat and hilly."
+      },
+      {
+        "mode": "Taxi and tours",
+        "text": "For tasting days.",
+        "detail": "Book."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–October",
+    "summary": "Tokaj is best in spring and autumn.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Mild."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Warm."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Harvest."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold and quiet."
+      }
+    ],
+    "avoid": "Cold January."
+  },
+  "itinerary": {
+    "title": "Two days in Tokaj",
+    "intro": "Cellars and villages.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Tokaj town",
+        "summary": "Cellar and river.",
+        "morning": "Rákóczi cellar.",
+        "afternoon": "Riverside walk.",
+        "evening": "Aszú dinner."
+      },
+      {
+        "day": 2,
+        "title": "Villages",
+        "summary": "Wine villages.",
+        "morning": "Tarcal.",
+        "afternoon": "Mád tasting.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book tastings ahead.",
+    "Do not drive after tasting.",
+    "Bring a jacket for cellars.",
+    "Ask about puttonyos.",
+    "Visit at harvest.",
+    "Buy direct from cellars.",
+    "Combine with Eger."
+  ],
+  "faq": [
+    {
+      "q": "What is Aszú?",
+      "a": "Sweet wine from noble-rot grapes."
+    },
+    {
+      "q": "How far is Tokaj from Budapest?",
+      "a": "About 3 hours."
+    },
+    {
+      "q": "Is Tokaj a UNESCO site?",
+      "a": "Yes."
+    },
+    {
+      "q": "Do I need a car?",
+      "a": "It helps."
+    },
+    {
+      "q": "How many days?",
+      "a": "Two."
+    },
+    {
+      "q": "When is the best time?",
+      "a": "Spring or autumn."
+    }
+  ],
+  "related": ["eger", "hortobagy", "budapest"],
+  "relatedArticles": ["food-primer", "underrated-destinations"]
+}

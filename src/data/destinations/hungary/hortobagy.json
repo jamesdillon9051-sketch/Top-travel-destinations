@@ -1,0 +1,299 @@
+{
+  "slug": "hortobagy",
+  "name": "Hortobágy National Park",
+  "shortName": "Hortobágy",
+  "country": "hungary",
+  "region": "Hajdú-Bihar, Great Hungarian Plain",
+  "categories": ["national-park", "nature", "unesco", "cultural"],
+  "tagline": "The puszta, Central Europe's largest grassland, with horsemen, grey cattle, racka sheep, migrating cranes and the longest stone bridge in Hungary.",
+  "highlight": "Riding horsemen across the open puszta at sunset under a huge sky.",
+  "shortDescription": "Hungary's oldest national park and a UNESCO cultural landscape, with the Nine-Hole Bridge, horse shows, traditional herding, birdwatching and crane migration.",
+  "metaDescription": "A Hortobágy National Park travel guide: the puszta, Nine-Hole Bridge, horse shows, herdsmen, birdwatching, crane migration, gulyás, how to get there and a one-day plan.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Debrecen (DEB), about 45 minutes; Budapest (BUD), about 3 hours",
+  "knownFor": "The puszta, horsemen, birds, Nine-Hole Bridge",
+  "budget": "US$60–110 per day, mid-range",
+  "goodFor": "Nature, birdwatching, folk culture, day trips",
+  "coords": { "lat": 47.5864, "lng": 21.1500 },
+  "image": {
+    "file": "File:Puszta-Five.jpg",
+    "alt": "Horses on the open grassland of the Hortobágy puszta"
+  },
+  "intro": [
+    "The puszta is the Great Hungarian Plain, an enormous grassland stretching across eastern Hungary. Hortobágy National Park, founded in 1973, protects 800 square kilometres of it, and is Hungary's largest protected area. The landscape is flat and vast, with grasses, wetlands, fish ponds and a vast sky, and it has been shaped by centuries of grazing by cattle, horses and sheep. UNESCO lists it as a cultural landscape.",
+    "The traditional life of the puszta is still on show. Herdsmen, called csikós when they tend horses, ride in a distinctive costume of blue shirts, wide trousers and hats, and perform horse shows in which riders control teams of five horses at a gallop. Curly-horned Racka sheep and long-horned Hungarian grey cattle graze, and the stone Nine-Hole Bridge, the longest in Hungary at 167 metres, dates from 1833.",
+    "For nature lovers, the park is a major bird area. In October, tens of thousands of common cranes stop here on their migration, and visitors also see spoonbills, great bustards and many others. The park is a day trip from Debrecen or Tokaj, or a stop on a road trip east of Budapest."
+  ],
+  "whyVisit": {
+    "intro": "Hortobágy is the best place to see traditional Hungarian rural life and wide open landscapes.",
+    "points": [
+      {
+        "title": "The puszta",
+        "text": "Endless grassland."
+      },
+      {
+        "title": "Horse shows",
+        "text": "Csikós horsemen."
+      },
+      {
+        "title": "Birdwatching",
+        "text": "Cranes in autumn."
+      },
+      {
+        "title": "Nine-Hole Bridge",
+        "text": "A historic stone bridge."
+      },
+      {
+        "title": "Folk culture",
+        "text": "Traditional herding."
+      }
+    ]
+  },
+  "attractionsIntro": "The sights are in and around Hortobágy village.",
+  "attractions": [
+    {
+      "name": "Nine-Hole Bridge",
+      "image": {
+        "file": "File:Nine-holed Bridge, Hortobágy 03.JPG",
+        "alt": "The nine-arched stone bridge over the Hortobágy river"
+      },
+      "text": "A 167-metre stone bridge with nine arches, the longest in Hungary, built in 1833 on the old trade route.",
+      "tip": "Walk across."
+    },
+    {
+      "name": "The puszta",
+      "image": {
+        "file": "File:Tomsics Hortobágyi puszta.jpg",
+        "alt": "Grasslands and a well pole on the Hortobágy puszta"
+      },
+      "text": "The open grassland with traditional well poles, grazing herds and mirages on hot days.",
+      "tip": "Take a horse-cart tour."
+    },
+    {
+      "name": "Horse shows",
+      "text": "Demonstrations of csikós riding, including the five-in-hand.",
+      "tip": "Check show times."
+    },
+    {
+      "name": "Herdsmen's Museum",
+      "text": "A museum on pastoral life.",
+      "tip": "Near the bridge."
+    },
+    {
+      "name": "Hortobágy fish ponds",
+      "text": "Ponds for birdwatching.",
+      "tip": "Bring binoculars."
+    },
+    {
+      "name": "Crane migration",
+      "text": "Thousands of cranes stop in October.",
+      "tip": "Go at dusk."
+    }
+  ],
+  "thingsToDoIntro": "A visit is about the plains.",
+  "thingsToDo": [
+    {
+      "title": "Watch a horse show",
+      "text": "Skilled riders.",
+      "tip": "Best in summer."
+    },
+    {
+      "title": "Take a carriage ride",
+      "text": "Cross the puszta.",
+      "tip": "Book."
+    },
+    {
+      "title": "Watch birds",
+      "text": "Cranes and spoonbills.",
+      "tip": "Bring binoculars."
+    },
+    {
+      "title": "Visit the Wildlife Park",
+      "text": "See native animals.",
+      "tip": "Family."
+    },
+    {
+      "title": "Eat at a csárda",
+      "text": "Traditional inns.",
+      "tip": "Try the goulash."
+    },
+    {
+      "title": "Cycle",
+      "text": "Flat trails.",
+      "tip": "Take water."
+    }
+  ],
+  "foodIntro": "Puszta food is simple and hearty.",
+  "foods": [
+    {
+      "name": "Gulyás",
+      "text": "Cauldron-cooked soup.",
+      "whereToTry": "Csárda inns."
+    },
+    {
+      "name": "Hortobágyi palacsinta",
+      "text": "Meat-filled pancakes.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Bogrács stew",
+      "text": "Cooked over a fire.",
+      "whereToTry": "Inns."
+    },
+    {
+      "name": "Grey cattle beef",
+      "text": "Local beef.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Pálinka",
+      "text": "Brandy.",
+      "whereToTry": "Inns."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the village or Debrecen.",
+    "areas": [
+      {
+        "name": "Hortobágy village",
+        "bestFor": "Atmosphere",
+        "text": "Inns."
+      },
+      {
+        "name": "Debrecen",
+        "bestFor": "Services",
+        "text": "Hotels."
+      },
+      {
+        "name": "Tiszafüred",
+        "bestFor": "Lake Tisza",
+        "text": "Guesthouses."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$30–60 per night" },
+      { "label": "Mid-range hotel", "value": "US$60–110 per night" },
+      { "label": "Horse show", "value": "US$8–15 per person" },
+      { "label": "Meal", "value": "US$7–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Hortobágy is between Debrecen and Tiszafüred.",
+    "options": [
+      {
+        "mode": "Train from Debrecen",
+        "text": "About 45 minutes.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train from Budapest",
+        "text": "About 3 hours, some with a change.",
+        "detail": "Book."
+      },
+      {
+        "mode": "Car",
+        "text": "About 2.5 hours on the M3.",
+        "detail": "E-vignette."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Sights are spread out.",
+    "options": [
+      {
+        "mode": "Carriage or tour",
+        "text": "Book a puszta tour.",
+        "detail": "Seasonal."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Flat.",
+        "detail": "Rent."
+      },
+      {
+        "mode": "Car",
+        "text": "Best.",
+        "detail": "Drive carefully."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–October",
+    "summary": "The puszta is best in summer and autumn.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "good",
+        "text": "Green."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Hot, with horse shows."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Cranes."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold and empty."
+      }
+    ],
+    "avoid": "Midday summer heat."
+  },
+  "itinerary": {
+    "title": "One day in Hortobágy",
+    "intro": "Bridge, horses and birds.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The puszta",
+        "summary": "Plains.",
+        "morning": "The Nine-Hole Bridge.",
+        "afternoon": "Horse show and carriage ride.",
+        "evening": "Goulash at a csárda."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Bring sun protection.",
+    "Bring binoculars.",
+    "Check show times.",
+    "Visit in October for cranes.",
+    "Hire a guide for birds.",
+    "Wear closed shoes.",
+    "Bring water."
+  ],
+  "faq": [
+    {
+      "q": "What is the puszta?",
+      "a": "The Great Hungarian Plain."
+    },
+    {
+      "q": "When do the cranes come?",
+      "a": "October."
+    },
+    {
+      "q": "Is Hortobágy worth it?",
+      "a": "Yes for nature and culture."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "One day."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "Train from Debrecen."
+    },
+    {
+      "q": "Is it a UNESCO site?",
+      "a": "Yes."
+    }
+  ],
+  "related": ["tokaj", "szeged", "eger"],
+  "relatedArticles": ["us-national-parks-road-trip", "underrated-destinations"]
+}

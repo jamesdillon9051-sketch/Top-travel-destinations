@@ -1,0 +1,332 @@
+{
+  "slug": "sopron",
+  "name": "Sopron",
+  "country": "hungary",
+  "region": "Győr-Moson-Sopron, western Hungary",
+  "categories": [
+    "historic",
+    "cultural",
+    "food-and-wine"
+  ],
+  "tagline": "The most loyal town, a medieval walled city at the Austrian border, with a landmark Fire Tower, more listed buildings per square metre than almost anywhere, and Kékfrankos red wine.",
+  "highlight": "The view from the Fire Tower's balcony over the medieval rooftops of the old town.",
+  "shortDescription": "A well-preserved medieval town on the Austrian border, with the Fire Tower, Roman and Gothic remains, Baroque streets, Kékfrankos wine and an easy trip to Lake Fertő.",
+  "metaDescription": "A Sopron travel guide: the Fire Tower, old town streets, Storno House, Kékfrankos wine, Lake Fertő, how to get there from Budapest and Vienna, food, where to stay and a one-to-two-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Vienna (VIE), about 1 hour by road; Budapest (BUD), about 3 hours",
+  "knownFor": "Fire Tower, medieval centre, wine, Lake Fertő",
+  "budget": "US$70–120 per day, mid-range",
+  "goodFor": "History, wine, cycling, a stopover between Vienna and Budapest",
+  "coords": {
+    "lat": 47.6817,
+    "lng": 16.5845
+  },
+  "image": {
+    "file": "File:Fire Tower (Sopron, Hungary).jpg",
+    "alt": "The baroque Fire Tower rising above Sopron's old town"
+  },
+  "intro": [
+    "Sopron is a compact town in the far west of Hungary, pressed against the Austrian border, whose medieval core has survived largely intact. Its nickname, Civitas Fidelissima, the most loyal town, dates from a referendum in 1921 in which residents voted to remain in Hungary rather than join Austria. The old town, within a ring of former walls, holds more than 200 listed buildings.",
+    "The symbol of the town is the Fire Tower, a 61-metre tower built on Roman foundations, with a baroque top added in the 18th century, and a balcony that gives sweeping views over the roofs. Below it, Fő tér has Gothic and baroque buildings, including the Storno House, and the town's medieval streets are dotted with courtyards and cellars. Sopron also has a long wine tradition, especially for Kékfrankos, a spicy red grape.",
+    "Beyond the town is Lake Fertő, a shallow steppe lake shared with Austria, and a UNESCO cultural landscape, with reed beds, birds and cycling paths. Sopron is a natural stop between Vienna and Budapest, and one or two days is enough."
+  ],
+  "whyVisit": {
+    "intro": "Sopron is a quiet, atmospheric medieval town with wine and a lake nearby.",
+    "points": [
+      {
+        "title": "A medieval old town",
+        "text": "Compact and preserved."
+      },
+      {
+        "title": "The Fire Tower",
+        "text": "Views over the town."
+      },
+      {
+        "title": "Wine",
+        "text": "Kékfrankos and local whites."
+      },
+      {
+        "title": "Lake Fertő",
+        "text": "A UNESCO landscape."
+      },
+      {
+        "title": "Near Vienna",
+        "text": "One hour away."
+      }
+    ]
+  },
+  "attractionsIntro": "The old town is small and walkable.",
+  "attractions": [
+    {
+      "name": "The Fire Tower",
+      "image": {
+        "file": "File:Wieża Pożarowa, Sopron, 20220426 0934 5437.jpg",
+        "alt": "The Fire Tower of Sopron seen through an old town arch"
+      },
+      "text": "The town's symbol, a tower with a baroque cap, which you can climb for views.",
+      "tip": "Go in the morning."
+    },
+    {
+      "name": "The old town streets",
+      "image": {
+        "file": "File:Sopron, 20220426 0914 5424.jpg",
+        "alt": "A street in the old town of Sopron with historic buildings"
+      },
+      "text": "Cobbled streets lined with Gothic, Renaissance and baroque houses.",
+      "tip": "Wander the side lanes."
+    },
+    {
+      "name": "Fő tér",
+      "text": "The main square, with the Goat Church, the Storno House and a Trinity column.",
+      "tip": "See the Goat Church."
+    },
+    {
+      "name": "Lake Fertő",
+      "text": "A huge shallow steppe lake with reeds, birds and cycling trails.",
+      "tip": "Cycle to Fertőd."
+    },
+    {
+      "name": "Esterházy Palace, Fertőd",
+      "text": "A rococo palace nearby where Joseph Haydn worked.",
+      "tip": "Combine with the lake."
+    },
+    {
+      "name": "Wine cellars",
+      "text": "Wineries in the villages.",
+      "tip": "Book tastings."
+    }
+  ],
+  "thingsToDoIntro": "Sopron is for strolling and tasting.",
+  "thingsToDo": [
+    {
+      "title": "Climb the Fire Tower",
+      "text": "See the town.",
+      "tip": "Buy a ticket."
+    },
+    {
+      "title": "Walk the old town",
+      "text": "Explore side streets.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Taste Kékfrankos",
+      "text": "A local red.",
+      "tip": "Visit a cellar."
+    },
+    {
+      "title": "Cycle around Lake Fertő",
+      "text": "Flat trails.",
+      "tip": "Rent a bike."
+    },
+    {
+      "title": "Visit Fertőd",
+      "text": "The Esterházy Palace.",
+      "tip": "Go for a concert."
+    },
+    {
+      "title": "Go to the spa",
+      "text": "Relax.",
+      "tip": "Bring a swimsuit."
+    }
+  ],
+  "foodIntro": "Sopron food blends Hungarian and Austrian tastes.",
+  "foods": [
+    {
+      "name": "Kékfrankos wine",
+      "text": "Spicy red.",
+      "whereToTry": "Cellars."
+    },
+    {
+      "name": "Soproni beer",
+      "text": "Local lager.",
+      "whereToTry": "Pubs."
+    },
+    {
+      "name": "Schnitzel",
+      "text": "Austrian-style.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Poppy-seed cakes",
+      "text": "Hungarian sweets.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Goose dishes",
+      "text": "Roast goose.",
+      "whereToTry": "Restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the old town.",
+    "areas": [
+      {
+        "name": "Old town",
+        "bestFor": "Atmosphere",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Near the station",
+        "bestFor": "Transport",
+        "text": "Business hotels."
+      },
+      {
+        "name": "Fertő shore",
+        "bestFor": "Quiet",
+        "text": "Small hotels."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Guesthouse",
+        "value": "US$35–70 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$70–120 per night"
+      },
+      {
+        "label": "Wine tasting",
+        "value": "US$8–20 per person"
+      },
+      {
+        "label": "Meal",
+        "value": "US$8–18 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Sopron is on the Vienna–Budapest corridor.",
+    "options": [
+      {
+        "mode": "Train from Vienna",
+        "text": "About 1 hour.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train from Budapest",
+        "text": "About 2.5 to 3 hours.",
+        "detail": "Book."
+      },
+      {
+        "mode": "Car",
+        "text": "About 3 hours from Budapest.",
+        "detail": "E-vignette."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The old town is compact.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "All sights.",
+        "detail": "Comfortable shoes."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "For the lake.",
+        "detail": "Rent."
+      },
+      {
+        "mode": "Bus",
+        "text": "To villages.",
+        "detail": "Check."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–October",
+    "summary": "Sopron has a mild continental climate.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Mild."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Warm."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Harvest."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold."
+      }
+    ],
+    "avoid": "Grey winter days."
+  },
+  "itinerary": {
+    "title": "One to two days in Sopron",
+    "intro": "The old town and the lake.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Sopron",
+        "summary": "Old town.",
+        "morning": "The Fire Tower.",
+        "afternoon": "Wander Fő tér.",
+        "evening": "Wine tasting."
+      },
+      {
+        "day": 2,
+        "title": "Lake Fertő",
+        "summary": "Cycling.",
+        "morning": "Cycle to Fertőd.",
+        "afternoon": "The Esterházy Palace.",
+        "evening": "Depart."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Go early to the tower.",
+    "Try Kékfrankos.",
+    "Rent a bike.",
+    "Combine with Vienna.",
+    "Bring passports for Austria.",
+    "Check opening hours.",
+    "Use forints."
+  ],
+  "faq": [
+    {
+      "q": "How far is Sopron from Vienna?",
+      "a": "About one hour."
+    },
+    {
+      "q": "Is Sopron worth a stop?",
+      "a": "Yes."
+    },
+    {
+      "q": "What is it known for?",
+      "a": "The Fire Tower and medieval town."
+    },
+    {
+      "q": "What is Kékfrankos?",
+      "a": "A red grape variety."
+    },
+    {
+      "q": "How many days?",
+      "a": "One or two."
+    },
+    {
+      "q": "Can I cycle to the lake?",
+      "a": "Yes."
+    }
+  ],
+  "related": [
+    "budapest",
+    "lake-balaton",
+    "danube-bend"
+  ],
+  "relatedArticles": [
+    "europe-by-train",
+    "underrated-destinations"
+  ]
+}

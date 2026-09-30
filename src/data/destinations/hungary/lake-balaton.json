@@ -1,0 +1,314 @@
+{
+  "slug": "lake-balaton",
+  "name": "Lake Balaton",
+  "country": "hungary",
+  "region": "Transdanubia, western Hungary",
+  "categories": ["coastal", "scenic", "food-and-wine"],
+  "tagline": "Central Europe's largest lake, a shallow, warm inland sea with volcanic hills, vineyards, an abbey peninsula and a lively summer shore.",
+  "highlight": "Tihany Abbey on its peninsula above the lake at sunset, with lavender fields in July.",
+  "shortDescription": "A 77-km-long lake with the Tihany Peninsula, Badacsony's basalt hills and wine, Balatonfüred's promenade and the Festetics Palace at Keszthely, popular for swimming, sailing and wine.",
+  "metaDescription": "A Lake Balaton travel guide: Tihany Abbey, Badacsony wine and hiking, Balatonfüred promenade, Keszthely and the Festetics Palace, swimming and sailing, food, where to stay and a two-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Budapest Ferenc Liszt (BUD), about 1.5–2 hours; Hévíz-Balaton (SOB) for some flights",
+  "knownFor": "Lake swimming, Tihany, Badacsony wine, summer holidays",
+  "budget": "US$70–130 per day, mid-range",
+  "goodFor": "Families, summer holidays, wine, cycling",
+  "coords": { "lat": 46.8300, "lng": 17.7000 },
+  "image": {
+    "file": "File:Balaton Lake (Hungary) - 50527500283.jpg",
+    "alt": "Lake Balaton stretching to the horizon under a soft sky"
+  },
+  "intro": [
+    "Lake Balaton is the largest lake in Central Europe, about 77 km long and 14 km across at its widest, but only around 3 metres deep on average, so its water warms quickly in summer. It has been Hungary's favourite holiday destination for over a century, called the 'Hungarian sea', and every summer the shores fill with families, sailors and swimmers.",
+    "The two shores are different. The south shore is flat, with sandy beaches and lively resort towns such as Siófok, known for parties. The north shore is hilly and more attractive, with volcanic hills around Badacsony, vineyards, lavender fields, and historic towns. The Tihany Peninsula has a Benedictine abbey from the 11th century and views of the lake, and Balatonfüred, an elegant spa town, has a shady promenade named after the poet Rabindranath Tagore.",
+    "At the western end, Keszthely has the grand baroque Festetics Palace, and nearby Hévíz has the largest thermal lake in Europe. The region is also a wine country, producing crisp whites like Olaszrizling and Kéknyelű. Two or three days on the north shore gives the best taste, ideally in June or September."
+  ],
+  "whyVisit": {
+    "intro": "Balaton is Hungary's summer playground, with a scenic north shore and excellent wines.",
+    "points": [
+      {
+        "title": "A huge warm lake",
+        "text": "Shallow and good for swimming."
+      },
+      {
+        "title": "Tihany Abbey",
+        "text": "A landmark peninsula."
+      },
+      {
+        "title": "Volcanic wine hills",
+        "text": "Badacsony vineyards."
+      },
+      {
+        "title": "Palaces and spas",
+        "text": "Keszthely and Hévíz."
+      },
+      {
+        "title": "Cycling",
+        "text": "A path around the lake."
+      }
+    ]
+  },
+  "attractionsIntro": "The north shore has the best sights.",
+  "attractions": [
+    {
+      "name": "Tihany Abbey and Peninsula",
+      "image": {
+        "file": "File:Tihany Abbey Balaton panorama at sunset.jpg",
+        "alt": "Tihany Abbey on the peninsula above Lake Balaton at sunset"
+      },
+      "text": "A baroque abbey church on a hill, above a village of thatched cottages, with views over the lake and lavender fields in early summer.",
+      "tip": "Go in late June for lavender."
+    },
+    {
+      "name": "Badacsony",
+      "image": {
+        "file": "File:Badacsony Szigligetről.jpg",
+        "alt": "The flat-topped basalt Badacsony hill rising above Lake Balaton"
+      },
+      "text": "A basalt hill with terraced vineyards, hiking trails and wine cellars, and beautiful views of the lake.",
+      "tip": "Climb it in the morning."
+    },
+    {
+      "name": "Balatonfüred and the Tagore Promenade",
+      "image": {
+        "file": "File:Hungary, Balatonfüred, Rabindranath promenade in autumn.jpg",
+        "alt": "The tree-lined Tagore Promenade in Balatonfüred in autumn"
+      },
+      "text": "An elegant spa town with a tree-lined waterfront promenade, a heart hospital and a sailing harbour.",
+      "tip": "Stroll at sunset."
+    },
+    {
+      "name": "Festetics Palace, Keszthely",
+      "image": {
+        "file": "File:19860906102NR Keszthely Barockschloß Festetics.jpg",
+        "alt": "The baroque Festetics Palace at Keszthely"
+      },
+      "text": "A grand baroque palace with a library of 86,000 volumes, formal gardens and a museum.",
+      "tip": "Allow two hours."
+    },
+    {
+      "name": "Hévíz thermal lake",
+      "text": "Europe's largest biologically active thermal lake, warm enough to swim in year-round.",
+      "tip": "Bring water shoes."
+    },
+    {
+      "name": "Siófok",
+      "text": "The party resort town on the south shore.",
+      "tip": "Go for the beaches and nightlife."
+    }
+  ],
+  "thingsToDoIntro": "Balaton is for water, wine and cycling.",
+  "thingsToDo": [
+    {
+      "title": "Swim in the lake",
+      "text": "Warm and shallow.",
+      "tip": "Go in July or August."
+    },
+    {
+      "title": "Cycle the shore",
+      "text": "A 200-km cycle route around the lake.",
+      "tip": "Hire a bike."
+    },
+    {
+      "title": "Take a ferry",
+      "text": "From Tihany to Szántód.",
+      "tip": "A short crossing."
+    },
+    {
+      "title": "Taste wine at Badacsony",
+      "text": "Volcanic whites.",
+      "tip": "Try Kéknyelű."
+    },
+    {
+      "title": "Go sailing",
+      "text": "Boats for rent.",
+      "tip": "Book a lesson."
+    },
+    {
+      "title": "Soak in Hévíz",
+      "text": "Thermal lake.",
+      "tip": "Go in winter."
+    }
+  ],
+  "foodIntro": "Balaton's food is lake fish and wine.",
+  "foods": [
+    {
+      "name": "Fogas (pike-perch)",
+      "text": "The lake's signature fish.",
+      "whereToTry": "Lakeside restaurants."
+    },
+    {
+      "name": "Lángos",
+      "text": "Fried flatbread.",
+      "whereToTry": "Beach stalls."
+    },
+    {
+      "name": "Olaszrizling wine",
+      "text": "A crisp white.",
+      "whereToTry": "Wine cellars."
+    },
+    {
+      "name": "Lavender sweets",
+      "text": "From Tihany.",
+      "whereToTry": "Shops."
+    },
+    {
+      "name": "Ice cream",
+      "text": "A summer must.",
+      "whereToTry": "Promenades."
+    }
+  ],
+  "accommodation": {
+    "intro": "Base on the north shore.",
+    "areas": [
+      {
+        "name": "Balatonfüred",
+        "bestFor": "Elegance",
+        "text": "Spa hotels."
+      },
+      {
+        "name": "Badacsony",
+        "bestFor": "Wine",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Keszthely",
+        "bestFor": "Culture",
+        "text": "Hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse", "value": "US$40–80 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–150 per night" },
+      { "label": "Luxury spa hotel", "value": "US$160–320 per night" },
+      { "label": "Lake fish meal", "value": "US$12–25 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Balaton is 90 to 130 km from Budapest.",
+    "options": [
+      {
+        "mode": "Train from Budapest",
+        "text": "About 1.5 to 2 hours to Balatonfüred or Siófok.",
+        "detail": "Frequent in summer."
+      },
+      {
+        "mode": "Bus",
+        "text": "About 2 hours.",
+        "detail": "Book."
+      },
+      {
+        "mode": "Car",
+        "text": "About 1.5 hours on the M7.",
+        "detail": "Heavy traffic on summer weekends."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Trains, buses and ferries link the shore.",
+    "options": [
+      {
+        "mode": "Train",
+        "text": "Along both shores.",
+        "detail": "Scenic."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "A path around the lake.",
+        "detail": "Rent."
+      },
+      {
+        "mode": "Ferry",
+        "text": "Across the narrows.",
+        "detail": "Seasonal."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June and September",
+    "summary": "Balaton peaks in July and August, though these are the busiest months.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "quiet",
+        "text": "Quiet, with some facilities closed."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "Swimming and festivals."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Harvest and calm."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold, with the lake sometimes freezing."
+      }
+    ],
+    "avoid": "Weekends in peak July and August."
+  },
+  "itinerary": {
+    "title": "Two days at Lake Balaton",
+    "intro": "The peninsula and the wine hills.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Tihany and Balatonfüred",
+        "summary": "Abbey and promenade.",
+        "morning": "Tihany Abbey.",
+        "afternoon": "Balatonfüred promenade.",
+        "evening": "Fogas dinner."
+      },
+      {
+        "day": 2,
+        "title": "Badacsony",
+        "summary": "Wine.",
+        "morning": "Climb Badacsony.",
+        "afternoon": "Wine tasting.",
+        "evening": "Swim."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Visit in June or September.",
+    "Book accommodation early for July.",
+    "Bring water shoes.",
+    "Rent a bike.",
+    "Try the fish.",
+    "Avoid Siófok if you want quiet.",
+    "Check the ferry times."
+  ],
+  "faq": [
+    {
+      "q": "Is Balaton worth visiting?",
+      "a": "Yes, especially in summer."
+    },
+    {
+      "q": "Which shore is better?",
+      "a": "The north shore is more scenic."
+    },
+    {
+      "q": "Can I swim?",
+      "a": "Yes, from June to September."
+    },
+    {
+      "q": "How far from Budapest?",
+      "a": "1.5 to 2 hours."
+    },
+    {
+      "q": "What is it known for?",
+      "a": "Swimming and wine."
+    },
+    {
+      "q": "Is it deep?",
+      "a": "No, about 3 metres on average."
+    }
+  ],
+  "related": ["budapest", "pecs", "sopron"],
+  "relatedArticles": ["mediterranean-coasts", "packing-by-season"]
+}

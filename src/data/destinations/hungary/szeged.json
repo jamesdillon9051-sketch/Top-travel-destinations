@@ -1,0 +1,324 @@
+{
+  "slug": "szeged",
+  "name": "Szeged",
+  "country": "hungary",
+  "region": "Csongrád-Csanád, southern Hungary",
+  "categories": [
+    "major-city",
+    "cultural",
+    "food-and-wine"
+  ],
+  "tagline": "The sunniest city in Hungary, a university town on the Tisza with a twin-towered Votive Church, Art Nouveau facades, fish soup and paprika.",
+  "highlight": "The Votive Church's twin spires above Dóm Square, the heart of the city.",
+  "shortDescription": "A lively southern city rebuilt after a great flood in 1879, with the Votive Church, Reök Palace, riverside promenades, halászlé fish soup and Szeged paprika and salami.",
+  "metaDescription": "A Szeged travel guide: Votive Church, Reök Palace, Dóm Square, Tisza riverfront, fish soup, paprika and salami, thermal baths, how to get there from Budapest and a one-to-two-day plan.",
+  "suggestedStay": "1–2 days",
+  "nearestAirport": "Budapest Ferenc Liszt (BUD), about 2.5 hours by train",
+  "knownFor": "Sunshine, Votive Church, paprika, fish soup, students",
+  "budget": "US$70–120 per day, mid-range",
+  "goodFor": "City break, food, nightlife, architecture",
+  "coords": {
+    "lat": 46.253,
+    "lng": 20.1414
+  },
+  "image": {
+    "file": "File:Szeged Fogadalmi templom DDNy.jpg",
+    "alt": "The twin-towered Votive Church of Szeged"
+  },
+  "intro": [
+    "Szeged is the largest city in southern Hungary, with about 160,000 people, and it sits on the Tisza river near the borders with Serbia and Romania. It receives more hours of sunshine than any other Hungarian city, and it is a lively university town, with students making up a big part of the population. It is known as the City of Sunshine.",
+    "In 1879, a devastating flood destroyed most of the city. Rebuilding created a rational plan of wide boulevards and ring roads, with grand Art Nouveau and eclectic buildings, such as the colourful Reök Palace. The centrepiece is the Votive Church, a twin-towered brick cathedral built after the flood, whose 91-metre spires dominate Dóm Square, where an open-air festival of theatre and music is held each summer.",
+    "Szeged is also a food city. It is the home of halászlé, the paprika fish soup made with river carp and catfish, of Pick salami, and of one of the country's main paprika-growing areas. It makes a good stop on the way to or from Serbia, and one or two days is enough."
+  ],
+  "whyVisit": {
+    "intro": "Szeged is a bright, youthful city with excellent food.",
+    "points": [
+      {
+        "title": "A grand cathedral",
+        "text": "The Votive Church."
+      },
+      {
+        "title": "Art Nouveau streets",
+        "text": "Rebuilt after the flood."
+      },
+      {
+        "title": "Fish soup and paprika",
+        "text": "Szeged's signature foods."
+      },
+      {
+        "title": "Sunshine",
+        "text": "The sunniest Hungarian city."
+      },
+      {
+        "title": "Student energy",
+        "text": "Cafés and open-air festivals."
+      }
+    ]
+  },
+  "attractionsIntro": "The centre is compact and walkable.",
+  "attractions": [
+    {
+      "name": "Votive Church",
+      "image": {
+        "file": "File:Ceiling of the Votive Church of Szeged (16281544705).jpg",
+        "alt": "The painted interior ceiling of the Votive Church of Szeged"
+      },
+      "text": "A twin-towered church of brick, built after the 1879 flood, with a richly painted interior.",
+      "tip": "Climb the tower."
+    },
+    {
+      "name": "Reök Palace",
+      "image": {
+        "file": "File:Reök Palace, Szeged, Hungary.jpg",
+        "alt": "The colourful Art Nouveau facade of the Reök Palace in Szeged"
+      },
+      "text": "A colourful Art Nouveau building of 1907, decorated with tiles and sculptures.",
+      "tip": "Visit the gallery inside."
+    },
+    {
+      "name": "Dóm Square",
+      "text": "The main square, home of the summer open-air festival.",
+      "tip": "Visit in July."
+    },
+    {
+      "name": "Tisza riverfront",
+      "text": "Promenades along the river.",
+      "tip": "Go at sunset."
+    },
+    {
+      "name": "Szeged Great Synagogue",
+      "text": "One of the largest synagogues in Europe.",
+      "tip": "Check hours."
+    },
+    {
+      "name": "Szeged Zoo",
+      "text": "A green city zoo.",
+      "tip": "With children."
+    }
+  ],
+  "thingsToDoIntro": "Szeged is for eating and evenings.",
+  "thingsToDo": [
+    {
+      "title": "Eat halászlé",
+      "text": "Fish soup with paprika.",
+      "tip": "Try the local version."
+    },
+    {
+      "title": "Watch a summer festival",
+      "text": "Open-air theatre.",
+      "tip": "Book tickets."
+    },
+    {
+      "title": "Buy paprika and salami",
+      "text": "Shop for the spice and Pick salami.",
+      "tip": "Try the market."
+    },
+    {
+      "title": "Relax by the river",
+      "text": "Cafés and terraces.",
+      "tip": "Evenings."
+    },
+    {
+      "title": "Go to a thermal spa",
+      "text": "Local baths.",
+      "tip": "Bring a swimsuit."
+    },
+    {
+      "title": "Explore Art Nouveau",
+      "text": "Walk the centre.",
+      "tip": "Look up."
+    }
+  ],
+  "foodIntro": "Szeged is one of Hungary's great food cities.",
+  "foods": [
+    {
+      "name": "Szegedi halászlé",
+      "text": "Paprika fish soup.",
+      "whereToTry": "Riverside restaurants."
+    },
+    {
+      "name": "Pick salami",
+      "text": "Famous winter salami.",
+      "whereToTry": "Shops."
+    },
+    {
+      "name": "Paprika",
+      "text": "Ground spice.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Szegedi tarhonya",
+      "text": "Pasta pearls.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Stuffed peppers",
+      "text": "With rice and meat.",
+      "whereToTry": "Restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the centre.",
+    "areas": [
+      {
+        "name": "City centre",
+        "bestFor": "Walking",
+        "text": "Hotels."
+      },
+      {
+        "name": "Near the river",
+        "bestFor": "Views",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Near the station",
+        "bestFor": "Transport",
+        "text": "Business hotels."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel dorm",
+        "value": "US$13–24 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$55–100 per night"
+      },
+      {
+        "label": "Luxury hotel",
+        "value": "US$110–190 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$7–16 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Szeged is in the south-east.",
+    "options": [
+      {
+        "mode": "Train from Budapest",
+        "text": "About 2.5 hours from Nyugati.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bus",
+        "text": "About 3 hours.",
+        "detail": "Book."
+      },
+      {
+        "mode": "Car",
+        "text": "About 2 hours on the M5.",
+        "detail": "E-vignette."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The centre is flat.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The whole centre.",
+        "detail": "Comfortable shoes."
+      },
+      {
+        "mode": "Tram",
+        "text": "Serves the city.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Flat.",
+        "detail": "Rent."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "Szeged is hot in summer.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Mild."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Hot, with festivals."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Pleasant."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold."
+      }
+    ],
+    "avoid": "The heat of July afternoons."
+  },
+  "itinerary": {
+    "title": "One to two days in Szeged",
+    "intro": "Church, facades and fish soup.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Szeged",
+        "summary": "The centre.",
+        "morning": "The Votive Church.",
+        "afternoon": "Reök Palace and Art Nouveau walk.",
+        "evening": "Halászlé by the river."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Try halászlé.",
+    "Visit in July for the festival.",
+    "Buy paprika and salami.",
+    "Climb the church tower.",
+    "Walk the river.",
+    "Watch for sun.",
+    "Check train times."
+  ],
+  "faq": [
+    {
+      "q": "What is Szeged known for?",
+      "a": "Sunshine, fish soup and paprika."
+    },
+    {
+      "q": "How far is it from Budapest?",
+      "a": "About 2.5 hours."
+    },
+    {
+      "q": "Is it worth visiting?",
+      "a": "Yes."
+    },
+    {
+      "q": "When is the festival?",
+      "a": "In summer."
+    },
+    {
+      "q": "How many days?",
+      "a": "One or two."
+    },
+    {
+      "q": "Was it flooded?",
+      "a": "Yes, in 1879."
+    }
+  ],
+  "related": [
+    "pecs",
+    "hortobagy",
+    "budapest"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "underrated-destinations"
+  ]
+}

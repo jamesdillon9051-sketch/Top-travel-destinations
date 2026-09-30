@@ -1,0 +1,347 @@
+{
+  "slug": "budapest",
+  "name": "Budapest",
+  "country": "hungary",
+  "region": "Central Hungary, on the Danube",
+  "categories": ["capital-city", "major-city", "historic", "unesco", "food-and-wine"],
+  "tagline": "Two cities on either bank of the Danube: a hilltop castle in Buda, grand boulevards in Pest, thermal baths, ruin bars and a Parliament that glows at night.",
+  "highlight": "The Parliament building lit up on the Danube at night, seen from a river cruise or the Buda bank.",
+  "shortDescription": "Hungary's capital, with the Parliament, Buda Castle, Fisherman's Bastion, Széchenyi thermal baths, the Great Market Hall, ruin bars and Danube views.",
+  "metaDescription": "A Budapest travel guide: Parliament, Buda Castle, Fisherman's Bastion, Chain Bridge, Széchenyi and Gellért baths, the Great Market Hall, ruin bars, food, where to stay and a four-day plan.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Budapest Ferenc Liszt (BUD), about 30–40 minutes",
+  "knownFor": "Thermal baths, Danube views, ruin bars, architecture",
+  "budget": "US$90–170 per day, mid-range",
+  "goodFor": "First-timers, couples, nightlife, food, baths",
+  "coords": { "lat": 47.4979, "lng": 19.0402 },
+  "image": {
+    "file": "File:Hungarian Parliament Building 2023-9.jpg",
+    "alt": "The Hungarian Parliament Building beside the Danube"
+  },
+  "intro": [
+    "Budapest was created in 1873 from three towns, Buda, Óbuda and Pest, either side of the Danube, and it remains a city of two halves. Buda, on the west bank, is hilly and old, with the castle, the medieval Matthias Church and the Fisherman's Bastion on Castle Hill. Pest, on the east, is flat and busy, with wide boulevards, the neo-Gothic Parliament, cafés and the nightlife of the Jewish Quarter. Its riverbanks and Buda Castle Quarter are together a UNESCO World Heritage Site.",
+    "Its golden age came in the late 19th century, when Budapest was the second capital of the Austro-Hungarian Empire, and much of its grandeur dates from then: the Opera House, St. Stephen's Basilica, the Chain Bridge and the Great Market Hall. Underneath, the city sits on more than 100 thermal springs, and bathing in hot pools, from the palatial Széchenyi to the Ottoman-era Rudas, is a central experience.",
+    "By night, Budapest turns lively. The ruin bars, set in abandoned buildings in the old Jewish Quarter, started the trend in the early 2000s, and Szimpla Kert is the best known. The food scene has grown too, with modern Hungarian restaurants alongside traditional goulash and chimney cake. Three or four days is ideal, and it is a good base for day trips."
+  ],
+  "whyVisit": {
+    "intro": "Budapest is one of Europe's most beautiful and best-value capitals.",
+    "points": [
+      {
+        "title": "Grand architecture",
+        "text": "Parliament, the castle and the Opera."
+      },
+      {
+        "title": "Thermal baths",
+        "text": "Hot springs and palatial pools."
+      },
+      {
+        "title": "Danube views",
+        "text": "Bridges and the riverside at night."
+      },
+      {
+        "title": "Ruin bars and nightlife",
+        "text": "Eclectic and lively."
+      },
+      {
+        "title": "Good value",
+        "text": "Cheaper than Vienna or Prague."
+      }
+    ]
+  },
+  "attractionsIntro": "Budapest's sights are on both sides of the river, linked by bridges and trams.",
+  "attractions": [
+    {
+      "name": "Parliament Building",
+      "image": {
+        "file": "File:Danube and Hungarian Parliament Building by night.jpg",
+        "alt": "The illuminated Hungarian Parliament Building on the Danube at night"
+      },
+      "text": "A neo-Gothic riverside palace opened in 1904, with 691 rooms, the Holy Crown of Hungary and a grand staircase, visited on guided tours.",
+      "tip": "Book tours in advance."
+    },
+    {
+      "name": "Fisherman's Bastion and Matthias Church",
+      "image": {
+        "file": "File:Fisherman's Bastion 2014.jpg",
+        "alt": "The white turrets of Fisherman's Bastion above the Danube"
+      },
+      "text": "A fairy-tale terrace of white turrets with views across the Danube to Pest, beside the Gothic Matthias Church.",
+      "tip": "Go at sunrise for no queue."
+    },
+    {
+      "name": "Széchenyi Thermal Bath",
+      "image": {
+        "file": "File:Széchenyi thermal bath, Budapest 3.jpg",
+        "alt": "People bathing in the outdoor pools at Széchenyi Thermal Bath"
+      },
+      "text": "A huge neo-baroque bath complex in City Park with outdoor pools, saunas and steam rooms, open year-round.",
+      "tip": "Book tickets online."
+    },
+    {
+      "name": "Great Market Hall",
+      "image": {
+        "file": "File:Budapest - Great Market Hall (Nagyvásárcsarnok).jpg",
+        "alt": "The interior of Budapest's Great Market Hall with stalls under an iron roof"
+      },
+      "text": "A grand 1897 market hall with stalls of paprika, salami and produce, and a food court upstairs serving lángos.",
+      "tip": "Go in the morning."
+    },
+    {
+      "name": "Chain Bridge",
+      "image": {
+        "file": "File:Széchenyi Chain Bridge in Budapest at night.jpg",
+        "alt": "The Széchenyi Chain Bridge lit at night above the Danube"
+      },
+      "text": "The first permanent bridge across the Danube in Budapest, opened in 1849, and lit at night.",
+      "tip": "Walk it at dusk."
+    },
+    {
+      "name": "St. Stephen's Basilica",
+      "image": {
+        "file": "File:Dome of St. Stephen's Basilica (Budapest).jpg",
+        "alt": "The dome of St. Stephen's Basilica above the city"
+      },
+      "text": "The city's largest church, with a dome you can climb for 360-degree views.",
+      "tip": "Take the lift."
+    },
+    {
+      "name": "Szimpla Kert",
+      "image": {
+        "file": "File:Szimpla Kert Budapest 1.jpg",
+        "alt": "The eclectic courtyard of Szimpla Kert ruin bar"
+      },
+      "text": "The original ruin bar, in a former stove factory, with mismatched furniture and lively courtyards.",
+      "tip": "Visit at opening time."
+    }
+  ],
+  "thingsToDoIntro": "Budapest is for baths, boats and bars.",
+  "thingsToDo": [
+    {
+      "title": "Soak in a thermal bath",
+      "text": "Széchenyi, Gellért or Rudas.",
+      "tip": "Book a cabin."
+    },
+    {
+      "title": "Cruise the Danube",
+      "text": "A boat at night.",
+      "tip": "Choose a sunset trip."
+    },
+    {
+      "title": "Explore the Jewish Quarter",
+      "text": "Synagogues, street art and bars.",
+      "tip": "Visit the Great Synagogue."
+    },
+    {
+      "title": "Walk up Gellért Hill",
+      "text": "For the best view.",
+      "tip": "Go at sunset."
+    },
+    {
+      "title": "Ride the tram 2",
+      "text": "A scenic line beside the Danube.",
+      "tip": "Cheap."
+    },
+    {
+      "title": "Taste Hungarian wine",
+      "text": "In wine bars.",
+      "tip": "Try Furmint."
+    }
+  ],
+  "foodIntro": "Budapest's food ranges from cheap market stalls to fine dining.",
+  "foods": [
+    {
+      "name": "Goulash",
+      "text": "Paprika beef soup.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Lángos",
+      "text": "Fried flatbread.",
+      "whereToTry": "Market Hall."
+    },
+    {
+      "name": "Chimney cake",
+      "text": "A sweet spiral pastry.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Dobos torte",
+      "text": "Layered cake.",
+      "whereToTry": "Cafés."
+    },
+    {
+      "name": "Pálinka",
+      "text": "Fruit brandy.",
+      "whereToTry": "Bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Pest for convenience.",
+    "areas": [
+      {
+        "name": "Belváros and Lipótváros",
+        "bestFor": "Sightseeing",
+        "text": "Central hotels."
+      },
+      {
+        "name": "Jewish Quarter",
+        "bestFor": "Nightlife",
+        "text": "Hostels and boutiques."
+      },
+      {
+        "name": "Castle District",
+        "bestFor": "Quiet and views",
+        "text": "Small hotels."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "US$14–30 per night" },
+      { "label": "Mid-range hotel", "value": "US$80–160 per night" },
+      { "label": "Luxury hotel", "value": "US$200–450 per night" },
+      { "label": "Meal at a local restaurant", "value": "US$8–20 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Budapest has an international airport and rail links.",
+    "options": [
+      {
+        "mode": "Airport bus and train",
+        "text": "Bus 100E to the centre, about 40 minutes.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "Train from Vienna",
+        "text": "About 2.5 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train from Prague",
+        "text": "About 6.5 hours.",
+        "detail": "Book ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Transit is cheap and frequent.",
+    "options": [
+      {
+        "mode": "Metro and trams",
+        "text": "Four metro lines and many trams.",
+        "detail": "Validate your ticket."
+      },
+      {
+        "mode": "On foot",
+        "text": "The central areas.",
+        "detail": "Comfortable shoes."
+      },
+      {
+        "mode": "Bolt",
+        "text": "Ride-hailing.",
+        "detail": "Avoid street taxis."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "Budapest has hot summers and cold winters.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Mild."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Hot, with festivals."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Warm and golden."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold, with Christmas markets and steaming baths."
+      }
+    ],
+    "avoid": "The hottest July days."
+  },
+  "itinerary": {
+    "title": "Four days in Budapest",
+    "intro": "Buda, Pest, the baths and a day trip.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Buda",
+        "summary": "Castle Hill.",
+        "morning": "Fisherman's Bastion and Matthias Church.",
+        "afternoon": "Buda Castle.",
+        "evening": "Chain Bridge at dusk."
+      },
+      {
+        "day": 2,
+        "title": "Pest",
+        "summary": "Boulevards and markets.",
+        "morning": "Parliament tour.",
+        "afternoon": "St. Stephen's and the Market Hall.",
+        "evening": "Ruin bars."
+      },
+      {
+        "day": 3,
+        "title": "Baths",
+        "summary": "A soak.",
+        "morning": "Heroes' Square.",
+        "afternoon": "Széchenyi Baths.",
+        "evening": "Danube cruise."
+      },
+      {
+        "day": 4,
+        "title": "Day trip",
+        "summary": "The Danube Bend.",
+        "morning": "Train to Szentendre.",
+        "afternoon": "Visegrád or Esztergom.",
+        "evening": "Return."
+      }
+    ]
+  },
+  "tipsIntro": "A few tips help you plan.",
+  "tips": [
+    "Book Parliament and Széchenyi in advance.",
+    "Use Bolt instead of street taxis.",
+    "Validate tickets.",
+    "Decline currency conversion.",
+    "Watch for pickpockets.",
+    "Check bills for service charges.",
+    "Go to Fisherman's Bastion early."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Budapest?",
+      "a": "Three or four."
+    },
+    {
+      "q": "Which bath is best?",
+      "a": "Széchenyi is the most famous, and Gellért the most elegant."
+    },
+    {
+      "q": "Is Budapest safe?",
+      "a": "Yes, with normal precautions."
+    },
+    {
+      "q": "Is it cheap?",
+      "a": "Yes."
+    },
+    {
+      "q": "What are ruin bars?",
+      "a": "Bars in derelict buildings with eclectic decor."
+    },
+    {
+      "q": "Can I use euros?",
+      "a": "Some places accept them, but use forints."
+    }
+  ],
+  "related": ["danube-bend", "eger", "lake-balaton"],
+  "relatedArticles": ["first-trip-to-europe", "europe-by-train"]
+}
