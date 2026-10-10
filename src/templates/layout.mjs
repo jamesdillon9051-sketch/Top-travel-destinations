@@ -36,14 +36,12 @@ const AD_HEAD_SCRIPT = raw(
 );
 
 /**
- * Native Banner — Adsterra's guide places this format in the page body,
- * script and render-target <div> together as one unit. (Previously split:
- * the script sat in <head> while its <div> lived down in <body>, so the
- * script could run before its own container existed in the DOM.)
+ * Native Banner — Adsterra's snippet, verbatim: the async script followed by
+ * its render-target <div>, together as one unit in the page body.
  */
 const AD_NATIVE_BANNER = raw(
-  `<div id="container-af79caaa649003d8682ac5e1559b9f08"></div>
-<script async="async" data-cfasync="false" src="https://pl31286363.profitableratecpmnetwork.com/af79caaa649003d8682ac5e1559b9f08/invoke.js"></script>`
+  `<script async="async" data-cfasync="false" src="https://disembroildisembroildissipatespots.com/af79caaa649003d8682ac5e1559b9f08/invoke.js"></script>
+<div id="container-af79caaa649003d8682ac5e1559b9f08"></div>`
 );
 
 /** 300x250 display banner — renders via document.write at its own <script> tag, so it must stay in <body>. */
@@ -57,12 +55,12 @@ const AD_BANNER_UNIT = raw(
     'params' : {}
   };
 </script>
-<script src="https://www.highrevenueformat.com/e5e12097b37149fe8822713da3308db8/invoke.js"></script>`
+<script src="https://disembroildisembroildissipatespots.com/e5e12097b37149fe8822713da3308db8/invoke.js"></script>`
 );
 
-/** Fourth Adsterra unit, placed right before </body> exactly where its own dashboard snippet specified. */
+/** Social Bar — Adsterra's snippet places it right before </body>. */
 const AD_FOOT_SCRIPT = raw(
-  `<script src="https://pl31286362.profitableratecpmnetwork.com/a0/57/15/a0571520bc7ad1a461a91e384b0d2bd8.js"></script>`
+  `<script src="https://disembroildisembroildissipatespots.com/a0/57/15/a0571520bc7ad1a461a91e384b0d2bd8.js"></script>`
 );
 
 function header(activePath) {
