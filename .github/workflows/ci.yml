@@ -1,0 +1,44 @@
+name: CI
+
+# Main is what gets deployed, and docs/ is committed build output. This job
+# makes sure what is on main is internally consistent and deployable.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Rebuild the site
+        run: |
+          # The sitemap <lastmod> is the build date. Reuse the committed one so an
+          # up-to-date docs/ compares equal on any day.
+          export BUILD_DATE="$(grep -o -m1 '<lastmod>[^<]*' docs/sitemap.xml | head -1 | sed 's/<lastmod>//')"
+          node build.mjs
+
+      - name: Check every internal link
+        run: node scripts/check-links.mjs
+
+      - name: Check the output is deployable
+        run: node scripts/check-deploy.mjs
+
+      - name: Committed output matches a fresh build
+        run: |
+          if [ -n "$(git status --porcelain -- docs .htaccess)" ]; then
+            echo "::error::docs/ or .htaccess is out of date with src/ and content/. Run 'npm test' and commit the result."
+            git status --short -- docs .htaccess | head -20
+            exit 1
+          fi

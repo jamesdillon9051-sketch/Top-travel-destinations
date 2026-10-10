@@ -1,51 +1,44 @@
 # Travel Vault
 
-A static travel-planning site covering **France, Spain, the United States, Turkey, Italy,
-China, the United Kingdom, Germany, Japan and Greece** — ten hand-picked destinations in
-each, every one with its own full guide.
+A static travel-planning site: **ten hand-picked destinations in every country it covers**,
+each with its own full guide. Live at <https://travelvault.online>.
 
 Each destination page covers what is actually worth seeing, what to eat and where, which
 neighbourhood to sleep in, how to get around, when to go, a day-by-day itinerary, travel
 tips and an FAQ. Each country gets a structured country page listing its ten destinations
-plus a separate long-form travel guide that ties them into real trips.
+plus a separate long-form travel guide that ties them into real trips. Cross-country
+articles cover seasons, budgets and trains.
 
-## Status
-
-| Country | Destinations | Country page | Travel guide |
-| --- | --- | --- | --- |
-| France | 10 | ✅ | ✅ |
-| Spain | 10 | ✅ | ✅ |
-| United States | 10 | ✅ | ✅ |
-| Turkey | 10 | ✅ | ✅ |
-| Italy | 10 | ✅ | ✅ |
-
-Version 1 is complete: 5 countries, 50 destination pages, 5 country travel guides and 10
-cross-country articles — 75 pages in total.
+The country list lives in `src/data/countries/`. Every count shown on the site (countries,
+destinations, pages) is derived from that data at build time, so nothing needs updating by
+hand when a country is added.
 
 ## How it works
 
 A zero-dependency Node generator. Content lives as JSON in `src/data`, templates are
-plain functions returning HTML strings, and the output is static HTML written to `docs/`
-— which is what GitHub Pages serves. There is no framework, no `node_modules` and no
-build step for the reader.
+plain functions returning HTML strings, and the output is static HTML written to `docs/`.
+There is no framework, no `node_modules` and no build step for the reader.
 
 ```
-build.mjs                      load → validate → render → write docs/
+build.mjs                      load → validate → render → write docs/ (+ the .htaccess files)
 scripts/fetch-images.mjs       Wikimedia Commons → licence check → WebP → credits.json
 scripts/check-links.mjs        assert every internal link resolves to a built file
+scripts/check-deploy.mjs       pre-deploy checks: domain, sitemap, file names, .htaccess
 scripts/search-commons.mjs     authoring aid: find licence-clean image candidates
-src/lib/                       html helpers, URLs, content loading, validation, markup
+src/lib/                       html helpers, URLs, content loading, validation, markup,
+                               htaccess.mjs (the Apache/LiteSpeed config, see Deploying)
 src/templates/                 layout, partials, home, country, guide, destination,
                                article, index pages
 src/assets/                    hand-written CSS and progressive-enhancement JS
 src/data/
-  site.json                    site config and home page content
+  site.json                    site config (domain, base path) and home page content
   countries/<slug>.json        country pages
   guides/<slug>.json           long-form country travel guides
   destinations/<country>/*.json
   articles/*.json
 content/images/                committed WebP renditions + credits.json
-docs/                          build output (committed, served by GitHub Pages)
+docs/                          build output — committed, and what the web host serves
+.htaccess                      generated web-server config for the repo root (see Deploying)
 ```
 
 ## Commands
@@ -55,7 +48,8 @@ npm run build        # build to docs/ using the production base path
 npm run build:local  # build with BASE_PATH=/ so docs/ can be served directly
 npm run serve        # build locally and serve docs/ at http://localhost:8080
 npm run check        # verify every internal link resolves
-npm test             # build + link check
+npm run check:deploy # verify the committed output is deployable (see Deploying)
+npm test             # build + link check + deploy check
 npm run images       # fetch any missing images from Wikimedia Commons
 ```
 
@@ -92,7 +86,41 @@ when adding a new destination.
 
 ## Deploying
 
-`docs/` is committed, so GitHub Pages can serve it directly: **Settings → Pages → Deploy
-from a branch**, then pick the branch and the `/docs` folder. The base path is set in
-`src/data/site.json` (`basePath`) and every link is generated through a single `url()`
-helper, so nothing is hard-coded to a domain.
+The site is static and **`main` is what gets deployed**: the production host (Hostinger →
+GitHub auto-deploy, branch `main`, domain `travelvault.online`) redeploys on every push to
+`main`. `docs/` is committed build output, so the host never has to build anything.
+
+### Publishing a change
+
+1. Edit `src/data`, `src/templates` or `src/assets`.
+2. Run `npm test`. It rebuilds `docs/`, checks every internal link and runs the deploy check.
+3. Commit the source **and** the regenerated `docs/` (plus `.htaccess` if it changed) and
+   merge to `main`.
+
+`.github/workflows/ci.yml` repeats step 2 on every push and pull request, and also fails if
+the committed `docs/` is stale — the one way a deploy from `main` can go quietly wrong is
+publishing source changes without the rebuilt output.
+
+### How `main` becomes the web root
+
+Hostinger's Git deploy copies the repository into `public_html`, so the repo root is the
+web root even though the site lives in `docs/`. The generated **root `.htaccess`** bridges
+that: it serves `docs/` as the site root, blocks `src/`, `content/`, `scripts/`, the build
+files and every dotfile (`.git` included), and answers `/docs/...` with a redirect to the
+clean URL. **`docs/.htaccess`** carries the same shared rules (clean 404 page, compression,
+caching, security headers, https and no-www redirects for the production domain) for hosts
+that deploy `docs/` directly — if the deploy screen offers a source folder, set it to
+`docs` and nothing else needs to change.
+
+Both files are written by `node build.mjs` from `src/lib/htaccess.mjs`. Edit that module,
+never the generated files; `npm run check:deploy` fails if either has drifted.
+
+### Things to know
+
+- `docs/` is wiped and rebuilt on every build. Anything placed there by hand disappears;
+  add it to `build.mjs` instead (that is how `CNAME`, `.htaccess` and `robots.txt` are made).
+- The domain comes from `src/data/site.json` (`siteUrl`, `customDomain`); canonical tags,
+  the sitemap, `robots.txt`, `CNAME` and the redirects all follow it.
+- The deploy check enforces ASCII file names, a sitemap that matches the built files, and
+  no links to `localhost` or `/docs/`.
+- GitHub Pages still works: **Settings → Pages → Deploy from a branch → `main` / `/docs`**.
