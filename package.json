@@ -3,14 +3,15 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "A static travel-planning site covering France, Spain, the United States, Turkey and Italy — ten hand-picked destinations per country, each with its own guide.",
+  "description": "A static travel-planning site: ten hand-picked destinations per country, each with its own guide, plus country pages, long-form country guides and cross-country articles.",
   "scripts": {
     "build": "node build.mjs",
     "build:local": "BASE_PATH=/ node build.mjs",
     "check": "node scripts/check-links.mjs",
     "images": "node scripts/fetch-images.mjs",
     "serve": "BASE_PATH=/ node build.mjs && python3 -m http.server 8080 --directory docs",
-    "test": "node build.mjs && node scripts/check-links.mjs"
+    "test": "node build.mjs && node scripts/check-links.mjs && node scripts/check-deploy.mjs",
+    "check:deploy": "node scripts/check-deploy.mjs"
   },
   "engines": {
     "node": ">=18"

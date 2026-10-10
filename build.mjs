@@ -3,7 +3,8 @@
  * Static site generator for Travel Vault.
  *
  * Reads src/data, validates it against the content rules, renders every page
- * and writes plain HTML into docs/ — which is what GitHub Pages serves. No
+ * and writes plain HTML into docs/ — which is what GitHub Pages (or any static
+ * host) serves. It also writes the Apache .htaccess files. No
  * dependencies: `node build.mjs` is the whole toolchain.
  */
 
@@ -14,6 +15,7 @@ import path from 'node:path';
 import { loadContent } from './src/lib/load.mjs';
 import { validate } from './src/lib/validate.mjs';
 import { url, absolute, outputPath } from './src/lib/url.mjs';
+import { docsHtaccess, rootHtaccess } from './src/lib/htaccess.mjs';
 import { renderHome } from './src/templates/home.mjs';
 import { renderCountry } from './src/templates/country.mjs';
 import { renderGuide } from './src/templates/guide.mjs';
@@ -39,7 +41,7 @@ const REQUIRE_IMAGES = process.env.REQUIRE_IMAGES !== '0' && STRICT;
 const pages = [];
 /** One build-time timestamp reused for every <lastmod> — accurate in the sense
  * that every page's HTML genuinely was regenerated at this instant. */
-const BUILD_DATE = new Date().toISOString().slice(0, 10);
+const BUILD_DATE = process.env.BUILD_DATE ?? new Date().toISOString().slice(0, 10);
 
 function addPage(sitePath, markup, { priority = 0.6, changefreq = 'monthly', image = null } = {}) {
   pages.push({ sitePath, markup, priority, changefreq, image });
@@ -224,6 +226,14 @@ async function main() {
   if (site.customDomain) {
     await writeFile(path.join(OUT, 'CNAME'), `${site.customDomain}\n`, 'utf8');
   }
+
+  // Apache/LiteSpeed config for shared hosting (Hostinger). Both files are
+  // generated from src/lib/htaccess.mjs: docs/ is wiped every run, and the repo
+  // root copy must always agree with the domain in site.json. The root copy
+  // lets the whole repo be deployed to public_html and still serve docs/ as the
+  // site; the docs copy covers hosts that deploy docs/ itself.
+  await writeFile(path.join(OUT, '.htaccess'), docsHtaccess({ domain: site.customDomain }), 'utf8');
+  await writeFile(path.join(ROOT, '.htaccess'), rootHtaccess({ domain: site.customDomain }), 'utf8');
 
   const destinationPages = pages.filter((p) => /^[a-z-]+\/[a-z0-9-]+$/.test(p.sitePath)).length;
   console.log(`Built ${pages.length} pages into docs/`);
