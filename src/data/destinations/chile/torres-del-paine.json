@@ -1,0 +1,370 @@
+{
+  "slug": "torres-del-paine",
+  "name": "Torres del Paine",
+  "country": "chile",
+  "region": "Magallanes Region, Chilean Patagonia",
+  "categories": [
+    "national-park",
+    "mountains",
+    "nature",
+    "scenic"
+  ],
+  "tagline": "Granite towers, turquoise lakes and glaciers in one of the world's great national parks.",
+  "highlight": "Hiking to the base of the three granite towers at sunrise, when they glow red.",
+  "shortDescription": "A UNESCO Biosphere Reserve in southern Patagonia, famous for the W Trek, the O Circuit, Grey Glacier, guanacos and pumas.",
+  "metaDescription": "A Torres del Paine guide: the W Trek and O Circuit, Base Torres sunrise, Grey Glacier, wildlife, refugios and camping, getting there from Puerto Natales, costs and a four-day plan.",
+  "suggestedStay": "4-8 days",
+  "nearestAirport": "Punta Arenas (PUQ) or Puerto Natales (PNT), about 2 hours by road",
+  "knownFor": "Hiking, granite peaks, glaciers",
+  "budget": "US$120-300 per day",
+  "goodFor": "Hikers, photographers, adventurers",
+  "coords": {
+    "lat": -51.0,
+    "lng": -73.0
+  },
+  "image": {
+    "file": "File:Towers of Paine - Torres del Paine National Park 13.jpg",
+    "alt": "The three granite towers of Torres del Paine"
+  },
+  "intro": [
+    "Torres del Paine National Park is the crown jewel of Chilean Patagonia. Its landscape combines the sheer granite spires of the Paine massif, the striped Cuernos, glacial lakes in impossible shades of blue, and the huge Grey Glacier, set in a windswept steppe of guanacos and condors. It is a UNESCO Biosphere Reserve.",
+    "Most visitors come to hike. The W Trek takes four to five days, linking the Grey Glacier, the French Valley and the Base Torres viewpoint, while the O Circuit adds the remote back side of the massif in seven to ten days. Those short of time can do day hikes, boat trips and drives, and wildlife viewing is excellent, with guanacos, foxes, condors and, with luck, pumas.",
+    "The weather is notoriously changeable, and strong winds are common. Refugios and campsites must be reserved well in advance for the summer season, usually many months ahead. Puerto Natales is the base town, with gear shops, restaurants and tour operators."
+  ],
+  "whyVisit": {
+    "intro": "Torres del Paine offers some of the best hiking scenery in the world.",
+    "points": [
+      {
+        "title": "Granite towers",
+        "text": "Iconic peaks in the Andes."
+      },
+      {
+        "title": "Glaciers and lakes",
+        "text": "Grey Glacier and turquoise water."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Guanacos, condors and pumas."
+      },
+      {
+        "title": "Trekking options",
+        "text": "W, O and day hikes."
+      },
+      {
+        "title": "Patagonian steppe",
+        "text": "Big skies and wind."
+      }
+    ]
+  },
+  "attractionsIntro": "The park has several signature viewpoints and hikes.",
+  "attractions": [
+    {
+      "name": "Base Torres",
+      "image": {
+        "file": "File:Mirador Base Torres del Paine.jpg",
+        "alt": "The viewpoint at Base Torres"
+      },
+      "text": "A steep hike to a lake beneath the three towers.",
+      "tip": "Start before dawn for sunrise."
+    },
+    {
+      "name": "Cuernos del Paine",
+      "image": {
+        "file": "File:Cuernos del Paine in Torres del Paine National Park.jpg",
+        "alt": "The Cuernos del Paine rising above a lake"
+      },
+      "text": "Striped horn-like peaks above Lake Nordenskjold.",
+      "tip": "Viewed from the W Trek."
+    },
+    {
+      "name": "Grey Glacier",
+      "image": {
+        "file": "File:Glaciar Grey, Parque Nacional Torres del Paine, Chile5.jpg",
+        "alt": "Grey Glacier in Torres del Paine"
+      },
+      "text": "A huge glacier on Lago Grey with a boat trip.",
+      "tip": "Book the boat ahead."
+    },
+    {
+      "name": "French Valley",
+      "text": "A valley with hanging glaciers.",
+      "tip": "Allow a full day."
+    },
+    {
+      "name": "Lake Pehoe",
+      "image": {
+        "file": "File:Torres del Paine, Pehoe 01.jpg",
+        "alt": "Lake Pehoe in Torres del Paine"
+      },
+      "text": "A turquoise lake with a famous view.",
+      "tip": "Take the catamaran."
+    },
+    {
+      "name": "Salto Grande",
+      "text": "A waterfall between two lakes.",
+      "tip": "An easy short walk."
+    }
+  ],
+  "thingsToDoIntro": "Treks dominate, but there are easier ways to see the park.",
+  "thingsToDo": [
+    {
+      "title": "Trek the W",
+      "text": "A 4 to 5 day hike.",
+      "tip": "Book refugios early."
+    },
+    {
+      "title": "Trek the O",
+      "text": "A longer, quieter loop.",
+      "tip": "Add three days."
+    },
+    {
+      "title": "Hike Base Torres",
+      "text": "A long day trip.",
+      "tip": "Start early."
+    },
+    {
+      "title": "Cruise Lago Grey",
+      "text": "Sail to the glacier face.",
+      "tip": "Dress warmly."
+    },
+    {
+      "title": "Watch for wildlife",
+      "text": "Guanacos and condors.",
+      "tip": "Bring binoculars."
+    },
+    {
+      "title": "Ride a horse",
+      "text": "Across the steppe.",
+      "tip": "Book with a ranch."
+    }
+  ],
+  "foodIntro": "Food at refugios is basic, in Puerto Natales better.",
+  "foods": [
+    {
+      "name": "Patagonian lamb",
+      "text": "Roasted over a fire.",
+      "whereToTry": "Puerto Natales restaurants."
+    },
+    {
+      "name": "King crab",
+      "text": "Centolla.",
+      "whereToTry": "Seafood restaurants."
+    },
+    {
+      "name": "Calafate sour",
+      "text": "Cocktail with the local berry.",
+      "whereToTry": "Bars."
+    },
+    {
+      "name": "Empanadas",
+      "text": "Pastries.",
+      "whereToTry": "Cafes."
+    },
+    {
+      "name": "Trail food",
+      "text": "Packed lunches.",
+      "whereToTry": "Refugios."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose between refugios, camping and lodges.",
+    "areas": [
+      {
+        "name": "Refugios",
+        "bestFor": "Trekkers",
+        "text": "Beds and meals on the trail."
+      },
+      {
+        "name": "Campsites",
+        "bestFor": "Budget",
+        "text": "Tent sites."
+      },
+      {
+        "name": "Hotels in the park",
+        "bestFor": "Comfort",
+        "text": "Lodges with views."
+      },
+      {
+        "name": "Puerto Natales",
+        "bestFor": "Base",
+        "text": "Hostels and hotels."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Camping",
+        "value": "US$15-35 per night"
+      },
+      {
+        "label": "Refugio bed",
+        "value": "US$60-120 per night"
+      },
+      {
+        "label": "Lodge",
+        "value": "US$250-600+ per night"
+      },
+      {
+        "label": "Park entry",
+        "value": "Around US$30-50 (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Most visitors come via Punta Arenas or Puerto Natales.",
+    "options": [
+      {
+        "mode": "Fly to Punta Arenas",
+        "text": "From Santiago in about 3.5 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bus to Puerto Natales",
+        "text": "About 3 hours.",
+        "detail": "Regular."
+      },
+      {
+        "mode": "Bus to the park",
+        "text": "About 2 hours.",
+        "detail": "Book ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Inside the park you walk or use shuttles and boats.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The main way.",
+        "detail": "Carry good boots."
+      },
+      {
+        "mode": "Shuttle",
+        "text": "Between trailheads.",
+        "detail": "Check schedules."
+      },
+      {
+        "mode": "Catamaran",
+        "text": "Across Lake Pehoe.",
+        "detail": "Book ahead."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November-March",
+    "summary": "Summer days are long and trails are open, but winds are strong.",
+    "seasons": [
+      {
+        "season": "November-December",
+        "rating": "good",
+        "text": "Spring flowers and fewer crowds."
+      },
+      {
+        "season": "January-February",
+        "rating": "best",
+        "text": "Long days, but busy."
+      },
+      {
+        "season": "March-April",
+        "rating": "best",
+        "text": "Autumn colours and calm."
+      },
+      {
+        "season": "May-October",
+        "rating": "avoid",
+        "text": "Cold and short days; many facilities closed."
+      }
+    ],
+    "avoid": "Winter, when trails and services close."
+  },
+  "itinerary": {
+    "title": "Five days on the W Trek",
+    "intro": "The classic hike.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Puerto Natales to the park",
+        "morning": "Transfer to Lago Grey",
+        "afternoon": "Hike to Refugio Grey",
+        "evening": "Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Grey Glacier",
+        "summary": "Views",
+        "morning": "Hike to the glacier view",
+        "afternoon": "Walk back",
+        "evening": "Overnight at Paine Grande"
+      },
+      {
+        "day": 3,
+        "title": "French Valley",
+        "summary": "Valley",
+        "morning": "Hike the valley",
+        "afternoon": "Return",
+        "evening": "Overnight at Cuernos"
+      },
+      {
+        "day": 4,
+        "title": "Cuernos",
+        "summary": "Lakeside",
+        "morning": "Hike along the lake",
+        "afternoon": "Walk to Chileno",
+        "evening": "Rest"
+      },
+      {
+        "day": 5,
+        "title": "Base Torres",
+        "summary": "Sunrise",
+        "morning": "Pre-dawn climb",
+        "afternoon": "Descend",
+        "evening": "Return to Puerto Natales"
+      }
+    ]
+  },
+  "tipsIntro": "Book early and prepare for the weather.",
+  "tips": [
+    "Reserve refugios and campsites months ahead.",
+    "Layer clothing and bring waterproofs.",
+    "Use trekking poles.",
+    "Carry a windproof jacket.",
+    "Pack food and water.",
+    "Respect Leave No Trace.",
+    "Check weather daily."
+  ],
+  "faq": [
+    {
+      "q": "How many days do I need?",
+      "a": "Four to five for the W."
+    },
+    {
+      "q": "Can I visit without trekking?",
+      "a": "Yes, with day tours."
+    },
+    {
+      "q": "When is best?",
+      "a": "November to March."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Yes."
+    },
+    {
+      "q": "Do I need a guide?",
+      "a": "Not for the W."
+    },
+    {
+      "q": "Are there pumas?",
+      "a": "Yes but rarely seen."
+    }
+  ],
+  "related": [
+    "carretera-austral",
+    "san-pedro-de-atacama",
+    "santiago"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

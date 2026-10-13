@@ -1,0 +1,362 @@
+{
+  "slug": "san-pedro-de-atacama",
+  "name": "San Pedro de Atacama",
+  "country": "chile",
+  "region": "Antofagasta Region, northern Chile",
+  "categories": [
+    "nature",
+    "scenic",
+    "off-the-beaten-path",
+    "mountains"
+  ],
+  "tagline": "An adobe desert oasis beside salt flats, geysers, volcanoes and the clearest night skies on Earth.",
+  "highlight": "Stargazing in one of the driest places on Earth after a day of salt lakes and geysers.",
+  "shortDescription": "A small oasis town in the Atacama Desert at 2,400 metres, base for the Valle de la Luna, El Tatio geysers, flamingo lagoons, salt flats and astronomy tours.",
+  "metaDescription": "A San Pedro de Atacama guide: Valle de la Luna, El Tatio geysers, Laguna Cejar floating, flamingos, stargazing, altitude tips, where to stay and a four-day plan.",
+  "suggestedStay": "3-5 days",
+  "nearestAirport": "El Loa, Calama (CJC), about 1.5 hours by road",
+  "knownFor": "Desert landscapes, geysers, stargazing",
+  "budget": "US$100-220 per day",
+  "goodFor": "Nature, photographers, stargazers",
+  "coords": {
+    "lat": -22.9087,
+    "lng": -68.1997
+  },
+  "image": {
+    "file": "File:Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 162.JPG",
+    "alt": "The otherworldly landscape of the Valle de la Luna near San Pedro de Atacama"
+  },
+  "intro": [
+    "San Pedro de Atacama is a small oasis of adobe buildings and dusty streets on the edge of the driest non-polar desert in the world. At 2,400 metres, it serves as the base for exploring a landscape of salt flats, volcanoes, lagoons and geysers, all within a few hours of town.",
+    "Tours leave at all hours, from sunrise trips to the El Tatio geysers, where steam rises at 4,300 metres, to afternoon excursions to the Valle de la Luna, where sunset turns the rocks red. The Salar de Atacama has flamingo lagoons, and Laguna Cejar and other salt lakes allow floating like in the Dead Sea. At night, the skies are famously clear and local operators run astronomy tours.",
+    "The altitude and dryness are real factors, so plan an easy first day, drink water and wear sun protection. Tours are the main way to see the area, though bicycles can reach nearby sights."
+  ],
+  "whyVisit": {
+    "intro": "San Pedro is one of the most dramatic natural destinations in South America.",
+    "points": [
+      {
+        "title": "Otherworldly landscapes",
+        "text": "Dunes, salt flats and volcanoes."
+      },
+      {
+        "title": "Stargazing",
+        "text": "Some of the clearest skies in the world."
+      },
+      {
+        "title": "Geysers",
+        "text": "El Tatio at sunrise."
+      },
+      {
+        "title": "Floating lagoons",
+        "text": "Swim in salt water."
+      },
+      {
+        "title": "Flamingos",
+        "text": "Birds in high lagoons."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are an excursion away from town.",
+  "attractions": [
+    {
+      "name": "Valle de la Luna",
+      "image": {
+        "file": "File:Anfiteatro, Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 149.JPG",
+        "alt": "The amphitheatre in the Valle de la Luna"
+      },
+      "text": "Sand dunes and eroded rock formations, best at sunset.",
+      "tip": "Book a sunset tour."
+    },
+    {
+      "name": "El Tatio geysers",
+      "image": {
+        "file": "File:20120618 Chile 3352 Tatio (7704028054).jpg",
+        "alt": "Steaming geysers at El Tatio"
+      },
+      "text": "A high-altitude geyser field, best at dawn.",
+      "tip": "Dress warmly."
+    },
+    {
+      "name": "Laguna Cejar",
+      "image": {
+        "file": "File:Laguna Cejar - Atacama - Chile - panoramio (2).jpg",
+        "alt": "Laguna Cejar in the Atacama"
+      },
+      "text": "A salt lagoon where you float.",
+      "tip": "Shower afterwards."
+    },
+    {
+      "name": "Salar de Atacama",
+      "image": {
+        "file": "File:Flamingos at Salar de Atacama.jpg",
+        "alt": "Flamingos at the Salar de Atacama"
+      },
+      "text": "The largest salt flat in Chile, with flamingos.",
+      "tip": "Visit Laguna Chaxa."
+    },
+    {
+      "name": "Altiplanic lagoons",
+      "text": "Turquoise lakes at high altitude.",
+      "tip": "Take it slowly."
+    },
+    {
+      "name": "San Pedro town",
+      "text": "Adobe church and craft shops.",
+      "tip": "Walk in the cool evening."
+    }
+  ],
+  "thingsToDoIntro": "Book excursions the day before.",
+  "thingsToDo": [
+    {
+      "title": "Watch the geysers at sunrise",
+      "text": "At El Tatio.",
+      "tip": "Wear layers."
+    },
+    {
+      "title": "Float in a lagoon",
+      "text": "At Cejar or Tebinquinche.",
+      "tip": "Avoid cuts."
+    },
+    {
+      "title": "Go on an astronomy tour",
+      "text": "Look through telescopes.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Hike Valle de la Luna",
+      "text": "On foot at sunset.",
+      "tip": "Carry water."
+    },
+    {
+      "title": "Bike to Pukara de Quitor",
+      "text": "A ruined fortress.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Soak in hot springs",
+      "text": "At Termas de Puritama.",
+      "tip": "Book a transfer."
+    }
+  ],
+  "foodIntro": "Food is simple and adapted to high altitude.",
+  "foods": [
+    {
+      "name": "Empanada",
+      "text": "Cheese or meat pastries.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Quinoa soup",
+      "text": "Local grain.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Llama steak",
+      "text": "A local meat.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Pisco sour",
+      "text": "Cocktail.",
+      "whereToTry": "Bars."
+    },
+    {
+      "name": "Coca tea",
+      "text": "For altitude.",
+      "whereToTry": "Cafes."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in town or in nearby ayllus.",
+    "areas": [
+      {
+        "name": "Town centre",
+        "bestFor": "Convenience",
+        "text": "Hostels and guesthouses."
+      },
+      {
+        "name": "Ayllus",
+        "bestFor": "Quiet",
+        "text": "Adobe lodges."
+      },
+      {
+        "name": "Luxury lodges",
+        "bestFor": "Spa",
+        "text": "All-inclusive stays."
+      },
+      {
+        "name": "Camping",
+        "bestFor": "Budget",
+        "text": "Local sites."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$25-50 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$80-170 per night"
+      },
+      {
+        "label": "All-inclusive lodge",
+        "value": "US$400-900 per night"
+      },
+      {
+        "label": "Tour",
+        "value": "US$25-120 per excursion"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "San Pedro is reached via Calama.",
+    "options": [
+      {
+        "mode": "Fly to Calama",
+        "text": "From Santiago in about 2 hours.",
+        "detail": "Frequent flights."
+      },
+      {
+        "mode": "Transfer",
+        "text": "Shuttle to San Pedro in about 1.5 hours.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Bus",
+        "text": "From Calama or Salta.",
+        "detail": "Long journeys."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Tours and bikes.",
+    "options": [
+      {
+        "mode": "Tour",
+        "text": "Most excursions.",
+        "detail": "Book at agencies."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "To nearby ruins.",
+        "detail": "Carry water."
+      },
+      {
+        "mode": "Rental car",
+        "text": "For flexible trips.",
+        "detail": "Check fuel."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March-May, September-November",
+    "summary": "Shoulder seasons offer warm days and clear nights.",
+    "seasons": [
+      {
+        "season": "March-May",
+        "rating": "best",
+        "text": "Warm days and clear skies."
+      },
+      {
+        "season": "September-November",
+        "rating": "best",
+        "text": "Mild and dry."
+      },
+      {
+        "season": "December-February",
+        "rating": "good",
+        "text": "Hot with altiplanic rain."
+      },
+      {
+        "season": "June-August",
+        "rating": "good",
+        "text": "Cold nights, perfect stars."
+      }
+    ],
+    "avoid": "January and February, when altiplanic storms can close roads."
+  },
+  "itinerary": {
+    "title": "Four days in the Atacama",
+    "intro": "Acclimatise and explore.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Rest",
+        "morning": "Walk around town",
+        "afternoon": "Pukara de Quitor",
+        "evening": "Early dinner"
+      },
+      {
+        "day": 2,
+        "title": "Valle de la Luna",
+        "summary": "Sunset",
+        "morning": "Rest",
+        "afternoon": "Valle de la Luna tour",
+        "evening": "Astronomy tour"
+      },
+      {
+        "day": 3,
+        "title": "Lagoons",
+        "summary": "Salt flats",
+        "morning": "Laguna Cejar",
+        "afternoon": "Laguna Chaxa",
+        "evening": "Free evening"
+      },
+      {
+        "day": 4,
+        "title": "Geysers",
+        "summary": "Sunrise",
+        "morning": "El Tatio at dawn",
+        "afternoon": "Hot springs",
+        "evening": "Departure"
+      }
+    ]
+  },
+  "tipsIntro": "Prepare for altitude.",
+  "tips": [
+    "Take it slow on arrival day.",
+    "Drink plenty of water.",
+    "Wear sun protection.",
+    "Bring layers for cold mornings.",
+    "Book tours in advance.",
+    "Carry cash for small purchases.",
+    "Use reputable operators."
+  ],
+  "faq": [
+    {
+      "q": "Is altitude a problem?",
+      "a": "It can be, rest first."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Three to five days."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Yes, tours add up."
+    },
+    {
+      "q": "When is best?",
+      "a": "March to May."
+    },
+    {
+      "q": "Can I swim in lagoons?",
+      "a": "Yes in designated ones."
+    },
+    {
+      "q": "Is it good for stargazing?",
+      "a": "Among the best."
+    }
+  ],
+  "related": [
+    "santiago",
+    "torres-del-paine",
+    "elqui-valley"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

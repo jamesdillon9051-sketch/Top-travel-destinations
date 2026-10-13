@@ -1,0 +1,350 @@
+{
+  "slug": "pucon",
+  "name": "Pucon and Villarrica",
+  "country": "chile",
+  "region": "La Araucania Region, Lake District",
+  "categories": [
+    "nature",
+    "mountains",
+    "scenic",
+    "national-park"
+  ],
+  "tagline": "Adventure capital of Chile, beneath the smoking cone of Villarrica volcano.",
+  "highlight": "Climbing the active Villarrica volcano at dawn and sliding down on your boots.",
+  "shortDescription": "A lakeside adventure town with a volcano climb, rafting, hot springs, araucaria forests and Mapuche culture.",
+  "metaDescription": "A Pucon travel guide: climbing Villarrica volcano, Huerquehue National Park, hot springs, rafting on the Trancura, Mapuche culture, where to stay, costs and a three-day plan.",
+  "suggestedStay": "2-4 days",
+  "nearestAirport": "Temuco (ZCO), about 1.5 hours by road",
+  "knownFor": "Volcano climbing, hot springs, rafting",
+  "budget": "US$80-170 per day",
+  "goodFor": "Adventure travellers, families, hikers",
+  "coords": {
+    "lat": -39.2823,
+    "lng": -71.9542
+  },
+  "image": {
+    "file": "File:Pucon Villarrica.JPG",
+    "alt": "Villarrica volcano rising over Pucon and Lake Villarrica"
+  },
+  "intro": [
+    "Pucon sits on the shore of Lake Villarrica, with the perfect snow-capped cone of Villarrica volcano looming above. It is Chile's adventure capital, offering volcano climbing, white-water rafting, canyoning, horse riding, hot springs and skiing, with a lively summer scene of beach cafes and bars.",
+    "The star activity is the guided climb of Villarrica, one of the most active volcanoes in South America. In good weather, the climb takes about five hours up and you can look into a glowing crater before sliding down on a snow chute. Huerquehue National Park, with its araucaria forest and lakes, offers excellent day hikes.",
+    "The region is also the heartland of the Mapuche people, and visitors can arrange cultural visits to learn about traditions, language and food. Summer (December to March) is the busy season, when the lake is warm enough for swimming and the town is full of life."
+  ],
+  "whyVisit": {
+    "intro": "Pucon is a great base for outdoor adventures.",
+    "points": [
+      {
+        "title": "Villarrica volcano",
+        "text": "A guided climb with crater views."
+      },
+      {
+        "title": "Hot springs",
+        "text": "Natural pools in the forest."
+      },
+      {
+        "title": "Rafting and canyoning",
+        "text": "Rivers and waterfalls."
+      },
+      {
+        "title": "Araucaria forests",
+        "text": "Ancient monkey puzzle trees."
+      },
+      {
+        "title": "Mapuche culture",
+        "text": "Learn about the region's first people."
+      }
+    ]
+  },
+  "attractionsIntro": "The attractions are in the town and the surrounding parks.",
+  "attractions": [
+    {
+      "name": "Villarrica volcano",
+      "image": {
+        "file": "File:Villarrica volcano summit climbers.jpg",
+        "alt": "Climbers on the summit of Villarrica volcano"
+      },
+      "text": "The classic climb with a guide.",
+      "tip": "Weather can cancel climbs."
+    },
+    {
+      "name": "Huerquehue National Park",
+      "image": {
+        "file": "File:Parque Nacional Huerquehue.jpg",
+        "alt": "A lake in Huerquehue National Park"
+      },
+      "text": "Lakes and araucaria trees.",
+      "tip": "Hike to Lago Verde."
+    },
+    {
+      "name": "Termas Geometricas",
+      "text": "Hot springs in a forest gorge.",
+      "tip": "Book ahead."
+    },
+    {
+      "name": "Trancura River",
+      "text": "Rafting rapids.",
+      "tip": "Choose a reputable operator."
+    },
+    {
+      "name": "Lake Villarrica beach",
+      "image": {
+        "file": "File:J25 043 Lago Villarrica, Hafenbucht Pucón.jpg",
+        "alt": "The harbour of Pucon on Lake Villarrica"
+      },
+      "text": "Black sand and swimming.",
+      "tip": "Visit in summer."
+    },
+    {
+      "name": "Ojos del Caburgua",
+      "text": "A turquoise waterfall.",
+      "tip": "Short walk."
+    }
+  ],
+  "thingsToDoIntro": "Pucon is full of activities.",
+  "thingsToDo": [
+    {
+      "title": "Climb Villarrica",
+      "text": "Guided ascent.",
+      "tip": "Go on a clear day."
+    },
+    {
+      "title": "Raft the Trancura",
+      "text": "Grade III and IV.",
+      "tip": "Wear a wetsuit."
+    },
+    {
+      "title": "Soak in hot springs",
+      "text": "After a hike.",
+      "tip": "Go in the evening."
+    },
+    {
+      "title": "Hike Huerquehue",
+      "text": "A day walk.",
+      "tip": "Carry food."
+    },
+    {
+      "title": "Go horse riding",
+      "text": "Through forest.",
+      "tip": "Book a guide."
+    },
+    {
+      "title": "Ski in winter",
+      "text": "At Pucon ski centre.",
+      "tip": "Rent gear."
+    }
+  ],
+  "foodIntro": "Local food combines Mapuche and German-Chilean traditions.",
+  "foods": [
+    {
+      "name": "Kuchen",
+      "text": "German-style cake.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Trout",
+      "text": "Fresh river trout.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Pastel de choclo",
+      "text": "Corn pie.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Mote con huesillo",
+      "text": "Wheat and peach drink.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Local breweries.",
+      "whereToTry": "Bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in town or near the lake.",
+    "areas": [
+      {
+        "name": "Town centre",
+        "bestFor": "Convenience",
+        "text": "Hostels and hotels."
+      },
+      {
+        "name": "Lakeshore",
+        "bestFor": "Views",
+        "text": "Lodges."
+      },
+      {
+        "name": "Caburgua",
+        "bestFor": "Quiet",
+        "text": "Cabins."
+      },
+      {
+        "name": "Villarrica town",
+        "bestFor": "Value",
+        "text": "Guesthouses."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$20-40 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$70-150 per night"
+      },
+      {
+        "label": "Lodge",
+        "value": "US$150-300 per night"
+      },
+      {
+        "label": "Volcano climb",
+        "value": "Around US$100-130 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Pucon is reached via Temuco.",
+    "options": [
+      {
+        "mode": "Fly to Temuco",
+        "text": "From Santiago in about 1.5 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bus",
+        "text": "From Temuco, 1.5 hours.",
+        "detail": "Regular."
+      },
+      {
+        "mode": "Overnight bus",
+        "text": "From Santiago, 10 hours.",
+        "detail": "Cheaper."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The town is walkable.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Town centre.",
+        "detail": "Compact."
+      },
+      {
+        "mode": "Rental car",
+        "text": "For parks.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Bus",
+        "text": "To nearby parks.",
+        "detail": "Check schedules."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December-March",
+    "summary": "Summer is warm, with the lake good for swimming.",
+    "seasons": [
+      {
+        "season": "December-March",
+        "rating": "best",
+        "text": "Warm and dry."
+      },
+      {
+        "season": "October-November",
+        "rating": "good",
+        "text": "Spring."
+      },
+      {
+        "season": "April-May",
+        "rating": "quiet",
+        "text": "Autumn colours."
+      },
+      {
+        "season": "June-September",
+        "rating": "good",
+        "text": "Ski season, cool and wet."
+      }
+    ],
+    "avoid": "Winter if you do not ski."
+  },
+  "itinerary": {
+    "title": "Three days in Pucon",
+    "intro": "Volcano and hot springs.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Town",
+        "morning": "Walk the lake",
+        "afternoon": "Beach",
+        "evening": "Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Volcano",
+        "summary": "Villarrica",
+        "morning": "Climb the volcano",
+        "afternoon": "Descend",
+        "evening": "Hot springs"
+      },
+      {
+        "day": 3,
+        "title": "Park",
+        "summary": "Huerquehue",
+        "morning": "Hike to the lakes",
+        "afternoon": "Picnic",
+        "evening": "Return"
+      }
+    ]
+  },
+  "tipsIntro": "Tips for Pucon.",
+  "tips": [
+    "Book the volcano climb early.",
+    "Check the weather forecast.",
+    "Bring layers.",
+    "Wear sun protection.",
+    "Use reputable operators.",
+    "Book hot springs ahead.",
+    "Respect Mapuche land."
+  ],
+  "faq": [
+    {
+      "q": "Is the volcano climb hard?",
+      "a": "Yes, but doable."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "With guides."
+    },
+    {
+      "q": "When is best?",
+      "a": "December to March."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Two to four days."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Moderate."
+    },
+    {
+      "q": "Can I swim?",
+      "a": "Yes in summer."
+    }
+  ],
+  "related": [
+    "puerto-varas",
+    "chiloe",
+    "carretera-austral"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

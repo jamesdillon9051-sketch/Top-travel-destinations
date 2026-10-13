@@ -1,0 +1,382 @@
+{
+  "slug": "carretera-austral",
+  "name": "Carretera Austral",
+  "country": "chile",
+  "region": "Aysen Region, Patagonia",
+  "categories": [
+    "scenic",
+    "nature",
+    "off-the-beaten-path",
+    "national-park"
+  ],
+  "tagline": "A 1,240 km road through remote Patagonia, fjords, glaciers, marble caves and hanging glaciers.",
+  "highlight": "Drifting by boat through blue marble caves on Lake General Carrera.",
+  "shortDescription": "One of the world's great road trips, from Puerto Montt to Villa O'Higgins, passing Queulat, Marble Caves, Cerro Castillo and the Northern Patagonian Ice Field.",
+  "metaDescription": "A Carretera Austral guide: Queulat hanging glacier, the Marble Caves, Cerro Castillo trek, Puerto Rio Tranquilo, Coyhaique, ferries, car rental, where to stay and a seven-day plan.",
+  "suggestedStay": "7-14 days",
+  "nearestAirport": "Balmaceda (BBA) near Coyhaique, or Puerto Montt (PMC)",
+  "knownFor": "Road trip, glaciers, wild nature",
+  "budget": "US$100-220 per day",
+  "goodFor": "Road trippers, hikers, nature lovers",
+  "coords": {
+    "lat": -45.5712,
+    "lng": -72.0662
+  },
+  "image": {
+    "file": "File:Carretera Austral - Cerro Castillo.jpg",
+    "alt": "The Carretera Austral winding beneath Cerro Castillo"
+  },
+  "intro": [
+    "The Carretera Austral, officially Route 7, runs about 1,240 kilometres through the wild, sparsely populated region of Aysen in Chilean Patagonia. Built in the 1970s and 1980s to connect isolated communities, it is now a world-famous road trip, passing glaciers, fjords, rainforest and turquoise rivers.",
+    "Highlights include Queulat National Park with its hanging glacier, the Marble Caves of Lake General Carrera near Puerto Rio Tranquilo, the Cerro Castillo trek, Coyhaique as the main town, and the southern end at Villa O'Higgins. Much of the road is gravel, and parts need ferries, so plan extra time and fuel.",
+    "The best way to explore is with a rental car, though buses and hitchhiking are also popular. Services are limited and distances long, so book accommodation ahead in summer. The reward is a quiet, beautiful corner of the world."
+  ],
+  "whyVisit": {
+    "intro": "The Carretera Austral is for travellers who love space and wilderness.",
+    "points": [
+      {
+        "title": "Epic scenery",
+        "text": "Fjords, glaciers and mountains."
+      },
+      {
+        "title": "Marble Caves",
+        "text": "Blue sculpted caverns."
+      },
+      {
+        "title": "Few visitors",
+        "text": "A true wilderness."
+      },
+      {
+        "title": "Hiking",
+        "text": "Cerro Castillo and Queulat."
+      },
+      {
+        "title": "Road trip freedom",
+        "text": "Stop anywhere."
+      }
+    ]
+  },
+  "attractionsIntro": "The route offers a series of highlights from north to south.",
+  "attractions": [
+    {
+      "name": "Queulat National Park",
+      "image": {
+        "file": "File:Queulat 04.jpg",
+        "alt": "The hanging glacier in Queulat National Park"
+      },
+      "text": "A hanging glacier above a rainforest valley.",
+      "tip": "Short walks."
+    },
+    {
+      "name": "Marble Caves",
+      "image": {
+        "file": "File:Cuevas de Mármol (Marble Caves), Patagonia, Chile.jpg",
+        "alt": "The blue Marble Caves of Lake General Carrera"
+      },
+      "text": "Blue marble formations on Lake General Carrera.",
+      "tip": "Visit by boat."
+    },
+    {
+      "name": "Cerro Castillo",
+      "text": "A jagged peak with a famous multi-day trek.",
+      "tip": "Hike three days or a day trip."
+    },
+    {
+      "name": "Coyhaique",
+      "text": "The regional capital and service centre.",
+      "tip": "Stock up."
+    },
+    {
+      "name": "Puerto Rio Tranquilo",
+      "image": {
+        "file": "File:Puerto Rio Tranquilo Plaza.jpg",
+        "alt": "The plaza at Puerto Rio Tranquilo"
+      },
+      "text": "A lakeside village, base for the caves.",
+      "tip": "Book boats early."
+    },
+    {
+      "name": "Villa O'Higgins",
+      "text": "The remote southern end of the road.",
+      "tip": "Ferry onward to El Chalten."
+    }
+  ],
+  "thingsToDoIntro": "Slow down and enjoy the journey.",
+  "thingsToDo": [
+    {
+      "title": "Drive the road",
+      "text": "Take your time.",
+      "tip": "Check road conditions."
+    },
+    {
+      "title": "Boat to the Marble Caves",
+      "text": "Best in good light.",
+      "tip": "Go in the morning."
+    },
+    {
+      "title": "Hike Cerro Castillo",
+      "text": "A three-day trek.",
+      "tip": "Start early."
+    },
+    {
+      "title": "Go fly-fishing",
+      "text": "On Patagonian rivers.",
+      "tip": "Hire a guide."
+    },
+    {
+      "title": "Walk to Queulat glacier",
+      "text": "A short trail.",
+      "tip": "Wear rain gear."
+    },
+    {
+      "title": "Camp by a lake",
+      "text": "Quiet nights.",
+      "tip": "Carry supplies."
+    }
+  ],
+  "foodIntro": "Food is simple and meaty.",
+  "foods": [
+    {
+      "name": "Cordero al palo",
+      "text": "Spit-roast lamb.",
+      "whereToTry": "Coyhaique restaurants."
+    },
+    {
+      "name": "Trout",
+      "text": "River catch.",
+      "whereToTry": "Lodges."
+    },
+    {
+      "name": "Empanadas",
+      "text": "Pastries.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Calafate berry",
+      "text": "Jams and drinks.",
+      "whereToTry": "Shops."
+    },
+    {
+      "name": "Mate",
+      "text": "Herbal tea.",
+      "whereToTry": "Everywhere."
+    }
+  ],
+  "accommodation": {
+    "intro": "Book ahead in summer.",
+    "areas": [
+      {
+        "name": "Coyhaique",
+        "bestFor": "Base",
+        "text": "Hotels and hostels."
+      },
+      {
+        "name": "Puerto Rio Tranquilo",
+        "bestFor": "Marble Caves",
+        "text": "Cabins and campsites."
+      },
+      {
+        "name": "Lodges",
+        "bestFor": "Comfort",
+        "text": "Remote lodges."
+      },
+      {
+        "name": "Camping",
+        "bestFor": "Budget",
+        "text": "Free and paid sites."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Camping",
+        "value": "US$10-25 per night"
+      },
+      {
+        "label": "Mid-range cabin",
+        "value": "US$60-140 per night"
+      },
+      {
+        "label": "Lodge",
+        "value": "US$180-350 per night"
+      },
+      {
+        "label": "Car rental",
+        "value": "US$80-150 per day, with 4x4 recommended"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Fly to Balmaceda or drive from Puerto Montt.",
+    "options": [
+      {
+        "mode": "Fly to Balmaceda",
+        "text": "From Santiago, about 2.5 hours.",
+        "detail": "Near Coyhaique."
+      },
+      {
+        "mode": "Drive from Puerto Montt",
+        "text": "Via ferries, 2 to 3 days.",
+        "detail": "Scenic."
+      },
+      {
+        "mode": "Ferry",
+        "text": "Across fjords.",
+        "detail": "Book ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Rental car is best.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "4x4 recommended.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Bus",
+        "text": "Between main towns.",
+        "detail": "Slow."
+      },
+      {
+        "mode": "Hitchhiking",
+        "text": "Common.",
+        "detail": "Be cautious."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December-March",
+    "summary": "Summer gives the longest days and driest weather.",
+    "seasons": [
+      {
+        "season": "December-February",
+        "rating": "best",
+        "text": "Warm and long days."
+      },
+      {
+        "season": "March",
+        "rating": "good",
+        "text": "Autumn colours."
+      },
+      {
+        "season": "October-November",
+        "rating": "quiet",
+        "text": "Spring."
+      },
+      {
+        "season": "April-September",
+        "rating": "avoid",
+        "text": "Cold, wet, services closed."
+      }
+    ],
+    "avoid": "Winter, when many services close."
+  },
+  "itinerary": {
+    "title": "Seven days on the Carretera Austral",
+    "intro": "A northern-to-central route.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Coyhaique",
+        "summary": "Arrival",
+        "morning": "Fly in",
+        "afternoon": "Stock up",
+        "evening": "Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Cerro Castillo",
+        "summary": "Mountains",
+        "morning": "Drive south",
+        "afternoon": "Short hike",
+        "evening": "Camp"
+      },
+      {
+        "day": 3,
+        "title": "Rio Tranquilo",
+        "summary": "Lake",
+        "morning": "Arrive",
+        "afternoon": "Marble Caves boat",
+        "evening": "Sunset"
+      },
+      {
+        "day": 4,
+        "title": "Exploradores",
+        "summary": "Glacier",
+        "morning": "Drive to the glacier",
+        "afternoon": "Walk",
+        "evening": "Return"
+      },
+      {
+        "day": 5,
+        "title": "Queulat",
+        "summary": "Rainforest",
+        "morning": "Drive north",
+        "afternoon": "Hanging glacier",
+        "evening": "Overnight"
+      },
+      {
+        "day": 6,
+        "title": "Puyuhuapi",
+        "summary": "Hot springs",
+        "morning": "Soak",
+        "afternoon": "Drive",
+        "evening": "Rest"
+      },
+      {
+        "day": 7,
+        "title": "Return",
+        "summary": "Coyhaique",
+        "morning": "Drive",
+        "afternoon": "Fly out",
+        "evening": "Farewell dinner"
+      }
+    ]
+  },
+  "tipsIntro": "Be prepared for remote roads.",
+  "tips": [
+    "Fill the tank when you can.",
+    "Rent a 4x4 or high-clearance car.",
+    "Carry cash for small places.",
+    "Book boats and lodging early.",
+    "Check ferry schedules.",
+    "Pack for rain.",
+    "Carry offline maps."
+  ],
+  "faq": [
+    {
+      "q": "Do I need a 4x4?",
+      "a": "Recommended."
+    },
+    {
+      "q": "How long should I allow?",
+      "a": "A week or more."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Yes with care."
+    },
+    {
+      "q": "When is best?",
+      "a": "December to March."
+    },
+    {
+      "q": "Can I take a bus?",
+      "a": "Yes but slowly."
+    },
+    {
+      "q": "Are fuel stations common?",
+      "a": "Not always."
+    }
+  ],
+  "related": [
+    "torres-del-paine",
+    "chiloe",
+    "pucon"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

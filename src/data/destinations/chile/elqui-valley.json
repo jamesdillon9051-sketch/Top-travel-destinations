@@ -1,0 +1,354 @@
+{
+  "slug": "elqui-valley",
+  "name": "Elqui Valley",
+  "country": "chile",
+  "region": "Coquimbo Region, northern Chile",
+  "categories": [
+    "food-and-wine",
+    "nature",
+    "scenic",
+    "off-the-beaten-path"
+  ],
+  "tagline": "A sun-drenched valley of pisco vineyards, mountain villages and brilliant starry skies.",
+  "highlight": "Sipping pisco in a village under one of the clearest night skies in the world.",
+  "shortDescription": "A green valley in the Andean foothills with pisco distilleries, observatories, the village of Pisco Elqui, Gabriela Mistral's home and stargazing.",
+  "metaDescription": "An Elqui Valley guide: Pisco Elqui, Vicuña, pisco distilleries, stargazing observatories, Gabriela Mistral museum, hikes, where to stay and a three-day plan.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "La Florida, La Serena (LSC), about 1 hour by road",
+  "knownFor": "Pisco, stargazing, mountain villages",
+  "budget": "US$60-130 per day",
+  "goodFor": "Stargazers, foodies, relaxed travellers",
+  "coords": {
+    "lat": -30.1236,
+    "lng": -70.4986
+  },
+  "image": {
+    "file": "File:Pisco Elqui - Flickr - Casper Abrilot.jpg",
+    "alt": "The village of Pisco Elqui in the Elqui Valley"
+  },
+  "intro": [
+    "The Elqui Valley is a narrow green ribbon through the arid mountains of northern Chile. Fed by the Elqui River, it grows grapes for pisco, Chile's national spirit, as well as papayas and avocados, and its villages are known for their relaxed, bohemian feel.",
+    "With almost no cloud and almost no light pollution, the valley has some of the clearest night skies in the world, and several observatories offer public tours. By day, you can tour distilleries such as Capel and Mistral, visit the Gabriela Mistral museum in Vicuña, and hike through the dry hills.",
+    "Pisco Elqui, a village renamed to promote the spirit, is the heart of the valley, with artisan shops, cafes and guesthouses. Most visitors base themselves here or in Vicuña and add La Serena, a coastal city with beaches, for the start or end of the trip."
+  ],
+  "whyVisit": {
+    "intro": "The Elqui Valley is relaxed, scenic and star-filled.",
+    "points": [
+      {
+        "title": "Pisco culture",
+        "text": "Distilleries to tour."
+      },
+      {
+        "title": "Clear skies",
+        "text": "Observatory visits."
+      },
+      {
+        "title": "Mountain villages",
+        "text": "A slow pace."
+      },
+      {
+        "title": "Gabriela Mistral",
+        "text": "Poet and Nobel winner."
+      },
+      {
+        "title": "Easy access",
+        "text": "Close to La Serena."
+      }
+    ]
+  },
+  "attractionsIntro": "The valley is easily explored in a couple of days.",
+  "attractions": [
+    {
+      "name": "Pisco Elqui",
+      "image": {
+        "file": "File:Pisco elqui pano2.jpg",
+        "alt": "A panorama of Pisco Elqui and the valley"
+      },
+      "text": "The main village.",
+      "tip": "Sit in the plaza."
+    },
+    {
+      "name": "Capel distillery",
+      "image": {
+        "file": "File:CAPEL DISTILLERY NEAR VICUNA, CHILE.jpg",
+        "alt": "The Capel distillery near Vicuna"
+      },
+      "text": "A big pisco producer near Vicuña.",
+      "tip": "Book a tour."
+    },
+    {
+      "name": "Mistral distillery",
+      "image": {
+        "file": "File:Barricas de Pisco Mistral Gran Nobel.jpg",
+        "alt": "Barrels of pisco at the Mistral distillery"
+      },
+      "text": "A smaller, scenic distillery.",
+      "tip": "Try tastings."
+    },
+    {
+      "name": "Observatories",
+      "image": {
+        "file": "File:Observatorio Chakana 13.jpg",
+        "alt": "The Chakana observatory in the Elqui Valley"
+      },
+      "text": "Public stargazing tours.",
+      "tip": "Book ahead."
+    },
+    {
+      "name": "Gabriela Mistral Museum",
+      "text": "In Vicuña.",
+      "tip": "Allow an hour."
+    },
+    {
+      "name": "Cochiguaz valley",
+      "text": "A quiet side valley.",
+      "tip": "Hike or relax."
+    }
+  ],
+  "thingsToDoIntro": "The valley is for slow travel.",
+  "thingsToDo": [
+    {
+      "title": "Taste pisco",
+      "text": "At a distillery.",
+      "tip": "Do not drive after."
+    },
+    {
+      "title": "Stargaze",
+      "text": "At an observatory.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Hike",
+      "text": "Dry hills with views.",
+      "tip": "Carry water."
+    },
+    {
+      "title": "Relax in a village",
+      "text": "Cafes and shops.",
+      "tip": "Stay overnight."
+    },
+    {
+      "title": "Taste local produce",
+      "text": "Papayas and avocados.",
+      "tip": "Markets."
+    },
+    {
+      "title": "Visit La Serena",
+      "text": "Beaches and a cathedral.",
+      "tip": "Day trip."
+    }
+  ],
+  "foodIntro": "Local products are the highlight.",
+  "foods": [
+    {
+      "name": "Pisco sour",
+      "text": "Classic cocktail.",
+      "whereToTry": "Bars."
+    },
+    {
+      "name": "Papaya dessert",
+      "text": "Local sweet.",
+      "whereToTry": "Cafes."
+    },
+    {
+      "name": "Goat cheese",
+      "text": "Local specialty.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Empanadas",
+      "text": "Pastries.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Fresh avocados",
+      "text": "Grown here.",
+      "whereToTry": "Markets."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in villages or small lodges.",
+    "areas": [
+      {
+        "name": "Pisco Elqui",
+        "bestFor": "Atmosphere",
+        "text": "Guesthouses and cabins."
+      },
+      {
+        "name": "Vicuña",
+        "bestFor": "Convenience",
+        "text": "Hotels."
+      },
+      {
+        "name": "Cochiguaz",
+        "bestFor": "Quiet",
+        "text": "Retreats."
+      },
+      {
+        "name": "La Serena",
+        "bestFor": "Coast",
+        "text": "Hotels near the beach."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$25-45 per night"
+      },
+      {
+        "label": "Mid-range cabin",
+        "value": "US$60-130 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$150-300 per night"
+      },
+      {
+        "label": "Observatory tour",
+        "value": "Around US$30-50"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The valley is reached via La Serena.",
+    "options": [
+      {
+        "mode": "Fly to La Serena",
+        "text": "From Santiago in about 1 hour.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bus from Santiago",
+        "text": "About 6 to 7 hours.",
+        "detail": "Overnight."
+      },
+      {
+        "mode": "Drive",
+        "text": "From La Serena in about 1 hour.",
+        "detail": "Easy."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is best.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Flexible.",
+        "detail": "Roads are good."
+      },
+      {
+        "mode": "Colectivo",
+        "text": "Between villages.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "Bus",
+        "text": "From La Serena.",
+        "detail": "Regular."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "September-May",
+    "summary": "Sunny almost all year, with clear skies.",
+    "seasons": [
+      {
+        "season": "September-November",
+        "rating": "best",
+        "text": "Mild and clear."
+      },
+      {
+        "season": "December-February",
+        "rating": "good",
+        "text": "Hot and sunny."
+      },
+      {
+        "season": "March-May",
+        "rating": "best",
+        "text": "Warm and calm."
+      },
+      {
+        "season": "June-August",
+        "rating": "quiet",
+        "text": "Cooler nights."
+      }
+    ],
+    "avoid": "Rare, but winter nights can be cold."
+  },
+  "itinerary": {
+    "title": "Three days in the Elqui Valley",
+    "intro": "Pisco and stars.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Vicuña",
+        "morning": "Drive from La Serena",
+        "afternoon": "Capel distillery",
+        "evening": "Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Pisco Elqui",
+        "summary": "Village",
+        "morning": "Walk the village",
+        "afternoon": "Mistral distillery",
+        "evening": "Stargazing tour"
+      },
+      {
+        "day": 3,
+        "title": "Hills",
+        "summary": "Relax",
+        "morning": "Hike or swim",
+        "afternoon": "Lunch",
+        "evening": "Return"
+      }
+    ]
+  },
+  "tipsIntro": "Tips for the valley.",
+  "tips": [
+    "Book stargazing in advance.",
+    "Do not drink and drive.",
+    "Carry cash in villages.",
+    "Bring sun protection.",
+    "Check moon phase for stars.",
+    "Visit on weekdays.",
+    "Pack warm layers for nights."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "Two to three days."
+    },
+    {
+      "q": "Is it good for stars?",
+      "a": "Yes."
+    },
+    {
+      "q": "What is pisco?",
+      "a": "A grape brandy."
+    },
+    {
+      "q": "Can I tour distilleries?",
+      "a": "Yes."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "Via La Serena."
+    },
+    {
+      "q": "Is it hot?",
+      "a": "Yes, by day."
+    }
+  ],
+  "related": [
+    "santiago",
+    "san-pedro-de-atacama",
+    "valparaiso"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

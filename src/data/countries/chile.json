@@ -1,0 +1,423 @@
+{
+  "slug": "chile",
+  "name": "Chile",
+  "continent": "South America",
+  "countryCode": "CL",
+  "tagline": "Desert, glaciers, volcanoes and vineyards stretched along the Pacific, with Easter Island far offshore.",
+  "cardDescription": "A long, thin country from the Atacama Desert to Patagonia, with wine valleys, volcanoes, Easter Island and some of the best hiking on Earth.",
+  "metaDescription": "A complete Chile travel guide: the 10 best places to visit, from Santiago and Valparaiso to the Atacama, Torres del Paine and Easter Island, with practical tips, a two-week itinerary and costs.",
+  "image": {
+    "file": "File:Cuernos del Paine in Torres del Paine National Park.jpg",
+    "alt": "The Cuernos del Paine peaks above a lake in Patagonia"
+  },
+  "destinations": [
+    "santiago",
+    "valparaiso",
+    "san-pedro-de-atacama",
+    "torres-del-paine",
+    "easter-island",
+    "chiloe",
+    "pucon",
+    "elqui-valley",
+    "carretera-austral",
+    "puerto-varas"
+  ],
+  "intro": [
+    "Chile is a ribbon of land about 4,300 kilometres long and rarely more than 180 wide, squeezed between the Andes and the Pacific. That shape gives it extreme variety: the driest desert on Earth in the north, Mediterranean vineyards in the middle, lakes and volcanoes in the south and glaciers and granite peaks in Patagonia.",
+    "Santiago is the capital and the usual starting point, a modern city beneath the Andes. From there, most visitors head north to the Atacama for stargazing and salt flats, or south to the Lake District and Patagonia for volcanoes, forests and the Torres del Paine trekking circuit. Easter Island, a Polynesian outpost 3,700 km offshore, is a destination of its own.",
+    "Chile is safe, well organised and easy to travel in, with excellent food and wine. The long distances mean flights are often the best option, so choose a few regions rather than trying to see everything. Seasons are reversed from the northern hemisphere, so plan for December to February as summer."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend them for a first visit.",
+  "thingsToDoIntro": "The experiences that recur across the country and are worth planning around.",
+  "thingsToDo": [
+    {
+      "title": "Hike in Patagonia",
+      "text": "Torres del Paine and the Carretera Austral offer some of the best trekking in the world.",
+      "tip": "Book refugios and campsites months ahead."
+    },
+    {
+      "title": "Stargaze in the Atacama",
+      "text": "Some of the clearest skies on Earth, with observatory tours.",
+      "tip": "Book tours in advance."
+    },
+    {
+      "title": "Taste Chilean wine",
+      "text": "Visit the Maipo, Colchagua or Casablanca valleys.",
+      "tip": "Try Carmenere."
+    },
+    {
+      "title": "Climb a volcano",
+      "text": "Villarrica near Pucon is the classic.",
+      "tip": "Go with a guide."
+    },
+    {
+      "title": "See the moai",
+      "text": "Easter Island's giant statues.",
+      "tip": "Buy the park ticket on arrival."
+    },
+    {
+      "title": "Wander Valparaiso",
+      "text": "Funiculars, street art and views.",
+      "tip": "Wear sturdy shoes."
+    },
+    {
+      "title": "Eat seafood",
+      "text": "Fresh fish and shellfish along the coast.",
+      "tip": "Try curanto on Chiloe."
+    }
+  ],
+  "foodIntro": "Chilean food is built on seafood, beef, corn and good wine, with regional specialities from the desert to Chiloe.",
+  "foods": [
+    {
+      "name": "Empanada de pino",
+      "image": {
+        "file": "File:Empanada de pino.jpg",
+        "alt": "A Chilean empanada de pino"
+      },
+      "text": "A baked pastry filled with beef, onion, olive and egg.",
+      "whereToTry": "Bakeries and markets nationwide."
+    },
+    {
+      "name": "Pastel de choclo",
+      "image": {
+        "file": "File:Pastel de choclo.jpg",
+        "alt": "A Chilean pastel de choclo"
+      },
+      "text": "A corn pie baked over beef and chicken.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Completo",
+      "image": {
+        "file": "File:Completo italiano.jpg",
+        "alt": "A completo italiano"
+      },
+      "text": "A loaded hot dog with avocado, tomato and mayonnaise.",
+      "whereToTry": "Fast-food stands in every city."
+    },
+    {
+      "name": "Pisco sour",
+      "image": {
+        "file": "File:Pisco sour 20100613b.JPG",
+        "alt": "A pisco sour cocktail"
+      },
+      "text": "Pisco with lime and sugar, the national cocktail.",
+      "whereToTry": "Bars and restaurants."
+    },
+    {
+      "name": "Curanto",
+      "image": {
+        "file": "File:Destape de curanto.JPG",
+        "alt": "Uncovering a curanto earth-oven feast"
+      },
+      "text": "A feast of seafood, meat and potatoes cooked in a pit.",
+      "whereToTry": "Chiloe restaurants."
+    },
+    {
+      "name": "Chilean wine",
+      "text": "Carmenere, Cabernet and Sauvignon Blanc.",
+      "whereToTry": "Wine bars and valley estates."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Chile is straightforward for most visitors, but check official sources before you travel.",
+  "practical": {
+    "capital": "Santiago",
+    "language": "Spanish is the official language. English is spoken in tourism, but less so elsewhere.",
+    "currency": "Chilean peso (CLP). Roughly 900-1,000 pesos to the US dollar in recent years.",
+    "money": "Cards are widely accepted. Carry cash for rural areas, markets and small shops. ATMs are common.",
+    "visa": "Many nationalities, including the US, UK, EU and Australia, can enter visa-free for tourism for up to 90 days, but rules change, so check before you go.",
+    "plugs": "Type C and L, 220 V, 50 Hz. Bring an adaptor.",
+    "emergency": "133 for police, 131 for ambulance, 132 for fire. 911 is not used.",
+    "tipping": "Around 10% is customary in restaurants and is often added to the bill as a suggested tip.",
+    "safety": "Chile is one of the safest countries in South America. Take normal precautions against pickpockets in cities, follow advice on volcanoes and trails, and be prepared for earthquakes.",
+    "connectivity": "Good in cities and towns, patchy in Patagonia and the Atacama. Local SIMs from Entel, Movistar or Claro are inexpensive.",
+    "timeZone": "Chile Standard Time (UTC-4), with daylight saving in the southern summer. Easter Island is two hours behind the mainland.",
+    "budget": [
+      {
+        "label": "Budget",
+        "value": "US$50-90 per person per day - hostels, buses and cooking your own food"
+      },
+      {
+        "label": "Mid-range",
+        "value": "US$120-200 per person per day - hotels, restaurants and some tours"
+      },
+      {
+        "label": "Comfortable",
+        "value": "US$250-400 per person per day - boutique stays and guided trips"
+      },
+      {
+        "label": "Splurge",
+        "value": "US$500+ per person per day - Patagonian lodges and private tours"
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November-March",
+    "summary": "Southern summer, from November to March, is best for Patagonia, the Lake District and Chiloe.",
+    "seasons": [
+      {
+        "season": "November-March",
+        "rating": "best",
+        "text": "Long days and open trails in the south."
+      },
+      {
+        "season": "March-May",
+        "rating": "best",
+        "text": "Autumn colours, wine harvest and fewer crowds."
+      },
+      {
+        "season": "September-November",
+        "rating": "good",
+        "text": "Spring, with the Atacama and Santiago at their best."
+      },
+      {
+        "season": "June-August",
+        "rating": "good",
+        "text": "Ski season in the Andes, but cold and wet in the south."
+      }
+    ],
+    "avoid": "Winter in Patagonia, when trails, refugios and ferries close."
+  },
+  "tripDuration": {
+    "headline": "10-14 days for a first trip",
+    "summary": "Chile is long, so be selective. Two regions plus Santiago is enough for most.",
+    "options": [
+      {
+        "length": "5-7 days",
+        "text": "Santiago, Valparaiso and the Atacama, or Santiago and the Lake District.",
+        "detail": "A taste of the country."
+      },
+      {
+        "length": "10 days",
+        "text": "Santiago, the Atacama and Patagonia.",
+        "detail": "The classic combination."
+      },
+      {
+        "length": "14 days",
+        "text": "Add the Lake District and Chiloe.",
+        "detail": "A fuller picture."
+      },
+      {
+        "length": "3 weeks",
+        "text": "Add the Carretera Austral and Easter Island.",
+        "detail": "For slow travellers."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Flights are the practical way to cover the long distances. Buses are comfortable for shorter routes.",
+    "options": [
+      {
+        "mode": "Domestic flights",
+        "text": "Santiago to Calama, Punta Arenas, Puerto Montt and Easter Island.",
+        "detail": "LATAM and Sky Airline are the main carriers."
+      },
+      {
+        "mode": "Long-distance buses",
+        "text": "Comfortable semi-cama and cama seats.",
+        "detail": "Book ahead for holidays."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Best for the Lake District, Elqui and the Carretera Austral.",
+        "detail": "Check insurance and gravel roads."
+      },
+      {
+        "mode": "Ferries",
+        "text": "Across fjords and to Chiloe.",
+        "detail": "Book ahead on the Carretera Austral."
+      },
+      {
+        "mode": "Metro and taxis",
+        "text": "In Santiago and Valparaiso.",
+        "detail": "Use apps at night."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Chile",
+    "intro": "Santiago, the Atacama, Patagonia and the Lake District.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Santiago",
+        "morning": "Land and transfer to the centre.",
+        "afternoon": "Walk Plaza de Armas and Cerro Santa Lucia.",
+        "evening": "Dinner in Lastarria."
+      },
+      {
+        "day": 2,
+        "title": "Santiago",
+        "morning": "Cerro San Cristobal and Mercado Central.",
+        "afternoon": "Museo de la Memoria.",
+        "evening": "Maipo wine dinner."
+      },
+      {
+        "day": 3,
+        "title": "Valparaiso",
+        "morning": "Bus to the coast and ride the ascensores.",
+        "afternoon": "La Sebastiana and street art.",
+        "evening": "Seafood dinner."
+      },
+      {
+        "day": 4,
+        "title": "Fly to the Atacama",
+        "morning": "Fly to Calama and transfer to San Pedro.",
+        "afternoon": "Rest and acclimatise.",
+        "evening": "Early dinner."
+      },
+      {
+        "day": 5,
+        "title": "San Pedro",
+        "morning": "Valle de la Luna.",
+        "afternoon": "Laguna Cejar.",
+        "evening": "Stargazing."
+      },
+      {
+        "day": 6,
+        "title": "San Pedro",
+        "morning": "El Tatio geysers at dawn.",
+        "afternoon": "Hot springs.",
+        "evening": "Fly back to Santiago."
+      },
+      {
+        "day": 7,
+        "title": "Fly to Patagonia",
+        "morning": "Fly to Punta Arenas and bus to Puerto Natales.",
+        "afternoon": "Gear check.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 8,
+        "title": "Torres del Paine",
+        "morning": "Transfer to the park and hike to Grey.",
+        "afternoon": "Glacier views.",
+        "evening": "Refugio dinner."
+      },
+      {
+        "day": 9,
+        "title": "Torres del Paine",
+        "morning": "Hike to the French Valley.",
+        "afternoon": "Rest.",
+        "evening": "Refugio dinner."
+      },
+      {
+        "day": 10,
+        "title": "Torres del Paine",
+        "morning": "Hike to Base Torres.",
+        "afternoon": "Descend.",
+        "evening": "Return to Puerto Natales."
+      },
+      {
+        "day": 11,
+        "title": "Fly to the Lake District",
+        "morning": "Fly to Puerto Montt and drive to Puerto Varas.",
+        "afternoon": "Lake Llanquihue walk.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 12,
+        "title": "Puerto Varas",
+        "morning": "Petrohue Falls and Lake Todos los Santos.",
+        "afternoon": "Osorno volcano.",
+        "evening": "Kuchen at Frutillar."
+      },
+      {
+        "day": 13,
+        "title": "Chiloe",
+        "morning": "Drive to Castro.",
+        "afternoon": "Palafitos and churches.",
+        "evening": "Curanto dinner."
+      },
+      {
+        "day": 14,
+        "title": "Return",
+        "morning": "Chiloe National Park.",
+        "afternoon": "Fly from Mocopulli.",
+        "evening": "Farewell dinner in Santiago."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Chileans are polite, warm and a little formal, and family and conversation matter. Greeting and farewell customs are important, and punctuality is relaxed socially.",
+    "etiquette": [
+      {
+        "title": "Greet properly",
+        "text": "A handshake in business, a single cheek kiss in social settings."
+      },
+      {
+        "title": "Be polite with titles",
+        "text": "Use senor and senora until invited."
+      },
+      {
+        "title": "Expect late dinners",
+        "text": "Dinner is often after 8:30 pm."
+      },
+      {
+        "title": "Join the sobremesa",
+        "text": "Lingering after meals is normal."
+      },
+      {
+        "title": "Be patient with time",
+        "text": "Social events start late."
+      },
+      {
+        "title": "Respect nature",
+        "text": "Follow Leave No Trace in parks."
+      }
+    ],
+    "dos": [
+      "Learn basic Spanish phrases",
+      "Say buenos dias to shopkeepers",
+      "Tip about 10% at restaurants",
+      "Carry ID or a copy",
+      "Respect trail rules in parks",
+      "Be on time for tours"
+    ],
+    "donts": [
+      "Do not leave valuables visible",
+      "Do not photograph military sites",
+      "Do not drink and drive",
+      "Do not litter in parks",
+      "Do not touch moai",
+      "Do not ignore volcano or weather alerts"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Chile.",
+  "tips": [
+    "Book Torres del Paine refugios and Easter Island flights months ahead.",
+    "Remember the seasons are reversed.",
+    "Flights are cheaper if booked early.",
+    "Carry layers, since weather changes quickly.",
+    "Bring cash for remote areas.",
+    "Check for ferry and road closures in Patagonia.",
+    "Watch for pickpockets in city centres.",
+    "Know earthquake procedures at your hotel."
+  ],
+  "faq": [
+    {
+      "q": "Is Chile safe for tourists?",
+      "a": "Yes, it is one of the safest countries in South America."
+    },
+    {
+      "q": "How many days do I need?",
+      "a": "Ten to fourteen days for a good trip."
+    },
+    {
+      "q": "Do I need a visa?",
+      "a": "Many nationalities do not for stays up to 90 days, but check."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "November to March for Patagonia, and March to May or September to November for the north and centre."
+    },
+    {
+      "q": "Is Chile expensive?",
+      "a": "It is moderately pricey, especially Patagonia and Easter Island."
+    },
+    {
+      "q": "Can I see everything in one trip?",
+      "a": "No, choose two or three regions."
+    }
+  ]
+}

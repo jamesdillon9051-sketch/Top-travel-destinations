@@ -1,0 +1,133 @@
+{
+  "country": "chile",
+  "title": "The Complete Chile Travel Guide",
+  "subtitle": "How a 4,300 km ribbon of a country divides, how to choose between the ten destinations, when to go, what it costs and three routes that work.",
+  "summary": "Chile stretches from the Atacama Desert to Patagonian glaciers, with Easter Island far out in the Pacific. This guide explains how the country divides, how to choose between the ten destinations, how to move around, when to go, what it costs and three routes that work.",
+  "readingTime": "12 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Is Chile too long to see in one trip?",
+      "a": "Yes, so choose a region or two. Flights are cheap and frequent, and the country is easy to piece together by air and bus."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "November to March for Patagonia and the south, and any time of year for the Atacama, though March to May and September to November are most comfortable."
+    },
+    {
+      "q": "Do I need Spanish?",
+      "a": "It helps, especially outside Santiago and the main tourist areas, though staff in tourist businesses often speak some English."
+    },
+    {
+      "q": "Is Chile safe?",
+      "a": "Generally, one of the safer countries in South America, but watch for pickpockets in cities and follow trail and weather advice in the mountains."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-chile-divides",
+      "title": "How Chile divides",
+      "navLabel": "The regions",
+      "body": [
+        "Chile is narrow and long, so the country is best understood as a set of regions, linked mostly by flights.",
+        "**Santiago and the centre.** [[santiago|Santiago]] is the capital and gateway, with [[valparaiso|Valparaiso]] on the coast and the wine valleys nearby.",
+        "**The north.** [[san-pedro-de-atacama|San Pedro de Atacama]] is the desert base, and [[elqui-valley|the Elqui Valley]] offers pisco and stars.",
+        "**The Lake District and Chiloe.** [[pucon|Pucon]], [[puerto-varas|Puerto Varas]] and [[chiloe|Chiloe]] have volcanoes, lakes and wooden churches.",
+        "**Patagonia.** [[torres-del-paine|Torres del Paine]] and [[carretera-austral|the Carretera Austral]] are the wild south, and [[easter-island|Easter Island]] sits alone in the Pacific."
+      ],
+      "note": "Most first trips combine Santiago with one northern and one southern region."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[santiago"
+        },
+        {
+          "title": "If you love hiking",
+          "text": "[[torres-del-paine"
+        },
+        {
+          "title": "If you love stargazing and wine",
+          "text": "[[san-pedro-de-atacama"
+        },
+        {
+          "title": "If you love culture",
+          "text": "[[easter-island"
+        },
+        {
+          "title": "If you love road trips",
+          "text": "[[carretera-austral"
+        },
+        {
+          "title": "If you want an easy, scenic base",
+          "text": "[[puerto-varas"
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around",
+      "navLabel": "Getting around",
+      "body": [
+        "Chile is long, so flights are the practical way to cover distance. Santiago connects to Calama (for the Atacama), Punta Arenas (for Patagonia), Puerto Montt and Easter Island.",
+        "Long-distance buses are comfortable and affordable, especially between Santiago and Valparaiso, the Lake District and the north.",
+        "A rental car is the best way to explore the Lake District, the Elqui Valley and the Carretera Austral.",
+        "Ferries link parts of the south, including crossings to Chiloe and along the Carretera Austral."
+      ],
+      "note": "Book Patagonia lodging and Easter Island flights as early as you can."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Chile has opposite seasons to the northern hemisphere. Summer runs from December to February.",
+        "November to March is the best time for Patagonia, the Lake District and Chiloe.",
+        "The Atacama is dry and sunny nearly all year, with cold nights in winter and occasional altiplano rain in summer.",
+        "Santiago and the wine regions are best in spring and autumn, with the harvest in March and April.",
+        "Winter, June to August, is ski season in the Andes and wet in the south."
+      ],
+      "note": "Easter Island is best from March to May or September to November."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Chile is one of the more expensive countries in South America, though still cheaper than Europe or North America. A budget traveller can manage on US$50-80 a day, a mid-range traveller on US$120-200.",
+        "Torres del Paine and Easter Island are the priciest places. Refugio beds, park fees and flights add up.",
+        "Cards are widely accepted, and the Chilean peso is the currency. ATMs are common, though in remote areas you should carry cash.",
+        "Chile is generally safe. Beware pickpockets in cities and take care on mountain trails and near active volcanoes. Earthquakes occur, so know your hotel's safety procedures."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: Santiago and the Atacama",
+          "text": "Three nights in [[santiago",
+          "tip": "Santiago]] with a day in [[valparaiso"
+        },
+        {
+          "title": "Ten days: Santiago and Patagonia",
+          "text": "Two nights in [[santiago",
+          "tip": "Santiago]] and [[valparaiso"
+        },
+        {
+          "title": "Two weeks: the long way",
+          "text": "The itinerary on the country page, covering Santiago, the Atacama, Patagonia and the Lake District with [[chiloe",
+          "tip": "Chiloe]]."
+        }
+      ]
+    }
+  ]
+}

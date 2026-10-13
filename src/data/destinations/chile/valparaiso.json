@@ -1,0 +1,342 @@
+{
+  "slug": "valparaiso",
+  "name": "Valparaiso",
+  "country": "chile",
+  "region": "Valparaiso Region, central coast",
+  "categories": [
+    "historic",
+    "unesco",
+    "coastal",
+    "cultural"
+  ],
+  "tagline": "A colourful port city of steep hills, ascensores, murals and poets.",
+  "highlight": "Riding a century-old funicular up a hillside of painted houses.",
+  "shortDescription": "A UNESCO-listed port with 42 hills, cable-car lifts, street art, the Neruda house and the seaside resort of Vina del Mar nearby.",
+  "metaDescription": "A Valparaiso travel guide: Cerro Alegre and Concepcion, ascensores, street art, La Sebastiana, port tours, Vina del Mar, where to stay and a two-day plan.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Santiago (SCL), about 1.5 hours by road",
+  "knownFor": "Colour, street art, funiculars",
+  "budget": "US$50-120 per day",
+  "goodFor": "Photographers, art lovers, day-trippers",
+  "coords": {
+    "lat": -33.0472,
+    "lng": -71.6127
+  },
+  "image": {
+    "file": "File:Colourful houses in Valparaiso, Chile (39238188191).jpg",
+    "alt": "Colourful houses on a hillside in Valparaiso"
+  },
+  "intro": [
+    "Valparaiso rises from the Pacific in a jumble of steep hills, brightly painted houses and winding staircases. Once the most important port on the Pacific coast of South America, it declined after the opening of the Panama Canal, and its faded grandeur and bohemian spirit are now part of the charm. The historic quarter is a UNESCO World Heritage Site.",
+    "The best way to see it is to wander the hills, especially Cerro Alegre and Cerro Concepcion, with their murals, cafes, galleries and views. Old funiculars, called ascensores, connect the hills with the flat port area below. Pablo Neruda's house, La Sebastiana, is a short ride away and is full of curious objects.",
+    "Nearby Vina del Mar is a more formal seaside resort with beaches and gardens, and the area also has seafood restaurants and coastal towns. Expect to climb a lot, and watch your valuables in the port area."
+  ],
+  "whyVisit": {
+    "intro": "Valparaiso is the most photogenic city in Chile.",
+    "points": [
+      {
+        "title": "Painted hillsides",
+        "text": "A riot of colour."
+      },
+      {
+        "title": "Street art",
+        "text": "Murals on every corner."
+      },
+      {
+        "title": "Funiculars",
+        "text": "Historic ascensores still run."
+      },
+      {
+        "title": "Poetry and culture",
+        "text": "Neruda's home."
+      },
+      {
+        "title": "Seafood and views",
+        "text": "Ocean vistas over lunch."
+      }
+    ]
+  },
+  "attractionsIntro": "Most of the sights are on the hills near the port.",
+  "attractions": [
+    {
+      "name": "Cerro Alegre",
+      "image": {
+        "file": "File:Street art in Valparaiso, Chile (15065824205).jpg",
+        "alt": "Street art on a Valparaiso hillside"
+      },
+      "text": "The most visited hill, with cafes and murals.",
+      "tip": "Walk down rather than up."
+    },
+    {
+      "name": "Cerro Concepcion",
+      "text": "A quieter hill with boutique hotels.",
+      "tip": "Take the Ascensor Reina Victoria."
+    },
+    {
+      "name": "Ascensores",
+      "image": {
+        "file": "File:Ascensor Ferroviario.jpg",
+        "alt": "A historic ascensor funicular in Valparaiso"
+      },
+      "text": "Historic funiculars.",
+      "tip": "Carry small coins."
+    },
+    {
+      "name": "La Sebastiana",
+      "image": {
+        "file": "File:Casa Museo La Sebastiana - Pablo Neruda, Valparaiso.jpg",
+        "alt": "La Sebastiana, Pablo Neruda's house in Valparaiso"
+      },
+      "text": "Neruda's hillside home, now a museum.",
+      "tip": "Take a taxi up."
+    },
+    {
+      "name": "Port of Valparaiso",
+      "text": "Cranes and boat tours.",
+      "tip": "Go in daylight."
+    },
+    {
+      "name": "Vina del Mar",
+      "text": "A seaside resort with gardens.",
+      "tip": "Short train ride."
+    }
+  ],
+  "thingsToDoIntro": "Valparaiso is for wandering, eating and photographing.",
+  "thingsToDo": [
+    {
+      "title": "Ride an ascensor",
+      "text": "Up Concepcion or Artilleria.",
+      "tip": "Use the older ones."
+    },
+    {
+      "title": "Take a street art walk",
+      "text": "A guided or free tour.",
+      "tip": "Tip your guide."
+    },
+    {
+      "title": "Visit La Sebastiana",
+      "text": "Neruda's eclectic house.",
+      "tip": "Book a time slot."
+    },
+    {
+      "title": "Take a harbour boat",
+      "text": "Short trip around the bay.",
+      "tip": "Go on a clear day."
+    },
+    {
+      "title": "Eat seafood",
+      "text": "Fresh fish and stews.",
+      "tip": "Try Mercado Cardonal."
+    },
+    {
+      "title": "Spend a day in Vina del Mar",
+      "text": "Gardens and beaches.",
+      "tip": "Take the Metro Valparaiso."
+    }
+  ],
+  "foodIntro": "The port has great seafood.",
+  "foods": [
+    {
+      "name": "Caldillo de congrio",
+      "text": "Conger eel soup.",
+      "whereToTry": "Seafood restaurants."
+    },
+    {
+      "name": "Ceviche",
+      "text": "Raw fish in lime.",
+      "whereToTry": "Waterfront."
+    },
+    {
+      "name": "Empanadas de mariscos",
+      "text": "Seafood pastries.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Chorrillana",
+      "text": "Fries with beef and eggs.",
+      "whereToTry": "Bars."
+    },
+    {
+      "name": "Terremoto",
+      "text": "Wine and ice cream drink.",
+      "whereToTry": "Bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay on the hills for atmosphere.",
+    "areas": [
+      {
+        "name": "Cerro Alegre",
+        "bestFor": "Atmosphere",
+        "text": "Boutique guesthouses."
+      },
+      {
+        "name": "Cerro Concepcion",
+        "bestFor": "Views",
+        "text": "Quiet hotels."
+      },
+      {
+        "name": "Plan",
+        "bestFor": "Cheap",
+        "text": "Hostels near the flat."
+      },
+      {
+        "name": "Vina del Mar",
+        "bestFor": "Beach",
+        "text": "Modern hotels."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$15-30 per night"
+      },
+      {
+        "label": "Boutique guesthouse",
+        "value": "US$70-150 per night"
+      },
+      {
+        "label": "Hotel",
+        "value": "US$80-160 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$8-20 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Valparaiso is an easy trip from Santiago.",
+    "options": [
+      {
+        "mode": "Bus from Santiago",
+        "text": "About 1.5 hours.",
+        "detail": "Frequent departures."
+      },
+      {
+        "mode": "Car",
+        "text": "About 1.5 hours.",
+        "detail": "Traffic on weekends."
+      },
+      {
+        "mode": "Tour",
+        "text": "Day trips.",
+        "detail": "With Vina del Mar."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Walk the hills, and use ascensores.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Best for the hills.",
+        "detail": "Wear sturdy shoes."
+      },
+      {
+        "mode": "Ascensor",
+        "text": "Funiculars.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "Colectivo",
+        "text": "Shared taxis.",
+        "detail": "Cheap."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "September-April",
+    "summary": "Spring to autumn is warm and dry, though summer brings crowds.",
+    "seasons": [
+      {
+        "season": "September-November",
+        "rating": "best",
+        "text": "Mild with flowers."
+      },
+      {
+        "season": "December-February",
+        "rating": "good",
+        "text": "Warm and busy."
+      },
+      {
+        "season": "March-April",
+        "rating": "best",
+        "text": "Warm and calmer."
+      },
+      {
+        "season": "May-August",
+        "rating": "quiet",
+        "text": "Cool and damp."
+      }
+    ],
+    "avoid": "Winter, when it is cold, misty and damp."
+  },
+  "itinerary": {
+    "title": "Two days in Valparaiso",
+    "intro": "Hills, art and coast.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Hills",
+        "summary": "Ascensores and murals",
+        "morning": "Cerro Alegre walk",
+        "afternoon": "Seafood lunch",
+        "evening": "Concepcion sunset"
+      },
+      {
+        "day": 2,
+        "title": "Neruda and the coast",
+        "summary": "La Sebastiana",
+        "morning": "Vina del Mar gardens",
+        "afternoon": "Return to Santiago or stay",
+        "evening": "Dinner"
+      }
+    ]
+  },
+  "tipsIntro": "Tips for visiting.",
+  "tips": [
+    "Wear comfortable shoes for steep streets.",
+    "Watch valuables near the port.",
+    "Visit on weekdays for fewer crowds.",
+    "Carry small change for ascensores.",
+    "Take taxis at night.",
+    "Book hills hotels ahead.",
+    "Check ascensor opening times."
+  ],
+  "faq": [
+    {
+      "q": "Is Valparaiso safe?",
+      "a": "Yes in tourist areas with care."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "One to two days."
+    },
+    {
+      "q": "Can I day-trip from Santiago?",
+      "a": "Yes."
+    },
+    {
+      "q": "Which hill is best?",
+      "a": "Alegre and Concepcion."
+    },
+    {
+      "q": "Are ascensores running?",
+      "a": "Some are, check locally."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "No."
+    }
+  ],
+  "related": [
+    "santiago",
+    "elqui-valley",
+    "puerto-varas"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

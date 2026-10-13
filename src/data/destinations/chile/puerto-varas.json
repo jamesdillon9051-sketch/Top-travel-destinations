@@ -1,0 +1,354 @@
+{
+  "slug": "puerto-varas",
+  "name": "Puerto Varas and the Lake District",
+  "country": "chile",
+  "region": "Los Lagos Region",
+  "categories": [
+    "nature",
+    "scenic",
+    "coastal",
+    "mountains"
+  ],
+  "tagline": "A German-influenced lakeside town facing the twin cones of Osorno and Calbuco volcanoes.",
+  "highlight": "Watching Osorno volcano turn pink at sunset over Lake Llanquihue.",
+  "shortDescription": "A relaxed lakeside base for Petrohue Falls, Lake Todos los Santos, Vicente Perez Rosales National Park and kuchen cafes.",
+  "metaDescription": "A Puerto Varas guide: Lake Llanquihue, Osorno volcano, Petrohue Falls, Lake Todos los Santos, German heritage, Alerce Costero, where to stay, costs and a three-day plan.",
+  "suggestedStay": "2-4 days",
+  "nearestAirport": "El Tepual, Puerto Montt (PMC), about 20 minutes by road",
+  "knownFor": "Lakes, volcanoes, German heritage",
+  "budget": "US$70-160 per day",
+  "goodFor": "Families, nature lovers, relaxed trips",
+  "coords": {
+    "lat": -41.319,
+    "lng": -72.985
+  },
+  "image": {
+    "file": "File:Puerto-Varas-Osorno-1030936.jpg",
+    "alt": "Osorno volcano rising behind Puerto Varas"
+  },
+  "intro": [
+    "Puerto Varas is a lakeside town built by German settlers in the 19th century, and its wooden houses, kuchen cafes and church give it a distinct European feel. It faces the glassy Lake Llanquihue, with the snow-capped cone of Osorno volcano across the water and the smoking Calbuco nearby.",
+    "It is a gateway to the Chilean Lake District. Vicente Perez Rosales National Park, the oldest in Chile, includes the Petrohue Falls and Lake Todos los Santos, with its emerald water. Visitors can hike, kayak, raft, ski on Osorno in winter or take a ferry across the Andes to Argentina.",
+    "The town is also close to Puerto Montt and Chiloe, making it a good base for a mix of nature and culture. It is quiet, easy and comfortable, and a good place to slow down after the more demanding parts of Chile."
+  ],
+  "whyVisit": {
+    "intro": "Puerto Varas is a gentle introduction to Chilean nature.",
+    "points": [
+      {
+        "title": "Volcano views",
+        "text": "Osorno and Calbuco."
+      },
+      {
+        "title": "Petrohue Falls",
+        "text": "Turquoise rapids."
+      },
+      {
+        "title": "German heritage",
+        "text": "Kuchen and architecture."
+      },
+      {
+        "title": "Lakes and rivers",
+        "text": "Kayak and raft."
+      },
+      {
+        "title": "Easy base",
+        "text": "Close to the airport."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights are on the lake and in the national park.",
+  "attractions": [
+    {
+      "name": "Lake Llanquihue",
+      "image": {
+        "file": "File:Puerto Varas sunrise lago Llanquihue 1030897.jpg",
+        "alt": "Sunrise over Lake Llanquihue at Puerto Varas"
+      },
+      "text": "A vast lake with beaches and views.",
+      "tip": "Walk the waterfront."
+    },
+    {
+      "name": "Osorno volcano",
+      "text": "A cone for hiking and skiing.",
+      "tip": "Take the chairlift."
+    },
+    {
+      "name": "Petrohue Falls",
+      "image": {
+        "file": "File:Saltos del Petrohué y Volcán Osorno.jpg",
+        "alt": "Petrohue Falls with Osorno volcano behind"
+      },
+      "text": "Turquoise rapids over black lava.",
+      "tip": "Visit early."
+    },
+    {
+      "name": "Lake Todos los Santos",
+      "image": {
+        "file": "File:Lago Todos los Santos, Parque Vicente Perez Rosales.jpg",
+        "alt": "Lake Todos los Santos"
+      },
+      "text": "Emerald lake in the national park.",
+      "tip": "Take a boat."
+    },
+    {
+      "name": "Alerce Costero National Park",
+      "image": {
+        "file": "File:Panorama Alerce Costero.jpg",
+        "alt": "Alerce forest in Alerce Costero National Park"
+      },
+      "text": "Ancient alerce trees.",
+      "tip": "Hike with a guide."
+    },
+    {
+      "name": "Frutillar",
+      "text": "A lakeside town with a music hall.",
+      "tip": "Short drive."
+    }
+  ],
+  "thingsToDoIntro": "The area suits outdoor lovers.",
+  "thingsToDo": [
+    {
+      "title": "Hike the volcano",
+      "text": "Osorno trails.",
+      "tip": "Go in summer."
+    },
+    {
+      "title": "Kayak on the lake",
+      "text": "Calm morning water.",
+      "tip": "Bring a jacket."
+    },
+    {
+      "title": "Raft the Petrohue",
+      "text": "Grade III rapids.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Eat kuchen",
+      "text": "German-style cake.",
+      "tip": "Frutillar cafes."
+    },
+    {
+      "title": "Visit Frutillar",
+      "text": "Music hall and museum.",
+      "tip": "Concerts in January."
+    },
+    {
+      "title": "Take a boat across Lake Todos los Santos",
+      "text": "Cross to Argentina.",
+      "tip": "Plan a day."
+    }
+  ],
+  "foodIntro": "German and Chilean traditions meet.",
+  "foods": [
+    {
+      "name": "Kuchen",
+      "text": "German cake.",
+      "whereToTry": "Cafes."
+    },
+    {
+      "name": "Salmon",
+      "text": "Local fish.",
+      "whereToTry": "Waterfront."
+    },
+    {
+      "name": "Curanto",
+      "text": "Seafood stew.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Local brews.",
+      "whereToTry": "Bars."
+    },
+    {
+      "name": "Cazuela",
+      "text": "Hearty stew.",
+      "whereToTry": "Restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay by the lake.",
+    "areas": [
+      {
+        "name": "Town centre",
+        "bestFor": "Convenience",
+        "text": "Hotels and guesthouses."
+      },
+      {
+        "name": "Lakeshore",
+        "bestFor": "Views",
+        "text": "Lodges."
+      },
+      {
+        "name": "Frutillar",
+        "bestFor": "Culture",
+        "text": "Boutique hotels."
+      },
+      {
+        "name": "Ensenada",
+        "bestFor": "Nature",
+        "text": "Cabins."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$20-40 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$70-150 per night"
+      },
+      {
+        "label": "Lodge",
+        "value": "US$150-300 per night"
+      },
+      {
+        "label": "Park entry",
+        "value": "Around US$10-15"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Puerto Varas is close to Puerto Montt airport.",
+    "options": [
+      {
+        "mode": "Fly to Puerto Montt",
+        "text": "From Santiago in about 1.75 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bus",
+        "text": "From Puerto Montt, 20 minutes.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bus from Santiago",
+        "text": "About 12 hours.",
+        "detail": "Overnight."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car makes things easy.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The best option.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Bus",
+        "text": "To Frutillar and Ensenada.",
+        "detail": "Regular."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Local.",
+        "detail": "Cheap."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December-March",
+    "summary": "Summer is warm and best for outdoor activities.",
+    "seasons": [
+      {
+        "season": "December-February",
+        "rating": "best",
+        "text": "Warm and long days."
+      },
+      {
+        "season": "October-November",
+        "rating": "good",
+        "text": "Spring."
+      },
+      {
+        "season": "March-April",
+        "rating": "good",
+        "text": "Autumn calm."
+      },
+      {
+        "season": "May-September",
+        "rating": "avoid",
+        "text": "Rain and cold."
+      }
+    ],
+    "avoid": "Winter rains if you plan to hike."
+  },
+  "itinerary": {
+    "title": "Three days around Puerto Varas",
+    "intro": "Volcano and lakes.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Town",
+        "summary": "Lake",
+        "morning": "Waterfront walk",
+        "afternoon": "Frutillar visit",
+        "evening": "Sunset dinner"
+      },
+      {
+        "day": 2,
+        "title": "National park",
+        "summary": "Falls",
+        "morning": "Petrohue Falls",
+        "afternoon": "Lake Todos los Santos",
+        "evening": "Return"
+      },
+      {
+        "day": 3,
+        "title": "Volcano",
+        "summary": "Osorno",
+        "morning": "Hike or lift",
+        "afternoon": "Lunch",
+        "evening": "Farewell dinner"
+      }
+    ]
+  },
+  "tipsIntro": "Tips for the Lake District.",
+  "tips": [
+    "Book summer stays early.",
+    "Pack for rain.",
+    "Rent a car.",
+    "Try kuchen.",
+    "Check volcano alerts.",
+    "Carry cash.",
+    "Start hikes early."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "Two to four days."
+    },
+    {
+      "q": "Is it rainy?",
+      "a": "Often."
+    },
+    {
+      "q": "Are volcanoes safe?",
+      "a": "Calbuco is monitored."
+    },
+    {
+      "q": "Can I go to Argentina?",
+      "a": "By boat and bus."
+    },
+    {
+      "q": "When is best?",
+      "a": "December to March."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Moderate."
+    }
+  ],
+  "related": [
+    "chiloe",
+    "pucon",
+    "carretera-austral"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

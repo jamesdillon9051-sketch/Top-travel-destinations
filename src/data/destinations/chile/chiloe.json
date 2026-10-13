@@ -1,0 +1,350 @@
+{
+  "slug": "chiloe",
+  "name": "Chiloe",
+  "country": "chile",
+  "region": "Los Lagos Region, southern Chile",
+  "categories": [
+    "island",
+    "unesco",
+    "cultural",
+    "coastal"
+  ],
+  "tagline": "A misty island of wooden churches, stilt houses, myths and seafood.",
+  "highlight": "Eating curanto cooked in an earth pit, then watching penguins from a boat.",
+  "shortDescription": "An island archipelago with 16 UNESCO-listed wooden churches, palafito stilt houses, Chilote cuisine, penguin colonies and folklore.",
+  "metaDescription": "A Chiloe travel guide: Castro palafitos, wooden churches of Achao and Nercon, curanto, Chiloe National Park, penguins at Puñihuil, the ferry, where to stay and a three-day plan.",
+  "suggestedStay": "2-4 days",
+  "nearestAirport": "Mocopulli (MHC) near Castro, or Puerto Montt (PMC) plus ferry",
+  "knownFor": "Wooden churches, stilt houses, seafood",
+  "budget": "US$60-130 per day",
+  "goodFor": "Culture, food, slow travel",
+  "coords": {
+    "lat": -42.4724,
+    "lng": -73.764
+  },
+  "image": {
+    "file": "File:Palafitos de Castro.jpg",
+    "alt": "The colourful palafito stilt houses of Castro"
+  },
+  "intro": [
+    "Chiloe is a large island off the coast of southern Chile, shaped by rain, sea and a distinct culture. The Chilotes developed their own architecture, cuisine, myths and traditions, and the island is full of wooden churches, stilt houses and misty shores. Sixteen of its churches are UNESCO World Heritage Sites.",
+    "Castro, the capital, is known for its palafitos, wooden houses on stilts above the tide, and the colourful San Francisco church. Elsewhere, Achao and Nercon have beautiful churches, and the nearby islands of Quinchao and Aucar offer a slower pace. The island also has national parks, tidal shores, and colonies of Magellanic and Humboldt penguins at Puñihuil.",
+    "Chilote food is a highlight, especially curanto, a stew of seafood, meat and potatoes cooked in a pit. Weather is wet and changeable, but the sun often appears, and the island is a gentle, atmospheric place to slow down."
+  ],
+  "whyVisit": {
+    "intro": "Chiloe feels different from the rest of Chile.",
+    "points": [
+      {
+        "title": "Wooden churches",
+        "text": "A unique island architecture."
+      },
+      {
+        "title": "Stilt houses",
+        "text": "Palafitos at Castro."
+      },
+      {
+        "title": "Cuisine",
+        "text": "Curanto and seafood."
+      },
+      {
+        "title": "Folklore",
+        "text": "Myths and legends."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Penguins and whales."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights are along the east coast and near Castro.",
+  "attractions": [
+    {
+      "name": "Castro palafitos",
+      "text": "Colourful stilt houses over the water.",
+      "tip": "Photograph at high tide."
+    },
+    {
+      "name": "San Francisco Church, Castro",
+      "image": {
+        "file": "File:SanFranciscoChurchChiloe2016.jpg",
+        "alt": "The San Francisco church in Castro"
+      },
+      "text": "A yellow and purple wooden landmark.",
+      "tip": "Look inside."
+    },
+    {
+      "name": "Achao church",
+      "image": {
+        "file": "File:08. Achao, Isla de Quinchao (34).JPG",
+        "alt": "The church at Achao on Quinchao island"
+      },
+      "text": "One of the oldest surviving churches.",
+      "tip": "Take a ferry to Quinchao."
+    },
+    {
+      "name": "Nercon church",
+      "image": {
+        "file": "File:Cielo de la nave central de la iglesia de Nercón.JPG",
+        "alt": "The wooden ceiling inside Nercon church"
+      },
+      "text": "Known for its wooden interior.",
+      "tip": "Visit by car."
+    },
+    {
+      "name": "Chiloe National Park",
+      "text": "Temperate forest and coast.",
+      "tip": "Go for a walk."
+    },
+    {
+      "name": "Puñihuil penguins",
+      "text": "Boat trips among penguin colonies.",
+      "tip": "Go from October to March."
+    }
+  ],
+  "thingsToDoIntro": "Slow travel suits Chiloe.",
+  "thingsToDo": [
+    {
+      "title": "Eat curanto",
+      "text": "At a pit in Castro.",
+      "tip": "Order at lunch."
+    },
+    {
+      "title": "Tour the churches",
+      "text": "By car or bus.",
+      "tip": "Check opening hours."
+    },
+    {
+      "title": "Take a boat to the penguins",
+      "text": "At Puñihuil.",
+      "tip": "Wrap up warm."
+    },
+    {
+      "title": "Walk the national park",
+      "text": "On boardwalks.",
+      "tip": "Bring rain gear."
+    },
+    {
+      "title": "Browse the Dalcahue market",
+      "text": "Crafts and seafood.",
+      "tip": "Go on Sundays."
+    },
+    {
+      "title": "Stay in a palafito",
+      "text": "Wake over the water.",
+      "tip": "Book ahead."
+    }
+  ],
+  "foodIntro": "Chilote cooking is distinctive.",
+  "foods": [
+    {
+      "name": "Curanto",
+      "text": "Seafood and meats in a pit.",
+      "whereToTry": "Castro restaurants."
+    },
+    {
+      "name": "Milcao",
+      "text": "Potato pancakes.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Chapaleles",
+      "text": "Potato dumplings.",
+      "whereToTry": "Home-style restaurants."
+    },
+    {
+      "name": "Empanada de mariscos",
+      "text": "Seafood pastries.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Licor de oro",
+      "text": "Local liqueur.",
+      "whereToTry": "Shops."
+    }
+  ],
+  "accommodation": {
+    "intro": "Castro is the main base.",
+    "areas": [
+      {
+        "name": "Castro",
+        "bestFor": "Base",
+        "text": "Hotels and palafito stays."
+      },
+      {
+        "name": "Dalcahue",
+        "bestFor": "Quiet",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Ancud",
+        "bestFor": "North",
+        "text": "Lodges and hostels."
+      },
+      {
+        "name": "Chonchi",
+        "bestFor": "Culture",
+        "text": "Historic houses."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$20-40 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$60-120 per night"
+      },
+      {
+        "label": "Boutique palafito",
+        "value": "US$120-250 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$8-20 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "You reach Chiloe by air or ferry.",
+    "options": [
+      {
+        "mode": "Fly to Mocopulli",
+        "text": "From Santiago via Puerto Montt.",
+        "detail": "Limited flights."
+      },
+      {
+        "mode": "Bus and ferry",
+        "text": "From Puerto Montt to Ancud.",
+        "detail": "About 4 hours total."
+      },
+      {
+        "mode": "Drive",
+        "text": "Cross by ferry at Pargua.",
+        "detail": "Short crossing."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Roads connect the main towns.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The best option.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Bus",
+        "text": "Between towns.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "Ferry",
+        "text": "To smaller islands.",
+        "detail": "Check times."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December-March",
+    "summary": "Summer is the driest and warmest, and penguins nest from October to March.",
+    "seasons": [
+      {
+        "season": "December-March",
+        "rating": "best",
+        "text": "Warmest and driest."
+      },
+      {
+        "season": "October-November",
+        "rating": "good",
+        "text": "Penguin season begins."
+      },
+      {
+        "season": "April-May",
+        "rating": "quiet",
+        "text": "Autumn and rain."
+      },
+      {
+        "season": "June-September",
+        "rating": "avoid",
+        "text": "Cold, wet and windy."
+      }
+    ],
+    "avoid": "Winter, when ferries and sights can be limited."
+  },
+  "itinerary": {
+    "title": "Three days on Chiloe",
+    "intro": "Churches and coast.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Castro",
+        "summary": "Palafitos",
+        "morning": "Palafitos and San Francisco Church",
+        "afternoon": "Curanto lunch",
+        "evening": "Walk by the water"
+      },
+      {
+        "day": 2,
+        "title": "Churches",
+        "summary": "Achao and Dalcahue",
+        "morning": "Ferry to Quinchao",
+        "afternoon": "Dalcahue market",
+        "evening": "Return"
+      },
+      {
+        "day": 3,
+        "title": "Coast",
+        "summary": "Nature",
+        "morning": "Puñihuil penguins",
+        "afternoon": "Chiloe National Park",
+        "evening": "Farewell dinner"
+      }
+    ]
+  },
+  "tipsIntro": "Tips for Chiloe.",
+  "tips": [
+    "Pack rain gear.",
+    "Book accommodation early in summer.",
+    "Try curanto at least once.",
+    "Check church opening times.",
+    "Rent a car for flexibility.",
+    "Bring cash for rural areas.",
+    "Learn basic Spanish."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "Two to four days."
+    },
+    {
+      "q": "Is it rainy?",
+      "a": "Yes, often."
+    },
+    {
+      "q": "Are there penguins?",
+      "a": "Yes, October to March."
+    },
+    {
+      "q": "Can I use the ferry?",
+      "a": "Yes, frequent."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Moderate."
+    },
+    {
+      "q": "Do I need a car?",
+      "a": "It helps."
+    }
+  ],
+  "related": [
+    "puerto-varas",
+    "pucon",
+    "carretera-austral"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

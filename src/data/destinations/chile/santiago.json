@@ -1,0 +1,350 @@
+{
+  "slug": "santiago",
+  "name": "Santiago",
+  "country": "chile",
+  "region": "Santiago Metropolitan Region",
+  "categories": [
+    "capital-city",
+    "major-city",
+    "cultural",
+    "food-and-wine"
+  ],
+  "tagline": "A modern Andean capital, framed by snow-capped peaks, with great museums, markets and vineyards on the doorstep.",
+  "highlight": "Looking out from Cerro San Cristobal as the Andes glow pink at dusk.",
+  "shortDescription": "Chile's capital and gateway: Plaza de Armas, La Moneda, Mercado Central, bohemian barrios, hill-top parks and Maipo Valley wineries within an hour.",
+  "metaDescription": "A Santiago travel guide: Plaza de Armas, La Moneda, Cerro San Cristobal, Mercado Central, Lastarria and Bellavista, museums, Maipo wine tours, where to stay and a three-day plan.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Santiago Arturo Merino Benitez (SCL), about 25 minutes from the centre",
+  "knownFor": "Andean views, museums, wine",
+  "budget": "US$70-160 per day",
+  "goodFor": "City breaks, food and wine, culture",
+  "coords": {
+    "lat": -33.4489,
+    "lng": -70.6693
+  },
+  "image": {
+    "file": "File:Catedral Metropolitana de Santiago I.jpg",
+    "alt": "The Metropolitan Cathedral on the Plaza de Armas in Santiago"
+  },
+  "intro": [
+    "Santiago sits in a broad valley between the Andes and the coastal range, home to about seven million people. On a clear winter day the snow-covered mountains rise right behind the skyline, and few capitals have such a dramatic backdrop. The city is modern, orderly and well connected, and most visitors pass through it at the beginning or end of a trip.",
+    "The historic centre is compact and walkable, with the Plaza de Armas, the cathedral, the Presidential Palace of La Moneda and the central market, Mercado Central, famed for its seafood. Barrios such as Lastarria and Bellavista have cafes, street art and nightlife, while Cerro San Cristobal and Cerro Santa Lucia give green space and views. The Museo de la Memoria and the Museo Chileno de Arte Precolombino provide context on the country's history.",
+    "Santiago is also the centre of Chilean wine. Several well-known estates in the Maipo Valley are less than an hour away, and the Casablanca and Colchagua valleys make longer day trips. In winter, ski fields such as Valle Nevado and La Parva are within two hours."
+  ],
+  "whyVisit": {
+    "intro": "Santiago is an easy, enjoyable city that rewards a couple of days.",
+    "points": [
+      {
+        "title": "Mountain backdrop",
+        "text": "The Andes frame the city."
+      },
+      {
+        "title": "Museums and history",
+        "text": "From pre-Columbian art to modern memory."
+      },
+      {
+        "title": "Food and wine",
+        "text": "Seafood, markets and Maipo vineyards."
+      },
+      {
+        "title": "Barrios with character",
+        "text": "Lastarria, Bellavista and Barrio Italia."
+      },
+      {
+        "title": "Ski and hike",
+        "text": "Mountains within two hours."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are within the central districts and can be reached by metro.",
+  "attractions": [
+    {
+      "name": "Plaza de Armas",
+      "image": {
+        "file": "File:Abreviatura de Santiago. Emblema de la ciudad en Plaza de Armas.jpg",
+        "alt": "The emblem of Santiago in the Plaza de Armas"
+      },
+      "text": "The historic heart, with the cathedral and the central post office.",
+      "tip": "Visit in the morning."
+    },
+    {
+      "name": "La Moneda Palace",
+      "image": {
+        "file": "File:Palacio de la Moneda I.jpg",
+        "alt": "The La Moneda presidential palace in Santiago"
+      },
+      "text": "The presidential palace, with a cultural centre underneath.",
+      "tip": "Check opening times for tours."
+    },
+    {
+      "name": "Cerro San Cristobal",
+      "text": "A hilltop park with a funicular, zoo and viewpoint.",
+      "tip": "Go late afternoon for the light."
+    },
+    {
+      "name": "Mercado Central",
+      "image": {
+        "file": "File:Mercado Central. Santiago.jpg",
+        "alt": "The Mercado Central in Santiago"
+      },
+      "text": "A market hall famous for fish and seafood stews.",
+      "tip": "Eat lunch away from the tourist stalls."
+    },
+    {
+      "name": "Lastarria and Bellavista",
+      "text": "Bohemian districts with street art, cafes and the Neruda house.",
+      "tip": "Wander in the evening."
+    },
+    {
+      "name": "Museo de la Memoria",
+      "text": "A museum about the military dictatorship years.",
+      "tip": "Allow two hours."
+    }
+  ],
+  "thingsToDoIntro": "Santiago offers a mix of culture and outdoor time.",
+  "thingsToDo": [
+    {
+      "title": "Ride the funicular",
+      "text": "Up Cerro San Cristobal.",
+      "tip": "Buy a combined ticket."
+    },
+    {
+      "title": "Eat at the central market",
+      "text": "Seafood stews and ceviche.",
+      "tip": "Ask for the day's special."
+    },
+    {
+      "title": "Tour a Maipo winery",
+      "text": "Tastings of Carmenere and Cabernet.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Walk Lastarria",
+      "text": "Cafes, galleries and street art.",
+      "tip": "Go on a weekend."
+    },
+    {
+      "title": "See the Andes",
+      "text": "Day trip to Cajon del Maipo.",
+      "tip": "Hire a driver."
+    },
+    {
+      "title": "Ski in winter",
+      "text": "At Valle Nevado or La Parva.",
+      "tip": "Book early."
+    }
+  ],
+  "foodIntro": "Chilean food is hearty and seafood-rich.",
+  "foods": [
+    {
+      "name": "Empanada de pino",
+      "text": "Baked pastry with beef, onion and egg.",
+      "whereToTry": "Bakeries and markets."
+    },
+    {
+      "name": "Pastel de choclo",
+      "text": "Corn pie with beef and chicken.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Completo",
+      "text": "Loaded hot dog with avocado and mayo.",
+      "whereToTry": "Fast-food stands."
+    },
+    {
+      "name": "Pisco sour",
+      "text": "Pisco with lime and sugar.",
+      "whereToTry": "Bars."
+    },
+    {
+      "name": "Chilean wine",
+      "text": "Carmenere is the signature.",
+      "whereToTry": "Wine bars and Maipo estates."
+    }
+  ],
+  "accommodation": {
+    "intro": "The best areas combine safety with restaurants and metro access.",
+    "areas": [
+      {
+        "name": "Lastarria",
+        "bestFor": "Cafes and walking",
+        "text": "Boutique hotels near museums."
+      },
+      {
+        "name": "Providencia",
+        "bestFor": "Business and shops",
+        "text": "Modern hotels near the metro."
+      },
+      {
+        "name": "Bellavista",
+        "bestFor": "Nightlife",
+        "text": "Lively bars and restaurants."
+      },
+      {
+        "name": "Barrio Italia",
+        "bestFor": "Design",
+        "text": "Quiet streets with shops."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$15-35 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$70-140 per night"
+      },
+      {
+        "label": "Boutique hotel",
+        "value": "US$150-280 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$8-25 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Santiago is the main international gateway.",
+    "options": [
+      {
+        "mode": "Fly to SCL",
+        "text": "Direct flights from the Americas, Europe and Oceania.",
+        "detail": "Transfer by shuttle or taxi."
+      },
+      {
+        "mode": "Bus from Valparaiso",
+        "text": "About 1.5 hours.",
+        "detail": "Frequent services."
+      },
+      {
+        "mode": "Bus from Mendoza",
+        "text": "About 7 hours over the Andes.",
+        "detail": "Check pass closures in winter."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The metro is the easiest way around.",
+    "options": [
+      {
+        "mode": "Metro",
+        "text": "Clean and cheap.",
+        "detail": "Use a Bip! card."
+      },
+      {
+        "mode": "Taxi and rideshare",
+        "text": "Convenient in the evenings.",
+        "detail": "Use apps."
+      },
+      {
+        "mode": "On foot",
+        "text": "The centre is compact.",
+        "detail": "Watch pickpockets."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March-May, September-November",
+    "summary": "Autumn and spring give mild weather and clear skies, with wine harvest in March and April.",
+    "seasons": [
+      {
+        "season": "March-May",
+        "rating": "best",
+        "text": "Mild days and the grape harvest."
+      },
+      {
+        "season": "September-November",
+        "rating": "best",
+        "text": "Spring flowers and comfortable temperatures."
+      },
+      {
+        "season": "December-February",
+        "rating": "good",
+        "text": "Hot and dry, with fewer locals in January."
+      },
+      {
+        "season": "June-August",
+        "rating": "good",
+        "text": "Cool, with occasional smog and nearby skiing."
+      }
+    ],
+    "avoid": "Late June and July if you dislike cold and smog."
+  },
+  "itinerary": {
+    "title": "Three days in Santiago",
+    "intro": "The centre, barrios and wine.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Centre",
+        "summary": "Plaza de Armas and La Moneda",
+        "morning": "Mercado Central lunch",
+        "afternoon": "Cerro Santa Lucia",
+        "evening": "Dinner in Lastarria"
+      },
+      {
+        "day": 2,
+        "title": "Hills and barrios",
+        "summary": "Cerro San Cristobal",
+        "morning": "Bellavista and the Neruda house",
+        "afternoon": "Museo de la Memoria",
+        "evening": "Barrio Italia"
+      },
+      {
+        "day": 3,
+        "title": "Wine",
+        "summary": "Maipo Valley estates",
+        "morning": "Lunch at a vineyard",
+        "afternoon": "Return to town",
+        "evening": "Farewell dinner"
+      }
+    ]
+  },
+  "tipsIntro": "A few tips for the city.",
+  "tips": [
+    "Use the metro, which is fast and safe.",
+    "Watch for pickpockets in crowded areas.",
+    "Book winery visits in advance.",
+    "Carry ID or a copy.",
+    "Expect late dinners.",
+    "Learn basic Spanish.",
+    "Check air quality in winter."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "Two to three days."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Generally, with normal city care."
+    },
+    {
+      "q": "Can I see the Andes?",
+      "a": "Often, especially in winter and spring."
+    },
+    {
+      "q": "Is Santiago expensive?",
+      "a": "Moderate by regional standards."
+    },
+    {
+      "q": "Which wineries are close?",
+      "a": "Maipo Valley."
+    },
+    {
+      "q": "How do I reach Valparaiso?",
+      "a": "By bus in about 1.5 hours."
+    }
+  ],
+  "related": [
+    "valparaiso",
+    "elqui-valley",
+    "puerto-varas"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

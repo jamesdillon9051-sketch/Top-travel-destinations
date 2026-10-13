@@ -1,0 +1,358 @@
+{
+  "slug": "easter-island",
+  "name": "Easter Island (Rapa Nui)",
+  "country": "chile",
+  "region": "Valparaiso Region, Pacific Ocean",
+  "categories": [
+    "island",
+    "unesco",
+    "archaeological",
+    "cultural"
+  ],
+  "tagline": "A remote Pacific island of giant stone moai statues and Polynesian culture.",
+  "highlight": "Watching the sun rise behind fifteen giant moai at Ahu Tongariki.",
+  "shortDescription": "One of the most remote inhabited islands on Earth, a UNESCO site with nearly 900 moai, crater lakes, beaches and Rapa Nui culture.",
+  "metaDescription": "An Easter Island travel guide: Ahu Tongariki, Rano Raraku, Orongo, Anakena beach, Hanga Roa, the Rapa Nui national park ticket, where to stay and a three-day plan.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "Mataveri International (IPC), about 5.5 hours from Santiago",
+  "knownFor": "Moai, Polynesian culture, remoteness",
+  "budget": "US$120-250 per day",
+  "goodFor": "History buffs, photographers, adventurers",
+  "coords": {
+    "lat": -27.1127,
+    "lng": -109.3497
+  },
+  "image": {
+    "file": "File:Ahu Tongariki (Rapa Nui).jpg",
+    "alt": "The row of moai at Ahu Tongariki on Easter Island"
+  },
+  "intro": [
+    "Rapa Nui, as locals call it, lies some 3,700 km west of Chile and is one of the most isolated inhabited places in the world. Polynesian settlers arrived here around a thousand years ago and carved nearly 900 monumental statues, called moai, from volcanic rock. Most of the island is a UNESCO World Heritage Site within Rapa Nui National Park.",
+    "The big sights are the quarry at Rano Raraku, where hundreds of moai lie in various stages of completion, the fifteen restored moai of Ahu Tongariki, the white sand of Anakena beach, and Orongo, a ceremonial village on the rim of a crater, linked to the birdman cult. Hanga Roa, the only town, has restaurants, craft markets and a tiny harbour.",
+    "The island is small, about 24 km across, and easy to explore by car, scooter or bike. Most visitors fly in from Santiago, and the island is culturally Polynesian, with the Rapa Nui people and their language, music and tattoo art alive today. Flights and accommodation are expensive, so book early."
+  ],
+  "whyVisit": {
+    "intro": "Easter Island is a bucket-list destination of its own kind.",
+    "points": [
+      {
+        "title": "Moai",
+        "text": "Hundreds of giant statues."
+      },
+      {
+        "title": "Polynesian culture",
+        "text": "Living traditions."
+      },
+      {
+        "title": "Dramatic landscapes",
+        "text": "Volcanoes and sea cliffs."
+      },
+      {
+        "title": "Remote and quiet",
+        "text": "Far from everywhere."
+      },
+      {
+        "title": "Beaches and snorkelling",
+        "text": "Anakena and clear water."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights are spread around the island.",
+  "attractions": [
+    {
+      "name": "Ahu Tongariki",
+      "text": "The largest platform, with 15 moai.",
+      "tip": "Come at sunrise."
+    },
+    {
+      "name": "Rano Raraku",
+      "image": {
+        "file": "File:Rapa Nui, Rano Raraku.JPG",
+        "alt": "Moai at the Rano Raraku quarry"
+      },
+      "text": "The quarry where moai were carved.",
+      "tip": "Allow two hours."
+    },
+    {
+      "name": "Orongo",
+      "image": {
+        "file": "File:Orongo - Easter Island (3845509022).jpg",
+        "alt": "The ceremonial village of Orongo"
+      },
+      "text": "A ceremonial village on a crater rim.",
+      "tip": "Great views of the sea."
+    },
+    {
+      "name": "Anakena beach",
+      "image": {
+        "file": "File:Playa de Anakena en Rapa Nui.jpg",
+        "alt": "Anakena beach on Easter Island"
+      },
+      "text": "A white sand beach with moai.",
+      "tip": "Swim in the afternoon."
+    },
+    {
+      "name": "Ahu Akivi",
+      "image": {
+        "file": "File:Ahu Akivi 1.jpg",
+        "alt": "The moai of Ahu Akivi"
+      },
+      "text": "Moai that face the sea.",
+      "tip": "Visit on the way."
+    },
+    {
+      "name": "Hanga Roa",
+      "image": {
+        "file": "File:Hanga Roa in 2010 on Rapa Nui.jpg",
+        "alt": "The town of Hanga Roa on Rapa Nui"
+      },
+      "text": "The island's only town.",
+      "tip": "Evening sunset at Ahu Tahai."
+    }
+  ],
+  "thingsToDoIntro": "There is more than moai.",
+  "thingsToDo": [
+    {
+      "title": "Watch sunrise at Tongariki",
+      "text": "Start before dawn.",
+      "tip": "Bring a flashlight."
+    },
+    {
+      "title": "Explore Rano Raraku",
+      "text": "Walk among the statues.",
+      "tip": "Dress for sun."
+    },
+    {
+      "title": "Snorkel or dive",
+      "text": "Clear Pacific water.",
+      "tip": "Book with a local operator."
+    },
+    {
+      "title": "Hike to Terevaka",
+      "text": "The highest point.",
+      "tip": "Wear sturdy shoes."
+    },
+    {
+      "title": "Attend a cultural show",
+      "text": "Dance and music.",
+      "tip": "Book a ticket."
+    },
+    {
+      "title": "Ride a horse",
+      "text": "Across the island.",
+      "tip": "Join a tour."
+    }
+  ],
+  "foodIntro": "Food is Pacific-influenced and pricey.",
+  "foods": [
+    {
+      "name": "Fresh tuna",
+      "text": "Grilled or ceviche.",
+      "whereToTry": "Restaurants in Hanga Roa."
+    },
+    {
+      "name": "Umu",
+      "text": "Earth-oven feast.",
+      "whereToTry": "Cultural dinners."
+    },
+    {
+      "name": "Poe",
+      "text": "Banana and pumpkin pudding.",
+      "whereToTry": "Cafes."
+    },
+    {
+      "name": "Empanadas de atun",
+      "text": "Tuna pastries.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Local fruit",
+      "text": "Pineapples, bananas.",
+      "whereToTry": "Markets."
+    }
+  ],
+  "accommodation": {
+    "intro": "Hanga Roa is the only town.",
+    "areas": [
+      {
+        "name": "Hanga Roa",
+        "bestFor": "Convenience",
+        "text": "Hostels and guesthouses."
+      },
+      {
+        "name": "Outside town",
+        "bestFor": "Quiet",
+        "text": "Cabins."
+      },
+      {
+        "name": "Camping",
+        "bestFor": "Budget",
+        "text": "Basic sites."
+      },
+      {
+        "name": "Luxury lodges",
+        "bestFor": "Views",
+        "text": "Resorts."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel or guesthouse",
+        "value": "US$60-120 per night"
+      },
+      {
+        "label": "Mid-range cabin",
+        "value": "US$120-250 per night"
+      },
+      {
+        "label": "Luxury",
+        "value": "US$400-900 per night"
+      },
+      {
+        "label": "Park ticket",
+        "value": "Around US$80 for non-Chileans (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Flights from Santiago are the main way.",
+    "options": [
+      {
+        "mode": "Fly from Santiago",
+        "text": "About 5.5 hours.",
+        "detail": "Limited daily flights."
+      },
+      {
+        "mode": "Fly from Tahiti",
+        "text": "Seasonal.",
+        "detail": "Check schedules."
+      },
+      {
+        "mode": "Book early",
+        "text": "Prices rise.",
+        "detail": "Plan months ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The island is easy to explore.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The easiest option.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Scooter or bike",
+        "text": "Cheaper.",
+        "detail": "Wear a helmet."
+      },
+      {
+        "mode": "Tour",
+        "text": "Guided.",
+        "detail": "With a local guide."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March-May, September-November",
+    "summary": "Shoulder seasons are mild and less crowded.",
+    "seasons": [
+      {
+        "season": "March-May",
+        "rating": "best",
+        "text": "Warm and quiet."
+      },
+      {
+        "season": "September-November",
+        "rating": "best",
+        "text": "Mild and flowering."
+      },
+      {
+        "season": "December-February",
+        "rating": "good",
+        "text": "Hot and busy."
+      },
+      {
+        "season": "June-August",
+        "rating": "quiet",
+        "text": "Cooler and wetter."
+      }
+    ],
+    "avoid": "Late winter if you dislike drizzle."
+  },
+  "itinerary": {
+    "title": "Three days on Easter Island",
+    "intro": "The essential moai.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The south coast",
+        "summary": "Moai trail",
+        "morning": "Ahu Tongariki sunrise",
+        "afternoon": "Rano Raraku",
+        "evening": "Sunset at Ahu Tahai"
+      },
+      {
+        "day": 2,
+        "title": "Orongo and the north",
+        "summary": "Ceremony",
+        "morning": "Orongo",
+        "afternoon": "Anakena beach",
+        "evening": "Cultural show"
+      },
+      {
+        "day": 3,
+        "title": "Free day",
+        "summary": "Your choice",
+        "morning": "Ahu Akivi",
+        "afternoon": "Hike or snorkel",
+        "evening": "Farewell dinner"
+      }
+    ]
+  },
+  "tipsIntro": "Plan carefully for a remote island.",
+  "tips": [
+    "Book flights and lodging early.",
+    "Buy the national park ticket on arrival.",
+    "Respect moai and do not climb.",
+    "Bring cash since cards are not accepted everywhere.",
+    "Carry sun protection.",
+    "Hire a guide for context.",
+    "Pack layers."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "Three to four days."
+    },
+    {
+      "q": "Is it worth the cost?",
+      "a": "For many, yes."
+    },
+    {
+      "q": "Can I touch the moai?",
+      "a": "No."
+    },
+    {
+      "q": "What is the park ticket?",
+      "a": "Required for entry to sites."
+    },
+    {
+      "q": "When is best?",
+      "a": "March to May or September to November."
+    },
+    {
+      "q": "Do I need a car?",
+      "a": "Helpful."
+    }
+  ],
+  "related": [
+    "santiago",
+    "valparaiso",
+    "chiloe"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}
