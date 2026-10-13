@@ -1,0 +1,415 @@
+{
+  "slug": "cambodia",
+  "name": "Cambodia",
+  "continent": "Asia",
+  "countryCode": "KH",
+  "tagline": "Angkor's ancient temples, the Mekong, quiet beaches and a warm, resilient welcome.",
+  "cardDescription": "A small country with some of the greatest monuments in Asia, riverside towns, islands and a layered, human history.",
+  "metaDescription": "A complete Cambodia travel guide: the 10 best places to visit, from Angkor and Siem Reap to Phnom Penh, Kampot and Koh Rong, with practical tips, a two-week itinerary and costs.",
+  "image": {
+    "file": "File:Angkor Wat with its reflection.jpg",
+    "alt": "Angkor Wat and its reflection in a pond"
+  },
+  "destinations": [
+    "angkor-archaeological-park",
+    "siem-reap",
+    "phnom-penh",
+    "battambang",
+    "kampot-kep",
+    "koh-rong",
+    "kratie",
+    "mondulkiri",
+    "koh-ker-beng-mealea",
+    "banteay-srei-kulen"
+  ],
+  "intro": [
+    "Cambodia is a country of rice fields, rivers and ruins, home to the temples of Angkor, built by the Khmer Empire between the 9th and 15th centuries. The great temples draw most visitors, but the country also has colonial towns, quiet beaches and rural landscapes.",
+    "Its modern history includes the horrors of the Khmer Rouge years, which are remembered in memorials in Phnom Penh. Visiting these sites is moving, and Cambodians today are warm, resilient and proud of their culture, with a growing arts scene and tourism industry.",
+    "Travel is easy and cheap, with buses connecting main cities and tuk-tuks everywhere. Siem Reap is the usual starting point, then Phnom Penh, with side trips to Battambang, Kampot and the islands. The dry season from November to February is the best time to go."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend them for a first visit.",
+  "thingsToDoIntro": "The experiences that recur across the country and are worth planning around.",
+  "thingsToDo": [
+    {
+      "title": "Explore Angkor",
+      "text": "Sunrise at Angkor Wat, the Bayon and Ta Prohm.",
+      "tip": "Buy a multi-day pass."
+    },
+    {
+      "title": "Cruise the Mekong",
+      "text": "At sunset in Phnom Penh or Kratie.",
+      "tip": "Book a local boat."
+    },
+    {
+      "title": "Learn Khmer cooking",
+      "text": "Make fish amok in a class.",
+      "tip": "Book in Siem Reap."
+    },
+    {
+      "title": "Visit memorials",
+      "text": "Tuol Sleng and Choeung Ek.",
+      "tip": "Go with respect."
+    },
+    {
+      "title": "Ride the bamboo train",
+      "text": "In Battambang.",
+      "tip": "Short and fun."
+    },
+    {
+      "title": "Relax on an island",
+      "text": "Koh Rong and Koh Rong Samloem.",
+      "tip": "Dry season is best."
+    },
+    {
+      "title": "Try street food",
+      "text": "Noodles, baguettes and fruit shakes.",
+      "tip": "Look for busy stalls."
+    }
+  ],
+  "foodIntro": "Khmer food is milder than Thai, with sour, salty and sweet flavours, built on rice, freshwater fish and fragrant herbs.",
+  "foods": [
+    {
+      "name": "Fish amok",
+      "image": {
+        "file": "File:Fish Amok- Khmer specialty.jpg",
+        "alt": "Fish amok, a Khmer specialty"
+      },
+      "text": "Fish steamed in coconut curry paste, traditionally in banana leaf.",
+      "whereToTry": "Restaurants across the country."
+    },
+    {
+      "name": "Lok lak",
+      "image": {
+        "file": "File:Beef Lok Lak.jpg",
+        "alt": "Beef lok lak"
+      },
+      "text": "Stir-fried beef with a lime and pepper dipping sauce.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Kuy teav",
+      "text": "A noodle soup eaten for breakfast.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Num banh chok",
+      "text": "Rice noodles with green fish curry.",
+      "whereToTry": "Morning markets."
+    },
+    {
+      "name": "Kampot pepper crab",
+      "text": "Crab stir-fried with local pepper.",
+      "whereToTry": "Kep."
+    },
+    {
+      "name": "Fried insects",
+      "image": {
+        "file": "File:Cambodia 08 - 033 - insects for snacks at the market (3198805451).jpg",
+        "alt": "Insects sold as snacks at a Cambodian market"
+      },
+      "text": "A crunchy snack for the brave.",
+      "whereToTry": "Markets."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Cambodia is welcoming and straightforward, but check official sources before travelling.",
+  "practical": {
+    "capital": "Phnom Penh",
+    "language": "Khmer is the official language. English is widely spoken in tourist areas.",
+    "currency": "Cambodian riel (KHR) and US dollars both circulate. Around 4,000 riel to the dollar.",
+    "money": "US dollars are used in cities. ATMs dispense dollars. Carry small notes, and riel for small purchases.",
+    "visa": "Most nationalities need a visa, available as an e-visa or on arrival. Check current rules and fees.",
+    "plugs": "Type A, C and G, 230 V, 50 Hz. Bring an adaptor.",
+    "emergency": "117 for police, 119 for ambulance, 118 for fire.",
+    "tipping": "Tipping is not required, but small tips are appreciated for guides and drivers.",
+    "safety": "Cambodia is generally safe, but watch for bag-snatching from motorbikes and petty theft. Stay on marked paths in rural areas because of unexploded mines, and drink bottled water.",
+    "connectivity": "Good in cities, patchy in remote areas. SIMs from Cellcard, Smart and Metfone are cheap.",
+    "timeZone": "Indochina Time (UTC+7), with no daylight saving.",
+    "budget": [
+      {
+        "label": "Budget",
+        "value": "US$30-50 per person per day - guesthouses, local food and buses"
+      },
+      {
+        "label": "Mid-range",
+        "value": "US$70-130 per person per day - hotels, tuk-tuks and some tours"
+      },
+      {
+        "label": "Comfortable",
+        "value": "US$150-250 per person per day - boutique hotels and private guides"
+      },
+      {
+        "label": "Splurge",
+        "value": "US$300+ per person per day - luxury resorts and private cars"
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November-February",
+    "summary": "The dry, cool season from November to February is best for temples and sightseeing.",
+    "seasons": [
+      {
+        "season": "November-February",
+        "rating": "best",
+        "text": "Cool, dry and sunny."
+      },
+      {
+        "season": "March-May",
+        "rating": "avoid",
+        "text": "Hot and humid."
+      },
+      {
+        "season": "June-October",
+        "rating": "quiet",
+        "text": "Green and rainy, with fewer visitors."
+      },
+      {
+        "season": "November",
+        "rating": "good",
+        "text": "Water Festival in Phnom Penh."
+      }
+    ],
+    "avoid": "April and May, when heat can be intense."
+  },
+  "tripDuration": {
+    "headline": "10-14 days for a first trip",
+    "summary": "Cambodia is small, but travel is slow. Three or four bases work well.",
+    "options": [
+      {
+        "length": "5-7 days",
+        "text": "Siem Reap and Phnom Penh.",
+        "detail": "The classics."
+      },
+      {
+        "length": "10 days",
+        "text": "Add Battambang and Kampot.",
+        "detail": "A fuller picture."
+      },
+      {
+        "length": "14 days",
+        "text": "Add Koh Rong or Kratie.",
+        "detail": "A broader trip."
+      },
+      {
+        "length": "3 weeks",
+        "text": "Add Mondulkiri and remote temples.",
+        "detail": "For slow travellers."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Buses and minivans are cheap and frequent. Flights save time between Siem Reap and Phnom Penh. Tuk-tuks are everywhere.",
+    "options": [
+      {
+        "mode": "Bus or minivan",
+        "text": "Between cities.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Tuk-tuk",
+        "text": "For local trips and temples.",
+        "detail": "Agree the price."
+      },
+      {
+        "mode": "Flight",
+        "text": "Between Phnom Penh and Siem Reap.",
+        "detail": "Short."
+      },
+      {
+        "mode": "Ferry",
+        "text": "To Koh Rong.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Ride-hailing",
+        "text": "In Phnom Penh and Siem Reap.",
+        "detail": "Cheap."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Cambodia",
+    "intro": "Temples, the capital, the coast and the east.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Siem Reap",
+        "morning": "Land and transfer to the hotel.",
+        "afternoon": "Walk the Old Market.",
+        "evening": "Dinner on Pub Street."
+      },
+      {
+        "day": 2,
+        "title": "Angkor",
+        "morning": "Sunrise at Angkor Wat.",
+        "afternoon": "Bayon and Ta Prohm.",
+        "evening": "Phnom Bakheng sunset."
+      },
+      {
+        "day": 3,
+        "title": "Angkor",
+        "morning": "Small circuit.",
+        "afternoon": "Rest.",
+        "evening": "Phare circus."
+      },
+      {
+        "day": 4,
+        "title": "Beyond Angkor",
+        "morning": "Banteay Srei and Kbal Spean.",
+        "afternoon": "Landmine Museum.",
+        "evening": "Cooking class."
+      },
+      {
+        "day": 5,
+        "title": "Beng Mealea and Koh Ker",
+        "morning": "Full-day trip.",
+        "afternoon": "Pyramid views.",
+        "evening": "Return to Siem Reap."
+      },
+      {
+        "day": 6,
+        "title": "Battambang",
+        "morning": "Bus to Battambang.",
+        "afternoon": "Bamboo train.",
+        "evening": "Phnom Sampov bats."
+      },
+      {
+        "day": 7,
+        "title": "Phnom Penh",
+        "morning": "Bus to the capital.",
+        "afternoon": "Royal Palace.",
+        "evening": "Riverside."
+      },
+      {
+        "day": 8,
+        "title": "Phnom Penh",
+        "morning": "Tuol Sleng and Choeung Ek.",
+        "afternoon": "Central Market.",
+        "evening": "Evening on the river."
+      },
+      {
+        "day": 9,
+        "title": "Kampot",
+        "morning": "Bus to Kampot.",
+        "afternoon": "Pepper farm.",
+        "evening": "Sunset cruise."
+      },
+      {
+        "day": 10,
+        "title": "Kep",
+        "morning": "Crab market.",
+        "afternoon": "Rabbit Island.",
+        "evening": "Seafood dinner."
+      },
+      {
+        "day": 11,
+        "title": "Koh Rong",
+        "morning": "Transfer to the islands.",
+        "afternoon": "Beach.",
+        "evening": "Plankton swim."
+      },
+      {
+        "day": 12,
+        "title": "Koh Rong",
+        "morning": "Snorkel.",
+        "afternoon": "Hike.",
+        "evening": "Sunset."
+      },
+      {
+        "day": 13,
+        "title": "Return",
+        "morning": "Ferry and bus to Phnom Penh.",
+        "afternoon": "Shopping.",
+        "evening": "Farewell dinner."
+      },
+      {
+        "day": 14,
+        "title": "Departure",
+        "morning": "Transfer to the airport.",
+        "afternoon": "Fly home.",
+        "evening": "Safe travels."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Cambodians are polite, gentle and respectful of hierarchy and religion. The traditional greeting is the sampeah, palms pressed together, and keeping face matters.",
+    "etiquette": [
+      {
+        "title": "Greet with a sampeah",
+        "text": "Palms together, a slight bow."
+      },
+      {
+        "title": "Dress modestly",
+        "text": "Cover shoulders and knees at temples."
+      },
+      {
+        "title": "Remove shoes",
+        "text": "At temples and homes."
+      },
+      {
+        "title": "Respect monks",
+        "text": "Women should not touch monks."
+      },
+      {
+        "title": "Keep calm",
+        "text": "Raised voices cause loss of face."
+      },
+      {
+        "title": "Ask before photos",
+        "text": "Especially of monks and people."
+      }
+    ],
+    "dos": [
+      "Learn a few Khmer words",
+      "Dress modestly at temples",
+      "Bargain politely",
+      "Carry small US dollar notes",
+      "Use bottled water",
+      "Respect memorials"
+    ],
+    "donts": [
+      "Do not touch heads",
+      "Do not point feet at people or Buddhas",
+      "Do not climb restricted structures",
+      "Do not give money to begging children",
+      "Do not litter at heritage sites",
+      "Do not leave marked paths in rural areas"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Cambodia.",
+  "tips": [
+    "Buy Angkor passes only at the official ticket office.",
+    "Carry small US dollar notes.",
+    "Dress modestly at temples.",
+    "Start early to avoid heat.",
+    "Agree tuk-tuk prices in advance.",
+    "Stay on marked paths in rural areas.",
+    "Hold bags away from the road side.",
+    "Drink bottled water."
+  ],
+  "faq": [
+    {
+      "q": "Is Cambodia safe for tourists?",
+      "a": "Generally yes, with normal care against petty theft."
+    },
+    {
+      "q": "How many days do I need?",
+      "a": "Ten to fourteen days."
+    },
+    {
+      "q": "Do I need a visa?",
+      "a": "Most do. Check e-visa options."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "November to February."
+    },
+    {
+      "q": "Is Cambodia cheap?",
+      "a": "Yes, one of the cheapest in the region."
+    },
+    {
+      "q": "Can I use US dollars?",
+      "a": "Yes, widely."
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "slug": "siem-reap",
+  "name": "Siem Reap and Tonle Sap",
+  "country": "cambodia",
+  "region": "Siem Reap Province",
+  "categories": [
+    "major-city",
+    "cultural",
+    "nature",
+    "food-and-wine"
+  ],
+  "tagline": "The lively gateway to Angkor, with night markets, circus, cooking classes and floating villages.",
+  "highlight": "Eating fish amok in the old market after a day among temples.",
+  "shortDescription": "A relaxed city with Pub Street, the Old Market, Phare circus, Royal Gardens and trips to the Tonle Sap floating villages.",
+  "metaDescription": "A Siem Reap guide: Pub Street, Old Market, Phare circus, cooking classes, Kampong Phluk and Tonle Sap floating villages, where to stay, costs and a two-day plan.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Siem Reap-Angkor International (SAI), about 15 minutes",
+  "knownFor": "Gateway city, markets, floating villages",
+  "budget": "US$40-110 per day",
+  "goodFor": "Culture, food, relaxing after temples",
+  "coords": {
+    "lat": 13.3633,
+    "lng": 103.8564
+  },
+  "image": {
+    "file": "File:Siem Reap old market (4).jpg",
+    "alt": "The Old Market in Siem Reap"
+  },
+  "intro": [
+    "Siem Reap grew from a village into Cambodia's tourism capital because of its position next to Angkor. Beyond the temples, it is a pleasant, walkable city of French-colonial buildings, riverside cafes, spas and a lively evening scene.",
+    "Pub Street is the nightlife centre, while the Old Market offers souvenirs and street food. The Phare Cambodian Circus is a world-class show from a local arts charity, and cooking classes teach Khmer dishes like amok. In the afternoon heat, visitors relax at pools, massage salons and cafes.",
+    "Outside town, the Tonle Sap lake is the largest freshwater lake in South-East Asia, and floating villages such as Kampong Phluk offer a look at life on the water. Nearby, Banteay Srei and Kbal Spean can be visited as half-day trips."
+  ],
+  "whyVisit": {
+    "intro": "Siem Reap is more than a stopover.",
+    "points": [
+      {
+        "title": "Good food",
+        "text": "From street stalls to fine dining."
+      },
+      {
+        "title": "Phare circus",
+        "text": "A highlight show."
+      },
+      {
+        "title": "Floating villages",
+        "text": "Life on Tonle Sap."
+      },
+      {
+        "title": "Relaxed pace",
+        "text": "Cafes and spas."
+      },
+      {
+        "title": "Gateway to temples",
+        "text": "Everything starts here."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are in the compact centre.",
+  "attractions": [
+    {
+      "name": "Old Market (Psar Chas)",
+      "image": {
+        "file": "File:Siem Reap old market (2).jpg",
+        "alt": "Stalls in the Siem Reap Old Market"
+      },
+      "text": "Souvenirs, silk and street food.",
+      "tip": "Bargain politely."
+    },
+    {
+      "name": "Pub Street",
+      "image": {
+        "file": "File:Pub Street, Siem Reap.jpg",
+        "alt": "Pub Street in Siem Reap"
+      },
+      "text": "Bars and restaurants.",
+      "tip": "Lively at night."
+    },
+    {
+      "name": "Royal Independence Gardens",
+      "text": "A quiet green park.",
+      "tip": "Evening walk."
+    },
+    {
+      "name": "Phare Cambodian Circus",
+      "image": {
+        "file": "File:Phare Circus, Siem Reap, Cambodia.jpg",
+        "alt": "A performance at Phare Cambodian Circus"
+      },
+      "text": "Acrobats and storytelling.",
+      "tip": "Book ahead."
+    },
+    {
+      "name": "Kampong Phluk",
+      "image": {
+        "file": "File:Houses on the water in Kampong Phlouk.jpg",
+        "alt": "Stilt houses at Kampong Phluk"
+      },
+      "text": "A stilt village on Tonle Sap.",
+      "tip": "Go at high water."
+    },
+    {
+      "name": "Angkor National Museum",
+      "text": "Background to the temples.",
+      "tip": "Allow an hour."
+    }
+  ],
+  "thingsToDoIntro": "There is plenty to do between temple days.",
+  "thingsToDo": [
+    {
+      "title": "Watch Phare circus",
+      "text": "Evening shows.",
+      "tip": "Book tickets."
+    },
+    {
+      "title": "Take a cooking class",
+      "text": "Learn amok.",
+      "tip": "Morning class."
+    },
+    {
+      "title": "Visit floating villages",
+      "text": "Boat trip.",
+      "tip": "Go at sunset."
+    },
+    {
+      "title": "Shop at the night market",
+      "text": "Crafts and gifts.",
+      "tip": "Bargain."
+    },
+    {
+      "title": "Relax with a massage",
+      "text": "After temples.",
+      "tip": "Cheap."
+    },
+    {
+      "title": "Cycle the countryside",
+      "text": "Villages and rice fields.",
+      "tip": "Join a tour."
+    }
+  ],
+  "foodIntro": "Siem Reap is full of good eating.",
+  "foods": [
+    {
+      "name": "Fish amok",
+      "text": "Coconut curry steamed fish.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Lok lak",
+      "text": "Stir-fried beef.",
+      "whereToTry": "Local eateries."
+    },
+    {
+      "name": "Num banh chok",
+      "text": "Noodles with fish gravy.",
+      "whereToTry": "Morning stalls."
+    },
+    {
+      "name": "Khmer BBQ",
+      "text": "Grilled meat.",
+      "whereToTry": "Night markets."
+    },
+    {
+      "name": "Fruit shakes",
+      "text": "Fresh and cheap.",
+      "whereToTry": "Pub Street."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the centre or near the river.",
+    "areas": [
+      {
+        "name": "Old Market",
+        "bestFor": "Convenience",
+        "text": "Hotels and hostels."
+      },
+      {
+        "name": "Wat Bo",
+        "bestFor": "Local",
+        "text": "Boutique stays."
+      },
+      {
+        "name": "Riverside",
+        "bestFor": "Calm",
+        "text": "Boutique hotels."
+      },
+      {
+        "name": "Near the airport",
+        "bestFor": "Resorts",
+        "text": "Luxury."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$6-15 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$40-90 per night"
+      },
+      {
+        "label": "Boutique resort",
+        "value": "US$100-250 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$3-15 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Siem Reap has an international airport.",
+    "options": [
+      {
+        "mode": "Fly to SAI",
+        "text": "Direct from regional hubs.",
+        "detail": "Short transfer."
+      },
+      {
+        "mode": "Bus from Phnom Penh",
+        "text": "About 6 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Boat",
+        "text": "From Battambang, seasonal.",
+        "detail": "Scenic."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Tuk-tuks and bikes.",
+    "options": [
+      {
+        "mode": "Tuk-tuk",
+        "text": "Cheap and everywhere.",
+        "detail": "Agree prices."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Easy city riding.",
+        "detail": "Rent."
+      },
+      {
+        "mode": "Walking",
+        "text": "In the centre.",
+        "detail": "Compact."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November-February",
+    "summary": "Cool and dry months are best.",
+    "seasons": [
+      {
+        "season": "November-February",
+        "rating": "best",
+        "text": "Cool and dry."
+      },
+      {
+        "season": "March-May",
+        "rating": "avoid",
+        "text": "Hot."
+      },
+      {
+        "season": "June-October",
+        "rating": "quiet",
+        "text": "Green and rainy."
+      },
+      {
+        "season": "Early November",
+        "rating": "good",
+        "text": "Floods recede."
+      }
+    ],
+    "avoid": "April and May."
+  },
+  "itinerary": {
+    "title": "Two days in Siem Reap",
+    "intro": "City and lake.",
+    "days": [
+      {
+        "day": 1,
+        "title": "City",
+        "summary": "Markets",
+        "morning": "Old Market",
+        "afternoon": "Cooking class",
+        "evening": "Pub Street dinner"
+      },
+      {
+        "day": 2,
+        "title": "Lake",
+        "summary": "Tonle Sap",
+        "morning": "Kampong Phluk",
+        "afternoon": "Rest",
+        "evening": "Phare circus"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Carry small US dollar notes.",
+    "Bargain at markets.",
+    "Book circus tickets early.",
+    "Watch bags at night.",
+    "Use ticketed tuk-tuks.",
+    "Drink bottled water.",
+    "Dress modestly for temples."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "Two to three days."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Yes with care."
+    },
+    {
+      "q": "What currency?",
+      "a": "US dollars and riel."
+    },
+    {
+      "q": "Is Pub Street loud?",
+      "a": "Yes at night."
+    },
+    {
+      "q": "Can I see Tonle Sap?",
+      "a": "Yes by boat."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "No."
+    }
+  ],
+  "related": [
+    "angkor-archaeological-park",
+    "battambang",
+    "phnom-penh"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

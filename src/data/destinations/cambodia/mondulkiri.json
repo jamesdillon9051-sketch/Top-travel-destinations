@@ -1,0 +1,350 @@
+{
+  "slug": "mondulkiri",
+  "name": "Mondulkiri",
+  "country": "cambodia",
+  "region": "Mondulkiri Province, eastern Cambodia",
+  "categories": [
+    "nature",
+    "mountains",
+    "off-the-beaten-path",
+    "cultural"
+  ],
+  "tagline": "Rolling green hills, waterfalls and ethical elephant sanctuaries in Cambodia's eastern highlands.",
+  "highlight": "Walking with rescued elephants through the hills of Mondulkiri.",
+  "shortDescription": "A cool highland province with Sen Monorom, Bunong culture, waterfalls, elephant sanctuaries and wild forest.",
+  "metaDescription": "A Mondulkiri travel guide: Sen Monorom, elephant sanctuaries, Bou Sra waterfall, Bunong culture, trekking, where to stay, getting there and a three-day plan.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Phnom Penh (PNH), about 6-7 hours by road",
+  "knownFor": "Hills, elephants, waterfalls",
+  "budget": "US$30-90 per day",
+  "goodFor": "Nature lovers, adventurous travellers",
+  "coords": {
+    "lat": 12.455,
+    "lng": 107.188
+  },
+  "image": {
+    "file": "File:Mondulkiri province Northeastern Cambodia.jpg",
+    "alt": "Rolling hills in Mondulkiri province"
+  },
+  "intro": [
+    "Mondulkiri is Cambodia's largest and least-populated province, a high plateau of rolling hills, forest and cooler air. The provincial capital, Sen Monorom, is a small town where Bunong indigenous communities and migrants live, and it serves as a base for waterfalls, forest walks and elephant visits.",
+    "The highlight for many is visiting an ethical elephant sanctuary, where rescued elephants live in natural surroundings and visitors observe, feed and walk with them, without riding. Several waterfalls, such as Bou Sra, are within an easy drive. Treks go deeper into the forest, where wildlife is rare but birdlife is excellent.",
+    "The weather is cooler than the lowlands, and the pace is slow. Roads are partly rough, so travel takes time, but the hills and fresh air make it a restful and different side of Cambodia."
+  ],
+  "whyVisit": {
+    "intro": "Mondulkiri is Cambodia's hill country.",
+    "points": [
+      {
+        "title": "Elephant sanctuaries",
+        "text": "Ethical encounters."
+      },
+      {
+        "title": "Waterfalls",
+        "text": "Bou Sra and others."
+      },
+      {
+        "title": "Bunong culture",
+        "text": "Indigenous traditions."
+      },
+      {
+        "title": "Cool climate",
+        "text": "Fresh air."
+      },
+      {
+        "title": "Rolling hills",
+        "text": "Green views."
+      }
+    ]
+  },
+  "attractionsIntro": "Attractions are around Sen Monorom.",
+  "attractions": [
+    {
+      "name": "Elephant Valley Project and other sanctuaries",
+      "image": {
+        "file": "File:Elephant conservation and indigenous experiences in Cambodia Project.jpg",
+        "alt": "An elephant conservation project in Cambodia"
+      },
+      "text": "Observe rescued elephants.",
+      "tip": "Choose ethical ones."
+    },
+    {
+      "name": "Bou Sra Waterfall",
+      "image": {
+        "file": "File:Bou Sra Waterfall, Mondulkiri, Cambodia.jpg",
+        "alt": "Bou Sra Waterfall in Mondulkiri"
+      },
+      "text": "The largest waterfall in Cambodia.",
+      "tip": "Visit after rains."
+    },
+    {
+      "name": "Sen Monorom",
+      "image": {
+        "file": "File:Sen Monorom, Mondulkiri, Cambodia.jpg",
+        "alt": "Sen Monorom in Mondulkiri"
+      },
+      "text": "The hill town.",
+      "tip": "Walk the market."
+    },
+    {
+      "name": "Sihanoukville Waterfall",
+      "text": "A small fall near town.",
+      "tip": "Easy trip."
+    },
+    {
+      "name": "Bunong villages",
+      "text": "Visit with a guide.",
+      "tip": "Be respectful."
+    },
+    {
+      "name": "Viewpoints and forests",
+      "text": "Short hikes.",
+      "tip": "Bring water."
+    }
+  ],
+  "thingsToDoIntro": "Slow, nature-based activities.",
+  "thingsToDo": [
+    {
+      "title": "Visit an elephant sanctuary",
+      "text": "No riding.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Hike to waterfalls",
+      "text": "Short walks.",
+      "tip": "Wear sturdy shoes."
+    },
+    {
+      "title": "Trek in the forest",
+      "text": "With a guide.",
+      "tip": "Early start."
+    },
+    {
+      "title": "Meet Bunong families",
+      "text": "Cultural visit.",
+      "tip": "Support local guides."
+    },
+    {
+      "title": "Ride a motorbike",
+      "text": "Through hills.",
+      "tip": "Take care."
+    },
+    {
+      "title": "Try coffee",
+      "text": "Local beans.",
+      "tip": "Cafes."
+    }
+  ],
+  "foodIntro": "Simple highland food.",
+  "foods": [
+    {
+      "name": "Grilled meat",
+      "text": "Local style.",
+      "whereToTry": "Market."
+    },
+    {
+      "name": "Bamboo sticky rice",
+      "text": "Snack.",
+      "whereToTry": "Roadside."
+    },
+    {
+      "name": "Fish amok",
+      "text": "Coconut curry.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Local coffee",
+      "text": "Hill-grown.",
+      "whereToTry": "Cafes."
+    },
+    {
+      "name": "Fruit",
+      "text": "Avocados and bananas.",
+      "whereToTry": "Market."
+    }
+  ],
+  "accommodation": {
+    "intro": "Small guesthouses and lodges.",
+    "areas": [
+      {
+        "name": "Sen Monorom",
+        "bestFor": "Convenience",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Eco-lodges",
+        "bestFor": "Nature",
+        "text": "Bungalows."
+      },
+      {
+        "name": "Near waterfalls",
+        "bestFor": "Quiet",
+        "text": "Lodges."
+      },
+      {
+        "name": "Homestays",
+        "bestFor": "Culture",
+        "text": "Bunong villages."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Guesthouse",
+        "value": "US$8-20 per night"
+      },
+      {
+        "label": "Mid-range lodge",
+        "value": "US$30-70 per night"
+      },
+      {
+        "label": "Eco-lodge",
+        "value": "US$60-150 per night"
+      },
+      {
+        "label": "Sanctuary visit",
+        "value": "Around US$40-100"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Mondulkiri is reached by road.",
+    "options": [
+      {
+        "mode": "Bus from Phnom Penh",
+        "text": "About 6 to 7 hours.",
+        "detail": "Daily."
+      },
+      {
+        "mode": "Minivan",
+        "text": "Faster.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Private car",
+        "text": "Most flexible.",
+        "detail": "Expensive."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Motorbikes and 4x4s.",
+    "options": [
+      {
+        "mode": "Motorbike",
+        "text": "For hills.",
+        "detail": "Experienced riders."
+      },
+      {
+        "mode": "Tuk-tuk",
+        "text": "Local.",
+        "detail": "Agree prices."
+      },
+      {
+        "mode": "Taxi",
+        "text": "To sanctuaries.",
+        "detail": "Arranged."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November-April",
+    "summary": "The dry season is best.",
+    "seasons": [
+      {
+        "season": "November-February",
+        "rating": "best",
+        "text": "Cool and dry."
+      },
+      {
+        "season": "March-April",
+        "rating": "good",
+        "text": "Warm."
+      },
+      {
+        "season": "May-October",
+        "rating": "quiet",
+        "text": "Wet and green."
+      },
+      {
+        "season": "December-January",
+        "rating": "best",
+        "text": "Cool nights."
+      }
+    ],
+    "avoid": "Heavy rain in August and September."
+  },
+  "itinerary": {
+    "title": "Three days in Mondulkiri",
+    "intro": "Hills and elephants.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Sen Monorom",
+        "morning": "Walk the town",
+        "afternoon": "Market",
+        "evening": "Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Elephants",
+        "summary": "Sanctuary",
+        "morning": "Sanctuary visit",
+        "afternoon": "Rest",
+        "evening": "Sunset"
+      },
+      {
+        "day": 3,
+        "title": "Waterfalls",
+        "summary": "Bou Sra",
+        "morning": "Bou Sra Waterfall",
+        "afternoon": "Hike",
+        "evening": "Departure"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Choose ethical elephant sanctuaries.",
+    "Bring warm layers for nights.",
+    "Carry cash.",
+    "Book transport ahead.",
+    "Respect indigenous communities.",
+    "Wear sturdy shoes.",
+    "Check road conditions in rain."
+  ],
+  "faq": [
+    {
+      "q": "Is it worth the journey?",
+      "a": "Yes for nature."
+    },
+    {
+      "q": "Can I ride elephants?",
+      "a": "Choose no-riding places."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Two to three days."
+    },
+    {
+      "q": "When is best?",
+      "a": "November to April."
+    },
+    {
+      "q": "Is it cold?",
+      "a": "Cooler than the lowlands."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Yes."
+    }
+  ],
+  "related": [
+    "kratie",
+    "phnom-penh",
+    "siem-reap"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

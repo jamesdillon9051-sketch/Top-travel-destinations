@@ -1,0 +1,345 @@
+{
+  "slug": "battambang",
+  "name": "Battambang",
+  "country": "cambodia",
+  "region": "Battambang Province, north-west Cambodia",
+  "categories": [
+    "cultural",
+    "historic",
+    "off-the-beaten-path"
+  ],
+  "tagline": "A faded colonial town of art, bamboo trains, caves and countryside.",
+  "highlight": "Riding the rattling bamboo train through green fields.",
+  "shortDescription": "A relaxed provincial capital with French architecture, a contemporary arts scene, the bamboo train, Phnom Sampov bat cave and temples.",
+  "metaDescription": "A Battambang travel guide: the bamboo train, Phare Ponleu Selpak circus and arts school, Wat Banan, Phnom Sampov bat caves, colonial architecture, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Siem Reap (SAI), about 3 hours by road",
+  "knownFor": "Bamboo train, art, countryside",
+  "budget": "US$35-90 per day",
+  "goodFor": "Slow travel, art lovers, culture seekers",
+  "coords": {
+    "lat": 13.0957,
+    "lng": 103.2022
+  },
+  "image": {
+    "file": "File:Bamboo train Battambang.jpg",
+    "alt": "The bamboo train near Battambang"
+  },
+  "intro": [
+    "Battambang is Cambodia's second-largest city but feels like a quiet provincial town, with faded French-colonial shopfronts, a river, and a creative community. It is a favourite stop between Siem Reap and Phnom Penh, and many travellers stay longer than planned.",
+    "The famous bamboo train, or norry, is a bamboo platform on rails powered by a small engine, and gives a fun if touristy ride. Nearby, Wat Banan sits on a hilltop with five towers, Phnom Sampov holds a cave where millions of bats stream out at dusk, and the countryside is dotted with villages and rice fields.",
+    "Art is a theme here. Phare Ponleu Selpak, a non-profit arts school, offers circus performances, and small galleries and cafes show local artists. It is an easy place to relax, with good food and a gentle pace."
+  ],
+  "whyVisit": {
+    "intro": "Battambang is a slow, friendly stop with real character.",
+    "points": [
+      {
+        "title": "Bamboo train",
+        "text": "A quirky ride."
+      },
+      {
+        "title": "Bat cave",
+        "text": "Millions at dusk."
+      },
+      {
+        "title": "Art scene",
+        "text": "Circus and galleries."
+      },
+      {
+        "title": "Countryside",
+        "text": "Rice fields and temples."
+      },
+      {
+        "title": "Colonial architecture",
+        "text": "Old town charm."
+      }
+    ]
+  },
+  "attractionsIntro": "The sights are spread around the town.",
+  "attractions": [
+    {
+      "name": "Bamboo train",
+      "image": {
+        "file": "File:Bamboo train (Norry) station near Battambang in 2012.jpg",
+        "alt": "A bamboo train station near Battambang"
+      },
+      "text": "A short ride on a bamboo platform.",
+      "tip": "Go in the late afternoon."
+    },
+    {
+      "name": "Phnom Sampov",
+      "image": {
+        "file": "File:Phnom Sampov - Decoració.jpg",
+        "alt": "Decorations at Phnom Sampov"
+      },
+      "text": "A hill with caves and a bat colony.",
+      "tip": "Time it for dusk."
+    },
+    {
+      "name": "Wat Banan",
+      "image": {
+        "file": "File:Phnom Banan temple.jpg",
+        "alt": "Wat Banan hilltop temple"
+      },
+      "text": "An 11th-century hilltop temple.",
+      "tip": "Climb 358 steps."
+    },
+    {
+      "name": "Phare Ponleu Selpak",
+      "image": {
+        "file": "File:Phare Ponleu Selpak.jpg",
+        "alt": "Phare Ponleu Selpak arts school"
+      },
+      "text": "An arts school with circus shows.",
+      "tip": "Book tickets."
+    },
+    {
+      "name": "Old town and markets",
+      "text": "French shophouses and Psar Nath.",
+      "tip": "Walk the lanes."
+    },
+    {
+      "name": "Killing Caves of Phnom Sampov",
+      "text": "A sobering memorial.",
+      "tip": "Visit with respect."
+    }
+  ],
+  "thingsToDoIntro": "Easy-going activities.",
+  "thingsToDo": [
+    {
+      "title": "Ride the bamboo train",
+      "text": "A fun short trip.",
+      "tip": "Bring small bills."
+    },
+    {
+      "title": "Watch the bat exodus",
+      "text": "Dusk at Phnom Sampov.",
+      "tip": "Bring a camera."
+    },
+    {
+      "title": "See a circus show",
+      "text": "At Phare.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Cycle the countryside",
+      "text": "Villages and farms.",
+      "tip": "Join a tour."
+    },
+    {
+      "title": "Take a cooking class",
+      "text": "Local dishes.",
+      "tip": "Morning class."
+    },
+    {
+      "title": "Explore Wat Banan",
+      "text": "Hilltop temple.",
+      "tip": "Go early."
+    }
+  ],
+  "foodIntro": "Local food is great and cheap.",
+  "foods": [
+    {
+      "name": "Fish amok",
+      "text": "Coconut fish curry.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Sticky rice in bamboo",
+      "text": "Sweet snack.",
+      "whereToTry": "Roadside."
+    },
+    {
+      "name": "Kuy teav",
+      "text": "Noodle soup.",
+      "whereToTry": "Breakfast."
+    },
+    {
+      "name": "Lok lak",
+      "text": "Stir-fried beef.",
+      "whereToTry": "Local."
+    },
+    {
+      "name": "Fresh coconut",
+      "text": "Cold.",
+      "whereToTry": "Roadside."
+    }
+  ],
+  "accommodation": {
+    "intro": "Simple guesthouses.",
+    "areas": [
+      {
+        "name": "Old town",
+        "bestFor": "Convenience",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Riverside",
+        "bestFor": "Quiet",
+        "text": "Boutique hotels."
+      },
+      {
+        "name": "Near Phare",
+        "bestFor": "Arts",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Countryside",
+        "bestFor": "Rural",
+        "text": "Homestays."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Guesthouse",
+        "value": "US$8-20 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$30-70 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$80-160 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$3-10 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Battambang is on the route between Siem Reap and Phnom Penh.",
+    "options": [
+      {
+        "mode": "Bus from Siem Reap",
+        "text": "About 3 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bus from Phnom Penh",
+        "text": "About 5 to 6 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Boat",
+        "text": "From Siem Reap, seasonal.",
+        "detail": "Scenic."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Tuk-tuks and bikes.",
+    "options": [
+      {
+        "mode": "Tuk-tuk",
+        "text": "For sights.",
+        "detail": "Agree prices."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Easy around town.",
+        "detail": "Rent."
+      },
+      {
+        "mode": "Motorbike",
+        "text": "For the countryside.",
+        "detail": "Wear a helmet."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November-February",
+    "summary": "Cool and dry months are best.",
+    "seasons": [
+      {
+        "season": "November-February",
+        "rating": "best",
+        "text": "Cool and dry."
+      },
+      {
+        "season": "March-May",
+        "rating": "avoid",
+        "text": "Hot."
+      },
+      {
+        "season": "June-October",
+        "rating": "quiet",
+        "text": "Green."
+      },
+      {
+        "season": "Early November",
+        "rating": "good",
+        "text": "Fresh and green."
+      }
+    ],
+    "avoid": "April and May."
+  },
+  "itinerary": {
+    "title": "Two days in Battambang",
+    "intro": "Train, caves and art.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Countryside",
+        "summary": "Train and temple",
+        "morning": "Wat Banan",
+        "afternoon": "Bamboo train",
+        "evening": "Phnom Sampov bats"
+      },
+      {
+        "day": 2,
+        "title": "Town",
+        "summary": "Art",
+        "morning": "Old town",
+        "afternoon": "Phare",
+        "evening": "Dinner"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Book Phare in advance.",
+    "Bring small notes.",
+    "Cover knees at temples.",
+    "Be respectful at memorials.",
+    "Start early for heat.",
+    "Use registered drivers.",
+    "Carry water."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "Two days."
+    },
+    {
+      "q": "Is the bamboo train real?",
+      "a": "Yes, for tourists now."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Yes."
+    },
+    {
+      "q": "When is best?",
+      "a": "November to February."
+    },
+    {
+      "q": "Is it easy to reach?",
+      "a": "Yes by bus."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "No."
+    }
+  ],
+  "related": [
+    "siem-reap",
+    "phnom-penh",
+    "banteay-srei-kulen"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

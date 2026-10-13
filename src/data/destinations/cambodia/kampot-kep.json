@@ -1,0 +1,354 @@
+{
+  "slug": "kampot-kep",
+  "name": "Kampot and Kep",
+  "country": "cambodia",
+  "region": "Kampot and Kep Provinces, southern coast",
+  "categories": [
+    "coastal",
+    "cultural",
+    "food-and-wine",
+    "off-the-beaten-path"
+  ],
+  "tagline": "A sleepy river town of pepper farms, with a crab market and quiet beaches nearby.",
+  "highlight": "Floating down the Kampot river at sunset, then eating crab in Kep.",
+  "shortDescription": "A relaxed southern coast with colonial architecture, Kampot pepper, river cruises, Bokor Hill, Kep crab market and Rabbit Island.",
+  "metaDescription": "A Kampot and Kep travel guide: river cruises, pepper farms, Bokor Hill Station, Kep crab market, Rabbit Island, caves, where to stay and a three-day plan.",
+  "suggestedStay": "2-4 days",
+  "nearestAirport": "Phnom Penh (PNH), about 3 hours by road",
+  "knownFor": "Pepper, crab, river life",
+  "budget": "US$35-90 per day",
+  "goodFor": "Slow travellers, foodies, couples",
+  "coords": {
+    "lat": 10.61,
+    "lng": 104.18
+  },
+  "image": {
+    "file": "File:Fishing Boats on the Kampot River - 2012.JPG",
+    "alt": "Fishing boats on the Kampot River"
+  },
+  "intro": [
+    "Kampot and Kep are small coastal towns in the south, known for their relaxed pace and food. Kampot sits on a river with French-colonial shophouses and a bohemian expat community, while Kep, a former seaside resort for Cambodia's elite, is known for crab and ruined villas.",
+    "The Kampot pepper that grows in the surrounding hills is prized by chefs, and farm tours show how it is grown. The abandoned French hill station at Bokor offers mountain views, and river cruises at sunset are a highlight. Nearby caves, salt fields and countryside offer more to explore.",
+    "In Kep, the crab market serves fresh crab cooked with Kampot pepper, and boats leave for Rabbit Island, a quiet spot with beach huts. The area is easy to explore by bike or scooter, and a few days here makes a nice break from busier places."
+  ],
+  "whyVisit": {
+    "intro": "This coast is a place to slow down.",
+    "points": [
+      {
+        "title": "River life",
+        "text": "Sunset cruises."
+      },
+      {
+        "title": "Pepper farms",
+        "text": "A world-famous spice."
+      },
+      {
+        "title": "Crab at Kep",
+        "text": "Fresh and cheap."
+      },
+      {
+        "title": "Colonial charm",
+        "text": "Old shophouses."
+      },
+      {
+        "title": "Rabbit Island",
+        "text": "A quiet beach."
+      }
+    ]
+  },
+  "attractionsIntro": "Sights are spread along the coast.",
+  "attractions": [
+    {
+      "name": "Kampot riverfront",
+      "text": "Colonial shophouses and cafes.",
+      "tip": "Stroll at dusk."
+    },
+    {
+      "name": "Pepper farms",
+      "image": {
+        "file": "File:02-Pepper Farm, Kampot-nX-8.jpg",
+        "alt": "A pepper farm near Kampot"
+      },
+      "text": "Tours with tastings.",
+      "tip": "Go in the morning."
+    },
+    {
+      "name": "Bokor Hill Station",
+      "image": {
+        "file": "File:Mairie du Bokor.jpg",
+        "alt": "The old town hall at Bokor Hill Station"
+      },
+      "text": "An abandoned resort in the clouds.",
+      "tip": "Take a tour."
+    },
+    {
+      "name": "Kep Crab Market",
+      "image": {
+        "file": "File:Kep Crab Market.jpg",
+        "alt": "The Kep Crab Market"
+      },
+      "text": "Fresh crab at sea level.",
+      "tip": "Try crab with pepper."
+    },
+    {
+      "name": "Rabbit Island",
+      "image": {
+        "file": "File:Boats at the sandy beach of the Rabbit Island Koh Tonsay Cambodia.jpg",
+        "alt": "Boats at Rabbit Island"
+      },
+      "text": "A beach island with huts.",
+      "tip": "Book a boat."
+    },
+    {
+      "name": "Phnom Chhnork",
+      "text": "A cave temple.",
+      "tip": "Short hike."
+    }
+  ],
+  "thingsToDoIntro": "Relaxed activities.",
+  "thingsToDo": [
+    {
+      "title": "Cruise the river",
+      "text": "At sunset.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Tour a pepper farm",
+      "text": "Learn how it grows.",
+      "tip": "Buy a bag."
+    },
+    {
+      "title": "Eat crab in Kep",
+      "text": "Fresh from the sea.",
+      "tip": "Pay market prices."
+    },
+    {
+      "title": "Ride a scooter",
+      "text": "Through the countryside.",
+      "tip": "Wear a helmet."
+    },
+    {
+      "title": "Visit Bokor",
+      "text": "Ghost town views.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Kayak the river",
+      "text": "Quiet water.",
+      "tip": "Morning."
+    }
+  ],
+  "foodIntro": "Seafood and pepper are the stars.",
+  "foods": [
+    {
+      "name": "Kep crab",
+      "text": "Fresh crab with Kampot pepper.",
+      "whereToTry": "Kep Crab Market."
+    },
+    {
+      "name": "Fish amok",
+      "text": "Coconut fish curry.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Durian",
+      "text": "Kampot is known for it.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Pepper steak",
+      "text": "With green peppercorns.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Fresh coconut",
+      "text": "Cold.",
+      "whereToTry": "Roadside."
+    }
+  ],
+  "accommodation": {
+    "intro": "Riverside guesthouses.",
+    "areas": [
+      {
+        "name": "Kampot riverfront",
+        "bestFor": "Convenience",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Countryside",
+        "bestFor": "Quiet",
+        "text": "Bungalows."
+      },
+      {
+        "name": "Kep",
+        "bestFor": "Seafood",
+        "text": "Seaside stays."
+      },
+      {
+        "name": "Rabbit Island",
+        "bestFor": "Rustic",
+        "text": "Beach huts."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Guesthouse",
+        "value": "US$10-25 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$40-90 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$90-200 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$3-15 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Kampot and Kep are reached by road.",
+    "options": [
+      {
+        "mode": "Bus from Phnom Penh",
+        "text": "About 3 to 4 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bus from Sihanoukville",
+        "text": "About 2 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Minivan",
+        "text": "From Phnom Penh.",
+        "detail": "Door to door."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Scooters and tuk-tuks.",
+    "options": [
+      {
+        "mode": "Scooter",
+        "text": "Easy.",
+        "detail": "Wear a helmet."
+      },
+      {
+        "mode": "Tuk-tuk",
+        "text": "Local trips.",
+        "detail": "Agree prices."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Flat roads.",
+        "detail": "Rent."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November-March",
+    "summary": "Cool, dry months are best.",
+    "seasons": [
+      {
+        "season": "November-March",
+        "rating": "best",
+        "text": "Cool and dry."
+      },
+      {
+        "season": "April-May",
+        "rating": "avoid",
+        "text": "Hot."
+      },
+      {
+        "season": "June-October",
+        "rating": "quiet",
+        "text": "Wet."
+      },
+      {
+        "season": "Early November",
+        "rating": "good",
+        "text": "Fresh."
+      }
+    ],
+    "avoid": "April and May."
+  },
+  "itinerary": {
+    "title": "Three days around Kampot",
+    "intro": "River and coast.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Kampot",
+        "summary": "Riverside",
+        "morning": "Pepper farm",
+        "afternoon": "Bokor Hill",
+        "evening": "Sunset river cruise"
+      },
+      {
+        "day": 2,
+        "title": "Kep",
+        "summary": "Seafood",
+        "morning": "Drive to Kep",
+        "afternoon": "Crab market",
+        "evening": "Rabbit Island boat"
+      },
+      {
+        "day": 3,
+        "title": "Countryside",
+        "summary": "Caves",
+        "morning": "Phnom Chhnork",
+        "afternoon": "Salt fields",
+        "evening": "Farewell dinner"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Rent a scooter with care.",
+    "Bring cash.",
+    "Taste the pepper.",
+    "Watch for tides at Kep.",
+    "Book Rabbit Island ahead.",
+    "Wear a helmet.",
+    "Check Bokor road conditions."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "Two to four days."
+    },
+    {
+      "q": "Is Kampot pepper special?",
+      "a": "Yes."
+    },
+    {
+      "q": "Can I swim in Kep?",
+      "a": "Beaches are small."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Yes."
+    },
+    {
+      "q": "When is best?",
+      "a": "November to March."
+    },
+    {
+      "q": "Is it touristy?",
+      "a": "Lightly."
+    }
+  ],
+  "related": [
+    "phnom-penh",
+    "koh-rong",
+    "kratie"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

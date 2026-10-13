@@ -1,0 +1,358 @@
+{
+  "slug": "angkor-archaeological-park",
+  "name": "Angkor Archaeological Park",
+  "country": "cambodia",
+  "region": "Siem Reap Province, north-west Cambodia",
+  "categories": [
+    "unesco",
+    "archaeological",
+    "historic",
+    "cultural"
+  ],
+  "tagline": "The largest religious monument in the world, set among a forest of temples built by the Khmer Empire.",
+  "highlight": "Watching the towers of Angkor Wat emerge from the dark at sunrise.",
+  "shortDescription": "A UNESCO World Heritage Site covering over 400 square kilometres, with Angkor Wat, the faces of the Bayon, the jungle-wrapped Ta Prohm and dozens of other temples.",
+  "metaDescription": "An Angkor Archaeological Park guide: Angkor Wat, the Bayon, Ta Prohm, Angkor Thom, Phnom Bakheng, tickets and passes, sunrise tips, tuk-tuks, a three-day plan and etiquette.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Siem Reap-Angkor International (SAI), about 45 minutes from the temples",
+  "knownFor": "Angkor Wat, Bayon, Ta Prohm",
+  "budget": "US$60-130 per day, plus ticket",
+  "goodFor": "History, photography, first-time visitors",
+  "coords": {
+    "lat": 13.4125,
+    "lng": 103.867
+  },
+  "image": {
+    "file": "File:Angkor Wat at sunrise 5.jpg",
+    "alt": "Angkor Wat at sunrise"
+  },
+  "intro": [
+    "Angkor was the capital of the Khmer Empire, which ruled much of South-East Asia from the 9th to the 15th century. The temples left behind are the largest religious monuments in the world, spread across forest and rice fields near Siem Reap, and a UNESCO World Heritage Site.",
+    "Angkor Wat, built in the early 12th century for King Suryavarman II, is the most famous, a vast temple mountain with five towers, a moat and miles of carved bas-reliefs. A few kilometres north, Angkor Thom was the last capital, and its Bayon temple is crowned by hundreds of serene stone faces. Ta Prohm is left half-swallowed by silk-cotton and strangler fig trees.",
+    "The temples are best visited over two or three days, beginning at dawn to see the light and avoid the heat. Tuk-tuk drivers act as guides and drivers, and a three-day or seven-day pass covers the park. Modest dress is required, with shoulders and knees covered, and the area can be crowded, especially at sunrise."
+  ],
+  "whyVisit": {
+    "intro": "Angkor is the highlight of Cambodia and one of the great sights in Asia.",
+    "points": [
+      {
+        "title": "Angkor Wat",
+        "text": "The world's largest religious monument."
+      },
+      {
+        "title": "The Bayon",
+        "text": "Smiling faces carved in stone."
+      },
+      {
+        "title": "Ta Prohm",
+        "text": "Temple and jungle in embrace."
+      },
+      {
+        "title": "Scale and variety",
+        "text": "Dozens of temples to explore."
+      },
+      {
+        "title": "Sunrise and sunset",
+        "text": "Atmospheric light."
+      }
+    ]
+  },
+  "attractionsIntro": "The park is divided into the main circuits.",
+  "attractions": [
+    {
+      "name": "Angkor Wat",
+      "image": {
+        "file": "File:Angkor Wat with its reflection (cropped).jpg",
+        "alt": "Angkor Wat reflected in the pond"
+      },
+      "text": "The grand temple, with bas-reliefs and towers.",
+      "tip": "Visit at sunrise or late afternoon."
+    },
+    {
+      "name": "Bayon",
+      "image": {
+        "file": "File:20171127 Bayon Temple Angkor Thom 4754 DxO.jpg",
+        "alt": "Stone faces of the Bayon temple"
+      },
+      "text": "The state temple of Angkor Thom, with its giant faces.",
+      "tip": "Go in the morning."
+    },
+    {
+      "name": "Ta Prohm",
+      "image": {
+        "file": "File:Ta Prohm Buddha image in a tree, Cambodia, January 2009.jpg",
+        "alt": "A Buddha image in the roots at Ta Prohm"
+      },
+      "text": "A temple wrapped in giant tree roots.",
+      "tip": "Arrive early to beat crowds."
+    },
+    {
+      "name": "Angkor Thom South Gate",
+      "image": {
+        "file": "File:20171126 South gate of Angkor Thom 4733 DxO.jpg",
+        "alt": "The south gate of Angkor Thom"
+      },
+      "text": "A massive gate with stone guardians.",
+      "tip": "Photogenic."
+    },
+    {
+      "name": "Phnom Bakheng",
+      "image": {
+        "file": "File:Phnom Bakheng temple at Angkor, Cambodia.jpg",
+        "alt": "Phnom Bakheng temple"
+      },
+      "text": "A hilltop temple, popular at sunset.",
+      "tip": "Queues form; go early."
+    },
+    {
+      "name": "Banteay Kdei and Srah Srang",
+      "text": "A quieter temple and reservoir.",
+      "tip": "Good for a restful stop."
+    }
+  ],
+  "thingsToDoIntro": "Plan activities around heat and light.",
+  "thingsToDo": [
+    {
+      "title": "Watch sunrise at Angkor Wat",
+      "text": "Arrive before 5 am.",
+      "tip": "Bring a flashlight."
+    },
+    {
+      "title": "Explore Ta Prohm",
+      "text": "Wander among the roots.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Cycle the Small Circuit",
+      "text": "A tuk-tuk or bike.",
+      "tip": "Hire a driver."
+    },
+    {
+      "title": "Climb Phnom Bakheng",
+      "text": "Sunset views.",
+      "tip": "Arrive early."
+    },
+    {
+      "title": "Visit remote temples",
+      "text": "Beng Mealea and Banteay Srei.",
+      "tip": "Full-day tour."
+    },
+    {
+      "title": "Join a guide",
+      "text": "Learn the stories.",
+      "tip": "Hire a licensed guide."
+    }
+  ],
+  "foodIntro": "Food is available near the temples and in Siem Reap.",
+  "foods": [
+    {
+      "name": "Fish amok",
+      "text": "Fish steamed in coconut curry in banana leaf.",
+      "whereToTry": "Restaurants near the park."
+    },
+    {
+      "name": "Lok lak",
+      "text": "Stir-fried beef with lime pepper dip.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Num banh chok",
+      "text": "Rice noodles with fish gravy.",
+      "whereToTry": "Morning stalls."
+    },
+    {
+      "name": "Khmer curry",
+      "text": "Fragrant coconut curry.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Sugarcane juice",
+      "text": "Cold and sweet.",
+      "whereToTry": "Roadside."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Siem Reap.",
+    "areas": [
+      {
+        "name": "Siem Reap centre",
+        "bestFor": "Convenience",
+        "text": "Hotels and hostels."
+      },
+      {
+        "name": "Near the temples",
+        "bestFor": "Quiet",
+        "text": "Resorts."
+      },
+      {
+        "name": "Old Market area",
+        "bestFor": "Food",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Wat Bo",
+        "bestFor": "Local",
+        "text": "Boutique stays."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Guesthouse",
+        "value": "US$15-35 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$50-110 per night"
+      },
+      {
+        "label": "Boutique resort",
+        "value": "US$120-300 per night"
+      },
+      {
+        "label": "Angkor pass",
+        "value": "US$37 for 1 day, US$62 for 3 days, US$72 for 7 days (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Siem Reap is the gateway.",
+    "options": [
+      {
+        "mode": "Fly to Siem Reap",
+        "text": "From Bangkok, Phnom Penh, Singapore and more.",
+        "detail": "About 30 minutes to the town."
+      },
+      {
+        "mode": "Bus",
+        "text": "From Phnom Penh, about 6 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Tuk-tuk",
+        "text": "From Siem Reap to the temples.",
+        "detail": "About 20 minutes."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Tuk-tuks and bikes.",
+    "options": [
+      {
+        "mode": "Tuk-tuk",
+        "text": "The classic option.",
+        "detail": "Agree a price."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Easy and shaded.",
+        "detail": "Rent in town."
+      },
+      {
+        "mode": "Car with driver",
+        "text": "Air-conditioned.",
+        "detail": "Good in heat."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November-February",
+    "summary": "The cool, dry season is the best time to visit, though it is also the busiest.",
+    "seasons": [
+      {
+        "season": "November-February",
+        "rating": "best",
+        "text": "Cool, dry and sunny."
+      },
+      {
+        "season": "March-May",
+        "rating": "avoid",
+        "text": "Very hot."
+      },
+      {
+        "season": "June-October",
+        "rating": "quiet",
+        "text": "Green season, with rain showers."
+      },
+      {
+        "season": "Early November",
+        "rating": "good",
+        "text": "Just after the rains."
+      }
+    ],
+    "avoid": "April and May, when heat is intense."
+  },
+  "itinerary": {
+    "title": "Three days at Angkor",
+    "intro": "The big temples at a gentle pace.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Angkor Wat and the Small Circuit",
+        "summary": "The classics",
+        "morning": "Sunrise at Angkor Wat",
+        "afternoon": "Ta Keo and Ta Prohm",
+        "evening": "Phnom Bakheng sunset"
+      },
+      {
+        "day": 2,
+        "title": "Angkor Thom",
+        "summary": "The Bayon",
+        "morning": "Bayon and the Terrace of the Elephants",
+        "afternoon": "Rest",
+        "evening": "Banteay Kdei"
+      },
+      {
+        "day": 3,
+        "title": "Further out",
+        "summary": "Remote temples",
+        "morning": "Banteay Srei",
+        "afternoon": "Beng Mealea",
+        "evening": "Farewell dinner"
+      }
+    ]
+  },
+  "tipsIntro": "Tips for visiting.",
+  "tips": [
+    "Buy your pass at the official ticket office.",
+    "Cover shoulders and knees.",
+    "Start early to avoid heat.",
+    "Bring water and sunscreen.",
+    "Hire a licensed guide.",
+    "Respect worshippers at active shrines.",
+    "Do not climb restricted structures."
+  ],
+  "faq": [
+    {
+      "q": "How many days do I need?",
+      "a": "Two to three days."
+    },
+    {
+      "q": "Do I need a guide?",
+      "a": "Helpful but optional."
+    },
+    {
+      "q": "How do I get tickets?",
+      "a": "At the official office."
+    },
+    {
+      "q": "What should I wear?",
+      "a": "Modest clothes."
+    },
+    {
+      "q": "Is sunrise worth it?",
+      "a": "Many say yes."
+    },
+    {
+      "q": "Is it crowded?",
+      "a": "Yes in high season."
+    }
+  ],
+  "related": [
+    "siem-reap",
+    "banteay-srei-kulen",
+    "koh-ker-beng-mealea"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

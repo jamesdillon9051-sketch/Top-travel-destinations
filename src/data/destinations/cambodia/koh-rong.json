@@ -1,0 +1,345 @@
+{
+  "slug": "koh-rong",
+  "name": "Koh Rong and Koh Rong Samloem",
+  "country": "cambodia",
+  "region": "Preah Sihanouk Province, Gulf of Thailand",
+  "categories": [
+    "island",
+    "coastal",
+    "nature"
+  ],
+  "tagline": "White-sand islands off the Cambodian coast, with bioluminescent plankton and jungle interiors.",
+  "highlight": "Swimming through glowing plankton at night on a quiet beach.",
+  "shortDescription": "Two islands with beaches, snorkelling, jungle trails and a relaxed beach vibe, reached by ferry from Sihanoukville.",
+  "metaDescription": "A Koh Rong and Koh Rong Samloem guide: beaches, plankton, snorkelling, jungle hikes, ferries from Sihanoukville, where to stay, costs and a four-day plan.",
+  "suggestedStay": "3-5 days",
+  "nearestAirport": "Phnom Penh (PNH) or Sihanoukville (KOS), then ferry",
+  "knownFor": "Beaches, snorkelling, relaxing",
+  "budget": "US$30-100 per day",
+  "goodFor": "Backpackers, couples, beach lovers",
+  "coords": {
+    "lat": 10.73,
+    "lng": 103.3
+  },
+  "image": {
+    "file": "File:Lazy Beach, Koh Rong Sanloem.jpg",
+    "alt": "Lazy Beach on Koh Rong Samloem"
+  },
+  "intro": [
+    "Koh Rong and Koh Rong Samloem are the best known of Cambodia's islands, with long white beaches, clear water and jungle-covered hills. Koh Rong is bigger and livelier, with a party scene at Koh Touch, while Koh Rong Samloem is calmer and more upmarket.",
+    "The islands are reached by ferry from Sihanoukville in 45 minutes to two hours. Once there, activities include snorkelling, kayaking, jungle trekking, and watching bioluminescent plankton glow at night. Many resorts are simple bungalows, with limited electricity and mobile coverage.",
+    "The dry season, from November to May, brings calm seas, while the rainy season can cancel ferries and close some businesses. Development is changing the islands quickly, so check recent reviews."
+  ],
+  "whyVisit": {
+    "intro": "The islands are for relaxation and simple beach life.",
+    "points": [
+      {
+        "title": "White-sand beaches",
+        "text": "Clear water and sunsets."
+      },
+      {
+        "title": "Snorkelling",
+        "text": "Reefs and fish."
+      },
+      {
+        "title": "Plankton at night",
+        "text": "Glowing sea."
+      },
+      {
+        "title": "Jungle trails",
+        "text": "Short hikes."
+      },
+      {
+        "title": "Low-key atmosphere",
+        "text": "Beach bungalows."
+      }
+    ]
+  },
+  "attractionsIntro": "The best sights are the beaches.",
+  "attractions": [
+    {
+      "name": "Long Set Beach",
+      "text": "A long white beach on Koh Rong.",
+      "tip": "Great for sunset."
+    },
+    {
+      "name": "Koh Touch",
+      "text": "The main village.",
+      "tip": "Lively evenings."
+    },
+    {
+      "name": "Sok San Beach",
+      "text": "A quiet, scenic bay.",
+      "tip": "Take a boat."
+    },
+    {
+      "name": "Lazy Beach",
+      "text": "A calm beach on Samloem.",
+      "tip": "Relax."
+    },
+    {
+      "name": "Saracen Bay",
+      "text": "A crescent bay on Samloem.",
+      "tip": "Swim in calm water."
+    },
+    {
+      "name": "Jungle trails",
+      "text": "Hike to quiet coves.",
+      "tip": "Wear shoes."
+    }
+  ],
+  "thingsToDoIntro": "Water and beach time.",
+  "thingsToDo": [
+    {
+      "title": "Snorkel the reef",
+      "text": "Boat trips.",
+      "tip": "Bring sunscreen."
+    },
+    {
+      "title": "Swim with plankton",
+      "text": "After dark.",
+      "tip": "Go on a moonless night."
+    },
+    {
+      "title": "Hike to Long Beach",
+      "text": "Through jungle.",
+      "tip": "Carry water."
+    },
+    {
+      "title": "Kayak",
+      "text": "Calm bays.",
+      "tip": "Morning."
+    },
+    {
+      "title": "Watch the sunset",
+      "text": "Over the water.",
+      "tip": "Every evening."
+    },
+    {
+      "title": "Dive",
+      "text": "Basic courses.",
+      "tip": "Choose a reputable shop."
+    }
+  ],
+  "foodIntro": "Food is simple and fresh.",
+  "foods": [
+    {
+      "name": "Grilled fish",
+      "text": "Fresh catch.",
+      "whereToTry": "Beach restaurants."
+    },
+    {
+      "name": "Fish amok",
+      "text": "Coconut curry.",
+      "whereToTry": "Resorts."
+    },
+    {
+      "name": "Fried noodles",
+      "text": "Quick meals.",
+      "whereToTry": "Bars."
+    },
+    {
+      "name": "Fresh fruit",
+      "text": "Mango and pineapple.",
+      "whereToTry": "Stalls."
+    },
+    {
+      "name": "Beach barbecue",
+      "text": "Evening feast.",
+      "whereToTry": "Resorts."
+    }
+  ],
+  "accommodation": {
+    "intro": "Bungalows and a few resorts.",
+    "areas": [
+      {
+        "name": "Koh Touch",
+        "bestFor": "Social",
+        "text": "Hostels and bungalows."
+      },
+      {
+        "name": "Long Set",
+        "bestFor": "Quiet",
+        "text": "Beach bungalows."
+      },
+      {
+        "name": "Saracen Bay",
+        "bestFor": "Calm",
+        "text": "Resorts."
+      },
+      {
+        "name": "Lazy Beach",
+        "bestFor": "Barefoot",
+        "text": "Luxury tents."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Basic bungalow",
+        "value": "US$10-25 per night"
+      },
+      {
+        "label": "Mid-range",
+        "value": "US$40-90 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$100-250 per night"
+      },
+      {
+        "label": "Ferry",
+        "value": "US$10-20 each way"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Take a ferry from Sihanoukville.",
+    "options": [
+      {
+        "mode": "Bus to Sihanoukville",
+        "text": "From Phnom Penh, about 4 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Ferry",
+        "text": "45 minutes to 2 hours.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Fly to Sihanoukville",
+        "text": "Limited flights.",
+        "detail": "Check schedules."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Boats and walking.",
+    "options": [
+      {
+        "mode": "Boat",
+        "text": "Between beaches.",
+        "detail": "Arranged locally."
+      },
+      {
+        "mode": "Walking",
+        "text": "Short trails.",
+        "detail": "Bring water."
+      },
+      {
+        "mode": "Motorbike taxi",
+        "text": "On Koh Rong.",
+        "detail": "Limited."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November-May",
+    "summary": "Calm seas and dry weather.",
+    "seasons": [
+      {
+        "season": "November-February",
+        "rating": "best",
+        "text": "Cool, dry and calm."
+      },
+      {
+        "season": "March-May",
+        "rating": "good",
+        "text": "Hot."
+      },
+      {
+        "season": "June-October",
+        "rating": "avoid",
+        "text": "Rough seas."
+      },
+      {
+        "season": "Early November",
+        "rating": "good",
+        "text": "Opening season."
+      }
+    ],
+    "avoid": "August and September, when seas are rough."
+  },
+  "itinerary": {
+    "title": "Four days on the islands",
+    "intro": "Beach time.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Ferry",
+        "morning": "Ferry to Koh Rong",
+        "afternoon": "Beach",
+        "evening": "Plankton swim"
+      },
+      {
+        "day": 2,
+        "title": "Snorkel",
+        "summary": "Reef",
+        "morning": "Snorkel trip",
+        "afternoon": "Beach",
+        "evening": "Sunset"
+      },
+      {
+        "day": 3,
+        "title": "Samloem",
+        "summary": "Calm",
+        "morning": "Boat to Samloem",
+        "afternoon": "Lazy Beach",
+        "evening": "Dinner"
+      },
+      {
+        "day": 4,
+        "title": "Hike",
+        "summary": "Jungle",
+        "morning": "Hike",
+        "afternoon": "Swim",
+        "evening": "Departure"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Bring cash since ATMs are few.",
+    "Pack light.",
+    "Book ferries ahead.",
+    "Use reef-safe sunscreen.",
+    "Bring insect repellent.",
+    "Expect limited power.",
+    "Respect marine life."
+  ],
+  "faq": [
+    {
+      "q": "Which island is better?",
+      "a": "Samloem is quieter."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Three to five days."
+    },
+    {
+      "q": "When is best?",
+      "a": "November to May."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Moderate."
+    },
+    {
+      "q": "Is there Wi-Fi?",
+      "a": "Limited."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Yes with care."
+    }
+  ],
+  "related": [
+    "kampot-kep",
+    "phnom-penh",
+    "siem-reap"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

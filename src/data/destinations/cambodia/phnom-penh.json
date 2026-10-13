@@ -1,0 +1,350 @@
+{
+  "slug": "phnom-penh",
+  "name": "Phnom Penh",
+  "country": "cambodia",
+  "region": "Phnom Penh Municipality",
+  "categories": [
+    "capital-city",
+    "major-city",
+    "historic",
+    "cultural"
+  ],
+  "tagline": "Cambodia's capital on the Mekong, with a royal palace, markets and sobering history.",
+  "highlight": "Watching the sun set over the river from a rooftop after a day of palaces and markets.",
+  "shortDescription": "A busy riverside capital with the Royal Palace, Silver Pagoda, National Museum, Central Market, Tuol Sleng, Choeung Ek and a growing food scene.",
+  "metaDescription": "A Phnom Penh travel guide: Royal Palace, Silver Pagoda, National Museum, Central Market, Tuol Sleng and the Killing Fields, Riverside, food, where to stay and a three-day plan.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Phnom Penh International (PNH), about 30 minutes",
+  "knownFor": "Palaces, markets, history",
+  "budget": "US$45-120 per day",
+  "goodFor": "History, food, city lovers",
+  "coords": {
+    "lat": 11.5564,
+    "lng": 104.9282
+  },
+  "image": {
+    "file": "File:Royal Palace, Phnom Penh Cambodia 1.jpg",
+    "alt": "The Royal Palace in Phnom Penh"
+  },
+  "intro": [
+    "Phnom Penh sits where the Mekong, Tonle Sap and Bassac rivers meet. A former French colonial city, it has wide boulevards, a riverside promenade, and a mix of golden royal buildings, markets and modern cafes. It is busier and more intense than Siem Reap, but worth a few days.",
+    "The Royal Palace and the Silver Pagoda, with its floor of silver tiles, are the main sights, along with the National Museum of Khmer art. The Central Market, Russian Market and riverside offer shopping and street food. Wat Phnom, the hill that gave the city its name, is a small temple at the centre.",
+    "The city also holds the memory of the Khmer Rouge years. The Tuol Sleng Genocide Museum and the Choeung Ek Killing Fields are heavy but important visits, and should be approached with respect. Evenings are good for sunset boat rides and the riverside bars."
+  ],
+  "whyVisit": {
+    "intro": "Phnom Penh is a capital of contrasts.",
+    "points": [
+      {
+        "title": "Royal Palace",
+        "text": "A golden complex."
+      },
+      {
+        "title": "History",
+        "text": "Khmer Rouge memorials."
+      },
+      {
+        "title": "Markets",
+        "text": "Central and Russian."
+      },
+      {
+        "title": "Riverside life",
+        "text": "Cafes and boats."
+      },
+      {
+        "title": "Food scene",
+        "text": "Street food to fine dining."
+      }
+    ]
+  },
+  "attractionsIntro": "Main sights are close to the river.",
+  "attractions": [
+    {
+      "name": "Royal Palace and Silver Pagoda",
+      "image": {
+        "file": "File:20171124 Srebrna Pagoda w Phnom Penh 4139 DxO.jpg",
+        "alt": "The Silver Pagoda in Phnom Penh"
+      },
+      "text": "The royal complex.",
+      "tip": "Dress modestly."
+    },
+    {
+      "name": "National Museum",
+      "text": "Khmer sculpture and art.",
+      "tip": "Allow two hours."
+    },
+    {
+      "name": "Central Market",
+      "image": {
+        "file": "File:20171125 Central Market, Phnom Penh 4368 DxO.jpg",
+        "alt": "The Central Market in Phnom Penh"
+      },
+      "text": "An art-deco dome with stalls.",
+      "tip": "Go in the morning."
+    },
+    {
+      "name": "Tuol Sleng Genocide Museum",
+      "text": "A former prison turned memorial.",
+      "tip": "Allow time and respect."
+    },
+    {
+      "name": "Choeung Ek Killing Fields",
+      "text": "A memorial site outside the city.",
+      "tip": "Take the audio guide."
+    },
+    {
+      "name": "Wat Phnom",
+      "image": {
+        "file": "File:2016 Phnom Penh, Wat Phnom (07).jpg",
+        "alt": "Wat Phnom in Phnom Penh"
+      },
+      "text": "A hilltop temple.",
+      "tip": "Visit at dusk."
+    }
+  ],
+  "thingsToDoIntro": "Cultural visits and food.",
+  "thingsToDo": [
+    {
+      "title": "Visit the Royal Palace",
+      "text": "Morning is best.",
+      "tip": "Cover shoulders."
+    },
+    {
+      "title": "Learn about the Khmer Rouge",
+      "text": "At Tuol Sleng.",
+      "tip": "Allow a half day."
+    },
+    {
+      "title": "Cruise on the Mekong",
+      "text": "At sunset.",
+      "tip": "Book a boat."
+    },
+    {
+      "title": "Shop at the Russian Market",
+      "text": "Souvenirs.",
+      "tip": "Bargain."
+    },
+    {
+      "title": "Try street food",
+      "text": "Along the river.",
+      "tip": "Go at night."
+    },
+    {
+      "title": "See a dance show",
+      "text": "Classical Khmer dance.",
+      "tip": "Book."
+    }
+  ],
+  "foodIntro": "The food scene is lively.",
+  "foods": [
+    {
+      "name": "Fish amok",
+      "text": "Coconut curry steamed fish.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Kuy teav",
+      "text": "Noodle soup.",
+      "whereToTry": "Breakfast stalls."
+    },
+    {
+      "name": "Lok lak",
+      "text": "Beef stir-fry.",
+      "whereToTry": "Local eateries."
+    },
+    {
+      "name": "Num pang",
+      "text": "Baguette sandwiches.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Iced coffee",
+      "text": "Strong and sweet.",
+      "whereToTry": "Cafes."
+    }
+  ],
+  "accommodation": {
+    "intro": "Riverside and BKK1 are popular.",
+    "areas": [
+      {
+        "name": "Riverside",
+        "bestFor": "Sights",
+        "text": "Hotels and guesthouses."
+      },
+      {
+        "name": "BKK1",
+        "bestFor": "Cafes",
+        "text": "Boutique hotels."
+      },
+      {
+        "name": "Russian Market",
+        "bestFor": "Local",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Daun Penh",
+        "bestFor": "History",
+        "text": "Mid-range hotels."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$6-15 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$40-90 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$100-250 per night"
+      },
+      {
+        "label": "Palace ticket",
+        "value": "Around US$10 (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Phnom Penh has an international airport.",
+    "options": [
+      {
+        "mode": "Fly to PNH",
+        "text": "Direct from regional hubs.",
+        "detail": "About 30 minutes."
+      },
+      {
+        "mode": "Bus from Siem Reap",
+        "text": "About 6 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bus from Sihanoukville",
+        "text": "About 4 hours.",
+        "detail": "Frequent."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Tuk-tuks and ride-hailing.",
+    "options": [
+      {
+        "mode": "Tuk-tuk",
+        "text": "Common.",
+        "detail": "Agree a price."
+      },
+      {
+        "mode": "Ride-hailing",
+        "text": "Apps like PassApp.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "Walking",
+        "text": "Riverside.",
+        "detail": "Heat."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November-February",
+    "summary": "Cool, dry months are best.",
+    "seasons": [
+      {
+        "season": "November-February",
+        "rating": "best",
+        "text": "Cool and dry."
+      },
+      {
+        "season": "March-May",
+        "rating": "avoid",
+        "text": "Hot."
+      },
+      {
+        "season": "June-October",
+        "rating": "quiet",
+        "text": "Rainy but green."
+      },
+      {
+        "season": "Early November",
+        "rating": "good",
+        "text": "Water Festival."
+      }
+    ],
+    "avoid": "April and May."
+  },
+  "itinerary": {
+    "title": "Three days in Phnom Penh",
+    "intro": "Royal and recent history.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Royal Phnom Penh",
+        "summary": "Palace",
+        "morning": "Royal Palace and Silver Pagoda",
+        "afternoon": "National Museum",
+        "evening": "Riverside sunset"
+      },
+      {
+        "day": 2,
+        "title": "History",
+        "summary": "Memorials",
+        "morning": "Tuol Sleng",
+        "afternoon": "Killing Fields",
+        "evening": "Quiet dinner"
+      },
+      {
+        "day": 3,
+        "title": "Markets",
+        "summary": "Shopping",
+        "morning": "Central Market",
+        "afternoon": "Russian Market",
+        "evening": "Farewell dinner"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Dress modestly at the palace and memorials.",
+    "Be respectful at Tuol Sleng and Choeung Ek.",
+    "Watch bags on motorbikes.",
+    "Use apps for taxis.",
+    "Carry small US dollar notes.",
+    "Drink bottled water.",
+    "Avoid walking alone late."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "Two to three days."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "With care."
+    },
+    {
+      "q": "Is it emotional?",
+      "a": "The memorials are."
+    },
+    {
+      "q": "Which currency?",
+      "a": "US dollars and riel."
+    },
+    {
+      "q": "Is it walkable?",
+      "a": "Partly."
+    },
+    {
+      "q": "Best time?",
+      "a": "November to February."
+    }
+  ],
+  "related": [
+    "siem-reap",
+    "kampot-kep",
+    "kratie"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

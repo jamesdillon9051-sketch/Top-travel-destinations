@@ -1,0 +1,337 @@
+{
+  "slug": "kratie",
+  "name": "Kratie",
+  "country": "cambodia",
+  "region": "Kratie Province, north-east Cambodia",
+  "categories": [
+    "nature",
+    "off-the-beaten-path",
+    "scenic"
+  ],
+  "tagline": "A quiet Mekong town where you can see rare freshwater Irrawaddy dolphins.",
+  "highlight": "Watching Irrawaddy dolphins surface in the golden light of the Mekong.",
+  "shortDescription": "A riverside provincial town with Irrawaddy dolphins at Kampi, Koh Trong island, sunsets over the Mekong and French-era buildings.",
+  "metaDescription": "A Kratie travel guide: Irrawaddy dolphins at Kampi, Koh Trong island cycling, Mekong sunsets, Phnom Sambok, where to stay, getting there and a two-day plan.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Phnom Penh (PNH) or Siem Reap (SAI), about 5-6 hours by road",
+  "knownFor": "Irrawaddy dolphins, Mekong views",
+  "budget": "US$30-80 per day",
+  "goodFor": "Wildlife lovers, slow travellers",
+  "coords": {
+    "lat": 12.4881,
+    "lng": 106.0188
+  },
+  "image": {
+    "file": "File:20171123 Sunset over Mekong Kratie 3996 DxO.jpg",
+    "alt": "Sunset over the Mekong River at Kratie"
+  },
+  "intro": [
+    "Kratie is a sleepy town on the banks of the Mekong, best known as the base for seeing endangered Irrawaddy dolphins, which live in a deep pool of the river about 15 kilometres north. Only a small number remain, and boat trips operate with strict rules to protect them.",
+    "The town itself has French-colonial buildings, a lively waterfront and sunset views over the wide river. Just offshore, Koh Trong is a peaceful island of farms and villages, reached by short ferry and ideal for cycling. Further afield, there are temples, hills and waterfalls.",
+    "Kratie is a good stop between Phnom Penh and Laos, or on the road to Mondulkiri. It is relaxed, with few tourists, and a day or two is enough for dolphins, the island and sunset."
+  ],
+  "whyVisit": {
+    "intro": "Kratie is about river life and rare wildlife.",
+    "points": [
+      {
+        "title": "Irrawaddy dolphins",
+        "text": "A rare sight."
+      },
+      {
+        "title": "Mekong sunsets",
+        "text": "Wide skies."
+      },
+      {
+        "title": "Koh Trong",
+        "text": "Rural island cycling."
+      },
+      {
+        "title": "Colonial town",
+        "text": "Waterfront charm."
+      },
+      {
+        "title": "Quiet pace",
+        "text": "Few visitors."
+      }
+    ]
+  },
+  "attractionsIntro": "Sights are around the town.",
+  "attractions": [
+    {
+      "name": "Kampi dolphin pools",
+      "image": {
+        "file": "File:Irrawaddy dolphin spotting 001 - panoramio.jpg",
+        "alt": "Spotting Irrawaddy dolphins"
+      },
+      "text": "Boat trips to see dolphins.",
+      "tip": "Go early or late."
+    },
+    {
+      "name": "Koh Trong Island",
+      "image": {
+        "file": "File:Scenery on Koh Trong Island - Mekong River - Kratie - Cambodia - 07 (48378628931).jpg",
+        "alt": "Scenery on Koh Trong Island"
+      },
+      "text": "A peaceful island of farms.",
+      "tip": "Rent a bike."
+    },
+    {
+      "name": "Kratie waterfront",
+      "text": "Sunsets over the Mekong.",
+      "tip": "Evening stroll."
+    },
+    {
+      "name": "Phnom Sambok",
+      "text": "A hilltop temple.",
+      "tip": "Climb the steps."
+    },
+    {
+      "name": "Sambor Prei Kuk",
+      "text": "Pre-Angkorian temples.",
+      "tip": "Day trip from Kratie."
+    },
+    {
+      "name": "Local markets",
+      "text": "Fruit and food.",
+      "tip": "Morning."
+    }
+  ],
+  "thingsToDoIntro": "Simple, gentle activities.",
+  "thingsToDo": [
+    {
+      "title": "See dolphins",
+      "text": "Boat trips.",
+      "tip": "Follow guidelines."
+    },
+    {
+      "title": "Cycle Koh Trong",
+      "text": "Quiet lanes.",
+      "tip": "Rent a bike."
+    },
+    {
+      "title": "Watch sunset",
+      "text": "On the river.",
+      "tip": "Bring a drink."
+    },
+    {
+      "title": "Visit a pagoda",
+      "text": "Temple tour.",
+      "tip": "Dress modestly."
+    },
+    {
+      "title": "Eat local",
+      "text": "Waterfront stalls.",
+      "tip": "Try river fish."
+    },
+    {
+      "title": "Relax",
+      "text": "In a hammock.",
+      "tip": "Take it slow."
+    }
+  ],
+  "foodIntro": "River fish and Khmer staples.",
+  "foods": [
+    {
+      "name": "River fish",
+      "text": "Grilled fresh.",
+      "whereToTry": "Waterfront."
+    },
+    {
+      "name": "Fish amok",
+      "text": "Coconut curry.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Kuy teav",
+      "text": "Noodle soup.",
+      "whereToTry": "Breakfast."
+    },
+    {
+      "name": "Fruit shakes",
+      "text": "Cheap.",
+      "whereToTry": "Stalls."
+    },
+    {
+      "name": "Sticky rice",
+      "text": "Sweet snack.",
+      "whereToTry": "Markets."
+    }
+  ],
+  "accommodation": {
+    "intro": "Guesthouses on the river.",
+    "areas": [
+      {
+        "name": "Waterfront",
+        "bestFor": "Convenience",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Koh Trong",
+        "bestFor": "Quiet",
+        "text": "Homestays."
+      },
+      {
+        "name": "Town centre",
+        "bestFor": "Value",
+        "text": "Hotels."
+      },
+      {
+        "name": "Resorts",
+        "bestFor": "Comfort",
+        "text": "Few options."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Guesthouse",
+        "value": "US$8-20 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$25-60 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$60-120 per night"
+      },
+      {
+        "label": "Dolphin trip",
+        "value": "Around US$9-15 per person (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Kratie is a road trip from Phnom Penh.",
+    "options": [
+      {
+        "mode": "Bus from Phnom Penh",
+        "text": "About 5 to 6 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Bus from Siem Reap",
+        "text": "About 8 hours.",
+        "detail": "Via Stung Treng."
+      },
+      {
+        "mode": "Minivan",
+        "text": "Faster.",
+        "detail": "Book ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Tuk-tuks and bikes.",
+    "options": [
+      {
+        "mode": "Tuk-tuk",
+        "text": "To the dolphins.",
+        "detail": "Agree a price."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "On Koh Trong.",
+        "detail": "Rent."
+      },
+      {
+        "mode": "Walking",
+        "text": "In town.",
+        "detail": "Small."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "November-February",
+    "summary": "Cool and dry months are best.",
+    "seasons": [
+      {
+        "season": "November-February",
+        "rating": "best",
+        "text": "Cool and dry."
+      },
+      {
+        "season": "March-May",
+        "rating": "avoid",
+        "text": "Hot."
+      },
+      {
+        "season": "June-October",
+        "rating": "quiet",
+        "text": "Rainy."
+      },
+      {
+        "season": "Early November",
+        "rating": "good",
+        "text": "River full."
+      }
+    ],
+    "avoid": "April and May."
+  },
+  "itinerary": {
+    "title": "Two days in Kratie",
+    "intro": "Dolphins and island.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Dolphins",
+        "summary": "Kampi",
+        "morning": "Dolphin boat trip",
+        "afternoon": "Rest",
+        "evening": "Sunset on the river"
+      },
+      {
+        "day": 2,
+        "title": "Island",
+        "summary": "Koh Trong",
+        "morning": "Ferry to Koh Trong",
+        "afternoon": "Cycle the island",
+        "evening": "Departure"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Book dolphin trips with registered boats.",
+    "Keep distance from the dolphins.",
+    "Bring cash.",
+    "Take sun protection.",
+    "Start early.",
+    "Respect local customs.",
+    "Watch for traffic."
+  ],
+  "faq": [
+    {
+      "q": "Will I see dolphins?",
+      "a": "Very likely."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "One to two days."
+    },
+    {
+      "q": "Is it touristy?",
+      "a": "No."
+    },
+    {
+      "q": "Best time?",
+      "a": "November to February."
+    },
+    {
+      "q": "Can I swim in the Mekong?",
+      "a": "Not advised."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Yes."
+    }
+  ],
+  "related": [
+    "mondulkiri",
+    "phnom-penh",
+    "battambang"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

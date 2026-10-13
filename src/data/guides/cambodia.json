@@ -1,0 +1,133 @@
+{
+  "country": "cambodia",
+  "title": "The Complete Cambodia Travel Guide",
+  "subtitle": "How the country divides, how to choose between the ten destinations, when to go, what it costs and three routes that work.",
+  "summary": "Cambodia offers the temples of Angkor, a resilient capital, quiet river towns and islands, at low prices. This guide explains how the country divides, how to choose between the ten destinations, how to travel, when to go, what it costs and three routes that work.",
+  "readingTime": "12 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "How many days do I need for Angkor?",
+      "a": "Two to three days is ideal for the main temples, plus extra days for outlying sites like Beng Mealea and Banteay Srei."
+    },
+    {
+      "q": "Is Cambodia cheap?",
+      "a": "Yes. A budget traveller can manage on US$30-50 a day, though Angkor tickets and tours add to the cost."
+    },
+    {
+      "q": "Do I need a visa?",
+      "a": "Most nationalities need a visa, available online as an e-visa or on arrival. Check current rules before travelling."
+    },
+    {
+      "q": "Which currency should I carry?",
+      "a": "US dollars are widely used alongside the Cambodian riel. Carry small dollar notes."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-cambodia-divides",
+      "title": "How Cambodia divides",
+      "navLabel": "The regions",
+      "body": [
+        "Cambodia is small enough to explore in two weeks, and for a visitor it divides into four zones.",
+        "**The north-west.** [[siem-reap|Siem Reap]] is the base for [[angkor-archaeological-park|Angkor]], [[banteay-srei-kulen|Banteay Srei and Kulen]] and [[koh-ker-beng-mealea|Koh Ker and Beng Mealea]], with [[battambang|Battambang]] a few hours south.",
+        "**The capital.** [[phnom-penh|Phnom Penh]] sits where three rivers meet and is the hub for the rest of the country.",
+        "**The south coast.** [[kampot-kep|Kampot and Kep]] and [[koh-rong|Koh Rong]] offer river life, crab and beaches.",
+        "**The east.** [[kratie|Kratie]] on the Mekong and [[mondulkiri|Mondulkiri]] in the hills offer dolphins and elephants."
+      ],
+      "note": "A first trip usually combines Angkor with Phnom Penh and a stretch of coast."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[siem-reap"
+        },
+        {
+          "title": "If you love temples",
+          "text": "[[angkor-archaeological-park"
+        },
+        {
+          "title": "If you love history",
+          "text": "[[phnom-penh"
+        },
+        {
+          "title": "If you love beaches",
+          "text": "[[koh-rong"
+        },
+        {
+          "title": "If you love nature",
+          "text": "[[kratie"
+        },
+        {
+          "title": "If you want slow travel",
+          "text": "[[battambang"
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around",
+      "navLabel": "Getting around",
+      "body": [
+        "Buses and minivans link all the main towns, and are cheap. The Phnom Penh to Siem Reap journey takes about six hours.",
+        "Flights link Phnom Penh, Siem Reap and Sihanoukville, saving time on long routes.",
+        "Tuk-tuks are the main local transport, and a tuk-tuk or car with a driver is the usual way to see the temples.",
+        "Ride-hailing apps such as PassApp and Grab operate in Phnom Penh and Siem Reap."
+      ],
+      "note": "Roads are improving, but journeys can be slower than distances suggest."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Cambodia has a hot, tropical climate with a dry season from November to May and a wet season from June to October.",
+        "November to February is the coolest and most comfortable time, and the busiest.",
+        "March to May is very hot, especially April, though temples are quiet.",
+        "June to October is the green season, with afternoon showers, lower prices and fewer visitors. Angkor remains accessible.",
+        "Water Festival in Phnom Penh falls in November, and Khmer New Year in mid-April."
+      ],
+      "note": "The Tonle Sap lake floods in the wet season, changing the landscape."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Cambodia is one of the cheapest countries in South-East Asia. A budget traveller can manage on US$30-50 a day, a mid-range traveller on US$70-130.",
+        "US dollars are used widely in cities, with change given in riel. Carry small dollar notes. ATMs dispense dollars.",
+        "The main costs are Angkor tickets, which are US$37 for one day, US$62 for three days and US$72 for seven days (check current prices), and transport.",
+        "Cambodia is generally safe for visitors, but petty theft, bag-snatching from motorbikes and traffic accidents are the main risks. Avoid leaving the paths in rural areas because of unexploded mines."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: Angkor and the capital",
+          "text": "Three nights in [[siem-reap",
+          "tip": "Siem Reap]] with a day at [[angkor-archaeological-park"
+        },
+        {
+          "title": "Ten days: add the coast",
+          "text": "One week route plus three nights in [[kampot-kep",
+          "tip": "Kampot and Kep]]."
+        },
+        {
+          "title": "Two weeks: the full country",
+          "text": "The itinerary on the country page, covering Siem Reap, Battambang, Phnom Penh, the coast and the east.",
+          "tip": "Add [[koh-rong"
+        }
+      ]
+    }
+  ]
+}
