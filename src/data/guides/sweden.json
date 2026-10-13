@@ -1,0 +1,133 @@
+{
+  "country": "sweden",
+  "title": "The Complete Sweden Travel Guide",
+  "subtitle": "How the country divides, how to choose between the ten destinations, when to go, what it costs and three routes that work.",
+  "summary": "Sweden combines elegant cities, an archipelago of islands, folk traditions and Arctic wilderness. This guide explains how the country divides, how to choose between the ten destinations, how to travel, when to go, what it costs and three routes that work.",
+  "readingTime": "12 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Is Sweden expensive?",
+      "a": "Yes, it is one of the pricier countries in Europe, but food from lunch deals and supermarkets and free outdoor access keep costs down."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "June to August for long days and warm weather, and December to March for snow, skiing and northern lights in Lapland."
+    },
+    {
+      "q": "Do I need cash?",
+      "a": "Almost never. Sweden is largely cashless, and cards or phone payments are accepted nearly everywhere."
+    },
+    {
+      "q": "Is English widely spoken?",
+      "a": "Yes, almost universally, especially in cities."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-sweden-divides",
+      "title": "How Sweden divides",
+      "navLabel": "The regions",
+      "body": [
+        "Sweden is long, stretching from the Baltic coast to the Arctic, and for a visitor it divides into four zones.",
+        "**The east and capital.** [[stockholm|Stockholm]] is the gateway, with [[uppsala|Uppsala]] and the [[stockholm-archipelago|archipelago]] close by.",
+        "**The west and south.** [[gothenburg|Gothenburg]] and [[malmo|Malmo]] offer seafood, parks and an easy link to Denmark, with [[kalmar-oland|Kalmar and Oland]] on the south-east coast.",
+        "**The islands.** [[visby-gotland|Visby and Gotland]] lie in the Baltic.",
+        "**The north.** [[dalarna|Dalarna]] is the folk heartland, [[are-jamtland|Are]] is the mountain playground and [[abisko-kiruna|Abisko and Kiruna]] bring the Arctic."
+      ],
+      "note": "Most first trips combine Stockholm with one other region."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[stockholm"
+        },
+        {
+          "title": "If you love islands",
+          "text": "[[stockholm-archipelago"
+        },
+        {
+          "title": "If you love history",
+          "text": "[[uppsala"
+        },
+        {
+          "title": "If you love the outdoors",
+          "text": "[[are-jamtland"
+        },
+        {
+          "title": "If you love folk culture",
+          "text": "[[dalarna"
+        },
+        {
+          "title": "If you love food",
+          "text": "[[gothenburg"
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around",
+      "navLabel": "Getting around",
+      "body": [
+        "Trains are comfortable and reach most places. The fast X2000 links Stockholm, Gothenburg and Malmo.",
+        "Flights are useful for Lapland and Gotland. Night trains run to the far north.",
+        "Ferries link the archipelago and Gotland. Buses cover rural areas.",
+        "Rental cars are useful in Dalarna, Oland and the north."
+      ],
+      "note": "Book long-distance trains early for the best fares."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Sweden has four seasons, with long summer days and short winter ones.",
+        "Summer, from June to August, is warm, with up to 18 hours of daylight in the south and near-constant light in the north.",
+        "Midsummer, around the end of June, is the biggest celebration.",
+        "Winter, from December to March, brings snow, ski seasons and northern lights in Lapland.",
+        "Autumn brings golden leaves and mushroom foraging."
+      ],
+      "note": "Check daylight hours when planning winter trips."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Sweden is expensive, but good value is possible. A budget traveller can manage on US$80-120 a day, a mid-range traveller on US$180-280.",
+        "Cards are accepted everywhere. Cash is rarely used.",
+        "Lunch deals and supermarket meals save money, and the right of public access allows free camping in nature.",
+        "Sweden is very safe. Take normal precautions in city centres at night."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: Stockholm and the west",
+          "text": "Three nights in [[stockholm",
+          "tip": "Stockholm]], then two in [[gothenburg"
+        },
+        {
+          "title": "Ten days: add islands",
+          "text": "One-week route plus [[stockholm-archipelago",
+          "tip": "the archipelago]] or [[visby-gotland"
+        },
+        {
+          "title": "Two weeks: capital to Arctic",
+          "text": "The itinerary on the country page, from Stockholm to the north.",
+          "tip": "Fly to Kiruna."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "slug": "abisko-kiruna",
+  "name": "Abisko and Kiruna",
+  "country": "sweden",
+  "region": "Norrbotten County, Swedish Lapland",
+  "categories": [
+    "nature",
+    "national-park",
+    "mountains",
+    "off-the-beaten-path"
+  ],
+  "tagline": "Arctic wilderness with northern lights, the Midnight Sun, Sami culture and an ice hotel.",
+  "highlight": "Watching green curtains of aurora ripple over a frozen lake.",
+  "shortDescription": "Swedish Lapland's star attractions: Abisko National Park and its aurora sky, the Kungsleden trail, Kiruna, Icehotel at Jukkasjarvi, reindeer and Sami heritage.",
+  "metaDescription": "An Abisko and Kiruna travel guide: northern lights, Aurora Sky Station, Kungsleden trail, Kebnekaise, Icehotel, dog sledding, Sami culture, best season, where to stay and a four-day plan.",
+  "suggestedStay": "4-5 days",
+  "nearestAirport": "Kiruna (KRN), flights from Stockholm; Abisko by train",
+  "knownFor": "Northern lights, Arctic hiking, Icehotel",
+  "budget": "US$180-380 per day",
+  "goodFor": "Aurora chasers, hikers, adventure travellers",
+  "coords": {
+    "lat": 68.35,
+    "lng": 18.83
+  },
+  "image": {
+    "file": "File:Northern lights in Abisko national park.jpg",
+    "alt": "The northern lights over Abisko National Park"
+  },
+  "intro": [
+    "Far above the Arctic Circle, Swedish Lapland is a land of mountains, lakes, forests and long seasons of light or dark. Abisko National Park, around 200 kilometres north of the Arctic Circle, is one of the best places on Earth to see the northern lights, thanks to a local patch of clear sky known as the blue hole.",
+    "In winter, visitors come for aurora viewing, dog sledding, snowmobile safaris and the Icehotel at Jukkasjarvi, rebuilt in ice every year. In summer, the Midnight Sun lights the hiking trails, including the Kungsleden (King's Trail), a 440-kilometre route through the mountains. Sweden's highest peak, Kebnekaise, is within reach of keen hikers.",
+    "Kiruna, the northernmost town, sits on the world's largest underground iron ore mine and is being relocated because of ground movement. The Sami people have lived and herded reindeer here for millennia, and cultural visits offer insight into their traditions."
+  ],
+  "whyVisit": {
+    "intro": "Lapland offers dramatic nature and unique Arctic experiences.",
+    "points": [
+      {
+        "title": "Northern lights",
+        "text": "Among the best viewing in the world."
+      },
+      {
+        "title": "Midnight Sun",
+        "text": "24-hour daylight in summer."
+      },
+      {
+        "title": "Arctic hiking",
+        "text": "Kungsleden and Kebnekaise."
+      },
+      {
+        "title": "Sami culture",
+        "text": "Reindeer herding traditions."
+      },
+      {
+        "title": "Icehotel",
+        "text": "A hotel carved from ice."
+      }
+    ]
+  },
+  "attractionsIntro": "Sights range from the mountains to the town.",
+  "attractions": [
+    {
+      "name": "Abisko National Park",
+      "text": "A mountain park with lakes.",
+      "tip": "Check weather."
+    },
+    {
+      "name": "Aurora Sky Station",
+      "image": {
+        "file": "File:Northern Lights in Abisko (10739343555).jpg",
+        "alt": "Northern lights over Abisko"
+      },
+      "text": "A mountain viewing platform.",
+      "tip": "Book a night."
+    },
+    {
+      "name": "Kungsleden Trail",
+      "image": {
+        "file": "File:Kebnekaise viewed from Tarfala valley - narrower crop.jpg",
+        "alt": "Kebnekaise seen from the Tarfala valley"
+      },
+      "text": "A famous long-distance trail.",
+      "tip": "Hike a section."
+    },
+    {
+      "name": "Kebnekaise",
+      "text": "Sweden's highest peak.",
+      "tip": "Needs fitness and weather."
+    },
+    {
+      "name": "Icehotel",
+      "image": {
+        "file": "File:ICEHOTEL Main Hall (2014) by Alessandro Falca & AnnaSofia Mååg.jpg",
+        "alt": "The main hall of the Icehotel"
+      },
+      "text": "An ice hotel and art installation.",
+      "tip": "Visit or stay overnight."
+    },
+    {
+      "name": "Kiruna Church",
+      "text": "One of Sweden's largest wooden buildings.",
+      "tip": "Visit in town."
+    }
+  ],
+  "thingsToDoIntro": "Activities depend on season.",
+  "thingsToDo": [
+    {
+      "title": "Watch the northern lights",
+      "text": "September to March.",
+      "tip": "Be patient and dress warmly."
+    },
+    {
+      "title": "Go dog sledding",
+      "text": "Winter activity.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Hike Kungsleden",
+      "text": "Summer trek.",
+      "tip": "Hire a guide if inexperienced."
+    },
+    {
+      "title": "Visit a reindeer farm",
+      "text": "Meet Sami herders.",
+      "tip": "Choose respectful operators."
+    },
+    {
+      "title": "Sleep in the Icehotel",
+      "text": "A special night.",
+      "tip": "Book far in advance."
+    },
+    {
+      "title": "See the Midnight Sun",
+      "text": "June and July.",
+      "tip": "Bring an eye mask."
+    }
+  ],
+  "foodIntro": "Lapland cuisine is hearty and local.",
+  "foods": [
+    {
+      "name": "Reindeer",
+      "text": "Stew or smoked.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Arctic char",
+      "text": "Fresh fish.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Cloudberries",
+      "text": "Tart orange berries.",
+      "whereToTry": "Desserts."
+    },
+    {
+      "name": "Bread and cheese",
+      "text": "Local specialties.",
+      "whereToTry": "Cafes."
+    },
+    {
+      "name": "Hot chocolate",
+      "text": "Warming.",
+      "whereToTry": "Cafes."
+    }
+  ],
+  "accommodation": {
+    "intro": "Book ahead in the season.",
+    "areas": [
+      {
+        "name": "Abisko",
+        "bestFor": "Aurora",
+        "text": "Mountain lodges."
+      },
+      {
+        "name": "Kiruna",
+        "bestFor": "Services",
+        "text": "Hotels."
+      },
+      {
+        "name": "Jukkasjarvi",
+        "bestFor": "Icehotel",
+        "text": "Cabins."
+      },
+      {
+        "name": "Mountain stations",
+        "bestFor": "Hikers",
+        "text": "Basic huts."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel or hut",
+        "value": "US$40-90 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$150-250 per night"
+      },
+      {
+        "label": "Icehotel suite",
+        "value": "US$400-900 per night"
+      },
+      {
+        "label": "Aurora tour",
+        "value": "US$100-250"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Kiruna is reached by air or rail.",
+    "options": [
+      {
+        "mode": "Fly to Kiruna",
+        "text": "From Stockholm in about 1.75 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Night train",
+        "text": "From Stockholm to Abisko, about 17 hours.",
+        "detail": "Scenic."
+      },
+      {
+        "mode": "Drive",
+        "text": "From Kiruna to Abisko, about 1.25 hours.",
+        "detail": "Scenic."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Trains and tours.",
+    "options": [
+      {
+        "mode": "Train",
+        "text": "Kiruna to Abisko.",
+        "detail": "Scenic."
+      },
+      {
+        "mode": "Tour",
+        "text": "Aurora and activities.",
+        "detail": "Included pick-up."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Flexible.",
+        "detail": "Winter tyres."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "February-March, September-October",
+    "summary": "Northern lights are best seen from September to March, with winter activities peaking from December to March.",
+    "seasons": [
+      {
+        "season": "February-March",
+        "rating": "best",
+        "text": "Cold, clear and bright."
+      },
+      {
+        "season": "September-October",
+        "rating": "best",
+        "text": "Aurora and autumn colours."
+      },
+      {
+        "season": "June-July",
+        "rating": "good",
+        "text": "Midnight Sun hiking."
+      },
+      {
+        "season": "November-January",
+        "rating": "quiet",
+        "text": "Dark and cold."
+      }
+    ],
+    "avoid": "Cloudy spells and polar night if you want hiking."
+  },
+  "itinerary": {
+    "title": "Four days in Lapland",
+    "intro": "Lights and ice.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Kiruna",
+        "morning": "Fly in",
+        "afternoon": "Explore town",
+        "evening": "Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Icehotel",
+        "summary": "Jukkasjarvi",
+        "morning": "Icehotel tour",
+        "afternoon": "Dog sledding",
+        "evening": "Overnight"
+      },
+      {
+        "day": 3,
+        "title": "Abisko",
+        "summary": "Aurora",
+        "morning": "Train or drive to Abisko",
+        "afternoon": "Short walk",
+        "evening": "Aurora Sky Station"
+      },
+      {
+        "day": 4,
+        "title": "Aurora",
+        "summary": "Free",
+        "morning": "Hike",
+        "afternoon": "Rest",
+        "evening": "Aurora watching"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Dress in warm layers.",
+    "Book aurora tours several nights.",
+    "Check the forecast.",
+    "Bring a tripod.",
+    "Pack hand warmers.",
+    "Book the Icehotel early.",
+    "Respect Sami land."
+  ],
+  "faq": [
+    {
+      "q": "When is best for aurora?",
+      "a": "September to March."
+    },
+    {
+      "q": "How cold is it?",
+      "a": "Very in winter."
+    },
+    {
+      "q": "Can I see the Midnight Sun?",
+      "a": "June to July."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Yes."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Four to five days."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Yes with preparation."
+    }
+  ],
+  "related": [
+    "stockholm",
+    "are-jamtland",
+    "dalarna"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

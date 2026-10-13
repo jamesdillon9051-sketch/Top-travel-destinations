@@ -1,0 +1,346 @@
+{
+  "slug": "kalmar-oland",
+  "name": "Kalmar and Oland",
+  "country": "sweden",
+  "region": "Kalmar County, south-east coast",
+  "categories": [
+    "historic",
+    "island",
+    "coastal",
+    "unesco"
+  ],
+  "tagline": "A Renaissance castle on the Baltic and a long, sunny island of windmills and wildflowers.",
+  "highlight": "Cycling past windmills on the limestone plain of Stora Alvaret.",
+  "shortDescription": "A historic castle town linked by a long bridge to Oland, with the Southern Oland UNESCO landscape, windmills, beaches and sunny summers.",
+  "metaDescription": "A Kalmar and Oland travel guide: Kalmar Castle, the Oland bridge, Stora Alvaret, windmills, Borgholm, beaches, cycling, where to stay and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Kalmar (KLR), flights from Stockholm; trains from Stockholm",
+  "knownFor": "Castle, windmills, summer island life",
+  "budget": "US$100-220 per day",
+  "goodFor": "Families, cyclists, summer travellers",
+  "coords": {
+    "lat": 56.6634,
+    "lng": 16.3568
+  },
+  "image": {
+    "file": "File:Kalmar castle (by Pudelek).JPG",
+    "alt": "Kalmar Castle beside the water"
+  },
+  "intro": [
+    "Kalmar is a gentle coastal town on the Baltic Sea, with one of the finest Renaissance castles in northern Europe. Kalmar Castle, rebuilt in the 16th century, was the site of the Kalmar Union that joined Denmark, Norway and Sweden, and today hosts exhibitions and events.",
+    "A six-kilometre bridge links Kalmar to Oland, a long, narrow island with a unique landscape. The Stora Alvaret limestone plain is a UNESCO World Heritage Site, with rare plants and birds, hundreds of old windmills, sandy beaches and the ruins of Borgholm Castle. The summer palace of the royal family, Solliden, is nearby.",
+    "Oland is best enjoyed by bike, and summer weather is among the sunniest in Sweden. Midsummer and the Oland Harvest Festival draw crowds. Cultural events, farm shops and the long coast make this a relaxed family-friendly stop."
+  ],
+  "whyVisit": {
+    "intro": "Kalmar and Oland are a classic Swedish summer trip.",
+    "points": [
+      {
+        "title": "Kalmar Castle",
+        "text": "A Renaissance gem."
+      },
+      {
+        "title": "Oland bridge",
+        "text": "A 6 km crossing."
+      },
+      {
+        "title": "Stora Alvaret",
+        "text": "Unique limestone plain."
+      },
+      {
+        "title": "Windmills",
+        "text": "Hundreds across the island."
+      },
+      {
+        "title": "Summer beaches",
+        "text": "Sandy and sunny."
+      }
+    ]
+  },
+  "attractionsIntro": "Highlights are across the island and town.",
+  "attractions": [
+    {
+      "name": "Kalmar Castle",
+      "image": {
+        "file": "File:Kalmar castle (by Pudelek) 03.JPG",
+        "alt": "Kalmar Castle"
+      },
+      "text": "A fairytale castle by the water.",
+      "tip": "Visit mid-morning."
+    },
+    {
+      "name": "Oland Bridge",
+      "text": "A long bridge to the island.",
+      "tip": "Drive or cycle."
+    },
+    {
+      "name": "Stora Alvaret",
+      "image": {
+        "file": "File:Stora Alvaret Windmill 1.jpg",
+        "alt": "A windmill on Stora Alvaret"
+      },
+      "text": "A limestone plain with rare flora.",
+      "tip": "Visit in May and June."
+    },
+    {
+      "name": "Borgholm Castle",
+      "text": "Ruins above the town.",
+      "tip": "Great views."
+    },
+    {
+      "name": "Solliden Palace",
+      "text": "The royal summer home and gardens.",
+      "tip": "Open in summer."
+    },
+    {
+      "name": "Langer Jan lighthouse",
+      "text": "Sweden's tallest lighthouse.",
+      "tip": "Climb for views."
+    }
+  ],
+  "thingsToDoIntro": "Outdoor and slow.",
+  "thingsToDo": [
+    {
+      "title": "Cycle on Oland",
+      "text": "Flat paths.",
+      "tip": "Hire a bike."
+    },
+    {
+      "title": "Tour Kalmar Castle",
+      "text": "Rooms and dungeons.",
+      "tip": "Allow two hours."
+    },
+    {
+      "title": "Visit windmills",
+      "text": "Photo stops.",
+      "tip": "Across the island."
+    },
+    {
+      "title": "Swim at Boda Beach",
+      "text": "Summer.",
+      "tip": "Pack a picnic."
+    },
+    {
+      "title": "Birdwatch",
+      "text": "Migration season.",
+      "tip": "Bring binoculars."
+    },
+    {
+      "title": "Try Oland dishes",
+      "text": "Farm shops.",
+      "tip": "Eat local."
+    }
+  ],
+  "foodIntro": "Oland has local specialities.",
+  "foods": [
+    {
+      "name": "Kroppkakor",
+      "text": "Potato dumplings.",
+      "whereToTry": "Local cafes."
+    },
+    {
+      "name": "Oland lamb",
+      "text": "Local meat.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Strawberries",
+      "text": "Summer treat.",
+      "whereToTry": "Roadside."
+    },
+    {
+      "name": "Smoked eel",
+      "text": "Coastal.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Kanelbulle",
+      "text": "Cinnamon bun.",
+      "whereToTry": "Bakeries."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Kalmar or on the island.",
+    "areas": [
+      {
+        "name": "Kalmar centre",
+        "bestFor": "Convenience",
+        "text": "Hotels."
+      },
+      {
+        "name": "Borgholm",
+        "bestFor": "Island town",
+        "text": "Hotels."
+      },
+      {
+        "name": "Beach cabins",
+        "bestFor": "Summer",
+        "text": "Campsites."
+      },
+      {
+        "name": "Farm stays",
+        "bestFor": "Rural",
+        "text": "B&Bs."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel or camping",
+        "value": "US$30-60 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$100-180 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$180-300 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$12-30 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Kalmar is reached by train or air.",
+    "options": [
+      {
+        "mode": "Train from Stockholm",
+        "text": "About 5 to 6 hours.",
+        "detail": "Direct or with change."
+      },
+      {
+        "mode": "Fly to Kalmar",
+        "text": "From Stockholm, about 1 hour.",
+        "detail": "Limited."
+      },
+      {
+        "mode": "Drive",
+        "text": "From Stockholm, about 5 hours.",
+        "detail": "Scenic."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Cycling and driving.",
+    "options": [
+      {
+        "mode": "Bicycle",
+        "text": "Best on Oland.",
+        "detail": "Rent."
+      },
+      {
+        "mode": "Car",
+        "text": "For distance.",
+        "detail": "Easy."
+      },
+      {
+        "mode": "Bus",
+        "text": "Regional.",
+        "detail": "Limited."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June-August",
+    "summary": "Summer is warm and sunny.",
+    "seasons": [
+      {
+        "season": "June",
+        "rating": "best",
+        "text": "Midsummer and wildflowers."
+      },
+      {
+        "season": "July-August",
+        "rating": "good",
+        "text": "Warm and busy."
+      },
+      {
+        "season": "May and September",
+        "rating": "good",
+        "text": "Quiet."
+      },
+      {
+        "season": "November-March",
+        "rating": "quiet",
+        "text": "Cold and closed."
+      }
+    ],
+    "avoid": "Winter, when many sights close."
+  },
+  "itinerary": {
+    "title": "Three days in Kalmar and Oland",
+    "intro": "Castle and windmills.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Kalmar",
+        "summary": "Castle",
+        "morning": "Kalmar Castle",
+        "afternoon": "Old town",
+        "evening": "Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Oland",
+        "summary": "Cycling",
+        "morning": "Cross the bridge",
+        "afternoon": "Stora Alvaret",
+        "evening": "Borgholm"
+      },
+      {
+        "day": 3,
+        "title": "Oland south",
+        "summary": "Windmills",
+        "morning": "Long Jan lighthouse",
+        "afternoon": "Beach",
+        "evening": "Departure"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Book summer stays early.",
+    "Rent bikes in advance.",
+    "Bring sun protection.",
+    "Visit alvar in May.",
+    "Check castle opening times.",
+    "Pack a picnic.",
+    "Use the bridge in good weather."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "Three days."
+    },
+    {
+      "q": "Can I cycle?",
+      "a": "Yes."
+    },
+    {
+      "q": "Best time?",
+      "a": "June to August."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Moderate."
+    },
+    {
+      "q": "Is Oland far?",
+      "a": "A short drive."
+    },
+    {
+      "q": "What is the alvar?",
+      "a": "A limestone plain."
+    }
+  ],
+  "related": [
+    "visby-gotland",
+    "malmo",
+    "stockholm"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

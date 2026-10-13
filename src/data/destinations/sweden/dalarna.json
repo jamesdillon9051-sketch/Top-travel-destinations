@@ -1,0 +1,346 @@
+{
+  "slug": "dalarna",
+  "name": "Dalarna",
+  "country": "sweden",
+  "region": "Dalarna County, central Sweden",
+  "categories": [
+    "cultural",
+    "nature",
+    "scenic",
+    "off-the-beaten-path"
+  ],
+  "tagline": "The folk heartland of Sweden, with red cottages, Dala horses, Lake Siljan and midsummer traditions.",
+  "highlight": "Dancing around a maypole at midsummer beside Lake Siljan.",
+  "shortDescription": "A region of lakes and forests with folk traditions, the Dala horse, Falun copper mine, Mora and Vasaloppet ski race, and Leksand midsummer festival.",
+  "metaDescription": "A Dalarna travel guide: Lake Siljan, Dala horses, Falun copper mine, Mora, Leksand, midsummer traditions, the Vasaloppet, cycling and hiking, where to stay and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Stockholm Arlanda (ARN), about 2.5 to 3 hours by road; Borlange (BLE) nearby",
+  "knownFor": "Folk culture, lakes, midsummer",
+  "budget": "US$110-230 per day",
+  "goodFor": "Culture seekers, families, nature lovers",
+  "coords": {
+    "lat": 60.6,
+    "lng": 15.63
+  },
+  "image": {
+    "file": "File:Dalahästen Avesta 2015-02-26.jpg",
+    "alt": "A giant Dala horse in Avesta"
+  },
+  "intro": [
+    "Dalarna, or Dalecarlia, is considered the cultural heart of Sweden, a landscape of forests, lakes and red wooden cottages that is the source of many national symbols. The little wooden Dala horse, painted red and decorated, is made here, and traditional music, dress and crafts remain part of daily life.",
+    "Lake Siljan, formed by an ancient meteor impact, is the centre of the region. Villages like Leksand and Rattvik host Midsummer celebrations with maypoles, folk dancing and flowers in the hair. The Falun copper mine, a UNESCO World Heritage Site, shows the mining history that once funded the Swedish empire.",
+    "In winter, Mora is the finish line of the Vasaloppet, a legendary 90-kilometre cross-country ski race. In summer, there are cycling routes, canoeing, swimming and folk festivals. Dalarna is easy to reach from Stockholm and suits a long weekend."
+  ],
+  "whyVisit": {
+    "intro": "Dalarna shows a traditional, rural side of Sweden.",
+    "points": [
+      {
+        "title": "Dala horse",
+        "text": "The national symbol."
+      },
+      {
+        "title": "Midsummer",
+        "text": "Traditional celebrations."
+      },
+      {
+        "title": "Lake Siljan",
+        "text": "Swimming and cycling."
+      },
+      {
+        "title": "Falun mine",
+        "text": "UNESCO mining history."
+      },
+      {
+        "title": "Vasaloppet",
+        "text": "A famed ski race."
+      }
+    ]
+  },
+  "attractionsIntro": "The sights surround Lake Siljan.",
+  "attractions": [
+    {
+      "name": "Falun Copper Mine",
+      "text": "A UNESCO mine tour.",
+      "tip": "Wear warm clothes."
+    },
+    {
+      "name": "Lake Siljan",
+      "text": "A large lake for swimming and boats.",
+      "tip": "Cycle around."
+    },
+    {
+      "name": "Leksand",
+      "image": {
+        "file": "File:Raising the maypole.JPG",
+        "alt": "Raising the maypole at midsummer"
+      },
+      "text": "Midsummer heartland.",
+      "tip": "Visit in June."
+    },
+    {
+      "name": "Mora",
+      "text": "Home of artist Anders Zorn and the Vasaloppet finish.",
+      "tip": "Visit the Zorn museum."
+    },
+    {
+      "name": "Nusnas",
+      "image": {
+        "file": "File:Dalecarlian horse.jpg",
+        "alt": "A traditional Dala horse"
+      },
+      "text": "A Dala horse workshop.",
+      "tip": "Watch the craftsmen."
+    },
+    {
+      "name": "Rattvik",
+      "text": "A lakeside town with a long pier.",
+      "tip": "Walk at sunset."
+    }
+  ],
+  "thingsToDoIntro": "Cultural and outdoor.",
+  "thingsToDo": [
+    {
+      "title": "Celebrate midsummer",
+      "text": "In June.",
+      "tip": "Book accommodation early."
+    },
+    {
+      "title": "Cycle around Siljan",
+      "text": "A 300 km route.",
+      "tip": "Hire a bike."
+    },
+    {
+      "title": "Buy a Dala horse",
+      "text": "At Nusnas.",
+      "tip": "Watch it painted."
+    },
+    {
+      "title": "Tour the Falun mine",
+      "text": "Underground.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Swim in the lake",
+      "text": "Summer.",
+      "tip": "Bring a towel."
+    },
+    {
+      "title": "Ski the Vasaloppet",
+      "text": "Winter event.",
+      "tip": "Register early."
+    }
+  ],
+  "foodIntro": "Dalarna has a hearty food culture.",
+  "foods": [
+    {
+      "name": "Meatballs",
+      "text": "Classic.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Pytt i panna",
+      "text": "Hash.",
+      "whereToTry": "Cafes."
+    },
+    {
+      "name": "Kroppkakor",
+      "text": "Potato dumplings.",
+      "whereToTry": "Local."
+    },
+    {
+      "name": "Cloudberry jam",
+      "text": "Local sweet.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Coffee and cake",
+      "text": "Fika.",
+      "whereToTry": "Cafes."
+    }
+  ],
+  "accommodation": {
+    "intro": "Cabins and lakeside inns.",
+    "areas": [
+      {
+        "name": "Leksand",
+        "bestFor": "Midsummer",
+        "text": "Hotels."
+      },
+      {
+        "name": "Rattvik",
+        "bestFor": "Lake",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Mora",
+        "bestFor": "Culture",
+        "text": "Hotels."
+      },
+      {
+        "name": "Falun",
+        "bestFor": "City",
+        "text": "Hotels."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel or cabin",
+        "value": "US$40-90 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$110-190 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$180-320 per night"
+      },
+      {
+        "label": "Mine tour",
+        "value": "Around US$25-30 (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Dalarna is a short trip from Stockholm.",
+    "options": [
+      {
+        "mode": "Train from Stockholm",
+        "text": "About 2.5 to 3 hours to Falun/Borlange.",
+        "detail": "Direct."
+      },
+      {
+        "mode": "Drive",
+        "text": "About 2.5 to 3 hours.",
+        "detail": "Easy."
+      },
+      {
+        "mode": "Fly to Borlange",
+        "text": "Limited flights.",
+        "detail": "Check."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car or bike helps.",
+    "options": [
+      {
+        "mode": "Car",
+        "text": "Flexible.",
+        "detail": "Roads are good."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Around the lake.",
+        "detail": "Rent."
+      },
+      {
+        "mode": "Bus",
+        "text": "Regional.",
+        "detail": "Slow."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June-August",
+    "summary": "Summer is warm and bright, and midsummer is the high point.",
+    "seasons": [
+      {
+        "season": "June",
+        "rating": "best",
+        "text": "Midsummer."
+      },
+      {
+        "season": "July-August",
+        "rating": "best",
+        "text": "Warm and active."
+      },
+      {
+        "season": "February-March",
+        "rating": "good",
+        "text": "Ski season."
+      },
+      {
+        "season": "November",
+        "rating": "quiet",
+        "text": "Dark."
+      }
+    ],
+    "avoid": "November, which is dark and quiet."
+  },
+  "itinerary": {
+    "title": "Three days in Dalarna",
+    "intro": "Culture and lake.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Falun",
+        "summary": "Mine",
+        "morning": "Falun mine",
+        "afternoon": "Town",
+        "evening": "Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Siljan",
+        "summary": "Lake",
+        "morning": "Leksand",
+        "afternoon": "Rattvik",
+        "evening": "Sunset swim"
+      },
+      {
+        "day": 3,
+        "title": "Mora and Nusnas",
+        "summary": "Dala horse",
+        "morning": "Nusnas workshop",
+        "afternoon": "Zorn museum",
+        "evening": "Departure"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Book midsummer early.",
+    "Wear warm clothes for the mine.",
+    "Rent a bike.",
+    "Try fika everywhere.",
+    "Visit Nusnas.",
+    "Check winter opening.",
+    "Carry a swimsuit."
+  ],
+  "faq": [
+    {
+      "q": "What is the Dala horse?",
+      "a": "A wooden folk symbol."
+    },
+    {
+      "q": "When is midsummer?",
+      "a": "Around 20 to 26 June."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Three days."
+    },
+    {
+      "q": "Is it easy from Stockholm?",
+      "a": "Yes."
+    },
+    {
+      "q": "Best time?",
+      "a": "June to August."
+    },
+    {
+      "q": "Is it touristy?",
+      "a": "Lightly."
+    }
+  ],
+  "related": [
+    "stockholm",
+    "uppsala",
+    "are-jamtland"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

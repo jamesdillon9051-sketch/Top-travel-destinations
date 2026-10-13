@@ -1,0 +1,343 @@
+{
+  "slug": "malmo",
+  "name": "Malmo",
+  "country": "sweden",
+  "region": "Skane County, southern Sweden",
+  "categories": [
+    "major-city",
+    "cultural",
+    "coastal",
+    "food-and-wine"
+  ],
+  "tagline": "A multicultural southern city with a twisting skyscraper, a bridge to Copenhagen and a thriving food scene.",
+  "highlight": "Taking a cold plunge at Ribersborg then a falafel in Mollevangen.",
+  "shortDescription": "Sweden's third city: Turning Torso, Lilla Torg, the medieval Malmohus castle, Ribersborg beach, Western Harbour and an easy hop to Copenhagen.",
+  "metaDescription": "A Malmo travel guide: Turning Torso, Lilla Torg, Malmohus Castle, Ribersborg beach and cold bath, Western Harbour, Copenhagen day trip, food, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Malmo Airport (MMX) or Copenhagen (CPH), 20 minutes by train from Copenhagen",
+  "knownFor": "Design, beaches, food",
+  "budget": "US$100-220 per day",
+  "goodFor": "City breaks, design fans, foodies",
+  "coords": {
+    "lat": 55.605,
+    "lng": 13.0038
+  },
+  "image": {
+    "file": "File:Turning Torso 2.jpg",
+    "alt": "The Turning Torso tower in Malmo"
+  },
+  "intro": [
+    "Malmo is Sweden's third city, just across the Oresund Strait from Copenhagen and linked to it by a bridge. Once an industrial port, it has reinvented itself as a young, diverse and green city with restaurants from around the world.",
+    "The skyline is dominated by the Turning Torso, a twisting 190-metre residential tower. The old town, with Lilla Torg and Stortorget squares, has medieval and Renaissance buildings, and Malmohus castle sits by a canal. The Western Harbour has modern architecture and a beach, while Ribersborg has a long stretch of sand and a historic cold-water bathhouse.",
+    "Malmo is also known for its falafel, craft beer and parks. Copenhagen is a 35-minute train ride away, so many visitors combine the two cities."
+  ],
+  "whyVisit": {
+    "intro": "Malmo is modern, multicultural and surprisingly relaxed.",
+    "points": [
+      {
+        "title": "Architecture",
+        "text": "Turning Torso and Western Harbour."
+      },
+      {
+        "title": "Food scene",
+        "text": "Falafel to fine dining."
+      },
+      {
+        "title": "Beaches and baths",
+        "text": "Ribersborg and Kallbadhuset."
+      },
+      {
+        "title": "Old town squares",
+        "text": "Lilla Torg and Stortorget."
+      },
+      {
+        "title": "Close to Copenhagen",
+        "text": "Easy day trip."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights lie within a walkable area.",
+  "attractions": [
+    {
+      "name": "Turning Torso",
+      "text": "A twisting skyscraper.",
+      "tip": "View from the harbour."
+    },
+    {
+      "name": "Lilla Torg",
+      "image": {
+        "file": "File:Lilla torg, Malmö.jpg",
+        "alt": "Lilla Torg in Malmo"
+      },
+      "text": "A cobbled square with cafes.",
+      "tip": "Evening is lively."
+    },
+    {
+      "name": "Malmohus Castle",
+      "image": {
+        "file": "File:Lilla Torg, Malmö, mars 2015-3.jpg",
+        "alt": "Cafes on Lilla Torg in Malmo"
+      },
+      "text": "A Renaissance fortress with museums.",
+      "tip": "Allow two hours."
+    },
+    {
+      "name": "Ribersborg beach",
+      "image": {
+        "file": "File:Ribersborgs kallbadhus October 2017 02.jpg",
+        "alt": "The Ribersborg cold bathhouse"
+      },
+      "text": "A long sandy beach with a bathhouse.",
+      "tip": "Take a sauna and swim."
+    },
+    {
+      "name": "Western Harbour",
+      "text": "Modern waterfront.",
+      "tip": "Walk or bike."
+    },
+    {
+      "name": "Folkets Park",
+      "text": "A central park with events.",
+      "tip": "Check programme."
+    }
+  ],
+  "thingsToDoIntro": "Active and food-led.",
+  "thingsToDo": [
+    {
+      "title": "Swim from Ribersborg",
+      "text": "Cold or warm.",
+      "tip": "Book the bathhouse."
+    },
+    {
+      "title": "Eat falafel",
+      "text": "A local favourite.",
+      "tip": "Try Mollevangen."
+    },
+    {
+      "title": "Cycle the harbour",
+      "text": "Flat and easy.",
+      "tip": "Rent a bike."
+    },
+    {
+      "title": "Take a train to Copenhagen",
+      "text": "35 minutes.",
+      "tip": "Day trip."
+    },
+    {
+      "title": "Visit the castle",
+      "text": "Museums.",
+      "tip": "Weekday mornings."
+    },
+    {
+      "title": "Tour a brewery",
+      "text": "Craft beer.",
+      "tip": "Check hours."
+    }
+  ],
+  "foodIntro": "Malmo combines Swedish and global flavours.",
+  "foods": [
+    {
+      "name": "Falafel",
+      "text": "Crunchy and fresh.",
+      "whereToTry": "Mollevangen."
+    },
+    {
+      "name": "Meatballs",
+      "text": "Classic.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Kanelbulle",
+      "text": "Cinnamon bun.",
+      "whereToTry": "Cafes."
+    },
+    {
+      "name": "Smorrebrod",
+      "text": "Danish-style open sandwiches.",
+      "whereToTry": "Cafes."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Local breweries.",
+      "whereToTry": "Bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the centre or by the harbour.",
+    "areas": [
+      {
+        "name": "Centre",
+        "bestFor": "Convenience",
+        "text": "Hotels."
+      },
+      {
+        "name": "Western Harbour",
+        "bestFor": "Modern",
+        "text": "Design hotels."
+      },
+      {
+        "name": "Mollevangen",
+        "bestFor": "Local",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Near the station",
+        "bestFor": "Value",
+        "text": "Budget hotels."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$30-50 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$100-180 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$180-320 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$12-35 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Fly to Copenhagen or take the train.",
+    "options": [
+      {
+        "mode": "Train from Copenhagen Airport",
+        "text": "About 20 minutes.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train from Stockholm",
+        "text": "About 4.5 hours.",
+        "detail": "Direct."
+      },
+      {
+        "mode": "Fly to Malmo",
+        "text": "Limited flights.",
+        "detail": "Check."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Cycling and buses.",
+    "options": [
+      {
+        "mode": "Bicycle",
+        "text": "Flat and easy.",
+        "detail": "Rent."
+      },
+      {
+        "mode": "Bus",
+        "text": "Frequent.",
+        "detail": "Buy via app."
+      },
+      {
+        "mode": "Walking",
+        "text": "Centre compact.",
+        "detail": "Pleasant."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May-September",
+    "summary": "Summer is warm and bright.",
+    "seasons": [
+      {
+        "season": "May-June",
+        "rating": "best",
+        "text": "Mild and bright."
+      },
+      {
+        "season": "July-August",
+        "rating": "good",
+        "text": "Warm and busy."
+      },
+      {
+        "season": "September",
+        "rating": "good",
+        "text": "Mild."
+      },
+      {
+        "season": "November-February",
+        "rating": "quiet",
+        "text": "Dark and cold."
+      }
+    ],
+    "avoid": "Winter for beach lovers."
+  },
+  "itinerary": {
+    "title": "Two days in Malmo",
+    "intro": "Old town and harbour.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Old town",
+        "summary": "Squares",
+        "morning": "Lilla Torg",
+        "afternoon": "Malmohus",
+        "evening": "Falafel dinner"
+      },
+      {
+        "day": 2,
+        "title": "Waterfront",
+        "summary": "Beach",
+        "morning": "Western Harbour and Turning Torso",
+        "afternoon": "Ribersborg swim",
+        "evening": "Sunset"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Cycle where possible.",
+    "Try the falafel.",
+    "Book the bathhouse.",
+    "Use cards.",
+    "Take a day trip to Copenhagen.",
+    "Bring layers.",
+    "Check events at Folkets Park."
+  ],
+  "faq": [
+    {
+      "q": "How many days do I need?",
+      "a": "Two."
+    },
+    {
+      "q": "Is it close to Copenhagen?",
+      "a": "35 minutes."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Generally."
+    },
+    {
+      "q": "Best time?",
+      "a": "May to September."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Moderate for Sweden."
+    },
+    {
+      "q": "What is it known for?",
+      "a": "Turning Torso and falafel."
+    }
+  ],
+  "related": [
+    "gothenburg",
+    "kalmar-oland",
+    "stockholm"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season",
+    "first-trip-to-europe"
+  ]
+}

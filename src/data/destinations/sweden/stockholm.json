@@ -1,0 +1,356 @@
+{
+  "slug": "stockholm",
+  "name": "Stockholm",
+  "country": "sweden",
+  "region": "Stockholm County, east coast",
+  "categories": [
+    "capital-city",
+    "major-city",
+    "historic",
+    "cultural",
+    "coastal"
+  ],
+  "tagline": "A capital built on fourteen islands, with a medieval old town, royal palaces and great museums.",
+  "highlight": "Wandering the cobbled lanes of Gamla Stan, then a waterside fika in the sun.",
+  "shortDescription": "Sweden's elegant island capital: Gamla Stan, the Royal Palace, the Vasa Museum, Skansen, City Hall, design shops and an archipelago on its doorstep.",
+  "metaDescription": "A Stockholm travel guide: Gamla Stan, the Vasa Museum, Royal Palace, Skansen, City Hall, ABBA Museum, Djurgarden, fika, where to stay and a three-day plan.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Stockholm Arlanda (ARN), about 20 minutes by express train",
+  "knownFor": "Islands, museums, design",
+  "budget": "US$130-280 per day",
+  "goodFor": "City breaks, museums, design lovers",
+  "coords": {
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  "image": {
+    "file": "File:Storkyrkan and Kungliga slottet Stockholm 2016 01.jpg",
+    "alt": "The Royal Palace and Storkyrkan cathedral in Stockholm"
+  },
+  "intro": [
+    "Stockholm is built across fourteen islands where Lake Malaren meets the Baltic Sea, and water is part of nearly every view. The medieval old town of Gamla Stan sits at its heart, with cobbled lanes, colourful buildings and the Royal Palace, while modern neighbourhoods such as Sodermalm and Ostermalm offer design shops, cafes and nightlife.",
+    "The museums are among Europe's best. The Vasa Museum houses a preserved 17th-century warship that sank on its maiden voyage, Skansen is the world's oldest open-air museum, and the ABBA Museum, the Nordic Museum and the Fotografiska photography museum draw crowds. City Hall, where the Nobel banquet is held, has a beautiful Golden Hall and tower views.",
+    "The city is clean, safe and easy to get around by metro, ferry and on foot. Summer brings long days and outdoor life, winter is dark and cosy with Christmas markets, and the archipelago offers island escapes all year. Plan three days to see the highlights."
+  ],
+  "whyVisit": {
+    "intro": "Stockholm is one of Europe's most beautiful capitals.",
+    "points": [
+      {
+        "title": "Water everywhere",
+        "text": "Islands, bridges and ferries."
+      },
+      {
+        "title": "Gamla Stan",
+        "text": "A perfectly preserved medieval core."
+      },
+      {
+        "title": "Museums",
+        "text": "Vasa, Skansen and more."
+      },
+      {
+        "title": "Design and food",
+        "text": "Fika, craft and new Nordic."
+      },
+      {
+        "title": "Archipelago access",
+        "text": "Thousands of islands nearby."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are on or near the central islands.",
+  "attractions": [
+    {
+      "name": "Gamla Stan",
+      "image": {
+        "file": "File:Skeppsbrokajen Gamla Stan from Skeppsholmen Stockholm 2016 01.jpg",
+        "alt": "Gamla Stan seen from Skeppsholmen"
+      },
+      "text": "The old town with its lanes and squares.",
+      "tip": "Visit early to avoid crowds."
+    },
+    {
+      "name": "Vasa Museum",
+      "image": {
+        "file": "File:Vasa museum In Stockholm.jpg",
+        "alt": "The Vasa Museum in Stockholm"
+      },
+      "text": "A 17th-century warship, raised from the sea.",
+      "tip": "Allow two hours."
+    },
+    {
+      "name": "Royal Palace",
+      "text": "One of Europe's largest palaces.",
+      "tip": "Watch the changing of the guard."
+    },
+    {
+      "name": "Skansen",
+      "image": {
+        "file": "File:Skansen, Stockholm (by Pudelek) 1.JPG",
+        "alt": "The Skansen open-air museum"
+      },
+      "text": "An open-air museum and zoo on Djurgarden.",
+      "tip": "Go in summer or at Christmas."
+    },
+    {
+      "name": "Stockholm City Hall",
+      "image": {
+        "file": "File:Stockholm City Hall February 2014 02.jpg",
+        "alt": "Stockholm City Hall"
+      },
+      "text": "The Nobel banquet venue.",
+      "tip": "Climb the tower."
+    },
+    {
+      "name": "Sodermalm",
+      "text": "A hip district of cafes and viewpoints.",
+      "tip": "Visit Monteliusvagen for the view."
+    }
+  ],
+  "thingsToDoIntro": "Mix museums with time on the water.",
+  "thingsToDo": [
+    {
+      "title": "Take a canal cruise",
+      "text": "See the islands from the water.",
+      "tip": "Go at sunset."
+    },
+    {
+      "title": "Have a fika",
+      "text": "Coffee and a cinnamon bun.",
+      "tip": "Do it daily."
+    },
+    {
+      "title": "Tour the Vasa",
+      "text": "The best museum.",
+      "tip": "Join a guided tour."
+    },
+    {
+      "title": "Ride a ferry",
+      "text": "To Djurgarden.",
+      "tip": "Included in the transport pass."
+    },
+    {
+      "title": "Visit ABBA The Museum",
+      "text": "Pop heritage.",
+      "tip": "Book tickets."
+    },
+    {
+      "title": "Explore Sodermalm",
+      "text": "Boutiques and bars.",
+      "tip": "Walk at dusk."
+    }
+  ],
+  "foodIntro": "Swedish food is simple, seasonal and increasingly inventive.",
+  "foods": [
+    {
+      "name": "Meatballs",
+      "text": "With lingonberries and mashed potato.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Kanelbulle",
+      "text": "Cinnamon bun.",
+      "whereToTry": "Every cafe."
+    },
+    {
+      "name": "Gravlax",
+      "text": "Cured salmon with dill.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Smorgasbord",
+      "text": "A buffet of cold and hot dishes.",
+      "whereToTry": "Traditional venues."
+    },
+    {
+      "name": "Prinsesstarta",
+      "text": "Green marzipan cake.",
+      "whereToTry": "Bakeries."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose the old town for atmosphere or Sodermalm for value.",
+    "areas": [
+      {
+        "name": "Gamla Stan",
+        "bestFor": "Atmosphere",
+        "text": "Historic hotels."
+      },
+      {
+        "name": "Norrmalm",
+        "bestFor": "Convenience",
+        "text": "Business hotels."
+      },
+      {
+        "name": "Sodermalm",
+        "bestFor": "Hip",
+        "text": "Boutique stays."
+      },
+      {
+        "name": "Ostermalm",
+        "bestFor": "Upscale",
+        "text": "Refined hotels."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$35-60 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$130-230 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$230-400 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$15-40 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Stockholm Arlanda is the main gateway.",
+    "options": [
+      {
+        "mode": "Fly to Arlanda",
+        "text": "Direct flights from Europe and beyond.",
+        "detail": "Arlanda Express takes 20 minutes."
+      },
+      {
+        "mode": "Train from Gothenburg",
+        "text": "About 3 to 3.5 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Ferry from Helsinki or Tallinn",
+        "text": "Overnight cruises.",
+        "detail": "Popular."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The metro, buses and ferries cover the city.",
+    "options": [
+      {
+        "mode": "Metro",
+        "text": "Frequent and clean.",
+        "detail": "Art in many stations."
+      },
+      {
+        "mode": "Ferry",
+        "text": "Between islands.",
+        "detail": "Included in tickets."
+      },
+      {
+        "mode": "Walking",
+        "text": "The centre is compact.",
+        "detail": "Pleasant in summer."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May-September",
+    "summary": "Late spring to early autumn is warm and bright, with very long days around midsummer.",
+    "seasons": [
+      {
+        "season": "May-June",
+        "rating": "best",
+        "text": "Long days and fresh greenery."
+      },
+      {
+        "season": "July-August",
+        "rating": "good",
+        "text": "Warm, busy and lively."
+      },
+      {
+        "season": "September",
+        "rating": "good",
+        "text": "Mild, golden autumn."
+      },
+      {
+        "season": "December-February",
+        "rating": "quiet",
+        "text": "Cold, dark and cosy."
+      }
+    ],
+    "avoid": "November to February if you dislike cold and darkness."
+  },
+  "itinerary": {
+    "title": "Three days in Stockholm",
+    "intro": "Old town, museums and water.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Gamla Stan",
+        "summary": "Medieval centre",
+        "morning": "Royal Palace and the old town",
+        "afternoon": "Nobel Museum",
+        "evening": "Dinner in Gamla Stan"
+      },
+      {
+        "day": 2,
+        "title": "Djurgarden",
+        "summary": "Museums",
+        "morning": "Vasa Museum",
+        "afternoon": "Skansen",
+        "evening": "Sunset ferry"
+      },
+      {
+        "day": 3,
+        "title": "Sodermalm and City Hall",
+        "summary": "Views",
+        "morning": "City Hall and tower",
+        "afternoon": "Sodermalm walk",
+        "evening": "Farewell dinner"
+      }
+    ]
+  },
+  "tipsIntro": "Tips for Stockholm.",
+  "tips": [
+    "Buy a travel pass for transport.",
+    "Book Vasa and ABBA tickets ahead.",
+    "Expect cashless payments.",
+    "Pack layers year-round.",
+    "Try a fika daily.",
+    "Walk or cycle where possible.",
+    "Check winter daylight hours."
+  ],
+  "faq": [
+    {
+      "q": "How many days do I need?",
+      "a": "Three days."
+    },
+    {
+      "q": "Is Stockholm expensive?",
+      "a": "Yes, but manageable."
+    },
+    {
+      "q": "Can I use cash?",
+      "a": "Cards are standard."
+    },
+    {
+      "q": "When is best?",
+      "a": "May to September."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Very."
+    },
+    {
+      "q": "Is English spoken?",
+      "a": "Widely."
+    }
+  ],
+  "related": [
+    "stockholm-archipelago",
+    "uppsala",
+    "gothenburg"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season",
+    "first-trip-to-europe"
+  ]
+}

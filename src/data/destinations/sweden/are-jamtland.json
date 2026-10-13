@@ -1,0 +1,349 @@
+{
+  "slug": "are-jamtland",
+  "name": "Are and Jamtland",
+  "country": "sweden",
+  "region": "Jamtland County, central Sweden",
+  "categories": [
+    "mountains",
+    "nature",
+    "scenic"
+  ],
+  "tagline": "Sweden's leading ski resort and a lake-and-mountain region of waterfalls and trails.",
+  "highlight": "Skiing under the lights with Lake Storsjon below, then a hot sauna.",
+  "shortDescription": "A year-round mountain playground: skiing at Are, Aresjutan, Storsjon lake, Tannforsen waterfall and hikes through the Jamtland mountains.",
+  "metaDescription": "An Are and Jamtland travel guide: skiing at Are, summer hiking and biking, Aresjutan, Tannforsen waterfall, Storsjon lake, Ostersund, where to stay and a four-day plan.",
+  "suggestedStay": "3-5 days",
+  "nearestAirport": "Are Ostersund Airport (OSD), about 1 hour by road",
+  "knownFor": "Skiing, hiking, lakes",
+  "budget": "US$140-300 per day",
+  "goodFor": "Skiers, hikers, families",
+  "coords": {
+    "lat": 63.399,
+    "lng": 13.0817
+  },
+  "image": {
+    "file": "File:Snowy Åreskutan Ski lift.jpg",
+    "alt": "A ski lift on snowy Areskutan mountain"
+  },
+  "intro": [
+    "Are is Sweden's largest ski resort, set beneath the Areskutan mountain and beside the lake Aresjon. The village is lively, with cosy cafes, restaurants and bars, and has been a host for World Cup skiing and winter sports events. Slopes serve all levels, from family runs to challenging off-piste.",
+    "Jamtland, the surrounding province, is a landscape of lakes, valleys and mountain ranges, with Storsjon (Sweden's fifth-largest lake) and the monster legend of Storsjoodjuret. Tannforsen, Sweden's largest waterfall by volume, and the Jamtland trails offer excellent hiking and mountain biking in summer.",
+    "Ostersund, the regional capital, is a pleasant lakeside town with museums, a lively food scene and a focus on local produce. Combined with Are, it makes a good winter or summer break away from the big cities."
+  ],
+  "whyVisit": {
+    "intro": "Are is a great all-season mountain destination.",
+    "points": [
+      {
+        "title": "Skiing",
+        "text": "Sweden's largest resort."
+      },
+      {
+        "title": "Hiking and biking",
+        "text": "Summer trails."
+      },
+      {
+        "title": "Lakes",
+        "text": "Storsjon and Aresjon."
+      },
+      {
+        "title": "Waterfalls",
+        "text": "Tannforsen."
+      },
+      {
+        "title": "Local food",
+        "text": "Jamtland produce."
+      }
+    ]
+  },
+  "attractionsIntro": "The village and mountains offer a lot.",
+  "attractions": [
+    {
+      "name": "Areskutan",
+      "text": "The mountain above Are.",
+      "tip": "Take the cable car or hike."
+    },
+    {
+      "name": "Are village",
+      "text": "Shops, cafes and apres-ski.",
+      "tip": "Walk at dusk."
+    },
+    {
+      "name": "Tannforsen waterfall",
+      "text": "A powerful cascade.",
+      "tip": "Walk the trail."
+    },
+    {
+      "name": "Storsjon",
+      "image": {
+        "file": "File:Storsjön med fjäll.jpg",
+        "alt": "Lake Storsjon with mountains behind"
+      },
+      "text": "A large lake with a monster legend.",
+      "tip": "Cruise in summer."
+    },
+    {
+      "name": "Ostersund",
+      "text": "The regional capital.",
+      "tip": "Visit Jamtli museum."
+    },
+    {
+      "name": "Mountain trails",
+      "text": "Day hikes.",
+      "tip": "Pick up maps."
+    }
+  ],
+  "thingsToDoIntro": "Seasonal outdoor life.",
+  "thingsToDo": [
+    {
+      "title": "Ski or snowboard",
+      "text": "From December to April.",
+      "tip": "Book lessons."
+    },
+    {
+      "title": "Hike Areskutan",
+      "text": "Summer climb.",
+      "tip": "Carry layers."
+    },
+    {
+      "title": "Mountain bike",
+      "text": "Downhill trails.",
+      "tip": "Check opening."
+    },
+    {
+      "title": "Cruise Storsjon",
+      "text": "Summer boat trips.",
+      "tip": "Look for the monster."
+    },
+    {
+      "title": "Visit Jamtli",
+      "text": "Open-air museum.",
+      "tip": "Allow half a day."
+    },
+    {
+      "title": "Relax in a sauna",
+      "text": "After activity.",
+      "tip": "Book a spa."
+    }
+  ],
+  "foodIntro": "Jamtland produce is the highlight.",
+  "foods": [
+    {
+      "name": "Char",
+      "text": "Arctic char.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Reindeer",
+      "text": "Smoked or stewed.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Cloudberry",
+      "text": "Dessert.",
+      "whereToTry": "Cafes."
+    },
+    {
+      "name": "Cheese",
+      "text": "Local.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Waffles",
+      "text": "Swedish.",
+      "whereToTry": "Cafes."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Are or nearby.",
+    "areas": [
+      {
+        "name": "Are village",
+        "bestFor": "Convenience",
+        "text": "Hotels and apartments."
+      },
+      {
+        "name": "Ski-in lodges",
+        "bestFor": "Slopes",
+        "text": "Chalets."
+      },
+      {
+        "name": "Duved",
+        "bestFor": "Quiet",
+        "text": "Cabins."
+      },
+      {
+        "name": "Ostersund",
+        "bestFor": "City",
+        "text": "Hotels."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$40-80 per night"
+      },
+      {
+        "label": "Mid-range apartment",
+        "value": "US$150-280 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$250-450 per night"
+      },
+      {
+        "label": "Ski pass",
+        "value": "Around US$60-90 per day (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Are is reached via Ostersund.",
+    "options": [
+      {
+        "mode": "Fly to Are Ostersund",
+        "text": "From Stockholm in about 1 hour.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Train",
+        "text": "From Stockholm, about 6 to 7 hours.",
+        "detail": "Direct."
+      },
+      {
+        "mode": "Drive",
+        "text": "From Ostersund, 1 hour.",
+        "detail": "Easy."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Local buses and walking.",
+    "options": [
+      {
+        "mode": "Ski bus",
+        "text": "Serves resorts.",
+        "detail": "Free in season."
+      },
+      {
+        "mode": "Walking",
+        "text": "The village is compact.",
+        "detail": "Pleasant."
+      },
+      {
+        "mode": "Car",
+        "text": "For wider trips.",
+        "detail": "Winter tyres."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December-April, June-September",
+    "summary": "Winter for skiing and summer for hiking.",
+    "seasons": [
+      {
+        "season": "December-April",
+        "rating": "best",
+        "text": "Snow season."
+      },
+      {
+        "season": "June-September",
+        "rating": "best",
+        "text": "Hiking and biking."
+      },
+      {
+        "season": "May and October",
+        "rating": "quiet",
+        "text": "Many closed."
+      },
+      {
+        "season": "Early November",
+        "rating": "quiet",
+        "text": "Dark."
+      }
+    ],
+    "avoid": "Mud season in May and October."
+  },
+  "itinerary": {
+    "title": "Four days in Are",
+    "intro": "Mountain and lake.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Village",
+        "morning": "Walk the village",
+        "afternoon": "Fika",
+        "evening": "Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Ski or hike",
+        "summary": "Mountain",
+        "morning": "Areskutan",
+        "afternoon": "Lunch",
+        "evening": "Sauna"
+      },
+      {
+        "day": 3,
+        "title": "Waterfall",
+        "summary": "Nature",
+        "morning": "Tannforsen",
+        "afternoon": "Lake",
+        "evening": "Dinner"
+      },
+      {
+        "day": 4,
+        "title": "Ostersund",
+        "summary": "City",
+        "morning": "Jamtli",
+        "afternoon": "Lakeside",
+        "evening": "Departure"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Book ski passes online.",
+    "Rent gear in advance.",
+    "Bring layers.",
+    "Try the saunas.",
+    "Check lift opening dates.",
+    "Use ski buses.",
+    "Reserve dinner in season."
+  ],
+  "faq": [
+    {
+      "q": "When does skiing start?",
+      "a": "December."
+    },
+    {
+      "q": "Is Are good for beginners?",
+      "a": "Yes."
+    },
+    {
+      "q": "Can I hike in summer?",
+      "a": "Yes."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Yes."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "Fly to Ostersund."
+    },
+    {
+      "q": "Best month for skiing?",
+      "a": "February to March."
+    }
+  ],
+  "related": [
+    "abisko-kiruna",
+    "dalarna",
+    "stockholm"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

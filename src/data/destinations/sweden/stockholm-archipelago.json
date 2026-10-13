@@ -1,0 +1,338 @@
+{
+  "slug": "stockholm-archipelago",
+  "name": "Stockholm Archipelago",
+  "country": "sweden",
+  "region": "Stockholm County, Baltic Sea",
+  "categories": [
+    "island",
+    "coastal",
+    "nature",
+    "scenic"
+  ],
+  "tagline": "Thousands of granite islands, red cottages and swimming rocks, a short ferry from the capital.",
+  "highlight": "Jumping off a warm granite rock into the Baltic, then fika on the pier.",
+  "shortDescription": "A vast archipelago of around 30,000 islands with Vaxholm, Sandhamn, Grinda and Fjaderholmarna, perfect for sailing, kayaking and island hopping.",
+  "metaDescription": "A Stockholm Archipelago travel guide: Vaxholm, Sandhamn, Grinda, Fjaderholmarna, ferries, kayaking, swimming, island-hopping, where to stay and a two-day plan.",
+  "suggestedStay": "1-3 days",
+  "nearestAirport": "Stockholm Arlanda (ARN), then boats from Stockholm",
+  "knownFor": "Islands, swimming, sailing",
+  "budget": "US$100-220 per day",
+  "goodFor": "Families, couples, kayakers",
+  "coords": {
+    "lat": 59.4,
+    "lng": 18.9
+  },
+  "image": {
+    "file": "File:Sandhamn August 2016 01.jpg",
+    "alt": "Boats at Sandhamn in the Stockholm archipelago"
+  },
+  "intro": [
+    "The Stockholm archipelago stretches 150 kilometres into the Baltic, with roughly 30,000 islands, islets and skerries. Close to the city, the islands are green and wooded, while further out they become bare granite rocks shaped by the ice age. Traditional red cottages, small harbours and summer houses line the shores.",
+    "Vaxholm, a small town with a fortress, is the nearest and easiest. Sandhamn is a sailing hub with sandy beaches, while Grinda is known for hiking, swimming and a laid-back hostel. Fjaderholmarna, the nearest islands, are reached in 25 minutes and offer craft shops and restaurants. Boats leave from Stockholm's Strommen and Nybroviken piers.",
+    "Many visitors rent a kayak or bike, swim off the rocks and eat grilled fish or shrimp on the pier. Summer is the peak, but autumn and spring are quiet and beautiful. Bring a swimsuit and book accommodation early."
+  ],
+  "whyVisit": {
+    "intro": "The archipelago is Stockholm's great escape.",
+    "points": [
+      {
+        "title": "Island hopping",
+        "text": "Ferries between islands."
+      },
+      {
+        "title": "Swimming rocks",
+        "text": "Warm in summer."
+      },
+      {
+        "title": "Sailing and kayaking",
+        "text": "Calm waters."
+      },
+      {
+        "title": "Red cottages",
+        "text": "Postcard scenery."
+      },
+      {
+        "title": "Easy from the city",
+        "text": "Quick ferries."
+      }
+    ]
+  },
+  "attractionsIntro": "Each island has its own charm.",
+  "attractions": [
+    {
+      "name": "Vaxholm",
+      "image": {
+        "file": "File:Vaxholms kastell November 2013.jpg",
+        "alt": "Vaxholm fortress"
+      },
+      "text": "A small town with a fortress.",
+      "tip": "Easy day trip."
+    },
+    {
+      "name": "Sandhamn",
+      "image": {
+        "file": "File:Sandhamn February 2013 04.jpg",
+        "alt": "Sandhamn harbour"
+      },
+      "text": "A sailing hub with beaches.",
+      "tip": "Walk to the sandy bay."
+    },
+    {
+      "name": "Grinda",
+      "text": "A popular island with forest and rocks.",
+      "tip": "Swim or hike."
+    },
+    {
+      "name": "Fjaderholmarna",
+      "text": "The closest island group.",
+      "tip": "Quick lunch stop."
+    },
+    {
+      "name": "Utö",
+      "text": "A southern island with a mine.",
+      "tip": "Cycle around."
+    },
+    {
+      "name": "Arholma",
+      "text": "A quiet outer island.",
+      "tip": "Stay overnight."
+    }
+  ],
+  "thingsToDoIntro": "Water and nature.",
+  "thingsToDo": [
+    {
+      "title": "Take a ferry",
+      "text": "Between islands.",
+      "tip": "Buy a day ticket."
+    },
+    {
+      "title": "Swim from the rocks",
+      "text": "Summer.",
+      "tip": "Check conditions."
+    },
+    {
+      "title": "Kayak the skerries",
+      "text": "Guided or solo.",
+      "tip": "Rent locally."
+    },
+    {
+      "title": "Cycle on Utö",
+      "text": "Flat and scenic.",
+      "tip": "Hire a bike."
+    },
+    {
+      "title": "Eat on the pier",
+      "text": "Fish and shrimp.",
+      "tip": "Reserve ahead."
+    },
+    {
+      "title": "Watch the sunset",
+      "text": "From a rock.",
+      "tip": "Bring a drink."
+    }
+  ],
+  "foodIntro": "Local fish and summer treats.",
+  "foods": [
+    {
+      "name": "Smoked fish",
+      "text": "Local.",
+      "whereToTry": "Island smokehouses."
+    },
+    {
+      "name": "Shrimp sandwich",
+      "text": "Piled with prawns.",
+      "whereToTry": "Pier cafes."
+    },
+    {
+      "name": "Strawberries",
+      "text": "Summer.",
+      "whereToTry": "Roadside."
+    },
+    {
+      "name": "Fika",
+      "text": "Coffee and bun.",
+      "whereToTry": "Cafes."
+    },
+    {
+      "name": "Baltic herring",
+      "text": "Fried.",
+      "whereToTry": "Restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Cabins, hostels and inns.",
+    "areas": [
+      {
+        "name": "Sandhamn",
+        "bestFor": "Sailing",
+        "text": "Inns."
+      },
+      {
+        "name": "Grinda",
+        "bestFor": "Nature",
+        "text": "Hostel and cabins."
+      },
+      {
+        "name": "Vaxholm",
+        "bestFor": "Convenience",
+        "text": "Hotels."
+      },
+      {
+        "name": "Fjaderholmarna",
+        "bestFor": "Day trip",
+        "text": "None."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel or camping",
+        "value": "US$30-60 per night"
+      },
+      {
+        "label": "Mid-range inn",
+        "value": "US$110-200 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$180-300 per night"
+      },
+      {
+        "label": "Ferry",
+        "value": "US$10-30"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Ferries leave from central Stockholm.",
+    "options": [
+      {
+        "mode": "Ferry from Stockholm",
+        "text": "30 minutes to 2.5 hours depending on island.",
+        "detail": "Frequent in summer."
+      },
+      {
+        "mode": "Bus to Vaxholm",
+        "text": "About 1 hour.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "Tour boats",
+        "text": "Day trips.",
+        "detail": "Seasonal."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Boats and bikes.",
+    "options": [
+      {
+        "mode": "Ferry",
+        "text": "Between islands.",
+        "detail": "Check timetables."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "On larger islands.",
+        "detail": "Rent."
+      },
+      {
+        "mode": "Walking",
+        "text": "Short trails.",
+        "detail": "Bring shoes."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June-August",
+    "summary": "Summer is warm and best for swimming and sailing.",
+    "seasons": [
+      {
+        "season": "June",
+        "rating": "best",
+        "text": "Bright and fresh."
+      },
+      {
+        "season": "July-August",
+        "rating": "good",
+        "text": "Warm and busy."
+      },
+      {
+        "season": "May and September",
+        "rating": "good",
+        "text": "Quiet."
+      },
+      {
+        "season": "November-March",
+        "rating": "quiet",
+        "text": "Cold, few ferries."
+      }
+    ],
+    "avoid": "Winter, when many ferries stop."
+  },
+  "itinerary": {
+    "title": "Two days in the archipelago",
+    "intro": "Islands and rocks.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Vaxholm and Grinda",
+        "summary": "Easy islands",
+        "morning": "Ferry to Vaxholm",
+        "afternoon": "Grinda swim",
+        "evening": "Overnight"
+      },
+      {
+        "day": 2,
+        "title": "Sandhamn",
+        "summary": "Sailing",
+        "morning": "Ferry to Sandhamn",
+        "afternoon": "Beach",
+        "evening": "Return"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Check ferry timetables.",
+    "Book island stays in advance.",
+    "Bring a swimsuit.",
+    "Pack a picnic.",
+    "Carry cash for small shops.",
+    "Wear sturdy shoes.",
+    "Take the last boat back."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "A day or two."
+    },
+    {
+      "q": "Which island is best?",
+      "a": "Sandhamn or Grinda."
+    },
+    {
+      "q": "Do I need a boat?",
+      "a": "No, ferries run."
+    },
+    {
+      "q": "Best time?",
+      "a": "June to August."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Moderate."
+    },
+    {
+      "q": "Can I swim?",
+      "a": "Yes."
+    }
+  ],
+  "related": [
+    "stockholm",
+    "visby-gotland",
+    "gothenburg"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

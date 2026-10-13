@@ -1,0 +1,419 @@
+{
+  "slug": "sweden",
+  "name": "Sweden",
+  "continent": "Europe",
+  "countryCode": "SE",
+  "tagline": "Elegant cities, thousands of islands, folk traditions and the northern lights.",
+  "cardDescription": "A Nordic country of clean, design-led cities, an archipelago of islands, medieval towns, forests and Arctic wilderness.",
+  "metaDescription": "A complete Sweden travel guide: the 10 best places to visit, from Stockholm and Gothenburg to Gotland, Dalarna and Lapland, with practical tips, a two-week itinerary and costs.",
+  "image": {
+    "file": "File:Skeppsbrokajen Gamla Stan from Skeppsholmen Stockholm 2016 01.jpg",
+    "alt": "Gamla Stan in Stockholm seen from across the water"
+  },
+  "destinations": [
+    "stockholm",
+    "gothenburg",
+    "malmo",
+    "uppsala",
+    "visby-gotland",
+    "abisko-kiruna",
+    "are-jamtland",
+    "dalarna",
+    "kalmar-oland",
+    "stockholm-archipelago"
+  ],
+  "intro": [
+    "Sweden is a long country in northern Europe, from the Baltic coast and the southern plains to the Arctic mountains of Lapland. It is known for design, clean cities, strong social values and a deep connection to nature, shaped by the right of public access that lets everyone walk, swim and camp in the countryside.",
+    "The capital, Stockholm, is spread across islands and has a medieval old town, great museums and an archipelago on its doorstep. Gothenburg and Malmo offer seafood, parks and a relaxed southern atmosphere, while historic towns like Uppsala, Visby and Kalmar show the country's medieval and Viking past.",
+    "Further north, Dalarna is the heart of Swedish folk culture, Are is the leading ski resort, and Lapland offers the northern lights, the Midnight Sun and Sami culture. Trains are comfortable and punctual, and English is widely spoken, so Sweden is an easy country to visit."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend them for a first visit.",
+  "thingsToDoIntro": "The experiences that recur across the country and are worth planning around.",
+  "thingsToDo": [
+    {
+      "title": "Have a fika",
+      "text": "A coffee break with a cinnamon bun.",
+      "tip": "Do it daily."
+    },
+    {
+      "title": "Island hop",
+      "text": "Swim from granite rocks in the archipelago.",
+      "tip": "Visit in summer."
+    },
+    {
+      "title": "See the northern lights",
+      "text": "In Abisko and Lapland.",
+      "tip": "Go from September to March."
+    },
+    {
+      "title": "Celebrate midsummer",
+      "text": "Maypoles, flowers and dancing.",
+      "tip": "Book in Dalarna early."
+    },
+    {
+      "title": "Walk the medieval walls",
+      "text": "At Visby.",
+      "tip": "Go at sunset."
+    },
+    {
+      "title": "Ski in Are",
+      "text": "Sweden's largest resort.",
+      "tip": "Book lessons early."
+    },
+    {
+      "title": "Try a sauna and a lake dip",
+      "text": "A Nordic ritual.",
+      "tip": "Many hotels have saunas."
+    }
+  ],
+  "foodIntro": "Swedish food is simple, seasonal and built on fish, potatoes, berries and baking, with a growing New Nordic scene.",
+  "foods": [
+    {
+      "name": "Meatballs",
+      "image": {
+        "file": "File:Swedish meatballs with egg noodles.jpg",
+        "alt": "Swedish meatballs"
+      },
+      "text": "Small meatballs with gravy, lingonberries and potatoes.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Kanelbulle",
+      "image": {
+        "file": "File:Cinnamon bun - Black Mocha 2024-01-08.jpg",
+        "alt": "A cinnamon bun"
+      },
+      "text": "A soft cinnamon bun, the heart of fika.",
+      "whereToTry": "Cafes and bakeries."
+    },
+    {
+      "name": "Gravlax",
+      "image": {
+        "file": "File:Gravlax 2.jpg",
+        "alt": "Gravlax on a plate"
+      },
+      "text": "Salmon cured with dill and sugar.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Surstromming",
+      "image": {
+        "file": "File:Serving Surströmming.jpg",
+        "alt": "Serving surstromming"
+      },
+      "text": "Fermented Baltic herring, famously pungent.",
+      "whereToTry": "Eaten in late summer."
+    },
+    {
+      "name": "Prinsesstarta",
+      "text": "A green marzipan cake with cream.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Cloudberries",
+      "text": "Tart orange berries from the north.",
+      "whereToTry": "Desserts and jam."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Sweden is safe and straightforward, but check official sources before travelling.",
+  "practical": {
+    "capital": "Stockholm",
+    "language": "Swedish is the official language. English is widely spoken.",
+    "currency": "Swedish krona (SEK). Roughly 9-11 kronor to the US dollar in recent years.",
+    "money": "Sweden is nearly cashless. Cards and phone payments work everywhere.",
+    "visa": "As a Schengen member, Sweden allows visa-free stays of up to 90 days for many nationalities, but check requirements and ETIAS rules.",
+    "plugs": "Type C and F, 230 V, 50 Hz.",
+    "emergency": "112 for all emergencies.",
+    "tipping": "Tipping is not required, but rounding up is common in restaurants.",
+    "safety": "Sweden is very safe. Take normal precautions in cities and prepare well for cold weather and hiking in the north.",
+    "connectivity": "Excellent. 5G is common and public Wi-Fi is widespread.",
+    "timeZone": "Central European Time (UTC+1), with daylight saving in summer.",
+    "budget": [
+      {
+        "label": "Budget",
+        "value": "US$80-120 per person per day - hostels and supermarket meals"
+      },
+      {
+        "label": "Mid-range",
+        "value": "US$180-280 per person per day - hotels and restaurants"
+      },
+      {
+        "label": "Comfortable",
+        "value": "US$300-450 per person per day - boutique hotels and tours"
+      },
+      {
+        "label": "Splurge",
+        "value": "US$600+ per person per day - Icehotel and private tours"
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June-August",
+    "summary": "Summer is warm, with long days, midsummer and the archipelago at its best.",
+    "seasons": [
+      {
+        "season": "June-August",
+        "rating": "best",
+        "text": "Long days and warm weather."
+      },
+      {
+        "season": "December-March",
+        "rating": "good",
+        "text": "Snow, skiing and northern lights."
+      },
+      {
+        "season": "May and September",
+        "rating": "good",
+        "text": "Quieter and mild."
+      },
+      {
+        "season": "November",
+        "rating": "avoid",
+        "text": "Dark, wet and cold."
+      }
+    ],
+    "avoid": "November, when it is dark and grey."
+  },
+  "tripDuration": {
+    "headline": "10-14 days for a first trip",
+    "summary": "Sweden is long, so choose a region or two.",
+    "options": [
+      {
+        "length": "5-7 days",
+        "text": "Stockholm and the archipelago, plus Uppsala.",
+        "detail": "The classic start."
+      },
+      {
+        "length": "10 days",
+        "text": "Add Gothenburg and Malmo.",
+        "detail": "The south and west."
+      },
+      {
+        "length": "14 days",
+        "text": "Add Gotland, Dalarna or Lapland.",
+        "detail": "A broader trip."
+      },
+      {
+        "length": "3 weeks",
+        "text": "Add Are and the Arctic.",
+        "detail": "For slow travellers."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Trains are the best way to travel between cities. Flights suit the north and Gotland, and ferries serve the islands.",
+    "options": [
+      {
+        "mode": "Train",
+        "text": "SJ and regional trains link cities.",
+        "detail": "Book early for cheaper fares."
+      },
+      {
+        "mode": "Flight",
+        "text": "To Kiruna, Visby and Are.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Ferry",
+        "text": "To the archipelago and Gotland.",
+        "detail": "Seasonal."
+      },
+      {
+        "mode": "Rental car",
+        "text": "For Dalarna, Oland and the north.",
+        "detail": "Winter tyres in cold seasons."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "In cities and islands.",
+        "detail": "Rent."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Sweden",
+    "intro": "Capital, coast, islands and Lapland.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Stockholm",
+        "morning": "Land and take the Arlanda Express.",
+        "afternoon": "Walk Gamla Stan.",
+        "evening": "Dinner in Sodermalm."
+      },
+      {
+        "day": 2,
+        "title": "Stockholm",
+        "morning": "Vasa Museum and Skansen.",
+        "afternoon": "City Hall.",
+        "evening": "Fika and canal cruise."
+      },
+      {
+        "day": 3,
+        "title": "Archipelago",
+        "morning": "Ferry to Vaxholm and Grinda.",
+        "afternoon": "Swim and walk.",
+        "evening": "Overnight."
+      },
+      {
+        "day": 4,
+        "title": "Uppsala",
+        "morning": "Return to Stockholm and train to Uppsala.",
+        "afternoon": "Cathedral and Gamla Uppsala.",
+        "evening": "Return."
+      },
+      {
+        "day": 5,
+        "title": "Gothenburg",
+        "morning": "Train to Gothenburg.",
+        "afternoon": "Haga and Feskekorka.",
+        "evening": "Seafood dinner."
+      },
+      {
+        "day": 6,
+        "title": "Gothenburg",
+        "morning": "Ferry to the southern archipelago.",
+        "afternoon": "Swim.",
+        "evening": "Return."
+      },
+      {
+        "day": 7,
+        "title": "Malmo",
+        "morning": "Train to Malmo.",
+        "afternoon": "Lilla Torg and Turning Torso.",
+        "evening": "Western Harbour."
+      },
+      {
+        "day": 8,
+        "title": "Malmo",
+        "morning": "Ribersborg and Malmohus.",
+        "afternoon": "Day trip to Copenhagen.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 9,
+        "title": "Kalmar",
+        "morning": "Train to Kalmar.",
+        "afternoon": "Kalmar Castle.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 10,
+        "title": "Oland",
+        "morning": "Cross the bridge and cycle.",
+        "afternoon": "Stora Alvaret.",
+        "evening": "Windmills."
+      },
+      {
+        "day": 11,
+        "title": "Gotland",
+        "morning": "Fly or ferry to Visby.",
+        "afternoon": "Walk the wall.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 12,
+        "title": "Gotland",
+        "morning": "Cycle the coast.",
+        "afternoon": "Faro raukar.",
+        "evening": "Sunset."
+      },
+      {
+        "day": 13,
+        "title": "Lapland",
+        "morning": "Fly to Kiruna.",
+        "afternoon": "Icehotel.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 14,
+        "title": "Abisko",
+        "morning": "Train to Abisko.",
+        "afternoon": "Aurora Sky Station.",
+        "evening": "Northern lights hunt."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Swedes are polite, reserved and egalitarian, with a love of fairness, punctuality and quiet. The concept of lagom, meaning just enough, shapes life.",
+    "etiquette": [
+      {
+        "title": "Be on time",
+        "text": "Punctuality matters."
+      },
+      {
+        "title": "Respect queues",
+        "text": "Take a ticket."
+      },
+      {
+        "title": "Take shoes off",
+        "text": "At homes."
+      },
+      {
+        "title": "Keep it quiet",
+        "text": "Public spaces are calm."
+      },
+      {
+        "title": "Respect personal space",
+        "text": "Not too chatty."
+      },
+      {
+        "title": "Follow allemansratten",
+        "text": "Respect nature."
+      }
+    ],
+    "dos": [
+      "Take your shoes off indoors",
+      "Join in fika",
+      "Pay by card",
+      "Respect quiet hours",
+      "Follow the right of public access rules",
+      "Be on time"
+    ],
+    "donts": [
+      "Do not litter",
+      "Do not pick protected plants",
+      "Do not disturb wildlife",
+      "Do not camp near homes",
+      "Do not drink and drive",
+      "Do not expect tips"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Sweden.",
+  "tips": [
+    "Book long-distance trains early for cheaper fares.",
+    "Carry a card, not cash.",
+    "Pack layers year-round.",
+    "Check daylight hours for winter.",
+    "Book summer accommodation early.",
+    "Alcohol is sold in Systembolaget shops only.",
+    "Cycle helmets are required for children.",
+    "Midsummer shuts shops for a few days."
+  ],
+  "faq": [
+    {
+      "q": "Is Sweden safe for tourists?",
+      "a": "Yes, very safe."
+    },
+    {
+      "q": "How many days do I need?",
+      "a": "Ten to fourteen days."
+    },
+    {
+      "q": "Do I need a visa?",
+      "a": "Many nationalities do not for 90 days."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "June to August or December to March for the north."
+    },
+    {
+      "q": "Is Sweden expensive?",
+      "a": "Yes."
+    },
+    {
+      "q": "Can I use cash?",
+      "a": "Rarely."
+    }
+  ]
+}

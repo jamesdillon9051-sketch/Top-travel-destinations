@@ -1,0 +1,329 @@
+{
+  "slug": "uppsala",
+  "name": "Uppsala",
+  "country": "sweden",
+  "region": "Uppsala County, east-central Sweden",
+  "categories": [
+    "historic",
+    "cultural",
+    "major-city"
+  ],
+  "tagline": "Sweden's oldest university town, with a great cathedral, Viking-age royal mounds and a student spirit.",
+  "highlight": "Looking up at the towers of Scandinavia's largest cathedral.",
+  "shortDescription": "A historic cathedral and university city 40 minutes from Stockholm, with the Royal Mounds of Gamla Uppsala, botanical gardens and a lively river.",
+  "metaDescription": "An Uppsala travel guide: Uppsala Cathedral, Gamla Uppsala royal mounds, Uppsala Castle, the Linnaeus Garden, the Fyris river, student traditions, a day trip from Stockholm.",
+  "suggestedStay": "1 day",
+  "nearestAirport": "Stockholm Arlanda (ARN), about 20 minutes by train",
+  "knownFor": "Cathedral, university, Viking history",
+  "budget": "US$100-200 per day",
+  "goodFor": "Day trippers, history lovers, students",
+  "coords": {
+    "lat": 59.8586,
+    "lng": 17.6389
+  },
+  "image": {
+    "file": "File:Uppsala Cathedral two towers.jpg",
+    "alt": "The two towers of Uppsala Cathedral"
+  },
+  "intro": [
+    "Uppsala is Sweden's fourth-largest city and home to the country's oldest university, founded in 1477. It sits along the Fyris River, about 70 kilometres north of Stockholm, and is easily done as a day trip, though an overnight stay is worthwhile.",
+    "Uppsala Cathedral, Scandinavia's tallest church, has twin spires over 118 metres high and holds the tombs of kings and the botanist Carl Linnaeus. Uppsala Castle dominates a hill above the city, and the Linnaeus Garden preserves a Baroque botanical garden. The river banks are lined with cafes and students on bikes.",
+    "A few kilometres north, Gamla Uppsala was the religious and political centre of pre-Christian Sweden, with three huge royal burial mounds from the 6th century. Walpurgis Night on 30 April is a major student celebration."
+  ],
+  "whyVisit": {
+    "intro": "Uppsala is an easy and rewarding step out of Stockholm.",
+    "points": [
+      {
+        "title": "Cathedral",
+        "text": "Scandinavia's largest."
+      },
+      {
+        "title": "Gamla Uppsala",
+        "text": "Viking-age mounds."
+      },
+      {
+        "title": "University life",
+        "text": "Student traditions."
+      },
+      {
+        "title": "Linnaeus heritage",
+        "text": "Botanical gardens."
+      },
+      {
+        "title": "Riverside cafes",
+        "text": "Relaxed atmosphere."
+      }
+    ]
+  },
+  "attractionsIntro": "Sights are close together.",
+  "attractions": [
+    {
+      "name": "Uppsala Cathedral",
+      "image": {
+        "file": "File:Uppsala domkyrka February 2026 01.jpg",
+        "alt": "Uppsala Cathedral"
+      },
+      "text": "Royal tombs and soaring gothic architecture.",
+      "tip": "Climb the tower if open."
+    },
+    {
+      "name": "Gamla Uppsala",
+      "image": {
+        "file": "File:Royal Mounds of Gamla Uppsala (by Pudelek).JPG",
+        "alt": "The royal mounds of Gamla Uppsala"
+      },
+      "text": "Royal burial mounds and museum.",
+      "tip": "Take the bus."
+    },
+    {
+      "name": "Uppsala Castle",
+      "text": "A Vasa-era castle.",
+      "tip": "Great city views."
+    },
+    {
+      "name": "Linnaeus Garden",
+      "text": "A restored Baroque garden.",
+      "tip": "Open in season."
+    },
+    {
+      "name": "Gustavianum",
+      "text": "The oldest university building.",
+      "tip": "See the anatomical theatre."
+    },
+    {
+      "name": "Fyris River",
+      "text": "Riverside walks and cafes.",
+      "tip": "Stroll at dusk."
+    }
+  ],
+  "thingsToDoIntro": "A day is enough, but a night adds charm.",
+  "thingsToDo": [
+    {
+      "title": "Visit the cathedral",
+      "text": "Admire the interior.",
+      "tip": "Check service times."
+    },
+    {
+      "title": "Walk to Gamla Uppsala",
+      "text": "Mounds and church.",
+      "tip": "Hire a bike."
+    },
+    {
+      "title": "Visit the Linnaeus Garden",
+      "text": "Learn about plants.",
+      "tip": "Seasonal."
+    },
+    {
+      "title": "Tour the Gustavianum",
+      "text": "History and anatomy.",
+      "tip": "Allow an hour."
+    },
+    {
+      "title": "Have fika",
+      "text": "By the river.",
+      "tip": "Try a student cafe."
+    },
+    {
+      "title": "Join Walpurgis",
+      "text": "30 April student party.",
+      "tip": "Book ahead."
+    }
+  ],
+  "foodIntro": "Student cafes and traditional dishes.",
+  "foods": [
+    {
+      "name": "Kanelbulle",
+      "text": "Cinnamon bun.",
+      "whereToTry": "Cafes."
+    },
+    {
+      "name": "Meatballs",
+      "text": "Classic.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Prinsesstarta",
+      "text": "Princess cake.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Student sandwiches",
+      "text": "Cheap lunches.",
+      "whereToTry": "Cafes."
+    },
+    {
+      "name": "Craft beer",
+      "text": "Local pubs.",
+      "whereToTry": "Bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the centre.",
+    "areas": [
+      {
+        "name": "City centre",
+        "bestFor": "Convenience",
+        "text": "Hotels."
+      },
+      {
+        "name": "By the river",
+        "bestFor": "Charm",
+        "text": "Boutique stays."
+      },
+      {
+        "name": "Near the station",
+        "bestFor": "Value",
+        "text": "Budget hotels."
+      },
+      {
+        "name": "Gamla Uppsala",
+        "bestFor": "Quiet",
+        "text": "Guesthouses."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$30-50 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$100-170 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$170-300 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$12-30 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Uppsala is close to Stockholm.",
+    "options": [
+      {
+        "mode": "Train from Stockholm",
+        "text": "About 40 minutes.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Arlanda airport",
+        "text": "20 minutes by train.",
+        "detail": "Convenient."
+      },
+      {
+        "mode": "Bus",
+        "text": "From Stockholm.",
+        "detail": "Cheaper."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Walking and cycling.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "Compact.",
+        "detail": "Pleasant."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Common.",
+        "detail": "Rent."
+      },
+      {
+        "mode": "Bus",
+        "text": "To Gamla Uppsala.",
+        "detail": "Frequent."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May-September",
+    "summary": "Summer is lovely, and the 30 April festival is special.",
+    "seasons": [
+      {
+        "season": "May-June",
+        "rating": "best",
+        "text": "Fresh and bright."
+      },
+      {
+        "season": "July-August",
+        "rating": "good",
+        "text": "Warm and quiet."
+      },
+      {
+        "season": "September",
+        "rating": "good",
+        "text": "Student season starts."
+      },
+      {
+        "season": "November-February",
+        "rating": "quiet",
+        "text": "Dark."
+      }
+    ],
+    "avoid": "Winter for long outdoor walks."
+  },
+  "itinerary": {
+    "title": "A day in Uppsala",
+    "intro": "Cathedral and mounds.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Uppsala in a day",
+        "summary": "Cathedral and mounds",
+        "morning": "Cathedral and castle",
+        "afternoon": "Gamla Uppsala by bus",
+        "evening": "Riverside dinner"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Combine with Stockholm.",
+    "Check the cathedral opening times.",
+    "Rent a bike.",
+    "Bring a layer.",
+    "Try a student cafe.",
+    "Visit on 30 April if you like parties.",
+    "Buy train tickets via app."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "A day."
+    },
+    {
+      "q": "Is it easy to reach?",
+      "a": "Yes."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Moderate."
+    },
+    {
+      "q": "Best time?",
+      "a": "May to September."
+    },
+    {
+      "q": "Is it student-heavy?",
+      "a": "Yes."
+    },
+    {
+      "q": "What are the mounds?",
+      "a": "Royal burial mounds."
+    }
+  ],
+  "related": [
+    "stockholm",
+    "visby-gotland",
+    "dalarna"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

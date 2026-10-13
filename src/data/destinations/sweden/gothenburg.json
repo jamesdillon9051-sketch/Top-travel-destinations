@@ -1,0 +1,343 @@
+{
+  "slug": "gothenburg",
+  "name": "Gothenburg",
+  "country": "sweden",
+  "region": "Vastra Gotaland County, west coast",
+  "categories": [
+    "major-city",
+    "coastal",
+    "food-and-wine",
+    "cultural"
+  ],
+  "tagline": "A friendly west-coast port with canals, seafood, parks and a car-free archipelago.",
+  "highlight": "Eating fresh shrimp by the harbour, then a ferry to a car-free island.",
+  "shortDescription": "Sweden's second city: Haga, Feskekorka fish market, Slottsskogen, Liseberg, the southern archipelago and some of the best seafood in the country.",
+  "metaDescription": "A Gothenburg travel guide: Haga, Feskekorka fish church, Slottsskogen, Liseberg, the Gothenburg Archipelago, Paddan canal boats, seafood, where to stay and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Gothenburg Landvetter (GOT), about 30 minutes",
+  "knownFor": "Seafood, canals, archipelago",
+  "budget": "US$110-240 per day",
+  "goodFor": "Foodies, relaxed city breaks, families",
+  "coords": {
+    "lat": 57.7089,
+    "lng": 11.9746
+  },
+  "image": {
+    "file": "File:Haga Nygata Göteborg.JPG",
+    "alt": "The wooden houses of Haga Nygata in Gothenburg"
+  },
+  "intro": [
+    "Gothenburg, or Goteborg, is Sweden's second-largest city and its main port. It is friendlier and more laid-back than the capital, with canals built by Dutch engineers, wide boulevards, parks and a strong food culture.",
+    "The Haga district preserves 19th-century wooden houses now filled with cafes, selling giant cinnamon buns, and shops. Feskekorka, the fish church, is a market hall built like a church, and the seafood from the west coast is excellent. Slottsskogen park, with its free zoo, is the city's green lung, and the Liseberg amusement park is a classic family day out.",
+    "Ferries run to the southern archipelago, a group of car-free islands with fishing harbours and swimming rocks. The city is easy to explore on trams and on foot."
+  ],
+  "whyVisit": {
+    "intro": "Gothenburg is a relaxed city with a great harbour and food scene.",
+    "points": [
+      {
+        "title": "Seafood",
+        "text": "Shrimp, oysters and fish."
+      },
+      {
+        "title": "Haga",
+        "text": "Old wooden houses and cafes."
+      },
+      {
+        "title": "Archipelago",
+        "text": "Easy island trips."
+      },
+      {
+        "title": "Parks and gardens",
+        "text": "Slottsskogen and Botanical Garden."
+      },
+      {
+        "title": "Friendly atmosphere",
+        "text": "Easy to enjoy."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are central.",
+  "attractions": [
+    {
+      "name": "Haga",
+      "text": "Historic wooden houses and cafes.",
+      "tip": "Try a giant bulle."
+    },
+    {
+      "name": "Feskekorka",
+      "image": {
+        "file": "File:Feskekôrka September 2016 01.jpg",
+        "alt": "The Feskekorka fish market hall in Gothenburg"
+      },
+      "text": "The fish church market.",
+      "tip": "Eat lunch here."
+    },
+    {
+      "name": "Slottsskogen",
+      "image": {
+        "file": "File:Slottsskogen-snow.jpg",
+        "alt": "Slottsskogen park in winter"
+      },
+      "text": "A park with a free zoo.",
+      "tip": "Walk or picnic."
+    },
+    {
+      "name": "Liseberg",
+      "text": "One of Scandinavia's best amusement parks.",
+      "tip": "Check opening dates."
+    },
+    {
+      "name": "Paddan boats",
+      "text": "Canal and harbour sightseeing.",
+      "tip": "Go in summer."
+    },
+    {
+      "name": "Southern archipelago",
+      "image": {
+        "file": "File:Southern Archipelago, Gothenburg - panoramio.jpg",
+        "alt": "The southern archipelago off Gothenburg"
+      },
+      "text": "Car-free islands by ferry.",
+      "tip": "Go to Styrso or Branno."
+    }
+  ],
+  "thingsToDoIntro": "Food and the sea shape the days.",
+  "thingsToDo": [
+    {
+      "title": "Eat shrimp",
+      "text": "Fresh on the quay.",
+      "tip": "Ask for peel-yourself."
+    },
+    {
+      "title": "Ferry to the islands",
+      "text": "Swim and walk.",
+      "tip": "Pack a picnic."
+    },
+    {
+      "title": "Browse Haga",
+      "text": "Cafes and boutiques.",
+      "tip": "Weekday mornings are quieter."
+    },
+    {
+      "title": "Cruise the canals",
+      "text": "Through the old city.",
+      "tip": "Seasonal."
+    },
+    {
+      "title": "Visit Slottsskogen zoo",
+      "text": "Free entry.",
+      "tip": "Family friendly."
+    },
+    {
+      "title": "Try a seafood tasting",
+      "text": "West coast produce.",
+      "tip": "Book ahead."
+    }
+  ],
+  "foodIntro": "The west coast has excellent seafood.",
+  "foods": [
+    {
+      "name": "Shrimp sandwich",
+      "text": "Piled with prawns.",
+      "whereToTry": "Market stalls."
+    },
+    {
+      "name": "Fish soup",
+      "text": "Creamy and rich.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Kanelbulle",
+      "text": "Giant cinnamon bun.",
+      "whereToTry": "Haga cafes."
+    },
+    {
+      "name": "Oysters",
+      "text": "From Bohuslan.",
+      "whereToTry": "Seafood bars."
+    },
+    {
+      "name": "Cloudberry dessert",
+      "text": "Nordic sweet.",
+      "whereToTry": "Restaurants."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the centre or Haga.",
+    "areas": [
+      {
+        "name": "Centrum",
+        "bestFor": "Convenience",
+        "text": "Hotels near the station."
+      },
+      {
+        "name": "Haga",
+        "bestFor": "Atmosphere",
+        "text": "Boutique stays."
+      },
+      {
+        "name": "Linne",
+        "bestFor": "Hip",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Harbour",
+        "bestFor": "Views",
+        "text": "Modern hotels."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$30-55 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$110-200 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$200-350 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$15-35 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Gothenburg is well connected.",
+    "options": [
+      {
+        "mode": "Train from Stockholm",
+        "text": "About 3 to 3.5 hours.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Fly to Landvetter",
+        "text": "From Europe.",
+        "detail": "Flybussarna to the centre."
+      },
+      {
+        "mode": "Ferry from Denmark or Germany",
+        "text": "Overnight routes.",
+        "detail": "Popular."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Trams are the main transport.",
+    "options": [
+      {
+        "mode": "Tram",
+        "text": "Frequent and easy.",
+        "detail": "Buy via app."
+      },
+      {
+        "mode": "Ferry",
+        "text": "To the archipelago.",
+        "detail": "Included in some tickets."
+      },
+      {
+        "mode": "Walking",
+        "text": "The centre is flat.",
+        "detail": "Pleasant."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May-September",
+    "summary": "Summer is warm with long days.",
+    "seasons": [
+      {
+        "season": "May-June",
+        "rating": "best",
+        "text": "Mild and bright."
+      },
+      {
+        "season": "July-August",
+        "rating": "good",
+        "text": "Warm and busy."
+      },
+      {
+        "season": "September",
+        "rating": "good",
+        "text": "Mild and quiet."
+      },
+      {
+        "season": "November-February",
+        "rating": "quiet",
+        "text": "Dark and wet."
+      }
+    ],
+    "avoid": "Winter if you dislike drizzle."
+  },
+  "itinerary": {
+    "title": "Two days in Gothenburg",
+    "intro": "City and sea.",
+    "days": [
+      {
+        "day": 1,
+        "title": "City",
+        "summary": "Haga and the market",
+        "morning": "Haga",
+        "afternoon": "Feskekorka lunch",
+        "evening": "Slottsskogen"
+      },
+      {
+        "day": 2,
+        "title": "Archipelago",
+        "summary": "Islands",
+        "morning": "Ferry to Styrso",
+        "afternoon": "Swim and walk",
+        "evening": "Seafood dinner"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Buy a transport card.",
+    "Try the shrimp.",
+    "Bring a rain jacket.",
+    "Book Liseberg tickets online.",
+    "Visit islands in good weather.",
+    "Carry a reusable bottle.",
+    "Expect cashless payments."
+  ],
+  "faq": [
+    {
+      "q": "How many days do I need?",
+      "a": "Two."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Yes but less than Stockholm."
+    },
+    {
+      "q": "Best time?",
+      "a": "May to September."
+    },
+    {
+      "q": "Can I visit islands?",
+      "a": "Yes by ferry."
+    },
+    {
+      "q": "Is it walkable?",
+      "a": "Yes."
+    },
+    {
+      "q": "Where to eat seafood?",
+      "a": "Feskekorka."
+    }
+  ],
+  "related": [
+    "stockholm",
+    "malmo",
+    "kalmar-oland"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season",
+    "first-trip-to-europe"
+  ]
+}

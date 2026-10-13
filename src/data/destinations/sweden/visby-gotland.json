@@ -1,0 +1,350 @@
+{
+  "slug": "visby-gotland",
+  "name": "Visby and Gotland",
+  "country": "sweden",
+  "region": "Gotland County, Baltic Sea",
+  "categories": [
+    "historic",
+    "unesco",
+    "island",
+    "coastal"
+  ],
+  "tagline": "A walled medieval town on a Baltic island of limestone sea stacks, beaches and Viking farms.",
+  "highlight": "Walking the ring wall at sunset, with ruined churches glowing in the light.",
+  "shortDescription": "A UNESCO-listed Hanseatic town with a 3.4 km medieval wall, church ruins, and an island of raukar sea stacks, sandy beaches and medieval churches.",
+  "metaDescription": "A Visby and Gotland guide: the medieval wall, church ruins, Medieval Week, raukar of Faro, beaches, cycling, ferries from Nynashamn, where to stay and a three-day plan.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "Visby (VBY), flights from Stockholm; ferries from Nynashamn and Oskarshamn",
+  "knownFor": "Medieval town, beaches, sea stacks",
+  "budget": "US$100-220 per day",
+  "goodFor": "History fans, cyclists, beach lovers",
+  "coords": {
+    "lat": 57.6348,
+    "lng": 18.2948
+  },
+  "image": {
+    "file": "File:Sunset Visby, Gotland, Sweden (6204733532).jpg",
+    "alt": "Sunset over the medieval walls of Visby"
+  },
+  "intro": [
+    "Gotland is Sweden's largest island, in the Baltic Sea, and its capital Visby is the best-preserved medieval walled town in Scandinavia. The 3.4-kilometre wall, with 27 towers, encloses cobbled lanes, rose-covered houses and the ruins of a dozen churches, and the whole town is a UNESCO World Heritage Site.",
+    "In summer, Visby is lively. Medieval Week in August brings thousands of people in period costume, and the island has long beaches, limestone cliffs, Viking sites and hundreds of medieval churches. Faro, a smaller island to the north, is known for the raukar, strange sea stacks, and for Ingmar Bergman's home.",
+    "Gotland is flat and ideal for cycling, with local food including saffron pancakes, lamb and sea buckthorn ice cream. Visitors arrive by ferry from Nynashamn or Oskarshamn, or by a short flight from Stockholm. Summer is busy, so book early."
+  ],
+  "whyVisit": {
+    "intro": "Gotland offers a medieval town and island nature in one trip.",
+    "points": [
+      {
+        "title": "Visby's walls",
+        "text": "A complete medieval ring."
+      },
+      {
+        "title": "Church ruins",
+        "text": "Atmospheric stone shells."
+      },
+      {
+        "title": "Raukar",
+        "text": "Sea stack landscapes."
+      },
+      {
+        "title": "Beaches",
+        "text": "Sandy bays."
+      },
+      {
+        "title": "Medieval Week",
+        "text": "A big festival."
+      }
+    ]
+  },
+  "attractionsIntro": "Visby is compact, and the island needs a bike or car.",
+  "attractions": [
+    {
+      "name": "Visby ring wall",
+      "image": {
+        "file": "File:Visby ringmur June 2026 01.jpg",
+        "alt": "The ring wall of Visby"
+      },
+      "text": "A medieval wall with towers.",
+      "tip": "Walk part of it at sunset."
+    },
+    {
+      "name": "St Mary's Cathedral",
+      "text": "The only intact medieval church in town.",
+      "tip": "Visit in the morning."
+    },
+    {
+      "name": "Church ruins",
+      "image": {
+        "file": "File:Visby, Gotland, Sweden (6633333065).jpg",
+        "alt": "Church ruins in Visby"
+      },
+      "text": "Roofless churches in the town.",
+      "tip": "Go in the evening."
+    },
+    {
+      "name": "Faro raukar",
+      "image": {
+        "file": "File:Gotland Fårö-Raukar Gamlehamn.jpg",
+        "alt": "Limestone sea stacks on Faro"
+      },
+      "text": "Limestone sea stacks.",
+      "tip": "Take the ferry."
+    },
+    {
+      "name": "Gotland Museum",
+      "text": "Viking treasure and picture stones.",
+      "tip": "Allow an hour."
+    },
+    {
+      "name": "Sudersand beach",
+      "text": "A long sandy beach.",
+      "tip": "Swim in summer."
+    }
+  ],
+  "thingsToDoIntro": "Cycling, beaches and history.",
+  "thingsToDo": [
+    {
+      "title": "Walk the wall",
+      "text": "A circuit of the town.",
+      "tip": "Go at golden hour."
+    },
+    {
+      "title": "Cycle Gotland",
+      "text": "Flat and scenic.",
+      "tip": "Hire a bike."
+    },
+    {
+      "title": "Visit Faro",
+      "text": "See the raukar.",
+      "tip": "Ferry from Fårösund."
+    },
+    {
+      "title": "Attend Medieval Week",
+      "text": "August festival.",
+      "tip": "Book accommodation early."
+    },
+    {
+      "title": "Swim at the beach",
+      "text": "Warm summer water.",
+      "tip": "Bring a picnic."
+    },
+    {
+      "title": "Taste Gotland food",
+      "text": "Saffron pancake.",
+      "tip": "Local restaurants."
+    }
+  ],
+  "foodIntro": "Gotland has its own specialities.",
+  "foods": [
+    {
+      "name": "Saffron pancake",
+      "text": "With dewberry jam.",
+      "whereToTry": "Cafes."
+    },
+    {
+      "name": "Gotland lamb",
+      "text": "Local meat.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Sea buckthorn ice cream",
+      "text": "Tart and sweet.",
+      "whereToTry": "Ice cream shops."
+    },
+    {
+      "name": "Smoked fish",
+      "text": "Local.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Kanelbulle",
+      "text": "Cinnamon bun.",
+      "whereToTry": "Cafes."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in Visby or on the coast.",
+    "areas": [
+      {
+        "name": "Visby old town",
+        "bestFor": "Atmosphere",
+        "text": "Historic hotels."
+      },
+      {
+        "name": "Outside the walls",
+        "bestFor": "Value",
+        "text": "Hotels."
+      },
+      {
+        "name": "Coast",
+        "bestFor": "Beaches",
+        "text": "Cabins."
+      },
+      {
+        "name": "Faro",
+        "bestFor": "Quiet",
+        "text": "Guesthouses."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$35-60 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$110-200 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$200-350 per night"
+      },
+      {
+        "label": "Ferry",
+        "value": "US$30-60 each way"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Visby is reached by air or sea.",
+    "options": [
+      {
+        "mode": "Fly from Stockholm",
+        "text": "About 45 minutes.",
+        "detail": "Frequent."
+      },
+      {
+        "mode": "Ferry from Nynashamn",
+        "text": "About 3 hours.",
+        "detail": "Popular."
+      },
+      {
+        "mode": "Ferry from Oskarshamn",
+        "text": "About 3 hours.",
+        "detail": "Alternative."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Cycling or car.",
+    "options": [
+      {
+        "mode": "Bicycle",
+        "text": "Best way.",
+        "detail": "Rent in Visby."
+      },
+      {
+        "mode": "Car",
+        "text": "For distance.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Bus",
+        "text": "Island network.",
+        "detail": "Limited."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June-August",
+    "summary": "Summer is warm and busy.",
+    "seasons": [
+      {
+        "season": "June",
+        "rating": "best",
+        "text": "Long days."
+      },
+      {
+        "season": "July-August",
+        "rating": "good",
+        "text": "Busy, Medieval Week in August."
+      },
+      {
+        "season": "May and September",
+        "rating": "good",
+        "text": "Quiet."
+      },
+      {
+        "season": "November-March",
+        "rating": "quiet",
+        "text": "Many closed."
+      }
+    ],
+    "avoid": "Winter, when many places close."
+  },
+  "itinerary": {
+    "title": "Three days on Gotland",
+    "intro": "Visby and Faro.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Visby",
+        "summary": "Old town",
+        "morning": "Walk the wall",
+        "afternoon": "Church ruins",
+        "evening": "Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Island",
+        "summary": "Cycling",
+        "morning": "Cycle the coast",
+        "afternoon": "Beach",
+        "evening": "Sunset"
+      },
+      {
+        "day": 3,
+        "title": "Faro",
+        "summary": "Raukar",
+        "morning": "Ferry to Faro",
+        "afternoon": "Sea stacks",
+        "evening": "Return"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Book ferries and lodging early.",
+    "Bring a bike or rent one.",
+    "Visit outside August for quiet.",
+    "Pack layers.",
+    "Try saffron pancakes.",
+    "Respect churches.",
+    "Check Medieval Week dates."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "Three to four days."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Moderate."
+    },
+    {
+      "q": "Can I cycle?",
+      "a": "Yes."
+    },
+    {
+      "q": "Best time?",
+      "a": "June to August."
+    },
+    {
+      "q": "Is it easy to reach?",
+      "a": "By ferry or plane."
+    },
+    {
+      "q": "What are raukar?",
+      "a": "Sea stacks."
+    }
+  ],
+  "related": [
+    "stockholm",
+    "kalmar-oland",
+    "uppsala"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}
