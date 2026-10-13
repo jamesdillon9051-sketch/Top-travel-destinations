@@ -1,0 +1,358 @@
+{
+  "slug": "corcovado-osa-peninsula",
+  "name": "Corcovado and the Osa Peninsula",
+  "country": "costa-rica",
+  "region": "Puntarenas Province, southern Pacific coast",
+  "categories": [
+    "national-park",
+    "nature",
+    "coastal",
+    "off-the-beaten-path"
+  ],
+  "tagline": "The most biologically intense place on Earth, a wild rainforest peninsula of tapirs, macaws and jaguars.",
+  "highlight": "Walking at dawn on a remote beach with scarlet macaws overhead.",
+  "shortDescription": "A remote peninsula holding Corcovado National Park, one of the last large tracts of Pacific lowland rainforest, with Drake Bay and Puerto Jimenez as bases.",
+  "metaDescription": "A Corcovado guide: Sirena station, Drake Bay, Puerto Jimenez, wildlife, guided treks, getting there, permits, where to stay, costs and a four-day plan.",
+  "suggestedStay": "3-5 days",
+  "nearestAirport": "San Jose (SJO) with flights to Drake Bay or Puerto Jimenez",
+  "knownFor": "Rainforest, wildlife, remote beaches",
+  "budget": "US$120-300 per day",
+  "goodFor": "Wildlife lovers, hikers, adventurers",
+  "coords": {
+    "lat": 8.55,
+    "lng": -83.5833
+  },
+  "image": {
+    "file": "File:Corcovado National Park, Costa RIca 02.jpg",
+    "alt": "The coast of Corcovado National Park"
+  },
+  "intro": [
+    "The Osa Peninsula, in the southwest of Costa Rica, is wild, remote and astonishingly rich. National Geographic once called it the most biologically intense place on Earth, and Corcovado National Park protects a large block of Pacific lowland rainforest where jaguars, tapirs, scarlet macaws, four species of monkeys and thousands of insects live.",
+    "The park is not easy to visit. A guide is required, trails are hot and muddy, and accommodation inside is limited to ranger stations such as Sirena. Many visitors choose day trips from Drake Bay by boat, while multi-day treks take you to the heart of the forest. Puerto Jimenez, on the Golfo Dulce side, is the other main gateway.",
+    "Elsewhere on the peninsula, you can go whale watching, kayaking and snorkelling, and relax in eco-lodges on remote beaches. It is more expensive and less comfortable than other parts of Costa Rica, but the wildlife experience is among the best in Central America."
+  ],
+  "whyVisit": {
+    "intro": "Corcovado is Costa Rica's wildest corner.",
+    "points": [
+      {
+        "title": "Biodiversity",
+        "text": "Among the richest on Earth."
+      },
+      {
+        "title": "Remote beaches",
+        "text": "Few visitors."
+      },
+      {
+        "title": "Guided treks",
+        "text": "Real jungle immersion."
+      },
+      {
+        "title": "Marine life",
+        "text": "Whales and dolphins."
+      },
+      {
+        "title": "Eco-lodges",
+        "text": "Stay in the rainforest."
+      }
+    ]
+  },
+  "attractionsIntro": "The park and the coast are the main draw.",
+  "attractions": [
+    {
+      "name": "Sirena Station",
+      "image": {
+        "file": "File:Sirena Station at Corcovado National Park Costa Rica.jpg",
+        "alt": "The Sirena ranger station in Corcovado"
+      },
+      "text": "The ranger station deep in the park.",
+      "tip": "Book far ahead."
+    },
+    {
+      "name": "Drake Bay",
+      "image": {
+        "file": "File:Sunset Bahía Drake.jpg",
+        "alt": "Sunset over Drake Bay"
+      },
+      "text": "A bay with boat trips and lodges.",
+      "tip": "Gateway for day trips."
+    },
+    {
+      "name": "Puerto Jimenez",
+      "text": "The other gateway town.",
+      "tip": "Entry for La Leona trail."
+    },
+    {
+      "name": "Cano Island",
+      "text": "Snorkelling and diving.",
+      "tip": "Boat from Drake Bay."
+    },
+    {
+      "name": "Golfo Dulce",
+      "text": "Calm gulf with dolphins.",
+      "tip": "Kayak trips."
+    },
+    {
+      "name": "Beaches",
+      "image": {
+        "file": "File:Scarlet Macaws at Uvita Beach, Costa Rica 01.jpg",
+        "alt": "Scarlet macaws near a beach on the Pacific coast"
+      },
+      "text": "Remote sand and surf.",
+      "tip": "Watch for rip currents."
+    }
+  ],
+  "thingsToDoIntro": "Guided activities fill the days.",
+  "thingsToDo": [
+    {
+      "title": "Hike to Sirena",
+      "text": "A multi-day trek.",
+      "tip": "Book a guide."
+    },
+    {
+      "title": "Take a boat to the park",
+      "text": "A day trip.",
+      "tip": "Leave at dawn."
+    },
+    {
+      "title": "Snorkel at Cano Island",
+      "text": "Colourful reefs.",
+      "tip": "Calm seas."
+    },
+    {
+      "title": "Spot scarlet macaws",
+      "text": "At dawn and dusk.",
+      "tip": "Bring binoculars."
+    },
+    {
+      "title": "Watch whales",
+      "text": "Humpbacks migrate.",
+      "tip": "Seasonal."
+    },
+    {
+      "title": "Kayak the Gulf",
+      "text": "Mangroves and dolphins.",
+      "tip": "Go early."
+    }
+  ],
+  "foodIntro": "Food is simple and fresh.",
+  "foods": [
+    {
+      "name": "Fresh fish",
+      "text": "Local catch.",
+      "whereToTry": "Lodges."
+    },
+    {
+      "name": "Casado",
+      "text": "Plate of the day.",
+      "whereToTry": "Local sodas."
+    },
+    {
+      "name": "Tropical fruit",
+      "text": "Pineapple, papaya.",
+      "whereToTry": "Roadside."
+    },
+    {
+      "name": "Gallo pinto",
+      "text": "Rice and beans.",
+      "whereToTry": "Breakfast."
+    },
+    {
+      "name": "Coconut water",
+      "text": "Cold.",
+      "whereToTry": "Beach stands."
+    }
+  ],
+  "accommodation": {
+    "intro": "Eco-lodges dominate.",
+    "areas": [
+      {
+        "name": "Drake Bay",
+        "bestFor": "Lodges",
+        "text": "Remote coast."
+      },
+      {
+        "name": "Puerto Jimenez",
+        "bestFor": "Value",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Carate",
+        "bestFor": "Remote",
+        "text": "Basic lodges."
+      },
+      {
+        "name": "Inside park",
+        "bestFor": "Adventure",
+        "text": "Ranger stations."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Guesthouse",
+        "value": "US$35-70 per night"
+      },
+      {
+        "label": "Mid-range lodge",
+        "value": "US$120-250 per night"
+      },
+      {
+        "label": "Eco-lodge",
+        "value": "US$300-600 per night"
+      },
+      {
+        "label": "Park entry",
+        "value": "Around US$15 plus guide (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Corcovado is remote.",
+    "options": [
+      {
+        "mode": "Fly",
+        "text": "From San Jose to Drake Bay or Puerto Jimenez.",
+        "detail": "About 1 hour."
+      },
+      {
+        "mode": "Drive",
+        "text": "About 6 to 8 hours.",
+        "detail": "Rough roads."
+      },
+      {
+        "mode": "Boat",
+        "text": "From Sierpe to Drake Bay.",
+        "detail": "About 1 hour."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Boats and walking.",
+    "options": [
+      {
+        "mode": "Boat",
+        "text": "To Drake Bay and parks.",
+        "detail": "Included in tours."
+      },
+      {
+        "mode": "Hiking",
+        "text": "In the park.",
+        "detail": "With a guide."
+      },
+      {
+        "mode": "Taxi",
+        "text": "In Puerto Jimenez.",
+        "detail": "Cheap."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December-April",
+    "summary": "The dry season makes trekking easier.",
+    "seasons": [
+      {
+        "season": "December-April",
+        "rating": "best",
+        "text": "Dry and hiking-friendly."
+      },
+      {
+        "season": "May-June",
+        "rating": "good",
+        "text": "Green."
+      },
+      {
+        "season": "July-October",
+        "rating": "quiet",
+        "text": "Heavy rain."
+      },
+      {
+        "season": "November",
+        "rating": "avoid",
+        "text": "Wettest."
+      }
+    ],
+    "avoid": "October and November, when rains are heaviest."
+  },
+  "itinerary": {
+    "title": "Four days in Corcovado",
+    "intro": "Jungle immersion.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Drake Bay",
+        "morning": "Fly or boat in",
+        "afternoon": "Beach walk",
+        "evening": "Night walk"
+      },
+      {
+        "day": 2,
+        "title": "Corcovado",
+        "summary": "Sirena",
+        "morning": "Boat to the park",
+        "afternoon": "Guided hike",
+        "evening": "Return"
+      },
+      {
+        "day": 3,
+        "title": "Marine",
+        "summary": "Cano Island",
+        "morning": "Snorkel",
+        "afternoon": "Rest",
+        "evening": "Sunset"
+      },
+      {
+        "day": 4,
+        "title": "Departure",
+        "summary": "Beach",
+        "morning": "Morning walk",
+        "afternoon": "Transfer",
+        "evening": "Travel"
+      }
+    ]
+  },
+  "tipsIntro": "Tips for remote Osa.",
+  "tips": [
+    "Book guides and lodges ahead.",
+    "Bring insect repellent.",
+    "Pack light waterproof clothing.",
+    "Carry cash.",
+    "Drink bottled water.",
+    "Respect wildlife.",
+    "Be physically prepared."
+  ],
+  "faq": [
+    {
+      "q": "Do I need a guide?",
+      "a": "Yes in the park."
+    },
+    {
+      "q": "Will I see jaguars?",
+      "a": "Very unlikely."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Three to five days."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Yes."
+    },
+    {
+      "q": "When is best?",
+      "a": "December to April."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Yes with a guide."
+    }
+  ],
+  "related": [
+    "manuel-antonio",
+    "tortuguero",
+    "santa-teresa-nicoya"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "slug": "rincon-de-la-vieja",
+  "name": "Rincon de la Vieja",
+  "country": "costa-rica",
+  "region": "Guanacaste Province, north-west Costa Rica",
+  "categories": [
+    "national-park",
+    "nature",
+    "mountains",
+    "scenic"
+  ],
+  "tagline": "A steaming volcano with hot springs, mud pots, waterfalls and dry-forest wildlife.",
+  "highlight": "Soaking in a volcanic stream after a morning on the waterfall trail.",
+  "shortDescription": "A national park around an active volcano, with fumaroles, waterfalls, hot springs, canopy tours and horseback rides.",
+  "metaDescription": "A Rincon de la Vieja guide: volcanic trails, hot springs, mud pots, waterfalls, canopy tours, horse riding, wildlife, where to stay, costs and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Liberia (LIR), about 45 minutes by road",
+  "knownFor": "Volcano, hot springs, waterfalls",
+  "budget": "US$80-170 per day",
+  "goodFor": "Active travellers, families, couples",
+  "coords": {
+    "lat": 10.83,
+    "lng": -85.33
+  },
+  "image": {
+    "file": "File:Rincon de la Vieja.JPG",
+    "alt": "The Rincon de la Vieja volcano"
+  },
+  "intro": [
+    "Rincon de la Vieja National Park surrounds an active volcano, with steaming fumaroles, boiling mud pots and hot springs in a landscape of dry forest and cloud forest. It is a short drive from Liberia and an easy detour from the Guanacaste beaches.",
+    "Trails lead past volcanic features, waterfalls and viewpoints, and the forest holds howler monkeys, coatis and a variety of birds. Hot springs and mud baths are available in nearby lodges, and adventure activities include canopy tours, tubing, horseback riding and waterfall hikes.",
+    "The volcano is active, so access to the summit is restricted, but lower trails are open. The air is cooler than the coast, and the area is quiet and good for relaxing. Plan to start early to beat the heat and afternoon cloud."
+  ],
+  "whyVisit": {
+    "intro": "Rincon de la Vieja is a good day trip or overnight stay.",
+    "points": [
+      {
+        "title": "Volcanic features",
+        "text": "Fumaroles and mud pots."
+      },
+      {
+        "title": "Hot springs",
+        "text": "Relax in warm streams."
+      },
+      {
+        "title": "Waterfalls",
+        "text": "Swim in cool pools."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Monkeys and birds."
+      },
+      {
+        "title": "Adventure",
+        "text": "Canopy, tubing and horses."
+      }
+    ]
+  },
+  "attractionsIntro": "The park has several sites.",
+  "attractions": [
+    {
+      "name": "Las Pailas Trail",
+      "text": "A loop past mud pots and fumaroles.",
+      "tip": "Take it early."
+    },
+    {
+      "name": "Rincon de la Vieja National Park",
+      "image": {
+        "file": "File:Rincon de la Vieja (cropped).JPG",
+        "alt": "The summit area of Rincon de la Vieja"
+      },
+      "text": "Trails and viewpoints.",
+      "tip": "Check closures."
+    },
+    {
+      "name": "Oropendola Waterfall",
+      "text": "A turquoise waterfall.",
+      "tip": "Check access."
+    },
+    {
+      "name": "Hot springs",
+      "text": "Volcanic pools in lodges.",
+      "tip": "Go in the evening."
+    },
+    {
+      "name": "Canopy tours",
+      "text": "Ziplines over forest.",
+      "tip": "Book ahead."
+    },
+    {
+      "name": "Borinquen area",
+      "text": "Lodges and trails.",
+      "tip": "Quiet."
+    }
+  ],
+  "thingsToDoIntro": "Active days are the norm.",
+  "thingsToDo": [
+    {
+      "title": "Hike Las Pailas",
+      "text": "Easy loop.",
+      "tip": "Wear closed shoes."
+    },
+    {
+      "title": "Soak in hot springs",
+      "text": "Warm mineral water.",
+      "tip": "Go at dusk."
+    },
+    {
+      "title": "Try tubing",
+      "text": "On a river.",
+      "tip": "Wear a swimsuit."
+    },
+    {
+      "title": "Ride a horse",
+      "text": "Through forest.",
+      "tip": "Book a guide."
+    },
+    {
+      "title": "Swim at the waterfall",
+      "text": "Cool and clear.",
+      "tip": "Follow rules."
+    },
+    {
+      "title": "See wildlife",
+      "text": "Monkeys, coatis.",
+      "tip": "Be quiet."
+    }
+  ],
+  "foodIntro": "Lodge meals are the norm.",
+  "foods": [
+    {
+      "name": "Gallo pinto",
+      "text": "Rice and beans.",
+      "whereToTry": "Breakfast."
+    },
+    {
+      "name": "Casado",
+      "text": "Plate of the day.",
+      "whereToTry": "Local sodas."
+    },
+    {
+      "name": "Grilled meat",
+      "text": "Guanacaste beef.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Tortillas",
+      "text": "Fresh corn.",
+      "whereToTry": "Roadside."
+    },
+    {
+      "name": "Coffee",
+      "text": "Local.",
+      "whereToTry": "Lodges."
+    }
+  ],
+  "accommodation": {
+    "intro": "Lodges around the park.",
+    "areas": [
+      {
+        "name": "Lodges",
+        "bestFor": "Nature",
+        "text": "Hot spring lodges."
+      },
+      {
+        "name": "Liberia",
+        "bestFor": "Convenience",
+        "text": "Hotels."
+      },
+      {
+        "name": "Borinquen",
+        "bestFor": "Quiet",
+        "text": "Eco-lodges."
+      },
+      {
+        "name": "Camping",
+        "bestFor": "Budget",
+        "text": "Basic sites."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$20-40 per night"
+      },
+      {
+        "label": "Mid-range lodge",
+        "value": "US$90-180 per night"
+      },
+      {
+        "label": "Eco-lodge",
+        "value": "US$150-300 per night"
+      },
+      {
+        "label": "Park entry",
+        "value": "Around US$15 (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Rincon is close to Liberia.",
+    "options": [
+      {
+        "mode": "Drive from Liberia",
+        "text": "About 45 minutes.",
+        "detail": "Easy."
+      },
+      {
+        "mode": "Shuttle",
+        "text": "From Liberia airport.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Day tour",
+        "text": "From Tamarindo.",
+        "detail": "About 2 hours."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is useful.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Flexible.",
+        "detail": "Roads vary."
+      },
+      {
+        "mode": "Shuttle",
+        "text": "Lodges offer.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "On foot",
+        "text": "Trails.",
+        "detail": "Guided."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December-April",
+    "summary": "Dry season is best for trails.",
+    "seasons": [
+      {
+        "season": "December-April",
+        "rating": "best",
+        "text": "Dry."
+      },
+      {
+        "season": "May-June",
+        "rating": "good",
+        "text": "Green."
+      },
+      {
+        "season": "July-October",
+        "rating": "quiet",
+        "text": "Wet."
+      },
+      {
+        "season": "November",
+        "rating": "good",
+        "text": "Drying out."
+      }
+    ],
+    "avoid": "September and October."
+  },
+  "itinerary": {
+    "title": "Two days at Rincon",
+    "intro": "Volcano and springs.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Trails",
+        "summary": "Las Pailas",
+        "morning": "Hike",
+        "afternoon": "Hot springs",
+        "evening": "Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Adventure",
+        "summary": "Waterfall",
+        "morning": "Waterfall hike",
+        "afternoon": "Canopy",
+        "evening": "Departure"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Start early.",
+    "Bring rain gear.",
+    "Wear sturdy shoes.",
+    "Carry water.",
+    "Check volcano alerts.",
+    "Book lodges ahead.",
+    "Respect closures."
+  ],
+  "faq": [
+    {
+      "q": "Is the volcano safe?",
+      "a": "It is monitored."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Two days."
+    },
+    {
+      "q": "When is best?",
+      "a": "December to April."
+    },
+    {
+      "q": "Can I climb the summit?",
+      "a": "No."
+    },
+    {
+      "q": "Is it good for kids?",
+      "a": "Yes."
+    },
+    {
+      "q": "Are the springs natural?",
+      "a": "Yes."
+    }
+  ],
+  "related": [
+    "tamarindo-guanacaste",
+    "arenal-la-fortuna",
+    "monteverde"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

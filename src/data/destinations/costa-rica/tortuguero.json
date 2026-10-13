@@ -1,0 +1,338 @@
+{
+  "slug": "tortuguero",
+  "name": "Tortuguero",
+  "country": "costa-rica",
+  "region": "Limon Province, northern Caribbean coast",
+  "categories": [
+    "national-park",
+    "nature",
+    "coastal",
+    "off-the-beaten-path"
+  ],
+  "tagline": "Jungle canals and a nesting beach for sea turtles, reached only by boat or plane.",
+  "highlight": "Watching a green turtle haul itself ashore to nest at night.",
+  "shortDescription": "A remote Caribbean national park of rainforest canals, turtle nesting beaches, caimans, monkeys and birdlife.",
+  "metaDescription": "A Tortuguero travel guide: canal boat trips, turtle nesting season, hatchlings, wildlife, village, getting there by boat, where to stay, costs and a two-day plan.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "San Jose (SJO), with a small flight to Tortuguero (TTQ) or boat transfers",
+  "knownFor": "Turtles, canals, wildlife",
+  "budget": "US$100-220 per day",
+  "goodFor": "Wildlife, birders, nature lovers",
+  "coords": {
+    "lat": 10.542,
+    "lng": -83.5028
+  },
+  "image": {
+    "file": "File:A Tortuguero canal - Flickr - S. Rae.jpg",
+    "alt": "A jungle canal in Tortuguero National Park"
+  },
+  "intro": [
+    "Tortuguero National Park is a network of natural canals winding through lowland rainforest on Costa Rica's northern Caribbean coast. There are no roads, so everything arrives by boat or small plane, and the sense of remoteness is part of the appeal.",
+    "The park is best known for the turtles that nest on the beach: green turtles from July to October, leatherbacks from March to June, and hawksbills and loggerheads in smaller numbers. Guided night tours are strictly regulated. Day trips by boat reveal caimans, river otters, monkeys, sloths and a huge variety of birds.",
+    "The village of Tortuguero is small and relaxed, with a handful of restaurants and guesthouses. Rain is possible at any time, so bring a poncho. Most visitors come on a two- or three-day package that includes transport, lodging and guided activities."
+  ],
+  "whyVisit": {
+    "intro": "Tortuguero is a remote and rewarding wildlife destination.",
+    "points": [
+      {
+        "title": "Turtle nesting",
+        "text": "One of the best sites in the Caribbean."
+      },
+      {
+        "title": "Boat safaris",
+        "text": "Quiet canals and wildlife."
+      },
+      {
+        "title": "Rainforest",
+        "text": "Dense lowland jungle."
+      },
+      {
+        "title": "Birdlife",
+        "text": "Hundreds of species."
+      },
+      {
+        "title": "Remote setting",
+        "text": "No roads."
+      }
+    ]
+  },
+  "attractionsIntro": "Almost everything happens on the water or the beach.",
+  "attractions": [
+    {
+      "name": "Tortuguero canals",
+      "image": {
+        "file": "File:Tortuguero boat trip.JPG",
+        "alt": "A boat trip through the Tortuguero canals"
+      },
+      "text": "Narrow jungle waterways by boat.",
+      "tip": "Go at dawn."
+    },
+    {
+      "name": "Turtle nesting beach",
+      "image": {
+        "file": "File:Green Turtle Hatchlings (Chelonia mydas) (7087268043).jpg",
+        "alt": "Green turtle hatchlings heading to the sea"
+      },
+      "text": "Night tours with guides.",
+      "tip": "No lights or flash."
+    },
+    {
+      "name": "Tortuguero village",
+      "text": "Small waterfront village.",
+      "tip": "Visit in the afternoon."
+    },
+    {
+      "name": "Cerro Tortuguero",
+      "text": "A volcanic hill with views.",
+      "tip": "Climb early."
+    },
+    {
+      "name": "Turtle museum",
+      "text": "Learn about the conservation.",
+      "tip": "Short visit."
+    },
+    {
+      "name": "Parismina",
+      "text": "A quiet fishing village nearby.",
+      "tip": "Boat trip."
+    }
+  ],
+  "thingsToDoIntro": "Activities are guided and often early.",
+  "thingsToDo": [
+    {
+      "title": "Join a night turtle tour",
+      "text": "Seasonal.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Take a dawn canal trip",
+      "text": "Best for wildlife.",
+      "tip": "Wear a poncho."
+    },
+    {
+      "title": "Kayak the canals",
+      "text": "Quiet exploring.",
+      "tip": "Go with a guide."
+    },
+    {
+      "title": "Hike Cerro Tortuguero",
+      "text": "Views of the coast.",
+      "tip": "Start early."
+    },
+    {
+      "title": "Visit the village",
+      "text": "Local food and crafts.",
+      "tip": "Walk around."
+    },
+    {
+      "title": "Watch birds",
+      "text": "From a boat.",
+      "tip": "Bring binoculars."
+    }
+  ],
+  "foodIntro": "Caribbean flavours.",
+  "foods": [
+    {
+      "name": "Rice and beans",
+      "text": "Cooked in coconut milk.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Rondon",
+      "text": "Caribbean seafood stew.",
+      "whereToTry": "Village eateries."
+    },
+    {
+      "name": "Patacones",
+      "text": "Fried plantain.",
+      "whereToTry": "Snack stalls."
+    },
+    {
+      "name": "Fresh fish",
+      "text": "Local catch.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Coconut bread",
+      "text": "Sweet local bread.",
+      "whereToTry": "Bakeries."
+    }
+  ],
+  "accommodation": {
+    "intro": "Lodges often offer packages.",
+    "areas": [
+      {
+        "name": "Jungle lodges",
+        "bestFor": "Immersion",
+        "text": "Package stays."
+      },
+      {
+        "name": "Village",
+        "bestFor": "Value",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Beachfront",
+        "bestFor": "Quiet",
+        "text": "Small lodges."
+      },
+      {
+        "name": "Camping",
+        "bestFor": "Budget",
+        "text": "Basic."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Guesthouse",
+        "value": "US$30-70 per night"
+      },
+      {
+        "label": "Mid-range lodge",
+        "value": "US$100-200 per night"
+      },
+      {
+        "label": "All-inclusive lodge",
+        "value": "US$200-400 per night"
+      },
+      {
+        "label": "Park fee",
+        "value": "Around US$15-20 (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Tortuguero is reached by boat or plane.",
+    "options": [
+      {
+        "mode": "Bus and boat",
+        "text": "From San Jose via Cariari or Pavona.",
+        "detail": "About 4 to 5 hours."
+      },
+      {
+        "mode": "Fly",
+        "text": "From San Jose.",
+        "detail": "About 30 minutes."
+      },
+      {
+        "mode": "Package",
+        "text": "Includes transfers.",
+        "detail": "Most visitors."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Boats and walking.",
+    "options": [
+      {
+        "mode": "Boat",
+        "text": "The main way.",
+        "detail": "Included in tours."
+      },
+      {
+        "mode": "On foot",
+        "text": "In the village.",
+        "detail": "Compact."
+      },
+      {
+        "mode": "Kayak",
+        "text": "On the canals.",
+        "detail": "Rent locally."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "February-April",
+    "summary": "Drier months give easier travel; turtles nest from March to October.",
+    "seasons": [
+      {
+        "season": "February-April",
+        "rating": "best",
+        "text": "Drier, leatherbacks start nesting."
+      },
+      {
+        "season": "July-October",
+        "rating": "best",
+        "text": "Green turtle nesting."
+      },
+      {
+        "season": "May-June",
+        "rating": "good",
+        "text": "Wet but alive."
+      },
+      {
+        "season": "November-January",
+        "rating": "quiet",
+        "text": "Rain and fewer turtles."
+      }
+    ],
+    "avoid": "Rains can be heavy in November and December."
+  },
+  "itinerary": {
+    "title": "Two days in Tortuguero",
+    "intro": "Canals and turtles.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Boat",
+        "morning": "Arrive by boat",
+        "afternoon": "Village walk",
+        "evening": "Night turtle tour"
+      },
+      {
+        "day": 2,
+        "title": "Canals",
+        "summary": "Dawn",
+        "morning": "Dawn canal ride",
+        "afternoon": "Kayak",
+        "evening": "Departure"
+      }
+    ]
+  },
+  "tipsIntro": "Tips for the canals.",
+  "tips": [
+    "Bring insect repellent.",
+    "Pack a poncho.",
+    "Follow turtle guidelines.",
+    "Use only registered guides.",
+    "Bring cash.",
+    "Book turtle tours ahead.",
+    "Pack light for boats."
+  ],
+  "faq": [
+    {
+      "q": "When do turtles nest?",
+      "a": "March to October."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Moderate to high."
+    },
+    {
+      "q": "Can I self-guide?",
+      "a": "No, guides are required for turtles."
+    },
+    {
+      "q": "How do I get there?",
+      "a": "By boat or plane."
+    },
+    {
+      "q": "Is it rainy?",
+      "a": "Yes, often."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Two to three days."
+    }
+  ],
+  "related": [
+    "puerto-viejo-cahuita",
+    "corcovado-osa-peninsula",
+    "arenal-la-fortuna"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "slug": "tamarindo-guanacaste",
+  "name": "Tamarindo and Guanacaste",
+  "country": "costa-rica",
+  "region": "Guanacaste Province, north-west Pacific coast",
+  "categories": [
+    "coastal",
+    "nature",
+    "scenic"
+  ],
+  "tagline": "Golden surf beaches, dry-forest wildlife and sunsets on Costa Rica's sunniest coast.",
+  "highlight": "Catching a sunset surf lesson, then dinner on the sand.",
+  "shortDescription": "The most developed beach area of Costa Rica, with surfing at Tamarindo, quieter beaches like Conchal and Flamingo, turtle nesting and the Guanacaste dry forest.",
+  "metaDescription": "A Tamarindo and Guanacaste guide: surfing, Playa Conchal, Flamingo, Las Baulas turtle park, sunsets, dry-forest day trips, where to stay, costs and a four-day plan.",
+  "suggestedStay": "3-5 days",
+  "nearestAirport": "Liberia (LIR), about 1 to 1.5 hours by road",
+  "knownFor": "Surf, beaches, sunshine",
+  "budget": "US$90-200 per day",
+  "goodFor": "Surfers, couples, beach lovers",
+  "coords": {
+    "lat": 10.2993,
+    "lng": -85.8371
+  },
+  "image": {
+    "file": "File:Tamarindo beach-Guanacaste-Costa Rica.jpg",
+    "alt": "Tamarindo beach on the Guanacaste coast"
+  },
+  "intro": [
+    "Guanacaste is the sunniest and driest region of Costa Rica, with a long Pacific coast of beaches, rocky headlands and rolling dry forest. Tamarindo, once a sleepy fishing village, is now the main resort, with surf schools, restaurants and nightlife, while quieter beaches are within easy reach.",
+    "Surfing is the big draw, with consistent waves for beginners at Tamarindo and tougher breaks at Playa Grande and Playa Negra. Playa Conchal, a beach of crushed shells, and Flamingo and Brasilito are good for swimming and relaxing. From October to February, leatherback turtles nest at Las Baulas National Marine Park.",
+    "Inland, you can take horse rides, zipline over the forest or visit hot springs and waterfalls at Rincon de la Vieja. The dry season, from December to April, is hot and sunny, while the green season brings daily rain and fewer tourists."
+  ],
+  "whyVisit": {
+    "intro": "Tamarindo offers dependable sun, surf and sunsets.",
+    "points": [
+      {
+        "title": "Surf and beaches",
+        "text": "Waves for all levels."
+      },
+      {
+        "title": "Sunsets",
+        "text": "Over the Pacific."
+      },
+      {
+        "title": "Nightlife and restaurants",
+        "text": "Lively scene."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Monkeys, turtles and birds."
+      },
+      {
+        "title": "Easy access",
+        "text": "Close to Liberia airport."
+      }
+    ]
+  },
+  "attractionsIntro": "Beaches and activities line the coast.",
+  "attractions": [
+    {
+      "name": "Tamarindo beach",
+      "text": "The main beach with surf and restaurants.",
+      "tip": "Walk at sunset."
+    },
+    {
+      "name": "Playa Conchal",
+      "image": {
+        "file": "File:Playa Conchal sand.jpg",
+        "alt": "The crushed-shell sand of Playa Conchal"
+      },
+      "text": "Crushed-shell sand and clear water.",
+      "tip": "Great for snorkelling."
+    },
+    {
+      "name": "Playa Grande",
+      "text": "A surf and turtle nesting beach.",
+      "tip": "Visit with a guide at night."
+    },
+    {
+      "name": "Las Baulas National Marine Park",
+      "text": "Protects leatherback turtles.",
+      "tip": "Book a guided tour."
+    },
+    {
+      "name": "Playa Flamingo",
+      "text": "A pretty bay with calm water.",
+      "tip": "Take a boat tour."
+    },
+    {
+      "name": "Playa Avellanas",
+      "text": "A surf beach with a relaxed vibe.",
+      "tip": "Quiet in the week."
+    }
+  ],
+  "thingsToDoIntro": "Surf, swim and explore.",
+  "thingsToDo": [
+    {
+      "title": "Take a surf lesson",
+      "text": "At Tamarindo.",
+      "tip": "Book a morning class."
+    },
+    {
+      "title": "Snorkel at Conchal",
+      "text": "Clear shallows.",
+      "tip": "Bring your own gear."
+    },
+    {
+      "title": "Watch turtles nest",
+      "text": "Seasonal.",
+      "tip": "Go with a guide."
+    },
+    {
+      "title": "Join a sunset sail",
+      "text": "A catamaran trip.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Ride horses on the beach",
+      "text": "Early morning.",
+      "tip": "Choose a reputable stable."
+    },
+    {
+      "title": "Visit Rincon de la Vieja",
+      "text": "Day trip inland.",
+      "tip": "Start early."
+    }
+  ],
+  "foodIntro": "Fresh fish and international dining.",
+  "foods": [
+    {
+      "name": "Ceviche",
+      "text": "Raw fish.",
+      "whereToTry": "Beach bars."
+    },
+    {
+      "name": "Fish tacos",
+      "text": "Local catch.",
+      "whereToTry": "Beach restaurants."
+    },
+    {
+      "name": "Gallo pinto",
+      "text": "Rice and beans.",
+      "whereToTry": "Breakfast."
+    },
+    {
+      "name": "Casado",
+      "text": "Plate of the day.",
+      "whereToTry": "Sodas."
+    },
+    {
+      "name": "Fresh coconut",
+      "text": "Cold.",
+      "whereToTry": "Beach stands."
+    }
+  ],
+  "accommodation": {
+    "intro": "Tamarindo has plenty of choice.",
+    "areas": [
+      {
+        "name": "Tamarindo town",
+        "bestFor": "Nightlife",
+        "text": "Hotels and hostels."
+      },
+      {
+        "name": "Playa Langosta",
+        "bestFor": "Quiet",
+        "text": "Boutique stays."
+      },
+      {
+        "name": "Flamingo",
+        "bestFor": "Upscale",
+        "text": "Villas."
+      },
+      {
+        "name": "Playa Grande",
+        "bestFor": "Surf",
+        "text": "Cabins."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$20-45 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$90-180 per night"
+      },
+      {
+        "label": "Resort",
+        "value": "US$200-600 per night"
+      },
+      {
+        "label": "Surf lesson",
+        "value": "US$50-80"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Fly to Liberia.",
+    "options": [
+      {
+        "mode": "Fly to Liberia",
+        "text": "Direct flights from North America.",
+        "detail": "About 1 to 1.5 hours to Tamarindo."
+      },
+      {
+        "mode": "Shuttle",
+        "text": "From Liberia.",
+        "detail": "Door to door."
+      },
+      {
+        "mode": "Drive",
+        "text": "From San Jose, about 5 hours.",
+        "detail": "Long."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Taxis and shuttles.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Flexible.",
+        "detail": "Roads vary."
+      },
+      {
+        "mode": "Shuttle",
+        "text": "Between beaches.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Walking",
+        "text": "In town.",
+        "detail": "Compact."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December-April",
+    "summary": "Dry season is hot and sunny, perfect for the beach.",
+    "seasons": [
+      {
+        "season": "December-April",
+        "rating": "best",
+        "text": "Dry and hot."
+      },
+      {
+        "season": "May-June",
+        "rating": "good",
+        "text": "Green season starts."
+      },
+      {
+        "season": "July-October",
+        "rating": "quiet",
+        "text": "Wetter but surf improves."
+      },
+      {
+        "season": "November",
+        "rating": "good",
+        "text": "Drying out."
+      }
+    ],
+    "avoid": "September and October, the wettest."
+  },
+  "itinerary": {
+    "title": "Four days in Tamarindo",
+    "intro": "Surf and sun.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Settle",
+        "morning": "Beach walk",
+        "afternoon": "Sunset",
+        "evening": "Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Surf",
+        "summary": "Lessons",
+        "morning": "Surf lesson",
+        "afternoon": "Relax",
+        "evening": "Nightlife"
+      },
+      {
+        "day": 3,
+        "title": "Conchal",
+        "summary": "Snorkelling",
+        "morning": "Playa Conchal",
+        "afternoon": "Flamingo",
+        "evening": "Sunset sail"
+      },
+      {
+        "day": 4,
+        "title": "Inland",
+        "summary": "Day trip",
+        "morning": "Rincon de la Vieja",
+        "afternoon": "Hot springs",
+        "evening": "Departure"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Book surf lessons early.",
+    "Use sun protection.",
+    "Bring reef-safe sunscreen.",
+    "Watch for rip currents.",
+    "Respect turtle nesting rules.",
+    "Carry cash for small shops.",
+    "Book dinner in peak season."
+  ],
+  "faq": [
+    {
+      "q": "Is Tamarindo good for beginners?",
+      "a": "Yes."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Three to five days."
+    },
+    {
+      "q": "When is best?",
+      "a": "December to April."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Higher than inland."
+    },
+    {
+      "q": "Is the water warm?",
+      "a": "Yes."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "With common sense."
+    }
+  ],
+  "related": [
+    "rincon-de-la-vieja",
+    "santa-teresa-nicoya",
+    "arenal-la-fortuna"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

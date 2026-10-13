@@ -1,0 +1,346 @@
+{
+  "slug": "puerto-viejo-cahuita",
+  "name": "Puerto Viejo and Cahuita",
+  "country": "costa-rica",
+  "region": "Limon Province, Caribbean coast",
+  "categories": [
+    "coastal",
+    "nature",
+    "cultural",
+    "national-park"
+  ],
+  "tagline": "A laid-back Caribbean coast of reggae, Afro-Caribbean culture, coral reefs and jungle beaches.",
+  "highlight": "Cycling along the coast to a black-sand beach with howler monkeys overhead.",
+  "shortDescription": "A relaxed stretch of coast with Cahuita National Park, Punta Uva, surf at Salsa Brava, chocolate tours and Afro-Caribbean food.",
+  "metaDescription": "A Puerto Viejo and Cahuita guide: Cahuita National Park, Punta Uva, Salsa Brava, Jaguar Rescue Center, chocolate, Caribbean food, where to stay and a three-day plan.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "San Jose (SJO), about 4.5 hours; Limon (LIO), about 1.5 hours",
+  "knownFor": "Beaches, culture, wildlife",
+  "budget": "US$60-140 per day",
+  "goodFor": "Backpackers, surfers, culture seekers",
+  "coords": {
+    "lat": 9.6598,
+    "lng": -82.7554
+  },
+  "image": {
+    "file": "File:Costa Rica - Puerto Viejo de Talamanca (53996236712).jpg",
+    "alt": "The beach at Puerto Viejo de Talamanca"
+  },
+  "intro": [
+    "Costa Rica's Caribbean coast has a different rhythm from the Pacific side. Afro-Caribbean culture, reggae, coconut-scented cooking and a relaxed pace define the area around Puerto Viejo de Talamanca and Cahuita, where rainforest runs to the beach.",
+    "Cahuita National Park has a coral reef, a long beach and a forest trail where sloths, monkeys and raccoons are easily seen. South of Puerto Viejo, a road leads past Playa Cocles, Playa Chiquita and Punta Uva, with beautiful stretches of sand. Surfers head for Salsa Brava, one of the country's most powerful waves.",
+    "There are also chocolate farm tours, a wildlife rescue centre, and indigenous Bribri cultural visits. The area is easy to explore by bike, and has a bohemian, budget-friendly feel. Rain is possible any time of year, but the dry spells fall at different times from the Pacific side."
+  ],
+  "whyVisit": {
+    "intro": "This coast is for slow, culture-rich travel.",
+    "points": [
+      {
+        "title": "Caribbean culture",
+        "text": "Food, music and language."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Sloths, monkeys and more."
+      },
+      {
+        "title": "Beaches",
+        "text": "Quiet and beautiful."
+      },
+      {
+        "title": "Surf",
+        "text": "Salsa Brava."
+      },
+      {
+        "title": "Chocolate and indigenous culture",
+        "text": "Bribri visits."
+      }
+    ]
+  },
+  "attractionsIntro": "The coast has beaches, parks and cultural stops.",
+  "attractions": [
+    {
+      "name": "Cahuita National Park",
+      "image": {
+        "file": "File:Cahuita national park, Costa Rica.jpg",
+        "alt": "A beach in Cahuita National Park"
+      },
+      "text": "A coral reef and forest trail.",
+      "tip": "Entrance by donation."
+    },
+    {
+      "name": "Punta Uva",
+      "image": {
+        "file": "File:Puerto Viejo de Talamanca, Costa Rica 2012.JPG",
+        "alt": "The coast near Puerto Viejo de Talamanca"
+      },
+      "text": "A beautiful beach south of town.",
+      "tip": "Calm swimming."
+    },
+    {
+      "name": "Playa Cocles",
+      "text": "A surf beach.",
+      "tip": "Strong currents."
+    },
+    {
+      "name": "Salsa Brava",
+      "text": "A famous surf break.",
+      "tip": "For experienced surfers."
+    },
+    {
+      "name": "Jaguar Rescue Center",
+      "text": "A wildlife rescue and rehab centre.",
+      "tip": "Book a tour."
+    },
+    {
+      "name": "Gandoca-Manzanillo Wildlife Refuge",
+      "text": "Quiet coast and kayaking.",
+      "tip": "Take a tour."
+    }
+  ],
+  "thingsToDoIntro": "Easy-going days.",
+  "thingsToDo": [
+    {
+      "title": "Bike the coast",
+      "text": "From Puerto Viejo to Punta Uva.",
+      "tip": "Rent bikes in town."
+    },
+    {
+      "title": "Snorkel at Cahuita",
+      "text": "Coral reef.",
+      "tip": "Tour only."
+    },
+    {
+      "title": "Visit a chocolate farm",
+      "text": "Bean to bar.",
+      "tip": "Taste."
+    },
+    {
+      "title": "Surf the waves",
+      "text": "Cocles and Salsa Brava.",
+      "tip": "Check conditions."
+    },
+    {
+      "title": "Walk Cahuita trail",
+      "text": "Wildlife spotting.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Enjoy live reggae",
+      "text": "In town.",
+      "tip": "Evening."
+    }
+  ],
+  "foodIntro": "Caribbean cooking.",
+  "foods": [
+    {
+      "name": "Rice and beans",
+      "text": "Coconut milk.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Rondon",
+      "text": "Seafood stew.",
+      "whereToTry": "Village eateries."
+    },
+    {
+      "name": "Patí",
+      "text": "Spiced pastry.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Pan bon",
+      "text": "Spiced bread.",
+      "whereToTry": "Bakeries."
+    },
+    {
+      "name": "Fresh seafood",
+      "text": "Grilled lobster.",
+      "whereToTry": "Beachfront."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose the town or the beach.",
+    "areas": [
+      {
+        "name": "Puerto Viejo town",
+        "bestFor": "Nightlife",
+        "text": "Hostels and hotels."
+      },
+      {
+        "name": "Playa Cocles",
+        "bestFor": "Surf",
+        "text": "Cabins."
+      },
+      {
+        "name": "Punta Uva",
+        "bestFor": "Quiet",
+        "text": "Beach lodges."
+      },
+      {
+        "name": "Cahuita",
+        "bestFor": "Value",
+        "text": "Guesthouses."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$15-35 per night"
+      },
+      {
+        "label": "Mid-range cabin",
+        "value": "US$60-130 per night"
+      },
+      {
+        "label": "Boutique lodge",
+        "value": "US$130-250 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$6-20 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The coast is reached by road.",
+    "options": [
+      {
+        "mode": "Bus or shuttle from San Jose",
+        "text": "About 4.5 hours.",
+        "detail": "Direct."
+      },
+      {
+        "mode": "Drive",
+        "text": "About 4 hours.",
+        "detail": "Scenic."
+      },
+      {
+        "mode": "Fly to Limon",
+        "text": "Then drive.",
+        "detail": "Occasional flights."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Bikes and buses.",
+    "options": [
+      {
+        "mode": "Bicycle",
+        "text": "Along the coast.",
+        "detail": "Rent in town."
+      },
+      {
+        "mode": "Bus",
+        "text": "Between towns.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Short trips.",
+        "detail": "Agree prices."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "February-April, September-October",
+    "summary": "Unlike the Pacific, the Caribbean side has dry spells in September and October and February to April.",
+    "seasons": [
+      {
+        "season": "February-April",
+        "rating": "best",
+        "text": "Drier."
+      },
+      {
+        "season": "September-October",
+        "rating": "best",
+        "text": "Calm and dry."
+      },
+      {
+        "season": "May-August",
+        "rating": "good",
+        "text": "Mixed."
+      },
+      {
+        "season": "November-January",
+        "rating": "quiet",
+        "text": "Wetter."
+      }
+    ],
+    "avoid": "December and January, when rains can be heavy."
+  },
+  "itinerary": {
+    "title": "Three days on the Caribbean coast",
+    "intro": "Beach, park and culture.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Puerto Viejo",
+        "morning": "Bike",
+        "afternoon": "Beach",
+        "evening": "Dinner and reggae"
+      },
+      {
+        "day": 2,
+        "title": "Cahuita",
+        "summary": "Park",
+        "morning": "Cahuita trail",
+        "afternoon": "Snorkel",
+        "evening": "Sunset"
+      },
+      {
+        "day": 3,
+        "title": "Culture",
+        "summary": "Chocolate",
+        "morning": "Chocolate tour",
+        "afternoon": "Punta Uva",
+        "evening": "Departure"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Bring insect repellent.",
+    "Watch for strong currents.",
+    "Carry cash for small shops.",
+    "Rent a bike.",
+    "Lock your belongings.",
+    "Respect indigenous communities.",
+    "Book ahead for holidays."
+  ],
+  "faq": [
+    {
+      "q": "Is the Caribbean safe?",
+      "a": "Yes with care."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Three to four days."
+    },
+    {
+      "q": "When is best?",
+      "a": "February to April."
+    },
+    {
+      "q": "Can I swim?",
+      "a": "Yes at calm beaches."
+    },
+    {
+      "q": "Is it touristy?",
+      "a": "Less than the Pacific."
+    },
+    {
+      "q": "Is the food different?",
+      "a": "Yes, Caribbean."
+    }
+  ],
+  "related": [
+    "tortuguero",
+    "san-jose",
+    "corcovado-osa-peninsula"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

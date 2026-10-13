@@ -1,0 +1,334 @@
+{
+  "slug": "san-jose",
+  "name": "San Jose",
+  "country": "costa-rica",
+  "region": "San Jose Province, Central Valley",
+  "categories": [
+    "capital-city",
+    "major-city",
+    "cultural",
+    "historic"
+  ],
+  "tagline": "The compact, welcoming capital, with museums, markets, coffee and volcanoes within a day's reach.",
+  "highlight": "Sipping coffee at a market, then visiting the gold museum under the National Theatre's dome.",
+  "shortDescription": "Costa Rica's capital and transport hub, with the National Theatre, gold museum, central market and day trips to volcanoes and coffee farms.",
+  "metaDescription": "A San Jose travel guide: National Theatre, Gold Museum, Central Market, Barrio Escalante, Poas and Irazu volcanoes, coffee tours, where to stay, safety and a two-day plan.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Juan Santamaria International (SJO), about 25 minutes",
+  "knownFor": "Museums, coffee, volcano day trips",
+  "budget": "US$60-140 per day",
+  "goodFor": "Gateway stays, culture, coffee lovers",
+  "coords": {
+    "lat": 9.9281,
+    "lng": -84.0907
+  },
+  "image": {
+    "file": "File:National Theatre of Costa Rica.jpg",
+    "alt": "The National Theatre of Costa Rica in San Jose"
+  },
+  "intro": [
+    "San Jose is Costa Rica's capital and hub, a busy city of around two million people in the Central Valley. It is not a classic beauty, but it has a handful of excellent sights, a good food scene and a mild climate. Most visitors pass through briefly, and a day or two is enough to see the highlights.",
+    "The National Theatre, built in 1897 with coffee money, is the most elegant building, and the nearby Pre-Columbian Gold Museum and Jade Museum hold the country's archaeological treasures. The Central Market is a warren of food stalls, and Barrio Escalante is the trendy district for restaurants and craft beer.",
+    "The city is also a base for day trips to Poas and Irazu volcanoes, coffee plantations, and the colonial town of Cartago. Keep an eye on belongings in the centre, and use taxis after dark."
+  ],
+  "whyVisit": {
+    "intro": "San Jose is a useful, pleasant base for a first or last day.",
+    "points": [
+      {
+        "title": "Culture",
+        "text": "Theatre and museums."
+      },
+      {
+        "title": "Coffee",
+        "text": "Plantations nearby."
+      },
+      {
+        "title": "Volcanoes",
+        "text": "Poas and Irazu day trips."
+      },
+      {
+        "title": "Food scene",
+        "text": "Barrio Escalante."
+      },
+      {
+        "title": "Transport hub",
+        "text": "Flights and buses."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sights are in the central district.",
+  "attractions": [
+    {
+      "name": "National Theatre",
+      "image": {
+        "file": "File:National Theatre Provincia de San José, San José, Costa Rica - panoramio.jpg",
+        "alt": "The National Theatre in San Jose"
+      },
+      "text": "A neo-classical masterpiece.",
+      "tip": "Take a tour or have coffee in the cafe."
+    },
+    {
+      "name": "Gold Museum",
+      "text": "Pre-Columbian gold artefacts.",
+      "tip": "Allow an hour."
+    },
+    {
+      "name": "Jade Museum",
+      "text": "A big collection of jade.",
+      "tip": "Modern building."
+    },
+    {
+      "name": "Central Market",
+      "text": "Food stalls and crafts.",
+      "tip": "Go at lunch."
+    },
+    {
+      "name": "Barrio Escalante",
+      "text": "Restaurants and bars.",
+      "tip": "Go in the evening."
+    },
+    {
+      "name": "La Sabana Park",
+      "text": "A large green park.",
+      "tip": "A morning walk."
+    }
+  ],
+  "thingsToDoIntro": "A day trip is the best use of time.",
+  "thingsToDo": [
+    {
+      "title": "Visit Poas Volcano",
+      "text": "A crater lake.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Tour a coffee farm",
+      "text": "Taste beans.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Eat at the market",
+      "text": "Casado and snacks.",
+      "tip": "Try the ice cream."
+    },
+    {
+      "title": "Take a food tour",
+      "text": "In Escalante.",
+      "tip": "Try craft beer."
+    },
+    {
+      "title": "See the Irazu crater",
+      "text": "Colourful lake.",
+      "tip": "Combine with Cartago."
+    },
+    {
+      "title": "Visit Cartago",
+      "text": "Basilica and ruins.",
+      "tip": "Short trip."
+    }
+  ],
+  "foodIntro": "Tico food is hearty.",
+  "foods": [
+    {
+      "name": "Casado",
+      "text": "Plate of the day.",
+      "whereToTry": "Local sodas."
+    },
+    {
+      "name": "Gallo pinto",
+      "text": "Rice and beans.",
+      "whereToTry": "Breakfast."
+    },
+    {
+      "name": "Olla de carne",
+      "text": "Beef soup.",
+      "whereToTry": "Traditional restaurants."
+    },
+    {
+      "name": "Chifrijo",
+      "text": "Beans, rice and pork.",
+      "whereToTry": "Bars."
+    },
+    {
+      "name": "Coffee",
+      "text": "Highland beans.",
+      "whereToTry": "Cafes."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in safe central neighbourhoods.",
+    "areas": [
+      {
+        "name": "Barrio Escalante",
+        "bestFor": "Food",
+        "text": "Boutique hotels."
+      },
+      {
+        "name": "Barrio Amon",
+        "bestFor": "Historic",
+        "text": "Mansion hotels."
+      },
+      {
+        "name": "Near the airport",
+        "bestFor": "Convenience",
+        "text": "Airport hotels."
+      },
+      {
+        "name": "La Sabana",
+        "bestFor": "Quiet",
+        "text": "Mid-range hotels."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$15-30 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$70-130 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$130-250 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$6-20 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "San Jose is the main gateway.",
+    "options": [
+      {
+        "mode": "Fly to SJO",
+        "text": "Direct flights from North America.",
+        "detail": "About 25 minutes to centre."
+      },
+      {
+        "mode": "Bus",
+        "text": "From across the country.",
+        "detail": "Terminals around town."
+      },
+      {
+        "mode": "Shuttle",
+        "text": "To major destinations.",
+        "detail": "Book ahead."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Taxis and walking.",
+    "options": [
+      {
+        "mode": "Taxi",
+        "text": "Official red cabs or apps.",
+        "detail": "Safe at night."
+      },
+      {
+        "mode": "Walking",
+        "text": "In the centre.",
+        "detail": "Watch belongings."
+      },
+      {
+        "mode": "Bus",
+        "text": "Local lines.",
+        "detail": "Crowded."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December-April",
+    "summary": "The dry season is best.",
+    "seasons": [
+      {
+        "season": "December-April",
+        "rating": "best",
+        "text": "Dry and sunny."
+      },
+      {
+        "season": "May-June",
+        "rating": "good",
+        "text": "Green."
+      },
+      {
+        "season": "July-October",
+        "rating": "quiet",
+        "text": "Rainy."
+      },
+      {
+        "season": "November",
+        "rating": "good",
+        "text": "Drying out."
+      }
+    ],
+    "avoid": "September and October for wet afternoons."
+  },
+  "itinerary": {
+    "title": "Two days in San Jose",
+    "intro": "City and volcano.",
+    "days": [
+      {
+        "day": 1,
+        "title": "City",
+        "summary": "Museums",
+        "morning": "National Theatre",
+        "afternoon": "Gold Museum and market",
+        "evening": "Barrio Escalante dinner"
+      },
+      {
+        "day": 2,
+        "title": "Volcano",
+        "summary": "Day trip",
+        "morning": "Poas Volcano",
+        "afternoon": "Coffee farm",
+        "evening": "Departure"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Keep valuables hidden.",
+    "Use taxis at night.",
+    "Visit Poas early.",
+    "Book tours ahead.",
+    "Carry small bills.",
+    "Avoid isolated areas.",
+    "Check for volcano closures."
+  ],
+  "faq": [
+    {
+      "q": "Is San Jose safe?",
+      "a": "With care."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "One to two days."
+    },
+    {
+      "q": "Is it worth a visit?",
+      "a": "For a day."
+    },
+    {
+      "q": "Where to stay?",
+      "a": "Escalante or Amon."
+    },
+    {
+      "q": "Can I visit volcanoes?",
+      "a": "Yes, Poas and Irazu."
+    },
+    {
+      "q": "Is it walkable?",
+      "a": "The centre is."
+    }
+  ],
+  "related": [
+    "monteverde",
+    "arenal-la-fortuna",
+    "manuel-antonio"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

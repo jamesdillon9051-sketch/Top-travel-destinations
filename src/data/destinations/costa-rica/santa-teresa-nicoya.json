@@ -1,0 +1,350 @@
+{
+  "slug": "santa-teresa-nicoya",
+  "name": "Santa Teresa and the Nicoya Peninsula",
+  "country": "costa-rica",
+  "region": "Puntarenas Province, Nicoya Peninsula",
+  "categories": [
+    "coastal",
+    "nature",
+    "scenic",
+    "off-the-beaten-path"
+  ],
+  "tagline": "A laid-back surf-and-yoga coast of long beaches, jungle and a Blue Zone way of life.",
+  "highlight": "Surfing at sunrise, then eating fresh fish on the sand.",
+  "shortDescription": "A rugged southern Nicoya coast with Santa Teresa, Malpais, Montezuma, waterfalls and some of the best surf in Costa Rica.",
+  "metaDescription": "A Santa Teresa and Nicoya guide: surf, yoga, Malpais, Montezuma waterfalls, Cabo Blanco, Blue Zone culture, where to stay, costs and a four-day plan.",
+  "suggestedStay": "3-5 days",
+  "nearestAirport": "Tambor (TMU) or San Jose (SJO), with a ferry from Puntarenas",
+  "knownFor": "Surf, yoga, beaches",
+  "budget": "US$80-180 per day",
+  "goodFor": "Surfers, yoga fans, couples",
+  "coords": {
+    "lat": 9.646,
+    "lng": -85.167
+  },
+  "image": {
+    "file": "File:Fishermen at Sunset, Playa Santa Teresa, Costa Rica.jpg",
+    "alt": "Fishermen at sunset on Playa Santa Teresa"
+  },
+  "intro": [
+    "Santa Teresa sits on the southern tip of the Nicoya Peninsula, a long stretch of beach backed by jungle with famous surf and a bohemian crowd. Dirt roads, small hotels and open-air restaurants keep a relaxed feel, though it has become more upmarket in recent years.",
+    "Waves attract surfers from around the world, with breaks for all levels. The area also offers yoga, horse riding, and nearby sights such as Cabo Blanco Absolute Nature Reserve, Costa Rica's first protected area, and the waterfalls of Montezuma. Sunsets are spectacular.",
+    "Nicoya is also known as one of the world's Blue Zones, where people live unusually long lives. The pace is gentle, and dust is part of the experience in the dry season. Getting here is a longer journey, but many visitors say it is worth it."
+  ],
+  "whyVisit": {
+    "intro": "Santa Teresa suits those looking for surf and a slow pace.",
+    "points": [
+      {
+        "title": "Surf",
+        "text": "Consistent waves."
+      },
+      {
+        "title": "Yoga and wellness",
+        "text": "Many retreats."
+      },
+      {
+        "title": "Nature reserves",
+        "text": "Cabo Blanco."
+      },
+      {
+        "title": "Waterfalls",
+        "text": "Montezuma."
+      },
+      {
+        "title": "Sunsets",
+        "text": "Over the ocean."
+      }
+    ]
+  },
+  "attractionsIntro": "The beaches and reserves define the area.",
+  "attractions": [
+    {
+      "name": "Playa Santa Teresa",
+      "image": {
+        "file": "File:Plage de Santa Teresa.jpg",
+        "alt": "Playa Santa Teresa"
+      },
+      "text": "A long surf beach.",
+      "tip": "Watch rip currents."
+    },
+    {
+      "name": "Playa Hermosa",
+      "text": "A quieter beach nearby.",
+      "tip": "Great sunsets."
+    },
+    {
+      "name": "Cabo Blanco Reserve",
+      "text": "A forest and coast reserve.",
+      "tip": "Hike in the morning."
+    },
+    {
+      "name": "Montezuma Waterfalls",
+      "text": "Pools and cascades.",
+      "tip": "Go early."
+    },
+    {
+      "name": "Malpais",
+      "text": "A rocky coast with surf.",
+      "tip": "Take a walk."
+    },
+    {
+      "name": "Tortuga Island",
+      "text": "A boat trip from Montezuma.",
+      "tip": "Snorkel."
+    }
+  ],
+  "thingsToDoIntro": "Surf, yoga and walks.",
+  "thingsToDo": [
+    {
+      "title": "Surf lessons",
+      "text": "For all levels.",
+      "tip": "Book morning classes."
+    },
+    {
+      "title": "Practise yoga",
+      "text": "Many studios.",
+      "tip": "Drop in."
+    },
+    {
+      "title": "Hike to waterfalls",
+      "text": "Montezuma.",
+      "tip": "Wear water shoes."
+    },
+    {
+      "title": "Take a boat trip",
+      "text": "To Tortuga Island.",
+      "tip": "Snorkel."
+    },
+    {
+      "title": "Ride a horse",
+      "text": "On the beach.",
+      "tip": "Book a guide."
+    },
+    {
+      "title": "Watch the sunset",
+      "text": "With a drink.",
+      "tip": "Every evening."
+    }
+  ],
+  "foodIntro": "Fresh fish and healthy menus.",
+  "foods": [
+    {
+      "name": "Ceviche",
+      "text": "Raw fish.",
+      "whereToTry": "Beachfront."
+    },
+    {
+      "name": "Fish tacos",
+      "text": "Local catch.",
+      "whereToTry": "Beach cafes."
+    },
+    {
+      "name": "Smoothie bowls",
+      "text": "Healthy.",
+      "whereToTry": "Cafes."
+    },
+    {
+      "name": "Casado",
+      "text": "Plate of the day.",
+      "whereToTry": "Sodas."
+    },
+    {
+      "name": "Fresh coconut",
+      "text": "Cold.",
+      "whereToTry": "Beach stands."
+    }
+  ],
+  "accommodation": {
+    "intro": "Santa Teresa has options.",
+    "areas": [
+      {
+        "name": "Beachfront",
+        "bestFor": "Surf",
+        "text": "Cabins."
+      },
+      {
+        "name": "Jungle lodges",
+        "bestFor": "Quiet",
+        "text": "Treehouses."
+      },
+      {
+        "name": "Malpais",
+        "bestFor": "Value",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Montezuma",
+        "bestFor": "Hippie",
+        "text": "Hostels."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$20-40 per night"
+      },
+      {
+        "label": "Mid-range cabin",
+        "value": "US$90-180 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$180-400 per night"
+      },
+      {
+        "label": "Surf lesson",
+        "value": "US$50-80"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Nicoya Peninsula is remote.",
+    "options": [
+      {
+        "mode": "Ferry from Puntarenas",
+        "text": "About 1.5 hours plus drive.",
+        "detail": "Scenic."
+      },
+      {
+        "mode": "Fly to Tambor",
+        "text": "Then drive.",
+        "detail": "Short flights."
+      },
+      {
+        "mode": "Shuttle",
+        "text": "From San Jose.",
+        "detail": "About 5 hours."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Dirt roads.",
+    "options": [
+      {
+        "mode": "ATV or buggy",
+        "text": "Common.",
+        "detail": "Rent locally."
+      },
+      {
+        "mode": "Walking",
+        "text": "On the beach.",
+        "detail": "Easy."
+      },
+      {
+        "mode": "Shuttle",
+        "text": "Between towns.",
+        "detail": "Book ahead."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December-April",
+    "summary": "Dry season brings sunshine, but it is dusty.",
+    "seasons": [
+      {
+        "season": "December-April",
+        "rating": "best",
+        "text": "Dry and sunny."
+      },
+      {
+        "season": "May-June",
+        "rating": "good",
+        "text": "Green."
+      },
+      {
+        "season": "July-October",
+        "rating": "quiet",
+        "text": "Wet."
+      },
+      {
+        "season": "November",
+        "rating": "good",
+        "text": "Drying out."
+      }
+    ],
+    "avoid": "September and October."
+  },
+  "itinerary": {
+    "title": "Four days in Santa Teresa",
+    "intro": "Surf and rest.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Settle",
+        "morning": "Beach walk",
+        "afternoon": "Surf",
+        "evening": "Sunset"
+      },
+      {
+        "day": 2,
+        "title": "Surf",
+        "summary": "Lessons",
+        "morning": "Surf",
+        "afternoon": "Yoga",
+        "evening": "Dinner"
+      },
+      {
+        "day": 3,
+        "title": "Montezuma",
+        "summary": "Falls",
+        "morning": "Waterfalls",
+        "afternoon": "Cabo Blanco",
+        "evening": "Return"
+      },
+      {
+        "day": 4,
+        "title": "Rest",
+        "summary": "Free",
+        "morning": "Beach day",
+        "afternoon": "Sunset",
+        "evening": "Departure"
+      }
+    ]
+  },
+  "tipsIntro": "Tips.",
+  "tips": [
+    "Bring cash.",
+    "Wear reef shoes.",
+    "Bring sunscreen.",
+    "Watch for rip currents.",
+    "Book ahead in peak season.",
+    "Use reputable surf schools.",
+    "Expect dust in dry season."
+  ],
+  "faq": [
+    {
+      "q": "Is it good for beginners?",
+      "a": "Yes."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Three to five days."
+    },
+    {
+      "q": "When is best?",
+      "a": "December to April."
+    },
+    {
+      "q": "Is it remote?",
+      "a": "Yes."
+    },
+    {
+      "q": "Is it expensive?",
+      "a": "Moderate to high."
+    },
+    {
+      "q": "Can I do yoga?",
+      "a": "Yes."
+    }
+  ],
+  "related": [
+    "tamarindo-guanacaste",
+    "manuel-antonio",
+    "corcovado-osa-peninsula"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

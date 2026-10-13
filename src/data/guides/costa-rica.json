@@ -1,0 +1,132 @@
+{
+  "country": "costa-rica",
+  "title": "The Complete Costa Rica Travel Guide",
+  "subtitle": "How the country divides into volcanoes, cloud forests, Pacific and Caribbean coasts, how to choose between the ten destinations, when to go, what it costs and three routes that work.",
+  "summary": "Costa Rica packs volcanoes, rainforest, wildlife and two coastlines into a country the size of a small US state. This guide explains how the regions divide, how to choose between the ten destinations, how to travel, when to go, what it costs and three routes that work.",
+  "readingTime": "12 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Is Costa Rica expensive?",
+      "a": "It is the priciest country in Central America, but a budget traveller can manage on US$50-80 a day with hostels, local sodas and buses."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "December to April is the dry season and the most popular. May to November is the green season, with cheaper prices and quieter sites."
+    },
+    {
+      "q": "Do I need to rent a car?",
+      "a": "It gives flexibility, but shuttles and buses link the main tourist areas. Roads can be rough, so choose a 4x4 for remote areas."
+    },
+    {
+      "q": "Is Costa Rica safe?",
+      "a": "Generally yes, though petty theft is common in tourist areas. Take care in San Jose at night and in the sea, where rip currents are strong."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-costa-rica-divides",
+      "title": "How Costa Rica divides",
+      "navLabel": "The regions",
+      "body": [
+        "Costa Rica is small, and a visitor can think of it in four zones.",
+        "**The Central Valley.** [[san-jose|San Jose]] is the capital and gateway, with volcanoes and coffee farms nearby.",
+        "**The northern lowlands and highlands.** [[arenal-la-fortuna|Arenal]], [[monteverde|Monteverde]] and [[rincon-de-la-vieja|Rincon de la Vieja]] offer volcanoes, hot springs and cloud forest.",
+        "**The Pacific coast.** [[tamarindo-guanacaste|Tamarindo]], [[santa-teresa-nicoya|Santa Teresa]], [[manuel-antonio|Manuel Antonio]] and [[corcovado-osa-peninsula|Corcovado]] run from the sunny north to the wild south.",
+        "**The Caribbean coast.** [[tortuguero|Tortuguero]] and [[puerto-viejo-cahuita|Puerto Viejo and Cahuita]] have canals, turtles and Afro-Caribbean culture."
+      ],
+      "note": "Most first trips combine one volcano or cloud forest area with one beach area."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[san-jose"
+        },
+        {
+          "title": "If you love wildlife",
+          "text": "[[tortuguero"
+        },
+        {
+          "title": "If you love beaches and surf",
+          "text": "[[tamarindo-guanacaste"
+        },
+        {
+          "title": "If you love adventure",
+          "text": "[[arenal-la-fortuna"
+        },
+        {
+          "title": "If you love culture and coffee",
+          "text": "[[san-jose"
+        },
+        {
+          "title": "If you want remote nature",
+          "text": "[[corcovado-osa-peninsula"
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around",
+      "navLabel": "Getting around",
+      "body": [
+        "Roads are improving but can be slow and winding. A drive of 100 km can take three hours.",
+        "Private shuttles link the main tourist hubs and are a good alternative to renting a car.",
+        "Public buses cover the whole country cheaply and are slow. Domestic flights with Sansa link San Jose with several beach towns.",
+        "Boat transfers are needed for Tortuguero and some remote lodges. Ferries cross the Gulf of Nicoya."
+      ],
+      "note": "A 4x4 is useful for Monteverde, the Osa Peninsula and the Nicoya coast."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "The dry season, December to April, is sunny on the Pacific side and the busiest time. Book ahead for Christmas and Easter.",
+        "May to November is the green season. Mornings are often sunny, with rain in the afternoon, and prices drop.",
+        "The Caribbean side has a different pattern, with the driest weather in February to April and September to October.",
+        "Turtles nest at Tortuguero from March to October, and humpback whales visit the Pacific coast from July to October and December to March."
+      ],
+      "note": "Check the microclimate of each area, since Costa Rica varies a lot."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Costa Rica is more expensive than neighbouring countries. A budget traveller can manage on US$50-80 a day, a mid-range traveller on US$120-200 and a comfortable one on US$250 and up.",
+        "National park fees, tours and transport add up, so plan a budget for activities.",
+        "Cards are widely accepted, and US dollars are often taken. The local currency is the colon.",
+        "Take care of valuables, avoid leaving belongings in rental cars, and swim only at beaches with lifeguards or calm water."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: volcano and beach",
+          "text": "Two nights in [[san-jose",
+          "tip": "San Jose]] and [[arenal-la-fortuna"
+        },
+        {
+          "title": "Ten days: add cloud forest",
+          "text": "One week route plus two nights in [[monteverde",
+          "tip": "Monteverde]]."
+        },
+        {
+          "title": "Two weeks: the grand tour",
+          "text": "The itinerary on the country page, covering the Caribbean, volcanoes and the Pacific coast.",
+          "tip": "Add [[corcovado-osa-peninsula"
+        }
+      ]
+    }
+  ]
+}

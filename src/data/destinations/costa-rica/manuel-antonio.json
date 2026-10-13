@@ -1,0 +1,338 @@
+{
+  "slug": "manuel-antonio",
+  "name": "Manuel Antonio",
+  "country": "costa-rica",
+  "region": "Puntarenas Province, central Pacific coast",
+  "categories": [
+    "national-park",
+    "coastal",
+    "nature",
+    "scenic"
+  ],
+  "tagline": "A compact national park of rainforest, white beaches, monkeys and sloths on the Pacific.",
+  "highlight": "Spotting a sloth overhead, then swimming at a hidden beach.",
+  "shortDescription": "Costa Rica's most visited park, with beaches, forest trails, wildlife, rafting nearby and views from the hills of Quepos.",
+  "metaDescription": "A Manuel Antonio travel guide: the national park, beaches, sloths and monkeys, guided walks, sunset spots, where to stay, tickets, costs and a two-day plan.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "San Jose (SJO), about 3 hours; Quepos (XQP) with small flights",
+  "knownFor": "Beaches, monkeys, sloths",
+  "budget": "US$80-180 per day",
+  "goodFor": "Families, couples, nature lovers",
+  "coords": {
+    "lat": 9.3924,
+    "lng": -84.137
+  },
+  "image": {
+    "file": "File:Parque Nacional Manuel Antonio 02.jpg",
+    "alt": "A white sand beach in Manuel Antonio National Park"
+  },
+  "intro": [
+    "Manuel Antonio National Park is one of the smallest in Costa Rica but one of the most visited, protecting a spit of rainforest and a series of golden-white beaches on the central Pacific coast. The park is home to three-toed sloths, white-faced and squirrel monkeys, coatis and iguanas, all easily seen on short trails.",
+    "Outside the park, the road winds up and down the hill between Quepos and the beaches, lined with hotels, restaurants and viewpoints with stunning sunsets. Mangrove tours, river rafting, catamaran cruises and zipline tours are all available nearby.",
+    "It can be busy and a bit touristy, particularly in the dry season, but the combination of beach, wildlife and ease of access makes it the most popular stop on Costa Rica's Pacific coast. Visiting early in the morning gives the best wildlife viewing."
+  ],
+  "whyVisit": {
+    "intro": "Manuel Antonio is an easy mix of beach and jungle.",
+    "points": [
+      {
+        "title": "Wildlife",
+        "text": "Sloths, monkeys and more."
+      },
+      {
+        "title": "Beautiful beaches",
+        "text": "Calm water and white sand."
+      },
+      {
+        "title": "Easy trails",
+        "text": "Short and accessible."
+      },
+      {
+        "title": "Sunset views",
+        "text": "Hotels on the hill."
+      },
+      {
+        "title": "Water activities",
+        "text": "Snorkelling, kayaking and rafting."
+      }
+    ]
+  },
+  "attractionsIntro": "The park is the main attraction.",
+  "attractions": [
+    {
+      "name": "Manuel Antonio National Park",
+      "image": {
+        "file": "File:Pale-throated sloth in Costa Rica.jpg",
+        "alt": "A pale-throated sloth in Costa Rica"
+      },
+      "text": "Trails and beaches.",
+      "tip": "Go early and hire a guide."
+    },
+    {
+      "name": "Playa Manuel Antonio",
+      "image": {
+        "file": "File:Beach at Manuel Antonio Park - panoramio (1).jpg",
+        "alt": "The beach at Manuel Antonio Park"
+      },
+      "text": "The main swimming beach.",
+      "tip": "Arrive early."
+    },
+    {
+      "name": "Playa Espadilla Sur",
+      "text": "A long beach just outside the park.",
+      "tip": "Good for walking."
+    },
+    {
+      "name": "Punta Catedral",
+      "text": "A trail with sea views.",
+      "tip": "Wear shoes."
+    },
+    {
+      "name": "Quepos",
+      "text": "The nearby town with a marina.",
+      "tip": "Short stop."
+    },
+    {
+      "name": "Damas Island",
+      "text": "Mangrove boat tours.",
+      "tip": "Look for birds."
+    }
+  ],
+  "thingsToDoIntro": "Wildlife and beaches take most of the time.",
+  "thingsToDo": [
+    {
+      "title": "Hire a guide",
+      "text": "Spot wildlife in the trees.",
+      "tip": "Book at the gate."
+    },
+    {
+      "title": "Swim at the beach",
+      "text": "Calm water.",
+      "tip": "Watch your belongings."
+    },
+    {
+      "title": "Cruise by catamaran",
+      "text": "Snorkelling and sunset.",
+      "tip": "Book ahead."
+    },
+    {
+      "title": "Raft the Savegre",
+      "text": "Gentle rapids.",
+      "tip": "Full-day trip."
+    },
+    {
+      "title": "Visit the mangroves",
+      "text": "Quiet boat trip.",
+      "tip": "Early morning."
+    },
+    {
+      "title": "Watch the sunset",
+      "text": "From a hilltop bar.",
+      "tip": "Reserve ahead."
+    }
+  ],
+  "foodIntro": "Local seafood is good.",
+  "foods": [
+    {
+      "name": "Ceviche",
+      "text": "Raw fish in lime.",
+      "whereToTry": "Beach restaurants."
+    },
+    {
+      "name": "Casado",
+      "text": "Plate of the day.",
+      "whereToTry": "Local sodas."
+    },
+    {
+      "name": "Grilled fish",
+      "text": "Fresh catch.",
+      "whereToTry": "Waterfront."
+    },
+    {
+      "name": "Fresh coconut",
+      "text": "Cold and sweet.",
+      "whereToTry": "Beach stands."
+    },
+    {
+      "name": "Pina colada",
+      "text": "Cocktail.",
+      "whereToTry": "Bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay on the hill or in Quepos.",
+    "areas": [
+      {
+        "name": "Hill hotels",
+        "bestFor": "Views",
+        "text": "Pool hotels with sea views."
+      },
+      {
+        "name": "Quepos",
+        "bestFor": "Value",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Beach area",
+        "bestFor": "Convenience",
+        "text": "Hotels near the beach."
+      },
+      {
+        "name": "Boutique lodges",
+        "bestFor": "Privacy",
+        "text": "Forest hideaways."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$15-35 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$80-170 per night"
+      },
+      {
+        "label": "Boutique",
+        "value": "US$200-400 per night"
+      },
+      {
+        "label": "Park entry",
+        "value": "Around US$18 (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Manuel Antonio is on the central Pacific coast.",
+    "options": [
+      {
+        "mode": "Drive from San Jose",
+        "text": "About 3 hours.",
+        "detail": "Good roads."
+      },
+      {
+        "mode": "Bus",
+        "text": "From San Jose, 3.5 to 4 hours.",
+        "detail": "Direct."
+      },
+      {
+        "mode": "Fly",
+        "text": "To Quepos from San Jose.",
+        "detail": "Short flight."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Local buses link Quepos and the park.",
+    "options": [
+      {
+        "mode": "Bus",
+        "text": "Between Quepos and the park.",
+        "detail": "Cheap."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Short trips.",
+        "detail": "Agree prices."
+      },
+      {
+        "mode": "Walking",
+        "text": "Within the park.",
+        "detail": "Bring water."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December-April",
+    "summary": "Dry season is best for beach days, though it is busy.",
+    "seasons": [
+      {
+        "season": "December-April",
+        "rating": "best",
+        "text": "Dry and sunny."
+      },
+      {
+        "season": "May-June",
+        "rating": "good",
+        "text": "Green and quieter."
+      },
+      {
+        "season": "July-October",
+        "rating": "quiet",
+        "text": "Wet, with fewer visitors."
+      },
+      {
+        "season": "November",
+        "rating": "good",
+        "text": "Early dry season."
+      }
+    ],
+    "avoid": "September and October, the wettest."
+  },
+  "itinerary": {
+    "title": "Two days in Manuel Antonio",
+    "intro": "Beach and forest.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Park",
+        "summary": "Wildlife",
+        "morning": "Guided walk",
+        "afternoon": "Swim at the beach",
+        "evening": "Sunset on the hill"
+      },
+      {
+        "day": 2,
+        "title": "Water",
+        "summary": "Catamaran",
+        "morning": "Snorkel cruise",
+        "afternoon": "Quepos market",
+        "evening": "Dinner"
+      }
+    ]
+  },
+  "tipsIntro": "Tips for the park.",
+  "tips": [
+    "Arrive early for wildlife.",
+    "Book the park ticket ahead.",
+    "Do not feed monkeys.",
+    "Bring water and sunscreen.",
+    "Hire a guide.",
+    "Watch your belongings.",
+    "Park is closed on Mondays (check)."
+  ],
+  "faq": [
+    {
+      "q": "Is the park closed on Mondays?",
+      "a": "Check current rules."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Two to three days."
+    },
+    {
+      "q": "Will I see sloths?",
+      "a": "Probably."
+    },
+    {
+      "q": "Is it crowded?",
+      "a": "Yes in peak season."
+    },
+    {
+      "q": "When is best?",
+      "a": "December to April."
+    },
+    {
+      "q": "Is it good for kids?",
+      "a": "Yes."
+    }
+  ],
+  "related": [
+    "corcovado-osa-peninsula",
+    "santa-teresa-nicoya",
+    "san-jose"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

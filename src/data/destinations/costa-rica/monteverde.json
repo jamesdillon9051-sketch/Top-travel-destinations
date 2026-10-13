@@ -1,0 +1,342 @@
+{
+  "slug": "monteverde",
+  "name": "Monteverde",
+  "country": "costa-rica",
+  "region": "Puntarenas Province, Tilaran Mountains",
+  "categories": [
+    "nature",
+    "national-park",
+    "mountains",
+    "scenic"
+  ],
+  "tagline": "A misty cloud forest of hummingbirds, quetzals and canopy walks.",
+  "highlight": "Walking a hanging bridge through the clouds and spotting a resplendent quetzal.",
+  "shortDescription": "A high-altitude cloud forest community with biodiversity reserves, canopy walks, ziplines, night walks and coffee farms.",
+  "metaDescription": "A Monteverde guide: cloud forest reserves, hanging bridges, quetzals, night walks, ziplines, coffee tours, where to stay, costs and a two-day plan.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "San Jose (SJO), about 4 hours; Liberia (LIR), about 3.5 hours",
+  "knownFor": "Cloud forest, birds, canopy",
+  "budget": "US$80-170 per day",
+  "goodFor": "Nature lovers, birders, families",
+  "coords": {
+    "lat": 10.3009,
+    "lng": -84.825
+  },
+  "image": {
+    "file": "File:Monteverde Cloud Forest 01.jpg",
+    "alt": "The misty Monteverde cloud forest"
+  },
+  "intro": [
+    "Monteverde sits on the Continental Divide at around 1,400 metres, and its cool, misty forests hold an astonishing variety of life. More than 2,500 plant species, 400 bird species and over 100 species of mammals live in the reserves, from the elusive resplendent quetzal to hummingbirds, monkeys and thousands of insects.",
+    "The area was settled by American Quakers in the 1950s, who helped protect the forest. Today, Monteverde Cloud Forest Reserve, Santa Elena Reserve and Curi-Cancha are the main sites, offering trails, hanging bridges and guided night walks. Ziplines and canopy tours are popular alternatives.",
+    "The weather is cool and often misty, so bring a jacket. Santa Elena is the main town, with restaurants and shops, while the access roads are rough and unpaved. A guided walk is worth it for spotting wildlife."
+  ],
+  "whyVisit": {
+    "intro": "Monteverde is one of the best places in the world to experience cloud forest.",
+    "points": [
+      {
+        "title": "Biodiversity",
+        "text": "Birds, mammals and insects."
+      },
+      {
+        "title": "Cloud forest atmosphere",
+        "text": "Mist and moss."
+      },
+      {
+        "title": "Quetzals",
+        "text": "Costa Rica's iconic bird."
+      },
+      {
+        "title": "Canopy walks",
+        "text": "Bridges and ziplines."
+      },
+      {
+        "title": "Conservation history",
+        "text": "Quaker founders and local reserves."
+      }
+    ]
+  },
+  "attractionsIntro": "Several reserves protect the forest.",
+  "attractions": [
+    {
+      "name": "Monteverde Cloud Forest Reserve",
+      "image": {
+        "file": "File:Monteverde bosque.jpg",
+        "alt": "Cloud forest in the Monteverde reserve"
+      },
+      "text": "The classic reserve with trails.",
+      "tip": "Arrive at opening time."
+    },
+    {
+      "name": "Santa Elena Reserve",
+      "text": "A community-run reserve.",
+      "tip": "Less crowded."
+    },
+    {
+      "name": "Hanging bridges",
+      "image": {
+        "file": "File:2006-08-08 Hanging Bridges in Monteverde.jpg",
+        "alt": "A hanging bridge in Monteverde"
+      },
+      "text": "Canopy walks.",
+      "tip": "Go early."
+    },
+    {
+      "name": "Curi-Cancha",
+      "text": "A quieter reserve with birdwatching.",
+      "tip": "Book a guide."
+    },
+    {
+      "name": "Night walks",
+      "text": "See frogs, kinkajous and insects.",
+      "tip": "Wear closed shoes."
+    },
+    {
+      "name": "Hummingbird gallery",
+      "image": {
+        "file": "File:058 Male Resplendent quetzal in Los Quetzales National Park Photo by Giles Laurent.jpg",
+        "alt": "A resplendent quetzal perched in the cloud forest"
+      },
+      "text": "Dozens of hummingbirds at feeders.",
+      "tip": "Free to watch."
+    }
+  ],
+  "thingsToDoIntro": "Nature activities fill the days.",
+  "thingsToDo": [
+    {
+      "title": "Hike with a guide",
+      "text": "Spot hidden wildlife.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Walk the hanging bridges",
+      "text": "Over the canopy.",
+      "tip": "Early morning."
+    },
+    {
+      "title": "Go on a night tour",
+      "text": "Frogs and sloths.",
+      "tip": "Take a torch."
+    },
+    {
+      "title": "Try a zipline",
+      "text": "Over the forest.",
+      "tip": "Pick a reliable operator."
+    },
+    {
+      "title": "Tour a coffee farm",
+      "text": "Taste local beans.",
+      "tip": "Combine with chocolate."
+    },
+    {
+      "title": "Visit a butterfly garden",
+      "text": "Learn about metamorphosis.",
+      "tip": "Kid-friendly."
+    }
+  ],
+  "foodIntro": "Food is homely and fresh.",
+  "foods": [
+    {
+      "name": "Gallo pinto",
+      "text": "Rice and beans.",
+      "whereToTry": "Sodas."
+    },
+    {
+      "name": "Casado",
+      "text": "Plate of the day.",
+      "whereToTry": "Local sodas."
+    },
+    {
+      "name": "Trout",
+      "text": "Local farmed fish.",
+      "whereToTry": "Restaurants."
+    },
+    {
+      "name": "Fresh cheese",
+      "text": "Local dairy.",
+      "whereToTry": "Markets."
+    },
+    {
+      "name": "Coffee",
+      "text": "Local highland beans.",
+      "whereToTry": "Cafes."
+    }
+  ],
+  "accommodation": {
+    "intro": "Santa Elena is the main base.",
+    "areas": [
+      {
+        "name": "Santa Elena",
+        "bestFor": "Convenience",
+        "text": "Hotels and hostels."
+      },
+      {
+        "name": "Monteverde village",
+        "bestFor": "Quiet",
+        "text": "Lodges."
+      },
+      {
+        "name": "Cloud forest edge",
+        "bestFor": "Nature",
+        "text": "Eco-lodges."
+      },
+      {
+        "name": "Cerro Plano",
+        "bestFor": "Views",
+        "text": "B&Bs."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$15-35 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$70-140 per night"
+      },
+      {
+        "label": "Eco-lodge",
+        "value": "US$150-300 per night"
+      },
+      {
+        "label": "Reserve entry",
+        "value": "Around US$20-25"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Monteverde is reached via rough mountain roads.",
+    "options": [
+      {
+        "mode": "Drive or shuttle from San Jose",
+        "text": "About 4 hours.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Boat-taxi route from La Fortuna",
+        "text": "About 3 hours.",
+        "detail": "Popular transfer."
+      },
+      {
+        "mode": "Public bus",
+        "text": "From San Jose.",
+        "detail": "Slow."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Local transport is simple.",
+    "options": [
+      {
+        "mode": "Taxi",
+        "text": "Between Santa Elena and the reserves.",
+        "detail": "Agree prices."
+      },
+      {
+        "mode": "Shuttle",
+        "text": "To reserves.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "On foot",
+        "text": "In town.",
+        "detail": "Small."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December-April",
+    "summary": "The dry season gives easier hiking, though mist is always possible.",
+    "seasons": [
+      {
+        "season": "December-April",
+        "rating": "best",
+        "text": "Drier, but windy."
+      },
+      {
+        "season": "May-June",
+        "rating": "good",
+        "text": "Green and quiet."
+      },
+      {
+        "season": "July-October",
+        "rating": "quiet",
+        "text": "Rainy, with misty views."
+      },
+      {
+        "season": "November",
+        "rating": "good",
+        "text": "Early dry season."
+      }
+    ],
+    "avoid": "September and October, the wettest."
+  },
+  "itinerary": {
+    "title": "Two days in Monteverde",
+    "intro": "Reserves and night life.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Cloud forest",
+        "summary": "Reserve",
+        "morning": "Morning walk",
+        "afternoon": "Hummingbird gallery",
+        "evening": "Night tour"
+      },
+      {
+        "day": 2,
+        "title": "Canopy",
+        "summary": "Bridges",
+        "morning": "Hanging bridges",
+        "afternoon": "Coffee tour",
+        "evening": "Dinner"
+      }
+    ]
+  },
+  "tipsIntro": "A few tips.",
+  "tips": [
+    "Bring a rain jacket and layers.",
+    "Book night walks ahead.",
+    "Hire a guide for wildlife.",
+    "Wear sturdy shoes.",
+    "Arrive early at reserves.",
+    "Carry cash for small shops.",
+    "Respect wildlife."
+  ],
+  "faq": [
+    {
+      "q": "Is Monteverde cold?",
+      "a": "Cool and misty."
+    },
+    {
+      "q": "Will I see a quetzal?",
+      "a": "Possible, especially in spring."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Two to three days."
+    },
+    {
+      "q": "Are the roads bad?",
+      "a": "Rough, but fine."
+    },
+    {
+      "q": "When is best?",
+      "a": "December to April."
+    },
+    {
+      "q": "Is it good for kids?",
+      "a": "Yes."
+    }
+  ],
+  "related": [
+    "arenal-la-fortuna",
+    "rincon-de-la-vieja",
+    "san-jose"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}

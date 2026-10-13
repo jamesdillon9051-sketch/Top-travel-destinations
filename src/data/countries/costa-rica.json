@@ -1,0 +1,415 @@
+{
+  "slug": "costa-rica",
+  "name": "Costa Rica",
+  "continent": "Central America",
+  "countryCode": "CR",
+  "tagline": "Rainforest, volcanoes and two coasts, with some of the most accessible wildlife in the world.",
+  "cardDescription": "A small country with huge biodiversity: cloud forests, volcanoes, wildlife, surf beaches and a pura vida pace.",
+  "metaDescription": "A complete Costa Rica travel guide: the 10 best places to visit, from Arenal and Monteverde to Manuel Antonio, Tortuguero and Corcovado, with practical tips, a two-week itinerary and costs.",
+  "image": {
+    "file": "File:Arenal Volcano (70602).jpg",
+    "alt": "Arenal Volcano rising above green rainforest"
+  },
+  "destinations": [
+    "arenal-la-fortuna",
+    "monteverde",
+    "manuel-antonio",
+    "tortuguero",
+    "corcovado-osa-peninsula",
+    "tamarindo-guanacaste",
+    "puerto-viejo-cahuita",
+    "san-jose",
+    "rincon-de-la-vieja",
+    "santa-teresa-nicoya"
+  ],
+  "intro": [
+    "Costa Rica is a small country in Central America, but it holds about five percent of the planet's biodiversity. Cloud forests, volcanoes, rainforest canals, dry forests and two oceans lie within a few hours of each other, and roughly a quarter of the land is protected.",
+    "The country has no army, a long tradition of democracy and conservation, and a laid-back philosophy known as pura vida. Tourism is well developed, with eco-lodges, guided walks, canopy tours and surf schools, so it is easy to visit even for first-time travellers.",
+    "San Jose is the capital and gateway, but most visitors head straight for the volcano and hot springs at Arenal, the cloud forest at Monteverde, or the beaches of the Pacific. For wilder experiences, the Caribbean canals of Tortuguero and the remote Osa Peninsula are among the best wildlife destinations in the Americas."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend them for a first visit.",
+  "thingsToDoIntro": "The experiences that recur across the country and are worth planning around.",
+  "thingsToDo": [
+    {
+      "title": "Spot wildlife",
+      "text": "Sloths, monkeys, toucans and macaws.",
+      "tip": "Hire a naturalist guide."
+    },
+    {
+      "title": "Walk in the cloud forest",
+      "text": "Hanging bridges and misty trails.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Soak in hot springs",
+      "text": "Volcano-heated pools.",
+      "tip": "Go in the evening."
+    },
+    {
+      "title": "Surf or learn to surf",
+      "text": "Warm water and friendly waves.",
+      "tip": "Choose a certified school."
+    },
+    {
+      "title": "Watch turtles nest",
+      "text": "At Tortuguero and Pacific beaches.",
+      "tip": "Follow strict rules."
+    },
+    {
+      "title": "Tour a coffee farm",
+      "text": "From bean to cup.",
+      "tip": "Book a morning visit."
+    },
+    {
+      "title": "Raft a river",
+      "text": "White-water on the Pacuare or Balsa.",
+      "tip": "Choose a reputable operator."
+    }
+  ],
+  "foodIntro": "Costa Rican food is simple and fresh, built on rice, beans, plantain and fruit, with Caribbean touches on the east coast.",
+  "foods": [
+    {
+      "name": "Gallo pinto",
+      "image": {
+        "file": "File:Costa Rican Gallo Pinto.jpg",
+        "alt": "A plate of Costa Rican gallo pinto"
+      },
+      "text": "Rice and black beans fried together, the national breakfast.",
+      "whereToTry": "Sodas and hotels everywhere."
+    },
+    {
+      "name": "Casado",
+      "image": {
+        "file": "File:Casado Tico.jpg",
+        "alt": "A casado plate in Costa Rica"
+      },
+      "text": "A set plate of rice, beans, salad, plantain and meat or fish.",
+      "whereToTry": "Local sodas."
+    },
+    {
+      "name": "Ceviche",
+      "text": "Raw fish cured in lime.",
+      "whereToTry": "Coastal restaurants."
+    },
+    {
+      "name": "Patacones",
+      "text": "Fried plantain slices.",
+      "whereToTry": "Snack stalls."
+    },
+    {
+      "name": "Costa Rican coffee",
+      "image": {
+        "file": "File:Coffee plantation in Costa Rica.jpg",
+        "alt": "A coffee plantation in Costa Rica"
+      },
+      "text": "Some of the world's best arabica.",
+      "whereToTry": "Cafes and farms."
+    },
+    {
+      "name": "Rondon",
+      "text": "A Caribbean coconut seafood stew.",
+      "whereToTry": "Limon province."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Costa Rica is welcoming and straightforward, but check official sources before travelling.",
+  "practical": {
+    "capital": "San Jose",
+    "language": "Spanish is the official language. English is widely spoken in tourist areas.",
+    "currency": "Costa Rican colon (CRC). Roughly 500-550 colones to the US dollar in recent years. US dollars are widely accepted.",
+    "money": "Cards are widely accepted. Carry some cash for small shops, buses and rural areas. ATMs are common in towns.",
+    "visa": "Many nationalities, including the US, UK, EU and Australia, can enter visa-free for up to 90 days, but you may need to show proof of onward travel. Check current rules.",
+    "plugs": "Type A and B (US-style), 120 V, 60 Hz. Bring an adaptor if needed.",
+    "emergency": "911 for all emergencies.",
+    "tipping": "Tipping is not required, as restaurants add a 10% service charge, but extra tips are appreciated for guides and drivers.",
+    "safety": "Costa Rica is generally safe, but petty theft is common. Never leave valuables in cars, be careful at beaches with strong currents, and use licensed guides.",
+    "connectivity": "Good in towns, patchy in remote areas. SIMs from Kolbi, Movistar and Claro are inexpensive.",
+    "timeZone": "Central Standard Time (UTC-6) all year, with no daylight saving.",
+    "budget": [
+      {
+        "label": "Budget",
+        "value": "US$50-80 per person per day - hostels, buses and local sodas"
+      },
+      {
+        "label": "Mid-range",
+        "value": "US$120-200 per person per day - hotels, shuttles and tours"
+      },
+      {
+        "label": "Comfortable",
+        "value": "US$250-400 per person per day - eco-lodges and private guides"
+      },
+      {
+        "label": "Splurge",
+        "value": "US$500+ per person per day - luxury lodges and private transfers"
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December-April",
+    "summary": "The dry season runs from December to April and is the most popular time to visit.",
+    "seasons": [
+      {
+        "season": "December-April",
+        "rating": "best",
+        "text": "Dry, sunny and busy."
+      },
+      {
+        "season": "May-June",
+        "rating": "good",
+        "text": "Green and quiet."
+      },
+      {
+        "season": "July-October",
+        "rating": "quiet",
+        "text": "Wet afternoons, cheaper prices."
+      },
+      {
+        "season": "November",
+        "rating": "avoid",
+        "text": "Wettest month on much of the Pacific."
+      }
+    ],
+    "avoid": "September and October on the Pacific side, when roads can flood."
+  },
+  "tripDuration": {
+    "headline": "10-14 days for a first trip",
+    "summary": "Costa Rica is small, but roads are slow. Two or three bases are plenty.",
+    "options": [
+      {
+        "length": "5-7 days",
+        "text": "San Jose, Arenal and Manuel Antonio.",
+        "detail": "A classic start."
+      },
+      {
+        "length": "10 days",
+        "text": "Add Monteverde and Tortuguero.",
+        "detail": "More wildlife."
+      },
+      {
+        "length": "14 days",
+        "text": "Add the Caribbean or Guanacaste.",
+        "detail": "A broader trip."
+      },
+      {
+        "length": "3 weeks",
+        "text": "Add Corcovado and the Nicoya Peninsula.",
+        "detail": "For slow travellers."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Shuttles and rental cars are the most flexible, buses the cheapest. Domestic flights save time.",
+    "options": [
+      {
+        "mode": "Shuttle",
+        "text": "Door-to-door between tourist hubs.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Flexible, but roads can be rough.",
+        "detail": "Choose a 4x4 for Monteverde and Osa."
+      },
+      {
+        "mode": "Public bus",
+        "text": "Cheap and slow.",
+        "detail": "Good for budget travellers."
+      },
+      {
+        "mode": "Domestic flight",
+        "text": "Sansa and Skyway.",
+        "detail": "Quick to beach towns."
+      },
+      {
+        "mode": "Boat",
+        "text": "To Tortuguero and across the Gulf of Nicoya.",
+        "detail": "Often part of tours."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Costa Rica",
+    "intro": "Volcanoes, cloud forest, the Caribbean and the Pacific.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in San Jose",
+        "morning": "Land and transfer to the hotel.",
+        "afternoon": "Walk the centre and the National Theatre.",
+        "evening": "Dinner in Barrio Escalante."
+      },
+      {
+        "day": 2,
+        "title": "Poas and coffee",
+        "morning": "Visit Poas Volcano early.",
+        "afternoon": "Coffee farm tour.",
+        "evening": "Transfer to La Fortuna."
+      },
+      {
+        "day": 3,
+        "title": "Arenal",
+        "morning": "Hanging bridges and La Fortuna Waterfall.",
+        "afternoon": "Rest.",
+        "evening": "Hot springs."
+      },
+      {
+        "day": 4,
+        "title": "Arenal",
+        "morning": "Rafting or canyoning.",
+        "afternoon": "Chocolate tour.",
+        "evening": "Sunset on Lake Arenal."
+      },
+      {
+        "day": 5,
+        "title": "Monteverde",
+        "morning": "Boat-taxi transfer.",
+        "afternoon": "Cloud forest walk.",
+        "evening": "Night walk."
+      },
+      {
+        "day": 6,
+        "title": "Monteverde",
+        "morning": "Canopy bridges.",
+        "afternoon": "Coffee tour.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 7,
+        "title": "Tortuguero",
+        "morning": "Transfer to the canal region.",
+        "afternoon": "Boat to the lodge.",
+        "evening": "Village walk."
+      },
+      {
+        "day": 8,
+        "title": "Tortuguero",
+        "morning": "Dawn canal trip.",
+        "afternoon": "Kayak.",
+        "evening": "Night turtle tour in season."
+      },
+      {
+        "day": 9,
+        "title": "Puerto Viejo",
+        "morning": "Transfer to the Caribbean coast.",
+        "afternoon": "Beach time.",
+        "evening": "Reggae night."
+      },
+      {
+        "day": 10,
+        "title": "Cahuita",
+        "morning": "Cahuita National Park.",
+        "afternoon": "Snorkel.",
+        "evening": "Sunset."
+      },
+      {
+        "day": 11,
+        "title": "Return to San Jose",
+        "morning": "Fly or shuttle to the Pacific.",
+        "afternoon": "Arrive at Manuel Antonio.",
+        "evening": "Sunset."
+      },
+      {
+        "day": 12,
+        "title": "Manuel Antonio",
+        "morning": "National park walk.",
+        "afternoon": "Beach.",
+        "evening": "Dinner on the hill."
+      },
+      {
+        "day": 13,
+        "title": "Manuel Antonio",
+        "morning": "Catamaran trip.",
+        "afternoon": "Free time.",
+        "evening": "Farewell dinner."
+      },
+      {
+        "day": 14,
+        "title": "Departure",
+        "morning": "Transfer to San Jose.",
+        "afternoon": "Fly home.",
+        "evening": "Pura vida."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Costa Ricans, called Ticos, are friendly, easygoing and proud of their peaceful, green country. The phrase pura vida means pure life and is used as hello, goodbye and thank you.",
+    "etiquette": [
+      {
+        "title": "Say pura vida",
+        "text": "It is the national greeting."
+      },
+      {
+        "title": "Be patient",
+        "text": "Life runs on tico time."
+      },
+      {
+        "title": "Dress casually",
+        "text": "But cover up in towns."
+      },
+      {
+        "title": "Respect nature",
+        "text": "Keep to trails."
+      },
+      {
+        "title": "Tip modestly",
+        "text": "A little goes a long way."
+      },
+      {
+        "title": "Greet people",
+        "text": "A smile and hola."
+      }
+    ],
+    "dos": [
+      "Learn basic Spanish phrases",
+      "Follow park and trail rules",
+      "Bring a reusable bottle",
+      "Respect wildlife distances",
+      "Use licensed guides",
+      "Book turtle tours with registered operators"
+    ],
+    "donts": [
+      "Do not feed wildlife",
+      "Do not litter",
+      "Do not leave valuables in cars",
+      "Do not swim in rip currents",
+      "Do not take sand or shells",
+      "Do not touch turtles"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Costa Rica.",
+  "tips": [
+    "Book hotels and tours ahead for Christmas and Easter.",
+    "Roads are slow, so allow extra time.",
+    "Bring rain gear even in the dry season.",
+    "Carry insect repellent and sun protection.",
+    "Use only licensed guides in parks.",
+    "Never leave valuables in a parked car.",
+    "Carry some cash for small places.",
+    "Check tide and currents before swimming."
+  ],
+  "faq": [
+    {
+      "q": "Is Costa Rica safe for tourists?",
+      "a": "Generally yes, with normal care against theft and rip currents."
+    },
+    {
+      "q": "How many days do I need?",
+      "a": "Ten to fourteen days for a good trip."
+    },
+    {
+      "q": "Do I need a visa?",
+      "a": "Many nationalities do not for stays up to 90 days, but check."
+    },
+    {
+      "q": "What is the best time to visit?",
+      "a": "December to April for dry weather, May to November for green season savings."
+    },
+    {
+      "q": "Is Costa Rica expensive?",
+      "a": "It is moderate to high for Central America."
+    },
+    {
+      "q": "Can I use US dollars?",
+      "a": "Yes, widely, but colones are better for small purchases."
+    }
+  ]
+}

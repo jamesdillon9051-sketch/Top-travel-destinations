@@ -1,0 +1,350 @@
+{
+  "slug": "arenal-la-fortuna",
+  "name": "Arenal and La Fortuna",
+  "country": "costa-rica",
+  "region": "Alajuela Province, northern Costa Rica",
+  "categories": [
+    "nature",
+    "national-park",
+    "mountains",
+    "scenic"
+  ],
+  "tagline": "A perfect volcano cone above hot springs, waterfalls, hanging bridges and rainforest.",
+  "highlight": "Soaking in a warm river as the Arenal volcano towers overhead.",
+  "shortDescription": "An adventure hub at the foot of Arenal Volcano, with La Fortuna Waterfall, natural hot springs, hanging bridges, Lake Arenal and wildlife.",
+  "metaDescription": "An Arenal and La Fortuna guide: Arenal Volcano National Park, La Fortuna Waterfall, hot springs, hanging bridges, Lake Arenal, canyoning, where to stay, costs and a three-day plan.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "San Jose (SJO), about 3 hours by road; Liberia (LIR), about 2.5 hours",
+  "knownFor": "Volcano views, hot springs, adventure",
+  "budget": "US$80-180 per day",
+  "goodFor": "Adventure travellers, families, couples",
+  "coords": {
+    "lat": 10.4679,
+    "lng": -84.6427
+  },
+  "image": {
+    "file": "File:Arenal volcano (70785p).jpg",
+    "alt": "The conical Arenal volcano rising above the rainforest"
+  },
+  "intro": [
+    "Arenal is Costa Rica's most famous volcano, a near-perfect cone that rises above Lake Arenal and the surrounding rainforest. It was highly active until 2010, and is now quiet, though it remains an impressive sight, especially from the lakeshore or from hanging bridges in the forest.",
+    "The nearby town of La Fortuna is the main base, packed with restaurants, tour operators and hotels. Within a short drive you will find the 70-metre La Fortuna Waterfall, volcano-heated hot springs in resorts and natural rivers, hanging-bridge trails through the canopy, white-water rafting, canyoning and horse riding.",
+    "The area is also good for wildlife, with sloths, toucans and howler monkeys common, and chocolate and coffee farms offer tours. It is a very touristy area, but the setting is beautiful. Two or three days is enough for the main sights."
+  ],
+  "whyVisit": {
+    "intro": "Arenal combines natural beauty with a wide range of activities.",
+    "points": [
+      {
+        "title": "Volcano views",
+        "text": "The classic Costa Rican cone."
+      },
+      {
+        "title": "Hot springs",
+        "text": "Natural thermal pools."
+      },
+      {
+        "title": "Waterfall",
+        "text": "A swim beneath La Fortuna Falls."
+      },
+      {
+        "title": "Hanging bridges",
+        "text": "Walk in the canopy."
+      },
+      {
+        "title": "Adventure activities",
+        "text": "Rafting, canyoning and ziplines."
+      }
+    ]
+  },
+  "attractionsIntro": "The main attractions are within a short drive of town.",
+  "attractions": [
+    {
+      "name": "Arenal Volcano National Park",
+      "image": {
+        "file": "File:Arenal Volcano (70602).jpg",
+        "alt": "Arenal Volcano from the national park"
+      },
+      "text": "Trails across old lava flows.",
+      "tip": "Go early for clear views."
+    },
+    {
+      "name": "La Fortuna Waterfall",
+      "image": {
+        "file": "File:La Fortuna Waterfall in Alajuela province, Costa Rica.jpg",
+        "alt": "La Fortuna Waterfall"
+      },
+      "text": "A 70-metre cascade with a swimming pool.",
+      "tip": "Descend about 500 steps."
+    },
+    {
+      "name": "Hot springs",
+      "text": "Thermal pools in resorts and rivers.",
+      "tip": "Choose a natural one for a cheaper option."
+    },
+    {
+      "name": "Hanging bridges",
+      "image": {
+        "file": "File:Hanging bridge in Monteverde.jpg",
+        "alt": "A hanging bridge through the rainforest canopy"
+      },
+      "text": "Walkways through the canopy.",
+      "tip": "Join a guide for wildlife."
+    },
+    {
+      "name": "Lake Arenal",
+      "text": "Costa Rica's largest lake, for windsurfing and kayaking.",
+      "tip": "Sunset views."
+    },
+    {
+      "name": "Cerro Chato",
+      "text": "A hike to a crater lake.",
+      "tip": "Check trail status."
+    }
+  ],
+  "thingsToDoIntro": "There is a long list of activities.",
+  "thingsToDo": [
+    {
+      "title": "Soak in hot springs",
+      "text": "End the day in warm water.",
+      "tip": "Go in the evening."
+    },
+    {
+      "title": "Walk the hanging bridges",
+      "text": "Early morning for birds.",
+      "tip": "Bring binoculars."
+    },
+    {
+      "title": "Swim at the waterfall",
+      "text": "After the climb down.",
+      "tip": "Be careful with currents."
+    },
+    {
+      "title": "Raft the Balsa River",
+      "text": "Class II and III.",
+      "tip": "Book a reputable operator."
+    },
+    {
+      "title": "Kayak on Lake Arenal",
+      "text": "Calm water and views.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Tour a chocolate farm",
+      "text": "Learn about cacao.",
+      "tip": "Taste samples."
+    }
+  ],
+  "foodIntro": "Traditional Costa Rican dishes feature here.",
+  "foods": [
+    {
+      "name": "Gallo pinto",
+      "text": "Rice and black beans.",
+      "whereToTry": "Breakfast sodas."
+    },
+    {
+      "name": "Casado",
+      "text": "Rice, beans, salad and meat.",
+      "whereToTry": "Local sodas."
+    },
+    {
+      "name": "Fresh fruit",
+      "text": "Pineapple, papaya.",
+      "whereToTry": "Roadside stands."
+    },
+    {
+      "name": "Tamales",
+      "text": "Steamed corn dough.",
+      "whereToTry": "Christmas season and markets."
+    },
+    {
+      "name": "Costa Rican coffee",
+      "text": "Local beans.",
+      "whereToTry": "Cafes."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in La Fortuna or by the lake.",
+    "areas": [
+      {
+        "name": "La Fortuna",
+        "bestFor": "Convenience",
+        "text": "Hotels and hostels."
+      },
+      {
+        "name": "Volcano side",
+        "bestFor": "Views",
+        "text": "Lodges."
+      },
+      {
+        "name": "Lake Arenal",
+        "bestFor": "Quiet",
+        "text": "Small lodges."
+      },
+      {
+        "name": "Hot spring resorts",
+        "bestFor": "Relaxation",
+        "text": "Spa hotels."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$15-35 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$70-150 per night"
+      },
+      {
+        "label": "Resort",
+        "value": "US$200-500 per night"
+      },
+      {
+        "label": "Hot springs day pass",
+        "value": "US$20-80"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Arenal is reached by road from San Jose or Liberia.",
+    "options": [
+      {
+        "mode": "Drive or bus from San Jose",
+        "text": "About 3 to 4 hours.",
+        "detail": "Frequent buses."
+      },
+      {
+        "mode": "Private shuttle",
+        "text": "From San Jose or Liberia.",
+        "detail": "Door to door."
+      },
+      {
+        "mode": "Drive from Liberia",
+        "text": "About 2.5 hours.",
+        "detail": "Scenic."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car or shuttles work best.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Flexible.",
+        "detail": "Roads are good."
+      },
+      {
+        "mode": "Shuttles",
+        "text": "Between towns.",
+        "detail": "Book ahead."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Short trips.",
+        "detail": "Agree prices."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "December-April",
+    "summary": "The dry season gives clearer volcano views and better weather.",
+    "seasons": [
+      {
+        "season": "December-April",
+        "rating": "best",
+        "text": "Dry and sunny."
+      },
+      {
+        "season": "May-June",
+        "rating": "good",
+        "text": "Green season with fewer visitors."
+      },
+      {
+        "season": "July-October",
+        "rating": "quiet",
+        "text": "Rainy, but mornings can be dry."
+      },
+      {
+        "season": "November",
+        "rating": "quiet",
+        "text": "Wet and green."
+      }
+    ],
+    "avoid": "September and October, the wettest months."
+  },
+  "itinerary": {
+    "title": "Three days around Arenal",
+    "intro": "Volcano and hot springs.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "La Fortuna",
+        "morning": "Walk the town",
+        "afternoon": "Hot springs",
+        "evening": "Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Park and falls",
+        "summary": "Nature",
+        "morning": "Hanging bridges",
+        "afternoon": "La Fortuna Waterfall",
+        "evening": "Sunset on the lake"
+      },
+      {
+        "day": 3,
+        "title": "Adventure",
+        "summary": "Activity",
+        "morning": "Rafting or canyoning",
+        "afternoon": "Chocolate tour",
+        "evening": "Farewell dinner"
+      }
+    ]
+  },
+  "tipsIntro": "These tips will help.",
+  "tips": [
+    "Book hot springs in advance in high season.",
+    "Bring rain gear.",
+    "Go to viewpoints early.",
+    "Wear sturdy shoes at the waterfall.",
+    "Use reputable tour operators.",
+    "Carry cash for small shops.",
+    "Respect wildlife."
+  ],
+  "faq": [
+    {
+      "q": "Is Arenal active?",
+      "a": "Quiet since 2010."
+    },
+    {
+      "q": "Are the hot springs natural?",
+      "a": "Many are volcanic."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Two to three days."
+    },
+    {
+      "q": "When is best?",
+      "a": "December to April."
+    },
+    {
+      "q": "Is it touristy?",
+      "a": "Yes."
+    },
+    {
+      "q": "Can I see lava?",
+      "a": "No."
+    }
+  ],
+  "related": [
+    "monteverde",
+    "rincon-de-la-vieja",
+    "tamarindo-guanacaste"
+  ],
+  "relatedArticles": [
+    "food-primer",
+    "packing-by-season"
+  ]
+}
