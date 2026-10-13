@@ -1,0 +1,349 @@
+{
+  "slug": "ruaha",
+  "name": "Ruaha National Park",
+  "country": "tanzania",
+  "region": "Iringa Region, southern Tanzania",
+  "categories": [
+    "national-park",
+    "nature",
+    "off-the-beaten-path"
+  ],
+  "tagline": "Tanzania's largest park, a rugged baobab wilderness of lions, kudu and elephants with few visitors.",
+  "highlight": "Watching a big lion pride at the Great Ruaha River with no other vehicles around.",
+  "shortDescription": "A remote, wild park of 20,000 square kilometres with huge baobabs, big lion prides, greater kudu, sable and roan antelope.",
+  "metaDescription": "A Ruaha National Park guide: lions, baobabs, rare antelope, the Great Ruaha River, camps, getting there from Dar es Salaam or Iringa, costs and a three-day plan.",
+  "suggestedStay": "3-4 days",
+  "nearestAirport": "Msembe airstrip in the park, or Iringa/Dar es Salaam connections",
+  "knownFor": "Lions, baobabs, rare antelope",
+  "budget": "US$300-800 per person per day, safari",
+  "goodFor": "Wildlife purists, repeat safari-goers",
+  "coords": {
+    "lat": -7.5167,
+    "lng": 34.8333
+  },
+  "image": {
+    "file": "File:Baobab, Ruaha National Park (28105409044).jpg",
+    "alt": "A giant baobab tree in Ruaha National Park"
+  },
+  "intro": [
+    "Ruaha is Tanzania's largest national park and one of the least visited. The landscape is rugged, with rolling bush, baobab-studded hills and the Great Ruaha River, which brings life to the dry country.",
+    "The park sits where southern and eastern African ecosystems meet, so it holds antelope that are hard to find in the north, such as greater kudu, sable and roan, along with large prides of lions, leopards, cheetahs, wild dogs and big elephant herds. In the dry season, animals concentrate along the river, giving great viewing from the camps.",
+    "There are few camps and fewer vehicles, so the feel is remote and private. Most visitors fly in from Dar es Salaam or the Serengeti circuit. The remoteness and cost make it a destination for repeat safari-goers, but it rewards the effort."
+  ],
+  "whyVisit": {
+    "intro": "Ruaha is wildlife without the crowds.",
+    "points": [
+      {
+        "title": "Big lion prides",
+        "text": "Some of the largest in Africa."
+      },
+      {
+        "title": "Rare antelope",
+        "text": "Kudu, sable and roan."
+      },
+      {
+        "title": "Baobab scenery",
+        "text": "A distinctive landscape."
+      },
+      {
+        "title": "Few vehicles",
+        "text": "Near-private game drives."
+      },
+      {
+        "title": "River viewing",
+        "text": "Concentrated wildlife in the dry season."
+      }
+    ]
+  },
+  "attractionsIntro": "The river and the bush are the main sights.",
+  "attractions": [
+    {
+      "name": "Great Ruaha River",
+      "image": {
+        "file": "File:Ruaha River, Ruaha National Park (9) (29028717505).jpg",
+        "alt": "The Ruaha River in Ruaha National Park"
+      },
+      "text": "The park's lifeline, with elephants, hippos and crocodiles.",
+      "tip": "Visit in the dry season."
+    },
+    {
+      "name": "Msembe area",
+      "image": {
+        "file": "File:Giraffe, Ruaha National Park (10) (28121529844).jpg",
+        "alt": "A giraffe in Ruaha National Park"
+      },
+      "text": "The main hub with lodges.",
+      "tip": "Start your drives here."
+    },
+    {
+      "name": "Baobab hills",
+      "image": {
+        "file": "File:Baobab tree, Ruaha National Park (2) (28645552981).jpg",
+        "alt": "A baobab tree in Ruaha National Park"
+      },
+      "text": "Landscapes dotted with giant trees.",
+      "tip": "Photograph at sunset."
+    },
+    {
+      "name": "Mwagusi Sand River",
+      "text": "A seasonal river where animals dig for water.",
+      "tip": "Look for elephants."
+    },
+    {
+      "name": "Kudu and roan country",
+      "text": "Rare antelope in the woodland.",
+      "tip": "Take a specialist guide."
+    },
+    {
+      "name": "Walking safari",
+      "text": "Led by a ranger.",
+      "tip": "Ask your camp."
+    }
+  ],
+  "thingsToDoIntro": "Expect long bush days and few other people.",
+  "thingsToDo": [
+    {
+      "title": "Search for lion prides",
+      "text": "Early game drives.",
+      "tip": "Be patient."
+    },
+    {
+      "title": "See rare antelope",
+      "text": "Look for kudu and sable.",
+      "tip": "Bring a guidebook."
+    },
+    {
+      "title": "Walk in the bush",
+      "text": "With an armed ranger.",
+      "tip": "Wear neutral colours."
+    },
+    {
+      "title": "Do a night drive",
+      "text": "Where permitted.",
+      "tip": "See leopards and genets."
+    },
+    {
+      "title": "Fly-camp",
+      "text": "Sleep in the bush.",
+      "tip": "Special arrangement."
+    },
+    {
+      "title": "Watch the river",
+      "text": "From the camp deck.",
+      "tip": "Evening sundowners."
+    }
+  ],
+  "foodIntro": "Food is camp-prepared and simple.",
+  "foods": [
+    {
+      "name": "Ugali",
+      "text": "Maize porridge.",
+      "whereToTry": "Camp meals."
+    },
+    {
+      "name": "Grilled meat",
+      "text": "Nyama choma style.",
+      "whereToTry": "Camp dinners."
+    },
+    {
+      "name": "Chapati",
+      "text": "Flatbread.",
+      "whereToTry": "Breakfast."
+    },
+    {
+      "name": "Pilau",
+      "text": "Spiced rice.",
+      "whereToTry": "Lunch."
+    },
+    {
+      "name": "Fresh bread",
+      "text": "Camp baked.",
+      "whereToTry": "Morning."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in small camps near the river.",
+    "areas": [
+      {
+        "name": "Msembe area",
+        "bestFor": "Convenience",
+        "text": "Camps close to the airstrip."
+      },
+      {
+        "name": "Riverside camps",
+        "bestFor": "Wildlife",
+        "text": "Camps on the Great Ruaha."
+      },
+      {
+        "name": "Mwagusi",
+        "bestFor": "Remote",
+        "text": "Camps in the sand river area."
+      },
+      {
+        "name": "Iringa",
+        "bestFor": "Gateway",
+        "text": "Hotels in the town."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Mid-range camp",
+        "value": "US$250-450 per person per night"
+      },
+      {
+        "label": "Luxury camp",
+        "value": "US$500-900 per person per night"
+      },
+      {
+        "label": "Fly-camp",
+        "value": "US$200-400 per person per night"
+      },
+      {
+        "label": "Park fees",
+        "value": "Around US$50-60 per person per day (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Most visitors fly in.",
+    "options": [
+      {
+        "mode": "Fly from Dar es Salaam",
+        "text": "About 1.5 hours.",
+        "detail": "Fastest."
+      },
+      {
+        "mode": "Drive from Iringa",
+        "text": "About 2 to 3 hours.",
+        "detail": "Rough roads."
+      },
+      {
+        "mode": "Fly from Arusha",
+        "text": "By charter.",
+        "detail": "Expensive."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Vehicles and walking.",
+    "options": [
+      {
+        "mode": "Safari vehicle",
+        "text": "With a driver-guide.",
+        "detail": "Included."
+      },
+      {
+        "mode": "Walking",
+        "text": "With a ranger.",
+        "detail": "Short walks."
+      },
+      {
+        "mode": "Flights",
+        "text": "Between camps.",
+        "detail": "Light aircraft."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June-October",
+    "summary": "The dry season concentrates wildlife around the river.",
+    "seasons": [
+      {
+        "season": "June-October",
+        "rating": "best",
+        "text": "Dry, with animals around the river."
+      },
+      {
+        "season": "November-December",
+        "rating": "good",
+        "text": "Short rains."
+      },
+      {
+        "season": "January-March",
+        "rating": "good",
+        "text": "Green, quiet."
+      },
+      {
+        "season": "April-May",
+        "rating": "avoid",
+        "text": "Long rains, many camps closed."
+      }
+    ],
+    "avoid": "April and May, when roads are difficult."
+  },
+  "itinerary": {
+    "title": "Three days in Ruaha",
+    "intro": "A remote safari.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Flight",
+        "morning": "Fly to Msembe",
+        "afternoon": "Afternoon game drive",
+        "evening": "Dinner at camp"
+      },
+      {
+        "day": 2,
+        "title": "Full day",
+        "summary": "River and bush",
+        "morning": "Dawn drive",
+        "afternoon": "Walk",
+        "evening": "Evening drive"
+      },
+      {
+        "day": 3,
+        "title": "Final morning",
+        "summary": "Last drive",
+        "morning": "Early drive",
+        "afternoon": "Flight out",
+        "evening": "Travel"
+      }
+    ]
+  },
+  "tipsIntro": "Remote parks need preparation.",
+  "tips": [
+    "Book camps early.",
+    "Carry malaria precautions.",
+    "Pack for dust and sun.",
+    "Bring binoculars.",
+    "Use soft bags for flights.",
+    "Respect distance from wildlife.",
+    "Check camp open dates."
+  ],
+  "faq": [
+    {
+      "q": "Why Ruaha?",
+      "a": "Fewer vehicles and wild country."
+    },
+    {
+      "q": "Is it better than the Serengeti?",
+      "a": "Different, quieter."
+    },
+    {
+      "q": "Can I drive?",
+      "a": "Yes but rough."
+    },
+    {
+      "q": "Best months?",
+      "a": "June to October."
+    },
+    {
+      "q": "Are walks safe?",
+      "a": "With a ranger."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Three to four days."
+    }
+  ],
+  "related": [
+    "nyerere-selous",
+    "serengeti",
+    "tarangire-manyara"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

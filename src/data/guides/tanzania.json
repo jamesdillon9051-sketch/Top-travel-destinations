@@ -1,0 +1,133 @@
+{
+  "country": "tanzania",
+  "title": "The Complete Tanzania Travel Guide",
+  "subtitle": "How the country divides into safari circuits, mountain and islands, how to choose between the ten destinations, when to go, what it costs and three routes that work.",
+  "summary": "Tanzania combines the Serengeti and Ngorongoro, Africa's highest mountain, Swahili islands and remote southern parks. This guide explains how the regions divide, how to choose between the ten destinations, how to move around, when to go, what it costs and three routes that work.",
+  "readingTime": "12 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Do I need a tour operator for a safari?",
+      "a": "Almost always yes. Park fees, vehicles and guides are most easily arranged through a licensed operator, and Kilimanjaro climbs must be guided."
+    },
+    {
+      "q": "What is the best month for the Great Migration?",
+      "a": "It moves all year. The river crossings in the north are usually July to October, and calving on the southern plains is January to March."
+    },
+    {
+      "q": "Can I combine safari with a beach?",
+      "a": "Yes. Fly from Arusha or Kilimanjaro to Zanzibar, or from the southern parks to Dar es Salaam and on to the islands."
+    },
+    {
+      "q": "Is Tanzania safe for visitors?",
+      "a": "Tourist areas are generally safe with normal precautions. Check current advice before travelling and use reputable operators."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-tanzania-divides",
+      "title": "How Tanzania divides",
+      "navLabel": "The regions",
+      "body": [
+        "Tanzania is large, and for a visitor it falls into four zones, linked mainly by short flights.",
+        "**The northern circuit.** [[arusha-meru|Arusha]] is the gateway to [[serengeti|the Serengeti]], [[ngorongoro-crater|Ngorongoro Crater]] and [[tarangire-manyara|Tarangire and Lake Manyara]]. It is the classic safari route.",
+        "**The mountain.** [[kilimanjaro|Kilimanjaro]] rises above Moshi, an hour from Arusha, and can be climbed in six to nine days.",
+        "**The islands.** [[stone-town|Stone Town]] and [[zanzibar-beaches|the Zanzibar beaches]] offer culture and sand, with [[mafia-island|Mafia Island]] as a quieter alternative.",
+        "**The south.** [[nyerere-selous|Nyerere]] and [[ruaha|Ruaha]] are remote, wild parks with fewer visitors, reached by light aircraft."
+      ],
+      "note": "A common trip is a northern safari followed by a few days on Zanzibar."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[arusha-meru|Arusha]], [[tarangire-manyara|Tarangire]], [[ngorongoro-crater|Ngorongoro]] and [[serengeti|the Serengeti]], or a short safari plus [[zanzibar-beaches|Zanzibar]]."
+        },
+        {
+          "title": "If you love wildlife",
+          "text": "[[serengeti|The Serengeti]] for the migration, [[ngorongoro-crater|Ngorongoro]] for rhinos and [[ruaha|Ruaha]] for lions."
+        },
+        {
+          "title": "If you love adventure",
+          "text": "[[kilimanjaro|Kilimanjaro]], or [[arusha-meru|Mount Meru]] as a shorter alternative."
+        },
+        {
+          "title": "If you love beaches",
+          "text": "[[zanzibar-beaches|Zanzibar]] for choice and [[mafia-island|Mafia]] for quiet and whale sharks."
+        },
+        {
+          "title": "If you love history",
+          "text": "[[stone-town|Stone Town]] and the Swahili coast."
+        },
+        {
+          "title": "If you want fewer crowds",
+          "text": "[[nyerere-selous|Nyerere]] and [[ruaha|Ruaha]], with boat and walking safaris."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around",
+      "navLabel": "Getting around",
+      "body": [
+        "Distances are long and roads can be slow, so light aircraft are common between parks.",
+        "Northern circuit safaris are usually done by 4x4 from Arusha, with flights to the Serengeti as an option.",
+        "Scheduled flights link Arusha, Zanzibar, Dar es Salaam and the southern parks. Baggage limits are strict on small planes.",
+        "Fast ferries link Dar es Salaam with Zanzibar in about two hours."
+      ],
+      "note": "Use soft bags on light aircraft."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Tanzania has two rainy seasons, the long rains from March to May and the short rains in November.",
+        "June to October is the dry season, with the best wildlife viewing and river crossings in the north.",
+        "January to March is calving season in the southern Serengeti and a good time for green landscapes and birds.",
+        "Kilimanjaro is best climbed in January to March or June to October.",
+        "Zanzibar is hot and humid from December to February, and best from June to October."
+      ],
+      "note": "April and May are quiet and cheap, but many camps close."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and safety",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Tanzania is not a cheap safari destination. Park fees are high, and a mid-range safari typically costs US$350-700 per person per day.",
+        "Kilimanjaro climbs cost US$2,000-5,000 depending on route and operator, with a large part going to park fees.",
+        "Zanzibar is cheaper, with guesthouses from US$30 and mid-range resorts from US$100.",
+        "Check current health advice, including malaria precautions and vaccinations, and use licensed operators."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: classic northern safari",
+          "text": "Fly to [[arusha-meru|Arusha]], then [[tarangire-manyara|Tarangire]], [[ngorongoro-crater|Ngorongoro]] and [[serengeti|the Serengeti]].",
+          "tip": "Add two nights if you can."
+        },
+        {
+          "title": "Ten days: safari and beach",
+          "text": "The northern route plus three nights in [[stone-town|Stone Town]] and [[zanzibar-beaches|Zanzibar]].",
+          "tip": "Fly rather than drive between parks."
+        },
+        {
+          "title": "Two weeks: the full country",
+          "text": "The itinerary on the country page, from [[arusha-meru|Arusha]] to Zanzibar, with [[kilimanjaro|Kilimanjaro]], [[nyerere-selous|Nyerere]], [[ruaha|Ruaha]] or [[mafia-island|Mafia]] as extensions.",
+          "tip": "Skip the mountain if time is short."
+        }
+      ]
+    }
+  ]
+}

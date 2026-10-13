@@ -1,0 +1,354 @@
+{
+  "slug": "serengeti",
+  "name": "Serengeti National Park",
+  "country": "tanzania",
+  "region": "Mara and Simiyu regions, northern Tanzania",
+  "categories": [
+    "national-park",
+    "nature",
+    "unesco",
+    "scenic"
+  ],
+  "tagline": "Endless golden plains, the greatest wildlife spectacle on Earth and some of the best lion and leopard viewing in Africa.",
+  "highlight": "Watching a river crossing or a lion pride at sunrise from an open safari vehicle.",
+  "shortDescription": "A UNESCO-listed park of 14,750 square kilometres, home to the Great Migration of wildebeest and zebra, big cats, balloon safaris and classic acacia-dotted savannah.",
+  "metaDescription": "A Serengeti safari guide: the Great Migration by season, Seronera, the northern Kogatende crossings, balloon safaris, camps versus lodges, costs and a four-day plan.",
+  "suggestedStay": "3-5 days",
+  "nearestAirport": "Kilimanjaro (JRO) or Arusha (ARK), with light-aircraft flights to airstrips in the park",
+  "knownFor": "Wildlife, the Great Migration, big cats",
+  "budget": "US$350-900+ per person per day, safari",
+  "goodFor": "Safari, photography, honeymoons",
+  "coords": {
+    "lat": -2.3333,
+    "lng": 34.8333
+  },
+  "image": {
+    "file": "File:Serengeti Balloon.jpg",
+    "alt": "A hot-air balloon rising over the Serengeti plains at dawn"
+  },
+  "intro": [
+    "The Serengeti is Tanzania's oldest and most famous national park, a World Heritage Site covering a vast ecosystem of open grassland, kopjes (rocky outcrops), riverine forest and woodland. The name comes from the Maasai word for \"endless plains\", and standing on them at dawn it is easy to see why.",
+    "The park is best known for the Great Migration, in which around 1.5 million wildebeest, along with hundreds of thousands of zebra and gazelle, travel in a loop through the ecosystem in search of fresh grass. Calving takes place on the southern plains in January to March, the herds head north through the western corridor and the centre, and the dramatic Mara River crossings in the north usually happen between July and October. Even outside the migration the park holds one of the densest populations of lions, leopards, cheetahs and elephants in Africa.",
+    "Safaris here are done in 4x4 vehicles with pop-up roofs, with game drives at dawn and late afternoon. Seronera in the centre is the most reliable base year-round, while the northern Kogatende area and the western corridor follow the herds. Budget time and money for a stay of at least three to four nights, since distances are long and the best viewing is early and late in the day."
+  ],
+  "whyVisit": {
+    "intro": "The Serengeti offers wildlife viewing on a scale few places can match.",
+    "points": [
+      {
+        "title": "The Great Migration",
+        "text": "One of the largest animal movements on Earth."
+      },
+      {
+        "title": "Big cats",
+        "text": "Lions, leopards and cheetahs are easy to find."
+      },
+      {
+        "title": "Space and light",
+        "text": "Open horizons and huge skies."
+      },
+      {
+        "title": "Balloon safaris",
+        "text": "Float over the plains at sunrise."
+      },
+      {
+        "title": "Choice of camps",
+        "text": "From mobile tented camps to luxury lodges."
+      }
+    ]
+  },
+  "attractionsIntro": "The park is divided into regions, and where you go depends on the season.",
+  "attractions": [
+    {
+      "name": "Seronera Valley",
+      "image": {
+        "file": "File:002 Male Lion prowling in the Serengeti National Park Photo by Giles Laurent.jpg",
+        "alt": "A male lion prowling in the Serengeti"
+      },
+      "text": "The central hub, with permanent water and the best year-round predator viewing, especially leopards in the riverine trees.",
+      "tip": "Go out before breakfast, when cats are still active."
+    },
+    {
+      "name": "Southern plains (Ndutu area)",
+      "image": {
+        "file": "File:Zebras in Serengeti National Park with Acacia tree.jpg",
+        "alt": "Zebras beside an acacia tree on the Serengeti plains"
+      },
+      "text": "Calving grounds of the wildebeest, from about January to March, with predators on the hunt.",
+      "tip": "Book early, since camps are small and in demand."
+    },
+    {
+      "name": "Western Corridor (Grumeti)",
+      "text": "Crocodile-filled river crossings in May to July as the herds move north.",
+      "tip": "Crossing timing varies from year to year."
+    },
+    {
+      "name": "Kogatende and the Mara River",
+      "text": "Dramatic river crossings, usually July to October, in the far north.",
+      "tip": "Allow several nights and patience for the crossing."
+    },
+    {
+      "name": "Moru Kopjes",
+      "text": "Granite outcrops with rock paintings and Maasai history, and rare black rhino.",
+      "tip": "Combine with a picnic lunch."
+    },
+    {
+      "name": "Retina Hippo Pool",
+      "text": "A pool packed with hippos, a short walk from the vehicle with a ranger.",
+      "tip": "Keep a safe distance."
+    }
+  ],
+  "thingsToDoIntro": "Safari days are built around early starts and long drives.",
+  "thingsToDo": [
+    {
+      "title": "Take a sunrise game drive",
+      "text": "Leave camp before dawn when predators are active.",
+      "tip": "Pack a layer, since mornings are cold."
+    },
+    {
+      "title": "Float in a hot-air balloon",
+      "text": "A silent flight over the plains, followed by a bush breakfast.",
+      "tip": "Book ahead, as flights can be cancelled in bad weather."
+    },
+    {
+      "title": "Watch a river crossing",
+      "text": "In the north, wait at the Mara River for the herds to cross.",
+      "tip": "Bring patience and a packed lunch."
+    },
+    {
+      "title": "Join a walking safari",
+      "text": "With an armed ranger in permitted areas.",
+      "tip": "Wear neutral colours."
+    },
+    {
+      "title": "Visit a Maasai village",
+      "text": "Learn about pastoral life and buy crafts.",
+      "tip": "Choose a community-run visit."
+    },
+    {
+      "title": "Photograph at the kopjes",
+      "text": "Lions rest on granite outcrops at midday.",
+      "tip": "Use a bean bag for steady shots."
+    }
+  ],
+  "foodIntro": "Food on safari is usually prepared by the camp or lodge.",
+  "foods": [
+    {
+      "name": "Ugali with stew",
+      "text": "Maize porridge served with beef or beans.",
+      "whereToTry": "Lodges and local eateries in Arusha."
+    },
+    {
+      "name": "Nyama choma",
+      "text": "Grilled meat, popular across Tanzania.",
+      "whereToTry": "Roadside stops on the way."
+    },
+    {
+      "name": "Chapati",
+      "text": "Flat bread served with most meals.",
+      "whereToTry": "Camps and market stalls."
+    },
+    {
+      "name": "Mandazi",
+      "text": "Light fried dough, ideal with tea.",
+      "whereToTry": "Breakfast tables."
+    },
+    {
+      "name": "Bush breakfast",
+      "text": "A cooked breakfast on the plains.",
+      "whereToTry": "Balloon safari operators."
+    }
+  ],
+  "accommodation": {
+    "intro": "Where you stay shapes your safari, from tented camps to lodges.",
+    "areas": [
+      {
+        "name": "Seronera area",
+        "bestFor": "Year-round game",
+        "text": "Central lodges and tented camps."
+      },
+      {
+        "name": "Northern Serengeti",
+        "bestFor": "The river crossings",
+        "text": "Camps near the Mara River."
+      },
+      {
+        "name": "Mobile camps",
+        "bestFor": "Following the herds",
+        "text": "Seasonal tents that move with the migration."
+      },
+      {
+        "name": "Ndutu",
+        "bestFor": "Calving season",
+        "text": "Camps on the edge of the park."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Camping safari",
+        "value": "US$250-400 per person per day"
+      },
+      {
+        "label": "Mid-range lodge",
+        "value": "US$400-700 per person per day"
+      },
+      {
+        "label": "Luxury camp",
+        "value": "US$800-1,500+ per person per day"
+      },
+      {
+        "label": "Park fees",
+        "value": "Around US$80-90 per person per day, plus concession fees"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Most visitors fly to the park or drive from Arusha.",
+    "options": [
+      {
+        "mode": "Fly from Arusha",
+        "text": "About 1 to 1.5 hours to Seronera, with charter and scheduled flights.",
+        "detail": "The easiest option, saves a long drive."
+      },
+      {
+        "mode": "Drive from Arusha",
+        "text": "About 8 to 9 hours via Ngorongoro.",
+        "detail": "Often combined with the crater on the way."
+      },
+      {
+        "mode": "Scheduled flights",
+        "text": "Small aircraft link Arusha with several airstrips.",
+        "detail": "Baggage limits apply, with soft bags only."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "You will use a safari vehicle, almost always with a driver-guide.",
+    "options": [
+      {
+        "mode": "Safari vehicle",
+        "text": "Open-top 4x4 with a driver-guide.",
+        "detail": "Included in a safari package."
+      },
+      {
+        "mode": "Charter flight",
+        "text": "Between airstrips for long distances.",
+        "detail": "Saves hours of driving."
+      },
+      {
+        "mode": "On foot",
+        "text": "Only with a ranger, in designated areas.",
+        "detail": "Walks are a special add-on."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June-October",
+    "summary": "The dry season from June to October is the classic time for river crossings and easier game viewing.",
+    "seasons": [
+      {
+        "season": "January-March",
+        "rating": "good",
+        "text": "Calving season on the southern plains, with predators and green grass."
+      },
+      {
+        "season": "June-October",
+        "rating": "best",
+        "text": "Dry weather, migration in the north and top wildlife viewing."
+      },
+      {
+        "season": "April-May",
+        "rating": "quiet",
+        "text": "Long rains, lower prices and fewer vehicles."
+      },
+      {
+        "season": "November-December",
+        "rating": "good",
+        "text": "Short rains, herds moving south and lush landscapes."
+      }
+    ],
+    "avoid": "April and May, when rains can make roads difficult."
+  },
+  "itinerary": {
+    "title": "Four days in the Serengeti",
+    "intro": "A short safari built around the central plains.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Seronera",
+        "summary": "Settling in",
+        "morning": "Arrive by air and head out on a game drive",
+        "afternoon": "Afternoon drive along the Seronera River",
+        "evening": "Sundowner at camp"
+      },
+      {
+        "day": 2,
+        "title": "Predator day",
+        "summary": "Cats and kopjes",
+        "morning": "Early drive in search of leopards",
+        "afternoon": "Rest at camp",
+        "evening": "Late drive to the kopjes"
+      },
+      {
+        "day": 3,
+        "title": "Balloon and plains",
+        "summary": "Sunrise from above",
+        "morning": "Hot-air balloon and bush breakfast",
+        "afternoon": "Midday rest",
+        "evening": "Afternoon game drive"
+      },
+      {
+        "day": 4,
+        "title": "North or south",
+        "summary": "Following the herds",
+        "morning": "Move on to the migration area",
+        "afternoon": "Game drive en route",
+        "evening": "Final evening at camp"
+      }
+    ]
+  },
+  "tipsIntro": "A few tips make safari life easier.",
+  "tips": [
+    "Book well ahead for July to October and for calving season.",
+    "Pack neutral clothing and layers, since dawn is cold.",
+    "Bring binoculars and a camera with a long lens.",
+    "Use soft bags for light-aircraft flights.",
+    "Tip your guide and camp staff.",
+    "Choose operators with experienced guides.",
+    "Never leave the vehicle except where permitted."
+  ],
+  "faq": [
+    {
+      "q": "How long should I stay?",
+      "a": "At least three to four nights."
+    },
+    {
+      "q": "When is the Great Migration?",
+      "a": "It moves through the year, with river crossings usually in the north from July to October."
+    },
+    {
+      "q": "Can I self-drive?",
+      "a": "Yes, but a driver-guide greatly improves sightings."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Yes, with guides and common-sense rules."
+    },
+    {
+      "q": "Is a balloon safari worth it?",
+      "a": "For many, it is a highlight, though pricey."
+    },
+    {
+      "q": "How much are park fees?",
+      "a": "Daily fees are high for non-residents and are included in packages."
+    }
+  ],
+  "related": [
+    "ngorongoro-crater",
+    "tarangire-manyara",
+    "arusha-meru"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

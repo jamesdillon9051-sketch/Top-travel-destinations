@@ -1,0 +1,342 @@
+{
+  "slug": "ngorongoro-crater",
+  "name": "Ngorongoro Crater",
+  "country": "tanzania",
+  "region": "Ngorongoro Conservation Area, Arusha Region",
+  "categories": [
+    "national-park",
+    "nature",
+    "unesco",
+    "scenic"
+  ],
+  "tagline": "The world's largest intact volcanic caldera, a natural amphitheatre holding black rhinos, lions and 25,000 large animals.",
+  "highlight": "Descending into the crater at dawn and finding a black rhino in the mist.",
+  "shortDescription": "A UNESCO World Heritage caldera 600 metres deep and 20 kilometres wide, with dense wildlife, flamingo lakes and Maasai communities on the rim.",
+  "metaDescription": "A Ngorongoro Crater travel guide: the crater floor, rim lodges, black rhinos, Olduvai Gorge, Empakaai, Maasai culture, costs, tips and a two-day plan.",
+  "suggestedStay": "1-2 days",
+  "nearestAirport": "Kilimanjaro (JRO) or Arusha (ARK), about 3 hours by road from Arusha",
+  "knownFor": "Crater wildlife, black rhino, scenery",
+  "budget": "US$300-800+ per person per day, safari",
+  "goodFor": "Wildlife, photography, scenery",
+  "coords": {
+    "lat": -3.1618,
+    "lng": 35.5877
+  },
+  "image": {
+    "file": "File:Ngorongoro Crater - view of the crater.jpg",
+    "alt": "The vast green floor of Ngorongoro Crater seen from the rim"
+  },
+  "intro": [
+    "Ngorongoro Crater is what remains of a giant volcano that collapsed some two to three million years ago, leaving a caldera about 20 kilometres across with walls rising 600 metres. The floor holds grassland, a soda lake, swamp and forest, and a permanent year-round water supply that keeps a remarkably dense collection of animals in place.",
+    "About 25,000 large animals live in the crater, including lions, hyenas, elephants, hippos, buffalo, wildebeest and zebra, and it is one of the best places in Africa to see the endangered black rhino. Lake Magadi hosts flamingos at times. Because the crater walls act as a natural enclosure, game viewing is excellent in any season.",
+    "The Ngorongoro Conservation Area is a multi-use area, where Maasai pastoralists still graze their herds on the highlands. The crater rim sits at about 2,300 metres, so nights are cold and misty. Most visitors descend for a half-day game drive from a lodge on the rim, and the area also includes Olduvai Gorge, a key site in the study of early humans, and the Empakaai Crater."
+  ],
+  "whyVisit": {
+    "intro": "Ngorongoro offers one of the most concentrated wildlife experiences in Africa.",
+    "points": [
+      {
+        "title": "A natural amphitheatre",
+        "text": "Animals everywhere in one compact area."
+      },
+      {
+        "title": "Black rhino",
+        "text": "One of the best places to see them."
+      },
+      {
+        "title": "Rim views",
+        "text": "Dramatic landscapes from the lodges."
+      },
+      {
+        "title": "Maasai culture",
+        "text": "Pastoralists share the highlands."
+      },
+      {
+        "title": "Early human history",
+        "text": "Olduvai Gorge nearby."
+      }
+    ]
+  },
+  "attractionsIntro": "The crater floor is the main draw, with several sights nearby.",
+  "attractions": [
+    {
+      "name": "Crater floor game drive",
+      "image": {
+        "file": "File:The White Rhino of Ngorongoro grazing.jpg",
+        "alt": "A white rhino grazing in Ngorongoro Crater"
+      },
+      "text": "A half-day drive among lions, hippos, elephants and wildebeest.",
+      "tip": "Go early to beat the crowds."
+    },
+    {
+      "name": "Lake Magadi",
+      "image": {
+        "file": "File:Flamingos wading in the alkaline waters of Lake Magadi within the Ngorongoro Crater, Tanzania.jpg",
+        "alt": "Flamingos wading in Lake Magadi inside Ngorongoro Crater"
+      },
+      "text": "A soda lake that attracts flamingos at times.",
+      "tip": "Binoculars help."
+    },
+    {
+      "name": "Lerai Forest",
+      "text": "A fever-tree forest where elephants and leopards sometimes hide.",
+      "tip": "Look for large tuskers."
+    },
+    {
+      "name": "Olduvai Gorge",
+      "text": "A palaeontological site where early human fossils were found.",
+      "tip": "Visit the small museum."
+    },
+    {
+      "name": "Empakaai Crater",
+      "text": "A smaller caldera with a flamingo lake, reached on foot.",
+      "tip": "Hire a ranger for the hike."
+    },
+    {
+      "name": "Crater rim viewpoints",
+      "image": {
+        "file": "File:Ngorongoro Crater view point.jpg",
+        "alt": "A viewpoint on the rim of Ngorongoro Crater"
+      },
+      "text": "Sweeping views at sunrise and sunset.",
+      "tip": "Dress warmly."
+    }
+  ],
+  "thingsToDoIntro": "Visits here are about game drives and short excursions.",
+  "thingsToDo": [
+    {
+      "title": "Descend at dawn",
+      "text": "Start the game drive at gate opening.",
+      "tip": "Take a flask of hot coffee."
+    },
+    {
+      "title": "Look for black rhino",
+      "text": "Ask your guide to search the grassland.",
+      "tip": "Rhinos are often distant, so bring binoculars."
+    },
+    {
+      "title": "Walk Empakaai",
+      "text": "Hike the rim with a ranger.",
+      "tip": "A change from vehicle safaris."
+    },
+    {
+      "title": "Visit a Maasai boma",
+      "text": "See a traditional homestead.",
+      "tip": "Choose community-managed visits."
+    },
+    {
+      "title": "Enjoy sunset on the rim",
+      "text": "From your lodge terrace.",
+      "tip": "Bring layers."
+    },
+    {
+      "title": "Spot hyenas at their den",
+      "text": "Near the crater hyena sites.",
+      "tip": "Best in the morning."
+    }
+  ],
+  "foodIntro": "Meals here are largely lodge meals, with simple local options in nearby villages.",
+  "foods": [
+    {
+      "name": "Ugali and stew",
+      "text": "Maize porridge with meat.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Nyama choma",
+      "text": "Grilled meat.",
+      "whereToTry": "Roadside stops."
+    },
+    {
+      "name": "Chapati",
+      "text": "Flatbread.",
+      "whereToTry": "Lodges."
+    },
+    {
+      "name": "Pilau",
+      "text": "Spiced rice.",
+      "whereToTry": "Local restaurants in Karatu."
+    },
+    {
+      "name": "Tanzanian coffee",
+      "text": "Grown on the slopes.",
+      "whereToTry": "Cafes in Karatu."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most stays are on the rim or in nearby Karatu.",
+    "areas": [
+      {
+        "name": "Crater rim",
+        "bestFor": "Views",
+        "text": "Luxury and mid-range lodges with crater views."
+      },
+      {
+        "name": "Karatu",
+        "bestFor": "Value",
+        "text": "Hotels and lodges 30 minutes from the gate."
+      },
+      {
+        "name": "Camping",
+        "bestFor": "Budget",
+        "text": "Basic sites on the rim."
+      },
+      {
+        "name": "Lake Manyara side",
+        "bestFor": "Combination",
+        "text": "Lodges between the lake and the crater."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Camping",
+        "value": "US$40-80 per person per night"
+      },
+      {
+        "label": "Mid-range lodge",
+        "value": "US$250-450 per night"
+      },
+      {
+        "label": "Luxury lodge",
+        "value": "US$600-1,200+ per night"
+      },
+      {
+        "label": "Crater fees",
+        "value": "Around US$70-80 plus a crater service fee per vehicle (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Most visitors arrive by road from Arusha.",
+    "options": [
+      {
+        "mode": "Drive from Arusha",
+        "text": "About 3 to 4 hours to the rim.",
+        "detail": "Usually part of a safari circuit."
+      },
+      {
+        "mode": "Fly to Lake Manyara or Serengeti",
+        "text": "Then drive on.",
+        "detail": "Saves time on longer trips."
+      },
+      {
+        "mode": "Safari package",
+        "text": "Operators handle fees and transfers.",
+        "detail": "The usual option."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Inside the conservation area you will need a 4x4 and a guide.",
+    "options": [
+      {
+        "mode": "4x4 safari vehicle",
+        "text": "With a driver-guide.",
+        "detail": "Required for the descent."
+      },
+      {
+        "mode": "Walking",
+        "text": "Only with a ranger on the rim.",
+        "detail": "Not allowed on the floor."
+      },
+      {
+        "mode": "Shuttle",
+        "text": "From Karatu to the gate.",
+        "detail": "Ask your hotel."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June-September",
+    "summary": "Dry months give the easiest roads and the best visibility, though the crater is good year-round.",
+    "seasons": [
+      {
+        "season": "June-September",
+        "rating": "best",
+        "text": "Dry, cool and good viewing, but busier."
+      },
+      {
+        "season": "October-December",
+        "rating": "good",
+        "text": "Short rains with greener scenery."
+      },
+      {
+        "season": "January-March",
+        "rating": "good",
+        "text": "Warm, with fewer visitors and many calves."
+      },
+      {
+        "season": "April-May",
+        "rating": "quiet",
+        "text": "Long rains, mist and lowest prices."
+      }
+    ],
+    "avoid": "April and May, when mist and mud can limit visibility."
+  },
+  "itinerary": {
+    "title": "Two days at Ngorongoro",
+    "intro": "A rim lodge and one game drive.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The rim",
+        "summary": "Arrival",
+        "morning": "Drive from Arusha and stop in Karatu",
+        "afternoon": "Check in at the rim lodge",
+        "evening": "Sunset over the crater"
+      },
+      {
+        "day": 2,
+        "title": "Into the crater",
+        "summary": "The caldera floor",
+        "morning": "Dawn descent and game drive",
+        "afternoon": "Picnic lunch by the hippo pool",
+        "evening": "Return to Arusha or continue to the Serengeti"
+      }
+    ]
+  },
+  "tipsIntro": "These tips help you plan.",
+  "tips": [
+    "Dress in layers, since the rim is cold and misty.",
+    "Book a lodge on the rim for the views.",
+    "Descend early, as vehicle numbers are limited by time.",
+    "Bring binoculars for rhinos.",
+    "Pack a picnic lunch.",
+    "Respect Maasai residents.",
+    "Keep window sills clear and stay in the vehicle."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "A half-day in the crater, plus an overnight."
+    },
+    {
+      "q": "Can I walk into the crater?",
+      "a": "No, vehicles only."
+    },
+    {
+      "q": "Will I see rhinos?",
+      "a": "Often, but at a distance."
+    },
+    {
+      "q": "Is it worth the fees?",
+      "a": "Most say yes for the density of wildlife."
+    },
+    {
+      "q": "What about the weather?",
+      "a": "Cool and misty at altitude."
+    },
+    {
+      "q": "Can I combine it with the Serengeti?",
+      "a": "Yes, it is on the usual route."
+    }
+  ],
+  "related": [
+    "serengeti",
+    "tarangire-manyara",
+    "arusha-meru"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "slug": "mafia-island",
+  "name": "Mafia Island",
+  "country": "tanzania",
+  "region": "Pwani Region, Indian Ocean",
+  "categories": [
+    "island",
+    "coastal",
+    "nature",
+    "off-the-beaten-path"
+  ],
+  "tagline": "A quiet Indian Ocean island with whale sharks, coral reefs and Swahili ruins.",
+  "highlight": "Snorkelling beside a whale shark in the warm waters off Mafia.",
+  "shortDescription": "A relaxed marine park island south of Zanzibar, known for diving, whale shark encounters, turtles and the ruins on Chole.",
+  "metaDescription": "A Mafia Island guide: whale sharks, snorkelling and diving, Chole Island ruins, turtle nesting, where to stay, getting there from Dar es Salaam, costs and a four-day plan.",
+  "suggestedStay": "3-5 days",
+  "nearestAirport": "Mafia Island Airport (MFA), light-aircraft flights from Dar es Salaam",
+  "knownFor": "Whale sharks, diving, quiet beaches",
+  "budget": "US$80-250 per day",
+  "goodFor": "Divers, couples, quiet-seekers",
+  "coords": {
+    "lat": -7.9167,
+    "lng": 39.6667
+  },
+  "image": {
+    "file": "File:Afro whale shark safari mafia island.jpg",
+    "alt": "Snorkellers with a whale shark off Mafia Island"
+  },
+  "intro": [
+    "Mafia Island is a laid-back island south of Zanzibar, ringed by coral reefs inside the Mafia Island Marine Park. It has few big resorts, with the focus on small lodges, diving, snorkelling and watching life in the fishing villages.",
+    "The island is best known for whale shark encounters, which are possible from about October to February when the sharks gather to feed in the plankton-rich waters. Snorkellers can swim alongside them, which many call a highlight of their trip. Turtles nest on the beaches, and the reefs are rich with fish and coral.",
+    "Chole Island, a short boat ride away, has crumbling Swahili ruins, mangroves and a small village, and is a nice contrast to the beaches. There is no nightlife here, which is part of the appeal. Getting there is by small plane from Dar es Salaam or Zanzibar."
+  ],
+  "whyVisit": {
+    "intro": "Mafia offers a quiet alternative to Zanzibar.",
+    "points": [
+      {
+        "title": "Whale sharks",
+        "text": "One of the best places to snorkel with them."
+      },
+      {
+        "title": "Marine park",
+        "text": "Healthy reefs and diving."
+      },
+      {
+        "title": "Quiet beaches",
+        "text": "Few tourists."
+      },
+      {
+        "title": "Swahili ruins",
+        "text": "Chole Island history."
+      },
+      {
+        "title": "Turtles",
+        "text": "Nesting beaches."
+      }
+    ]
+  },
+  "attractionsIntro": "Mafia is about the sea.",
+  "attractions": [
+    {
+      "name": "Whale shark trips",
+      "text": "Boat and snorkel from October to February.",
+      "tip": "Book with a reputable operator."
+    },
+    {
+      "name": "Mafia Island Marine Park",
+      "image": {
+        "file": "File:Mafia Island (51554991378).jpg",
+        "alt": "The coast of Mafia Island"
+      },
+      "text": "Reefs, coral and fish.",
+      "tip": "Pay the marine park fee."
+    },
+    {
+      "name": "Chole Island",
+      "image": {
+        "file": "File:Ruins on Chole island.JPG",
+        "alt": "Swahili ruins on Chole Island"
+      },
+      "text": "Ruins, mangroves and a village.",
+      "tip": "Visit by dhow."
+    },
+    {
+      "name": "Kilindoni",
+      "text": "The main town and port.",
+      "tip": "Short stop."
+    },
+    {
+      "name": "Utende beach",
+      "text": "A quiet strip with lodges.",
+      "tip": "Good for swimming at high tide."
+    },
+    {
+      "name": "Juani Island",
+      "text": "Ruins and mangroves.",
+      "tip": "Boat trip."
+    }
+  ],
+  "thingsToDoIntro": "Water-based activities dominate.",
+  "thingsToDo": [
+    {
+      "title": "Snorkel with whale sharks",
+      "text": "From October to February.",
+      "tip": "Follow guidelines."
+    },
+    {
+      "title": "Dive the reef",
+      "text": "Walls and coral gardens.",
+      "tip": "Check dive centre safety."
+    },
+    {
+      "title": "Sail by dhow",
+      "text": "To Chole.",
+      "tip": "Take a picnic."
+    },
+    {
+      "title": "Watch turtles nest",
+      "text": "Seasonal.",
+      "tip": "Ask your lodge."
+    },
+    {
+      "title": "Kayak mangroves",
+      "text": "Quiet exploring.",
+      "tip": "Go at high tide."
+    },
+    {
+      "title": "Fish with locals",
+      "text": "Traditional fishing.",
+      "tip": "Ask your lodge."
+    }
+  ],
+  "foodIntro": "Seafood and Swahili dishes.",
+  "foods": [
+    {
+      "name": "Grilled fish",
+      "text": "Fresh catch.",
+      "whereToTry": "Lodge dinners."
+    },
+    {
+      "name": "Octopus curry",
+      "text": "Coconut-based.",
+      "whereToTry": "Village eateries."
+    },
+    {
+      "name": "Coconut rice",
+      "text": "Staple.",
+      "whereToTry": "Lunch."
+    },
+    {
+      "name": "Mandazi",
+      "text": "Fried dough.",
+      "whereToTry": "Breakfast."
+    },
+    {
+      "name": "Fresh fruit",
+      "text": "Mango and passion fruit.",
+      "whereToTry": "Markets."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay on the beach or at a village lodge.",
+    "areas": [
+      {
+        "name": "Utende",
+        "bestFor": "Beach",
+        "text": "Small lodges."
+      },
+      {
+        "name": "Chole Island",
+        "bestFor": "Atmosphere",
+        "text": "Treehouse-style lodges."
+      },
+      {
+        "name": "Kilindoni",
+        "bestFor": "Value",
+        "text": "Guesthouses."
+      },
+      {
+        "name": "Banda lodges",
+        "bestFor": "Back-to-nature",
+        "text": "Simple beach huts."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Guesthouse",
+        "value": "US$30-60 per night"
+      },
+      {
+        "label": "Mid-range lodge",
+        "value": "US$120-250 per night"
+      },
+      {
+        "label": "Luxury",
+        "value": "US$300-600 per night"
+      },
+      {
+        "label": "Marine park fee",
+        "value": "Around US$20-25 per day (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Mafia is reached by air or sea.",
+    "options": [
+      {
+        "mode": "Fly from Dar es Salaam",
+        "text": "About 40 minutes.",
+        "detail": "Most guests."
+      },
+      {
+        "mode": "Fly from Zanzibar",
+        "text": "About 1 hour.",
+        "detail": "Check schedules."
+      },
+      {
+        "mode": "Boat from Nyamisati",
+        "text": "A few hours.",
+        "detail": "Varies with weather."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Roads are rough, and distances short.",
+    "options": [
+      {
+        "mode": "Taxi",
+        "text": "Arranged by lodge.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Motorbike",
+        "text": "Rent locally.",
+        "detail": "Wear a helmet."
+      },
+      {
+        "mode": "Boat",
+        "text": "To Chole and Juani.",
+        "detail": "Arranged by lodge."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "October-March",
+    "summary": "Whale sharks appear from October to February, with warm weather.",
+    "seasons": [
+      {
+        "season": "October-February",
+        "rating": "best",
+        "text": "Whale sharks and calm seas."
+      },
+      {
+        "season": "June-September",
+        "rating": "good",
+        "text": "Dry and cool."
+      },
+      {
+        "season": "March-May",
+        "rating": "avoid",
+        "text": "Long rains."
+      },
+      {
+        "season": "November-December",
+        "rating": "quiet",
+        "text": "Short rains."
+      }
+    ],
+    "avoid": "April and May, when most lodges close."
+  },
+  "itinerary": {
+    "title": "Four days on Mafia",
+    "intro": "Sea and ruins.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Flight",
+        "morning": "Fly from Dar",
+        "afternoon": "Beach swim",
+        "evening": "Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Whale sharks",
+        "summary": "Snorkel",
+        "morning": "Boat to whale sharks",
+        "afternoon": "Lunch",
+        "evening": "Rest"
+      },
+      {
+        "day": 3,
+        "title": "Chole",
+        "summary": "History",
+        "morning": "Dhow to Chole",
+        "afternoon": "Ruins and mangroves",
+        "evening": "Sunset"
+      },
+      {
+        "day": 4,
+        "title": "Beach",
+        "summary": "Free",
+        "morning": "Snorkel or dive",
+        "afternoon": "Walk",
+        "evening": "Farewell dinner"
+      }
+    ]
+  },
+  "tipsIntro": "These tips will help.",
+  "tips": [
+    "Book whale shark trips in advance.",
+    "Pay the marine park fee.",
+    "Bring reef-safe sunscreen.",
+    "Pack cash.",
+    "Respect marine guidelines.",
+    "Carry malaria precautions.",
+    "Expect limited connectivity."
+  ],
+  "faq": [
+    {
+      "q": "When are whale sharks here?",
+      "a": "October to February."
+    },
+    {
+      "q": "Is it easy to reach?",
+      "a": "By small plane."
+    },
+    {
+      "q": "Is there nightlife?",
+      "a": "No."
+    },
+    {
+      "q": "Can I dive?",
+      "a": "Yes."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Yes."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Three to five days."
+    }
+  ],
+  "related": [
+    "zanzibar-beaches",
+    "stone-town",
+    "nyerere-selous"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

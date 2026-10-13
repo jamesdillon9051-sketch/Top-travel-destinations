@@ -1,0 +1,361 @@
+{
+  "slug": "zanzibar-beaches",
+  "name": "Zanzibar Beaches",
+  "country": "tanzania",
+  "region": "Unguja island, Zanzibar",
+  "categories": [
+    "coastal",
+    "island",
+    "nature"
+  ],
+  "tagline": "White-sand beaches, turquoise water and dhows on a tropical spice island.",
+  "highlight": "Watching the tide drift out and a dhow sail past at sunset on a quiet beach.",
+  "shortDescription": "The north and east coast beaches of Zanzibar: Nungwi, Kendwa, Paje, Jambiani, Matemwe and Michamvi, plus snorkelling, kite-surfing and red colobus monkeys.",
+  "metaDescription": "Zanzibar beaches guide: Nungwi, Kendwa, Paje, Jambiani, Matemwe, tides, snorkelling, kitesurfing, Jozani forest, where to stay, costs and a four-day plan.",
+  "suggestedStay": "4-7 days",
+  "nearestAirport": "Abeid Amani Karume International (ZNZ), 45-90 minutes by road",
+  "knownFor": "Beaches, snorkelling, relaxation",
+  "budget": "US$60-250 per day",
+  "goodFor": "Beaches, couples, kitesurfers",
+  "coords": {
+    "lat": -5.7266,
+    "lng": 39.2917
+  },
+  "image": {
+    "file": "File:White sandy beach at Nungwi, Zanzibar.jpg",
+    "alt": "A white sandy beach at Nungwi, Zanzibar"
+  },
+  "intro": [
+    "Zanzibar is ringed by white sand and clear water, and the choice of beach comes down to tides and mood. The north (Nungwi and Kendwa) has swimmable water all day and a livelier scene, while the east coast (Paje, Jambiani, Matemwe, Michamvi) is quieter, with dramatic tides that pull the sea far out.",
+    "Beyond sunbathing there is plenty to do: snorkelling and diving on the reefs, kitesurfing at Paje, dhow cruises, dolphin trips at Kizimkazi and seaweed farming visits with local women. The Jozani Chwaka Bay forest is the home of the rare Zanzibar red colobus monkey.",
+    "Pick one or two bases rather than moving every night. Travel on the island is by taxi or minibus, and the northern and eastern coasts are about an hour from Stone Town. It is a mainly Muslim island, so cover up away from the beach resorts."
+  ],
+  "whyVisit": {
+    "intro": "Zanzibar offers the classic Indian Ocean beach holiday, with culture on the side.",
+    "points": [
+      {
+        "title": "Beautiful beaches",
+        "text": "White sand, clear water."
+      },
+      {
+        "title": "Snorkelling and diving",
+        "text": "Coral reefs and Mnemba Atoll."
+      },
+      {
+        "title": "Kitesurfing",
+        "text": "Strong winds at Paje."
+      },
+      {
+        "title": "Local culture",
+        "text": "Swahili villages and seaweed farms."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Red colobus, dolphins, turtles."
+      }
+    ]
+  },
+  "attractionsIntro": "Each coast has its own character.",
+  "attractions": [
+    {
+      "name": "Nungwi and Kendwa",
+      "image": {
+        "file": "File:Nungwi Beach Zanzibar.jpg",
+        "alt": "Nungwi beach on the northern tip of Zanzibar"
+      },
+      "text": "Swimmable at any tide, with sunset parties.",
+      "tip": "Best for nightlife."
+    },
+    {
+      "name": "Paje",
+      "image": {
+        "file": "File:Paje beach at low tide.jpg",
+        "alt": "Paje beach at low tide"
+      },
+      "text": "A kitesurfing hub with a backpacker feel.",
+      "tip": "Check tide times."
+    },
+    {
+      "name": "Jambiani",
+      "image": {
+        "file": "File:Jambiani beach.jpg",
+        "alt": "The beach at Jambiani"
+      },
+      "text": "A quiet fishing village with long sand.",
+      "tip": "Walk the beach at low tide."
+    },
+    {
+      "name": "Matemwe",
+      "text": "Quiet, upmarket, with Mnemba Atoll boat trips.",
+      "tip": "Snorkel with turtles."
+    },
+    {
+      "name": "Jozani Forest",
+      "image": {
+        "file": "File:Red Colobus 7.jpg",
+        "alt": "A red colobus monkey in Jozani Forest"
+      },
+      "text": "Home of the red colobus monkey.",
+      "tip": "Take a guided walk."
+    },
+    {
+      "name": "Kizimkazi",
+      "text": "Dolphin tours and a historic mosque.",
+      "tip": "Go early."
+    }
+  ],
+  "thingsToDoIntro": "There are plenty of ways to fill the days.",
+  "thingsToDo": [
+    {
+      "title": "Snorkel at Mnemba",
+      "text": "Boat trips from Matemwe or Nungwi.",
+      "tip": "Go early."
+    },
+    {
+      "title": "Learn to kitesurf",
+      "text": "At Paje.",
+      "tip": "Choose a certified school."
+    },
+    {
+      "title": "Take a dhow cruise",
+      "text": "At sunset.",
+      "tip": "Book with a recommended operator."
+    },
+    {
+      "title": "Walk the tidal flats",
+      "text": "At low tide in the east.",
+      "tip": "Wear reef shoes."
+    },
+    {
+      "title": "See red colobus",
+      "text": "At Jozani.",
+      "tip": "Keep your distance."
+    },
+    {
+      "title": "Swim with dolphins",
+      "text": "At Kizimkazi.",
+      "tip": "Choose responsible operators."
+    }
+  ],
+  "foodIntro": "Beach food is mainly seafood.",
+  "foods": [
+    {
+      "name": "Grilled fish",
+      "text": "Fresh from the boat.",
+      "whereToTry": "Beach restaurants."
+    },
+    {
+      "name": "Octopus curry",
+      "text": "Coconut-based.",
+      "whereToTry": "Local eateries."
+    },
+    {
+      "name": "Coconut rice",
+      "text": "Staple.",
+      "whereToTry": "Everywhere."
+    },
+    {
+      "name": "Mandazi",
+      "text": "Fried dough.",
+      "whereToTry": "Morning stalls."
+    },
+    {
+      "name": "Fresh juice",
+      "text": "Sugarcane and tropical fruits.",
+      "whereToTry": "Roadside."
+    }
+  ],
+  "accommodation": {
+    "intro": "Choose by coast and budget.",
+    "areas": [
+      {
+        "name": "Nungwi",
+        "bestFor": "Nightlife",
+        "text": "Beachfront resorts."
+      },
+      {
+        "name": "Paje",
+        "bestFor": "Backpackers and kiters",
+        "text": "Hostels and boutique stays."
+      },
+      {
+        "name": "Jambiani",
+        "bestFor": "Quiet",
+        "text": "Guesthouses and small lodges."
+      },
+      {
+        "name": "Matemwe",
+        "bestFor": "Luxury",
+        "text": "Villas and resorts."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Guesthouse",
+        "value": "US$30-70 per night"
+      },
+      {
+        "label": "Mid-range resort",
+        "value": "US$100-250 per night"
+      },
+      {
+        "label": "Luxury",
+        "value": "US$300-800+ per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$5-25 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Most visitors arrive via Stone Town or the airport.",
+    "options": [
+      {
+        "mode": "Fly to Zanzibar",
+        "text": "From Dar, Arusha or Nairobi.",
+        "detail": "Book early in season."
+      },
+      {
+        "mode": "Ferry from Dar es Salaam",
+        "text": "About 2 hours.",
+        "detail": "Book fast ferries."
+      },
+      {
+        "mode": "Private transfer",
+        "text": "From airport to beach.",
+        "detail": "Agree the fare."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Taxis and minibuses link the coasts.",
+    "options": [
+      {
+        "mode": "Taxi",
+        "text": "Agree the fare in advance.",
+        "detail": "The easiest option."
+      },
+      {
+        "mode": "Dala-dala",
+        "text": "Minibuses.",
+        "detail": "Cheap and slow."
+      },
+      {
+        "mode": "Scooter",
+        "text": "Rent in Paje.",
+        "detail": "Wear a helmet."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June-October",
+    "summary": "Dry season brings sun and cooler breezes, with the best conditions for snorkelling.",
+    "seasons": [
+      {
+        "season": "June-October",
+        "rating": "best",
+        "text": "Dry and sunny."
+      },
+      {
+        "season": "December-February",
+        "rating": "good",
+        "text": "Hot and humid."
+      },
+      {
+        "season": "March-May",
+        "rating": "avoid",
+        "text": "Long rains."
+      },
+      {
+        "season": "November",
+        "rating": "quiet",
+        "text": "Short rains."
+      }
+    ],
+    "avoid": "April and May, when rains close some lodges."
+  },
+  "itinerary": {
+    "title": "Four days on the Zanzibar coast",
+    "intro": "A mix of beach and activity.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Settling in",
+        "morning": "Transfer to your beach",
+        "afternoon": "Swim and rest",
+        "evening": "Sunset dinner"
+      },
+      {
+        "day": 2,
+        "title": "Snorkelling",
+        "summary": "Mnemba trip",
+        "morning": "Boat to Mnemba",
+        "afternoon": "Beach lunch",
+        "evening": "Relax"
+      },
+      {
+        "day": 3,
+        "title": "Culture",
+        "summary": "Jozani and spices",
+        "morning": "Jozani Forest",
+        "afternoon": "Spice farm",
+        "evening": "Sunset dhow"
+      },
+      {
+        "day": 4,
+        "title": "Free day",
+        "summary": "Your choice",
+        "morning": "Kitesurf or dolphin trip",
+        "afternoon": "Beach walk",
+        "evening": "Farewell dinner"
+      }
+    ]
+  },
+  "tipsIntro": "These tips will help.",
+  "tips": [
+    "Check tide tables, since east coast swimming is tide-dependent.",
+    "Bring reef shoes.",
+    "Dress modestly in villages.",
+    "Book dive and boat trips with licensed operators.",
+    "Carry cash for small purchases.",
+    "Avoid peak season if you can.",
+    "Use mosquito repellent."
+  ],
+  "faq": [
+    {
+      "q": "Which beach is best?",
+      "a": "Nungwi for swimming, Paje for kiting."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Yes with normal care."
+    },
+    {
+      "q": "Can I drink alcohol?",
+      "a": "Yes in resorts."
+    },
+    {
+      "q": "When are tides low?",
+      "a": "Check daily tables."
+    },
+    {
+      "q": "Do I need malaria tablets?",
+      "a": "Ask a travel clinic."
+    },
+    {
+      "q": "Is it a long transfer?",
+      "a": "About 1 to 1.5 hours."
+    }
+  ],
+  "related": [
+    "stone-town",
+    "mafia-island",
+    "nyerere-selous"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

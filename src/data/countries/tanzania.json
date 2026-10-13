@@ -1,0 +1,415 @@
+{
+  "slug": "tanzania",
+  "name": "Tanzania",
+  "continent": "Africa",
+  "countryCode": "TZ",
+  "tagline": "The great wildebeest migration, a volcanic crater alive with predators, Africa's highest mountain and the spice-scented beaches of Zanzibar, in one safari country.",
+  "cardDescription": "East Africa's safari heartland: the Serengeti and Ngorongoro, Kilimanjaro, remote southern parks and a Swahili island coast, with some of the best wildlife viewing on earth.",
+  "metaDescription": "A complete Tanzania travel guide: the 10 best places to visit, the Serengeti, Ngorongoro Crater, Kilimanjaro, Tarangire, Zanzibar and Nyerere, when to go, safari costs, visas, safety and a two-week itinerary.",
+  "image": {
+    "file": "File:Serengeti Sunrise Beams.jpg",
+    "alt": "Sunbeams breaking over the Serengeti plains at sunrise"
+  },
+  "destinations": [
+    "serengeti",
+    "ngorongoro-crater",
+    "tarangire-manyara",
+    "kilimanjaro",
+    "arusha-meru",
+    "stone-town",
+    "zanzibar-beaches",
+    "nyerere-selous",
+    "ruaha",
+    "mafia-island"
+  ],
+  "intro": [
+    "Tanzania sits on the coast of East Africa, between Kenya and Mozambique, and holds more than a quarter of its land in national parks and reserves. It is home to the Serengeti, whose annual wildebeest migration is one of the planet's great wildlife spectacles, to the Ngorongoro Crater, a collapsed volcano whose floor shelters thousands of animals, and to Mount Kilimanjaro, at 5,895 metres the highest mountain in Africa and the tallest free-standing mountain in the world.",
+    "The country is also a meeting point of cultures. The Swahili coast has traded with Arabia, India and Persia for a thousand years, and Zanzibar's Stone Town is one of the best-preserved Swahili trading towns. Inland, more than 120 ethnic groups include the Maasai, who still herd cattle across the northern plains. About 65 million people live here, most of them speaking Swahili, and the country has been stable and peaceful since independence in 1961.",
+    "Tanzania is a rewarding but expensive place to travel. Park fees, flights between parks and lodges add up, and a classic safari is a major budget. The reward is wild Africa on a vast scale: the northern circuit around Arusha is the best known, the southern and western parks are quieter, and Zanzibar and Mafia Island make an easy beach finish."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. The Serengeti, Ngorongoro, Zanzibar and Kilimanjaro are the essentials; Tarangire and Arusha complete the northern circuit, and the southern parks and Mafia reward repeat visitors.",
+  "thingsToDoIntro": "The experiences that recur across the country and make a Tanzanian trip feel like one.",
+  "thingsToDo": [
+    {
+      "title": "Go on a classic safari",
+      "text": "Game drives in open-roofed vehicles are the core Tanzanian experience, with the Big Five and enormous herds across the northern circuit. See [[serengeti|the Serengeti]] and [[ngorongoro-crater|Ngorongoro]].",
+      "tip": "Book a driver-guide with a good reputation, and build in at least three nights in the Serengeti."
+    },
+    {
+      "title": "Watch the wildebeest migration",
+      "image": {
+        "file": "File:Serengeti wildebeest migration JF.jpg",
+        "alt": "A vast herd of wildebeest crossing the Serengeti plains during the migration"
+      },
+      "text": "About 1.5 million wildebeest, with zebras and gazelles, follow the rains in a loop around the Serengeti-Mara ecosystem. Where they are depends on the month. See [[serengeti|the Serengeti]].",
+      "tip": "Ask your operator where the herds are when you book, and be flexible."
+    },
+    {
+      "title": "Climb Kilimanjaro",
+      "text": "Hundreds of thousands of trekkers have walked to the roof of Africa. It needs no technical skill, but it does need time and acclimatisation. See [[kilimanjaro|Kilimanjaro]].",
+      "tip": "Choose a route of seven days or more to improve your odds of reaching the summit."
+    },
+    {
+      "title": "Walk Stone Town's alleys",
+      "text": "Carved doors, spice markets and a seafront night food market in a UNESCO-listed Swahili town. See [[stone-town|Stone Town]].",
+      "tip": "Go with a local guide, and eat at Forodhani Gardens at dusk."
+    },
+    {
+      "title": "Relax on a Zanzibar beach",
+      "text": "White sand and warm, clear water make a classic end to a safari. See [[zanzibar-beaches|Zanzibar's beaches]] and [[mafia-island|Mafia Island]].",
+      "tip": "Choose the north for swimming at any tide, and the east for kitesurfing."
+    },
+    {
+      "title": "Take a boat or walking safari",
+      "text": "The southern parks allow what the north mostly does not: safaris by boat and on foot with a ranger. See [[nyerere-selous|Nyerere]] and [[ruaha|Ruaha]].",
+      "tip": "Fly in, since the roads are long."
+    },
+    {
+      "title": "Meet the Maasai",
+      "image": {
+        "file": "File:Maasai Dance.jpg",
+        "alt": "Maasai men performing a traditional dance in Tanzania"
+      },
+      "text": "The Maasai herders live around the Serengeti and Ngorongoro, and community visits can offer insight, if done respectfully. See [[ngorongoro-crater|Ngorongoro]].",
+      "tip": "Choose community-run visits, ask about fees, and ask before photographing people."
+    }
+  ],
+  "foodIntro": "Tanzanian food is built on staples and grills, with Swahili spices on the coast and Indian influence in the cities. Meals are generous and cheap away from the lodges.",
+  "foods": [
+    {
+      "name": "Ugali",
+      "image": {
+        "file": "File:Ugali Posho.jpg",
+        "alt": "A mound of ugali, a stiff maize porridge, on a plate"
+      },
+      "text": "A stiff maize porridge eaten by hand with stews, greens or grilled meat, and the staple of the mainland.",
+      "whereToTry": "Local restaurants everywhere, especially at lunch."
+    },
+    {
+      "name": "Urojo (Zanzibar mix)",
+      "image": {
+        "file": "File:Urojo Zanzibar 112018.jpg",
+        "alt": "A bowl of Zanzibar urojo soup with potatoes, bhajia and chutneys"
+      },
+      "text": "A tangy Zanzibari street soup of potato, fried fritters, cassava and chutneys, with lime and chilli.",
+      "whereToTry": "Stalls in [[stone-town|Stone Town]]."
+    },
+    {
+      "name": "Nyama choma and mishkaki",
+      "text": "Grilled meat, goat, beef or chicken, eaten with ugali, kachumbari salad and a cold beer, and meat skewers called mishkaki.",
+      "whereToTry": "Roadside grills and bars across the country."
+    },
+    {
+      "name": "Mandazi",
+      "image": {
+        "file": "File:Mandazi.jpg",
+        "alt": "Fried triangular mandazi pastries"
+      },
+      "text": "Lightly sweet fried dough, flavoured with cardamom and coconut, eaten at breakfast with chai.",
+      "whereToTry": "Street stalls and cafés."
+    },
+    {
+      "name": "Pilau and coastal curries",
+      "text": "Spiced rice with meat, and seafood in coconut sauce, a legacy of the Swahili coast's trade with India and Arabia.",
+      "whereToTry": "Restaurants in [[zanzibar-beaches|Zanzibar]] and Dar es Salaam."
+    },
+    {
+      "name": "Chapati",
+      "image": {
+        "file": "File:Chapati-1.jpg",
+        "alt": "Soft folded chapati flatbread"
+      },
+      "text": "Layered flatbread, an Indian import, served with beans or stew, and the standard accompaniment at lunch stops.",
+      "whereToTry": "Local eateries."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Tanzania is welcoming and well organised for visitors, though costs, health preparation and visa rules need planning.",
+  "practical": {
+    "capital": "Dodoma (official capital); Dar es Salaam is the largest city",
+    "language": "Swahili and English are both official. English is widely spoken in tourism, and a few words of Swahili, such as 'jambo' and 'asante', are warmly received.",
+    "currency": "Tanzanian shilling (TZS). Roughly 2,300–2,700 shillings to the US dollar in recent years. US dollars are widely quoted for park fees, lodges and tours.",
+    "money": "Cards are accepted at lodges and many hotels, often with a surcharge. Park fees are generally paid by card or electronically in advance. Carry US dollars in recent, undamaged notes, and shillings for local purchases. ATMs are common in Arusha, Dar es Salaam and Stone Town.",
+    "visa": "Most nationalities need a visa, which can be applied for online as an e-visa before travel; fees depend on nationality and rules change, so use the official immigration site. A yellow fever certificate is required if you arrive from a country with yellow fever risk. Zanzibar has its own immigration check on arrival.",
+    "plugs": "Type D and G (three-pin), 230 V, 50 Hz. A UK plug often fits. Bring an adaptor.",
+    "emergency": "112 for emergencies. Your safari operator or lodge will have its own emergency and flying-doctor arrangements, so check that your insurance covers evacuation.",
+    "tipping": "Tipping is expected for safari staff. Typical guidance is about US$15–25 per day for a driver-guide and US$5–10 for a cook or camp staff, per group, and a set scale for Kilimanjaro porters and guides. Round up in restaurants.",
+    "safety": "Tanzania is generally safe for visitors, but petty theft and scams happen in Arusha, Dar es Salaam and Stone Town, so avoid walking alone at night and keep valuables out of sight. Take malaria prophylaxis, use insect repellent, and drink only bottled or filtered water. Plastic bags are banned, so do not bring them. Do not wear camouflage clothing, and do not photograph government buildings, soldiers or airports. Drones require a permit.",
+    "connectivity": "Good in towns and along main roads, with Vodacom, Airtel and others selling cheap SIMs. Coverage is patchy in the parks and Kilimanjaro.",
+    "timeZone": "East Africa Time, UTC+3 all year, with no daylight saving.",
+    "budget": [
+      { "label": "Budget", "value": "US$150–250 per person per day — camping safaris, local transport" },
+      { "label": "Mid-range", "value": "US$300–500 per person per day — lodge or tented-camp safari" },
+      { "label": "Comfortable", "value": "US$600–900 per person per day — comfortable lodges, some fly-ins" },
+      { "label": "Luxury", "value": "US$1,000–2,000+ per person per day — top camps, private vehicles, flights" }
+    ]
+  },
+  "bestTime": {
+    "headline": "June–October",
+    "summary": "Tanzania's dry season, from late June to October, is the classic safari window. January and February suit the calving herds in the southern Serengeti. The long rains of March to May are the quietest and cheapest.",
+    "seasons": [
+      {
+        "season": "Dry season (June–October)",
+        "rating": "best",
+        "text": "Clear skies and animals gathering at water. The migration reaches the northern Serengeti and the Mara River crossings from about July to October. Busiest and most expensive."
+      },
+      {
+        "season": "Short rains (November–December)",
+        "rating": "good",
+        "text": "Brief afternoon showers, green landscapes, migratory birds and fewer visitors. The herds return to the southern plains."
+      },
+      {
+        "season": "Calving season (January–February)",
+        "rating": "best",
+        "text": "Hot, dry weather and hundreds of thousands of wildebeest calves in the southern Serengeti, with predators close behind. Also a good time for Zanzibar and for Kilimanjaro."
+      },
+      {
+        "season": "Long rains (March–May)",
+        "rating": "avoid",
+        "text": "Heavy rain, muddy roads and some lodges closed. Lowest prices and empty parks, but Kilimanjaro trails are wet and Zanzibar is humid."
+      }
+    ],
+    "avoid": "April and May, the peak of the long rains, unless you want the lowest prices and don't mind mud."
+  },
+  "tripDuration": {
+    "headline": "10–14 days for a first trip",
+    "summary": "A good safari needs time, because distances are long. A week covers the northern circuit, and two weeks allows a safari plus beach days on Zanzibar.",
+    "options": [
+      {
+        "length": "6–7 days",
+        "text": "A northern-circuit safari: Tarangire, the Serengeti and Ngorongoro.",
+        "detail": "The essentials, with little rest."
+      },
+      {
+        "length": "10–12 days",
+        "text": "A northern safari plus three or four days on Zanzibar.",
+        "detail": "The classic first trip."
+      },
+      {
+        "length": "12–14 days",
+        "text": "The itinerary on this page, covering the north and Zanzibar at a comfortable pace.",
+        "detail": "Our recommendation."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Adds Kilimanjaro or a southern-circuit safari to Nyerere and Ruaha.",
+        "detail": "For climbers and repeat visitors."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Safaris use 4x4 vehicles with a driver-guide, and small planes link the parks. Roads between towns are improving but slow, and public transport is for budget travellers with time.",
+    "options": [
+      {
+        "mode": "Safari vehicle with driver-guide",
+        "text": "The standard way to see the northern circuit, in a 4x4 with a pop-up roof, arranged by a safari operator. Prices include park transfers.",
+        "detail": "Choose a reputable licensed operator."
+      },
+      {
+        "mode": "Domestic flights",
+        "text": "Coastal Aviation, Auric Air and others run light aircraft between Arusha, the Serengeti, Dar es Salaam, Zanzibar and the southern parks.",
+        "detail": "Baggage limits are strict, with soft bags only, about 15 kg."
+      },
+      {
+        "mode": "Long-distance buses",
+        "text": "Cheap and frequent between towns such as Arusha, Moshi and Dar es Salaam, though slow and sometimes crowded.",
+        "detail": "Travel in daylight."
+      },
+      {
+        "mode": "Ferries to Zanzibar",
+        "text": "Fast ferries link Dar es Salaam and Zanzibar in about two hours, and the flight takes about 25 minutes.",
+        "detail": "Book with a reputable company."
+      },
+      {
+        "mode": "Dala-dalas and boda-bodas",
+        "text": "Minibuses and motorcycle taxis for short hops in towns. Cheap, though not always safe.",
+        "detail": "Agree the fare first, and wear a helmet."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Tanzania",
+    "intro": "A northern-circuit safari from Arusha, then Zanzibar. Covers six of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Arusha",
+        "morning": "Land at Kilimanjaro International Airport.",
+        "afternoon": "Transfer to Arusha and rest.",
+        "evening": "Safari briefing and dinner."
+      },
+      {
+        "day": 2,
+        "title": "Arusha",
+        "morning": "Arusha National Park game drive and canoe safari.",
+        "afternoon": "Momella Lakes.",
+        "evening": "Return to town."
+      },
+      {
+        "day": 3,
+        "title": "Tarangire",
+        "morning": "Drive to Tarangire National Park.",
+        "afternoon": "Game drive among baobabs and elephants.",
+        "evening": "Lodge."
+      },
+      {
+        "day": 4,
+        "title": "Lake Manyara and onward",
+        "morning": "Game drive at Lake Manyara.",
+        "afternoon": "Drive toward the Serengeti.",
+        "evening": "Camp."
+      },
+      {
+        "day": 5,
+        "title": "Central Serengeti",
+        "morning": "Dawn game drive.",
+        "afternoon": "Seronera, with leopards and lions.",
+        "evening": "Camp."
+      },
+      {
+        "day": 6,
+        "title": "Serengeti",
+        "morning": "Optional hot-air balloon.",
+        "afternoon": "Follow the migration.",
+        "evening": "Sundowner on a kopje."
+      },
+      {
+        "day": 7,
+        "title": "Serengeti",
+        "morning": "A full-day game drive.",
+        "afternoon": "Hippo pools and plains.",
+        "evening": "Camp."
+      },
+      {
+        "day": 8,
+        "title": "Ngorongoro",
+        "morning": "Drive to the Ngorongoro rim, via Olduvai Gorge.",
+        "afternoon": "Rim viewpoints.",
+        "evening": "Lodge on the rim."
+      },
+      {
+        "day": 9,
+        "title": "Ngorongoro Crater",
+        "morning": "Crater-floor game drive.",
+        "afternoon": "Drive back to Arusha.",
+        "evening": "Rest."
+      },
+      {
+        "day": 10,
+        "title": "To Zanzibar",
+        "morning": "Fly to Zanzibar.",
+        "afternoon": "Stone Town walking tour.",
+        "evening": "Forodhani Gardens food market."
+      },
+      {
+        "day": 11,
+        "title": "Stone Town and spices",
+        "morning": "Spice farm tour.",
+        "afternoon": "Prison Island or Jozani Forest.",
+        "evening": "Dinner."
+      },
+      {
+        "day": 12,
+        "title": "Beach",
+        "morning": "Transfer to Nungwi.",
+        "afternoon": "Swim and relax.",
+        "evening": "Sunset dhow cruise."
+      },
+      {
+        "day": 13,
+        "title": "Beach",
+        "morning": "Snorkelling or Mnemba boat trip.",
+        "afternoon": "Beach.",
+        "evening": "Farewell dinner."
+      },
+      {
+        "day": 14,
+        "title": "Departure",
+        "morning": "Transfer to the airport.",
+        "afternoon": "Fly home.",
+        "evening": "Home."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Tanzanians are friendly, polite and tolerant, and the country is known for peaceful coexistence between its many ethnic groups and religions. Greetings matter, life moves at a relaxed pace, and modest dress is respected, especially on the Muslim coast and Zanzibar.",
+    "etiquette": [
+      {
+        "title": "Greet people properly",
+        "text": "Always say 'hujambo' or 'habari' and ask how someone is before you ask for anything. Handshakes are common, and elders are shown respect."
+      },
+      {
+        "title": "Use your right hand",
+        "text": "Eat, give and receive with the right hand. The left is considered unclean."
+      },
+      {
+        "title": "Dress modestly",
+        "text": "Cover shoulders and knees in towns and villages, especially in Zanzibar and on the coast, and when visiting mosques."
+      },
+      {
+        "title": "Ask before taking photos",
+        "text": "Always ask permission to photograph people, including Maasai, and be prepared to pay if asked."
+      },
+      {
+        "title": "Respect Ramadan",
+        "text": "During Ramadan, many Muslims fast in daylight. Be discreet about eating and drinking in public, especially on Zanzibar."
+      },
+      {
+        "title": "Follow ranger guidance",
+        "text": "On safari, stay in your vehicle, keep quiet and do not feed or approach animals."
+      }
+    ],
+    "dos": [
+      "Learn a few Swahili words: jambo (hello), asante (thank you), pole pole (slowly)",
+      "Carry small notes for tips",
+      "Book safaris with licensed, reputable operators",
+      "Bring a soft duffel bag for light aircraft",
+      "Take malaria prophylaxis and a yellow fever certificate if required",
+      "Pack neutral-coloured clothing for safari"
+    ],
+    "donts": [
+      "Don't bring plastic bags into the country",
+      "Don't wear camouflage clothing",
+      "Don't photograph soldiers, police, airports or government buildings",
+      "Don't litter in the parks, or feed wildlife",
+      "Don't use a drone without a permit",
+      "Don't drink tap water"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Tanzania, several of which are specific to how safaris and travel here work.",
+  "tips": [
+    "Book safaris well ahead for June to October and the Christmas period.",
+    "Ask your operator how many other vehicles typically gather at sightings, and choose smaller camps.",
+    "Pack a soft bag, not a hard suitcase, if you fly between parks, and keep to the weight limit.",
+    "Take malaria precautions and check whether you need a yellow fever certificate.",
+    "Bring recent US dollar notes, since older or damaged notes are often refused.",
+    "Allow at least three nights in the Serengeti, since drives are long.",
+    "Choose Kilimanjaro operators that treat porters fairly, and tip on the recommended scale.",
+    "Dress modestly in towns and in Zanzibar."
+  ],
+  "faq": [
+    {
+      "q": "Is Tanzania safe for tourists?",
+      "a": "Generally yes. Safaris are well organised, but take care against petty theft and scams in cities, avoid night walks and follow your guide's instructions in the parks."
+    },
+    {
+      "q": "How many days do you need in Tanzania?",
+      "a": "Ten to fourteen days for a first trip, covering a northern safari and Zanzibar."
+    },
+    {
+      "q": "When is the best time to visit Tanzania?",
+      "a": "June to October for the dry-season safari, and January and February for the calving herds. The long rains from March to May are quiet and cheap."
+    },
+    {
+      "q": "Do I need a visa for Tanzania?",
+      "a": "Most visitors do. An e-visa can be applied for online. Check the official site, since fees and rules change."
+    },
+    {
+      "q": "Is a Tanzanian safari expensive?",
+      "a": "Yes. Park fees, lodges and vehicles add up. Camping safaris cost less, and the low season has lower prices."
+    },
+    {
+      "q": "Can I see the Great Migration all year?",
+      "a": "The herds are always on the move around the Serengeti, but where they are depends on the month. Ask your operator."
+    }
+  ]
+}

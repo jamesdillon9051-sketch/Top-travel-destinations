@@ -1,0 +1,337 @@
+{
+  "slug": "tarangire-manyara",
+  "name": "Tarangire and Lake Manyara",
+  "country": "tanzania",
+  "region": "Manyara Region, northern Tanzania",
+  "categories": [
+    "national-park",
+    "nature",
+    "scenic"
+  ],
+  "tagline": "Giant baobabs and huge elephant herds at Tarangire, and a soda lake with tree-climbing lions at Manyara.",
+  "highlight": "Watching elephant herds feed beneath ancient baobab trees in the dry season.",
+  "shortDescription": "Two compact parks on the northern circuit, famous for dry-season elephants, baobab landscapes, birdlife and the Rift Valley escarpment.",
+  "metaDescription": "Tarangire and Lake Manyara travel guide: elephants and baobabs, tree-climbing lions, flamingos, walking and night safaris, lodges, costs and a two-day plan.",
+  "suggestedStay": "2-3 days",
+  "nearestAirport": "Kilimanjaro (JRO) or Arusha (ARK), 2-3 hours by road",
+  "knownFor": "Elephants, baobabs, birdlife",
+  "budget": "US$250-600 per person per day, safari",
+  "goodFor": "Safari first-timers, birders, families",
+  "coords": {
+    "lat": -3.9667,
+    "lng": 36.0
+  },
+  "image": {
+    "file": "File:Elephant Parade.jpg",
+    "alt": "An elephant herd walking across the plains in Tarangire"
+  },
+  "intro": [
+    "Tarangire and Lake Manyara are the two parks usually done first on the northern safari circuit, with the quiet ease of shorter drives and fewer crowds than the Serengeti. Both are within a few hours of Arusha, making them ideal for a short trip.",
+    "Tarangire is famous for its huge elephant herds, which gather along the Tarangire River in the dry season, from June to October, when other water sources run dry. Its landscape is dotted with giant baobab trees, some over a thousand years old, and it is a good place for lions, leopards, giraffes and a long list of birds.",
+    "Lake Manyara is a small park squeezed between a Rift Valley escarpment and an alkaline lake. Groundwater forest, open floodplain and acacia woodland hold baboons, hippos, giraffes and, famously, lions that sometimes climb trees. The lake attracts thousands of flamingos in some seasons."
+  ],
+  "whyVisit": {
+    "intro": "These two parks add variety to any northern safari.",
+    "points": [
+      {
+        "title": "Elephant herds",
+        "text": "Among the biggest in Tanzania."
+      },
+      {
+        "title": "Baobab trees",
+        "text": "Landscape you can't see elsewhere."
+      },
+      {
+        "title": "Birdlife",
+        "text": "Hundreds of species recorded."
+      },
+      {
+        "title": "Easy access",
+        "text": "Short drives from Arusha."
+      },
+      {
+        "title": "Walking and night drives",
+        "text": "Offered outside the park in some areas."
+      }
+    ]
+  },
+  "attractionsIntro": "Both parks are compact and easy to combine.",
+  "attractions": [
+    {
+      "name": "Tarangire River",
+      "text": "The dry-season lifeline, with elephants, buffalo and zebra.",
+      "tip": "Park near the water in the afternoon."
+    },
+    {
+      "name": "Baobab landscapes",
+      "image": {
+        "file": "File:Elefanten fressen Baobab-Rinde.jpg",
+        "alt": "Elephants feeding on baobab bark in Tarangire"
+      },
+      "text": "Ancient trees across the plains.",
+      "tip": "Great for sunset photos."
+    },
+    {
+      "name": "Silale Swamp",
+      "text": "A wetland in the south with many animals.",
+      "tip": "Check access in the wet season."
+    },
+    {
+      "name": "Lake Manyara",
+      "image": {
+        "file": "File:Lake Manyara.jpg",
+        "alt": "Lake Manyara seen from the park"
+      },
+      "text": "An alkaline lake that draws flamingos and pelicans.",
+      "tip": "Binoculars help."
+    },
+    {
+      "name": "Groundwater forest",
+      "text": "Dense forest with baboons and blue monkeys at the park gate.",
+      "tip": "Early morning is best."
+    },
+    {
+      "name": "Rift Valley escarpment",
+      "text": "Views over the lake from the road.",
+      "tip": "A good photo stop."
+    }
+  ],
+  "thingsToDoIntro": "There are options beyond the vehicle drive.",
+  "thingsToDo": [
+    {
+      "title": "Search for tree-climbing lions",
+      "text": "At Manyara, in the acacia trees.",
+      "tip": "Ask your guide."
+    },
+    {
+      "title": "Walk with a ranger",
+      "text": "Outside the main park areas.",
+      "tip": "Wear neutral colours."
+    },
+    {
+      "title": "Take a night game drive",
+      "text": "In concession areas near the park.",
+      "tip": "See genets and bushbabies."
+    },
+    {
+      "title": "Go birdwatching",
+      "text": "Flamingos, pelicans and storks.",
+      "tip": "Bring a bird guide."
+    },
+    {
+      "title": "Visit a Mto wa Mbu village",
+      "text": "A lively market town near Manyara.",
+      "tip": "Take a cultural tour."
+    },
+    {
+      "title": "Cycle in Mto wa Mbu",
+      "text": "Through banana plantations.",
+      "tip": "Local guides run tours."
+    }
+  ],
+  "foodIntro": "Food is simple and local near the park gates.",
+  "foods": [
+    {
+      "name": "Ugali and beans",
+      "text": "Staple.",
+      "whereToTry": "Local restaurants in Mto wa Mbu."
+    },
+    {
+      "name": "Banana stew",
+      "text": "Cooked green bananas.",
+      "whereToTry": "Village restaurants."
+    },
+    {
+      "name": "Nyama choma",
+      "text": "Grilled meat.",
+      "whereToTry": "Roadside."
+    },
+    {
+      "name": "Chai",
+      "text": "Spiced tea.",
+      "whereToTry": "Market stalls."
+    },
+    {
+      "name": "Fresh fruit",
+      "text": "Local bananas and mangoes.",
+      "whereToTry": "Mto wa Mbu market."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay inside the parks or in nearby towns.",
+    "areas": [
+      {
+        "name": "Tarangire lodges",
+        "bestFor": "Wildlife",
+        "text": "Camps overlooking the river."
+      },
+      {
+        "name": "Mto wa Mbu",
+        "bestFor": "Culture and value",
+        "text": "Guesthouses near Manyara."
+      },
+      {
+        "name": "Karatu",
+        "bestFor": "Value",
+        "text": "Hotels on the way to Ngorongoro."
+      },
+      {
+        "name": "Rift Valley rim",
+        "bestFor": "Views",
+        "text": "Lodges on the escarpment."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Budget camp",
+        "value": "US$30-60 per night"
+      },
+      {
+        "label": "Mid-range lodge",
+        "value": "US$150-350 per night"
+      },
+      {
+        "label": "Luxury camp",
+        "value": "US$500-1,000 per night"
+      },
+      {
+        "label": "Park fees",
+        "value": "Around US$50-60 per person per day (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Both parks lie close to Arusha.",
+    "options": [
+      {
+        "mode": "Drive from Arusha",
+        "text": "About 2 to 3 hours to either park.",
+        "detail": "The easiest option."
+      },
+      {
+        "mode": "Safari package",
+        "text": "Combine with Ngorongoro and Serengeti.",
+        "detail": "Most travellers do."
+      },
+      {
+        "mode": "Scheduled flights",
+        "text": "To the Lake Manyara airstrip.",
+        "detail": "Rare, mostly on connections."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "You need a vehicle with a guide.",
+    "options": [
+      {
+        "mode": "Safari vehicle",
+        "text": "With a driver-guide.",
+        "detail": "Included in packages."
+      },
+      {
+        "mode": "Walking safari",
+        "text": "Outside the park.",
+        "detail": "Arrange locally."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "In Mto wa Mbu village.",
+        "detail": "Hire locally."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June-October",
+    "summary": "The dry season from June to October is best for elephants at Tarangire.",
+    "seasons": [
+      {
+        "season": "June-October",
+        "rating": "best",
+        "text": "Dry, with huge numbers of animals along the river."
+      },
+      {
+        "season": "November-December",
+        "rating": "good",
+        "text": "Short rains, green scenery and birds."
+      },
+      {
+        "season": "January-March",
+        "rating": "good",
+        "text": "Green, quiet, with migrant birds."
+      },
+      {
+        "season": "April-May",
+        "rating": "quiet",
+        "text": "Long rains, with lower prices and some road closures."
+      }
+    ],
+    "avoid": "April and May, when roads can flood."
+  },
+  "itinerary": {
+    "title": "Two days in Tarangire and Manyara",
+    "intro": "An easy circuit from Arusha.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Tarangire",
+        "summary": "Elephants and baobabs",
+        "morning": "Drive from Arusha to the park",
+        "afternoon": "Game drive along the river",
+        "evening": "Overnight at a camp"
+      },
+      {
+        "day": 2,
+        "title": "Lake Manyara",
+        "summary": "Lions and flamingos",
+        "morning": "Drive to Manyara",
+        "afternoon": "Game drive in the park",
+        "evening": "Return to Arusha or continue to Ngorongoro"
+      }
+    ]
+  },
+  "tipsIntro": "Some practical tips.",
+  "tips": [
+    "Visit Tarangire in the dry season for elephants.",
+    "Bring binoculars for birdlife.",
+    "Wear neutral clothes and a hat.",
+    "Carry water and sunscreen.",
+    "Combine with Ngorongoro to save time.",
+    "Stay in the park for night access.",
+    "Respect wildlife distances."
+  ],
+  "faq": [
+    {
+      "q": "Which park is better?",
+      "a": "Tarangire for elephants, Manyara for scenery and birds."
+    },
+    {
+      "q": "Do tree-climbing lions always appear?",
+      "a": "No, they are a bonus."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Two days for both."
+    },
+    {
+      "q": "Are there baobabs elsewhere?",
+      "a": "Yes, but Tarangire has famous ones."
+    },
+    {
+      "q": "Is it good for families?",
+      "a": "Yes, short drives."
+    },
+    {
+      "q": "Can I walk?",
+      "a": "Only with rangers and in permitted areas."
+    }
+  ],
+  "related": [
+    "serengeti",
+    "ngorongoro-crater",
+    "arusha-meru"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "slug": "kilimanjaro",
+  "name": "Mount Kilimanjaro",
+  "country": "tanzania",
+  "region": "Kilimanjaro Region, northern Tanzania",
+  "categories": [
+    "mountains",
+    "national-park",
+    "nature",
+    "unesco",
+    "scenic"
+  ],
+  "tagline": "Africa's highest mountain at 5,895 metres, a free-standing volcano with glaciers on the equator.",
+  "highlight": "Standing on Uhuru Peak at sunrise after a midnight summit push.",
+  "shortDescription": "A trekkable giant with five climate zones, several routes, a UNESCO listing and gentler options like day hikes in the foothills and coffee farms.",
+  "metaDescription": "A Mount Kilimanjaro guide: Machame, Lemosho, Marangu, Rongai and Northern Circuit routes, how many days, altitude sickness, costs, guides and porters.",
+  "suggestedStay": "6-9 days for a climb",
+  "nearestAirport": "Kilimanjaro International (JRO), about 45 minutes from Moshi",
+  "knownFor": "Trekking, summit, altitude",
+  "budget": "US$2,000-5,000 per person for a climb",
+  "goodFor": "Trekkers, adventurers, fit walkers",
+  "coords": {
+    "lat": -3.0674,
+    "lng": 37.3556
+  },
+  "image": {
+    "file": "File:Uhuru Peak Mount Kilimanjaro Tanzania.jpg",
+    "alt": "Hikers on Uhuru Peak, the summit of Mount Kilimanjaro"
+  },
+  "intro": [
+    "Kilimanjaro rises from the plains of northern Tanzania to 5,895 metres, the highest point in Africa and the tallest free-standing mountain in the world. It has three volcanic cones: Kibo, Mawenzi and Shira, and Uhuru Peak on the rim of Kibo is the summit most climbers aim for.",
+    "It is one of the few seven-summit peaks that needs no technical climbing skills. The trek passes through five ecological zones: farmland, rainforest, heath and moorland, alpine desert and the arctic summit. Several routes lead to the top, with different lengths, difficulty and scenery.",
+    "Altitude is the real challenge. Longer routes give your body more time to adapt, and success rates are much higher on seven- to nine-day itineraries. Climbs must be arranged through a licensed operator, with guides, cooks and porters, and the mountain's permit fees are significant. You do not have to reach the top to enjoy the lower slopes, which offer day walks, waterfalls and coffee farm tours."
+  ],
+  "whyVisit": {
+    "intro": "Kilimanjaro is a bucket-list adventure that anyone fit and well-prepared can attempt.",
+    "points": [
+      {
+        "title": "Africa's highest peak",
+        "text": "Reach 5,895 metres."
+      },
+      {
+        "title": "Five climate zones",
+        "text": "Jungle to ice on one walk."
+      },
+      {
+        "title": "No technical climbing",
+        "text": "A trek, not a mountaineering feat."
+      },
+      {
+        "title": "Multiple routes",
+        "text": "Choose your pace."
+      },
+      {
+        "title": "Rich local culture",
+        "text": "Chagga and Maasai communities."
+      }
+    ]
+  },
+  "attractionsIntro": "The mountain and its foothills offer several highlights.",
+  "attractions": [
+    {
+      "name": "Uhuru Peak",
+      "image": {
+        "file": "File:Kilimanjaro Uhuru Peak Sign.jpg",
+        "alt": "The summit sign at Uhuru Peak on Kilimanjaro"
+      },
+      "text": "The summit on the rim of Kibo.",
+      "tip": "Start the final push around midnight."
+    },
+    {
+      "name": "Machame Route",
+      "image": {
+        "file": "File:Machame Gate, Mt. Kilimanjaro.jpg",
+        "alt": "The Machame Gate at the start of the route"
+      },
+      "text": "The \"Whisky route\", scenic and popular.",
+      "tip": "Allow seven days."
+    },
+    {
+      "name": "Lemosho Route",
+      "text": "A quieter, high-success route from the west.",
+      "tip": "Eight days is ideal."
+    },
+    {
+      "name": "Marangu Route",
+      "text": "The \"Coca-Cola route\" with huts.",
+      "tip": "The only route with huts."
+    },
+    {
+      "name": "Kibo crater and glaciers",
+      "image": {
+        "file": "File:Reusch Crater Mount Kilimanjaro Tanzania.jpg",
+        "alt": "Reusch Crater at the top of Kilimanjaro"
+      },
+      "text": "Remaining ice on the summit.",
+      "tip": "Bring a warm layer."
+    },
+    {
+      "name": "Materuni Waterfall",
+      "text": "A foothill waterfall with coffee tours.",
+      "tip": "A good rest-day trip."
+    }
+  ],
+  "thingsToDoIntro": "Many visitors climb, but there are other options too.",
+  "thingsToDo": [
+    {
+      "title": "Climb to the summit",
+      "text": "A 6 to 9 day trek.",
+      "tip": "Choose a longer route."
+    },
+    {
+      "title": "Hike in the foothills",
+      "text": "Day walks in the forest zone.",
+      "tip": "Good for acclimatising."
+    },
+    {
+      "title": "Visit a coffee farm",
+      "text": "With the Chagga people.",
+      "tip": "Often combined with Materuni."
+    },
+    {
+      "title": "Soak in hot springs",
+      "text": "At Kikuletwa near Moshi.",
+      "tip": "A refreshing break."
+    },
+    {
+      "title": "Take a cultural walk",
+      "text": "Through Chagga villages.",
+      "tip": "Join a guided tour."
+    },
+    {
+      "title": "Ride along Marangu",
+      "text": "Visit local waterfalls.",
+      "tip": "Ask your hotel."
+    }
+  ],
+  "foodIntro": "Moshi and the villages around the mountain have simple local food.",
+  "foods": [
+    {
+      "name": "Mbege",
+      "text": "Banana beer of the Chagga.",
+      "whereToTry": "Village bars."
+    },
+    {
+      "name": "Ndizi nyama",
+      "text": "Banana and meat stew.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Ugali",
+      "text": "Maize porridge.",
+      "whereToTry": "Everywhere."
+    },
+    {
+      "name": "Machalari",
+      "text": "Bananas cooked with meat.",
+      "whereToTry": "Villages."
+    },
+    {
+      "name": "Kilimanjaro coffee",
+      "text": "Grown on the slopes.",
+      "whereToTry": "Cafes in Moshi."
+    }
+  ],
+  "accommodation": {
+    "intro": "Most climbers base themselves in Moshi or Arusha.",
+    "areas": [
+      {
+        "name": "Moshi",
+        "bestFor": "Climbers",
+        "text": "Town at the foot of the mountain."
+      },
+      {
+        "name": "Marangu",
+        "bestFor": "Quiet",
+        "text": "Villages on the lower slopes."
+      },
+      {
+        "name": "Arusha",
+        "bestFor": "Safaris",
+        "text": "City with more services."
+      },
+      {
+        "name": "Machame",
+        "bestFor": "Scenery",
+        "text": "Lodges near the gate."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Budget climb",
+        "value": "From US$1,800-2,500 per person"
+      },
+      {
+        "label": "Mid-range climb",
+        "value": "US$2,500-3,500 per person"
+      },
+      {
+        "label": "Luxury climb",
+        "value": "US$4,000-5,500 per person"
+      },
+      {
+        "label": "Park fees",
+        "value": "A major part of the cost, charged per day (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Most climbers fly to Kilimanjaro airport.",
+    "options": [
+      {
+        "mode": "Fly to JRO",
+        "text": "Kilimanjaro International Airport.",
+        "detail": "About 45 minutes from Moshi."
+      },
+      {
+        "mode": "Drive from Arusha",
+        "text": "About 1.5 hours.",
+        "detail": "Shuttle or private."
+      },
+      {
+        "mode": "Operator transfer",
+        "text": "Included in most packages.",
+        "detail": "Arrange in advance."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Climbs are guided and supported.",
+    "options": [
+      {
+        "mode": "Guided trek",
+        "text": "With guides, cooks and porters.",
+        "detail": "Required by park rules."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Between Moshi and the gates.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Dala-dala",
+        "text": "Local minibuses.",
+        "detail": "Cheap but crowded."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "January-March, June-October",
+    "summary": "Two dry seasons give the clearest weather: January to March and June to October.",
+    "seasons": [
+      {
+        "season": "January-March",
+        "rating": "best",
+        "text": "Dry, warm and clear."
+      },
+      {
+        "season": "June-October",
+        "rating": "best",
+        "text": "Cooler and dry, the busiest season."
+      },
+      {
+        "season": "April-May",
+        "rating": "avoid",
+        "text": "Long rains, with wet and cloudy conditions."
+      },
+      {
+        "season": "November-December",
+        "rating": "quiet",
+        "text": "Short rains, fewer climbers."
+      }
+    ],
+    "avoid": "April, May and November, when rain and cloud are common."
+  },
+  "itinerary": {
+    "title": "Seven days on the Machame route",
+    "intro": "A classic scenic route.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Machame Gate",
+        "summary": "Rainforest",
+        "morning": "Hike through forest",
+        "afternoon": "Lunch on the trail",
+        "evening": "Camp at Machame"
+      },
+      {
+        "day": 2,
+        "title": "Shira Plateau",
+        "summary": "Moorland",
+        "morning": "Walk to Shira",
+        "afternoon": "Lunch",
+        "evening": "Camp"
+      },
+      {
+        "day": 3,
+        "title": "Lava Tower",
+        "summary": "Acclimatise",
+        "morning": "Climb high, sleep low",
+        "afternoon": "Descend to Barranco",
+        "evening": "Camp"
+      },
+      {
+        "day": 4,
+        "title": "Barranco Wall",
+        "summary": "Scramble",
+        "morning": "Climb the wall",
+        "afternoon": "Karanga valley",
+        "evening": "Camp"
+      },
+      {
+        "day": 5,
+        "title": "Barafu",
+        "summary": "Prepare",
+        "morning": "Short trek",
+        "afternoon": "Rest",
+        "evening": "Camp at Barafu"
+      },
+      {
+        "day": 6,
+        "title": "Summit Day",
+        "summary": "Uhuru",
+        "morning": "Midnight start to Uhuru Peak",
+        "afternoon": "Descend to Mweka",
+        "evening": "Camp"
+      },
+      {
+        "day": 7,
+        "title": "Descent",
+        "summary": "Back to Moshi",
+        "morning": "Walk to Mweka Gate",
+        "afternoon": "Transfer",
+        "evening": "Celebration dinner"
+      }
+    ]
+  },
+  "tipsIntro": "Planning a climb takes some preparation.",
+  "tips": [
+    "Choose a longer route to adapt to altitude.",
+    "Hire a reputable, licensed operator.",
+    "Check porter welfare standards.",
+    "Pack warm layers and good boots.",
+    "Train with long hikes beforehand.",
+    "Drink plenty of water.",
+    "Tip guides and porters fairly."
+  ],
+  "faq": [
+    {
+      "q": "How hard is it?",
+      "a": "Demanding because of altitude, not technique."
+    },
+    {
+      "q": "Which route is best?",
+      "a": "Lemosho and Machame are popular, Lemosho has the best odds."
+    },
+    {
+      "q": "Do I need a guide?",
+      "a": "Yes, it is required."
+    },
+    {
+      "q": "How much does it cost?",
+      "a": "Typically US$2,000 and up."
+    },
+    {
+      "q": "What about altitude sickness?",
+      "a": "Climb slowly and tell your guide."
+    },
+    {
+      "q": "When should I go?",
+      "a": "January to March or June to October."
+    }
+  ],
+  "related": [
+    "arusha-meru",
+    "serengeti",
+    "zanzibar-beaches"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

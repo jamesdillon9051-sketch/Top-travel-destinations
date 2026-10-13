@@ -1,0 +1,346 @@
+{
+  "slug": "nyerere-selous",
+  "name": "Nyerere National Park (Selous)",
+  "country": "tanzania",
+  "region": "Morogoro and Lindi regions, southern Tanzania",
+  "categories": [
+    "national-park",
+    "nature",
+    "unesco",
+    "off-the-beaten-path"
+  ],
+  "tagline": "Boat safaris, walking safaris and wild dogs in the Rufiji River wilderness.",
+  "highlight": "Drifting down the Rufiji River past hippos and crocodiles at dusk.",
+  "shortDescription": "A huge southern park with the Rufiji River, boat and walking safaris, African wild dogs and fewer visitors than the northern circuit.",
+  "metaDescription": "A Nyerere (Selous) safari guide: boat and walking safaris, wild dogs, the Rufiji River, camps, getting there from Dar es Salaam, costs and a three-day plan.",
+  "suggestedStay": "2-4 days",
+  "nearestAirport": "Dar es Salaam (DAR), 45-minute flight to the park",
+  "knownFor": "River wildlife, boat safaris, walking",
+  "budget": "US$250-700 per person per day, safari",
+  "goodFor": "Safari fans, walkers, repeat visitors",
+  "coords": {
+    "lat": -7.9833,
+    "lng": 38.3167
+  },
+  "image": {
+    "file": "File:Nyerere National Park (21).jpg",
+    "alt": "A scene in Nyerere National Park"
+  },
+  "intro": [
+    "Nyerere National Park was carved from the northern part of the former Selous Game Reserve, one of the largest protected areas in Africa. The Rufiji River winds through it, feeding lakes, channels and floodplains where hippos, crocodiles and huge numbers of birds gather.",
+    "What sets Nyerere apart is the variety of safari styles. In addition to normal game drives, camps offer boat safaris on Lake Tagalala and the Rufiji, and guided walking safaris with armed rangers, which are not allowed in most other Tanzanian parks. The park is one of the best places in the country to see African wild dogs, along with lions, elephants, giraffes and buffalo.",
+    "It is easily reached by a short flight from Dar es Salaam, making it a good add-on for a beach holiday on Zanzibar. Most camps are small, and visitor numbers are low, giving a more private experience than the northern circuit."
+  ],
+  "whyVisit": {
+    "intro": "Nyerere is a wilder, quieter alternative to the northern parks.",
+    "points": [
+      {
+        "title": "Boat safaris",
+        "text": "Float among hippos and crocodiles."
+      },
+      {
+        "title": "Walking safaris",
+        "text": "Experience the bush on foot."
+      },
+      {
+        "title": "Wild dogs",
+        "text": "One of the best places to see them."
+      },
+      {
+        "title": "Few visitors",
+        "text": "A private experience."
+      },
+      {
+        "title": "Easy flight from Dar",
+        "text": "A quick add-on."
+      }
+    ]
+  },
+  "attractionsIntro": "Activities here centre on the river and lakes.",
+  "attractions": [
+    {
+      "name": "Rufiji River",
+      "image": {
+        "file": "File:Nyerere National Park (30).jpg",
+        "alt": "The Rufiji River landscape in Nyerere National Park"
+      },
+      "text": "Hippos, crocodiles and riverbirds.",
+      "tip": "Take a sunset boat trip."
+    },
+    {
+      "name": "Lake Tagalala",
+      "text": "A lake with elephants and waterbirds.",
+      "tip": "Great for boat safaris."
+    },
+    {
+      "name": "Walking safari",
+      "text": "Led by an armed ranger.",
+      "tip": "Wear neutral colours."
+    },
+    {
+      "name": "Wild dog packs",
+      "text": "Often seen in the dry season.",
+      "tip": "Ask guides for den sites."
+    },
+    {
+      "name": "Game drive circuits",
+      "image": {
+        "file": "File:Giraffe at Nyerere National Park.jpg",
+        "alt": "A giraffe in Nyerere National Park"
+      },
+      "text": "Lions, giraffes and buffalo.",
+      "tip": "Go early."
+    },
+    {
+      "name": "Fly-camping",
+      "text": "Sleep in a simple tent in the bush.",
+      "tip": "Ask your operator."
+    }
+  ],
+  "thingsToDoIntro": "Mix drives with boat and walking activities.",
+  "thingsToDo": [
+    {
+      "title": "Boat safari",
+      "text": "On the Rufiji.",
+      "tip": "Bring a hat."
+    },
+    {
+      "title": "Walking safari",
+      "text": "With a ranger.",
+      "tip": "Listen carefully."
+    },
+    {
+      "title": "Game drive",
+      "text": "At dawn.",
+      "tip": "Binoculars help."
+    },
+    {
+      "title": "Fishing trip",
+      "text": "Catch-and-release.",
+      "tip": "Ask your camp."
+    },
+    {
+      "title": "Bush dinner",
+      "text": "Under the stars.",
+      "tip": "A camp highlight."
+    },
+    {
+      "title": "Visit a village",
+      "text": "Learn about local life.",
+      "tip": "Ask your camp."
+    }
+  ],
+  "foodIntro": "Meals are mostly camp-prepared.",
+  "foods": [
+    {
+      "name": "Fresh fish",
+      "text": "Rufiji catch.",
+      "whereToTry": "Camp dinners."
+    },
+    {
+      "name": "Ugali",
+      "text": "Maize porridge.",
+      "whereToTry": "Local meals."
+    },
+    {
+      "name": "Chapati",
+      "text": "Flatbread.",
+      "whereToTry": "Camp breakfast."
+    },
+    {
+      "name": "Mandazi",
+      "text": "Fried dough.",
+      "whereToTry": "Tea time."
+    },
+    {
+      "name": "Pilau",
+      "text": "Spiced rice.",
+      "whereToTry": "Lunch."
+    }
+  ],
+  "accommodation": {
+    "intro": "Camps are the way to stay.",
+    "areas": [
+      {
+        "name": "Riverside camps",
+        "bestFor": "Boat safaris",
+        "text": "Camps on the Rufiji."
+      },
+      {
+        "name": "Lake Tagalala",
+        "bestFor": "Birds",
+        "text": "Camps near the lake."
+      },
+      {
+        "name": "Eco-lodges",
+        "bestFor": "Value",
+        "text": "Smaller lodges."
+      },
+      {
+        "name": "Fly-camp",
+        "bestFor": "Adventure",
+        "text": "Basic bush tents."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Budget camp",
+        "value": "US$150-250 per person per night"
+      },
+      {
+        "label": "Mid-range camp",
+        "value": "US$300-500 per person per night"
+      },
+      {
+        "label": "Luxury camp",
+        "value": "US$600-1,000+ per person per night"
+      },
+      {
+        "label": "Park fees",
+        "value": "Around US$50-60 per person per day (check)"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Most guests fly in from Dar es Salaam or Zanzibar.",
+    "options": [
+      {
+        "mode": "Fly from Dar es Salaam",
+        "text": "About 45 minutes.",
+        "detail": "Fastest."
+      },
+      {
+        "mode": "Drive from Dar",
+        "text": "About 5 to 6 hours.",
+        "detail": "Long but scenic."
+      },
+      {
+        "mode": "Fly from Zanzibar",
+        "text": "About 1 hour.",
+        "detail": "Easy beach-safari combo."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "You will move by vehicle, boat or on foot.",
+    "options": [
+      {
+        "mode": "Safari vehicle",
+        "text": "With a driver-guide.",
+        "detail": "Included."
+      },
+      {
+        "mode": "Boat",
+        "text": "On the river.",
+        "detail": "Included in activities."
+      },
+      {
+        "mode": "On foot",
+        "text": "With a ranger.",
+        "detail": "Short walks."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June-October",
+    "summary": "The dry season gives the best wildlife viewing around the river and lakes.",
+    "seasons": [
+      {
+        "season": "June-October",
+        "rating": "best",
+        "text": "Dry and easy wildlife viewing."
+      },
+      {
+        "season": "November-December",
+        "rating": "good",
+        "text": "Short rains."
+      },
+      {
+        "season": "January-February",
+        "rating": "good",
+        "text": "Green and hot."
+      },
+      {
+        "season": "March-May",
+        "rating": "avoid",
+        "text": "Long rains, many camps close."
+      }
+    ],
+    "avoid": "March to May, when most camps close."
+  },
+  "itinerary": {
+    "title": "Three days in Nyerere",
+    "intro": "A river-based stay.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival",
+        "summary": "Flight in",
+        "morning": "Fly from Dar",
+        "afternoon": "Afternoon game drive",
+        "evening": "Sundowner"
+      },
+      {
+        "day": 2,
+        "title": "River day",
+        "summary": "Boats and birds",
+        "morning": "Boat safari",
+        "afternoon": "Rest",
+        "evening": "Evening drive"
+      },
+      {
+        "day": 3,
+        "title": "Walking",
+        "summary": "On foot",
+        "morning": "Morning walk",
+        "afternoon": "Lunch",
+        "evening": "Flight out"
+      }
+    ]
+  },
+  "tipsIntro": "A few tips for southern safaris.",
+  "tips": [
+    "Book camps early, since they are small.",
+    "Check which camps are open in the rains.",
+    "Pack light for small aircraft.",
+    "Bring insect repellent.",
+    "Wear neutral clothing.",
+    "Ask about wild dog sightings.",
+    "Respect ranger instructions."
+  ],
+  "faq": [
+    {
+      "q": "Is it worth a visit?",
+      "a": "Yes for boat and walking safaris."
+    },
+    {
+      "q": "How is it different from the Serengeti?",
+      "a": "Fewer people, more variety of activities."
+    },
+    {
+      "q": "Can I self-drive?",
+      "a": "Not recommended."
+    },
+    {
+      "q": "Is malaria a concern?",
+      "a": "Yes, take advice."
+    },
+    {
+      "q": "When is best?",
+      "a": "June to October."
+    },
+    {
+      "q": "How long do I need?",
+      "a": "Two to four days."
+    }
+  ],
+  "related": [
+    "ruaha",
+    "zanzibar-beaches",
+    "serengeti"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

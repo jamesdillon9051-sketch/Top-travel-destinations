@@ -1,0 +1,343 @@
+{
+  "slug": "stone-town",
+  "name": "Stone Town, Zanzibar",
+  "country": "tanzania",
+  "region": "Zanzibar City, Unguja island",
+  "categories": [
+    "historic",
+    "unesco",
+    "cultural",
+    "island",
+    "coastal"
+  ],
+  "tagline": "A maze of coral-stone alleys, carved doors, spice markets and sultans' palaces on the Swahili coast.",
+  "highlight": "Getting lost in the lanes, then watching the sun set over the harbour from a rooftop.",
+  "shortDescription": "A UNESCO-listed Swahili trading port with Omani, Indian, Arab and European influences, famous for carved doors, markets, palaces and seafood.",
+  "metaDescription": "A Stone Town travel guide: carved doors, House of Wonders, Forodhani Gardens, Old Fort, slave market memorial, spice tours, where to stay, costs and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Abeid Amani Karume International (ZNZ), about 15-20 minutes by road",
+  "knownFor": "Swahili history, architecture, markets",
+  "budget": "US$50-150 per day",
+  "goodFor": "History, culture, food",
+  "coords": {
+    "lat": -6.1659,
+    "lng": 39.1925
+  },
+  "image": {
+    "file": "File:Fuerte Viejo, Stone Town, Zanzíbar, Tanzania, 2024-05-31, DD 32.jpg",
+    "alt": "The Old Fort in Stone Town, Zanzibar"
+  },
+  "intro": [
+    "Stone Town is the old heart of Zanzibar City, a tangle of narrow alleys, coral-stone houses and bustling bazaars. For centuries it was a trading hub for spices, ivory and, darkly, enslaved people, and its architecture mixes Swahili, Arab, Indian and European styles. The whole district is a UNESCO World Heritage Site.",
+    "The best way to see it is to walk without a plan. Look for the ornate carved wooden doors, studded with brass spikes, and for the balconied merchant houses. The House of Wonders, the Old Fort, the Anglican cathedral on the former slave market and the Sultan's Palace Museum all tell parts of the story, and at dusk the Forodhani Gardens fill with food stalls.",
+    "Zanzibar is also famed for its spices, and half-day spice farm tours from town are popular. Stone Town is the main base for catching ferries and flights to other islands, so most visitors spend two nights here before heading to the beaches. Dress modestly, since the population is largely Muslim."
+  ],
+  "whyVisit": {
+    "intro": "Stone Town is one of the most atmospheric historic towns in East Africa.",
+    "points": [
+      {
+        "title": "A living old town",
+        "text": "Not a museum, people live and trade here."
+      },
+      {
+        "title": "Carved doors",
+        "text": "Hundreds of artisan examples."
+      },
+      {
+        "title": "Layered history",
+        "text": "Swahili, Omani and colonial."
+      },
+      {
+        "title": "Food and markets",
+        "text": "Seafood, street snacks and spices."
+      },
+      {
+        "title": "Easy base",
+        "text": "Close to the airport and beaches."
+      }
+    ]
+  },
+  "attractionsIntro": "Most sights are within a short walk of each other.",
+  "attractions": [
+    {
+      "name": "Carved doors",
+      "image": {
+        "file": "File:Carved wooden door — in Stone Town, Zanzibar City.jpg",
+        "alt": "An ornate carved wooden door in Stone Town"
+      },
+      "text": "Studded wooden doors across the old town.",
+      "tip": "Look for Indian and Swahili styles."
+    },
+    {
+      "name": "House of Wonders (Beit al-Ajaib)",
+      "image": {
+        "file": "File:House of wonders.jpg",
+        "alt": "The House of Wonders on the Stone Town waterfront"
+      },
+      "text": "A grand waterfront palace turned museum.",
+      "tip": "Check opening status before going."
+    },
+    {
+      "name": "Old Fort",
+      "text": "A 17th-century Omani fort with an amphitheatre.",
+      "tip": "Free to enter."
+    },
+    {
+      "name": "Forodhani Gardens",
+      "image": {
+        "file": "File:Forodhani jubilee gardens Zanzibar.jpg",
+        "alt": "Forodhani Gardens on the Stone Town waterfront"
+      },
+      "text": "Waterfront park with sunset food stalls.",
+      "tip": "Bargain and check prices."
+    },
+    {
+      "name": "Former slave market",
+      "text": "A memorial and cathedral on the site.",
+      "tip": "Allow time for the exhibition."
+    },
+    {
+      "name": "Darajani Market",
+      "text": "A busy covered market for fish, spices and fruit.",
+      "tip": "Go in the morning."
+    }
+  ],
+  "thingsToDoIntro": "Allow time to wander and eat.",
+  "thingsToDo": [
+    {
+      "title": "Take a walking tour",
+      "text": "With a local guide.",
+      "tip": "Learn about the history."
+    },
+    {
+      "title": "Visit a spice farm",
+      "text": "A half-day trip nearby.",
+      "tip": "Taste fresh fruit."
+    },
+    {
+      "title": "Sail on a dhow",
+      "text": "A sunset cruise.",
+      "tip": "Book with a licensed operator."
+    },
+    {
+      "title": "Eat at Forodhani",
+      "text": "Grilled seafood and Zanzibar pizza.",
+      "tip": "Check freshness."
+    },
+    {
+      "title": "Shop for crafts",
+      "text": "Fabrics and spices.",
+      "tip": "Bargain politely."
+    },
+    {
+      "title": "Watch the sunset from a rooftop",
+      "text": "A Stone Town tradition.",
+      "tip": "Reserve in advance."
+    }
+  ],
+  "foodIntro": "Food in Stone Town blends African, Arab and Indian traditions.",
+  "foods": [
+    {
+      "name": "Zanzibar pizza",
+      "text": "A stuffed fried pancake.",
+      "whereToTry": "Forodhani Gardens."
+    },
+    {
+      "name": "Urojo",
+      "text": "Zanzibar mix soup.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Biryani",
+      "text": "Spiced rice with meat.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Fresh seafood",
+      "text": "Grilled octopus and kingfish.",
+      "whereToTry": "Waterfront stalls."
+    },
+    {
+      "name": "Spiced tea and coffee",
+      "text": "With cardamom and cloves.",
+      "whereToTry": "Cafes."
+    }
+  ],
+  "accommodation": {
+    "intro": "Stay in the heart of the old town or on its edge.",
+    "areas": [
+      {
+        "name": "Old town",
+        "bestFor": "Atmosphere",
+        "text": "Restored merchant houses."
+      },
+      {
+        "name": "Waterfront",
+        "bestFor": "Views",
+        "text": "Hotels along the seafront."
+      },
+      {
+        "name": "Shangani",
+        "bestFor": "Restaurants",
+        "text": "Lively district."
+      },
+      {
+        "name": "Mchanga mdogo",
+        "bestFor": "Value",
+        "text": "Guesthouses off the main lanes."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Guesthouse",
+        "value": "US$30-70 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$80-180 per night"
+      },
+      {
+        "label": "Boutique palace hotel",
+        "value": "US$200-400 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$5-20 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Stone Town is the main entry point to Zanzibar.",
+    "options": [
+      {
+        "mode": "Fly to Zanzibar",
+        "text": "Direct and connecting flights.",
+        "detail": "Airport is 20 minutes away."
+      },
+      {
+        "mode": "Ferry from Dar es Salaam",
+        "text": "About 2 hours.",
+        "detail": "Book fast ferries ahead."
+      },
+      {
+        "mode": "Flight from Arusha",
+        "text": "About 1.5 hours.",
+        "detail": "A common safari-beach combo."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The old town is best on foot.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "Alleys are for pedestrians.",
+        "detail": "Carry a map."
+      },
+      {
+        "mode": "Taxi",
+        "text": "To beaches and farms.",
+        "detail": "Agree the fare."
+      },
+      {
+        "mode": "Dala-dala",
+        "text": "Minibuses to the island.",
+        "detail": "Cheap but crowded."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June-October",
+    "summary": "The dry season from June to October is the best time, with the hottest months in January and February.",
+    "seasons": [
+      {
+        "season": "June-October",
+        "rating": "best",
+        "text": "Dry and sunny."
+      },
+      {
+        "season": "December-February",
+        "rating": "good",
+        "text": "Hot and humid."
+      },
+      {
+        "season": "March-May",
+        "rating": "avoid",
+        "text": "Long rains."
+      },
+      {
+        "season": "November",
+        "rating": "quiet",
+        "text": "Short rains."
+      }
+    ],
+    "avoid": "April and May, during the long rains."
+  },
+  "itinerary": {
+    "title": "Two days in Stone Town",
+    "intro": "Alleys, palaces and spices.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Old town",
+        "summary": "History",
+        "morning": "Walk the alleys and carved doors",
+        "afternoon": "House of Wonders and Old Fort",
+        "evening": "Dinner at Forodhani"
+      },
+      {
+        "day": 2,
+        "title": "Markets and spices",
+        "summary": "Flavours",
+        "morning": "Darajani Market",
+        "afternoon": "Spice farm tour",
+        "evening": "Sunset dhow cruise"
+      }
+    ]
+  },
+  "tipsIntro": "A few tips for visiting.",
+  "tips": [
+    "Dress modestly in the old town.",
+    "Carry cash for markets.",
+    "Be cautious with street food freshness.",
+    "Hire a licensed guide.",
+    "Avoid walking alone late at night.",
+    "Respect prayer times.",
+    "Book rooftop tables ahead."
+  ],
+  "faq": [
+    {
+      "q": "How long do I need?",
+      "a": "Two days."
+    },
+    {
+      "q": "Is it safe?",
+      "a": "Generally, with common-sense care."
+    },
+    {
+      "q": "Can I swim there?",
+      "a": "No, beaches are elsewhere."
+    },
+    {
+      "q": "What should I wear?",
+      "a": "Modest clothes."
+    },
+    {
+      "q": "When is Ramadan?",
+      "a": "Check dates, some places close by day."
+    },
+    {
+      "q": "Are there ATMs?",
+      "a": "Yes in the main town."
+    }
+  ],
+  "related": [
+    "zanzibar-beaches",
+    "mafia-island",
+    "kilimanjaro"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

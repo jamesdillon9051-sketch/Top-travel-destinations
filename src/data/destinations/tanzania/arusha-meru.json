@@ -1,0 +1,342 @@
+{
+  "slug": "arusha-meru",
+  "name": "Arusha and Mount Meru",
+  "country": "tanzania",
+  "region": "Arusha Region, northern Tanzania",
+  "categories": [
+    "major-city",
+    "nature",
+    "mountains",
+    "national-park"
+  ],
+  "tagline": "The safari capital of Tanzania, set beneath Mount Meru, with a national park on its doorstep.",
+  "highlight": "Walking among giraffes with a ranger in Arusha National Park, with Kilimanjaro on the horizon.",
+  "shortDescription": "A bustling gateway city with markets, cafes and museums, plus Arusha National Park, Mount Meru treks and Lake Duluti.",
+  "metaDescription": "Arusha and Mount Meru guide: the safari gateway, markets and museums, Arusha National Park, climbing Mount Meru, Lake Duluti, coffee farms and a two-day plan.",
+  "suggestedStay": "1-3 days",
+  "nearestAirport": "Kilimanjaro International (JRO), about 45-60 minutes by road",
+  "knownFor": "Safari base, Arusha National Park, Mount Meru",
+  "budget": "US$60-150 per day, without safari costs",
+  "goodFor": "Safari base, hikers, short stays",
+  "coords": {
+    "lat": -3.3869,
+    "lng": 36.683
+  },
+  "image": {
+    "file": "File:Arusha Clocktower.jpg",
+    "alt": "The clock tower at the centre of Arusha"
+  },
+  "intro": [
+    "Arusha is the starting point for nearly every northern safari, and a lively city in its own right. Built on the slopes of Mount Meru at about 1,400 metres, it has a pleasant climate, a busy market, craft shops, restaurants and a growing cafe scene. Most visitors spend a night before and after safari, but a day or two here is worthwhile.",
+    "Mount Meru, a volcano rising to 4,562 metres, is Tanzania's second-highest peak and is often climbed as an acclimatisation hike before Kilimanjaro. The route passes through Arusha National Park, so you walk with an armed ranger among buffalo and giraffes, and on a clear morning the view of Kilimanjaro from the summit is memorable.",
+    "Arusha National Park is small but varied, with Ngurdoto Crater, the Momella Lakes with flamingos, colobus monkeys in the forest and canoeing safaris. It is only a short drive from the city, which makes it ideal for a first or last day. Nearby Lake Duluti and the coffee farms on the slopes offer easy half-day outings."
+  ],
+  "whyVisit": {
+    "intro": "Arusha gives you a practical base and a taste of safari life close to town.",
+    "points": [
+      {
+        "title": "Safari gateway",
+        "text": "Everything starts here."
+      },
+      {
+        "title": "Arusha National Park",
+        "text": "A varied park close to the city."
+      },
+      {
+        "title": "Mount Meru",
+        "text": "A rewarding 3 to 4 day trek."
+      },
+      {
+        "title": "Markets and crafts",
+        "text": "Maasai goods and local food."
+      },
+      {
+        "title": "Easy day trips",
+        "text": "Lake Duluti, waterfalls and coffee."
+      }
+    ]
+  },
+  "attractionsIntro": "The city and its surroundings can fill a couple of days.",
+  "attractions": [
+    {
+      "name": "Arusha National Park",
+      "image": {
+        "file": "File:Giraffes Arusha Tanzania.jpg",
+        "alt": "Giraffes in Arusha National Park"
+      },
+      "text": "Giraffes, buffalo, colobus monkeys and Ngurdoto Crater.",
+      "tip": "A walking safari is possible."
+    },
+    {
+      "name": "Momella Lakes",
+      "text": "A chain of lakes with flamingos.",
+      "tip": "Bring binoculars."
+    },
+    {
+      "name": "Mount Meru",
+      "image": {
+        "file": "File:The ridge of Mount Meru Tanzania.jpg",
+        "alt": "The ridge of Mount Meru"
+      },
+      "text": "A volcano climb through forest and ridge.",
+      "tip": "Climb with a ranger."
+    },
+    {
+      "name": "Arusha Clock Tower",
+      "image": {
+        "file": "File:Arusha Clock Tower with bodaboda.jpg",
+        "alt": "The Arusha clock tower with a motorbike taxi"
+      },
+      "text": "The geographic centre of Africa, jokingly.",
+      "tip": "A good meeting point."
+    },
+    {
+      "name": "Cultural Heritage Centre",
+      "text": "A big craft and art store with a gallery.",
+      "tip": "Browse before shopping at markets."
+    },
+    {
+      "name": "Lake Duluti",
+      "text": "A crater lake with canoeing and walks.",
+      "tip": "A quiet escape."
+    }
+  ],
+  "thingsToDoIntro": "Arusha makes a good base for half-day activities.",
+  "thingsToDo": [
+    {
+      "title": "Walk in Arusha National Park",
+      "text": "With an armed ranger.",
+      "tip": "Ask for the Little Meru trail."
+    },
+    {
+      "title": "Climb Mount Meru",
+      "text": "A 3 to 4 day trek.",
+      "tip": "A great Kilimanjaro warm-up."
+    },
+    {
+      "title": "Canoe on Momella Lakes",
+      "text": "A different view of wildlife.",
+      "tip": "Book in advance."
+    },
+    {
+      "title": "Visit a coffee farm",
+      "text": "Tour and taste.",
+      "tip": "Combine with Lake Duluti."
+    },
+    {
+      "title": "Shop at the markets",
+      "text": "Fruit, spices and fabrics.",
+      "tip": "Bargain politely."
+    },
+    {
+      "title": "Eat at local restaurants",
+      "text": "Try nyama choma and Swahili dishes.",
+      "tip": "Ask your hotel."
+    }
+  ],
+  "foodIntro": "Arusha has the widest range of restaurants in northern Tanzania.",
+  "foods": [
+    {
+      "name": "Nyama choma",
+      "text": "Grilled meat.",
+      "whereToTry": "Local joints."
+    },
+    {
+      "name": "Ugali and sukuma wiki",
+      "text": "Maize with greens.",
+      "whereToTry": "Local restaurants."
+    },
+    {
+      "name": "Mishkaki",
+      "text": "Skewered meat.",
+      "whereToTry": "Street stalls."
+    },
+    {
+      "name": "Pilau",
+      "text": "Spiced rice.",
+      "whereToTry": "Swahili restaurants."
+    },
+    {
+      "name": "Coffee",
+      "text": "Local beans.",
+      "whereToTry": "Cafes."
+    }
+  ],
+  "accommodation": {
+    "intro": "The city has good options at all budgets.",
+    "areas": [
+      {
+        "name": "City centre",
+        "bestFor": "Convenience",
+        "text": "Hotels near the clock tower."
+      },
+      {
+        "name": "Njiro and Sakina",
+        "bestFor": "Quiet",
+        "text": "Guesthouses and mid-range lodges."
+      },
+      {
+        "name": "Lake Duluti",
+        "bestFor": "Nature",
+        "text": "Lodges beside the lake."
+      },
+      {
+        "name": "Usa River",
+        "bestFor": "Relaxing",
+        "text": "Lodges near the airport."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel",
+        "value": "US$10-25 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "US$60-140 per night"
+      },
+      {
+        "label": "Boutique lodge",
+        "value": "US$150-300 per night"
+      },
+      {
+        "label": "Meal",
+        "value": "US$4-12 per person"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Arusha is the main hub for northern Tanzania.",
+    "options": [
+      {
+        "mode": "Fly to JRO",
+        "text": "About 45 minutes by shuttle or taxi.",
+        "detail": "The usual route."
+      },
+      {
+        "mode": "Fly to Arusha Airport",
+        "text": "Small domestic flights.",
+        "detail": "Used for charters."
+      },
+      {
+        "mode": "Bus from Nairobi",
+        "text": "About 6 to 7 hours.",
+        "detail": "Shuttles are popular."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Taxis and dala-dalas cover the city.",
+    "options": [
+      {
+        "mode": "Taxi",
+        "text": "Agree the fare.",
+        "detail": "Reliable and cheap."
+      },
+      {
+        "mode": "Dala-dala",
+        "text": "Minibuses.",
+        "detail": "Crowded but frequent."
+      },
+      {
+        "mode": "Bodaboda",
+        "text": "Motorbike taxis.",
+        "detail": "Wear a helmet."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June-October, January-February",
+    "summary": "Dry months are best for Mount Meru and the park.",
+    "seasons": [
+      {
+        "season": "June-October",
+        "rating": "best",
+        "text": "Dry and clear."
+      },
+      {
+        "season": "January-February",
+        "rating": "good",
+        "text": "Warm and dry."
+      },
+      {
+        "season": "March-May",
+        "rating": "avoid",
+        "text": "Long rains."
+      },
+      {
+        "season": "November-December",
+        "rating": "quiet",
+        "text": "Short rains."
+      }
+    ],
+    "avoid": "March to May, when rain makes hiking difficult."
+  },
+  "itinerary": {
+    "title": "Two days in Arusha",
+    "intro": "A city day and a park day.",
+    "days": [
+      {
+        "day": 1,
+        "title": "City and market",
+        "summary": "Settle in",
+        "morning": "Cultural Heritage Centre",
+        "afternoon": "Market and clock tower",
+        "evening": "Dinner of nyama choma"
+      },
+      {
+        "day": 2,
+        "title": "Arusha National Park",
+        "summary": "Giraffes and lakes",
+        "morning": "Early walk with a ranger",
+        "afternoon": "Momella Lakes",
+        "evening": "Return for dinner"
+      }
+    ]
+  },
+  "tipsIntro": "A few tips for your stay.",
+  "tips": [
+    "Stay a night before safaris to rest.",
+    "Avoid carrying valuables in the city.",
+    "Use official taxis.",
+    "Bargain politely in markets.",
+    "Check national park fees.",
+    "Carry cash for markets.",
+    "Book Meru climbs with a ranger."
+  ],
+  "faq": [
+    {
+      "q": "Is Arusha safe?",
+      "a": "Generally yes with normal care."
+    },
+    {
+      "q": "How long should I stay?",
+      "a": "One to two nights."
+    },
+    {
+      "q": "Is Meru hard?",
+      "a": "It is steep but doable."
+    },
+    {
+      "q": "Where do safaris start?",
+      "a": "Here."
+    },
+    {
+      "q": "Can I see Kilimanjaro?",
+      "a": "On clear days from the park."
+    },
+    {
+      "q": "What about the weather?",
+      "a": "Mild at altitude."
+    }
+  ],
+  "related": [
+    "kilimanjaro",
+    "serengeti",
+    "tarangire-manyara"
+  ],
+  "relatedArticles": [
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}
