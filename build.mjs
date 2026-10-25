@@ -68,24 +68,16 @@ function sitemap() {
   const entries = pages
     .filter((page) => !page.sitePath.endsWith('.html'))
     .map((page) => {
-      const image = page.image?.src
-        ? `
-    <image:image>
-      <image:loc>${xmlEscape(absolute(page.image.src))}</image:loc>${
-            page.image.alt ? `\n      <image:caption>${xmlEscape(page.image.alt)}</image:caption>` : ''
-          }
-    </image:image>`
-        : '';
       return `  <url>
     <loc>${xmlEscape(absolute(page.sitePath))}</loc>
     <lastmod>${BUILD_DATE}</lastmod>
     <changefreq>${page.changefreq}</changefreq>
-    <priority>${page.priority.toFixed(1)}</priority>${image}
+    <priority>${page.priority.toFixed(1)}</priority>
   </url>`;
     })
     .join('\n');
   return `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.sitemaps.org/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${entries}
 </urlset>
 `;
